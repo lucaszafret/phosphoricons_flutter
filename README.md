@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="phosphoricons.png" alt="Phosphor Icons for Flutter" width="100%">
+</p>
+
 # Phosphor Icons for Flutter
 
 🇧🇷 [Leia este documento em Português](README.pt-BR.md)
