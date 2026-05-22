@@ -1,0 +1,9 @@
+export 'src/phosphor_icon_data.dart';
+export 'src/phosphor_icon.dart';
+export 'src/phosphor_icons_regular.dart';
+export 'src/phosphor_icons_thin.dart';
+export 'src/phosphor_icons_light.dart';
+export 'src/phosphor_icons_bold.dart';
+export 'src/phosphor_icons_fill.dart';
+export 'src/phosphor_icons_duotone.dart';
+export 'src/phosphor_icons.dart';

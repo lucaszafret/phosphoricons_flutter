@@ -1,0 +1,18 @@
+# Pasta de compilação e caches do Flutter
+build/
+.dart_tool/
+.flutter-plugins/
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IDEs
+.idea/
+*.iml
+
+# Ferramentas internas de build (geração dos ícones)
+tool/
+phosphor-icons/
+
+# Arquivos utilitários de agentes de IA e CLI
+CLAUDE.md
+.antigravitycli/

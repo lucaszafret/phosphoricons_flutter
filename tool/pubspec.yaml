@@ -1,0 +1,6 @@
+name: phosphoricons_generator
+description: Script de geração de ícones para phosphoricons_flutter
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"

@@ -1,0 +1,46 @@
+name: phosphoricons_flutter
+description: "Phosphor Icons for Flutter — 1500+ icons in 6 styles (thin, light, regular, bold, fill, duotone). Dart 3.x compatible. Based on phosphor-icons/core v2.0.8."
+version: 1.0.0
+homepage: https://github.com/lucaszafret/phosphoricons_flutter
+repository: https://github.com/lucaszafret/phosphoricons_flutter
+issue_tracker: https://github.com/lucaszafret/phosphoricons_flutter/issues
+
+topics:
+  - icons
+  - phosphor
+  - ui
+  - design
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  fonts:
+    - family: PhosphorRegular
+      fonts:
+        - asset: lib/fonts/Phosphor.ttf
+    - family: PhosphorThin
+      fonts:
+        - asset: lib/fonts/Phosphor-Thin.ttf
+    - family: PhosphorLight
+      fonts:
+        - asset: lib/fonts/Phosphor-Light.ttf
+    - family: PhosphorBold
+      fonts:
+        - asset: lib/fonts/Phosphor-Bold.ttf
+    - family: PhosphorFill
+      fonts:
+        - asset: lib/fonts/Phosphor-Fill.ttf
+    - family: PhosphorDuotone
+      fonts:
+        - asset: lib/fonts/Phosphor-Duotone.ttf
