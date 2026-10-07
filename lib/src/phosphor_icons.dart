@@ -93,7 +93,8 @@ class PhosphorIcons {
   static const IconData addressBookTabsThin = PhosphorIconsThin.addressBookTabs;
 
   /// Shortcut for [PhosphorIconsLight.addressBookTabs]. [PT] Atalho para [PhosphorIconsLight.addressBookTabs].
-  static const IconData addressBookTabsLight = PhosphorIconsLight.addressBookTabs;
+  static const IconData addressBookTabsLight =
+      PhosphorIconsLight.addressBookTabs;
 
   /// Shortcut for [PhosphorIconsBold.addressBookTabs]. [PT] Atalho para [PhosphorIconsBold.addressBookTabs].
   static const IconData addressBookTabsBold = PhosphorIconsBold.addressBookTabs;
@@ -105,22 +106,28 @@ class PhosphorIcons {
   static const addressBookTabsDuotone = PhosphorIconsDuotone.addressBookTabs;
 
   /// Shortcut for [PhosphorIconsRegular.airTrafficControl]. [PT] Atalho para [PhosphorIconsRegular.airTrafficControl].
-  static const IconData airTrafficControl = PhosphorIconsRegular.airTrafficControl;
+  static const IconData airTrafficControl =
+      PhosphorIconsRegular.airTrafficControl;
 
   /// Shortcut for [PhosphorIconsThin.airTrafficControl]. [PT] Atalho para [PhosphorIconsThin.airTrafficControl].
-  static const IconData airTrafficControlThin = PhosphorIconsThin.airTrafficControl;
+  static const IconData airTrafficControlThin =
+      PhosphorIconsThin.airTrafficControl;
 
   /// Shortcut for [PhosphorIconsLight.airTrafficControl]. [PT] Atalho para [PhosphorIconsLight.airTrafficControl].
-  static const IconData airTrafficControlLight = PhosphorIconsLight.airTrafficControl;
+  static const IconData airTrafficControlLight =
+      PhosphorIconsLight.airTrafficControl;
 
   /// Shortcut for [PhosphorIconsBold.airTrafficControl]. [PT] Atalho para [PhosphorIconsBold.airTrafficControl].
-  static const IconData airTrafficControlBold = PhosphorIconsBold.airTrafficControl;
+  static const IconData airTrafficControlBold =
+      PhosphorIconsBold.airTrafficControl;
 
   /// Shortcut for [PhosphorIconsFill.airTrafficControl]. [PT] Atalho para [PhosphorIconsFill.airTrafficControl].
-  static const IconData airTrafficControlFill = PhosphorIconsFill.airTrafficControl;
+  static const IconData airTrafficControlFill =
+      PhosphorIconsFill.airTrafficControl;
 
   /// Shortcut for [PhosphorIconsDuotone.airTrafficControl]. [PT] Atalho para [PhosphorIconsDuotone.airTrafficControl].
-  static const airTrafficControlDuotone = PhosphorIconsDuotone.airTrafficControl;
+  static const airTrafficControlDuotone =
+      PhosphorIconsDuotone.airTrafficControl;
 
   /// Shortcut for [PhosphorIconsRegular.airplane]. [PT] Atalho para [PhosphorIconsRegular.airplane].
   static const IconData airplane = PhosphorIconsRegular.airplane;
@@ -141,19 +148,24 @@ class PhosphorIcons {
   static const airplaneDuotone = PhosphorIconsDuotone.airplane;
 
   /// Shortcut for [PhosphorIconsRegular.airplaneInFlight]. [PT] Atalho para [PhosphorIconsRegular.airplaneInFlight].
-  static const IconData airplaneInFlight = PhosphorIconsRegular.airplaneInFlight;
+  static const IconData airplaneInFlight =
+      PhosphorIconsRegular.airplaneInFlight;
 
   /// Shortcut for [PhosphorIconsThin.airplaneInFlight]. [PT] Atalho para [PhosphorIconsThin.airplaneInFlight].
-  static const IconData airplaneInFlightThin = PhosphorIconsThin.airplaneInFlight;
+  static const IconData airplaneInFlightThin =
+      PhosphorIconsThin.airplaneInFlight;
 
   /// Shortcut for [PhosphorIconsLight.airplaneInFlight]. [PT] Atalho para [PhosphorIconsLight.airplaneInFlight].
-  static const IconData airplaneInFlightLight = PhosphorIconsLight.airplaneInFlight;
+  static const IconData airplaneInFlightLight =
+      PhosphorIconsLight.airplaneInFlight;
 
   /// Shortcut for [PhosphorIconsBold.airplaneInFlight]. [PT] Atalho para [PhosphorIconsBold.airplaneInFlight].
-  static const IconData airplaneInFlightBold = PhosphorIconsBold.airplaneInFlight;
+  static const IconData airplaneInFlightBold =
+      PhosphorIconsBold.airplaneInFlight;
 
   /// Shortcut for [PhosphorIconsFill.airplaneInFlight]. [PT] Atalho para [PhosphorIconsFill.airplaneInFlight].
-  static const IconData airplaneInFlightFill = PhosphorIconsFill.airplaneInFlight;
+  static const IconData airplaneInFlightFill =
+      PhosphorIconsFill.airplaneInFlight;
 
   /// Shortcut for [PhosphorIconsDuotone.airplaneInFlight]. [PT] Atalho para [PhosphorIconsDuotone.airplaneInFlight].
   static const airplaneInFlightDuotone = PhosphorIconsDuotone.airplaneInFlight;
@@ -165,7 +177,8 @@ class PhosphorIcons {
   static const IconData airplaneLandingThin = PhosphorIconsThin.airplaneLanding;
 
   /// Shortcut for [PhosphorIconsLight.airplaneLanding]. [PT] Atalho para [PhosphorIconsLight.airplaneLanding].
-  static const IconData airplaneLandingLight = PhosphorIconsLight.airplaneLanding;
+  static const IconData airplaneLandingLight =
+      PhosphorIconsLight.airplaneLanding;
 
   /// Shortcut for [PhosphorIconsBold.airplaneLanding]. [PT] Atalho para [PhosphorIconsBold.airplaneLanding].
   static const IconData airplaneLandingBold = PhosphorIconsBold.airplaneLanding;
@@ -183,7 +196,8 @@ class PhosphorIcons {
   static const IconData airplaneTakeoffThin = PhosphorIconsThin.airplaneTakeoff;
 
   /// Shortcut for [PhosphorIconsLight.airplaneTakeoff]. [PT] Atalho para [PhosphorIconsLight.airplaneTakeoff].
-  static const IconData airplaneTakeoffLight = PhosphorIconsLight.airplaneTakeoff;
+  static const IconData airplaneTakeoffLight =
+      PhosphorIconsLight.airplaneTakeoff;
 
   /// Shortcut for [PhosphorIconsBold.airplaneTakeoff]. [PT] Atalho para [PhosphorIconsBold.airplaneTakeoff].
   static const IconData airplaneTakeoffBold = PhosphorIconsBold.airplaneTakeoff;
@@ -201,7 +215,8 @@ class PhosphorIcons {
   static const IconData airplaneTaxiingThin = PhosphorIconsThin.airplaneTaxiing;
 
   /// Shortcut for [PhosphorIconsLight.airplaneTaxiing]. [PT] Atalho para [PhosphorIconsLight.airplaneTaxiing].
-  static const IconData airplaneTaxiingLight = PhosphorIconsLight.airplaneTaxiing;
+  static const IconData airplaneTaxiingLight =
+      PhosphorIconsLight.airplaneTaxiing;
 
   /// Shortcut for [PhosphorIconsBold.airplaneTaxiing]. [PT] Atalho para [PhosphorIconsBold.airplaneTaxiing].
   static const IconData airplaneTaxiingBold = PhosphorIconsBold.airplaneTaxiing;
@@ -303,94 +318,124 @@ class PhosphorIcons {
   static const alignBottomDuotone = PhosphorIconsDuotone.alignBottom;
 
   /// Shortcut for [PhosphorIconsRegular.alignBottomSimple]. [PT] Atalho para [PhosphorIconsRegular.alignBottomSimple].
-  static const IconData alignBottomSimple = PhosphorIconsRegular.alignBottomSimple;
+  static const IconData alignBottomSimple =
+      PhosphorIconsRegular.alignBottomSimple;
 
   /// Shortcut for [PhosphorIconsThin.alignBottomSimple]. [PT] Atalho para [PhosphorIconsThin.alignBottomSimple].
-  static const IconData alignBottomSimpleThin = PhosphorIconsThin.alignBottomSimple;
+  static const IconData alignBottomSimpleThin =
+      PhosphorIconsThin.alignBottomSimple;
 
   /// Shortcut for [PhosphorIconsLight.alignBottomSimple]. [PT] Atalho para [PhosphorIconsLight.alignBottomSimple].
-  static const IconData alignBottomSimpleLight = PhosphorIconsLight.alignBottomSimple;
+  static const IconData alignBottomSimpleLight =
+      PhosphorIconsLight.alignBottomSimple;
 
   /// Shortcut for [PhosphorIconsBold.alignBottomSimple]. [PT] Atalho para [PhosphorIconsBold.alignBottomSimple].
-  static const IconData alignBottomSimpleBold = PhosphorIconsBold.alignBottomSimple;
+  static const IconData alignBottomSimpleBold =
+      PhosphorIconsBold.alignBottomSimple;
 
   /// Shortcut for [PhosphorIconsFill.alignBottomSimple]. [PT] Atalho para [PhosphorIconsFill.alignBottomSimple].
-  static const IconData alignBottomSimpleFill = PhosphorIconsFill.alignBottomSimple;
+  static const IconData alignBottomSimpleFill =
+      PhosphorIconsFill.alignBottomSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.alignBottomSimple]. [PT] Atalho para [PhosphorIconsDuotone.alignBottomSimple].
-  static const alignBottomSimpleDuotone = PhosphorIconsDuotone.alignBottomSimple;
+  static const alignBottomSimpleDuotone =
+      PhosphorIconsDuotone.alignBottomSimple;
 
   /// Shortcut for [PhosphorIconsRegular.alignCenterHorizontal]. [PT] Atalho para [PhosphorIconsRegular.alignCenterHorizontal].
-  static const IconData alignCenterHorizontal = PhosphorIconsRegular.alignCenterHorizontal;
+  static const IconData alignCenterHorizontal =
+      PhosphorIconsRegular.alignCenterHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.alignCenterHorizontal]. [PT] Atalho para [PhosphorIconsThin.alignCenterHorizontal].
-  static const IconData alignCenterHorizontalThin = PhosphorIconsThin.alignCenterHorizontal;
+  static const IconData alignCenterHorizontalThin =
+      PhosphorIconsThin.alignCenterHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.alignCenterHorizontal]. [PT] Atalho para [PhosphorIconsLight.alignCenterHorizontal].
-  static const IconData alignCenterHorizontalLight = PhosphorIconsLight.alignCenterHorizontal;
+  static const IconData alignCenterHorizontalLight =
+      PhosphorIconsLight.alignCenterHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.alignCenterHorizontal]. [PT] Atalho para [PhosphorIconsBold.alignCenterHorizontal].
-  static const IconData alignCenterHorizontalBold = PhosphorIconsBold.alignCenterHorizontal;
+  static const IconData alignCenterHorizontalBold =
+      PhosphorIconsBold.alignCenterHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.alignCenterHorizontal]. [PT] Atalho para [PhosphorIconsFill.alignCenterHorizontal].
-  static const IconData alignCenterHorizontalFill = PhosphorIconsFill.alignCenterHorizontal;
+  static const IconData alignCenterHorizontalFill =
+      PhosphorIconsFill.alignCenterHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.alignCenterHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.alignCenterHorizontal].
-  static const alignCenterHorizontalDuotone = PhosphorIconsDuotone.alignCenterHorizontal;
+  static const alignCenterHorizontalDuotone =
+      PhosphorIconsDuotone.alignCenterHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.alignCenterHorizontalSimple]. [PT] Atalho para [PhosphorIconsRegular.alignCenterHorizontalSimple].
-  static const IconData alignCenterHorizontalSimple = PhosphorIconsRegular.alignCenterHorizontalSimple;
+  static const IconData alignCenterHorizontalSimple =
+      PhosphorIconsRegular.alignCenterHorizontalSimple;
 
   /// Shortcut for [PhosphorIconsThin.alignCenterHorizontalSimple]. [PT] Atalho para [PhosphorIconsThin.alignCenterHorizontalSimple].
-  static const IconData alignCenterHorizontalSimpleThin = PhosphorIconsThin.alignCenterHorizontalSimple;
+  static const IconData alignCenterHorizontalSimpleThin =
+      PhosphorIconsThin.alignCenterHorizontalSimple;
 
   /// Shortcut for [PhosphorIconsLight.alignCenterHorizontalSimple]. [PT] Atalho para [PhosphorIconsLight.alignCenterHorizontalSimple].
-  static const IconData alignCenterHorizontalSimpleLight = PhosphorIconsLight.alignCenterHorizontalSimple;
+  static const IconData alignCenterHorizontalSimpleLight =
+      PhosphorIconsLight.alignCenterHorizontalSimple;
 
   /// Shortcut for [PhosphorIconsBold.alignCenterHorizontalSimple]. [PT] Atalho para [PhosphorIconsBold.alignCenterHorizontalSimple].
-  static const IconData alignCenterHorizontalSimpleBold = PhosphorIconsBold.alignCenterHorizontalSimple;
+  static const IconData alignCenterHorizontalSimpleBold =
+      PhosphorIconsBold.alignCenterHorizontalSimple;
 
   /// Shortcut for [PhosphorIconsFill.alignCenterHorizontalSimple]. [PT] Atalho para [PhosphorIconsFill.alignCenterHorizontalSimple].
-  static const IconData alignCenterHorizontalSimpleFill = PhosphorIconsFill.alignCenterHorizontalSimple;
+  static const IconData alignCenterHorizontalSimpleFill =
+      PhosphorIconsFill.alignCenterHorizontalSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.alignCenterHorizontalSimple]. [PT] Atalho para [PhosphorIconsDuotone.alignCenterHorizontalSimple].
-  static const alignCenterHorizontalSimpleDuotone = PhosphorIconsDuotone.alignCenterHorizontalSimple;
+  static const alignCenterHorizontalSimpleDuotone =
+      PhosphorIconsDuotone.alignCenterHorizontalSimple;
 
   /// Shortcut for [PhosphorIconsRegular.alignCenterVertical]. [PT] Atalho para [PhosphorIconsRegular.alignCenterVertical].
-  static const IconData alignCenterVertical = PhosphorIconsRegular.alignCenterVertical;
+  static const IconData alignCenterVertical =
+      PhosphorIconsRegular.alignCenterVertical;
 
   /// Shortcut for [PhosphorIconsThin.alignCenterVertical]. [PT] Atalho para [PhosphorIconsThin.alignCenterVertical].
-  static const IconData alignCenterVerticalThin = PhosphorIconsThin.alignCenterVertical;
+  static const IconData alignCenterVerticalThin =
+      PhosphorIconsThin.alignCenterVertical;
 
   /// Shortcut for [PhosphorIconsLight.alignCenterVertical]. [PT] Atalho para [PhosphorIconsLight.alignCenterVertical].
-  static const IconData alignCenterVerticalLight = PhosphorIconsLight.alignCenterVertical;
+  static const IconData alignCenterVerticalLight =
+      PhosphorIconsLight.alignCenterVertical;
 
   /// Shortcut for [PhosphorIconsBold.alignCenterVertical]. [PT] Atalho para [PhosphorIconsBold.alignCenterVertical].
-  static const IconData alignCenterVerticalBold = PhosphorIconsBold.alignCenterVertical;
+  static const IconData alignCenterVerticalBold =
+      PhosphorIconsBold.alignCenterVertical;
 
   /// Shortcut for [PhosphorIconsFill.alignCenterVertical]. [PT] Atalho para [PhosphorIconsFill.alignCenterVertical].
-  static const IconData alignCenterVerticalFill = PhosphorIconsFill.alignCenterVertical;
+  static const IconData alignCenterVerticalFill =
+      PhosphorIconsFill.alignCenterVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.alignCenterVertical]. [PT] Atalho para [PhosphorIconsDuotone.alignCenterVertical].
-  static const alignCenterVerticalDuotone = PhosphorIconsDuotone.alignCenterVertical;
+  static const alignCenterVerticalDuotone =
+      PhosphorIconsDuotone.alignCenterVertical;
 
   /// Shortcut for [PhosphorIconsRegular.alignCenterVerticalSimple]. [PT] Atalho para [PhosphorIconsRegular.alignCenterVerticalSimple].
-  static const IconData alignCenterVerticalSimple = PhosphorIconsRegular.alignCenterVerticalSimple;
+  static const IconData alignCenterVerticalSimple =
+      PhosphorIconsRegular.alignCenterVerticalSimple;
 
   /// Shortcut for [PhosphorIconsThin.alignCenterVerticalSimple]. [PT] Atalho para [PhosphorIconsThin.alignCenterVerticalSimple].
-  static const IconData alignCenterVerticalSimpleThin = PhosphorIconsThin.alignCenterVerticalSimple;
+  static const IconData alignCenterVerticalSimpleThin =
+      PhosphorIconsThin.alignCenterVerticalSimple;
 
   /// Shortcut for [PhosphorIconsLight.alignCenterVerticalSimple]. [PT] Atalho para [PhosphorIconsLight.alignCenterVerticalSimple].
-  static const IconData alignCenterVerticalSimpleLight = PhosphorIconsLight.alignCenterVerticalSimple;
+  static const IconData alignCenterVerticalSimpleLight =
+      PhosphorIconsLight.alignCenterVerticalSimple;
 
   /// Shortcut for [PhosphorIconsBold.alignCenterVerticalSimple]. [PT] Atalho para [PhosphorIconsBold.alignCenterVerticalSimple].
-  static const IconData alignCenterVerticalSimpleBold = PhosphorIconsBold.alignCenterVerticalSimple;
+  static const IconData alignCenterVerticalSimpleBold =
+      PhosphorIconsBold.alignCenterVerticalSimple;
 
   /// Shortcut for [PhosphorIconsFill.alignCenterVerticalSimple]. [PT] Atalho para [PhosphorIconsFill.alignCenterVerticalSimple].
-  static const IconData alignCenterVerticalSimpleFill = PhosphorIconsFill.alignCenterVerticalSimple;
+  static const IconData alignCenterVerticalSimpleFill =
+      PhosphorIconsFill.alignCenterVerticalSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.alignCenterVerticalSimple]. [PT] Atalho para [PhosphorIconsDuotone.alignCenterVerticalSimple].
-  static const alignCenterVerticalSimpleDuotone = PhosphorIconsDuotone.alignCenterVerticalSimple;
+  static const alignCenterVerticalSimpleDuotone =
+      PhosphorIconsDuotone.alignCenterVerticalSimple;
 
   /// Shortcut for [PhosphorIconsRegular.alignLeft]. [PT] Atalho para [PhosphorIconsRegular.alignLeft].
   static const IconData alignLeft = PhosphorIconsRegular.alignLeft;
@@ -417,7 +462,8 @@ class PhosphorIcons {
   static const IconData alignLeftSimpleThin = PhosphorIconsThin.alignLeftSimple;
 
   /// Shortcut for [PhosphorIconsLight.alignLeftSimple]. [PT] Atalho para [PhosphorIconsLight.alignLeftSimple].
-  static const IconData alignLeftSimpleLight = PhosphorIconsLight.alignLeftSimple;
+  static const IconData alignLeftSimpleLight =
+      PhosphorIconsLight.alignLeftSimple;
 
   /// Shortcut for [PhosphorIconsBold.alignLeftSimple]. [PT] Atalho para [PhosphorIconsBold.alignLeftSimple].
   static const IconData alignLeftSimpleBold = PhosphorIconsBold.alignLeftSimple;
@@ -447,19 +493,24 @@ class PhosphorIcons {
   static const alignRightDuotone = PhosphorIconsDuotone.alignRight;
 
   /// Shortcut for [PhosphorIconsRegular.alignRightSimple]. [PT] Atalho para [PhosphorIconsRegular.alignRightSimple].
-  static const IconData alignRightSimple = PhosphorIconsRegular.alignRightSimple;
+  static const IconData alignRightSimple =
+      PhosphorIconsRegular.alignRightSimple;
 
   /// Shortcut for [PhosphorIconsThin.alignRightSimple]. [PT] Atalho para [PhosphorIconsThin.alignRightSimple].
-  static const IconData alignRightSimpleThin = PhosphorIconsThin.alignRightSimple;
+  static const IconData alignRightSimpleThin =
+      PhosphorIconsThin.alignRightSimple;
 
   /// Shortcut for [PhosphorIconsLight.alignRightSimple]. [PT] Atalho para [PhosphorIconsLight.alignRightSimple].
-  static const IconData alignRightSimpleLight = PhosphorIconsLight.alignRightSimple;
+  static const IconData alignRightSimpleLight =
+      PhosphorIconsLight.alignRightSimple;
 
   /// Shortcut for [PhosphorIconsBold.alignRightSimple]. [PT] Atalho para [PhosphorIconsBold.alignRightSimple].
-  static const IconData alignRightSimpleBold = PhosphorIconsBold.alignRightSimple;
+  static const IconData alignRightSimpleBold =
+      PhosphorIconsBold.alignRightSimple;
 
   /// Shortcut for [PhosphorIconsFill.alignRightSimple]. [PT] Atalho para [PhosphorIconsFill.alignRightSimple].
-  static const IconData alignRightSimpleFill = PhosphorIconsFill.alignRightSimple;
+  static const IconData alignRightSimpleFill =
+      PhosphorIconsFill.alignRightSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.alignRightSimple]. [PT] Atalho para [PhosphorIconsDuotone.alignRightSimple].
   static const alignRightSimpleDuotone = PhosphorIconsDuotone.alignRightSimple;
@@ -699,40 +750,52 @@ class PhosphorIcons {
   static const appleLogoDuotone = PhosphorIconsDuotone.appleLogo;
 
   /// Shortcut for [PhosphorIconsRegular.applePodcastsLogo]. [PT] Atalho para [PhosphorIconsRegular.applePodcastsLogo].
-  static const IconData applePodcastsLogo = PhosphorIconsRegular.applePodcastsLogo;
+  static const IconData applePodcastsLogo =
+      PhosphorIconsRegular.applePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsThin.applePodcastsLogo]. [PT] Atalho para [PhosphorIconsThin.applePodcastsLogo].
-  static const IconData applePodcastsLogoThin = PhosphorIconsThin.applePodcastsLogo;
+  static const IconData applePodcastsLogoThin =
+      PhosphorIconsThin.applePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsLight.applePodcastsLogo]. [PT] Atalho para [PhosphorIconsLight.applePodcastsLogo].
-  static const IconData applePodcastsLogoLight = PhosphorIconsLight.applePodcastsLogo;
+  static const IconData applePodcastsLogoLight =
+      PhosphorIconsLight.applePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsBold.applePodcastsLogo]. [PT] Atalho para [PhosphorIconsBold.applePodcastsLogo].
-  static const IconData applePodcastsLogoBold = PhosphorIconsBold.applePodcastsLogo;
+  static const IconData applePodcastsLogoBold =
+      PhosphorIconsBold.applePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsFill.applePodcastsLogo]. [PT] Atalho para [PhosphorIconsFill.applePodcastsLogo].
-  static const IconData applePodcastsLogoFill = PhosphorIconsFill.applePodcastsLogo;
+  static const IconData applePodcastsLogoFill =
+      PhosphorIconsFill.applePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.applePodcastsLogo]. [PT] Atalho para [PhosphorIconsDuotone.applePodcastsLogo].
-  static const applePodcastsLogoDuotone = PhosphorIconsDuotone.applePodcastsLogo;
+  static const applePodcastsLogoDuotone =
+      PhosphorIconsDuotone.applePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsRegular.approximateEquals]. [PT] Atalho para [PhosphorIconsRegular.approximateEquals].
-  static const IconData approximateEquals = PhosphorIconsRegular.approximateEquals;
+  static const IconData approximateEquals =
+      PhosphorIconsRegular.approximateEquals;
 
   /// Shortcut for [PhosphorIconsThin.approximateEquals]. [PT] Atalho para [PhosphorIconsThin.approximateEquals].
-  static const IconData approximateEqualsThin = PhosphorIconsThin.approximateEquals;
+  static const IconData approximateEqualsThin =
+      PhosphorIconsThin.approximateEquals;
 
   /// Shortcut for [PhosphorIconsLight.approximateEquals]. [PT] Atalho para [PhosphorIconsLight.approximateEquals].
-  static const IconData approximateEqualsLight = PhosphorIconsLight.approximateEquals;
+  static const IconData approximateEqualsLight =
+      PhosphorIconsLight.approximateEquals;
 
   /// Shortcut for [PhosphorIconsBold.approximateEquals]. [PT] Atalho para [PhosphorIconsBold.approximateEquals].
-  static const IconData approximateEqualsBold = PhosphorIconsBold.approximateEquals;
+  static const IconData approximateEqualsBold =
+      PhosphorIconsBold.approximateEquals;
 
   /// Shortcut for [PhosphorIconsFill.approximateEquals]. [PT] Atalho para [PhosphorIconsFill.approximateEquals].
-  static const IconData approximateEqualsFill = PhosphorIconsFill.approximateEquals;
+  static const IconData approximateEqualsFill =
+      PhosphorIconsFill.approximateEquals;
 
   /// Shortcut for [PhosphorIconsDuotone.approximateEquals]. [PT] Atalho para [PhosphorIconsDuotone.approximateEquals].
-  static const approximateEqualsDuotone = PhosphorIconsDuotone.approximateEquals;
+  static const approximateEqualsDuotone =
+      PhosphorIconsDuotone.approximateEquals;
 
   /// Shortcut for [PhosphorIconsRegular.archive]. [PT] Atalho para [PhosphorIconsRegular.archive].
   static const IconData archive = PhosphorIconsRegular.archive;
@@ -843,94 +906,124 @@ class PhosphorIcons {
   static const arrowArcRightDuotone = PhosphorIconsDuotone.arrowArcRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendDoubleUpLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowBendDoubleUpLeft].
-  static const IconData arrowBendDoubleUpLeft = PhosphorIconsRegular.arrowBendDoubleUpLeft;
+  static const IconData arrowBendDoubleUpLeft =
+      PhosphorIconsRegular.arrowBendDoubleUpLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendDoubleUpLeft]. [PT] Atalho para [PhosphorIconsThin.arrowBendDoubleUpLeft].
-  static const IconData arrowBendDoubleUpLeftThin = PhosphorIconsThin.arrowBendDoubleUpLeft;
+  static const IconData arrowBendDoubleUpLeftThin =
+      PhosphorIconsThin.arrowBendDoubleUpLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendDoubleUpLeft]. [PT] Atalho para [PhosphorIconsLight.arrowBendDoubleUpLeft].
-  static const IconData arrowBendDoubleUpLeftLight = PhosphorIconsLight.arrowBendDoubleUpLeft;
+  static const IconData arrowBendDoubleUpLeftLight =
+      PhosphorIconsLight.arrowBendDoubleUpLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendDoubleUpLeft]. [PT] Atalho para [PhosphorIconsBold.arrowBendDoubleUpLeft].
-  static const IconData arrowBendDoubleUpLeftBold = PhosphorIconsBold.arrowBendDoubleUpLeft;
+  static const IconData arrowBendDoubleUpLeftBold =
+      PhosphorIconsBold.arrowBendDoubleUpLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendDoubleUpLeft]. [PT] Atalho para [PhosphorIconsFill.arrowBendDoubleUpLeft].
-  static const IconData arrowBendDoubleUpLeftFill = PhosphorIconsFill.arrowBendDoubleUpLeft;
+  static const IconData arrowBendDoubleUpLeftFill =
+      PhosphorIconsFill.arrowBendDoubleUpLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendDoubleUpLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendDoubleUpLeft].
-  static const arrowBendDoubleUpLeftDuotone = PhosphorIconsDuotone.arrowBendDoubleUpLeft;
+  static const arrowBendDoubleUpLeftDuotone =
+      PhosphorIconsDuotone.arrowBendDoubleUpLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendDoubleUpRight]. [PT] Atalho para [PhosphorIconsRegular.arrowBendDoubleUpRight].
-  static const IconData arrowBendDoubleUpRight = PhosphorIconsRegular.arrowBendDoubleUpRight;
+  static const IconData arrowBendDoubleUpRight =
+      PhosphorIconsRegular.arrowBendDoubleUpRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendDoubleUpRight]. [PT] Atalho para [PhosphorIconsThin.arrowBendDoubleUpRight].
-  static const IconData arrowBendDoubleUpRightThin = PhosphorIconsThin.arrowBendDoubleUpRight;
+  static const IconData arrowBendDoubleUpRightThin =
+      PhosphorIconsThin.arrowBendDoubleUpRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendDoubleUpRight]. [PT] Atalho para [PhosphorIconsLight.arrowBendDoubleUpRight].
-  static const IconData arrowBendDoubleUpRightLight = PhosphorIconsLight.arrowBendDoubleUpRight;
+  static const IconData arrowBendDoubleUpRightLight =
+      PhosphorIconsLight.arrowBendDoubleUpRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendDoubleUpRight]. [PT] Atalho para [PhosphorIconsBold.arrowBendDoubleUpRight].
-  static const IconData arrowBendDoubleUpRightBold = PhosphorIconsBold.arrowBendDoubleUpRight;
+  static const IconData arrowBendDoubleUpRightBold =
+      PhosphorIconsBold.arrowBendDoubleUpRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendDoubleUpRight]. [PT] Atalho para [PhosphorIconsFill.arrowBendDoubleUpRight].
-  static const IconData arrowBendDoubleUpRightFill = PhosphorIconsFill.arrowBendDoubleUpRight;
+  static const IconData arrowBendDoubleUpRightFill =
+      PhosphorIconsFill.arrowBendDoubleUpRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendDoubleUpRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendDoubleUpRight].
-  static const arrowBendDoubleUpRightDuotone = PhosphorIconsDuotone.arrowBendDoubleUpRight;
+  static const arrowBendDoubleUpRightDuotone =
+      PhosphorIconsDuotone.arrowBendDoubleUpRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendDownLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowBendDownLeft].
-  static const IconData arrowBendDownLeft = PhosphorIconsRegular.arrowBendDownLeft;
+  static const IconData arrowBendDownLeft =
+      PhosphorIconsRegular.arrowBendDownLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendDownLeft]. [PT] Atalho para [PhosphorIconsThin.arrowBendDownLeft].
-  static const IconData arrowBendDownLeftThin = PhosphorIconsThin.arrowBendDownLeft;
+  static const IconData arrowBendDownLeftThin =
+      PhosphorIconsThin.arrowBendDownLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendDownLeft]. [PT] Atalho para [PhosphorIconsLight.arrowBendDownLeft].
-  static const IconData arrowBendDownLeftLight = PhosphorIconsLight.arrowBendDownLeft;
+  static const IconData arrowBendDownLeftLight =
+      PhosphorIconsLight.arrowBendDownLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendDownLeft]. [PT] Atalho para [PhosphorIconsBold.arrowBendDownLeft].
-  static const IconData arrowBendDownLeftBold = PhosphorIconsBold.arrowBendDownLeft;
+  static const IconData arrowBendDownLeftBold =
+      PhosphorIconsBold.arrowBendDownLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendDownLeft]. [PT] Atalho para [PhosphorIconsFill.arrowBendDownLeft].
-  static const IconData arrowBendDownLeftFill = PhosphorIconsFill.arrowBendDownLeft;
+  static const IconData arrowBendDownLeftFill =
+      PhosphorIconsFill.arrowBendDownLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendDownLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendDownLeft].
-  static const arrowBendDownLeftDuotone = PhosphorIconsDuotone.arrowBendDownLeft;
+  static const arrowBendDownLeftDuotone =
+      PhosphorIconsDuotone.arrowBendDownLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendDownRight]. [PT] Atalho para [PhosphorIconsRegular.arrowBendDownRight].
-  static const IconData arrowBendDownRight = PhosphorIconsRegular.arrowBendDownRight;
+  static const IconData arrowBendDownRight =
+      PhosphorIconsRegular.arrowBendDownRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendDownRight]. [PT] Atalho para [PhosphorIconsThin.arrowBendDownRight].
-  static const IconData arrowBendDownRightThin = PhosphorIconsThin.arrowBendDownRight;
+  static const IconData arrowBendDownRightThin =
+      PhosphorIconsThin.arrowBendDownRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendDownRight]. [PT] Atalho para [PhosphorIconsLight.arrowBendDownRight].
-  static const IconData arrowBendDownRightLight = PhosphorIconsLight.arrowBendDownRight;
+  static const IconData arrowBendDownRightLight =
+      PhosphorIconsLight.arrowBendDownRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendDownRight]. [PT] Atalho para [PhosphorIconsBold.arrowBendDownRight].
-  static const IconData arrowBendDownRightBold = PhosphorIconsBold.arrowBendDownRight;
+  static const IconData arrowBendDownRightBold =
+      PhosphorIconsBold.arrowBendDownRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendDownRight]. [PT] Atalho para [PhosphorIconsFill.arrowBendDownRight].
-  static const IconData arrowBendDownRightFill = PhosphorIconsFill.arrowBendDownRight;
+  static const IconData arrowBendDownRightFill =
+      PhosphorIconsFill.arrowBendDownRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendDownRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendDownRight].
-  static const arrowBendDownRightDuotone = PhosphorIconsDuotone.arrowBendDownRight;
+  static const arrowBendDownRightDuotone =
+      PhosphorIconsDuotone.arrowBendDownRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendLeftDown]. [PT] Atalho para [PhosphorIconsRegular.arrowBendLeftDown].
-  static const IconData arrowBendLeftDown = PhosphorIconsRegular.arrowBendLeftDown;
+  static const IconData arrowBendLeftDown =
+      PhosphorIconsRegular.arrowBendLeftDown;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendLeftDown]. [PT] Atalho para [PhosphorIconsThin.arrowBendLeftDown].
-  static const IconData arrowBendLeftDownThin = PhosphorIconsThin.arrowBendLeftDown;
+  static const IconData arrowBendLeftDownThin =
+      PhosphorIconsThin.arrowBendLeftDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendLeftDown]. [PT] Atalho para [PhosphorIconsLight.arrowBendLeftDown].
-  static const IconData arrowBendLeftDownLight = PhosphorIconsLight.arrowBendLeftDown;
+  static const IconData arrowBendLeftDownLight =
+      PhosphorIconsLight.arrowBendLeftDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendLeftDown]. [PT] Atalho para [PhosphorIconsBold.arrowBendLeftDown].
-  static const IconData arrowBendLeftDownBold = PhosphorIconsBold.arrowBendLeftDown;
+  static const IconData arrowBendLeftDownBold =
+      PhosphorIconsBold.arrowBendLeftDown;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendLeftDown]. [PT] Atalho para [PhosphorIconsFill.arrowBendLeftDown].
-  static const IconData arrowBendLeftDownFill = PhosphorIconsFill.arrowBendLeftDown;
+  static const IconData arrowBendLeftDownFill =
+      PhosphorIconsFill.arrowBendLeftDown;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendLeftDown]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendLeftDown].
-  static const arrowBendLeftDownDuotone = PhosphorIconsDuotone.arrowBendLeftDown;
+  static const arrowBendLeftDownDuotone =
+      PhosphorIconsDuotone.arrowBendLeftDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendLeftUp]. [PT] Atalho para [PhosphorIconsRegular.arrowBendLeftUp].
   static const IconData arrowBendLeftUp = PhosphorIconsRegular.arrowBendLeftUp;
@@ -939,7 +1032,8 @@ class PhosphorIcons {
   static const IconData arrowBendLeftUpThin = PhosphorIconsThin.arrowBendLeftUp;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendLeftUp]. [PT] Atalho para [PhosphorIconsLight.arrowBendLeftUp].
-  static const IconData arrowBendLeftUpLight = PhosphorIconsLight.arrowBendLeftUp;
+  static const IconData arrowBendLeftUpLight =
+      PhosphorIconsLight.arrowBendLeftUp;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendLeftUp]. [PT] Atalho para [PhosphorIconsBold.arrowBendLeftUp].
   static const IconData arrowBendLeftUpBold = PhosphorIconsBold.arrowBendLeftUp;
@@ -951,37 +1045,48 @@ class PhosphorIcons {
   static const arrowBendLeftUpDuotone = PhosphorIconsDuotone.arrowBendLeftUp;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendRightDown]. [PT] Atalho para [PhosphorIconsRegular.arrowBendRightDown].
-  static const IconData arrowBendRightDown = PhosphorIconsRegular.arrowBendRightDown;
+  static const IconData arrowBendRightDown =
+      PhosphorIconsRegular.arrowBendRightDown;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendRightDown]. [PT] Atalho para [PhosphorIconsThin.arrowBendRightDown].
-  static const IconData arrowBendRightDownThin = PhosphorIconsThin.arrowBendRightDown;
+  static const IconData arrowBendRightDownThin =
+      PhosphorIconsThin.arrowBendRightDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendRightDown]. [PT] Atalho para [PhosphorIconsLight.arrowBendRightDown].
-  static const IconData arrowBendRightDownLight = PhosphorIconsLight.arrowBendRightDown;
+  static const IconData arrowBendRightDownLight =
+      PhosphorIconsLight.arrowBendRightDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendRightDown]. [PT] Atalho para [PhosphorIconsBold.arrowBendRightDown].
-  static const IconData arrowBendRightDownBold = PhosphorIconsBold.arrowBendRightDown;
+  static const IconData arrowBendRightDownBold =
+      PhosphorIconsBold.arrowBendRightDown;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendRightDown]. [PT] Atalho para [PhosphorIconsFill.arrowBendRightDown].
-  static const IconData arrowBendRightDownFill = PhosphorIconsFill.arrowBendRightDown;
+  static const IconData arrowBendRightDownFill =
+      PhosphorIconsFill.arrowBendRightDown;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendRightDown]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendRightDown].
-  static const arrowBendRightDownDuotone = PhosphorIconsDuotone.arrowBendRightDown;
+  static const arrowBendRightDownDuotone =
+      PhosphorIconsDuotone.arrowBendRightDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendRightUp]. [PT] Atalho para [PhosphorIconsRegular.arrowBendRightUp].
-  static const IconData arrowBendRightUp = PhosphorIconsRegular.arrowBendRightUp;
+  static const IconData arrowBendRightUp =
+      PhosphorIconsRegular.arrowBendRightUp;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendRightUp]. [PT] Atalho para [PhosphorIconsThin.arrowBendRightUp].
-  static const IconData arrowBendRightUpThin = PhosphorIconsThin.arrowBendRightUp;
+  static const IconData arrowBendRightUpThin =
+      PhosphorIconsThin.arrowBendRightUp;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendRightUp]. [PT] Atalho para [PhosphorIconsLight.arrowBendRightUp].
-  static const IconData arrowBendRightUpLight = PhosphorIconsLight.arrowBendRightUp;
+  static const IconData arrowBendRightUpLight =
+      PhosphorIconsLight.arrowBendRightUp;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendRightUp]. [PT] Atalho para [PhosphorIconsBold.arrowBendRightUp].
-  static const IconData arrowBendRightUpBold = PhosphorIconsBold.arrowBendRightUp;
+  static const IconData arrowBendRightUpBold =
+      PhosphorIconsBold.arrowBendRightUp;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendRightUp]. [PT] Atalho para [PhosphorIconsFill.arrowBendRightUp].
-  static const IconData arrowBendRightUpFill = PhosphorIconsFill.arrowBendRightUp;
+  static const IconData arrowBendRightUpFill =
+      PhosphorIconsFill.arrowBendRightUp;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendRightUp]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendRightUp].
   static const arrowBendRightUpDuotone = PhosphorIconsDuotone.arrowBendRightUp;
@@ -993,7 +1098,8 @@ class PhosphorIcons {
   static const IconData arrowBendUpLeftThin = PhosphorIconsThin.arrowBendUpLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendUpLeft]. [PT] Atalho para [PhosphorIconsLight.arrowBendUpLeft].
-  static const IconData arrowBendUpLeftLight = PhosphorIconsLight.arrowBendUpLeft;
+  static const IconData arrowBendUpLeftLight =
+      PhosphorIconsLight.arrowBendUpLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendUpLeft]. [PT] Atalho para [PhosphorIconsBold.arrowBendUpLeft].
   static const IconData arrowBendUpLeftBold = PhosphorIconsBold.arrowBendUpLeft;
@@ -1005,19 +1111,24 @@ class PhosphorIcons {
   static const arrowBendUpLeftDuotone = PhosphorIconsDuotone.arrowBendUpLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowBendUpRight]. [PT] Atalho para [PhosphorIconsRegular.arrowBendUpRight].
-  static const IconData arrowBendUpRight = PhosphorIconsRegular.arrowBendUpRight;
+  static const IconData arrowBendUpRight =
+      PhosphorIconsRegular.arrowBendUpRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowBendUpRight]. [PT] Atalho para [PhosphorIconsThin.arrowBendUpRight].
-  static const IconData arrowBendUpRightThin = PhosphorIconsThin.arrowBendUpRight;
+  static const IconData arrowBendUpRightThin =
+      PhosphorIconsThin.arrowBendUpRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowBendUpRight]. [PT] Atalho para [PhosphorIconsLight.arrowBendUpRight].
-  static const IconData arrowBendUpRightLight = PhosphorIconsLight.arrowBendUpRight;
+  static const IconData arrowBendUpRightLight =
+      PhosphorIconsLight.arrowBendUpRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowBendUpRight]. [PT] Atalho para [PhosphorIconsBold.arrowBendUpRight].
-  static const IconData arrowBendUpRightBold = PhosphorIconsBold.arrowBendUpRight;
+  static const IconData arrowBendUpRightBold =
+      PhosphorIconsBold.arrowBendUpRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowBendUpRight]. [PT] Atalho para [PhosphorIconsFill.arrowBendUpRight].
-  static const IconData arrowBendUpRightFill = PhosphorIconsFill.arrowBendUpRight;
+  static const IconData arrowBendUpRightFill =
+      PhosphorIconsFill.arrowBendUpRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowBendUpRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowBendUpRight].
   static const arrowBendUpRightDuotone = PhosphorIconsDuotone.arrowBendUpRight;
@@ -1029,7 +1140,8 @@ class PhosphorIcons {
   static const IconData arrowCircleDownThin = PhosphorIconsThin.arrowCircleDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowCircleDown]. [PT] Atalho para [PhosphorIconsLight.arrowCircleDown].
-  static const IconData arrowCircleDownLight = PhosphorIconsLight.arrowCircleDown;
+  static const IconData arrowCircleDownLight =
+      PhosphorIconsLight.arrowCircleDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowCircleDown]. [PT] Atalho para [PhosphorIconsBold.arrowCircleDown].
   static const IconData arrowCircleDownBold = PhosphorIconsBold.arrowCircleDown;
@@ -1041,40 +1153,52 @@ class PhosphorIcons {
   static const arrowCircleDownDuotone = PhosphorIconsDuotone.arrowCircleDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowCircleDownLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowCircleDownLeft].
-  static const IconData arrowCircleDownLeft = PhosphorIconsRegular.arrowCircleDownLeft;
+  static const IconData arrowCircleDownLeft =
+      PhosphorIconsRegular.arrowCircleDownLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowCircleDownLeft]. [PT] Atalho para [PhosphorIconsThin.arrowCircleDownLeft].
-  static const IconData arrowCircleDownLeftThin = PhosphorIconsThin.arrowCircleDownLeft;
+  static const IconData arrowCircleDownLeftThin =
+      PhosphorIconsThin.arrowCircleDownLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowCircleDownLeft]. [PT] Atalho para [PhosphorIconsLight.arrowCircleDownLeft].
-  static const IconData arrowCircleDownLeftLight = PhosphorIconsLight.arrowCircleDownLeft;
+  static const IconData arrowCircleDownLeftLight =
+      PhosphorIconsLight.arrowCircleDownLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowCircleDownLeft]. [PT] Atalho para [PhosphorIconsBold.arrowCircleDownLeft].
-  static const IconData arrowCircleDownLeftBold = PhosphorIconsBold.arrowCircleDownLeft;
+  static const IconData arrowCircleDownLeftBold =
+      PhosphorIconsBold.arrowCircleDownLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowCircleDownLeft]. [PT] Atalho para [PhosphorIconsFill.arrowCircleDownLeft].
-  static const IconData arrowCircleDownLeftFill = PhosphorIconsFill.arrowCircleDownLeft;
+  static const IconData arrowCircleDownLeftFill =
+      PhosphorIconsFill.arrowCircleDownLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowCircleDownLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowCircleDownLeft].
-  static const arrowCircleDownLeftDuotone = PhosphorIconsDuotone.arrowCircleDownLeft;
+  static const arrowCircleDownLeftDuotone =
+      PhosphorIconsDuotone.arrowCircleDownLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowCircleDownRight]. [PT] Atalho para [PhosphorIconsRegular.arrowCircleDownRight].
-  static const IconData arrowCircleDownRight = PhosphorIconsRegular.arrowCircleDownRight;
+  static const IconData arrowCircleDownRight =
+      PhosphorIconsRegular.arrowCircleDownRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowCircleDownRight]. [PT] Atalho para [PhosphorIconsThin.arrowCircleDownRight].
-  static const IconData arrowCircleDownRightThin = PhosphorIconsThin.arrowCircleDownRight;
+  static const IconData arrowCircleDownRightThin =
+      PhosphorIconsThin.arrowCircleDownRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowCircleDownRight]. [PT] Atalho para [PhosphorIconsLight.arrowCircleDownRight].
-  static const IconData arrowCircleDownRightLight = PhosphorIconsLight.arrowCircleDownRight;
+  static const IconData arrowCircleDownRightLight =
+      PhosphorIconsLight.arrowCircleDownRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowCircleDownRight]. [PT] Atalho para [PhosphorIconsBold.arrowCircleDownRight].
-  static const IconData arrowCircleDownRightBold = PhosphorIconsBold.arrowCircleDownRight;
+  static const IconData arrowCircleDownRightBold =
+      PhosphorIconsBold.arrowCircleDownRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowCircleDownRight]. [PT] Atalho para [PhosphorIconsFill.arrowCircleDownRight].
-  static const IconData arrowCircleDownRightFill = PhosphorIconsFill.arrowCircleDownRight;
+  static const IconData arrowCircleDownRightFill =
+      PhosphorIconsFill.arrowCircleDownRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowCircleDownRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowCircleDownRight].
-  static const arrowCircleDownRightDuotone = PhosphorIconsDuotone.arrowCircleDownRight;
+  static const arrowCircleDownRightDuotone =
+      PhosphorIconsDuotone.arrowCircleDownRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowCircleLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowCircleLeft].
   static const IconData arrowCircleLeft = PhosphorIconsRegular.arrowCircleLeft;
@@ -1083,7 +1207,8 @@ class PhosphorIcons {
   static const IconData arrowCircleLeftThin = PhosphorIconsThin.arrowCircleLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowCircleLeft]. [PT] Atalho para [PhosphorIconsLight.arrowCircleLeft].
-  static const IconData arrowCircleLeftLight = PhosphorIconsLight.arrowCircleLeft;
+  static const IconData arrowCircleLeftLight =
+      PhosphorIconsLight.arrowCircleLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowCircleLeft]. [PT] Atalho para [PhosphorIconsBold.arrowCircleLeft].
   static const IconData arrowCircleLeftBold = PhosphorIconsBold.arrowCircleLeft;
@@ -1095,19 +1220,24 @@ class PhosphorIcons {
   static const arrowCircleLeftDuotone = PhosphorIconsDuotone.arrowCircleLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowCircleRight]. [PT] Atalho para [PhosphorIconsRegular.arrowCircleRight].
-  static const IconData arrowCircleRight = PhosphorIconsRegular.arrowCircleRight;
+  static const IconData arrowCircleRight =
+      PhosphorIconsRegular.arrowCircleRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowCircleRight]. [PT] Atalho para [PhosphorIconsThin.arrowCircleRight].
-  static const IconData arrowCircleRightThin = PhosphorIconsThin.arrowCircleRight;
+  static const IconData arrowCircleRightThin =
+      PhosphorIconsThin.arrowCircleRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowCircleRight]. [PT] Atalho para [PhosphorIconsLight.arrowCircleRight].
-  static const IconData arrowCircleRightLight = PhosphorIconsLight.arrowCircleRight;
+  static const IconData arrowCircleRightLight =
+      PhosphorIconsLight.arrowCircleRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowCircleRight]. [PT] Atalho para [PhosphorIconsBold.arrowCircleRight].
-  static const IconData arrowCircleRightBold = PhosphorIconsBold.arrowCircleRight;
+  static const IconData arrowCircleRightBold =
+      PhosphorIconsBold.arrowCircleRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowCircleRight]. [PT] Atalho para [PhosphorIconsFill.arrowCircleRight].
-  static const IconData arrowCircleRightFill = PhosphorIconsFill.arrowCircleRight;
+  static const IconData arrowCircleRightFill =
+      PhosphorIconsFill.arrowCircleRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowCircleRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowCircleRight].
   static const arrowCircleRightDuotone = PhosphorIconsDuotone.arrowCircleRight;
@@ -1131,40 +1261,52 @@ class PhosphorIcons {
   static const arrowCircleUpDuotone = PhosphorIconsDuotone.arrowCircleUp;
 
   /// Shortcut for [PhosphorIconsRegular.arrowCircleUpLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowCircleUpLeft].
-  static const IconData arrowCircleUpLeft = PhosphorIconsRegular.arrowCircleUpLeft;
+  static const IconData arrowCircleUpLeft =
+      PhosphorIconsRegular.arrowCircleUpLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowCircleUpLeft]. [PT] Atalho para [PhosphorIconsThin.arrowCircleUpLeft].
-  static const IconData arrowCircleUpLeftThin = PhosphorIconsThin.arrowCircleUpLeft;
+  static const IconData arrowCircleUpLeftThin =
+      PhosphorIconsThin.arrowCircleUpLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowCircleUpLeft]. [PT] Atalho para [PhosphorIconsLight.arrowCircleUpLeft].
-  static const IconData arrowCircleUpLeftLight = PhosphorIconsLight.arrowCircleUpLeft;
+  static const IconData arrowCircleUpLeftLight =
+      PhosphorIconsLight.arrowCircleUpLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowCircleUpLeft]. [PT] Atalho para [PhosphorIconsBold.arrowCircleUpLeft].
-  static const IconData arrowCircleUpLeftBold = PhosphorIconsBold.arrowCircleUpLeft;
+  static const IconData arrowCircleUpLeftBold =
+      PhosphorIconsBold.arrowCircleUpLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowCircleUpLeft]. [PT] Atalho para [PhosphorIconsFill.arrowCircleUpLeft].
-  static const IconData arrowCircleUpLeftFill = PhosphorIconsFill.arrowCircleUpLeft;
+  static const IconData arrowCircleUpLeftFill =
+      PhosphorIconsFill.arrowCircleUpLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowCircleUpLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowCircleUpLeft].
-  static const arrowCircleUpLeftDuotone = PhosphorIconsDuotone.arrowCircleUpLeft;
+  static const arrowCircleUpLeftDuotone =
+      PhosphorIconsDuotone.arrowCircleUpLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowCircleUpRight]. [PT] Atalho para [PhosphorIconsRegular.arrowCircleUpRight].
-  static const IconData arrowCircleUpRight = PhosphorIconsRegular.arrowCircleUpRight;
+  static const IconData arrowCircleUpRight =
+      PhosphorIconsRegular.arrowCircleUpRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowCircleUpRight]. [PT] Atalho para [PhosphorIconsThin.arrowCircleUpRight].
-  static const IconData arrowCircleUpRightThin = PhosphorIconsThin.arrowCircleUpRight;
+  static const IconData arrowCircleUpRightThin =
+      PhosphorIconsThin.arrowCircleUpRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowCircleUpRight]. [PT] Atalho para [PhosphorIconsLight.arrowCircleUpRight].
-  static const IconData arrowCircleUpRightLight = PhosphorIconsLight.arrowCircleUpRight;
+  static const IconData arrowCircleUpRightLight =
+      PhosphorIconsLight.arrowCircleUpRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowCircleUpRight]. [PT] Atalho para [PhosphorIconsBold.arrowCircleUpRight].
-  static const IconData arrowCircleUpRightBold = PhosphorIconsBold.arrowCircleUpRight;
+  static const IconData arrowCircleUpRightBold =
+      PhosphorIconsBold.arrowCircleUpRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowCircleUpRight]. [PT] Atalho para [PhosphorIconsFill.arrowCircleUpRight].
-  static const IconData arrowCircleUpRightFill = PhosphorIconsFill.arrowCircleUpRight;
+  static const IconData arrowCircleUpRightFill =
+      PhosphorIconsFill.arrowCircleUpRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowCircleUpRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowCircleUpRight].
-  static const arrowCircleUpRightDuotone = PhosphorIconsDuotone.arrowCircleUpRight;
+  static const arrowCircleUpRightDuotone =
+      PhosphorIconsDuotone.arrowCircleUpRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowClockwise]. [PT] Atalho para [PhosphorIconsRegular.arrowClockwise].
   static const IconData arrowClockwise = PhosphorIconsRegular.arrowClockwise;
@@ -1185,22 +1327,28 @@ class PhosphorIcons {
   static const arrowClockwiseDuotone = PhosphorIconsDuotone.arrowClockwise;
 
   /// Shortcut for [PhosphorIconsRegular.arrowCounterClockwise]. [PT] Atalho para [PhosphorIconsRegular.arrowCounterClockwise].
-  static const IconData arrowCounterClockwise = PhosphorIconsRegular.arrowCounterClockwise;
+  static const IconData arrowCounterClockwise =
+      PhosphorIconsRegular.arrowCounterClockwise;
 
   /// Shortcut for [PhosphorIconsThin.arrowCounterClockwise]. [PT] Atalho para [PhosphorIconsThin.arrowCounterClockwise].
-  static const IconData arrowCounterClockwiseThin = PhosphorIconsThin.arrowCounterClockwise;
+  static const IconData arrowCounterClockwiseThin =
+      PhosphorIconsThin.arrowCounterClockwise;
 
   /// Shortcut for [PhosphorIconsLight.arrowCounterClockwise]. [PT] Atalho para [PhosphorIconsLight.arrowCounterClockwise].
-  static const IconData arrowCounterClockwiseLight = PhosphorIconsLight.arrowCounterClockwise;
+  static const IconData arrowCounterClockwiseLight =
+      PhosphorIconsLight.arrowCounterClockwise;
 
   /// Shortcut for [PhosphorIconsBold.arrowCounterClockwise]. [PT] Atalho para [PhosphorIconsBold.arrowCounterClockwise].
-  static const IconData arrowCounterClockwiseBold = PhosphorIconsBold.arrowCounterClockwise;
+  static const IconData arrowCounterClockwiseBold =
+      PhosphorIconsBold.arrowCounterClockwise;
 
   /// Shortcut for [PhosphorIconsFill.arrowCounterClockwise]. [PT] Atalho para [PhosphorIconsFill.arrowCounterClockwise].
-  static const IconData arrowCounterClockwiseFill = PhosphorIconsFill.arrowCounterClockwise;
+  static const IconData arrowCounterClockwiseFill =
+      PhosphorIconsFill.arrowCounterClockwise;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowCounterClockwise]. [PT] Atalho para [PhosphorIconsDuotone.arrowCounterClockwise].
-  static const arrowCounterClockwiseDuotone = PhosphorIconsDuotone.arrowCounterClockwise;
+  static const arrowCounterClockwiseDuotone =
+      PhosphorIconsDuotone.arrowCounterClockwise;
 
   /// Shortcut for [PhosphorIconsRegular.arrowDown]. [PT] Atalho para [PhosphorIconsRegular.arrowDown].
   static const IconData arrowDown = PhosphorIconsRegular.arrowDown;
@@ -1257,40 +1405,52 @@ class PhosphorIcons {
   static const arrowDownRightDuotone = PhosphorIconsDuotone.arrowDownRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowDownLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowDownLeft].
-  static const IconData arrowElbowDownLeft = PhosphorIconsRegular.arrowElbowDownLeft;
+  static const IconData arrowElbowDownLeft =
+      PhosphorIconsRegular.arrowElbowDownLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowDownLeft]. [PT] Atalho para [PhosphorIconsThin.arrowElbowDownLeft].
-  static const IconData arrowElbowDownLeftThin = PhosphorIconsThin.arrowElbowDownLeft;
+  static const IconData arrowElbowDownLeftThin =
+      PhosphorIconsThin.arrowElbowDownLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowDownLeft]. [PT] Atalho para [PhosphorIconsLight.arrowElbowDownLeft].
-  static const IconData arrowElbowDownLeftLight = PhosphorIconsLight.arrowElbowDownLeft;
+  static const IconData arrowElbowDownLeftLight =
+      PhosphorIconsLight.arrowElbowDownLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowDownLeft]. [PT] Atalho para [PhosphorIconsBold.arrowElbowDownLeft].
-  static const IconData arrowElbowDownLeftBold = PhosphorIconsBold.arrowElbowDownLeft;
+  static const IconData arrowElbowDownLeftBold =
+      PhosphorIconsBold.arrowElbowDownLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowDownLeft]. [PT] Atalho para [PhosphorIconsFill.arrowElbowDownLeft].
-  static const IconData arrowElbowDownLeftFill = PhosphorIconsFill.arrowElbowDownLeft;
+  static const IconData arrowElbowDownLeftFill =
+      PhosphorIconsFill.arrowElbowDownLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowDownLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowDownLeft].
-  static const arrowElbowDownLeftDuotone = PhosphorIconsDuotone.arrowElbowDownLeft;
+  static const arrowElbowDownLeftDuotone =
+      PhosphorIconsDuotone.arrowElbowDownLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowDownRight]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowDownRight].
-  static const IconData arrowElbowDownRight = PhosphorIconsRegular.arrowElbowDownRight;
+  static const IconData arrowElbowDownRight =
+      PhosphorIconsRegular.arrowElbowDownRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowDownRight]. [PT] Atalho para [PhosphorIconsThin.arrowElbowDownRight].
-  static const IconData arrowElbowDownRightThin = PhosphorIconsThin.arrowElbowDownRight;
+  static const IconData arrowElbowDownRightThin =
+      PhosphorIconsThin.arrowElbowDownRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowDownRight]. [PT] Atalho para [PhosphorIconsLight.arrowElbowDownRight].
-  static const IconData arrowElbowDownRightLight = PhosphorIconsLight.arrowElbowDownRight;
+  static const IconData arrowElbowDownRightLight =
+      PhosphorIconsLight.arrowElbowDownRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowDownRight]. [PT] Atalho para [PhosphorIconsBold.arrowElbowDownRight].
-  static const IconData arrowElbowDownRightBold = PhosphorIconsBold.arrowElbowDownRight;
+  static const IconData arrowElbowDownRightBold =
+      PhosphorIconsBold.arrowElbowDownRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowDownRight]. [PT] Atalho para [PhosphorIconsFill.arrowElbowDownRight].
-  static const IconData arrowElbowDownRightFill = PhosphorIconsFill.arrowElbowDownRight;
+  static const IconData arrowElbowDownRightFill =
+      PhosphorIconsFill.arrowElbowDownRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowDownRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowDownRight].
-  static const arrowElbowDownRightDuotone = PhosphorIconsDuotone.arrowElbowDownRight;
+  static const arrowElbowDownRightDuotone =
+      PhosphorIconsDuotone.arrowElbowDownRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowLeft].
   static const IconData arrowElbowLeft = PhosphorIconsRegular.arrowElbowLeft;
@@ -1311,37 +1471,48 @@ class PhosphorIcons {
   static const arrowElbowLeftDuotone = PhosphorIconsDuotone.arrowElbowLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowLeftDown]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowLeftDown].
-  static const IconData arrowElbowLeftDown = PhosphorIconsRegular.arrowElbowLeftDown;
+  static const IconData arrowElbowLeftDown =
+      PhosphorIconsRegular.arrowElbowLeftDown;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowLeftDown]. [PT] Atalho para [PhosphorIconsThin.arrowElbowLeftDown].
-  static const IconData arrowElbowLeftDownThin = PhosphorIconsThin.arrowElbowLeftDown;
+  static const IconData arrowElbowLeftDownThin =
+      PhosphorIconsThin.arrowElbowLeftDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowLeftDown]. [PT] Atalho para [PhosphorIconsLight.arrowElbowLeftDown].
-  static const IconData arrowElbowLeftDownLight = PhosphorIconsLight.arrowElbowLeftDown;
+  static const IconData arrowElbowLeftDownLight =
+      PhosphorIconsLight.arrowElbowLeftDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowLeftDown]. [PT] Atalho para [PhosphorIconsBold.arrowElbowLeftDown].
-  static const IconData arrowElbowLeftDownBold = PhosphorIconsBold.arrowElbowLeftDown;
+  static const IconData arrowElbowLeftDownBold =
+      PhosphorIconsBold.arrowElbowLeftDown;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowLeftDown]. [PT] Atalho para [PhosphorIconsFill.arrowElbowLeftDown].
-  static const IconData arrowElbowLeftDownFill = PhosphorIconsFill.arrowElbowLeftDown;
+  static const IconData arrowElbowLeftDownFill =
+      PhosphorIconsFill.arrowElbowLeftDown;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowLeftDown]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowLeftDown].
-  static const arrowElbowLeftDownDuotone = PhosphorIconsDuotone.arrowElbowLeftDown;
+  static const arrowElbowLeftDownDuotone =
+      PhosphorIconsDuotone.arrowElbowLeftDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowLeftUp]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowLeftUp].
-  static const IconData arrowElbowLeftUp = PhosphorIconsRegular.arrowElbowLeftUp;
+  static const IconData arrowElbowLeftUp =
+      PhosphorIconsRegular.arrowElbowLeftUp;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowLeftUp]. [PT] Atalho para [PhosphorIconsThin.arrowElbowLeftUp].
-  static const IconData arrowElbowLeftUpThin = PhosphorIconsThin.arrowElbowLeftUp;
+  static const IconData arrowElbowLeftUpThin =
+      PhosphorIconsThin.arrowElbowLeftUp;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowLeftUp]. [PT] Atalho para [PhosphorIconsLight.arrowElbowLeftUp].
-  static const IconData arrowElbowLeftUpLight = PhosphorIconsLight.arrowElbowLeftUp;
+  static const IconData arrowElbowLeftUpLight =
+      PhosphorIconsLight.arrowElbowLeftUp;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowLeftUp]. [PT] Atalho para [PhosphorIconsBold.arrowElbowLeftUp].
-  static const IconData arrowElbowLeftUpBold = PhosphorIconsBold.arrowElbowLeftUp;
+  static const IconData arrowElbowLeftUpBold =
+      PhosphorIconsBold.arrowElbowLeftUp;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowLeftUp]. [PT] Atalho para [PhosphorIconsFill.arrowElbowLeftUp].
-  static const IconData arrowElbowLeftUpFill = PhosphorIconsFill.arrowElbowLeftUp;
+  static const IconData arrowElbowLeftUpFill =
+      PhosphorIconsFill.arrowElbowLeftUp;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowLeftUp]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowLeftUp].
   static const arrowElbowLeftUpDuotone = PhosphorIconsDuotone.arrowElbowLeftUp;
@@ -1353,7 +1524,8 @@ class PhosphorIcons {
   static const IconData arrowElbowRightThin = PhosphorIconsThin.arrowElbowRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowRight]. [PT] Atalho para [PhosphorIconsLight.arrowElbowRight].
-  static const IconData arrowElbowRightLight = PhosphorIconsLight.arrowElbowRight;
+  static const IconData arrowElbowRightLight =
+      PhosphorIconsLight.arrowElbowRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowRight]. [PT] Atalho para [PhosphorIconsBold.arrowElbowRight].
   static const IconData arrowElbowRightBold = PhosphorIconsBold.arrowElbowRight;
@@ -1365,76 +1537,99 @@ class PhosphorIcons {
   static const arrowElbowRightDuotone = PhosphorIconsDuotone.arrowElbowRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowRightDown]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowRightDown].
-  static const IconData arrowElbowRightDown = PhosphorIconsRegular.arrowElbowRightDown;
+  static const IconData arrowElbowRightDown =
+      PhosphorIconsRegular.arrowElbowRightDown;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowRightDown]. [PT] Atalho para [PhosphorIconsThin.arrowElbowRightDown].
-  static const IconData arrowElbowRightDownThin = PhosphorIconsThin.arrowElbowRightDown;
+  static const IconData arrowElbowRightDownThin =
+      PhosphorIconsThin.arrowElbowRightDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowRightDown]. [PT] Atalho para [PhosphorIconsLight.arrowElbowRightDown].
-  static const IconData arrowElbowRightDownLight = PhosphorIconsLight.arrowElbowRightDown;
+  static const IconData arrowElbowRightDownLight =
+      PhosphorIconsLight.arrowElbowRightDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowRightDown]. [PT] Atalho para [PhosphorIconsBold.arrowElbowRightDown].
-  static const IconData arrowElbowRightDownBold = PhosphorIconsBold.arrowElbowRightDown;
+  static const IconData arrowElbowRightDownBold =
+      PhosphorIconsBold.arrowElbowRightDown;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowRightDown]. [PT] Atalho para [PhosphorIconsFill.arrowElbowRightDown].
-  static const IconData arrowElbowRightDownFill = PhosphorIconsFill.arrowElbowRightDown;
+  static const IconData arrowElbowRightDownFill =
+      PhosphorIconsFill.arrowElbowRightDown;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowRightDown]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowRightDown].
-  static const arrowElbowRightDownDuotone = PhosphorIconsDuotone.arrowElbowRightDown;
+  static const arrowElbowRightDownDuotone =
+      PhosphorIconsDuotone.arrowElbowRightDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowRightUp]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowRightUp].
-  static const IconData arrowElbowRightUp = PhosphorIconsRegular.arrowElbowRightUp;
+  static const IconData arrowElbowRightUp =
+      PhosphorIconsRegular.arrowElbowRightUp;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowRightUp]. [PT] Atalho para [PhosphorIconsThin.arrowElbowRightUp].
-  static const IconData arrowElbowRightUpThin = PhosphorIconsThin.arrowElbowRightUp;
+  static const IconData arrowElbowRightUpThin =
+      PhosphorIconsThin.arrowElbowRightUp;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowRightUp]. [PT] Atalho para [PhosphorIconsLight.arrowElbowRightUp].
-  static const IconData arrowElbowRightUpLight = PhosphorIconsLight.arrowElbowRightUp;
+  static const IconData arrowElbowRightUpLight =
+      PhosphorIconsLight.arrowElbowRightUp;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowRightUp]. [PT] Atalho para [PhosphorIconsBold.arrowElbowRightUp].
-  static const IconData arrowElbowRightUpBold = PhosphorIconsBold.arrowElbowRightUp;
+  static const IconData arrowElbowRightUpBold =
+      PhosphorIconsBold.arrowElbowRightUp;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowRightUp]. [PT] Atalho para [PhosphorIconsFill.arrowElbowRightUp].
-  static const IconData arrowElbowRightUpFill = PhosphorIconsFill.arrowElbowRightUp;
+  static const IconData arrowElbowRightUpFill =
+      PhosphorIconsFill.arrowElbowRightUp;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowRightUp]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowRightUp].
-  static const arrowElbowRightUpDuotone = PhosphorIconsDuotone.arrowElbowRightUp;
+  static const arrowElbowRightUpDuotone =
+      PhosphorIconsDuotone.arrowElbowRightUp;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowUpLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowUpLeft].
-  static const IconData arrowElbowUpLeft = PhosphorIconsRegular.arrowElbowUpLeft;
+  static const IconData arrowElbowUpLeft =
+      PhosphorIconsRegular.arrowElbowUpLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowUpLeft]. [PT] Atalho para [PhosphorIconsThin.arrowElbowUpLeft].
-  static const IconData arrowElbowUpLeftThin = PhosphorIconsThin.arrowElbowUpLeft;
+  static const IconData arrowElbowUpLeftThin =
+      PhosphorIconsThin.arrowElbowUpLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowUpLeft]. [PT] Atalho para [PhosphorIconsLight.arrowElbowUpLeft].
-  static const IconData arrowElbowUpLeftLight = PhosphorIconsLight.arrowElbowUpLeft;
+  static const IconData arrowElbowUpLeftLight =
+      PhosphorIconsLight.arrowElbowUpLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowUpLeft]. [PT] Atalho para [PhosphorIconsBold.arrowElbowUpLeft].
-  static const IconData arrowElbowUpLeftBold = PhosphorIconsBold.arrowElbowUpLeft;
+  static const IconData arrowElbowUpLeftBold =
+      PhosphorIconsBold.arrowElbowUpLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowUpLeft]. [PT] Atalho para [PhosphorIconsFill.arrowElbowUpLeft].
-  static const IconData arrowElbowUpLeftFill = PhosphorIconsFill.arrowElbowUpLeft;
+  static const IconData arrowElbowUpLeftFill =
+      PhosphorIconsFill.arrowElbowUpLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowUpLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowUpLeft].
   static const arrowElbowUpLeftDuotone = PhosphorIconsDuotone.arrowElbowUpLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowElbowUpRight]. [PT] Atalho para [PhosphorIconsRegular.arrowElbowUpRight].
-  static const IconData arrowElbowUpRight = PhosphorIconsRegular.arrowElbowUpRight;
+  static const IconData arrowElbowUpRight =
+      PhosphorIconsRegular.arrowElbowUpRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowElbowUpRight]. [PT] Atalho para [PhosphorIconsThin.arrowElbowUpRight].
-  static const IconData arrowElbowUpRightThin = PhosphorIconsThin.arrowElbowUpRight;
+  static const IconData arrowElbowUpRightThin =
+      PhosphorIconsThin.arrowElbowUpRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowElbowUpRight]. [PT] Atalho para [PhosphorIconsLight.arrowElbowUpRight].
-  static const IconData arrowElbowUpRightLight = PhosphorIconsLight.arrowElbowUpRight;
+  static const IconData arrowElbowUpRightLight =
+      PhosphorIconsLight.arrowElbowUpRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowElbowUpRight]. [PT] Atalho para [PhosphorIconsBold.arrowElbowUpRight].
-  static const IconData arrowElbowUpRightBold = PhosphorIconsBold.arrowElbowUpRight;
+  static const IconData arrowElbowUpRightBold =
+      PhosphorIconsBold.arrowElbowUpRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowElbowUpRight]. [PT] Atalho para [PhosphorIconsFill.arrowElbowUpRight].
-  static const IconData arrowElbowUpRightFill = PhosphorIconsFill.arrowElbowUpRight;
+  static const IconData arrowElbowUpRightFill =
+      PhosphorIconsFill.arrowElbowUpRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowElbowUpRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowElbowUpRight].
-  static const arrowElbowUpRightDuotone = PhosphorIconsDuotone.arrowElbowUpRight;
+  static const arrowElbowUpRightDuotone =
+      PhosphorIconsDuotone.arrowElbowUpRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatDown]. [PT] Atalho para [PhosphorIconsRegular.arrowFatDown].
   static const IconData arrowFatDown = PhosphorIconsRegular.arrowFatDown;
@@ -1473,58 +1668,74 @@ class PhosphorIcons {
   static const arrowFatLeftDuotone = PhosphorIconsDuotone.arrowFatLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLineDown]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLineDown].
-  static const IconData arrowFatLineDown = PhosphorIconsRegular.arrowFatLineDown;
+  static const IconData arrowFatLineDown =
+      PhosphorIconsRegular.arrowFatLineDown;
 
   /// Shortcut for [PhosphorIconsThin.arrowFatLineDown]. [PT] Atalho para [PhosphorIconsThin.arrowFatLineDown].
-  static const IconData arrowFatLineDownThin = PhosphorIconsThin.arrowFatLineDown;
+  static const IconData arrowFatLineDownThin =
+      PhosphorIconsThin.arrowFatLineDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowFatLineDown]. [PT] Atalho para [PhosphorIconsLight.arrowFatLineDown].
-  static const IconData arrowFatLineDownLight = PhosphorIconsLight.arrowFatLineDown;
+  static const IconData arrowFatLineDownLight =
+      PhosphorIconsLight.arrowFatLineDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowFatLineDown]. [PT] Atalho para [PhosphorIconsBold.arrowFatLineDown].
-  static const IconData arrowFatLineDownBold = PhosphorIconsBold.arrowFatLineDown;
+  static const IconData arrowFatLineDownBold =
+      PhosphorIconsBold.arrowFatLineDown;
 
   /// Shortcut for [PhosphorIconsFill.arrowFatLineDown]. [PT] Atalho para [PhosphorIconsFill.arrowFatLineDown].
-  static const IconData arrowFatLineDownFill = PhosphorIconsFill.arrowFatLineDown;
+  static const IconData arrowFatLineDownFill =
+      PhosphorIconsFill.arrowFatLineDown;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowFatLineDown]. [PT] Atalho para [PhosphorIconsDuotone.arrowFatLineDown].
   static const arrowFatLineDownDuotone = PhosphorIconsDuotone.arrowFatLineDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLineLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLineLeft].
-  static const IconData arrowFatLineLeft = PhosphorIconsRegular.arrowFatLineLeft;
+  static const IconData arrowFatLineLeft =
+      PhosphorIconsRegular.arrowFatLineLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowFatLineLeft]. [PT] Atalho para [PhosphorIconsThin.arrowFatLineLeft].
-  static const IconData arrowFatLineLeftThin = PhosphorIconsThin.arrowFatLineLeft;
+  static const IconData arrowFatLineLeftThin =
+      PhosphorIconsThin.arrowFatLineLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowFatLineLeft]. [PT] Atalho para [PhosphorIconsLight.arrowFatLineLeft].
-  static const IconData arrowFatLineLeftLight = PhosphorIconsLight.arrowFatLineLeft;
+  static const IconData arrowFatLineLeftLight =
+      PhosphorIconsLight.arrowFatLineLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowFatLineLeft]. [PT] Atalho para [PhosphorIconsBold.arrowFatLineLeft].
-  static const IconData arrowFatLineLeftBold = PhosphorIconsBold.arrowFatLineLeft;
+  static const IconData arrowFatLineLeftBold =
+      PhosphorIconsBold.arrowFatLineLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowFatLineLeft]. [PT] Atalho para [PhosphorIconsFill.arrowFatLineLeft].
-  static const IconData arrowFatLineLeftFill = PhosphorIconsFill.arrowFatLineLeft;
+  static const IconData arrowFatLineLeftFill =
+      PhosphorIconsFill.arrowFatLineLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowFatLineLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowFatLineLeft].
   static const arrowFatLineLeftDuotone = PhosphorIconsDuotone.arrowFatLineLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLineRight]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLineRight].
-  static const IconData arrowFatLineRight = PhosphorIconsRegular.arrowFatLineRight;
+  static const IconData arrowFatLineRight =
+      PhosphorIconsRegular.arrowFatLineRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowFatLineRight]. [PT] Atalho para [PhosphorIconsThin.arrowFatLineRight].
-  static const IconData arrowFatLineRightThin = PhosphorIconsThin.arrowFatLineRight;
+  static const IconData arrowFatLineRightThin =
+      PhosphorIconsThin.arrowFatLineRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowFatLineRight]. [PT] Atalho para [PhosphorIconsLight.arrowFatLineRight].
-  static const IconData arrowFatLineRightLight = PhosphorIconsLight.arrowFatLineRight;
+  static const IconData arrowFatLineRightLight =
+      PhosphorIconsLight.arrowFatLineRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowFatLineRight]. [PT] Atalho para [PhosphorIconsBold.arrowFatLineRight].
-  static const IconData arrowFatLineRightBold = PhosphorIconsBold.arrowFatLineRight;
+  static const IconData arrowFatLineRightBold =
+      PhosphorIconsBold.arrowFatLineRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowFatLineRight]. [PT] Atalho para [PhosphorIconsFill.arrowFatLineRight].
-  static const IconData arrowFatLineRightFill = PhosphorIconsFill.arrowFatLineRight;
+  static const IconData arrowFatLineRightFill =
+      PhosphorIconsFill.arrowFatLineRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowFatLineRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowFatLineRight].
-  static const arrowFatLineRightDuotone = PhosphorIconsDuotone.arrowFatLineRight;
+  static const arrowFatLineRightDuotone =
+      PhosphorIconsDuotone.arrowFatLineRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLineUp]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLineUp].
   static const IconData arrowFatLineUp = PhosphorIconsRegular.arrowFatLineUp;
@@ -1545,58 +1756,76 @@ class PhosphorIcons {
   static const arrowFatLineUpDuotone = PhosphorIconsDuotone.arrowFatLineUp;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLinesDown]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLinesDown].
-  static const IconData arrowFatLinesDown = PhosphorIconsRegular.arrowFatLinesDown;
+  static const IconData arrowFatLinesDown =
+      PhosphorIconsRegular.arrowFatLinesDown;
 
   /// Shortcut for [PhosphorIconsThin.arrowFatLinesDown]. [PT] Atalho para [PhosphorIconsThin.arrowFatLinesDown].
-  static const IconData arrowFatLinesDownThin = PhosphorIconsThin.arrowFatLinesDown;
+  static const IconData arrowFatLinesDownThin =
+      PhosphorIconsThin.arrowFatLinesDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowFatLinesDown]. [PT] Atalho para [PhosphorIconsLight.arrowFatLinesDown].
-  static const IconData arrowFatLinesDownLight = PhosphorIconsLight.arrowFatLinesDown;
+  static const IconData arrowFatLinesDownLight =
+      PhosphorIconsLight.arrowFatLinesDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowFatLinesDown]. [PT] Atalho para [PhosphorIconsBold.arrowFatLinesDown].
-  static const IconData arrowFatLinesDownBold = PhosphorIconsBold.arrowFatLinesDown;
+  static const IconData arrowFatLinesDownBold =
+      PhosphorIconsBold.arrowFatLinesDown;
 
   /// Shortcut for [PhosphorIconsFill.arrowFatLinesDown]. [PT] Atalho para [PhosphorIconsFill.arrowFatLinesDown].
-  static const IconData arrowFatLinesDownFill = PhosphorIconsFill.arrowFatLinesDown;
+  static const IconData arrowFatLinesDownFill =
+      PhosphorIconsFill.arrowFatLinesDown;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowFatLinesDown]. [PT] Atalho para [PhosphorIconsDuotone.arrowFatLinesDown].
-  static const arrowFatLinesDownDuotone = PhosphorIconsDuotone.arrowFatLinesDown;
+  static const arrowFatLinesDownDuotone =
+      PhosphorIconsDuotone.arrowFatLinesDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLinesLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLinesLeft].
-  static const IconData arrowFatLinesLeft = PhosphorIconsRegular.arrowFatLinesLeft;
+  static const IconData arrowFatLinesLeft =
+      PhosphorIconsRegular.arrowFatLinesLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowFatLinesLeft]. [PT] Atalho para [PhosphorIconsThin.arrowFatLinesLeft].
-  static const IconData arrowFatLinesLeftThin = PhosphorIconsThin.arrowFatLinesLeft;
+  static const IconData arrowFatLinesLeftThin =
+      PhosphorIconsThin.arrowFatLinesLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowFatLinesLeft]. [PT] Atalho para [PhosphorIconsLight.arrowFatLinesLeft].
-  static const IconData arrowFatLinesLeftLight = PhosphorIconsLight.arrowFatLinesLeft;
+  static const IconData arrowFatLinesLeftLight =
+      PhosphorIconsLight.arrowFatLinesLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowFatLinesLeft]. [PT] Atalho para [PhosphorIconsBold.arrowFatLinesLeft].
-  static const IconData arrowFatLinesLeftBold = PhosphorIconsBold.arrowFatLinesLeft;
+  static const IconData arrowFatLinesLeftBold =
+      PhosphorIconsBold.arrowFatLinesLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowFatLinesLeft]. [PT] Atalho para [PhosphorIconsFill.arrowFatLinesLeft].
-  static const IconData arrowFatLinesLeftFill = PhosphorIconsFill.arrowFatLinesLeft;
+  static const IconData arrowFatLinesLeftFill =
+      PhosphorIconsFill.arrowFatLinesLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowFatLinesLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowFatLinesLeft].
-  static const arrowFatLinesLeftDuotone = PhosphorIconsDuotone.arrowFatLinesLeft;
+  static const arrowFatLinesLeftDuotone =
+      PhosphorIconsDuotone.arrowFatLinesLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLinesRight]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLinesRight].
-  static const IconData arrowFatLinesRight = PhosphorIconsRegular.arrowFatLinesRight;
+  static const IconData arrowFatLinesRight =
+      PhosphorIconsRegular.arrowFatLinesRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowFatLinesRight]. [PT] Atalho para [PhosphorIconsThin.arrowFatLinesRight].
-  static const IconData arrowFatLinesRightThin = PhosphorIconsThin.arrowFatLinesRight;
+  static const IconData arrowFatLinesRightThin =
+      PhosphorIconsThin.arrowFatLinesRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowFatLinesRight]. [PT] Atalho para [PhosphorIconsLight.arrowFatLinesRight].
-  static const IconData arrowFatLinesRightLight = PhosphorIconsLight.arrowFatLinesRight;
+  static const IconData arrowFatLinesRightLight =
+      PhosphorIconsLight.arrowFatLinesRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowFatLinesRight]. [PT] Atalho para [PhosphorIconsBold.arrowFatLinesRight].
-  static const IconData arrowFatLinesRightBold = PhosphorIconsBold.arrowFatLinesRight;
+  static const IconData arrowFatLinesRightBold =
+      PhosphorIconsBold.arrowFatLinesRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowFatLinesRight]. [PT] Atalho para [PhosphorIconsFill.arrowFatLinesRight].
-  static const IconData arrowFatLinesRightFill = PhosphorIconsFill.arrowFatLinesRight;
+  static const IconData arrowFatLinesRightFill =
+      PhosphorIconsFill.arrowFatLinesRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowFatLinesRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowFatLinesRight].
-  static const arrowFatLinesRightDuotone = PhosphorIconsDuotone.arrowFatLinesRight;
+  static const arrowFatLinesRightDuotone =
+      PhosphorIconsDuotone.arrowFatLinesRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowFatLinesUp]. [PT] Atalho para [PhosphorIconsRegular.arrowFatLinesUp].
   static const IconData arrowFatLinesUp = PhosphorIconsRegular.arrowFatLinesUp;
@@ -1605,7 +1834,8 @@ class PhosphorIcons {
   static const IconData arrowFatLinesUpThin = PhosphorIconsThin.arrowFatLinesUp;
 
   /// Shortcut for [PhosphorIconsLight.arrowFatLinesUp]. [PT] Atalho para [PhosphorIconsLight.arrowFatLinesUp].
-  static const IconData arrowFatLinesUpLight = PhosphorIconsLight.arrowFatLinesUp;
+  static const IconData arrowFatLinesUpLight =
+      PhosphorIconsLight.arrowFatLinesUp;
 
   /// Shortcut for [PhosphorIconsBold.arrowFatLinesUp]. [PT] Atalho para [PhosphorIconsBold.arrowFatLinesUp].
   static const IconData arrowFatLinesUpBold = PhosphorIconsBold.arrowFatLinesUp;
@@ -1689,40 +1919,52 @@ class PhosphorIcons {
   static const arrowLineDownDuotone = PhosphorIconsDuotone.arrowLineDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowLineDownLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowLineDownLeft].
-  static const IconData arrowLineDownLeft = PhosphorIconsRegular.arrowLineDownLeft;
+  static const IconData arrowLineDownLeft =
+      PhosphorIconsRegular.arrowLineDownLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowLineDownLeft]. [PT] Atalho para [PhosphorIconsThin.arrowLineDownLeft].
-  static const IconData arrowLineDownLeftThin = PhosphorIconsThin.arrowLineDownLeft;
+  static const IconData arrowLineDownLeftThin =
+      PhosphorIconsThin.arrowLineDownLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowLineDownLeft]. [PT] Atalho para [PhosphorIconsLight.arrowLineDownLeft].
-  static const IconData arrowLineDownLeftLight = PhosphorIconsLight.arrowLineDownLeft;
+  static const IconData arrowLineDownLeftLight =
+      PhosphorIconsLight.arrowLineDownLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowLineDownLeft]. [PT] Atalho para [PhosphorIconsBold.arrowLineDownLeft].
-  static const IconData arrowLineDownLeftBold = PhosphorIconsBold.arrowLineDownLeft;
+  static const IconData arrowLineDownLeftBold =
+      PhosphorIconsBold.arrowLineDownLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowLineDownLeft]. [PT] Atalho para [PhosphorIconsFill.arrowLineDownLeft].
-  static const IconData arrowLineDownLeftFill = PhosphorIconsFill.arrowLineDownLeft;
+  static const IconData arrowLineDownLeftFill =
+      PhosphorIconsFill.arrowLineDownLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowLineDownLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowLineDownLeft].
-  static const arrowLineDownLeftDuotone = PhosphorIconsDuotone.arrowLineDownLeft;
+  static const arrowLineDownLeftDuotone =
+      PhosphorIconsDuotone.arrowLineDownLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowLineDownRight]. [PT] Atalho para [PhosphorIconsRegular.arrowLineDownRight].
-  static const IconData arrowLineDownRight = PhosphorIconsRegular.arrowLineDownRight;
+  static const IconData arrowLineDownRight =
+      PhosphorIconsRegular.arrowLineDownRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowLineDownRight]. [PT] Atalho para [PhosphorIconsThin.arrowLineDownRight].
-  static const IconData arrowLineDownRightThin = PhosphorIconsThin.arrowLineDownRight;
+  static const IconData arrowLineDownRightThin =
+      PhosphorIconsThin.arrowLineDownRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowLineDownRight]. [PT] Atalho para [PhosphorIconsLight.arrowLineDownRight].
-  static const IconData arrowLineDownRightLight = PhosphorIconsLight.arrowLineDownRight;
+  static const IconData arrowLineDownRightLight =
+      PhosphorIconsLight.arrowLineDownRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowLineDownRight]. [PT] Atalho para [PhosphorIconsBold.arrowLineDownRight].
-  static const IconData arrowLineDownRightBold = PhosphorIconsBold.arrowLineDownRight;
+  static const IconData arrowLineDownRightBold =
+      PhosphorIconsBold.arrowLineDownRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowLineDownRight]. [PT] Atalho para [PhosphorIconsFill.arrowLineDownRight].
-  static const IconData arrowLineDownRightFill = PhosphorIconsFill.arrowLineDownRight;
+  static const IconData arrowLineDownRightFill =
+      PhosphorIconsFill.arrowLineDownRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowLineDownRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowLineDownRight].
-  static const arrowLineDownRightDuotone = PhosphorIconsDuotone.arrowLineDownRight;
+  static const arrowLineDownRightDuotone =
+      PhosphorIconsDuotone.arrowLineDownRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowLineLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowLineLeft].
   static const IconData arrowLineLeft = PhosphorIconsRegular.arrowLineLeft;
@@ -1785,7 +2027,8 @@ class PhosphorIcons {
   static const IconData arrowLineUpLeftThin = PhosphorIconsThin.arrowLineUpLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowLineUpLeft]. [PT] Atalho para [PhosphorIconsLight.arrowLineUpLeft].
-  static const IconData arrowLineUpLeftLight = PhosphorIconsLight.arrowLineUpLeft;
+  static const IconData arrowLineUpLeftLight =
+      PhosphorIconsLight.arrowLineUpLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowLineUpLeft]. [PT] Atalho para [PhosphorIconsBold.arrowLineUpLeft].
   static const IconData arrowLineUpLeftBold = PhosphorIconsBold.arrowLineUpLeft;
@@ -1797,19 +2040,24 @@ class PhosphorIcons {
   static const arrowLineUpLeftDuotone = PhosphorIconsDuotone.arrowLineUpLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowLineUpRight]. [PT] Atalho para [PhosphorIconsRegular.arrowLineUpRight].
-  static const IconData arrowLineUpRight = PhosphorIconsRegular.arrowLineUpRight;
+  static const IconData arrowLineUpRight =
+      PhosphorIconsRegular.arrowLineUpRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowLineUpRight]. [PT] Atalho para [PhosphorIconsThin.arrowLineUpRight].
-  static const IconData arrowLineUpRightThin = PhosphorIconsThin.arrowLineUpRight;
+  static const IconData arrowLineUpRightThin =
+      PhosphorIconsThin.arrowLineUpRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowLineUpRight]. [PT] Atalho para [PhosphorIconsLight.arrowLineUpRight].
-  static const IconData arrowLineUpRightLight = PhosphorIconsLight.arrowLineUpRight;
+  static const IconData arrowLineUpRightLight =
+      PhosphorIconsLight.arrowLineUpRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowLineUpRight]. [PT] Atalho para [PhosphorIconsBold.arrowLineUpRight].
-  static const IconData arrowLineUpRightBold = PhosphorIconsBold.arrowLineUpRight;
+  static const IconData arrowLineUpRightBold =
+      PhosphorIconsBold.arrowLineUpRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowLineUpRight]. [PT] Atalho para [PhosphorIconsFill.arrowLineUpRight].
-  static const IconData arrowLineUpRightFill = PhosphorIconsFill.arrowLineUpRight;
+  static const IconData arrowLineUpRightFill =
+      PhosphorIconsFill.arrowLineUpRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowLineUpRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowLineUpRight].
   static const arrowLineUpRightDuotone = PhosphorIconsDuotone.arrowLineUpRight;
@@ -1839,7 +2087,8 @@ class PhosphorIcons {
   static const IconData arrowSquareDownThin = PhosphorIconsThin.arrowSquareDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowSquareDown]. [PT] Atalho para [PhosphorIconsLight.arrowSquareDown].
-  static const IconData arrowSquareDownLight = PhosphorIconsLight.arrowSquareDown;
+  static const IconData arrowSquareDownLight =
+      PhosphorIconsLight.arrowSquareDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowSquareDown]. [PT] Atalho para [PhosphorIconsBold.arrowSquareDown].
   static const IconData arrowSquareDownBold = PhosphorIconsBold.arrowSquareDown;
@@ -1851,40 +2100,52 @@ class PhosphorIcons {
   static const arrowSquareDownDuotone = PhosphorIconsDuotone.arrowSquareDown;
 
   /// Shortcut for [PhosphorIconsRegular.arrowSquareDownLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowSquareDownLeft].
-  static const IconData arrowSquareDownLeft = PhosphorIconsRegular.arrowSquareDownLeft;
+  static const IconData arrowSquareDownLeft =
+      PhosphorIconsRegular.arrowSquareDownLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowSquareDownLeft]. [PT] Atalho para [PhosphorIconsThin.arrowSquareDownLeft].
-  static const IconData arrowSquareDownLeftThin = PhosphorIconsThin.arrowSquareDownLeft;
+  static const IconData arrowSquareDownLeftThin =
+      PhosphorIconsThin.arrowSquareDownLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowSquareDownLeft]. [PT] Atalho para [PhosphorIconsLight.arrowSquareDownLeft].
-  static const IconData arrowSquareDownLeftLight = PhosphorIconsLight.arrowSquareDownLeft;
+  static const IconData arrowSquareDownLeftLight =
+      PhosphorIconsLight.arrowSquareDownLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowSquareDownLeft]. [PT] Atalho para [PhosphorIconsBold.arrowSquareDownLeft].
-  static const IconData arrowSquareDownLeftBold = PhosphorIconsBold.arrowSquareDownLeft;
+  static const IconData arrowSquareDownLeftBold =
+      PhosphorIconsBold.arrowSquareDownLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowSquareDownLeft]. [PT] Atalho para [PhosphorIconsFill.arrowSquareDownLeft].
-  static const IconData arrowSquareDownLeftFill = PhosphorIconsFill.arrowSquareDownLeft;
+  static const IconData arrowSquareDownLeftFill =
+      PhosphorIconsFill.arrowSquareDownLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowSquareDownLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowSquareDownLeft].
-  static const arrowSquareDownLeftDuotone = PhosphorIconsDuotone.arrowSquareDownLeft;
+  static const arrowSquareDownLeftDuotone =
+      PhosphorIconsDuotone.arrowSquareDownLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowSquareDownRight]. [PT] Atalho para [PhosphorIconsRegular.arrowSquareDownRight].
-  static const IconData arrowSquareDownRight = PhosphorIconsRegular.arrowSquareDownRight;
+  static const IconData arrowSquareDownRight =
+      PhosphorIconsRegular.arrowSquareDownRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowSquareDownRight]. [PT] Atalho para [PhosphorIconsThin.arrowSquareDownRight].
-  static const IconData arrowSquareDownRightThin = PhosphorIconsThin.arrowSquareDownRight;
+  static const IconData arrowSquareDownRightThin =
+      PhosphorIconsThin.arrowSquareDownRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowSquareDownRight]. [PT] Atalho para [PhosphorIconsLight.arrowSquareDownRight].
-  static const IconData arrowSquareDownRightLight = PhosphorIconsLight.arrowSquareDownRight;
+  static const IconData arrowSquareDownRightLight =
+      PhosphorIconsLight.arrowSquareDownRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowSquareDownRight]. [PT] Atalho para [PhosphorIconsBold.arrowSquareDownRight].
-  static const IconData arrowSquareDownRightBold = PhosphorIconsBold.arrowSquareDownRight;
+  static const IconData arrowSquareDownRightBold =
+      PhosphorIconsBold.arrowSquareDownRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowSquareDownRight]. [PT] Atalho para [PhosphorIconsFill.arrowSquareDownRight].
-  static const IconData arrowSquareDownRightFill = PhosphorIconsFill.arrowSquareDownRight;
+  static const IconData arrowSquareDownRightFill =
+      PhosphorIconsFill.arrowSquareDownRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowSquareDownRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowSquareDownRight].
-  static const arrowSquareDownRightDuotone = PhosphorIconsDuotone.arrowSquareDownRight;
+  static const arrowSquareDownRightDuotone =
+      PhosphorIconsDuotone.arrowSquareDownRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowSquareIn]. [PT] Atalho para [PhosphorIconsRegular.arrowSquareIn].
   static const IconData arrowSquareIn = PhosphorIconsRegular.arrowSquareIn;
@@ -1911,7 +2172,8 @@ class PhosphorIcons {
   static const IconData arrowSquareLeftThin = PhosphorIconsThin.arrowSquareLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowSquareLeft]. [PT] Atalho para [PhosphorIconsLight.arrowSquareLeft].
-  static const IconData arrowSquareLeftLight = PhosphorIconsLight.arrowSquareLeft;
+  static const IconData arrowSquareLeftLight =
+      PhosphorIconsLight.arrowSquareLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowSquareLeft]. [PT] Atalho para [PhosphorIconsBold.arrowSquareLeft].
   static const IconData arrowSquareLeftBold = PhosphorIconsBold.arrowSquareLeft;
@@ -1941,19 +2203,24 @@ class PhosphorIcons {
   static const arrowSquareOutDuotone = PhosphorIconsDuotone.arrowSquareOut;
 
   /// Shortcut for [PhosphorIconsRegular.arrowSquareRight]. [PT] Atalho para [PhosphorIconsRegular.arrowSquareRight].
-  static const IconData arrowSquareRight = PhosphorIconsRegular.arrowSquareRight;
+  static const IconData arrowSquareRight =
+      PhosphorIconsRegular.arrowSquareRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowSquareRight]. [PT] Atalho para [PhosphorIconsThin.arrowSquareRight].
-  static const IconData arrowSquareRightThin = PhosphorIconsThin.arrowSquareRight;
+  static const IconData arrowSquareRightThin =
+      PhosphorIconsThin.arrowSquareRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowSquareRight]. [PT] Atalho para [PhosphorIconsLight.arrowSquareRight].
-  static const IconData arrowSquareRightLight = PhosphorIconsLight.arrowSquareRight;
+  static const IconData arrowSquareRightLight =
+      PhosphorIconsLight.arrowSquareRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowSquareRight]. [PT] Atalho para [PhosphorIconsBold.arrowSquareRight].
-  static const IconData arrowSquareRightBold = PhosphorIconsBold.arrowSquareRight;
+  static const IconData arrowSquareRightBold =
+      PhosphorIconsBold.arrowSquareRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowSquareRight]. [PT] Atalho para [PhosphorIconsFill.arrowSquareRight].
-  static const IconData arrowSquareRightFill = PhosphorIconsFill.arrowSquareRight;
+  static const IconData arrowSquareRightFill =
+      PhosphorIconsFill.arrowSquareRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowSquareRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowSquareRight].
   static const arrowSquareRightDuotone = PhosphorIconsDuotone.arrowSquareRight;
@@ -1977,40 +2244,52 @@ class PhosphorIcons {
   static const arrowSquareUpDuotone = PhosphorIconsDuotone.arrowSquareUp;
 
   /// Shortcut for [PhosphorIconsRegular.arrowSquareUpLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowSquareUpLeft].
-  static const IconData arrowSquareUpLeft = PhosphorIconsRegular.arrowSquareUpLeft;
+  static const IconData arrowSquareUpLeft =
+      PhosphorIconsRegular.arrowSquareUpLeft;
 
   /// Shortcut for [PhosphorIconsThin.arrowSquareUpLeft]. [PT] Atalho para [PhosphorIconsThin.arrowSquareUpLeft].
-  static const IconData arrowSquareUpLeftThin = PhosphorIconsThin.arrowSquareUpLeft;
+  static const IconData arrowSquareUpLeftThin =
+      PhosphorIconsThin.arrowSquareUpLeft;
 
   /// Shortcut for [PhosphorIconsLight.arrowSquareUpLeft]. [PT] Atalho para [PhosphorIconsLight.arrowSquareUpLeft].
-  static const IconData arrowSquareUpLeftLight = PhosphorIconsLight.arrowSquareUpLeft;
+  static const IconData arrowSquareUpLeftLight =
+      PhosphorIconsLight.arrowSquareUpLeft;
 
   /// Shortcut for [PhosphorIconsBold.arrowSquareUpLeft]. [PT] Atalho para [PhosphorIconsBold.arrowSquareUpLeft].
-  static const IconData arrowSquareUpLeftBold = PhosphorIconsBold.arrowSquareUpLeft;
+  static const IconData arrowSquareUpLeftBold =
+      PhosphorIconsBold.arrowSquareUpLeft;
 
   /// Shortcut for [PhosphorIconsFill.arrowSquareUpLeft]. [PT] Atalho para [PhosphorIconsFill.arrowSquareUpLeft].
-  static const IconData arrowSquareUpLeftFill = PhosphorIconsFill.arrowSquareUpLeft;
+  static const IconData arrowSquareUpLeftFill =
+      PhosphorIconsFill.arrowSquareUpLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowSquareUpLeft]. [PT] Atalho para [PhosphorIconsDuotone.arrowSquareUpLeft].
-  static const arrowSquareUpLeftDuotone = PhosphorIconsDuotone.arrowSquareUpLeft;
+  static const arrowSquareUpLeftDuotone =
+      PhosphorIconsDuotone.arrowSquareUpLeft;
 
   /// Shortcut for [PhosphorIconsRegular.arrowSquareUpRight]. [PT] Atalho para [PhosphorIconsRegular.arrowSquareUpRight].
-  static const IconData arrowSquareUpRight = PhosphorIconsRegular.arrowSquareUpRight;
+  static const IconData arrowSquareUpRight =
+      PhosphorIconsRegular.arrowSquareUpRight;
 
   /// Shortcut for [PhosphorIconsThin.arrowSquareUpRight]. [PT] Atalho para [PhosphorIconsThin.arrowSquareUpRight].
-  static const IconData arrowSquareUpRightThin = PhosphorIconsThin.arrowSquareUpRight;
+  static const IconData arrowSquareUpRightThin =
+      PhosphorIconsThin.arrowSquareUpRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowSquareUpRight]. [PT] Atalho para [PhosphorIconsLight.arrowSquareUpRight].
-  static const IconData arrowSquareUpRightLight = PhosphorIconsLight.arrowSquareUpRight;
+  static const IconData arrowSquareUpRightLight =
+      PhosphorIconsLight.arrowSquareUpRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowSquareUpRight]. [PT] Atalho para [PhosphorIconsBold.arrowSquareUpRight].
-  static const IconData arrowSquareUpRightBold = PhosphorIconsBold.arrowSquareUpRight;
+  static const IconData arrowSquareUpRightBold =
+      PhosphorIconsBold.arrowSquareUpRight;
 
   /// Shortcut for [PhosphorIconsFill.arrowSquareUpRight]. [PT] Atalho para [PhosphorIconsFill.arrowSquareUpRight].
-  static const IconData arrowSquareUpRightFill = PhosphorIconsFill.arrowSquareUpRight;
+  static const IconData arrowSquareUpRightFill =
+      PhosphorIconsFill.arrowSquareUpRight;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowSquareUpRight]. [PT] Atalho para [PhosphorIconsDuotone.arrowSquareUpRight].
-  static const arrowSquareUpRightDuotone = PhosphorIconsDuotone.arrowSquareUpRight;
+  static const arrowSquareUpRightDuotone =
+      PhosphorIconsDuotone.arrowSquareUpRight;
 
   /// Shortcut for [PhosphorIconsRegular.arrowUDownLeft]. [PT] Atalho para [PhosphorIconsRegular.arrowUDownLeft].
   static const IconData arrowUDownLeft = PhosphorIconsRegular.arrowUDownLeft;
@@ -2037,7 +2316,8 @@ class PhosphorIcons {
   static const IconData arrowUDownRightThin = PhosphorIconsThin.arrowUDownRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowUDownRight]. [PT] Atalho para [PhosphorIconsLight.arrowUDownRight].
-  static const IconData arrowUDownRightLight = PhosphorIconsLight.arrowUDownRight;
+  static const IconData arrowUDownRightLight =
+      PhosphorIconsLight.arrowUDownRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowUDownRight]. [PT] Atalho para [PhosphorIconsBold.arrowUDownRight].
   static const IconData arrowUDownRightBold = PhosphorIconsBold.arrowUDownRight;
@@ -2091,7 +2371,8 @@ class PhosphorIcons {
   static const IconData arrowURightDownThin = PhosphorIconsThin.arrowURightDown;
 
   /// Shortcut for [PhosphorIconsLight.arrowURightDown]. [PT] Atalho para [PhosphorIconsLight.arrowURightDown].
-  static const IconData arrowURightDownLight = PhosphorIconsLight.arrowURightDown;
+  static const IconData arrowURightDownLight =
+      PhosphorIconsLight.arrowURightDown;
 
   /// Shortcut for [PhosphorIconsBold.arrowURightDown]. [PT] Atalho para [PhosphorIconsBold.arrowURightDown].
   static const IconData arrowURightDownBold = PhosphorIconsBold.arrowURightDown;
@@ -2217,7 +2498,8 @@ class PhosphorIcons {
   static const IconData arrowsClockwiseThin = PhosphorIconsThin.arrowsClockwise;
 
   /// Shortcut for [PhosphorIconsLight.arrowsClockwise]. [PT] Atalho para [PhosphorIconsLight.arrowsClockwise].
-  static const IconData arrowsClockwiseLight = PhosphorIconsLight.arrowsClockwise;
+  static const IconData arrowsClockwiseLight =
+      PhosphorIconsLight.arrowsClockwise;
 
   /// Shortcut for [PhosphorIconsBold.arrowsClockwise]. [PT] Atalho para [PhosphorIconsBold.arrowsClockwise].
   static const IconData arrowsClockwiseBold = PhosphorIconsBold.arrowsClockwise;
@@ -2229,22 +2511,28 @@ class PhosphorIcons {
   static const arrowsClockwiseDuotone = PhosphorIconsDuotone.arrowsClockwise;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsCounterClockwise]. [PT] Atalho para [PhosphorIconsRegular.arrowsCounterClockwise].
-  static const IconData arrowsCounterClockwise = PhosphorIconsRegular.arrowsCounterClockwise;
+  static const IconData arrowsCounterClockwise =
+      PhosphorIconsRegular.arrowsCounterClockwise;
 
   /// Shortcut for [PhosphorIconsThin.arrowsCounterClockwise]. [PT] Atalho para [PhosphorIconsThin.arrowsCounterClockwise].
-  static const IconData arrowsCounterClockwiseThin = PhosphorIconsThin.arrowsCounterClockwise;
+  static const IconData arrowsCounterClockwiseThin =
+      PhosphorIconsThin.arrowsCounterClockwise;
 
   /// Shortcut for [PhosphorIconsLight.arrowsCounterClockwise]. [PT] Atalho para [PhosphorIconsLight.arrowsCounterClockwise].
-  static const IconData arrowsCounterClockwiseLight = PhosphorIconsLight.arrowsCounterClockwise;
+  static const IconData arrowsCounterClockwiseLight =
+      PhosphorIconsLight.arrowsCounterClockwise;
 
   /// Shortcut for [PhosphorIconsBold.arrowsCounterClockwise]. [PT] Atalho para [PhosphorIconsBold.arrowsCounterClockwise].
-  static const IconData arrowsCounterClockwiseBold = PhosphorIconsBold.arrowsCounterClockwise;
+  static const IconData arrowsCounterClockwiseBold =
+      PhosphorIconsBold.arrowsCounterClockwise;
 
   /// Shortcut for [PhosphorIconsFill.arrowsCounterClockwise]. [PT] Atalho para [PhosphorIconsFill.arrowsCounterClockwise].
-  static const IconData arrowsCounterClockwiseFill = PhosphorIconsFill.arrowsCounterClockwise;
+  static const IconData arrowsCounterClockwiseFill =
+      PhosphorIconsFill.arrowsCounterClockwise;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsCounterClockwise]. [PT] Atalho para [PhosphorIconsDuotone.arrowsCounterClockwise].
-  static const arrowsCounterClockwiseDuotone = PhosphorIconsDuotone.arrowsCounterClockwise;
+  static const arrowsCounterClockwiseDuotone =
+      PhosphorIconsDuotone.arrowsCounterClockwise;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsDownUp]. [PT] Atalho para [PhosphorIconsRegular.arrowsDownUp].
   static const IconData arrowsDownUp = PhosphorIconsRegular.arrowsDownUp;
@@ -2265,19 +2553,24 @@ class PhosphorIcons {
   static const arrowsDownUpDuotone = PhosphorIconsDuotone.arrowsDownUp;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsHorizontal]. [PT] Atalho para [PhosphorIconsRegular.arrowsHorizontal].
-  static const IconData arrowsHorizontal = PhosphorIconsRegular.arrowsHorizontal;
+  static const IconData arrowsHorizontal =
+      PhosphorIconsRegular.arrowsHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.arrowsHorizontal]. [PT] Atalho para [PhosphorIconsThin.arrowsHorizontal].
-  static const IconData arrowsHorizontalThin = PhosphorIconsThin.arrowsHorizontal;
+  static const IconData arrowsHorizontalThin =
+      PhosphorIconsThin.arrowsHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.arrowsHorizontal]. [PT] Atalho para [PhosphorIconsLight.arrowsHorizontal].
-  static const IconData arrowsHorizontalLight = PhosphorIconsLight.arrowsHorizontal;
+  static const IconData arrowsHorizontalLight =
+      PhosphorIconsLight.arrowsHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.arrowsHorizontal]. [PT] Atalho para [PhosphorIconsBold.arrowsHorizontal].
-  static const IconData arrowsHorizontalBold = PhosphorIconsBold.arrowsHorizontal;
+  static const IconData arrowsHorizontalBold =
+      PhosphorIconsBold.arrowsHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.arrowsHorizontal]. [PT] Atalho para [PhosphorIconsFill.arrowsHorizontal].
-  static const IconData arrowsHorizontalFill = PhosphorIconsFill.arrowsHorizontal;
+  static const IconData arrowsHorizontalFill =
+      PhosphorIconsFill.arrowsHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.arrowsHorizontal].
   static const arrowsHorizontalDuotone = PhosphorIconsDuotone.arrowsHorizontal;
@@ -2301,58 +2594,75 @@ class PhosphorIcons {
   static const arrowsInDuotone = PhosphorIconsDuotone.arrowsIn;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsInCardinal]. [PT] Atalho para [PhosphorIconsRegular.arrowsInCardinal].
-  static const IconData arrowsInCardinal = PhosphorIconsRegular.arrowsInCardinal;
+  static const IconData arrowsInCardinal =
+      PhosphorIconsRegular.arrowsInCardinal;
 
   /// Shortcut for [PhosphorIconsThin.arrowsInCardinal]. [PT] Atalho para [PhosphorIconsThin.arrowsInCardinal].
-  static const IconData arrowsInCardinalThin = PhosphorIconsThin.arrowsInCardinal;
+  static const IconData arrowsInCardinalThin =
+      PhosphorIconsThin.arrowsInCardinal;
 
   /// Shortcut for [PhosphorIconsLight.arrowsInCardinal]. [PT] Atalho para [PhosphorIconsLight.arrowsInCardinal].
-  static const IconData arrowsInCardinalLight = PhosphorIconsLight.arrowsInCardinal;
+  static const IconData arrowsInCardinalLight =
+      PhosphorIconsLight.arrowsInCardinal;
 
   /// Shortcut for [PhosphorIconsBold.arrowsInCardinal]. [PT] Atalho para [PhosphorIconsBold.arrowsInCardinal].
-  static const IconData arrowsInCardinalBold = PhosphorIconsBold.arrowsInCardinal;
+  static const IconData arrowsInCardinalBold =
+      PhosphorIconsBold.arrowsInCardinal;
 
   /// Shortcut for [PhosphorIconsFill.arrowsInCardinal]. [PT] Atalho para [PhosphorIconsFill.arrowsInCardinal].
-  static const IconData arrowsInCardinalFill = PhosphorIconsFill.arrowsInCardinal;
+  static const IconData arrowsInCardinalFill =
+      PhosphorIconsFill.arrowsInCardinal;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsInCardinal]. [PT] Atalho para [PhosphorIconsDuotone.arrowsInCardinal].
   static const arrowsInCardinalDuotone = PhosphorIconsDuotone.arrowsInCardinal;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsInLineHorizontal]. [PT] Atalho para [PhosphorIconsRegular.arrowsInLineHorizontal].
-  static const IconData arrowsInLineHorizontal = PhosphorIconsRegular.arrowsInLineHorizontal;
+  static const IconData arrowsInLineHorizontal =
+      PhosphorIconsRegular.arrowsInLineHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.arrowsInLineHorizontal]. [PT] Atalho para [PhosphorIconsThin.arrowsInLineHorizontal].
-  static const IconData arrowsInLineHorizontalThin = PhosphorIconsThin.arrowsInLineHorizontal;
+  static const IconData arrowsInLineHorizontalThin =
+      PhosphorIconsThin.arrowsInLineHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.arrowsInLineHorizontal]. [PT] Atalho para [PhosphorIconsLight.arrowsInLineHorizontal].
-  static const IconData arrowsInLineHorizontalLight = PhosphorIconsLight.arrowsInLineHorizontal;
+  static const IconData arrowsInLineHorizontalLight =
+      PhosphorIconsLight.arrowsInLineHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.arrowsInLineHorizontal]. [PT] Atalho para [PhosphorIconsBold.arrowsInLineHorizontal].
-  static const IconData arrowsInLineHorizontalBold = PhosphorIconsBold.arrowsInLineHorizontal;
+  static const IconData arrowsInLineHorizontalBold =
+      PhosphorIconsBold.arrowsInLineHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.arrowsInLineHorizontal]. [PT] Atalho para [PhosphorIconsFill.arrowsInLineHorizontal].
-  static const IconData arrowsInLineHorizontalFill = PhosphorIconsFill.arrowsInLineHorizontal;
+  static const IconData arrowsInLineHorizontalFill =
+      PhosphorIconsFill.arrowsInLineHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsInLineHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.arrowsInLineHorizontal].
-  static const arrowsInLineHorizontalDuotone = PhosphorIconsDuotone.arrowsInLineHorizontal;
+  static const arrowsInLineHorizontalDuotone =
+      PhosphorIconsDuotone.arrowsInLineHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsInLineVertical]. [PT] Atalho para [PhosphorIconsRegular.arrowsInLineVertical].
-  static const IconData arrowsInLineVertical = PhosphorIconsRegular.arrowsInLineVertical;
+  static const IconData arrowsInLineVertical =
+      PhosphorIconsRegular.arrowsInLineVertical;
 
   /// Shortcut for [PhosphorIconsThin.arrowsInLineVertical]. [PT] Atalho para [PhosphorIconsThin.arrowsInLineVertical].
-  static const IconData arrowsInLineVerticalThin = PhosphorIconsThin.arrowsInLineVertical;
+  static const IconData arrowsInLineVerticalThin =
+      PhosphorIconsThin.arrowsInLineVertical;
 
   /// Shortcut for [PhosphorIconsLight.arrowsInLineVertical]. [PT] Atalho para [PhosphorIconsLight.arrowsInLineVertical].
-  static const IconData arrowsInLineVerticalLight = PhosphorIconsLight.arrowsInLineVertical;
+  static const IconData arrowsInLineVerticalLight =
+      PhosphorIconsLight.arrowsInLineVertical;
 
   /// Shortcut for [PhosphorIconsBold.arrowsInLineVertical]. [PT] Atalho para [PhosphorIconsBold.arrowsInLineVertical].
-  static const IconData arrowsInLineVerticalBold = PhosphorIconsBold.arrowsInLineVertical;
+  static const IconData arrowsInLineVerticalBold =
+      PhosphorIconsBold.arrowsInLineVertical;
 
   /// Shortcut for [PhosphorIconsFill.arrowsInLineVertical]. [PT] Atalho para [PhosphorIconsFill.arrowsInLineVertical].
-  static const IconData arrowsInLineVerticalFill = PhosphorIconsFill.arrowsInLineVertical;
+  static const IconData arrowsInLineVerticalFill =
+      PhosphorIconsFill.arrowsInLineVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsInLineVertical]. [PT] Atalho para [PhosphorIconsDuotone.arrowsInLineVertical].
-  static const arrowsInLineVerticalDuotone = PhosphorIconsDuotone.arrowsInLineVertical;
+  static const arrowsInLineVerticalDuotone =
+      PhosphorIconsDuotone.arrowsInLineVertical;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsInSimple]. [PT] Atalho para [PhosphorIconsRegular.arrowsInSimple].
   static const IconData arrowsInSimple = PhosphorIconsRegular.arrowsInSimple;
@@ -2379,7 +2689,8 @@ class PhosphorIcons {
   static const IconData arrowsLeftRightThin = PhosphorIconsThin.arrowsLeftRight;
 
   /// Shortcut for [PhosphorIconsLight.arrowsLeftRight]. [PT] Atalho para [PhosphorIconsLight.arrowsLeftRight].
-  static const IconData arrowsLeftRightLight = PhosphorIconsLight.arrowsLeftRight;
+  static const IconData arrowsLeftRightLight =
+      PhosphorIconsLight.arrowsLeftRight;
 
   /// Shortcut for [PhosphorIconsBold.arrowsLeftRight]. [PT] Atalho para [PhosphorIconsBold.arrowsLeftRight].
   static const IconData arrowsLeftRightBold = PhosphorIconsBold.arrowsLeftRight;
@@ -2427,58 +2738,76 @@ class PhosphorIcons {
   static const arrowsOutDuotone = PhosphorIconsDuotone.arrowsOut;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsOutCardinal]. [PT] Atalho para [PhosphorIconsRegular.arrowsOutCardinal].
-  static const IconData arrowsOutCardinal = PhosphorIconsRegular.arrowsOutCardinal;
+  static const IconData arrowsOutCardinal =
+      PhosphorIconsRegular.arrowsOutCardinal;
 
   /// Shortcut for [PhosphorIconsThin.arrowsOutCardinal]. [PT] Atalho para [PhosphorIconsThin.arrowsOutCardinal].
-  static const IconData arrowsOutCardinalThin = PhosphorIconsThin.arrowsOutCardinal;
+  static const IconData arrowsOutCardinalThin =
+      PhosphorIconsThin.arrowsOutCardinal;
 
   /// Shortcut for [PhosphorIconsLight.arrowsOutCardinal]. [PT] Atalho para [PhosphorIconsLight.arrowsOutCardinal].
-  static const IconData arrowsOutCardinalLight = PhosphorIconsLight.arrowsOutCardinal;
+  static const IconData arrowsOutCardinalLight =
+      PhosphorIconsLight.arrowsOutCardinal;
 
   /// Shortcut for [PhosphorIconsBold.arrowsOutCardinal]. [PT] Atalho para [PhosphorIconsBold.arrowsOutCardinal].
-  static const IconData arrowsOutCardinalBold = PhosphorIconsBold.arrowsOutCardinal;
+  static const IconData arrowsOutCardinalBold =
+      PhosphorIconsBold.arrowsOutCardinal;
 
   /// Shortcut for [PhosphorIconsFill.arrowsOutCardinal]. [PT] Atalho para [PhosphorIconsFill.arrowsOutCardinal].
-  static const IconData arrowsOutCardinalFill = PhosphorIconsFill.arrowsOutCardinal;
+  static const IconData arrowsOutCardinalFill =
+      PhosphorIconsFill.arrowsOutCardinal;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsOutCardinal]. [PT] Atalho para [PhosphorIconsDuotone.arrowsOutCardinal].
-  static const arrowsOutCardinalDuotone = PhosphorIconsDuotone.arrowsOutCardinal;
+  static const arrowsOutCardinalDuotone =
+      PhosphorIconsDuotone.arrowsOutCardinal;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsOutLineHorizontal]. [PT] Atalho para [PhosphorIconsRegular.arrowsOutLineHorizontal].
-  static const IconData arrowsOutLineHorizontal = PhosphorIconsRegular.arrowsOutLineHorizontal;
+  static const IconData arrowsOutLineHorizontal =
+      PhosphorIconsRegular.arrowsOutLineHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.arrowsOutLineHorizontal]. [PT] Atalho para [PhosphorIconsThin.arrowsOutLineHorizontal].
-  static const IconData arrowsOutLineHorizontalThin = PhosphorIconsThin.arrowsOutLineHorizontal;
+  static const IconData arrowsOutLineHorizontalThin =
+      PhosphorIconsThin.arrowsOutLineHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.arrowsOutLineHorizontal]. [PT] Atalho para [PhosphorIconsLight.arrowsOutLineHorizontal].
-  static const IconData arrowsOutLineHorizontalLight = PhosphorIconsLight.arrowsOutLineHorizontal;
+  static const IconData arrowsOutLineHorizontalLight =
+      PhosphorIconsLight.arrowsOutLineHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.arrowsOutLineHorizontal]. [PT] Atalho para [PhosphorIconsBold.arrowsOutLineHorizontal].
-  static const IconData arrowsOutLineHorizontalBold = PhosphorIconsBold.arrowsOutLineHorizontal;
+  static const IconData arrowsOutLineHorizontalBold =
+      PhosphorIconsBold.arrowsOutLineHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.arrowsOutLineHorizontal]. [PT] Atalho para [PhosphorIconsFill.arrowsOutLineHorizontal].
-  static const IconData arrowsOutLineHorizontalFill = PhosphorIconsFill.arrowsOutLineHorizontal;
+  static const IconData arrowsOutLineHorizontalFill =
+      PhosphorIconsFill.arrowsOutLineHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsOutLineHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.arrowsOutLineHorizontal].
-  static const arrowsOutLineHorizontalDuotone = PhosphorIconsDuotone.arrowsOutLineHorizontal;
+  static const arrowsOutLineHorizontalDuotone =
+      PhosphorIconsDuotone.arrowsOutLineHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsOutLineVertical]. [PT] Atalho para [PhosphorIconsRegular.arrowsOutLineVertical].
-  static const IconData arrowsOutLineVertical = PhosphorIconsRegular.arrowsOutLineVertical;
+  static const IconData arrowsOutLineVertical =
+      PhosphorIconsRegular.arrowsOutLineVertical;
 
   /// Shortcut for [PhosphorIconsThin.arrowsOutLineVertical]. [PT] Atalho para [PhosphorIconsThin.arrowsOutLineVertical].
-  static const IconData arrowsOutLineVerticalThin = PhosphorIconsThin.arrowsOutLineVertical;
+  static const IconData arrowsOutLineVerticalThin =
+      PhosphorIconsThin.arrowsOutLineVertical;
 
   /// Shortcut for [PhosphorIconsLight.arrowsOutLineVertical]. [PT] Atalho para [PhosphorIconsLight.arrowsOutLineVertical].
-  static const IconData arrowsOutLineVerticalLight = PhosphorIconsLight.arrowsOutLineVertical;
+  static const IconData arrowsOutLineVerticalLight =
+      PhosphorIconsLight.arrowsOutLineVertical;
 
   /// Shortcut for [PhosphorIconsBold.arrowsOutLineVertical]. [PT] Atalho para [PhosphorIconsBold.arrowsOutLineVertical].
-  static const IconData arrowsOutLineVerticalBold = PhosphorIconsBold.arrowsOutLineVertical;
+  static const IconData arrowsOutLineVerticalBold =
+      PhosphorIconsBold.arrowsOutLineVertical;
 
   /// Shortcut for [PhosphorIconsFill.arrowsOutLineVertical]. [PT] Atalho para [PhosphorIconsFill.arrowsOutLineVertical].
-  static const IconData arrowsOutLineVerticalFill = PhosphorIconsFill.arrowsOutLineVertical;
+  static const IconData arrowsOutLineVerticalFill =
+      PhosphorIconsFill.arrowsOutLineVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.arrowsOutLineVertical]. [PT] Atalho para [PhosphorIconsDuotone.arrowsOutLineVertical].
-  static const arrowsOutLineVerticalDuotone = PhosphorIconsDuotone.arrowsOutLineVertical;
+  static const arrowsOutLineVerticalDuotone =
+      PhosphorIconsDuotone.arrowsOutLineVertical;
 
   /// Shortcut for [PhosphorIconsRegular.arrowsOutSimple]. [PT] Atalho para [PhosphorIconsRegular.arrowsOutSimple].
   static const IconData arrowsOutSimple = PhosphorIconsRegular.arrowsOutSimple;
@@ -2487,7 +2816,8 @@ class PhosphorIcons {
   static const IconData arrowsOutSimpleThin = PhosphorIconsThin.arrowsOutSimple;
 
   /// Shortcut for [PhosphorIconsLight.arrowsOutSimple]. [PT] Atalho para [PhosphorIconsLight.arrowsOutSimple].
-  static const IconData arrowsOutSimpleLight = PhosphorIconsLight.arrowsOutSimple;
+  static const IconData arrowsOutSimpleLight =
+      PhosphorIconsLight.arrowsOutSimple;
 
   /// Shortcut for [PhosphorIconsBold.arrowsOutSimple]. [PT] Atalho para [PhosphorIconsBold.arrowsOutSimple].
   static const IconData arrowsOutSimpleBold = PhosphorIconsBold.arrowsOutSimple;
@@ -3063,7 +3393,8 @@ class PhosphorIcons {
   static const IconData batteryChargingThin = PhosphorIconsThin.batteryCharging;
 
   /// Shortcut for [PhosphorIconsLight.batteryCharging]. [PT] Atalho para [PhosphorIconsLight.batteryCharging].
-  static const IconData batteryChargingLight = PhosphorIconsLight.batteryCharging;
+  static const IconData batteryChargingLight =
+      PhosphorIconsLight.batteryCharging;
 
   /// Shortcut for [PhosphorIconsBold.batteryCharging]. [PT] Atalho para [PhosphorIconsBold.batteryCharging].
   static const IconData batteryChargingBold = PhosphorIconsBold.batteryCharging;
@@ -3075,22 +3406,28 @@ class PhosphorIcons {
   static const batteryChargingDuotone = PhosphorIconsDuotone.batteryCharging;
 
   /// Shortcut for [PhosphorIconsRegular.batteryChargingVertical]. [PT] Atalho para [PhosphorIconsRegular.batteryChargingVertical].
-  static const IconData batteryChargingVertical = PhosphorIconsRegular.batteryChargingVertical;
+  static const IconData batteryChargingVertical =
+      PhosphorIconsRegular.batteryChargingVertical;
 
   /// Shortcut for [PhosphorIconsThin.batteryChargingVertical]. [PT] Atalho para [PhosphorIconsThin.batteryChargingVertical].
-  static const IconData batteryChargingVerticalThin = PhosphorIconsThin.batteryChargingVertical;
+  static const IconData batteryChargingVerticalThin =
+      PhosphorIconsThin.batteryChargingVertical;
 
   /// Shortcut for [PhosphorIconsLight.batteryChargingVertical]. [PT] Atalho para [PhosphorIconsLight.batteryChargingVertical].
-  static const IconData batteryChargingVerticalLight = PhosphorIconsLight.batteryChargingVertical;
+  static const IconData batteryChargingVerticalLight =
+      PhosphorIconsLight.batteryChargingVertical;
 
   /// Shortcut for [PhosphorIconsBold.batteryChargingVertical]. [PT] Atalho para [PhosphorIconsBold.batteryChargingVertical].
-  static const IconData batteryChargingVerticalBold = PhosphorIconsBold.batteryChargingVertical;
+  static const IconData batteryChargingVerticalBold =
+      PhosphorIconsBold.batteryChargingVertical;
 
   /// Shortcut for [PhosphorIconsFill.batteryChargingVertical]. [PT] Atalho para [PhosphorIconsFill.batteryChargingVertical].
-  static const IconData batteryChargingVerticalFill = PhosphorIconsFill.batteryChargingVertical;
+  static const IconData batteryChargingVerticalFill =
+      PhosphorIconsFill.batteryChargingVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryChargingVertical]. [PT] Atalho para [PhosphorIconsDuotone.batteryChargingVertical].
-  static const batteryChargingVerticalDuotone = PhosphorIconsDuotone.batteryChargingVertical;
+  static const batteryChargingVerticalDuotone =
+      PhosphorIconsDuotone.batteryChargingVertical;
 
   /// Shortcut for [PhosphorIconsRegular.batteryEmpty]. [PT] Atalho para [PhosphorIconsRegular.batteryEmpty].
   static const IconData batteryEmpty = PhosphorIconsRegular.batteryEmpty;
@@ -3201,112 +3538,148 @@ class PhosphorIcons {
   static const batteryPlusDuotone = PhosphorIconsDuotone.batteryPlus;
 
   /// Shortcut for [PhosphorIconsRegular.batteryPlusVertical]. [PT] Atalho para [PhosphorIconsRegular.batteryPlusVertical].
-  static const IconData batteryPlusVertical = PhosphorIconsRegular.batteryPlusVertical;
+  static const IconData batteryPlusVertical =
+      PhosphorIconsRegular.batteryPlusVertical;
 
   /// Shortcut for [PhosphorIconsThin.batteryPlusVertical]. [PT] Atalho para [PhosphorIconsThin.batteryPlusVertical].
-  static const IconData batteryPlusVerticalThin = PhosphorIconsThin.batteryPlusVertical;
+  static const IconData batteryPlusVerticalThin =
+      PhosphorIconsThin.batteryPlusVertical;
 
   /// Shortcut for [PhosphorIconsLight.batteryPlusVertical]. [PT] Atalho para [PhosphorIconsLight.batteryPlusVertical].
-  static const IconData batteryPlusVerticalLight = PhosphorIconsLight.batteryPlusVertical;
+  static const IconData batteryPlusVerticalLight =
+      PhosphorIconsLight.batteryPlusVertical;
 
   /// Shortcut for [PhosphorIconsBold.batteryPlusVertical]. [PT] Atalho para [PhosphorIconsBold.batteryPlusVertical].
-  static const IconData batteryPlusVerticalBold = PhosphorIconsBold.batteryPlusVertical;
+  static const IconData batteryPlusVerticalBold =
+      PhosphorIconsBold.batteryPlusVertical;
 
   /// Shortcut for [PhosphorIconsFill.batteryPlusVertical]. [PT] Atalho para [PhosphorIconsFill.batteryPlusVertical].
-  static const IconData batteryPlusVerticalFill = PhosphorIconsFill.batteryPlusVertical;
+  static const IconData batteryPlusVerticalFill =
+      PhosphorIconsFill.batteryPlusVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryPlusVertical]. [PT] Atalho para [PhosphorIconsDuotone.batteryPlusVertical].
-  static const batteryPlusVerticalDuotone = PhosphorIconsDuotone.batteryPlusVertical;
+  static const batteryPlusVerticalDuotone =
+      PhosphorIconsDuotone.batteryPlusVertical;
 
   /// Shortcut for [PhosphorIconsRegular.batteryVerticalEmpty]. [PT] Atalho para [PhosphorIconsRegular.batteryVerticalEmpty].
-  static const IconData batteryVerticalEmpty = PhosphorIconsRegular.batteryVerticalEmpty;
+  static const IconData batteryVerticalEmpty =
+      PhosphorIconsRegular.batteryVerticalEmpty;
 
   /// Shortcut for [PhosphorIconsThin.batteryVerticalEmpty]. [PT] Atalho para [PhosphorIconsThin.batteryVerticalEmpty].
-  static const IconData batteryVerticalEmptyThin = PhosphorIconsThin.batteryVerticalEmpty;
+  static const IconData batteryVerticalEmptyThin =
+      PhosphorIconsThin.batteryVerticalEmpty;
 
   /// Shortcut for [PhosphorIconsLight.batteryVerticalEmpty]. [PT] Atalho para [PhosphorIconsLight.batteryVerticalEmpty].
-  static const IconData batteryVerticalEmptyLight = PhosphorIconsLight.batteryVerticalEmpty;
+  static const IconData batteryVerticalEmptyLight =
+      PhosphorIconsLight.batteryVerticalEmpty;
 
   /// Shortcut for [PhosphorIconsBold.batteryVerticalEmpty]. [PT] Atalho para [PhosphorIconsBold.batteryVerticalEmpty].
-  static const IconData batteryVerticalEmptyBold = PhosphorIconsBold.batteryVerticalEmpty;
+  static const IconData batteryVerticalEmptyBold =
+      PhosphorIconsBold.batteryVerticalEmpty;
 
   /// Shortcut for [PhosphorIconsFill.batteryVerticalEmpty]. [PT] Atalho para [PhosphorIconsFill.batteryVerticalEmpty].
-  static const IconData batteryVerticalEmptyFill = PhosphorIconsFill.batteryVerticalEmpty;
+  static const IconData batteryVerticalEmptyFill =
+      PhosphorIconsFill.batteryVerticalEmpty;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryVerticalEmpty]. [PT] Atalho para [PhosphorIconsDuotone.batteryVerticalEmpty].
-  static const batteryVerticalEmptyDuotone = PhosphorIconsDuotone.batteryVerticalEmpty;
+  static const batteryVerticalEmptyDuotone =
+      PhosphorIconsDuotone.batteryVerticalEmpty;
 
   /// Shortcut for [PhosphorIconsRegular.batteryVerticalFull]. [PT] Atalho para [PhosphorIconsRegular.batteryVerticalFull].
-  static const IconData batteryVerticalFull = PhosphorIconsRegular.batteryVerticalFull;
+  static const IconData batteryVerticalFull =
+      PhosphorIconsRegular.batteryVerticalFull;
 
   /// Shortcut for [PhosphorIconsThin.batteryVerticalFull]. [PT] Atalho para [PhosphorIconsThin.batteryVerticalFull].
-  static const IconData batteryVerticalFullThin = PhosphorIconsThin.batteryVerticalFull;
+  static const IconData batteryVerticalFullThin =
+      PhosphorIconsThin.batteryVerticalFull;
 
   /// Shortcut for [PhosphorIconsLight.batteryVerticalFull]. [PT] Atalho para [PhosphorIconsLight.batteryVerticalFull].
-  static const IconData batteryVerticalFullLight = PhosphorIconsLight.batteryVerticalFull;
+  static const IconData batteryVerticalFullLight =
+      PhosphorIconsLight.batteryVerticalFull;
 
   /// Shortcut for [PhosphorIconsBold.batteryVerticalFull]. [PT] Atalho para [PhosphorIconsBold.batteryVerticalFull].
-  static const IconData batteryVerticalFullBold = PhosphorIconsBold.batteryVerticalFull;
+  static const IconData batteryVerticalFullBold =
+      PhosphorIconsBold.batteryVerticalFull;
 
   /// Shortcut for [PhosphorIconsFill.batteryVerticalFull]. [PT] Atalho para [PhosphorIconsFill.batteryVerticalFull].
-  static const IconData batteryVerticalFullFill = PhosphorIconsFill.batteryVerticalFull;
+  static const IconData batteryVerticalFullFill =
+      PhosphorIconsFill.batteryVerticalFull;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryVerticalFull]. [PT] Atalho para [PhosphorIconsDuotone.batteryVerticalFull].
-  static const batteryVerticalFullDuotone = PhosphorIconsDuotone.batteryVerticalFull;
+  static const batteryVerticalFullDuotone =
+      PhosphorIconsDuotone.batteryVerticalFull;
 
   /// Shortcut for [PhosphorIconsRegular.batteryVerticalHigh]. [PT] Atalho para [PhosphorIconsRegular.batteryVerticalHigh].
-  static const IconData batteryVerticalHigh = PhosphorIconsRegular.batteryVerticalHigh;
+  static const IconData batteryVerticalHigh =
+      PhosphorIconsRegular.batteryVerticalHigh;
 
   /// Shortcut for [PhosphorIconsThin.batteryVerticalHigh]. [PT] Atalho para [PhosphorIconsThin.batteryVerticalHigh].
-  static const IconData batteryVerticalHighThin = PhosphorIconsThin.batteryVerticalHigh;
+  static const IconData batteryVerticalHighThin =
+      PhosphorIconsThin.batteryVerticalHigh;
 
   /// Shortcut for [PhosphorIconsLight.batteryVerticalHigh]. [PT] Atalho para [PhosphorIconsLight.batteryVerticalHigh].
-  static const IconData batteryVerticalHighLight = PhosphorIconsLight.batteryVerticalHigh;
+  static const IconData batteryVerticalHighLight =
+      PhosphorIconsLight.batteryVerticalHigh;
 
   /// Shortcut for [PhosphorIconsBold.batteryVerticalHigh]. [PT] Atalho para [PhosphorIconsBold.batteryVerticalHigh].
-  static const IconData batteryVerticalHighBold = PhosphorIconsBold.batteryVerticalHigh;
+  static const IconData batteryVerticalHighBold =
+      PhosphorIconsBold.batteryVerticalHigh;
 
   /// Shortcut for [PhosphorIconsFill.batteryVerticalHigh]. [PT] Atalho para [PhosphorIconsFill.batteryVerticalHigh].
-  static const IconData batteryVerticalHighFill = PhosphorIconsFill.batteryVerticalHigh;
+  static const IconData batteryVerticalHighFill =
+      PhosphorIconsFill.batteryVerticalHigh;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryVerticalHigh]. [PT] Atalho para [PhosphorIconsDuotone.batteryVerticalHigh].
-  static const batteryVerticalHighDuotone = PhosphorIconsDuotone.batteryVerticalHigh;
+  static const batteryVerticalHighDuotone =
+      PhosphorIconsDuotone.batteryVerticalHigh;
 
   /// Shortcut for [PhosphorIconsRegular.batteryVerticalLow]. [PT] Atalho para [PhosphorIconsRegular.batteryVerticalLow].
-  static const IconData batteryVerticalLow = PhosphorIconsRegular.batteryVerticalLow;
+  static const IconData batteryVerticalLow =
+      PhosphorIconsRegular.batteryVerticalLow;
 
   /// Shortcut for [PhosphorIconsThin.batteryVerticalLow]. [PT] Atalho para [PhosphorIconsThin.batteryVerticalLow].
-  static const IconData batteryVerticalLowThin = PhosphorIconsThin.batteryVerticalLow;
+  static const IconData batteryVerticalLowThin =
+      PhosphorIconsThin.batteryVerticalLow;
 
   /// Shortcut for [PhosphorIconsLight.batteryVerticalLow]. [PT] Atalho para [PhosphorIconsLight.batteryVerticalLow].
-  static const IconData batteryVerticalLowLight = PhosphorIconsLight.batteryVerticalLow;
+  static const IconData batteryVerticalLowLight =
+      PhosphorIconsLight.batteryVerticalLow;
 
   /// Shortcut for [PhosphorIconsBold.batteryVerticalLow]. [PT] Atalho para [PhosphorIconsBold.batteryVerticalLow].
-  static const IconData batteryVerticalLowBold = PhosphorIconsBold.batteryVerticalLow;
+  static const IconData batteryVerticalLowBold =
+      PhosphorIconsBold.batteryVerticalLow;
 
   /// Shortcut for [PhosphorIconsFill.batteryVerticalLow]. [PT] Atalho para [PhosphorIconsFill.batteryVerticalLow].
-  static const IconData batteryVerticalLowFill = PhosphorIconsFill.batteryVerticalLow;
+  static const IconData batteryVerticalLowFill =
+      PhosphorIconsFill.batteryVerticalLow;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryVerticalLow]. [PT] Atalho para [PhosphorIconsDuotone.batteryVerticalLow].
-  static const batteryVerticalLowDuotone = PhosphorIconsDuotone.batteryVerticalLow;
+  static const batteryVerticalLowDuotone =
+      PhosphorIconsDuotone.batteryVerticalLow;
 
   /// Shortcut for [PhosphorIconsRegular.batteryVerticalMedium]. [PT] Atalho para [PhosphorIconsRegular.batteryVerticalMedium].
-  static const IconData batteryVerticalMedium = PhosphorIconsRegular.batteryVerticalMedium;
+  static const IconData batteryVerticalMedium =
+      PhosphorIconsRegular.batteryVerticalMedium;
 
   /// Shortcut for [PhosphorIconsThin.batteryVerticalMedium]. [PT] Atalho para [PhosphorIconsThin.batteryVerticalMedium].
-  static const IconData batteryVerticalMediumThin = PhosphorIconsThin.batteryVerticalMedium;
+  static const IconData batteryVerticalMediumThin =
+      PhosphorIconsThin.batteryVerticalMedium;
 
   /// Shortcut for [PhosphorIconsLight.batteryVerticalMedium]. [PT] Atalho para [PhosphorIconsLight.batteryVerticalMedium].
-  static const IconData batteryVerticalMediumLight = PhosphorIconsLight.batteryVerticalMedium;
+  static const IconData batteryVerticalMediumLight =
+      PhosphorIconsLight.batteryVerticalMedium;
 
   /// Shortcut for [PhosphorIconsBold.batteryVerticalMedium]. [PT] Atalho para [PhosphorIconsBold.batteryVerticalMedium].
-  static const IconData batteryVerticalMediumBold = PhosphorIconsBold.batteryVerticalMedium;
+  static const IconData batteryVerticalMediumBold =
+      PhosphorIconsBold.batteryVerticalMedium;
 
   /// Shortcut for [PhosphorIconsFill.batteryVerticalMedium]. [PT] Atalho para [PhosphorIconsFill.batteryVerticalMedium].
-  static const IconData batteryVerticalMediumFill = PhosphorIconsFill.batteryVerticalMedium;
+  static const IconData batteryVerticalMediumFill =
+      PhosphorIconsFill.batteryVerticalMedium;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryVerticalMedium]. [PT] Atalho para [PhosphorIconsDuotone.batteryVerticalMedium].
-  static const batteryVerticalMediumDuotone = PhosphorIconsDuotone.batteryVerticalMedium;
+  static const batteryVerticalMediumDuotone =
+      PhosphorIconsDuotone.batteryVerticalMedium;
 
   /// Shortcut for [PhosphorIconsRegular.batteryWarning]. [PT] Atalho para [PhosphorIconsRegular.batteryWarning].
   static const IconData batteryWarning = PhosphorIconsRegular.batteryWarning;
@@ -3327,22 +3700,28 @@ class PhosphorIcons {
   static const batteryWarningDuotone = PhosphorIconsDuotone.batteryWarning;
 
   /// Shortcut for [PhosphorIconsRegular.batteryWarningVertical]. [PT] Atalho para [PhosphorIconsRegular.batteryWarningVertical].
-  static const IconData batteryWarningVertical = PhosphorIconsRegular.batteryWarningVertical;
+  static const IconData batteryWarningVertical =
+      PhosphorIconsRegular.batteryWarningVertical;
 
   /// Shortcut for [PhosphorIconsThin.batteryWarningVertical]. [PT] Atalho para [PhosphorIconsThin.batteryWarningVertical].
-  static const IconData batteryWarningVerticalThin = PhosphorIconsThin.batteryWarningVertical;
+  static const IconData batteryWarningVerticalThin =
+      PhosphorIconsThin.batteryWarningVertical;
 
   /// Shortcut for [PhosphorIconsLight.batteryWarningVertical]. [PT] Atalho para [PhosphorIconsLight.batteryWarningVertical].
-  static const IconData batteryWarningVerticalLight = PhosphorIconsLight.batteryWarningVertical;
+  static const IconData batteryWarningVerticalLight =
+      PhosphorIconsLight.batteryWarningVertical;
 
   /// Shortcut for [PhosphorIconsBold.batteryWarningVertical]. [PT] Atalho para [PhosphorIconsBold.batteryWarningVertical].
-  static const IconData batteryWarningVerticalBold = PhosphorIconsBold.batteryWarningVertical;
+  static const IconData batteryWarningVerticalBold =
+      PhosphorIconsBold.batteryWarningVertical;
 
   /// Shortcut for [PhosphorIconsFill.batteryWarningVertical]. [PT] Atalho para [PhosphorIconsFill.batteryWarningVertical].
-  static const IconData batteryWarningVerticalFill = PhosphorIconsFill.batteryWarningVertical;
+  static const IconData batteryWarningVerticalFill =
+      PhosphorIconsFill.batteryWarningVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.batteryWarningVertical]. [PT] Atalho para [PhosphorIconsDuotone.batteryWarningVertical].
-  static const batteryWarningVerticalDuotone = PhosphorIconsDuotone.batteryWarningVertical;
+  static const batteryWarningVerticalDuotone =
+      PhosphorIconsDuotone.batteryWarningVertical;
 
   /// Shortcut for [PhosphorIconsRegular.beachBall]. [PT] Atalho para [PhosphorIconsRegular.beachBall].
   static const IconData beachBall = PhosphorIconsRegular.beachBall;
@@ -3507,22 +3886,28 @@ class PhosphorIcons {
   static const bellSimpleDuotone = PhosphorIconsDuotone.bellSimple;
 
   /// Shortcut for [PhosphorIconsRegular.bellSimpleRinging]. [PT] Atalho para [PhosphorIconsRegular.bellSimpleRinging].
-  static const IconData bellSimpleRinging = PhosphorIconsRegular.bellSimpleRinging;
+  static const IconData bellSimpleRinging =
+      PhosphorIconsRegular.bellSimpleRinging;
 
   /// Shortcut for [PhosphorIconsThin.bellSimpleRinging]. [PT] Atalho para [PhosphorIconsThin.bellSimpleRinging].
-  static const IconData bellSimpleRingingThin = PhosphorIconsThin.bellSimpleRinging;
+  static const IconData bellSimpleRingingThin =
+      PhosphorIconsThin.bellSimpleRinging;
 
   /// Shortcut for [PhosphorIconsLight.bellSimpleRinging]. [PT] Atalho para [PhosphorIconsLight.bellSimpleRinging].
-  static const IconData bellSimpleRingingLight = PhosphorIconsLight.bellSimpleRinging;
+  static const IconData bellSimpleRingingLight =
+      PhosphorIconsLight.bellSimpleRinging;
 
   /// Shortcut for [PhosphorIconsBold.bellSimpleRinging]. [PT] Atalho para [PhosphorIconsBold.bellSimpleRinging].
-  static const IconData bellSimpleRingingBold = PhosphorIconsBold.bellSimpleRinging;
+  static const IconData bellSimpleRingingBold =
+      PhosphorIconsBold.bellSimpleRinging;
 
   /// Shortcut for [PhosphorIconsFill.bellSimpleRinging]. [PT] Atalho para [PhosphorIconsFill.bellSimpleRinging].
-  static const IconData bellSimpleRingingFill = PhosphorIconsFill.bellSimpleRinging;
+  static const IconData bellSimpleRingingFill =
+      PhosphorIconsFill.bellSimpleRinging;
 
   /// Shortcut for [PhosphorIconsDuotone.bellSimpleRinging]. [PT] Atalho para [PhosphorIconsDuotone.bellSimpleRinging].
-  static const bellSimpleRingingDuotone = PhosphorIconsDuotone.bellSimpleRinging;
+  static const bellSimpleRingingDuotone =
+      PhosphorIconsDuotone.bellSimpleRinging;
 
   /// Shortcut for [PhosphorIconsRegular.bellSimpleSlash]. [PT] Atalho para [PhosphorIconsRegular.bellSimpleSlash].
   static const IconData bellSimpleSlash = PhosphorIconsRegular.bellSimpleSlash;
@@ -3531,7 +3916,8 @@ class PhosphorIcons {
   static const IconData bellSimpleSlashThin = PhosphorIconsThin.bellSimpleSlash;
 
   /// Shortcut for [PhosphorIconsLight.bellSimpleSlash]. [PT] Atalho para [PhosphorIconsLight.bellSimpleSlash].
-  static const IconData bellSimpleSlashLight = PhosphorIconsLight.bellSimpleSlash;
+  static const IconData bellSimpleSlashLight =
+      PhosphorIconsLight.bellSimpleSlash;
 
   /// Shortcut for [PhosphorIconsBold.bellSimpleSlash]. [PT] Atalho para [PhosphorIconsBold.bellSimpleSlash].
   static const IconData bellSimpleSlashBold = PhosphorIconsBold.bellSimpleSlash;
@@ -3759,22 +4145,28 @@ class PhosphorIcons {
   static const bluetoothDuotone = PhosphorIconsDuotone.bluetooth;
 
   /// Shortcut for [PhosphorIconsRegular.bluetoothConnected]. [PT] Atalho para [PhosphorIconsRegular.bluetoothConnected].
-  static const IconData bluetoothConnected = PhosphorIconsRegular.bluetoothConnected;
+  static const IconData bluetoothConnected =
+      PhosphorIconsRegular.bluetoothConnected;
 
   /// Shortcut for [PhosphorIconsThin.bluetoothConnected]. [PT] Atalho para [PhosphorIconsThin.bluetoothConnected].
-  static const IconData bluetoothConnectedThin = PhosphorIconsThin.bluetoothConnected;
+  static const IconData bluetoothConnectedThin =
+      PhosphorIconsThin.bluetoothConnected;
 
   /// Shortcut for [PhosphorIconsLight.bluetoothConnected]. [PT] Atalho para [PhosphorIconsLight.bluetoothConnected].
-  static const IconData bluetoothConnectedLight = PhosphorIconsLight.bluetoothConnected;
+  static const IconData bluetoothConnectedLight =
+      PhosphorIconsLight.bluetoothConnected;
 
   /// Shortcut for [PhosphorIconsBold.bluetoothConnected]. [PT] Atalho para [PhosphorIconsBold.bluetoothConnected].
-  static const IconData bluetoothConnectedBold = PhosphorIconsBold.bluetoothConnected;
+  static const IconData bluetoothConnectedBold =
+      PhosphorIconsBold.bluetoothConnected;
 
   /// Shortcut for [PhosphorIconsFill.bluetoothConnected]. [PT] Atalho para [PhosphorIconsFill.bluetoothConnected].
-  static const IconData bluetoothConnectedFill = PhosphorIconsFill.bluetoothConnected;
+  static const IconData bluetoothConnectedFill =
+      PhosphorIconsFill.bluetoothConnected;
 
   /// Shortcut for [PhosphorIconsDuotone.bluetoothConnected]. [PT] Atalho para [PhosphorIconsDuotone.bluetoothConnected].
-  static const bluetoothConnectedDuotone = PhosphorIconsDuotone.bluetoothConnected;
+  static const bluetoothConnectedDuotone =
+      PhosphorIconsDuotone.bluetoothConnected;
 
   /// Shortcut for [PhosphorIconsRegular.bluetoothSlash]. [PT] Atalho para [PhosphorIconsRegular.bluetoothSlash].
   static const IconData bluetoothSlash = PhosphorIconsRegular.bluetoothSlash;
@@ -4017,7 +4409,8 @@ class PhosphorIcons {
   static const IconData bookmarksSimpleThin = PhosphorIconsThin.bookmarksSimple;
 
   /// Shortcut for [PhosphorIconsLight.bookmarksSimple]. [PT] Atalho para [PhosphorIconsLight.bookmarksSimple].
-  static const IconData bookmarksSimpleLight = PhosphorIconsLight.bookmarksSimple;
+  static const IconData bookmarksSimpleLight =
+      PhosphorIconsLight.bookmarksSimple;
 
   /// Shortcut for [PhosphorIconsBold.bookmarksSimple]. [PT] Atalho para [PhosphorIconsBold.bookmarksSimple].
   static const IconData bookmarksSimpleBold = PhosphorIconsBold.bookmarksSimple;
@@ -4533,22 +4926,28 @@ class PhosphorIcons {
   static const buildingDuotone = PhosphorIconsDuotone.building;
 
   /// Shortcut for [PhosphorIconsRegular.buildingApartment]. [PT] Atalho para [PhosphorIconsRegular.buildingApartment].
-  static const IconData buildingApartment = PhosphorIconsRegular.buildingApartment;
+  static const IconData buildingApartment =
+      PhosphorIconsRegular.buildingApartment;
 
   /// Shortcut for [PhosphorIconsThin.buildingApartment]. [PT] Atalho para [PhosphorIconsThin.buildingApartment].
-  static const IconData buildingApartmentThin = PhosphorIconsThin.buildingApartment;
+  static const IconData buildingApartmentThin =
+      PhosphorIconsThin.buildingApartment;
 
   /// Shortcut for [PhosphorIconsLight.buildingApartment]. [PT] Atalho para [PhosphorIconsLight.buildingApartment].
-  static const IconData buildingApartmentLight = PhosphorIconsLight.buildingApartment;
+  static const IconData buildingApartmentLight =
+      PhosphorIconsLight.buildingApartment;
 
   /// Shortcut for [PhosphorIconsBold.buildingApartment]. [PT] Atalho para [PhosphorIconsBold.buildingApartment].
-  static const IconData buildingApartmentBold = PhosphorIconsBold.buildingApartment;
+  static const IconData buildingApartmentBold =
+      PhosphorIconsBold.buildingApartment;
 
   /// Shortcut for [PhosphorIconsFill.buildingApartment]. [PT] Atalho para [PhosphorIconsFill.buildingApartment].
-  static const IconData buildingApartmentFill = PhosphorIconsFill.buildingApartment;
+  static const IconData buildingApartmentFill =
+      PhosphorIconsFill.buildingApartment;
 
   /// Shortcut for [PhosphorIconsDuotone.buildingApartment]. [PT] Atalho para [PhosphorIconsDuotone.buildingApartment].
-  static const buildingApartmentDuotone = PhosphorIconsDuotone.buildingApartment;
+  static const buildingApartmentDuotone =
+      PhosphorIconsDuotone.buildingApartment;
 
   /// Shortcut for [PhosphorIconsRegular.buildingOffice]. [PT] Atalho para [PhosphorIconsRegular.buildingOffice].
   static const IconData buildingOffice = PhosphorIconsRegular.buildingOffice;
@@ -5163,76 +5562,100 @@ class PhosphorIcons {
   static const cardsThreeDuotone = PhosphorIconsDuotone.cardsThree;
 
   /// Shortcut for [PhosphorIconsRegular.caretCircleDoubleDown]. [PT] Atalho para [PhosphorIconsRegular.caretCircleDoubleDown].
-  static const IconData caretCircleDoubleDown = PhosphorIconsRegular.caretCircleDoubleDown;
+  static const IconData caretCircleDoubleDown =
+      PhosphorIconsRegular.caretCircleDoubleDown;
 
   /// Shortcut for [PhosphorIconsThin.caretCircleDoubleDown]. [PT] Atalho para [PhosphorIconsThin.caretCircleDoubleDown].
-  static const IconData caretCircleDoubleDownThin = PhosphorIconsThin.caretCircleDoubleDown;
+  static const IconData caretCircleDoubleDownThin =
+      PhosphorIconsThin.caretCircleDoubleDown;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleDoubleDown]. [PT] Atalho para [PhosphorIconsLight.caretCircleDoubleDown].
-  static const IconData caretCircleDoubleDownLight = PhosphorIconsLight.caretCircleDoubleDown;
+  static const IconData caretCircleDoubleDownLight =
+      PhosphorIconsLight.caretCircleDoubleDown;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleDoubleDown]. [PT] Atalho para [PhosphorIconsBold.caretCircleDoubleDown].
-  static const IconData caretCircleDoubleDownBold = PhosphorIconsBold.caretCircleDoubleDown;
+  static const IconData caretCircleDoubleDownBold =
+      PhosphorIconsBold.caretCircleDoubleDown;
 
   /// Shortcut for [PhosphorIconsFill.caretCircleDoubleDown]. [PT] Atalho para [PhosphorIconsFill.caretCircleDoubleDown].
-  static const IconData caretCircleDoubleDownFill = PhosphorIconsFill.caretCircleDoubleDown;
+  static const IconData caretCircleDoubleDownFill =
+      PhosphorIconsFill.caretCircleDoubleDown;
 
   /// Shortcut for [PhosphorIconsDuotone.caretCircleDoubleDown]. [PT] Atalho para [PhosphorIconsDuotone.caretCircleDoubleDown].
-  static const caretCircleDoubleDownDuotone = PhosphorIconsDuotone.caretCircleDoubleDown;
+  static const caretCircleDoubleDownDuotone =
+      PhosphorIconsDuotone.caretCircleDoubleDown;
 
   /// Shortcut for [PhosphorIconsRegular.caretCircleDoubleLeft]. [PT] Atalho para [PhosphorIconsRegular.caretCircleDoubleLeft].
-  static const IconData caretCircleDoubleLeft = PhosphorIconsRegular.caretCircleDoubleLeft;
+  static const IconData caretCircleDoubleLeft =
+      PhosphorIconsRegular.caretCircleDoubleLeft;
 
   /// Shortcut for [PhosphorIconsThin.caretCircleDoubleLeft]. [PT] Atalho para [PhosphorIconsThin.caretCircleDoubleLeft].
-  static const IconData caretCircleDoubleLeftThin = PhosphorIconsThin.caretCircleDoubleLeft;
+  static const IconData caretCircleDoubleLeftThin =
+      PhosphorIconsThin.caretCircleDoubleLeft;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleDoubleLeft]. [PT] Atalho para [PhosphorIconsLight.caretCircleDoubleLeft].
-  static const IconData caretCircleDoubleLeftLight = PhosphorIconsLight.caretCircleDoubleLeft;
+  static const IconData caretCircleDoubleLeftLight =
+      PhosphorIconsLight.caretCircleDoubleLeft;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleDoubleLeft]. [PT] Atalho para [PhosphorIconsBold.caretCircleDoubleLeft].
-  static const IconData caretCircleDoubleLeftBold = PhosphorIconsBold.caretCircleDoubleLeft;
+  static const IconData caretCircleDoubleLeftBold =
+      PhosphorIconsBold.caretCircleDoubleLeft;
 
   /// Shortcut for [PhosphorIconsFill.caretCircleDoubleLeft]. [PT] Atalho para [PhosphorIconsFill.caretCircleDoubleLeft].
-  static const IconData caretCircleDoubleLeftFill = PhosphorIconsFill.caretCircleDoubleLeft;
+  static const IconData caretCircleDoubleLeftFill =
+      PhosphorIconsFill.caretCircleDoubleLeft;
 
   /// Shortcut for [PhosphorIconsDuotone.caretCircleDoubleLeft]. [PT] Atalho para [PhosphorIconsDuotone.caretCircleDoubleLeft].
-  static const caretCircleDoubleLeftDuotone = PhosphorIconsDuotone.caretCircleDoubleLeft;
+  static const caretCircleDoubleLeftDuotone =
+      PhosphorIconsDuotone.caretCircleDoubleLeft;
 
   /// Shortcut for [PhosphorIconsRegular.caretCircleDoubleRight]. [PT] Atalho para [PhosphorIconsRegular.caretCircleDoubleRight].
-  static const IconData caretCircleDoubleRight = PhosphorIconsRegular.caretCircleDoubleRight;
+  static const IconData caretCircleDoubleRight =
+      PhosphorIconsRegular.caretCircleDoubleRight;
 
   /// Shortcut for [PhosphorIconsThin.caretCircleDoubleRight]. [PT] Atalho para [PhosphorIconsThin.caretCircleDoubleRight].
-  static const IconData caretCircleDoubleRightThin = PhosphorIconsThin.caretCircleDoubleRight;
+  static const IconData caretCircleDoubleRightThin =
+      PhosphorIconsThin.caretCircleDoubleRight;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleDoubleRight]. [PT] Atalho para [PhosphorIconsLight.caretCircleDoubleRight].
-  static const IconData caretCircleDoubleRightLight = PhosphorIconsLight.caretCircleDoubleRight;
+  static const IconData caretCircleDoubleRightLight =
+      PhosphorIconsLight.caretCircleDoubleRight;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleDoubleRight]. [PT] Atalho para [PhosphorIconsBold.caretCircleDoubleRight].
-  static const IconData caretCircleDoubleRightBold = PhosphorIconsBold.caretCircleDoubleRight;
+  static const IconData caretCircleDoubleRightBold =
+      PhosphorIconsBold.caretCircleDoubleRight;
 
   /// Shortcut for [PhosphorIconsFill.caretCircleDoubleRight]. [PT] Atalho para [PhosphorIconsFill.caretCircleDoubleRight].
-  static const IconData caretCircleDoubleRightFill = PhosphorIconsFill.caretCircleDoubleRight;
+  static const IconData caretCircleDoubleRightFill =
+      PhosphorIconsFill.caretCircleDoubleRight;
 
   /// Shortcut for [PhosphorIconsDuotone.caretCircleDoubleRight]. [PT] Atalho para [PhosphorIconsDuotone.caretCircleDoubleRight].
-  static const caretCircleDoubleRightDuotone = PhosphorIconsDuotone.caretCircleDoubleRight;
+  static const caretCircleDoubleRightDuotone =
+      PhosphorIconsDuotone.caretCircleDoubleRight;
 
   /// Shortcut for [PhosphorIconsRegular.caretCircleDoubleUp]. [PT] Atalho para [PhosphorIconsRegular.caretCircleDoubleUp].
-  static const IconData caretCircleDoubleUp = PhosphorIconsRegular.caretCircleDoubleUp;
+  static const IconData caretCircleDoubleUp =
+      PhosphorIconsRegular.caretCircleDoubleUp;
 
   /// Shortcut for [PhosphorIconsThin.caretCircleDoubleUp]. [PT] Atalho para [PhosphorIconsThin.caretCircleDoubleUp].
-  static const IconData caretCircleDoubleUpThin = PhosphorIconsThin.caretCircleDoubleUp;
+  static const IconData caretCircleDoubleUpThin =
+      PhosphorIconsThin.caretCircleDoubleUp;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleDoubleUp]. [PT] Atalho para [PhosphorIconsLight.caretCircleDoubleUp].
-  static const IconData caretCircleDoubleUpLight = PhosphorIconsLight.caretCircleDoubleUp;
+  static const IconData caretCircleDoubleUpLight =
+      PhosphorIconsLight.caretCircleDoubleUp;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleDoubleUp]. [PT] Atalho para [PhosphorIconsBold.caretCircleDoubleUp].
-  static const IconData caretCircleDoubleUpBold = PhosphorIconsBold.caretCircleDoubleUp;
+  static const IconData caretCircleDoubleUpBold =
+      PhosphorIconsBold.caretCircleDoubleUp;
 
   /// Shortcut for [PhosphorIconsFill.caretCircleDoubleUp]. [PT] Atalho para [PhosphorIconsFill.caretCircleDoubleUp].
-  static const IconData caretCircleDoubleUpFill = PhosphorIconsFill.caretCircleDoubleUp;
+  static const IconData caretCircleDoubleUpFill =
+      PhosphorIconsFill.caretCircleDoubleUp;
 
   /// Shortcut for [PhosphorIconsDuotone.caretCircleDoubleUp]. [PT] Atalho para [PhosphorIconsDuotone.caretCircleDoubleUp].
-  static const caretCircleDoubleUpDuotone = PhosphorIconsDuotone.caretCircleDoubleUp;
+  static const caretCircleDoubleUpDuotone =
+      PhosphorIconsDuotone.caretCircleDoubleUp;
 
   /// Shortcut for [PhosphorIconsRegular.caretCircleDown]. [PT] Atalho para [PhosphorIconsRegular.caretCircleDown].
   static const IconData caretCircleDown = PhosphorIconsRegular.caretCircleDown;
@@ -5241,7 +5664,8 @@ class PhosphorIcons {
   static const IconData caretCircleDownThin = PhosphorIconsThin.caretCircleDown;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleDown]. [PT] Atalho para [PhosphorIconsLight.caretCircleDown].
-  static const IconData caretCircleDownLight = PhosphorIconsLight.caretCircleDown;
+  static const IconData caretCircleDownLight =
+      PhosphorIconsLight.caretCircleDown;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleDown]. [PT] Atalho para [PhosphorIconsBold.caretCircleDown].
   static const IconData caretCircleDownBold = PhosphorIconsBold.caretCircleDown;
@@ -5259,7 +5683,8 @@ class PhosphorIcons {
   static const IconData caretCircleLeftThin = PhosphorIconsThin.caretCircleLeft;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleLeft]. [PT] Atalho para [PhosphorIconsLight.caretCircleLeft].
-  static const IconData caretCircleLeftLight = PhosphorIconsLight.caretCircleLeft;
+  static const IconData caretCircleLeftLight =
+      PhosphorIconsLight.caretCircleLeft;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleLeft]. [PT] Atalho para [PhosphorIconsBold.caretCircleLeft].
   static const IconData caretCircleLeftBold = PhosphorIconsBold.caretCircleLeft;
@@ -5271,19 +5696,24 @@ class PhosphorIcons {
   static const caretCircleLeftDuotone = PhosphorIconsDuotone.caretCircleLeft;
 
   /// Shortcut for [PhosphorIconsRegular.caretCircleRight]. [PT] Atalho para [PhosphorIconsRegular.caretCircleRight].
-  static const IconData caretCircleRight = PhosphorIconsRegular.caretCircleRight;
+  static const IconData caretCircleRight =
+      PhosphorIconsRegular.caretCircleRight;
 
   /// Shortcut for [PhosphorIconsThin.caretCircleRight]. [PT] Atalho para [PhosphorIconsThin.caretCircleRight].
-  static const IconData caretCircleRightThin = PhosphorIconsThin.caretCircleRight;
+  static const IconData caretCircleRightThin =
+      PhosphorIconsThin.caretCircleRight;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleRight]. [PT] Atalho para [PhosphorIconsLight.caretCircleRight].
-  static const IconData caretCircleRightLight = PhosphorIconsLight.caretCircleRight;
+  static const IconData caretCircleRightLight =
+      PhosphorIconsLight.caretCircleRight;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleRight]. [PT] Atalho para [PhosphorIconsBold.caretCircleRight].
-  static const IconData caretCircleRightBold = PhosphorIconsBold.caretCircleRight;
+  static const IconData caretCircleRightBold =
+      PhosphorIconsBold.caretCircleRight;
 
   /// Shortcut for [PhosphorIconsFill.caretCircleRight]. [PT] Atalho para [PhosphorIconsFill.caretCircleRight].
-  static const IconData caretCircleRightFill = PhosphorIconsFill.caretCircleRight;
+  static const IconData caretCircleRightFill =
+      PhosphorIconsFill.caretCircleRight;
 
   /// Shortcut for [PhosphorIconsDuotone.caretCircleRight]. [PT] Atalho para [PhosphorIconsDuotone.caretCircleRight].
   static const caretCircleRightDuotone = PhosphorIconsDuotone.caretCircleRight;
@@ -5307,22 +5737,28 @@ class PhosphorIcons {
   static const caretCircleUpDuotone = PhosphorIconsDuotone.caretCircleUp;
 
   /// Shortcut for [PhosphorIconsRegular.caretCircleUpDown]. [PT] Atalho para [PhosphorIconsRegular.caretCircleUpDown].
-  static const IconData caretCircleUpDown = PhosphorIconsRegular.caretCircleUpDown;
+  static const IconData caretCircleUpDown =
+      PhosphorIconsRegular.caretCircleUpDown;
 
   /// Shortcut for [PhosphorIconsThin.caretCircleUpDown]. [PT] Atalho para [PhosphorIconsThin.caretCircleUpDown].
-  static const IconData caretCircleUpDownThin = PhosphorIconsThin.caretCircleUpDown;
+  static const IconData caretCircleUpDownThin =
+      PhosphorIconsThin.caretCircleUpDown;
 
   /// Shortcut for [PhosphorIconsLight.caretCircleUpDown]. [PT] Atalho para [PhosphorIconsLight.caretCircleUpDown].
-  static const IconData caretCircleUpDownLight = PhosphorIconsLight.caretCircleUpDown;
+  static const IconData caretCircleUpDownLight =
+      PhosphorIconsLight.caretCircleUpDown;
 
   /// Shortcut for [PhosphorIconsBold.caretCircleUpDown]. [PT] Atalho para [PhosphorIconsBold.caretCircleUpDown].
-  static const IconData caretCircleUpDownBold = PhosphorIconsBold.caretCircleUpDown;
+  static const IconData caretCircleUpDownBold =
+      PhosphorIconsBold.caretCircleUpDown;
 
   /// Shortcut for [PhosphorIconsFill.caretCircleUpDown]. [PT] Atalho para [PhosphorIconsFill.caretCircleUpDown].
-  static const IconData caretCircleUpDownFill = PhosphorIconsFill.caretCircleUpDown;
+  static const IconData caretCircleUpDownFill =
+      PhosphorIconsFill.caretCircleUpDown;
 
   /// Shortcut for [PhosphorIconsDuotone.caretCircleUpDown]. [PT] Atalho para [PhosphorIconsDuotone.caretCircleUpDown].
-  static const caretCircleUpDownDuotone = PhosphorIconsDuotone.caretCircleUpDown;
+  static const caretCircleUpDownDuotone =
+      PhosphorIconsDuotone.caretCircleUpDown;
 
   /// Shortcut for [PhosphorIconsRegular.caretDoubleDown]. [PT] Atalho para [PhosphorIconsRegular.caretDoubleDown].
   static const IconData caretDoubleDown = PhosphorIconsRegular.caretDoubleDown;
@@ -5331,7 +5767,8 @@ class PhosphorIcons {
   static const IconData caretDoubleDownThin = PhosphorIconsThin.caretDoubleDown;
 
   /// Shortcut for [PhosphorIconsLight.caretDoubleDown]. [PT] Atalho para [PhosphorIconsLight.caretDoubleDown].
-  static const IconData caretDoubleDownLight = PhosphorIconsLight.caretDoubleDown;
+  static const IconData caretDoubleDownLight =
+      PhosphorIconsLight.caretDoubleDown;
 
   /// Shortcut for [PhosphorIconsBold.caretDoubleDown]. [PT] Atalho para [PhosphorIconsBold.caretDoubleDown].
   static const IconData caretDoubleDownBold = PhosphorIconsBold.caretDoubleDown;
@@ -5349,7 +5786,8 @@ class PhosphorIcons {
   static const IconData caretDoubleLeftThin = PhosphorIconsThin.caretDoubleLeft;
 
   /// Shortcut for [PhosphorIconsLight.caretDoubleLeft]. [PT] Atalho para [PhosphorIconsLight.caretDoubleLeft].
-  static const IconData caretDoubleLeftLight = PhosphorIconsLight.caretDoubleLeft;
+  static const IconData caretDoubleLeftLight =
+      PhosphorIconsLight.caretDoubleLeft;
 
   /// Shortcut for [PhosphorIconsBold.caretDoubleLeft]. [PT] Atalho para [PhosphorIconsBold.caretDoubleLeft].
   static const IconData caretDoubleLeftBold = PhosphorIconsBold.caretDoubleLeft;
@@ -5361,19 +5799,24 @@ class PhosphorIcons {
   static const caretDoubleLeftDuotone = PhosphorIconsDuotone.caretDoubleLeft;
 
   /// Shortcut for [PhosphorIconsRegular.caretDoubleRight]. [PT] Atalho para [PhosphorIconsRegular.caretDoubleRight].
-  static const IconData caretDoubleRight = PhosphorIconsRegular.caretDoubleRight;
+  static const IconData caretDoubleRight =
+      PhosphorIconsRegular.caretDoubleRight;
 
   /// Shortcut for [PhosphorIconsThin.caretDoubleRight]. [PT] Atalho para [PhosphorIconsThin.caretDoubleRight].
-  static const IconData caretDoubleRightThin = PhosphorIconsThin.caretDoubleRight;
+  static const IconData caretDoubleRightThin =
+      PhosphorIconsThin.caretDoubleRight;
 
   /// Shortcut for [PhosphorIconsLight.caretDoubleRight]. [PT] Atalho para [PhosphorIconsLight.caretDoubleRight].
-  static const IconData caretDoubleRightLight = PhosphorIconsLight.caretDoubleRight;
+  static const IconData caretDoubleRightLight =
+      PhosphorIconsLight.caretDoubleRight;
 
   /// Shortcut for [PhosphorIconsBold.caretDoubleRight]. [PT] Atalho para [PhosphorIconsBold.caretDoubleRight].
-  static const IconData caretDoubleRightBold = PhosphorIconsBold.caretDoubleRight;
+  static const IconData caretDoubleRightBold =
+      PhosphorIconsBold.caretDoubleRight;
 
   /// Shortcut for [PhosphorIconsFill.caretDoubleRight]. [PT] Atalho para [PhosphorIconsFill.caretDoubleRight].
-  static const IconData caretDoubleRightFill = PhosphorIconsFill.caretDoubleRight;
+  static const IconData caretDoubleRightFill =
+      PhosphorIconsFill.caretDoubleRight;
 
   /// Shortcut for [PhosphorIconsDuotone.caretDoubleRight]. [PT] Atalho para [PhosphorIconsDuotone.caretDoubleRight].
   static const caretDoubleRightDuotone = PhosphorIconsDuotone.caretDoubleRight;
@@ -5703,19 +6146,24 @@ class PhosphorIcons {
   static const cellSignalLowDuotone = PhosphorIconsDuotone.cellSignalLow;
 
   /// Shortcut for [PhosphorIconsRegular.cellSignalMedium]. [PT] Atalho para [PhosphorIconsRegular.cellSignalMedium].
-  static const IconData cellSignalMedium = PhosphorIconsRegular.cellSignalMedium;
+  static const IconData cellSignalMedium =
+      PhosphorIconsRegular.cellSignalMedium;
 
   /// Shortcut for [PhosphorIconsThin.cellSignalMedium]. [PT] Atalho para [PhosphorIconsThin.cellSignalMedium].
-  static const IconData cellSignalMediumThin = PhosphorIconsThin.cellSignalMedium;
+  static const IconData cellSignalMediumThin =
+      PhosphorIconsThin.cellSignalMedium;
 
   /// Shortcut for [PhosphorIconsLight.cellSignalMedium]. [PT] Atalho para [PhosphorIconsLight.cellSignalMedium].
-  static const IconData cellSignalMediumLight = PhosphorIconsLight.cellSignalMedium;
+  static const IconData cellSignalMediumLight =
+      PhosphorIconsLight.cellSignalMedium;
 
   /// Shortcut for [PhosphorIconsBold.cellSignalMedium]. [PT] Atalho para [PhosphorIconsBold.cellSignalMedium].
-  static const IconData cellSignalMediumBold = PhosphorIconsBold.cellSignalMedium;
+  static const IconData cellSignalMediumBold =
+      PhosphorIconsBold.cellSignalMedium;
 
   /// Shortcut for [PhosphorIconsFill.cellSignalMedium]. [PT] Atalho para [PhosphorIconsFill.cellSignalMedium].
-  static const IconData cellSignalMediumFill = PhosphorIconsFill.cellSignalMedium;
+  static const IconData cellSignalMediumFill =
+      PhosphorIconsFill.cellSignalMedium;
 
   /// Shortcut for [PhosphorIconsDuotone.cellSignalMedium]. [PT] Atalho para [PhosphorIconsDuotone.cellSignalMedium].
   static const cellSignalMediumDuotone = PhosphorIconsDuotone.cellSignalMedium;
@@ -5745,7 +6193,8 @@ class PhosphorIcons {
   static const IconData cellSignalSlashThin = PhosphorIconsThin.cellSignalSlash;
 
   /// Shortcut for [PhosphorIconsLight.cellSignalSlash]. [PT] Atalho para [PhosphorIconsLight.cellSignalSlash].
-  static const IconData cellSignalSlashLight = PhosphorIconsLight.cellSignalSlash;
+  static const IconData cellSignalSlashLight =
+      PhosphorIconsLight.cellSignalSlash;
 
   /// Shortcut for [PhosphorIconsBold.cellSignalSlash]. [PT] Atalho para [PhosphorIconsBold.cellSignalSlash].
   static const IconData cellSignalSlashBold = PhosphorIconsBold.cellSignalSlash;
@@ -5847,40 +6296,51 @@ class PhosphorIcons {
   static const chalkboardDuotone = PhosphorIconsDuotone.chalkboard;
 
   /// Shortcut for [PhosphorIconsRegular.chalkboardSimple]. [PT] Atalho para [PhosphorIconsRegular.chalkboardSimple].
-  static const IconData chalkboardSimple = PhosphorIconsRegular.chalkboardSimple;
+  static const IconData chalkboardSimple =
+      PhosphorIconsRegular.chalkboardSimple;
 
   /// Shortcut for [PhosphorIconsThin.chalkboardSimple]. [PT] Atalho para [PhosphorIconsThin.chalkboardSimple].
-  static const IconData chalkboardSimpleThin = PhosphorIconsThin.chalkboardSimple;
+  static const IconData chalkboardSimpleThin =
+      PhosphorIconsThin.chalkboardSimple;
 
   /// Shortcut for [PhosphorIconsLight.chalkboardSimple]. [PT] Atalho para [PhosphorIconsLight.chalkboardSimple].
-  static const IconData chalkboardSimpleLight = PhosphorIconsLight.chalkboardSimple;
+  static const IconData chalkboardSimpleLight =
+      PhosphorIconsLight.chalkboardSimple;
 
   /// Shortcut for [PhosphorIconsBold.chalkboardSimple]. [PT] Atalho para [PhosphorIconsBold.chalkboardSimple].
-  static const IconData chalkboardSimpleBold = PhosphorIconsBold.chalkboardSimple;
+  static const IconData chalkboardSimpleBold =
+      PhosphorIconsBold.chalkboardSimple;
 
   /// Shortcut for [PhosphorIconsFill.chalkboardSimple]. [PT] Atalho para [PhosphorIconsFill.chalkboardSimple].
-  static const IconData chalkboardSimpleFill = PhosphorIconsFill.chalkboardSimple;
+  static const IconData chalkboardSimpleFill =
+      PhosphorIconsFill.chalkboardSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.chalkboardSimple]. [PT] Atalho para [PhosphorIconsDuotone.chalkboardSimple].
   static const chalkboardSimpleDuotone = PhosphorIconsDuotone.chalkboardSimple;
 
   /// Shortcut for [PhosphorIconsRegular.chalkboardTeacher]. [PT] Atalho para [PhosphorIconsRegular.chalkboardTeacher].
-  static const IconData chalkboardTeacher = PhosphorIconsRegular.chalkboardTeacher;
+  static const IconData chalkboardTeacher =
+      PhosphorIconsRegular.chalkboardTeacher;
 
   /// Shortcut for [PhosphorIconsThin.chalkboardTeacher]. [PT] Atalho para [PhosphorIconsThin.chalkboardTeacher].
-  static const IconData chalkboardTeacherThin = PhosphorIconsThin.chalkboardTeacher;
+  static const IconData chalkboardTeacherThin =
+      PhosphorIconsThin.chalkboardTeacher;
 
   /// Shortcut for [PhosphorIconsLight.chalkboardTeacher]. [PT] Atalho para [PhosphorIconsLight.chalkboardTeacher].
-  static const IconData chalkboardTeacherLight = PhosphorIconsLight.chalkboardTeacher;
+  static const IconData chalkboardTeacherLight =
+      PhosphorIconsLight.chalkboardTeacher;
 
   /// Shortcut for [PhosphorIconsBold.chalkboardTeacher]. [PT] Atalho para [PhosphorIconsBold.chalkboardTeacher].
-  static const IconData chalkboardTeacherBold = PhosphorIconsBold.chalkboardTeacher;
+  static const IconData chalkboardTeacherBold =
+      PhosphorIconsBold.chalkboardTeacher;
 
   /// Shortcut for [PhosphorIconsFill.chalkboardTeacher]. [PT] Atalho para [PhosphorIconsFill.chalkboardTeacher].
-  static const IconData chalkboardTeacherFill = PhosphorIconsFill.chalkboardTeacher;
+  static const IconData chalkboardTeacherFill =
+      PhosphorIconsFill.chalkboardTeacher;
 
   /// Shortcut for [PhosphorIconsDuotone.chalkboardTeacher]. [PT] Atalho para [PhosphorIconsDuotone.chalkboardTeacher].
-  static const chalkboardTeacherDuotone = PhosphorIconsDuotone.chalkboardTeacher;
+  static const chalkboardTeacherDuotone =
+      PhosphorIconsDuotone.chalkboardTeacher;
 
   /// Shortcut for [PhosphorIconsRegular.champagne]. [PT] Atalho para [PhosphorIconsRegular.champagne].
   static const IconData champagne = PhosphorIconsRegular.champagne;
@@ -5907,7 +6367,8 @@ class PhosphorIcons {
   static const IconData chargingStationThin = PhosphorIconsThin.chargingStation;
 
   /// Shortcut for [PhosphorIconsLight.chargingStation]. [PT] Atalho para [PhosphorIconsLight.chargingStation].
-  static const IconData chargingStationLight = PhosphorIconsLight.chargingStation;
+  static const IconData chargingStationLight =
+      PhosphorIconsLight.chargingStation;
 
   /// Shortcut for [PhosphorIconsBold.chargingStation]. [PT] Atalho para [PhosphorIconsBold.chargingStation].
   static const IconData chargingStationBold = PhosphorIconsBold.chargingStation;
@@ -5937,22 +6398,28 @@ class PhosphorIcons {
   static const chartBarDuotone = PhosphorIconsDuotone.chartBar;
 
   /// Shortcut for [PhosphorIconsRegular.chartBarHorizontal]. [PT] Atalho para [PhosphorIconsRegular.chartBarHorizontal].
-  static const IconData chartBarHorizontal = PhosphorIconsRegular.chartBarHorizontal;
+  static const IconData chartBarHorizontal =
+      PhosphorIconsRegular.chartBarHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.chartBarHorizontal]. [PT] Atalho para [PhosphorIconsThin.chartBarHorizontal].
-  static const IconData chartBarHorizontalThin = PhosphorIconsThin.chartBarHorizontal;
+  static const IconData chartBarHorizontalThin =
+      PhosphorIconsThin.chartBarHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.chartBarHorizontal]. [PT] Atalho para [PhosphorIconsLight.chartBarHorizontal].
-  static const IconData chartBarHorizontalLight = PhosphorIconsLight.chartBarHorizontal;
+  static const IconData chartBarHorizontalLight =
+      PhosphorIconsLight.chartBarHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.chartBarHorizontal]. [PT] Atalho para [PhosphorIconsBold.chartBarHorizontal].
-  static const IconData chartBarHorizontalBold = PhosphorIconsBold.chartBarHorizontal;
+  static const IconData chartBarHorizontalBold =
+      PhosphorIconsBold.chartBarHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.chartBarHorizontal]. [PT] Atalho para [PhosphorIconsFill.chartBarHorizontal].
-  static const IconData chartBarHorizontalFill = PhosphorIconsFill.chartBarHorizontal;
+  static const IconData chartBarHorizontalFill =
+      PhosphorIconsFill.chartBarHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.chartBarHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.chartBarHorizontal].
-  static const chartBarHorizontalDuotone = PhosphorIconsDuotone.chartBarHorizontal;
+  static const chartBarHorizontalDuotone =
+      PhosphorIconsDuotone.chartBarHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.chartDonut]. [PT] Atalho para [PhosphorIconsRegular.chartDonut].
   static const IconData chartDonut = PhosphorIconsRegular.chartDonut;
@@ -6135,55 +6602,71 @@ class PhosphorIcons {
   static const chatCenteredDuotone = PhosphorIconsDuotone.chatCentered;
 
   /// Shortcut for [PhosphorIconsRegular.chatCenteredDots]. [PT] Atalho para [PhosphorIconsRegular.chatCenteredDots].
-  static const IconData chatCenteredDots = PhosphorIconsRegular.chatCenteredDots;
+  static const IconData chatCenteredDots =
+      PhosphorIconsRegular.chatCenteredDots;
 
   /// Shortcut for [PhosphorIconsThin.chatCenteredDots]. [PT] Atalho para [PhosphorIconsThin.chatCenteredDots].
-  static const IconData chatCenteredDotsThin = PhosphorIconsThin.chatCenteredDots;
+  static const IconData chatCenteredDotsThin =
+      PhosphorIconsThin.chatCenteredDots;
 
   /// Shortcut for [PhosphorIconsLight.chatCenteredDots]. [PT] Atalho para [PhosphorIconsLight.chatCenteredDots].
-  static const IconData chatCenteredDotsLight = PhosphorIconsLight.chatCenteredDots;
+  static const IconData chatCenteredDotsLight =
+      PhosphorIconsLight.chatCenteredDots;
 
   /// Shortcut for [PhosphorIconsBold.chatCenteredDots]. [PT] Atalho para [PhosphorIconsBold.chatCenteredDots].
-  static const IconData chatCenteredDotsBold = PhosphorIconsBold.chatCenteredDots;
+  static const IconData chatCenteredDotsBold =
+      PhosphorIconsBold.chatCenteredDots;
 
   /// Shortcut for [PhosphorIconsFill.chatCenteredDots]. [PT] Atalho para [PhosphorIconsFill.chatCenteredDots].
-  static const IconData chatCenteredDotsFill = PhosphorIconsFill.chatCenteredDots;
+  static const IconData chatCenteredDotsFill =
+      PhosphorIconsFill.chatCenteredDots;
 
   /// Shortcut for [PhosphorIconsDuotone.chatCenteredDots]. [PT] Atalho para [PhosphorIconsDuotone.chatCenteredDots].
   static const chatCenteredDotsDuotone = PhosphorIconsDuotone.chatCenteredDots;
 
   /// Shortcut for [PhosphorIconsRegular.chatCenteredSlash]. [PT] Atalho para [PhosphorIconsRegular.chatCenteredSlash].
-  static const IconData chatCenteredSlash = PhosphorIconsRegular.chatCenteredSlash;
+  static const IconData chatCenteredSlash =
+      PhosphorIconsRegular.chatCenteredSlash;
 
   /// Shortcut for [PhosphorIconsThin.chatCenteredSlash]. [PT] Atalho para [PhosphorIconsThin.chatCenteredSlash].
-  static const IconData chatCenteredSlashThin = PhosphorIconsThin.chatCenteredSlash;
+  static const IconData chatCenteredSlashThin =
+      PhosphorIconsThin.chatCenteredSlash;
 
   /// Shortcut for [PhosphorIconsLight.chatCenteredSlash]. [PT] Atalho para [PhosphorIconsLight.chatCenteredSlash].
-  static const IconData chatCenteredSlashLight = PhosphorIconsLight.chatCenteredSlash;
+  static const IconData chatCenteredSlashLight =
+      PhosphorIconsLight.chatCenteredSlash;
 
   /// Shortcut for [PhosphorIconsBold.chatCenteredSlash]. [PT] Atalho para [PhosphorIconsBold.chatCenteredSlash].
-  static const IconData chatCenteredSlashBold = PhosphorIconsBold.chatCenteredSlash;
+  static const IconData chatCenteredSlashBold =
+      PhosphorIconsBold.chatCenteredSlash;
 
   /// Shortcut for [PhosphorIconsFill.chatCenteredSlash]. [PT] Atalho para [PhosphorIconsFill.chatCenteredSlash].
-  static const IconData chatCenteredSlashFill = PhosphorIconsFill.chatCenteredSlash;
+  static const IconData chatCenteredSlashFill =
+      PhosphorIconsFill.chatCenteredSlash;
 
   /// Shortcut for [PhosphorIconsDuotone.chatCenteredSlash]. [PT] Atalho para [PhosphorIconsDuotone.chatCenteredSlash].
-  static const chatCenteredSlashDuotone = PhosphorIconsDuotone.chatCenteredSlash;
+  static const chatCenteredSlashDuotone =
+      PhosphorIconsDuotone.chatCenteredSlash;
 
   /// Shortcut for [PhosphorIconsRegular.chatCenteredText]. [PT] Atalho para [PhosphorIconsRegular.chatCenteredText].
-  static const IconData chatCenteredText = PhosphorIconsRegular.chatCenteredText;
+  static const IconData chatCenteredText =
+      PhosphorIconsRegular.chatCenteredText;
 
   /// Shortcut for [PhosphorIconsThin.chatCenteredText]. [PT] Atalho para [PhosphorIconsThin.chatCenteredText].
-  static const IconData chatCenteredTextThin = PhosphorIconsThin.chatCenteredText;
+  static const IconData chatCenteredTextThin =
+      PhosphorIconsThin.chatCenteredText;
 
   /// Shortcut for [PhosphorIconsLight.chatCenteredText]. [PT] Atalho para [PhosphorIconsLight.chatCenteredText].
-  static const IconData chatCenteredTextLight = PhosphorIconsLight.chatCenteredText;
+  static const IconData chatCenteredTextLight =
+      PhosphorIconsLight.chatCenteredText;
 
   /// Shortcut for [PhosphorIconsBold.chatCenteredText]. [PT] Atalho para [PhosphorIconsBold.chatCenteredText].
-  static const IconData chatCenteredTextBold = PhosphorIconsBold.chatCenteredText;
+  static const IconData chatCenteredTextBold =
+      PhosphorIconsBold.chatCenteredText;
 
   /// Shortcut for [PhosphorIconsFill.chatCenteredText]. [PT] Atalho para [PhosphorIconsFill.chatCenteredText].
-  static const IconData chatCenteredTextFill = PhosphorIconsFill.chatCenteredText;
+  static const IconData chatCenteredTextFill =
+      PhosphorIconsFill.chatCenteredText;
 
   /// Shortcut for [PhosphorIconsDuotone.chatCenteredText]. [PT] Atalho para [PhosphorIconsDuotone.chatCenteredText].
   static const chatCenteredTextDuotone = PhosphorIconsDuotone.chatCenteredText;
@@ -6231,7 +6714,8 @@ class PhosphorIcons {
   static const IconData chatCircleSlashThin = PhosphorIconsThin.chatCircleSlash;
 
   /// Shortcut for [PhosphorIconsLight.chatCircleSlash]. [PT] Atalho para [PhosphorIconsLight.chatCircleSlash].
-  static const IconData chatCircleSlashLight = PhosphorIconsLight.chatCircleSlash;
+  static const IconData chatCircleSlashLight =
+      PhosphorIconsLight.chatCircleSlash;
 
   /// Shortcut for [PhosphorIconsBold.chatCircleSlash]. [PT] Atalho para [PhosphorIconsBold.chatCircleSlash].
   static const IconData chatCircleSlashBold = PhosphorIconsBold.chatCircleSlash;
@@ -6315,55 +6799,71 @@ class PhosphorIcons {
   static const chatTeardropDuotone = PhosphorIconsDuotone.chatTeardrop;
 
   /// Shortcut for [PhosphorIconsRegular.chatTeardropDots]. [PT] Atalho para [PhosphorIconsRegular.chatTeardropDots].
-  static const IconData chatTeardropDots = PhosphorIconsRegular.chatTeardropDots;
+  static const IconData chatTeardropDots =
+      PhosphorIconsRegular.chatTeardropDots;
 
   /// Shortcut for [PhosphorIconsThin.chatTeardropDots]. [PT] Atalho para [PhosphorIconsThin.chatTeardropDots].
-  static const IconData chatTeardropDotsThin = PhosphorIconsThin.chatTeardropDots;
+  static const IconData chatTeardropDotsThin =
+      PhosphorIconsThin.chatTeardropDots;
 
   /// Shortcut for [PhosphorIconsLight.chatTeardropDots]. [PT] Atalho para [PhosphorIconsLight.chatTeardropDots].
-  static const IconData chatTeardropDotsLight = PhosphorIconsLight.chatTeardropDots;
+  static const IconData chatTeardropDotsLight =
+      PhosphorIconsLight.chatTeardropDots;
 
   /// Shortcut for [PhosphorIconsBold.chatTeardropDots]. [PT] Atalho para [PhosphorIconsBold.chatTeardropDots].
-  static const IconData chatTeardropDotsBold = PhosphorIconsBold.chatTeardropDots;
+  static const IconData chatTeardropDotsBold =
+      PhosphorIconsBold.chatTeardropDots;
 
   /// Shortcut for [PhosphorIconsFill.chatTeardropDots]. [PT] Atalho para [PhosphorIconsFill.chatTeardropDots].
-  static const IconData chatTeardropDotsFill = PhosphorIconsFill.chatTeardropDots;
+  static const IconData chatTeardropDotsFill =
+      PhosphorIconsFill.chatTeardropDots;
 
   /// Shortcut for [PhosphorIconsDuotone.chatTeardropDots]. [PT] Atalho para [PhosphorIconsDuotone.chatTeardropDots].
   static const chatTeardropDotsDuotone = PhosphorIconsDuotone.chatTeardropDots;
 
   /// Shortcut for [PhosphorIconsRegular.chatTeardropSlash]. [PT] Atalho para [PhosphorIconsRegular.chatTeardropSlash].
-  static const IconData chatTeardropSlash = PhosphorIconsRegular.chatTeardropSlash;
+  static const IconData chatTeardropSlash =
+      PhosphorIconsRegular.chatTeardropSlash;
 
   /// Shortcut for [PhosphorIconsThin.chatTeardropSlash]. [PT] Atalho para [PhosphorIconsThin.chatTeardropSlash].
-  static const IconData chatTeardropSlashThin = PhosphorIconsThin.chatTeardropSlash;
+  static const IconData chatTeardropSlashThin =
+      PhosphorIconsThin.chatTeardropSlash;
 
   /// Shortcut for [PhosphorIconsLight.chatTeardropSlash]. [PT] Atalho para [PhosphorIconsLight.chatTeardropSlash].
-  static const IconData chatTeardropSlashLight = PhosphorIconsLight.chatTeardropSlash;
+  static const IconData chatTeardropSlashLight =
+      PhosphorIconsLight.chatTeardropSlash;
 
   /// Shortcut for [PhosphorIconsBold.chatTeardropSlash]. [PT] Atalho para [PhosphorIconsBold.chatTeardropSlash].
-  static const IconData chatTeardropSlashBold = PhosphorIconsBold.chatTeardropSlash;
+  static const IconData chatTeardropSlashBold =
+      PhosphorIconsBold.chatTeardropSlash;
 
   /// Shortcut for [PhosphorIconsFill.chatTeardropSlash]. [PT] Atalho para [PhosphorIconsFill.chatTeardropSlash].
-  static const IconData chatTeardropSlashFill = PhosphorIconsFill.chatTeardropSlash;
+  static const IconData chatTeardropSlashFill =
+      PhosphorIconsFill.chatTeardropSlash;
 
   /// Shortcut for [PhosphorIconsDuotone.chatTeardropSlash]. [PT] Atalho para [PhosphorIconsDuotone.chatTeardropSlash].
-  static const chatTeardropSlashDuotone = PhosphorIconsDuotone.chatTeardropSlash;
+  static const chatTeardropSlashDuotone =
+      PhosphorIconsDuotone.chatTeardropSlash;
 
   /// Shortcut for [PhosphorIconsRegular.chatTeardropText]. [PT] Atalho para [PhosphorIconsRegular.chatTeardropText].
-  static const IconData chatTeardropText = PhosphorIconsRegular.chatTeardropText;
+  static const IconData chatTeardropText =
+      PhosphorIconsRegular.chatTeardropText;
 
   /// Shortcut for [PhosphorIconsThin.chatTeardropText]. [PT] Atalho para [PhosphorIconsThin.chatTeardropText].
-  static const IconData chatTeardropTextThin = PhosphorIconsThin.chatTeardropText;
+  static const IconData chatTeardropTextThin =
+      PhosphorIconsThin.chatTeardropText;
 
   /// Shortcut for [PhosphorIconsLight.chatTeardropText]. [PT] Atalho para [PhosphorIconsLight.chatTeardropText].
-  static const IconData chatTeardropTextLight = PhosphorIconsLight.chatTeardropText;
+  static const IconData chatTeardropTextLight =
+      PhosphorIconsLight.chatTeardropText;
 
   /// Shortcut for [PhosphorIconsBold.chatTeardropText]. [PT] Atalho para [PhosphorIconsBold.chatTeardropText].
-  static const IconData chatTeardropTextBold = PhosphorIconsBold.chatTeardropText;
+  static const IconData chatTeardropTextBold =
+      PhosphorIconsBold.chatTeardropText;
 
   /// Shortcut for [PhosphorIconsFill.chatTeardropText]. [PT] Atalho para [PhosphorIconsFill.chatTeardropText].
-  static const IconData chatTeardropTextFill = PhosphorIconsFill.chatTeardropText;
+  static const IconData chatTeardropTextFill =
+      PhosphorIconsFill.chatTeardropText;
 
   /// Shortcut for [PhosphorIconsDuotone.chatTeardropText]. [PT] Atalho para [PhosphorIconsDuotone.chatTeardropText].
   static const chatTeardropTextDuotone = PhosphorIconsDuotone.chatTeardropText;
@@ -6513,22 +7013,28 @@ class PhosphorIcons {
   static const checkSquareDuotone = PhosphorIconsDuotone.checkSquare;
 
   /// Shortcut for [PhosphorIconsRegular.checkSquareOffset]. [PT] Atalho para [PhosphorIconsRegular.checkSquareOffset].
-  static const IconData checkSquareOffset = PhosphorIconsRegular.checkSquareOffset;
+  static const IconData checkSquareOffset =
+      PhosphorIconsRegular.checkSquareOffset;
 
   /// Shortcut for [PhosphorIconsThin.checkSquareOffset]. [PT] Atalho para [PhosphorIconsThin.checkSquareOffset].
-  static const IconData checkSquareOffsetThin = PhosphorIconsThin.checkSquareOffset;
+  static const IconData checkSquareOffsetThin =
+      PhosphorIconsThin.checkSquareOffset;
 
   /// Shortcut for [PhosphorIconsLight.checkSquareOffset]. [PT] Atalho para [PhosphorIconsLight.checkSquareOffset].
-  static const IconData checkSquareOffsetLight = PhosphorIconsLight.checkSquareOffset;
+  static const IconData checkSquareOffsetLight =
+      PhosphorIconsLight.checkSquareOffset;
 
   /// Shortcut for [PhosphorIconsBold.checkSquareOffset]. [PT] Atalho para [PhosphorIconsBold.checkSquareOffset].
-  static const IconData checkSquareOffsetBold = PhosphorIconsBold.checkSquareOffset;
+  static const IconData checkSquareOffsetBold =
+      PhosphorIconsBold.checkSquareOffset;
 
   /// Shortcut for [PhosphorIconsFill.checkSquareOffset]. [PT] Atalho para [PhosphorIconsFill.checkSquareOffset].
-  static const IconData checkSquareOffsetFill = PhosphorIconsFill.checkSquareOffset;
+  static const IconData checkSquareOffsetFill =
+      PhosphorIconsFill.checkSquareOffset;
 
   /// Shortcut for [PhosphorIconsDuotone.checkSquareOffset]. [PT] Atalho para [PhosphorIconsDuotone.checkSquareOffset].
-  static const checkSquareOffsetDuotone = PhosphorIconsDuotone.checkSquareOffset;
+  static const checkSquareOffsetDuotone =
+      PhosphorIconsDuotone.checkSquareOffset;
 
   /// Shortcut for [PhosphorIconsRegular.checkerboard]. [PT] Atalho para [PhosphorIconsRegular.checkerboard].
   static const IconData checkerboard = PhosphorIconsRegular.checkerboard;
@@ -6807,7 +7313,8 @@ class PhosphorIcons {
   static const IconData circleWavyCheckThin = PhosphorIconsThin.circleWavyCheck;
 
   /// Shortcut for [PhosphorIconsLight.circleWavyCheck]. [PT] Atalho para [PhosphorIconsLight.circleWavyCheck].
-  static const IconData circleWavyCheckLight = PhosphorIconsLight.circleWavyCheck;
+  static const IconData circleWavyCheckLight =
+      PhosphorIconsLight.circleWavyCheck;
 
   /// Shortcut for [PhosphorIconsBold.circleWavyCheck]. [PT] Atalho para [PhosphorIconsBold.circleWavyCheck].
   static const IconData circleWavyCheckBold = PhosphorIconsBold.circleWavyCheck;
@@ -6819,40 +7326,52 @@ class PhosphorIcons {
   static const circleWavyCheckDuotone = PhosphorIconsDuotone.circleWavyCheck;
 
   /// Shortcut for [PhosphorIconsRegular.circleWavyQuestion]. [PT] Atalho para [PhosphorIconsRegular.circleWavyQuestion].
-  static const IconData circleWavyQuestion = PhosphorIconsRegular.circleWavyQuestion;
+  static const IconData circleWavyQuestion =
+      PhosphorIconsRegular.circleWavyQuestion;
 
   /// Shortcut for [PhosphorIconsThin.circleWavyQuestion]. [PT] Atalho para [PhosphorIconsThin.circleWavyQuestion].
-  static const IconData circleWavyQuestionThin = PhosphorIconsThin.circleWavyQuestion;
+  static const IconData circleWavyQuestionThin =
+      PhosphorIconsThin.circleWavyQuestion;
 
   /// Shortcut for [PhosphorIconsLight.circleWavyQuestion]. [PT] Atalho para [PhosphorIconsLight.circleWavyQuestion].
-  static const IconData circleWavyQuestionLight = PhosphorIconsLight.circleWavyQuestion;
+  static const IconData circleWavyQuestionLight =
+      PhosphorIconsLight.circleWavyQuestion;
 
   /// Shortcut for [PhosphorIconsBold.circleWavyQuestion]. [PT] Atalho para [PhosphorIconsBold.circleWavyQuestion].
-  static const IconData circleWavyQuestionBold = PhosphorIconsBold.circleWavyQuestion;
+  static const IconData circleWavyQuestionBold =
+      PhosphorIconsBold.circleWavyQuestion;
 
   /// Shortcut for [PhosphorIconsFill.circleWavyQuestion]. [PT] Atalho para [PhosphorIconsFill.circleWavyQuestion].
-  static const IconData circleWavyQuestionFill = PhosphorIconsFill.circleWavyQuestion;
+  static const IconData circleWavyQuestionFill =
+      PhosphorIconsFill.circleWavyQuestion;
 
   /// Shortcut for [PhosphorIconsDuotone.circleWavyQuestion]. [PT] Atalho para [PhosphorIconsDuotone.circleWavyQuestion].
-  static const circleWavyQuestionDuotone = PhosphorIconsDuotone.circleWavyQuestion;
+  static const circleWavyQuestionDuotone =
+      PhosphorIconsDuotone.circleWavyQuestion;
 
   /// Shortcut for [PhosphorIconsRegular.circleWavyWarning]. [PT] Atalho para [PhosphorIconsRegular.circleWavyWarning].
-  static const IconData circleWavyWarning = PhosphorIconsRegular.circleWavyWarning;
+  static const IconData circleWavyWarning =
+      PhosphorIconsRegular.circleWavyWarning;
 
   /// Shortcut for [PhosphorIconsThin.circleWavyWarning]. [PT] Atalho para [PhosphorIconsThin.circleWavyWarning].
-  static const IconData circleWavyWarningThin = PhosphorIconsThin.circleWavyWarning;
+  static const IconData circleWavyWarningThin =
+      PhosphorIconsThin.circleWavyWarning;
 
   /// Shortcut for [PhosphorIconsLight.circleWavyWarning]. [PT] Atalho para [PhosphorIconsLight.circleWavyWarning].
-  static const IconData circleWavyWarningLight = PhosphorIconsLight.circleWavyWarning;
+  static const IconData circleWavyWarningLight =
+      PhosphorIconsLight.circleWavyWarning;
 
   /// Shortcut for [PhosphorIconsBold.circleWavyWarning]. [PT] Atalho para [PhosphorIconsBold.circleWavyWarning].
-  static const IconData circleWavyWarningBold = PhosphorIconsBold.circleWavyWarning;
+  static const IconData circleWavyWarningBold =
+      PhosphorIconsBold.circleWavyWarning;
 
   /// Shortcut for [PhosphorIconsFill.circleWavyWarning]. [PT] Atalho para [PhosphorIconsFill.circleWavyWarning].
-  static const IconData circleWavyWarningFill = PhosphorIconsFill.circleWavyWarning;
+  static const IconData circleWavyWarningFill =
+      PhosphorIconsFill.circleWavyWarning;
 
   /// Shortcut for [PhosphorIconsDuotone.circleWavyWarning]. [PT] Atalho para [PhosphorIconsDuotone.circleWavyWarning].
-  static const circleWavyWarningDuotone = PhosphorIconsDuotone.circleWavyWarning;
+  static const circleWavyWarningDuotone =
+      PhosphorIconsDuotone.circleWavyWarning;
 
   /// Shortcut for [PhosphorIconsRegular.circlesFour]. [PT] Atalho para [PhosphorIconsRegular.circlesFour].
   static const IconData circlesFour = PhosphorIconsRegular.circlesFour;
@@ -6891,19 +7410,24 @@ class PhosphorIcons {
   static const circlesThreeDuotone = PhosphorIconsDuotone.circlesThree;
 
   /// Shortcut for [PhosphorIconsRegular.circlesThreePlus]. [PT] Atalho para [PhosphorIconsRegular.circlesThreePlus].
-  static const IconData circlesThreePlus = PhosphorIconsRegular.circlesThreePlus;
+  static const IconData circlesThreePlus =
+      PhosphorIconsRegular.circlesThreePlus;
 
   /// Shortcut for [PhosphorIconsThin.circlesThreePlus]. [PT] Atalho para [PhosphorIconsThin.circlesThreePlus].
-  static const IconData circlesThreePlusThin = PhosphorIconsThin.circlesThreePlus;
+  static const IconData circlesThreePlusThin =
+      PhosphorIconsThin.circlesThreePlus;
 
   /// Shortcut for [PhosphorIconsLight.circlesThreePlus]. [PT] Atalho para [PhosphorIconsLight.circlesThreePlus].
-  static const IconData circlesThreePlusLight = PhosphorIconsLight.circlesThreePlus;
+  static const IconData circlesThreePlusLight =
+      PhosphorIconsLight.circlesThreePlus;
 
   /// Shortcut for [PhosphorIconsBold.circlesThreePlus]. [PT] Atalho para [PhosphorIconsBold.circlesThreePlus].
-  static const IconData circlesThreePlusBold = PhosphorIconsBold.circlesThreePlus;
+  static const IconData circlesThreePlusBold =
+      PhosphorIconsBold.circlesThreePlus;
 
   /// Shortcut for [PhosphorIconsFill.circlesThreePlus]. [PT] Atalho para [PhosphorIconsFill.circlesThreePlus].
-  static const IconData circlesThreePlusFill = PhosphorIconsFill.circlesThreePlus;
+  static const IconData circlesThreePlusFill =
+      PhosphorIconsFill.circlesThreePlus;
 
   /// Shortcut for [PhosphorIconsDuotone.circlesThreePlus]. [PT] Atalho para [PhosphorIconsDuotone.circlesThreePlus].
   static const circlesThreePlusDuotone = PhosphorIconsDuotone.circlesThreePlus;
@@ -7053,22 +7577,28 @@ class PhosphorIcons {
   static const clockCountdownDuotone = PhosphorIconsDuotone.clockCountdown;
 
   /// Shortcut for [PhosphorIconsRegular.clockCounterClockwise]. [PT] Atalho para [PhosphorIconsRegular.clockCounterClockwise].
-  static const IconData clockCounterClockwise = PhosphorIconsRegular.clockCounterClockwise;
+  static const IconData clockCounterClockwise =
+      PhosphorIconsRegular.clockCounterClockwise;
 
   /// Shortcut for [PhosphorIconsThin.clockCounterClockwise]. [PT] Atalho para [PhosphorIconsThin.clockCounterClockwise].
-  static const IconData clockCounterClockwiseThin = PhosphorIconsThin.clockCounterClockwise;
+  static const IconData clockCounterClockwiseThin =
+      PhosphorIconsThin.clockCounterClockwise;
 
   /// Shortcut for [PhosphorIconsLight.clockCounterClockwise]. [PT] Atalho para [PhosphorIconsLight.clockCounterClockwise].
-  static const IconData clockCounterClockwiseLight = PhosphorIconsLight.clockCounterClockwise;
+  static const IconData clockCounterClockwiseLight =
+      PhosphorIconsLight.clockCounterClockwise;
 
   /// Shortcut for [PhosphorIconsBold.clockCounterClockwise]. [PT] Atalho para [PhosphorIconsBold.clockCounterClockwise].
-  static const IconData clockCounterClockwiseBold = PhosphorIconsBold.clockCounterClockwise;
+  static const IconData clockCounterClockwiseBold =
+      PhosphorIconsBold.clockCounterClockwise;
 
   /// Shortcut for [PhosphorIconsFill.clockCounterClockwise]. [PT] Atalho para [PhosphorIconsFill.clockCounterClockwise].
-  static const IconData clockCounterClockwiseFill = PhosphorIconsFill.clockCounterClockwise;
+  static const IconData clockCounterClockwiseFill =
+      PhosphorIconsFill.clockCounterClockwise;
 
   /// Shortcut for [PhosphorIconsDuotone.clockCounterClockwise]. [PT] Atalho para [PhosphorIconsDuotone.clockCounterClockwise].
-  static const clockCounterClockwiseDuotone = PhosphorIconsDuotone.clockCounterClockwise;
+  static const clockCounterClockwiseDuotone =
+      PhosphorIconsDuotone.clockCounterClockwise;
 
   /// Shortcut for [PhosphorIconsRegular.clockUser]. [PT] Atalho para [PhosphorIconsRegular.clockUser].
   static const IconData clockUser = PhosphorIconsRegular.clockUser;
@@ -7089,19 +7619,24 @@ class PhosphorIcons {
   static const clockUserDuotone = PhosphorIconsDuotone.clockUser;
 
   /// Shortcut for [PhosphorIconsRegular.closedCaptioning]. [PT] Atalho para [PhosphorIconsRegular.closedCaptioning].
-  static const IconData closedCaptioning = PhosphorIconsRegular.closedCaptioning;
+  static const IconData closedCaptioning =
+      PhosphorIconsRegular.closedCaptioning;
 
   /// Shortcut for [PhosphorIconsThin.closedCaptioning]. [PT] Atalho para [PhosphorIconsThin.closedCaptioning].
-  static const IconData closedCaptioningThin = PhosphorIconsThin.closedCaptioning;
+  static const IconData closedCaptioningThin =
+      PhosphorIconsThin.closedCaptioning;
 
   /// Shortcut for [PhosphorIconsLight.closedCaptioning]. [PT] Atalho para [PhosphorIconsLight.closedCaptioning].
-  static const IconData closedCaptioningLight = PhosphorIconsLight.closedCaptioning;
+  static const IconData closedCaptioningLight =
+      PhosphorIconsLight.closedCaptioning;
 
   /// Shortcut for [PhosphorIconsBold.closedCaptioning]. [PT] Atalho para [PhosphorIconsBold.closedCaptioning].
-  static const IconData closedCaptioningBold = PhosphorIconsBold.closedCaptioning;
+  static const IconData closedCaptioningBold =
+      PhosphorIconsBold.closedCaptioning;
 
   /// Shortcut for [PhosphorIconsFill.closedCaptioning]. [PT] Atalho para [PhosphorIconsFill.closedCaptioning].
-  static const IconData closedCaptioningFill = PhosphorIconsFill.closedCaptioning;
+  static const IconData closedCaptioningFill =
+      PhosphorIconsFill.closedCaptioning;
 
   /// Shortcut for [PhosphorIconsDuotone.closedCaptioning]. [PT] Atalho para [PhosphorIconsDuotone.closedCaptioning].
   static const closedCaptioningDuotone = PhosphorIconsDuotone.closedCaptioning;
@@ -7491,7 +8026,8 @@ class PhosphorIcons {
   static const IconData codesandboxLogoThin = PhosphorIconsThin.codesandboxLogo;
 
   /// Shortcut for [PhosphorIconsLight.codesandboxLogo]. [PT] Atalho para [PhosphorIconsLight.codesandboxLogo].
-  static const IconData codesandboxLogoLight = PhosphorIconsLight.codesandboxLogo;
+  static const IconData codesandboxLogoLight =
+      PhosphorIconsLight.codesandboxLogo;
 
   /// Shortcut for [PhosphorIconsBold.codesandboxLogo]. [PT] Atalho para [PhosphorIconsBold.codesandboxLogo].
   static const IconData codesandboxLogoBold = PhosphorIconsBold.codesandboxLogo;
@@ -7617,7 +8153,8 @@ class PhosphorIcons {
   static const IconData columnsPlusLeftThin = PhosphorIconsThin.columnsPlusLeft;
 
   /// Shortcut for [PhosphorIconsLight.columnsPlusLeft]. [PT] Atalho para [PhosphorIconsLight.columnsPlusLeft].
-  static const IconData columnsPlusLeftLight = PhosphorIconsLight.columnsPlusLeft;
+  static const IconData columnsPlusLeftLight =
+      PhosphorIconsLight.columnsPlusLeft;
 
   /// Shortcut for [PhosphorIconsBold.columnsPlusLeft]. [PT] Atalho para [PhosphorIconsBold.columnsPlusLeft].
   static const IconData columnsPlusLeftBold = PhosphorIconsBold.columnsPlusLeft;
@@ -7629,19 +8166,24 @@ class PhosphorIcons {
   static const columnsPlusLeftDuotone = PhosphorIconsDuotone.columnsPlusLeft;
 
   /// Shortcut for [PhosphorIconsRegular.columnsPlusRight]. [PT] Atalho para [PhosphorIconsRegular.columnsPlusRight].
-  static const IconData columnsPlusRight = PhosphorIconsRegular.columnsPlusRight;
+  static const IconData columnsPlusRight =
+      PhosphorIconsRegular.columnsPlusRight;
 
   /// Shortcut for [PhosphorIconsThin.columnsPlusRight]. [PT] Atalho para [PhosphorIconsThin.columnsPlusRight].
-  static const IconData columnsPlusRightThin = PhosphorIconsThin.columnsPlusRight;
+  static const IconData columnsPlusRightThin =
+      PhosphorIconsThin.columnsPlusRight;
 
   /// Shortcut for [PhosphorIconsLight.columnsPlusRight]. [PT] Atalho para [PhosphorIconsLight.columnsPlusRight].
-  static const IconData columnsPlusRightLight = PhosphorIconsLight.columnsPlusRight;
+  static const IconData columnsPlusRightLight =
+      PhosphorIconsLight.columnsPlusRight;
 
   /// Shortcut for [PhosphorIconsBold.columnsPlusRight]. [PT] Atalho para [PhosphorIconsBold.columnsPlusRight].
-  static const IconData columnsPlusRightBold = PhosphorIconsBold.columnsPlusRight;
+  static const IconData columnsPlusRightBold =
+      PhosphorIconsBold.columnsPlusRight;
 
   /// Shortcut for [PhosphorIconsFill.columnsPlusRight]. [PT] Atalho para [PhosphorIconsFill.columnsPlusRight].
-  static const IconData columnsPlusRightFill = PhosphorIconsFill.columnsPlusRight;
+  static const IconData columnsPlusRightFill =
+      PhosphorIconsFill.columnsPlusRight;
 
   /// Shortcut for [PhosphorIconsDuotone.columnsPlusRight]. [PT] Atalho para [PhosphorIconsDuotone.columnsPlusRight].
   static const columnsPlusRightDuotone = PhosphorIconsDuotone.columnsPlusRight;
@@ -7755,22 +8297,28 @@ class PhosphorIcons {
   static const confettiDuotone = PhosphorIconsDuotone.confetti;
 
   /// Shortcut for [PhosphorIconsRegular.contactlessPayment]. [PT] Atalho para [PhosphorIconsRegular.contactlessPayment].
-  static const IconData contactlessPayment = PhosphorIconsRegular.contactlessPayment;
+  static const IconData contactlessPayment =
+      PhosphorIconsRegular.contactlessPayment;
 
   /// Shortcut for [PhosphorIconsThin.contactlessPayment]. [PT] Atalho para [PhosphorIconsThin.contactlessPayment].
-  static const IconData contactlessPaymentThin = PhosphorIconsThin.contactlessPayment;
+  static const IconData contactlessPaymentThin =
+      PhosphorIconsThin.contactlessPayment;
 
   /// Shortcut for [PhosphorIconsLight.contactlessPayment]. [PT] Atalho para [PhosphorIconsLight.contactlessPayment].
-  static const IconData contactlessPaymentLight = PhosphorIconsLight.contactlessPayment;
+  static const IconData contactlessPaymentLight =
+      PhosphorIconsLight.contactlessPayment;
 
   /// Shortcut for [PhosphorIconsBold.contactlessPayment]. [PT] Atalho para [PhosphorIconsBold.contactlessPayment].
-  static const IconData contactlessPaymentBold = PhosphorIconsBold.contactlessPayment;
+  static const IconData contactlessPaymentBold =
+      PhosphorIconsBold.contactlessPayment;
 
   /// Shortcut for [PhosphorIconsFill.contactlessPayment]. [PT] Atalho para [PhosphorIconsFill.contactlessPayment].
-  static const IconData contactlessPaymentFill = PhosphorIconsFill.contactlessPayment;
+  static const IconData contactlessPaymentFill =
+      PhosphorIconsFill.contactlessPayment;
 
   /// Shortcut for [PhosphorIconsDuotone.contactlessPayment]. [PT] Atalho para [PhosphorIconsDuotone.contactlessPayment].
-  static const contactlessPaymentDuotone = PhosphorIconsDuotone.contactlessPayment;
+  static const contactlessPaymentDuotone =
+      PhosphorIconsDuotone.contactlessPayment;
 
   /// Shortcut for [PhosphorIconsRegular.control]. [PT] Atalho para [PhosphorIconsRegular.control].
   static const IconData control = PhosphorIconsRegular.control;
@@ -7959,7 +8507,8 @@ class PhosphorIcons {
   static const IconData courtBasketballThin = PhosphorIconsThin.courtBasketball;
 
   /// Shortcut for [PhosphorIconsLight.courtBasketball]. [PT] Atalho para [PhosphorIconsLight.courtBasketball].
-  static const IconData courtBasketballLight = PhosphorIconsLight.courtBasketball;
+  static const IconData courtBasketballLight =
+      PhosphorIconsLight.courtBasketball;
 
   /// Shortcut for [PhosphorIconsBold.courtBasketball]. [PT] Atalho para [PhosphorIconsBold.courtBasketball].
   static const IconData courtBasketballBold = PhosphorIconsBold.courtBasketball;
@@ -8157,7 +8706,8 @@ class PhosphorIcons {
   static const IconData crosshairSimpleThin = PhosphorIconsThin.crosshairSimple;
 
   /// Shortcut for [PhosphorIconsLight.crosshairSimple]. [PT] Atalho para [PhosphorIconsLight.crosshairSimple].
-  static const IconData crosshairSimpleLight = PhosphorIconsLight.crosshairSimple;
+  static const IconData crosshairSimpleLight =
+      PhosphorIconsLight.crosshairSimple;
 
   /// Shortcut for [PhosphorIconsBold.crosshairSimple]. [PT] Atalho para [PhosphorIconsBold.crosshairSimple].
   static const IconData crosshairSimpleBold = PhosphorIconsBold.crosshairSimple;
@@ -8265,7 +8815,8 @@ class PhosphorIcons {
   static const IconData cubeTransparentThin = PhosphorIconsThin.cubeTransparent;
 
   /// Shortcut for [PhosphorIconsLight.cubeTransparent]. [PT] Atalho para [PhosphorIconsLight.cubeTransparent].
-  static const IconData cubeTransparentLight = PhosphorIconsLight.cubeTransparent;
+  static const IconData cubeTransparentLight =
+      PhosphorIconsLight.cubeTransparent;
 
   /// Shortcut for [PhosphorIconsBold.cubeTransparent]. [PT] Atalho para [PhosphorIconsBold.cubeTransparent].
   static const IconData cubeTransparentBold = PhosphorIconsBold.cubeTransparent;
@@ -8295,22 +8846,28 @@ class PhosphorIcons {
   static const currencyBtcDuotone = PhosphorIconsDuotone.currencyBtc;
 
   /// Shortcut for [PhosphorIconsRegular.currencyCircleDollar]. [PT] Atalho para [PhosphorIconsRegular.currencyCircleDollar].
-  static const IconData currencyCircleDollar = PhosphorIconsRegular.currencyCircleDollar;
+  static const IconData currencyCircleDollar =
+      PhosphorIconsRegular.currencyCircleDollar;
 
   /// Shortcut for [PhosphorIconsThin.currencyCircleDollar]. [PT] Atalho para [PhosphorIconsThin.currencyCircleDollar].
-  static const IconData currencyCircleDollarThin = PhosphorIconsThin.currencyCircleDollar;
+  static const IconData currencyCircleDollarThin =
+      PhosphorIconsThin.currencyCircleDollar;
 
   /// Shortcut for [PhosphorIconsLight.currencyCircleDollar]. [PT] Atalho para [PhosphorIconsLight.currencyCircleDollar].
-  static const IconData currencyCircleDollarLight = PhosphorIconsLight.currencyCircleDollar;
+  static const IconData currencyCircleDollarLight =
+      PhosphorIconsLight.currencyCircleDollar;
 
   /// Shortcut for [PhosphorIconsBold.currencyCircleDollar]. [PT] Atalho para [PhosphorIconsBold.currencyCircleDollar].
-  static const IconData currencyCircleDollarBold = PhosphorIconsBold.currencyCircleDollar;
+  static const IconData currencyCircleDollarBold =
+      PhosphorIconsBold.currencyCircleDollar;
 
   /// Shortcut for [PhosphorIconsFill.currencyCircleDollar]. [PT] Atalho para [PhosphorIconsFill.currencyCircleDollar].
-  static const IconData currencyCircleDollarFill = PhosphorIconsFill.currencyCircleDollar;
+  static const IconData currencyCircleDollarFill =
+      PhosphorIconsFill.currencyCircleDollar;
 
   /// Shortcut for [PhosphorIconsDuotone.currencyCircleDollar]. [PT] Atalho para [PhosphorIconsDuotone.currencyCircleDollar].
-  static const currencyCircleDollarDuotone = PhosphorIconsDuotone.currencyCircleDollar;
+  static const currencyCircleDollarDuotone =
+      PhosphorIconsDuotone.currencyCircleDollar;
 
   /// Shortcut for [PhosphorIconsRegular.currencyCny]. [PT] Atalho para [PhosphorIconsRegular.currencyCny].
   static const IconData currencyCny = PhosphorIconsRegular.currencyCny;
@@ -8349,22 +8906,28 @@ class PhosphorIcons {
   static const currencyDollarDuotone = PhosphorIconsDuotone.currencyDollar;
 
   /// Shortcut for [PhosphorIconsRegular.currencyDollarSimple]. [PT] Atalho para [PhosphorIconsRegular.currencyDollarSimple].
-  static const IconData currencyDollarSimple = PhosphorIconsRegular.currencyDollarSimple;
+  static const IconData currencyDollarSimple =
+      PhosphorIconsRegular.currencyDollarSimple;
 
   /// Shortcut for [PhosphorIconsThin.currencyDollarSimple]. [PT] Atalho para [PhosphorIconsThin.currencyDollarSimple].
-  static const IconData currencyDollarSimpleThin = PhosphorIconsThin.currencyDollarSimple;
+  static const IconData currencyDollarSimpleThin =
+      PhosphorIconsThin.currencyDollarSimple;
 
   /// Shortcut for [PhosphorIconsLight.currencyDollarSimple]. [PT] Atalho para [PhosphorIconsLight.currencyDollarSimple].
-  static const IconData currencyDollarSimpleLight = PhosphorIconsLight.currencyDollarSimple;
+  static const IconData currencyDollarSimpleLight =
+      PhosphorIconsLight.currencyDollarSimple;
 
   /// Shortcut for [PhosphorIconsBold.currencyDollarSimple]. [PT] Atalho para [PhosphorIconsBold.currencyDollarSimple].
-  static const IconData currencyDollarSimpleBold = PhosphorIconsBold.currencyDollarSimple;
+  static const IconData currencyDollarSimpleBold =
+      PhosphorIconsBold.currencyDollarSimple;
 
   /// Shortcut for [PhosphorIconsFill.currencyDollarSimple]. [PT] Atalho para [PhosphorIconsFill.currencyDollarSimple].
-  static const IconData currencyDollarSimpleFill = PhosphorIconsFill.currencyDollarSimple;
+  static const IconData currencyDollarSimpleFill =
+      PhosphorIconsFill.currencyDollarSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.currencyDollarSimple]. [PT] Atalho para [PhosphorIconsDuotone.currencyDollarSimple].
-  static const currencyDollarSimpleDuotone = PhosphorIconsDuotone.currencyDollarSimple;
+  static const currencyDollarSimpleDuotone =
+      PhosphorIconsDuotone.currencyDollarSimple;
 
   /// Shortcut for [PhosphorIconsRegular.currencyEth]. [PT] Atalho para [PhosphorIconsRegular.currencyEth].
   static const IconData currencyEth = PhosphorIconsRegular.currencyEth;
@@ -8727,58 +9290,76 @@ class PhosphorIcons {
   static const deviceMobileDuotone = PhosphorIconsDuotone.deviceMobile;
 
   /// Shortcut for [PhosphorIconsRegular.deviceMobileCamera]. [PT] Atalho para [PhosphorIconsRegular.deviceMobileCamera].
-  static const IconData deviceMobileCamera = PhosphorIconsRegular.deviceMobileCamera;
+  static const IconData deviceMobileCamera =
+      PhosphorIconsRegular.deviceMobileCamera;
 
   /// Shortcut for [PhosphorIconsThin.deviceMobileCamera]. [PT] Atalho para [PhosphorIconsThin.deviceMobileCamera].
-  static const IconData deviceMobileCameraThin = PhosphorIconsThin.deviceMobileCamera;
+  static const IconData deviceMobileCameraThin =
+      PhosphorIconsThin.deviceMobileCamera;
 
   /// Shortcut for [PhosphorIconsLight.deviceMobileCamera]. [PT] Atalho para [PhosphorIconsLight.deviceMobileCamera].
-  static const IconData deviceMobileCameraLight = PhosphorIconsLight.deviceMobileCamera;
+  static const IconData deviceMobileCameraLight =
+      PhosphorIconsLight.deviceMobileCamera;
 
   /// Shortcut for [PhosphorIconsBold.deviceMobileCamera]. [PT] Atalho para [PhosphorIconsBold.deviceMobileCamera].
-  static const IconData deviceMobileCameraBold = PhosphorIconsBold.deviceMobileCamera;
+  static const IconData deviceMobileCameraBold =
+      PhosphorIconsBold.deviceMobileCamera;
 
   /// Shortcut for [PhosphorIconsFill.deviceMobileCamera]. [PT] Atalho para [PhosphorIconsFill.deviceMobileCamera].
-  static const IconData deviceMobileCameraFill = PhosphorIconsFill.deviceMobileCamera;
+  static const IconData deviceMobileCameraFill =
+      PhosphorIconsFill.deviceMobileCamera;
 
   /// Shortcut for [PhosphorIconsDuotone.deviceMobileCamera]. [PT] Atalho para [PhosphorIconsDuotone.deviceMobileCamera].
-  static const deviceMobileCameraDuotone = PhosphorIconsDuotone.deviceMobileCamera;
+  static const deviceMobileCameraDuotone =
+      PhosphorIconsDuotone.deviceMobileCamera;
 
   /// Shortcut for [PhosphorIconsRegular.deviceMobileSlash]. [PT] Atalho para [PhosphorIconsRegular.deviceMobileSlash].
-  static const IconData deviceMobileSlash = PhosphorIconsRegular.deviceMobileSlash;
+  static const IconData deviceMobileSlash =
+      PhosphorIconsRegular.deviceMobileSlash;
 
   /// Shortcut for [PhosphorIconsThin.deviceMobileSlash]. [PT] Atalho para [PhosphorIconsThin.deviceMobileSlash].
-  static const IconData deviceMobileSlashThin = PhosphorIconsThin.deviceMobileSlash;
+  static const IconData deviceMobileSlashThin =
+      PhosphorIconsThin.deviceMobileSlash;
 
   /// Shortcut for [PhosphorIconsLight.deviceMobileSlash]. [PT] Atalho para [PhosphorIconsLight.deviceMobileSlash].
-  static const IconData deviceMobileSlashLight = PhosphorIconsLight.deviceMobileSlash;
+  static const IconData deviceMobileSlashLight =
+      PhosphorIconsLight.deviceMobileSlash;
 
   /// Shortcut for [PhosphorIconsBold.deviceMobileSlash]. [PT] Atalho para [PhosphorIconsBold.deviceMobileSlash].
-  static const IconData deviceMobileSlashBold = PhosphorIconsBold.deviceMobileSlash;
+  static const IconData deviceMobileSlashBold =
+      PhosphorIconsBold.deviceMobileSlash;
 
   /// Shortcut for [PhosphorIconsFill.deviceMobileSlash]. [PT] Atalho para [PhosphorIconsFill.deviceMobileSlash].
-  static const IconData deviceMobileSlashFill = PhosphorIconsFill.deviceMobileSlash;
+  static const IconData deviceMobileSlashFill =
+      PhosphorIconsFill.deviceMobileSlash;
 
   /// Shortcut for [PhosphorIconsDuotone.deviceMobileSlash]. [PT] Atalho para [PhosphorIconsDuotone.deviceMobileSlash].
-  static const deviceMobileSlashDuotone = PhosphorIconsDuotone.deviceMobileSlash;
+  static const deviceMobileSlashDuotone =
+      PhosphorIconsDuotone.deviceMobileSlash;
 
   /// Shortcut for [PhosphorIconsRegular.deviceMobileSpeaker]. [PT] Atalho para [PhosphorIconsRegular.deviceMobileSpeaker].
-  static const IconData deviceMobileSpeaker = PhosphorIconsRegular.deviceMobileSpeaker;
+  static const IconData deviceMobileSpeaker =
+      PhosphorIconsRegular.deviceMobileSpeaker;
 
   /// Shortcut for [PhosphorIconsThin.deviceMobileSpeaker]. [PT] Atalho para [PhosphorIconsThin.deviceMobileSpeaker].
-  static const IconData deviceMobileSpeakerThin = PhosphorIconsThin.deviceMobileSpeaker;
+  static const IconData deviceMobileSpeakerThin =
+      PhosphorIconsThin.deviceMobileSpeaker;
 
   /// Shortcut for [PhosphorIconsLight.deviceMobileSpeaker]. [PT] Atalho para [PhosphorIconsLight.deviceMobileSpeaker].
-  static const IconData deviceMobileSpeakerLight = PhosphorIconsLight.deviceMobileSpeaker;
+  static const IconData deviceMobileSpeakerLight =
+      PhosphorIconsLight.deviceMobileSpeaker;
 
   /// Shortcut for [PhosphorIconsBold.deviceMobileSpeaker]. [PT] Atalho para [PhosphorIconsBold.deviceMobileSpeaker].
-  static const IconData deviceMobileSpeakerBold = PhosphorIconsBold.deviceMobileSpeaker;
+  static const IconData deviceMobileSpeakerBold =
+      PhosphorIconsBold.deviceMobileSpeaker;
 
   /// Shortcut for [PhosphorIconsFill.deviceMobileSpeaker]. [PT] Atalho para [PhosphorIconsFill.deviceMobileSpeaker].
-  static const IconData deviceMobileSpeakerFill = PhosphorIconsFill.deviceMobileSpeaker;
+  static const IconData deviceMobileSpeakerFill =
+      PhosphorIconsFill.deviceMobileSpeaker;
 
   /// Shortcut for [PhosphorIconsDuotone.deviceMobileSpeaker]. [PT] Atalho para [PhosphorIconsDuotone.deviceMobileSpeaker].
-  static const deviceMobileSpeakerDuotone = PhosphorIconsDuotone.deviceMobileSpeaker;
+  static const deviceMobileSpeakerDuotone =
+      PhosphorIconsDuotone.deviceMobileSpeaker;
 
   /// Shortcut for [PhosphorIconsRegular.deviceRotate]. [PT] Atalho para [PhosphorIconsRegular.deviceRotate].
   static const IconData deviceRotate = PhosphorIconsRegular.deviceRotate;
@@ -8817,40 +9398,52 @@ class PhosphorIcons {
   static const deviceTabletDuotone = PhosphorIconsDuotone.deviceTablet;
 
   /// Shortcut for [PhosphorIconsRegular.deviceTabletCamera]. [PT] Atalho para [PhosphorIconsRegular.deviceTabletCamera].
-  static const IconData deviceTabletCamera = PhosphorIconsRegular.deviceTabletCamera;
+  static const IconData deviceTabletCamera =
+      PhosphorIconsRegular.deviceTabletCamera;
 
   /// Shortcut for [PhosphorIconsThin.deviceTabletCamera]. [PT] Atalho para [PhosphorIconsThin.deviceTabletCamera].
-  static const IconData deviceTabletCameraThin = PhosphorIconsThin.deviceTabletCamera;
+  static const IconData deviceTabletCameraThin =
+      PhosphorIconsThin.deviceTabletCamera;
 
   /// Shortcut for [PhosphorIconsLight.deviceTabletCamera]. [PT] Atalho para [PhosphorIconsLight.deviceTabletCamera].
-  static const IconData deviceTabletCameraLight = PhosphorIconsLight.deviceTabletCamera;
+  static const IconData deviceTabletCameraLight =
+      PhosphorIconsLight.deviceTabletCamera;
 
   /// Shortcut for [PhosphorIconsBold.deviceTabletCamera]. [PT] Atalho para [PhosphorIconsBold.deviceTabletCamera].
-  static const IconData deviceTabletCameraBold = PhosphorIconsBold.deviceTabletCamera;
+  static const IconData deviceTabletCameraBold =
+      PhosphorIconsBold.deviceTabletCamera;
 
   /// Shortcut for [PhosphorIconsFill.deviceTabletCamera]. [PT] Atalho para [PhosphorIconsFill.deviceTabletCamera].
-  static const IconData deviceTabletCameraFill = PhosphorIconsFill.deviceTabletCamera;
+  static const IconData deviceTabletCameraFill =
+      PhosphorIconsFill.deviceTabletCamera;
 
   /// Shortcut for [PhosphorIconsDuotone.deviceTabletCamera]. [PT] Atalho para [PhosphorIconsDuotone.deviceTabletCamera].
-  static const deviceTabletCameraDuotone = PhosphorIconsDuotone.deviceTabletCamera;
+  static const deviceTabletCameraDuotone =
+      PhosphorIconsDuotone.deviceTabletCamera;
 
   /// Shortcut for [PhosphorIconsRegular.deviceTabletSpeaker]. [PT] Atalho para [PhosphorIconsRegular.deviceTabletSpeaker].
-  static const IconData deviceTabletSpeaker = PhosphorIconsRegular.deviceTabletSpeaker;
+  static const IconData deviceTabletSpeaker =
+      PhosphorIconsRegular.deviceTabletSpeaker;
 
   /// Shortcut for [PhosphorIconsThin.deviceTabletSpeaker]. [PT] Atalho para [PhosphorIconsThin.deviceTabletSpeaker].
-  static const IconData deviceTabletSpeakerThin = PhosphorIconsThin.deviceTabletSpeaker;
+  static const IconData deviceTabletSpeakerThin =
+      PhosphorIconsThin.deviceTabletSpeaker;
 
   /// Shortcut for [PhosphorIconsLight.deviceTabletSpeaker]. [PT] Atalho para [PhosphorIconsLight.deviceTabletSpeaker].
-  static const IconData deviceTabletSpeakerLight = PhosphorIconsLight.deviceTabletSpeaker;
+  static const IconData deviceTabletSpeakerLight =
+      PhosphorIconsLight.deviceTabletSpeaker;
 
   /// Shortcut for [PhosphorIconsBold.deviceTabletSpeaker]. [PT] Atalho para [PhosphorIconsBold.deviceTabletSpeaker].
-  static const IconData deviceTabletSpeakerBold = PhosphorIconsBold.deviceTabletSpeaker;
+  static const IconData deviceTabletSpeakerBold =
+      PhosphorIconsBold.deviceTabletSpeaker;
 
   /// Shortcut for [PhosphorIconsFill.deviceTabletSpeaker]. [PT] Atalho para [PhosphorIconsFill.deviceTabletSpeaker].
-  static const IconData deviceTabletSpeakerFill = PhosphorIconsFill.deviceTabletSpeaker;
+  static const IconData deviceTabletSpeakerFill =
+      PhosphorIconsFill.deviceTabletSpeaker;
 
   /// Shortcut for [PhosphorIconsDuotone.deviceTabletSpeaker]. [PT] Atalho para [PhosphorIconsDuotone.deviceTabletSpeaker].
-  static const deviceTabletSpeakerDuotone = PhosphorIconsDuotone.deviceTabletSpeaker;
+  static const deviceTabletSpeakerDuotone =
+      PhosphorIconsDuotone.deviceTabletSpeaker;
 
   /// Shortcut for [PhosphorIconsRegular.devices]. [PT] Atalho para [PhosphorIconsRegular.devices].
   static const IconData devices = PhosphorIconsRegular.devices;
@@ -9237,7 +9830,8 @@ class PhosphorIcons {
   static const IconData dotsSixVerticalThin = PhosphorIconsThin.dotsSixVertical;
 
   /// Shortcut for [PhosphorIconsLight.dotsSixVertical]. [PT] Atalho para [PhosphorIconsLight.dotsSixVertical].
-  static const IconData dotsSixVerticalLight = PhosphorIconsLight.dotsSixVertical;
+  static const IconData dotsSixVerticalLight =
+      PhosphorIconsLight.dotsSixVertical;
 
   /// Shortcut for [PhosphorIconsBold.dotsSixVertical]. [PT] Atalho para [PhosphorIconsBold.dotsSixVertical].
   static const IconData dotsSixVerticalBold = PhosphorIconsBold.dotsSixVertical;
@@ -9273,7 +9867,8 @@ class PhosphorIcons {
   static const IconData dotsThreeCircleThin = PhosphorIconsThin.dotsThreeCircle;
 
   /// Shortcut for [PhosphorIconsLight.dotsThreeCircle]. [PT] Atalho para [PhosphorIconsLight.dotsThreeCircle].
-  static const IconData dotsThreeCircleLight = PhosphorIconsLight.dotsThreeCircle;
+  static const IconData dotsThreeCircleLight =
+      PhosphorIconsLight.dotsThreeCircle;
 
   /// Shortcut for [PhosphorIconsBold.dotsThreeCircle]. [PT] Atalho para [PhosphorIconsBold.dotsThreeCircle].
   static const IconData dotsThreeCircleBold = PhosphorIconsBold.dotsThreeCircle;
@@ -9285,76 +9880,99 @@ class PhosphorIcons {
   static const dotsThreeCircleDuotone = PhosphorIconsDuotone.dotsThreeCircle;
 
   /// Shortcut for [PhosphorIconsRegular.dotsThreeCircleVertical]. [PT] Atalho para [PhosphorIconsRegular.dotsThreeCircleVertical].
-  static const IconData dotsThreeCircleVertical = PhosphorIconsRegular.dotsThreeCircleVertical;
+  static const IconData dotsThreeCircleVertical =
+      PhosphorIconsRegular.dotsThreeCircleVertical;
 
   /// Shortcut for [PhosphorIconsThin.dotsThreeCircleVertical]. [PT] Atalho para [PhosphorIconsThin.dotsThreeCircleVertical].
-  static const IconData dotsThreeCircleVerticalThin = PhosphorIconsThin.dotsThreeCircleVertical;
+  static const IconData dotsThreeCircleVerticalThin =
+      PhosphorIconsThin.dotsThreeCircleVertical;
 
   /// Shortcut for [PhosphorIconsLight.dotsThreeCircleVertical]. [PT] Atalho para [PhosphorIconsLight.dotsThreeCircleVertical].
-  static const IconData dotsThreeCircleVerticalLight = PhosphorIconsLight.dotsThreeCircleVertical;
+  static const IconData dotsThreeCircleVerticalLight =
+      PhosphorIconsLight.dotsThreeCircleVertical;
 
   /// Shortcut for [PhosphorIconsBold.dotsThreeCircleVertical]. [PT] Atalho para [PhosphorIconsBold.dotsThreeCircleVertical].
-  static const IconData dotsThreeCircleVerticalBold = PhosphorIconsBold.dotsThreeCircleVertical;
+  static const IconData dotsThreeCircleVerticalBold =
+      PhosphorIconsBold.dotsThreeCircleVertical;
 
   /// Shortcut for [PhosphorIconsFill.dotsThreeCircleVertical]. [PT] Atalho para [PhosphorIconsFill.dotsThreeCircleVertical].
-  static const IconData dotsThreeCircleVerticalFill = PhosphorIconsFill.dotsThreeCircleVertical;
+  static const IconData dotsThreeCircleVerticalFill =
+      PhosphorIconsFill.dotsThreeCircleVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.dotsThreeCircleVertical]. [PT] Atalho para [PhosphorIconsDuotone.dotsThreeCircleVertical].
-  static const dotsThreeCircleVerticalDuotone = PhosphorIconsDuotone.dotsThreeCircleVertical;
+  static const dotsThreeCircleVerticalDuotone =
+      PhosphorIconsDuotone.dotsThreeCircleVertical;
 
   /// Shortcut for [PhosphorIconsRegular.dotsThreeOutline]. [PT] Atalho para [PhosphorIconsRegular.dotsThreeOutline].
-  static const IconData dotsThreeOutline = PhosphorIconsRegular.dotsThreeOutline;
+  static const IconData dotsThreeOutline =
+      PhosphorIconsRegular.dotsThreeOutline;
 
   /// Shortcut for [PhosphorIconsThin.dotsThreeOutline]. [PT] Atalho para [PhosphorIconsThin.dotsThreeOutline].
-  static const IconData dotsThreeOutlineThin = PhosphorIconsThin.dotsThreeOutline;
+  static const IconData dotsThreeOutlineThin =
+      PhosphorIconsThin.dotsThreeOutline;
 
   /// Shortcut for [PhosphorIconsLight.dotsThreeOutline]. [PT] Atalho para [PhosphorIconsLight.dotsThreeOutline].
-  static const IconData dotsThreeOutlineLight = PhosphorIconsLight.dotsThreeOutline;
+  static const IconData dotsThreeOutlineLight =
+      PhosphorIconsLight.dotsThreeOutline;
 
   /// Shortcut for [PhosphorIconsBold.dotsThreeOutline]. [PT] Atalho para [PhosphorIconsBold.dotsThreeOutline].
-  static const IconData dotsThreeOutlineBold = PhosphorIconsBold.dotsThreeOutline;
+  static const IconData dotsThreeOutlineBold =
+      PhosphorIconsBold.dotsThreeOutline;
 
   /// Shortcut for [PhosphorIconsFill.dotsThreeOutline]. [PT] Atalho para [PhosphorIconsFill.dotsThreeOutline].
-  static const IconData dotsThreeOutlineFill = PhosphorIconsFill.dotsThreeOutline;
+  static const IconData dotsThreeOutlineFill =
+      PhosphorIconsFill.dotsThreeOutline;
 
   /// Shortcut for [PhosphorIconsDuotone.dotsThreeOutline]. [PT] Atalho para [PhosphorIconsDuotone.dotsThreeOutline].
   static const dotsThreeOutlineDuotone = PhosphorIconsDuotone.dotsThreeOutline;
 
   /// Shortcut for [PhosphorIconsRegular.dotsThreeOutlineVertical]. [PT] Atalho para [PhosphorIconsRegular.dotsThreeOutlineVertical].
-  static const IconData dotsThreeOutlineVertical = PhosphorIconsRegular.dotsThreeOutlineVertical;
+  static const IconData dotsThreeOutlineVertical =
+      PhosphorIconsRegular.dotsThreeOutlineVertical;
 
   /// Shortcut for [PhosphorIconsThin.dotsThreeOutlineVertical]. [PT] Atalho para [PhosphorIconsThin.dotsThreeOutlineVertical].
-  static const IconData dotsThreeOutlineVerticalThin = PhosphorIconsThin.dotsThreeOutlineVertical;
+  static const IconData dotsThreeOutlineVerticalThin =
+      PhosphorIconsThin.dotsThreeOutlineVertical;
 
   /// Shortcut for [PhosphorIconsLight.dotsThreeOutlineVertical]. [PT] Atalho para [PhosphorIconsLight.dotsThreeOutlineVertical].
-  static const IconData dotsThreeOutlineVerticalLight = PhosphorIconsLight.dotsThreeOutlineVertical;
+  static const IconData dotsThreeOutlineVerticalLight =
+      PhosphorIconsLight.dotsThreeOutlineVertical;
 
   /// Shortcut for [PhosphorIconsBold.dotsThreeOutlineVertical]. [PT] Atalho para [PhosphorIconsBold.dotsThreeOutlineVertical].
-  static const IconData dotsThreeOutlineVerticalBold = PhosphorIconsBold.dotsThreeOutlineVertical;
+  static const IconData dotsThreeOutlineVerticalBold =
+      PhosphorIconsBold.dotsThreeOutlineVertical;
 
   /// Shortcut for [PhosphorIconsFill.dotsThreeOutlineVertical]. [PT] Atalho para [PhosphorIconsFill.dotsThreeOutlineVertical].
-  static const IconData dotsThreeOutlineVerticalFill = PhosphorIconsFill.dotsThreeOutlineVertical;
+  static const IconData dotsThreeOutlineVerticalFill =
+      PhosphorIconsFill.dotsThreeOutlineVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.dotsThreeOutlineVertical]. [PT] Atalho para [PhosphorIconsDuotone.dotsThreeOutlineVertical].
-  static const dotsThreeOutlineVerticalDuotone = PhosphorIconsDuotone.dotsThreeOutlineVertical;
+  static const dotsThreeOutlineVerticalDuotone =
+      PhosphorIconsDuotone.dotsThreeOutlineVertical;
 
   /// Shortcut for [PhosphorIconsRegular.dotsThreeVertical]. [PT] Atalho para [PhosphorIconsRegular.dotsThreeVertical].
-  static const IconData dotsThreeVertical = PhosphorIconsRegular.dotsThreeVertical;
+  static const IconData dotsThreeVertical =
+      PhosphorIconsRegular.dotsThreeVertical;
 
   /// Shortcut for [PhosphorIconsThin.dotsThreeVertical]. [PT] Atalho para [PhosphorIconsThin.dotsThreeVertical].
-  static const IconData dotsThreeVerticalThin = PhosphorIconsThin.dotsThreeVertical;
+  static const IconData dotsThreeVerticalThin =
+      PhosphorIconsThin.dotsThreeVertical;
 
   /// Shortcut for [PhosphorIconsLight.dotsThreeVertical]. [PT] Atalho para [PhosphorIconsLight.dotsThreeVertical].
-  static const IconData dotsThreeVerticalLight = PhosphorIconsLight.dotsThreeVertical;
+  static const IconData dotsThreeVerticalLight =
+      PhosphorIconsLight.dotsThreeVertical;
 
   /// Shortcut for [PhosphorIconsBold.dotsThreeVertical]. [PT] Atalho para [PhosphorIconsBold.dotsThreeVertical].
-  static const IconData dotsThreeVerticalBold = PhosphorIconsBold.dotsThreeVertical;
+  static const IconData dotsThreeVerticalBold =
+      PhosphorIconsBold.dotsThreeVertical;
 
   /// Shortcut for [PhosphorIconsFill.dotsThreeVertical]. [PT] Atalho para [PhosphorIconsFill.dotsThreeVertical].
-  static const IconData dotsThreeVerticalFill = PhosphorIconsFill.dotsThreeVertical;
+  static const IconData dotsThreeVerticalFill =
+      PhosphorIconsFill.dotsThreeVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.dotsThreeVertical]. [PT] Atalho para [PhosphorIconsDuotone.dotsThreeVertical].
-  static const dotsThreeVerticalDuotone = PhosphorIconsDuotone.dotsThreeVertical;
+  static const dotsThreeVerticalDuotone =
+      PhosphorIconsDuotone.dotsThreeVertical;
 
   /// Shortcut for [PhosphorIconsRegular.download]. [PT] Atalho para [PhosphorIconsRegular.download].
   static const IconData download = PhosphorIconsRegular.download;
@@ -9789,22 +10407,28 @@ class PhosphorIcons {
   static const envelopeSimpleDuotone = PhosphorIconsDuotone.envelopeSimple;
 
   /// Shortcut for [PhosphorIconsRegular.envelopeSimpleOpen]. [PT] Atalho para [PhosphorIconsRegular.envelopeSimpleOpen].
-  static const IconData envelopeSimpleOpen = PhosphorIconsRegular.envelopeSimpleOpen;
+  static const IconData envelopeSimpleOpen =
+      PhosphorIconsRegular.envelopeSimpleOpen;
 
   /// Shortcut for [PhosphorIconsThin.envelopeSimpleOpen]. [PT] Atalho para [PhosphorIconsThin.envelopeSimpleOpen].
-  static const IconData envelopeSimpleOpenThin = PhosphorIconsThin.envelopeSimpleOpen;
+  static const IconData envelopeSimpleOpenThin =
+      PhosphorIconsThin.envelopeSimpleOpen;
 
   /// Shortcut for [PhosphorIconsLight.envelopeSimpleOpen]. [PT] Atalho para [PhosphorIconsLight.envelopeSimpleOpen].
-  static const IconData envelopeSimpleOpenLight = PhosphorIconsLight.envelopeSimpleOpen;
+  static const IconData envelopeSimpleOpenLight =
+      PhosphorIconsLight.envelopeSimpleOpen;
 
   /// Shortcut for [PhosphorIconsBold.envelopeSimpleOpen]. [PT] Atalho para [PhosphorIconsBold.envelopeSimpleOpen].
-  static const IconData envelopeSimpleOpenBold = PhosphorIconsBold.envelopeSimpleOpen;
+  static const IconData envelopeSimpleOpenBold =
+      PhosphorIconsBold.envelopeSimpleOpen;
 
   /// Shortcut for [PhosphorIconsFill.envelopeSimpleOpen]. [PT] Atalho para [PhosphorIconsFill.envelopeSimpleOpen].
-  static const IconData envelopeSimpleOpenFill = PhosphorIconsFill.envelopeSimpleOpen;
+  static const IconData envelopeSimpleOpenFill =
+      PhosphorIconsFill.envelopeSimpleOpen;
 
   /// Shortcut for [PhosphorIconsDuotone.envelopeSimpleOpen]. [PT] Atalho para [PhosphorIconsDuotone.envelopeSimpleOpen].
-  static const envelopeSimpleOpenDuotone = PhosphorIconsDuotone.envelopeSimpleOpen;
+  static const envelopeSimpleOpenDuotone =
+      PhosphorIconsDuotone.envelopeSimpleOpen;
 
   /// Shortcut for [PhosphorIconsRegular.equalizer]. [PT] Atalho para [PhosphorIconsRegular.equalizer].
   static const IconData equalizer = PhosphorIconsRegular.equalizer;
@@ -9921,7 +10545,8 @@ class PhosphorIcons {
   static const IconData exclamationMarkThin = PhosphorIconsThin.exclamationMark;
 
   /// Shortcut for [PhosphorIconsLight.exclamationMark]. [PT] Atalho para [PhosphorIconsLight.exclamationMark].
-  static const IconData exclamationMarkLight = PhosphorIconsLight.exclamationMark;
+  static const IconData exclamationMarkLight =
+      PhosphorIconsLight.exclamationMark;
 
   /// Shortcut for [PhosphorIconsBold.exclamationMark]. [PT] Atalho para [PhosphorIconsBold.exclamationMark].
   static const IconData exclamationMarkBold = PhosphorIconsBold.exclamationMark;
@@ -10059,19 +10684,24 @@ class PhosphorIcons {
   static const eyedropperDuotone = PhosphorIconsDuotone.eyedropper;
 
   /// Shortcut for [PhosphorIconsRegular.eyedropperSample]. [PT] Atalho para [PhosphorIconsRegular.eyedropperSample].
-  static const IconData eyedropperSample = PhosphorIconsRegular.eyedropperSample;
+  static const IconData eyedropperSample =
+      PhosphorIconsRegular.eyedropperSample;
 
   /// Shortcut for [PhosphorIconsThin.eyedropperSample]. [PT] Atalho para [PhosphorIconsThin.eyedropperSample].
-  static const IconData eyedropperSampleThin = PhosphorIconsThin.eyedropperSample;
+  static const IconData eyedropperSampleThin =
+      PhosphorIconsThin.eyedropperSample;
 
   /// Shortcut for [PhosphorIconsLight.eyedropperSample]. [PT] Atalho para [PhosphorIconsLight.eyedropperSample].
-  static const IconData eyedropperSampleLight = PhosphorIconsLight.eyedropperSample;
+  static const IconData eyedropperSampleLight =
+      PhosphorIconsLight.eyedropperSample;
 
   /// Shortcut for [PhosphorIconsBold.eyedropperSample]. [PT] Atalho para [PhosphorIconsBold.eyedropperSample].
-  static const IconData eyedropperSampleBold = PhosphorIconsBold.eyedropperSample;
+  static const IconData eyedropperSampleBold =
+      PhosphorIconsBold.eyedropperSample;
 
   /// Shortcut for [PhosphorIconsFill.eyedropperSample]. [PT] Atalho para [PhosphorIconsFill.eyedropperSample].
-  static const IconData eyedropperSampleFill = PhosphorIconsFill.eyedropperSample;
+  static const IconData eyedropperSampleFill =
+      PhosphorIconsFill.eyedropperSample;
 
   /// Shortcut for [PhosphorIconsDuotone.eyedropperSample]. [PT] Atalho para [PhosphorIconsDuotone.eyedropperSample].
   static const eyedropperSampleDuotone = PhosphorIconsDuotone.eyedropperSample;
@@ -10185,19 +10815,24 @@ class PhosphorIcons {
   static const fadersDuotone = PhosphorIconsDuotone.faders;
 
   /// Shortcut for [PhosphorIconsRegular.fadersHorizontal]. [PT] Atalho para [PhosphorIconsRegular.fadersHorizontal].
-  static const IconData fadersHorizontal = PhosphorIconsRegular.fadersHorizontal;
+  static const IconData fadersHorizontal =
+      PhosphorIconsRegular.fadersHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.fadersHorizontal]. [PT] Atalho para [PhosphorIconsThin.fadersHorizontal].
-  static const IconData fadersHorizontalThin = PhosphorIconsThin.fadersHorizontal;
+  static const IconData fadersHorizontalThin =
+      PhosphorIconsThin.fadersHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.fadersHorizontal]. [PT] Atalho para [PhosphorIconsLight.fadersHorizontal].
-  static const IconData fadersHorizontalLight = PhosphorIconsLight.fadersHorizontal;
+  static const IconData fadersHorizontalLight =
+      PhosphorIconsLight.fadersHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.fadersHorizontal]. [PT] Atalho para [PhosphorIconsBold.fadersHorizontal].
-  static const IconData fadersHorizontalBold = PhosphorIconsBold.fadersHorizontal;
+  static const IconData fadersHorizontalBold =
+      PhosphorIconsBold.fadersHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.fadersHorizontal]. [PT] Atalho para [PhosphorIconsFill.fadersHorizontal].
-  static const IconData fadersHorizontalFill = PhosphorIconsFill.fadersHorizontal;
+  static const IconData fadersHorizontalFill =
+      PhosphorIconsFill.fadersHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.fadersHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.fadersHorizontal].
   static const fadersHorizontalDuotone = PhosphorIconsDuotone.fadersHorizontal;
@@ -10275,22 +10910,28 @@ class PhosphorIcons {
   static const fastForwardDuotone = PhosphorIconsDuotone.fastForward;
 
   /// Shortcut for [PhosphorIconsRegular.fastForwardCircle]. [PT] Atalho para [PhosphorIconsRegular.fastForwardCircle].
-  static const IconData fastForwardCircle = PhosphorIconsRegular.fastForwardCircle;
+  static const IconData fastForwardCircle =
+      PhosphorIconsRegular.fastForwardCircle;
 
   /// Shortcut for [PhosphorIconsThin.fastForwardCircle]. [PT] Atalho para [PhosphorIconsThin.fastForwardCircle].
-  static const IconData fastForwardCircleThin = PhosphorIconsThin.fastForwardCircle;
+  static const IconData fastForwardCircleThin =
+      PhosphorIconsThin.fastForwardCircle;
 
   /// Shortcut for [PhosphorIconsLight.fastForwardCircle]. [PT] Atalho para [PhosphorIconsLight.fastForwardCircle].
-  static const IconData fastForwardCircleLight = PhosphorIconsLight.fastForwardCircle;
+  static const IconData fastForwardCircleLight =
+      PhosphorIconsLight.fastForwardCircle;
 
   /// Shortcut for [PhosphorIconsBold.fastForwardCircle]. [PT] Atalho para [PhosphorIconsBold.fastForwardCircle].
-  static const IconData fastForwardCircleBold = PhosphorIconsBold.fastForwardCircle;
+  static const IconData fastForwardCircleBold =
+      PhosphorIconsBold.fastForwardCircle;
 
   /// Shortcut for [PhosphorIconsFill.fastForwardCircle]. [PT] Atalho para [PhosphorIconsFill.fastForwardCircle].
-  static const IconData fastForwardCircleFill = PhosphorIconsFill.fastForwardCircle;
+  static const IconData fastForwardCircleFill =
+      PhosphorIconsFill.fastForwardCircle;
 
   /// Shortcut for [PhosphorIconsDuotone.fastForwardCircle]. [PT] Atalho para [PhosphorIconsDuotone.fastForwardCircle].
-  static const fastForwardCircleDuotone = PhosphorIconsDuotone.fastForwardCircle;
+  static const fastForwardCircleDuotone =
+      PhosphorIconsDuotone.fastForwardCircle;
 
   /// Shortcut for [PhosphorIconsRegular.feather]. [PT] Atalho para [PhosphorIconsRegular.feather].
   static const IconData feather = PhosphorIconsRegular.feather;
@@ -10743,22 +11384,28 @@ class PhosphorIcons {
   static const fileLockDuotone = PhosphorIconsDuotone.fileLock;
 
   /// Shortcut for [PhosphorIconsRegular.fileMagnifyingGlass]. [PT] Atalho para [PhosphorIconsRegular.fileMagnifyingGlass].
-  static const IconData fileMagnifyingGlass = PhosphorIconsRegular.fileMagnifyingGlass;
+  static const IconData fileMagnifyingGlass =
+      PhosphorIconsRegular.fileMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsThin.fileMagnifyingGlass]. [PT] Atalho para [PhosphorIconsThin.fileMagnifyingGlass].
-  static const IconData fileMagnifyingGlassThin = PhosphorIconsThin.fileMagnifyingGlass;
+  static const IconData fileMagnifyingGlassThin =
+      PhosphorIconsThin.fileMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsLight.fileMagnifyingGlass]. [PT] Atalho para [PhosphorIconsLight.fileMagnifyingGlass].
-  static const IconData fileMagnifyingGlassLight = PhosphorIconsLight.fileMagnifyingGlass;
+  static const IconData fileMagnifyingGlassLight =
+      PhosphorIconsLight.fileMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsBold.fileMagnifyingGlass]. [PT] Atalho para [PhosphorIconsBold.fileMagnifyingGlass].
-  static const IconData fileMagnifyingGlassBold = PhosphorIconsBold.fileMagnifyingGlass;
+  static const IconData fileMagnifyingGlassBold =
+      PhosphorIconsBold.fileMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsFill.fileMagnifyingGlass]. [PT] Atalho para [PhosphorIconsFill.fileMagnifyingGlass].
-  static const IconData fileMagnifyingGlassFill = PhosphorIconsFill.fileMagnifyingGlass;
+  static const IconData fileMagnifyingGlassFill =
+      PhosphorIconsFill.fileMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsDuotone.fileMagnifyingGlass]. [PT] Atalho para [PhosphorIconsDuotone.fileMagnifyingGlass].
-  static const fileMagnifyingGlassDuotone = PhosphorIconsDuotone.fileMagnifyingGlass;
+  static const fileMagnifyingGlassDuotone =
+      PhosphorIconsDuotone.fileMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsRegular.fileMd]. [PT] Atalho para [PhosphorIconsRegular.fileMd].
   static const IconData fileMd = PhosphorIconsRegular.fileMd;
@@ -11229,22 +11876,28 @@ class PhosphorIcons {
   static const fingerprintDuotone = PhosphorIconsDuotone.fingerprint;
 
   /// Shortcut for [PhosphorIconsRegular.fingerprintSimple]. [PT] Atalho para [PhosphorIconsRegular.fingerprintSimple].
-  static const IconData fingerprintSimple = PhosphorIconsRegular.fingerprintSimple;
+  static const IconData fingerprintSimple =
+      PhosphorIconsRegular.fingerprintSimple;
 
   /// Shortcut for [PhosphorIconsThin.fingerprintSimple]. [PT] Atalho para [PhosphorIconsThin.fingerprintSimple].
-  static const IconData fingerprintSimpleThin = PhosphorIconsThin.fingerprintSimple;
+  static const IconData fingerprintSimpleThin =
+      PhosphorIconsThin.fingerprintSimple;
 
   /// Shortcut for [PhosphorIconsLight.fingerprintSimple]. [PT] Atalho para [PhosphorIconsLight.fingerprintSimple].
-  static const IconData fingerprintSimpleLight = PhosphorIconsLight.fingerprintSimple;
+  static const IconData fingerprintSimpleLight =
+      PhosphorIconsLight.fingerprintSimple;
 
   /// Shortcut for [PhosphorIconsBold.fingerprintSimple]. [PT] Atalho para [PhosphorIconsBold.fingerprintSimple].
-  static const IconData fingerprintSimpleBold = PhosphorIconsBold.fingerprintSimple;
+  static const IconData fingerprintSimpleBold =
+      PhosphorIconsBold.fingerprintSimple;
 
   /// Shortcut for [PhosphorIconsFill.fingerprintSimple]. [PT] Atalho para [PhosphorIconsFill.fingerprintSimple].
-  static const IconData fingerprintSimpleFill = PhosphorIconsFill.fingerprintSimple;
+  static const IconData fingerprintSimpleFill =
+      PhosphorIconsFill.fingerprintSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.fingerprintSimple]. [PT] Atalho para [PhosphorIconsDuotone.fingerprintSimple].
-  static const fingerprintSimpleDuotone = PhosphorIconsDuotone.fingerprintSimple;
+  static const fingerprintSimpleDuotone =
+      PhosphorIconsDuotone.fingerprintSimple;
 
   /// Shortcut for [PhosphorIconsRegular.finnTheHuman]. [PT] Atalho para [PhosphorIconsRegular.finnTheHuman].
   static const IconData finnTheHuman = PhosphorIconsRegular.finnTheHuman;
@@ -11283,19 +11936,24 @@ class PhosphorIcons {
   static const fireDuotone = PhosphorIconsDuotone.fire;
 
   /// Shortcut for [PhosphorIconsRegular.fireExtinguisher]. [PT] Atalho para [PhosphorIconsRegular.fireExtinguisher].
-  static const IconData fireExtinguisher = PhosphorIconsRegular.fireExtinguisher;
+  static const IconData fireExtinguisher =
+      PhosphorIconsRegular.fireExtinguisher;
 
   /// Shortcut for [PhosphorIconsThin.fireExtinguisher]. [PT] Atalho para [PhosphorIconsThin.fireExtinguisher].
-  static const IconData fireExtinguisherThin = PhosphorIconsThin.fireExtinguisher;
+  static const IconData fireExtinguisherThin =
+      PhosphorIconsThin.fireExtinguisher;
 
   /// Shortcut for [PhosphorIconsLight.fireExtinguisher]. [PT] Atalho para [PhosphorIconsLight.fireExtinguisher].
-  static const IconData fireExtinguisherLight = PhosphorIconsLight.fireExtinguisher;
+  static const IconData fireExtinguisherLight =
+      PhosphorIconsLight.fireExtinguisher;
 
   /// Shortcut for [PhosphorIconsBold.fireExtinguisher]. [PT] Atalho para [PhosphorIconsBold.fireExtinguisher].
-  static const IconData fireExtinguisherBold = PhosphorIconsBold.fireExtinguisher;
+  static const IconData fireExtinguisherBold =
+      PhosphorIconsBold.fireExtinguisher;
 
   /// Shortcut for [PhosphorIconsFill.fireExtinguisher]. [PT] Atalho para [PhosphorIconsFill.fireExtinguisher].
-  static const IconData fireExtinguisherFill = PhosphorIconsFill.fireExtinguisher;
+  static const IconData fireExtinguisherFill =
+      PhosphorIconsFill.fireExtinguisher;
 
   /// Shortcut for [PhosphorIconsDuotone.fireExtinguisher]. [PT] Atalho para [PhosphorIconsDuotone.fireExtinguisher].
   static const fireExtinguisherDuotone = PhosphorIconsDuotone.fireExtinguisher;
@@ -11823,19 +12481,24 @@ class PhosphorIcons {
   static const folderNotchDuotone = PhosphorIconsDuotone.folderNotch;
 
   /// Shortcut for [PhosphorIconsRegular.folderNotchMinus]. [PT] Atalho para [PhosphorIconsRegular.folderNotchMinus].
-  static const IconData folderNotchMinus = PhosphorIconsRegular.folderNotchMinus;
+  static const IconData folderNotchMinus =
+      PhosphorIconsRegular.folderNotchMinus;
 
   /// Shortcut for [PhosphorIconsThin.folderNotchMinus]. [PT] Atalho para [PhosphorIconsThin.folderNotchMinus].
-  static const IconData folderNotchMinusThin = PhosphorIconsThin.folderNotchMinus;
+  static const IconData folderNotchMinusThin =
+      PhosphorIconsThin.folderNotchMinus;
 
   /// Shortcut for [PhosphorIconsLight.folderNotchMinus]. [PT] Atalho para [PhosphorIconsLight.folderNotchMinus].
-  static const IconData folderNotchMinusLight = PhosphorIconsLight.folderNotchMinus;
+  static const IconData folderNotchMinusLight =
+      PhosphorIconsLight.folderNotchMinus;
 
   /// Shortcut for [PhosphorIconsBold.folderNotchMinus]. [PT] Atalho para [PhosphorIconsBold.folderNotchMinus].
-  static const IconData folderNotchMinusBold = PhosphorIconsBold.folderNotchMinus;
+  static const IconData folderNotchMinusBold =
+      PhosphorIconsBold.folderNotchMinus;
 
   /// Shortcut for [PhosphorIconsFill.folderNotchMinus]. [PT] Atalho para [PhosphorIconsFill.folderNotchMinus].
-  static const IconData folderNotchMinusFill = PhosphorIconsFill.folderNotchMinus;
+  static const IconData folderNotchMinusFill =
+      PhosphorIconsFill.folderNotchMinus;
 
   /// Shortcut for [PhosphorIconsDuotone.folderNotchMinus]. [PT] Atalho para [PhosphorIconsDuotone.folderNotchMinus].
   static const folderNotchMinusDuotone = PhosphorIconsDuotone.folderNotchMinus;
@@ -11847,7 +12510,8 @@ class PhosphorIcons {
   static const IconData folderNotchOpenThin = PhosphorIconsThin.folderNotchOpen;
 
   /// Shortcut for [PhosphorIconsLight.folderNotchOpen]. [PT] Atalho para [PhosphorIconsLight.folderNotchOpen].
-  static const IconData folderNotchOpenLight = PhosphorIconsLight.folderNotchOpen;
+  static const IconData folderNotchOpenLight =
+      PhosphorIconsLight.folderNotchOpen;
 
   /// Shortcut for [PhosphorIconsBold.folderNotchOpen]. [PT] Atalho para [PhosphorIconsBold.folderNotchOpen].
   static const IconData folderNotchOpenBold = PhosphorIconsBold.folderNotchOpen;
@@ -11865,7 +12529,8 @@ class PhosphorIcons {
   static const IconData folderNotchPlusThin = PhosphorIconsThin.folderNotchPlus;
 
   /// Shortcut for [PhosphorIconsLight.folderNotchPlus]. [PT] Atalho para [PhosphorIconsLight.folderNotchPlus].
-  static const IconData folderNotchPlusLight = PhosphorIconsLight.folderNotchPlus;
+  static const IconData folderNotchPlusLight =
+      PhosphorIconsLight.folderNotchPlus;
 
   /// Shortcut for [PhosphorIconsBold.folderNotchPlus]. [PT] Atalho para [PhosphorIconsBold.folderNotchPlus].
   static const IconData folderNotchPlusBold = PhosphorIconsBold.folderNotchPlus;
@@ -11931,127 +12596,165 @@ class PhosphorIcons {
   static const folderSimpleDuotone = PhosphorIconsDuotone.folderSimple;
 
   /// Shortcut for [PhosphorIconsRegular.folderSimpleDashed]. [PT] Atalho para [PhosphorIconsRegular.folderSimpleDashed].
-  static const IconData folderSimpleDashed = PhosphorIconsRegular.folderSimpleDashed;
+  static const IconData folderSimpleDashed =
+      PhosphorIconsRegular.folderSimpleDashed;
 
   /// Shortcut for [PhosphorIconsThin.folderSimpleDashed]. [PT] Atalho para [PhosphorIconsThin.folderSimpleDashed].
-  static const IconData folderSimpleDashedThin = PhosphorIconsThin.folderSimpleDashed;
+  static const IconData folderSimpleDashedThin =
+      PhosphorIconsThin.folderSimpleDashed;
 
   /// Shortcut for [PhosphorIconsLight.folderSimpleDashed]. [PT] Atalho para [PhosphorIconsLight.folderSimpleDashed].
-  static const IconData folderSimpleDashedLight = PhosphorIconsLight.folderSimpleDashed;
+  static const IconData folderSimpleDashedLight =
+      PhosphorIconsLight.folderSimpleDashed;
 
   /// Shortcut for [PhosphorIconsBold.folderSimpleDashed]. [PT] Atalho para [PhosphorIconsBold.folderSimpleDashed].
-  static const IconData folderSimpleDashedBold = PhosphorIconsBold.folderSimpleDashed;
+  static const IconData folderSimpleDashedBold =
+      PhosphorIconsBold.folderSimpleDashed;
 
   /// Shortcut for [PhosphorIconsFill.folderSimpleDashed]. [PT] Atalho para [PhosphorIconsFill.folderSimpleDashed].
-  static const IconData folderSimpleDashedFill = PhosphorIconsFill.folderSimpleDashed;
+  static const IconData folderSimpleDashedFill =
+      PhosphorIconsFill.folderSimpleDashed;
 
   /// Shortcut for [PhosphorIconsDuotone.folderSimpleDashed]. [PT] Atalho para [PhosphorIconsDuotone.folderSimpleDashed].
-  static const folderSimpleDashedDuotone = PhosphorIconsDuotone.folderSimpleDashed;
+  static const folderSimpleDashedDuotone =
+      PhosphorIconsDuotone.folderSimpleDashed;
 
   /// Shortcut for [PhosphorIconsRegular.folderSimpleDotted]. [PT] Atalho para [PhosphorIconsRegular.folderSimpleDotted].
-  static const IconData folderSimpleDotted = PhosphorIconsRegular.folderSimpleDotted;
+  static const IconData folderSimpleDotted =
+      PhosphorIconsRegular.folderSimpleDotted;
 
   /// Shortcut for [PhosphorIconsThin.folderSimpleDotted]. [PT] Atalho para [PhosphorIconsThin.folderSimpleDotted].
-  static const IconData folderSimpleDottedThin = PhosphorIconsThin.folderSimpleDotted;
+  static const IconData folderSimpleDottedThin =
+      PhosphorIconsThin.folderSimpleDotted;
 
   /// Shortcut for [PhosphorIconsLight.folderSimpleDotted]. [PT] Atalho para [PhosphorIconsLight.folderSimpleDotted].
-  static const IconData folderSimpleDottedLight = PhosphorIconsLight.folderSimpleDotted;
+  static const IconData folderSimpleDottedLight =
+      PhosphorIconsLight.folderSimpleDotted;
 
   /// Shortcut for [PhosphorIconsBold.folderSimpleDotted]. [PT] Atalho para [PhosphorIconsBold.folderSimpleDotted].
-  static const IconData folderSimpleDottedBold = PhosphorIconsBold.folderSimpleDotted;
+  static const IconData folderSimpleDottedBold =
+      PhosphorIconsBold.folderSimpleDotted;
 
   /// Shortcut for [PhosphorIconsFill.folderSimpleDotted]. [PT] Atalho para [PhosphorIconsFill.folderSimpleDotted].
-  static const IconData folderSimpleDottedFill = PhosphorIconsFill.folderSimpleDotted;
+  static const IconData folderSimpleDottedFill =
+      PhosphorIconsFill.folderSimpleDotted;
 
   /// Shortcut for [PhosphorIconsDuotone.folderSimpleDotted]. [PT] Atalho para [PhosphorIconsDuotone.folderSimpleDotted].
-  static const folderSimpleDottedDuotone = PhosphorIconsDuotone.folderSimpleDotted;
+  static const folderSimpleDottedDuotone =
+      PhosphorIconsDuotone.folderSimpleDotted;
 
   /// Shortcut for [PhosphorIconsRegular.folderSimpleLock]. [PT] Atalho para [PhosphorIconsRegular.folderSimpleLock].
-  static const IconData folderSimpleLock = PhosphorIconsRegular.folderSimpleLock;
+  static const IconData folderSimpleLock =
+      PhosphorIconsRegular.folderSimpleLock;
 
   /// Shortcut for [PhosphorIconsThin.folderSimpleLock]. [PT] Atalho para [PhosphorIconsThin.folderSimpleLock].
-  static const IconData folderSimpleLockThin = PhosphorIconsThin.folderSimpleLock;
+  static const IconData folderSimpleLockThin =
+      PhosphorIconsThin.folderSimpleLock;
 
   /// Shortcut for [PhosphorIconsLight.folderSimpleLock]. [PT] Atalho para [PhosphorIconsLight.folderSimpleLock].
-  static const IconData folderSimpleLockLight = PhosphorIconsLight.folderSimpleLock;
+  static const IconData folderSimpleLockLight =
+      PhosphorIconsLight.folderSimpleLock;
 
   /// Shortcut for [PhosphorIconsBold.folderSimpleLock]. [PT] Atalho para [PhosphorIconsBold.folderSimpleLock].
-  static const IconData folderSimpleLockBold = PhosphorIconsBold.folderSimpleLock;
+  static const IconData folderSimpleLockBold =
+      PhosphorIconsBold.folderSimpleLock;
 
   /// Shortcut for [PhosphorIconsFill.folderSimpleLock]. [PT] Atalho para [PhosphorIconsFill.folderSimpleLock].
-  static const IconData folderSimpleLockFill = PhosphorIconsFill.folderSimpleLock;
+  static const IconData folderSimpleLockFill =
+      PhosphorIconsFill.folderSimpleLock;
 
   /// Shortcut for [PhosphorIconsDuotone.folderSimpleLock]. [PT] Atalho para [PhosphorIconsDuotone.folderSimpleLock].
   static const folderSimpleLockDuotone = PhosphorIconsDuotone.folderSimpleLock;
 
   /// Shortcut for [PhosphorIconsRegular.folderSimpleMinus]. [PT] Atalho para [PhosphorIconsRegular.folderSimpleMinus].
-  static const IconData folderSimpleMinus = PhosphorIconsRegular.folderSimpleMinus;
+  static const IconData folderSimpleMinus =
+      PhosphorIconsRegular.folderSimpleMinus;
 
   /// Shortcut for [PhosphorIconsThin.folderSimpleMinus]. [PT] Atalho para [PhosphorIconsThin.folderSimpleMinus].
-  static const IconData folderSimpleMinusThin = PhosphorIconsThin.folderSimpleMinus;
+  static const IconData folderSimpleMinusThin =
+      PhosphorIconsThin.folderSimpleMinus;
 
   /// Shortcut for [PhosphorIconsLight.folderSimpleMinus]. [PT] Atalho para [PhosphorIconsLight.folderSimpleMinus].
-  static const IconData folderSimpleMinusLight = PhosphorIconsLight.folderSimpleMinus;
+  static const IconData folderSimpleMinusLight =
+      PhosphorIconsLight.folderSimpleMinus;
 
   /// Shortcut for [PhosphorIconsBold.folderSimpleMinus]. [PT] Atalho para [PhosphorIconsBold.folderSimpleMinus].
-  static const IconData folderSimpleMinusBold = PhosphorIconsBold.folderSimpleMinus;
+  static const IconData folderSimpleMinusBold =
+      PhosphorIconsBold.folderSimpleMinus;
 
   /// Shortcut for [PhosphorIconsFill.folderSimpleMinus]. [PT] Atalho para [PhosphorIconsFill.folderSimpleMinus].
-  static const IconData folderSimpleMinusFill = PhosphorIconsFill.folderSimpleMinus;
+  static const IconData folderSimpleMinusFill =
+      PhosphorIconsFill.folderSimpleMinus;
 
   /// Shortcut for [PhosphorIconsDuotone.folderSimpleMinus]. [PT] Atalho para [PhosphorIconsDuotone.folderSimpleMinus].
-  static const folderSimpleMinusDuotone = PhosphorIconsDuotone.folderSimpleMinus;
+  static const folderSimpleMinusDuotone =
+      PhosphorIconsDuotone.folderSimpleMinus;
 
   /// Shortcut for [PhosphorIconsRegular.folderSimplePlus]. [PT] Atalho para [PhosphorIconsRegular.folderSimplePlus].
-  static const IconData folderSimplePlus = PhosphorIconsRegular.folderSimplePlus;
+  static const IconData folderSimplePlus =
+      PhosphorIconsRegular.folderSimplePlus;
 
   /// Shortcut for [PhosphorIconsThin.folderSimplePlus]. [PT] Atalho para [PhosphorIconsThin.folderSimplePlus].
-  static const IconData folderSimplePlusThin = PhosphorIconsThin.folderSimplePlus;
+  static const IconData folderSimplePlusThin =
+      PhosphorIconsThin.folderSimplePlus;
 
   /// Shortcut for [PhosphorIconsLight.folderSimplePlus]. [PT] Atalho para [PhosphorIconsLight.folderSimplePlus].
-  static const IconData folderSimplePlusLight = PhosphorIconsLight.folderSimplePlus;
+  static const IconData folderSimplePlusLight =
+      PhosphorIconsLight.folderSimplePlus;
 
   /// Shortcut for [PhosphorIconsBold.folderSimplePlus]. [PT] Atalho para [PhosphorIconsBold.folderSimplePlus].
-  static const IconData folderSimplePlusBold = PhosphorIconsBold.folderSimplePlus;
+  static const IconData folderSimplePlusBold =
+      PhosphorIconsBold.folderSimplePlus;
 
   /// Shortcut for [PhosphorIconsFill.folderSimplePlus]. [PT] Atalho para [PhosphorIconsFill.folderSimplePlus].
-  static const IconData folderSimplePlusFill = PhosphorIconsFill.folderSimplePlus;
+  static const IconData folderSimplePlusFill =
+      PhosphorIconsFill.folderSimplePlus;
 
   /// Shortcut for [PhosphorIconsDuotone.folderSimplePlus]. [PT] Atalho para [PhosphorIconsDuotone.folderSimplePlus].
   static const folderSimplePlusDuotone = PhosphorIconsDuotone.folderSimplePlus;
 
   /// Shortcut for [PhosphorIconsRegular.folderSimpleStar]. [PT] Atalho para [PhosphorIconsRegular.folderSimpleStar].
-  static const IconData folderSimpleStar = PhosphorIconsRegular.folderSimpleStar;
+  static const IconData folderSimpleStar =
+      PhosphorIconsRegular.folderSimpleStar;
 
   /// Shortcut for [PhosphorIconsThin.folderSimpleStar]. [PT] Atalho para [PhosphorIconsThin.folderSimpleStar].
-  static const IconData folderSimpleStarThin = PhosphorIconsThin.folderSimpleStar;
+  static const IconData folderSimpleStarThin =
+      PhosphorIconsThin.folderSimpleStar;
 
   /// Shortcut for [PhosphorIconsLight.folderSimpleStar]. [PT] Atalho para [PhosphorIconsLight.folderSimpleStar].
-  static const IconData folderSimpleStarLight = PhosphorIconsLight.folderSimpleStar;
+  static const IconData folderSimpleStarLight =
+      PhosphorIconsLight.folderSimpleStar;
 
   /// Shortcut for [PhosphorIconsBold.folderSimpleStar]. [PT] Atalho para [PhosphorIconsBold.folderSimpleStar].
-  static const IconData folderSimpleStarBold = PhosphorIconsBold.folderSimpleStar;
+  static const IconData folderSimpleStarBold =
+      PhosphorIconsBold.folderSimpleStar;
 
   /// Shortcut for [PhosphorIconsFill.folderSimpleStar]. [PT] Atalho para [PhosphorIconsFill.folderSimpleStar].
-  static const IconData folderSimpleStarFill = PhosphorIconsFill.folderSimpleStar;
+  static const IconData folderSimpleStarFill =
+      PhosphorIconsFill.folderSimpleStar;
 
   /// Shortcut for [PhosphorIconsDuotone.folderSimpleStar]. [PT] Atalho para [PhosphorIconsDuotone.folderSimpleStar].
   static const folderSimpleStarDuotone = PhosphorIconsDuotone.folderSimpleStar;
 
   /// Shortcut for [PhosphorIconsRegular.folderSimpleUser]. [PT] Atalho para [PhosphorIconsRegular.folderSimpleUser].
-  static const IconData folderSimpleUser = PhosphorIconsRegular.folderSimpleUser;
+  static const IconData folderSimpleUser =
+      PhosphorIconsRegular.folderSimpleUser;
 
   /// Shortcut for [PhosphorIconsThin.folderSimpleUser]. [PT] Atalho para [PhosphorIconsThin.folderSimpleUser].
-  static const IconData folderSimpleUserThin = PhosphorIconsThin.folderSimpleUser;
+  static const IconData folderSimpleUserThin =
+      PhosphorIconsThin.folderSimpleUser;
 
   /// Shortcut for [PhosphorIconsLight.folderSimpleUser]. [PT] Atalho para [PhosphorIconsLight.folderSimpleUser].
-  static const IconData folderSimpleUserLight = PhosphorIconsLight.folderSimpleUser;
+  static const IconData folderSimpleUserLight =
+      PhosphorIconsLight.folderSimpleUser;
 
   /// Shortcut for [PhosphorIconsBold.folderSimpleUser]. [PT] Atalho para [PhosphorIconsBold.folderSimpleUser].
-  static const IconData folderSimpleUserBold = PhosphorIconsBold.folderSimpleUser;
+  static const IconData folderSimpleUserBold =
+      PhosphorIconsBold.folderSimpleUser;
 
   /// Shortcut for [PhosphorIconsFill.folderSimpleUser]. [PT] Atalho para [PhosphorIconsFill.folderSimpleUser].
-  static const IconData folderSimpleUserFill = PhosphorIconsFill.folderSimpleUser;
+  static const IconData folderSimpleUserFill =
+      PhosphorIconsFill.folderSimpleUser;
 
   /// Shortcut for [PhosphorIconsDuotone.folderSimpleUser]. [PT] Atalho para [PhosphorIconsDuotone.folderSimpleUser].
   static const folderSimpleUserDuotone = PhosphorIconsDuotone.folderSimpleUser;
@@ -12567,7 +13270,8 @@ class PhosphorIcons {
   static const IconData genderNonbinaryThin = PhosphorIconsThin.genderNonbinary;
 
   /// Shortcut for [PhosphorIconsLight.genderNonbinary]. [PT] Atalho para [PhosphorIconsLight.genderNonbinary].
-  static const IconData genderNonbinaryLight = PhosphorIconsLight.genderNonbinary;
+  static const IconData genderNonbinaryLight =
+      PhosphorIconsLight.genderNonbinary;
 
   /// Shortcut for [PhosphorIconsBold.genderNonbinary]. [PT] Atalho para [PhosphorIconsBold.genderNonbinary].
   static const IconData genderNonbinaryBold = PhosphorIconsBold.genderNonbinary;
@@ -12579,22 +13283,28 @@ class PhosphorIcons {
   static const genderNonbinaryDuotone = PhosphorIconsDuotone.genderNonbinary;
 
   /// Shortcut for [PhosphorIconsRegular.genderTransgender]. [PT] Atalho para [PhosphorIconsRegular.genderTransgender].
-  static const IconData genderTransgender = PhosphorIconsRegular.genderTransgender;
+  static const IconData genderTransgender =
+      PhosphorIconsRegular.genderTransgender;
 
   /// Shortcut for [PhosphorIconsThin.genderTransgender]. [PT] Atalho para [PhosphorIconsThin.genderTransgender].
-  static const IconData genderTransgenderThin = PhosphorIconsThin.genderTransgender;
+  static const IconData genderTransgenderThin =
+      PhosphorIconsThin.genderTransgender;
 
   /// Shortcut for [PhosphorIconsLight.genderTransgender]. [PT] Atalho para [PhosphorIconsLight.genderTransgender].
-  static const IconData genderTransgenderLight = PhosphorIconsLight.genderTransgender;
+  static const IconData genderTransgenderLight =
+      PhosphorIconsLight.genderTransgender;
 
   /// Shortcut for [PhosphorIconsBold.genderTransgender]. [PT] Atalho para [PhosphorIconsBold.genderTransgender].
-  static const IconData genderTransgenderBold = PhosphorIconsBold.genderTransgender;
+  static const IconData genderTransgenderBold =
+      PhosphorIconsBold.genderTransgender;
 
   /// Shortcut for [PhosphorIconsFill.genderTransgender]. [PT] Atalho para [PhosphorIconsFill.genderTransgender].
-  static const IconData genderTransgenderFill = PhosphorIconsFill.genderTransgender;
+  static const IconData genderTransgenderFill =
+      PhosphorIconsFill.genderTransgender;
 
   /// Shortcut for [PhosphorIconsDuotone.genderTransgender]. [PT] Atalho para [PhosphorIconsDuotone.genderTransgender].
-  static const genderTransgenderDuotone = PhosphorIconsDuotone.genderTransgender;
+  static const genderTransgenderDuotone =
+      PhosphorIconsDuotone.genderTransgender;
 
   /// Shortcut for [PhosphorIconsRegular.ghost]. [PT] Atalho para [PhosphorIconsRegular.ghost].
   static const IconData ghost = PhosphorIconsRegular.ghost;
@@ -12795,19 +13505,24 @@ class PhosphorIcons {
   static const gitlabLogoDuotone = PhosphorIconsDuotone.gitlabLogo;
 
   /// Shortcut for [PhosphorIconsRegular.gitlabLogoSimple]. [PT] Atalho para [PhosphorIconsRegular.gitlabLogoSimple].
-  static const IconData gitlabLogoSimple = PhosphorIconsRegular.gitlabLogoSimple;
+  static const IconData gitlabLogoSimple =
+      PhosphorIconsRegular.gitlabLogoSimple;
 
   /// Shortcut for [PhosphorIconsThin.gitlabLogoSimple]. [PT] Atalho para [PhosphorIconsThin.gitlabLogoSimple].
-  static const IconData gitlabLogoSimpleThin = PhosphorIconsThin.gitlabLogoSimple;
+  static const IconData gitlabLogoSimpleThin =
+      PhosphorIconsThin.gitlabLogoSimple;
 
   /// Shortcut for [PhosphorIconsLight.gitlabLogoSimple]. [PT] Atalho para [PhosphorIconsLight.gitlabLogoSimple].
-  static const IconData gitlabLogoSimpleLight = PhosphorIconsLight.gitlabLogoSimple;
+  static const IconData gitlabLogoSimpleLight =
+      PhosphorIconsLight.gitlabLogoSimple;
 
   /// Shortcut for [PhosphorIconsBold.gitlabLogoSimple]. [PT] Atalho para [PhosphorIconsBold.gitlabLogoSimple].
-  static const IconData gitlabLogoSimpleBold = PhosphorIconsBold.gitlabLogoSimple;
+  static const IconData gitlabLogoSimpleBold =
+      PhosphorIconsBold.gitlabLogoSimple;
 
   /// Shortcut for [PhosphorIconsFill.gitlabLogoSimple]. [PT] Atalho para [PhosphorIconsFill.gitlabLogoSimple].
-  static const IconData gitlabLogoSimpleFill = PhosphorIconsFill.gitlabLogoSimple;
+  static const IconData gitlabLogoSimpleFill =
+      PhosphorIconsFill.gitlabLogoSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.gitlabLogoSimple]. [PT] Atalho para [PhosphorIconsDuotone.gitlabLogoSimple].
   static const gitlabLogoSimpleDuotone = PhosphorIconsDuotone.gitlabLogoSimple;
@@ -12831,40 +13546,52 @@ class PhosphorIcons {
   static const globeDuotone = PhosphorIconsDuotone.globe;
 
   /// Shortcut for [PhosphorIconsRegular.globeHemisphereEast]. [PT] Atalho para [PhosphorIconsRegular.globeHemisphereEast].
-  static const IconData globeHemisphereEast = PhosphorIconsRegular.globeHemisphereEast;
+  static const IconData globeHemisphereEast =
+      PhosphorIconsRegular.globeHemisphereEast;
 
   /// Shortcut for [PhosphorIconsThin.globeHemisphereEast]. [PT] Atalho para [PhosphorIconsThin.globeHemisphereEast].
-  static const IconData globeHemisphereEastThin = PhosphorIconsThin.globeHemisphereEast;
+  static const IconData globeHemisphereEastThin =
+      PhosphorIconsThin.globeHemisphereEast;
 
   /// Shortcut for [PhosphorIconsLight.globeHemisphereEast]. [PT] Atalho para [PhosphorIconsLight.globeHemisphereEast].
-  static const IconData globeHemisphereEastLight = PhosphorIconsLight.globeHemisphereEast;
+  static const IconData globeHemisphereEastLight =
+      PhosphorIconsLight.globeHemisphereEast;
 
   /// Shortcut for [PhosphorIconsBold.globeHemisphereEast]. [PT] Atalho para [PhosphorIconsBold.globeHemisphereEast].
-  static const IconData globeHemisphereEastBold = PhosphorIconsBold.globeHemisphereEast;
+  static const IconData globeHemisphereEastBold =
+      PhosphorIconsBold.globeHemisphereEast;
 
   /// Shortcut for [PhosphorIconsFill.globeHemisphereEast]. [PT] Atalho para [PhosphorIconsFill.globeHemisphereEast].
-  static const IconData globeHemisphereEastFill = PhosphorIconsFill.globeHemisphereEast;
+  static const IconData globeHemisphereEastFill =
+      PhosphorIconsFill.globeHemisphereEast;
 
   /// Shortcut for [PhosphorIconsDuotone.globeHemisphereEast]. [PT] Atalho para [PhosphorIconsDuotone.globeHemisphereEast].
-  static const globeHemisphereEastDuotone = PhosphorIconsDuotone.globeHemisphereEast;
+  static const globeHemisphereEastDuotone =
+      PhosphorIconsDuotone.globeHemisphereEast;
 
   /// Shortcut for [PhosphorIconsRegular.globeHemisphereWest]. [PT] Atalho para [PhosphorIconsRegular.globeHemisphereWest].
-  static const IconData globeHemisphereWest = PhosphorIconsRegular.globeHemisphereWest;
+  static const IconData globeHemisphereWest =
+      PhosphorIconsRegular.globeHemisphereWest;
 
   /// Shortcut for [PhosphorIconsThin.globeHemisphereWest]. [PT] Atalho para [PhosphorIconsThin.globeHemisphereWest].
-  static const IconData globeHemisphereWestThin = PhosphorIconsThin.globeHemisphereWest;
+  static const IconData globeHemisphereWestThin =
+      PhosphorIconsThin.globeHemisphereWest;
 
   /// Shortcut for [PhosphorIconsLight.globeHemisphereWest]. [PT] Atalho para [PhosphorIconsLight.globeHemisphereWest].
-  static const IconData globeHemisphereWestLight = PhosphorIconsLight.globeHemisphereWest;
+  static const IconData globeHemisphereWestLight =
+      PhosphorIconsLight.globeHemisphereWest;
 
   /// Shortcut for [PhosphorIconsBold.globeHemisphereWest]. [PT] Atalho para [PhosphorIconsBold.globeHemisphereWest].
-  static const IconData globeHemisphereWestBold = PhosphorIconsBold.globeHemisphereWest;
+  static const IconData globeHemisphereWestBold =
+      PhosphorIconsBold.globeHemisphereWest;
 
   /// Shortcut for [PhosphorIconsFill.globeHemisphereWest]. [PT] Atalho para [PhosphorIconsFill.globeHemisphereWest].
-  static const IconData globeHemisphereWestFill = PhosphorIconsFill.globeHemisphereWest;
+  static const IconData globeHemisphereWestFill =
+      PhosphorIconsFill.globeHemisphereWest;
 
   /// Shortcut for [PhosphorIconsDuotone.globeHemisphereWest]. [PT] Atalho para [PhosphorIconsDuotone.globeHemisphereWest].
-  static const globeHemisphereWestDuotone = PhosphorIconsDuotone.globeHemisphereWest;
+  static const globeHemisphereWestDuotone =
+      PhosphorIconsDuotone.globeHemisphereWest;
 
   /// Shortcut for [PhosphorIconsRegular.globeSimple]. [PT] Atalho para [PhosphorIconsRegular.globeSimple].
   static const IconData globeSimple = PhosphorIconsRegular.globeSimple;
@@ -12993,37 +13720,48 @@ class PhosphorIcons {
   static const goodreadsLogoDuotone = PhosphorIconsDuotone.goodreadsLogo;
 
   /// Shortcut for [PhosphorIconsRegular.googleCardboardLogo]. [PT] Atalho para [PhosphorIconsRegular.googleCardboardLogo].
-  static const IconData googleCardboardLogo = PhosphorIconsRegular.googleCardboardLogo;
+  static const IconData googleCardboardLogo =
+      PhosphorIconsRegular.googleCardboardLogo;
 
   /// Shortcut for [PhosphorIconsThin.googleCardboardLogo]. [PT] Atalho para [PhosphorIconsThin.googleCardboardLogo].
-  static const IconData googleCardboardLogoThin = PhosphorIconsThin.googleCardboardLogo;
+  static const IconData googleCardboardLogoThin =
+      PhosphorIconsThin.googleCardboardLogo;
 
   /// Shortcut for [PhosphorIconsLight.googleCardboardLogo]. [PT] Atalho para [PhosphorIconsLight.googleCardboardLogo].
-  static const IconData googleCardboardLogoLight = PhosphorIconsLight.googleCardboardLogo;
+  static const IconData googleCardboardLogoLight =
+      PhosphorIconsLight.googleCardboardLogo;
 
   /// Shortcut for [PhosphorIconsBold.googleCardboardLogo]. [PT] Atalho para [PhosphorIconsBold.googleCardboardLogo].
-  static const IconData googleCardboardLogoBold = PhosphorIconsBold.googleCardboardLogo;
+  static const IconData googleCardboardLogoBold =
+      PhosphorIconsBold.googleCardboardLogo;
 
   /// Shortcut for [PhosphorIconsFill.googleCardboardLogo]. [PT] Atalho para [PhosphorIconsFill.googleCardboardLogo].
-  static const IconData googleCardboardLogoFill = PhosphorIconsFill.googleCardboardLogo;
+  static const IconData googleCardboardLogoFill =
+      PhosphorIconsFill.googleCardboardLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.googleCardboardLogo]. [PT] Atalho para [PhosphorIconsDuotone.googleCardboardLogo].
-  static const googleCardboardLogoDuotone = PhosphorIconsDuotone.googleCardboardLogo;
+  static const googleCardboardLogoDuotone =
+      PhosphorIconsDuotone.googleCardboardLogo;
 
   /// Shortcut for [PhosphorIconsRegular.googleChromeLogo]. [PT] Atalho para [PhosphorIconsRegular.googleChromeLogo].
-  static const IconData googleChromeLogo = PhosphorIconsRegular.googleChromeLogo;
+  static const IconData googleChromeLogo =
+      PhosphorIconsRegular.googleChromeLogo;
 
   /// Shortcut for [PhosphorIconsThin.googleChromeLogo]. [PT] Atalho para [PhosphorIconsThin.googleChromeLogo].
-  static const IconData googleChromeLogoThin = PhosphorIconsThin.googleChromeLogo;
+  static const IconData googleChromeLogoThin =
+      PhosphorIconsThin.googleChromeLogo;
 
   /// Shortcut for [PhosphorIconsLight.googleChromeLogo]. [PT] Atalho para [PhosphorIconsLight.googleChromeLogo].
-  static const IconData googleChromeLogoLight = PhosphorIconsLight.googleChromeLogo;
+  static const IconData googleChromeLogoLight =
+      PhosphorIconsLight.googleChromeLogo;
 
   /// Shortcut for [PhosphorIconsBold.googleChromeLogo]. [PT] Atalho para [PhosphorIconsBold.googleChromeLogo].
-  static const IconData googleChromeLogoBold = PhosphorIconsBold.googleChromeLogo;
+  static const IconData googleChromeLogoBold =
+      PhosphorIconsBold.googleChromeLogo;
 
   /// Shortcut for [PhosphorIconsFill.googleChromeLogo]. [PT] Atalho para [PhosphorIconsFill.googleChromeLogo].
-  static const IconData googleChromeLogoFill = PhosphorIconsFill.googleChromeLogo;
+  static const IconData googleChromeLogoFill =
+      PhosphorIconsFill.googleChromeLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.googleChromeLogo]. [PT] Atalho para [PhosphorIconsDuotone.googleChromeLogo].
   static const googleChromeLogoDuotone = PhosphorIconsDuotone.googleChromeLogo;
@@ -13035,7 +13773,8 @@ class PhosphorIcons {
   static const IconData googleDriveLogoThin = PhosphorIconsThin.googleDriveLogo;
 
   /// Shortcut for [PhosphorIconsLight.googleDriveLogo]. [PT] Atalho para [PhosphorIconsLight.googleDriveLogo].
-  static const IconData googleDriveLogoLight = PhosphorIconsLight.googleDriveLogo;
+  static const IconData googleDriveLogoLight =
+      PhosphorIconsLight.googleDriveLogo;
 
   /// Shortcut for [PhosphorIconsBold.googleDriveLogo]. [PT] Atalho para [PhosphorIconsBold.googleDriveLogo].
   static const IconData googleDriveLogoBold = PhosphorIconsBold.googleDriveLogo;
@@ -13065,19 +13804,24 @@ class PhosphorIcons {
   static const googleLogoDuotone = PhosphorIconsDuotone.googleLogo;
 
   /// Shortcut for [PhosphorIconsRegular.googlePhotosLogo]. [PT] Atalho para [PhosphorIconsRegular.googlePhotosLogo].
-  static const IconData googlePhotosLogo = PhosphorIconsRegular.googlePhotosLogo;
+  static const IconData googlePhotosLogo =
+      PhosphorIconsRegular.googlePhotosLogo;
 
   /// Shortcut for [PhosphorIconsThin.googlePhotosLogo]. [PT] Atalho para [PhosphorIconsThin.googlePhotosLogo].
-  static const IconData googlePhotosLogoThin = PhosphorIconsThin.googlePhotosLogo;
+  static const IconData googlePhotosLogoThin =
+      PhosphorIconsThin.googlePhotosLogo;
 
   /// Shortcut for [PhosphorIconsLight.googlePhotosLogo]. [PT] Atalho para [PhosphorIconsLight.googlePhotosLogo].
-  static const IconData googlePhotosLogoLight = PhosphorIconsLight.googlePhotosLogo;
+  static const IconData googlePhotosLogoLight =
+      PhosphorIconsLight.googlePhotosLogo;
 
   /// Shortcut for [PhosphorIconsBold.googlePhotosLogo]. [PT] Atalho para [PhosphorIconsBold.googlePhotosLogo].
-  static const IconData googlePhotosLogoBold = PhosphorIconsBold.googlePhotosLogo;
+  static const IconData googlePhotosLogoBold =
+      PhosphorIconsBold.googlePhotosLogo;
 
   /// Shortcut for [PhosphorIconsFill.googlePhotosLogo]. [PT] Atalho para [PhosphorIconsFill.googlePhotosLogo].
-  static const IconData googlePhotosLogoFill = PhosphorIconsFill.googlePhotosLogo;
+  static const IconData googlePhotosLogoFill =
+      PhosphorIconsFill.googlePhotosLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.googlePhotosLogo]. [PT] Atalho para [PhosphorIconsDuotone.googlePhotosLogo].
   static const googlePhotosLogoDuotone = PhosphorIconsDuotone.googlePhotosLogo;
@@ -13101,22 +13845,28 @@ class PhosphorIcons {
   static const googlePlayLogoDuotone = PhosphorIconsDuotone.googlePlayLogo;
 
   /// Shortcut for [PhosphorIconsRegular.googlePodcastsLogo]. [PT] Atalho para [PhosphorIconsRegular.googlePodcastsLogo].
-  static const IconData googlePodcastsLogo = PhosphorIconsRegular.googlePodcastsLogo;
+  static const IconData googlePodcastsLogo =
+      PhosphorIconsRegular.googlePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsThin.googlePodcastsLogo]. [PT] Atalho para [PhosphorIconsThin.googlePodcastsLogo].
-  static const IconData googlePodcastsLogoThin = PhosphorIconsThin.googlePodcastsLogo;
+  static const IconData googlePodcastsLogoThin =
+      PhosphorIconsThin.googlePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsLight.googlePodcastsLogo]. [PT] Atalho para [PhosphorIconsLight.googlePodcastsLogo].
-  static const IconData googlePodcastsLogoLight = PhosphorIconsLight.googlePodcastsLogo;
+  static const IconData googlePodcastsLogoLight =
+      PhosphorIconsLight.googlePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsBold.googlePodcastsLogo]. [PT] Atalho para [PhosphorIconsBold.googlePodcastsLogo].
-  static const IconData googlePodcastsLogoBold = PhosphorIconsBold.googlePodcastsLogo;
+  static const IconData googlePodcastsLogoBold =
+      PhosphorIconsBold.googlePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsFill.googlePodcastsLogo]. [PT] Atalho para [PhosphorIconsFill.googlePodcastsLogo].
-  static const IconData googlePodcastsLogoFill = PhosphorIconsFill.googlePodcastsLogo;
+  static const IconData googlePodcastsLogoFill =
+      PhosphorIconsFill.googlePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.googlePodcastsLogo]. [PT] Atalho para [PhosphorIconsDuotone.googlePodcastsLogo].
-  static const googlePodcastsLogoDuotone = PhosphorIconsDuotone.googlePodcastsLogo;
+  static const googlePodcastsLogoDuotone =
+      PhosphorIconsDuotone.googlePodcastsLogo;
 
   /// Shortcut for [PhosphorIconsRegular.gps]. [PT] Atalho para [PhosphorIconsRegular.gps].
   static const IconData gps = PhosphorIconsRegular.gps;
@@ -13299,22 +14049,28 @@ class PhosphorIcons {
   static const greaterThanDuotone = PhosphorIconsDuotone.greaterThan;
 
   /// Shortcut for [PhosphorIconsRegular.greaterThanOrEqual]. [PT] Atalho para [PhosphorIconsRegular.greaterThanOrEqual].
-  static const IconData greaterThanOrEqual = PhosphorIconsRegular.greaterThanOrEqual;
+  static const IconData greaterThanOrEqual =
+      PhosphorIconsRegular.greaterThanOrEqual;
 
   /// Shortcut for [PhosphorIconsThin.greaterThanOrEqual]. [PT] Atalho para [PhosphorIconsThin.greaterThanOrEqual].
-  static const IconData greaterThanOrEqualThin = PhosphorIconsThin.greaterThanOrEqual;
+  static const IconData greaterThanOrEqualThin =
+      PhosphorIconsThin.greaterThanOrEqual;
 
   /// Shortcut for [PhosphorIconsLight.greaterThanOrEqual]. [PT] Atalho para [PhosphorIconsLight.greaterThanOrEqual].
-  static const IconData greaterThanOrEqualLight = PhosphorIconsLight.greaterThanOrEqual;
+  static const IconData greaterThanOrEqualLight =
+      PhosphorIconsLight.greaterThanOrEqual;
 
   /// Shortcut for [PhosphorIconsBold.greaterThanOrEqual]. [PT] Atalho para [PhosphorIconsBold.greaterThanOrEqual].
-  static const IconData greaterThanOrEqualBold = PhosphorIconsBold.greaterThanOrEqual;
+  static const IconData greaterThanOrEqualBold =
+      PhosphorIconsBold.greaterThanOrEqual;
 
   /// Shortcut for [PhosphorIconsFill.greaterThanOrEqual]. [PT] Atalho para [PhosphorIconsFill.greaterThanOrEqual].
-  static const IconData greaterThanOrEqualFill = PhosphorIconsFill.greaterThanOrEqual;
+  static const IconData greaterThanOrEqualFill =
+      PhosphorIconsFill.greaterThanOrEqual;
 
   /// Shortcut for [PhosphorIconsDuotone.greaterThanOrEqual]. [PT] Atalho para [PhosphorIconsDuotone.greaterThanOrEqual].
-  static const greaterThanOrEqualDuotone = PhosphorIconsDuotone.greaterThanOrEqual;
+  static const greaterThanOrEqualDuotone =
+      PhosphorIconsDuotone.greaterThanOrEqual;
 
   /// Shortcut for [PhosphorIconsRegular.gridFour]. [PT] Atalho para [PhosphorIconsRegular.gridFour].
   static const IconData gridFour = PhosphorIconsRegular.gridFour;
@@ -14073,22 +14829,28 @@ class PhosphorIcons {
   static const heartStraightDuotone = PhosphorIconsDuotone.heartStraight;
 
   /// Shortcut for [PhosphorIconsRegular.heartStraightBreak]. [PT] Atalho para [PhosphorIconsRegular.heartStraightBreak].
-  static const IconData heartStraightBreak = PhosphorIconsRegular.heartStraightBreak;
+  static const IconData heartStraightBreak =
+      PhosphorIconsRegular.heartStraightBreak;
 
   /// Shortcut for [PhosphorIconsThin.heartStraightBreak]. [PT] Atalho para [PhosphorIconsThin.heartStraightBreak].
-  static const IconData heartStraightBreakThin = PhosphorIconsThin.heartStraightBreak;
+  static const IconData heartStraightBreakThin =
+      PhosphorIconsThin.heartStraightBreak;
 
   /// Shortcut for [PhosphorIconsLight.heartStraightBreak]. [PT] Atalho para [PhosphorIconsLight.heartStraightBreak].
-  static const IconData heartStraightBreakLight = PhosphorIconsLight.heartStraightBreak;
+  static const IconData heartStraightBreakLight =
+      PhosphorIconsLight.heartStraightBreak;
 
   /// Shortcut for [PhosphorIconsBold.heartStraightBreak]. [PT] Atalho para [PhosphorIconsBold.heartStraightBreak].
-  static const IconData heartStraightBreakBold = PhosphorIconsBold.heartStraightBreak;
+  static const IconData heartStraightBreakBold =
+      PhosphorIconsBold.heartStraightBreak;
 
   /// Shortcut for [PhosphorIconsFill.heartStraightBreak]. [PT] Atalho para [PhosphorIconsFill.heartStraightBreak].
-  static const IconData heartStraightBreakFill = PhosphorIconsFill.heartStraightBreak;
+  static const IconData heartStraightBreakFill =
+      PhosphorIconsFill.heartStraightBreak;
 
   /// Shortcut for [PhosphorIconsDuotone.heartStraightBreak]. [PT] Atalho para [PhosphorIconsDuotone.heartStraightBreak].
-  static const heartStraightBreakDuotone = PhosphorIconsDuotone.heartStraightBreak;
+  static const heartStraightBreakDuotone =
+      PhosphorIconsDuotone.heartStraightBreak;
 
   /// Shortcut for [PhosphorIconsRegular.heartbeat]. [PT] Atalho para [PhosphorIconsRegular.heartbeat].
   static const IconData heartbeat = PhosphorIconsRegular.heartbeat;
@@ -14181,22 +14943,28 @@ class PhosphorIcons {
   static const highlighterDuotone = PhosphorIconsDuotone.highlighter;
 
   /// Shortcut for [PhosphorIconsRegular.highlighterCircle]. [PT] Atalho para [PhosphorIconsRegular.highlighterCircle].
-  static const IconData highlighterCircle = PhosphorIconsRegular.highlighterCircle;
+  static const IconData highlighterCircle =
+      PhosphorIconsRegular.highlighterCircle;
 
   /// Shortcut for [PhosphorIconsThin.highlighterCircle]. [PT] Atalho para [PhosphorIconsThin.highlighterCircle].
-  static const IconData highlighterCircleThin = PhosphorIconsThin.highlighterCircle;
+  static const IconData highlighterCircleThin =
+      PhosphorIconsThin.highlighterCircle;
 
   /// Shortcut for [PhosphorIconsLight.highlighterCircle]. [PT] Atalho para [PhosphorIconsLight.highlighterCircle].
-  static const IconData highlighterCircleLight = PhosphorIconsLight.highlighterCircle;
+  static const IconData highlighterCircleLight =
+      PhosphorIconsLight.highlighterCircle;
 
   /// Shortcut for [PhosphorIconsBold.highlighterCircle]. [PT] Atalho para [PhosphorIconsBold.highlighterCircle].
-  static const IconData highlighterCircleBold = PhosphorIconsBold.highlighterCircle;
+  static const IconData highlighterCircleBold =
+      PhosphorIconsBold.highlighterCircle;
 
   /// Shortcut for [PhosphorIconsFill.highlighterCircle]. [PT] Atalho para [PhosphorIconsFill.highlighterCircle].
-  static const IconData highlighterCircleFill = PhosphorIconsFill.highlighterCircle;
+  static const IconData highlighterCircleFill =
+      PhosphorIconsFill.highlighterCircle;
 
   /// Shortcut for [PhosphorIconsDuotone.highlighterCircle]. [PT] Atalho para [PhosphorIconsDuotone.highlighterCircle].
-  static const highlighterCircleDuotone = PhosphorIconsDuotone.highlighterCircle;
+  static const highlighterCircleDuotone =
+      PhosphorIconsDuotone.highlighterCircle;
 
   /// Shortcut for [PhosphorIconsRegular.hockey]. [PT] Atalho para [PhosphorIconsRegular.hockey].
   static const IconData hockey = PhosphorIconsRegular.hockey;
@@ -14331,7 +15099,8 @@ class PhosphorIcons {
   static const IconData hourglassMediumThin = PhosphorIconsThin.hourglassMedium;
 
   /// Shortcut for [PhosphorIconsLight.hourglassMedium]. [PT] Atalho para [PhosphorIconsLight.hourglassMedium].
-  static const IconData hourglassMediumLight = PhosphorIconsLight.hourglassMedium;
+  static const IconData hourglassMediumLight =
+      PhosphorIconsLight.hourglassMedium;
 
   /// Shortcut for [PhosphorIconsBold.hourglassMedium]. [PT] Atalho para [PhosphorIconsBold.hourglassMedium].
   static const IconData hourglassMediumBold = PhosphorIconsBold.hourglassMedium;
@@ -14349,7 +15118,8 @@ class PhosphorIcons {
   static const IconData hourglassSimpleThin = PhosphorIconsThin.hourglassSimple;
 
   /// Shortcut for [PhosphorIconsLight.hourglassSimple]. [PT] Atalho para [PhosphorIconsLight.hourglassSimple].
-  static const IconData hourglassSimpleLight = PhosphorIconsLight.hourglassSimple;
+  static const IconData hourglassSimpleLight =
+      PhosphorIconsLight.hourglassSimple;
 
   /// Shortcut for [PhosphorIconsBold.hourglassSimple]. [PT] Atalho para [PhosphorIconsBold.hourglassSimple].
   static const IconData hourglassSimpleBold = PhosphorIconsBold.hourglassSimple;
@@ -14361,58 +15131,76 @@ class PhosphorIcons {
   static const hourglassSimpleDuotone = PhosphorIconsDuotone.hourglassSimple;
 
   /// Shortcut for [PhosphorIconsRegular.hourglassSimpleHigh]. [PT] Atalho para [PhosphorIconsRegular.hourglassSimpleHigh].
-  static const IconData hourglassSimpleHigh = PhosphorIconsRegular.hourglassSimpleHigh;
+  static const IconData hourglassSimpleHigh =
+      PhosphorIconsRegular.hourglassSimpleHigh;
 
   /// Shortcut for [PhosphorIconsThin.hourglassSimpleHigh]. [PT] Atalho para [PhosphorIconsThin.hourglassSimpleHigh].
-  static const IconData hourglassSimpleHighThin = PhosphorIconsThin.hourglassSimpleHigh;
+  static const IconData hourglassSimpleHighThin =
+      PhosphorIconsThin.hourglassSimpleHigh;
 
   /// Shortcut for [PhosphorIconsLight.hourglassSimpleHigh]. [PT] Atalho para [PhosphorIconsLight.hourglassSimpleHigh].
-  static const IconData hourglassSimpleHighLight = PhosphorIconsLight.hourglassSimpleHigh;
+  static const IconData hourglassSimpleHighLight =
+      PhosphorIconsLight.hourglassSimpleHigh;
 
   /// Shortcut for [PhosphorIconsBold.hourglassSimpleHigh]. [PT] Atalho para [PhosphorIconsBold.hourglassSimpleHigh].
-  static const IconData hourglassSimpleHighBold = PhosphorIconsBold.hourglassSimpleHigh;
+  static const IconData hourglassSimpleHighBold =
+      PhosphorIconsBold.hourglassSimpleHigh;
 
   /// Shortcut for [PhosphorIconsFill.hourglassSimpleHigh]. [PT] Atalho para [PhosphorIconsFill.hourglassSimpleHigh].
-  static const IconData hourglassSimpleHighFill = PhosphorIconsFill.hourglassSimpleHigh;
+  static const IconData hourglassSimpleHighFill =
+      PhosphorIconsFill.hourglassSimpleHigh;
 
   /// Shortcut for [PhosphorIconsDuotone.hourglassSimpleHigh]. [PT] Atalho para [PhosphorIconsDuotone.hourglassSimpleHigh].
-  static const hourglassSimpleHighDuotone = PhosphorIconsDuotone.hourglassSimpleHigh;
+  static const hourglassSimpleHighDuotone =
+      PhosphorIconsDuotone.hourglassSimpleHigh;
 
   /// Shortcut for [PhosphorIconsRegular.hourglassSimpleLow]. [PT] Atalho para [PhosphorIconsRegular.hourglassSimpleLow].
-  static const IconData hourglassSimpleLow = PhosphorIconsRegular.hourglassSimpleLow;
+  static const IconData hourglassSimpleLow =
+      PhosphorIconsRegular.hourglassSimpleLow;
 
   /// Shortcut for [PhosphorIconsThin.hourglassSimpleLow]. [PT] Atalho para [PhosphorIconsThin.hourglassSimpleLow].
-  static const IconData hourglassSimpleLowThin = PhosphorIconsThin.hourglassSimpleLow;
+  static const IconData hourglassSimpleLowThin =
+      PhosphorIconsThin.hourglassSimpleLow;
 
   /// Shortcut for [PhosphorIconsLight.hourglassSimpleLow]. [PT] Atalho para [PhosphorIconsLight.hourglassSimpleLow].
-  static const IconData hourglassSimpleLowLight = PhosphorIconsLight.hourglassSimpleLow;
+  static const IconData hourglassSimpleLowLight =
+      PhosphorIconsLight.hourglassSimpleLow;
 
   /// Shortcut for [PhosphorIconsBold.hourglassSimpleLow]. [PT] Atalho para [PhosphorIconsBold.hourglassSimpleLow].
-  static const IconData hourglassSimpleLowBold = PhosphorIconsBold.hourglassSimpleLow;
+  static const IconData hourglassSimpleLowBold =
+      PhosphorIconsBold.hourglassSimpleLow;
 
   /// Shortcut for [PhosphorIconsFill.hourglassSimpleLow]. [PT] Atalho para [PhosphorIconsFill.hourglassSimpleLow].
-  static const IconData hourglassSimpleLowFill = PhosphorIconsFill.hourglassSimpleLow;
+  static const IconData hourglassSimpleLowFill =
+      PhosphorIconsFill.hourglassSimpleLow;
 
   /// Shortcut for [PhosphorIconsDuotone.hourglassSimpleLow]. [PT] Atalho para [PhosphorIconsDuotone.hourglassSimpleLow].
-  static const hourglassSimpleLowDuotone = PhosphorIconsDuotone.hourglassSimpleLow;
+  static const hourglassSimpleLowDuotone =
+      PhosphorIconsDuotone.hourglassSimpleLow;
 
   /// Shortcut for [PhosphorIconsRegular.hourglassSimpleMedium]. [PT] Atalho para [PhosphorIconsRegular.hourglassSimpleMedium].
-  static const IconData hourglassSimpleMedium = PhosphorIconsRegular.hourglassSimpleMedium;
+  static const IconData hourglassSimpleMedium =
+      PhosphorIconsRegular.hourglassSimpleMedium;
 
   /// Shortcut for [PhosphorIconsThin.hourglassSimpleMedium]. [PT] Atalho para [PhosphorIconsThin.hourglassSimpleMedium].
-  static const IconData hourglassSimpleMediumThin = PhosphorIconsThin.hourglassSimpleMedium;
+  static const IconData hourglassSimpleMediumThin =
+      PhosphorIconsThin.hourglassSimpleMedium;
 
   /// Shortcut for [PhosphorIconsLight.hourglassSimpleMedium]. [PT] Atalho para [PhosphorIconsLight.hourglassSimpleMedium].
-  static const IconData hourglassSimpleMediumLight = PhosphorIconsLight.hourglassSimpleMedium;
+  static const IconData hourglassSimpleMediumLight =
+      PhosphorIconsLight.hourglassSimpleMedium;
 
   /// Shortcut for [PhosphorIconsBold.hourglassSimpleMedium]. [PT] Atalho para [PhosphorIconsBold.hourglassSimpleMedium].
-  static const IconData hourglassSimpleMediumBold = PhosphorIconsBold.hourglassSimpleMedium;
+  static const IconData hourglassSimpleMediumBold =
+      PhosphorIconsBold.hourglassSimpleMedium;
 
   /// Shortcut for [PhosphorIconsFill.hourglassSimpleMedium]. [PT] Atalho para [PhosphorIconsFill.hourglassSimpleMedium].
-  static const IconData hourglassSimpleMediumFill = PhosphorIconsFill.hourglassSimpleMedium;
+  static const IconData hourglassSimpleMediumFill =
+      PhosphorIconsFill.hourglassSimpleMedium;
 
   /// Shortcut for [PhosphorIconsDuotone.hourglassSimpleMedium]. [PT] Atalho para [PhosphorIconsDuotone.hourglassSimpleMedium].
-  static const hourglassSimpleMediumDuotone = PhosphorIconsDuotone.hourglassSimpleMedium;
+  static const hourglassSimpleMediumDuotone =
+      PhosphorIconsDuotone.hourglassSimpleMedium;
 
   /// Shortcut for [PhosphorIconsRegular.house]. [PT] Atalho para [PhosphorIconsRegular.house].
   static const IconData house = PhosphorIconsRegular.house;
@@ -14505,40 +15293,52 @@ class PhosphorIcons {
   static const iceCreamDuotone = PhosphorIconsDuotone.iceCream;
 
   /// Shortcut for [PhosphorIconsRegular.identificationBadge]. [PT] Atalho para [PhosphorIconsRegular.identificationBadge].
-  static const IconData identificationBadge = PhosphorIconsRegular.identificationBadge;
+  static const IconData identificationBadge =
+      PhosphorIconsRegular.identificationBadge;
 
   /// Shortcut for [PhosphorIconsThin.identificationBadge]. [PT] Atalho para [PhosphorIconsThin.identificationBadge].
-  static const IconData identificationBadgeThin = PhosphorIconsThin.identificationBadge;
+  static const IconData identificationBadgeThin =
+      PhosphorIconsThin.identificationBadge;
 
   /// Shortcut for [PhosphorIconsLight.identificationBadge]. [PT] Atalho para [PhosphorIconsLight.identificationBadge].
-  static const IconData identificationBadgeLight = PhosphorIconsLight.identificationBadge;
+  static const IconData identificationBadgeLight =
+      PhosphorIconsLight.identificationBadge;
 
   /// Shortcut for [PhosphorIconsBold.identificationBadge]. [PT] Atalho para [PhosphorIconsBold.identificationBadge].
-  static const IconData identificationBadgeBold = PhosphorIconsBold.identificationBadge;
+  static const IconData identificationBadgeBold =
+      PhosphorIconsBold.identificationBadge;
 
   /// Shortcut for [PhosphorIconsFill.identificationBadge]. [PT] Atalho para [PhosphorIconsFill.identificationBadge].
-  static const IconData identificationBadgeFill = PhosphorIconsFill.identificationBadge;
+  static const IconData identificationBadgeFill =
+      PhosphorIconsFill.identificationBadge;
 
   /// Shortcut for [PhosphorIconsDuotone.identificationBadge]. [PT] Atalho para [PhosphorIconsDuotone.identificationBadge].
-  static const identificationBadgeDuotone = PhosphorIconsDuotone.identificationBadge;
+  static const identificationBadgeDuotone =
+      PhosphorIconsDuotone.identificationBadge;
 
   /// Shortcut for [PhosphorIconsRegular.identificationCard]. [PT] Atalho para [PhosphorIconsRegular.identificationCard].
-  static const IconData identificationCard = PhosphorIconsRegular.identificationCard;
+  static const IconData identificationCard =
+      PhosphorIconsRegular.identificationCard;
 
   /// Shortcut for [PhosphorIconsThin.identificationCard]. [PT] Atalho para [PhosphorIconsThin.identificationCard].
-  static const IconData identificationCardThin = PhosphorIconsThin.identificationCard;
+  static const IconData identificationCardThin =
+      PhosphorIconsThin.identificationCard;
 
   /// Shortcut for [PhosphorIconsLight.identificationCard]. [PT] Atalho para [PhosphorIconsLight.identificationCard].
-  static const IconData identificationCardLight = PhosphorIconsLight.identificationCard;
+  static const IconData identificationCardLight =
+      PhosphorIconsLight.identificationCard;
 
   /// Shortcut for [PhosphorIconsBold.identificationCard]. [PT] Atalho para [PhosphorIconsBold.identificationCard].
-  static const IconData identificationCardBold = PhosphorIconsBold.identificationCard;
+  static const IconData identificationCardBold =
+      PhosphorIconsBold.identificationCard;
 
   /// Shortcut for [PhosphorIconsFill.identificationCard]. [PT] Atalho para [PhosphorIconsFill.identificationCard].
-  static const IconData identificationCardFill = PhosphorIconsFill.identificationCard;
+  static const IconData identificationCardFill =
+      PhosphorIconsFill.identificationCard;
 
   /// Shortcut for [PhosphorIconsDuotone.identificationCard]. [PT] Atalho para [PhosphorIconsDuotone.identificationCard].
-  static const identificationCardDuotone = PhosphorIconsDuotone.identificationCard;
+  static const identificationCardDuotone =
+      PhosphorIconsDuotone.identificationCard;
 
   /// Shortcut for [PhosphorIconsRegular.image]. [PT] Atalho para [PhosphorIconsRegular.image].
   static const IconData image = PhosphorIconsRegular.image;
@@ -14709,7 +15509,8 @@ class PhosphorIcons {
   static const IconData intersectSquareThin = PhosphorIconsThin.intersectSquare;
 
   /// Shortcut for [PhosphorIconsLight.intersectSquare]. [PT] Atalho para [PhosphorIconsLight.intersectSquare].
-  static const IconData intersectSquareLight = PhosphorIconsLight.intersectSquare;
+  static const IconData intersectSquareLight =
+      PhosphorIconsLight.intersectSquare;
 
   /// Shortcut for [PhosphorIconsBold.intersectSquare]. [PT] Atalho para [PhosphorIconsBold.intersectSquare].
   static const IconData intersectSquareBold = PhosphorIconsBold.intersectSquare;
@@ -15231,7 +16032,8 @@ class PhosphorIcons {
   static const IconData lessThanOrEqualThin = PhosphorIconsThin.lessThanOrEqual;
 
   /// Shortcut for [PhosphorIconsLight.lessThanOrEqual]. [PT] Atalho para [PhosphorIconsLight.lessThanOrEqual].
-  static const IconData lessThanOrEqualLight = PhosphorIconsLight.lessThanOrEqual;
+  static const IconData lessThanOrEqualLight =
+      PhosphorIconsLight.lessThanOrEqual;
 
   /// Shortcut for [PhosphorIconsBold.lessThanOrEqual]. [PT] Atalho para [PhosphorIconsBold.lessThanOrEqual].
   static const IconData lessThanOrEqualBold = PhosphorIconsBold.lessThanOrEqual;
@@ -15333,22 +16135,28 @@ class PhosphorIcons {
   static const lightbulbDuotone = PhosphorIconsDuotone.lightbulb;
 
   /// Shortcut for [PhosphorIconsRegular.lightbulbFilament]. [PT] Atalho para [PhosphorIconsRegular.lightbulbFilament].
-  static const IconData lightbulbFilament = PhosphorIconsRegular.lightbulbFilament;
+  static const IconData lightbulbFilament =
+      PhosphorIconsRegular.lightbulbFilament;
 
   /// Shortcut for [PhosphorIconsThin.lightbulbFilament]. [PT] Atalho para [PhosphorIconsThin.lightbulbFilament].
-  static const IconData lightbulbFilamentThin = PhosphorIconsThin.lightbulbFilament;
+  static const IconData lightbulbFilamentThin =
+      PhosphorIconsThin.lightbulbFilament;
 
   /// Shortcut for [PhosphorIconsLight.lightbulbFilament]. [PT] Atalho para [PhosphorIconsLight.lightbulbFilament].
-  static const IconData lightbulbFilamentLight = PhosphorIconsLight.lightbulbFilament;
+  static const IconData lightbulbFilamentLight =
+      PhosphorIconsLight.lightbulbFilament;
 
   /// Shortcut for [PhosphorIconsBold.lightbulbFilament]. [PT] Atalho para [PhosphorIconsBold.lightbulbFilament].
-  static const IconData lightbulbFilamentBold = PhosphorIconsBold.lightbulbFilament;
+  static const IconData lightbulbFilamentBold =
+      PhosphorIconsBold.lightbulbFilament;
 
   /// Shortcut for [PhosphorIconsFill.lightbulbFilament]. [PT] Atalho para [PhosphorIconsFill.lightbulbFilament].
-  static const IconData lightbulbFilamentFill = PhosphorIconsFill.lightbulbFilament;
+  static const IconData lightbulbFilamentFill =
+      PhosphorIconsFill.lightbulbFilament;
 
   /// Shortcut for [PhosphorIconsDuotone.lightbulbFilament]. [PT] Atalho para [PhosphorIconsDuotone.lightbulbFilament].
-  static const lightbulbFilamentDuotone = PhosphorIconsDuotone.lightbulbFilament;
+  static const lightbulbFilamentDuotone =
+      PhosphorIconsDuotone.lightbulbFilament;
 
   /// Shortcut for [PhosphorIconsRegular.lighthouse]. [PT] Atalho para [PhosphorIconsRegular.lighthouse].
   static const IconData lighthouse = PhosphorIconsRegular.lighthouse;
@@ -15537,7 +16345,8 @@ class PhosphorIcons {
   static const IconData linkSimpleBreakThin = PhosphorIconsThin.linkSimpleBreak;
 
   /// Shortcut for [PhosphorIconsLight.linkSimpleBreak]. [PT] Atalho para [PhosphorIconsLight.linkSimpleBreak].
-  static const IconData linkSimpleBreakLight = PhosphorIconsLight.linkSimpleBreak;
+  static const IconData linkSimpleBreakLight =
+      PhosphorIconsLight.linkSimpleBreak;
 
   /// Shortcut for [PhosphorIconsBold.linkSimpleBreak]. [PT] Atalho para [PhosphorIconsBold.linkSimpleBreak].
   static const IconData linkSimpleBreakBold = PhosphorIconsBold.linkSimpleBreak;
@@ -15549,40 +16358,52 @@ class PhosphorIcons {
   static const linkSimpleBreakDuotone = PhosphorIconsDuotone.linkSimpleBreak;
 
   /// Shortcut for [PhosphorIconsRegular.linkSimpleHorizontal]. [PT] Atalho para [PhosphorIconsRegular.linkSimpleHorizontal].
-  static const IconData linkSimpleHorizontal = PhosphorIconsRegular.linkSimpleHorizontal;
+  static const IconData linkSimpleHorizontal =
+      PhosphorIconsRegular.linkSimpleHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.linkSimpleHorizontal]. [PT] Atalho para [PhosphorIconsThin.linkSimpleHorizontal].
-  static const IconData linkSimpleHorizontalThin = PhosphorIconsThin.linkSimpleHorizontal;
+  static const IconData linkSimpleHorizontalThin =
+      PhosphorIconsThin.linkSimpleHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.linkSimpleHorizontal]. [PT] Atalho para [PhosphorIconsLight.linkSimpleHorizontal].
-  static const IconData linkSimpleHorizontalLight = PhosphorIconsLight.linkSimpleHorizontal;
+  static const IconData linkSimpleHorizontalLight =
+      PhosphorIconsLight.linkSimpleHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.linkSimpleHorizontal]. [PT] Atalho para [PhosphorIconsBold.linkSimpleHorizontal].
-  static const IconData linkSimpleHorizontalBold = PhosphorIconsBold.linkSimpleHorizontal;
+  static const IconData linkSimpleHorizontalBold =
+      PhosphorIconsBold.linkSimpleHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.linkSimpleHorizontal]. [PT] Atalho para [PhosphorIconsFill.linkSimpleHorizontal].
-  static const IconData linkSimpleHorizontalFill = PhosphorIconsFill.linkSimpleHorizontal;
+  static const IconData linkSimpleHorizontalFill =
+      PhosphorIconsFill.linkSimpleHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.linkSimpleHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.linkSimpleHorizontal].
-  static const linkSimpleHorizontalDuotone = PhosphorIconsDuotone.linkSimpleHorizontal;
+  static const linkSimpleHorizontalDuotone =
+      PhosphorIconsDuotone.linkSimpleHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.linkSimpleHorizontalBreak]. [PT] Atalho para [PhosphorIconsRegular.linkSimpleHorizontalBreak].
-  static const IconData linkSimpleHorizontalBreak = PhosphorIconsRegular.linkSimpleHorizontalBreak;
+  static const IconData linkSimpleHorizontalBreak =
+      PhosphorIconsRegular.linkSimpleHorizontalBreak;
 
   /// Shortcut for [PhosphorIconsThin.linkSimpleHorizontalBreak]. [PT] Atalho para [PhosphorIconsThin.linkSimpleHorizontalBreak].
-  static const IconData linkSimpleHorizontalBreakThin = PhosphorIconsThin.linkSimpleHorizontalBreak;
+  static const IconData linkSimpleHorizontalBreakThin =
+      PhosphorIconsThin.linkSimpleHorizontalBreak;
 
   /// Shortcut for [PhosphorIconsLight.linkSimpleHorizontalBreak]. [PT] Atalho para [PhosphorIconsLight.linkSimpleHorizontalBreak].
-  static const IconData linkSimpleHorizontalBreakLight = PhosphorIconsLight.linkSimpleHorizontalBreak;
+  static const IconData linkSimpleHorizontalBreakLight =
+      PhosphorIconsLight.linkSimpleHorizontalBreak;
 
   /// Shortcut for [PhosphorIconsBold.linkSimpleHorizontalBreak]. [PT] Atalho para [PhosphorIconsBold.linkSimpleHorizontalBreak].
-  static const IconData linkSimpleHorizontalBreakBold = PhosphorIconsBold.linkSimpleHorizontalBreak;
+  static const IconData linkSimpleHorizontalBreakBold =
+      PhosphorIconsBold.linkSimpleHorizontalBreak;
 
   /// Shortcut for [PhosphorIconsFill.linkSimpleHorizontalBreak]. [PT] Atalho para [PhosphorIconsFill.linkSimpleHorizontalBreak].
-  static const IconData linkSimpleHorizontalBreakFill = PhosphorIconsFill.linkSimpleHorizontalBreak;
+  static const IconData linkSimpleHorizontalBreakFill =
+      PhosphorIconsFill.linkSimpleHorizontalBreak;
 
   /// Shortcut for [PhosphorIconsDuotone.linkSimpleHorizontalBreak]. [PT] Atalho para [PhosphorIconsDuotone.linkSimpleHorizontalBreak].
-  static const linkSimpleHorizontalBreakDuotone = PhosphorIconsDuotone.linkSimpleHorizontalBreak;
+  static const linkSimpleHorizontalBreakDuotone =
+      PhosphorIconsDuotone.linkSimpleHorizontalBreak;
 
   /// Shortcut for [PhosphorIconsRegular.linkedinLogo]. [PT] Atalho para [PhosphorIconsRegular.linkedinLogo].
   static const IconData linkedinLogo = PhosphorIconsRegular.linkedinLogo;
@@ -15729,22 +16550,28 @@ class PhosphorIcons {
   static const listHeartDuotone = PhosphorIconsDuotone.listHeart;
 
   /// Shortcut for [PhosphorIconsRegular.listMagnifyingGlass]. [PT] Atalho para [PhosphorIconsRegular.listMagnifyingGlass].
-  static const IconData listMagnifyingGlass = PhosphorIconsRegular.listMagnifyingGlass;
+  static const IconData listMagnifyingGlass =
+      PhosphorIconsRegular.listMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsThin.listMagnifyingGlass]. [PT] Atalho para [PhosphorIconsThin.listMagnifyingGlass].
-  static const IconData listMagnifyingGlassThin = PhosphorIconsThin.listMagnifyingGlass;
+  static const IconData listMagnifyingGlassThin =
+      PhosphorIconsThin.listMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsLight.listMagnifyingGlass]. [PT] Atalho para [PhosphorIconsLight.listMagnifyingGlass].
-  static const IconData listMagnifyingGlassLight = PhosphorIconsLight.listMagnifyingGlass;
+  static const IconData listMagnifyingGlassLight =
+      PhosphorIconsLight.listMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsBold.listMagnifyingGlass]. [PT] Atalho para [PhosphorIconsBold.listMagnifyingGlass].
-  static const IconData listMagnifyingGlassBold = PhosphorIconsBold.listMagnifyingGlass;
+  static const IconData listMagnifyingGlassBold =
+      PhosphorIconsBold.listMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsFill.listMagnifyingGlass]. [PT] Atalho para [PhosphorIconsFill.listMagnifyingGlass].
-  static const IconData listMagnifyingGlassFill = PhosphorIconsFill.listMagnifyingGlass;
+  static const IconData listMagnifyingGlassFill =
+      PhosphorIconsFill.listMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsDuotone.listMagnifyingGlass]. [PT] Atalho para [PhosphorIconsDuotone.listMagnifyingGlass].
-  static const listMagnifyingGlassDuotone = PhosphorIconsDuotone.listMagnifyingGlass;
+  static const listMagnifyingGlassDuotone =
+      PhosphorIconsDuotone.listMagnifyingGlass;
 
   /// Shortcut for [PhosphorIconsRegular.listNumbers]. [PT] Atalho para [PhosphorIconsRegular.listNumbers].
   static const IconData listNumbers = PhosphorIconsRegular.listNumbers;
@@ -15873,22 +16700,28 @@ class PhosphorIcons {
   static const lockLaminatedDuotone = PhosphorIconsDuotone.lockLaminated;
 
   /// Shortcut for [PhosphorIconsRegular.lockLaminatedOpen]. [PT] Atalho para [PhosphorIconsRegular.lockLaminatedOpen].
-  static const IconData lockLaminatedOpen = PhosphorIconsRegular.lockLaminatedOpen;
+  static const IconData lockLaminatedOpen =
+      PhosphorIconsRegular.lockLaminatedOpen;
 
   /// Shortcut for [PhosphorIconsThin.lockLaminatedOpen]. [PT] Atalho para [PhosphorIconsThin.lockLaminatedOpen].
-  static const IconData lockLaminatedOpenThin = PhosphorIconsThin.lockLaminatedOpen;
+  static const IconData lockLaminatedOpenThin =
+      PhosphorIconsThin.lockLaminatedOpen;
 
   /// Shortcut for [PhosphorIconsLight.lockLaminatedOpen]. [PT] Atalho para [PhosphorIconsLight.lockLaminatedOpen].
-  static const IconData lockLaminatedOpenLight = PhosphorIconsLight.lockLaminatedOpen;
+  static const IconData lockLaminatedOpenLight =
+      PhosphorIconsLight.lockLaminatedOpen;
 
   /// Shortcut for [PhosphorIconsBold.lockLaminatedOpen]. [PT] Atalho para [PhosphorIconsBold.lockLaminatedOpen].
-  static const IconData lockLaminatedOpenBold = PhosphorIconsBold.lockLaminatedOpen;
+  static const IconData lockLaminatedOpenBold =
+      PhosphorIconsBold.lockLaminatedOpen;
 
   /// Shortcut for [PhosphorIconsFill.lockLaminatedOpen]. [PT] Atalho para [PhosphorIconsFill.lockLaminatedOpen].
-  static const IconData lockLaminatedOpenFill = PhosphorIconsFill.lockLaminatedOpen;
+  static const IconData lockLaminatedOpenFill =
+      PhosphorIconsFill.lockLaminatedOpen;
 
   /// Shortcut for [PhosphorIconsDuotone.lockLaminatedOpen]. [PT] Atalho para [PhosphorIconsDuotone.lockLaminatedOpen].
-  static const lockLaminatedOpenDuotone = PhosphorIconsDuotone.lockLaminatedOpen;
+  static const lockLaminatedOpenDuotone =
+      PhosphorIconsDuotone.lockLaminatedOpen;
 
   /// Shortcut for [PhosphorIconsRegular.lockOpen]. [PT] Atalho para [PhosphorIconsRegular.lockOpen].
   static const IconData lockOpen = PhosphorIconsRegular.lockOpen;
@@ -16041,7 +16874,8 @@ class PhosphorIcons {
   static const IconData magnifyingGlassThin = PhosphorIconsThin.magnifyingGlass;
 
   /// Shortcut for [PhosphorIconsLight.magnifyingGlass]. [PT] Atalho para [PhosphorIconsLight.magnifyingGlass].
-  static const IconData magnifyingGlassLight = PhosphorIconsLight.magnifyingGlass;
+  static const IconData magnifyingGlassLight =
+      PhosphorIconsLight.magnifyingGlass;
 
   /// Shortcut for [PhosphorIconsBold.magnifyingGlass]. [PT] Atalho para [PhosphorIconsBold.magnifyingGlass].
   static const IconData magnifyingGlassBold = PhosphorIconsBold.magnifyingGlass;
@@ -16053,40 +16887,52 @@ class PhosphorIcons {
   static const magnifyingGlassDuotone = PhosphorIconsDuotone.magnifyingGlass;
 
   /// Shortcut for [PhosphorIconsRegular.magnifyingGlassMinus]. [PT] Atalho para [PhosphorIconsRegular.magnifyingGlassMinus].
-  static const IconData magnifyingGlassMinus = PhosphorIconsRegular.magnifyingGlassMinus;
+  static const IconData magnifyingGlassMinus =
+      PhosphorIconsRegular.magnifyingGlassMinus;
 
   /// Shortcut for [PhosphorIconsThin.magnifyingGlassMinus]. [PT] Atalho para [PhosphorIconsThin.magnifyingGlassMinus].
-  static const IconData magnifyingGlassMinusThin = PhosphorIconsThin.magnifyingGlassMinus;
+  static const IconData magnifyingGlassMinusThin =
+      PhosphorIconsThin.magnifyingGlassMinus;
 
   /// Shortcut for [PhosphorIconsLight.magnifyingGlassMinus]. [PT] Atalho para [PhosphorIconsLight.magnifyingGlassMinus].
-  static const IconData magnifyingGlassMinusLight = PhosphorIconsLight.magnifyingGlassMinus;
+  static const IconData magnifyingGlassMinusLight =
+      PhosphorIconsLight.magnifyingGlassMinus;
 
   /// Shortcut for [PhosphorIconsBold.magnifyingGlassMinus]. [PT] Atalho para [PhosphorIconsBold.magnifyingGlassMinus].
-  static const IconData magnifyingGlassMinusBold = PhosphorIconsBold.magnifyingGlassMinus;
+  static const IconData magnifyingGlassMinusBold =
+      PhosphorIconsBold.magnifyingGlassMinus;
 
   /// Shortcut for [PhosphorIconsFill.magnifyingGlassMinus]. [PT] Atalho para [PhosphorIconsFill.magnifyingGlassMinus].
-  static const IconData magnifyingGlassMinusFill = PhosphorIconsFill.magnifyingGlassMinus;
+  static const IconData magnifyingGlassMinusFill =
+      PhosphorIconsFill.magnifyingGlassMinus;
 
   /// Shortcut for [PhosphorIconsDuotone.magnifyingGlassMinus]. [PT] Atalho para [PhosphorIconsDuotone.magnifyingGlassMinus].
-  static const magnifyingGlassMinusDuotone = PhosphorIconsDuotone.magnifyingGlassMinus;
+  static const magnifyingGlassMinusDuotone =
+      PhosphorIconsDuotone.magnifyingGlassMinus;
 
   /// Shortcut for [PhosphorIconsRegular.magnifyingGlassPlus]. [PT] Atalho para [PhosphorIconsRegular.magnifyingGlassPlus].
-  static const IconData magnifyingGlassPlus = PhosphorIconsRegular.magnifyingGlassPlus;
+  static const IconData magnifyingGlassPlus =
+      PhosphorIconsRegular.magnifyingGlassPlus;
 
   /// Shortcut for [PhosphorIconsThin.magnifyingGlassPlus]. [PT] Atalho para [PhosphorIconsThin.magnifyingGlassPlus].
-  static const IconData magnifyingGlassPlusThin = PhosphorIconsThin.magnifyingGlassPlus;
+  static const IconData magnifyingGlassPlusThin =
+      PhosphorIconsThin.magnifyingGlassPlus;
 
   /// Shortcut for [PhosphorIconsLight.magnifyingGlassPlus]. [PT] Atalho para [PhosphorIconsLight.magnifyingGlassPlus].
-  static const IconData magnifyingGlassPlusLight = PhosphorIconsLight.magnifyingGlassPlus;
+  static const IconData magnifyingGlassPlusLight =
+      PhosphorIconsLight.magnifyingGlassPlus;
 
   /// Shortcut for [PhosphorIconsBold.magnifyingGlassPlus]. [PT] Atalho para [PhosphorIconsBold.magnifyingGlassPlus].
-  static const IconData magnifyingGlassPlusBold = PhosphorIconsBold.magnifyingGlassPlus;
+  static const IconData magnifyingGlassPlusBold =
+      PhosphorIconsBold.magnifyingGlassPlus;
 
   /// Shortcut for [PhosphorIconsFill.magnifyingGlassPlus]. [PT] Atalho para [PhosphorIconsFill.magnifyingGlassPlus].
-  static const IconData magnifyingGlassPlusFill = PhosphorIconsFill.magnifyingGlassPlus;
+  static const IconData magnifyingGlassPlusFill =
+      PhosphorIconsFill.magnifyingGlassPlus;
 
   /// Shortcut for [PhosphorIconsDuotone.magnifyingGlassPlus]. [PT] Atalho para [PhosphorIconsDuotone.magnifyingGlassPlus].
-  static const magnifyingGlassPlusDuotone = PhosphorIconsDuotone.magnifyingGlassPlus;
+  static const magnifyingGlassPlusDuotone =
+      PhosphorIconsDuotone.magnifyingGlassPlus;
 
   /// Shortcut for [PhosphorIconsRegular.mailbox]. [PT] Atalho para [PhosphorIconsRegular.mailbox].
   static const IconData mailbox = PhosphorIconsRegular.mailbox;
@@ -16197,37 +17043,47 @@ class PhosphorIcons {
   static const mapPinSimpleDuotone = PhosphorIconsDuotone.mapPinSimple;
 
   /// Shortcut for [PhosphorIconsRegular.mapPinSimpleArea]. [PT] Atalho para [PhosphorIconsRegular.mapPinSimpleArea].
-  static const IconData mapPinSimpleArea = PhosphorIconsRegular.mapPinSimpleArea;
+  static const IconData mapPinSimpleArea =
+      PhosphorIconsRegular.mapPinSimpleArea;
 
   /// Shortcut for [PhosphorIconsThin.mapPinSimpleArea]. [PT] Atalho para [PhosphorIconsThin.mapPinSimpleArea].
-  static const IconData mapPinSimpleAreaThin = PhosphorIconsThin.mapPinSimpleArea;
+  static const IconData mapPinSimpleAreaThin =
+      PhosphorIconsThin.mapPinSimpleArea;
 
   /// Shortcut for [PhosphorIconsLight.mapPinSimpleArea]. [PT] Atalho para [PhosphorIconsLight.mapPinSimpleArea].
-  static const IconData mapPinSimpleAreaLight = PhosphorIconsLight.mapPinSimpleArea;
+  static const IconData mapPinSimpleAreaLight =
+      PhosphorIconsLight.mapPinSimpleArea;
 
   /// Shortcut for [PhosphorIconsBold.mapPinSimpleArea]. [PT] Atalho para [PhosphorIconsBold.mapPinSimpleArea].
-  static const IconData mapPinSimpleAreaBold = PhosphorIconsBold.mapPinSimpleArea;
+  static const IconData mapPinSimpleAreaBold =
+      PhosphorIconsBold.mapPinSimpleArea;
 
   /// Shortcut for [PhosphorIconsFill.mapPinSimpleArea]. [PT] Atalho para [PhosphorIconsFill.mapPinSimpleArea].
-  static const IconData mapPinSimpleAreaFill = PhosphorIconsFill.mapPinSimpleArea;
+  static const IconData mapPinSimpleAreaFill =
+      PhosphorIconsFill.mapPinSimpleArea;
 
   /// Shortcut for [PhosphorIconsDuotone.mapPinSimpleArea]. [PT] Atalho para [PhosphorIconsDuotone.mapPinSimpleArea].
   static const mapPinSimpleAreaDuotone = PhosphorIconsDuotone.mapPinSimpleArea;
 
   /// Shortcut for [PhosphorIconsRegular.mapPinSimpleLine]. [PT] Atalho para [PhosphorIconsRegular.mapPinSimpleLine].
-  static const IconData mapPinSimpleLine = PhosphorIconsRegular.mapPinSimpleLine;
+  static const IconData mapPinSimpleLine =
+      PhosphorIconsRegular.mapPinSimpleLine;
 
   /// Shortcut for [PhosphorIconsThin.mapPinSimpleLine]. [PT] Atalho para [PhosphorIconsThin.mapPinSimpleLine].
-  static const IconData mapPinSimpleLineThin = PhosphorIconsThin.mapPinSimpleLine;
+  static const IconData mapPinSimpleLineThin =
+      PhosphorIconsThin.mapPinSimpleLine;
 
   /// Shortcut for [PhosphorIconsLight.mapPinSimpleLine]. [PT] Atalho para [PhosphorIconsLight.mapPinSimpleLine].
-  static const IconData mapPinSimpleLineLight = PhosphorIconsLight.mapPinSimpleLine;
+  static const IconData mapPinSimpleLineLight =
+      PhosphorIconsLight.mapPinSimpleLine;
 
   /// Shortcut for [PhosphorIconsBold.mapPinSimpleLine]. [PT] Atalho para [PhosphorIconsBold.mapPinSimpleLine].
-  static const IconData mapPinSimpleLineBold = PhosphorIconsBold.mapPinSimpleLine;
+  static const IconData mapPinSimpleLineBold =
+      PhosphorIconsBold.mapPinSimpleLine;
 
   /// Shortcut for [PhosphorIconsFill.mapPinSimpleLine]. [PT] Atalho para [PhosphorIconsFill.mapPinSimpleLine].
-  static const IconData mapPinSimpleLineFill = PhosphorIconsFill.mapPinSimpleLine;
+  static const IconData mapPinSimpleLineFill =
+      PhosphorIconsFill.mapPinSimpleLine;
 
   /// Shortcut for [PhosphorIconsDuotone.mapPinSimpleLine]. [PT] Atalho para [PhosphorIconsDuotone.mapPinSimpleLine].
   static const mapPinSimpleLineDuotone = PhosphorIconsDuotone.mapPinSimpleLine;
@@ -16473,7 +17329,8 @@ class PhosphorIcons {
   static const IconData megaphoneSimpleThin = PhosphorIconsThin.megaphoneSimple;
 
   /// Shortcut for [PhosphorIconsLight.megaphoneSimple]. [PT] Atalho para [PhosphorIconsLight.megaphoneSimple].
-  static const IconData megaphoneSimpleLight = PhosphorIconsLight.megaphoneSimple;
+  static const IconData megaphoneSimpleLight =
+      PhosphorIconsLight.megaphoneSimple;
 
   /// Shortcut for [PhosphorIconsBold.megaphoneSimple]. [PT] Atalho para [PhosphorIconsBold.megaphoneSimple].
   static const IconData megaphoneSimpleBold = PhosphorIconsBold.megaphoneSimple;
@@ -16617,7 +17474,8 @@ class PhosphorIcons {
   static const IconData microphoneSlashThin = PhosphorIconsThin.microphoneSlash;
 
   /// Shortcut for [PhosphorIconsLight.microphoneSlash]. [PT] Atalho para [PhosphorIconsLight.microphoneSlash].
-  static const IconData microphoneSlashLight = PhosphorIconsLight.microphoneSlash;
+  static const IconData microphoneSlashLight =
+      PhosphorIconsLight.microphoneSlash;
 
   /// Shortcut for [PhosphorIconsBold.microphoneSlash]. [PT] Atalho para [PhosphorIconsBold.microphoneSlash].
   static const IconData microphoneSlashBold = PhosphorIconsBold.microphoneSlash;
@@ -16635,7 +17493,8 @@ class PhosphorIcons {
   static const IconData microphoneStageThin = PhosphorIconsThin.microphoneStage;
 
   /// Shortcut for [PhosphorIconsLight.microphoneStage]. [PT] Atalho para [PhosphorIconsLight.microphoneStage].
-  static const IconData microphoneStageLight = PhosphorIconsLight.microphoneStage;
+  static const IconData microphoneStageLight =
+      PhosphorIconsLight.microphoneStage;
 
   /// Shortcut for [PhosphorIconsBold.microphoneStage]. [PT] Atalho para [PhosphorIconsBold.microphoneStage].
   static const IconData microphoneStageBold = PhosphorIconsBold.microphoneStage;
@@ -16665,94 +17524,124 @@ class PhosphorIcons {
   static const microscopeDuotone = PhosphorIconsDuotone.microscope;
 
   /// Shortcut for [PhosphorIconsRegular.microsoftExcelLogo]. [PT] Atalho para [PhosphorIconsRegular.microsoftExcelLogo].
-  static const IconData microsoftExcelLogo = PhosphorIconsRegular.microsoftExcelLogo;
+  static const IconData microsoftExcelLogo =
+      PhosphorIconsRegular.microsoftExcelLogo;
 
   /// Shortcut for [PhosphorIconsThin.microsoftExcelLogo]. [PT] Atalho para [PhosphorIconsThin.microsoftExcelLogo].
-  static const IconData microsoftExcelLogoThin = PhosphorIconsThin.microsoftExcelLogo;
+  static const IconData microsoftExcelLogoThin =
+      PhosphorIconsThin.microsoftExcelLogo;
 
   /// Shortcut for [PhosphorIconsLight.microsoftExcelLogo]. [PT] Atalho para [PhosphorIconsLight.microsoftExcelLogo].
-  static const IconData microsoftExcelLogoLight = PhosphorIconsLight.microsoftExcelLogo;
+  static const IconData microsoftExcelLogoLight =
+      PhosphorIconsLight.microsoftExcelLogo;
 
   /// Shortcut for [PhosphorIconsBold.microsoftExcelLogo]. [PT] Atalho para [PhosphorIconsBold.microsoftExcelLogo].
-  static const IconData microsoftExcelLogoBold = PhosphorIconsBold.microsoftExcelLogo;
+  static const IconData microsoftExcelLogoBold =
+      PhosphorIconsBold.microsoftExcelLogo;
 
   /// Shortcut for [PhosphorIconsFill.microsoftExcelLogo]. [PT] Atalho para [PhosphorIconsFill.microsoftExcelLogo].
-  static const IconData microsoftExcelLogoFill = PhosphorIconsFill.microsoftExcelLogo;
+  static const IconData microsoftExcelLogoFill =
+      PhosphorIconsFill.microsoftExcelLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.microsoftExcelLogo]. [PT] Atalho para [PhosphorIconsDuotone.microsoftExcelLogo].
-  static const microsoftExcelLogoDuotone = PhosphorIconsDuotone.microsoftExcelLogo;
+  static const microsoftExcelLogoDuotone =
+      PhosphorIconsDuotone.microsoftExcelLogo;
 
   /// Shortcut for [PhosphorIconsRegular.microsoftOutlookLogo]. [PT] Atalho para [PhosphorIconsRegular.microsoftOutlookLogo].
-  static const IconData microsoftOutlookLogo = PhosphorIconsRegular.microsoftOutlookLogo;
+  static const IconData microsoftOutlookLogo =
+      PhosphorIconsRegular.microsoftOutlookLogo;
 
   /// Shortcut for [PhosphorIconsThin.microsoftOutlookLogo]. [PT] Atalho para [PhosphorIconsThin.microsoftOutlookLogo].
-  static const IconData microsoftOutlookLogoThin = PhosphorIconsThin.microsoftOutlookLogo;
+  static const IconData microsoftOutlookLogoThin =
+      PhosphorIconsThin.microsoftOutlookLogo;
 
   /// Shortcut for [PhosphorIconsLight.microsoftOutlookLogo]. [PT] Atalho para [PhosphorIconsLight.microsoftOutlookLogo].
-  static const IconData microsoftOutlookLogoLight = PhosphorIconsLight.microsoftOutlookLogo;
+  static const IconData microsoftOutlookLogoLight =
+      PhosphorIconsLight.microsoftOutlookLogo;
 
   /// Shortcut for [PhosphorIconsBold.microsoftOutlookLogo]. [PT] Atalho para [PhosphorIconsBold.microsoftOutlookLogo].
-  static const IconData microsoftOutlookLogoBold = PhosphorIconsBold.microsoftOutlookLogo;
+  static const IconData microsoftOutlookLogoBold =
+      PhosphorIconsBold.microsoftOutlookLogo;
 
   /// Shortcut for [PhosphorIconsFill.microsoftOutlookLogo]. [PT] Atalho para [PhosphorIconsFill.microsoftOutlookLogo].
-  static const IconData microsoftOutlookLogoFill = PhosphorIconsFill.microsoftOutlookLogo;
+  static const IconData microsoftOutlookLogoFill =
+      PhosphorIconsFill.microsoftOutlookLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.microsoftOutlookLogo]. [PT] Atalho para [PhosphorIconsDuotone.microsoftOutlookLogo].
-  static const microsoftOutlookLogoDuotone = PhosphorIconsDuotone.microsoftOutlookLogo;
+  static const microsoftOutlookLogoDuotone =
+      PhosphorIconsDuotone.microsoftOutlookLogo;
 
   /// Shortcut for [PhosphorIconsRegular.microsoftPowerpointLogo]. [PT] Atalho para [PhosphorIconsRegular.microsoftPowerpointLogo].
-  static const IconData microsoftPowerpointLogo = PhosphorIconsRegular.microsoftPowerpointLogo;
+  static const IconData microsoftPowerpointLogo =
+      PhosphorIconsRegular.microsoftPowerpointLogo;
 
   /// Shortcut for [PhosphorIconsThin.microsoftPowerpointLogo]. [PT] Atalho para [PhosphorIconsThin.microsoftPowerpointLogo].
-  static const IconData microsoftPowerpointLogoThin = PhosphorIconsThin.microsoftPowerpointLogo;
+  static const IconData microsoftPowerpointLogoThin =
+      PhosphorIconsThin.microsoftPowerpointLogo;
 
   /// Shortcut for [PhosphorIconsLight.microsoftPowerpointLogo]. [PT] Atalho para [PhosphorIconsLight.microsoftPowerpointLogo].
-  static const IconData microsoftPowerpointLogoLight = PhosphorIconsLight.microsoftPowerpointLogo;
+  static const IconData microsoftPowerpointLogoLight =
+      PhosphorIconsLight.microsoftPowerpointLogo;
 
   /// Shortcut for [PhosphorIconsBold.microsoftPowerpointLogo]. [PT] Atalho para [PhosphorIconsBold.microsoftPowerpointLogo].
-  static const IconData microsoftPowerpointLogoBold = PhosphorIconsBold.microsoftPowerpointLogo;
+  static const IconData microsoftPowerpointLogoBold =
+      PhosphorIconsBold.microsoftPowerpointLogo;
 
   /// Shortcut for [PhosphorIconsFill.microsoftPowerpointLogo]. [PT] Atalho para [PhosphorIconsFill.microsoftPowerpointLogo].
-  static const IconData microsoftPowerpointLogoFill = PhosphorIconsFill.microsoftPowerpointLogo;
+  static const IconData microsoftPowerpointLogoFill =
+      PhosphorIconsFill.microsoftPowerpointLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.microsoftPowerpointLogo]. [PT] Atalho para [PhosphorIconsDuotone.microsoftPowerpointLogo].
-  static const microsoftPowerpointLogoDuotone = PhosphorIconsDuotone.microsoftPowerpointLogo;
+  static const microsoftPowerpointLogoDuotone =
+      PhosphorIconsDuotone.microsoftPowerpointLogo;
 
   /// Shortcut for [PhosphorIconsRegular.microsoftTeamsLogo]. [PT] Atalho para [PhosphorIconsRegular.microsoftTeamsLogo].
-  static const IconData microsoftTeamsLogo = PhosphorIconsRegular.microsoftTeamsLogo;
+  static const IconData microsoftTeamsLogo =
+      PhosphorIconsRegular.microsoftTeamsLogo;
 
   /// Shortcut for [PhosphorIconsThin.microsoftTeamsLogo]. [PT] Atalho para [PhosphorIconsThin.microsoftTeamsLogo].
-  static const IconData microsoftTeamsLogoThin = PhosphorIconsThin.microsoftTeamsLogo;
+  static const IconData microsoftTeamsLogoThin =
+      PhosphorIconsThin.microsoftTeamsLogo;
 
   /// Shortcut for [PhosphorIconsLight.microsoftTeamsLogo]. [PT] Atalho para [PhosphorIconsLight.microsoftTeamsLogo].
-  static const IconData microsoftTeamsLogoLight = PhosphorIconsLight.microsoftTeamsLogo;
+  static const IconData microsoftTeamsLogoLight =
+      PhosphorIconsLight.microsoftTeamsLogo;
 
   /// Shortcut for [PhosphorIconsBold.microsoftTeamsLogo]. [PT] Atalho para [PhosphorIconsBold.microsoftTeamsLogo].
-  static const IconData microsoftTeamsLogoBold = PhosphorIconsBold.microsoftTeamsLogo;
+  static const IconData microsoftTeamsLogoBold =
+      PhosphorIconsBold.microsoftTeamsLogo;
 
   /// Shortcut for [PhosphorIconsFill.microsoftTeamsLogo]. [PT] Atalho para [PhosphorIconsFill.microsoftTeamsLogo].
-  static const IconData microsoftTeamsLogoFill = PhosphorIconsFill.microsoftTeamsLogo;
+  static const IconData microsoftTeamsLogoFill =
+      PhosphorIconsFill.microsoftTeamsLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.microsoftTeamsLogo]. [PT] Atalho para [PhosphorIconsDuotone.microsoftTeamsLogo].
-  static const microsoftTeamsLogoDuotone = PhosphorIconsDuotone.microsoftTeamsLogo;
+  static const microsoftTeamsLogoDuotone =
+      PhosphorIconsDuotone.microsoftTeamsLogo;
 
   /// Shortcut for [PhosphorIconsRegular.microsoftWordLogo]. [PT] Atalho para [PhosphorIconsRegular.microsoftWordLogo].
-  static const IconData microsoftWordLogo = PhosphorIconsRegular.microsoftWordLogo;
+  static const IconData microsoftWordLogo =
+      PhosphorIconsRegular.microsoftWordLogo;
 
   /// Shortcut for [PhosphorIconsThin.microsoftWordLogo]. [PT] Atalho para [PhosphorIconsThin.microsoftWordLogo].
-  static const IconData microsoftWordLogoThin = PhosphorIconsThin.microsoftWordLogo;
+  static const IconData microsoftWordLogoThin =
+      PhosphorIconsThin.microsoftWordLogo;
 
   /// Shortcut for [PhosphorIconsLight.microsoftWordLogo]. [PT] Atalho para [PhosphorIconsLight.microsoftWordLogo].
-  static const IconData microsoftWordLogoLight = PhosphorIconsLight.microsoftWordLogo;
+  static const IconData microsoftWordLogoLight =
+      PhosphorIconsLight.microsoftWordLogo;
 
   /// Shortcut for [PhosphorIconsBold.microsoftWordLogo]. [PT] Atalho para [PhosphorIconsBold.microsoftWordLogo].
-  static const IconData microsoftWordLogoBold = PhosphorIconsBold.microsoftWordLogo;
+  static const IconData microsoftWordLogoBold =
+      PhosphorIconsBold.microsoftWordLogo;
 
   /// Shortcut for [PhosphorIconsFill.microsoftWordLogo]. [PT] Atalho para [PhosphorIconsFill.microsoftWordLogo].
-  static const IconData microsoftWordLogoFill = PhosphorIconsFill.microsoftWordLogo;
+  static const IconData microsoftWordLogoFill =
+      PhosphorIconsFill.microsoftWordLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.microsoftWordLogo]. [PT] Atalho para [PhosphorIconsDuotone.microsoftWordLogo].
-  static const microsoftWordLogoDuotone = PhosphorIconsDuotone.microsoftWordLogo;
+  static const microsoftWordLogoDuotone =
+      PhosphorIconsDuotone.microsoftWordLogo;
 
   /// Shortcut for [PhosphorIconsRegular.minus]. [PT] Atalho para [PhosphorIconsRegular.minus].
   static const IconData minus = PhosphorIconsRegular.minus;
@@ -17061,19 +17950,24 @@ class PhosphorIcons {
   static const mouseLeftClickDuotone = PhosphorIconsDuotone.mouseLeftClick;
 
   /// Shortcut for [PhosphorIconsRegular.mouseMiddleClick]. [PT] Atalho para [PhosphorIconsRegular.mouseMiddleClick].
-  static const IconData mouseMiddleClick = PhosphorIconsRegular.mouseMiddleClick;
+  static const IconData mouseMiddleClick =
+      PhosphorIconsRegular.mouseMiddleClick;
 
   /// Shortcut for [PhosphorIconsThin.mouseMiddleClick]. [PT] Atalho para [PhosphorIconsThin.mouseMiddleClick].
-  static const IconData mouseMiddleClickThin = PhosphorIconsThin.mouseMiddleClick;
+  static const IconData mouseMiddleClickThin =
+      PhosphorIconsThin.mouseMiddleClick;
 
   /// Shortcut for [PhosphorIconsLight.mouseMiddleClick]. [PT] Atalho para [PhosphorIconsLight.mouseMiddleClick].
-  static const IconData mouseMiddleClickLight = PhosphorIconsLight.mouseMiddleClick;
+  static const IconData mouseMiddleClickLight =
+      PhosphorIconsLight.mouseMiddleClick;
 
   /// Shortcut for [PhosphorIconsBold.mouseMiddleClick]. [PT] Atalho para [PhosphorIconsBold.mouseMiddleClick].
-  static const IconData mouseMiddleClickBold = PhosphorIconsBold.mouseMiddleClick;
+  static const IconData mouseMiddleClickBold =
+      PhosphorIconsBold.mouseMiddleClick;
 
   /// Shortcut for [PhosphorIconsFill.mouseMiddleClick]. [PT] Atalho para [PhosphorIconsFill.mouseMiddleClick].
-  static const IconData mouseMiddleClickFill = PhosphorIconsFill.mouseMiddleClick;
+  static const IconData mouseMiddleClickFill =
+      PhosphorIconsFill.mouseMiddleClick;
 
   /// Shortcut for [PhosphorIconsDuotone.mouseMiddleClick]. [PT] Atalho para [PhosphorIconsDuotone.mouseMiddleClick].
   static const mouseMiddleClickDuotone = PhosphorIconsDuotone.mouseMiddleClick;
@@ -17085,7 +17979,8 @@ class PhosphorIcons {
   static const IconData mouseRightClickThin = PhosphorIconsThin.mouseRightClick;
 
   /// Shortcut for [PhosphorIconsLight.mouseRightClick]. [PT] Atalho para [PhosphorIconsLight.mouseRightClick].
-  static const IconData mouseRightClickLight = PhosphorIconsLight.mouseRightClick;
+  static const IconData mouseRightClickLight =
+      PhosphorIconsLight.mouseRightClick;
 
   /// Shortcut for [PhosphorIconsBold.mouseRightClick]. [PT] Atalho para [PhosphorIconsBold.mouseRightClick].
   static const IconData mouseRightClickBold = PhosphorIconsBold.mouseRightClick;
@@ -17157,7 +18052,8 @@ class PhosphorIcons {
   static const IconData musicNoteSimpleThin = PhosphorIconsThin.musicNoteSimple;
 
   /// Shortcut for [PhosphorIconsLight.musicNoteSimple]. [PT] Atalho para [PhosphorIconsLight.musicNoteSimple].
-  static const IconData musicNoteSimpleLight = PhosphorIconsLight.musicNoteSimple;
+  static const IconData musicNoteSimpleLight =
+      PhosphorIconsLight.musicNoteSimple;
 
   /// Shortcut for [PhosphorIconsBold.musicNoteSimple]. [PT] Atalho para [PhosphorIconsBold.musicNoteSimple].
   static const IconData musicNoteSimpleBold = PhosphorIconsBold.musicNoteSimple;
@@ -17193,7 +18089,8 @@ class PhosphorIcons {
   static const IconData musicNotesMinusThin = PhosphorIconsThin.musicNotesMinus;
 
   /// Shortcut for [PhosphorIconsLight.musicNotesMinus]. [PT] Atalho para [PhosphorIconsLight.musicNotesMinus].
-  static const IconData musicNotesMinusLight = PhosphorIconsLight.musicNotesMinus;
+  static const IconData musicNotesMinusLight =
+      PhosphorIconsLight.musicNotesMinus;
 
   /// Shortcut for [PhosphorIconsBold.musicNotesMinus]. [PT] Atalho para [PhosphorIconsBold.musicNotesMinus].
   static const IconData musicNotesMinusBold = PhosphorIconsBold.musicNotesMinus;
@@ -17223,19 +18120,24 @@ class PhosphorIcons {
   static const musicNotesPlusDuotone = PhosphorIconsDuotone.musicNotesPlus;
 
   /// Shortcut for [PhosphorIconsRegular.musicNotesSimple]. [PT] Atalho para [PhosphorIconsRegular.musicNotesSimple].
-  static const IconData musicNotesSimple = PhosphorIconsRegular.musicNotesSimple;
+  static const IconData musicNotesSimple =
+      PhosphorIconsRegular.musicNotesSimple;
 
   /// Shortcut for [PhosphorIconsThin.musicNotesSimple]. [PT] Atalho para [PhosphorIconsThin.musicNotesSimple].
-  static const IconData musicNotesSimpleThin = PhosphorIconsThin.musicNotesSimple;
+  static const IconData musicNotesSimpleThin =
+      PhosphorIconsThin.musicNotesSimple;
 
   /// Shortcut for [PhosphorIconsLight.musicNotesSimple]. [PT] Atalho para [PhosphorIconsLight.musicNotesSimple].
-  static const IconData musicNotesSimpleLight = PhosphorIconsLight.musicNotesSimple;
+  static const IconData musicNotesSimpleLight =
+      PhosphorIconsLight.musicNotesSimple;
 
   /// Shortcut for [PhosphorIconsBold.musicNotesSimple]. [PT] Atalho para [PhosphorIconsBold.musicNotesSimple].
-  static const IconData musicNotesSimpleBold = PhosphorIconsBold.musicNotesSimple;
+  static const IconData musicNotesSimpleBold =
+      PhosphorIconsBold.musicNotesSimple;
 
   /// Shortcut for [PhosphorIconsFill.musicNotesSimple]. [PT] Atalho para [PhosphorIconsFill.musicNotesSimple].
-  static const IconData musicNotesSimpleFill = PhosphorIconsFill.musicNotesSimple;
+  static const IconData musicNotesSimpleFill =
+      PhosphorIconsFill.musicNotesSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.musicNotesSimple]. [PT] Atalho para [PhosphorIconsDuotone.musicNotesSimple].
   static const musicNotesSimpleDuotone = PhosphorIconsDuotone.musicNotesSimple;
@@ -17247,7 +18149,8 @@ class PhosphorIcons {
   static const IconData navigationArrowThin = PhosphorIconsThin.navigationArrow;
 
   /// Shortcut for [PhosphorIconsLight.navigationArrow]. [PT] Atalho para [PhosphorIconsLight.navigationArrow].
-  static const IconData navigationArrowLight = PhosphorIconsLight.navigationArrow;
+  static const IconData navigationArrowLight =
+      PhosphorIconsLight.navigationArrow;
 
   /// Shortcut for [PhosphorIconsBold.navigationArrow]. [PT] Atalho para [PhosphorIconsBold.navigationArrow].
   static const IconData navigationArrowBold = PhosphorIconsBold.navigationArrow;
@@ -17349,22 +18252,28 @@ class PhosphorIcons {
   static const newspaperDuotone = PhosphorIconsDuotone.newspaper;
 
   /// Shortcut for [PhosphorIconsRegular.newspaperClipping]. [PT] Atalho para [PhosphorIconsRegular.newspaperClipping].
-  static const IconData newspaperClipping = PhosphorIconsRegular.newspaperClipping;
+  static const IconData newspaperClipping =
+      PhosphorIconsRegular.newspaperClipping;
 
   /// Shortcut for [PhosphorIconsThin.newspaperClipping]. [PT] Atalho para [PhosphorIconsThin.newspaperClipping].
-  static const IconData newspaperClippingThin = PhosphorIconsThin.newspaperClipping;
+  static const IconData newspaperClippingThin =
+      PhosphorIconsThin.newspaperClipping;
 
   /// Shortcut for [PhosphorIconsLight.newspaperClipping]. [PT] Atalho para [PhosphorIconsLight.newspaperClipping].
-  static const IconData newspaperClippingLight = PhosphorIconsLight.newspaperClipping;
+  static const IconData newspaperClippingLight =
+      PhosphorIconsLight.newspaperClipping;
 
   /// Shortcut for [PhosphorIconsBold.newspaperClipping]. [PT] Atalho para [PhosphorIconsBold.newspaperClipping].
-  static const IconData newspaperClippingBold = PhosphorIconsBold.newspaperClipping;
+  static const IconData newspaperClippingBold =
+      PhosphorIconsBold.newspaperClipping;
 
   /// Shortcut for [PhosphorIconsFill.newspaperClipping]. [PT] Atalho para [PhosphorIconsFill.newspaperClipping].
-  static const IconData newspaperClippingFill = PhosphorIconsFill.newspaperClipping;
+  static const IconData newspaperClippingFill =
+      PhosphorIconsFill.newspaperClipping;
 
   /// Shortcut for [PhosphorIconsDuotone.newspaperClipping]. [PT] Atalho para [PhosphorIconsDuotone.newspaperClipping].
-  static const newspaperClippingDuotone = PhosphorIconsDuotone.newspaperClipping;
+  static const newspaperClippingDuotone =
+      PhosphorIconsDuotone.newspaperClipping;
 
   /// Shortcut for [PhosphorIconsRegular.notEquals]. [PT] Atalho para [PhosphorIconsRegular.notEquals].
   static const IconData notEquals = PhosphorIconsRegular.notEquals;
@@ -17601,73 +18510,94 @@ class PhosphorIcons {
   static const nuclearPlantDuotone = PhosphorIconsDuotone.nuclearPlant;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleEight]. [PT] Atalho para [PhosphorIconsRegular.numberCircleEight].
-  static const IconData numberCircleEight = PhosphorIconsRegular.numberCircleEight;
+  static const IconData numberCircleEight =
+      PhosphorIconsRegular.numberCircleEight;
 
   /// Shortcut for [PhosphorIconsThin.numberCircleEight]. [PT] Atalho para [PhosphorIconsThin.numberCircleEight].
-  static const IconData numberCircleEightThin = PhosphorIconsThin.numberCircleEight;
+  static const IconData numberCircleEightThin =
+      PhosphorIconsThin.numberCircleEight;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleEight]. [PT] Atalho para [PhosphorIconsLight.numberCircleEight].
-  static const IconData numberCircleEightLight = PhosphorIconsLight.numberCircleEight;
+  static const IconData numberCircleEightLight =
+      PhosphorIconsLight.numberCircleEight;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleEight]. [PT] Atalho para [PhosphorIconsBold.numberCircleEight].
-  static const IconData numberCircleEightBold = PhosphorIconsBold.numberCircleEight;
+  static const IconData numberCircleEightBold =
+      PhosphorIconsBold.numberCircleEight;
 
   /// Shortcut for [PhosphorIconsFill.numberCircleEight]. [PT] Atalho para [PhosphorIconsFill.numberCircleEight].
-  static const IconData numberCircleEightFill = PhosphorIconsFill.numberCircleEight;
+  static const IconData numberCircleEightFill =
+      PhosphorIconsFill.numberCircleEight;
 
   /// Shortcut for [PhosphorIconsDuotone.numberCircleEight]. [PT] Atalho para [PhosphorIconsDuotone.numberCircleEight].
-  static const numberCircleEightDuotone = PhosphorIconsDuotone.numberCircleEight;
+  static const numberCircleEightDuotone =
+      PhosphorIconsDuotone.numberCircleEight;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleFive]. [PT] Atalho para [PhosphorIconsRegular.numberCircleFive].
-  static const IconData numberCircleFive = PhosphorIconsRegular.numberCircleFive;
+  static const IconData numberCircleFive =
+      PhosphorIconsRegular.numberCircleFive;
 
   /// Shortcut for [PhosphorIconsThin.numberCircleFive]. [PT] Atalho para [PhosphorIconsThin.numberCircleFive].
-  static const IconData numberCircleFiveThin = PhosphorIconsThin.numberCircleFive;
+  static const IconData numberCircleFiveThin =
+      PhosphorIconsThin.numberCircleFive;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleFive]. [PT] Atalho para [PhosphorIconsLight.numberCircleFive].
-  static const IconData numberCircleFiveLight = PhosphorIconsLight.numberCircleFive;
+  static const IconData numberCircleFiveLight =
+      PhosphorIconsLight.numberCircleFive;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleFive]. [PT] Atalho para [PhosphorIconsBold.numberCircleFive].
-  static const IconData numberCircleFiveBold = PhosphorIconsBold.numberCircleFive;
+  static const IconData numberCircleFiveBold =
+      PhosphorIconsBold.numberCircleFive;
 
   /// Shortcut for [PhosphorIconsFill.numberCircleFive]. [PT] Atalho para [PhosphorIconsFill.numberCircleFive].
-  static const IconData numberCircleFiveFill = PhosphorIconsFill.numberCircleFive;
+  static const IconData numberCircleFiveFill =
+      PhosphorIconsFill.numberCircleFive;
 
   /// Shortcut for [PhosphorIconsDuotone.numberCircleFive]. [PT] Atalho para [PhosphorIconsDuotone.numberCircleFive].
   static const numberCircleFiveDuotone = PhosphorIconsDuotone.numberCircleFive;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleFour]. [PT] Atalho para [PhosphorIconsRegular.numberCircleFour].
-  static const IconData numberCircleFour = PhosphorIconsRegular.numberCircleFour;
+  static const IconData numberCircleFour =
+      PhosphorIconsRegular.numberCircleFour;
 
   /// Shortcut for [PhosphorIconsThin.numberCircleFour]. [PT] Atalho para [PhosphorIconsThin.numberCircleFour].
-  static const IconData numberCircleFourThin = PhosphorIconsThin.numberCircleFour;
+  static const IconData numberCircleFourThin =
+      PhosphorIconsThin.numberCircleFour;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleFour]. [PT] Atalho para [PhosphorIconsLight.numberCircleFour].
-  static const IconData numberCircleFourLight = PhosphorIconsLight.numberCircleFour;
+  static const IconData numberCircleFourLight =
+      PhosphorIconsLight.numberCircleFour;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleFour]. [PT] Atalho para [PhosphorIconsBold.numberCircleFour].
-  static const IconData numberCircleFourBold = PhosphorIconsBold.numberCircleFour;
+  static const IconData numberCircleFourBold =
+      PhosphorIconsBold.numberCircleFour;
 
   /// Shortcut for [PhosphorIconsFill.numberCircleFour]. [PT] Atalho para [PhosphorIconsFill.numberCircleFour].
-  static const IconData numberCircleFourFill = PhosphorIconsFill.numberCircleFour;
+  static const IconData numberCircleFourFill =
+      PhosphorIconsFill.numberCircleFour;
 
   /// Shortcut for [PhosphorIconsDuotone.numberCircleFour]. [PT] Atalho para [PhosphorIconsDuotone.numberCircleFour].
   static const numberCircleFourDuotone = PhosphorIconsDuotone.numberCircleFour;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleNine]. [PT] Atalho para [PhosphorIconsRegular.numberCircleNine].
-  static const IconData numberCircleNine = PhosphorIconsRegular.numberCircleNine;
+  static const IconData numberCircleNine =
+      PhosphorIconsRegular.numberCircleNine;
 
   /// Shortcut for [PhosphorIconsThin.numberCircleNine]. [PT] Atalho para [PhosphorIconsThin.numberCircleNine].
-  static const IconData numberCircleNineThin = PhosphorIconsThin.numberCircleNine;
+  static const IconData numberCircleNineThin =
+      PhosphorIconsThin.numberCircleNine;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleNine]. [PT] Atalho para [PhosphorIconsLight.numberCircleNine].
-  static const IconData numberCircleNineLight = PhosphorIconsLight.numberCircleNine;
+  static const IconData numberCircleNineLight =
+      PhosphorIconsLight.numberCircleNine;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleNine]. [PT] Atalho para [PhosphorIconsBold.numberCircleNine].
-  static const IconData numberCircleNineBold = PhosphorIconsBold.numberCircleNine;
+  static const IconData numberCircleNineBold =
+      PhosphorIconsBold.numberCircleNine;
 
   /// Shortcut for [PhosphorIconsFill.numberCircleNine]. [PT] Atalho para [PhosphorIconsFill.numberCircleNine].
-  static const IconData numberCircleNineFill = PhosphorIconsFill.numberCircleNine;
+  static const IconData numberCircleNineFill =
+      PhosphorIconsFill.numberCircleNine;
 
   /// Shortcut for [PhosphorIconsDuotone.numberCircleNine]. [PT] Atalho para [PhosphorIconsDuotone.numberCircleNine].
   static const numberCircleNineDuotone = PhosphorIconsDuotone.numberCircleNine;
@@ -17679,7 +18609,8 @@ class PhosphorIcons {
   static const IconData numberCircleOneThin = PhosphorIconsThin.numberCircleOne;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleOne]. [PT] Atalho para [PhosphorIconsLight.numberCircleOne].
-  static const IconData numberCircleOneLight = PhosphorIconsLight.numberCircleOne;
+  static const IconData numberCircleOneLight =
+      PhosphorIconsLight.numberCircleOne;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleOne]. [PT] Atalho para [PhosphorIconsBold.numberCircleOne].
   static const IconData numberCircleOneBold = PhosphorIconsBold.numberCircleOne;
@@ -17691,22 +18622,28 @@ class PhosphorIcons {
   static const numberCircleOneDuotone = PhosphorIconsDuotone.numberCircleOne;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleSeven]. [PT] Atalho para [PhosphorIconsRegular.numberCircleSeven].
-  static const IconData numberCircleSeven = PhosphorIconsRegular.numberCircleSeven;
+  static const IconData numberCircleSeven =
+      PhosphorIconsRegular.numberCircleSeven;
 
   /// Shortcut for [PhosphorIconsThin.numberCircleSeven]. [PT] Atalho para [PhosphorIconsThin.numberCircleSeven].
-  static const IconData numberCircleSevenThin = PhosphorIconsThin.numberCircleSeven;
+  static const IconData numberCircleSevenThin =
+      PhosphorIconsThin.numberCircleSeven;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleSeven]. [PT] Atalho para [PhosphorIconsLight.numberCircleSeven].
-  static const IconData numberCircleSevenLight = PhosphorIconsLight.numberCircleSeven;
+  static const IconData numberCircleSevenLight =
+      PhosphorIconsLight.numberCircleSeven;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleSeven]. [PT] Atalho para [PhosphorIconsBold.numberCircleSeven].
-  static const IconData numberCircleSevenBold = PhosphorIconsBold.numberCircleSeven;
+  static const IconData numberCircleSevenBold =
+      PhosphorIconsBold.numberCircleSeven;
 
   /// Shortcut for [PhosphorIconsFill.numberCircleSeven]. [PT] Atalho para [PhosphorIconsFill.numberCircleSeven].
-  static const IconData numberCircleSevenFill = PhosphorIconsFill.numberCircleSeven;
+  static const IconData numberCircleSevenFill =
+      PhosphorIconsFill.numberCircleSeven;
 
   /// Shortcut for [PhosphorIconsDuotone.numberCircleSeven]. [PT] Atalho para [PhosphorIconsDuotone.numberCircleSeven].
-  static const numberCircleSevenDuotone = PhosphorIconsDuotone.numberCircleSeven;
+  static const numberCircleSevenDuotone =
+      PhosphorIconsDuotone.numberCircleSeven;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleSix]. [PT] Atalho para [PhosphorIconsRegular.numberCircleSix].
   static const IconData numberCircleSix = PhosphorIconsRegular.numberCircleSix;
@@ -17715,7 +18652,8 @@ class PhosphorIcons {
   static const IconData numberCircleSixThin = PhosphorIconsThin.numberCircleSix;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleSix]. [PT] Atalho para [PhosphorIconsLight.numberCircleSix].
-  static const IconData numberCircleSixLight = PhosphorIconsLight.numberCircleSix;
+  static const IconData numberCircleSixLight =
+      PhosphorIconsLight.numberCircleSix;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleSix]. [PT] Atalho para [PhosphorIconsBold.numberCircleSix].
   static const IconData numberCircleSixBold = PhosphorIconsBold.numberCircleSix;
@@ -17727,22 +18665,28 @@ class PhosphorIcons {
   static const numberCircleSixDuotone = PhosphorIconsDuotone.numberCircleSix;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleThree]. [PT] Atalho para [PhosphorIconsRegular.numberCircleThree].
-  static const IconData numberCircleThree = PhosphorIconsRegular.numberCircleThree;
+  static const IconData numberCircleThree =
+      PhosphorIconsRegular.numberCircleThree;
 
   /// Shortcut for [PhosphorIconsThin.numberCircleThree]. [PT] Atalho para [PhosphorIconsThin.numberCircleThree].
-  static const IconData numberCircleThreeThin = PhosphorIconsThin.numberCircleThree;
+  static const IconData numberCircleThreeThin =
+      PhosphorIconsThin.numberCircleThree;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleThree]. [PT] Atalho para [PhosphorIconsLight.numberCircleThree].
-  static const IconData numberCircleThreeLight = PhosphorIconsLight.numberCircleThree;
+  static const IconData numberCircleThreeLight =
+      PhosphorIconsLight.numberCircleThree;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleThree]. [PT] Atalho para [PhosphorIconsBold.numberCircleThree].
-  static const IconData numberCircleThreeBold = PhosphorIconsBold.numberCircleThree;
+  static const IconData numberCircleThreeBold =
+      PhosphorIconsBold.numberCircleThree;
 
   /// Shortcut for [PhosphorIconsFill.numberCircleThree]. [PT] Atalho para [PhosphorIconsFill.numberCircleThree].
-  static const IconData numberCircleThreeFill = PhosphorIconsFill.numberCircleThree;
+  static const IconData numberCircleThreeFill =
+      PhosphorIconsFill.numberCircleThree;
 
   /// Shortcut for [PhosphorIconsDuotone.numberCircleThree]. [PT] Atalho para [PhosphorIconsDuotone.numberCircleThree].
-  static const numberCircleThreeDuotone = PhosphorIconsDuotone.numberCircleThree;
+  static const numberCircleThreeDuotone =
+      PhosphorIconsDuotone.numberCircleThree;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleTwo]. [PT] Atalho para [PhosphorIconsRegular.numberCircleTwo].
   static const IconData numberCircleTwo = PhosphorIconsRegular.numberCircleTwo;
@@ -17751,7 +18695,8 @@ class PhosphorIcons {
   static const IconData numberCircleTwoThin = PhosphorIconsThin.numberCircleTwo;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleTwo]. [PT] Atalho para [PhosphorIconsLight.numberCircleTwo].
-  static const IconData numberCircleTwoLight = PhosphorIconsLight.numberCircleTwo;
+  static const IconData numberCircleTwoLight =
+      PhosphorIconsLight.numberCircleTwo;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleTwo]. [PT] Atalho para [PhosphorIconsBold.numberCircleTwo].
   static const IconData numberCircleTwoBold = PhosphorIconsBold.numberCircleTwo;
@@ -17763,19 +18708,24 @@ class PhosphorIcons {
   static const numberCircleTwoDuotone = PhosphorIconsDuotone.numberCircleTwo;
 
   /// Shortcut for [PhosphorIconsRegular.numberCircleZero]. [PT] Atalho para [PhosphorIconsRegular.numberCircleZero].
-  static const IconData numberCircleZero = PhosphorIconsRegular.numberCircleZero;
+  static const IconData numberCircleZero =
+      PhosphorIconsRegular.numberCircleZero;
 
   /// Shortcut for [PhosphorIconsThin.numberCircleZero]. [PT] Atalho para [PhosphorIconsThin.numberCircleZero].
-  static const IconData numberCircleZeroThin = PhosphorIconsThin.numberCircleZero;
+  static const IconData numberCircleZeroThin =
+      PhosphorIconsThin.numberCircleZero;
 
   /// Shortcut for [PhosphorIconsLight.numberCircleZero]. [PT] Atalho para [PhosphorIconsLight.numberCircleZero].
-  static const IconData numberCircleZeroLight = PhosphorIconsLight.numberCircleZero;
+  static const IconData numberCircleZeroLight =
+      PhosphorIconsLight.numberCircleZero;
 
   /// Shortcut for [PhosphorIconsBold.numberCircleZero]. [PT] Atalho para [PhosphorIconsBold.numberCircleZero].
-  static const IconData numberCircleZeroBold = PhosphorIconsBold.numberCircleZero;
+  static const IconData numberCircleZeroBold =
+      PhosphorIconsBold.numberCircleZero;
 
   /// Shortcut for [PhosphorIconsFill.numberCircleZero]. [PT] Atalho para [PhosphorIconsFill.numberCircleZero].
-  static const IconData numberCircleZeroFill = PhosphorIconsFill.numberCircleZero;
+  static const IconData numberCircleZeroFill =
+      PhosphorIconsFill.numberCircleZero;
 
   /// Shortcut for [PhosphorIconsDuotone.numberCircleZero]. [PT] Atalho para [PhosphorIconsDuotone.numberCircleZero].
   static const numberCircleZeroDuotone = PhosphorIconsDuotone.numberCircleZero;
@@ -17907,73 +18857,94 @@ class PhosphorIcons {
   static const numberSixDuotone = PhosphorIconsDuotone.numberSix;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareEight]. [PT] Atalho para [PhosphorIconsRegular.numberSquareEight].
-  static const IconData numberSquareEight = PhosphorIconsRegular.numberSquareEight;
+  static const IconData numberSquareEight =
+      PhosphorIconsRegular.numberSquareEight;
 
   /// Shortcut for [PhosphorIconsThin.numberSquareEight]. [PT] Atalho para [PhosphorIconsThin.numberSquareEight].
-  static const IconData numberSquareEightThin = PhosphorIconsThin.numberSquareEight;
+  static const IconData numberSquareEightThin =
+      PhosphorIconsThin.numberSquareEight;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareEight]. [PT] Atalho para [PhosphorIconsLight.numberSquareEight].
-  static const IconData numberSquareEightLight = PhosphorIconsLight.numberSquareEight;
+  static const IconData numberSquareEightLight =
+      PhosphorIconsLight.numberSquareEight;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareEight]. [PT] Atalho para [PhosphorIconsBold.numberSquareEight].
-  static const IconData numberSquareEightBold = PhosphorIconsBold.numberSquareEight;
+  static const IconData numberSquareEightBold =
+      PhosphorIconsBold.numberSquareEight;
 
   /// Shortcut for [PhosphorIconsFill.numberSquareEight]. [PT] Atalho para [PhosphorIconsFill.numberSquareEight].
-  static const IconData numberSquareEightFill = PhosphorIconsFill.numberSquareEight;
+  static const IconData numberSquareEightFill =
+      PhosphorIconsFill.numberSquareEight;
 
   /// Shortcut for [PhosphorIconsDuotone.numberSquareEight]. [PT] Atalho para [PhosphorIconsDuotone.numberSquareEight].
-  static const numberSquareEightDuotone = PhosphorIconsDuotone.numberSquareEight;
+  static const numberSquareEightDuotone =
+      PhosphorIconsDuotone.numberSquareEight;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareFive]. [PT] Atalho para [PhosphorIconsRegular.numberSquareFive].
-  static const IconData numberSquareFive = PhosphorIconsRegular.numberSquareFive;
+  static const IconData numberSquareFive =
+      PhosphorIconsRegular.numberSquareFive;
 
   /// Shortcut for [PhosphorIconsThin.numberSquareFive]. [PT] Atalho para [PhosphorIconsThin.numberSquareFive].
-  static const IconData numberSquareFiveThin = PhosphorIconsThin.numberSquareFive;
+  static const IconData numberSquareFiveThin =
+      PhosphorIconsThin.numberSquareFive;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareFive]. [PT] Atalho para [PhosphorIconsLight.numberSquareFive].
-  static const IconData numberSquareFiveLight = PhosphorIconsLight.numberSquareFive;
+  static const IconData numberSquareFiveLight =
+      PhosphorIconsLight.numberSquareFive;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareFive]. [PT] Atalho para [PhosphorIconsBold.numberSquareFive].
-  static const IconData numberSquareFiveBold = PhosphorIconsBold.numberSquareFive;
+  static const IconData numberSquareFiveBold =
+      PhosphorIconsBold.numberSquareFive;
 
   /// Shortcut for [PhosphorIconsFill.numberSquareFive]. [PT] Atalho para [PhosphorIconsFill.numberSquareFive].
-  static const IconData numberSquareFiveFill = PhosphorIconsFill.numberSquareFive;
+  static const IconData numberSquareFiveFill =
+      PhosphorIconsFill.numberSquareFive;
 
   /// Shortcut for [PhosphorIconsDuotone.numberSquareFive]. [PT] Atalho para [PhosphorIconsDuotone.numberSquareFive].
   static const numberSquareFiveDuotone = PhosphorIconsDuotone.numberSquareFive;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareFour]. [PT] Atalho para [PhosphorIconsRegular.numberSquareFour].
-  static const IconData numberSquareFour = PhosphorIconsRegular.numberSquareFour;
+  static const IconData numberSquareFour =
+      PhosphorIconsRegular.numberSquareFour;
 
   /// Shortcut for [PhosphorIconsThin.numberSquareFour]. [PT] Atalho para [PhosphorIconsThin.numberSquareFour].
-  static const IconData numberSquareFourThin = PhosphorIconsThin.numberSquareFour;
+  static const IconData numberSquareFourThin =
+      PhosphorIconsThin.numberSquareFour;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareFour]. [PT] Atalho para [PhosphorIconsLight.numberSquareFour].
-  static const IconData numberSquareFourLight = PhosphorIconsLight.numberSquareFour;
+  static const IconData numberSquareFourLight =
+      PhosphorIconsLight.numberSquareFour;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareFour]. [PT] Atalho para [PhosphorIconsBold.numberSquareFour].
-  static const IconData numberSquareFourBold = PhosphorIconsBold.numberSquareFour;
+  static const IconData numberSquareFourBold =
+      PhosphorIconsBold.numberSquareFour;
 
   /// Shortcut for [PhosphorIconsFill.numberSquareFour]. [PT] Atalho para [PhosphorIconsFill.numberSquareFour].
-  static const IconData numberSquareFourFill = PhosphorIconsFill.numberSquareFour;
+  static const IconData numberSquareFourFill =
+      PhosphorIconsFill.numberSquareFour;
 
   /// Shortcut for [PhosphorIconsDuotone.numberSquareFour]. [PT] Atalho para [PhosphorIconsDuotone.numberSquareFour].
   static const numberSquareFourDuotone = PhosphorIconsDuotone.numberSquareFour;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareNine]. [PT] Atalho para [PhosphorIconsRegular.numberSquareNine].
-  static const IconData numberSquareNine = PhosphorIconsRegular.numberSquareNine;
+  static const IconData numberSquareNine =
+      PhosphorIconsRegular.numberSquareNine;
 
   /// Shortcut for [PhosphorIconsThin.numberSquareNine]. [PT] Atalho para [PhosphorIconsThin.numberSquareNine].
-  static const IconData numberSquareNineThin = PhosphorIconsThin.numberSquareNine;
+  static const IconData numberSquareNineThin =
+      PhosphorIconsThin.numberSquareNine;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareNine]. [PT] Atalho para [PhosphorIconsLight.numberSquareNine].
-  static const IconData numberSquareNineLight = PhosphorIconsLight.numberSquareNine;
+  static const IconData numberSquareNineLight =
+      PhosphorIconsLight.numberSquareNine;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareNine]. [PT] Atalho para [PhosphorIconsBold.numberSquareNine].
-  static const IconData numberSquareNineBold = PhosphorIconsBold.numberSquareNine;
+  static const IconData numberSquareNineBold =
+      PhosphorIconsBold.numberSquareNine;
 
   /// Shortcut for [PhosphorIconsFill.numberSquareNine]. [PT] Atalho para [PhosphorIconsFill.numberSquareNine].
-  static const IconData numberSquareNineFill = PhosphorIconsFill.numberSquareNine;
+  static const IconData numberSquareNineFill =
+      PhosphorIconsFill.numberSquareNine;
 
   /// Shortcut for [PhosphorIconsDuotone.numberSquareNine]. [PT] Atalho para [PhosphorIconsDuotone.numberSquareNine].
   static const numberSquareNineDuotone = PhosphorIconsDuotone.numberSquareNine;
@@ -17985,7 +18956,8 @@ class PhosphorIcons {
   static const IconData numberSquareOneThin = PhosphorIconsThin.numberSquareOne;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareOne]. [PT] Atalho para [PhosphorIconsLight.numberSquareOne].
-  static const IconData numberSquareOneLight = PhosphorIconsLight.numberSquareOne;
+  static const IconData numberSquareOneLight =
+      PhosphorIconsLight.numberSquareOne;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareOne]. [PT] Atalho para [PhosphorIconsBold.numberSquareOne].
   static const IconData numberSquareOneBold = PhosphorIconsBold.numberSquareOne;
@@ -17997,22 +18969,28 @@ class PhosphorIcons {
   static const numberSquareOneDuotone = PhosphorIconsDuotone.numberSquareOne;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareSeven]. [PT] Atalho para [PhosphorIconsRegular.numberSquareSeven].
-  static const IconData numberSquareSeven = PhosphorIconsRegular.numberSquareSeven;
+  static const IconData numberSquareSeven =
+      PhosphorIconsRegular.numberSquareSeven;
 
   /// Shortcut for [PhosphorIconsThin.numberSquareSeven]. [PT] Atalho para [PhosphorIconsThin.numberSquareSeven].
-  static const IconData numberSquareSevenThin = PhosphorIconsThin.numberSquareSeven;
+  static const IconData numberSquareSevenThin =
+      PhosphorIconsThin.numberSquareSeven;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareSeven]. [PT] Atalho para [PhosphorIconsLight.numberSquareSeven].
-  static const IconData numberSquareSevenLight = PhosphorIconsLight.numberSquareSeven;
+  static const IconData numberSquareSevenLight =
+      PhosphorIconsLight.numberSquareSeven;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareSeven]. [PT] Atalho para [PhosphorIconsBold.numberSquareSeven].
-  static const IconData numberSquareSevenBold = PhosphorIconsBold.numberSquareSeven;
+  static const IconData numberSquareSevenBold =
+      PhosphorIconsBold.numberSquareSeven;
 
   /// Shortcut for [PhosphorIconsFill.numberSquareSeven]. [PT] Atalho para [PhosphorIconsFill.numberSquareSeven].
-  static const IconData numberSquareSevenFill = PhosphorIconsFill.numberSquareSeven;
+  static const IconData numberSquareSevenFill =
+      PhosphorIconsFill.numberSquareSeven;
 
   /// Shortcut for [PhosphorIconsDuotone.numberSquareSeven]. [PT] Atalho para [PhosphorIconsDuotone.numberSquareSeven].
-  static const numberSquareSevenDuotone = PhosphorIconsDuotone.numberSquareSeven;
+  static const numberSquareSevenDuotone =
+      PhosphorIconsDuotone.numberSquareSeven;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareSix]. [PT] Atalho para [PhosphorIconsRegular.numberSquareSix].
   static const IconData numberSquareSix = PhosphorIconsRegular.numberSquareSix;
@@ -18021,7 +18999,8 @@ class PhosphorIcons {
   static const IconData numberSquareSixThin = PhosphorIconsThin.numberSquareSix;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareSix]. [PT] Atalho para [PhosphorIconsLight.numberSquareSix].
-  static const IconData numberSquareSixLight = PhosphorIconsLight.numberSquareSix;
+  static const IconData numberSquareSixLight =
+      PhosphorIconsLight.numberSquareSix;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareSix]. [PT] Atalho para [PhosphorIconsBold.numberSquareSix].
   static const IconData numberSquareSixBold = PhosphorIconsBold.numberSquareSix;
@@ -18033,22 +19012,28 @@ class PhosphorIcons {
   static const numberSquareSixDuotone = PhosphorIconsDuotone.numberSquareSix;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareThree]. [PT] Atalho para [PhosphorIconsRegular.numberSquareThree].
-  static const IconData numberSquareThree = PhosphorIconsRegular.numberSquareThree;
+  static const IconData numberSquareThree =
+      PhosphorIconsRegular.numberSquareThree;
 
   /// Shortcut for [PhosphorIconsThin.numberSquareThree]. [PT] Atalho para [PhosphorIconsThin.numberSquareThree].
-  static const IconData numberSquareThreeThin = PhosphorIconsThin.numberSquareThree;
+  static const IconData numberSquareThreeThin =
+      PhosphorIconsThin.numberSquareThree;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareThree]. [PT] Atalho para [PhosphorIconsLight.numberSquareThree].
-  static const IconData numberSquareThreeLight = PhosphorIconsLight.numberSquareThree;
+  static const IconData numberSquareThreeLight =
+      PhosphorIconsLight.numberSquareThree;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareThree]. [PT] Atalho para [PhosphorIconsBold.numberSquareThree].
-  static const IconData numberSquareThreeBold = PhosphorIconsBold.numberSquareThree;
+  static const IconData numberSquareThreeBold =
+      PhosphorIconsBold.numberSquareThree;
 
   /// Shortcut for [PhosphorIconsFill.numberSquareThree]. [PT] Atalho para [PhosphorIconsFill.numberSquareThree].
-  static const IconData numberSquareThreeFill = PhosphorIconsFill.numberSquareThree;
+  static const IconData numberSquareThreeFill =
+      PhosphorIconsFill.numberSquareThree;
 
   /// Shortcut for [PhosphorIconsDuotone.numberSquareThree]. [PT] Atalho para [PhosphorIconsDuotone.numberSquareThree].
-  static const numberSquareThreeDuotone = PhosphorIconsDuotone.numberSquareThree;
+  static const numberSquareThreeDuotone =
+      PhosphorIconsDuotone.numberSquareThree;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareTwo]. [PT] Atalho para [PhosphorIconsRegular.numberSquareTwo].
   static const IconData numberSquareTwo = PhosphorIconsRegular.numberSquareTwo;
@@ -18057,7 +19042,8 @@ class PhosphorIcons {
   static const IconData numberSquareTwoThin = PhosphorIconsThin.numberSquareTwo;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareTwo]. [PT] Atalho para [PhosphorIconsLight.numberSquareTwo].
-  static const IconData numberSquareTwoLight = PhosphorIconsLight.numberSquareTwo;
+  static const IconData numberSquareTwoLight =
+      PhosphorIconsLight.numberSquareTwo;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareTwo]. [PT] Atalho para [PhosphorIconsBold.numberSquareTwo].
   static const IconData numberSquareTwoBold = PhosphorIconsBold.numberSquareTwo;
@@ -18069,19 +19055,24 @@ class PhosphorIcons {
   static const numberSquareTwoDuotone = PhosphorIconsDuotone.numberSquareTwo;
 
   /// Shortcut for [PhosphorIconsRegular.numberSquareZero]. [PT] Atalho para [PhosphorIconsRegular.numberSquareZero].
-  static const IconData numberSquareZero = PhosphorIconsRegular.numberSquareZero;
+  static const IconData numberSquareZero =
+      PhosphorIconsRegular.numberSquareZero;
 
   /// Shortcut for [PhosphorIconsThin.numberSquareZero]. [PT] Atalho para [PhosphorIconsThin.numberSquareZero].
-  static const IconData numberSquareZeroThin = PhosphorIconsThin.numberSquareZero;
+  static const IconData numberSquareZeroThin =
+      PhosphorIconsThin.numberSquareZero;
 
   /// Shortcut for [PhosphorIconsLight.numberSquareZero]. [PT] Atalho para [PhosphorIconsLight.numberSquareZero].
-  static const IconData numberSquareZeroLight = PhosphorIconsLight.numberSquareZero;
+  static const IconData numberSquareZeroLight =
+      PhosphorIconsLight.numberSquareZero;
 
   /// Shortcut for [PhosphorIconsBold.numberSquareZero]. [PT] Atalho para [PhosphorIconsBold.numberSquareZero].
-  static const IconData numberSquareZeroBold = PhosphorIconsBold.numberSquareZero;
+  static const IconData numberSquareZeroBold =
+      PhosphorIconsBold.numberSquareZero;
 
   /// Shortcut for [PhosphorIconsFill.numberSquareZero]. [PT] Atalho para [PhosphorIconsFill.numberSquareZero].
-  static const IconData numberSquareZeroFill = PhosphorIconsFill.numberSquareZero;
+  static const IconData numberSquareZeroFill =
+      PhosphorIconsFill.numberSquareZero;
 
   /// Shortcut for [PhosphorIconsDuotone.numberSquareZero]. [PT] Atalho para [PhosphorIconsDuotone.numberSquareZero].
   static const numberSquareZeroDuotone = PhosphorIconsDuotone.numberSquareZero;
@@ -18381,7 +19372,8 @@ class PhosphorIcons {
   static const IconData paintBrushBroadThin = PhosphorIconsThin.paintBrushBroad;
 
   /// Shortcut for [PhosphorIconsLight.paintBrushBroad]. [PT] Atalho para [PhosphorIconsLight.paintBrushBroad].
-  static const IconData paintBrushBroadLight = PhosphorIconsLight.paintBrushBroad;
+  static const IconData paintBrushBroadLight =
+      PhosphorIconsLight.paintBrushBroad;
 
   /// Shortcut for [PhosphorIconsBold.paintBrushBroad]. [PT] Atalho para [PhosphorIconsBold.paintBrushBroad].
   static const IconData paintBrushBroadBold = PhosphorIconsBold.paintBrushBroad;
@@ -18393,22 +19385,28 @@ class PhosphorIcons {
   static const paintBrushBroadDuotone = PhosphorIconsDuotone.paintBrushBroad;
 
   /// Shortcut for [PhosphorIconsRegular.paintBrushHousehold]. [PT] Atalho para [PhosphorIconsRegular.paintBrushHousehold].
-  static const IconData paintBrushHousehold = PhosphorIconsRegular.paintBrushHousehold;
+  static const IconData paintBrushHousehold =
+      PhosphorIconsRegular.paintBrushHousehold;
 
   /// Shortcut for [PhosphorIconsThin.paintBrushHousehold]. [PT] Atalho para [PhosphorIconsThin.paintBrushHousehold].
-  static const IconData paintBrushHouseholdThin = PhosphorIconsThin.paintBrushHousehold;
+  static const IconData paintBrushHouseholdThin =
+      PhosphorIconsThin.paintBrushHousehold;
 
   /// Shortcut for [PhosphorIconsLight.paintBrushHousehold]. [PT] Atalho para [PhosphorIconsLight.paintBrushHousehold].
-  static const IconData paintBrushHouseholdLight = PhosphorIconsLight.paintBrushHousehold;
+  static const IconData paintBrushHouseholdLight =
+      PhosphorIconsLight.paintBrushHousehold;
 
   /// Shortcut for [PhosphorIconsBold.paintBrushHousehold]. [PT] Atalho para [PhosphorIconsBold.paintBrushHousehold].
-  static const IconData paintBrushHouseholdBold = PhosphorIconsBold.paintBrushHousehold;
+  static const IconData paintBrushHouseholdBold =
+      PhosphorIconsBold.paintBrushHousehold;
 
   /// Shortcut for [PhosphorIconsFill.paintBrushHousehold]. [PT] Atalho para [PhosphorIconsFill.paintBrushHousehold].
-  static const IconData paintBrushHouseholdFill = PhosphorIconsFill.paintBrushHousehold;
+  static const IconData paintBrushHouseholdFill =
+      PhosphorIconsFill.paintBrushHousehold;
 
   /// Shortcut for [PhosphorIconsDuotone.paintBrushHousehold]. [PT] Atalho para [PhosphorIconsDuotone.paintBrushHousehold].
-  static const paintBrushHouseholdDuotone = PhosphorIconsDuotone.paintBrushHousehold;
+  static const paintBrushHouseholdDuotone =
+      PhosphorIconsDuotone.paintBrushHousehold;
 
   /// Shortcut for [PhosphorIconsRegular.paintBucket]. [PT] Atalho para [PhosphorIconsRegular.paintBucket].
   static const IconData paintBucket = PhosphorIconsRegular.paintBucket;
@@ -18525,7 +19523,8 @@ class PhosphorIcons {
   static const IconData paperPlaneRightThin = PhosphorIconsThin.paperPlaneRight;
 
   /// Shortcut for [PhosphorIconsLight.paperPlaneRight]. [PT] Atalho para [PhosphorIconsLight.paperPlaneRight].
-  static const IconData paperPlaneRightLight = PhosphorIconsLight.paperPlaneRight;
+  static const IconData paperPlaneRightLight =
+      PhosphorIconsLight.paperPlaneRight;
 
   /// Shortcut for [PhosphorIconsBold.paperPlaneRight]. [PT] Atalho para [PhosphorIconsBold.paperPlaneRight].
   static const IconData paperPlaneRightBold = PhosphorIconsBold.paperPlaneRight;
@@ -18573,22 +19572,28 @@ class PhosphorIcons {
   static const paperclipDuotone = PhosphorIconsDuotone.paperclip;
 
   /// Shortcut for [PhosphorIconsRegular.paperclipHorizontal]. [PT] Atalho para [PhosphorIconsRegular.paperclipHorizontal].
-  static const IconData paperclipHorizontal = PhosphorIconsRegular.paperclipHorizontal;
+  static const IconData paperclipHorizontal =
+      PhosphorIconsRegular.paperclipHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.paperclipHorizontal]. [PT] Atalho para [PhosphorIconsThin.paperclipHorizontal].
-  static const IconData paperclipHorizontalThin = PhosphorIconsThin.paperclipHorizontal;
+  static const IconData paperclipHorizontalThin =
+      PhosphorIconsThin.paperclipHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.paperclipHorizontal]. [PT] Atalho para [PhosphorIconsLight.paperclipHorizontal].
-  static const IconData paperclipHorizontalLight = PhosphorIconsLight.paperclipHorizontal;
+  static const IconData paperclipHorizontalLight =
+      PhosphorIconsLight.paperclipHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.paperclipHorizontal]. [PT] Atalho para [PhosphorIconsBold.paperclipHorizontal].
-  static const IconData paperclipHorizontalBold = PhosphorIconsBold.paperclipHorizontal;
+  static const IconData paperclipHorizontalBold =
+      PhosphorIconsBold.paperclipHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.paperclipHorizontal]. [PT] Atalho para [PhosphorIconsFill.paperclipHorizontal].
-  static const IconData paperclipHorizontalFill = PhosphorIconsFill.paperclipHorizontal;
+  static const IconData paperclipHorizontalFill =
+      PhosphorIconsFill.paperclipHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.paperclipHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.paperclipHorizontal].
-  static const paperclipHorizontalDuotone = PhosphorIconsDuotone.paperclipHorizontal;
+  static const paperclipHorizontalDuotone =
+      PhosphorIconsDuotone.paperclipHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.parachute]. [PT] Atalho para [PhosphorIconsRegular.parachute].
   static const IconData parachute = PhosphorIconsRegular.parachute;
@@ -18951,40 +19956,51 @@ class PhosphorIcons {
   static const pencilSimpleDuotone = PhosphorIconsDuotone.pencilSimple;
 
   /// Shortcut for [PhosphorIconsRegular.pencilSimpleLine]. [PT] Atalho para [PhosphorIconsRegular.pencilSimpleLine].
-  static const IconData pencilSimpleLine = PhosphorIconsRegular.pencilSimpleLine;
+  static const IconData pencilSimpleLine =
+      PhosphorIconsRegular.pencilSimpleLine;
 
   /// Shortcut for [PhosphorIconsThin.pencilSimpleLine]. [PT] Atalho para [PhosphorIconsThin.pencilSimpleLine].
-  static const IconData pencilSimpleLineThin = PhosphorIconsThin.pencilSimpleLine;
+  static const IconData pencilSimpleLineThin =
+      PhosphorIconsThin.pencilSimpleLine;
 
   /// Shortcut for [PhosphorIconsLight.pencilSimpleLine]. [PT] Atalho para [PhosphorIconsLight.pencilSimpleLine].
-  static const IconData pencilSimpleLineLight = PhosphorIconsLight.pencilSimpleLine;
+  static const IconData pencilSimpleLineLight =
+      PhosphorIconsLight.pencilSimpleLine;
 
   /// Shortcut for [PhosphorIconsBold.pencilSimpleLine]. [PT] Atalho para [PhosphorIconsBold.pencilSimpleLine].
-  static const IconData pencilSimpleLineBold = PhosphorIconsBold.pencilSimpleLine;
+  static const IconData pencilSimpleLineBold =
+      PhosphorIconsBold.pencilSimpleLine;
 
   /// Shortcut for [PhosphorIconsFill.pencilSimpleLine]. [PT] Atalho para [PhosphorIconsFill.pencilSimpleLine].
-  static const IconData pencilSimpleLineFill = PhosphorIconsFill.pencilSimpleLine;
+  static const IconData pencilSimpleLineFill =
+      PhosphorIconsFill.pencilSimpleLine;
 
   /// Shortcut for [PhosphorIconsDuotone.pencilSimpleLine]. [PT] Atalho para [PhosphorIconsDuotone.pencilSimpleLine].
   static const pencilSimpleLineDuotone = PhosphorIconsDuotone.pencilSimpleLine;
 
   /// Shortcut for [PhosphorIconsRegular.pencilSimpleSlash]. [PT] Atalho para [PhosphorIconsRegular.pencilSimpleSlash].
-  static const IconData pencilSimpleSlash = PhosphorIconsRegular.pencilSimpleSlash;
+  static const IconData pencilSimpleSlash =
+      PhosphorIconsRegular.pencilSimpleSlash;
 
   /// Shortcut for [PhosphorIconsThin.pencilSimpleSlash]. [PT] Atalho para [PhosphorIconsThin.pencilSimpleSlash].
-  static const IconData pencilSimpleSlashThin = PhosphorIconsThin.pencilSimpleSlash;
+  static const IconData pencilSimpleSlashThin =
+      PhosphorIconsThin.pencilSimpleSlash;
 
   /// Shortcut for [PhosphorIconsLight.pencilSimpleSlash]. [PT] Atalho para [PhosphorIconsLight.pencilSimpleSlash].
-  static const IconData pencilSimpleSlashLight = PhosphorIconsLight.pencilSimpleSlash;
+  static const IconData pencilSimpleSlashLight =
+      PhosphorIconsLight.pencilSimpleSlash;
 
   /// Shortcut for [PhosphorIconsBold.pencilSimpleSlash]. [PT] Atalho para [PhosphorIconsBold.pencilSimpleSlash].
-  static const IconData pencilSimpleSlashBold = PhosphorIconsBold.pencilSimpleSlash;
+  static const IconData pencilSimpleSlashBold =
+      PhosphorIconsBold.pencilSimpleSlash;
 
   /// Shortcut for [PhosphorIconsFill.pencilSimpleSlash]. [PT] Atalho para [PhosphorIconsFill.pencilSimpleSlash].
-  static const IconData pencilSimpleSlashFill = PhosphorIconsFill.pencilSimpleSlash;
+  static const IconData pencilSimpleSlashFill =
+      PhosphorIconsFill.pencilSimpleSlash;
 
   /// Shortcut for [PhosphorIconsDuotone.pencilSimpleSlash]. [PT] Atalho para [PhosphorIconsDuotone.pencilSimpleSlash].
-  static const pencilSimpleSlashDuotone = PhosphorIconsDuotone.pencilSimpleSlash;
+  static const pencilSimpleSlashDuotone =
+      PhosphorIconsDuotone.pencilSimpleSlash;
 
   /// Shortcut for [PhosphorIconsRegular.pencilSlash]. [PT] Atalho para [PhosphorIconsRegular.pencilSlash].
   static const IconData pencilSlash = PhosphorIconsRegular.pencilSlash;
@@ -19095,19 +20111,24 @@ class PhosphorIcons {
   static const personDuotone = PhosphorIconsDuotone.person;
 
   /// Shortcut for [PhosphorIconsRegular.personArmsSpread]. [PT] Atalho para [PhosphorIconsRegular.personArmsSpread].
-  static const IconData personArmsSpread = PhosphorIconsRegular.personArmsSpread;
+  static const IconData personArmsSpread =
+      PhosphorIconsRegular.personArmsSpread;
 
   /// Shortcut for [PhosphorIconsThin.personArmsSpread]. [PT] Atalho para [PhosphorIconsThin.personArmsSpread].
-  static const IconData personArmsSpreadThin = PhosphorIconsThin.personArmsSpread;
+  static const IconData personArmsSpreadThin =
+      PhosphorIconsThin.personArmsSpread;
 
   /// Shortcut for [PhosphorIconsLight.personArmsSpread]. [PT] Atalho para [PhosphorIconsLight.personArmsSpread].
-  static const IconData personArmsSpreadLight = PhosphorIconsLight.personArmsSpread;
+  static const IconData personArmsSpreadLight =
+      PhosphorIconsLight.personArmsSpread;
 
   /// Shortcut for [PhosphorIconsBold.personArmsSpread]. [PT] Atalho para [PhosphorIconsBold.personArmsSpread].
-  static const IconData personArmsSpreadBold = PhosphorIconsBold.personArmsSpread;
+  static const IconData personArmsSpreadBold =
+      PhosphorIconsBold.personArmsSpread;
 
   /// Shortcut for [PhosphorIconsFill.personArmsSpread]. [PT] Atalho para [PhosphorIconsFill.personArmsSpread].
-  static const IconData personArmsSpreadFill = PhosphorIconsFill.personArmsSpread;
+  static const IconData personArmsSpreadFill =
+      PhosphorIconsFill.personArmsSpread;
 
   /// Shortcut for [PhosphorIconsDuotone.personArmsSpread]. [PT] Atalho para [PhosphorIconsDuotone.personArmsSpread].
   static const personArmsSpreadDuotone = PhosphorIconsDuotone.personArmsSpread;
@@ -19131,55 +20152,71 @@ class PhosphorIcons {
   static const personSimpleDuotone = PhosphorIconsDuotone.personSimple;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleBike]. [PT] Atalho para [PhosphorIconsRegular.personSimpleBike].
-  static const IconData personSimpleBike = PhosphorIconsRegular.personSimpleBike;
+  static const IconData personSimpleBike =
+      PhosphorIconsRegular.personSimpleBike;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleBike]. [PT] Atalho para [PhosphorIconsThin.personSimpleBike].
-  static const IconData personSimpleBikeThin = PhosphorIconsThin.personSimpleBike;
+  static const IconData personSimpleBikeThin =
+      PhosphorIconsThin.personSimpleBike;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleBike]. [PT] Atalho para [PhosphorIconsLight.personSimpleBike].
-  static const IconData personSimpleBikeLight = PhosphorIconsLight.personSimpleBike;
+  static const IconData personSimpleBikeLight =
+      PhosphorIconsLight.personSimpleBike;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleBike]. [PT] Atalho para [PhosphorIconsBold.personSimpleBike].
-  static const IconData personSimpleBikeBold = PhosphorIconsBold.personSimpleBike;
+  static const IconData personSimpleBikeBold =
+      PhosphorIconsBold.personSimpleBike;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleBike]. [PT] Atalho para [PhosphorIconsFill.personSimpleBike].
-  static const IconData personSimpleBikeFill = PhosphorIconsFill.personSimpleBike;
+  static const IconData personSimpleBikeFill =
+      PhosphorIconsFill.personSimpleBike;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleBike]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleBike].
   static const personSimpleBikeDuotone = PhosphorIconsDuotone.personSimpleBike;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleCircle]. [PT] Atalho para [PhosphorIconsRegular.personSimpleCircle].
-  static const IconData personSimpleCircle = PhosphorIconsRegular.personSimpleCircle;
+  static const IconData personSimpleCircle =
+      PhosphorIconsRegular.personSimpleCircle;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleCircle]. [PT] Atalho para [PhosphorIconsThin.personSimpleCircle].
-  static const IconData personSimpleCircleThin = PhosphorIconsThin.personSimpleCircle;
+  static const IconData personSimpleCircleThin =
+      PhosphorIconsThin.personSimpleCircle;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleCircle]. [PT] Atalho para [PhosphorIconsLight.personSimpleCircle].
-  static const IconData personSimpleCircleLight = PhosphorIconsLight.personSimpleCircle;
+  static const IconData personSimpleCircleLight =
+      PhosphorIconsLight.personSimpleCircle;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleCircle]. [PT] Atalho para [PhosphorIconsBold.personSimpleCircle].
-  static const IconData personSimpleCircleBold = PhosphorIconsBold.personSimpleCircle;
+  static const IconData personSimpleCircleBold =
+      PhosphorIconsBold.personSimpleCircle;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleCircle]. [PT] Atalho para [PhosphorIconsFill.personSimpleCircle].
-  static const IconData personSimpleCircleFill = PhosphorIconsFill.personSimpleCircle;
+  static const IconData personSimpleCircleFill =
+      PhosphorIconsFill.personSimpleCircle;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleCircle]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleCircle].
-  static const personSimpleCircleDuotone = PhosphorIconsDuotone.personSimpleCircle;
+  static const personSimpleCircleDuotone =
+      PhosphorIconsDuotone.personSimpleCircle;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleHike]. [PT] Atalho para [PhosphorIconsRegular.personSimpleHike].
-  static const IconData personSimpleHike = PhosphorIconsRegular.personSimpleHike;
+  static const IconData personSimpleHike =
+      PhosphorIconsRegular.personSimpleHike;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleHike]. [PT] Atalho para [PhosphorIconsThin.personSimpleHike].
-  static const IconData personSimpleHikeThin = PhosphorIconsThin.personSimpleHike;
+  static const IconData personSimpleHikeThin =
+      PhosphorIconsThin.personSimpleHike;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleHike]. [PT] Atalho para [PhosphorIconsLight.personSimpleHike].
-  static const IconData personSimpleHikeLight = PhosphorIconsLight.personSimpleHike;
+  static const IconData personSimpleHikeLight =
+      PhosphorIconsLight.personSimpleHike;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleHike]. [PT] Atalho para [PhosphorIconsBold.personSimpleHike].
-  static const IconData personSimpleHikeBold = PhosphorIconsBold.personSimpleHike;
+  static const IconData personSimpleHikeBold =
+      PhosphorIconsBold.personSimpleHike;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleHike]. [PT] Atalho para [PhosphorIconsFill.personSimpleHike].
-  static const IconData personSimpleHikeFill = PhosphorIconsFill.personSimpleHike;
+  static const IconData personSimpleHikeFill =
+      PhosphorIconsFill.personSimpleHike;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleHike]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleHike].
   static const personSimpleHikeDuotone = PhosphorIconsDuotone.personSimpleHike;
@@ -19191,7 +20228,8 @@ class PhosphorIcons {
   static const IconData personSimpleRunThin = PhosphorIconsThin.personSimpleRun;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleRun]. [PT] Atalho para [PhosphorIconsLight.personSimpleRun].
-  static const IconData personSimpleRunLight = PhosphorIconsLight.personSimpleRun;
+  static const IconData personSimpleRunLight =
+      PhosphorIconsLight.personSimpleRun;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleRun]. [PT] Atalho para [PhosphorIconsBold.personSimpleRun].
   static const IconData personSimpleRunBold = PhosphorIconsBold.personSimpleRun;
@@ -19209,7 +20247,8 @@ class PhosphorIcons {
   static const IconData personSimpleSkiThin = PhosphorIconsThin.personSimpleSki;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleSki]. [PT] Atalho para [PhosphorIconsLight.personSimpleSki].
-  static const IconData personSimpleSkiLight = PhosphorIconsLight.personSimpleSki;
+  static const IconData personSimpleSkiLight =
+      PhosphorIconsLight.personSimpleSki;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleSki]. [PT] Atalho para [PhosphorIconsBold.personSimpleSki].
   static const IconData personSimpleSkiBold = PhosphorIconsBold.personSimpleSki;
@@ -19221,91 +20260,119 @@ class PhosphorIcons {
   static const personSimpleSkiDuotone = PhosphorIconsDuotone.personSimpleSki;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleSnowboard]. [PT] Atalho para [PhosphorIconsRegular.personSimpleSnowboard].
-  static const IconData personSimpleSnowboard = PhosphorIconsRegular.personSimpleSnowboard;
+  static const IconData personSimpleSnowboard =
+      PhosphorIconsRegular.personSimpleSnowboard;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleSnowboard]. [PT] Atalho para [PhosphorIconsThin.personSimpleSnowboard].
-  static const IconData personSimpleSnowboardThin = PhosphorIconsThin.personSimpleSnowboard;
+  static const IconData personSimpleSnowboardThin =
+      PhosphorIconsThin.personSimpleSnowboard;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleSnowboard]. [PT] Atalho para [PhosphorIconsLight.personSimpleSnowboard].
-  static const IconData personSimpleSnowboardLight = PhosphorIconsLight.personSimpleSnowboard;
+  static const IconData personSimpleSnowboardLight =
+      PhosphorIconsLight.personSimpleSnowboard;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleSnowboard]. [PT] Atalho para [PhosphorIconsBold.personSimpleSnowboard].
-  static const IconData personSimpleSnowboardBold = PhosphorIconsBold.personSimpleSnowboard;
+  static const IconData personSimpleSnowboardBold =
+      PhosphorIconsBold.personSimpleSnowboard;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleSnowboard]. [PT] Atalho para [PhosphorIconsFill.personSimpleSnowboard].
-  static const IconData personSimpleSnowboardFill = PhosphorIconsFill.personSimpleSnowboard;
+  static const IconData personSimpleSnowboardFill =
+      PhosphorIconsFill.personSimpleSnowboard;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleSnowboard]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleSnowboard].
-  static const personSimpleSnowboardDuotone = PhosphorIconsDuotone.personSimpleSnowboard;
+  static const personSimpleSnowboardDuotone =
+      PhosphorIconsDuotone.personSimpleSnowboard;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleSwim]. [PT] Atalho para [PhosphorIconsRegular.personSimpleSwim].
-  static const IconData personSimpleSwim = PhosphorIconsRegular.personSimpleSwim;
+  static const IconData personSimpleSwim =
+      PhosphorIconsRegular.personSimpleSwim;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleSwim]. [PT] Atalho para [PhosphorIconsThin.personSimpleSwim].
-  static const IconData personSimpleSwimThin = PhosphorIconsThin.personSimpleSwim;
+  static const IconData personSimpleSwimThin =
+      PhosphorIconsThin.personSimpleSwim;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleSwim]. [PT] Atalho para [PhosphorIconsLight.personSimpleSwim].
-  static const IconData personSimpleSwimLight = PhosphorIconsLight.personSimpleSwim;
+  static const IconData personSimpleSwimLight =
+      PhosphorIconsLight.personSimpleSwim;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleSwim]. [PT] Atalho para [PhosphorIconsBold.personSimpleSwim].
-  static const IconData personSimpleSwimBold = PhosphorIconsBold.personSimpleSwim;
+  static const IconData personSimpleSwimBold =
+      PhosphorIconsBold.personSimpleSwim;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleSwim]. [PT] Atalho para [PhosphorIconsFill.personSimpleSwim].
-  static const IconData personSimpleSwimFill = PhosphorIconsFill.personSimpleSwim;
+  static const IconData personSimpleSwimFill =
+      PhosphorIconsFill.personSimpleSwim;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleSwim]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleSwim].
   static const personSimpleSwimDuotone = PhosphorIconsDuotone.personSimpleSwim;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleTaiChi]. [PT] Atalho para [PhosphorIconsRegular.personSimpleTaiChi].
-  static const IconData personSimpleTaiChi = PhosphorIconsRegular.personSimpleTaiChi;
+  static const IconData personSimpleTaiChi =
+      PhosphorIconsRegular.personSimpleTaiChi;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleTaiChi]. [PT] Atalho para [PhosphorIconsThin.personSimpleTaiChi].
-  static const IconData personSimpleTaiChiThin = PhosphorIconsThin.personSimpleTaiChi;
+  static const IconData personSimpleTaiChiThin =
+      PhosphorIconsThin.personSimpleTaiChi;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleTaiChi]. [PT] Atalho para [PhosphorIconsLight.personSimpleTaiChi].
-  static const IconData personSimpleTaiChiLight = PhosphorIconsLight.personSimpleTaiChi;
+  static const IconData personSimpleTaiChiLight =
+      PhosphorIconsLight.personSimpleTaiChi;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleTaiChi]. [PT] Atalho para [PhosphorIconsBold.personSimpleTaiChi].
-  static const IconData personSimpleTaiChiBold = PhosphorIconsBold.personSimpleTaiChi;
+  static const IconData personSimpleTaiChiBold =
+      PhosphorIconsBold.personSimpleTaiChi;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleTaiChi]. [PT] Atalho para [PhosphorIconsFill.personSimpleTaiChi].
-  static const IconData personSimpleTaiChiFill = PhosphorIconsFill.personSimpleTaiChi;
+  static const IconData personSimpleTaiChiFill =
+      PhosphorIconsFill.personSimpleTaiChi;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleTaiChi]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleTaiChi].
-  static const personSimpleTaiChiDuotone = PhosphorIconsDuotone.personSimpleTaiChi;
+  static const personSimpleTaiChiDuotone =
+      PhosphorIconsDuotone.personSimpleTaiChi;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleThrow]. [PT] Atalho para [PhosphorIconsRegular.personSimpleThrow].
-  static const IconData personSimpleThrow = PhosphorIconsRegular.personSimpleThrow;
+  static const IconData personSimpleThrow =
+      PhosphorIconsRegular.personSimpleThrow;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleThrow]. [PT] Atalho para [PhosphorIconsThin.personSimpleThrow].
-  static const IconData personSimpleThrowThin = PhosphorIconsThin.personSimpleThrow;
+  static const IconData personSimpleThrowThin =
+      PhosphorIconsThin.personSimpleThrow;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleThrow]. [PT] Atalho para [PhosphorIconsLight.personSimpleThrow].
-  static const IconData personSimpleThrowLight = PhosphorIconsLight.personSimpleThrow;
+  static const IconData personSimpleThrowLight =
+      PhosphorIconsLight.personSimpleThrow;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleThrow]. [PT] Atalho para [PhosphorIconsBold.personSimpleThrow].
-  static const IconData personSimpleThrowBold = PhosphorIconsBold.personSimpleThrow;
+  static const IconData personSimpleThrowBold =
+      PhosphorIconsBold.personSimpleThrow;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleThrow]. [PT] Atalho para [PhosphorIconsFill.personSimpleThrow].
-  static const IconData personSimpleThrowFill = PhosphorIconsFill.personSimpleThrow;
+  static const IconData personSimpleThrowFill =
+      PhosphorIconsFill.personSimpleThrow;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleThrow]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleThrow].
-  static const personSimpleThrowDuotone = PhosphorIconsDuotone.personSimpleThrow;
+  static const personSimpleThrowDuotone =
+      PhosphorIconsDuotone.personSimpleThrow;
 
   /// Shortcut for [PhosphorIconsRegular.personSimpleWalk]. [PT] Atalho para [PhosphorIconsRegular.personSimpleWalk].
-  static const IconData personSimpleWalk = PhosphorIconsRegular.personSimpleWalk;
+  static const IconData personSimpleWalk =
+      PhosphorIconsRegular.personSimpleWalk;
 
   /// Shortcut for [PhosphorIconsThin.personSimpleWalk]. [PT] Atalho para [PhosphorIconsThin.personSimpleWalk].
-  static const IconData personSimpleWalkThin = PhosphorIconsThin.personSimpleWalk;
+  static const IconData personSimpleWalkThin =
+      PhosphorIconsThin.personSimpleWalk;
 
   /// Shortcut for [PhosphorIconsLight.personSimpleWalk]. [PT] Atalho para [PhosphorIconsLight.personSimpleWalk].
-  static const IconData personSimpleWalkLight = PhosphorIconsLight.personSimpleWalk;
+  static const IconData personSimpleWalkLight =
+      PhosphorIconsLight.personSimpleWalk;
 
   /// Shortcut for [PhosphorIconsBold.personSimpleWalk]. [PT] Atalho para [PhosphorIconsBold.personSimpleWalk].
-  static const IconData personSimpleWalkBold = PhosphorIconsBold.personSimpleWalk;
+  static const IconData personSimpleWalkBold =
+      PhosphorIconsBold.personSimpleWalk;
 
   /// Shortcut for [PhosphorIconsFill.personSimpleWalk]. [PT] Atalho para [PhosphorIconsFill.personSimpleWalk].
-  static const IconData personSimpleWalkFill = PhosphorIconsFill.personSimpleWalk;
+  static const IconData personSimpleWalkFill =
+      PhosphorIconsFill.personSimpleWalk;
 
   /// Shortcut for [PhosphorIconsDuotone.personSimpleWalk]. [PT] Atalho para [PhosphorIconsDuotone.personSimpleWalk].
   static const personSimpleWalkDuotone = PhosphorIconsDuotone.personSimpleWalk;
@@ -19371,7 +20438,8 @@ class PhosphorIcons {
   static const IconData phoneDisconnectThin = PhosphorIconsThin.phoneDisconnect;
 
   /// Shortcut for [PhosphorIconsLight.phoneDisconnect]. [PT] Atalho para [PhosphorIconsLight.phoneDisconnect].
-  static const IconData phoneDisconnectLight = PhosphorIconsLight.phoneDisconnect;
+  static const IconData phoneDisconnectLight =
+      PhosphorIconsLight.phoneDisconnect;
 
   /// Shortcut for [PhosphorIconsBold.phoneDisconnect]. [PT] Atalho para [PhosphorIconsBold.phoneDisconnect].
   static const IconData phoneDisconnectBold = PhosphorIconsBold.phoneDisconnect;
@@ -19599,19 +20667,24 @@ class PhosphorIcons {
   static const picnicTableDuotone = PhosphorIconsDuotone.picnicTable;
 
   /// Shortcut for [PhosphorIconsRegular.pictureInPicture]. [PT] Atalho para [PhosphorIconsRegular.pictureInPicture].
-  static const IconData pictureInPicture = PhosphorIconsRegular.pictureInPicture;
+  static const IconData pictureInPicture =
+      PhosphorIconsRegular.pictureInPicture;
 
   /// Shortcut for [PhosphorIconsThin.pictureInPicture]. [PT] Atalho para [PhosphorIconsThin.pictureInPicture].
-  static const IconData pictureInPictureThin = PhosphorIconsThin.pictureInPicture;
+  static const IconData pictureInPictureThin =
+      PhosphorIconsThin.pictureInPicture;
 
   /// Shortcut for [PhosphorIconsLight.pictureInPicture]. [PT] Atalho para [PhosphorIconsLight.pictureInPicture].
-  static const IconData pictureInPictureLight = PhosphorIconsLight.pictureInPicture;
+  static const IconData pictureInPictureLight =
+      PhosphorIconsLight.pictureInPicture;
 
   /// Shortcut for [PhosphorIconsBold.pictureInPicture]. [PT] Atalho para [PhosphorIconsBold.pictureInPicture].
-  static const IconData pictureInPictureBold = PhosphorIconsBold.pictureInPicture;
+  static const IconData pictureInPictureBold =
+      PhosphorIconsBold.pictureInPicture;
 
   /// Shortcut for [PhosphorIconsFill.pictureInPicture]. [PT] Atalho para [PhosphorIconsFill.pictureInPicture].
-  static const IconData pictureInPictureFill = PhosphorIconsFill.pictureInPicture;
+  static const IconData pictureInPictureFill =
+      PhosphorIconsFill.pictureInPicture;
 
   /// Shortcut for [PhosphorIconsDuotone.pictureInPicture]. [PT] Atalho para [PhosphorIconsDuotone.pictureInPicture].
   static const pictureInPictureDuotone = PhosphorIconsDuotone.pictureInPicture;
@@ -20229,22 +21302,28 @@ class PhosphorIcons {
   static const presentationDuotone = PhosphorIconsDuotone.presentation;
 
   /// Shortcut for [PhosphorIconsRegular.presentationChart]. [PT] Atalho para [PhosphorIconsRegular.presentationChart].
-  static const IconData presentationChart = PhosphorIconsRegular.presentationChart;
+  static const IconData presentationChart =
+      PhosphorIconsRegular.presentationChart;
 
   /// Shortcut for [PhosphorIconsThin.presentationChart]. [PT] Atalho para [PhosphorIconsThin.presentationChart].
-  static const IconData presentationChartThin = PhosphorIconsThin.presentationChart;
+  static const IconData presentationChartThin =
+      PhosphorIconsThin.presentationChart;
 
   /// Shortcut for [PhosphorIconsLight.presentationChart]. [PT] Atalho para [PhosphorIconsLight.presentationChart].
-  static const IconData presentationChartLight = PhosphorIconsLight.presentationChart;
+  static const IconData presentationChartLight =
+      PhosphorIconsLight.presentationChart;
 
   /// Shortcut for [PhosphorIconsBold.presentationChart]. [PT] Atalho para [PhosphorIconsBold.presentationChart].
-  static const IconData presentationChartBold = PhosphorIconsBold.presentationChart;
+  static const IconData presentationChartBold =
+      PhosphorIconsBold.presentationChart;
 
   /// Shortcut for [PhosphorIconsFill.presentationChart]. [PT] Atalho para [PhosphorIconsFill.presentationChart].
-  static const IconData presentationChartFill = PhosphorIconsFill.presentationChart;
+  static const IconData presentationChartFill =
+      PhosphorIconsFill.presentationChart;
 
   /// Shortcut for [PhosphorIconsDuotone.presentationChart]. [PT] Atalho para [PhosphorIconsDuotone.presentationChart].
-  static const presentationChartDuotone = PhosphorIconsDuotone.presentationChart;
+  static const presentationChartDuotone =
+      PhosphorIconsDuotone.presentationChart;
 
   /// Shortcut for [PhosphorIconsRegular.printer]. [PT] Atalho para [PhosphorIconsRegular.printer].
   static const IconData printer = PhosphorIconsRegular.printer;
@@ -20307,7 +21386,8 @@ class PhosphorIcons {
   static const IconData projectorScreenThin = PhosphorIconsThin.projectorScreen;
 
   /// Shortcut for [PhosphorIconsLight.projectorScreen]. [PT] Atalho para [PhosphorIconsLight.projectorScreen].
-  static const IconData projectorScreenLight = PhosphorIconsLight.projectorScreen;
+  static const IconData projectorScreenLight =
+      PhosphorIconsLight.projectorScreen;
 
   /// Shortcut for [PhosphorIconsBold.projectorScreen]. [PT] Atalho para [PhosphorIconsBold.projectorScreen].
   static const IconData projectorScreenBold = PhosphorIconsBold.projectorScreen;
@@ -20319,22 +21399,28 @@ class PhosphorIcons {
   static const projectorScreenDuotone = PhosphorIconsDuotone.projectorScreen;
 
   /// Shortcut for [PhosphorIconsRegular.projectorScreenChart]. [PT] Atalho para [PhosphorIconsRegular.projectorScreenChart].
-  static const IconData projectorScreenChart = PhosphorIconsRegular.projectorScreenChart;
+  static const IconData projectorScreenChart =
+      PhosphorIconsRegular.projectorScreenChart;
 
   /// Shortcut for [PhosphorIconsThin.projectorScreenChart]. [PT] Atalho para [PhosphorIconsThin.projectorScreenChart].
-  static const IconData projectorScreenChartThin = PhosphorIconsThin.projectorScreenChart;
+  static const IconData projectorScreenChartThin =
+      PhosphorIconsThin.projectorScreenChart;
 
   /// Shortcut for [PhosphorIconsLight.projectorScreenChart]. [PT] Atalho para [PhosphorIconsLight.projectorScreenChart].
-  static const IconData projectorScreenChartLight = PhosphorIconsLight.projectorScreenChart;
+  static const IconData projectorScreenChartLight =
+      PhosphorIconsLight.projectorScreenChart;
 
   /// Shortcut for [PhosphorIconsBold.projectorScreenChart]. [PT] Atalho para [PhosphorIconsBold.projectorScreenChart].
-  static const IconData projectorScreenChartBold = PhosphorIconsBold.projectorScreenChart;
+  static const IconData projectorScreenChartBold =
+      PhosphorIconsBold.projectorScreenChart;
 
   /// Shortcut for [PhosphorIconsFill.projectorScreenChart]. [PT] Atalho para [PhosphorIconsFill.projectorScreenChart].
-  static const IconData projectorScreenChartFill = PhosphorIconsFill.projectorScreenChart;
+  static const IconData projectorScreenChartFill =
+      PhosphorIconsFill.projectorScreenChart;
 
   /// Shortcut for [PhosphorIconsDuotone.projectorScreenChart]. [PT] Atalho para [PhosphorIconsDuotone.projectorScreenChart].
-  static const projectorScreenChartDuotone = PhosphorIconsDuotone.projectorScreenChart;
+  static const projectorScreenChartDuotone =
+      PhosphorIconsDuotone.projectorScreenChart;
 
   /// Shortcut for [PhosphorIconsRegular.pulse]. [PT] Atalho para [PhosphorIconsRegular.pulse].
   static const IconData pulse = PhosphorIconsRegular.pulse;
@@ -20391,22 +21477,28 @@ class PhosphorIcons {
   static const pushPinSimpleDuotone = PhosphorIconsDuotone.pushPinSimple;
 
   /// Shortcut for [PhosphorIconsRegular.pushPinSimpleSlash]. [PT] Atalho para [PhosphorIconsRegular.pushPinSimpleSlash].
-  static const IconData pushPinSimpleSlash = PhosphorIconsRegular.pushPinSimpleSlash;
+  static const IconData pushPinSimpleSlash =
+      PhosphorIconsRegular.pushPinSimpleSlash;
 
   /// Shortcut for [PhosphorIconsThin.pushPinSimpleSlash]. [PT] Atalho para [PhosphorIconsThin.pushPinSimpleSlash].
-  static const IconData pushPinSimpleSlashThin = PhosphorIconsThin.pushPinSimpleSlash;
+  static const IconData pushPinSimpleSlashThin =
+      PhosphorIconsThin.pushPinSimpleSlash;
 
   /// Shortcut for [PhosphorIconsLight.pushPinSimpleSlash]. [PT] Atalho para [PhosphorIconsLight.pushPinSimpleSlash].
-  static const IconData pushPinSimpleSlashLight = PhosphorIconsLight.pushPinSimpleSlash;
+  static const IconData pushPinSimpleSlashLight =
+      PhosphorIconsLight.pushPinSimpleSlash;
 
   /// Shortcut for [PhosphorIconsBold.pushPinSimpleSlash]. [PT] Atalho para [PhosphorIconsBold.pushPinSimpleSlash].
-  static const IconData pushPinSimpleSlashBold = PhosphorIconsBold.pushPinSimpleSlash;
+  static const IconData pushPinSimpleSlashBold =
+      PhosphorIconsBold.pushPinSimpleSlash;
 
   /// Shortcut for [PhosphorIconsFill.pushPinSimpleSlash]. [PT] Atalho para [PhosphorIconsFill.pushPinSimpleSlash].
-  static const IconData pushPinSimpleSlashFill = PhosphorIconsFill.pushPinSimpleSlash;
+  static const IconData pushPinSimpleSlashFill =
+      PhosphorIconsFill.pushPinSimpleSlash;
 
   /// Shortcut for [PhosphorIconsDuotone.pushPinSimpleSlash]. [PT] Atalho para [PhosphorIconsDuotone.pushPinSimpleSlash].
-  static const pushPinSimpleSlashDuotone = PhosphorIconsDuotone.pushPinSimpleSlash;
+  static const pushPinSimpleSlashDuotone =
+      PhosphorIconsDuotone.pushPinSimpleSlash;
 
   /// Shortcut for [PhosphorIconsRegular.pushPinSlash]. [PT] Atalho para [PhosphorIconsRegular.pushPinSlash].
   static const IconData pushPinSlash = PhosphorIconsRegular.pushPinSlash;
@@ -20793,7 +21885,8 @@ class PhosphorIcons {
   static const IconData rectangleDashedThin = PhosphorIconsThin.rectangleDashed;
 
   /// Shortcut for [PhosphorIconsLight.rectangleDashed]. [PT] Atalho para [PhosphorIconsLight.rectangleDashed].
-  static const IconData rectangleDashedLight = PhosphorIconsLight.rectangleDashed;
+  static const IconData rectangleDashedLight =
+      PhosphorIconsLight.rectangleDashed;
 
   /// Shortcut for [PhosphorIconsBold.rectangleDashed]. [PT] Atalho para [PhosphorIconsBold.rectangleDashed].
   static const IconData rectangleDashedBold = PhosphorIconsBold.rectangleDashed;
@@ -21525,55 +22618,72 @@ class PhosphorIcons {
   static const selectionAllDuotone = PhosphorIconsDuotone.selectionAll;
 
   /// Shortcut for [PhosphorIconsRegular.selectionBackground]. [PT] Atalho para [PhosphorIconsRegular.selectionBackground].
-  static const IconData selectionBackground = PhosphorIconsRegular.selectionBackground;
+  static const IconData selectionBackground =
+      PhosphorIconsRegular.selectionBackground;
 
   /// Shortcut for [PhosphorIconsThin.selectionBackground]. [PT] Atalho para [PhosphorIconsThin.selectionBackground].
-  static const IconData selectionBackgroundThin = PhosphorIconsThin.selectionBackground;
+  static const IconData selectionBackgroundThin =
+      PhosphorIconsThin.selectionBackground;
 
   /// Shortcut for [PhosphorIconsLight.selectionBackground]. [PT] Atalho para [PhosphorIconsLight.selectionBackground].
-  static const IconData selectionBackgroundLight = PhosphorIconsLight.selectionBackground;
+  static const IconData selectionBackgroundLight =
+      PhosphorIconsLight.selectionBackground;
 
   /// Shortcut for [PhosphorIconsBold.selectionBackground]. [PT] Atalho para [PhosphorIconsBold.selectionBackground].
-  static const IconData selectionBackgroundBold = PhosphorIconsBold.selectionBackground;
+  static const IconData selectionBackgroundBold =
+      PhosphorIconsBold.selectionBackground;
 
   /// Shortcut for [PhosphorIconsFill.selectionBackground]. [PT] Atalho para [PhosphorIconsFill.selectionBackground].
-  static const IconData selectionBackgroundFill = PhosphorIconsFill.selectionBackground;
+  static const IconData selectionBackgroundFill =
+      PhosphorIconsFill.selectionBackground;
 
   /// Shortcut for [PhosphorIconsDuotone.selectionBackground]. [PT] Atalho para [PhosphorIconsDuotone.selectionBackground].
-  static const selectionBackgroundDuotone = PhosphorIconsDuotone.selectionBackground;
+  static const selectionBackgroundDuotone =
+      PhosphorIconsDuotone.selectionBackground;
 
   /// Shortcut for [PhosphorIconsRegular.selectionForeground]. [PT] Atalho para [PhosphorIconsRegular.selectionForeground].
-  static const IconData selectionForeground = PhosphorIconsRegular.selectionForeground;
+  static const IconData selectionForeground =
+      PhosphorIconsRegular.selectionForeground;
 
   /// Shortcut for [PhosphorIconsThin.selectionForeground]. [PT] Atalho para [PhosphorIconsThin.selectionForeground].
-  static const IconData selectionForegroundThin = PhosphorIconsThin.selectionForeground;
+  static const IconData selectionForegroundThin =
+      PhosphorIconsThin.selectionForeground;
 
   /// Shortcut for [PhosphorIconsLight.selectionForeground]. [PT] Atalho para [PhosphorIconsLight.selectionForeground].
-  static const IconData selectionForegroundLight = PhosphorIconsLight.selectionForeground;
+  static const IconData selectionForegroundLight =
+      PhosphorIconsLight.selectionForeground;
 
   /// Shortcut for [PhosphorIconsBold.selectionForeground]. [PT] Atalho para [PhosphorIconsBold.selectionForeground].
-  static const IconData selectionForegroundBold = PhosphorIconsBold.selectionForeground;
+  static const IconData selectionForegroundBold =
+      PhosphorIconsBold.selectionForeground;
 
   /// Shortcut for [PhosphorIconsFill.selectionForeground]. [PT] Atalho para [PhosphorIconsFill.selectionForeground].
-  static const IconData selectionForegroundFill = PhosphorIconsFill.selectionForeground;
+  static const IconData selectionForegroundFill =
+      PhosphorIconsFill.selectionForeground;
 
   /// Shortcut for [PhosphorIconsDuotone.selectionForeground]. [PT] Atalho para [PhosphorIconsDuotone.selectionForeground].
-  static const selectionForegroundDuotone = PhosphorIconsDuotone.selectionForeground;
+  static const selectionForegroundDuotone =
+      PhosphorIconsDuotone.selectionForeground;
 
   /// Shortcut for [PhosphorIconsRegular.selectionInverse]. [PT] Atalho para [PhosphorIconsRegular.selectionInverse].
-  static const IconData selectionInverse = PhosphorIconsRegular.selectionInverse;
+  static const IconData selectionInverse =
+      PhosphorIconsRegular.selectionInverse;
 
   /// Shortcut for [PhosphorIconsThin.selectionInverse]. [PT] Atalho para [PhosphorIconsThin.selectionInverse].
-  static const IconData selectionInverseThin = PhosphorIconsThin.selectionInverse;
+  static const IconData selectionInverseThin =
+      PhosphorIconsThin.selectionInverse;
 
   /// Shortcut for [PhosphorIconsLight.selectionInverse]. [PT] Atalho para [PhosphorIconsLight.selectionInverse].
-  static const IconData selectionInverseLight = PhosphorIconsLight.selectionInverse;
+  static const IconData selectionInverseLight =
+      PhosphorIconsLight.selectionInverse;
 
   /// Shortcut for [PhosphorIconsBold.selectionInverse]. [PT] Atalho para [PhosphorIconsBold.selectionInverse].
-  static const IconData selectionInverseBold = PhosphorIconsBold.selectionInverse;
+  static const IconData selectionInverseBold =
+      PhosphorIconsBold.selectionInverse;
 
   /// Shortcut for [PhosphorIconsFill.selectionInverse]. [PT] Atalho para [PhosphorIconsFill.selectionInverse].
-  static const IconData selectionInverseFill = PhosphorIconsFill.selectionInverse;
+  static const IconData selectionInverseFill =
+      PhosphorIconsFill.selectionInverse;
 
   /// Shortcut for [PhosphorIconsDuotone.selectionInverse]. [PT] Atalho para [PhosphorIconsDuotone.selectionInverse].
   static const selectionInverseDuotone = PhosphorIconsDuotone.selectionInverse;
@@ -21729,7 +22839,8 @@ class PhosphorIcons {
   static const IconData shieldCheckeredThin = PhosphorIconsThin.shieldCheckered;
 
   /// Shortcut for [PhosphorIconsLight.shieldCheckered]. [PT] Atalho para [PhosphorIconsLight.shieldCheckered].
-  static const IconData shieldCheckeredLight = PhosphorIconsLight.shieldCheckered;
+  static const IconData shieldCheckeredLight =
+      PhosphorIconsLight.shieldCheckered;
 
   /// Shortcut for [PhosphorIconsBold.shieldCheckered]. [PT] Atalho para [PhosphorIconsBold.shieldCheckered].
   static const IconData shieldCheckeredBold = PhosphorIconsBold.shieldCheckered;
@@ -21831,22 +22942,28 @@ class PhosphorIcons {
   static const shieldWarningDuotone = PhosphorIconsDuotone.shieldWarning;
 
   /// Shortcut for [PhosphorIconsRegular.shippingContainer]. [PT] Atalho para [PhosphorIconsRegular.shippingContainer].
-  static const IconData shippingContainer = PhosphorIconsRegular.shippingContainer;
+  static const IconData shippingContainer =
+      PhosphorIconsRegular.shippingContainer;
 
   /// Shortcut for [PhosphorIconsThin.shippingContainer]. [PT] Atalho para [PhosphorIconsThin.shippingContainer].
-  static const IconData shippingContainerThin = PhosphorIconsThin.shippingContainer;
+  static const IconData shippingContainerThin =
+      PhosphorIconsThin.shippingContainer;
 
   /// Shortcut for [PhosphorIconsLight.shippingContainer]. [PT] Atalho para [PhosphorIconsLight.shippingContainer].
-  static const IconData shippingContainerLight = PhosphorIconsLight.shippingContainer;
+  static const IconData shippingContainerLight =
+      PhosphorIconsLight.shippingContainer;
 
   /// Shortcut for [PhosphorIconsBold.shippingContainer]. [PT] Atalho para [PhosphorIconsBold.shippingContainer].
-  static const IconData shippingContainerBold = PhosphorIconsBold.shippingContainer;
+  static const IconData shippingContainerBold =
+      PhosphorIconsBold.shippingContainer;
 
   /// Shortcut for [PhosphorIconsFill.shippingContainer]. [PT] Atalho para [PhosphorIconsFill.shippingContainer].
-  static const IconData shippingContainerFill = PhosphorIconsFill.shippingContainer;
+  static const IconData shippingContainerFill =
+      PhosphorIconsFill.shippingContainer;
 
   /// Shortcut for [PhosphorIconsDuotone.shippingContainer]. [PT] Atalho para [PhosphorIconsDuotone.shippingContainer].
-  static const shippingContainerDuotone = PhosphorIconsDuotone.shippingContainer;
+  static const shippingContainerDuotone =
+      PhosphorIconsDuotone.shippingContainer;
 
   /// Shortcut for [PhosphorIconsRegular.shirtFolded]. [PT] Atalho para [PhosphorIconsRegular.shirtFolded].
   static const IconData shirtFolded = PhosphorIconsRegular.shirtFolded;
@@ -21909,7 +23026,8 @@ class PhosphorIcons {
   static const IconData shoppingBagOpenThin = PhosphorIconsThin.shoppingBagOpen;
 
   /// Shortcut for [PhosphorIconsLight.shoppingBagOpen]. [PT] Atalho para [PhosphorIconsLight.shoppingBagOpen].
-  static const IconData shoppingBagOpenLight = PhosphorIconsLight.shoppingBagOpen;
+  static const IconData shoppingBagOpenLight =
+      PhosphorIconsLight.shoppingBagOpen;
 
   /// Shortcut for [PhosphorIconsBold.shoppingBagOpen]. [PT] Atalho para [PhosphorIconsBold.shoppingBagOpen].
   static const IconData shoppingBagOpenBold = PhosphorIconsBold.shoppingBagOpen;
@@ -21939,22 +23057,28 @@ class PhosphorIcons {
   static const shoppingCartDuotone = PhosphorIconsDuotone.shoppingCart;
 
   /// Shortcut for [PhosphorIconsRegular.shoppingCartSimple]. [PT] Atalho para [PhosphorIconsRegular.shoppingCartSimple].
-  static const IconData shoppingCartSimple = PhosphorIconsRegular.shoppingCartSimple;
+  static const IconData shoppingCartSimple =
+      PhosphorIconsRegular.shoppingCartSimple;
 
   /// Shortcut for [PhosphorIconsThin.shoppingCartSimple]. [PT] Atalho para [PhosphorIconsThin.shoppingCartSimple].
-  static const IconData shoppingCartSimpleThin = PhosphorIconsThin.shoppingCartSimple;
+  static const IconData shoppingCartSimpleThin =
+      PhosphorIconsThin.shoppingCartSimple;
 
   /// Shortcut for [PhosphorIconsLight.shoppingCartSimple]. [PT] Atalho para [PhosphorIconsLight.shoppingCartSimple].
-  static const IconData shoppingCartSimpleLight = PhosphorIconsLight.shoppingCartSimple;
+  static const IconData shoppingCartSimpleLight =
+      PhosphorIconsLight.shoppingCartSimple;
 
   /// Shortcut for [PhosphorIconsBold.shoppingCartSimple]. [PT] Atalho para [PhosphorIconsBold.shoppingCartSimple].
-  static const IconData shoppingCartSimpleBold = PhosphorIconsBold.shoppingCartSimple;
+  static const IconData shoppingCartSimpleBold =
+      PhosphorIconsBold.shoppingCartSimple;
 
   /// Shortcut for [PhosphorIconsFill.shoppingCartSimple]. [PT] Atalho para [PhosphorIconsFill.shoppingCartSimple].
-  static const IconData shoppingCartSimpleFill = PhosphorIconsFill.shoppingCartSimple;
+  static const IconData shoppingCartSimpleFill =
+      PhosphorIconsFill.shoppingCartSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.shoppingCartSimple]. [PT] Atalho para [PhosphorIconsDuotone.shoppingCartSimple].
-  static const shoppingCartSimpleDuotone = PhosphorIconsDuotone.shoppingCartSimple;
+  static const shoppingCartSimpleDuotone =
+      PhosphorIconsDuotone.shoppingCartSimple;
 
   /// Shortcut for [PhosphorIconsRegular.shovel]. [PT] Atalho para [PhosphorIconsRegular.shovel].
   static const IconData shovel = PhosphorIconsRegular.shovel;
@@ -22299,22 +23423,28 @@ class PhosphorIcons {
   static const skipForwardDuotone = PhosphorIconsDuotone.skipForward;
 
   /// Shortcut for [PhosphorIconsRegular.skipForwardCircle]. [PT] Atalho para [PhosphorIconsRegular.skipForwardCircle].
-  static const IconData skipForwardCircle = PhosphorIconsRegular.skipForwardCircle;
+  static const IconData skipForwardCircle =
+      PhosphorIconsRegular.skipForwardCircle;
 
   /// Shortcut for [PhosphorIconsThin.skipForwardCircle]. [PT] Atalho para [PhosphorIconsThin.skipForwardCircle].
-  static const IconData skipForwardCircleThin = PhosphorIconsThin.skipForwardCircle;
+  static const IconData skipForwardCircleThin =
+      PhosphorIconsThin.skipForwardCircle;
 
   /// Shortcut for [PhosphorIconsLight.skipForwardCircle]. [PT] Atalho para [PhosphorIconsLight.skipForwardCircle].
-  static const IconData skipForwardCircleLight = PhosphorIconsLight.skipForwardCircle;
+  static const IconData skipForwardCircleLight =
+      PhosphorIconsLight.skipForwardCircle;
 
   /// Shortcut for [PhosphorIconsBold.skipForwardCircle]. [PT] Atalho para [PhosphorIconsBold.skipForwardCircle].
-  static const IconData skipForwardCircleBold = PhosphorIconsBold.skipForwardCircle;
+  static const IconData skipForwardCircleBold =
+      PhosphorIconsBold.skipForwardCircle;
 
   /// Shortcut for [PhosphorIconsFill.skipForwardCircle]. [PT] Atalho para [PhosphorIconsFill.skipForwardCircle].
-  static const IconData skipForwardCircleFill = PhosphorIconsFill.skipForwardCircle;
+  static const IconData skipForwardCircleFill =
+      PhosphorIconsFill.skipForwardCircle;
 
   /// Shortcut for [PhosphorIconsDuotone.skipForwardCircle]. [PT] Atalho para [PhosphorIconsDuotone.skipForwardCircle].
-  static const skipForwardCircleDuotone = PhosphorIconsDuotone.skipForwardCircle;
+  static const skipForwardCircleDuotone =
+      PhosphorIconsDuotone.skipForwardCircle;
 
   /// Shortcut for [PhosphorIconsRegular.skull]. [PT] Atalho para [PhosphorIconsRegular.skull].
   static const IconData skull = PhosphorIconsRegular.skull;
@@ -22389,22 +23519,28 @@ class PhosphorIcons {
   static const slidersDuotone = PhosphorIconsDuotone.sliders;
 
   /// Shortcut for [PhosphorIconsRegular.slidersHorizontal]. [PT] Atalho para [PhosphorIconsRegular.slidersHorizontal].
-  static const IconData slidersHorizontal = PhosphorIconsRegular.slidersHorizontal;
+  static const IconData slidersHorizontal =
+      PhosphorIconsRegular.slidersHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.slidersHorizontal]. [PT] Atalho para [PhosphorIconsThin.slidersHorizontal].
-  static const IconData slidersHorizontalThin = PhosphorIconsThin.slidersHorizontal;
+  static const IconData slidersHorizontalThin =
+      PhosphorIconsThin.slidersHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.slidersHorizontal]. [PT] Atalho para [PhosphorIconsLight.slidersHorizontal].
-  static const IconData slidersHorizontalLight = PhosphorIconsLight.slidersHorizontal;
+  static const IconData slidersHorizontalLight =
+      PhosphorIconsLight.slidersHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.slidersHorizontal]. [PT] Atalho para [PhosphorIconsBold.slidersHorizontal].
-  static const IconData slidersHorizontalBold = PhosphorIconsBold.slidersHorizontal;
+  static const IconData slidersHorizontalBold =
+      PhosphorIconsBold.slidersHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.slidersHorizontal]. [PT] Atalho para [PhosphorIconsFill.slidersHorizontal].
-  static const IconData slidersHorizontalFill = PhosphorIconsFill.slidersHorizontal;
+  static const IconData slidersHorizontalFill =
+      PhosphorIconsFill.slidersHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.slidersHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.slidersHorizontal].
-  static const slidersHorizontalDuotone = PhosphorIconsDuotone.slidersHorizontal;
+  static const slidersHorizontalDuotone =
+      PhosphorIconsDuotone.slidersHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.slideshow]. [PT] Atalho para [PhosphorIconsRegular.slideshow].
   static const IconData slideshow = PhosphorIconsRegular.slideshow;
@@ -22911,76 +24047,99 @@ class PhosphorIcons {
   static const speakerNoneDuotone = PhosphorIconsDuotone.speakerNone;
 
   /// Shortcut for [PhosphorIconsRegular.speakerSimpleHigh]. [PT] Atalho para [PhosphorIconsRegular.speakerSimpleHigh].
-  static const IconData speakerSimpleHigh = PhosphorIconsRegular.speakerSimpleHigh;
+  static const IconData speakerSimpleHigh =
+      PhosphorIconsRegular.speakerSimpleHigh;
 
   /// Shortcut for [PhosphorIconsThin.speakerSimpleHigh]. [PT] Atalho para [PhosphorIconsThin.speakerSimpleHigh].
-  static const IconData speakerSimpleHighThin = PhosphorIconsThin.speakerSimpleHigh;
+  static const IconData speakerSimpleHighThin =
+      PhosphorIconsThin.speakerSimpleHigh;
 
   /// Shortcut for [PhosphorIconsLight.speakerSimpleHigh]. [PT] Atalho para [PhosphorIconsLight.speakerSimpleHigh].
-  static const IconData speakerSimpleHighLight = PhosphorIconsLight.speakerSimpleHigh;
+  static const IconData speakerSimpleHighLight =
+      PhosphorIconsLight.speakerSimpleHigh;
 
   /// Shortcut for [PhosphorIconsBold.speakerSimpleHigh]. [PT] Atalho para [PhosphorIconsBold.speakerSimpleHigh].
-  static const IconData speakerSimpleHighBold = PhosphorIconsBold.speakerSimpleHigh;
+  static const IconData speakerSimpleHighBold =
+      PhosphorIconsBold.speakerSimpleHigh;
 
   /// Shortcut for [PhosphorIconsFill.speakerSimpleHigh]. [PT] Atalho para [PhosphorIconsFill.speakerSimpleHigh].
-  static const IconData speakerSimpleHighFill = PhosphorIconsFill.speakerSimpleHigh;
+  static const IconData speakerSimpleHighFill =
+      PhosphorIconsFill.speakerSimpleHigh;
 
   /// Shortcut for [PhosphorIconsDuotone.speakerSimpleHigh]. [PT] Atalho para [PhosphorIconsDuotone.speakerSimpleHigh].
-  static const speakerSimpleHighDuotone = PhosphorIconsDuotone.speakerSimpleHigh;
+  static const speakerSimpleHighDuotone =
+      PhosphorIconsDuotone.speakerSimpleHigh;
 
   /// Shortcut for [PhosphorIconsRegular.speakerSimpleLow]. [PT] Atalho para [PhosphorIconsRegular.speakerSimpleLow].
-  static const IconData speakerSimpleLow = PhosphorIconsRegular.speakerSimpleLow;
+  static const IconData speakerSimpleLow =
+      PhosphorIconsRegular.speakerSimpleLow;
 
   /// Shortcut for [PhosphorIconsThin.speakerSimpleLow]. [PT] Atalho para [PhosphorIconsThin.speakerSimpleLow].
-  static const IconData speakerSimpleLowThin = PhosphorIconsThin.speakerSimpleLow;
+  static const IconData speakerSimpleLowThin =
+      PhosphorIconsThin.speakerSimpleLow;
 
   /// Shortcut for [PhosphorIconsLight.speakerSimpleLow]. [PT] Atalho para [PhosphorIconsLight.speakerSimpleLow].
-  static const IconData speakerSimpleLowLight = PhosphorIconsLight.speakerSimpleLow;
+  static const IconData speakerSimpleLowLight =
+      PhosphorIconsLight.speakerSimpleLow;
 
   /// Shortcut for [PhosphorIconsBold.speakerSimpleLow]. [PT] Atalho para [PhosphorIconsBold.speakerSimpleLow].
-  static const IconData speakerSimpleLowBold = PhosphorIconsBold.speakerSimpleLow;
+  static const IconData speakerSimpleLowBold =
+      PhosphorIconsBold.speakerSimpleLow;
 
   /// Shortcut for [PhosphorIconsFill.speakerSimpleLow]. [PT] Atalho para [PhosphorIconsFill.speakerSimpleLow].
-  static const IconData speakerSimpleLowFill = PhosphorIconsFill.speakerSimpleLow;
+  static const IconData speakerSimpleLowFill =
+      PhosphorIconsFill.speakerSimpleLow;
 
   /// Shortcut for [PhosphorIconsDuotone.speakerSimpleLow]. [PT] Atalho para [PhosphorIconsDuotone.speakerSimpleLow].
   static const speakerSimpleLowDuotone = PhosphorIconsDuotone.speakerSimpleLow;
 
   /// Shortcut for [PhosphorIconsRegular.speakerSimpleNone]. [PT] Atalho para [PhosphorIconsRegular.speakerSimpleNone].
-  static const IconData speakerSimpleNone = PhosphorIconsRegular.speakerSimpleNone;
+  static const IconData speakerSimpleNone =
+      PhosphorIconsRegular.speakerSimpleNone;
 
   /// Shortcut for [PhosphorIconsThin.speakerSimpleNone]. [PT] Atalho para [PhosphorIconsThin.speakerSimpleNone].
-  static const IconData speakerSimpleNoneThin = PhosphorIconsThin.speakerSimpleNone;
+  static const IconData speakerSimpleNoneThin =
+      PhosphorIconsThin.speakerSimpleNone;
 
   /// Shortcut for [PhosphorIconsLight.speakerSimpleNone]. [PT] Atalho para [PhosphorIconsLight.speakerSimpleNone].
-  static const IconData speakerSimpleNoneLight = PhosphorIconsLight.speakerSimpleNone;
+  static const IconData speakerSimpleNoneLight =
+      PhosphorIconsLight.speakerSimpleNone;
 
   /// Shortcut for [PhosphorIconsBold.speakerSimpleNone]. [PT] Atalho para [PhosphorIconsBold.speakerSimpleNone].
-  static const IconData speakerSimpleNoneBold = PhosphorIconsBold.speakerSimpleNone;
+  static const IconData speakerSimpleNoneBold =
+      PhosphorIconsBold.speakerSimpleNone;
 
   /// Shortcut for [PhosphorIconsFill.speakerSimpleNone]. [PT] Atalho para [PhosphorIconsFill.speakerSimpleNone].
-  static const IconData speakerSimpleNoneFill = PhosphorIconsFill.speakerSimpleNone;
+  static const IconData speakerSimpleNoneFill =
+      PhosphorIconsFill.speakerSimpleNone;
 
   /// Shortcut for [PhosphorIconsDuotone.speakerSimpleNone]. [PT] Atalho para [PhosphorIconsDuotone.speakerSimpleNone].
-  static const speakerSimpleNoneDuotone = PhosphorIconsDuotone.speakerSimpleNone;
+  static const speakerSimpleNoneDuotone =
+      PhosphorIconsDuotone.speakerSimpleNone;
 
   /// Shortcut for [PhosphorIconsRegular.speakerSimpleSlash]. [PT] Atalho para [PhosphorIconsRegular.speakerSimpleSlash].
-  static const IconData speakerSimpleSlash = PhosphorIconsRegular.speakerSimpleSlash;
+  static const IconData speakerSimpleSlash =
+      PhosphorIconsRegular.speakerSimpleSlash;
 
   /// Shortcut for [PhosphorIconsThin.speakerSimpleSlash]. [PT] Atalho para [PhosphorIconsThin.speakerSimpleSlash].
-  static const IconData speakerSimpleSlashThin = PhosphorIconsThin.speakerSimpleSlash;
+  static const IconData speakerSimpleSlashThin =
+      PhosphorIconsThin.speakerSimpleSlash;
 
   /// Shortcut for [PhosphorIconsLight.speakerSimpleSlash]. [PT] Atalho para [PhosphorIconsLight.speakerSimpleSlash].
-  static const IconData speakerSimpleSlashLight = PhosphorIconsLight.speakerSimpleSlash;
+  static const IconData speakerSimpleSlashLight =
+      PhosphorIconsLight.speakerSimpleSlash;
 
   /// Shortcut for [PhosphorIconsBold.speakerSimpleSlash]. [PT] Atalho para [PhosphorIconsBold.speakerSimpleSlash].
-  static const IconData speakerSimpleSlashBold = PhosphorIconsBold.speakerSimpleSlash;
+  static const IconData speakerSimpleSlashBold =
+      PhosphorIconsBold.speakerSimpleSlash;
 
   /// Shortcut for [PhosphorIconsFill.speakerSimpleSlash]. [PT] Atalho para [PhosphorIconsFill.speakerSimpleSlash].
-  static const IconData speakerSimpleSlashFill = PhosphorIconsFill.speakerSimpleSlash;
+  static const IconData speakerSimpleSlashFill =
+      PhosphorIconsFill.speakerSimpleSlash;
 
   /// Shortcut for [PhosphorIconsDuotone.speakerSimpleSlash]. [PT] Atalho para [PhosphorIconsDuotone.speakerSimpleSlash].
-  static const speakerSimpleSlashDuotone = PhosphorIconsDuotone.speakerSimpleSlash;
+  static const speakerSimpleSlashDuotone =
+      PhosphorIconsDuotone.speakerSimpleSlash;
 
   /// Shortcut for [PhosphorIconsRegular.speakerSimpleX]. [PT] Atalho para [PhosphorIconsRegular.speakerSimpleX].
   static const IconData speakerSimpleX = PhosphorIconsRegular.speakerSimpleX;
@@ -23151,7 +24310,8 @@ class PhosphorIcons {
   static const IconData splitHorizontalThin = PhosphorIconsThin.splitHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.splitHorizontal]. [PT] Atalho para [PhosphorIconsLight.splitHorizontal].
-  static const IconData splitHorizontalLight = PhosphorIconsLight.splitHorizontal;
+  static const IconData splitHorizontalLight =
+      PhosphorIconsLight.splitHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.splitHorizontal]. [PT] Atalho para [PhosphorIconsBold.splitHorizontal].
   static const IconData splitHorizontalBold = PhosphorIconsBold.splitHorizontal;
@@ -23253,19 +24413,24 @@ class PhosphorIcons {
   static const squareHalfDuotone = PhosphorIconsDuotone.squareHalf;
 
   /// Shortcut for [PhosphorIconsRegular.squareHalfBottom]. [PT] Atalho para [PhosphorIconsRegular.squareHalfBottom].
-  static const IconData squareHalfBottom = PhosphorIconsRegular.squareHalfBottom;
+  static const IconData squareHalfBottom =
+      PhosphorIconsRegular.squareHalfBottom;
 
   /// Shortcut for [PhosphorIconsThin.squareHalfBottom]. [PT] Atalho para [PhosphorIconsThin.squareHalfBottom].
-  static const IconData squareHalfBottomThin = PhosphorIconsThin.squareHalfBottom;
+  static const IconData squareHalfBottomThin =
+      PhosphorIconsThin.squareHalfBottom;
 
   /// Shortcut for [PhosphorIconsLight.squareHalfBottom]. [PT] Atalho para [PhosphorIconsLight.squareHalfBottom].
-  static const IconData squareHalfBottomLight = PhosphorIconsLight.squareHalfBottom;
+  static const IconData squareHalfBottomLight =
+      PhosphorIconsLight.squareHalfBottom;
 
   /// Shortcut for [PhosphorIconsBold.squareHalfBottom]. [PT] Atalho para [PhosphorIconsBold.squareHalfBottom].
-  static const IconData squareHalfBottomBold = PhosphorIconsBold.squareHalfBottom;
+  static const IconData squareHalfBottomBold =
+      PhosphorIconsBold.squareHalfBottom;
 
   /// Shortcut for [PhosphorIconsFill.squareHalfBottom]. [PT] Atalho para [PhosphorIconsFill.squareHalfBottom].
-  static const IconData squareHalfBottomFill = PhosphorIconsFill.squareHalfBottom;
+  static const IconData squareHalfBottomFill =
+      PhosphorIconsFill.squareHalfBottom;
 
   /// Shortcut for [PhosphorIconsDuotone.squareHalfBottom]. [PT] Atalho para [PhosphorIconsDuotone.squareHalfBottom].
   static const squareHalfBottomDuotone = PhosphorIconsDuotone.squareHalfBottom;
@@ -23289,40 +24454,52 @@ class PhosphorIcons {
   static const squareLogoDuotone = PhosphorIconsDuotone.squareLogo;
 
   /// Shortcut for [PhosphorIconsRegular.squareSplitHorizontal]. [PT] Atalho para [PhosphorIconsRegular.squareSplitHorizontal].
-  static const IconData squareSplitHorizontal = PhosphorIconsRegular.squareSplitHorizontal;
+  static const IconData squareSplitHorizontal =
+      PhosphorIconsRegular.squareSplitHorizontal;
 
   /// Shortcut for [PhosphorIconsThin.squareSplitHorizontal]. [PT] Atalho para [PhosphorIconsThin.squareSplitHorizontal].
-  static const IconData squareSplitHorizontalThin = PhosphorIconsThin.squareSplitHorizontal;
+  static const IconData squareSplitHorizontalThin =
+      PhosphorIconsThin.squareSplitHorizontal;
 
   /// Shortcut for [PhosphorIconsLight.squareSplitHorizontal]. [PT] Atalho para [PhosphorIconsLight.squareSplitHorizontal].
-  static const IconData squareSplitHorizontalLight = PhosphorIconsLight.squareSplitHorizontal;
+  static const IconData squareSplitHorizontalLight =
+      PhosphorIconsLight.squareSplitHorizontal;
 
   /// Shortcut for [PhosphorIconsBold.squareSplitHorizontal]. [PT] Atalho para [PhosphorIconsBold.squareSplitHorizontal].
-  static const IconData squareSplitHorizontalBold = PhosphorIconsBold.squareSplitHorizontal;
+  static const IconData squareSplitHorizontalBold =
+      PhosphorIconsBold.squareSplitHorizontal;
 
   /// Shortcut for [PhosphorIconsFill.squareSplitHorizontal]. [PT] Atalho para [PhosphorIconsFill.squareSplitHorizontal].
-  static const IconData squareSplitHorizontalFill = PhosphorIconsFill.squareSplitHorizontal;
+  static const IconData squareSplitHorizontalFill =
+      PhosphorIconsFill.squareSplitHorizontal;
 
   /// Shortcut for [PhosphorIconsDuotone.squareSplitHorizontal]. [PT] Atalho para [PhosphorIconsDuotone.squareSplitHorizontal].
-  static const squareSplitHorizontalDuotone = PhosphorIconsDuotone.squareSplitHorizontal;
+  static const squareSplitHorizontalDuotone =
+      PhosphorIconsDuotone.squareSplitHorizontal;
 
   /// Shortcut for [PhosphorIconsRegular.squareSplitVertical]. [PT] Atalho para [PhosphorIconsRegular.squareSplitVertical].
-  static const IconData squareSplitVertical = PhosphorIconsRegular.squareSplitVertical;
+  static const IconData squareSplitVertical =
+      PhosphorIconsRegular.squareSplitVertical;
 
   /// Shortcut for [PhosphorIconsThin.squareSplitVertical]. [PT] Atalho para [PhosphorIconsThin.squareSplitVertical].
-  static const IconData squareSplitVerticalThin = PhosphorIconsThin.squareSplitVertical;
+  static const IconData squareSplitVerticalThin =
+      PhosphorIconsThin.squareSplitVertical;
 
   /// Shortcut for [PhosphorIconsLight.squareSplitVertical]. [PT] Atalho para [PhosphorIconsLight.squareSplitVertical].
-  static const IconData squareSplitVerticalLight = PhosphorIconsLight.squareSplitVertical;
+  static const IconData squareSplitVerticalLight =
+      PhosphorIconsLight.squareSplitVertical;
 
   /// Shortcut for [PhosphorIconsBold.squareSplitVertical]. [PT] Atalho para [PhosphorIconsBold.squareSplitVertical].
-  static const IconData squareSplitVerticalBold = PhosphorIconsBold.squareSplitVertical;
+  static const IconData squareSplitVerticalBold =
+      PhosphorIconsBold.squareSplitVertical;
 
   /// Shortcut for [PhosphorIconsFill.squareSplitVertical]. [PT] Atalho para [PhosphorIconsFill.squareSplitVertical].
-  static const IconData squareSplitVerticalFill = PhosphorIconsFill.squareSplitVertical;
+  static const IconData squareSplitVerticalFill =
+      PhosphorIconsFill.squareSplitVertical;
 
   /// Shortcut for [PhosphorIconsDuotone.squareSplitVertical]. [PT] Atalho para [PhosphorIconsDuotone.squareSplitVertical].
-  static const squareSplitVerticalDuotone = PhosphorIconsDuotone.squareSplitVertical;
+  static const squareSplitVerticalDuotone =
+      PhosphorIconsDuotone.squareSplitVertical;
 
   /// Shortcut for [PhosphorIconsRegular.squaresFour]. [PT] Atalho para [PhosphorIconsRegular.squaresFour].
   static const IconData squaresFour = PhosphorIconsRegular.squaresFour;
@@ -23379,22 +24556,28 @@ class PhosphorIcons {
   static const stackMinusDuotone = PhosphorIconsDuotone.stackMinus;
 
   /// Shortcut for [PhosphorIconsRegular.stackOverflowLogo]. [PT] Atalho para [PhosphorIconsRegular.stackOverflowLogo].
-  static const IconData stackOverflowLogo = PhosphorIconsRegular.stackOverflowLogo;
+  static const IconData stackOverflowLogo =
+      PhosphorIconsRegular.stackOverflowLogo;
 
   /// Shortcut for [PhosphorIconsThin.stackOverflowLogo]. [PT] Atalho para [PhosphorIconsThin.stackOverflowLogo].
-  static const IconData stackOverflowLogoThin = PhosphorIconsThin.stackOverflowLogo;
+  static const IconData stackOverflowLogoThin =
+      PhosphorIconsThin.stackOverflowLogo;
 
   /// Shortcut for [PhosphorIconsLight.stackOverflowLogo]. [PT] Atalho para [PhosphorIconsLight.stackOverflowLogo].
-  static const IconData stackOverflowLogoLight = PhosphorIconsLight.stackOverflowLogo;
+  static const IconData stackOverflowLogoLight =
+      PhosphorIconsLight.stackOverflowLogo;
 
   /// Shortcut for [PhosphorIconsBold.stackOverflowLogo]. [PT] Atalho para [PhosphorIconsBold.stackOverflowLogo].
-  static const IconData stackOverflowLogoBold = PhosphorIconsBold.stackOverflowLogo;
+  static const IconData stackOverflowLogoBold =
+      PhosphorIconsBold.stackOverflowLogo;
 
   /// Shortcut for [PhosphorIconsFill.stackOverflowLogo]. [PT] Atalho para [PhosphorIconsFill.stackOverflowLogo].
-  static const IconData stackOverflowLogoFill = PhosphorIconsFill.stackOverflowLogo;
+  static const IconData stackOverflowLogoFill =
+      PhosphorIconsFill.stackOverflowLogo;
 
   /// Shortcut for [PhosphorIconsDuotone.stackOverflowLogo]. [PT] Atalho para [PhosphorIconsDuotone.stackOverflowLogo].
-  static const stackOverflowLogoDuotone = PhosphorIconsDuotone.stackOverflowLogo;
+  static const stackOverflowLogoDuotone =
+      PhosphorIconsDuotone.stackOverflowLogo;
 
   /// Shortcut for [PhosphorIconsRegular.stackPlus]. [PT] Atalho para [PhosphorIconsRegular.stackPlus].
   static const IconData stackPlus = PhosphorIconsRegular.stackPlus;
@@ -23469,22 +24652,28 @@ class PhosphorIcons {
   static const stampDuotone = PhosphorIconsDuotone.stamp;
 
   /// Shortcut for [PhosphorIconsRegular.standardDefinition]. [PT] Atalho para [PhosphorIconsRegular.standardDefinition].
-  static const IconData standardDefinition = PhosphorIconsRegular.standardDefinition;
+  static const IconData standardDefinition =
+      PhosphorIconsRegular.standardDefinition;
 
   /// Shortcut for [PhosphorIconsThin.standardDefinition]. [PT] Atalho para [PhosphorIconsThin.standardDefinition].
-  static const IconData standardDefinitionThin = PhosphorIconsThin.standardDefinition;
+  static const IconData standardDefinitionThin =
+      PhosphorIconsThin.standardDefinition;
 
   /// Shortcut for [PhosphorIconsLight.standardDefinition]. [PT] Atalho para [PhosphorIconsLight.standardDefinition].
-  static const IconData standardDefinitionLight = PhosphorIconsLight.standardDefinition;
+  static const IconData standardDefinitionLight =
+      PhosphorIconsLight.standardDefinition;
 
   /// Shortcut for [PhosphorIconsBold.standardDefinition]. [PT] Atalho para [PhosphorIconsBold.standardDefinition].
-  static const IconData standardDefinitionBold = PhosphorIconsBold.standardDefinition;
+  static const IconData standardDefinitionBold =
+      PhosphorIconsBold.standardDefinition;
 
   /// Shortcut for [PhosphorIconsFill.standardDefinition]. [PT] Atalho para [PhosphorIconsFill.standardDefinition].
-  static const IconData standardDefinitionFill = PhosphorIconsFill.standardDefinition;
+  static const IconData standardDefinitionFill =
+      PhosphorIconsFill.standardDefinition;
 
   /// Shortcut for [PhosphorIconsDuotone.standardDefinition]. [PT] Atalho para [PhosphorIconsDuotone.standardDefinition].
-  static const standardDefinitionDuotone = PhosphorIconsDuotone.standardDefinition;
+  static const standardDefinitionDuotone =
+      PhosphorIconsDuotone.standardDefinition;
 
   /// Shortcut for [PhosphorIconsRegular.star]. [PT] Atalho para [PhosphorIconsRegular.star].
   static const IconData star = PhosphorIconsRegular.star;
@@ -23511,7 +24700,8 @@ class PhosphorIcons {
   static const IconData starAndCrescentThin = PhosphorIconsThin.starAndCrescent;
 
   /// Shortcut for [PhosphorIconsLight.starAndCrescent]. [PT] Atalho para [PhosphorIconsLight.starAndCrescent].
-  static const IconData starAndCrescentLight = PhosphorIconsLight.starAndCrescent;
+  static const IconData starAndCrescentLight =
+      PhosphorIconsLight.starAndCrescent;
 
   /// Shortcut for [PhosphorIconsBold.starAndCrescent]. [PT] Atalho para [PhosphorIconsBold.starAndCrescent].
   static const IconData starAndCrescentBold = PhosphorIconsBold.starAndCrescent;
@@ -23943,7 +25133,8 @@ class PhosphorIcons {
   static const IconData suitcaseRollingThin = PhosphorIconsThin.suitcaseRolling;
 
   /// Shortcut for [PhosphorIconsLight.suitcaseRolling]. [PT] Atalho para [PhosphorIconsLight.suitcaseRolling].
-  static const IconData suitcaseRollingLight = PhosphorIconsLight.suitcaseRolling;
+  static const IconData suitcaseRollingLight =
+      PhosphorIconsLight.suitcaseRolling;
 
   /// Shortcut for [PhosphorIconsBold.suitcaseRolling]. [PT] Atalho para [PhosphorIconsBold.suitcaseRolling].
   static const IconData suitcaseRollingBold = PhosphorIconsBold.suitcaseRolling;
@@ -24063,19 +25254,24 @@ class PhosphorIcons {
   static const supersetOfDuotone = PhosphorIconsDuotone.supersetOf;
 
   /// Shortcut for [PhosphorIconsRegular.supersetProperOf]. [PT] Atalho para [PhosphorIconsRegular.supersetProperOf].
-  static const IconData supersetProperOf = PhosphorIconsRegular.supersetProperOf;
+  static const IconData supersetProperOf =
+      PhosphorIconsRegular.supersetProperOf;
 
   /// Shortcut for [PhosphorIconsThin.supersetProperOf]. [PT] Atalho para [PhosphorIconsThin.supersetProperOf].
-  static const IconData supersetProperOfThin = PhosphorIconsThin.supersetProperOf;
+  static const IconData supersetProperOfThin =
+      PhosphorIconsThin.supersetProperOf;
 
   /// Shortcut for [PhosphorIconsLight.supersetProperOf]. [PT] Atalho para [PhosphorIconsLight.supersetProperOf].
-  static const IconData supersetProperOfLight = PhosphorIconsLight.supersetProperOf;
+  static const IconData supersetProperOfLight =
+      PhosphorIconsLight.supersetProperOf;
 
   /// Shortcut for [PhosphorIconsBold.supersetProperOf]. [PT] Atalho para [PhosphorIconsBold.supersetProperOf].
-  static const IconData supersetProperOfBold = PhosphorIconsBold.supersetProperOf;
+  static const IconData supersetProperOfBold =
+      PhosphorIconsBold.supersetProperOf;
 
   /// Shortcut for [PhosphorIconsFill.supersetProperOf]. [PT] Atalho para [PhosphorIconsFill.supersetProperOf].
-  static const IconData supersetProperOfFill = PhosphorIconsFill.supersetProperOf;
+  static const IconData supersetProperOfFill =
+      PhosphorIconsFill.supersetProperOf;
 
   /// Shortcut for [PhosphorIconsDuotone.supersetProperOf]. [PT] Atalho para [PhosphorIconsDuotone.supersetProperOf].
   static const supersetProperOfDuotone = PhosphorIconsDuotone.supersetProperOf;
@@ -24387,19 +25583,24 @@ class PhosphorIcons {
   static const televisionDuotone = PhosphorIconsDuotone.television;
 
   /// Shortcut for [PhosphorIconsRegular.televisionSimple]. [PT] Atalho para [PhosphorIconsRegular.televisionSimple].
-  static const IconData televisionSimple = PhosphorIconsRegular.televisionSimple;
+  static const IconData televisionSimple =
+      PhosphorIconsRegular.televisionSimple;
 
   /// Shortcut for [PhosphorIconsThin.televisionSimple]. [PT] Atalho para [PhosphorIconsThin.televisionSimple].
-  static const IconData televisionSimpleThin = PhosphorIconsThin.televisionSimple;
+  static const IconData televisionSimpleThin =
+      PhosphorIconsThin.televisionSimple;
 
   /// Shortcut for [PhosphorIconsLight.televisionSimple]. [PT] Atalho para [PhosphorIconsLight.televisionSimple].
-  static const IconData televisionSimpleLight = PhosphorIconsLight.televisionSimple;
+  static const IconData televisionSimpleLight =
+      PhosphorIconsLight.televisionSimple;
 
   /// Shortcut for [PhosphorIconsBold.televisionSimple]. [PT] Atalho para [PhosphorIconsBold.televisionSimple].
-  static const IconData televisionSimpleBold = PhosphorIconsBold.televisionSimple;
+  static const IconData televisionSimpleBold =
+      PhosphorIconsBold.televisionSimple;
 
   /// Shortcut for [PhosphorIconsFill.televisionSimple]. [PT] Atalho para [PhosphorIconsFill.televisionSimple].
-  static const IconData televisionSimpleFill = PhosphorIconsFill.televisionSimple;
+  static const IconData televisionSimpleFill =
+      PhosphorIconsFill.televisionSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.televisionSimple]. [PT] Atalho para [PhosphorIconsDuotone.televisionSimple].
   static const televisionSimpleDuotone = PhosphorIconsDuotone.televisionSimple;
@@ -24537,7 +25738,8 @@ class PhosphorIcons {
   static const IconData textAlignCenterThin = PhosphorIconsThin.textAlignCenter;
 
   /// Shortcut for [PhosphorIconsLight.textAlignCenter]. [PT] Atalho para [PhosphorIconsLight.textAlignCenter].
-  static const IconData textAlignCenterLight = PhosphorIconsLight.textAlignCenter;
+  static const IconData textAlignCenterLight =
+      PhosphorIconsLight.textAlignCenter;
 
   /// Shortcut for [PhosphorIconsBold.textAlignCenter]. [PT] Atalho para [PhosphorIconsBold.textAlignCenter].
   static const IconData textAlignCenterBold = PhosphorIconsBold.textAlignCenter;
@@ -24549,19 +25751,24 @@ class PhosphorIcons {
   static const textAlignCenterDuotone = PhosphorIconsDuotone.textAlignCenter;
 
   /// Shortcut for [PhosphorIconsRegular.textAlignJustify]. [PT] Atalho para [PhosphorIconsRegular.textAlignJustify].
-  static const IconData textAlignJustify = PhosphorIconsRegular.textAlignJustify;
+  static const IconData textAlignJustify =
+      PhosphorIconsRegular.textAlignJustify;
 
   /// Shortcut for [PhosphorIconsThin.textAlignJustify]. [PT] Atalho para [PhosphorIconsThin.textAlignJustify].
-  static const IconData textAlignJustifyThin = PhosphorIconsThin.textAlignJustify;
+  static const IconData textAlignJustifyThin =
+      PhosphorIconsThin.textAlignJustify;
 
   /// Shortcut for [PhosphorIconsLight.textAlignJustify]. [PT] Atalho para [PhosphorIconsLight.textAlignJustify].
-  static const IconData textAlignJustifyLight = PhosphorIconsLight.textAlignJustify;
+  static const IconData textAlignJustifyLight =
+      PhosphorIconsLight.textAlignJustify;
 
   /// Shortcut for [PhosphorIconsBold.textAlignJustify]. [PT] Atalho para [PhosphorIconsBold.textAlignJustify].
-  static const IconData textAlignJustifyBold = PhosphorIconsBold.textAlignJustify;
+  static const IconData textAlignJustifyBold =
+      PhosphorIconsBold.textAlignJustify;
 
   /// Shortcut for [PhosphorIconsFill.textAlignJustify]. [PT] Atalho para [PhosphorIconsFill.textAlignJustify].
-  static const IconData textAlignJustifyFill = PhosphorIconsFill.textAlignJustify;
+  static const IconData textAlignJustifyFill =
+      PhosphorIconsFill.textAlignJustify;
 
   /// Shortcut for [PhosphorIconsDuotone.textAlignJustify]. [PT] Atalho para [PhosphorIconsDuotone.textAlignJustify].
   static const textAlignJustifyDuotone = PhosphorIconsDuotone.textAlignJustify;
@@ -24837,22 +26044,28 @@ class PhosphorIcons {
   static const textOutdentDuotone = PhosphorIconsDuotone.textOutdent;
 
   /// Shortcut for [PhosphorIconsRegular.textStrikethrough]. [PT] Atalho para [PhosphorIconsRegular.textStrikethrough].
-  static const IconData textStrikethrough = PhosphorIconsRegular.textStrikethrough;
+  static const IconData textStrikethrough =
+      PhosphorIconsRegular.textStrikethrough;
 
   /// Shortcut for [PhosphorIconsThin.textStrikethrough]. [PT] Atalho para [PhosphorIconsThin.textStrikethrough].
-  static const IconData textStrikethroughThin = PhosphorIconsThin.textStrikethrough;
+  static const IconData textStrikethroughThin =
+      PhosphorIconsThin.textStrikethrough;
 
   /// Shortcut for [PhosphorIconsLight.textStrikethrough]. [PT] Atalho para [PhosphorIconsLight.textStrikethrough].
-  static const IconData textStrikethroughLight = PhosphorIconsLight.textStrikethrough;
+  static const IconData textStrikethroughLight =
+      PhosphorIconsLight.textStrikethrough;
 
   /// Shortcut for [PhosphorIconsBold.textStrikethrough]. [PT] Atalho para [PhosphorIconsBold.textStrikethrough].
-  static const IconData textStrikethroughBold = PhosphorIconsBold.textStrikethrough;
+  static const IconData textStrikethroughBold =
+      PhosphorIconsBold.textStrikethrough;
 
   /// Shortcut for [PhosphorIconsFill.textStrikethrough]. [PT] Atalho para [PhosphorIconsFill.textStrikethrough].
-  static const IconData textStrikethroughFill = PhosphorIconsFill.textStrikethrough;
+  static const IconData textStrikethroughFill =
+      PhosphorIconsFill.textStrikethrough;
 
   /// Shortcut for [PhosphorIconsDuotone.textStrikethrough]. [PT] Atalho para [PhosphorIconsDuotone.textStrikethrough].
-  static const textStrikethroughDuotone = PhosphorIconsDuotone.textStrikethrough;
+  static const textStrikethroughDuotone =
+      PhosphorIconsDuotone.textStrikethrough;
 
   /// Shortcut for [PhosphorIconsRegular.textSubscript]. [PT] Atalho para [PhosphorIconsRegular.textSubscript].
   static const IconData textSubscript = PhosphorIconsRegular.textSubscript;
@@ -24879,7 +26092,8 @@ class PhosphorIcons {
   static const IconData textSuperscriptThin = PhosphorIconsThin.textSuperscript;
 
   /// Shortcut for [PhosphorIconsLight.textSuperscript]. [PT] Atalho para [PhosphorIconsLight.textSuperscript].
-  static const IconData textSuperscriptLight = PhosphorIconsLight.textSuperscript;
+  static const IconData textSuperscriptLight =
+      PhosphorIconsLight.textSuperscript;
 
   /// Shortcut for [PhosphorIconsBold.textSuperscript]. [PT] Atalho para [PhosphorIconsBold.textSuperscript].
   static const IconData textSuperscriptBold = PhosphorIconsBold.textSuperscript;
@@ -24987,7 +26201,8 @@ class PhosphorIcons {
   static const IconData thermometerColdThin = PhosphorIconsThin.thermometerCold;
 
   /// Shortcut for [PhosphorIconsLight.thermometerCold]. [PT] Atalho para [PhosphorIconsLight.thermometerCold].
-  static const IconData thermometerColdLight = PhosphorIconsLight.thermometerCold;
+  static const IconData thermometerColdLight =
+      PhosphorIconsLight.thermometerCold;
 
   /// Shortcut for [PhosphorIconsBold.thermometerCold]. [PT] Atalho para [PhosphorIconsBold.thermometerCold].
   static const IconData thermometerColdBold = PhosphorIconsBold.thermometerCold;
@@ -25017,22 +26232,28 @@ class PhosphorIcons {
   static const thermometerHotDuotone = PhosphorIconsDuotone.thermometerHot;
 
   /// Shortcut for [PhosphorIconsRegular.thermometerSimple]. [PT] Atalho para [PhosphorIconsRegular.thermometerSimple].
-  static const IconData thermometerSimple = PhosphorIconsRegular.thermometerSimple;
+  static const IconData thermometerSimple =
+      PhosphorIconsRegular.thermometerSimple;
 
   /// Shortcut for [PhosphorIconsThin.thermometerSimple]. [PT] Atalho para [PhosphorIconsThin.thermometerSimple].
-  static const IconData thermometerSimpleThin = PhosphorIconsThin.thermometerSimple;
+  static const IconData thermometerSimpleThin =
+      PhosphorIconsThin.thermometerSimple;
 
   /// Shortcut for [PhosphorIconsLight.thermometerSimple]. [PT] Atalho para [PhosphorIconsLight.thermometerSimple].
-  static const IconData thermometerSimpleLight = PhosphorIconsLight.thermometerSimple;
+  static const IconData thermometerSimpleLight =
+      PhosphorIconsLight.thermometerSimple;
 
   /// Shortcut for [PhosphorIconsBold.thermometerSimple]. [PT] Atalho para [PhosphorIconsBold.thermometerSimple].
-  static const IconData thermometerSimpleBold = PhosphorIconsBold.thermometerSimple;
+  static const IconData thermometerSimpleBold =
+      PhosphorIconsBold.thermometerSimple;
 
   /// Shortcut for [PhosphorIconsFill.thermometerSimple]. [PT] Atalho para [PhosphorIconsFill.thermometerSimple].
-  static const IconData thermometerSimpleFill = PhosphorIconsFill.thermometerSimple;
+  static const IconData thermometerSimpleFill =
+      PhosphorIconsFill.thermometerSimple;
 
   /// Shortcut for [PhosphorIconsDuotone.thermometerSimple]. [PT] Atalho para [PhosphorIconsDuotone.thermometerSimple].
-  static const thermometerSimpleDuotone = PhosphorIconsDuotone.thermometerSimple;
+  static const thermometerSimpleDuotone =
+      PhosphorIconsDuotone.thermometerSimple;
 
   /// Shortcut for [PhosphorIconsRegular.threadsLogo]. [PT] Atalho para [PhosphorIconsRegular.threadsLogo].
   static const IconData threadsLogo = PhosphorIconsRegular.threadsLogo;
@@ -25467,22 +26688,28 @@ class PhosphorIcons {
   static const trademarkDuotone = PhosphorIconsDuotone.trademark;
 
   /// Shortcut for [PhosphorIconsRegular.trademarkRegistered]. [PT] Atalho para [PhosphorIconsRegular.trademarkRegistered].
-  static const IconData trademarkRegistered = PhosphorIconsRegular.trademarkRegistered;
+  static const IconData trademarkRegistered =
+      PhosphorIconsRegular.trademarkRegistered;
 
   /// Shortcut for [PhosphorIconsThin.trademarkRegistered]. [PT] Atalho para [PhosphorIconsThin.trademarkRegistered].
-  static const IconData trademarkRegisteredThin = PhosphorIconsThin.trademarkRegistered;
+  static const IconData trademarkRegisteredThin =
+      PhosphorIconsThin.trademarkRegistered;
 
   /// Shortcut for [PhosphorIconsLight.trademarkRegistered]. [PT] Atalho para [PhosphorIconsLight.trademarkRegistered].
-  static const IconData trademarkRegisteredLight = PhosphorIconsLight.trademarkRegistered;
+  static const IconData trademarkRegisteredLight =
+      PhosphorIconsLight.trademarkRegistered;
 
   /// Shortcut for [PhosphorIconsBold.trademarkRegistered]. [PT] Atalho para [PhosphorIconsBold.trademarkRegistered].
-  static const IconData trademarkRegisteredBold = PhosphorIconsBold.trademarkRegistered;
+  static const IconData trademarkRegisteredBold =
+      PhosphorIconsBold.trademarkRegistered;
 
   /// Shortcut for [PhosphorIconsFill.trademarkRegistered]. [PT] Atalho para [PhosphorIconsFill.trademarkRegistered].
-  static const IconData trademarkRegisteredFill = PhosphorIconsFill.trademarkRegistered;
+  static const IconData trademarkRegisteredFill =
+      PhosphorIconsFill.trademarkRegistered;
 
   /// Shortcut for [PhosphorIconsDuotone.trademarkRegistered]. [PT] Atalho para [PhosphorIconsDuotone.trademarkRegistered].
-  static const trademarkRegisteredDuotone = PhosphorIconsDuotone.trademarkRegistered;
+  static const trademarkRegisteredDuotone =
+      PhosphorIconsDuotone.trademarkRegistered;
 
   /// Shortcut for [PhosphorIconsRegular.trafficCone]. [PT] Atalho para [PhosphorIconsRegular.trafficCone].
   static const IconData trafficCone = PhosphorIconsRegular.trafficCone;
@@ -25923,7 +27150,8 @@ class PhosphorIcons {
   static const IconData trolleySuitcaseThin = PhosphorIconsThin.trolleySuitcase;
 
   /// Shortcut for [PhosphorIconsLight.trolleySuitcase]. [PT] Atalho para [PhosphorIconsLight.trolleySuitcase].
-  static const IconData trolleySuitcaseLight = PhosphorIconsLight.trolleySuitcase;
+  static const IconData trolleySuitcaseLight =
+      PhosphorIconsLight.trolleySuitcase;
 
   /// Shortcut for [PhosphorIconsBold.trolleySuitcase]. [PT] Atalho para [PhosphorIconsBold.trolleySuitcase].
   static const IconData trolleySuitcaseBold = PhosphorIconsBold.trolleySuitcase;
@@ -26247,7 +27475,8 @@ class PhosphorIcons {
   static const IconData userCircleCheckThin = PhosphorIconsThin.userCircleCheck;
 
   /// Shortcut for [PhosphorIconsLight.userCircleCheck]. [PT] Atalho para [PhosphorIconsLight.userCircleCheck].
-  static const IconData userCircleCheckLight = PhosphorIconsLight.userCircleCheck;
+  static const IconData userCircleCheckLight =
+      PhosphorIconsLight.userCircleCheck;
 
   /// Shortcut for [PhosphorIconsBold.userCircleCheck]. [PT] Atalho para [PhosphorIconsBold.userCircleCheck].
   static const IconData userCircleCheckBold = PhosphorIconsBold.userCircleCheck;
@@ -26259,19 +27488,24 @@ class PhosphorIcons {
   static const userCircleCheckDuotone = PhosphorIconsDuotone.userCircleCheck;
 
   /// Shortcut for [PhosphorIconsRegular.userCircleDashed]. [PT] Atalho para [PhosphorIconsRegular.userCircleDashed].
-  static const IconData userCircleDashed = PhosphorIconsRegular.userCircleDashed;
+  static const IconData userCircleDashed =
+      PhosphorIconsRegular.userCircleDashed;
 
   /// Shortcut for [PhosphorIconsThin.userCircleDashed]. [PT] Atalho para [PhosphorIconsThin.userCircleDashed].
-  static const IconData userCircleDashedThin = PhosphorIconsThin.userCircleDashed;
+  static const IconData userCircleDashedThin =
+      PhosphorIconsThin.userCircleDashed;
 
   /// Shortcut for [PhosphorIconsLight.userCircleDashed]. [PT] Atalho para [PhosphorIconsLight.userCircleDashed].
-  static const IconData userCircleDashedLight = PhosphorIconsLight.userCircleDashed;
+  static const IconData userCircleDashedLight =
+      PhosphorIconsLight.userCircleDashed;
 
   /// Shortcut for [PhosphorIconsBold.userCircleDashed]. [PT] Atalho para [PhosphorIconsBold.userCircleDashed].
-  static const IconData userCircleDashedBold = PhosphorIconsBold.userCircleDashed;
+  static const IconData userCircleDashedBold =
+      PhosphorIconsBold.userCircleDashed;
 
   /// Shortcut for [PhosphorIconsFill.userCircleDashed]. [PT] Atalho para [PhosphorIconsFill.userCircleDashed].
-  static const IconData userCircleDashedFill = PhosphorIconsFill.userCircleDashed;
+  static const IconData userCircleDashedFill =
+      PhosphorIconsFill.userCircleDashed;
 
   /// Shortcut for [PhosphorIconsDuotone.userCircleDashed]. [PT] Atalho para [PhosphorIconsDuotone.userCircleDashed].
   static const userCircleDashedDuotone = PhosphorIconsDuotone.userCircleDashed;
@@ -26301,7 +27535,8 @@ class PhosphorIcons {
   static const IconData userCircleMinusThin = PhosphorIconsThin.userCircleMinus;
 
   /// Shortcut for [PhosphorIconsLight.userCircleMinus]. [PT] Atalho para [PhosphorIconsLight.userCircleMinus].
-  static const IconData userCircleMinusLight = PhosphorIconsLight.userCircleMinus;
+  static const IconData userCircleMinusLight =
+      PhosphorIconsLight.userCircleMinus;
 
   /// Shortcut for [PhosphorIconsBold.userCircleMinus]. [PT] Atalho para [PhosphorIconsBold.userCircleMinus].
   static const IconData userCircleMinusBold = PhosphorIconsBold.userCircleMinus;
@@ -26673,19 +27908,24 @@ class PhosphorIcons {
   static const videoCameraDuotone = PhosphorIconsDuotone.videoCamera;
 
   /// Shortcut for [PhosphorIconsRegular.videoCameraSlash]. [PT] Atalho para [PhosphorIconsRegular.videoCameraSlash].
-  static const IconData videoCameraSlash = PhosphorIconsRegular.videoCameraSlash;
+  static const IconData videoCameraSlash =
+      PhosphorIconsRegular.videoCameraSlash;
 
   /// Shortcut for [PhosphorIconsThin.videoCameraSlash]. [PT] Atalho para [PhosphorIconsThin.videoCameraSlash].
-  static const IconData videoCameraSlashThin = PhosphorIconsThin.videoCameraSlash;
+  static const IconData videoCameraSlashThin =
+      PhosphorIconsThin.videoCameraSlash;
 
   /// Shortcut for [PhosphorIconsLight.videoCameraSlash]. [PT] Atalho para [PhosphorIconsLight.videoCameraSlash].
-  static const IconData videoCameraSlashLight = PhosphorIconsLight.videoCameraSlash;
+  static const IconData videoCameraSlashLight =
+      PhosphorIconsLight.videoCameraSlash;
 
   /// Shortcut for [PhosphorIconsBold.videoCameraSlash]. [PT] Atalho para [PhosphorIconsBold.videoCameraSlash].
-  static const IconData videoCameraSlashBold = PhosphorIconsBold.videoCameraSlash;
+  static const IconData videoCameraSlashBold =
+      PhosphorIconsBold.videoCameraSlash;
 
   /// Shortcut for [PhosphorIconsFill.videoCameraSlash]. [PT] Atalho para [PhosphorIconsFill.videoCameraSlash].
-  static const IconData videoCameraSlashFill = PhosphorIconsFill.videoCameraSlash;
+  static const IconData videoCameraSlashFill =
+      PhosphorIconsFill.videoCameraSlash;
 
   /// Shortcut for [PhosphorIconsDuotone.videoCameraSlash]. [PT] Atalho para [PhosphorIconsDuotone.videoCameraSlash].
   static const videoCameraSlashDuotone = PhosphorIconsDuotone.videoCameraSlash;
@@ -26697,7 +27937,8 @@ class PhosphorIcons {
   static const IconData videoConferenceThin = PhosphorIconsThin.videoConference;
 
   /// Shortcut for [PhosphorIconsLight.videoConference]. [PT] Atalho para [PhosphorIconsLight.videoConference].
-  static const IconData videoConferenceLight = PhosphorIconsLight.videoConference;
+  static const IconData videoConferenceLight =
+      PhosphorIconsLight.videoConference;
 
   /// Shortcut for [PhosphorIconsBold.videoConference]. [PT] Atalho para [PhosphorIconsBold.videoConference].
   static const IconData videoConferenceBold = PhosphorIconsBold.videoConference;
@@ -27231,19 +28472,24 @@ class PhosphorIcons {
   static const wheelchairDuotone = PhosphorIconsDuotone.wheelchair;
 
   /// Shortcut for [PhosphorIconsRegular.wheelchairMotion]. [PT] Atalho para [PhosphorIconsRegular.wheelchairMotion].
-  static const IconData wheelchairMotion = PhosphorIconsRegular.wheelchairMotion;
+  static const IconData wheelchairMotion =
+      PhosphorIconsRegular.wheelchairMotion;
 
   /// Shortcut for [PhosphorIconsThin.wheelchairMotion]. [PT] Atalho para [PhosphorIconsThin.wheelchairMotion].
-  static const IconData wheelchairMotionThin = PhosphorIconsThin.wheelchairMotion;
+  static const IconData wheelchairMotionThin =
+      PhosphorIconsThin.wheelchairMotion;
 
   /// Shortcut for [PhosphorIconsLight.wheelchairMotion]. [PT] Atalho para [PhosphorIconsLight.wheelchairMotion].
-  static const IconData wheelchairMotionLight = PhosphorIconsLight.wheelchairMotion;
+  static const IconData wheelchairMotionLight =
+      PhosphorIconsLight.wheelchairMotion;
 
   /// Shortcut for [PhosphorIconsBold.wheelchairMotion]. [PT] Atalho para [PhosphorIconsBold.wheelchairMotion].
-  static const IconData wheelchairMotionBold = PhosphorIconsBold.wheelchairMotion;
+  static const IconData wheelchairMotionBold =
+      PhosphorIconsBold.wheelchairMotion;
 
   /// Shortcut for [PhosphorIconsFill.wheelchairMotion]. [PT] Atalho para [PhosphorIconsFill.wheelchairMotion].
-  static const IconData wheelchairMotionFill = PhosphorIconsFill.wheelchairMotion;
+  static const IconData wheelchairMotionFill =
+      PhosphorIconsFill.wheelchairMotion;
 
   /// Shortcut for [PhosphorIconsDuotone.wheelchairMotion]. [PT] Atalho para [PhosphorIconsDuotone.wheelchairMotion].
   static const wheelchairMotionDuotone = PhosphorIconsDuotone.wheelchairMotion;
@@ -27571,5 +28817,4 @@ class PhosphorIcons {
 
   /// Shortcut for [PhosphorIconsDuotone.youtubeLogo]. [PT] Atalho para [PhosphorIconsDuotone.youtubeLogo].
   static const youtubeLogoDuotone = PhosphorIconsDuotone.youtubeLogo;
-
 }

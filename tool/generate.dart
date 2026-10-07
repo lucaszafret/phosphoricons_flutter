@@ -122,6 +122,20 @@ void main() {
       .writeAsStringSync(_generateBaseFile(allIcons, duotoneData));
   print('  → lib/src/phosphor_icons.dart\n');
 
+  // 6. Formatar o código gerado com o formatter oficial do Dart. O pub.dev
+  // verifica isso (`dart format`), então a saída precisa sair sempre formatada.
+  print('Formatando lib/src...');
+  final format = Process.runSync(
+    'dart',
+    ['format', '../lib/src'],
+    runInShell: Platform.isWindows,
+  );
+  if (format.exitCode != 0) {
+    print('  AVISO: dart format falhou:\n${format.stderr}');
+  } else {
+    print('  → lib/src formatado\n');
+  }
+
   if (oldIcons.isNotEmpty) {
     final added = allIcons.keys.where((k) => !oldIcons.contains(k)).toList()..sort();
     final removed = oldIcons.where((k) => !allIcons.keys.contains(k)).toList()..sort();
@@ -367,7 +381,8 @@ Set<String> _getOldIcons() {
   final file = File('../lib/src/phosphor_icons_regular.dart');
   if (!file.existsSync()) return {};
   final content = file.readAsStringSync();
-  final regex = RegExp(r'static const IconData (\w+) = IconData');
+  // `\s*` porque o dart format pode quebrar a linha depois do `=`.
+  final regex = RegExp(r'static const IconData (\w+)\s*=\s*IconData');
   return regex.allMatches(content).map((m) => m.group(1)!).toSet();
 }
 

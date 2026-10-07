@@ -5,6 +5,7 @@
 * **Documentation**: every icon constant (all six style classes and every `PhosphorIcons` shortcut) now has a bilingual (EN / PT) dartdoc description, and the library is documented.
 * **Icons**: no icon changes. The bundled fonts were already Phosphor Icons v2.1.x (identical to `@phosphor-icons/web` 2.1.x); the 1.0.0 docs wrongly said core v2.0.8. Docs corrected.
 * Example app: fixed a crash (missing `DefaultTabController`) and added a Shadows tab.
+* Code is now formatted with the current `dart format` (the check pub.dev runs), and the icon generator formats its own output.
 * Tooling: updated for Flutter 3.47.6 and the latest dependencies; icon generator emits the new docs.
 
 ## 1.0.0

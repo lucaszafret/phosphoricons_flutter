@@ -31,9 +31,9 @@ import 'phosphor_icon_data.dart';
 ///   shadows: [Shadow(color: Colors.black26, blurRadius: 4, offset: Offset(0, 2))],
 /// )
 /// ```
-/// 
+///
 /// ---
-/// 
+///
 /// [PT] Widget que renderiza ícones Phosphor em qualquer estilo, incluindo Duotone.
 ///
 /// Aceita [IconData] (estilos Thin, Light, Regular, Bold, Fill) ou
@@ -41,17 +41,17 @@ import 'phosphor_icon_data.dart';
 /// automaticamente pelas classes de constantes do pacote.
 class PhosphorIcon extends StatelessWidget {
   /// The icon to render. Must be [IconData] or [PhosphorDuotoneIconData].
-  /// 
+  ///
   /// [PT] O ícone a ser renderizado. Deve ser [IconData] ou [PhosphorDuotoneIconData].
   final Object icon;
 
   /// Icon size in logical pixels. Inherits from [IconTheme] if not provided.
-  /// 
+  ///
   /// [PT] Tamanho do ícone em pixels lógicos. Herda de [IconTheme] se não informado.
   final double? size;
 
   /// Icon color. Inherits from [IconTheme] if not provided.
-  /// 
+  ///
   /// [PT] Cor do ícone. Herda de [IconTheme] se não informada.
   final Color? color;
 
@@ -124,7 +124,7 @@ class PhosphorIcon extends StatelessWidget {
   ///
   /// Only has effect when [icon] is [PhosphorDuotoneIconData].
   /// Value between 0.0 and 1.0 — default: 0.20.
-  /// 
+  ///
   /// [PT] Opacidade da camada de preenchimento no estilo Duotone.
   ///
   /// Só tem efeito quando [icon] é [PhosphorDuotoneIconData].
@@ -134,19 +134,19 @@ class PhosphorIcon extends StatelessWidget {
   /// Color of the fill layer in the Duotone style.
   ///
   /// When `null`, uses the same color as [color].
-  /// 
+  ///
   /// [PT] Cor da camada de preenchimento no estilo Duotone.
   ///
   /// Quando `null`, usa a mesma cor que [color].
   final Color? duotoneSecondaryColor;
 
   /// Semantic label for accessibility.
-  /// 
+  ///
   /// [PT] Rótulo semântico para acessibilidade.
   final String? semanticLabel;
 
   /// Text direction. Overrides the direction inherited from the context.
-  /// 
+  ///
   /// [PT] Direção do texto. Substitui a direção herdada do contexto.
   final TextDirection? textDirection;
 

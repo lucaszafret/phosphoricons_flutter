@@ -18374,5 +18374,4 @@ class PhosphorIconsThin {
     fontPackage: 'phosphoricons_flutter',
     matchTextDirection: true,
   );
-
 }

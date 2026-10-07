@@ -30622,5 +30622,4 @@ class PhosphorIconsDuotone {
       matchTextDirection: true,
     ),
   );
-
 }

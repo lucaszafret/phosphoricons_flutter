@@ -31,8 +31,10 @@ void main() {
 
     test('PhosphorIcons constantes diretas equivalem às classes de estilo', () {
       expect(PhosphorIcons.storefront, equals(PhosphorIconsRegular.storefront));
-      expect(PhosphorIcons.storefrontBold, equals(PhosphorIconsBold.storefront));
-      expect(PhosphorIcons.storefrontFill, equals(PhosphorIconsFill.storefront));
+      expect(
+          PhosphorIcons.storefrontBold, equals(PhosphorIconsBold.storefront));
+      expect(
+          PhosphorIcons.storefrontFill, equals(PhosphorIconsFill.storefront));
     });
 
     test('Aliases apontam para o mesmo codepoint', () {
@@ -42,7 +44,8 @@ void main() {
   });
 
   group('Widget PhosphorIcon', () {
-    testWidgets('renderiza Icon comum para IconData', (WidgetTester tester) async {
+    testWidgets('renderiza Icon comum para IconData',
+        (WidgetTester tester) async {
       await tester.pumpWidget(
         const Directionality(
           textDirection: TextDirection.ltr,
@@ -65,7 +68,8 @@ void main() {
       expect(iconWidget.semanticLabel, equals('storefront_label'));
     });
 
-    testWidgets('renderiza Stack com dois Icons para PhosphorDuotoneIconData', (WidgetTester tester) async {
+    testWidgets('renderiza Stack com dois Icons para PhosphorDuotoneIconData',
+        (WidgetTester tester) async {
       const duotoneIcon = PhosphorIconsDuotone.storefront;
 
       await tester.pumpWidget(
@@ -112,7 +116,8 @@ void main() {
       expect(secondIconWidget.semanticLabel, equals('duotone_label'));
     });
 
-    testWidgets('repassa shadows ao Icon para IconData', (WidgetTester tester) async {
+    testWidgets('repassa shadows ao Icon para IconData',
+        (WidgetTester tester) async {
       const shadows = [
         Shadow(color: Colors.black26, blurRadius: 4, offset: Offset(0, 2)),
       ];
@@ -128,7 +133,8 @@ void main() {
       expect(iconWidget.shadows, equals(shadows));
     });
 
-    testWidgets('repassa shadows às duas camadas do Duotone', (WidgetTester tester) async {
+    testWidgets('repassa shadows às duas camadas do Duotone',
+        (WidgetTester tester) async {
       const shadows = [
         Shadow(color: Colors.black38, blurRadius: 6, offset: Offset(1, 3)),
       ];
@@ -147,7 +153,8 @@ void main() {
       }
     });
 
-    testWidgets('sem shadows o Icon recebe null e herda do IconTheme', (WidgetTester tester) async {
+    testWidgets('sem shadows o Icon recebe null e herda do IconTheme',
+        (WidgetTester tester) async {
       await tester.pumpWidget(
         const Directionality(
           textDirection: TextDirection.ltr,
@@ -158,7 +165,8 @@ void main() {
       expect(tester.widget<Icon>(find.byType(Icon)).shadows, isNull);
     });
 
-    testWidgets('repassa fill, weight, grade e opticalSize ao Icon', (WidgetTester tester) async {
+    testWidgets('repassa fill, weight, grade e opticalSize ao Icon',
+        (WidgetTester tester) async {
       await tester.pumpWidget(
         const Directionality(
           textDirection: TextDirection.ltr,
@@ -179,7 +187,9 @@ void main() {
       expect(iconWidget.opticalSize, equals(48));
     });
 
-    testWidgets('repassa fill, weight, grade e opticalSize às duas camadas do Duotone', (WidgetTester tester) async {
+    testWidgets(
+        'repassa fill, weight, grade e opticalSize às duas camadas do Duotone',
+        (WidgetTester tester) async {
       await tester.pumpWidget(
         const Directionality(
           textDirection: TextDirection.ltr,
@@ -201,14 +211,21 @@ void main() {
       }
     });
 
-    test('lança AssertionError para fill, weight e opticalSize fora da faixa', () {
-      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, fill: 1.5), throwsAssertionError);
-      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, fill: -0.1), throwsAssertionError);
-      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, weight: 0), throwsAssertionError);
-      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, opticalSize: 0), throwsAssertionError);
+    test('lança AssertionError para fill, weight e opticalSize fora da faixa',
+        () {
+      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, fill: 1.5),
+          throwsAssertionError);
+      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, fill: -0.1),
+          throwsAssertionError);
+      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, weight: 0),
+          throwsAssertionError);
+      expect(() => PhosphorIcon(PhosphorIconsRegular.heart, opticalSize: 0),
+          throwsAssertionError);
     });
 
-    test('lança AssertionError se o icon não for IconData ou PhosphorDuotoneIconData', () {
+    test(
+        'lança AssertionError se o icon não for IconData ou PhosphorDuotoneIconData',
+        () {
       expect(
         () => PhosphorIcon(
           'not_an_icon_data', // String inválida

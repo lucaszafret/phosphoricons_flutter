@@ -54,7 +54,7 @@ lib/src/
 
 ### Gerador (`tool/generate.dart`)
 
-Lê `phosphor-icons/Fonts/<estilo>/selection.json` para obter nomes e codepoints, copia os TTFs para `lib/fonts/`, e regenera todos os 7 arquivos Dart. Nomes são convertidos de kebab-case para camelCase. Aliases (ex: `asclepius, caduceus`) recebem constantes separadas com o mesmo codepoint.
+Lê `phosphor-icons/Fonts/<estilo>/selection.json` para obter nomes e codepoints, copia os TTFs para `lib/fonts/`, regenera todos os 7 arquivos Dart e roda `dart format` em `lib/src` (o pub.dev reprova código fora do formato). Antes de publicar: `dart format --output=none --set-exit-if-changed lib test example/lib`. Nomes são convertidos de kebab-case para camelCase. Aliases (ex: `asclepius, caduceus`) recebem constantes separadas com o mesmo codepoint.
 
 ### Fontes TTF
 
