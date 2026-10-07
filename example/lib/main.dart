@@ -20,41 +20,40 @@ class ExampleApp extends StatelessWidget {
   }
 }
 
-class ExamplePage extends StatefulWidget {
+class ExamplePage extends StatelessWidget {
   const ExamplePage({super.key});
 
   @override
-  State<ExamplePage> createState() => _ExamplePageState();
-}
-
-class _ExamplePageState extends State<ExamplePage> {
-  int _tab = 0;
-
-  @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Row(children: [
-          PhosphorIcon(PhosphorIcons.shapes, size: 24),
-          SizedBox(width: 8),
-          Text('Phosphor Icons'),
-        ]),
-        bottom: TabBar(
-          tabs: const [
-            Tab(text: '6 Styles'),
-            Tab(text: 'Duotone'),
-            Tab(text: 'Shortcuts'),
-          ],
-          onTap: (i) => setState(() => _tab = i),
+    return DefaultTabController(
+      length: 4,
+      child: Scaffold(
+        appBar: AppBar(
+          title: const Row(children: [
+            PhosphorIcon(PhosphorIcons.shapes, size: 24),
+            SizedBox(width: 8),
+            Text('Phosphor Icons'),
+          ]),
+          bottom: const TabBar(
+            tabs: [
+              Tab(text: '6 Styles'),
+              Tab(text: 'Duotone'),
+              Tab(text: 'Shadows'),
+              Tab(text: 'Shortcuts'),
+            ],
+          ),
         ),
-      ),
-      body: IndexedStack(
-        index: _tab,
-        children: const [
-          _StylesTab(),
-          _DuotoneTab(),
-          _ShortcutsTab(),
-        ],
+        body: const TabBarView(
+          // The styles table scrolls sideways on small screens, so disable
+          // swiping between tabs to avoid fighting with it.
+          physics: NeverScrollableScrollPhysics(),
+          children: [
+            _StylesTab(),
+            _DuotoneTab(),
+            _ShadowsTab(),
+            _ShortcutsTab(),
+          ],
+        ),
       ),
     );
   }
@@ -165,6 +164,74 @@ class _DuotoneTabState extends State<_DuotoneTab> {
           },
         ),
       ),
+    ]);
+  }
+}
+
+// ── Tab: Shadows ──────────────────────────────────────────────────────────────
+
+class _ShadowsTab extends StatefulWidget {
+  const _ShadowsTab();
+
+  @override
+  State<_ShadowsTab> createState() => _ShadowsTabState();
+}
+
+class _ShadowsTabState extends State<_ShadowsTab> {
+  double _blur = 6;
+  double _offsetY = 4;
+
+  @override
+  Widget build(BuildContext context) {
+    final shadows = [
+      Shadow(color: Colors.black38, blurRadius: _blur, offset: Offset(0, _offsetY)),
+    ];
+
+    return SingleChildScrollView(
+      padding: const EdgeInsets.all(16),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        const Text('PhosphorIcon(..., shadows: [...])', style: TextStyle(fontFamily: 'monospace', fontSize: 13)),
+        const SizedBox(height: 4),
+        const Text(
+          'Works with every style. In Duotone the shadows are applied to both layers.',
+          style: TextStyle(fontSize: 12, color: Colors.grey),
+        ),
+        const SizedBox(height: 12),
+        _slider('Blur', _blur, 0, 16, (v) => setState(() => _blur = v)),
+        _slider('Offset Y', _offsetY, -8, 12, (v) => setState(() => _offsetY = v)),
+        const SizedBox(height: 16),
+        Wrap(spacing: 24, runSpacing: 24, children: [
+          _ShadowItem(label: 'Regular', child: PhosphorIcon(PhosphorIconsRegular.heart, size: 56, color: Colors.red, shadows: shadows)),
+          _ShadowItem(label: 'Bold', child: PhosphorIcon(PhosphorIconsBold.heart, size: 56, color: Colors.red, shadows: shadows)),
+          _ShadowItem(label: 'Fill', child: PhosphorIcon(PhosphorIconsFill.heart, size: 56, color: Colors.red, shadows: shadows)),
+          _ShadowItem(label: 'Duotone', child: PhosphorIcon(PhosphorIconsDuotone.heart, size: 56, color: Colors.red, shadows: shadows)),
+          _ShadowItem(label: 'Fill (star)', child: PhosphorIcon(PhosphorIconsFill.star, size: 56, color: Colors.amber, shadows: shadows)),
+          _ShadowItem(label: 'Duotone (rocket)', child: PhosphorIcon(PhosphorIconsDuotone.rocketLaunch, size: 56, color: const Color(0xFF8B5CF6), shadows: shadows)),
+        ]),
+      ]),
+    );
+  }
+
+  Widget _slider(String label, double value, double min, double max, ValueChanged<double> onChanged) {
+    return Row(children: [
+      SizedBox(width: 70, child: Text(label)),
+      Expanded(child: Slider(value: value, min: min, max: max, onChanged: onChanged)),
+      SizedBox(width: 40, child: Text(value.toStringAsFixed(1))),
+    ]);
+  }
+}
+
+class _ShadowItem extends StatelessWidget {
+  final String label;
+  final Widget child;
+  const _ShadowItem({required this.label, required this.child});
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(mainAxisSize: MainAxisSize.min, children: [
+      child,
+      const SizedBox(height: 8),
+      Text(label, style: const TextStyle(fontSize: 11)),
     ]);
   }
 }
