@@ -169,7 +169,8 @@ class PhosphorIcon extends StatelessWidget {
     this.textDirection,
   })  : assert(
           icon is IconData || icon is PhosphorDuotoneIconData,
-          'icon deve ser IconData ou PhosphorDuotoneIconData',
+          'icon must be IconData or PhosphorDuotoneIconData. '
+          '[PT] icon deve ser IconData ou PhosphorDuotoneIconData.',
         ),
         assert(fill == null || (0.0 <= fill && fill <= 1.0)),
         assert(weight == null || (0.0 < weight)),

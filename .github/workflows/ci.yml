@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Install dependencies
+        run: |
+          flutter pub get
+          (cd example && flutter pub get)
+          (cd tool && dart pub get)
+
+      # pub.dev runs `dart format` as part of its static analysis score.
+      - name: Check formatting
+        run: dart format --output=none --set-exit-if-changed lib test example/lib example/test
+
+      - name: Analyze
+        run: |
+          flutter analyze
+          (cd example && flutter analyze)
+          (cd tool && dart analyze)
+
+      - name: Test package
+        run: flutter test
+
+      - name: Test example app
+        run: cd example && flutter test
+
+      - name: Validate package for pub.dev
+        run: flutter pub publish --dry-run
