@@ -19,7 +19,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `acorn` no estilo Light.
   ///
-  /// ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/acorn.svg)
+  /// ![acorn](https://api.iconify.design/ph/acorn-light.svg?height=32&color=%23888888)
   static const IconData acorn = IconData(
     0xeb9a,
     fontFamily: 'PhosphorLight',
@@ -31,7 +31,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `activity` no estilo Light.
   ///
-  /// ![activity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/activity.svg)
+  /// ![activity](https://api.iconify.design/ph/pulse-light.svg?height=32&color=%23888888)
   static const IconData activity = IconData(
     0xe000,
     fontFamily: 'PhosphorLight',
@@ -43,7 +43,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `addressBook` no estilo Light.
   ///
-  /// ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/address-book.svg)
+  /// ![address-book](https://api.iconify.design/ph/address-book-light.svg?height=32&color=%23888888)
   static const IconData addressBook = IconData(
     0xe6f8,
     fontFamily: 'PhosphorLight',
@@ -55,7 +55,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `addressBookTabs` no estilo Light.
   ///
-  /// ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/address-book-tabs.svg)
+  /// ![address-book-tabs](https://api.iconify.design/ph/address-book-tabs-light.svg?height=32&color=%23888888)
   static const IconData addressBookTabs = IconData(
     0xee4e,
     fontFamily: 'PhosphorLight',
@@ -67,7 +67,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airTrafficControl` no estilo Light.
   ///
-  /// ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/air-traffic-control.svg)
+  /// ![air-traffic-control](https://api.iconify.design/ph/air-traffic-control-light.svg?height=32&color=%23888888)
   static const IconData airTrafficControl = IconData(
     0xecd8,
     fontFamily: 'PhosphorLight',
@@ -79,7 +79,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airplane` no estilo Light.
   ///
-  /// ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane.svg)
+  /// ![airplane](https://api.iconify.design/ph/airplane-light.svg?height=32&color=%23888888)
   static const IconData airplane = IconData(
     0xe002,
     fontFamily: 'PhosphorLight',
@@ -91,7 +91,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airplaneInFlight` no estilo Light.
   ///
-  /// ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-in-flight.svg)
+  /// ![airplane-in-flight](https://api.iconify.design/ph/airplane-in-flight-light.svg?height=32&color=%23888888)
   static const IconData airplaneInFlight = IconData(
     0xe4fe,
     fontFamily: 'PhosphorLight',
@@ -103,7 +103,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airplaneLanding` no estilo Light.
   ///
-  /// ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-landing.svg)
+  /// ![airplane-landing](https://api.iconify.design/ph/airplane-landing-light.svg?height=32&color=%23888888)
   static const IconData airplaneLanding = IconData(
     0xe502,
     fontFamily: 'PhosphorLight',
@@ -115,7 +115,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airplaneTakeoff` no estilo Light.
   ///
-  /// ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-takeoff.svg)
+  /// ![airplane-takeoff](https://api.iconify.design/ph/airplane-takeoff-light.svg?height=32&color=%23888888)
   static const IconData airplaneTakeoff = IconData(
     0xe504,
     fontFamily: 'PhosphorLight',
@@ -127,7 +127,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airplaneTaxiing` no estilo Light.
   ///
-  /// ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-taxiing.svg)
+  /// ![airplane-taxiing](https://api.iconify.design/ph/airplane-taxiing-light.svg?height=32&color=%23888888)
   static const IconData airplaneTaxiing = IconData(
     0xe500,
     fontFamily: 'PhosphorLight',
@@ -139,7 +139,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airplaneTilt` no estilo Light.
   ///
-  /// ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-tilt.svg)
+  /// ![airplane-tilt](https://api.iconify.design/ph/airplane-tilt-light.svg?height=32&color=%23888888)
   static const IconData airplaneTilt = IconData(
     0xe5d6,
     fontFamily: 'PhosphorLight',
@@ -151,7 +151,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `airplay` no estilo Light.
   ///
-  /// ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplay.svg)
+  /// ![airplay](https://api.iconify.design/ph/airplay-light.svg?height=32&color=%23888888)
   static const IconData airplay = IconData(
     0xe004,
     fontFamily: 'PhosphorLight',
@@ -163,7 +163,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alarm` no estilo Light.
   ///
-  /// ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/alarm.svg)
+  /// ![alarm](https://api.iconify.design/ph/alarm-light.svg?height=32&color=%23888888)
   static const IconData alarm = IconData(
     0xe006,
     fontFamily: 'PhosphorLight',
@@ -175,7 +175,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alien` no estilo Light.
   ///
-  /// ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/alien.svg)
+  /// ![alien](https://api.iconify.design/ph/alien-light.svg?height=32&color=%23888888)
   static const IconData alien = IconData(
     0xe8a6,
     fontFamily: 'PhosphorLight',
@@ -187,7 +187,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignBottom` no estilo Light.
   ///
-  /// ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-bottom.svg)
+  /// ![align-bottom](https://api.iconify.design/ph/align-bottom-light.svg?height=32&color=%23888888)
   static const IconData alignBottom = IconData(
     0xe506,
     fontFamily: 'PhosphorLight',
@@ -199,7 +199,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignBottomSimple` no estilo Light.
   ///
-  /// ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-bottom-simple.svg)
+  /// ![align-bottom-simple](https://api.iconify.design/ph/align-bottom-simple-light.svg?height=32&color=%23888888)
   static const IconData alignBottomSimple = IconData(
     0xeb0c,
     fontFamily: 'PhosphorLight',
@@ -211,7 +211,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignCenterHorizontal` no estilo Light.
   ///
-  /// ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-horizontal.svg)
+  /// ![align-center-horizontal](https://api.iconify.design/ph/align-center-horizontal-light.svg?height=32&color=%23888888)
   static const IconData alignCenterHorizontal = IconData(
     0xe50a,
     fontFamily: 'PhosphorLight',
@@ -223,7 +223,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Light.
   ///
-  /// ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-horizontal-simple.svg)
+  /// ![align-center-horizontal-simple](https://api.iconify.design/ph/align-center-horizontal-simple-light.svg?height=32&color=%23888888)
   static const IconData alignCenterHorizontalSimple = IconData(
     0xeb0e,
     fontFamily: 'PhosphorLight',
@@ -235,7 +235,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignCenterVertical` no estilo Light.
   ///
-  /// ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-vertical.svg)
+  /// ![align-center-vertical](https://api.iconify.design/ph/align-center-vertical-light.svg?height=32&color=%23888888)
   static const IconData alignCenterVertical = IconData(
     0xe50c,
     fontFamily: 'PhosphorLight',
@@ -247,7 +247,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignCenterVerticalSimple` no estilo Light.
   ///
-  /// ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-vertical-simple.svg)
+  /// ![align-center-vertical-simple](https://api.iconify.design/ph/align-center-vertical-simple-light.svg?height=32&color=%23888888)
   static const IconData alignCenterVerticalSimple = IconData(
     0xeb10,
     fontFamily: 'PhosphorLight',
@@ -259,7 +259,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignLeft` no estilo Light.
   ///
-  /// ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-left.svg)
+  /// ![align-left](https://api.iconify.design/ph/align-left-light.svg?height=32&color=%23888888)
   static const IconData alignLeft = IconData(
     0xe50e,
     fontFamily: 'PhosphorLight',
@@ -271,7 +271,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignLeftSimple` no estilo Light.
   ///
-  /// ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-left-simple.svg)
+  /// ![align-left-simple](https://api.iconify.design/ph/align-left-simple-light.svg?height=32&color=%23888888)
   static const IconData alignLeftSimple = IconData(
     0xeaee,
     fontFamily: 'PhosphorLight',
@@ -283,7 +283,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignRight` no estilo Light.
   ///
-  /// ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-right.svg)
+  /// ![align-right](https://api.iconify.design/ph/align-right-light.svg?height=32&color=%23888888)
   static const IconData alignRight = IconData(
     0xe510,
     fontFamily: 'PhosphorLight',
@@ -295,7 +295,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignRightSimple` no estilo Light.
   ///
-  /// ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-right-simple.svg)
+  /// ![align-right-simple](https://api.iconify.design/ph/align-right-simple-light.svg?height=32&color=%23888888)
   static const IconData alignRightSimple = IconData(
     0xeb12,
     fontFamily: 'PhosphorLight',
@@ -307,7 +307,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignTop` no estilo Light.
   ///
-  /// ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-top.svg)
+  /// ![align-top](https://api.iconify.design/ph/align-top-light.svg?height=32&color=%23888888)
   static const IconData alignTop = IconData(
     0xe512,
     fontFamily: 'PhosphorLight',
@@ -319,7 +319,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `alignTopSimple` no estilo Light.
   ///
-  /// ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-top-simple.svg)
+  /// ![align-top-simple](https://api.iconify.design/ph/align-top-simple-light.svg?height=32&color=%23888888)
   static const IconData alignTopSimple = IconData(
     0xeb14,
     fontFamily: 'PhosphorLight',
@@ -331,7 +331,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `amazonLogo` no estilo Light.
   ///
-  /// ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/amazon-logo.svg)
+  /// ![amazon-logo](https://api.iconify.design/ph/amazon-logo-light.svg?height=32&color=%23888888)
   static const IconData amazonLogo = IconData(
     0xe96c,
     fontFamily: 'PhosphorLight',
@@ -343,7 +343,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ambulance` no estilo Light.
   ///
-  /// ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ambulance.svg)
+  /// ![ambulance](https://api.iconify.design/ph/ambulance-light.svg?height=32&color=%23888888)
   static const IconData ambulance = IconData(
     0xe572,
     fontFamily: 'PhosphorLight',
@@ -355,7 +355,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `anchor` no estilo Light.
   ///
-  /// ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/anchor.svg)
+  /// ![anchor](https://api.iconify.design/ph/anchor-light.svg?height=32&color=%23888888)
   static const IconData anchor = IconData(
     0xe514,
     fontFamily: 'PhosphorLight',
@@ -367,7 +367,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `anchorSimple` no estilo Light.
   ///
-  /// ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/anchor-simple.svg)
+  /// ![anchor-simple](https://api.iconify.design/ph/anchor-simple-light.svg?height=32&color=%23888888)
   static const IconData anchorSimple = IconData(
     0xe5d8,
     fontFamily: 'PhosphorLight',
@@ -379,7 +379,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `androidLogo` no estilo Light.
   ///
-  /// ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/android-logo.svg)
+  /// ![android-logo](https://api.iconify.design/ph/android-logo-light.svg?height=32&color=%23888888)
   static const IconData androidLogo = IconData(
     0xe008,
     fontFamily: 'PhosphorLight',
@@ -391,7 +391,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `angle` no estilo Light.
   ///
-  /// ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/angle.svg)
+  /// ![angle](https://api.iconify.design/ph/angle-light.svg?height=32&color=%23888888)
   static const IconData angle = IconData(
     0xe7bc,
     fontFamily: 'PhosphorLight',
@@ -403,7 +403,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `angularLogo` no estilo Light.
   ///
-  /// ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/angular-logo.svg)
+  /// ![angular-logo](https://api.iconify.design/ph/angular-logo-light.svg?height=32&color=%23888888)
   static const IconData angularLogo = IconData(
     0xeb80,
     fontFamily: 'PhosphorLight',
@@ -415,7 +415,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `aperture` no estilo Light.
   ///
-  /// ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/aperture.svg)
+  /// ![aperture](https://api.iconify.design/ph/aperture-light.svg?height=32&color=%23888888)
   static const IconData aperture = IconData(
     0xe00a,
     fontFamily: 'PhosphorLight',
@@ -427,7 +427,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `appStoreLogo` no estilo Light.
   ///
-  /// ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/app-store-logo.svg)
+  /// ![app-store-logo](https://api.iconify.design/ph/app-store-logo-light.svg?height=32&color=%23888888)
   static const IconData appStoreLogo = IconData(
     0xe974,
     fontFamily: 'PhosphorLight',
@@ -439,7 +439,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `appWindow` no estilo Light.
   ///
-  /// ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/app-window.svg)
+  /// ![app-window](https://api.iconify.design/ph/app-window-light.svg?height=32&color=%23888888)
   static const IconData appWindow = IconData(
     0xe5da,
     fontFamily: 'PhosphorLight',
@@ -451,7 +451,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `appleLogo` no estilo Light.
   ///
-  /// ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/apple-logo.svg)
+  /// ![apple-logo](https://api.iconify.design/ph/apple-logo-light.svg?height=32&color=%23888888)
   static const IconData appleLogo = IconData(
     0xe516,
     fontFamily: 'PhosphorLight',
@@ -463,7 +463,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `applePodcastsLogo` no estilo Light.
   ///
-  /// ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/apple-podcasts-logo.svg)
+  /// ![apple-podcasts-logo](https://api.iconify.design/ph/apple-podcasts-logo-light.svg?height=32&color=%23888888)
   static const IconData applePodcastsLogo = IconData(
     0xeb96,
     fontFamily: 'PhosphorLight',
@@ -475,7 +475,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `approximateEquals` no estilo Light.
   ///
-  /// ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/approximate-equals.svg)
+  /// ![approximate-equals](https://api.iconify.design/ph/approximate-equals-light.svg?height=32&color=%23888888)
   static const IconData approximateEquals = IconData(
     0xedaa,
     fontFamily: 'PhosphorLight',
@@ -487,7 +487,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `archive` no estilo Light.
   ///
-  /// ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/archive.svg)
+  /// ![archive](https://api.iconify.design/ph/archive-light.svg?height=32&color=%23888888)
   static const IconData archive = IconData(
     0xe00c,
     fontFamily: 'PhosphorLight',
@@ -499,7 +499,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `archiveBox` no estilo Light.
   ///
-  /// ![archive-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/archive-box.svg)
+  /// ![archive-box](https://api.iconify.design/ph/box-arrow-down-light.svg?height=32&color=%23888888)
   static const IconData archiveBox = IconData(
     0xe00e,
     fontFamily: 'PhosphorLight',
@@ -511,7 +511,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `archiveTray` no estilo Light.
   ///
-  /// ![archive-tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/archive-tray.svg)
+  /// ![archive-tray](https://api.iconify.design/ph/tray-arrow-down-light.svg?height=32&color=%23888888)
   static const IconData archiveTray = IconData(
     0xe010,
     fontFamily: 'PhosphorLight',
@@ -523,7 +523,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `armchair` no estilo Light.
   ///
-  /// ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/armchair.svg)
+  /// ![armchair](https://api.iconify.design/ph/armchair-light.svg?height=32&color=%23888888)
   static const IconData armchair = IconData(
     0xe012,
     fontFamily: 'PhosphorLight',
@@ -535,7 +535,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowArcLeft` no estilo Light.
   ///
-  /// ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-arc-left.svg)
+  /// ![arrow-arc-left](https://api.iconify.design/ph/arrow-arc-left-light.svg?height=32&color=%23888888)
   static const IconData arrowArcLeft = IconData(
     0xe014,
     fontFamily: 'PhosphorLight',
@@ -547,7 +547,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowArcRight` no estilo Light.
   ///
-  /// ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-arc-right.svg)
+  /// ![arrow-arc-right](https://api.iconify.design/ph/arrow-arc-right-light.svg?height=32&color=%23888888)
   static const IconData arrowArcRight = IconData(
     0xe016,
     fontFamily: 'PhosphorLight',
@@ -559,7 +559,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Light.
   ///
-  /// ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-double-up-left.svg)
+  /// ![arrow-bend-double-up-left](https://api.iconify.design/ph/arrow-bend-double-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowBendDoubleUpLeft = IconData(
     0xe03a,
     fontFamily: 'PhosphorLight',
@@ -571,7 +571,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Light.
   ///
-  /// ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-double-up-right.svg)
+  /// ![arrow-bend-double-up-right](https://api.iconify.design/ph/arrow-bend-double-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowBendDoubleUpRight = IconData(
     0xe03c,
     fontFamily: 'PhosphorLight',
@@ -583,7 +583,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendDownLeft` no estilo Light.
   ///
-  /// ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-down-left.svg)
+  /// ![arrow-bend-down-left](https://api.iconify.design/ph/arrow-bend-down-left-light.svg?height=32&color=%23888888)
   static const IconData arrowBendDownLeft = IconData(
     0xe018,
     fontFamily: 'PhosphorLight',
@@ -595,7 +595,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendDownRight` no estilo Light.
   ///
-  /// ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-down-right.svg)
+  /// ![arrow-bend-down-right](https://api.iconify.design/ph/arrow-bend-down-right-light.svg?height=32&color=%23888888)
   static const IconData arrowBendDownRight = IconData(
     0xe01a,
     fontFamily: 'PhosphorLight',
@@ -607,7 +607,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendLeftDown` no estilo Light.
   ///
-  /// ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-left-down.svg)
+  /// ![arrow-bend-left-down](https://api.iconify.design/ph/arrow-bend-left-down-light.svg?height=32&color=%23888888)
   static const IconData arrowBendLeftDown = IconData(
     0xe01c,
     fontFamily: 'PhosphorLight',
@@ -619,7 +619,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendLeftUp` no estilo Light.
   ///
-  /// ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-left-up.svg)
+  /// ![arrow-bend-left-up](https://api.iconify.design/ph/arrow-bend-left-up-light.svg?height=32&color=%23888888)
   static const IconData arrowBendLeftUp = IconData(
     0xe01e,
     fontFamily: 'PhosphorLight',
@@ -631,7 +631,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendRightDown` no estilo Light.
   ///
-  /// ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-right-down.svg)
+  /// ![arrow-bend-right-down](https://api.iconify.design/ph/arrow-bend-right-down-light.svg?height=32&color=%23888888)
   static const IconData arrowBendRightDown = IconData(
     0xe020,
     fontFamily: 'PhosphorLight',
@@ -643,7 +643,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendRightUp` no estilo Light.
   ///
-  /// ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-right-up.svg)
+  /// ![arrow-bend-right-up](https://api.iconify.design/ph/arrow-bend-right-up-light.svg?height=32&color=%23888888)
   static const IconData arrowBendRightUp = IconData(
     0xe022,
     fontFamily: 'PhosphorLight',
@@ -655,7 +655,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendUpLeft` no estilo Light.
   ///
-  /// ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-up-left.svg)
+  /// ![arrow-bend-up-left](https://api.iconify.design/ph/arrow-bend-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowBendUpLeft = IconData(
     0xe024,
     fontFamily: 'PhosphorLight',
@@ -667,7 +667,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowBendUpRight` no estilo Light.
   ///
-  /// ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-up-right.svg)
+  /// ![arrow-bend-up-right](https://api.iconify.design/ph/arrow-bend-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowBendUpRight = IconData(
     0xe026,
     fontFamily: 'PhosphorLight',
@@ -679,7 +679,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleDown` no estilo Light.
   ///
-  /// ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-down.svg)
+  /// ![arrow-circle-down](https://api.iconify.design/ph/arrow-circle-down-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleDown = IconData(
     0xe028,
     fontFamily: 'PhosphorLight',
@@ -691,7 +691,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleDownLeft` no estilo Light.
   ///
-  /// ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-down-left.svg)
+  /// ![arrow-circle-down-left](https://api.iconify.design/ph/arrow-circle-down-left-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleDownLeft = IconData(
     0xe02a,
     fontFamily: 'PhosphorLight',
@@ -703,7 +703,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleDownRight` no estilo Light.
   ///
-  /// ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-down-right.svg)
+  /// ![arrow-circle-down-right](https://api.iconify.design/ph/arrow-circle-down-right-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleDownRight = IconData(
     0xe02c,
     fontFamily: 'PhosphorLight',
@@ -715,7 +715,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleLeft` no estilo Light.
   ///
-  /// ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-left.svg)
+  /// ![arrow-circle-left](https://api.iconify.design/ph/arrow-circle-left-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleLeft = IconData(
     0xe05a,
     fontFamily: 'PhosphorLight',
@@ -727,7 +727,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleRight` no estilo Light.
   ///
-  /// ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-right.svg)
+  /// ![arrow-circle-right](https://api.iconify.design/ph/arrow-circle-right-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleRight = IconData(
     0xe02e,
     fontFamily: 'PhosphorLight',
@@ -739,7 +739,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleUp` no estilo Light.
   ///
-  /// ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-up.svg)
+  /// ![arrow-circle-up](https://api.iconify.design/ph/arrow-circle-up-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleUp = IconData(
     0xe030,
     fontFamily: 'PhosphorLight',
@@ -751,7 +751,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleUpLeft` no estilo Light.
   ///
-  /// ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-up-left.svg)
+  /// ![arrow-circle-up-left](https://api.iconify.design/ph/arrow-circle-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleUpLeft = IconData(
     0xe032,
     fontFamily: 'PhosphorLight',
@@ -763,7 +763,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCircleUpRight` no estilo Light.
   ///
-  /// ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-up-right.svg)
+  /// ![arrow-circle-up-right](https://api.iconify.design/ph/arrow-circle-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowCircleUpRight = IconData(
     0xe034,
     fontFamily: 'PhosphorLight',
@@ -775,7 +775,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowClockwise` no estilo Light.
   ///
-  /// ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-clockwise.svg)
+  /// ![arrow-clockwise](https://api.iconify.design/ph/arrow-clockwise-light.svg?height=32&color=%23888888)
   static const IconData arrowClockwise = IconData(
     0xe036,
     fontFamily: 'PhosphorLight',
@@ -787,7 +787,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowCounterClockwise` no estilo Light.
   ///
-  /// ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-counter-clockwise.svg)
+  /// ![arrow-counter-clockwise](https://api.iconify.design/ph/arrow-counter-clockwise-light.svg?height=32&color=%23888888)
   static const IconData arrowCounterClockwise = IconData(
     0xe038,
     fontFamily: 'PhosphorLight',
@@ -799,7 +799,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowDown` no estilo Light.
   ///
-  /// ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-down.svg)
+  /// ![arrow-down](https://api.iconify.design/ph/arrow-down-light.svg?height=32&color=%23888888)
   static const IconData arrowDown = IconData(
     0xe03e,
     fontFamily: 'PhosphorLight',
@@ -811,7 +811,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowDownLeft` no estilo Light.
   ///
-  /// ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-down-left.svg)
+  /// ![arrow-down-left](https://api.iconify.design/ph/arrow-down-left-light.svg?height=32&color=%23888888)
   static const IconData arrowDownLeft = IconData(
     0xe040,
     fontFamily: 'PhosphorLight',
@@ -823,7 +823,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowDownRight` no estilo Light.
   ///
-  /// ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-down-right.svg)
+  /// ![arrow-down-right](https://api.iconify.design/ph/arrow-down-right-light.svg?height=32&color=%23888888)
   static const IconData arrowDownRight = IconData(
     0xe042,
     fontFamily: 'PhosphorLight',
@@ -835,7 +835,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowDownLeft` no estilo Light.
   ///
-  /// ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-down-left.svg)
+  /// ![arrow-elbow-down-left](https://api.iconify.design/ph/arrow-elbow-down-left-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowDownLeft = IconData(
     0xe044,
     fontFamily: 'PhosphorLight',
@@ -847,7 +847,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowDownRight` no estilo Light.
   ///
-  /// ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-down-right.svg)
+  /// ![arrow-elbow-down-right](https://api.iconify.design/ph/arrow-elbow-down-right-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowDownRight = IconData(
     0xe046,
     fontFamily: 'PhosphorLight',
@@ -859,7 +859,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowLeft` no estilo Light.
   ///
-  /// ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-left.svg)
+  /// ![arrow-elbow-left](https://api.iconify.design/ph/arrow-elbow-left-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeft = IconData(
     0xe048,
     fontFamily: 'PhosphorLight',
@@ -871,7 +871,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowLeftDown` no estilo Light.
   ///
-  /// ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-left-down.svg)
+  /// ![arrow-elbow-left-down](https://api.iconify.design/ph/arrow-elbow-left-down-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeftDown = IconData(
     0xe04a,
     fontFamily: 'PhosphorLight',
@@ -883,7 +883,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowLeftUp` no estilo Light.
   ///
-  /// ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-left-up.svg)
+  /// ![arrow-elbow-left-up](https://api.iconify.design/ph/arrow-elbow-left-up-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeftUp = IconData(
     0xe04c,
     fontFamily: 'PhosphorLight',
@@ -895,7 +895,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowRight` no estilo Light.
   ///
-  /// ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-right.svg)
+  /// ![arrow-elbow-right](https://api.iconify.design/ph/arrow-elbow-right-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowRight = IconData(
     0xe04e,
     fontFamily: 'PhosphorLight',
@@ -907,7 +907,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowRightDown` no estilo Light.
   ///
-  /// ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-right-down.svg)
+  /// ![arrow-elbow-right-down](https://api.iconify.design/ph/arrow-elbow-right-down-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowRightDown = IconData(
     0xe050,
     fontFamily: 'PhosphorLight',
@@ -919,7 +919,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowRightUp` no estilo Light.
   ///
-  /// ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-right-up.svg)
+  /// ![arrow-elbow-right-up](https://api.iconify.design/ph/arrow-elbow-right-up-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowRightUp = IconData(
     0xe052,
     fontFamily: 'PhosphorLight',
@@ -931,7 +931,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowUpLeft` no estilo Light.
   ///
-  /// ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-up-left.svg)
+  /// ![arrow-elbow-up-left](https://api.iconify.design/ph/arrow-elbow-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowUpLeft = IconData(
     0xe054,
     fontFamily: 'PhosphorLight',
@@ -943,7 +943,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowElbowUpRight` no estilo Light.
   ///
-  /// ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-up-right.svg)
+  /// ![arrow-elbow-up-right](https://api.iconify.design/ph/arrow-elbow-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowElbowUpRight = IconData(
     0xe056,
     fontFamily: 'PhosphorLight',
@@ -955,7 +955,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatDown` no estilo Light.
   ///
-  /// ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-down.svg)
+  /// ![arrow-fat-down](https://api.iconify.design/ph/arrow-fat-down-light.svg?height=32&color=%23888888)
   static const IconData arrowFatDown = IconData(
     0xe518,
     fontFamily: 'PhosphorLight',
@@ -967,7 +967,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLeft` no estilo Light.
   ///
-  /// ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-left.svg)
+  /// ![arrow-fat-left](https://api.iconify.design/ph/arrow-fat-left-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLeft = IconData(
     0xe51a,
     fontFamily: 'PhosphorLight',
@@ -979,7 +979,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLineDown` no estilo Light.
   ///
-  /// ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-down.svg)
+  /// ![arrow-fat-line-down](https://api.iconify.design/ph/arrow-fat-line-down-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLineDown = IconData(
     0xe51c,
     fontFamily: 'PhosphorLight',
@@ -991,7 +991,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLineLeft` no estilo Light.
   ///
-  /// ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-left.svg)
+  /// ![arrow-fat-line-left](https://api.iconify.design/ph/arrow-fat-line-left-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLineLeft = IconData(
     0xe51e,
     fontFamily: 'PhosphorLight',
@@ -1003,7 +1003,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLineRight` no estilo Light.
   ///
-  /// ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-right.svg)
+  /// ![arrow-fat-line-right](https://api.iconify.design/ph/arrow-fat-line-right-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLineRight = IconData(
     0xe520,
     fontFamily: 'PhosphorLight',
@@ -1015,7 +1015,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLineUp` no estilo Light.
   ///
-  /// ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-up.svg)
+  /// ![arrow-fat-line-up](https://api.iconify.design/ph/arrow-fat-line-up-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLineUp = IconData(
     0xe522,
     fontFamily: 'PhosphorLight',
@@ -1027,7 +1027,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLinesDown` no estilo Light.
   ///
-  /// ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-down.svg)
+  /// ![arrow-fat-lines-down](https://api.iconify.design/ph/arrow-fat-lines-down-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesDown = IconData(
     0xe524,
     fontFamily: 'PhosphorLight',
@@ -1039,7 +1039,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLinesLeft` no estilo Light.
   ///
-  /// ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-left.svg)
+  /// ![arrow-fat-lines-left](https://api.iconify.design/ph/arrow-fat-lines-left-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesLeft = IconData(
     0xe526,
     fontFamily: 'PhosphorLight',
@@ -1051,7 +1051,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLinesRight` no estilo Light.
   ///
-  /// ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-right.svg)
+  /// ![arrow-fat-lines-right](https://api.iconify.design/ph/arrow-fat-lines-right-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesRight = IconData(
     0xe528,
     fontFamily: 'PhosphorLight',
@@ -1063,7 +1063,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatLinesUp` no estilo Light.
   ///
-  /// ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-up.svg)
+  /// ![arrow-fat-lines-up](https://api.iconify.design/ph/arrow-fat-lines-up-light.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesUp = IconData(
     0xe52a,
     fontFamily: 'PhosphorLight',
@@ -1075,7 +1075,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatRight` no estilo Light.
   ///
-  /// ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-right.svg)
+  /// ![arrow-fat-right](https://api.iconify.design/ph/arrow-fat-right-light.svg?height=32&color=%23888888)
   static const IconData arrowFatRight = IconData(
     0xe52c,
     fontFamily: 'PhosphorLight',
@@ -1087,7 +1087,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowFatUp` no estilo Light.
   ///
-  /// ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-up.svg)
+  /// ![arrow-fat-up](https://api.iconify.design/ph/arrow-fat-up-light.svg?height=32&color=%23888888)
   static const IconData arrowFatUp = IconData(
     0xe52e,
     fontFamily: 'PhosphorLight',
@@ -1099,7 +1099,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLeft` no estilo Light.
   ///
-  /// ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-left.svg)
+  /// ![arrow-left](https://api.iconify.design/ph/arrow-left-light.svg?height=32&color=%23888888)
   static const IconData arrowLeft = IconData(
     0xe058,
     fontFamily: 'PhosphorLight',
@@ -1111,7 +1111,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineDown` no estilo Light.
   ///
-  /// ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-down.svg)
+  /// ![arrow-line-down](https://api.iconify.design/ph/arrow-line-down-light.svg?height=32&color=%23888888)
   static const IconData arrowLineDown = IconData(
     0xe05c,
     fontFamily: 'PhosphorLight',
@@ -1123,7 +1123,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineDownLeft` no estilo Light.
   ///
-  /// ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-down-left.svg)
+  /// ![arrow-line-down-left](https://api.iconify.design/ph/arrow-line-down-left-light.svg?height=32&color=%23888888)
   static const IconData arrowLineDownLeft = IconData(
     0xe05e,
     fontFamily: 'PhosphorLight',
@@ -1135,7 +1135,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineDownRight` no estilo Light.
   ///
-  /// ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-down-right.svg)
+  /// ![arrow-line-down-right](https://api.iconify.design/ph/arrow-line-down-right-light.svg?height=32&color=%23888888)
   static const IconData arrowLineDownRight = IconData(
     0xe060,
     fontFamily: 'PhosphorLight',
@@ -1147,7 +1147,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineLeft` no estilo Light.
   ///
-  /// ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-left.svg)
+  /// ![arrow-line-left](https://api.iconify.design/ph/arrow-line-left-light.svg?height=32&color=%23888888)
   static const IconData arrowLineLeft = IconData(
     0xe062,
     fontFamily: 'PhosphorLight',
@@ -1159,7 +1159,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineRight` no estilo Light.
   ///
-  /// ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-right.svg)
+  /// ![arrow-line-right](https://api.iconify.design/ph/arrow-line-right-light.svg?height=32&color=%23888888)
   static const IconData arrowLineRight = IconData(
     0xe064,
     fontFamily: 'PhosphorLight',
@@ -1171,7 +1171,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineUp` no estilo Light.
   ///
-  /// ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-up.svg)
+  /// ![arrow-line-up](https://api.iconify.design/ph/arrow-line-up-light.svg?height=32&color=%23888888)
   static const IconData arrowLineUp = IconData(
     0xe066,
     fontFamily: 'PhosphorLight',
@@ -1183,7 +1183,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineUpLeft` no estilo Light.
   ///
-  /// ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-up-left.svg)
+  /// ![arrow-line-up-left](https://api.iconify.design/ph/arrow-line-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowLineUpLeft = IconData(
     0xe068,
     fontFamily: 'PhosphorLight',
@@ -1195,7 +1195,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowLineUpRight` no estilo Light.
   ///
-  /// ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-up-right.svg)
+  /// ![arrow-line-up-right](https://api.iconify.design/ph/arrow-line-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowLineUpRight = IconData(
     0xe06a,
     fontFamily: 'PhosphorLight',
@@ -1207,7 +1207,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowRight` no estilo Light.
   ///
-  /// ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-right.svg)
+  /// ![arrow-right](https://api.iconify.design/ph/arrow-right-light.svg?height=32&color=%23888888)
   static const IconData arrowRight = IconData(
     0xe06c,
     fontFamily: 'PhosphorLight',
@@ -1219,7 +1219,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareDown` no estilo Light.
   ///
-  /// ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-down.svg)
+  /// ![arrow-square-down](https://api.iconify.design/ph/arrow-square-down-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareDown = IconData(
     0xe06e,
     fontFamily: 'PhosphorLight',
@@ -1231,7 +1231,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareDownLeft` no estilo Light.
   ///
-  /// ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-down-left.svg)
+  /// ![arrow-square-down-left](https://api.iconify.design/ph/arrow-square-down-left-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareDownLeft = IconData(
     0xe070,
     fontFamily: 'PhosphorLight',
@@ -1243,7 +1243,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareDownRight` no estilo Light.
   ///
-  /// ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-down-right.svg)
+  /// ![arrow-square-down-right](https://api.iconify.design/ph/arrow-square-down-right-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareDownRight = IconData(
     0xe072,
     fontFamily: 'PhosphorLight',
@@ -1255,7 +1255,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareIn` no estilo Light.
   ///
-  /// ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-in.svg)
+  /// ![arrow-square-in](https://api.iconify.design/ph/arrow-square-in-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareIn = IconData(
     0xe5dc,
     fontFamily: 'PhosphorLight',
@@ -1267,7 +1267,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareLeft` no estilo Light.
   ///
-  /// ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-left.svg)
+  /// ![arrow-square-left](https://api.iconify.design/ph/arrow-square-left-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareLeft = IconData(
     0xe074,
     fontFamily: 'PhosphorLight',
@@ -1279,7 +1279,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareOut` no estilo Light.
   ///
-  /// ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-out.svg)
+  /// ![arrow-square-out](https://api.iconify.design/ph/arrow-square-out-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareOut = IconData(
     0xe5de,
     fontFamily: 'PhosphorLight',
@@ -1291,7 +1291,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareRight` no estilo Light.
   ///
-  /// ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-right.svg)
+  /// ![arrow-square-right](https://api.iconify.design/ph/arrow-square-right-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareRight = IconData(
     0xe076,
     fontFamily: 'PhosphorLight',
@@ -1303,7 +1303,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareUp` no estilo Light.
   ///
-  /// ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-up.svg)
+  /// ![arrow-square-up](https://api.iconify.design/ph/arrow-square-up-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareUp = IconData(
     0xe078,
     fontFamily: 'PhosphorLight',
@@ -1315,7 +1315,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareUpLeft` no estilo Light.
   ///
-  /// ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-up-left.svg)
+  /// ![arrow-square-up-left](https://api.iconify.design/ph/arrow-square-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareUpLeft = IconData(
     0xe07a,
     fontFamily: 'PhosphorLight',
@@ -1327,7 +1327,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowSquareUpRight` no estilo Light.
   ///
-  /// ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-up-right.svg)
+  /// ![arrow-square-up-right](https://api.iconify.design/ph/arrow-square-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowSquareUpRight = IconData(
     0xe07c,
     fontFamily: 'PhosphorLight',
@@ -1339,7 +1339,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowUDownLeft` no estilo Light.
   ///
-  /// ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-down-left.svg)
+  /// ![arrow-u-down-left](https://api.iconify.design/ph/arrow-u-down-left-light.svg?height=32&color=%23888888)
   static const IconData arrowUDownLeft = IconData(
     0xe07e,
     fontFamily: 'PhosphorLight',
@@ -1351,7 +1351,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowUDownRight` no estilo Light.
   ///
-  /// ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-down-right.svg)
+  /// ![arrow-u-down-right](https://api.iconify.design/ph/arrow-u-down-right-light.svg?height=32&color=%23888888)
   static const IconData arrowUDownRight = IconData(
     0xe080,
     fontFamily: 'PhosphorLight',
@@ -1363,7 +1363,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowULeftDown` no estilo Light.
   ///
-  /// ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-left-down.svg)
+  /// ![arrow-u-left-down](https://api.iconify.design/ph/arrow-u-left-down-light.svg?height=32&color=%23888888)
   static const IconData arrowULeftDown = IconData(
     0xe082,
     fontFamily: 'PhosphorLight',
@@ -1375,7 +1375,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowULeftUp` no estilo Light.
   ///
-  /// ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-left-up.svg)
+  /// ![arrow-u-left-up](https://api.iconify.design/ph/arrow-u-left-up-light.svg?height=32&color=%23888888)
   static const IconData arrowULeftUp = IconData(
     0xe084,
     fontFamily: 'PhosphorLight',
@@ -1387,7 +1387,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowURightDown` no estilo Light.
   ///
-  /// ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-right-down.svg)
+  /// ![arrow-u-right-down](https://api.iconify.design/ph/arrow-u-right-down-light.svg?height=32&color=%23888888)
   static const IconData arrowURightDown = IconData(
     0xe086,
     fontFamily: 'PhosphorLight',
@@ -1399,7 +1399,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowURightUp` no estilo Light.
   ///
-  /// ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-right-up.svg)
+  /// ![arrow-u-right-up](https://api.iconify.design/ph/arrow-u-right-up-light.svg?height=32&color=%23888888)
   static const IconData arrowURightUp = IconData(
     0xe088,
     fontFamily: 'PhosphorLight',
@@ -1411,7 +1411,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowUUpLeft` no estilo Light.
   ///
-  /// ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-up-left.svg)
+  /// ![arrow-u-up-left](https://api.iconify.design/ph/arrow-u-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowUUpLeft = IconData(
     0xe08a,
     fontFamily: 'PhosphorLight',
@@ -1423,7 +1423,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowUUpRight` no estilo Light.
   ///
-  /// ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-up-right.svg)
+  /// ![arrow-u-up-right](https://api.iconify.design/ph/arrow-u-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowUUpRight = IconData(
     0xe08c,
     fontFamily: 'PhosphorLight',
@@ -1435,7 +1435,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowUp` no estilo Light.
   ///
-  /// ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-up.svg)
+  /// ![arrow-up](https://api.iconify.design/ph/arrow-up-light.svg?height=32&color=%23888888)
   static const IconData arrowUp = IconData(
     0xe08e,
     fontFamily: 'PhosphorLight',
@@ -1447,7 +1447,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowUpLeft` no estilo Light.
   ///
-  /// ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-up-left.svg)
+  /// ![arrow-up-left](https://api.iconify.design/ph/arrow-up-left-light.svg?height=32&color=%23888888)
   static const IconData arrowUpLeft = IconData(
     0xe090,
     fontFamily: 'PhosphorLight',
@@ -1459,7 +1459,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowUpRight` no estilo Light.
   ///
-  /// ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-up-right.svg)
+  /// ![arrow-up-right](https://api.iconify.design/ph/arrow-up-right-light.svg?height=32&color=%23888888)
   static const IconData arrowUpRight = IconData(
     0xe092,
     fontFamily: 'PhosphorLight',
@@ -1471,7 +1471,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsClockwise` no estilo Light.
   ///
-  /// ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-clockwise.svg)
+  /// ![arrows-clockwise](https://api.iconify.design/ph/arrows-clockwise-light.svg?height=32&color=%23888888)
   static const IconData arrowsClockwise = IconData(
     0xe094,
     fontFamily: 'PhosphorLight',
@@ -1483,7 +1483,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsCounterClockwise` no estilo Light.
   ///
-  /// ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-counter-clockwise.svg)
+  /// ![arrows-counter-clockwise](https://api.iconify.design/ph/arrows-counter-clockwise-light.svg?height=32&color=%23888888)
   static const IconData arrowsCounterClockwise = IconData(
     0xe096,
     fontFamily: 'PhosphorLight',
@@ -1495,7 +1495,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsDownUp` no estilo Light.
   ///
-  /// ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-down-up.svg)
+  /// ![arrows-down-up](https://api.iconify.design/ph/arrows-down-up-light.svg?height=32&color=%23888888)
   static const IconData arrowsDownUp = IconData(
     0xe098,
     fontFamily: 'PhosphorLight',
@@ -1507,7 +1507,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsHorizontal` no estilo Light.
   ///
-  /// ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-horizontal.svg)
+  /// ![arrows-horizontal](https://api.iconify.design/ph/arrows-horizontal-light.svg?height=32&color=%23888888)
   static const IconData arrowsHorizontal = IconData(
     0xeb06,
     fontFamily: 'PhosphorLight',
@@ -1519,7 +1519,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsIn` no estilo Light.
   ///
-  /// ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in.svg)
+  /// ![arrows-in](https://api.iconify.design/ph/arrows-in-light.svg?height=32&color=%23888888)
   static const IconData arrowsIn = IconData(
     0xe09a,
     fontFamily: 'PhosphorLight',
@@ -1531,7 +1531,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsInCardinal` no estilo Light.
   ///
-  /// ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-cardinal.svg)
+  /// ![arrows-in-cardinal](https://api.iconify.design/ph/arrows-in-cardinal-light.svg?height=32&color=%23888888)
   static const IconData arrowsInCardinal = IconData(
     0xe09c,
     fontFamily: 'PhosphorLight',
@@ -1543,7 +1543,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsInLineHorizontal` no estilo Light.
   ///
-  /// ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-line-horizontal.svg)
+  /// ![arrows-in-line-horizontal](https://api.iconify.design/ph/arrows-in-line-horizontal-light.svg?height=32&color=%23888888)
   static const IconData arrowsInLineHorizontal = IconData(
     0xe530,
     fontFamily: 'PhosphorLight',
@@ -1555,7 +1555,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsInLineVertical` no estilo Light.
   ///
-  /// ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-line-vertical.svg)
+  /// ![arrows-in-line-vertical](https://api.iconify.design/ph/arrows-in-line-vertical-light.svg?height=32&color=%23888888)
   static const IconData arrowsInLineVertical = IconData(
     0xe532,
     fontFamily: 'PhosphorLight',
@@ -1567,7 +1567,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsInSimple` no estilo Light.
   ///
-  /// ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-simple.svg)
+  /// ![arrows-in-simple](https://api.iconify.design/ph/arrows-in-simple-light.svg?height=32&color=%23888888)
   static const IconData arrowsInSimple = IconData(
     0xe09e,
     fontFamily: 'PhosphorLight',
@@ -1579,7 +1579,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsLeftRight` no estilo Light.
   ///
-  /// ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-left-right.svg)
+  /// ![arrows-left-right](https://api.iconify.design/ph/arrows-left-right-light.svg?height=32&color=%23888888)
   static const IconData arrowsLeftRight = IconData(
     0xe0a0,
     fontFamily: 'PhosphorLight',
@@ -1591,7 +1591,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsMerge` no estilo Light.
   ///
-  /// ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-merge.svg)
+  /// ![arrows-merge](https://api.iconify.design/ph/arrows-merge-light.svg?height=32&color=%23888888)
   static const IconData arrowsMerge = IconData(
     0xed3e,
     fontFamily: 'PhosphorLight',
@@ -1603,7 +1603,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsOut` no estilo Light.
   ///
-  /// ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out.svg)
+  /// ![arrows-out](https://api.iconify.design/ph/arrows-out-light.svg?height=32&color=%23888888)
   static const IconData arrowsOut = IconData(
     0xe0a2,
     fontFamily: 'PhosphorLight',
@@ -1615,7 +1615,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsOutCardinal` no estilo Light.
   ///
-  /// ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-cardinal.svg)
+  /// ![arrows-out-cardinal](https://api.iconify.design/ph/arrows-out-cardinal-light.svg?height=32&color=%23888888)
   static const IconData arrowsOutCardinal = IconData(
     0xe0a4,
     fontFamily: 'PhosphorLight',
@@ -1627,7 +1627,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Light.
   ///
-  /// ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-line-horizontal.svg)
+  /// ![arrows-out-line-horizontal](https://api.iconify.design/ph/arrows-out-line-horizontal-light.svg?height=32&color=%23888888)
   static const IconData arrowsOutLineHorizontal = IconData(
     0xe534,
     fontFamily: 'PhosphorLight',
@@ -1639,7 +1639,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsOutLineVertical` no estilo Light.
   ///
-  /// ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-line-vertical.svg)
+  /// ![arrows-out-line-vertical](https://api.iconify.design/ph/arrows-out-line-vertical-light.svg?height=32&color=%23888888)
   static const IconData arrowsOutLineVertical = IconData(
     0xe536,
     fontFamily: 'PhosphorLight',
@@ -1651,7 +1651,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsOutSimple` no estilo Light.
   ///
-  /// ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-simple.svg)
+  /// ![arrows-out-simple](https://api.iconify.design/ph/arrows-out-simple-light.svg?height=32&color=%23888888)
   static const IconData arrowsOutSimple = IconData(
     0xe0a6,
     fontFamily: 'PhosphorLight',
@@ -1663,7 +1663,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsSplit` no estilo Light.
   ///
-  /// ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-split.svg)
+  /// ![arrows-split](https://api.iconify.design/ph/arrows-split-light.svg?height=32&color=%23888888)
   static const IconData arrowsSplit = IconData(
     0xed3c,
     fontFamily: 'PhosphorLight',
@@ -1675,7 +1675,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `arrowsVertical` no estilo Light.
   ///
-  /// ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-vertical.svg)
+  /// ![arrows-vertical](https://api.iconify.design/ph/arrows-vertical-light.svg?height=32&color=%23888888)
   static const IconData arrowsVertical = IconData(
     0xeb04,
     fontFamily: 'PhosphorLight',
@@ -1687,7 +1687,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `article` no estilo Light.
   ///
-  /// ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/article.svg)
+  /// ![article](https://api.iconify.design/ph/article-light.svg?height=32&color=%23888888)
   static const IconData article = IconData(
     0xe0a8,
     fontFamily: 'PhosphorLight',
@@ -1699,7 +1699,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `articleMedium` no estilo Light.
   ///
-  /// ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/article-medium.svg)
+  /// ![article-medium](https://api.iconify.design/ph/article-medium-light.svg?height=32&color=%23888888)
   static const IconData articleMedium = IconData(
     0xe5e0,
     fontFamily: 'PhosphorLight',
@@ -1711,7 +1711,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `articleNyTimes` no estilo Light.
   ///
-  /// ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/article-ny-times.svg)
+  /// ![article-ny-times](https://api.iconify.design/ph/article-ny-times-light.svg?height=32&color=%23888888)
   static const IconData articleNyTimes = IconData(
     0xe5e2,
     fontFamily: 'PhosphorLight',
@@ -1723,7 +1723,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `asclepius` no estilo Light.
   ///
-  /// ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/asclepius.svg)
+  /// ![asclepius](https://api.iconify.design/ph/asclepius-light.svg?height=32&color=%23888888)
   static const IconData asclepius = IconData(
     0xee34,
     fontFamily: 'PhosphorLight',
@@ -1735,7 +1735,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `asterisk` no estilo Light.
   ///
-  /// ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/asterisk.svg)
+  /// ![asterisk](https://api.iconify.design/ph/asterisk-light.svg?height=32&color=%23888888)
   static const IconData asterisk = IconData(
     0xe0aa,
     fontFamily: 'PhosphorLight',
@@ -1747,7 +1747,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `asteriskSimple` no estilo Light.
   ///
-  /// ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/asterisk-simple.svg)
+  /// ![asterisk-simple](https://api.iconify.design/ph/asterisk-simple-light.svg?height=32&color=%23888888)
   static const IconData asteriskSimple = IconData(
     0xe832,
     fontFamily: 'PhosphorLight',
@@ -1759,7 +1759,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `at` no estilo Light.
   ///
-  /// ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/at.svg)
+  /// ![at](https://api.iconify.design/ph/at-light.svg?height=32&color=%23888888)
   static const IconData at = IconData(
     0xe0ac,
     fontFamily: 'PhosphorLight',
@@ -1771,7 +1771,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `atom` no estilo Light.
   ///
-  /// ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/atom.svg)
+  /// ![atom](https://api.iconify.design/ph/atom-light.svg?height=32&color=%23888888)
   static const IconData atom = IconData(
     0xe5e4,
     fontFamily: 'PhosphorLight',
@@ -1783,7 +1783,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `avocado` no estilo Light.
   ///
-  /// ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/avocado.svg)
+  /// ![avocado](https://api.iconify.design/ph/avocado-light.svg?height=32&color=%23888888)
   static const IconData avocado = IconData(
     0xee04,
     fontFamily: 'PhosphorLight',
@@ -1795,7 +1795,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `axe` no estilo Light.
   ///
-  /// ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/axe.svg)
+  /// ![axe](https://api.iconify.design/ph/axe-light.svg?height=32&color=%23888888)
   static const IconData axe = IconData(
     0xe9fc,
     fontFamily: 'PhosphorLight',
@@ -1807,7 +1807,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `baby` no estilo Light.
   ///
-  /// ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baby.svg)
+  /// ![baby](https://api.iconify.design/ph/baby-light.svg?height=32&color=%23888888)
   static const IconData baby = IconData(
     0xe774,
     fontFamily: 'PhosphorLight',
@@ -1819,7 +1819,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `babyCarriage` no estilo Light.
   ///
-  /// ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baby-carriage.svg)
+  /// ![baby-carriage](https://api.iconify.design/ph/baby-carriage-light.svg?height=32&color=%23888888)
   static const IconData babyCarriage = IconData(
     0xe818,
     fontFamily: 'PhosphorLight',
@@ -1831,7 +1831,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `backpack` no estilo Light.
   ///
-  /// ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/backpack.svg)
+  /// ![backpack](https://api.iconify.design/ph/backpack-light.svg?height=32&color=%23888888)
   static const IconData backpack = IconData(
     0xe922,
     fontFamily: 'PhosphorLight',
@@ -1843,7 +1843,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `backspace` no estilo Light.
   ///
-  /// ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/backspace.svg)
+  /// ![backspace](https://api.iconify.design/ph/backspace-light.svg?height=32&color=%23888888)
   static const IconData backspace = IconData(
     0xe0ae,
     fontFamily: 'PhosphorLight',
@@ -1855,7 +1855,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bag` no estilo Light.
   ///
-  /// ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bag.svg)
+  /// ![bag](https://api.iconify.design/ph/bag-light.svg?height=32&color=%23888888)
   static const IconData bag = IconData(
     0xe0b0,
     fontFamily: 'PhosphorLight',
@@ -1867,7 +1867,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bagSimple` no estilo Light.
   ///
-  /// ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bag-simple.svg)
+  /// ![bag-simple](https://api.iconify.design/ph/bag-simple-light.svg?height=32&color=%23888888)
   static const IconData bagSimple = IconData(
     0xe5e6,
     fontFamily: 'PhosphorLight',
@@ -1879,7 +1879,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `balloon` no estilo Light.
   ///
-  /// ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/balloon.svg)
+  /// ![balloon](https://api.iconify.design/ph/balloon-light.svg?height=32&color=%23888888)
   static const IconData balloon = IconData(
     0xe76c,
     fontFamily: 'PhosphorLight',
@@ -1891,7 +1891,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bandaids` no estilo Light.
   ///
-  /// ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bandaids.svg)
+  /// ![bandaids](https://api.iconify.design/ph/bandaids-light.svg?height=32&color=%23888888)
   static const IconData bandaids = IconData(
     0xe0b2,
     fontFamily: 'PhosphorLight',
@@ -1903,7 +1903,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bank` no estilo Light.
   ///
-  /// ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bank.svg)
+  /// ![bank](https://api.iconify.design/ph/bank-light.svg?height=32&color=%23888888)
   static const IconData bank = IconData(
     0xe0b4,
     fontFamily: 'PhosphorLight',
@@ -1915,7 +1915,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `barbell` no estilo Light.
   ///
-  /// ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barbell.svg)
+  /// ![barbell](https://api.iconify.design/ph/barbell-light.svg?height=32&color=%23888888)
   static const IconData barbell = IconData(
     0xe0b6,
     fontFamily: 'PhosphorLight',
@@ -1927,7 +1927,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `barcode` no estilo Light.
   ///
-  /// ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barcode.svg)
+  /// ![barcode](https://api.iconify.design/ph/barcode-light.svg?height=32&color=%23888888)
   static const IconData barcode = IconData(
     0xe0b8,
     fontFamily: 'PhosphorLight',
@@ -1939,7 +1939,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `barn` no estilo Light.
   ///
-  /// ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barn.svg)
+  /// ![barn](https://api.iconify.design/ph/barn-light.svg?height=32&color=%23888888)
   static const IconData barn = IconData(
     0xec72,
     fontFamily: 'PhosphorLight',
@@ -1951,7 +1951,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `barricade` no estilo Light.
   ///
-  /// ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barricade.svg)
+  /// ![barricade](https://api.iconify.design/ph/barricade-light.svg?height=32&color=%23888888)
   static const IconData barricade = IconData(
     0xe948,
     fontFamily: 'PhosphorLight',
@@ -1963,7 +1963,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `baseball` no estilo Light.
   ///
-  /// ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baseball.svg)
+  /// ![baseball](https://api.iconify.design/ph/baseball-light.svg?height=32&color=%23888888)
   static const IconData baseball = IconData(
     0xe71a,
     fontFamily: 'PhosphorLight',
@@ -1975,7 +1975,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `baseballCap` no estilo Light.
   ///
-  /// ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baseball-cap.svg)
+  /// ![baseball-cap](https://api.iconify.design/ph/baseball-cap-light.svg?height=32&color=%23888888)
   static const IconData baseballCap = IconData(
     0xea28,
     fontFamily: 'PhosphorLight',
@@ -1987,7 +1987,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `baseballHelmet` no estilo Light.
   ///
-  /// ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baseball-helmet.svg)
+  /// ![baseball-helmet](https://api.iconify.design/ph/baseball-helmet-light.svg?height=32&color=%23888888)
   static const IconData baseballHelmet = IconData(
     0xee4a,
     fontFamily: 'PhosphorLight',
@@ -1999,7 +1999,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `basket` no estilo Light.
   ///
-  /// ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/basket.svg)
+  /// ![basket](https://api.iconify.design/ph/basket-light.svg?height=32&color=%23888888)
   static const IconData basket = IconData(
     0xe964,
     fontFamily: 'PhosphorLight',
@@ -2011,7 +2011,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `basketball` no estilo Light.
   ///
-  /// ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/basketball.svg)
+  /// ![basketball](https://api.iconify.design/ph/basketball-light.svg?height=32&color=%23888888)
   static const IconData basketball = IconData(
     0xe724,
     fontFamily: 'PhosphorLight',
@@ -2023,7 +2023,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bathtub` no estilo Light.
   ///
-  /// ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bathtub.svg)
+  /// ![bathtub](https://api.iconify.design/ph/bathtub-light.svg?height=32&color=%23888888)
   static const IconData bathtub = IconData(
     0xe81e,
     fontFamily: 'PhosphorLight',
@@ -2035,7 +2035,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryCharging` no estilo Light.
   ///
-  /// ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-charging.svg)
+  /// ![battery-charging](https://api.iconify.design/ph/battery-charging-light.svg?height=32&color=%23888888)
   static const IconData batteryCharging = IconData(
     0xe0ba,
     fontFamily: 'PhosphorLight',
@@ -2047,7 +2047,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryChargingVertical` no estilo Light.
   ///
-  /// ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-charging-vertical.svg)
+  /// ![battery-charging-vertical](https://api.iconify.design/ph/battery-charging-vertical-light.svg?height=32&color=%23888888)
   static const IconData batteryChargingVertical = IconData(
     0xe0bc,
     fontFamily: 'PhosphorLight',
@@ -2059,7 +2059,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryEmpty` no estilo Light.
   ///
-  /// ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-empty.svg)
+  /// ![battery-empty](https://api.iconify.design/ph/battery-empty-light.svg?height=32&color=%23888888)
   static const IconData batteryEmpty = IconData(
     0xe0be,
     fontFamily: 'PhosphorLight',
@@ -2071,7 +2071,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryFull` no estilo Light.
   ///
-  /// ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-full.svg)
+  /// ![battery-full](https://api.iconify.design/ph/battery-full-light.svg?height=32&color=%23888888)
   static const IconData batteryFull = IconData(
     0xe0c0,
     fontFamily: 'PhosphorLight',
@@ -2083,7 +2083,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryHigh` no estilo Light.
   ///
-  /// ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-high.svg)
+  /// ![battery-high](https://api.iconify.design/ph/battery-high-light.svg?height=32&color=%23888888)
   static const IconData batteryHigh = IconData(
     0xe0c2,
     fontFamily: 'PhosphorLight',
@@ -2095,7 +2095,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryLow` no estilo Light.
   ///
-  /// ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-low.svg)
+  /// ![battery-low](https://api.iconify.design/ph/battery-low-light.svg?height=32&color=%23888888)
   static const IconData batteryLow = IconData(
     0xe0c4,
     fontFamily: 'PhosphorLight',
@@ -2107,7 +2107,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryMedium` no estilo Light.
   ///
-  /// ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-medium.svg)
+  /// ![battery-medium](https://api.iconify.design/ph/battery-medium-light.svg?height=32&color=%23888888)
   static const IconData batteryMedium = IconData(
     0xe0c6,
     fontFamily: 'PhosphorLight',
@@ -2119,7 +2119,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryPlus` no estilo Light.
   ///
-  /// ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-plus.svg)
+  /// ![battery-plus](https://api.iconify.design/ph/battery-plus-light.svg?height=32&color=%23888888)
   static const IconData batteryPlus = IconData(
     0xe808,
     fontFamily: 'PhosphorLight',
@@ -2131,7 +2131,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryPlusVertical` no estilo Light.
   ///
-  /// ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-plus-vertical.svg)
+  /// ![battery-plus-vertical](https://api.iconify.design/ph/battery-plus-vertical-light.svg?height=32&color=%23888888)
   static const IconData batteryPlusVertical = IconData(
     0xec50,
     fontFamily: 'PhosphorLight',
@@ -2143,7 +2143,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryVerticalEmpty` no estilo Light.
   ///
-  /// ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-empty.svg)
+  /// ![battery-vertical-empty](https://api.iconify.design/ph/battery-vertical-empty-light.svg?height=32&color=%23888888)
   static const IconData batteryVerticalEmpty = IconData(
     0xe7c6,
     fontFamily: 'PhosphorLight',
@@ -2155,7 +2155,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryVerticalFull` no estilo Light.
   ///
-  /// ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-full.svg)
+  /// ![battery-vertical-full](https://api.iconify.design/ph/battery-vertical-full-light.svg?height=32&color=%23888888)
   static const IconData batteryVerticalFull = IconData(
     0xe7c4,
     fontFamily: 'PhosphorLight',
@@ -2167,7 +2167,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryVerticalHigh` no estilo Light.
   ///
-  /// ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-high.svg)
+  /// ![battery-vertical-high](https://api.iconify.design/ph/battery-vertical-high-light.svg?height=32&color=%23888888)
   static const IconData batteryVerticalHigh = IconData(
     0xe7c2,
     fontFamily: 'PhosphorLight',
@@ -2179,7 +2179,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryVerticalLow` no estilo Light.
   ///
-  /// ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-low.svg)
+  /// ![battery-vertical-low](https://api.iconify.design/ph/battery-vertical-low-light.svg?height=32&color=%23888888)
   static const IconData batteryVerticalLow = IconData(
     0xe7be,
     fontFamily: 'PhosphorLight',
@@ -2191,7 +2191,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryVerticalMedium` no estilo Light.
   ///
-  /// ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-medium.svg)
+  /// ![battery-vertical-medium](https://api.iconify.design/ph/battery-vertical-medium-light.svg?height=32&color=%23888888)
   static const IconData batteryVerticalMedium = IconData(
     0xe7c0,
     fontFamily: 'PhosphorLight',
@@ -2203,7 +2203,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryWarning` no estilo Light.
   ///
-  /// ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-warning.svg)
+  /// ![battery-warning](https://api.iconify.design/ph/battery-warning-light.svg?height=32&color=%23888888)
   static const IconData batteryWarning = IconData(
     0xe0c8,
     fontFamily: 'PhosphorLight',
@@ -2215,7 +2215,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `batteryWarningVertical` no estilo Light.
   ///
-  /// ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-warning-vertical.svg)
+  /// ![battery-warning-vertical](https://api.iconify.design/ph/battery-warning-vertical-light.svg?height=32&color=%23888888)
   static const IconData batteryWarningVertical = IconData(
     0xe0ca,
     fontFamily: 'PhosphorLight',
@@ -2227,7 +2227,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `beachBall` no estilo Light.
   ///
-  /// ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beach-ball.svg)
+  /// ![beach-ball](https://api.iconify.design/ph/beach-ball-light.svg?height=32&color=%23888888)
   static const IconData beachBall = IconData(
     0xed24,
     fontFamily: 'PhosphorLight',
@@ -2239,7 +2239,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `beanie` no estilo Light.
   ///
-  /// ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beanie.svg)
+  /// ![beanie](https://api.iconify.design/ph/beanie-light.svg?height=32&color=%23888888)
   static const IconData beanie = IconData(
     0xea2a,
     fontFamily: 'PhosphorLight',
@@ -2251,7 +2251,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bed` no estilo Light.
   ///
-  /// ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bed.svg)
+  /// ![bed](https://api.iconify.design/ph/bed-light.svg?height=32&color=%23888888)
   static const IconData bed = IconData(
     0xe0cc,
     fontFamily: 'PhosphorLight',
@@ -2263,7 +2263,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `beerBottle` no estilo Light.
   ///
-  /// ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beer-bottle.svg)
+  /// ![beer-bottle](https://api.iconify.design/ph/beer-bottle-light.svg?height=32&color=%23888888)
   static const IconData beerBottle = IconData(
     0xe7b0,
     fontFamily: 'PhosphorLight',
@@ -2275,7 +2275,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `beerStein` no estilo Light.
   ///
-  /// ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beer-stein.svg)
+  /// ![beer-stein](https://api.iconify.design/ph/beer-stein-light.svg?height=32&color=%23888888)
   static const IconData beerStein = IconData(
     0xeb62,
     fontFamily: 'PhosphorLight',
@@ -2287,7 +2287,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `behanceLogo` no estilo Light.
   ///
-  /// ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/behance-logo.svg)
+  /// ![behance-logo](https://api.iconify.design/ph/behance-logo-light.svg?height=32&color=%23888888)
   static const IconData behanceLogo = IconData(
     0xe7f4,
     fontFamily: 'PhosphorLight',
@@ -2299,7 +2299,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bell` no estilo Light.
   ///
-  /// ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell.svg)
+  /// ![bell](https://api.iconify.design/ph/bell-light.svg?height=32&color=%23888888)
   static const IconData bell = IconData(
     0xe0ce,
     fontFamily: 'PhosphorLight',
@@ -2311,7 +2311,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bellRinging` no estilo Light.
   ///
-  /// ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-ringing.svg)
+  /// ![bell-ringing](https://api.iconify.design/ph/bell-ringing-light.svg?height=32&color=%23888888)
   static const IconData bellRinging = IconData(
     0xe5e8,
     fontFamily: 'PhosphorLight',
@@ -2323,7 +2323,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bellSimple` no estilo Light.
   ///
-  /// ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple.svg)
+  /// ![bell-simple](https://api.iconify.design/ph/bell-simple-light.svg?height=32&color=%23888888)
   static const IconData bellSimple = IconData(
     0xe0d0,
     fontFamily: 'PhosphorLight',
@@ -2335,7 +2335,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bellSimpleRinging` no estilo Light.
   ///
-  /// ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple-ringing.svg)
+  /// ![bell-simple-ringing](https://api.iconify.design/ph/bell-simple-ringing-light.svg?height=32&color=%23888888)
   static const IconData bellSimpleRinging = IconData(
     0xe5ea,
     fontFamily: 'PhosphorLight',
@@ -2347,7 +2347,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bellSimpleSlash` no estilo Light.
   ///
-  /// ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple-slash.svg)
+  /// ![bell-simple-slash](https://api.iconify.design/ph/bell-simple-slash-light.svg?height=32&color=%23888888)
   static const IconData bellSimpleSlash = IconData(
     0xe0d2,
     fontFamily: 'PhosphorLight',
@@ -2359,7 +2359,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bellSimpleZ` no estilo Light.
   ///
-  /// ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple-z.svg)
+  /// ![bell-simple-z](https://api.iconify.design/ph/bell-simple-z-light.svg?height=32&color=%23888888)
   static const IconData bellSimpleZ = IconData(
     0xe5ec,
     fontFamily: 'PhosphorLight',
@@ -2371,7 +2371,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bellSlash` no estilo Light.
   ///
-  /// ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-slash.svg)
+  /// ![bell-slash](https://api.iconify.design/ph/bell-slash-light.svg?height=32&color=%23888888)
   static const IconData bellSlash = IconData(
     0xe0d4,
     fontFamily: 'PhosphorLight',
@@ -2383,7 +2383,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bellZ` no estilo Light.
   ///
-  /// ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-z.svg)
+  /// ![bell-z](https://api.iconify.design/ph/bell-z-light.svg?height=32&color=%23888888)
   static const IconData bellZ = IconData(
     0xe5ee,
     fontFamily: 'PhosphorLight',
@@ -2395,7 +2395,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `belt` no estilo Light.
   ///
-  /// ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/belt.svg)
+  /// ![belt](https://api.iconify.design/ph/belt-light.svg?height=32&color=%23888888)
   static const IconData belt = IconData(
     0xea2c,
     fontFamily: 'PhosphorLight',
@@ -2407,7 +2407,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bezierCurve` no estilo Light.
   ///
-  /// ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bezier-curve.svg)
+  /// ![bezier-curve](https://api.iconify.design/ph/bezier-curve-light.svg?height=32&color=%23888888)
   static const IconData bezierCurve = IconData(
     0xeb00,
     fontFamily: 'PhosphorLight',
@@ -2419,7 +2419,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bicycle` no estilo Light.
   ///
-  /// ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bicycle.svg)
+  /// ![bicycle](https://api.iconify.design/ph/bicycle-light.svg?height=32&color=%23888888)
   static const IconData bicycle = IconData(
     0xe0d6,
     fontFamily: 'PhosphorLight',
@@ -2431,7 +2431,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `binary` no estilo Light.
   ///
-  /// ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/binary.svg)
+  /// ![binary](https://api.iconify.design/ph/binary-light.svg?height=32&color=%23888888)
   static const IconData binary = IconData(
     0xee60,
     fontFamily: 'PhosphorLight',
@@ -2443,7 +2443,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `binoculars` no estilo Light.
   ///
-  /// ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/binoculars.svg)
+  /// ![binoculars](https://api.iconify.design/ph/binoculars-light.svg?height=32&color=%23888888)
   static const IconData binoculars = IconData(
     0xea64,
     fontFamily: 'PhosphorLight',
@@ -2455,7 +2455,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `biohazard` no estilo Light.
   ///
-  /// ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/biohazard.svg)
+  /// ![biohazard](https://api.iconify.design/ph/biohazard-light.svg?height=32&color=%23888888)
   static const IconData biohazard = IconData(
     0xe9e0,
     fontFamily: 'PhosphorLight',
@@ -2467,7 +2467,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bird` no estilo Light.
   ///
-  /// ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bird.svg)
+  /// ![bird](https://api.iconify.design/ph/bird-light.svg?height=32&color=%23888888)
   static const IconData bird = IconData(
     0xe72c,
     fontFamily: 'PhosphorLight',
@@ -2479,7 +2479,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `blueprint` no estilo Light.
   ///
-  /// ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/blueprint.svg)
+  /// ![blueprint](https://api.iconify.design/ph/blueprint-light.svg?height=32&color=%23888888)
   static const IconData blueprint = IconData(
     0xeda0,
     fontFamily: 'PhosphorLight',
@@ -2491,7 +2491,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bluetooth` no estilo Light.
   ///
-  /// ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth.svg)
+  /// ![bluetooth](https://api.iconify.design/ph/bluetooth-light.svg?height=32&color=%23888888)
   static const IconData bluetooth = IconData(
     0xe0da,
     fontFamily: 'PhosphorLight',
@@ -2503,7 +2503,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bluetoothConnected` no estilo Light.
   ///
-  /// ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth-connected.svg)
+  /// ![bluetooth-connected](https://api.iconify.design/ph/bluetooth-connected-light.svg?height=32&color=%23888888)
   static const IconData bluetoothConnected = IconData(
     0xe0dc,
     fontFamily: 'PhosphorLight',
@@ -2515,7 +2515,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bluetoothSlash` no estilo Light.
   ///
-  /// ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth-slash.svg)
+  /// ![bluetooth-slash](https://api.iconify.design/ph/bluetooth-slash-light.svg?height=32&color=%23888888)
   static const IconData bluetoothSlash = IconData(
     0xe0de,
     fontFamily: 'PhosphorLight',
@@ -2527,7 +2527,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bluetoothX` no estilo Light.
   ///
-  /// ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth-x.svg)
+  /// ![bluetooth-x](https://api.iconify.design/ph/bluetooth-x-light.svg?height=32&color=%23888888)
   static const IconData bluetoothX = IconData(
     0xe0e0,
     fontFamily: 'PhosphorLight',
@@ -2539,7 +2539,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `boat` no estilo Light.
   ///
-  /// ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boat.svg)
+  /// ![boat](https://api.iconify.design/ph/boat-light.svg?height=32&color=%23888888)
   static const IconData boat = IconData(
     0xe786,
     fontFamily: 'PhosphorLight',
@@ -2551,7 +2551,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bomb` no estilo Light.
   ///
-  /// ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bomb.svg)
+  /// ![bomb](https://api.iconify.design/ph/bomb-light.svg?height=32&color=%23888888)
   static const IconData bomb = IconData(
     0xee0a,
     fontFamily: 'PhosphorLight',
@@ -2563,7 +2563,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bone` no estilo Light.
   ///
-  /// ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bone.svg)
+  /// ![bone](https://api.iconify.design/ph/bone-light.svg?height=32&color=%23888888)
   static const IconData bone = IconData(
     0xe7f2,
     fontFamily: 'PhosphorLight',
@@ -2575,7 +2575,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `book` no estilo Light.
   ///
-  /// ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book.svg)
+  /// ![book](https://api.iconify.design/ph/book-light.svg?height=32&color=%23888888)
   static const IconData book = IconData(
     0xe0e2,
     fontFamily: 'PhosphorLight',
@@ -2587,7 +2587,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookBookmark` no estilo Light.
   ///
-  /// ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-bookmark.svg)
+  /// ![book-bookmark](https://api.iconify.design/ph/book-bookmark-light.svg?height=32&color=%23888888)
   static const IconData bookBookmark = IconData(
     0xe0e4,
     fontFamily: 'PhosphorLight',
@@ -2599,7 +2599,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookOpen` no estilo Light.
   ///
-  /// ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-open.svg)
+  /// ![book-open](https://api.iconify.design/ph/book-open-light.svg?height=32&color=%23888888)
   static const IconData bookOpen = IconData(
     0xe0e6,
     fontFamily: 'PhosphorLight',
@@ -2611,7 +2611,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookOpenText` no estilo Light.
   ///
-  /// ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-open-text.svg)
+  /// ![book-open-text](https://api.iconify.design/ph/book-open-text-light.svg?height=32&color=%23888888)
   static const IconData bookOpenText = IconData(
     0xe8f2,
     fontFamily: 'PhosphorLight',
@@ -2623,7 +2623,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookOpenUser` no estilo Light.
   ///
-  /// ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-open-user.svg)
+  /// ![book-open-user](https://api.iconify.design/ph/book-open-user-light.svg?height=32&color=%23888888)
   static const IconData bookOpenUser = IconData(
     0xede0,
     fontFamily: 'PhosphorLight',
@@ -2635,7 +2635,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookmark` no estilo Light.
   ///
-  /// ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmark.svg)
+  /// ![bookmark](https://api.iconify.design/ph/bookmark-light.svg?height=32&color=%23888888)
   static const IconData bookmark = IconData(
     0xe0e8,
     fontFamily: 'PhosphorLight',
@@ -2647,7 +2647,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookmarkSimple` no estilo Light.
   ///
-  /// ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmark-simple.svg)
+  /// ![bookmark-simple](https://api.iconify.design/ph/bookmark-simple-light.svg?height=32&color=%23888888)
   static const IconData bookmarkSimple = IconData(
     0xe0ea,
     fontFamily: 'PhosphorLight',
@@ -2659,7 +2659,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookmarks` no estilo Light.
   ///
-  /// ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmarks.svg)
+  /// ![bookmarks](https://api.iconify.design/ph/bookmarks-light.svg?height=32&color=%23888888)
   static const IconData bookmarks = IconData(
     0xe0ec,
     fontFamily: 'PhosphorLight',
@@ -2671,7 +2671,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bookmarksSimple` no estilo Light.
   ///
-  /// ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmarks-simple.svg)
+  /// ![bookmarks-simple](https://api.iconify.design/ph/bookmarks-simple-light.svg?height=32&color=%23888888)
   static const IconData bookmarksSimple = IconData(
     0xe5f0,
     fontFamily: 'PhosphorLight',
@@ -2683,7 +2683,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `books` no estilo Light.
   ///
-  /// ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/books.svg)
+  /// ![books](https://api.iconify.design/ph/books-light.svg?height=32&color=%23888888)
   static const IconData books = IconData(
     0xe758,
     fontFamily: 'PhosphorLight',
@@ -2695,7 +2695,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `boot` no estilo Light.
   ///
-  /// ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boot.svg)
+  /// ![boot](https://api.iconify.design/ph/boot-light.svg?height=32&color=%23888888)
   static const IconData boot = IconData(
     0xecca,
     fontFamily: 'PhosphorLight',
@@ -2707,7 +2707,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `boules` no estilo Light.
   ///
-  /// ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boules.svg)
+  /// ![boules](https://api.iconify.design/ph/boules-light.svg?height=32&color=%23888888)
   static const IconData boules = IconData(
     0xe722,
     fontFamily: 'PhosphorLight',
@@ -2719,7 +2719,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `boundingBox` no estilo Light.
   ///
-  /// ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bounding-box.svg)
+  /// ![bounding-box](https://api.iconify.design/ph/bounding-box-light.svg?height=32&color=%23888888)
   static const IconData boundingBox = IconData(
     0xe6ce,
     fontFamily: 'PhosphorLight',
@@ -2731,7 +2731,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bowlFood` no estilo Light.
   ///
-  /// ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bowl-food.svg)
+  /// ![bowl-food](https://api.iconify.design/ph/bowl-food-light.svg?height=32&color=%23888888)
   static const IconData bowlFood = IconData(
     0xeaa4,
     fontFamily: 'PhosphorLight',
@@ -2743,7 +2743,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bowlSteam` no estilo Light.
   ///
-  /// ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bowl-steam.svg)
+  /// ![bowl-steam](https://api.iconify.design/ph/bowl-steam-light.svg?height=32&color=%23888888)
   static const IconData bowlSteam = IconData(
     0xe8e4,
     fontFamily: 'PhosphorLight',
@@ -2755,7 +2755,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bowlingBall` no estilo Light.
   ///
-  /// ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bowling-ball.svg)
+  /// ![bowling-ball](https://api.iconify.design/ph/bowling-ball-light.svg?height=32&color=%23888888)
   static const IconData bowlingBall = IconData(
     0xea34,
     fontFamily: 'PhosphorLight',
@@ -2767,7 +2767,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `boxArrowDown` no estilo Light.
   ///
-  /// ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/box-arrow-down.svg)
+  /// ![box-arrow-down](https://api.iconify.design/ph/box-arrow-down-light.svg?height=32&color=%23888888)
   static const IconData boxArrowDown = IconData(
     0xe00e,
     fontFamily: 'PhosphorLight',
@@ -2779,7 +2779,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `boxArrowUp` no estilo Light.
   ///
-  /// ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/box-arrow-up.svg)
+  /// ![box-arrow-up](https://api.iconify.design/ph/box-arrow-up-light.svg?height=32&color=%23888888)
   static const IconData boxArrowUp = IconData(
     0xee54,
     fontFamily: 'PhosphorLight',
@@ -2791,7 +2791,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `boxingGlove` no estilo Light.
   ///
-  /// ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boxing-glove.svg)
+  /// ![boxing-glove](https://api.iconify.design/ph/boxing-glove-light.svg?height=32&color=%23888888)
   static const IconData boxingGlove = IconData(
     0xea36,
     fontFamily: 'PhosphorLight',
@@ -2803,7 +2803,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bracketsAngle` no estilo Light.
   ///
-  /// ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-angle.svg)
+  /// ![brackets-angle](https://api.iconify.design/ph/brackets-angle-light.svg?height=32&color=%23888888)
   static const IconData bracketsAngle = IconData(
     0xe862,
     fontFamily: 'PhosphorLight',
@@ -2815,7 +2815,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bracketsCurly` no estilo Light.
   ///
-  /// ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-curly.svg)
+  /// ![brackets-curly](https://api.iconify.design/ph/brackets-curly-light.svg?height=32&color=%23888888)
   static const IconData bracketsCurly = IconData(
     0xe860,
     fontFamily: 'PhosphorLight',
@@ -2827,7 +2827,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bracketsRound` no estilo Light.
   ///
-  /// ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-round.svg)
+  /// ![brackets-round](https://api.iconify.design/ph/brackets-round-light.svg?height=32&color=%23888888)
   static const IconData bracketsRound = IconData(
     0xe864,
     fontFamily: 'PhosphorLight',
@@ -2839,7 +2839,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bracketsSquare` no estilo Light.
   ///
-  /// ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-square.svg)
+  /// ![brackets-square](https://api.iconify.design/ph/brackets-square-light.svg?height=32&color=%23888888)
   static const IconData bracketsSquare = IconData(
     0xe85e,
     fontFamily: 'PhosphorLight',
@@ -2851,7 +2851,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `brain` no estilo Light.
   ///
-  /// ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brain.svg)
+  /// ![brain](https://api.iconify.design/ph/brain-light.svg?height=32&color=%23888888)
   static const IconData brain = IconData(
     0xe74e,
     fontFamily: 'PhosphorLight',
@@ -2863,7 +2863,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `brandy` no estilo Light.
   ///
-  /// ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brandy.svg)
+  /// ![brandy](https://api.iconify.design/ph/brandy-light.svg?height=32&color=%23888888)
   static const IconData brandy = IconData(
     0xe6b4,
     fontFamily: 'PhosphorLight',
@@ -2875,7 +2875,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bread` no estilo Light.
   ///
-  /// ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bread.svg)
+  /// ![bread](https://api.iconify.design/ph/bread-light.svg?height=32&color=%23888888)
   static const IconData bread = IconData(
     0xe81c,
     fontFamily: 'PhosphorLight',
@@ -2887,7 +2887,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bridge` no estilo Light.
   ///
-  /// ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bridge.svg)
+  /// ![bridge](https://api.iconify.design/ph/bridge-light.svg?height=32&color=%23888888)
   static const IconData bridge = IconData(
     0xea68,
     fontFamily: 'PhosphorLight',
@@ -2899,7 +2899,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `briefcase` no estilo Light.
   ///
-  /// ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/briefcase.svg)
+  /// ![briefcase](https://api.iconify.design/ph/briefcase-light.svg?height=32&color=%23888888)
   static const IconData briefcase = IconData(
     0xe0ee,
     fontFamily: 'PhosphorLight',
@@ -2911,7 +2911,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `briefcaseMetal` no estilo Light.
   ///
-  /// ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/briefcase-metal.svg)
+  /// ![briefcase-metal](https://api.iconify.design/ph/briefcase-metal-light.svg?height=32&color=%23888888)
   static const IconData briefcaseMetal = IconData(
     0xe5f2,
     fontFamily: 'PhosphorLight',
@@ -2923,7 +2923,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `broadcast` no estilo Light.
   ///
-  /// ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/broadcast.svg)
+  /// ![broadcast](https://api.iconify.design/ph/broadcast-light.svg?height=32&color=%23888888)
   static const IconData broadcast = IconData(
     0xe0f2,
     fontFamily: 'PhosphorLight',
@@ -2935,7 +2935,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `broom` no estilo Light.
   ///
-  /// ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/broom.svg)
+  /// ![broom](https://api.iconify.design/ph/broom-light.svg?height=32&color=%23888888)
   static const IconData broom = IconData(
     0xec54,
     fontFamily: 'PhosphorLight',
@@ -2947,7 +2947,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `browser` no estilo Light.
   ///
-  /// ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/browser.svg)
+  /// ![browser](https://api.iconify.design/ph/browser-light.svg?height=32&color=%23888888)
   static const IconData browser = IconData(
     0xe0f4,
     fontFamily: 'PhosphorLight',
@@ -2959,7 +2959,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `browsers` no estilo Light.
   ///
-  /// ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/browsers.svg)
+  /// ![browsers](https://api.iconify.design/ph/browsers-light.svg?height=32&color=%23888888)
   static const IconData browsers = IconData(
     0xe0f6,
     fontFamily: 'PhosphorLight',
@@ -2971,7 +2971,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bug` no estilo Light.
   ///
-  /// ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bug.svg)
+  /// ![bug](https://api.iconify.design/ph/bug-light.svg?height=32&color=%23888888)
   static const IconData bug = IconData(
     0xe5f4,
     fontFamily: 'PhosphorLight',
@@ -2983,7 +2983,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bugBeetle` no estilo Light.
   ///
-  /// ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bug-beetle.svg)
+  /// ![bug-beetle](https://api.iconify.design/ph/bug-beetle-light.svg?height=32&color=%23888888)
   static const IconData bugBeetle = IconData(
     0xe5f6,
     fontFamily: 'PhosphorLight',
@@ -2995,7 +2995,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bugDroid` no estilo Light.
   ///
-  /// ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bug-droid.svg)
+  /// ![bug-droid](https://api.iconify.design/ph/bug-droid-light.svg?height=32&color=%23888888)
   static const IconData bugDroid = IconData(
     0xe5f8,
     fontFamily: 'PhosphorLight',
@@ -3007,7 +3007,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `building` no estilo Light.
   ///
-  /// ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/building.svg)
+  /// ![building](https://api.iconify.design/ph/building-light.svg?height=32&color=%23888888)
   static const IconData building = IconData(
     0xe100,
     fontFamily: 'PhosphorLight',
@@ -3019,7 +3019,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `buildingApartment` no estilo Light.
   ///
-  /// ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/building-apartment.svg)
+  /// ![building-apartment](https://api.iconify.design/ph/building-apartment-light.svg?height=32&color=%23888888)
   static const IconData buildingApartment = IconData(
     0xe0fe,
     fontFamily: 'PhosphorLight',
@@ -3031,7 +3031,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `buildingOffice` no estilo Light.
   ///
-  /// ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/building-office.svg)
+  /// ![building-office](https://api.iconify.design/ph/building-office-light.svg?height=32&color=%23888888)
   static const IconData buildingOffice = IconData(
     0xe0ff,
     fontFamily: 'PhosphorLight',
@@ -3043,7 +3043,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `buildings` no estilo Light.
   ///
-  /// ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/buildings.svg)
+  /// ![buildings](https://api.iconify.design/ph/buildings-light.svg?height=32&color=%23888888)
   static const IconData buildings = IconData(
     0xe102,
     fontFamily: 'PhosphorLight',
@@ -3055,7 +3055,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bulldozer` no estilo Light.
   ///
-  /// ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bulldozer.svg)
+  /// ![bulldozer](https://api.iconify.design/ph/bulldozer-light.svg?height=32&color=%23888888)
   static const IconData bulldozer = IconData(
     0xec6c,
     fontFamily: 'PhosphorLight',
@@ -3067,7 +3067,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `bus` no estilo Light.
   ///
-  /// ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bus.svg)
+  /// ![bus](https://api.iconify.design/ph/bus-light.svg?height=32&color=%23888888)
   static const IconData bus = IconData(
     0xe106,
     fontFamily: 'PhosphorLight',
@@ -3079,7 +3079,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `butterfly` no estilo Light.
   ///
-  /// ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/butterfly.svg)
+  /// ![butterfly](https://api.iconify.design/ph/butterfly-light.svg?height=32&color=%23888888)
   static const IconData butterfly = IconData(
     0xea6e,
     fontFamily: 'PhosphorLight',
@@ -3091,7 +3091,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cableCar` no estilo Light.
   ///
-  /// ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cable-car.svg)
+  /// ![cable-car](https://api.iconify.design/ph/cable-car-light.svg?height=32&color=%23888888)
   static const IconData cableCar = IconData(
     0xe49c,
     fontFamily: 'PhosphorLight',
@@ -3103,7 +3103,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cactus` no estilo Light.
   ///
-  /// ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cactus.svg)
+  /// ![cactus](https://api.iconify.design/ph/cactus-light.svg?height=32&color=%23888888)
   static const IconData cactus = IconData(
     0xe918,
     fontFamily: 'PhosphorLight',
@@ -3115,7 +3115,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caduceus` no estilo Light.
   ///
-  /// ![caduceus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caduceus.svg)
+  /// ![caduceus](https://api.iconify.design/ph/asclepius-light.svg?height=32&color=%23888888)
   static const IconData caduceus = IconData(
     0xee34,
     fontFamily: 'PhosphorLight',
@@ -3127,7 +3127,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cake` no estilo Light.
   ///
-  /// ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cake.svg)
+  /// ![cake](https://api.iconify.design/ph/cake-light.svg?height=32&color=%23888888)
   static const IconData cake = IconData(
     0xe780,
     fontFamily: 'PhosphorLight',
@@ -3139,7 +3139,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calculator` no estilo Light.
   ///
-  /// ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calculator.svg)
+  /// ![calculator](https://api.iconify.design/ph/calculator-light.svg?height=32&color=%23888888)
   static const IconData calculator = IconData(
     0xe538,
     fontFamily: 'PhosphorLight',
@@ -3151,7 +3151,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendar` no estilo Light.
   ///
-  /// ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar.svg)
+  /// ![calendar](https://api.iconify.design/ph/calendar-light.svg?height=32&color=%23888888)
   static const IconData calendar = IconData(
     0xe108,
     fontFamily: 'PhosphorLight',
@@ -3163,7 +3163,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarBlank` no estilo Light.
   ///
-  /// ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-blank.svg)
+  /// ![calendar-blank](https://api.iconify.design/ph/calendar-blank-light.svg?height=32&color=%23888888)
   static const IconData calendarBlank = IconData(
     0xe10a,
     fontFamily: 'PhosphorLight',
@@ -3175,7 +3175,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarCheck` no estilo Light.
   ///
-  /// ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-check.svg)
+  /// ![calendar-check](https://api.iconify.design/ph/calendar-check-light.svg?height=32&color=%23888888)
   static const IconData calendarCheck = IconData(
     0xe712,
     fontFamily: 'PhosphorLight',
@@ -3187,7 +3187,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarDot` no estilo Light.
   ///
-  /// ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-dot.svg)
+  /// ![calendar-dot](https://api.iconify.design/ph/calendar-dot-light.svg?height=32&color=%23888888)
   static const IconData calendarDot = IconData(
     0xe7b2,
     fontFamily: 'PhosphorLight',
@@ -3199,7 +3199,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarDots` no estilo Light.
   ///
-  /// ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-dots.svg)
+  /// ![calendar-dots](https://api.iconify.design/ph/calendar-dots-light.svg?height=32&color=%23888888)
   static const IconData calendarDots = IconData(
     0xe7b4,
     fontFamily: 'PhosphorLight',
@@ -3211,7 +3211,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarHeart` no estilo Light.
   ///
-  /// ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-heart.svg)
+  /// ![calendar-heart](https://api.iconify.design/ph/calendar-heart-light.svg?height=32&color=%23888888)
   static const IconData calendarHeart = IconData(
     0xe8b0,
     fontFamily: 'PhosphorLight',
@@ -3223,7 +3223,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarMinus` no estilo Light.
   ///
-  /// ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-minus.svg)
+  /// ![calendar-minus](https://api.iconify.design/ph/calendar-minus-light.svg?height=32&color=%23888888)
   static const IconData calendarMinus = IconData(
     0xea14,
     fontFamily: 'PhosphorLight',
@@ -3235,7 +3235,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarPlus` no estilo Light.
   ///
-  /// ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-plus.svg)
+  /// ![calendar-plus](https://api.iconify.design/ph/calendar-plus-light.svg?height=32&color=%23888888)
   static const IconData calendarPlus = IconData(
     0xe714,
     fontFamily: 'PhosphorLight',
@@ -3247,7 +3247,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarSlash` no estilo Light.
   ///
-  /// ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-slash.svg)
+  /// ![calendar-slash](https://api.iconify.design/ph/calendar-slash-light.svg?height=32&color=%23888888)
   static const IconData calendarSlash = IconData(
     0xea12,
     fontFamily: 'PhosphorLight',
@@ -3259,7 +3259,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarStar` no estilo Light.
   ///
-  /// ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-star.svg)
+  /// ![calendar-star](https://api.iconify.design/ph/calendar-star-light.svg?height=32&color=%23888888)
   static const IconData calendarStar = IconData(
     0xe8b2,
     fontFamily: 'PhosphorLight',
@@ -3271,7 +3271,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `calendarX` no estilo Light.
   ///
-  /// ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-x.svg)
+  /// ![calendar-x](https://api.iconify.design/ph/calendar-x-light.svg?height=32&color=%23888888)
   static const IconData calendarX = IconData(
     0xe10c,
     fontFamily: 'PhosphorLight',
@@ -3283,7 +3283,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `callBell` no estilo Light.
   ///
-  /// ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/call-bell.svg)
+  /// ![call-bell](https://api.iconify.design/ph/call-bell-light.svg?height=32&color=%23888888)
   static const IconData callBell = IconData(
     0xe7de,
     fontFamily: 'PhosphorLight',
@@ -3295,7 +3295,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `camera` no estilo Light.
   ///
-  /// ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera.svg)
+  /// ![camera](https://api.iconify.design/ph/camera-light.svg?height=32&color=%23888888)
   static const IconData camera = IconData(
     0xe10e,
     fontFamily: 'PhosphorLight',
@@ -3307,7 +3307,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cameraPlus` no estilo Light.
   ///
-  /// ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera-plus.svg)
+  /// ![camera-plus](https://api.iconify.design/ph/camera-plus-light.svg?height=32&color=%23888888)
   static const IconData cameraPlus = IconData(
     0xec58,
     fontFamily: 'PhosphorLight',
@@ -3319,7 +3319,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cameraRotate` no estilo Light.
   ///
-  /// ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera-rotate.svg)
+  /// ![camera-rotate](https://api.iconify.design/ph/camera-rotate-light.svg?height=32&color=%23888888)
   static const IconData cameraRotate = IconData(
     0xe7a4,
     fontFamily: 'PhosphorLight',
@@ -3331,7 +3331,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cameraSlash` no estilo Light.
   ///
-  /// ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera-slash.svg)
+  /// ![camera-slash](https://api.iconify.design/ph/camera-slash-light.svg?height=32&color=%23888888)
   static const IconData cameraSlash = IconData(
     0xe110,
     fontFamily: 'PhosphorLight',
@@ -3343,7 +3343,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `campfire` no estilo Light.
   ///
-  /// ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/campfire.svg)
+  /// ![campfire](https://api.iconify.design/ph/campfire-light.svg?height=32&color=%23888888)
   static const IconData campfire = IconData(
     0xe9d8,
     fontFamily: 'PhosphorLight',
@@ -3355,7 +3355,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `car` no estilo Light.
   ///
-  /// ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car.svg)
+  /// ![car](https://api.iconify.design/ph/car-light.svg?height=32&color=%23888888)
   static const IconData car = IconData(
     0xe112,
     fontFamily: 'PhosphorLight',
@@ -3367,7 +3367,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `carBattery` no estilo Light.
   ///
-  /// ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car-battery.svg)
+  /// ![car-battery](https://api.iconify.design/ph/car-battery-light.svg?height=32&color=%23888888)
   static const IconData carBattery = IconData(
     0xee30,
     fontFamily: 'PhosphorLight',
@@ -3379,7 +3379,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `carProfile` no estilo Light.
   ///
-  /// ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car-profile.svg)
+  /// ![car-profile](https://api.iconify.design/ph/car-profile-light.svg?height=32&color=%23888888)
   static const IconData carProfile = IconData(
     0xe8cc,
     fontFamily: 'PhosphorLight',
@@ -3391,7 +3391,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `carSimple` no estilo Light.
   ///
-  /// ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car-simple.svg)
+  /// ![car-simple](https://api.iconify.design/ph/car-simple-light.svg?height=32&color=%23888888)
   static const IconData carSimple = IconData(
     0xe114,
     fontFamily: 'PhosphorLight',
@@ -3403,7 +3403,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cardholder` no estilo Light.
   ///
-  /// ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cardholder.svg)
+  /// ![cardholder](https://api.iconify.design/ph/cardholder-light.svg?height=32&color=%23888888)
   static const IconData cardholder = IconData(
     0xe5fa,
     fontFamily: 'PhosphorLight',
@@ -3415,7 +3415,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cards` no estilo Light.
   ///
-  /// ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cards.svg)
+  /// ![cards](https://api.iconify.design/ph/cards-light.svg?height=32&color=%23888888)
   static const IconData cards = IconData(
     0xe0f8,
     fontFamily: 'PhosphorLight',
@@ -3427,7 +3427,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cardsThree` no estilo Light.
   ///
-  /// ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cards-three.svg)
+  /// ![cards-three](https://api.iconify.design/ph/cards-three-light.svg?height=32&color=%23888888)
   static const IconData cardsThree = IconData(
     0xee50,
     fontFamily: 'PhosphorLight',
@@ -3439,7 +3439,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleDoubleDown` no estilo Light.
   ///
-  /// ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-down.svg)
+  /// ![caret-circle-double-down](https://api.iconify.design/ph/caret-circle-double-down-light.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleDown = IconData(
     0xe116,
     fontFamily: 'PhosphorLight',
@@ -3451,7 +3451,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleDoubleLeft` no estilo Light.
   ///
-  /// ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-left.svg)
+  /// ![caret-circle-double-left](https://api.iconify.design/ph/caret-circle-double-left-light.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleLeft = IconData(
     0xe118,
     fontFamily: 'PhosphorLight',
@@ -3463,7 +3463,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleDoubleRight` no estilo Light.
   ///
-  /// ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-right.svg)
+  /// ![caret-circle-double-right](https://api.iconify.design/ph/caret-circle-double-right-light.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleRight = IconData(
     0xe11a,
     fontFamily: 'PhosphorLight',
@@ -3475,7 +3475,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleDoubleUp` no estilo Light.
   ///
-  /// ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-up.svg)
+  /// ![caret-circle-double-up](https://api.iconify.design/ph/caret-circle-double-up-light.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleUp = IconData(
     0xe11c,
     fontFamily: 'PhosphorLight',
@@ -3487,7 +3487,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleDown` no estilo Light.
   ///
-  /// ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-down.svg)
+  /// ![caret-circle-down](https://api.iconify.design/ph/caret-circle-down-light.svg?height=32&color=%23888888)
   static const IconData caretCircleDown = IconData(
     0xe11e,
     fontFamily: 'PhosphorLight',
@@ -3499,7 +3499,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleLeft` no estilo Light.
   ///
-  /// ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-left.svg)
+  /// ![caret-circle-left](https://api.iconify.design/ph/caret-circle-left-light.svg?height=32&color=%23888888)
   static const IconData caretCircleLeft = IconData(
     0xe120,
     fontFamily: 'PhosphorLight',
@@ -3511,7 +3511,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleRight` no estilo Light.
   ///
-  /// ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-right.svg)
+  /// ![caret-circle-right](https://api.iconify.design/ph/caret-circle-right-light.svg?height=32&color=%23888888)
   static const IconData caretCircleRight = IconData(
     0xe122,
     fontFamily: 'PhosphorLight',
@@ -3523,7 +3523,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleUp` no estilo Light.
   ///
-  /// ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-up.svg)
+  /// ![caret-circle-up](https://api.iconify.design/ph/caret-circle-up-light.svg?height=32&color=%23888888)
   static const IconData caretCircleUp = IconData(
     0xe124,
     fontFamily: 'PhosphorLight',
@@ -3535,7 +3535,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretCircleUpDown` no estilo Light.
   ///
-  /// ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-up-down.svg)
+  /// ![caret-circle-up-down](https://api.iconify.design/ph/caret-circle-up-down-light.svg?height=32&color=%23888888)
   static const IconData caretCircleUpDown = IconData(
     0xe13e,
     fontFamily: 'PhosphorLight',
@@ -3547,7 +3547,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretDoubleDown` no estilo Light.
   ///
-  /// ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-down.svg)
+  /// ![caret-double-down](https://api.iconify.design/ph/caret-double-down-light.svg?height=32&color=%23888888)
   static const IconData caretDoubleDown = IconData(
     0xe126,
     fontFamily: 'PhosphorLight',
@@ -3559,7 +3559,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretDoubleLeft` no estilo Light.
   ///
-  /// ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-left.svg)
+  /// ![caret-double-left](https://api.iconify.design/ph/caret-double-left-light.svg?height=32&color=%23888888)
   static const IconData caretDoubleLeft = IconData(
     0xe128,
     fontFamily: 'PhosphorLight',
@@ -3571,7 +3571,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretDoubleRight` no estilo Light.
   ///
-  /// ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-right.svg)
+  /// ![caret-double-right](https://api.iconify.design/ph/caret-double-right-light.svg?height=32&color=%23888888)
   static const IconData caretDoubleRight = IconData(
     0xe12a,
     fontFamily: 'PhosphorLight',
@@ -3583,7 +3583,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretDoubleUp` no estilo Light.
   ///
-  /// ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-up.svg)
+  /// ![caret-double-up](https://api.iconify.design/ph/caret-double-up-light.svg?height=32&color=%23888888)
   static const IconData caretDoubleUp = IconData(
     0xe12c,
     fontFamily: 'PhosphorLight',
@@ -3595,7 +3595,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretDown` no estilo Light.
   ///
-  /// ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-down.svg)
+  /// ![caret-down](https://api.iconify.design/ph/caret-down-light.svg?height=32&color=%23888888)
   static const IconData caretDown = IconData(
     0xe136,
     fontFamily: 'PhosphorLight',
@@ -3607,7 +3607,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretLeft` no estilo Light.
   ///
-  /// ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-left.svg)
+  /// ![caret-left](https://api.iconify.design/ph/caret-left-light.svg?height=32&color=%23888888)
   static const IconData caretLeft = IconData(
     0xe138,
     fontFamily: 'PhosphorLight',
@@ -3619,7 +3619,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretLineDown` no estilo Light.
   ///
-  /// ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-down.svg)
+  /// ![caret-line-down](https://api.iconify.design/ph/caret-line-down-light.svg?height=32&color=%23888888)
   static const IconData caretLineDown = IconData(
     0xe134,
     fontFamily: 'PhosphorLight',
@@ -3631,7 +3631,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretLineLeft` no estilo Light.
   ///
-  /// ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-left.svg)
+  /// ![caret-line-left](https://api.iconify.design/ph/caret-line-left-light.svg?height=32&color=%23888888)
   static const IconData caretLineLeft = IconData(
     0xe132,
     fontFamily: 'PhosphorLight',
@@ -3643,7 +3643,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretLineRight` no estilo Light.
   ///
-  /// ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-right.svg)
+  /// ![caret-line-right](https://api.iconify.design/ph/caret-line-right-light.svg?height=32&color=%23888888)
   static const IconData caretLineRight = IconData(
     0xe130,
     fontFamily: 'PhosphorLight',
@@ -3655,7 +3655,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretLineUp` no estilo Light.
   ///
-  /// ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-up.svg)
+  /// ![caret-line-up](https://api.iconify.design/ph/caret-line-up-light.svg?height=32&color=%23888888)
   static const IconData caretLineUp = IconData(
     0xe12e,
     fontFamily: 'PhosphorLight',
@@ -3667,7 +3667,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretRight` no estilo Light.
   ///
-  /// ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-right.svg)
+  /// ![caret-right](https://api.iconify.design/ph/caret-right-light.svg?height=32&color=%23888888)
   static const IconData caretRight = IconData(
     0xe13a,
     fontFamily: 'PhosphorLight',
@@ -3679,7 +3679,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretUp` no estilo Light.
   ///
-  /// ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-up.svg)
+  /// ![caret-up](https://api.iconify.design/ph/caret-up-light.svg?height=32&color=%23888888)
   static const IconData caretUp = IconData(
     0xe13c,
     fontFamily: 'PhosphorLight',
@@ -3691,7 +3691,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `caretUpDown` no estilo Light.
   ///
-  /// ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-up-down.svg)
+  /// ![caret-up-down](https://api.iconify.design/ph/caret-up-down-light.svg?height=32&color=%23888888)
   static const IconData caretUpDown = IconData(
     0xe140,
     fontFamily: 'PhosphorLight',
@@ -3703,7 +3703,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `carrot` no estilo Light.
   ///
-  /// ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/carrot.svg)
+  /// ![carrot](https://api.iconify.design/ph/carrot-light.svg?height=32&color=%23888888)
   static const IconData carrot = IconData(
     0xed38,
     fontFamily: 'PhosphorLight',
@@ -3715,7 +3715,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cashRegister` no estilo Light.
   ///
-  /// ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cash-register.svg)
+  /// ![cash-register](https://api.iconify.design/ph/cash-register-light.svg?height=32&color=%23888888)
   static const IconData cashRegister = IconData(
     0xed80,
     fontFamily: 'PhosphorLight',
@@ -3727,7 +3727,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cassetteTape` no estilo Light.
   ///
-  /// ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cassette-tape.svg)
+  /// ![cassette-tape](https://api.iconify.design/ph/cassette-tape-light.svg?height=32&color=%23888888)
   static const IconData cassetteTape = IconData(
     0xed2e,
     fontFamily: 'PhosphorLight',
@@ -3739,7 +3739,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `castleTurret` no estilo Light.
   ///
-  /// ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/castle-turret.svg)
+  /// ![castle-turret](https://api.iconify.design/ph/castle-turret-light.svg?height=32&color=%23888888)
   static const IconData castleTurret = IconData(
     0xe9d0,
     fontFamily: 'PhosphorLight',
@@ -3751,7 +3751,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cat` no estilo Light.
   ///
-  /// ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cat.svg)
+  /// ![cat](https://api.iconify.design/ph/cat-light.svg?height=32&color=%23888888)
   static const IconData cat = IconData(
     0xe748,
     fontFamily: 'PhosphorLight',
@@ -3763,7 +3763,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellSignalFull` no estilo Light.
   ///
-  /// ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-full.svg)
+  /// ![cell-signal-full](https://api.iconify.design/ph/cell-signal-full-light.svg?height=32&color=%23888888)
   static const IconData cellSignalFull = IconData(
     0xe142,
     fontFamily: 'PhosphorLight',
@@ -3775,7 +3775,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellSignalHigh` no estilo Light.
   ///
-  /// ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-high.svg)
+  /// ![cell-signal-high](https://api.iconify.design/ph/cell-signal-high-light.svg?height=32&color=%23888888)
   static const IconData cellSignalHigh = IconData(
     0xe144,
     fontFamily: 'PhosphorLight',
@@ -3787,7 +3787,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellSignalLow` no estilo Light.
   ///
-  /// ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-low.svg)
+  /// ![cell-signal-low](https://api.iconify.design/ph/cell-signal-low-light.svg?height=32&color=%23888888)
   static const IconData cellSignalLow = IconData(
     0xe146,
     fontFamily: 'PhosphorLight',
@@ -3799,7 +3799,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellSignalMedium` no estilo Light.
   ///
-  /// ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-medium.svg)
+  /// ![cell-signal-medium](https://api.iconify.design/ph/cell-signal-medium-light.svg?height=32&color=%23888888)
   static const IconData cellSignalMedium = IconData(
     0xe148,
     fontFamily: 'PhosphorLight',
@@ -3811,7 +3811,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellSignalNone` no estilo Light.
   ///
-  /// ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-none.svg)
+  /// ![cell-signal-none](https://api.iconify.design/ph/cell-signal-none-light.svg?height=32&color=%23888888)
   static const IconData cellSignalNone = IconData(
     0xe14a,
     fontFamily: 'PhosphorLight',
@@ -3823,7 +3823,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellSignalSlash` no estilo Light.
   ///
-  /// ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-slash.svg)
+  /// ![cell-signal-slash](https://api.iconify.design/ph/cell-signal-slash-light.svg?height=32&color=%23888888)
   static const IconData cellSignalSlash = IconData(
     0xe14c,
     fontFamily: 'PhosphorLight',
@@ -3835,7 +3835,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellSignalX` no estilo Light.
   ///
-  /// ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-x.svg)
+  /// ![cell-signal-x](https://api.iconify.design/ph/cell-signal-x-light.svg?height=32&color=%23888888)
   static const IconData cellSignalX = IconData(
     0xe14e,
     fontFamily: 'PhosphorLight',
@@ -3847,7 +3847,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cellTower` no estilo Light.
   ///
-  /// ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-tower.svg)
+  /// ![cell-tower](https://api.iconify.design/ph/cell-tower-light.svg?height=32&color=%23888888)
   static const IconData cellTower = IconData(
     0xebaa,
     fontFamily: 'PhosphorLight',
@@ -3859,7 +3859,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `certificate` no estilo Light.
   ///
-  /// ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/certificate.svg)
+  /// ![certificate](https://api.iconify.design/ph/certificate-light.svg?height=32&color=%23888888)
   static const IconData certificate = IconData(
     0xe766,
     fontFamily: 'PhosphorLight',
@@ -3871,7 +3871,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chair` no estilo Light.
   ///
-  /// ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chair.svg)
+  /// ![chair](https://api.iconify.design/ph/chair-light.svg?height=32&color=%23888888)
   static const IconData chair = IconData(
     0xe950,
     fontFamily: 'PhosphorLight',
@@ -3883,7 +3883,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chalkboard` no estilo Light.
   ///
-  /// ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chalkboard.svg)
+  /// ![chalkboard](https://api.iconify.design/ph/chalkboard-light.svg?height=32&color=%23888888)
   static const IconData chalkboard = IconData(
     0xe5fc,
     fontFamily: 'PhosphorLight',
@@ -3895,7 +3895,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chalkboardSimple` no estilo Light.
   ///
-  /// ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chalkboard-simple.svg)
+  /// ![chalkboard-simple](https://api.iconify.design/ph/chalkboard-simple-light.svg?height=32&color=%23888888)
   static const IconData chalkboardSimple = IconData(
     0xe5fe,
     fontFamily: 'PhosphorLight',
@@ -3907,7 +3907,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chalkboardTeacher` no estilo Light.
   ///
-  /// ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chalkboard-teacher.svg)
+  /// ![chalkboard-teacher](https://api.iconify.design/ph/chalkboard-teacher-light.svg?height=32&color=%23888888)
   static const IconData chalkboardTeacher = IconData(
     0xe600,
     fontFamily: 'PhosphorLight',
@@ -3919,7 +3919,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `champagne` no estilo Light.
   ///
-  /// ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/champagne.svg)
+  /// ![champagne](https://api.iconify.design/ph/champagne-light.svg?height=32&color=%23888888)
   static const IconData champagne = IconData(
     0xeaca,
     fontFamily: 'PhosphorLight',
@@ -3931,7 +3931,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chargingStation` no estilo Light.
   ///
-  /// ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/charging-station.svg)
+  /// ![charging-station](https://api.iconify.design/ph/charging-station-light.svg?height=32&color=%23888888)
   static const IconData chargingStation = IconData(
     0xe8d0,
     fontFamily: 'PhosphorLight',
@@ -3943,7 +3943,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartBar` no estilo Light.
   ///
-  /// ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-bar.svg)
+  /// ![chart-bar](https://api.iconify.design/ph/chart-bar-light.svg?height=32&color=%23888888)
   static const IconData chartBar = IconData(
     0xe150,
     fontFamily: 'PhosphorLight',
@@ -3955,7 +3955,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartBarHorizontal` no estilo Light.
   ///
-  /// ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-bar-horizontal.svg)
+  /// ![chart-bar-horizontal](https://api.iconify.design/ph/chart-bar-horizontal-light.svg?height=32&color=%23888888)
   static const IconData chartBarHorizontal = IconData(
     0xe152,
     fontFamily: 'PhosphorLight',
@@ -3967,7 +3967,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartDonut` no estilo Light.
   ///
-  /// ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-donut.svg)
+  /// ![chart-donut](https://api.iconify.design/ph/chart-donut-light.svg?height=32&color=%23888888)
   static const IconData chartDonut = IconData(
     0xeaa6,
     fontFamily: 'PhosphorLight',
@@ -3979,7 +3979,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartLine` no estilo Light.
   ///
-  /// ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-line.svg)
+  /// ![chart-line](https://api.iconify.design/ph/chart-line-light.svg?height=32&color=%23888888)
   static const IconData chartLine = IconData(
     0xe154,
     fontFamily: 'PhosphorLight',
@@ -3991,7 +3991,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartLineDown` no estilo Light.
   ///
-  /// ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-line-down.svg)
+  /// ![chart-line-down](https://api.iconify.design/ph/chart-line-down-light.svg?height=32&color=%23888888)
   static const IconData chartLineDown = IconData(
     0xe8b6,
     fontFamily: 'PhosphorLight',
@@ -4003,7 +4003,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartLineUp` no estilo Light.
   ///
-  /// ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-line-up.svg)
+  /// ![chart-line-up](https://api.iconify.design/ph/chart-line-up-light.svg?height=32&color=%23888888)
   static const IconData chartLineUp = IconData(
     0xe156,
     fontFamily: 'PhosphorLight',
@@ -4015,7 +4015,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartPie` no estilo Light.
   ///
-  /// ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-pie.svg)
+  /// ![chart-pie](https://api.iconify.design/ph/chart-pie-light.svg?height=32&color=%23888888)
   static const IconData chartPie = IconData(
     0xe158,
     fontFamily: 'PhosphorLight',
@@ -4027,7 +4027,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartPieSlice` no estilo Light.
   ///
-  /// ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-pie-slice.svg)
+  /// ![chart-pie-slice](https://api.iconify.design/ph/chart-pie-slice-light.svg?height=32&color=%23888888)
   static const IconData chartPieSlice = IconData(
     0xe15a,
     fontFamily: 'PhosphorLight',
@@ -4039,7 +4039,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartPolar` no estilo Light.
   ///
-  /// ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-polar.svg)
+  /// ![chart-polar](https://api.iconify.design/ph/chart-polar-light.svg?height=32&color=%23888888)
   static const IconData chartPolar = IconData(
     0xeaa8,
     fontFamily: 'PhosphorLight',
@@ -4051,7 +4051,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chartScatter` no estilo Light.
   ///
-  /// ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-scatter.svg)
+  /// ![chart-scatter](https://api.iconify.design/ph/chart-scatter-light.svg?height=32&color=%23888888)
   static const IconData chartScatter = IconData(
     0xeaac,
     fontFamily: 'PhosphorLight',
@@ -4063,7 +4063,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chat` no estilo Light.
   ///
-  /// ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat.svg)
+  /// ![chat](https://api.iconify.design/ph/chat-light.svg?height=32&color=%23888888)
   static const IconData chat = IconData(
     0xe15c,
     fontFamily: 'PhosphorLight',
@@ -4075,7 +4075,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCentered` no estilo Light.
   ///
-  /// ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered.svg)
+  /// ![chat-centered](https://api.iconify.design/ph/chat-centered-light.svg?height=32&color=%23888888)
   static const IconData chatCentered = IconData(
     0xe160,
     fontFamily: 'PhosphorLight',
@@ -4087,7 +4087,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCenteredDots` no estilo Light.
   ///
-  /// ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered-dots.svg)
+  /// ![chat-centered-dots](https://api.iconify.design/ph/chat-centered-dots-light.svg?height=32&color=%23888888)
   static const IconData chatCenteredDots = IconData(
     0xe164,
     fontFamily: 'PhosphorLight',
@@ -4099,7 +4099,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCenteredSlash` no estilo Light.
   ///
-  /// ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered-slash.svg)
+  /// ![chat-centered-slash](https://api.iconify.design/ph/chat-centered-slash-light.svg?height=32&color=%23888888)
   static const IconData chatCenteredSlash = IconData(
     0xe162,
     fontFamily: 'PhosphorLight',
@@ -4111,7 +4111,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCenteredText` no estilo Light.
   ///
-  /// ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered-text.svg)
+  /// ![chat-centered-text](https://api.iconify.design/ph/chat-centered-text-light.svg?height=32&color=%23888888)
   static const IconData chatCenteredText = IconData(
     0xe166,
     fontFamily: 'PhosphorLight',
@@ -4123,7 +4123,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCircle` no estilo Light.
   ///
-  /// ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle.svg)
+  /// ![chat-circle](https://api.iconify.design/ph/chat-circle-light.svg?height=32&color=%23888888)
   static const IconData chatCircle = IconData(
     0xe168,
     fontFamily: 'PhosphorLight',
@@ -4135,7 +4135,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCircleDots` no estilo Light.
   ///
-  /// ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle-dots.svg)
+  /// ![chat-circle-dots](https://api.iconify.design/ph/chat-circle-dots-light.svg?height=32&color=%23888888)
   static const IconData chatCircleDots = IconData(
     0xe16c,
     fontFamily: 'PhosphorLight',
@@ -4147,7 +4147,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCircleSlash` no estilo Light.
   ///
-  /// ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle-slash.svg)
+  /// ![chat-circle-slash](https://api.iconify.design/ph/chat-circle-slash-light.svg?height=32&color=%23888888)
   static const IconData chatCircleSlash = IconData(
     0xe16a,
     fontFamily: 'PhosphorLight',
@@ -4159,7 +4159,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatCircleText` no estilo Light.
   ///
-  /// ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle-text.svg)
+  /// ![chat-circle-text](https://api.iconify.design/ph/chat-circle-text-light.svg?height=32&color=%23888888)
   static const IconData chatCircleText = IconData(
     0xe16e,
     fontFamily: 'PhosphorLight',
@@ -4171,7 +4171,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatDots` no estilo Light.
   ///
-  /// ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-dots.svg)
+  /// ![chat-dots](https://api.iconify.design/ph/chat-dots-light.svg?height=32&color=%23888888)
   static const IconData chatDots = IconData(
     0xe170,
     fontFamily: 'PhosphorLight',
@@ -4183,7 +4183,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatSlash` no estilo Light.
   ///
-  /// ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-slash.svg)
+  /// ![chat-slash](https://api.iconify.design/ph/chat-slash-light.svg?height=32&color=%23888888)
   static const IconData chatSlash = IconData(
     0xe15e,
     fontFamily: 'PhosphorLight',
@@ -4195,7 +4195,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatTeardrop` no estilo Light.
   ///
-  /// ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop.svg)
+  /// ![chat-teardrop](https://api.iconify.design/ph/chat-teardrop-light.svg?height=32&color=%23888888)
   static const IconData chatTeardrop = IconData(
     0xe172,
     fontFamily: 'PhosphorLight',
@@ -4207,7 +4207,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatTeardropDots` no estilo Light.
   ///
-  /// ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop-dots.svg)
+  /// ![chat-teardrop-dots](https://api.iconify.design/ph/chat-teardrop-dots-light.svg?height=32&color=%23888888)
   static const IconData chatTeardropDots = IconData(
     0xe176,
     fontFamily: 'PhosphorLight',
@@ -4219,7 +4219,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatTeardropSlash` no estilo Light.
   ///
-  /// ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop-slash.svg)
+  /// ![chat-teardrop-slash](https://api.iconify.design/ph/chat-teardrop-slash-light.svg?height=32&color=%23888888)
   static const IconData chatTeardropSlash = IconData(
     0xe174,
     fontFamily: 'PhosphorLight',
@@ -4231,7 +4231,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatTeardropText` no estilo Light.
   ///
-  /// ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop-text.svg)
+  /// ![chat-teardrop-text](https://api.iconify.design/ph/chat-teardrop-text-light.svg?height=32&color=%23888888)
   static const IconData chatTeardropText = IconData(
     0xe178,
     fontFamily: 'PhosphorLight',
@@ -4243,7 +4243,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatText` no estilo Light.
   ///
-  /// ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-text.svg)
+  /// ![chat-text](https://api.iconify.design/ph/chat-text-light.svg?height=32&color=%23888888)
   static const IconData chatText = IconData(
     0xe17a,
     fontFamily: 'PhosphorLight',
@@ -4255,7 +4255,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chats` no estilo Light.
   ///
-  /// ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chats.svg)
+  /// ![chats](https://api.iconify.design/ph/chats-light.svg?height=32&color=%23888888)
   static const IconData chats = IconData(
     0xe17c,
     fontFamily: 'PhosphorLight',
@@ -4267,7 +4267,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatsCircle` no estilo Light.
   ///
-  /// ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chats-circle.svg)
+  /// ![chats-circle](https://api.iconify.design/ph/chats-circle-light.svg?height=32&color=%23888888)
   static const IconData chatsCircle = IconData(
     0xe17e,
     fontFamily: 'PhosphorLight',
@@ -4279,7 +4279,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chatsTeardrop` no estilo Light.
   ///
-  /// ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chats-teardrop.svg)
+  /// ![chats-teardrop](https://api.iconify.design/ph/chats-teardrop-light.svg?height=32&color=%23888888)
   static const IconData chatsTeardrop = IconData(
     0xe180,
     fontFamily: 'PhosphorLight',
@@ -4291,7 +4291,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `check` no estilo Light.
   ///
-  /// ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check.svg)
+  /// ![check](https://api.iconify.design/ph/check-light.svg?height=32&color=%23888888)
   static const IconData check = IconData(
     0xe182,
     fontFamily: 'PhosphorLight',
@@ -4303,7 +4303,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `checkCircle` no estilo Light.
   ///
-  /// ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-circle.svg)
+  /// ![check-circle](https://api.iconify.design/ph/check-circle-light.svg?height=32&color=%23888888)
   static const IconData checkCircle = IconData(
     0xe184,
     fontFamily: 'PhosphorLight',
@@ -4315,7 +4315,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `checkFat` no estilo Light.
   ///
-  /// ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-fat.svg)
+  /// ![check-fat](https://api.iconify.design/ph/check-fat-light.svg?height=32&color=%23888888)
   static const IconData checkFat = IconData(
     0xeba6,
     fontFamily: 'PhosphorLight',
@@ -4327,7 +4327,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `checkSquare` no estilo Light.
   ///
-  /// ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-square.svg)
+  /// ![check-square](https://api.iconify.design/ph/check-square-light.svg?height=32&color=%23888888)
   static const IconData checkSquare = IconData(
     0xe186,
     fontFamily: 'PhosphorLight',
@@ -4339,7 +4339,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `checkSquareOffset` no estilo Light.
   ///
-  /// ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-square-offset.svg)
+  /// ![check-square-offset](https://api.iconify.design/ph/check-square-offset-light.svg?height=32&color=%23888888)
   static const IconData checkSquareOffset = IconData(
     0xe188,
     fontFamily: 'PhosphorLight',
@@ -4351,7 +4351,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `checkerboard` no estilo Light.
   ///
-  /// ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/checkerboard.svg)
+  /// ![checkerboard](https://api.iconify.design/ph/checkerboard-light.svg?height=32&color=%23888888)
   static const IconData checkerboard = IconData(
     0xe8c4,
     fontFamily: 'PhosphorLight',
@@ -4363,7 +4363,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `checks` no estilo Light.
   ///
-  /// ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/checks.svg)
+  /// ![checks](https://api.iconify.design/ph/checks-light.svg?height=32&color=%23888888)
   static const IconData checks = IconData(
     0xe53a,
     fontFamily: 'PhosphorLight',
@@ -4375,7 +4375,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cheers` no estilo Light.
   ///
-  /// ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cheers.svg)
+  /// ![cheers](https://api.iconify.design/ph/cheers-light.svg?height=32&color=%23888888)
   static const IconData cheers = IconData(
     0xea4a,
     fontFamily: 'PhosphorLight',
@@ -4387,7 +4387,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cheese` no estilo Light.
   ///
-  /// ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cheese.svg)
+  /// ![cheese](https://api.iconify.design/ph/cheese-light.svg?height=32&color=%23888888)
   static const IconData cheese = IconData(
     0xe9fe,
     fontFamily: 'PhosphorLight',
@@ -4399,7 +4399,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `chefHat` no estilo Light.
   ///
-  /// ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chef-hat.svg)
+  /// ![chef-hat](https://api.iconify.design/ph/chef-hat-light.svg?height=32&color=%23888888)
   static const IconData chefHat = IconData(
     0xed8e,
     fontFamily: 'PhosphorLight',
@@ -4411,7 +4411,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cherries` no estilo Light.
   ///
-  /// ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cherries.svg)
+  /// ![cherries](https://api.iconify.design/ph/cherries-light.svg?height=32&color=%23888888)
   static const IconData cherries = IconData(
     0xe830,
     fontFamily: 'PhosphorLight',
@@ -4423,7 +4423,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `church` no estilo Light.
   ///
-  /// ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/church.svg)
+  /// ![church](https://api.iconify.design/ph/church-light.svg?height=32&color=%23888888)
   static const IconData church = IconData(
     0xecea,
     fontFamily: 'PhosphorLight',
@@ -4435,7 +4435,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cigarette` no estilo Light.
   ///
-  /// ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cigarette.svg)
+  /// ![cigarette](https://api.iconify.design/ph/cigarette-light.svg?height=32&color=%23888888)
   static const IconData cigarette = IconData(
     0xed90,
     fontFamily: 'PhosphorLight',
@@ -4447,7 +4447,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cigaretteSlash` no estilo Light.
   ///
-  /// ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cigarette-slash.svg)
+  /// ![cigarette-slash](https://api.iconify.design/ph/cigarette-slash-light.svg?height=32&color=%23888888)
   static const IconData cigaretteSlash = IconData(
     0xed92,
     fontFamily: 'PhosphorLight',
@@ -4459,7 +4459,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circle` no estilo Light.
   ///
-  /// ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle.svg)
+  /// ![circle](https://api.iconify.design/ph/circle-light.svg?height=32&color=%23888888)
   static const IconData circle = IconData(
     0xe18a,
     fontFamily: 'PhosphorLight',
@@ -4471,7 +4471,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleDashed` no estilo Light.
   ///
-  /// ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-dashed.svg)
+  /// ![circle-dashed](https://api.iconify.design/ph/circle-dashed-light.svg?height=32&color=%23888888)
   static const IconData circleDashed = IconData(
     0xe602,
     fontFamily: 'PhosphorLight',
@@ -4483,7 +4483,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleHalf` no estilo Light.
   ///
-  /// ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-half.svg)
+  /// ![circle-half](https://api.iconify.design/ph/circle-half-light.svg?height=32&color=%23888888)
   static const IconData circleHalf = IconData(
     0xe18c,
     fontFamily: 'PhosphorLight',
@@ -4495,7 +4495,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleHalfTilt` no estilo Light.
   ///
-  /// ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-half-tilt.svg)
+  /// ![circle-half-tilt](https://api.iconify.design/ph/circle-half-tilt-light.svg?height=32&color=%23888888)
   static const IconData circleHalfTilt = IconData(
     0xe18e,
     fontFamily: 'PhosphorLight',
@@ -4507,7 +4507,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleNotch` no estilo Light.
   ///
-  /// ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-notch.svg)
+  /// ![circle-notch](https://api.iconify.design/ph/circle-notch-light.svg?height=32&color=%23888888)
   static const IconData circleNotch = IconData(
     0xeb44,
     fontFamily: 'PhosphorLight',
@@ -4519,7 +4519,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleWavy` no estilo Light.
   ///
-  /// ![circle-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-wavy.svg)
+  /// ![circle-wavy](https://api.iconify.design/ph/seal-light.svg?height=32&color=%23888888)
   static const IconData circleWavy = IconData(
     0xe604,
     fontFamily: 'PhosphorLight',
@@ -4531,7 +4531,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleWavyCheck` no estilo Light.
   ///
-  /// ![circle-wavy-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-wavy-check.svg)
+  /// ![circle-wavy-check](https://api.iconify.design/ph/seal-check-light.svg?height=32&color=%23888888)
   static const IconData circleWavyCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorLight',
@@ -4543,7 +4543,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleWavyQuestion` no estilo Light.
   ///
-  /// ![circle-wavy-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-wavy-question.svg)
+  /// ![circle-wavy-question](https://api.iconify.design/ph/seal-question-light.svg?height=32&color=%23888888)
   static const IconData circleWavyQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorLight',
@@ -4555,7 +4555,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circleWavyWarning` no estilo Light.
   ///
-  /// ![circle-wavy-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-wavy-warning.svg)
+  /// ![circle-wavy-warning](https://api.iconify.design/ph/seal-warning-light.svg?height=32&color=%23888888)
   static const IconData circleWavyWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorLight',
@@ -4567,7 +4567,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circlesFour` no estilo Light.
   ///
-  /// ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circles-four.svg)
+  /// ![circles-four](https://api.iconify.design/ph/circles-four-light.svg?height=32&color=%23888888)
   static const IconData circlesFour = IconData(
     0xe190,
     fontFamily: 'PhosphorLight',
@@ -4579,7 +4579,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circlesThree` no estilo Light.
   ///
-  /// ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circles-three.svg)
+  /// ![circles-three](https://api.iconify.design/ph/circles-three-light.svg?height=32&color=%23888888)
   static const IconData circlesThree = IconData(
     0xe192,
     fontFamily: 'PhosphorLight',
@@ -4591,7 +4591,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circlesThreePlus` no estilo Light.
   ///
-  /// ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circles-three-plus.svg)
+  /// ![circles-three-plus](https://api.iconify.design/ph/circles-three-plus-light.svg?height=32&color=%23888888)
   static const IconData circlesThreePlus = IconData(
     0xe194,
     fontFamily: 'PhosphorLight',
@@ -4603,7 +4603,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `circuitry` no estilo Light.
   ///
-  /// ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circuitry.svg)
+  /// ![circuitry](https://api.iconify.design/ph/circuitry-light.svg?height=32&color=%23888888)
   static const IconData circuitry = IconData(
     0xe9c2,
     fontFamily: 'PhosphorLight',
@@ -4615,7 +4615,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `city` no estilo Light.
   ///
-  /// ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/city.svg)
+  /// ![city](https://api.iconify.design/ph/city-light.svg?height=32&color=%23888888)
   static const IconData city = IconData(
     0xea6a,
     fontFamily: 'PhosphorLight',
@@ -4627,7 +4627,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clipboard` no estilo Light.
   ///
-  /// ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clipboard.svg)
+  /// ![clipboard](https://api.iconify.design/ph/clipboard-light.svg?height=32&color=%23888888)
   static const IconData clipboard = IconData(
     0xe196,
     fontFamily: 'PhosphorLight',
@@ -4639,7 +4639,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clipboardText` no estilo Light.
   ///
-  /// ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clipboard-text.svg)
+  /// ![clipboard-text](https://api.iconify.design/ph/clipboard-text-light.svg?height=32&color=%23888888)
   static const IconData clipboardText = IconData(
     0xe198,
     fontFamily: 'PhosphorLight',
@@ -4651,7 +4651,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clock` no estilo Light.
   ///
-  /// ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock.svg)
+  /// ![clock](https://api.iconify.design/ph/clock-light.svg?height=32&color=%23888888)
   static const IconData clock = IconData(
     0xe19a,
     fontFamily: 'PhosphorLight',
@@ -4663,7 +4663,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clockAfternoon` no estilo Light.
   ///
-  /// ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-afternoon.svg)
+  /// ![clock-afternoon](https://api.iconify.design/ph/clock-afternoon-light.svg?height=32&color=%23888888)
   static const IconData clockAfternoon = IconData(
     0xe19c,
     fontFamily: 'PhosphorLight',
@@ -4675,7 +4675,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clockClockwise` no estilo Light.
   ///
-  /// ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-clockwise.svg)
+  /// ![clock-clockwise](https://api.iconify.design/ph/clock-clockwise-light.svg?height=32&color=%23888888)
   static const IconData clockClockwise = IconData(
     0xe19e,
     fontFamily: 'PhosphorLight',
@@ -4687,7 +4687,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clockCountdown` no estilo Light.
   ///
-  /// ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-countdown.svg)
+  /// ![clock-countdown](https://api.iconify.design/ph/clock-countdown-light.svg?height=32&color=%23888888)
   static const IconData clockCountdown = IconData(
     0xed2c,
     fontFamily: 'PhosphorLight',
@@ -4699,7 +4699,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clockCounterClockwise` no estilo Light.
   ///
-  /// ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-counter-clockwise.svg)
+  /// ![clock-counter-clockwise](https://api.iconify.design/ph/clock-counter-clockwise-light.svg?height=32&color=%23888888)
   static const IconData clockCounterClockwise = IconData(
     0xe1a0,
     fontFamily: 'PhosphorLight',
@@ -4711,7 +4711,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clockUser` no estilo Light.
   ///
-  /// ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-user.svg)
+  /// ![clock-user](https://api.iconify.design/ph/clock-user-light.svg?height=32&color=%23888888)
   static const IconData clockUser = IconData(
     0xedec,
     fontFamily: 'PhosphorLight',
@@ -4723,7 +4723,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `closedCaptioning` no estilo Light.
   ///
-  /// ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/closed-captioning.svg)
+  /// ![closed-captioning](https://api.iconify.design/ph/closed-captioning-light.svg?height=32&color=%23888888)
   static const IconData closedCaptioning = IconData(
     0xe1a4,
     fontFamily: 'PhosphorLight',
@@ -4735,7 +4735,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloud` no estilo Light.
   ///
-  /// ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud.svg)
+  /// ![cloud](https://api.iconify.design/ph/cloud-light.svg?height=32&color=%23888888)
   static const IconData cloud = IconData(
     0xe1aa,
     fontFamily: 'PhosphorLight',
@@ -4747,7 +4747,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudArrowDown` no estilo Light.
   ///
-  /// ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-arrow-down.svg)
+  /// ![cloud-arrow-down](https://api.iconify.design/ph/cloud-arrow-down-light.svg?height=32&color=%23888888)
   static const IconData cloudArrowDown = IconData(
     0xe1ac,
     fontFamily: 'PhosphorLight',
@@ -4759,7 +4759,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudArrowUp` no estilo Light.
   ///
-  /// ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-arrow-up.svg)
+  /// ![cloud-arrow-up](https://api.iconify.design/ph/cloud-arrow-up-light.svg?height=32&color=%23888888)
   static const IconData cloudArrowUp = IconData(
     0xe1ae,
     fontFamily: 'PhosphorLight',
@@ -4771,7 +4771,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudCheck` no estilo Light.
   ///
-  /// ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-check.svg)
+  /// ![cloud-check](https://api.iconify.design/ph/cloud-check-light.svg?height=32&color=%23888888)
   static const IconData cloudCheck = IconData(
     0xe1b0,
     fontFamily: 'PhosphorLight',
@@ -4783,7 +4783,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudFog` no estilo Light.
   ///
-  /// ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-fog.svg)
+  /// ![cloud-fog](https://api.iconify.design/ph/cloud-fog-light.svg?height=32&color=%23888888)
   static const IconData cloudFog = IconData(
     0xe53c,
     fontFamily: 'PhosphorLight',
@@ -4795,7 +4795,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudLightning` no estilo Light.
   ///
-  /// ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-lightning.svg)
+  /// ![cloud-lightning](https://api.iconify.design/ph/cloud-lightning-light.svg?height=32&color=%23888888)
   static const IconData cloudLightning = IconData(
     0xe1b2,
     fontFamily: 'PhosphorLight',
@@ -4807,7 +4807,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudMoon` no estilo Light.
   ///
-  /// ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-moon.svg)
+  /// ![cloud-moon](https://api.iconify.design/ph/cloud-moon-light.svg?height=32&color=%23888888)
   static const IconData cloudMoon = IconData(
     0xe53e,
     fontFamily: 'PhosphorLight',
@@ -4819,7 +4819,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudRain` no estilo Light.
   ///
-  /// ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-rain.svg)
+  /// ![cloud-rain](https://api.iconify.design/ph/cloud-rain-light.svg?height=32&color=%23888888)
   static const IconData cloudRain = IconData(
     0xe1b4,
     fontFamily: 'PhosphorLight',
@@ -4831,7 +4831,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudSlash` no estilo Light.
   ///
-  /// ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-slash.svg)
+  /// ![cloud-slash](https://api.iconify.design/ph/cloud-slash-light.svg?height=32&color=%23888888)
   static const IconData cloudSlash = IconData(
     0xe1b6,
     fontFamily: 'PhosphorLight',
@@ -4843,7 +4843,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudSnow` no estilo Light.
   ///
-  /// ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-snow.svg)
+  /// ![cloud-snow](https://api.iconify.design/ph/cloud-snow-light.svg?height=32&color=%23888888)
   static const IconData cloudSnow = IconData(
     0xe1b8,
     fontFamily: 'PhosphorLight',
@@ -4855,7 +4855,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudSun` no estilo Light.
   ///
-  /// ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-sun.svg)
+  /// ![cloud-sun](https://api.iconify.design/ph/cloud-sun-light.svg?height=32&color=%23888888)
   static const IconData cloudSun = IconData(
     0xe540,
     fontFamily: 'PhosphorLight',
@@ -4867,7 +4867,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudWarning` no estilo Light.
   ///
-  /// ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-warning.svg)
+  /// ![cloud-warning](https://api.iconify.design/ph/cloud-warning-light.svg?height=32&color=%23888888)
   static const IconData cloudWarning = IconData(
     0xea98,
     fontFamily: 'PhosphorLight',
@@ -4879,7 +4879,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cloudX` no estilo Light.
   ///
-  /// ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-x.svg)
+  /// ![cloud-x](https://api.iconify.design/ph/cloud-x-light.svg?height=32&color=%23888888)
   static const IconData cloudX = IconData(
     0xea96,
     fontFamily: 'PhosphorLight',
@@ -4891,7 +4891,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `clover` no estilo Light.
   ///
-  /// ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clover.svg)
+  /// ![clover](https://api.iconify.design/ph/clover-light.svg?height=32&color=%23888888)
   static const IconData clover = IconData(
     0xedc8,
     fontFamily: 'PhosphorLight',
@@ -4903,7 +4903,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `club` no estilo Light.
   ///
-  /// ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/club.svg)
+  /// ![club](https://api.iconify.design/ph/club-light.svg?height=32&color=%23888888)
   static const IconData club = IconData(
     0xe1ba,
     fontFamily: 'PhosphorLight',
@@ -4915,7 +4915,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `coatHanger` no estilo Light.
   ///
-  /// ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coat-hanger.svg)
+  /// ![coat-hanger](https://api.iconify.design/ph/coat-hanger-light.svg?height=32&color=%23888888)
   static const IconData coatHanger = IconData(
     0xe7fe,
     fontFamily: 'PhosphorLight',
@@ -4927,7 +4927,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `codaLogo` no estilo Light.
   ///
-  /// ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coda-logo.svg)
+  /// ![coda-logo](https://api.iconify.design/ph/coda-logo-light.svg?height=32&color=%23888888)
   static const IconData codaLogo = IconData(
     0xe7ce,
     fontFamily: 'PhosphorLight',
@@ -4939,7 +4939,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `code` no estilo Light.
   ///
-  /// ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/code.svg)
+  /// ![code](https://api.iconify.design/ph/code-light.svg?height=32&color=%23888888)
   static const IconData code = IconData(
     0xe1bc,
     fontFamily: 'PhosphorLight',
@@ -4951,7 +4951,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `codeBlock` no estilo Light.
   ///
-  /// ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/code-block.svg)
+  /// ![code-block](https://api.iconify.design/ph/code-block-light.svg?height=32&color=%23888888)
   static const IconData codeBlock = IconData(
     0xeafe,
     fontFamily: 'PhosphorLight',
@@ -4963,7 +4963,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `codeSimple` no estilo Light.
   ///
-  /// ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/code-simple.svg)
+  /// ![code-simple](https://api.iconify.design/ph/code-simple-light.svg?height=32&color=%23888888)
   static const IconData codeSimple = IconData(
     0xe1be,
     fontFamily: 'PhosphorLight',
@@ -4975,7 +4975,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `codepenLogo` no estilo Light.
   ///
-  /// ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/codepen-logo.svg)
+  /// ![codepen-logo](https://api.iconify.design/ph/codepen-logo-light.svg?height=32&color=%23888888)
   static const IconData codepenLogo = IconData(
     0xe978,
     fontFamily: 'PhosphorLight',
@@ -4987,7 +4987,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `codesandboxLogo` no estilo Light.
   ///
-  /// ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/codesandbox-logo.svg)
+  /// ![codesandbox-logo](https://api.iconify.design/ph/codesandbox-logo-light.svg?height=32&color=%23888888)
   static const IconData codesandboxLogo = IconData(
     0xea06,
     fontFamily: 'PhosphorLight',
@@ -4999,7 +4999,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `coffee` no estilo Light.
   ///
-  /// ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coffee.svg)
+  /// ![coffee](https://api.iconify.design/ph/coffee-light.svg?height=32&color=%23888888)
   static const IconData coffee = IconData(
     0xe1c2,
     fontFamily: 'PhosphorLight',
@@ -5011,7 +5011,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `coffeeBean` no estilo Light.
   ///
-  /// ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coffee-bean.svg)
+  /// ![coffee-bean](https://api.iconify.design/ph/coffee-bean-light.svg?height=32&color=%23888888)
   static const IconData coffeeBean = IconData(
     0xe1c0,
     fontFamily: 'PhosphorLight',
@@ -5023,7 +5023,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `coin` no estilo Light.
   ///
-  /// ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coin.svg)
+  /// ![coin](https://api.iconify.design/ph/coin-light.svg?height=32&color=%23888888)
   static const IconData coin = IconData(
     0xe60e,
     fontFamily: 'PhosphorLight',
@@ -5035,7 +5035,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `coinVertical` no estilo Light.
   ///
-  /// ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coin-vertical.svg)
+  /// ![coin-vertical](https://api.iconify.design/ph/coin-vertical-light.svg?height=32&color=%23888888)
   static const IconData coinVertical = IconData(
     0xeb48,
     fontFamily: 'PhosphorLight',
@@ -5047,7 +5047,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `coins` no estilo Light.
   ///
-  /// ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coins.svg)
+  /// ![coins](https://api.iconify.design/ph/coins-light.svg?height=32&color=%23888888)
   static const IconData coins = IconData(
     0xe78e,
     fontFamily: 'PhosphorLight',
@@ -5059,7 +5059,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `columns` no estilo Light.
   ///
-  /// ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/columns.svg)
+  /// ![columns](https://api.iconify.design/ph/columns-light.svg?height=32&color=%23888888)
   static const IconData columns = IconData(
     0xe546,
     fontFamily: 'PhosphorLight',
@@ -5071,7 +5071,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `columnsPlusLeft` no estilo Light.
   ///
-  /// ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/columns-plus-left.svg)
+  /// ![columns-plus-left](https://api.iconify.design/ph/columns-plus-left-light.svg?height=32&color=%23888888)
   static const IconData columnsPlusLeft = IconData(
     0xe544,
     fontFamily: 'PhosphorLight',
@@ -5083,7 +5083,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `columnsPlusRight` no estilo Light.
   ///
-  /// ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/columns-plus-right.svg)
+  /// ![columns-plus-right](https://api.iconify.design/ph/columns-plus-right-light.svg?height=32&color=%23888888)
   static const IconData columnsPlusRight = IconData(
     0xe542,
     fontFamily: 'PhosphorLight',
@@ -5095,7 +5095,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `command` no estilo Light.
   ///
-  /// ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/command.svg)
+  /// ![command](https://api.iconify.design/ph/command-light.svg?height=32&color=%23888888)
   static const IconData command = IconData(
     0xe1c4,
     fontFamily: 'PhosphorLight',
@@ -5107,7 +5107,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `compass` no estilo Light.
   ///
-  /// ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/compass.svg)
+  /// ![compass](https://api.iconify.design/ph/compass-light.svg?height=32&color=%23888888)
   static const IconData compass = IconData(
     0xe1c8,
     fontFamily: 'PhosphorLight',
@@ -5119,7 +5119,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `compassRose` no estilo Light.
   ///
-  /// ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/compass-rose.svg)
+  /// ![compass-rose](https://api.iconify.design/ph/compass-rose-light.svg?height=32&color=%23888888)
   static const IconData compassRose = IconData(
     0xe1c6,
     fontFamily: 'PhosphorLight',
@@ -5131,7 +5131,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `compassTool` no estilo Light.
   ///
-  /// ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/compass-tool.svg)
+  /// ![compass-tool](https://api.iconify.design/ph/compass-tool-light.svg?height=32&color=%23888888)
   static const IconData compassTool = IconData(
     0xea0e,
     fontFamily: 'PhosphorLight',
@@ -5143,7 +5143,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `computerTower` no estilo Light.
   ///
-  /// ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/computer-tower.svg)
+  /// ![computer-tower](https://api.iconify.design/ph/computer-tower-light.svg?height=32&color=%23888888)
   static const IconData computerTower = IconData(
     0xe548,
     fontFamily: 'PhosphorLight',
@@ -5155,7 +5155,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `confetti` no estilo Light.
   ///
-  /// ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/confetti.svg)
+  /// ![confetti](https://api.iconify.design/ph/confetti-light.svg?height=32&color=%23888888)
   static const IconData confetti = IconData(
     0xe81a,
     fontFamily: 'PhosphorLight',
@@ -5167,7 +5167,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `contactlessPayment` no estilo Light.
   ///
-  /// ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/contactless-payment.svg)
+  /// ![contactless-payment](https://api.iconify.design/ph/contactless-payment-light.svg?height=32&color=%23888888)
   static const IconData contactlessPayment = IconData(
     0xed42,
     fontFamily: 'PhosphorLight',
@@ -5179,7 +5179,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `control` no estilo Light.
   ///
-  /// ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/control.svg)
+  /// ![control](https://api.iconify.design/ph/control-light.svg?height=32&color=%23888888)
   static const IconData control = IconData(
     0xeca6,
     fontFamily: 'PhosphorLight',
@@ -5191,7 +5191,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cookie` no estilo Light.
   ///
-  /// ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cookie.svg)
+  /// ![cookie](https://api.iconify.design/ph/cookie-light.svg?height=32&color=%23888888)
   static const IconData cookie = IconData(
     0xe6ca,
     fontFamily: 'PhosphorLight',
@@ -5203,7 +5203,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cookingPot` no estilo Light.
   ///
-  /// ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cooking-pot.svg)
+  /// ![cooking-pot](https://api.iconify.design/ph/cooking-pot-light.svg?height=32&color=%23888888)
   static const IconData cookingPot = IconData(
     0xe764,
     fontFamily: 'PhosphorLight',
@@ -5215,7 +5215,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `copy` no estilo Light.
   ///
-  /// ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copy.svg)
+  /// ![copy](https://api.iconify.design/ph/copy-light.svg?height=32&color=%23888888)
   static const IconData copy = IconData(
     0xe1ca,
     fontFamily: 'PhosphorLight',
@@ -5227,7 +5227,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `copySimple` no estilo Light.
   ///
-  /// ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copy-simple.svg)
+  /// ![copy-simple](https://api.iconify.design/ph/copy-simple-light.svg?height=32&color=%23888888)
   static const IconData copySimple = IconData(
     0xe1cc,
     fontFamily: 'PhosphorLight',
@@ -5239,7 +5239,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `copyleft` no estilo Light.
   ///
-  /// ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copyleft.svg)
+  /// ![copyleft](https://api.iconify.design/ph/copyleft-light.svg?height=32&color=%23888888)
   static const IconData copyleft = IconData(
     0xe86a,
     fontFamily: 'PhosphorLight',
@@ -5251,7 +5251,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `copyright` no estilo Light.
   ///
-  /// ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copyright.svg)
+  /// ![copyright](https://api.iconify.design/ph/copyright-light.svg?height=32&color=%23888888)
   static const IconData copyright = IconData(
     0xe54a,
     fontFamily: 'PhosphorLight',
@@ -5263,7 +5263,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cornersIn` no estilo Light.
   ///
-  /// ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/corners-in.svg)
+  /// ![corners-in](https://api.iconify.design/ph/corners-in-light.svg?height=32&color=%23888888)
   static const IconData cornersIn = IconData(
     0xe1ce,
     fontFamily: 'PhosphorLight',
@@ -5275,7 +5275,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cornersOut` no estilo Light.
   ///
-  /// ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/corners-out.svg)
+  /// ![corners-out](https://api.iconify.design/ph/corners-out-light.svg?height=32&color=%23888888)
   static const IconData cornersOut = IconData(
     0xe1d0,
     fontFamily: 'PhosphorLight',
@@ -5287,7 +5287,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `couch` no estilo Light.
   ///
-  /// ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/couch.svg)
+  /// ![couch](https://api.iconify.design/ph/couch-light.svg?height=32&color=%23888888)
   static const IconData couch = IconData(
     0xe7f6,
     fontFamily: 'PhosphorLight',
@@ -5299,7 +5299,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `courtBasketball` no estilo Light.
   ///
-  /// ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/court-basketball.svg)
+  /// ![court-basketball](https://api.iconify.design/ph/court-basketball-light.svg?height=32&color=%23888888)
   static const IconData courtBasketball = IconData(
     0xee36,
     fontFamily: 'PhosphorLight',
@@ -5311,7 +5311,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cow` no estilo Light.
   ///
-  /// ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cow.svg)
+  /// ![cow](https://api.iconify.design/ph/cow-light.svg?height=32&color=%23888888)
   static const IconData cow = IconData(
     0xeabe,
     fontFamily: 'PhosphorLight',
@@ -5323,7 +5323,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cowboyHat` no estilo Light.
   ///
-  /// ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cowboy-hat.svg)
+  /// ![cowboy-hat](https://api.iconify.design/ph/cowboy-hat-light.svg?height=32&color=%23888888)
   static const IconData cowboyHat = IconData(
     0xed12,
     fontFamily: 'PhosphorLight',
@@ -5335,7 +5335,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cpu` no estilo Light.
   ///
-  /// ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cpu.svg)
+  /// ![cpu](https://api.iconify.design/ph/cpu-light.svg?height=32&color=%23888888)
   static const IconData cpu = IconData(
     0xe610,
     fontFamily: 'PhosphorLight',
@@ -5347,7 +5347,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `crane` no estilo Light.
   ///
-  /// ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crane.svg)
+  /// ![crane](https://api.iconify.design/ph/crane-light.svg?height=32&color=%23888888)
   static const IconData crane = IconData(
     0xed48,
     fontFamily: 'PhosphorLight',
@@ -5359,7 +5359,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `craneTower` no estilo Light.
   ///
-  /// ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crane-tower.svg)
+  /// ![crane-tower](https://api.iconify.design/ph/crane-tower-light.svg?height=32&color=%23888888)
   static const IconData craneTower = IconData(
     0xed49,
     fontFamily: 'PhosphorLight',
@@ -5371,7 +5371,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `creditCard` no estilo Light.
   ///
-  /// ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/credit-card.svg)
+  /// ![credit-card](https://api.iconify.design/ph/credit-card-light.svg?height=32&color=%23888888)
   static const IconData creditCard = IconData(
     0xe1d2,
     fontFamily: 'PhosphorLight',
@@ -5383,7 +5383,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cricket` no estilo Light.
   ///
-  /// ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cricket.svg)
+  /// ![cricket](https://api.iconify.design/ph/cricket-light.svg?height=32&color=%23888888)
   static const IconData cricket = IconData(
     0xee12,
     fontFamily: 'PhosphorLight',
@@ -5395,7 +5395,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `crop` no estilo Light.
   ///
-  /// ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crop.svg)
+  /// ![crop](https://api.iconify.design/ph/crop-light.svg?height=32&color=%23888888)
   static const IconData crop = IconData(
     0xe1d4,
     fontFamily: 'PhosphorLight',
@@ -5407,7 +5407,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cross` no estilo Light.
   ///
-  /// ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cross.svg)
+  /// ![cross](https://api.iconify.design/ph/cross-light.svg?height=32&color=%23888888)
   static const IconData cross = IconData(
     0xe8a0,
     fontFamily: 'PhosphorLight',
@@ -5419,7 +5419,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `crosshair` no estilo Light.
   ///
-  /// ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crosshair.svg)
+  /// ![crosshair](https://api.iconify.design/ph/crosshair-light.svg?height=32&color=%23888888)
   static const IconData crosshair = IconData(
     0xe1d6,
     fontFamily: 'PhosphorLight',
@@ -5431,7 +5431,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `crosshairSimple` no estilo Light.
   ///
-  /// ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crosshair-simple.svg)
+  /// ![crosshair-simple](https://api.iconify.design/ph/crosshair-simple-light.svg?height=32&color=%23888888)
   static const IconData crosshairSimple = IconData(
     0xe1d8,
     fontFamily: 'PhosphorLight',
@@ -5443,7 +5443,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `crown` no estilo Light.
   ///
-  /// ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crown.svg)
+  /// ![crown](https://api.iconify.design/ph/crown-light.svg?height=32&color=%23888888)
   static const IconData crown = IconData(
     0xe614,
     fontFamily: 'PhosphorLight',
@@ -5455,7 +5455,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `crownCross` no estilo Light.
   ///
-  /// ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crown-cross.svg)
+  /// ![crown-cross](https://api.iconify.design/ph/crown-cross-light.svg?height=32&color=%23888888)
   static const IconData crownCross = IconData(
     0xee5e,
     fontFamily: 'PhosphorLight',
@@ -5467,7 +5467,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `crownSimple` no estilo Light.
   ///
-  /// ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crown-simple.svg)
+  /// ![crown-simple](https://api.iconify.design/ph/crown-simple-light.svg?height=32&color=%23888888)
   static const IconData crownSimple = IconData(
     0xe616,
     fontFamily: 'PhosphorLight',
@@ -5479,7 +5479,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cube` no estilo Light.
   ///
-  /// ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cube.svg)
+  /// ![cube](https://api.iconify.design/ph/cube-light.svg?height=32&color=%23888888)
   static const IconData cube = IconData(
     0xe1da,
     fontFamily: 'PhosphorLight',
@@ -5491,7 +5491,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cubeFocus` no estilo Light.
   ///
-  /// ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cube-focus.svg)
+  /// ![cube-focus](https://api.iconify.design/ph/cube-focus-light.svg?height=32&color=%23888888)
   static const IconData cubeFocus = IconData(
     0xed0a,
     fontFamily: 'PhosphorLight',
@@ -5503,7 +5503,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cubeTransparent` no estilo Light.
   ///
-  /// ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cube-transparent.svg)
+  /// ![cube-transparent](https://api.iconify.design/ph/cube-transparent-light.svg?height=32&color=%23888888)
   static const IconData cubeTransparent = IconData(
     0xec7c,
     fontFamily: 'PhosphorLight',
@@ -5515,7 +5515,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyBtc` no estilo Light.
   ///
-  /// ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-btc.svg)
+  /// ![currency-btc](https://api.iconify.design/ph/currency-btc-light.svg?height=32&color=%23888888)
   static const IconData currencyBtc = IconData(
     0xe618,
     fontFamily: 'PhosphorLight',
@@ -5527,7 +5527,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyCircleDollar` no estilo Light.
   ///
-  /// ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-circle-dollar.svg)
+  /// ![currency-circle-dollar](https://api.iconify.design/ph/currency-circle-dollar-light.svg?height=32&color=%23888888)
   static const IconData currencyCircleDollar = IconData(
     0xe54c,
     fontFamily: 'PhosphorLight',
@@ -5539,7 +5539,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyCny` no estilo Light.
   ///
-  /// ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-cny.svg)
+  /// ![currency-cny](https://api.iconify.design/ph/currency-cny-light.svg?height=32&color=%23888888)
   static const IconData currencyCny = IconData(
     0xe54e,
     fontFamily: 'PhosphorLight',
@@ -5551,7 +5551,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyDollar` no estilo Light.
   ///
-  /// ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-dollar.svg)
+  /// ![currency-dollar](https://api.iconify.design/ph/currency-dollar-light.svg?height=32&color=%23888888)
   static const IconData currencyDollar = IconData(
     0xe550,
     fontFamily: 'PhosphorLight',
@@ -5563,7 +5563,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyDollarSimple` no estilo Light.
   ///
-  /// ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-dollar-simple.svg)
+  /// ![currency-dollar-simple](https://api.iconify.design/ph/currency-dollar-simple-light.svg?height=32&color=%23888888)
   static const IconData currencyDollarSimple = IconData(
     0xe552,
     fontFamily: 'PhosphorLight',
@@ -5575,7 +5575,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyEth` no estilo Light.
   ///
-  /// ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-eth.svg)
+  /// ![currency-eth](https://api.iconify.design/ph/currency-eth-light.svg?height=32&color=%23888888)
   static const IconData currencyEth = IconData(
     0xeada,
     fontFamily: 'PhosphorLight',
@@ -5587,7 +5587,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyEur` no estilo Light.
   ///
-  /// ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-eur.svg)
+  /// ![currency-eur](https://api.iconify.design/ph/currency-eur-light.svg?height=32&color=%23888888)
   static const IconData currencyEur = IconData(
     0xe554,
     fontFamily: 'PhosphorLight',
@@ -5599,7 +5599,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyGbp` no estilo Light.
   ///
-  /// ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-gbp.svg)
+  /// ![currency-gbp](https://api.iconify.design/ph/currency-gbp-light.svg?height=32&color=%23888888)
   static const IconData currencyGbp = IconData(
     0xe556,
     fontFamily: 'PhosphorLight',
@@ -5611,7 +5611,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyInr` no estilo Light.
   ///
-  /// ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-inr.svg)
+  /// ![currency-inr](https://api.iconify.design/ph/currency-inr-light.svg?height=32&color=%23888888)
   static const IconData currencyInr = IconData(
     0xe558,
     fontFamily: 'PhosphorLight',
@@ -5623,7 +5623,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyJpy` no estilo Light.
   ///
-  /// ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-jpy.svg)
+  /// ![currency-jpy](https://api.iconify.design/ph/currency-jpy-light.svg?height=32&color=%23888888)
   static const IconData currencyJpy = IconData(
     0xe55a,
     fontFamily: 'PhosphorLight',
@@ -5635,7 +5635,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyKrw` no estilo Light.
   ///
-  /// ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-krw.svg)
+  /// ![currency-krw](https://api.iconify.design/ph/currency-krw-light.svg?height=32&color=%23888888)
   static const IconData currencyKrw = IconData(
     0xe55c,
     fontFamily: 'PhosphorLight',
@@ -5647,7 +5647,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyKzt` no estilo Light.
   ///
-  /// ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-kzt.svg)
+  /// ![currency-kzt](https://api.iconify.design/ph/currency-kzt-light.svg?height=32&color=%23888888)
   static const IconData currencyKzt = IconData(
     0xec4c,
     fontFamily: 'PhosphorLight',
@@ -5659,7 +5659,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyNgn` no estilo Light.
   ///
-  /// ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-ngn.svg)
+  /// ![currency-ngn](https://api.iconify.design/ph/currency-ngn-light.svg?height=32&color=%23888888)
   static const IconData currencyNgn = IconData(
     0xeb52,
     fontFamily: 'PhosphorLight',
@@ -5671,7 +5671,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `currencyRub` no estilo Light.
   ///
-  /// ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-rub.svg)
+  /// ![currency-rub](https://api.iconify.design/ph/currency-rub-light.svg?height=32&color=%23888888)
   static const IconData currencyRub = IconData(
     0xe55e,
     fontFamily: 'PhosphorLight',
@@ -5683,7 +5683,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cursor` no estilo Light.
   ///
-  /// ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cursor.svg)
+  /// ![cursor](https://api.iconify.design/ph/cursor-light.svg?height=32&color=%23888888)
   static const IconData cursor = IconData(
     0xe1dc,
     fontFamily: 'PhosphorLight',
@@ -5695,7 +5695,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cursorClick` no estilo Light.
   ///
-  /// ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cursor-click.svg)
+  /// ![cursor-click](https://api.iconify.design/ph/cursor-click-light.svg?height=32&color=%23888888)
   static const IconData cursorClick = IconData(
     0xe7c8,
     fontFamily: 'PhosphorLight',
@@ -5707,7 +5707,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cursorText` no estilo Light.
   ///
-  /// ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cursor-text.svg)
+  /// ![cursor-text](https://api.iconify.design/ph/cursor-text-light.svg?height=32&color=%23888888)
   static const IconData cursorText = IconData(
     0xe7d8,
     fontFamily: 'PhosphorLight',
@@ -5719,7 +5719,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `cylinder` no estilo Light.
   ///
-  /// ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cylinder.svg)
+  /// ![cylinder](https://api.iconify.design/ph/cylinder-light.svg?height=32&color=%23888888)
   static const IconData cylinder = IconData(
     0xe8fc,
     fontFamily: 'PhosphorLight',
@@ -5731,7 +5731,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `database` no estilo Light.
   ///
-  /// ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/database.svg)
+  /// ![database](https://api.iconify.design/ph/database-light.svg?height=32&color=%23888888)
   static const IconData database = IconData(
     0xe1de,
     fontFamily: 'PhosphorLight',
@@ -5743,7 +5743,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `desk` no estilo Light.
   ///
-  /// ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/desk.svg)
+  /// ![desk](https://api.iconify.design/ph/desk-light.svg?height=32&color=%23888888)
   static const IconData desk = IconData(
     0xed16,
     fontFamily: 'PhosphorLight',
@@ -5755,7 +5755,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `desktop` no estilo Light.
   ///
-  /// ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/desktop.svg)
+  /// ![desktop](https://api.iconify.design/ph/desktop-light.svg?height=32&color=%23888888)
   static const IconData desktop = IconData(
     0xe560,
     fontFamily: 'PhosphorLight',
@@ -5767,7 +5767,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `desktopTower` no estilo Light.
   ///
-  /// ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/desktop-tower.svg)
+  /// ![desktop-tower](https://api.iconify.design/ph/desktop-tower-light.svg?height=32&color=%23888888)
   static const IconData desktopTower = IconData(
     0xe562,
     fontFamily: 'PhosphorLight',
@@ -5779,7 +5779,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `detective` no estilo Light.
   ///
-  /// ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/detective.svg)
+  /// ![detective](https://api.iconify.design/ph/detective-light.svg?height=32&color=%23888888)
   static const IconData detective = IconData(
     0xe83e,
     fontFamily: 'PhosphorLight',
@@ -5791,7 +5791,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `devToLogo` no estilo Light.
   ///
-  /// ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dev-to-logo.svg)
+  /// ![dev-to-logo](https://api.iconify.design/ph/dev-to-logo-light.svg?height=32&color=%23888888)
   static const IconData devToLogo = IconData(
     0xed0e,
     fontFamily: 'PhosphorLight',
@@ -5803,7 +5803,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceMobile` no estilo Light.
   ///
-  /// ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile.svg)
+  /// ![device-mobile](https://api.iconify.design/ph/device-mobile-light.svg?height=32&color=%23888888)
   static const IconData deviceMobile = IconData(
     0xe1e0,
     fontFamily: 'PhosphorLight',
@@ -5815,7 +5815,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceMobileCamera` no estilo Light.
   ///
-  /// ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile-camera.svg)
+  /// ![device-mobile-camera](https://api.iconify.design/ph/device-mobile-camera-light.svg?height=32&color=%23888888)
   static const IconData deviceMobileCamera = IconData(
     0xe1e2,
     fontFamily: 'PhosphorLight',
@@ -5827,7 +5827,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceMobileSlash` no estilo Light.
   ///
-  /// ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile-slash.svg)
+  /// ![device-mobile-slash](https://api.iconify.design/ph/device-mobile-slash-light.svg?height=32&color=%23888888)
   static const IconData deviceMobileSlash = IconData(
     0xee46,
     fontFamily: 'PhosphorLight',
@@ -5839,7 +5839,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceMobileSpeaker` no estilo Light.
   ///
-  /// ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile-speaker.svg)
+  /// ![device-mobile-speaker](https://api.iconify.design/ph/device-mobile-speaker-light.svg?height=32&color=%23888888)
   static const IconData deviceMobileSpeaker = IconData(
     0xe1e4,
     fontFamily: 'PhosphorLight',
@@ -5851,7 +5851,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceRotate` no estilo Light.
   ///
-  /// ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-rotate.svg)
+  /// ![device-rotate](https://api.iconify.design/ph/device-rotate-light.svg?height=32&color=%23888888)
   static const IconData deviceRotate = IconData(
     0xedf2,
     fontFamily: 'PhosphorLight',
@@ -5863,7 +5863,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceTablet` no estilo Light.
   ///
-  /// ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-tablet.svg)
+  /// ![device-tablet](https://api.iconify.design/ph/device-tablet-light.svg?height=32&color=%23888888)
   static const IconData deviceTablet = IconData(
     0xe1e6,
     fontFamily: 'PhosphorLight',
@@ -5875,7 +5875,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceTabletCamera` no estilo Light.
   ///
-  /// ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-tablet-camera.svg)
+  /// ![device-tablet-camera](https://api.iconify.design/ph/device-tablet-camera-light.svg?height=32&color=%23888888)
   static const IconData deviceTabletCamera = IconData(
     0xe1e8,
     fontFamily: 'PhosphorLight',
@@ -5887,7 +5887,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `deviceTabletSpeaker` no estilo Light.
   ///
-  /// ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-tablet-speaker.svg)
+  /// ![device-tablet-speaker](https://api.iconify.design/ph/device-tablet-speaker-light.svg?height=32&color=%23888888)
   static const IconData deviceTabletSpeaker = IconData(
     0xe1ea,
     fontFamily: 'PhosphorLight',
@@ -5899,7 +5899,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `devices` no estilo Light.
   ///
-  /// ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/devices.svg)
+  /// ![devices](https://api.iconify.design/ph/devices-light.svg?height=32&color=%23888888)
   static const IconData devices = IconData(
     0xeba4,
     fontFamily: 'PhosphorLight',
@@ -5911,7 +5911,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diamond` no estilo Light.
   ///
-  /// ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/diamond.svg)
+  /// ![diamond](https://api.iconify.design/ph/diamond-light.svg?height=32&color=%23888888)
   static const IconData diamond = IconData(
     0xe1ec,
     fontFamily: 'PhosphorLight',
@@ -5923,7 +5923,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diamondsFour` no estilo Light.
   ///
-  /// ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/diamonds-four.svg)
+  /// ![diamonds-four](https://api.iconify.design/ph/diamonds-four-light.svg?height=32&color=%23888888)
   static const IconData diamondsFour = IconData(
     0xe8f4,
     fontFamily: 'PhosphorLight',
@@ -5935,7 +5935,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diceFive` no estilo Light.
   ///
-  /// ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-five.svg)
+  /// ![dice-five](https://api.iconify.design/ph/dice-five-light.svg?height=32&color=%23888888)
   static const IconData diceFive = IconData(
     0xe1ee,
     fontFamily: 'PhosphorLight',
@@ -5947,7 +5947,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diceFour` no estilo Light.
   ///
-  /// ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-four.svg)
+  /// ![dice-four](https://api.iconify.design/ph/dice-four-light.svg?height=32&color=%23888888)
   static const IconData diceFour = IconData(
     0xe1f0,
     fontFamily: 'PhosphorLight',
@@ -5959,7 +5959,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diceOne` no estilo Light.
   ///
-  /// ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-one.svg)
+  /// ![dice-one](https://api.iconify.design/ph/dice-one-light.svg?height=32&color=%23888888)
   static const IconData diceOne = IconData(
     0xe1f2,
     fontFamily: 'PhosphorLight',
@@ -5971,7 +5971,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diceSix` no estilo Light.
   ///
-  /// ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-six.svg)
+  /// ![dice-six](https://api.iconify.design/ph/dice-six-light.svg?height=32&color=%23888888)
   static const IconData diceSix = IconData(
     0xe1f4,
     fontFamily: 'PhosphorLight',
@@ -5983,7 +5983,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diceThree` no estilo Light.
   ///
-  /// ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-three.svg)
+  /// ![dice-three](https://api.iconify.design/ph/dice-three-light.svg?height=32&color=%23888888)
   static const IconData diceThree = IconData(
     0xe1f6,
     fontFamily: 'PhosphorLight',
@@ -5995,7 +5995,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `diceTwo` no estilo Light.
   ///
-  /// ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-two.svg)
+  /// ![dice-two](https://api.iconify.design/ph/dice-two-light.svg?height=32&color=%23888888)
   static const IconData diceTwo = IconData(
     0xe1f8,
     fontFamily: 'PhosphorLight',
@@ -6007,7 +6007,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `disc` no estilo Light.
   ///
-  /// ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/disc.svg)
+  /// ![disc](https://api.iconify.design/ph/disc-light.svg?height=32&color=%23888888)
   static const IconData disc = IconData(
     0xe564,
     fontFamily: 'PhosphorLight',
@@ -6019,7 +6019,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `discoBall` no estilo Light.
   ///
-  /// ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/disco-ball.svg)
+  /// ![disco-ball](https://api.iconify.design/ph/disco-ball-light.svg?height=32&color=%23888888)
   static const IconData discoBall = IconData(
     0xed98,
     fontFamily: 'PhosphorLight',
@@ -6031,7 +6031,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `discordLogo` no estilo Light.
   ///
-  /// ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/discord-logo.svg)
+  /// ![discord-logo](https://api.iconify.design/ph/discord-logo-light.svg?height=32&color=%23888888)
   static const IconData discordLogo = IconData(
     0xe61a,
     fontFamily: 'PhosphorLight',
@@ -6043,7 +6043,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `divide` no estilo Light.
   ///
-  /// ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/divide.svg)
+  /// ![divide](https://api.iconify.design/ph/divide-light.svg?height=32&color=%23888888)
   static const IconData divide = IconData(
     0xe1fa,
     fontFamily: 'PhosphorLight',
@@ -6055,7 +6055,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dna` no estilo Light.
   ///
-  /// ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dna.svg)
+  /// ![dna](https://api.iconify.design/ph/dna-light.svg?height=32&color=%23888888)
   static const IconData dna = IconData(
     0xe924,
     fontFamily: 'PhosphorLight',
@@ -6067,7 +6067,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dog` no estilo Light.
   ///
-  /// ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dog.svg)
+  /// ![dog](https://api.iconify.design/ph/dog-light.svg?height=32&color=%23888888)
   static const IconData dog = IconData(
     0xe74a,
     fontFamily: 'PhosphorLight',
@@ -6079,7 +6079,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `door` no estilo Light.
   ///
-  /// ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/door.svg)
+  /// ![door](https://api.iconify.design/ph/door-light.svg?height=32&color=%23888888)
   static const IconData door = IconData(
     0xe61c,
     fontFamily: 'PhosphorLight',
@@ -6091,7 +6091,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `doorOpen` no estilo Light.
   ///
-  /// ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/door-open.svg)
+  /// ![door-open](https://api.iconify.design/ph/door-open-light.svg?height=32&color=%23888888)
   static const IconData doorOpen = IconData(
     0xe7e6,
     fontFamily: 'PhosphorLight',
@@ -6103,7 +6103,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dot` no estilo Light.
   ///
-  /// ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dot.svg)
+  /// ![dot](https://api.iconify.design/ph/dot-light.svg?height=32&color=%23888888)
   static const IconData dot = IconData(
     0xecde,
     fontFamily: 'PhosphorLight',
@@ -6115,7 +6115,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotOutline` no estilo Light.
   ///
-  /// ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dot-outline.svg)
+  /// ![dot-outline](https://api.iconify.design/ph/dot-outline-light.svg?height=32&color=%23888888)
   static const IconData dotOutline = IconData(
     0xece0,
     fontFamily: 'PhosphorLight',
@@ -6127,7 +6127,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsNine` no estilo Light.
   ///
-  /// ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-nine.svg)
+  /// ![dots-nine](https://api.iconify.design/ph/dots-nine-light.svg?height=32&color=%23888888)
   static const IconData dotsNine = IconData(
     0xe1fc,
     fontFamily: 'PhosphorLight',
@@ -6139,7 +6139,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsSix` no estilo Light.
   ///
-  /// ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-six.svg)
+  /// ![dots-six](https://api.iconify.design/ph/dots-six-light.svg?height=32&color=%23888888)
   static const IconData dotsSix = IconData(
     0xe794,
     fontFamily: 'PhosphorLight',
@@ -6151,7 +6151,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsSixVertical` no estilo Light.
   ///
-  /// ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-six-vertical.svg)
+  /// ![dots-six-vertical](https://api.iconify.design/ph/dots-six-vertical-light.svg?height=32&color=%23888888)
   static const IconData dotsSixVertical = IconData(
     0xeae2,
     fontFamily: 'PhosphorLight',
@@ -6163,7 +6163,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsThree` no estilo Light.
   ///
-  /// ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three.svg)
+  /// ![dots-three](https://api.iconify.design/ph/dots-three-light.svg?height=32&color=%23888888)
   static const IconData dotsThree = IconData(
     0xe1fe,
     fontFamily: 'PhosphorLight',
@@ -6175,7 +6175,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsThreeCircle` no estilo Light.
   ///
-  /// ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-circle.svg)
+  /// ![dots-three-circle](https://api.iconify.design/ph/dots-three-circle-light.svg?height=32&color=%23888888)
   static const IconData dotsThreeCircle = IconData(
     0xe200,
     fontFamily: 'PhosphorLight',
@@ -6187,7 +6187,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsThreeCircleVertical` no estilo Light.
   ///
-  /// ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-circle-vertical.svg)
+  /// ![dots-three-circle-vertical](https://api.iconify.design/ph/dots-three-circle-vertical-light.svg?height=32&color=%23888888)
   static const IconData dotsThreeCircleVertical = IconData(
     0xe202,
     fontFamily: 'PhosphorLight',
@@ -6199,7 +6199,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsThreeOutline` no estilo Light.
   ///
-  /// ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-outline.svg)
+  /// ![dots-three-outline](https://api.iconify.design/ph/dots-three-outline-light.svg?height=32&color=%23888888)
   static const IconData dotsThreeOutline = IconData(
     0xe204,
     fontFamily: 'PhosphorLight',
@@ -6211,7 +6211,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Light.
   ///
-  /// ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-outline-vertical.svg)
+  /// ![dots-three-outline-vertical](https://api.iconify.design/ph/dots-three-outline-vertical-light.svg?height=32&color=%23888888)
   static const IconData dotsThreeOutlineVertical = IconData(
     0xe206,
     fontFamily: 'PhosphorLight',
@@ -6223,7 +6223,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dotsThreeVertical` no estilo Light.
   ///
-  /// ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-vertical.svg)
+  /// ![dots-three-vertical](https://api.iconify.design/ph/dots-three-vertical-light.svg?height=32&color=%23888888)
   static const IconData dotsThreeVertical = IconData(
     0xe208,
     fontFamily: 'PhosphorLight',
@@ -6235,7 +6235,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `download` no estilo Light.
   ///
-  /// ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/download.svg)
+  /// ![download](https://api.iconify.design/ph/download-light.svg?height=32&color=%23888888)
   static const IconData download = IconData(
     0xe20a,
     fontFamily: 'PhosphorLight',
@@ -6247,7 +6247,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `downloadSimple` no estilo Light.
   ///
-  /// ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/download-simple.svg)
+  /// ![download-simple](https://api.iconify.design/ph/download-simple-light.svg?height=32&color=%23888888)
   static const IconData downloadSimple = IconData(
     0xe20c,
     fontFamily: 'PhosphorLight',
@@ -6259,7 +6259,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dress` no estilo Light.
   ///
-  /// ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dress.svg)
+  /// ![dress](https://api.iconify.design/ph/dress-light.svg?height=32&color=%23888888)
   static const IconData dress = IconData(
     0xea7e,
     fontFamily: 'PhosphorLight',
@@ -6271,7 +6271,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dresser` no estilo Light.
   ///
-  /// ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dresser.svg)
+  /// ![dresser](https://api.iconify.design/ph/dresser-light.svg?height=32&color=%23888888)
   static const IconData dresser = IconData(
     0xe94e,
     fontFamily: 'PhosphorLight',
@@ -6283,7 +6283,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dribbbleLogo` no estilo Light.
   ///
-  /// ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dribbble-logo.svg)
+  /// ![dribbble-logo](https://api.iconify.design/ph/dribbble-logo-light.svg?height=32&color=%23888888)
   static const IconData dribbbleLogo = IconData(
     0xe20e,
     fontFamily: 'PhosphorLight',
@@ -6295,7 +6295,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `drone` no estilo Light.
   ///
-  /// ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drone.svg)
+  /// ![drone](https://api.iconify.design/ph/drone-light.svg?height=32&color=%23888888)
   static const IconData drone = IconData(
     0xed74,
     fontFamily: 'PhosphorLight',
@@ -6307,7 +6307,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `drop` no estilo Light.
   ///
-  /// ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop.svg)
+  /// ![drop](https://api.iconify.design/ph/drop-light.svg?height=32&color=%23888888)
   static const IconData drop = IconData(
     0xe210,
     fontFamily: 'PhosphorLight',
@@ -6319,7 +6319,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dropHalf` no estilo Light.
   ///
-  /// ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-half.svg)
+  /// ![drop-half](https://api.iconify.design/ph/drop-half-light.svg?height=32&color=%23888888)
   static const IconData dropHalf = IconData(
     0xe566,
     fontFamily: 'PhosphorLight',
@@ -6331,7 +6331,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dropHalfBottom` no estilo Light.
   ///
-  /// ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-half-bottom.svg)
+  /// ![drop-half-bottom](https://api.iconify.design/ph/drop-half-bottom-light.svg?height=32&color=%23888888)
   static const IconData dropHalfBottom = IconData(
     0xeb40,
     fontFamily: 'PhosphorLight',
@@ -6343,7 +6343,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dropSimple` no estilo Light.
   ///
-  /// ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-simple.svg)
+  /// ![drop-simple](https://api.iconify.design/ph/drop-simple-light.svg?height=32&color=%23888888)
   static const IconData dropSimple = IconData(
     0xee32,
     fontFamily: 'PhosphorLight',
@@ -6355,7 +6355,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dropSlash` no estilo Light.
   ///
-  /// ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-slash.svg)
+  /// ![drop-slash](https://api.iconify.design/ph/drop-slash-light.svg?height=32&color=%23888888)
   static const IconData dropSlash = IconData(
     0xe954,
     fontFamily: 'PhosphorLight',
@@ -6367,7 +6367,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `dropboxLogo` no estilo Light.
   ///
-  /// ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dropbox-logo.svg)
+  /// ![dropbox-logo](https://api.iconify.design/ph/dropbox-logo-light.svg?height=32&color=%23888888)
   static const IconData dropboxLogo = IconData(
     0xe7d0,
     fontFamily: 'PhosphorLight',
@@ -6379,7 +6379,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ear` no estilo Light.
   ///
-  /// ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ear.svg)
+  /// ![ear](https://api.iconify.design/ph/ear-light.svg?height=32&color=%23888888)
   static const IconData ear = IconData(
     0xe70c,
     fontFamily: 'PhosphorLight',
@@ -6391,7 +6391,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `earSlash` no estilo Light.
   ///
-  /// ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ear-slash.svg)
+  /// ![ear-slash](https://api.iconify.design/ph/ear-slash-light.svg?height=32&color=%23888888)
   static const IconData earSlash = IconData(
     0xe70e,
     fontFamily: 'PhosphorLight',
@@ -6403,7 +6403,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `egg` no estilo Light.
   ///
-  /// ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/egg.svg)
+  /// ![egg](https://api.iconify.design/ph/egg-light.svg?height=32&color=%23888888)
   static const IconData egg = IconData(
     0xe812,
     fontFamily: 'PhosphorLight',
@@ -6415,7 +6415,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eggCrack` no estilo Light.
   ///
-  /// ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/egg-crack.svg)
+  /// ![egg-crack](https://api.iconify.design/ph/egg-crack-light.svg?height=32&color=%23888888)
   static const IconData eggCrack = IconData(
     0xeb64,
     fontFamily: 'PhosphorLight',
@@ -6427,7 +6427,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eject` no estilo Light.
   ///
-  /// ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eject.svg)
+  /// ![eject](https://api.iconify.design/ph/eject-light.svg?height=32&color=%23888888)
   static const IconData eject = IconData(
     0xe212,
     fontFamily: 'PhosphorLight',
@@ -6439,7 +6439,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ejectSimple` no estilo Light.
   ///
-  /// ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eject-simple.svg)
+  /// ![eject-simple](https://api.iconify.design/ph/eject-simple-light.svg?height=32&color=%23888888)
   static const IconData ejectSimple = IconData(
     0xe6ae,
     fontFamily: 'PhosphorLight',
@@ -6451,7 +6451,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `elevator` no estilo Light.
   ///
-  /// ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/elevator.svg)
+  /// ![elevator](https://api.iconify.design/ph/elevator-light.svg?height=32&color=%23888888)
   static const IconData elevator = IconData(
     0xecc0,
     fontFamily: 'PhosphorLight',
@@ -6463,7 +6463,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `empty` no estilo Light.
   ///
-  /// ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/empty.svg)
+  /// ![empty](https://api.iconify.design/ph/empty-light.svg?height=32&color=%23888888)
   static const IconData empty = IconData(
     0xedbc,
     fontFamily: 'PhosphorLight',
@@ -6475,7 +6475,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `engine` no estilo Light.
   ///
-  /// ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/engine.svg)
+  /// ![engine](https://api.iconify.design/ph/engine-light.svg?height=32&color=%23888888)
   static const IconData engine = IconData(
     0xea80,
     fontFamily: 'PhosphorLight',
@@ -6487,7 +6487,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `envelope` no estilo Light.
   ///
-  /// ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope.svg)
+  /// ![envelope](https://api.iconify.design/ph/envelope-light.svg?height=32&color=%23888888)
   static const IconData envelope = IconData(
     0xe214,
     fontFamily: 'PhosphorLight',
@@ -6499,7 +6499,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `envelopeOpen` no estilo Light.
   ///
-  /// ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope-open.svg)
+  /// ![envelope-open](https://api.iconify.design/ph/envelope-open-light.svg?height=32&color=%23888888)
   static const IconData envelopeOpen = IconData(
     0xe216,
     fontFamily: 'PhosphorLight',
@@ -6511,7 +6511,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `envelopeSimple` no estilo Light.
   ///
-  /// ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope-simple.svg)
+  /// ![envelope-simple](https://api.iconify.design/ph/envelope-simple-light.svg?height=32&color=%23888888)
   static const IconData envelopeSimple = IconData(
     0xe218,
     fontFamily: 'PhosphorLight',
@@ -6523,7 +6523,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `envelopeSimpleOpen` no estilo Light.
   ///
-  /// ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope-simple-open.svg)
+  /// ![envelope-simple-open](https://api.iconify.design/ph/envelope-simple-open-light.svg?height=32&color=%23888888)
   static const IconData envelopeSimpleOpen = IconData(
     0xe21a,
     fontFamily: 'PhosphorLight',
@@ -6535,7 +6535,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `equalizer` no estilo Light.
   ///
-  /// ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/equalizer.svg)
+  /// ![equalizer](https://api.iconify.design/ph/equalizer-light.svg?height=32&color=%23888888)
   static const IconData equalizer = IconData(
     0xebbc,
     fontFamily: 'PhosphorLight',
@@ -6547,7 +6547,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `equals` no estilo Light.
   ///
-  /// ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/equals.svg)
+  /// ![equals](https://api.iconify.design/ph/equals-light.svg?height=32&color=%23888888)
   static const IconData equals = IconData(
     0xe21c,
     fontFamily: 'PhosphorLight',
@@ -6559,7 +6559,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eraser` no estilo Light.
   ///
-  /// ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eraser.svg)
+  /// ![eraser](https://api.iconify.design/ph/eraser-light.svg?height=32&color=%23888888)
   static const IconData eraser = IconData(
     0xe21e,
     fontFamily: 'PhosphorLight',
@@ -6571,7 +6571,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `escalatorDown` no estilo Light.
   ///
-  /// ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/escalator-down.svg)
+  /// ![escalator-down](https://api.iconify.design/ph/escalator-down-light.svg?height=32&color=%23888888)
   static const IconData escalatorDown = IconData(
     0xecba,
     fontFamily: 'PhosphorLight',
@@ -6583,7 +6583,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `escalatorUp` no estilo Light.
   ///
-  /// ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/escalator-up.svg)
+  /// ![escalator-up](https://api.iconify.design/ph/escalator-up-light.svg?height=32&color=%23888888)
   static const IconData escalatorUp = IconData(
     0xecbc,
     fontFamily: 'PhosphorLight',
@@ -6595,7 +6595,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `exam` no estilo Light.
   ///
-  /// ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exam.svg)
+  /// ![exam](https://api.iconify.design/ph/exam-light.svg?height=32&color=%23888888)
   static const IconData exam = IconData(
     0xe742,
     fontFamily: 'PhosphorLight',
@@ -6607,7 +6607,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `exclamationMark` no estilo Light.
   ///
-  /// ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exclamation-mark.svg)
+  /// ![exclamation-mark](https://api.iconify.design/ph/exclamation-mark-light.svg?height=32&color=%23888888)
   static const IconData exclamationMark = IconData(
     0xee44,
     fontFamily: 'PhosphorLight',
@@ -6619,7 +6619,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `exclude` no estilo Light.
   ///
-  /// ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exclude.svg)
+  /// ![exclude](https://api.iconify.design/ph/exclude-light.svg?height=32&color=%23888888)
   static const IconData exclude = IconData(
     0xe882,
     fontFamily: 'PhosphorLight',
@@ -6631,7 +6631,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `excludeSquare` no estilo Light.
   ///
-  /// ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exclude-square.svg)
+  /// ![exclude-square](https://api.iconify.design/ph/exclude-square-light.svg?height=32&color=%23888888)
   static const IconData excludeSquare = IconData(
     0xe880,
     fontFamily: 'PhosphorLight',
@@ -6643,7 +6643,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `export` no estilo Light.
   ///
-  /// ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/export.svg)
+  /// ![export](https://api.iconify.design/ph/export-light.svg?height=32&color=%23888888)
   static const IconData export = IconData(
     0xeaf0,
     fontFamily: 'PhosphorLight',
@@ -6655,7 +6655,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eye` no estilo Light.
   ///
-  /// ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eye.svg)
+  /// ![eye](https://api.iconify.design/ph/eye-light.svg?height=32&color=%23888888)
   static const IconData eye = IconData(
     0xe220,
     fontFamily: 'PhosphorLight',
@@ -6667,7 +6667,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eyeClosed` no estilo Light.
   ///
-  /// ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eye-closed.svg)
+  /// ![eye-closed](https://api.iconify.design/ph/eye-closed-light.svg?height=32&color=%23888888)
   static const IconData eyeClosed = IconData(
     0xe222,
     fontFamily: 'PhosphorLight',
@@ -6679,7 +6679,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eyeSlash` no estilo Light.
   ///
-  /// ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eye-slash.svg)
+  /// ![eye-slash](https://api.iconify.design/ph/eye-slash-light.svg?height=32&color=%23888888)
   static const IconData eyeSlash = IconData(
     0xe224,
     fontFamily: 'PhosphorLight',
@@ -6691,7 +6691,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eyedropper` no estilo Light.
   ///
-  /// ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyedropper.svg)
+  /// ![eyedropper](https://api.iconify.design/ph/eyedropper-light.svg?height=32&color=%23888888)
   static const IconData eyedropper = IconData(
     0xe568,
     fontFamily: 'PhosphorLight',
@@ -6703,7 +6703,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eyedropperSample` no estilo Light.
   ///
-  /// ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyedropper-sample.svg)
+  /// ![eyedropper-sample](https://api.iconify.design/ph/eyedropper-sample-light.svg?height=32&color=%23888888)
   static const IconData eyedropperSample = IconData(
     0xeac4,
     fontFamily: 'PhosphorLight',
@@ -6715,7 +6715,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eyeglasses` no estilo Light.
   ///
-  /// ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyeglasses.svg)
+  /// ![eyeglasses](https://api.iconify.design/ph/eyeglasses-light.svg?height=32&color=%23888888)
   static const IconData eyeglasses = IconData(
     0xe7ba,
     fontFamily: 'PhosphorLight',
@@ -6727,7 +6727,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `eyes` no estilo Light.
   ///
-  /// ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyes.svg)
+  /// ![eyes](https://api.iconify.design/ph/eyes-light.svg?height=32&color=%23888888)
   static const IconData eyes = IconData(
     0xee5c,
     fontFamily: 'PhosphorLight',
@@ -6739,7 +6739,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `faceMask` no estilo Light.
   ///
-  /// ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/face-mask.svg)
+  /// ![face-mask](https://api.iconify.design/ph/face-mask-light.svg?height=32&color=%23888888)
   static const IconData faceMask = IconData(
     0xe56a,
     fontFamily: 'PhosphorLight',
@@ -6751,7 +6751,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `facebookLogo` no estilo Light.
   ///
-  /// ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/facebook-logo.svg)
+  /// ![facebook-logo](https://api.iconify.design/ph/facebook-logo-light.svg?height=32&color=%23888888)
   static const IconData facebookLogo = IconData(
     0xe226,
     fontFamily: 'PhosphorLight',
@@ -6763,7 +6763,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `factory` no estilo Light.
   ///
-  /// ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/factory.svg)
+  /// ![factory](https://api.iconify.design/ph/factory-light.svg?height=32&color=%23888888)
   static const IconData factory = IconData(
     0xe760,
     fontFamily: 'PhosphorLight',
@@ -6775,7 +6775,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `faders` no estilo Light.
   ///
-  /// ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/faders.svg)
+  /// ![faders](https://api.iconify.design/ph/faders-light.svg?height=32&color=%23888888)
   static const IconData faders = IconData(
     0xe228,
     fontFamily: 'PhosphorLight',
@@ -6787,7 +6787,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fadersHorizontal` no estilo Light.
   ///
-  /// ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/faders-horizontal.svg)
+  /// ![faders-horizontal](https://api.iconify.design/ph/faders-horizontal-light.svg?height=32&color=%23888888)
   static const IconData fadersHorizontal = IconData(
     0xe22a,
     fontFamily: 'PhosphorLight',
@@ -6799,7 +6799,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `falloutShelter` no estilo Light.
   ///
-  /// ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fallout-shelter.svg)
+  /// ![fallout-shelter](https://api.iconify.design/ph/fallout-shelter-light.svg?height=32&color=%23888888)
   static const IconData falloutShelter = IconData(
     0xe9de,
     fontFamily: 'PhosphorLight',
@@ -6811,7 +6811,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fan` no estilo Light.
   ///
-  /// ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fan.svg)
+  /// ![fan](https://api.iconify.design/ph/fan-light.svg?height=32&color=%23888888)
   static const IconData fan = IconData(
     0xe9f2,
     fontFamily: 'PhosphorLight',
@@ -6823,7 +6823,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `farm` no estilo Light.
   ///
-  /// ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/farm.svg)
+  /// ![farm](https://api.iconify.design/ph/farm-light.svg?height=32&color=%23888888)
   static const IconData farm = IconData(
     0xec70,
     fontFamily: 'PhosphorLight',
@@ -6835,7 +6835,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fastForward` no estilo Light.
   ///
-  /// ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fast-forward.svg)
+  /// ![fast-forward](https://api.iconify.design/ph/fast-forward-light.svg?height=32&color=%23888888)
   static const IconData fastForward = IconData(
     0xe6a6,
     fontFamily: 'PhosphorLight',
@@ -6847,7 +6847,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fastForwardCircle` no estilo Light.
   ///
-  /// ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fast-forward-circle.svg)
+  /// ![fast-forward-circle](https://api.iconify.design/ph/fast-forward-circle-light.svg?height=32&color=%23888888)
   static const IconData fastForwardCircle = IconData(
     0xe22c,
     fontFamily: 'PhosphorLight',
@@ -6859,7 +6859,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `feather` no estilo Light.
   ///
-  /// ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/feather.svg)
+  /// ![feather](https://api.iconify.design/ph/feather-light.svg?height=32&color=%23888888)
   static const IconData feather = IconData(
     0xe9c0,
     fontFamily: 'PhosphorLight',
@@ -6871,7 +6871,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fediverseLogo` no estilo Light.
   ///
-  /// ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fediverse-logo.svg)
+  /// ![fediverse-logo](https://api.iconify.design/ph/fediverse-logo-light.svg?height=32&color=%23888888)
   static const IconData fediverseLogo = IconData(
     0xed66,
     fontFamily: 'PhosphorLight',
@@ -6883,7 +6883,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `figmaLogo` no estilo Light.
   ///
-  /// ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/figma-logo.svg)
+  /// ![figma-logo](https://api.iconify.design/ph/figma-logo-light.svg?height=32&color=%23888888)
   static const IconData figmaLogo = IconData(
     0xe22e,
     fontFamily: 'PhosphorLight',
@@ -6895,7 +6895,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `file` no estilo Light.
   ///
-  /// ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file.svg)
+  /// ![file](https://api.iconify.design/ph/file-light.svg?height=32&color=%23888888)
   static const IconData file = IconData(
     0xe230,
     fontFamily: 'PhosphorLight',
@@ -6907,7 +6907,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileArchive` no estilo Light.
   ///
-  /// ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-archive.svg)
+  /// ![file-archive](https://api.iconify.design/ph/file-archive-light.svg?height=32&color=%23888888)
   static const IconData fileArchive = IconData(
     0xeb2a,
     fontFamily: 'PhosphorLight',
@@ -6919,7 +6919,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileArrowDown` no estilo Light.
   ///
-  /// ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-arrow-down.svg)
+  /// ![file-arrow-down](https://api.iconify.design/ph/file-arrow-down-light.svg?height=32&color=%23888888)
   static const IconData fileArrowDown = IconData(
     0xe232,
     fontFamily: 'PhosphorLight',
@@ -6931,7 +6931,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileArrowUp` no estilo Light.
   ///
-  /// ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-arrow-up.svg)
+  /// ![file-arrow-up](https://api.iconify.design/ph/file-arrow-up-light.svg?height=32&color=%23888888)
   static const IconData fileArrowUp = IconData(
     0xe61e,
     fontFamily: 'PhosphorLight',
@@ -6943,7 +6943,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileAudio` no estilo Light.
   ///
-  /// ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-audio.svg)
+  /// ![file-audio](https://api.iconify.design/ph/file-audio-light.svg?height=32&color=%23888888)
   static const IconData fileAudio = IconData(
     0xea20,
     fontFamily: 'PhosphorLight',
@@ -6955,7 +6955,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileC` no estilo Light.
   ///
-  /// ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-c.svg)
+  /// ![file-c](https://api.iconify.design/ph/file-c-light.svg?height=32&color=%23888888)
   static const IconData fileC = IconData(
     0xeb32,
     fontFamily: 'PhosphorLight',
@@ -6967,7 +6967,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileCSharp` no estilo Light.
   ///
-  /// ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-c-sharp.svg)
+  /// ![file-c-sharp](https://api.iconify.design/ph/file-c-sharp-light.svg?height=32&color=%23888888)
   static const IconData fileCSharp = IconData(
     0xeb30,
     fontFamily: 'PhosphorLight',
@@ -6979,7 +6979,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileCloud` no estilo Light.
   ///
-  /// ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-cloud.svg)
+  /// ![file-cloud](https://api.iconify.design/ph/file-cloud-light.svg?height=32&color=%23888888)
   static const IconData fileCloud = IconData(
     0xe95e,
     fontFamily: 'PhosphorLight',
@@ -6991,7 +6991,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileCode` no estilo Light.
   ///
-  /// ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-code.svg)
+  /// ![file-code](https://api.iconify.design/ph/file-code-light.svg?height=32&color=%23888888)
   static const IconData fileCode = IconData(
     0xe914,
     fontFamily: 'PhosphorLight',
@@ -7003,7 +7003,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileCpp` no estilo Light.
   ///
-  /// ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-cpp.svg)
+  /// ![file-cpp](https://api.iconify.design/ph/file-cpp-light.svg?height=32&color=%23888888)
   static const IconData fileCpp = IconData(
     0xeb2e,
     fontFamily: 'PhosphorLight',
@@ -7015,7 +7015,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileCss` no estilo Light.
   ///
-  /// ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-css.svg)
+  /// ![file-css](https://api.iconify.design/ph/file-css-light.svg?height=32&color=%23888888)
   static const IconData fileCss = IconData(
     0xeb34,
     fontFamily: 'PhosphorLight',
@@ -7027,7 +7027,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileCsv` no estilo Light.
   ///
-  /// ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-csv.svg)
+  /// ![file-csv](https://api.iconify.design/ph/file-csv-light.svg?height=32&color=%23888888)
   static const IconData fileCsv = IconData(
     0xeb1c,
     fontFamily: 'PhosphorLight',
@@ -7039,7 +7039,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileDashed` no estilo Light.
   ///
-  /// ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-dashed.svg)
+  /// ![file-dashed](https://api.iconify.design/ph/file-dashed-light.svg?height=32&color=%23888888)
   static const IconData fileDashed = IconData(
     0xe704,
     fontFamily: 'PhosphorLight',
@@ -7051,7 +7051,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileDoc` no estilo Light.
   ///
-  /// ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-doc.svg)
+  /// ![file-doc](https://api.iconify.design/ph/file-doc-light.svg?height=32&color=%23888888)
   static const IconData fileDoc = IconData(
     0xeb1e,
     fontFamily: 'PhosphorLight',
@@ -7063,7 +7063,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileDotted` no estilo Light.
   ///
-  /// ![file-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-dotted.svg)
+  /// ![file-dotted](https://api.iconify.design/ph/file-dashed-light.svg?height=32&color=%23888888)
   static const IconData fileDotted = IconData(
     0xe704,
     fontFamily: 'PhosphorLight',
@@ -7075,7 +7075,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileHtml` no estilo Light.
   ///
-  /// ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-html.svg)
+  /// ![file-html](https://api.iconify.design/ph/file-html-light.svg?height=32&color=%23888888)
   static const IconData fileHtml = IconData(
     0xeb38,
     fontFamily: 'PhosphorLight',
@@ -7087,7 +7087,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileImage` no estilo Light.
   ///
-  /// ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-image.svg)
+  /// ![file-image](https://api.iconify.design/ph/file-image-light.svg?height=32&color=%23888888)
   static const IconData fileImage = IconData(
     0xea24,
     fontFamily: 'PhosphorLight',
@@ -7099,7 +7099,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileIni` no estilo Light.
   ///
-  /// ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-ini.svg)
+  /// ![file-ini](https://api.iconify.design/ph/file-ini-light.svg?height=32&color=%23888888)
   static const IconData fileIni = IconData(
     0xeb33,
     fontFamily: 'PhosphorLight',
@@ -7111,7 +7111,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileJpg` no estilo Light.
   ///
-  /// ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-jpg.svg)
+  /// ![file-jpg](https://api.iconify.design/ph/file-jpg-light.svg?height=32&color=%23888888)
   static const IconData fileJpg = IconData(
     0xeb1a,
     fontFamily: 'PhosphorLight',
@@ -7123,7 +7123,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileJs` no estilo Light.
   ///
-  /// ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-js.svg)
+  /// ![file-js](https://api.iconify.design/ph/file-js-light.svg?height=32&color=%23888888)
   static const IconData fileJs = IconData(
     0xeb24,
     fontFamily: 'PhosphorLight',
@@ -7135,7 +7135,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileJsx` no estilo Light.
   ///
-  /// ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-jsx.svg)
+  /// ![file-jsx](https://api.iconify.design/ph/file-jsx-light.svg?height=32&color=%23888888)
   static const IconData fileJsx = IconData(
     0xeb3a,
     fontFamily: 'PhosphorLight',
@@ -7147,7 +7147,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileLock` no estilo Light.
   ///
-  /// ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-lock.svg)
+  /// ![file-lock](https://api.iconify.design/ph/file-lock-light.svg?height=32&color=%23888888)
   static const IconData fileLock = IconData(
     0xe95c,
     fontFamily: 'PhosphorLight',
@@ -7159,7 +7159,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileMagnifyingGlass` no estilo Light.
   ///
-  /// ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-magnifying-glass.svg)
+  /// ![file-magnifying-glass](https://api.iconify.design/ph/file-magnifying-glass-light.svg?height=32&color=%23888888)
   static const IconData fileMagnifyingGlass = IconData(
     0xe238,
     fontFamily: 'PhosphorLight',
@@ -7171,7 +7171,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileMd` no estilo Light.
   ///
-  /// ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-md.svg)
+  /// ![file-md](https://api.iconify.design/ph/file-md-light.svg?height=32&color=%23888888)
   static const IconData fileMd = IconData(
     0xed50,
     fontFamily: 'PhosphorLight',
@@ -7183,7 +7183,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileMinus` no estilo Light.
   ///
-  /// ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-minus.svg)
+  /// ![file-minus](https://api.iconify.design/ph/file-minus-light.svg?height=32&color=%23888888)
   static const IconData fileMinus = IconData(
     0xe234,
     fontFamily: 'PhosphorLight',
@@ -7195,7 +7195,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filePdf` no estilo Light.
   ///
-  /// ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-pdf.svg)
+  /// ![file-pdf](https://api.iconify.design/ph/file-pdf-light.svg?height=32&color=%23888888)
   static const IconData filePdf = IconData(
     0xe702,
     fontFamily: 'PhosphorLight',
@@ -7207,7 +7207,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filePlus` no estilo Light.
   ///
-  /// ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-plus.svg)
+  /// ![file-plus](https://api.iconify.design/ph/file-plus-light.svg?height=32&color=%23888888)
   static const IconData filePlus = IconData(
     0xe236,
     fontFamily: 'PhosphorLight',
@@ -7219,7 +7219,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filePng` no estilo Light.
   ///
-  /// ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-png.svg)
+  /// ![file-png](https://api.iconify.design/ph/file-png-light.svg?height=32&color=%23888888)
   static const IconData filePng = IconData(
     0xeb18,
     fontFamily: 'PhosphorLight',
@@ -7231,7 +7231,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filePpt` no estilo Light.
   ///
-  /// ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-ppt.svg)
+  /// ![file-ppt](https://api.iconify.design/ph/file-ppt-light.svg?height=32&color=%23888888)
   static const IconData filePpt = IconData(
     0xeb20,
     fontFamily: 'PhosphorLight',
@@ -7243,7 +7243,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filePy` no estilo Light.
   ///
-  /// ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-py.svg)
+  /// ![file-py](https://api.iconify.design/ph/file-py-light.svg?height=32&color=%23888888)
   static const IconData filePy = IconData(
     0xeb2c,
     fontFamily: 'PhosphorLight',
@@ -7255,7 +7255,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileRs` no estilo Light.
   ///
-  /// ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-rs.svg)
+  /// ![file-rs](https://api.iconify.design/ph/file-rs-light.svg?height=32&color=%23888888)
   static const IconData fileRs = IconData(
     0xeb28,
     fontFamily: 'PhosphorLight',
@@ -7267,7 +7267,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileSearch` no estilo Light.
   ///
-  /// ![file-search](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-search.svg)
+  /// ![file-search](https://api.iconify.design/ph/file-magnifying-glass-light.svg?height=32&color=%23888888)
   static const IconData fileSearch = IconData(
     0xe238,
     fontFamily: 'PhosphorLight',
@@ -7279,7 +7279,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileSql` no estilo Light.
   ///
-  /// ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-sql.svg)
+  /// ![file-sql](https://api.iconify.design/ph/file-sql-light.svg?height=32&color=%23888888)
   static const IconData fileSql = IconData(
     0xed4e,
     fontFamily: 'PhosphorLight',
@@ -7291,7 +7291,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileSvg` no estilo Light.
   ///
-  /// ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-svg.svg)
+  /// ![file-svg](https://api.iconify.design/ph/file-svg-light.svg?height=32&color=%23888888)
   static const IconData fileSvg = IconData(
     0xed08,
     fontFamily: 'PhosphorLight',
@@ -7303,7 +7303,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileText` no estilo Light.
   ///
-  /// ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-text.svg)
+  /// ![file-text](https://api.iconify.design/ph/file-text-light.svg?height=32&color=%23888888)
   static const IconData fileText = IconData(
     0xe23a,
     fontFamily: 'PhosphorLight',
@@ -7315,7 +7315,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileTs` no estilo Light.
   ///
-  /// ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-ts.svg)
+  /// ![file-ts](https://api.iconify.design/ph/file-ts-light.svg?height=32&color=%23888888)
   static const IconData fileTs = IconData(
     0xeb26,
     fontFamily: 'PhosphorLight',
@@ -7327,7 +7327,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileTsx` no estilo Light.
   ///
-  /// ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-tsx.svg)
+  /// ![file-tsx](https://api.iconify.design/ph/file-tsx-light.svg?height=32&color=%23888888)
   static const IconData fileTsx = IconData(
     0xeb3c,
     fontFamily: 'PhosphorLight',
@@ -7339,7 +7339,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileTxt` no estilo Light.
   ///
-  /// ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-txt.svg)
+  /// ![file-txt](https://api.iconify.design/ph/file-txt-light.svg?height=32&color=%23888888)
   static const IconData fileTxt = IconData(
     0xeb35,
     fontFamily: 'PhosphorLight',
@@ -7351,7 +7351,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileVideo` no estilo Light.
   ///
-  /// ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-video.svg)
+  /// ![file-video](https://api.iconify.design/ph/file-video-light.svg?height=32&color=%23888888)
   static const IconData fileVideo = IconData(
     0xea22,
     fontFamily: 'PhosphorLight',
@@ -7363,7 +7363,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileVue` no estilo Light.
   ///
-  /// ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-vue.svg)
+  /// ![file-vue](https://api.iconify.design/ph/file-vue-light.svg?height=32&color=%23888888)
   static const IconData fileVue = IconData(
     0xeb3e,
     fontFamily: 'PhosphorLight',
@@ -7375,7 +7375,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileX` no estilo Light.
   ///
-  /// ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-x.svg)
+  /// ![file-x](https://api.iconify.design/ph/file-x-light.svg?height=32&color=%23888888)
   static const IconData fileX = IconData(
     0xe23c,
     fontFamily: 'PhosphorLight',
@@ -7387,7 +7387,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileXls` no estilo Light.
   ///
-  /// ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-xls.svg)
+  /// ![file-xls](https://api.iconify.design/ph/file-xls-light.svg?height=32&color=%23888888)
   static const IconData fileXls = IconData(
     0xeb22,
     fontFamily: 'PhosphorLight',
@@ -7399,7 +7399,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fileZip` no estilo Light.
   ///
-  /// ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-zip.svg)
+  /// ![file-zip](https://api.iconify.design/ph/file-zip-light.svg?height=32&color=%23888888)
   static const IconData fileZip = IconData(
     0xe958,
     fontFamily: 'PhosphorLight',
@@ -7411,7 +7411,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `files` no estilo Light.
   ///
-  /// ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/files.svg)
+  /// ![files](https://api.iconify.design/ph/files-light.svg?height=32&color=%23888888)
   static const IconData files = IconData(
     0xe710,
     fontFamily: 'PhosphorLight',
@@ -7423,7 +7423,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filmReel` no estilo Light.
   ///
-  /// ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-reel.svg)
+  /// ![film-reel](https://api.iconify.design/ph/film-reel-light.svg?height=32&color=%23888888)
   static const IconData filmReel = IconData(
     0xe8c0,
     fontFamily: 'PhosphorLight',
@@ -7435,7 +7435,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filmScript` no estilo Light.
   ///
-  /// ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-script.svg)
+  /// ![film-script](https://api.iconify.design/ph/film-script-light.svg?height=32&color=%23888888)
   static const IconData filmScript = IconData(
     0xeb50,
     fontFamily: 'PhosphorLight',
@@ -7447,7 +7447,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filmSlate` no estilo Light.
   ///
-  /// ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-slate.svg)
+  /// ![film-slate](https://api.iconify.design/ph/film-slate-light.svg?height=32&color=%23888888)
   static const IconData filmSlate = IconData(
     0xe8c2,
     fontFamily: 'PhosphorLight',
@@ -7459,7 +7459,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `filmStrip` no estilo Light.
   ///
-  /// ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-strip.svg)
+  /// ![film-strip](https://api.iconify.design/ph/film-strip-light.svg?height=32&color=%23888888)
   static const IconData filmStrip = IconData(
     0xe792,
     fontFamily: 'PhosphorLight',
@@ -7471,7 +7471,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fingerprint` no estilo Light.
   ///
-  /// ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fingerprint.svg)
+  /// ![fingerprint](https://api.iconify.design/ph/fingerprint-light.svg?height=32&color=%23888888)
   static const IconData fingerprint = IconData(
     0xe23e,
     fontFamily: 'PhosphorLight',
@@ -7483,7 +7483,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fingerprintSimple` no estilo Light.
   ///
-  /// ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fingerprint-simple.svg)
+  /// ![fingerprint-simple](https://api.iconify.design/ph/fingerprint-simple-light.svg?height=32&color=%23888888)
   static const IconData fingerprintSimple = IconData(
     0xe240,
     fontFamily: 'PhosphorLight',
@@ -7495,7 +7495,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `finnTheHuman` no estilo Light.
   ///
-  /// ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/finn-the-human.svg)
+  /// ![finn-the-human](https://api.iconify.design/ph/finn-the-human-light.svg?height=32&color=%23888888)
   static const IconData finnTheHuman = IconData(
     0xe56c,
     fontFamily: 'PhosphorLight',
@@ -7507,7 +7507,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fire` no estilo Light.
   ///
-  /// ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire.svg)
+  /// ![fire](https://api.iconify.design/ph/fire-light.svg?height=32&color=%23888888)
   static const IconData fire = IconData(
     0xe242,
     fontFamily: 'PhosphorLight',
@@ -7519,7 +7519,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fireExtinguisher` no estilo Light.
   ///
-  /// ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire-extinguisher.svg)
+  /// ![fire-extinguisher](https://api.iconify.design/ph/fire-extinguisher-light.svg?height=32&color=%23888888)
   static const IconData fireExtinguisher = IconData(
     0xe9e8,
     fontFamily: 'PhosphorLight',
@@ -7531,7 +7531,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fireSimple` no estilo Light.
   ///
-  /// ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire-simple.svg)
+  /// ![fire-simple](https://api.iconify.design/ph/fire-simple-light.svg?height=32&color=%23888888)
   static const IconData fireSimple = IconData(
     0xe620,
     fontFamily: 'PhosphorLight',
@@ -7543,7 +7543,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fireTruck` no estilo Light.
   ///
-  /// ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire-truck.svg)
+  /// ![fire-truck](https://api.iconify.design/ph/fire-truck-light.svg?height=32&color=%23888888)
   static const IconData fireTruck = IconData(
     0xe574,
     fontFamily: 'PhosphorLight',
@@ -7555,7 +7555,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `firstAid` no estilo Light.
   ///
-  /// ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/first-aid.svg)
+  /// ![first-aid](https://api.iconify.design/ph/first-aid-light.svg?height=32&color=%23888888)
   static const IconData firstAid = IconData(
     0xe56e,
     fontFamily: 'PhosphorLight',
@@ -7567,7 +7567,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `firstAidKit` no estilo Light.
   ///
-  /// ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/first-aid-kit.svg)
+  /// ![first-aid-kit](https://api.iconify.design/ph/first-aid-kit-light.svg?height=32&color=%23888888)
   static const IconData firstAidKit = IconData(
     0xe570,
     fontFamily: 'PhosphorLight',
@@ -7579,7 +7579,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fish` no estilo Light.
   ///
-  /// ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fish.svg)
+  /// ![fish](https://api.iconify.design/ph/fish-light.svg?height=32&color=%23888888)
   static const IconData fish = IconData(
     0xe728,
     fontFamily: 'PhosphorLight',
@@ -7591,7 +7591,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fishSimple` no estilo Light.
   ///
-  /// ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fish-simple.svg)
+  /// ![fish-simple](https://api.iconify.design/ph/fish-simple-light.svg?height=32&color=%23888888)
   static const IconData fishSimple = IconData(
     0xe72a,
     fontFamily: 'PhosphorLight',
@@ -7603,7 +7603,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flag` no estilo Light.
   ///
-  /// ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag.svg)
+  /// ![flag](https://api.iconify.design/ph/flag-light.svg?height=32&color=%23888888)
   static const IconData flag = IconData(
     0xe244,
     fontFamily: 'PhosphorLight',
@@ -7615,7 +7615,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flagBanner` no estilo Light.
   ///
-  /// ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-banner.svg)
+  /// ![flag-banner](https://api.iconify.design/ph/flag-banner-light.svg?height=32&color=%23888888)
   static const IconData flagBanner = IconData(
     0xe622,
     fontFamily: 'PhosphorLight',
@@ -7627,7 +7627,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flagBannerFold` no estilo Light.
   ///
-  /// ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-banner-fold.svg)
+  /// ![flag-banner-fold](https://api.iconify.design/ph/flag-banner-fold-light.svg?height=32&color=%23888888)
   static const IconData flagBannerFold = IconData(
     0xecf2,
     fontFamily: 'PhosphorLight',
@@ -7639,7 +7639,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flagCheckered` no estilo Light.
   ///
-  /// ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-checkered.svg)
+  /// ![flag-checkered](https://api.iconify.design/ph/flag-checkered-light.svg?height=32&color=%23888888)
   static const IconData flagCheckered = IconData(
     0xea38,
     fontFamily: 'PhosphorLight',
@@ -7651,7 +7651,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flagPennant` no estilo Light.
   ///
-  /// ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-pennant.svg)
+  /// ![flag-pennant](https://api.iconify.design/ph/flag-pennant-light.svg?height=32&color=%23888888)
   static const IconData flagPennant = IconData(
     0xecf0,
     fontFamily: 'PhosphorLight',
@@ -7663,7 +7663,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flame` no estilo Light.
   ///
-  /// ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flame.svg)
+  /// ![flame](https://api.iconify.design/ph/flame-light.svg?height=32&color=%23888888)
   static const IconData flame = IconData(
     0xe624,
     fontFamily: 'PhosphorLight',
@@ -7675,7 +7675,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flashlight` no estilo Light.
   ///
-  /// ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flashlight.svg)
+  /// ![flashlight](https://api.iconify.design/ph/flashlight-light.svg?height=32&color=%23888888)
   static const IconData flashlight = IconData(
     0xe246,
     fontFamily: 'PhosphorLight',
@@ -7687,7 +7687,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flask` no estilo Light.
   ///
-  /// ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flask.svg)
+  /// ![flask](https://api.iconify.design/ph/flask-light.svg?height=32&color=%23888888)
   static const IconData flask = IconData(
     0xe79e,
     fontFamily: 'PhosphorLight',
@@ -7699,7 +7699,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flipHorizontal` no estilo Light.
   ///
-  /// ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flip-horizontal.svg)
+  /// ![flip-horizontal](https://api.iconify.design/ph/flip-horizontal-light.svg?height=32&color=%23888888)
   static const IconData flipHorizontal = IconData(
     0xed6a,
     fontFamily: 'PhosphorLight',
@@ -7711,7 +7711,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flipVertical` no estilo Light.
   ///
-  /// ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flip-vertical.svg)
+  /// ![flip-vertical](https://api.iconify.design/ph/flip-vertical-light.svg?height=32&color=%23888888)
   static const IconData flipVertical = IconData(
     0xed6c,
     fontFamily: 'PhosphorLight',
@@ -7723,7 +7723,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `floppyDisk` no estilo Light.
   ///
-  /// ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/floppy-disk.svg)
+  /// ![floppy-disk](https://api.iconify.design/ph/floppy-disk-light.svg?height=32&color=%23888888)
   static const IconData floppyDisk = IconData(
     0xe248,
     fontFamily: 'PhosphorLight',
@@ -7735,7 +7735,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `floppyDiskBack` no estilo Light.
   ///
-  /// ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/floppy-disk-back.svg)
+  /// ![floppy-disk-back](https://api.iconify.design/ph/floppy-disk-back-light.svg?height=32&color=%23888888)
   static const IconData floppyDiskBack = IconData(
     0xeaf4,
     fontFamily: 'PhosphorLight',
@@ -7747,7 +7747,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flowArrow` no estilo Light.
   ///
-  /// ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flow-arrow.svg)
+  /// ![flow-arrow](https://api.iconify.design/ph/flow-arrow-light.svg?height=32&color=%23888888)
   static const IconData flowArrow = IconData(
     0xe6ec,
     fontFamily: 'PhosphorLight',
@@ -7759,7 +7759,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flower` no estilo Light.
   ///
-  /// ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flower.svg)
+  /// ![flower](https://api.iconify.design/ph/flower-light.svg?height=32&color=%23888888)
   static const IconData flower = IconData(
     0xe75e,
     fontFamily: 'PhosphorLight',
@@ -7771,7 +7771,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flowerLotus` no estilo Light.
   ///
-  /// ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flower-lotus.svg)
+  /// ![flower-lotus](https://api.iconify.design/ph/flower-lotus-light.svg?height=32&color=%23888888)
   static const IconData flowerLotus = IconData(
     0xe6cc,
     fontFamily: 'PhosphorLight',
@@ -7783,7 +7783,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flowerTulip` no estilo Light.
   ///
-  /// ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flower-tulip.svg)
+  /// ![flower-tulip](https://api.iconify.design/ph/flower-tulip-light.svg?height=32&color=%23888888)
   static const IconData flowerTulip = IconData(
     0xeacc,
     fontFamily: 'PhosphorLight',
@@ -7795,7 +7795,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `flyingSaucer` no estilo Light.
   ///
-  /// ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flying-saucer.svg)
+  /// ![flying-saucer](https://api.iconify.design/ph/flying-saucer-light.svg?height=32&color=%23888888)
   static const IconData flyingSaucer = IconData(
     0xeb4a,
     fontFamily: 'PhosphorLight',
@@ -7807,7 +7807,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folder` no estilo Light.
   ///
-  /// ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder.svg)
+  /// ![folder](https://api.iconify.design/ph/folder-light.svg?height=32&color=%23888888)
   static const IconData folder = IconData(
     0xe24a,
     fontFamily: 'PhosphorLight',
@@ -7819,7 +7819,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderDashed` no estilo Light.
   ///
-  /// ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-dashed.svg)
+  /// ![folder-dashed](https://api.iconify.design/ph/folder-dashed-light.svg?height=32&color=%23888888)
   static const IconData folderDashed = IconData(
     0xe8f8,
     fontFamily: 'PhosphorLight',
@@ -7831,7 +7831,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderDotted` no estilo Light.
   ///
-  /// ![folder-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-dotted.svg)
+  /// ![folder-dotted](https://api.iconify.design/ph/folder-dashed-light.svg?height=32&color=%23888888)
   static const IconData folderDotted = IconData(
     0xe8f8,
     fontFamily: 'PhosphorLight',
@@ -7843,7 +7843,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderLock` no estilo Light.
   ///
-  /// ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-lock.svg)
+  /// ![folder-lock](https://api.iconify.design/ph/folder-lock-light.svg?height=32&color=%23888888)
   static const IconData folderLock = IconData(
     0xea3c,
     fontFamily: 'PhosphorLight',
@@ -7855,7 +7855,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderMinus` no estilo Light.
   ///
-  /// ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-minus.svg)
+  /// ![folder-minus](https://api.iconify.design/ph/folder-minus-light.svg?height=32&color=%23888888)
   static const IconData folderMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorLight',
@@ -7867,7 +7867,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderNotch` no estilo Light.
   ///
-  /// ![folder-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-notch.svg)
+  /// ![folder-notch](https://api.iconify.design/ph/folder-light.svg?height=32&color=%23888888)
   static const IconData folderNotch = IconData(
     0xe24a,
     fontFamily: 'PhosphorLight',
@@ -7879,7 +7879,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderNotchMinus` no estilo Light.
   ///
-  /// ![folder-notch-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-notch-minus.svg)
+  /// ![folder-notch-minus](https://api.iconify.design/ph/folder-minus-light.svg?height=32&color=%23888888)
   static const IconData folderNotchMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorLight',
@@ -7891,7 +7891,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderNotchOpen` no estilo Light.
   ///
-  /// ![folder-notch-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-notch-open.svg)
+  /// ![folder-notch-open](https://api.iconify.design/ph/folder-open-light.svg?height=32&color=%23888888)
   static const IconData folderNotchOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorLight',
@@ -7903,7 +7903,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderNotchPlus` no estilo Light.
   ///
-  /// ![folder-notch-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-notch-plus.svg)
+  /// ![folder-notch-plus](https://api.iconify.design/ph/folder-plus-light.svg?height=32&color=%23888888)
   static const IconData folderNotchPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorLight',
@@ -7915,7 +7915,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderOpen` no estilo Light.
   ///
-  /// ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-open.svg)
+  /// ![folder-open](https://api.iconify.design/ph/folder-open-light.svg?height=32&color=%23888888)
   static const IconData folderOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorLight',
@@ -7927,7 +7927,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderPlus` no estilo Light.
   ///
-  /// ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-plus.svg)
+  /// ![folder-plus](https://api.iconify.design/ph/folder-plus-light.svg?height=32&color=%23888888)
   static const IconData folderPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorLight',
@@ -7939,7 +7939,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimple` no estilo Light.
   ///
-  /// ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple.svg)
+  /// ![folder-simple](https://api.iconify.design/ph/folder-simple-light.svg?height=32&color=%23888888)
   static const IconData folderSimple = IconData(
     0xe25a,
     fontFamily: 'PhosphorLight',
@@ -7951,7 +7951,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimpleDashed` no estilo Light.
   ///
-  /// ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-dashed.svg)
+  /// ![folder-simple-dashed](https://api.iconify.design/ph/folder-simple-dashed-light.svg?height=32&color=%23888888)
   static const IconData folderSimpleDashed = IconData(
     0xec2a,
     fontFamily: 'PhosphorLight',
@@ -7963,7 +7963,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimpleDotted` no estilo Light.
   ///
-  /// ![folder-simple-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-dotted.svg)
+  /// ![folder-simple-dotted](https://api.iconify.design/ph/folder-simple-dashed-light.svg?height=32&color=%23888888)
   static const IconData folderSimpleDotted = IconData(
     0xec2a,
     fontFamily: 'PhosphorLight',
@@ -7975,7 +7975,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimpleLock` no estilo Light.
   ///
-  /// ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-lock.svg)
+  /// ![folder-simple-lock](https://api.iconify.design/ph/folder-simple-lock-light.svg?height=32&color=%23888888)
   static const IconData folderSimpleLock = IconData(
     0xeb5e,
     fontFamily: 'PhosphorLight',
@@ -7987,7 +7987,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimpleMinus` no estilo Light.
   ///
-  /// ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-minus.svg)
+  /// ![folder-simple-minus](https://api.iconify.design/ph/folder-simple-minus-light.svg?height=32&color=%23888888)
   static const IconData folderSimpleMinus = IconData(
     0xe25c,
     fontFamily: 'PhosphorLight',
@@ -7999,7 +7999,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimplePlus` no estilo Light.
   ///
-  /// ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-plus.svg)
+  /// ![folder-simple-plus](https://api.iconify.design/ph/folder-simple-plus-light.svg?height=32&color=%23888888)
   static const IconData folderSimplePlus = IconData(
     0xe25e,
     fontFamily: 'PhosphorLight',
@@ -8011,7 +8011,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimpleStar` no estilo Light.
   ///
-  /// ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-star.svg)
+  /// ![folder-simple-star](https://api.iconify.design/ph/folder-simple-star-light.svg?height=32&color=%23888888)
   static const IconData folderSimpleStar = IconData(
     0xec2e,
     fontFamily: 'PhosphorLight',
@@ -8023,7 +8023,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderSimpleUser` no estilo Light.
   ///
-  /// ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-user.svg)
+  /// ![folder-simple-user](https://api.iconify.design/ph/folder-simple-user-light.svg?height=32&color=%23888888)
   static const IconData folderSimpleUser = IconData(
     0xeb60,
     fontFamily: 'PhosphorLight',
@@ -8035,7 +8035,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderStar` no estilo Light.
   ///
-  /// ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-star.svg)
+  /// ![folder-star](https://api.iconify.design/ph/folder-star-light.svg?height=32&color=%23888888)
   static const IconData folderStar = IconData(
     0xea86,
     fontFamily: 'PhosphorLight',
@@ -8047,7 +8047,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folderUser` no estilo Light.
   ///
-  /// ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-user.svg)
+  /// ![folder-user](https://api.iconify.design/ph/folder-user-light.svg?height=32&color=%23888888)
   static const IconData folderUser = IconData(
     0xeb46,
     fontFamily: 'PhosphorLight',
@@ -8059,7 +8059,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `folders` no estilo Light.
   ///
-  /// ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folders.svg)
+  /// ![folders](https://api.iconify.design/ph/folders-light.svg?height=32&color=%23888888)
   static const IconData folders = IconData(
     0xe260,
     fontFamily: 'PhosphorLight',
@@ -8071,7 +8071,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `football` no estilo Light.
   ///
-  /// ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/football.svg)
+  /// ![football](https://api.iconify.design/ph/football-light.svg?height=32&color=%23888888)
   static const IconData football = IconData(
     0xe718,
     fontFamily: 'PhosphorLight',
@@ -8083,7 +8083,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `footballHelmet` no estilo Light.
   ///
-  /// ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/football-helmet.svg)
+  /// ![football-helmet](https://api.iconify.design/ph/football-helmet-light.svg?height=32&color=%23888888)
   static const IconData footballHelmet = IconData(
     0xee4c,
     fontFamily: 'PhosphorLight',
@@ -8095,7 +8095,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `footprints` no estilo Light.
   ///
-  /// ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/footprints.svg)
+  /// ![footprints](https://api.iconify.design/ph/footprints-light.svg?height=32&color=%23888888)
   static const IconData footprints = IconData(
     0xea88,
     fontFamily: 'PhosphorLight',
@@ -8107,7 +8107,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `forkKnife` no estilo Light.
   ///
-  /// ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fork-knife.svg)
+  /// ![fork-knife](https://api.iconify.design/ph/fork-knife-light.svg?height=32&color=%23888888)
   static const IconData forkKnife = IconData(
     0xe262,
     fontFamily: 'PhosphorLight',
@@ -8119,7 +8119,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `fourK` no estilo Light.
   ///
-  /// ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/four-k.svg)
+  /// ![four-k](https://api.iconify.design/ph/four-k-light.svg?height=32&color=%23888888)
   static const IconData fourK = IconData(
     0xea5c,
     fontFamily: 'PhosphorLight',
@@ -8131,7 +8131,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `frameCorners` no estilo Light.
   ///
-  /// ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/frame-corners.svg)
+  /// ![frame-corners](https://api.iconify.design/ph/frame-corners-light.svg?height=32&color=%23888888)
   static const IconData frameCorners = IconData(
     0xe626,
     fontFamily: 'PhosphorLight',
@@ -8143,7 +8143,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `framerLogo` no estilo Light.
   ///
-  /// ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/framer-logo.svg)
+  /// ![framer-logo](https://api.iconify.design/ph/framer-logo-light.svg?height=32&color=%23888888)
   static const IconData framerLogo = IconData(
     0xe264,
     fontFamily: 'PhosphorLight',
@@ -8155,7 +8155,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `function` no estilo Light.
   ///
-  /// ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/function.svg)
+  /// ![function](https://api.iconify.design/ph/function-light.svg?height=32&color=%23888888)
   static const IconData function = IconData(
     0xebe4,
     fontFamily: 'PhosphorLight',
@@ -8167,7 +8167,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `funnel` no estilo Light.
   ///
-  /// ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel.svg)
+  /// ![funnel](https://api.iconify.design/ph/funnel-light.svg?height=32&color=%23888888)
   static const IconData funnel = IconData(
     0xe266,
     fontFamily: 'PhosphorLight',
@@ -8179,7 +8179,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `funnelSimple` no estilo Light.
   ///
-  /// ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel-simple.svg)
+  /// ![funnel-simple](https://api.iconify.design/ph/funnel-simple-light.svg?height=32&color=%23888888)
   static const IconData funnelSimple = IconData(
     0xe268,
     fontFamily: 'PhosphorLight',
@@ -8191,7 +8191,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `funnelSimpleX` no estilo Light.
   ///
-  /// ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel-simple-x.svg)
+  /// ![funnel-simple-x](https://api.iconify.design/ph/funnel-simple-x-light.svg?height=32&color=%23888888)
   static const IconData funnelSimpleX = IconData(
     0xe26a,
     fontFamily: 'PhosphorLight',
@@ -8203,7 +8203,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `funnelX` no estilo Light.
   ///
-  /// ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel-x.svg)
+  /// ![funnel-x](https://api.iconify.design/ph/funnel-x-light.svg?height=32&color=%23888888)
   static const IconData funnelX = IconData(
     0xe26c,
     fontFamily: 'PhosphorLight',
@@ -8215,7 +8215,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gameController` no estilo Light.
   ///
-  /// ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/game-controller.svg)
+  /// ![game-controller](https://api.iconify.design/ph/game-controller-light.svg?height=32&color=%23888888)
   static const IconData gameController = IconData(
     0xe26e,
     fontFamily: 'PhosphorLight',
@@ -8227,7 +8227,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `garage` no estilo Light.
   ///
-  /// ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/garage.svg)
+  /// ![garage](https://api.iconify.design/ph/garage-light.svg?height=32&color=%23888888)
   static const IconData garage = IconData(
     0xecd6,
     fontFamily: 'PhosphorLight',
@@ -8239,7 +8239,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gasCan` no estilo Light.
   ///
-  /// ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gas-can.svg)
+  /// ![gas-can](https://api.iconify.design/ph/gas-can-light.svg?height=32&color=%23888888)
   static const IconData gasCan = IconData(
     0xe8ce,
     fontFamily: 'PhosphorLight',
@@ -8251,7 +8251,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gasPump` no estilo Light.
   ///
-  /// ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gas-pump.svg)
+  /// ![gas-pump](https://api.iconify.design/ph/gas-pump-light.svg?height=32&color=%23888888)
   static const IconData gasPump = IconData(
     0xe768,
     fontFamily: 'PhosphorLight',
@@ -8263,7 +8263,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gauge` no estilo Light.
   ///
-  /// ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gauge.svg)
+  /// ![gauge](https://api.iconify.design/ph/gauge-light.svg?height=32&color=%23888888)
   static const IconData gauge = IconData(
     0xe628,
     fontFamily: 'PhosphorLight',
@@ -8275,7 +8275,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gavel` no estilo Light.
   ///
-  /// ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gavel.svg)
+  /// ![gavel](https://api.iconify.design/ph/gavel-light.svg?height=32&color=%23888888)
   static const IconData gavel = IconData(
     0xea32,
     fontFamily: 'PhosphorLight',
@@ -8287,7 +8287,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gear` no estilo Light.
   ///
-  /// ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gear.svg)
+  /// ![gear](https://api.iconify.design/ph/gear-light.svg?height=32&color=%23888888)
   static const IconData gear = IconData(
     0xe270,
     fontFamily: 'PhosphorLight',
@@ -8299,7 +8299,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gearFine` no estilo Light.
   ///
-  /// ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gear-fine.svg)
+  /// ![gear-fine](https://api.iconify.design/ph/gear-fine-light.svg?height=32&color=%23888888)
   static const IconData gearFine = IconData(
     0xe87c,
     fontFamily: 'PhosphorLight',
@@ -8311,7 +8311,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gearSix` no estilo Light.
   ///
-  /// ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gear-six.svg)
+  /// ![gear-six](https://api.iconify.design/ph/gear-six-light.svg?height=32&color=%23888888)
   static const IconData gearSix = IconData(
     0xe272,
     fontFamily: 'PhosphorLight',
@@ -8323,7 +8323,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `genderFemale` no estilo Light.
   ///
-  /// ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-female.svg)
+  /// ![gender-female](https://api.iconify.design/ph/gender-female-light.svg?height=32&color=%23888888)
   static const IconData genderFemale = IconData(
     0xe6e0,
     fontFamily: 'PhosphorLight',
@@ -8335,7 +8335,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `genderIntersex` no estilo Light.
   ///
-  /// ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-intersex.svg)
+  /// ![gender-intersex](https://api.iconify.design/ph/gender-intersex-light.svg?height=32&color=%23888888)
   static const IconData genderIntersex = IconData(
     0xe6e6,
     fontFamily: 'PhosphorLight',
@@ -8347,7 +8347,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `genderMale` no estilo Light.
   ///
-  /// ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-male.svg)
+  /// ![gender-male](https://api.iconify.design/ph/gender-male-light.svg?height=32&color=%23888888)
   static const IconData genderMale = IconData(
     0xe6e2,
     fontFamily: 'PhosphorLight',
@@ -8359,7 +8359,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `genderNeuter` no estilo Light.
   ///
-  /// ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-neuter.svg)
+  /// ![gender-neuter](https://api.iconify.design/ph/gender-neuter-light.svg?height=32&color=%23888888)
   static const IconData genderNeuter = IconData(
     0xe6ea,
     fontFamily: 'PhosphorLight',
@@ -8371,7 +8371,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `genderNonbinary` no estilo Light.
   ///
-  /// ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-nonbinary.svg)
+  /// ![gender-nonbinary](https://api.iconify.design/ph/gender-nonbinary-light.svg?height=32&color=%23888888)
   static const IconData genderNonbinary = IconData(
     0xe6e4,
     fontFamily: 'PhosphorLight',
@@ -8383,7 +8383,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `genderTransgender` no estilo Light.
   ///
-  /// ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-transgender.svg)
+  /// ![gender-transgender](https://api.iconify.design/ph/gender-transgender-light.svg?height=32&color=%23888888)
   static const IconData genderTransgender = IconData(
     0xe6e8,
     fontFamily: 'PhosphorLight',
@@ -8395,7 +8395,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ghost` no estilo Light.
   ///
-  /// ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ghost.svg)
+  /// ![ghost](https://api.iconify.design/ph/ghost-light.svg?height=32&color=%23888888)
   static const IconData ghost = IconData(
     0xe62a,
     fontFamily: 'PhosphorLight',
@@ -8407,7 +8407,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gif` no estilo Light.
   ///
-  /// ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gif.svg)
+  /// ![gif](https://api.iconify.design/ph/gif-light.svg?height=32&color=%23888888)
   static const IconData gif = IconData(
     0xe274,
     fontFamily: 'PhosphorLight',
@@ -8419,7 +8419,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gift` no estilo Light.
   ///
-  /// ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gift.svg)
+  /// ![gift](https://api.iconify.design/ph/gift-light.svg?height=32&color=%23888888)
   static const IconData gift = IconData(
     0xe276,
     fontFamily: 'PhosphorLight',
@@ -8431,7 +8431,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitBranch` no estilo Light.
   ///
-  /// ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-branch.svg)
+  /// ![git-branch](https://api.iconify.design/ph/git-branch-light.svg?height=32&color=%23888888)
   static const IconData gitBranch = IconData(
     0xe278,
     fontFamily: 'PhosphorLight',
@@ -8443,7 +8443,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitCommit` no estilo Light.
   ///
-  /// ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-commit.svg)
+  /// ![git-commit](https://api.iconify.design/ph/git-commit-light.svg?height=32&color=%23888888)
   static const IconData gitCommit = IconData(
     0xe27a,
     fontFamily: 'PhosphorLight',
@@ -8455,7 +8455,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitDiff` no estilo Light.
   ///
-  /// ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-diff.svg)
+  /// ![git-diff](https://api.iconify.design/ph/git-diff-light.svg?height=32&color=%23888888)
   static const IconData gitDiff = IconData(
     0xe27c,
     fontFamily: 'PhosphorLight',
@@ -8467,7 +8467,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitFork` no estilo Light.
   ///
-  /// ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-fork.svg)
+  /// ![git-fork](https://api.iconify.design/ph/git-fork-light.svg?height=32&color=%23888888)
   static const IconData gitFork = IconData(
     0xe27e,
     fontFamily: 'PhosphorLight',
@@ -8479,7 +8479,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitMerge` no estilo Light.
   ///
-  /// ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-merge.svg)
+  /// ![git-merge](https://api.iconify.design/ph/git-merge-light.svg?height=32&color=%23888888)
   static const IconData gitMerge = IconData(
     0xe280,
     fontFamily: 'PhosphorLight',
@@ -8491,7 +8491,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitPullRequest` no estilo Light.
   ///
-  /// ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-pull-request.svg)
+  /// ![git-pull-request](https://api.iconify.design/ph/git-pull-request-light.svg?height=32&color=%23888888)
   static const IconData gitPullRequest = IconData(
     0xe282,
     fontFamily: 'PhosphorLight',
@@ -8503,7 +8503,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `githubLogo` no estilo Light.
   ///
-  /// ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/github-logo.svg)
+  /// ![github-logo](https://api.iconify.design/ph/github-logo-light.svg?height=32&color=%23888888)
   static const IconData githubLogo = IconData(
     0xe576,
     fontFamily: 'PhosphorLight',
@@ -8515,7 +8515,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitlabLogo` no estilo Light.
   ///
-  /// ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gitlab-logo.svg)
+  /// ![gitlab-logo](https://api.iconify.design/ph/gitlab-logo-light.svg?height=32&color=%23888888)
   static const IconData gitlabLogo = IconData(
     0xe694,
     fontFamily: 'PhosphorLight',
@@ -8527,7 +8527,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gitlabLogoSimple` no estilo Light.
   ///
-  /// ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gitlab-logo-simple.svg)
+  /// ![gitlab-logo-simple](https://api.iconify.design/ph/gitlab-logo-simple-light.svg?height=32&color=%23888888)
   static const IconData gitlabLogoSimple = IconData(
     0xe696,
     fontFamily: 'PhosphorLight',
@@ -8539,7 +8539,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `globe` no estilo Light.
   ///
-  /// ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe.svg)
+  /// ![globe](https://api.iconify.design/ph/globe-light.svg?height=32&color=%23888888)
   static const IconData globe = IconData(
     0xe288,
     fontFamily: 'PhosphorLight',
@@ -8551,7 +8551,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `globeHemisphereEast` no estilo Light.
   ///
-  /// ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-hemisphere-east.svg)
+  /// ![globe-hemisphere-east](https://api.iconify.design/ph/globe-hemisphere-east-light.svg?height=32&color=%23888888)
   static const IconData globeHemisphereEast = IconData(
     0xe28a,
     fontFamily: 'PhosphorLight',
@@ -8563,7 +8563,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `globeHemisphereWest` no estilo Light.
   ///
-  /// ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-hemisphere-west.svg)
+  /// ![globe-hemisphere-west](https://api.iconify.design/ph/globe-hemisphere-west-light.svg?height=32&color=%23888888)
   static const IconData globeHemisphereWest = IconData(
     0xe28c,
     fontFamily: 'PhosphorLight',
@@ -8575,7 +8575,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `globeSimple` no estilo Light.
   ///
-  /// ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-simple.svg)
+  /// ![globe-simple](https://api.iconify.design/ph/globe-simple-light.svg?height=32&color=%23888888)
   static const IconData globeSimple = IconData(
     0xe28e,
     fontFamily: 'PhosphorLight',
@@ -8587,7 +8587,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `globeSimpleX` no estilo Light.
   ///
-  /// ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-simple-x.svg)
+  /// ![globe-simple-x](https://api.iconify.design/ph/globe-simple-x-light.svg?height=32&color=%23888888)
   static const IconData globeSimpleX = IconData(
     0xe284,
     fontFamily: 'PhosphorLight',
@@ -8599,7 +8599,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `globeStand` no estilo Light.
   ///
-  /// ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-stand.svg)
+  /// ![globe-stand](https://api.iconify.design/ph/globe-stand-light.svg?height=32&color=%23888888)
   static const IconData globeStand = IconData(
     0xe290,
     fontFamily: 'PhosphorLight',
@@ -8611,7 +8611,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `globeX` no estilo Light.
   ///
-  /// ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-x.svg)
+  /// ![globe-x](https://api.iconify.design/ph/globe-x-light.svg?height=32&color=%23888888)
   static const IconData globeX = IconData(
     0xe286,
     fontFamily: 'PhosphorLight',
@@ -8623,7 +8623,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `goggles` no estilo Light.
   ///
-  /// ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/goggles.svg)
+  /// ![goggles](https://api.iconify.design/ph/goggles-light.svg?height=32&color=%23888888)
   static const IconData goggles = IconData(
     0xecb4,
     fontFamily: 'PhosphorLight',
@@ -8635,7 +8635,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `golf` no estilo Light.
   ///
-  /// ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/golf.svg)
+  /// ![golf](https://api.iconify.design/ph/golf-light.svg?height=32&color=%23888888)
   static const IconData golf = IconData(
     0xea3e,
     fontFamily: 'PhosphorLight',
@@ -8647,7 +8647,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `goodreadsLogo` no estilo Light.
   ///
-  /// ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/goodreads-logo.svg)
+  /// ![goodreads-logo](https://api.iconify.design/ph/goodreads-logo-light.svg?height=32&color=%23888888)
   static const IconData goodreadsLogo = IconData(
     0xed10,
     fontFamily: 'PhosphorLight',
@@ -8659,7 +8659,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `googleCardboardLogo` no estilo Light.
   ///
-  /// ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-cardboard-logo.svg)
+  /// ![google-cardboard-logo](https://api.iconify.design/ph/google-cardboard-logo-light.svg?height=32&color=%23888888)
   static const IconData googleCardboardLogo = IconData(
     0xe7b6,
     fontFamily: 'PhosphorLight',
@@ -8671,7 +8671,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `googleChromeLogo` no estilo Light.
   ///
-  /// ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-chrome-logo.svg)
+  /// ![google-chrome-logo](https://api.iconify.design/ph/google-chrome-logo-light.svg?height=32&color=%23888888)
   static const IconData googleChromeLogo = IconData(
     0xe976,
     fontFamily: 'PhosphorLight',
@@ -8683,7 +8683,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `googleDriveLogo` no estilo Light.
   ///
-  /// ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-drive-logo.svg)
+  /// ![google-drive-logo](https://api.iconify.design/ph/google-drive-logo-light.svg?height=32&color=%23888888)
   static const IconData googleDriveLogo = IconData(
     0xe8f6,
     fontFamily: 'PhosphorLight',
@@ -8695,7 +8695,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `googleLogo` no estilo Light.
   ///
-  /// ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-logo.svg)
+  /// ![google-logo](https://api.iconify.design/ph/google-logo-light.svg?height=32&color=%23888888)
   static const IconData googleLogo = IconData(
     0xe292,
     fontFamily: 'PhosphorLight',
@@ -8707,7 +8707,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `googlePhotosLogo` no estilo Light.
   ///
-  /// ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-photos-logo.svg)
+  /// ![google-photos-logo](https://api.iconify.design/ph/google-photos-logo-light.svg?height=32&color=%23888888)
   static const IconData googlePhotosLogo = IconData(
     0xeb92,
     fontFamily: 'PhosphorLight',
@@ -8719,7 +8719,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `googlePlayLogo` no estilo Light.
   ///
-  /// ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-play-logo.svg)
+  /// ![google-play-logo](https://api.iconify.design/ph/google-play-logo-light.svg?height=32&color=%23888888)
   static const IconData googlePlayLogo = IconData(
     0xe294,
     fontFamily: 'PhosphorLight',
@@ -8731,7 +8731,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `googlePodcastsLogo` no estilo Light.
   ///
-  /// ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-podcasts-logo.svg)
+  /// ![google-podcasts-logo](https://api.iconify.design/ph/google-podcasts-logo-light.svg?height=32&color=%23888888)
   static const IconData googlePodcastsLogo = IconData(
     0xeb94,
     fontFamily: 'PhosphorLight',
@@ -8743,7 +8743,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gps` no estilo Light.
   ///
-  /// ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gps.svg)
+  /// ![gps](https://api.iconify.design/ph/gps-light.svg?height=32&color=%23888888)
   static const IconData gps = IconData(
     0xedd8,
     fontFamily: 'PhosphorLight',
@@ -8755,7 +8755,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gpsFix` no estilo Light.
   ///
-  /// ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gps-fix.svg)
+  /// ![gps-fix](https://api.iconify.design/ph/gps-fix-light.svg?height=32&color=%23888888)
   static const IconData gpsFix = IconData(
     0xedd6,
     fontFamily: 'PhosphorLight',
@@ -8767,7 +8767,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gpsSlash` no estilo Light.
   ///
-  /// ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gps-slash.svg)
+  /// ![gps-slash](https://api.iconify.design/ph/gps-slash-light.svg?height=32&color=%23888888)
   static const IconData gpsSlash = IconData(
     0xedd4,
     fontFamily: 'PhosphorLight',
@@ -8779,7 +8779,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gradient` no estilo Light.
   ///
-  /// ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gradient.svg)
+  /// ![gradient](https://api.iconify.design/ph/gradient-light.svg?height=32&color=%23888888)
   static const IconData gradient = IconData(
     0xeb42,
     fontFamily: 'PhosphorLight',
@@ -8791,7 +8791,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `graduationCap` no estilo Light.
   ///
-  /// ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/graduation-cap.svg)
+  /// ![graduation-cap](https://api.iconify.design/ph/graduation-cap-light.svg?height=32&color=%23888888)
   static const IconData graduationCap = IconData(
     0xe62c,
     fontFamily: 'PhosphorLight',
@@ -8803,7 +8803,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `grains` no estilo Light.
   ///
-  /// ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grains.svg)
+  /// ![grains](https://api.iconify.design/ph/grains-light.svg?height=32&color=%23888888)
   static const IconData grains = IconData(
     0xec68,
     fontFamily: 'PhosphorLight',
@@ -8815,7 +8815,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `grainsSlash` no estilo Light.
   ///
-  /// ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grains-slash.svg)
+  /// ![grains-slash](https://api.iconify.design/ph/grains-slash-light.svg?height=32&color=%23888888)
   static const IconData grainsSlash = IconData(
     0xec6a,
     fontFamily: 'PhosphorLight',
@@ -8827,7 +8827,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `graph` no estilo Light.
   ///
-  /// ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/graph.svg)
+  /// ![graph](https://api.iconify.design/ph/graph-light.svg?height=32&color=%23888888)
   static const IconData graph = IconData(
     0xeb58,
     fontFamily: 'PhosphorLight',
@@ -8839,7 +8839,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `graphicsCard` no estilo Light.
   ///
-  /// ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/graphics-card.svg)
+  /// ![graphics-card](https://api.iconify.design/ph/graphics-card-light.svg?height=32&color=%23888888)
   static const IconData graphicsCard = IconData(
     0xe612,
     fontFamily: 'PhosphorLight',
@@ -8851,7 +8851,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `greaterThan` no estilo Light.
   ///
-  /// ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/greater-than.svg)
+  /// ![greater-than](https://api.iconify.design/ph/greater-than-light.svg?height=32&color=%23888888)
   static const IconData greaterThan = IconData(
     0xedc4,
     fontFamily: 'PhosphorLight',
@@ -8863,7 +8863,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `greaterThanOrEqual` no estilo Light.
   ///
-  /// ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/greater-than-or-equal.svg)
+  /// ![greater-than-or-equal](https://api.iconify.design/ph/greater-than-or-equal-light.svg?height=32&color=%23888888)
   static const IconData greaterThanOrEqual = IconData(
     0xeda2,
     fontFamily: 'PhosphorLight',
@@ -8875,7 +8875,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gridFour` no estilo Light.
   ///
-  /// ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grid-four.svg)
+  /// ![grid-four](https://api.iconify.design/ph/grid-four-light.svg?height=32&color=%23888888)
   static const IconData gridFour = IconData(
     0xe296,
     fontFamily: 'PhosphorLight',
@@ -8887,7 +8887,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `gridNine` no estilo Light.
   ///
-  /// ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grid-nine.svg)
+  /// ![grid-nine](https://api.iconify.design/ph/grid-nine-light.svg?height=32&color=%23888888)
   static const IconData gridNine = IconData(
     0xec8c,
     fontFamily: 'PhosphorLight',
@@ -8899,7 +8899,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `guitar` no estilo Light.
   ///
-  /// ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/guitar.svg)
+  /// ![guitar](https://api.iconify.design/ph/guitar-light.svg?height=32&color=%23888888)
   static const IconData guitar = IconData(
     0xea8a,
     fontFamily: 'PhosphorLight',
@@ -8911,7 +8911,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hairDryer` no estilo Light.
   ///
-  /// ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hair-dryer.svg)
+  /// ![hair-dryer](https://api.iconify.design/ph/hair-dryer-light.svg?height=32&color=%23888888)
   static const IconData hairDryer = IconData(
     0xea66,
     fontFamily: 'PhosphorLight',
@@ -8923,7 +8923,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hamburger` no estilo Light.
   ///
-  /// ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hamburger.svg)
+  /// ![hamburger](https://api.iconify.design/ph/hamburger-light.svg?height=32&color=%23888888)
   static const IconData hamburger = IconData(
     0xe790,
     fontFamily: 'PhosphorLight',
@@ -8935,7 +8935,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hammer` no estilo Light.
   ///
-  /// ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hammer.svg)
+  /// ![hammer](https://api.iconify.design/ph/hammer-light.svg?height=32&color=%23888888)
   static const IconData hammer = IconData(
     0xe80e,
     fontFamily: 'PhosphorLight',
@@ -8947,7 +8947,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hand` no estilo Light.
   ///
-  /// ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand.svg)
+  /// ![hand](https://api.iconify.design/ph/hand-light.svg?height=32&color=%23888888)
   static const IconData hand = IconData(
     0xe298,
     fontFamily: 'PhosphorLight',
@@ -8959,7 +8959,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handArrowDown` no estilo Light.
   ///
-  /// ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-arrow-down.svg)
+  /// ![hand-arrow-down](https://api.iconify.design/ph/hand-arrow-down-light.svg?height=32&color=%23888888)
   static const IconData handArrowDown = IconData(
     0xea4e,
     fontFamily: 'PhosphorLight',
@@ -8971,7 +8971,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handArrowUp` no estilo Light.
   ///
-  /// ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-arrow-up.svg)
+  /// ![hand-arrow-up](https://api.iconify.design/ph/hand-arrow-up-light.svg?height=32&color=%23888888)
   static const IconData handArrowUp = IconData(
     0xee5a,
     fontFamily: 'PhosphorLight',
@@ -8983,7 +8983,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handCoins` no estilo Light.
   ///
-  /// ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-coins.svg)
+  /// ![hand-coins](https://api.iconify.design/ph/hand-coins-light.svg?height=32&color=%23888888)
   static const IconData handCoins = IconData(
     0xea8c,
     fontFamily: 'PhosphorLight',
@@ -8995,7 +8995,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handDeposit` no estilo Light.
   ///
-  /// ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-deposit.svg)
+  /// ![hand-deposit](https://api.iconify.design/ph/hand-deposit-light.svg?height=32&color=%23888888)
   static const IconData handDeposit = IconData(
     0xee82,
     fontFamily: 'PhosphorLight',
@@ -9007,7 +9007,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handEye` no estilo Light.
   ///
-  /// ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-eye.svg)
+  /// ![hand-eye](https://api.iconify.design/ph/hand-eye-light.svg?height=32&color=%23888888)
   static const IconData handEye = IconData(
     0xea4c,
     fontFamily: 'PhosphorLight',
@@ -9019,7 +9019,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handFist` no estilo Light.
   ///
-  /// ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-fist.svg)
+  /// ![hand-fist](https://api.iconify.design/ph/hand-fist-light.svg?height=32&color=%23888888)
   static const IconData handFist = IconData(
     0xe57a,
     fontFamily: 'PhosphorLight',
@@ -9031,7 +9031,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handGrabbing` no estilo Light.
   ///
-  /// ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-grabbing.svg)
+  /// ![hand-grabbing](https://api.iconify.design/ph/hand-grabbing-light.svg?height=32&color=%23888888)
   static const IconData handGrabbing = IconData(
     0xe57c,
     fontFamily: 'PhosphorLight',
@@ -9043,7 +9043,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handHeart` no estilo Light.
   ///
-  /// ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-heart.svg)
+  /// ![hand-heart](https://api.iconify.design/ph/hand-heart-light.svg?height=32&color=%23888888)
   static const IconData handHeart = IconData(
     0xe810,
     fontFamily: 'PhosphorLight',
@@ -9055,7 +9055,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handPalm` no estilo Light.
   ///
-  /// ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-palm.svg)
+  /// ![hand-palm](https://api.iconify.design/ph/hand-palm-light.svg?height=32&color=%23888888)
   static const IconData handPalm = IconData(
     0xe57e,
     fontFamily: 'PhosphorLight',
@@ -9067,7 +9067,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handPeace` no estilo Light.
   ///
-  /// ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-peace.svg)
+  /// ![hand-peace](https://api.iconify.design/ph/hand-peace-light.svg?height=32&color=%23888888)
   static const IconData handPeace = IconData(
     0xe7cc,
     fontFamily: 'PhosphorLight',
@@ -9079,7 +9079,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handPointing` no estilo Light.
   ///
-  /// ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-pointing.svg)
+  /// ![hand-pointing](https://api.iconify.design/ph/hand-pointing-light.svg?height=32&color=%23888888)
   static const IconData handPointing = IconData(
     0xe29a,
     fontFamily: 'PhosphorLight',
@@ -9091,7 +9091,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handSoap` no estilo Light.
   ///
-  /// ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-soap.svg)
+  /// ![hand-soap](https://api.iconify.design/ph/hand-soap-light.svg?height=32&color=%23888888)
   static const IconData handSoap = IconData(
     0xe630,
     fontFamily: 'PhosphorLight',
@@ -9103,7 +9103,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handSwipeLeft` no estilo Light.
   ///
-  /// ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-swipe-left.svg)
+  /// ![hand-swipe-left](https://api.iconify.design/ph/hand-swipe-left-light.svg?height=32&color=%23888888)
   static const IconData handSwipeLeft = IconData(
     0xec94,
     fontFamily: 'PhosphorLight',
@@ -9115,7 +9115,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handSwipeRight` no estilo Light.
   ///
-  /// ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-swipe-right.svg)
+  /// ![hand-swipe-right](https://api.iconify.design/ph/hand-swipe-right-light.svg?height=32&color=%23888888)
   static const IconData handSwipeRight = IconData(
     0xec92,
     fontFamily: 'PhosphorLight',
@@ -9127,7 +9127,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handTap` no estilo Light.
   ///
-  /// ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-tap.svg)
+  /// ![hand-tap](https://api.iconify.design/ph/hand-tap-light.svg?height=32&color=%23888888)
   static const IconData handTap = IconData(
     0xec90,
     fontFamily: 'PhosphorLight',
@@ -9139,7 +9139,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handWaving` no estilo Light.
   ///
-  /// ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-waving.svg)
+  /// ![hand-waving](https://api.iconify.design/ph/hand-waving-light.svg?height=32&color=%23888888)
   static const IconData handWaving = IconData(
     0xe580,
     fontFamily: 'PhosphorLight',
@@ -9151,7 +9151,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handWithdraw` no estilo Light.
   ///
-  /// ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-withdraw.svg)
+  /// ![hand-withdraw](https://api.iconify.design/ph/hand-withdraw-light.svg?height=32&color=%23888888)
   static const IconData handWithdraw = IconData(
     0xee80,
     fontFamily: 'PhosphorLight',
@@ -9163,7 +9163,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handbag` no estilo Light.
   ///
-  /// ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/handbag.svg)
+  /// ![handbag](https://api.iconify.design/ph/handbag-light.svg?height=32&color=%23888888)
   static const IconData handbag = IconData(
     0xe29c,
     fontFamily: 'PhosphorLight',
@@ -9175,7 +9175,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handbagSimple` no estilo Light.
   ///
-  /// ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/handbag-simple.svg)
+  /// ![handbag-simple](https://api.iconify.design/ph/handbag-simple-light.svg?height=32&color=%23888888)
   static const IconData handbagSimple = IconData(
     0xe62e,
     fontFamily: 'PhosphorLight',
@@ -9187,7 +9187,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handsClapping` no estilo Light.
   ///
-  /// ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hands-clapping.svg)
+  /// ![hands-clapping](https://api.iconify.design/ph/hands-clapping-light.svg?height=32&color=%23888888)
   static const IconData handsClapping = IconData(
     0xe6a0,
     fontFamily: 'PhosphorLight',
@@ -9199,7 +9199,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handsPraying` no estilo Light.
   ///
-  /// ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hands-praying.svg)
+  /// ![hands-praying](https://api.iconify.design/ph/hands-praying-light.svg?height=32&color=%23888888)
   static const IconData handsPraying = IconData(
     0xecc8,
     fontFamily: 'PhosphorLight',
@@ -9211,7 +9211,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `handshake` no estilo Light.
   ///
-  /// ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/handshake.svg)
+  /// ![handshake](https://api.iconify.design/ph/handshake-light.svg?height=32&color=%23888888)
   static const IconData handshake = IconData(
     0xe582,
     fontFamily: 'PhosphorLight',
@@ -9223,7 +9223,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hardDrive` no estilo Light.
   ///
-  /// ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hard-drive.svg)
+  /// ![hard-drive](https://api.iconify.design/ph/hard-drive-light.svg?height=32&color=%23888888)
   static const IconData hardDrive = IconData(
     0xe29e,
     fontFamily: 'PhosphorLight',
@@ -9235,7 +9235,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hardDrives` no estilo Light.
   ///
-  /// ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hard-drives.svg)
+  /// ![hard-drives](https://api.iconify.design/ph/hard-drives-light.svg?height=32&color=%23888888)
   static const IconData hardDrives = IconData(
     0xe2a0,
     fontFamily: 'PhosphorLight',
@@ -9247,7 +9247,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hardHat` no estilo Light.
   ///
-  /// ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hard-hat.svg)
+  /// ![hard-hat](https://api.iconify.design/ph/hard-hat-light.svg?height=32&color=%23888888)
   static const IconData hardHat = IconData(
     0xed46,
     fontFamily: 'PhosphorLight',
@@ -9259,7 +9259,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hash` no estilo Light.
   ///
-  /// ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hash.svg)
+  /// ![hash](https://api.iconify.design/ph/hash-light.svg?height=32&color=%23888888)
   static const IconData hash = IconData(
     0xe2a2,
     fontFamily: 'PhosphorLight',
@@ -9271,7 +9271,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hashStraight` no estilo Light.
   ///
-  /// ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hash-straight.svg)
+  /// ![hash-straight](https://api.iconify.design/ph/hash-straight-light.svg?height=32&color=%23888888)
   static const IconData hashStraight = IconData(
     0xe2a4,
     fontFamily: 'PhosphorLight',
@@ -9283,7 +9283,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `headCircuit` no estilo Light.
   ///
-  /// ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/head-circuit.svg)
+  /// ![head-circuit](https://api.iconify.design/ph/head-circuit-light.svg?height=32&color=%23888888)
   static const IconData headCircuit = IconData(
     0xe7d4,
     fontFamily: 'PhosphorLight',
@@ -9295,7 +9295,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `headlights` no estilo Light.
   ///
-  /// ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/headlights.svg)
+  /// ![headlights](https://api.iconify.design/ph/headlights-light.svg?height=32&color=%23888888)
   static const IconData headlights = IconData(
     0xe6fe,
     fontFamily: 'PhosphorLight',
@@ -9307,7 +9307,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `headphones` no estilo Light.
   ///
-  /// ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/headphones.svg)
+  /// ![headphones](https://api.iconify.design/ph/headphones-light.svg?height=32&color=%23888888)
   static const IconData headphones = IconData(
     0xe2a6,
     fontFamily: 'PhosphorLight',
@@ -9319,7 +9319,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `headset` no estilo Light.
   ///
-  /// ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/headset.svg)
+  /// ![headset](https://api.iconify.design/ph/headset-light.svg?height=32&color=%23888888)
   static const IconData headset = IconData(
     0xe584,
     fontFamily: 'PhosphorLight',
@@ -9331,7 +9331,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `heart` no estilo Light.
   ///
-  /// ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart.svg)
+  /// ![heart](https://api.iconify.design/ph/heart-light.svg?height=32&color=%23888888)
   static const IconData heart = IconData(
     0xe2a8,
     fontFamily: 'PhosphorLight',
@@ -9343,7 +9343,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `heartBreak` no estilo Light.
   ///
-  /// ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-break.svg)
+  /// ![heart-break](https://api.iconify.design/ph/heart-break-light.svg?height=32&color=%23888888)
   static const IconData heartBreak = IconData(
     0xebe8,
     fontFamily: 'PhosphorLight',
@@ -9355,7 +9355,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `heartHalf` no estilo Light.
   ///
-  /// ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-half.svg)
+  /// ![heart-half](https://api.iconify.design/ph/heart-half-light.svg?height=32&color=%23888888)
   static const IconData heartHalf = IconData(
     0xec48,
     fontFamily: 'PhosphorLight',
@@ -9367,7 +9367,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `heartStraight` no estilo Light.
   ///
-  /// ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-straight.svg)
+  /// ![heart-straight](https://api.iconify.design/ph/heart-straight-light.svg?height=32&color=%23888888)
   static const IconData heartStraight = IconData(
     0xe2aa,
     fontFamily: 'PhosphorLight',
@@ -9379,7 +9379,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `heartStraightBreak` no estilo Light.
   ///
-  /// ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-straight-break.svg)
+  /// ![heart-straight-break](https://api.iconify.design/ph/heart-straight-break-light.svg?height=32&color=%23888888)
   static const IconData heartStraightBreak = IconData(
     0xeb98,
     fontFamily: 'PhosphorLight',
@@ -9391,7 +9391,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `heartbeat` no estilo Light.
   ///
-  /// ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heartbeat.svg)
+  /// ![heartbeat](https://api.iconify.design/ph/heartbeat-light.svg?height=32&color=%23888888)
   static const IconData heartbeat = IconData(
     0xe2ac,
     fontFamily: 'PhosphorLight',
@@ -9403,7 +9403,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hexagon` no estilo Light.
   ///
-  /// ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hexagon.svg)
+  /// ![hexagon](https://api.iconify.design/ph/hexagon-light.svg?height=32&color=%23888888)
   static const IconData hexagon = IconData(
     0xe2ae,
     fontFamily: 'PhosphorLight',
@@ -9415,7 +9415,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `highDefinition` no estilo Light.
   ///
-  /// ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/high-definition.svg)
+  /// ![high-definition](https://api.iconify.design/ph/high-definition-light.svg?height=32&color=%23888888)
   static const IconData highDefinition = IconData(
     0xea8e,
     fontFamily: 'PhosphorLight',
@@ -9427,7 +9427,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `highHeel` no estilo Light.
   ///
-  /// ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/high-heel.svg)
+  /// ![high-heel](https://api.iconify.design/ph/high-heel-light.svg?height=32&color=%23888888)
   static const IconData highHeel = IconData(
     0xe8e8,
     fontFamily: 'PhosphorLight',
@@ -9439,7 +9439,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `highlighter` no estilo Light.
   ///
-  /// ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/highlighter.svg)
+  /// ![highlighter](https://api.iconify.design/ph/highlighter-light.svg?height=32&color=%23888888)
   static const IconData highlighter = IconData(
     0xec76,
     fontFamily: 'PhosphorLight',
@@ -9451,7 +9451,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `highlighterCircle` no estilo Light.
   ///
-  /// ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/highlighter-circle.svg)
+  /// ![highlighter-circle](https://api.iconify.design/ph/highlighter-circle-light.svg?height=32&color=%23888888)
   static const IconData highlighterCircle = IconData(
     0xe632,
     fontFamily: 'PhosphorLight',
@@ -9463,7 +9463,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hockey` no estilo Light.
   ///
-  /// ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hockey.svg)
+  /// ![hockey](https://api.iconify.design/ph/hockey-light.svg?height=32&color=%23888888)
   static const IconData hockey = IconData(
     0xec86,
     fontFamily: 'PhosphorLight',
@@ -9475,7 +9475,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hoodie` no estilo Light.
   ///
-  /// ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hoodie.svg)
+  /// ![hoodie](https://api.iconify.design/ph/hoodie-light.svg?height=32&color=%23888888)
   static const IconData hoodie = IconData(
     0xecd0,
     fontFamily: 'PhosphorLight',
@@ -9487,7 +9487,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `horse` no estilo Light.
   ///
-  /// ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/horse.svg)
+  /// ![horse](https://api.iconify.design/ph/horse-light.svg?height=32&color=%23888888)
   static const IconData horse = IconData(
     0xe2b0,
     fontFamily: 'PhosphorLight',
@@ -9499,7 +9499,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hospital` no estilo Light.
   ///
-  /// ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hospital.svg)
+  /// ![hospital](https://api.iconify.design/ph/hospital-light.svg?height=32&color=%23888888)
   static const IconData hospital = IconData(
     0xe844,
     fontFamily: 'PhosphorLight',
@@ -9511,7 +9511,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglass` no estilo Light.
   ///
-  /// ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass.svg)
+  /// ![hourglass](https://api.iconify.design/ph/hourglass-light.svg?height=32&color=%23888888)
   static const IconData hourglass = IconData(
     0xe2b2,
     fontFamily: 'PhosphorLight',
@@ -9523,7 +9523,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglassHigh` no estilo Light.
   ///
-  /// ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-high.svg)
+  /// ![hourglass-high](https://api.iconify.design/ph/hourglass-high-light.svg?height=32&color=%23888888)
   static const IconData hourglassHigh = IconData(
     0xe2b4,
     fontFamily: 'PhosphorLight',
@@ -9535,7 +9535,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglassLow` no estilo Light.
   ///
-  /// ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-low.svg)
+  /// ![hourglass-low](https://api.iconify.design/ph/hourglass-low-light.svg?height=32&color=%23888888)
   static const IconData hourglassLow = IconData(
     0xe2b6,
     fontFamily: 'PhosphorLight',
@@ -9547,7 +9547,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglassMedium` no estilo Light.
   ///
-  /// ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-medium.svg)
+  /// ![hourglass-medium](https://api.iconify.design/ph/hourglass-medium-light.svg?height=32&color=%23888888)
   static const IconData hourglassMedium = IconData(
     0xe2b8,
     fontFamily: 'PhosphorLight',
@@ -9559,7 +9559,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglassSimple` no estilo Light.
   ///
-  /// ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple.svg)
+  /// ![hourglass-simple](https://api.iconify.design/ph/hourglass-simple-light.svg?height=32&color=%23888888)
   static const IconData hourglassSimple = IconData(
     0xe2ba,
     fontFamily: 'PhosphorLight',
@@ -9571,7 +9571,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglassSimpleHigh` no estilo Light.
   ///
-  /// ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple-high.svg)
+  /// ![hourglass-simple-high](https://api.iconify.design/ph/hourglass-simple-high-light.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleHigh = IconData(
     0xe2bc,
     fontFamily: 'PhosphorLight',
@@ -9583,7 +9583,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglassSimpleLow` no estilo Light.
   ///
-  /// ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple-low.svg)
+  /// ![hourglass-simple-low](https://api.iconify.design/ph/hourglass-simple-low-light.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleLow = IconData(
     0xe2be,
     fontFamily: 'PhosphorLight',
@@ -9595,7 +9595,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hourglassSimpleMedium` no estilo Light.
   ///
-  /// ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple-medium.svg)
+  /// ![hourglass-simple-medium](https://api.iconify.design/ph/hourglass-simple-medium-light.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleMedium = IconData(
     0xe2c0,
     fontFamily: 'PhosphorLight',
@@ -9607,7 +9607,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `house` no estilo Light.
   ///
-  /// ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/house.svg)
+  /// ![house](https://api.iconify.design/ph/house-light.svg?height=32&color=%23888888)
   static const IconData house = IconData(
     0xe2c2,
     fontFamily: 'PhosphorLight',
@@ -9619,7 +9619,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `houseLine` no estilo Light.
   ///
-  /// ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/house-line.svg)
+  /// ![house-line](https://api.iconify.design/ph/house-line-light.svg?height=32&color=%23888888)
   static const IconData houseLine = IconData(
     0xe2c4,
     fontFamily: 'PhosphorLight',
@@ -9631,7 +9631,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `houseSimple` no estilo Light.
   ///
-  /// ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/house-simple.svg)
+  /// ![house-simple](https://api.iconify.design/ph/house-simple-light.svg?height=32&color=%23888888)
   static const IconData houseSimple = IconData(
     0xe2c6,
     fontFamily: 'PhosphorLight',
@@ -9643,7 +9643,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `hurricane` no estilo Light.
   ///
-  /// ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hurricane.svg)
+  /// ![hurricane](https://api.iconify.design/ph/hurricane-light.svg?height=32&color=%23888888)
   static const IconData hurricane = IconData(
     0xe88e,
     fontFamily: 'PhosphorLight',
@@ -9655,7 +9655,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `iceCream` no estilo Light.
   ///
-  /// ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ice-cream.svg)
+  /// ![ice-cream](https://api.iconify.design/ph/ice-cream-light.svg?height=32&color=%23888888)
   static const IconData iceCream = IconData(
     0xe804,
     fontFamily: 'PhosphorLight',
@@ -9667,7 +9667,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `identificationBadge` no estilo Light.
   ///
-  /// ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/identification-badge.svg)
+  /// ![identification-badge](https://api.iconify.design/ph/identification-badge-light.svg?height=32&color=%23888888)
   static const IconData identificationBadge = IconData(
     0xe6f6,
     fontFamily: 'PhosphorLight',
@@ -9679,7 +9679,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `identificationCard` no estilo Light.
   ///
-  /// ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/identification-card.svg)
+  /// ![identification-card](https://api.iconify.design/ph/identification-card-light.svg?height=32&color=%23888888)
   static const IconData identificationCard = IconData(
     0xe2c8,
     fontFamily: 'PhosphorLight',
@@ -9691,7 +9691,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `image` no estilo Light.
   ///
-  /// ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/image.svg)
+  /// ![image](https://api.iconify.design/ph/image-light.svg?height=32&color=%23888888)
   static const IconData image = IconData(
     0xe2ca,
     fontFamily: 'PhosphorLight',
@@ -9703,7 +9703,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `imageBroken` no estilo Light.
   ///
-  /// ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/image-broken.svg)
+  /// ![image-broken](https://api.iconify.design/ph/image-broken-light.svg?height=32&color=%23888888)
   static const IconData imageBroken = IconData(
     0xe7a8,
     fontFamily: 'PhosphorLight',
@@ -9715,7 +9715,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `imageSquare` no estilo Light.
   ///
-  /// ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/image-square.svg)
+  /// ![image-square](https://api.iconify.design/ph/image-square-light.svg?height=32&color=%23888888)
   static const IconData imageSquare = IconData(
     0xe2cc,
     fontFamily: 'PhosphorLight',
@@ -9727,7 +9727,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `images` no estilo Light.
   ///
-  /// ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/images.svg)
+  /// ![images](https://api.iconify.design/ph/images-light.svg?height=32&color=%23888888)
   static const IconData images = IconData(
     0xe836,
     fontFamily: 'PhosphorLight',
@@ -9739,7 +9739,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `imagesSquare` no estilo Light.
   ///
-  /// ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/images-square.svg)
+  /// ![images-square](https://api.iconify.design/ph/images-square-light.svg?height=32&color=%23888888)
   static const IconData imagesSquare = IconData(
     0xe834,
     fontFamily: 'PhosphorLight',
@@ -9751,7 +9751,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `infinity` no estilo Light.
   ///
-  /// ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/infinity.svg)
+  /// ![infinity](https://api.iconify.design/ph/infinity-light.svg?height=32&color=%23888888)
   static const IconData infinity = IconData(
     0xe634,
     fontFamily: 'PhosphorLight',
@@ -9763,7 +9763,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `info` no estilo Light.
   ///
-  /// ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/info.svg)
+  /// ![info](https://api.iconify.design/ph/info-light.svg?height=32&color=%23888888)
   static const IconData info = IconData(
     0xe2ce,
     fontFamily: 'PhosphorLight',
@@ -9775,7 +9775,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `instagramLogo` no estilo Light.
   ///
-  /// ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/instagram-logo.svg)
+  /// ![instagram-logo](https://api.iconify.design/ph/instagram-logo-light.svg?height=32&color=%23888888)
   static const IconData instagramLogo = IconData(
     0xe2d0,
     fontFamily: 'PhosphorLight',
@@ -9787,7 +9787,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `intersect` no estilo Light.
   ///
-  /// ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersect.svg)
+  /// ![intersect](https://api.iconify.design/ph/intersect-light.svg?height=32&color=%23888888)
   static const IconData intersect = IconData(
     0xe2d2,
     fontFamily: 'PhosphorLight',
@@ -9799,7 +9799,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `intersectSquare` no estilo Light.
   ///
-  /// ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersect-square.svg)
+  /// ![intersect-square](https://api.iconify.design/ph/intersect-square-light.svg?height=32&color=%23888888)
   static const IconData intersectSquare = IconData(
     0xe87a,
     fontFamily: 'PhosphorLight',
@@ -9811,7 +9811,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `intersectThree` no estilo Light.
   ///
-  /// ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersect-three.svg)
+  /// ![intersect-three](https://api.iconify.design/ph/intersect-three-light.svg?height=32&color=%23888888)
   static const IconData intersectThree = IconData(
     0xecc4,
     fontFamily: 'PhosphorLight',
@@ -9823,7 +9823,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `intersection` no estilo Light.
   ///
-  /// ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersection.svg)
+  /// ![intersection](https://api.iconify.design/ph/intersection-light.svg?height=32&color=%23888888)
   static const IconData intersection = IconData(
     0xedba,
     fontFamily: 'PhosphorLight',
@@ -9835,7 +9835,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `invoice` no estilo Light.
   ///
-  /// ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/invoice.svg)
+  /// ![invoice](https://api.iconify.design/ph/invoice-light.svg?height=32&color=%23888888)
   static const IconData invoice = IconData(
     0xee42,
     fontFamily: 'PhosphorLight',
@@ -9847,7 +9847,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `island` no estilo Light.
   ///
-  /// ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/island.svg)
+  /// ![island](https://api.iconify.design/ph/island-light.svg?height=32&color=%23888888)
   static const IconData island = IconData(
     0xee06,
     fontFamily: 'PhosphorLight',
@@ -9859,7 +9859,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `jar` no estilo Light.
   ///
-  /// ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/jar.svg)
+  /// ![jar](https://api.iconify.design/ph/jar-light.svg?height=32&color=%23888888)
   static const IconData jar = IconData(
     0xe7e0,
     fontFamily: 'PhosphorLight',
@@ -9871,7 +9871,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `jarLabel` no estilo Light.
   ///
-  /// ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/jar-label.svg)
+  /// ![jar-label](https://api.iconify.design/ph/jar-label-light.svg?height=32&color=%23888888)
   static const IconData jarLabel = IconData(
     0xe7e1,
     fontFamily: 'PhosphorLight',
@@ -9883,7 +9883,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `jeep` no estilo Light.
   ///
-  /// ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/jeep.svg)
+  /// ![jeep](https://api.iconify.design/ph/jeep-light.svg?height=32&color=%23888888)
   static const IconData jeep = IconData(
     0xe2d4,
     fontFamily: 'PhosphorLight',
@@ -9895,7 +9895,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `joystick` no estilo Light.
   ///
-  /// ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/joystick.svg)
+  /// ![joystick](https://api.iconify.design/ph/joystick-light.svg?height=32&color=%23888888)
   static const IconData joystick = IconData(
     0xea5e,
     fontFamily: 'PhosphorLight',
@@ -9907,7 +9907,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `kanban` no estilo Light.
   ///
-  /// ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/kanban.svg)
+  /// ![kanban](https://api.iconify.design/ph/kanban-light.svg?height=32&color=%23888888)
   static const IconData kanban = IconData(
     0xeb54,
     fontFamily: 'PhosphorLight',
@@ -9919,7 +9919,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `key` no estilo Light.
   ///
-  /// ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/key.svg)
+  /// ![key](https://api.iconify.design/ph/key-light.svg?height=32&color=%23888888)
   static const IconData key = IconData(
     0xe2d6,
     fontFamily: 'PhosphorLight',
@@ -9931,7 +9931,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `keyReturn` no estilo Light.
   ///
-  /// ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/key-return.svg)
+  /// ![key-return](https://api.iconify.design/ph/key-return-light.svg?height=32&color=%23888888)
   static const IconData keyReturn = IconData(
     0xe782,
     fontFamily: 'PhosphorLight',
@@ -9943,7 +9943,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `keyboard` no estilo Light.
   ///
-  /// ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/keyboard.svg)
+  /// ![keyboard](https://api.iconify.design/ph/keyboard-light.svg?height=32&color=%23888888)
   static const IconData keyboard = IconData(
     0xe2d8,
     fontFamily: 'PhosphorLight',
@@ -9955,7 +9955,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `keyhole` no estilo Light.
   ///
-  /// ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/keyhole.svg)
+  /// ![keyhole](https://api.iconify.design/ph/keyhole-light.svg?height=32&color=%23888888)
   static const IconData keyhole = IconData(
     0xea78,
     fontFamily: 'PhosphorLight',
@@ -9967,7 +9967,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `knife` no estilo Light.
   ///
-  /// ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/knife.svg)
+  /// ![knife](https://api.iconify.design/ph/knife-light.svg?height=32&color=%23888888)
   static const IconData knife = IconData(
     0xe636,
     fontFamily: 'PhosphorLight',
@@ -9979,7 +9979,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ladder` no estilo Light.
   ///
-  /// ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ladder.svg)
+  /// ![ladder](https://api.iconify.design/ph/ladder-light.svg?height=32&color=%23888888)
   static const IconData ladder = IconData(
     0xe9e4,
     fontFamily: 'PhosphorLight',
@@ -9991,7 +9991,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ladderSimple` no estilo Light.
   ///
-  /// ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ladder-simple.svg)
+  /// ![ladder-simple](https://api.iconify.design/ph/ladder-simple-light.svg?height=32&color=%23888888)
   static const IconData ladderSimple = IconData(
     0xec26,
     fontFamily: 'PhosphorLight',
@@ -10003,7 +10003,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lamp` no estilo Light.
   ///
-  /// ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lamp.svg)
+  /// ![lamp](https://api.iconify.design/ph/lamp-light.svg?height=32&color=%23888888)
   static const IconData lamp = IconData(
     0xe638,
     fontFamily: 'PhosphorLight',
@@ -10015,7 +10015,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lampPendant` no estilo Light.
   ///
-  /// ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lamp-pendant.svg)
+  /// ![lamp-pendant](https://api.iconify.design/ph/lamp-pendant-light.svg?height=32&color=%23888888)
   static const IconData lampPendant = IconData(
     0xee2e,
     fontFamily: 'PhosphorLight',
@@ -10027,7 +10027,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `laptop` no estilo Light.
   ///
-  /// ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/laptop.svg)
+  /// ![laptop](https://api.iconify.design/ph/laptop-light.svg?height=32&color=%23888888)
   static const IconData laptop = IconData(
     0xe586,
     fontFamily: 'PhosphorLight',
@@ -10039,7 +10039,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lasso` no estilo Light.
   ///
-  /// ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lasso.svg)
+  /// ![lasso](https://api.iconify.design/ph/lasso-light.svg?height=32&color=%23888888)
   static const IconData lasso = IconData(
     0xedc6,
     fontFamily: 'PhosphorLight',
@@ -10051,7 +10051,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lastfmLogo` no estilo Light.
   ///
-  /// ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lastfm-logo.svg)
+  /// ![lastfm-logo](https://api.iconify.design/ph/lastfm-logo-light.svg?height=32&color=%23888888)
   static const IconData lastfmLogo = IconData(
     0xe842,
     fontFamily: 'PhosphorLight',
@@ -10063,7 +10063,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `layout` no estilo Light.
   ///
-  /// ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/layout.svg)
+  /// ![layout](https://api.iconify.design/ph/layout-light.svg?height=32&color=%23888888)
   static const IconData layout = IconData(
     0xe6d6,
     fontFamily: 'PhosphorLight',
@@ -10075,7 +10075,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `leaf` no estilo Light.
   ///
-  /// ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/leaf.svg)
+  /// ![leaf](https://api.iconify.design/ph/leaf-light.svg?height=32&color=%23888888)
   static const IconData leaf = IconData(
     0xe2da,
     fontFamily: 'PhosphorLight',
@@ -10087,7 +10087,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lectern` no estilo Light.
   ///
-  /// ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lectern.svg)
+  /// ![lectern](https://api.iconify.design/ph/lectern-light.svg?height=32&color=%23888888)
   static const IconData lectern = IconData(
     0xe95a,
     fontFamily: 'PhosphorLight',
@@ -10099,7 +10099,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lego` no estilo Light.
   ///
-  /// ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lego.svg)
+  /// ![lego](https://api.iconify.design/ph/lego-light.svg?height=32&color=%23888888)
   static const IconData lego = IconData(
     0xe8c6,
     fontFamily: 'PhosphorLight',
@@ -10111,7 +10111,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `legoSmiley` no estilo Light.
   ///
-  /// ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lego-smiley.svg)
+  /// ![lego-smiley](https://api.iconify.design/ph/lego-smiley-light.svg?height=32&color=%23888888)
   static const IconData legoSmiley = IconData(
     0xe8c7,
     fontFamily: 'PhosphorLight',
@@ -10123,7 +10123,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lemniscate` no estilo Light.
   ///
-  /// ![lemniscate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lemniscate.svg)
+  /// ![lemniscate](https://api.iconify.design/ph/infinity-light.svg?height=32&color=%23888888)
   static const IconData lemniscate = IconData(
     0xe634,
     fontFamily: 'PhosphorLight',
@@ -10135,7 +10135,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lessThan` no estilo Light.
   ///
-  /// ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/less-than.svg)
+  /// ![less-than](https://api.iconify.design/ph/less-than-light.svg?height=32&color=%23888888)
   static const IconData lessThan = IconData(
     0xedac,
     fontFamily: 'PhosphorLight',
@@ -10147,7 +10147,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lessThanOrEqual` no estilo Light.
   ///
-  /// ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/less-than-or-equal.svg)
+  /// ![less-than-or-equal](https://api.iconify.design/ph/less-than-or-equal-light.svg?height=32&color=%23888888)
   static const IconData lessThanOrEqual = IconData(
     0xeda4,
     fontFamily: 'PhosphorLight',
@@ -10159,7 +10159,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `letterCircleH` no estilo Light.
   ///
-  /// ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/letter-circle-h.svg)
+  /// ![letter-circle-h](https://api.iconify.design/ph/letter-circle-h-light.svg?height=32&color=%23888888)
   static const IconData letterCircleH = IconData(
     0xebf8,
     fontFamily: 'PhosphorLight',
@@ -10171,7 +10171,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `letterCircleP` no estilo Light.
   ///
-  /// ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/letter-circle-p.svg)
+  /// ![letter-circle-p](https://api.iconify.design/ph/letter-circle-p-light.svg?height=32&color=%23888888)
   static const IconData letterCircleP = IconData(
     0xec08,
     fontFamily: 'PhosphorLight',
@@ -10183,7 +10183,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `letterCircleV` no estilo Light.
   ///
-  /// ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/letter-circle-v.svg)
+  /// ![letter-circle-v](https://api.iconify.design/ph/letter-circle-v-light.svg?height=32&color=%23888888)
   static const IconData letterCircleV = IconData(
     0xec14,
     fontFamily: 'PhosphorLight',
@@ -10195,7 +10195,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lifebuoy` no estilo Light.
   ///
-  /// ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lifebuoy.svg)
+  /// ![lifebuoy](https://api.iconify.design/ph/lifebuoy-light.svg?height=32&color=%23888888)
   static const IconData lifebuoy = IconData(
     0xe63a,
     fontFamily: 'PhosphorLight',
@@ -10207,7 +10207,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lightbulb` no estilo Light.
   ///
-  /// ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightbulb.svg)
+  /// ![lightbulb](https://api.iconify.design/ph/lightbulb-light.svg?height=32&color=%23888888)
   static const IconData lightbulb = IconData(
     0xe2dc,
     fontFamily: 'PhosphorLight',
@@ -10219,7 +10219,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lightbulbFilament` no estilo Light.
   ///
-  /// ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightbulb-filament.svg)
+  /// ![lightbulb-filament](https://api.iconify.design/ph/lightbulb-filament-light.svg?height=32&color=%23888888)
   static const IconData lightbulbFilament = IconData(
     0xe63c,
     fontFamily: 'PhosphorLight',
@@ -10231,7 +10231,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lighthouse` no estilo Light.
   ///
-  /// ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lighthouse.svg)
+  /// ![lighthouse](https://api.iconify.design/ph/lighthouse-light.svg?height=32&color=%23888888)
   static const IconData lighthouse = IconData(
     0xe9f6,
     fontFamily: 'PhosphorLight',
@@ -10243,7 +10243,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lightning` no estilo Light.
   ///
-  /// ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightning.svg)
+  /// ![lightning](https://api.iconify.design/ph/lightning-light.svg?height=32&color=%23888888)
   static const IconData lightning = IconData(
     0xe2de,
     fontFamily: 'PhosphorLight',
@@ -10255,7 +10255,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lightningA` no estilo Light.
   ///
-  /// ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightning-a.svg)
+  /// ![lightning-a](https://api.iconify.design/ph/lightning-a-light.svg?height=32&color=%23888888)
   static const IconData lightningA = IconData(
     0xea84,
     fontFamily: 'PhosphorLight',
@@ -10267,7 +10267,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lightningSlash` no estilo Light.
   ///
-  /// ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightning-slash.svg)
+  /// ![lightning-slash](https://api.iconify.design/ph/lightning-slash-light.svg?height=32&color=%23888888)
   static const IconData lightningSlash = IconData(
     0xe2e0,
     fontFamily: 'PhosphorLight',
@@ -10279,7 +10279,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lineSegment` no estilo Light.
   ///
-  /// ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/line-segment.svg)
+  /// ![line-segment](https://api.iconify.design/ph/line-segment-light.svg?height=32&color=%23888888)
   static const IconData lineSegment = IconData(
     0xe6d2,
     fontFamily: 'PhosphorLight',
@@ -10291,7 +10291,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lineSegments` no estilo Light.
   ///
-  /// ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/line-segments.svg)
+  /// ![line-segments](https://api.iconify.design/ph/line-segments-light.svg?height=32&color=%23888888)
   static const IconData lineSegments = IconData(
     0xe6d4,
     fontFamily: 'PhosphorLight',
@@ -10303,7 +10303,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lineVertical` no estilo Light.
   ///
-  /// ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/line-vertical.svg)
+  /// ![line-vertical](https://api.iconify.design/ph/line-vertical-light.svg?height=32&color=%23888888)
   static const IconData lineVertical = IconData(
     0xed70,
     fontFamily: 'PhosphorLight',
@@ -10315,7 +10315,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `link` no estilo Light.
   ///
-  /// ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link.svg)
+  /// ![link](https://api.iconify.design/ph/link-light.svg?height=32&color=%23888888)
   static const IconData link = IconData(
     0xe2e2,
     fontFamily: 'PhosphorLight',
@@ -10327,7 +10327,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linkBreak` no estilo Light.
   ///
-  /// ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-break.svg)
+  /// ![link-break](https://api.iconify.design/ph/link-break-light.svg?height=32&color=%23888888)
   static const IconData linkBreak = IconData(
     0xe2e4,
     fontFamily: 'PhosphorLight',
@@ -10339,7 +10339,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linkSimple` no estilo Light.
   ///
-  /// ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple.svg)
+  /// ![link-simple](https://api.iconify.design/ph/link-simple-light.svg?height=32&color=%23888888)
   static const IconData linkSimple = IconData(
     0xe2e6,
     fontFamily: 'PhosphorLight',
@@ -10351,7 +10351,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linkSimpleBreak` no estilo Light.
   ///
-  /// ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple-break.svg)
+  /// ![link-simple-break](https://api.iconify.design/ph/link-simple-break-light.svg?height=32&color=%23888888)
   static const IconData linkSimpleBreak = IconData(
     0xe2e8,
     fontFamily: 'PhosphorLight',
@@ -10363,7 +10363,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linkSimpleHorizontal` no estilo Light.
   ///
-  /// ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple-horizontal.svg)
+  /// ![link-simple-horizontal](https://api.iconify.design/ph/link-simple-horizontal-light.svg?height=32&color=%23888888)
   static const IconData linkSimpleHorizontal = IconData(
     0xe2ea,
     fontFamily: 'PhosphorLight',
@@ -10375,7 +10375,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Light.
   ///
-  /// ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple-horizontal-break.svg)
+  /// ![link-simple-horizontal-break](https://api.iconify.design/ph/link-simple-horizontal-break-light.svg?height=32&color=%23888888)
   static const IconData linkSimpleHorizontalBreak = IconData(
     0xe2ec,
     fontFamily: 'PhosphorLight',
@@ -10387,7 +10387,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linkedinLogo` no estilo Light.
   ///
-  /// ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/linkedin-logo.svg)
+  /// ![linkedin-logo](https://api.iconify.design/ph/linkedin-logo-light.svg?height=32&color=%23888888)
   static const IconData linkedinLogo = IconData(
     0xe2ee,
     fontFamily: 'PhosphorLight',
@@ -10399,7 +10399,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linktreeLogo` no estilo Light.
   ///
-  /// ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/linktree-logo.svg)
+  /// ![linktree-logo](https://api.iconify.design/ph/linktree-logo-light.svg?height=32&color=%23888888)
   static const IconData linktreeLogo = IconData(
     0xedee,
     fontFamily: 'PhosphorLight',
@@ -10411,7 +10411,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `linuxLogo` no estilo Light.
   ///
-  /// ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/linux-logo.svg)
+  /// ![linux-logo](https://api.iconify.design/ph/linux-logo-light.svg?height=32&color=%23888888)
   static const IconData linuxLogo = IconData(
     0xeb02,
     fontFamily: 'PhosphorLight',
@@ -10423,7 +10423,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `list` no estilo Light.
   ///
-  /// ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list.svg)
+  /// ![list](https://api.iconify.design/ph/list-light.svg?height=32&color=%23888888)
   static const IconData list = IconData(
     0xe2f0,
     fontFamily: 'PhosphorLight',
@@ -10435,7 +10435,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listBullets` no estilo Light.
   ///
-  /// ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-bullets.svg)
+  /// ![list-bullets](https://api.iconify.design/ph/list-bullets-light.svg?height=32&color=%23888888)
   static const IconData listBullets = IconData(
     0xe2f2,
     fontFamily: 'PhosphorLight',
@@ -10447,7 +10447,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listChecks` no estilo Light.
   ///
-  /// ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-checks.svg)
+  /// ![list-checks](https://api.iconify.design/ph/list-checks-light.svg?height=32&color=%23888888)
   static const IconData listChecks = IconData(
     0xeadc,
     fontFamily: 'PhosphorLight',
@@ -10459,7 +10459,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listDashes` no estilo Light.
   ///
-  /// ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-dashes.svg)
+  /// ![list-dashes](https://api.iconify.design/ph/list-dashes-light.svg?height=32&color=%23888888)
   static const IconData listDashes = IconData(
     0xe2f4,
     fontFamily: 'PhosphorLight',
@@ -10471,7 +10471,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listHeart` no estilo Light.
   ///
-  /// ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-heart.svg)
+  /// ![list-heart](https://api.iconify.design/ph/list-heart-light.svg?height=32&color=%23888888)
   static const IconData listHeart = IconData(
     0xebde,
     fontFamily: 'PhosphorLight',
@@ -10483,7 +10483,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listMagnifyingGlass` no estilo Light.
   ///
-  /// ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-magnifying-glass.svg)
+  /// ![list-magnifying-glass](https://api.iconify.design/ph/list-magnifying-glass-light.svg?height=32&color=%23888888)
   static const IconData listMagnifyingGlass = IconData(
     0xebe0,
     fontFamily: 'PhosphorLight',
@@ -10495,7 +10495,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listNumbers` no estilo Light.
   ///
-  /// ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-numbers.svg)
+  /// ![list-numbers](https://api.iconify.design/ph/list-numbers-light.svg?height=32&color=%23888888)
   static const IconData listNumbers = IconData(
     0xe2f6,
     fontFamily: 'PhosphorLight',
@@ -10507,7 +10507,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listPlus` no estilo Light.
   ///
-  /// ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-plus.svg)
+  /// ![list-plus](https://api.iconify.design/ph/list-plus-light.svg?height=32&color=%23888888)
   static const IconData listPlus = IconData(
     0xe2f8,
     fontFamily: 'PhosphorLight',
@@ -10519,7 +10519,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `listStar` no estilo Light.
   ///
-  /// ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-star.svg)
+  /// ![list-star](https://api.iconify.design/ph/list-star-light.svg?height=32&color=%23888888)
   static const IconData listStar = IconData(
     0xebdc,
     fontFamily: 'PhosphorLight',
@@ -10531,7 +10531,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lock` no estilo Light.
   ///
-  /// ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock.svg)
+  /// ![lock](https://api.iconify.design/ph/lock-light.svg?height=32&color=%23888888)
   static const IconData lock = IconData(
     0xe2fa,
     fontFamily: 'PhosphorLight',
@@ -10543,7 +10543,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockKey` no estilo Light.
   ///
-  /// ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-key.svg)
+  /// ![lock-key](https://api.iconify.design/ph/lock-key-light.svg?height=32&color=%23888888)
   static const IconData lockKey = IconData(
     0xe2fe,
     fontFamily: 'PhosphorLight',
@@ -10555,7 +10555,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockKeyOpen` no estilo Light.
   ///
-  /// ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-key-open.svg)
+  /// ![lock-key-open](https://api.iconify.design/ph/lock-key-open-light.svg?height=32&color=%23888888)
   static const IconData lockKeyOpen = IconData(
     0xe300,
     fontFamily: 'PhosphorLight',
@@ -10567,7 +10567,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockLaminated` no estilo Light.
   ///
-  /// ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-laminated.svg)
+  /// ![lock-laminated](https://api.iconify.design/ph/lock-laminated-light.svg?height=32&color=%23888888)
   static const IconData lockLaminated = IconData(
     0xe302,
     fontFamily: 'PhosphorLight',
@@ -10579,7 +10579,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockLaminatedOpen` no estilo Light.
   ///
-  /// ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-laminated-open.svg)
+  /// ![lock-laminated-open](https://api.iconify.design/ph/lock-laminated-open-light.svg?height=32&color=%23888888)
   static const IconData lockLaminatedOpen = IconData(
     0xe304,
     fontFamily: 'PhosphorLight',
@@ -10591,7 +10591,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockOpen` no estilo Light.
   ///
-  /// ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-open.svg)
+  /// ![lock-open](https://api.iconify.design/ph/lock-open-light.svg?height=32&color=%23888888)
   static const IconData lockOpen = IconData(
     0xe306,
     fontFamily: 'PhosphorLight',
@@ -10603,7 +10603,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockSimple` no estilo Light.
   ///
-  /// ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-simple.svg)
+  /// ![lock-simple](https://api.iconify.design/ph/lock-simple-light.svg?height=32&color=%23888888)
   static const IconData lockSimple = IconData(
     0xe308,
     fontFamily: 'PhosphorLight',
@@ -10615,7 +10615,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockSimpleOpen` no estilo Light.
   ///
-  /// ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-simple-open.svg)
+  /// ![lock-simple-open](https://api.iconify.design/ph/lock-simple-open-light.svg?height=32&color=%23888888)
   static const IconData lockSimpleOpen = IconData(
     0xe30a,
     fontFamily: 'PhosphorLight',
@@ -10627,7 +10627,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `lockers` no estilo Light.
   ///
-  /// ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lockers.svg)
+  /// ![lockers](https://api.iconify.design/ph/lockers-light.svg?height=32&color=%23888888)
   static const IconData lockers = IconData(
     0xecb8,
     fontFamily: 'PhosphorLight',
@@ -10639,7 +10639,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `log` no estilo Light.
   ///
-  /// ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/log.svg)
+  /// ![log](https://api.iconify.design/ph/log-light.svg?height=32&color=%23888888)
   static const IconData log = IconData(
     0xed82,
     fontFamily: 'PhosphorLight',
@@ -10651,7 +10651,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `magicWand` no estilo Light.
   ///
-  /// ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magic-wand.svg)
+  /// ![magic-wand](https://api.iconify.design/ph/magic-wand-light.svg?height=32&color=%23888888)
   static const IconData magicWand = IconData(
     0xe6b6,
     fontFamily: 'PhosphorLight',
@@ -10663,7 +10663,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `magnet` no estilo Light.
   ///
-  /// ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnet.svg)
+  /// ![magnet](https://api.iconify.design/ph/magnet-light.svg?height=32&color=%23888888)
   static const IconData magnet = IconData(
     0xe680,
     fontFamily: 'PhosphorLight',
@@ -10675,7 +10675,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `magnetStraight` no estilo Light.
   ///
-  /// ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnet-straight.svg)
+  /// ![magnet-straight](https://api.iconify.design/ph/magnet-straight-light.svg?height=32&color=%23888888)
   static const IconData magnetStraight = IconData(
     0xe682,
     fontFamily: 'PhosphorLight',
@@ -10687,7 +10687,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `magnifyingGlass` no estilo Light.
   ///
-  /// ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnifying-glass.svg)
+  /// ![magnifying-glass](https://api.iconify.design/ph/magnifying-glass-light.svg?height=32&color=%23888888)
   static const IconData magnifyingGlass = IconData(
     0xe30c,
     fontFamily: 'PhosphorLight',
@@ -10699,7 +10699,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `magnifyingGlassMinus` no estilo Light.
   ///
-  /// ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnifying-glass-minus.svg)
+  /// ![magnifying-glass-minus](https://api.iconify.design/ph/magnifying-glass-minus-light.svg?height=32&color=%23888888)
   static const IconData magnifyingGlassMinus = IconData(
     0xe30e,
     fontFamily: 'PhosphorLight',
@@ -10711,7 +10711,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `magnifyingGlassPlus` no estilo Light.
   ///
-  /// ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnifying-glass-plus.svg)
+  /// ![magnifying-glass-plus](https://api.iconify.design/ph/magnifying-glass-plus-light.svg?height=32&color=%23888888)
   static const IconData magnifyingGlassPlus = IconData(
     0xe310,
     fontFamily: 'PhosphorLight',
@@ -10723,7 +10723,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mailbox` no estilo Light.
   ///
-  /// ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mailbox.svg)
+  /// ![mailbox](https://api.iconify.design/ph/mailbox-light.svg?height=32&color=%23888888)
   static const IconData mailbox = IconData(
     0xec1e,
     fontFamily: 'PhosphorLight',
@@ -10735,7 +10735,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapPin` no estilo Light.
   ///
-  /// ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin.svg)
+  /// ![map-pin](https://api.iconify.design/ph/map-pin-light.svg?height=32&color=%23888888)
   static const IconData mapPin = IconData(
     0xe316,
     fontFamily: 'PhosphorLight',
@@ -10747,7 +10747,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapPinArea` no estilo Light.
   ///
-  /// ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-area.svg)
+  /// ![map-pin-area](https://api.iconify.design/ph/map-pin-area-light.svg?height=32&color=%23888888)
   static const IconData mapPinArea = IconData(
     0xee3a,
     fontFamily: 'PhosphorLight',
@@ -10759,7 +10759,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapPinLine` no estilo Light.
   ///
-  /// ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-line.svg)
+  /// ![map-pin-line](https://api.iconify.design/ph/map-pin-line-light.svg?height=32&color=%23888888)
   static const IconData mapPinLine = IconData(
     0xe318,
     fontFamily: 'PhosphorLight',
@@ -10771,7 +10771,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapPinPlus` no estilo Light.
   ///
-  /// ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-plus.svg)
+  /// ![map-pin-plus](https://api.iconify.design/ph/map-pin-plus-light.svg?height=32&color=%23888888)
   static const IconData mapPinPlus = IconData(
     0xe314,
     fontFamily: 'PhosphorLight',
@@ -10783,7 +10783,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapPinSimple` no estilo Light.
   ///
-  /// ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-simple.svg)
+  /// ![map-pin-simple](https://api.iconify.design/ph/map-pin-simple-light.svg?height=32&color=%23888888)
   static const IconData mapPinSimple = IconData(
     0xee3e,
     fontFamily: 'PhosphorLight',
@@ -10795,7 +10795,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapPinSimpleArea` no estilo Light.
   ///
-  /// ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-simple-area.svg)
+  /// ![map-pin-simple-area](https://api.iconify.design/ph/map-pin-simple-area-light.svg?height=32&color=%23888888)
   static const IconData mapPinSimpleArea = IconData(
     0xee3c,
     fontFamily: 'PhosphorLight',
@@ -10807,7 +10807,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapPinSimpleLine` no estilo Light.
   ///
-  /// ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-simple-line.svg)
+  /// ![map-pin-simple-line](https://api.iconify.design/ph/map-pin-simple-line-light.svg?height=32&color=%23888888)
   static const IconData mapPinSimpleLine = IconData(
     0xee38,
     fontFamily: 'PhosphorLight',
@@ -10819,7 +10819,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mapTrifold` no estilo Light.
   ///
-  /// ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-trifold.svg)
+  /// ![map-trifold](https://api.iconify.design/ph/map-trifold-light.svg?height=32&color=%23888888)
   static const IconData mapTrifold = IconData(
     0xe31a,
     fontFamily: 'PhosphorLight',
@@ -10831,7 +10831,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `markdownLogo` no estilo Light.
   ///
-  /// ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/markdown-logo.svg)
+  /// ![markdown-logo](https://api.iconify.design/ph/markdown-logo-light.svg?height=32&color=%23888888)
   static const IconData markdownLogo = IconData(
     0xe508,
     fontFamily: 'PhosphorLight',
@@ -10843,7 +10843,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `markerCircle` no estilo Light.
   ///
-  /// ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/marker-circle.svg)
+  /// ![marker-circle](https://api.iconify.design/ph/marker-circle-light.svg?height=32&color=%23888888)
   static const IconData markerCircle = IconData(
     0xe640,
     fontFamily: 'PhosphorLight',
@@ -10855,7 +10855,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `martini` no estilo Light.
   ///
-  /// ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/martini.svg)
+  /// ![martini](https://api.iconify.design/ph/martini-light.svg?height=32&color=%23888888)
   static const IconData martini = IconData(
     0xe31c,
     fontFamily: 'PhosphorLight',
@@ -10867,7 +10867,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `maskHappy` no estilo Light.
   ///
-  /// ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mask-happy.svg)
+  /// ![mask-happy](https://api.iconify.design/ph/mask-happy-light.svg?height=32&color=%23888888)
   static const IconData maskHappy = IconData(
     0xe9f4,
     fontFamily: 'PhosphorLight',
@@ -10879,7 +10879,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `maskSad` no estilo Light.
   ///
-  /// ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mask-sad.svg)
+  /// ![mask-sad](https://api.iconify.design/ph/mask-sad-light.svg?height=32&color=%23888888)
   static const IconData maskSad = IconData(
     0xeb9e,
     fontFamily: 'PhosphorLight',
@@ -10891,7 +10891,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mastodonLogo` no estilo Light.
   ///
-  /// ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mastodon-logo.svg)
+  /// ![mastodon-logo](https://api.iconify.design/ph/mastodon-logo-light.svg?height=32&color=%23888888)
   static const IconData mastodonLogo = IconData(
     0xed68,
     fontFamily: 'PhosphorLight',
@@ -10903,7 +10903,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mathOperations` no estilo Light.
   ///
-  /// ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/math-operations.svg)
+  /// ![math-operations](https://api.iconify.design/ph/math-operations-light.svg?height=32&color=%23888888)
   static const IconData mathOperations = IconData(
     0xe31e,
     fontFamily: 'PhosphorLight',
@@ -10915,7 +10915,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `matrixLogo` no estilo Light.
   ///
-  /// ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/matrix-logo.svg)
+  /// ![matrix-logo](https://api.iconify.design/ph/matrix-logo-light.svg?height=32&color=%23888888)
   static const IconData matrixLogo = IconData(
     0xed64,
     fontFamily: 'PhosphorLight',
@@ -10927,7 +10927,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `medal` no estilo Light.
   ///
-  /// ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/medal.svg)
+  /// ![medal](https://api.iconify.design/ph/medal-light.svg?height=32&color=%23888888)
   static const IconData medal = IconData(
     0xe320,
     fontFamily: 'PhosphorLight',
@@ -10939,7 +10939,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `medalMilitary` no estilo Light.
   ///
-  /// ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/medal-military.svg)
+  /// ![medal-military](https://api.iconify.design/ph/medal-military-light.svg?height=32&color=%23888888)
   static const IconData medalMilitary = IconData(
     0xecfc,
     fontFamily: 'PhosphorLight',
@@ -10951,7 +10951,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mediumLogo` no estilo Light.
   ///
-  /// ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/medium-logo.svg)
+  /// ![medium-logo](https://api.iconify.design/ph/medium-logo-light.svg?height=32&color=%23888888)
   static const IconData mediumLogo = IconData(
     0xe322,
     fontFamily: 'PhosphorLight',
@@ -10963,7 +10963,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `megaphone` no estilo Light.
   ///
-  /// ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/megaphone.svg)
+  /// ![megaphone](https://api.iconify.design/ph/megaphone-light.svg?height=32&color=%23888888)
   static const IconData megaphone = IconData(
     0xe324,
     fontFamily: 'PhosphorLight',
@@ -10975,7 +10975,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `megaphoneSimple` no estilo Light.
   ///
-  /// ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/megaphone-simple.svg)
+  /// ![megaphone-simple](https://api.iconify.design/ph/megaphone-simple-light.svg?height=32&color=%23888888)
   static const IconData megaphoneSimple = IconData(
     0xe642,
     fontFamily: 'PhosphorLight',
@@ -10987,7 +10987,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `memberOf` no estilo Light.
   ///
-  /// ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/member-of.svg)
+  /// ![member-of](https://api.iconify.design/ph/member-of-light.svg?height=32&color=%23888888)
   static const IconData memberOf = IconData(
     0xedc2,
     fontFamily: 'PhosphorLight',
@@ -10999,7 +10999,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `memory` no estilo Light.
   ///
-  /// ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/memory.svg)
+  /// ![memory](https://api.iconify.design/ph/memory-light.svg?height=32&color=%23888888)
   static const IconData memory = IconData(
     0xe9c4,
     fontFamily: 'PhosphorLight',
@@ -11011,7 +11011,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `messengerLogo` no estilo Light.
   ///
-  /// ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/messenger-logo.svg)
+  /// ![messenger-logo](https://api.iconify.design/ph/messenger-logo-light.svg?height=32&color=%23888888)
   static const IconData messengerLogo = IconData(
     0xe6d8,
     fontFamily: 'PhosphorLight',
@@ -11023,7 +11023,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `metaLogo` no estilo Light.
   ///
-  /// ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/meta-logo.svg)
+  /// ![meta-logo](https://api.iconify.design/ph/meta-logo-light.svg?height=32&color=%23888888)
   static const IconData metaLogo = IconData(
     0xed02,
     fontFamily: 'PhosphorLight',
@@ -11035,7 +11035,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `meteor` no estilo Light.
   ///
-  /// ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/meteor.svg)
+  /// ![meteor](https://api.iconify.design/ph/meteor-light.svg?height=32&color=%23888888)
   static const IconData meteor = IconData(
     0xe9ba,
     fontFamily: 'PhosphorLight',
@@ -11047,7 +11047,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `metronome` no estilo Light.
   ///
-  /// ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/metronome.svg)
+  /// ![metronome](https://api.iconify.design/ph/metronome-light.svg?height=32&color=%23888888)
   static const IconData metronome = IconData(
     0xec8e,
     fontFamily: 'PhosphorLight',
@@ -11059,7 +11059,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microphone` no estilo Light.
   ///
-  /// ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microphone.svg)
+  /// ![microphone](https://api.iconify.design/ph/microphone-light.svg?height=32&color=%23888888)
   static const IconData microphone = IconData(
     0xe326,
     fontFamily: 'PhosphorLight',
@@ -11071,7 +11071,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microphoneSlash` no estilo Light.
   ///
-  /// ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microphone-slash.svg)
+  /// ![microphone-slash](https://api.iconify.design/ph/microphone-slash-light.svg?height=32&color=%23888888)
   static const IconData microphoneSlash = IconData(
     0xe328,
     fontFamily: 'PhosphorLight',
@@ -11083,7 +11083,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microphoneStage` no estilo Light.
   ///
-  /// ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microphone-stage.svg)
+  /// ![microphone-stage](https://api.iconify.design/ph/microphone-stage-light.svg?height=32&color=%23888888)
   static const IconData microphoneStage = IconData(
     0xe75c,
     fontFamily: 'PhosphorLight',
@@ -11095,7 +11095,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microscope` no estilo Light.
   ///
-  /// ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microscope.svg)
+  /// ![microscope](https://api.iconify.design/ph/microscope-light.svg?height=32&color=%23888888)
   static const IconData microscope = IconData(
     0xec7a,
     fontFamily: 'PhosphorLight',
@@ -11107,7 +11107,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microsoftExcelLogo` no estilo Light.
   ///
-  /// ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-excel-logo.svg)
+  /// ![microsoft-excel-logo](https://api.iconify.design/ph/microsoft-excel-logo-light.svg?height=32&color=%23888888)
   static const IconData microsoftExcelLogo = IconData(
     0xeb6c,
     fontFamily: 'PhosphorLight',
@@ -11119,7 +11119,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microsoftOutlookLogo` no estilo Light.
   ///
-  /// ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-outlook-logo.svg)
+  /// ![microsoft-outlook-logo](https://api.iconify.design/ph/microsoft-outlook-logo-light.svg?height=32&color=%23888888)
   static const IconData microsoftOutlookLogo = IconData(
     0xeb70,
     fontFamily: 'PhosphorLight',
@@ -11131,7 +11131,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microsoftPowerpointLogo` no estilo Light.
   ///
-  /// ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-powerpoint-logo.svg)
+  /// ![microsoft-powerpoint-logo](https://api.iconify.design/ph/microsoft-powerpoint-logo-light.svg?height=32&color=%23888888)
   static const IconData microsoftPowerpointLogo = IconData(
     0xeace,
     fontFamily: 'PhosphorLight',
@@ -11143,7 +11143,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microsoftTeamsLogo` no estilo Light.
   ///
-  /// ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-teams-logo.svg)
+  /// ![microsoft-teams-logo](https://api.iconify.design/ph/microsoft-teams-logo-light.svg?height=32&color=%23888888)
   static const IconData microsoftTeamsLogo = IconData(
     0xeb66,
     fontFamily: 'PhosphorLight',
@@ -11155,7 +11155,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `microsoftWordLogo` no estilo Light.
   ///
-  /// ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-word-logo.svg)
+  /// ![microsoft-word-logo](https://api.iconify.design/ph/microsoft-word-logo-light.svg?height=32&color=%23888888)
   static const IconData microsoftWordLogo = IconData(
     0xeb6a,
     fontFamily: 'PhosphorLight',
@@ -11167,7 +11167,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `minus` no estilo Light.
   ///
-  /// ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/minus.svg)
+  /// ![minus](https://api.iconify.design/ph/minus-light.svg?height=32&color=%23888888)
   static const IconData minus = IconData(
     0xe32a,
     fontFamily: 'PhosphorLight',
@@ -11179,7 +11179,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `minusCircle` no estilo Light.
   ///
-  /// ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/minus-circle.svg)
+  /// ![minus-circle](https://api.iconify.design/ph/minus-circle-light.svg?height=32&color=%23888888)
   static const IconData minusCircle = IconData(
     0xe32c,
     fontFamily: 'PhosphorLight',
@@ -11191,7 +11191,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `minusSquare` no estilo Light.
   ///
-  /// ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/minus-square.svg)
+  /// ![minus-square](https://api.iconify.design/ph/minus-square-light.svg?height=32&color=%23888888)
   static const IconData minusSquare = IconData(
     0xed4c,
     fontFamily: 'PhosphorLight',
@@ -11203,7 +11203,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `money` no estilo Light.
   ///
-  /// ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/money.svg)
+  /// ![money](https://api.iconify.design/ph/money-light.svg?height=32&color=%23888888)
   static const IconData money = IconData(
     0xe588,
     fontFamily: 'PhosphorLight',
@@ -11215,7 +11215,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `moneyWavy` no estilo Light.
   ///
-  /// ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/money-wavy.svg)
+  /// ![money-wavy](https://api.iconify.design/ph/money-wavy-light.svg?height=32&color=%23888888)
   static const IconData moneyWavy = IconData(
     0xee68,
     fontFamily: 'PhosphorLight',
@@ -11227,7 +11227,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `monitor` no estilo Light.
   ///
-  /// ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/monitor.svg)
+  /// ![monitor](https://api.iconify.design/ph/monitor-light.svg?height=32&color=%23888888)
   static const IconData monitor = IconData(
     0xe32e,
     fontFamily: 'PhosphorLight',
@@ -11239,7 +11239,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `monitorArrowUp` no estilo Light.
   ///
-  /// ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/monitor-arrow-up.svg)
+  /// ![monitor-arrow-up](https://api.iconify.design/ph/monitor-arrow-up-light.svg?height=32&color=%23888888)
   static const IconData monitorArrowUp = IconData(
     0xe58a,
     fontFamily: 'PhosphorLight',
@@ -11251,7 +11251,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `monitorPlay` no estilo Light.
   ///
-  /// ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/monitor-play.svg)
+  /// ![monitor-play](https://api.iconify.design/ph/monitor-play-light.svg?height=32&color=%23888888)
   static const IconData monitorPlay = IconData(
     0xe58c,
     fontFamily: 'PhosphorLight',
@@ -11263,7 +11263,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `moon` no estilo Light.
   ///
-  /// ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moon.svg)
+  /// ![moon](https://api.iconify.design/ph/moon-light.svg?height=32&color=%23888888)
   static const IconData moon = IconData(
     0xe330,
     fontFamily: 'PhosphorLight',
@@ -11275,7 +11275,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `moonStars` no estilo Light.
   ///
-  /// ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moon-stars.svg)
+  /// ![moon-stars](https://api.iconify.design/ph/moon-stars-light.svg?height=32&color=%23888888)
   static const IconData moonStars = IconData(
     0xe58e,
     fontFamily: 'PhosphorLight',
@@ -11287,7 +11287,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `moped` no estilo Light.
   ///
-  /// ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moped.svg)
+  /// ![moped](https://api.iconify.design/ph/moped-light.svg?height=32&color=%23888888)
   static const IconData moped = IconData(
     0xe824,
     fontFamily: 'PhosphorLight',
@@ -11299,7 +11299,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mopedFront` no estilo Light.
   ///
-  /// ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moped-front.svg)
+  /// ![moped-front](https://api.iconify.design/ph/moped-front-light.svg?height=32&color=%23888888)
   static const IconData mopedFront = IconData(
     0xe822,
     fontFamily: 'PhosphorLight',
@@ -11311,7 +11311,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mosque` no estilo Light.
   ///
-  /// ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mosque.svg)
+  /// ![mosque](https://api.iconify.design/ph/mosque-light.svg?height=32&color=%23888888)
   static const IconData mosque = IconData(
     0xecee,
     fontFamily: 'PhosphorLight',
@@ -11323,7 +11323,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `motorcycle` no estilo Light.
   ///
-  /// ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/motorcycle.svg)
+  /// ![motorcycle](https://api.iconify.design/ph/motorcycle-light.svg?height=32&color=%23888888)
   static const IconData motorcycle = IconData(
     0xe80a,
     fontFamily: 'PhosphorLight',
@@ -11335,7 +11335,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mountains` no estilo Light.
   ///
-  /// ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mountains.svg)
+  /// ![mountains](https://api.iconify.design/ph/mountains-light.svg?height=32&color=%23888888)
   static const IconData mountains = IconData(
     0xe7ae,
     fontFamily: 'PhosphorLight',
@@ -11347,7 +11347,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mouse` no estilo Light.
   ///
-  /// ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse.svg)
+  /// ![mouse](https://api.iconify.design/ph/mouse-light.svg?height=32&color=%23888888)
   static const IconData mouse = IconData(
     0xe33a,
     fontFamily: 'PhosphorLight',
@@ -11359,7 +11359,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mouseLeftClick` no estilo Light.
   ///
-  /// ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-left-click.svg)
+  /// ![mouse-left-click](https://api.iconify.design/ph/mouse-left-click-light.svg?height=32&color=%23888888)
   static const IconData mouseLeftClick = IconData(
     0xe334,
     fontFamily: 'PhosphorLight',
@@ -11371,7 +11371,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mouseMiddleClick` no estilo Light.
   ///
-  /// ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-middle-click.svg)
+  /// ![mouse-middle-click](https://api.iconify.design/ph/mouse-middle-click-light.svg?height=32&color=%23888888)
   static const IconData mouseMiddleClick = IconData(
     0xe338,
     fontFamily: 'PhosphorLight',
@@ -11383,7 +11383,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mouseRightClick` no estilo Light.
   ///
-  /// ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-right-click.svg)
+  /// ![mouse-right-click](https://api.iconify.design/ph/mouse-right-click-light.svg?height=32&color=%23888888)
   static const IconData mouseRightClick = IconData(
     0xe336,
     fontFamily: 'PhosphorLight',
@@ -11395,7 +11395,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mouseScroll` no estilo Light.
   ///
-  /// ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-scroll.svg)
+  /// ![mouse-scroll](https://api.iconify.design/ph/mouse-scroll-light.svg?height=32&color=%23888888)
   static const IconData mouseScroll = IconData(
     0xe332,
     fontFamily: 'PhosphorLight',
@@ -11407,7 +11407,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `mouseSimple` no estilo Light.
   ///
-  /// ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-simple.svg)
+  /// ![mouse-simple](https://api.iconify.design/ph/mouse-simple-light.svg?height=32&color=%23888888)
   static const IconData mouseSimple = IconData(
     0xe644,
     fontFamily: 'PhosphorLight',
@@ -11419,7 +11419,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `musicNote` no estilo Light.
   ///
-  /// ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-note.svg)
+  /// ![music-note](https://api.iconify.design/ph/music-note-light.svg?height=32&color=%23888888)
   static const IconData musicNote = IconData(
     0xe33c,
     fontFamily: 'PhosphorLight',
@@ -11431,7 +11431,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `musicNoteSimple` no estilo Light.
   ///
-  /// ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-note-simple.svg)
+  /// ![music-note-simple](https://api.iconify.design/ph/music-note-simple-light.svg?height=32&color=%23888888)
   static const IconData musicNoteSimple = IconData(
     0xe33e,
     fontFamily: 'PhosphorLight',
@@ -11443,7 +11443,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `musicNotes` no estilo Light.
   ///
-  /// ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes.svg)
+  /// ![music-notes](https://api.iconify.design/ph/music-notes-light.svg?height=32&color=%23888888)
   static const IconData musicNotes = IconData(
     0xe340,
     fontFamily: 'PhosphorLight',
@@ -11455,7 +11455,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `musicNotesMinus` no estilo Light.
   ///
-  /// ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes-minus.svg)
+  /// ![music-notes-minus](https://api.iconify.design/ph/music-notes-minus-light.svg?height=32&color=%23888888)
   static const IconData musicNotesMinus = IconData(
     0xee0c,
     fontFamily: 'PhosphorLight',
@@ -11467,7 +11467,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `musicNotesPlus` no estilo Light.
   ///
-  /// ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes-plus.svg)
+  /// ![music-notes-plus](https://api.iconify.design/ph/music-notes-plus-light.svg?height=32&color=%23888888)
   static const IconData musicNotesPlus = IconData(
     0xeb7c,
     fontFamily: 'PhosphorLight',
@@ -11479,7 +11479,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `musicNotesSimple` no estilo Light.
   ///
-  /// ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes-simple.svg)
+  /// ![music-notes-simple](https://api.iconify.design/ph/music-notes-simple-light.svg?height=32&color=%23888888)
   static const IconData musicNotesSimple = IconData(
     0xe342,
     fontFamily: 'PhosphorLight',
@@ -11491,7 +11491,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `navigationArrow` no estilo Light.
   ///
-  /// ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/navigation-arrow.svg)
+  /// ![navigation-arrow](https://api.iconify.design/ph/navigation-arrow-light.svg?height=32&color=%23888888)
   static const IconData navigationArrow = IconData(
     0xeade,
     fontFamily: 'PhosphorLight',
@@ -11503,7 +11503,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `needle` no estilo Light.
   ///
-  /// ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/needle.svg)
+  /// ![needle](https://api.iconify.design/ph/needle-light.svg?height=32&color=%23888888)
   static const IconData needle = IconData(
     0xe82e,
     fontFamily: 'PhosphorLight',
@@ -11515,7 +11515,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `network` no estilo Light.
   ///
-  /// ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/network.svg)
+  /// ![network](https://api.iconify.design/ph/network-light.svg?height=32&color=%23888888)
   static const IconData network = IconData(
     0xedde,
     fontFamily: 'PhosphorLight',
@@ -11527,7 +11527,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `networkSlash` no estilo Light.
   ///
-  /// ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/network-slash.svg)
+  /// ![network-slash](https://api.iconify.design/ph/network-slash-light.svg?height=32&color=%23888888)
   static const IconData networkSlash = IconData(
     0xeddc,
     fontFamily: 'PhosphorLight',
@@ -11539,7 +11539,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `networkX` no estilo Light.
   ///
-  /// ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/network-x.svg)
+  /// ![network-x](https://api.iconify.design/ph/network-x-light.svg?height=32&color=%23888888)
   static const IconData networkX = IconData(
     0xedda,
     fontFamily: 'PhosphorLight',
@@ -11551,7 +11551,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `newspaper` no estilo Light.
   ///
-  /// ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/newspaper.svg)
+  /// ![newspaper](https://api.iconify.design/ph/newspaper-light.svg?height=32&color=%23888888)
   static const IconData newspaper = IconData(
     0xe344,
     fontFamily: 'PhosphorLight',
@@ -11563,7 +11563,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `newspaperClipping` no estilo Light.
   ///
-  /// ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/newspaper-clipping.svg)
+  /// ![newspaper-clipping](https://api.iconify.design/ph/newspaper-clipping-light.svg?height=32&color=%23888888)
   static const IconData newspaperClipping = IconData(
     0xe346,
     fontFamily: 'PhosphorLight',
@@ -11575,7 +11575,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notEquals` no estilo Light.
   ///
-  /// ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-equals.svg)
+  /// ![not-equals](https://api.iconify.design/ph/not-equals-light.svg?height=32&color=%23888888)
   static const IconData notEquals = IconData(
     0xeda6,
     fontFamily: 'PhosphorLight',
@@ -11587,7 +11587,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notMemberOf` no estilo Light.
   ///
-  /// ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-member-of.svg)
+  /// ![not-member-of](https://api.iconify.design/ph/not-member-of-light.svg?height=32&color=%23888888)
   static const IconData notMemberOf = IconData(
     0xedae,
     fontFamily: 'PhosphorLight',
@@ -11599,7 +11599,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notSubsetOf` no estilo Light.
   ///
-  /// ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-subset-of.svg)
+  /// ![not-subset-of](https://api.iconify.design/ph/not-subset-of-light.svg?height=32&color=%23888888)
   static const IconData notSubsetOf = IconData(
     0xedb0,
     fontFamily: 'PhosphorLight',
@@ -11611,7 +11611,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notSupersetOf` no estilo Light.
   ///
-  /// ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-superset-of.svg)
+  /// ![not-superset-of](https://api.iconify.design/ph/not-superset-of-light.svg?height=32&color=%23888888)
   static const IconData notSupersetOf = IconData(
     0xedb2,
     fontFamily: 'PhosphorLight',
@@ -11623,7 +11623,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notches` no estilo Light.
   ///
-  /// ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notches.svg)
+  /// ![notches](https://api.iconify.design/ph/notches-light.svg?height=32&color=%23888888)
   static const IconData notches = IconData(
     0xed3a,
     fontFamily: 'PhosphorLight',
@@ -11635,7 +11635,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `note` no estilo Light.
   ///
-  /// ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/note.svg)
+  /// ![note](https://api.iconify.design/ph/note-light.svg?height=32&color=%23888888)
   static const IconData note = IconData(
     0xe348,
     fontFamily: 'PhosphorLight',
@@ -11647,7 +11647,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `noteBlank` no estilo Light.
   ///
-  /// ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/note-blank.svg)
+  /// ![note-blank](https://api.iconify.design/ph/note-blank-light.svg?height=32&color=%23888888)
   static const IconData noteBlank = IconData(
     0xe34a,
     fontFamily: 'PhosphorLight',
@@ -11659,7 +11659,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notePencil` no estilo Light.
   ///
-  /// ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/note-pencil.svg)
+  /// ![note-pencil](https://api.iconify.design/ph/note-pencil-light.svg?height=32&color=%23888888)
   static const IconData notePencil = IconData(
     0xe34c,
     fontFamily: 'PhosphorLight',
@@ -11671,7 +11671,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notebook` no estilo Light.
   ///
-  /// ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notebook.svg)
+  /// ![notebook](https://api.iconify.design/ph/notebook-light.svg?height=32&color=%23888888)
   static const IconData notebook = IconData(
     0xe34e,
     fontFamily: 'PhosphorLight',
@@ -11683,7 +11683,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notepad` no estilo Light.
   ///
-  /// ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notepad.svg)
+  /// ![notepad](https://api.iconify.design/ph/notepad-light.svg?height=32&color=%23888888)
   static const IconData notepad = IconData(
     0xe63e,
     fontFamily: 'PhosphorLight',
@@ -11695,7 +11695,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notification` no estilo Light.
   ///
-  /// ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notification.svg)
+  /// ![notification](https://api.iconify.design/ph/notification-light.svg?height=32&color=%23888888)
   static const IconData notification = IconData(
     0xe6fa,
     fontFamily: 'PhosphorLight',
@@ -11707,7 +11707,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `notionLogo` no estilo Light.
   ///
-  /// ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notion-logo.svg)
+  /// ![notion-logo](https://api.iconify.design/ph/notion-logo-light.svg?height=32&color=%23888888)
   static const IconData notionLogo = IconData(
     0xe9a0,
     fontFamily: 'PhosphorLight',
@@ -11719,7 +11719,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `nuclearPlant` no estilo Light.
   ///
-  /// ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/nuclear-plant.svg)
+  /// ![nuclear-plant](https://api.iconify.design/ph/nuclear-plant-light.svg?height=32&color=%23888888)
   static const IconData nuclearPlant = IconData(
     0xed7c,
     fontFamily: 'PhosphorLight',
@@ -11731,7 +11731,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleEight` no estilo Light.
   ///
-  /// ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-eight.svg)
+  /// ![number-circle-eight](https://api.iconify.design/ph/number-circle-eight-light.svg?height=32&color=%23888888)
   static const IconData numberCircleEight = IconData(
     0xe352,
     fontFamily: 'PhosphorLight',
@@ -11743,7 +11743,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleFive` no estilo Light.
   ///
-  /// ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-five.svg)
+  /// ![number-circle-five](https://api.iconify.design/ph/number-circle-five-light.svg?height=32&color=%23888888)
   static const IconData numberCircleFive = IconData(
     0xe358,
     fontFamily: 'PhosphorLight',
@@ -11755,7 +11755,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleFour` no estilo Light.
   ///
-  /// ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-four.svg)
+  /// ![number-circle-four](https://api.iconify.design/ph/number-circle-four-light.svg?height=32&color=%23888888)
   static const IconData numberCircleFour = IconData(
     0xe35e,
     fontFamily: 'PhosphorLight',
@@ -11767,7 +11767,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleNine` no estilo Light.
   ///
-  /// ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-nine.svg)
+  /// ![number-circle-nine](https://api.iconify.design/ph/number-circle-nine-light.svg?height=32&color=%23888888)
   static const IconData numberCircleNine = IconData(
     0xe364,
     fontFamily: 'PhosphorLight',
@@ -11779,7 +11779,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleOne` no estilo Light.
   ///
-  /// ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-one.svg)
+  /// ![number-circle-one](https://api.iconify.design/ph/number-circle-one-light.svg?height=32&color=%23888888)
   static const IconData numberCircleOne = IconData(
     0xe36a,
     fontFamily: 'PhosphorLight',
@@ -11791,7 +11791,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleSeven` no estilo Light.
   ///
-  /// ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-seven.svg)
+  /// ![number-circle-seven](https://api.iconify.design/ph/number-circle-seven-light.svg?height=32&color=%23888888)
   static const IconData numberCircleSeven = IconData(
     0xe370,
     fontFamily: 'PhosphorLight',
@@ -11803,7 +11803,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleSix` no estilo Light.
   ///
-  /// ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-six.svg)
+  /// ![number-circle-six](https://api.iconify.design/ph/number-circle-six-light.svg?height=32&color=%23888888)
   static const IconData numberCircleSix = IconData(
     0xe376,
     fontFamily: 'PhosphorLight',
@@ -11815,7 +11815,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleThree` no estilo Light.
   ///
-  /// ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-three.svg)
+  /// ![number-circle-three](https://api.iconify.design/ph/number-circle-three-light.svg?height=32&color=%23888888)
   static const IconData numberCircleThree = IconData(
     0xe37c,
     fontFamily: 'PhosphorLight',
@@ -11827,7 +11827,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleTwo` no estilo Light.
   ///
-  /// ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-two.svg)
+  /// ![number-circle-two](https://api.iconify.design/ph/number-circle-two-light.svg?height=32&color=%23888888)
   static const IconData numberCircleTwo = IconData(
     0xe382,
     fontFamily: 'PhosphorLight',
@@ -11839,7 +11839,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberCircleZero` no estilo Light.
   ///
-  /// ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-zero.svg)
+  /// ![number-circle-zero](https://api.iconify.design/ph/number-circle-zero-light.svg?height=32&color=%23888888)
   static const IconData numberCircleZero = IconData(
     0xe388,
     fontFamily: 'PhosphorLight',
@@ -11851,7 +11851,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberEight` no estilo Light.
   ///
-  /// ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-eight.svg)
+  /// ![number-eight](https://api.iconify.design/ph/number-eight-light.svg?height=32&color=%23888888)
   static const IconData numberEight = IconData(
     0xe350,
     fontFamily: 'PhosphorLight',
@@ -11863,7 +11863,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberFive` no estilo Light.
   ///
-  /// ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-five.svg)
+  /// ![number-five](https://api.iconify.design/ph/number-five-light.svg?height=32&color=%23888888)
   static const IconData numberFive = IconData(
     0xe356,
     fontFamily: 'PhosphorLight',
@@ -11875,7 +11875,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberFour` no estilo Light.
   ///
-  /// ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-four.svg)
+  /// ![number-four](https://api.iconify.design/ph/number-four-light.svg?height=32&color=%23888888)
   static const IconData numberFour = IconData(
     0xe35c,
     fontFamily: 'PhosphorLight',
@@ -11887,7 +11887,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberNine` no estilo Light.
   ///
-  /// ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-nine.svg)
+  /// ![number-nine](https://api.iconify.design/ph/number-nine-light.svg?height=32&color=%23888888)
   static const IconData numberNine = IconData(
     0xe362,
     fontFamily: 'PhosphorLight',
@@ -11899,7 +11899,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberOne` no estilo Light.
   ///
-  /// ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-one.svg)
+  /// ![number-one](https://api.iconify.design/ph/number-one-light.svg?height=32&color=%23888888)
   static const IconData numberOne = IconData(
     0xe368,
     fontFamily: 'PhosphorLight',
@@ -11911,7 +11911,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSeven` no estilo Light.
   ///
-  /// ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-seven.svg)
+  /// ![number-seven](https://api.iconify.design/ph/number-seven-light.svg?height=32&color=%23888888)
   static const IconData numberSeven = IconData(
     0xe36e,
     fontFamily: 'PhosphorLight',
@@ -11923,7 +11923,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSix` no estilo Light.
   ///
-  /// ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-six.svg)
+  /// ![number-six](https://api.iconify.design/ph/number-six-light.svg?height=32&color=%23888888)
   static const IconData numberSix = IconData(
     0xe374,
     fontFamily: 'PhosphorLight',
@@ -11935,7 +11935,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareEight` no estilo Light.
   ///
-  /// ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-eight.svg)
+  /// ![number-square-eight](https://api.iconify.design/ph/number-square-eight-light.svg?height=32&color=%23888888)
   static const IconData numberSquareEight = IconData(
     0xe354,
     fontFamily: 'PhosphorLight',
@@ -11947,7 +11947,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareFive` no estilo Light.
   ///
-  /// ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-five.svg)
+  /// ![number-square-five](https://api.iconify.design/ph/number-square-five-light.svg?height=32&color=%23888888)
   static const IconData numberSquareFive = IconData(
     0xe35a,
     fontFamily: 'PhosphorLight',
@@ -11959,7 +11959,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareFour` no estilo Light.
   ///
-  /// ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-four.svg)
+  /// ![number-square-four](https://api.iconify.design/ph/number-square-four-light.svg?height=32&color=%23888888)
   static const IconData numberSquareFour = IconData(
     0xe360,
     fontFamily: 'PhosphorLight',
@@ -11971,7 +11971,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareNine` no estilo Light.
   ///
-  /// ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-nine.svg)
+  /// ![number-square-nine](https://api.iconify.design/ph/number-square-nine-light.svg?height=32&color=%23888888)
   static const IconData numberSquareNine = IconData(
     0xe366,
     fontFamily: 'PhosphorLight',
@@ -11983,7 +11983,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareOne` no estilo Light.
   ///
-  /// ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-one.svg)
+  /// ![number-square-one](https://api.iconify.design/ph/number-square-one-light.svg?height=32&color=%23888888)
   static const IconData numberSquareOne = IconData(
     0xe36c,
     fontFamily: 'PhosphorLight',
@@ -11995,7 +11995,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareSeven` no estilo Light.
   ///
-  /// ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-seven.svg)
+  /// ![number-square-seven](https://api.iconify.design/ph/number-square-seven-light.svg?height=32&color=%23888888)
   static const IconData numberSquareSeven = IconData(
     0xe372,
     fontFamily: 'PhosphorLight',
@@ -12007,7 +12007,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareSix` no estilo Light.
   ///
-  /// ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-six.svg)
+  /// ![number-square-six](https://api.iconify.design/ph/number-square-six-light.svg?height=32&color=%23888888)
   static const IconData numberSquareSix = IconData(
     0xe378,
     fontFamily: 'PhosphorLight',
@@ -12019,7 +12019,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareThree` no estilo Light.
   ///
-  /// ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-three.svg)
+  /// ![number-square-three](https://api.iconify.design/ph/number-square-three-light.svg?height=32&color=%23888888)
   static const IconData numberSquareThree = IconData(
     0xe37e,
     fontFamily: 'PhosphorLight',
@@ -12031,7 +12031,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareTwo` no estilo Light.
   ///
-  /// ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-two.svg)
+  /// ![number-square-two](https://api.iconify.design/ph/number-square-two-light.svg?height=32&color=%23888888)
   static const IconData numberSquareTwo = IconData(
     0xe384,
     fontFamily: 'PhosphorLight',
@@ -12043,7 +12043,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberSquareZero` no estilo Light.
   ///
-  /// ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-zero.svg)
+  /// ![number-square-zero](https://api.iconify.design/ph/number-square-zero-light.svg?height=32&color=%23888888)
   static const IconData numberSquareZero = IconData(
     0xe38a,
     fontFamily: 'PhosphorLight',
@@ -12055,7 +12055,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberThree` no estilo Light.
   ///
-  /// ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-three.svg)
+  /// ![number-three](https://api.iconify.design/ph/number-three-light.svg?height=32&color=%23888888)
   static const IconData numberThree = IconData(
     0xe37a,
     fontFamily: 'PhosphorLight',
@@ -12067,7 +12067,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberTwo` no estilo Light.
   ///
-  /// ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-two.svg)
+  /// ![number-two](https://api.iconify.design/ph/number-two-light.svg?height=32&color=%23888888)
   static const IconData numberTwo = IconData(
     0xe380,
     fontFamily: 'PhosphorLight',
@@ -12079,7 +12079,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numberZero` no estilo Light.
   ///
-  /// ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-zero.svg)
+  /// ![number-zero](https://api.iconify.design/ph/number-zero-light.svg?height=32&color=%23888888)
   static const IconData numberZero = IconData(
     0xe386,
     fontFamily: 'PhosphorLight',
@@ -12091,7 +12091,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `numpad` no estilo Light.
   ///
-  /// ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/numpad.svg)
+  /// ![numpad](https://api.iconify.design/ph/numpad-light.svg?height=32&color=%23888888)
   static const IconData numpad = IconData(
     0xe3c8,
     fontFamily: 'PhosphorLight',
@@ -12103,7 +12103,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `nut` no estilo Light.
   ///
-  /// ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/nut.svg)
+  /// ![nut](https://api.iconify.design/ph/nut-light.svg?height=32&color=%23888888)
   static const IconData nut = IconData(
     0xe38c,
     fontFamily: 'PhosphorLight',
@@ -12115,7 +12115,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `nyTimesLogo` no estilo Light.
   ///
-  /// ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ny-times-logo.svg)
+  /// ![ny-times-logo](https://api.iconify.design/ph/ny-times-logo-light.svg?height=32&color=%23888888)
   static const IconData nyTimesLogo = IconData(
     0xe646,
     fontFamily: 'PhosphorLight',
@@ -12127,7 +12127,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `octagon` no estilo Light.
   ///
-  /// ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/octagon.svg)
+  /// ![octagon](https://api.iconify.design/ph/octagon-light.svg?height=32&color=%23888888)
   static const IconData octagon = IconData(
     0xe38e,
     fontFamily: 'PhosphorLight',
@@ -12139,7 +12139,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `officeChair` no estilo Light.
   ///
-  /// ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/office-chair.svg)
+  /// ![office-chair](https://api.iconify.design/ph/office-chair-light.svg?height=32&color=%23888888)
   static const IconData officeChair = IconData(
     0xea46,
     fontFamily: 'PhosphorLight',
@@ -12151,7 +12151,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `onigiri` no estilo Light.
   ///
-  /// ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/onigiri.svg)
+  /// ![onigiri](https://api.iconify.design/ph/onigiri-light.svg?height=32&color=%23888888)
   static const IconData onigiri = IconData(
     0xee2c,
     fontFamily: 'PhosphorLight',
@@ -12163,7 +12163,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `openAiLogo` no estilo Light.
   ///
-  /// ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/open-ai-logo.svg)
+  /// ![open-ai-logo](https://api.iconify.design/ph/open-ai-logo-light.svg?height=32&color=%23888888)
   static const IconData openAiLogo = IconData(
     0xe7d2,
     fontFamily: 'PhosphorLight',
@@ -12175,7 +12175,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `option` no estilo Light.
   ///
-  /// ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/option.svg)
+  /// ![option](https://api.iconify.design/ph/option-light.svg?height=32&color=%23888888)
   static const IconData option = IconData(
     0xe8a8,
     fontFamily: 'PhosphorLight',
@@ -12187,7 +12187,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `orange` no estilo Light.
   ///
-  /// ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/orange.svg)
+  /// ![orange](https://api.iconify.design/ph/orange-light.svg?height=32&color=%23888888)
   static const IconData orange = IconData(
     0xee40,
     fontFamily: 'PhosphorLight',
@@ -12199,7 +12199,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `orangeSlice` no estilo Light.
   ///
-  /// ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/orange-slice.svg)
+  /// ![orange-slice](https://api.iconify.design/ph/orange-slice-light.svg?height=32&color=%23888888)
   static const IconData orangeSlice = IconData(
     0xed36,
     fontFamily: 'PhosphorLight',
@@ -12211,7 +12211,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `oven` no estilo Light.
   ///
-  /// ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/oven.svg)
+  /// ![oven](https://api.iconify.design/ph/oven-light.svg?height=32&color=%23888888)
   static const IconData oven = IconData(
     0xed8c,
     fontFamily: 'PhosphorLight',
@@ -12223,7 +12223,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `package` no estilo Light.
   ///
-  /// ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/package.svg)
+  /// ![package](https://api.iconify.design/ph/package-light.svg?height=32&color=%23888888)
   static const IconData package = IconData(
     0xe390,
     fontFamily: 'PhosphorLight',
@@ -12235,7 +12235,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paintBrush` no estilo Light.
   ///
-  /// ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-brush.svg)
+  /// ![paint-brush](https://api.iconify.design/ph/paint-brush-light.svg?height=32&color=%23888888)
   static const IconData paintBrush = IconData(
     0xe6f0,
     fontFamily: 'PhosphorLight',
@@ -12247,7 +12247,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paintBrushBroad` no estilo Light.
   ///
-  /// ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-brush-broad.svg)
+  /// ![paint-brush-broad](https://api.iconify.design/ph/paint-brush-broad-light.svg?height=32&color=%23888888)
   static const IconData paintBrushBroad = IconData(
     0xe590,
     fontFamily: 'PhosphorLight',
@@ -12259,7 +12259,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paintBrushHousehold` no estilo Light.
   ///
-  /// ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-brush-household.svg)
+  /// ![paint-brush-household](https://api.iconify.design/ph/paint-brush-household-light.svg?height=32&color=%23888888)
   static const IconData paintBrushHousehold = IconData(
     0xe6f2,
     fontFamily: 'PhosphorLight',
@@ -12271,7 +12271,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paintBucket` no estilo Light.
   ///
-  /// ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-bucket.svg)
+  /// ![paint-bucket](https://api.iconify.design/ph/paint-bucket-light.svg?height=32&color=%23888888)
   static const IconData paintBucket = IconData(
     0xe392,
     fontFamily: 'PhosphorLight',
@@ -12283,7 +12283,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paintRoller` no estilo Light.
   ///
-  /// ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-roller.svg)
+  /// ![paint-roller](https://api.iconify.design/ph/paint-roller-light.svg?height=32&color=%23888888)
   static const IconData paintRoller = IconData(
     0xe6f4,
     fontFamily: 'PhosphorLight',
@@ -12295,7 +12295,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `palette` no estilo Light.
   ///
-  /// ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/palette.svg)
+  /// ![palette](https://api.iconify.design/ph/palette-light.svg?height=32&color=%23888888)
   static const IconData palette = IconData(
     0xe6c8,
     fontFamily: 'PhosphorLight',
@@ -12307,7 +12307,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `panorama` no estilo Light.
   ///
-  /// ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/panorama.svg)
+  /// ![panorama](https://api.iconify.design/ph/panorama-light.svg?height=32&color=%23888888)
   static const IconData panorama = IconData(
     0xeaa2,
     fontFamily: 'PhosphorLight',
@@ -12319,7 +12319,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pants` no estilo Light.
   ///
-  /// ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pants.svg)
+  /// ![pants](https://api.iconify.design/ph/pants-light.svg?height=32&color=%23888888)
   static const IconData pants = IconData(
     0xec88,
     fontFamily: 'PhosphorLight',
@@ -12331,7 +12331,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paperPlane` no estilo Light.
   ///
-  /// ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paper-plane.svg)
+  /// ![paper-plane](https://api.iconify.design/ph/paper-plane-light.svg?height=32&color=%23888888)
   static const IconData paperPlane = IconData(
     0xe394,
     fontFamily: 'PhosphorLight',
@@ -12343,7 +12343,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paperPlaneRight` no estilo Light.
   ///
-  /// ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paper-plane-right.svg)
+  /// ![paper-plane-right](https://api.iconify.design/ph/paper-plane-right-light.svg?height=32&color=%23888888)
   static const IconData paperPlaneRight = IconData(
     0xe396,
     fontFamily: 'PhosphorLight',
@@ -12355,7 +12355,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paperPlaneTilt` no estilo Light.
   ///
-  /// ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paper-plane-tilt.svg)
+  /// ![paper-plane-tilt](https://api.iconify.design/ph/paper-plane-tilt-light.svg?height=32&color=%23888888)
   static const IconData paperPlaneTilt = IconData(
     0xe398,
     fontFamily: 'PhosphorLight',
@@ -12367,7 +12367,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paperclip` no estilo Light.
   ///
-  /// ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paperclip.svg)
+  /// ![paperclip](https://api.iconify.design/ph/paperclip-light.svg?height=32&color=%23888888)
   static const IconData paperclip = IconData(
     0xe39a,
     fontFamily: 'PhosphorLight',
@@ -12379,7 +12379,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paperclipHorizontal` no estilo Light.
   ///
-  /// ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paperclip-horizontal.svg)
+  /// ![paperclip-horizontal](https://api.iconify.design/ph/paperclip-horizontal-light.svg?height=32&color=%23888888)
   static const IconData paperclipHorizontal = IconData(
     0xe592,
     fontFamily: 'PhosphorLight',
@@ -12391,7 +12391,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `parachute` no estilo Light.
   ///
-  /// ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/parachute.svg)
+  /// ![parachute](https://api.iconify.design/ph/parachute-light.svg?height=32&color=%23888888)
   static const IconData parachute = IconData(
     0xea7c,
     fontFamily: 'PhosphorLight',
@@ -12403,7 +12403,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paragraph` no estilo Light.
   ///
-  /// ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paragraph.svg)
+  /// ![paragraph](https://api.iconify.design/ph/paragraph-light.svg?height=32&color=%23888888)
   static const IconData paragraph = IconData(
     0xe960,
     fontFamily: 'PhosphorLight',
@@ -12415,7 +12415,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `parallelogram` no estilo Light.
   ///
-  /// ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/parallelogram.svg)
+  /// ![parallelogram](https://api.iconify.design/ph/parallelogram-light.svg?height=32&color=%23888888)
   static const IconData parallelogram = IconData(
     0xecc6,
     fontFamily: 'PhosphorLight',
@@ -12427,7 +12427,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `park` no estilo Light.
   ///
-  /// ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/park.svg)
+  /// ![park](https://api.iconify.design/ph/park-light.svg?height=32&color=%23888888)
   static const IconData park = IconData(
     0xecb2,
     fontFamily: 'PhosphorLight',
@@ -12439,7 +12439,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `password` no estilo Light.
   ///
-  /// ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/password.svg)
+  /// ![password](https://api.iconify.design/ph/password-light.svg?height=32&color=%23888888)
   static const IconData password = IconData(
     0xe752,
     fontFamily: 'PhosphorLight',
@@ -12451,7 +12451,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `path` no estilo Light.
   ///
-  /// ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/path.svg)
+  /// ![path](https://api.iconify.design/ph/path-light.svg?height=32&color=%23888888)
   static const IconData path = IconData(
     0xe39c,
     fontFamily: 'PhosphorLight',
@@ -12463,7 +12463,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `patreonLogo` no estilo Light.
   ///
-  /// ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/patreon-logo.svg)
+  /// ![patreon-logo](https://api.iconify.design/ph/patreon-logo-light.svg?height=32&color=%23888888)
   static const IconData patreonLogo = IconData(
     0xe98a,
     fontFamily: 'PhosphorLight',
@@ -12475,7 +12475,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pause` no estilo Light.
   ///
-  /// ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pause.svg)
+  /// ![pause](https://api.iconify.design/ph/pause-light.svg?height=32&color=%23888888)
   static const IconData pause = IconData(
     0xe39e,
     fontFamily: 'PhosphorLight',
@@ -12487,7 +12487,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pauseCircle` no estilo Light.
   ///
-  /// ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pause-circle.svg)
+  /// ![pause-circle](https://api.iconify.design/ph/pause-circle-light.svg?height=32&color=%23888888)
   static const IconData pauseCircle = IconData(
     0xe3a0,
     fontFamily: 'PhosphorLight',
@@ -12499,7 +12499,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pawPrint` no estilo Light.
   ///
-  /// ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paw-print.svg)
+  /// ![paw-print](https://api.iconify.design/ph/paw-print-light.svg?height=32&color=%23888888)
   static const IconData pawPrint = IconData(
     0xe648,
     fontFamily: 'PhosphorLight',
@@ -12511,7 +12511,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `paypalLogo` no estilo Light.
   ///
-  /// ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paypal-logo.svg)
+  /// ![paypal-logo](https://api.iconify.design/ph/paypal-logo-light.svg?height=32&color=%23888888)
   static const IconData paypalLogo = IconData(
     0xe98c,
     fontFamily: 'PhosphorLight',
@@ -12523,7 +12523,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `peace` no estilo Light.
   ///
-  /// ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/peace.svg)
+  /// ![peace](https://api.iconify.design/ph/peace-light.svg?height=32&color=%23888888)
   static const IconData peace = IconData(
     0xe3a2,
     fontFamily: 'PhosphorLight',
@@ -12535,7 +12535,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pen` no estilo Light.
   ///
-  /// ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pen.svg)
+  /// ![pen](https://api.iconify.design/ph/pen-light.svg?height=32&color=%23888888)
   static const IconData pen = IconData(
     0xe3aa,
     fontFamily: 'PhosphorLight',
@@ -12547,7 +12547,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `penNib` no estilo Light.
   ///
-  /// ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pen-nib.svg)
+  /// ![pen-nib](https://api.iconify.design/ph/pen-nib-light.svg?height=32&color=%23888888)
   static const IconData penNib = IconData(
     0xe3ac,
     fontFamily: 'PhosphorLight',
@@ -12559,7 +12559,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `penNibStraight` no estilo Light.
   ///
-  /// ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pen-nib-straight.svg)
+  /// ![pen-nib-straight](https://api.iconify.design/ph/pen-nib-straight-light.svg?height=32&color=%23888888)
   static const IconData penNibStraight = IconData(
     0xe64a,
     fontFamily: 'PhosphorLight',
@@ -12571,7 +12571,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencil` no estilo Light.
   ///
-  /// ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil.svg)
+  /// ![pencil](https://api.iconify.design/ph/pencil-light.svg?height=32&color=%23888888)
   static const IconData pencil = IconData(
     0xe3ae,
     fontFamily: 'PhosphorLight',
@@ -12583,7 +12583,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencilCircle` no estilo Light.
   ///
-  /// ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-circle.svg)
+  /// ![pencil-circle](https://api.iconify.design/ph/pencil-circle-light.svg?height=32&color=%23888888)
   static const IconData pencilCircle = IconData(
     0xe3b0,
     fontFamily: 'PhosphorLight',
@@ -12595,7 +12595,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencilLine` no estilo Light.
   ///
-  /// ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-line.svg)
+  /// ![pencil-line](https://api.iconify.design/ph/pencil-line-light.svg?height=32&color=%23888888)
   static const IconData pencilLine = IconData(
     0xe3b2,
     fontFamily: 'PhosphorLight',
@@ -12607,7 +12607,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencilRuler` no estilo Light.
   ///
-  /// ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-ruler.svg)
+  /// ![pencil-ruler](https://api.iconify.design/ph/pencil-ruler-light.svg?height=32&color=%23888888)
   static const IconData pencilRuler = IconData(
     0xe906,
     fontFamily: 'PhosphorLight',
@@ -12619,7 +12619,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencilSimple` no estilo Light.
   ///
-  /// ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-simple.svg)
+  /// ![pencil-simple](https://api.iconify.design/ph/pencil-simple-light.svg?height=32&color=%23888888)
   static const IconData pencilSimple = IconData(
     0xe3b4,
     fontFamily: 'PhosphorLight',
@@ -12631,7 +12631,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencilSimpleLine` no estilo Light.
   ///
-  /// ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-simple-line.svg)
+  /// ![pencil-simple-line](https://api.iconify.design/ph/pencil-simple-line-light.svg?height=32&color=%23888888)
   static const IconData pencilSimpleLine = IconData(
     0xebc6,
     fontFamily: 'PhosphorLight',
@@ -12643,7 +12643,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencilSimpleSlash` no estilo Light.
   ///
-  /// ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-simple-slash.svg)
+  /// ![pencil-simple-slash](https://api.iconify.design/ph/pencil-simple-slash-light.svg?height=32&color=%23888888)
   static const IconData pencilSimpleSlash = IconData(
     0xecf6,
     fontFamily: 'PhosphorLight',
@@ -12655,7 +12655,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pencilSlash` no estilo Light.
   ///
-  /// ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-slash.svg)
+  /// ![pencil-slash](https://api.iconify.design/ph/pencil-slash-light.svg?height=32&color=%23888888)
   static const IconData pencilSlash = IconData(
     0xecf8,
     fontFamily: 'PhosphorLight',
@@ -12667,7 +12667,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pentagon` no estilo Light.
   ///
-  /// ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pentagon.svg)
+  /// ![pentagon](https://api.iconify.design/ph/pentagon-light.svg?height=32&color=%23888888)
   static const IconData pentagon = IconData(
     0xec7e,
     fontFamily: 'PhosphorLight',
@@ -12679,7 +12679,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pentagram` no estilo Light.
   ///
-  /// ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pentagram.svg)
+  /// ![pentagram](https://api.iconify.design/ph/pentagram-light.svg?height=32&color=%23888888)
   static const IconData pentagram = IconData(
     0xec5c,
     fontFamily: 'PhosphorLight',
@@ -12691,7 +12691,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pepper` no estilo Light.
   ///
-  /// ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pepper.svg)
+  /// ![pepper](https://api.iconify.design/ph/pepper-light.svg?height=32&color=%23888888)
   static const IconData pepper = IconData(
     0xe94a,
     fontFamily: 'PhosphorLight',
@@ -12703,7 +12703,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `percent` no estilo Light.
   ///
-  /// ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/percent.svg)
+  /// ![percent](https://api.iconify.design/ph/percent-light.svg?height=32&color=%23888888)
   static const IconData percent = IconData(
     0xe3b6,
     fontFamily: 'PhosphorLight',
@@ -12715,7 +12715,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `person` no estilo Light.
   ///
-  /// ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person.svg)
+  /// ![person](https://api.iconify.design/ph/person-light.svg?height=32&color=%23888888)
   static const IconData person = IconData(
     0xe3a8,
     fontFamily: 'PhosphorLight',
@@ -12727,7 +12727,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personArmsSpread` no estilo Light.
   ///
-  /// ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-arms-spread.svg)
+  /// ![person-arms-spread](https://api.iconify.design/ph/person-arms-spread-light.svg?height=32&color=%23888888)
   static const IconData personArmsSpread = IconData(
     0xecfe,
     fontFamily: 'PhosphorLight',
@@ -12739,7 +12739,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimple` no estilo Light.
   ///
-  /// ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple.svg)
+  /// ![person-simple](https://api.iconify.design/ph/person-simple-light.svg?height=32&color=%23888888)
   static const IconData personSimple = IconData(
     0xe72e,
     fontFamily: 'PhosphorLight',
@@ -12751,7 +12751,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleBike` no estilo Light.
   ///
-  /// ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-bike.svg)
+  /// ![person-simple-bike](https://api.iconify.design/ph/person-simple-bike-light.svg?height=32&color=%23888888)
   static const IconData personSimpleBike = IconData(
     0xe734,
     fontFamily: 'PhosphorLight',
@@ -12763,7 +12763,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleCircle` no estilo Light.
   ///
-  /// ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-circle.svg)
+  /// ![person-simple-circle](https://api.iconify.design/ph/person-simple-circle-light.svg?height=32&color=%23888888)
   static const IconData personSimpleCircle = IconData(
     0xee58,
     fontFamily: 'PhosphorLight',
@@ -12775,7 +12775,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleHike` no estilo Light.
   ///
-  /// ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-hike.svg)
+  /// ![person-simple-hike](https://api.iconify.design/ph/person-simple-hike-light.svg?height=32&color=%23888888)
   static const IconData personSimpleHike = IconData(
     0xed54,
     fontFamily: 'PhosphorLight',
@@ -12787,7 +12787,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleRun` no estilo Light.
   ///
-  /// ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-run.svg)
+  /// ![person-simple-run](https://api.iconify.design/ph/person-simple-run-light.svg?height=32&color=%23888888)
   static const IconData personSimpleRun = IconData(
     0xe730,
     fontFamily: 'PhosphorLight',
@@ -12799,7 +12799,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleSki` no estilo Light.
   ///
-  /// ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-ski.svg)
+  /// ![person-simple-ski](https://api.iconify.design/ph/person-simple-ski-light.svg?height=32&color=%23888888)
   static const IconData personSimpleSki = IconData(
     0xe71c,
     fontFamily: 'PhosphorLight',
@@ -12811,7 +12811,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleSnowboard` no estilo Light.
   ///
-  /// ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-snowboard.svg)
+  /// ![person-simple-snowboard](https://api.iconify.design/ph/person-simple-snowboard-light.svg?height=32&color=%23888888)
   static const IconData personSimpleSnowboard = IconData(
     0xe71e,
     fontFamily: 'PhosphorLight',
@@ -12823,7 +12823,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleSwim` no estilo Light.
   ///
-  /// ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-swim.svg)
+  /// ![person-simple-swim](https://api.iconify.design/ph/person-simple-swim-light.svg?height=32&color=%23888888)
   static const IconData personSimpleSwim = IconData(
     0xe736,
     fontFamily: 'PhosphorLight',
@@ -12835,7 +12835,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleTaiChi` no estilo Light.
   ///
-  /// ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-tai-chi.svg)
+  /// ![person-simple-tai-chi](https://api.iconify.design/ph/person-simple-tai-chi-light.svg?height=32&color=%23888888)
   static const IconData personSimpleTaiChi = IconData(
     0xed5c,
     fontFamily: 'PhosphorLight',
@@ -12847,7 +12847,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleThrow` no estilo Light.
   ///
-  /// ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-throw.svg)
+  /// ![person-simple-throw](https://api.iconify.design/ph/person-simple-throw-light.svg?height=32&color=%23888888)
   static const IconData personSimpleThrow = IconData(
     0xe732,
     fontFamily: 'PhosphorLight',
@@ -12859,7 +12859,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `personSimpleWalk` no estilo Light.
   ///
-  /// ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-walk.svg)
+  /// ![person-simple-walk](https://api.iconify.design/ph/person-simple-walk-light.svg?height=32&color=%23888888)
   static const IconData personSimpleWalk = IconData(
     0xe73a,
     fontFamily: 'PhosphorLight',
@@ -12871,7 +12871,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `perspective` no estilo Light.
   ///
-  /// ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/perspective.svg)
+  /// ![perspective](https://api.iconify.design/ph/perspective-light.svg?height=32&color=%23888888)
   static const IconData perspective = IconData(
     0xebe6,
     fontFamily: 'PhosphorLight',
@@ -12883,7 +12883,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phone` no estilo Light.
   ///
-  /// ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone.svg)
+  /// ![phone](https://api.iconify.design/ph/phone-light.svg?height=32&color=%23888888)
   static const IconData phone = IconData(
     0xe3b8,
     fontFamily: 'PhosphorLight',
@@ -12895,7 +12895,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneCall` no estilo Light.
   ///
-  /// ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-call.svg)
+  /// ![phone-call](https://api.iconify.design/ph/phone-call-light.svg?height=32&color=%23888888)
   static const IconData phoneCall = IconData(
     0xe3ba,
     fontFamily: 'PhosphorLight',
@@ -12907,7 +12907,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneDisconnect` no estilo Light.
   ///
-  /// ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-disconnect.svg)
+  /// ![phone-disconnect](https://api.iconify.design/ph/phone-disconnect-light.svg?height=32&color=%23888888)
   static const IconData phoneDisconnect = IconData(
     0xe3bc,
     fontFamily: 'PhosphorLight',
@@ -12919,7 +12919,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneIncoming` no estilo Light.
   ///
-  /// ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-incoming.svg)
+  /// ![phone-incoming](https://api.iconify.design/ph/phone-incoming-light.svg?height=32&color=%23888888)
   static const IconData phoneIncoming = IconData(
     0xe3be,
     fontFamily: 'PhosphorLight',
@@ -12931,7 +12931,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneList` no estilo Light.
   ///
-  /// ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-list.svg)
+  /// ![phone-list](https://api.iconify.design/ph/phone-list-light.svg?height=32&color=%23888888)
   static const IconData phoneList = IconData(
     0xe3cc,
     fontFamily: 'PhosphorLight',
@@ -12943,7 +12943,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneOutgoing` no estilo Light.
   ///
-  /// ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-outgoing.svg)
+  /// ![phone-outgoing](https://api.iconify.design/ph/phone-outgoing-light.svg?height=32&color=%23888888)
   static const IconData phoneOutgoing = IconData(
     0xe3c0,
     fontFamily: 'PhosphorLight',
@@ -12955,7 +12955,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phonePause` no estilo Light.
   ///
-  /// ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-pause.svg)
+  /// ![phone-pause](https://api.iconify.design/ph/phone-pause-light.svg?height=32&color=%23888888)
   static const IconData phonePause = IconData(
     0xe3ca,
     fontFamily: 'PhosphorLight',
@@ -12967,7 +12967,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phonePlus` no estilo Light.
   ///
-  /// ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-plus.svg)
+  /// ![phone-plus](https://api.iconify.design/ph/phone-plus-light.svg?height=32&color=%23888888)
   static const IconData phonePlus = IconData(
     0xec56,
     fontFamily: 'PhosphorLight',
@@ -12979,7 +12979,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneSlash` no estilo Light.
   ///
-  /// ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-slash.svg)
+  /// ![phone-slash](https://api.iconify.design/ph/phone-slash-light.svg?height=32&color=%23888888)
   static const IconData phoneSlash = IconData(
     0xe3c2,
     fontFamily: 'PhosphorLight',
@@ -12991,7 +12991,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneTransfer` no estilo Light.
   ///
-  /// ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-transfer.svg)
+  /// ![phone-transfer](https://api.iconify.design/ph/phone-transfer-light.svg?height=32&color=%23888888)
   static const IconData phoneTransfer = IconData(
     0xe3c6,
     fontFamily: 'PhosphorLight',
@@ -13003,7 +13003,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phoneX` no estilo Light.
   ///
-  /// ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-x.svg)
+  /// ![phone-x](https://api.iconify.design/ph/phone-x-light.svg?height=32&color=%23888888)
   static const IconData phoneX = IconData(
     0xe3c4,
     fontFamily: 'PhosphorLight',
@@ -13015,7 +13015,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `phosphorLogo` no estilo Light.
   ///
-  /// ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phosphor-logo.svg)
+  /// ![phosphor-logo](https://api.iconify.design/ph/phosphor-logo-light.svg?height=32&color=%23888888)
   static const IconData phosphorLogo = IconData(
     0xe3ce,
     fontFamily: 'PhosphorLight',
@@ -13027,7 +13027,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pi` no estilo Light.
   ///
-  /// ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pi.svg)
+  /// ![pi](https://api.iconify.design/ph/pi-light.svg?height=32&color=%23888888)
   static const IconData pi = IconData(
     0xec80,
     fontFamily: 'PhosphorLight',
@@ -13039,7 +13039,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pianoKeys` no estilo Light.
   ///
-  /// ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/piano-keys.svg)
+  /// ![piano-keys](https://api.iconify.design/ph/piano-keys-light.svg?height=32&color=%23888888)
   static const IconData pianoKeys = IconData(
     0xe9c8,
     fontFamily: 'PhosphorLight',
@@ -13051,7 +13051,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `picnicTable` no estilo Light.
   ///
-  /// ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/picnic-table.svg)
+  /// ![picnic-table](https://api.iconify.design/ph/picnic-table-light.svg?height=32&color=%23888888)
   static const IconData picnicTable = IconData(
     0xee26,
     fontFamily: 'PhosphorLight',
@@ -13063,7 +13063,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pictureInPicture` no estilo Light.
   ///
-  /// ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/picture-in-picture.svg)
+  /// ![picture-in-picture](https://api.iconify.design/ph/picture-in-picture-light.svg?height=32&color=%23888888)
   static const IconData pictureInPicture = IconData(
     0xe64c,
     fontFamily: 'PhosphorLight',
@@ -13075,7 +13075,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `piggyBank` no estilo Light.
   ///
-  /// ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/piggy-bank.svg)
+  /// ![piggy-bank](https://api.iconify.design/ph/piggy-bank-light.svg?height=32&color=%23888888)
   static const IconData piggyBank = IconData(
     0xea04,
     fontFamily: 'PhosphorLight',
@@ -13087,7 +13087,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pill` no estilo Light.
   ///
-  /// ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pill.svg)
+  /// ![pill](https://api.iconify.design/ph/pill-light.svg?height=32&color=%23888888)
   static const IconData pill = IconData(
     0xe700,
     fontFamily: 'PhosphorLight',
@@ -13099,7 +13099,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pingPong` no estilo Light.
   ///
-  /// ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ping-pong.svg)
+  /// ![ping-pong](https://api.iconify.design/ph/ping-pong-light.svg?height=32&color=%23888888)
   static const IconData pingPong = IconData(
     0xea42,
     fontFamily: 'PhosphorLight',
@@ -13111,7 +13111,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pintGlass` no estilo Light.
   ///
-  /// ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pint-glass.svg)
+  /// ![pint-glass](https://api.iconify.design/ph/pint-glass-light.svg?height=32&color=%23888888)
   static const IconData pintGlass = IconData(
     0xedd0,
     fontFamily: 'PhosphorLight',
@@ -13123,7 +13123,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pinterestLogo` no estilo Light.
   ///
-  /// ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pinterest-logo.svg)
+  /// ![pinterest-logo](https://api.iconify.design/ph/pinterest-logo-light.svg?height=32&color=%23888888)
   static const IconData pinterestLogo = IconData(
     0xe64e,
     fontFamily: 'PhosphorLight',
@@ -13135,7 +13135,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pinwheel` no estilo Light.
   ///
-  /// ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pinwheel.svg)
+  /// ![pinwheel](https://api.iconify.design/ph/pinwheel-light.svg?height=32&color=%23888888)
   static const IconData pinwheel = IconData(
     0xeb9c,
     fontFamily: 'PhosphorLight',
@@ -13147,7 +13147,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pipe` no estilo Light.
   ///
-  /// ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pipe.svg)
+  /// ![pipe](https://api.iconify.design/ph/pipe-light.svg?height=32&color=%23888888)
   static const IconData pipe = IconData(
     0xed86,
     fontFamily: 'PhosphorLight',
@@ -13159,7 +13159,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pipeWrench` no estilo Light.
   ///
-  /// ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pipe-wrench.svg)
+  /// ![pipe-wrench](https://api.iconify.design/ph/pipe-wrench-light.svg?height=32&color=%23888888)
   static const IconData pipeWrench = IconData(
     0xed88,
     fontFamily: 'PhosphorLight',
@@ -13171,7 +13171,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pixLogo` no estilo Light.
   ///
-  /// ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pix-logo.svg)
+  /// ![pix-logo](https://api.iconify.design/ph/pix-logo-light.svg?height=32&color=%23888888)
   static const IconData pixLogo = IconData(
     0xecc2,
     fontFamily: 'PhosphorLight',
@@ -13183,7 +13183,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pizza` no estilo Light.
   ///
-  /// ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pizza.svg)
+  /// ![pizza](https://api.iconify.design/ph/pizza-light.svg?height=32&color=%23888888)
   static const IconData pizza = IconData(
     0xe796,
     fontFamily: 'PhosphorLight',
@@ -13195,7 +13195,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `placeholder` no estilo Light.
   ///
-  /// ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/placeholder.svg)
+  /// ![placeholder](https://api.iconify.design/ph/placeholder-light.svg?height=32&color=%23888888)
   static const IconData placeholder = IconData(
     0xe650,
     fontFamily: 'PhosphorLight',
@@ -13207,7 +13207,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `planet` no estilo Light.
   ///
-  /// ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/planet.svg)
+  /// ![planet](https://api.iconify.design/ph/planet-light.svg?height=32&color=%23888888)
   static const IconData planet = IconData(
     0xe652,
     fontFamily: 'PhosphorLight',
@@ -13219,7 +13219,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plant` no estilo Light.
   ///
-  /// ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plant.svg)
+  /// ![plant](https://api.iconify.design/ph/plant-light.svg?height=32&color=%23888888)
   static const IconData plant = IconData(
     0xebae,
     fontFamily: 'PhosphorLight',
@@ -13231,7 +13231,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `play` no estilo Light.
   ///
-  /// ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/play.svg)
+  /// ![play](https://api.iconify.design/ph/play-light.svg?height=32&color=%23888888)
   static const IconData play = IconData(
     0xe3d0,
     fontFamily: 'PhosphorLight',
@@ -13243,7 +13243,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `playCircle` no estilo Light.
   ///
-  /// ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/play-circle.svg)
+  /// ![play-circle](https://api.iconify.design/ph/play-circle-light.svg?height=32&color=%23888888)
   static const IconData playCircle = IconData(
     0xe3d2,
     fontFamily: 'PhosphorLight',
@@ -13255,7 +13255,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `playPause` no estilo Light.
   ///
-  /// ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/play-pause.svg)
+  /// ![play-pause](https://api.iconify.design/ph/play-pause-light.svg?height=32&color=%23888888)
   static const IconData playPause = IconData(
     0xe8be,
     fontFamily: 'PhosphorLight',
@@ -13267,7 +13267,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `playlist` no estilo Light.
   ///
-  /// ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/playlist.svg)
+  /// ![playlist](https://api.iconify.design/ph/playlist-light.svg?height=32&color=%23888888)
   static const IconData playlist = IconData(
     0xe6aa,
     fontFamily: 'PhosphorLight',
@@ -13279,7 +13279,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plug` no estilo Light.
   ///
-  /// ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plug.svg)
+  /// ![plug](https://api.iconify.design/ph/plug-light.svg?height=32&color=%23888888)
   static const IconData plug = IconData(
     0xe946,
     fontFamily: 'PhosphorLight',
@@ -13291,7 +13291,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plugCharging` no estilo Light.
   ///
-  /// ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plug-charging.svg)
+  /// ![plug-charging](https://api.iconify.design/ph/plug-charging-light.svg?height=32&color=%23888888)
   static const IconData plugCharging = IconData(
     0xeb5c,
     fontFamily: 'PhosphorLight',
@@ -13303,7 +13303,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plugs` no estilo Light.
   ///
-  /// ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plugs.svg)
+  /// ![plugs](https://api.iconify.design/ph/plugs-light.svg?height=32&color=%23888888)
   static const IconData plugs = IconData(
     0xeb56,
     fontFamily: 'PhosphorLight',
@@ -13315,7 +13315,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plugsConnected` no estilo Light.
   ///
-  /// ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plugs-connected.svg)
+  /// ![plugs-connected](https://api.iconify.design/ph/plugs-connected-light.svg?height=32&color=%23888888)
   static const IconData plugsConnected = IconData(
     0xeb5a,
     fontFamily: 'PhosphorLight',
@@ -13327,7 +13327,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plus` no estilo Light.
   ///
-  /// ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus.svg)
+  /// ![plus](https://api.iconify.design/ph/plus-light.svg?height=32&color=%23888888)
   static const IconData plus = IconData(
     0xe3d4,
     fontFamily: 'PhosphorLight',
@@ -13339,7 +13339,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plusCircle` no estilo Light.
   ///
-  /// ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus-circle.svg)
+  /// ![plus-circle](https://api.iconify.design/ph/plus-circle-light.svg?height=32&color=%23888888)
   static const IconData plusCircle = IconData(
     0xe3d6,
     fontFamily: 'PhosphorLight',
@@ -13351,7 +13351,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plusMinus` no estilo Light.
   ///
-  /// ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus-minus.svg)
+  /// ![plus-minus](https://api.iconify.design/ph/plus-minus-light.svg?height=32&color=%23888888)
   static const IconData plusMinus = IconData(
     0xe3d8,
     fontFamily: 'PhosphorLight',
@@ -13363,7 +13363,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `plusSquare` no estilo Light.
   ///
-  /// ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus-square.svg)
+  /// ![plus-square](https://api.iconify.design/ph/plus-square-light.svg?height=32&color=%23888888)
   static const IconData plusSquare = IconData(
     0xed4a,
     fontFamily: 'PhosphorLight',
@@ -13375,7 +13375,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pokerChip` no estilo Light.
   ///
-  /// ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/poker-chip.svg)
+  /// ![poker-chip](https://api.iconify.design/ph/poker-chip-light.svg?height=32&color=%23888888)
   static const IconData pokerChip = IconData(
     0xe594,
     fontFamily: 'PhosphorLight',
@@ -13387,7 +13387,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `policeCar` no estilo Light.
   ///
-  /// ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/police-car.svg)
+  /// ![police-car](https://api.iconify.design/ph/police-car-light.svg?height=32&color=%23888888)
   static const IconData policeCar = IconData(
     0xec4a,
     fontFamily: 'PhosphorLight',
@@ -13399,7 +13399,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `polygon` no estilo Light.
   ///
-  /// ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/polygon.svg)
+  /// ![polygon](https://api.iconify.design/ph/polygon-light.svg?height=32&color=%23888888)
   static const IconData polygon = IconData(
     0xe6d0,
     fontFamily: 'PhosphorLight',
@@ -13411,7 +13411,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `popcorn` no estilo Light.
   ///
-  /// ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/popcorn.svg)
+  /// ![popcorn](https://api.iconify.design/ph/popcorn-light.svg?height=32&color=%23888888)
   static const IconData popcorn = IconData(
     0xeb4e,
     fontFamily: 'PhosphorLight',
@@ -13423,7 +13423,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `popsicle` no estilo Light.
   ///
-  /// ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/popsicle.svg)
+  /// ![popsicle](https://api.iconify.design/ph/popsicle-light.svg?height=32&color=%23888888)
   static const IconData popsicle = IconData(
     0xebbe,
     fontFamily: 'PhosphorLight',
@@ -13435,7 +13435,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pottedPlant` no estilo Light.
   ///
-  /// ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/potted-plant.svg)
+  /// ![potted-plant](https://api.iconify.design/ph/potted-plant-light.svg?height=32&color=%23888888)
   static const IconData pottedPlant = IconData(
     0xec22,
     fontFamily: 'PhosphorLight',
@@ -13447,7 +13447,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `power` no estilo Light.
   ///
-  /// ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/power.svg)
+  /// ![power](https://api.iconify.design/ph/power-light.svg?height=32&color=%23888888)
   static const IconData power = IconData(
     0xe3da,
     fontFamily: 'PhosphorLight',
@@ -13459,7 +13459,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `prescription` no estilo Light.
   ///
-  /// ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/prescription.svg)
+  /// ![prescription](https://api.iconify.design/ph/prescription-light.svg?height=32&color=%23888888)
   static const IconData prescription = IconData(
     0xe7a2,
     fontFamily: 'PhosphorLight',
@@ -13471,7 +13471,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `presentation` no estilo Light.
   ///
-  /// ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/presentation.svg)
+  /// ![presentation](https://api.iconify.design/ph/presentation-light.svg?height=32&color=%23888888)
   static const IconData presentation = IconData(
     0xe654,
     fontFamily: 'PhosphorLight',
@@ -13483,7 +13483,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `presentationChart` no estilo Light.
   ///
-  /// ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/presentation-chart.svg)
+  /// ![presentation-chart](https://api.iconify.design/ph/presentation-chart-light.svg?height=32&color=%23888888)
   static const IconData presentationChart = IconData(
     0xe656,
     fontFamily: 'PhosphorLight',
@@ -13495,7 +13495,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `printer` no estilo Light.
   ///
-  /// ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/printer.svg)
+  /// ![printer](https://api.iconify.design/ph/printer-light.svg?height=32&color=%23888888)
   static const IconData printer = IconData(
     0xe3dc,
     fontFamily: 'PhosphorLight',
@@ -13507,7 +13507,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `prohibit` no estilo Light.
   ///
-  /// ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/prohibit.svg)
+  /// ![prohibit](https://api.iconify.design/ph/prohibit-light.svg?height=32&color=%23888888)
   static const IconData prohibit = IconData(
     0xe3de,
     fontFamily: 'PhosphorLight',
@@ -13519,7 +13519,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `prohibitInset` no estilo Light.
   ///
-  /// ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/prohibit-inset.svg)
+  /// ![prohibit-inset](https://api.iconify.design/ph/prohibit-inset-light.svg?height=32&color=%23888888)
   static const IconData prohibitInset = IconData(
     0xe3e0,
     fontFamily: 'PhosphorLight',
@@ -13531,7 +13531,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `projectorScreen` no estilo Light.
   ///
-  /// ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/projector-screen.svg)
+  /// ![projector-screen](https://api.iconify.design/ph/projector-screen-light.svg?height=32&color=%23888888)
   static const IconData projectorScreen = IconData(
     0xe658,
     fontFamily: 'PhosphorLight',
@@ -13543,7 +13543,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `projectorScreenChart` no estilo Light.
   ///
-  /// ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/projector-screen-chart.svg)
+  /// ![projector-screen-chart](https://api.iconify.design/ph/projector-screen-chart-light.svg?height=32&color=%23888888)
   static const IconData projectorScreenChart = IconData(
     0xe65a,
     fontFamily: 'PhosphorLight',
@@ -13555,7 +13555,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pulse` no estilo Light.
   ///
-  /// ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pulse.svg)
+  /// ![pulse](https://api.iconify.design/ph/pulse-light.svg?height=32&color=%23888888)
   static const IconData pulse = IconData(
     0xe000,
     fontFamily: 'PhosphorLight',
@@ -13567,7 +13567,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pushPin` no estilo Light.
   ///
-  /// ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin.svg)
+  /// ![push-pin](https://api.iconify.design/ph/push-pin-light.svg?height=32&color=%23888888)
   static const IconData pushPin = IconData(
     0xe3e2,
     fontFamily: 'PhosphorLight',
@@ -13579,7 +13579,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pushPinSimple` no estilo Light.
   ///
-  /// ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin-simple.svg)
+  /// ![push-pin-simple](https://api.iconify.design/ph/push-pin-simple-light.svg?height=32&color=%23888888)
   static const IconData pushPinSimple = IconData(
     0xe65c,
     fontFamily: 'PhosphorLight',
@@ -13591,7 +13591,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pushPinSimpleSlash` no estilo Light.
   ///
-  /// ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin-simple-slash.svg)
+  /// ![push-pin-simple-slash](https://api.iconify.design/ph/push-pin-simple-slash-light.svg?height=32&color=%23888888)
   static const IconData pushPinSimpleSlash = IconData(
     0xe65e,
     fontFamily: 'PhosphorLight',
@@ -13603,7 +13603,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `pushPinSlash` no estilo Light.
   ///
-  /// ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin-slash.svg)
+  /// ![push-pin-slash](https://api.iconify.design/ph/push-pin-slash-light.svg?height=32&color=%23888888)
   static const IconData pushPinSlash = IconData(
     0xe3e4,
     fontFamily: 'PhosphorLight',
@@ -13615,7 +13615,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `puzzlePiece` no estilo Light.
   ///
-  /// ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/puzzle-piece.svg)
+  /// ![puzzle-piece](https://api.iconify.design/ph/puzzle-piece-light.svg?height=32&color=%23888888)
   static const IconData puzzlePiece = IconData(
     0xe596,
     fontFamily: 'PhosphorLight',
@@ -13627,7 +13627,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `qrCode` no estilo Light.
   ///
-  /// ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/qr-code.svg)
+  /// ![qr-code](https://api.iconify.design/ph/qr-code-light.svg?height=32&color=%23888888)
   static const IconData qrCode = IconData(
     0xe3e6,
     fontFamily: 'PhosphorLight',
@@ -13639,7 +13639,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `question` no estilo Light.
   ///
-  /// ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/question.svg)
+  /// ![question](https://api.iconify.design/ph/question-light.svg?height=32&color=%23888888)
   static const IconData question = IconData(
     0xe3e8,
     fontFamily: 'PhosphorLight',
@@ -13651,7 +13651,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `questionMark` no estilo Light.
   ///
-  /// ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/question-mark.svg)
+  /// ![question-mark](https://api.iconify.design/ph/question-mark-light.svg?height=32&color=%23888888)
   static const IconData questionMark = IconData(
     0xe3e9,
     fontFamily: 'PhosphorLight',
@@ -13663,7 +13663,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `queue` no estilo Light.
   ///
-  /// ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/queue.svg)
+  /// ![queue](https://api.iconify.design/ph/queue-light.svg?height=32&color=%23888888)
   static const IconData queue = IconData(
     0xe6ac,
     fontFamily: 'PhosphorLight',
@@ -13675,7 +13675,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `quotes` no estilo Light.
   ///
-  /// ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/quotes.svg)
+  /// ![quotes](https://api.iconify.design/ph/quotes-light.svg?height=32&color=%23888888)
   static const IconData quotes = IconData(
     0xe660,
     fontFamily: 'PhosphorLight',
@@ -13687,7 +13687,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rabbit` no estilo Light.
   ///
-  /// ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rabbit.svg)
+  /// ![rabbit](https://api.iconify.design/ph/rabbit-light.svg?height=32&color=%23888888)
   static const IconData rabbit = IconData(
     0xeac2,
     fontFamily: 'PhosphorLight',
@@ -13699,7 +13699,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `racquet` no estilo Light.
   ///
-  /// ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/racquet.svg)
+  /// ![racquet](https://api.iconify.design/ph/racquet-light.svg?height=32&color=%23888888)
   static const IconData racquet = IconData(
     0xee02,
     fontFamily: 'PhosphorLight',
@@ -13711,7 +13711,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `radical` no estilo Light.
   ///
-  /// ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radical.svg)
+  /// ![radical](https://api.iconify.design/ph/radical-light.svg?height=32&color=%23888888)
   static const IconData radical = IconData(
     0xe3ea,
     fontFamily: 'PhosphorLight',
@@ -13723,7 +13723,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `radio` no estilo Light.
   ///
-  /// ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radio.svg)
+  /// ![radio](https://api.iconify.design/ph/radio-light.svg?height=32&color=%23888888)
   static const IconData radio = IconData(
     0xe77e,
     fontFamily: 'PhosphorLight',
@@ -13735,7 +13735,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `radioButton` no estilo Light.
   ///
-  /// ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radio-button.svg)
+  /// ![radio-button](https://api.iconify.design/ph/radio-button-light.svg?height=32&color=%23888888)
   static const IconData radioButton = IconData(
     0xeb08,
     fontFamily: 'PhosphorLight',
@@ -13747,7 +13747,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `radioactive` no estilo Light.
   ///
-  /// ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radioactive.svg)
+  /// ![radioactive](https://api.iconify.design/ph/radioactive-light.svg?height=32&color=%23888888)
   static const IconData radioactive = IconData(
     0xe9dc,
     fontFamily: 'PhosphorLight',
@@ -13759,7 +13759,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rainbow` no estilo Light.
   ///
-  /// ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rainbow.svg)
+  /// ![rainbow](https://api.iconify.design/ph/rainbow-light.svg?height=32&color=%23888888)
   static const IconData rainbow = IconData(
     0xe598,
     fontFamily: 'PhosphorLight',
@@ -13771,7 +13771,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rainbowCloud` no estilo Light.
   ///
-  /// ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rainbow-cloud.svg)
+  /// ![rainbow-cloud](https://api.iconify.design/ph/rainbow-cloud-light.svg?height=32&color=%23888888)
   static const IconData rainbowCloud = IconData(
     0xe59a,
     fontFamily: 'PhosphorLight',
@@ -13783,7 +13783,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ranking` no estilo Light.
   ///
-  /// ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ranking.svg)
+  /// ![ranking](https://api.iconify.design/ph/ranking-light.svg?height=32&color=%23888888)
   static const IconData ranking = IconData(
     0xed62,
     fontFamily: 'PhosphorLight',
@@ -13795,7 +13795,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `readCvLogo` no estilo Light.
   ///
-  /// ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/read-cv-logo.svg)
+  /// ![read-cv-logo](https://api.iconify.design/ph/read-cv-logo-light.svg?height=32&color=%23888888)
   static const IconData readCvLogo = IconData(
     0xed0c,
     fontFamily: 'PhosphorLight',
@@ -13807,7 +13807,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `receipt` no estilo Light.
   ///
-  /// ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/receipt.svg)
+  /// ![receipt](https://api.iconify.design/ph/receipt-light.svg?height=32&color=%23888888)
   static const IconData receipt = IconData(
     0xe3ec,
     fontFamily: 'PhosphorLight',
@@ -13819,7 +13819,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `receiptX` no estilo Light.
   ///
-  /// ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/receipt-x.svg)
+  /// ![receipt-x](https://api.iconify.design/ph/receipt-x-light.svg?height=32&color=%23888888)
   static const IconData receiptX = IconData(
     0xed40,
     fontFamily: 'PhosphorLight',
@@ -13831,7 +13831,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `record` no estilo Light.
   ///
-  /// ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/record.svg)
+  /// ![record](https://api.iconify.design/ph/record-light.svg?height=32&color=%23888888)
   static const IconData record = IconData(
     0xe3ee,
     fontFamily: 'PhosphorLight',
@@ -13843,7 +13843,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rectangle` no estilo Light.
   ///
-  /// ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rectangle.svg)
+  /// ![rectangle](https://api.iconify.design/ph/rectangle-light.svg?height=32&color=%23888888)
   static const IconData rectangle = IconData(
     0xe3f0,
     fontFamily: 'PhosphorLight',
@@ -13855,7 +13855,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rectangleDashed` no estilo Light.
   ///
-  /// ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rectangle-dashed.svg)
+  /// ![rectangle-dashed](https://api.iconify.design/ph/rectangle-dashed-light.svg?height=32&color=%23888888)
   static const IconData rectangleDashed = IconData(
     0xe3f2,
     fontFamily: 'PhosphorLight',
@@ -13867,7 +13867,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `recycle` no estilo Light.
   ///
-  /// ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/recycle.svg)
+  /// ![recycle](https://api.iconify.design/ph/recycle-light.svg?height=32&color=%23888888)
   static const IconData recycle = IconData(
     0xe75a,
     fontFamily: 'PhosphorLight',
@@ -13879,7 +13879,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `redditLogo` no estilo Light.
   ///
-  /// ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/reddit-logo.svg)
+  /// ![reddit-logo](https://api.iconify.design/ph/reddit-logo-light.svg?height=32&color=%23888888)
   static const IconData redditLogo = IconData(
     0xe59c,
     fontFamily: 'PhosphorLight',
@@ -13891,7 +13891,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `repeat` no estilo Light.
   ///
-  /// ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/repeat.svg)
+  /// ![repeat](https://api.iconify.design/ph/repeat-light.svg?height=32&color=%23888888)
   static const IconData repeat = IconData(
     0xe3f6,
     fontFamily: 'PhosphorLight',
@@ -13903,7 +13903,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `repeatOnce` no estilo Light.
   ///
-  /// ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/repeat-once.svg)
+  /// ![repeat-once](https://api.iconify.design/ph/repeat-once-light.svg?height=32&color=%23888888)
   static const IconData repeatOnce = IconData(
     0xe3f8,
     fontFamily: 'PhosphorLight',
@@ -13915,7 +13915,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `replitLogo` no estilo Light.
   ///
-  /// ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/replit-logo.svg)
+  /// ![replit-logo](https://api.iconify.design/ph/replit-logo-light.svg?height=32&color=%23888888)
   static const IconData replitLogo = IconData(
     0xeb8a,
     fontFamily: 'PhosphorLight',
@@ -13927,7 +13927,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `resize` no estilo Light.
   ///
-  /// ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/resize.svg)
+  /// ![resize](https://api.iconify.design/ph/resize-light.svg?height=32&color=%23888888)
   static const IconData resize = IconData(
     0xed6e,
     fontFamily: 'PhosphorLight',
@@ -13939,7 +13939,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rewind` no estilo Light.
   ///
-  /// ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rewind.svg)
+  /// ![rewind](https://api.iconify.design/ph/rewind-light.svg?height=32&color=%23888888)
   static const IconData rewind = IconData(
     0xe6a8,
     fontFamily: 'PhosphorLight',
@@ -13951,7 +13951,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rewindCircle` no estilo Light.
   ///
-  /// ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rewind-circle.svg)
+  /// ![rewind-circle](https://api.iconify.design/ph/rewind-circle-light.svg?height=32&color=%23888888)
   static const IconData rewindCircle = IconData(
     0xe3fa,
     fontFamily: 'PhosphorLight',
@@ -13963,7 +13963,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `roadHorizon` no estilo Light.
   ///
-  /// ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/road-horizon.svg)
+  /// ![road-horizon](https://api.iconify.design/ph/road-horizon-light.svg?height=32&color=%23888888)
   static const IconData roadHorizon = IconData(
     0xe838,
     fontFamily: 'PhosphorLight',
@@ -13975,7 +13975,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `robot` no estilo Light.
   ///
-  /// ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/robot.svg)
+  /// ![robot](https://api.iconify.design/ph/robot-light.svg?height=32&color=%23888888)
   static const IconData robot = IconData(
     0xe762,
     fontFamily: 'PhosphorLight',
@@ -13987,7 +13987,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rocket` no estilo Light.
   ///
-  /// ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rocket.svg)
+  /// ![rocket](https://api.iconify.design/ph/rocket-light.svg?height=32&color=%23888888)
   static const IconData rocket = IconData(
     0xe3fc,
     fontFamily: 'PhosphorLight',
@@ -13999,7 +13999,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rocketLaunch` no estilo Light.
   ///
-  /// ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rocket-launch.svg)
+  /// ![rocket-launch](https://api.iconify.design/ph/rocket-launch-light.svg?height=32&color=%23888888)
   static const IconData rocketLaunch = IconData(
     0xe3fe,
     fontFamily: 'PhosphorLight',
@@ -14011,7 +14011,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rows` no estilo Light.
   ///
-  /// ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rows.svg)
+  /// ![rows](https://api.iconify.design/ph/rows-light.svg?height=32&color=%23888888)
   static const IconData rows = IconData(
     0xe5a2,
     fontFamily: 'PhosphorLight',
@@ -14023,7 +14023,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rowsPlusBottom` no estilo Light.
   ///
-  /// ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rows-plus-bottom.svg)
+  /// ![rows-plus-bottom](https://api.iconify.design/ph/rows-plus-bottom-light.svg?height=32&color=%23888888)
   static const IconData rowsPlusBottom = IconData(
     0xe59e,
     fontFamily: 'PhosphorLight',
@@ -14035,7 +14035,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rowsPlusTop` no estilo Light.
   ///
-  /// ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rows-plus-top.svg)
+  /// ![rows-plus-top](https://api.iconify.design/ph/rows-plus-top-light.svg?height=32&color=%23888888)
   static const IconData rowsPlusTop = IconData(
     0xe5a0,
     fontFamily: 'PhosphorLight',
@@ -14047,7 +14047,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rss` no estilo Light.
   ///
-  /// ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rss.svg)
+  /// ![rss](https://api.iconify.design/ph/rss-light.svg?height=32&color=%23888888)
   static const IconData rss = IconData(
     0xe400,
     fontFamily: 'PhosphorLight',
@@ -14059,7 +14059,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rssSimple` no estilo Light.
   ///
-  /// ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rss-simple.svg)
+  /// ![rss-simple](https://api.iconify.design/ph/rss-simple-light.svg?height=32&color=%23888888)
   static const IconData rssSimple = IconData(
     0xe402,
     fontFamily: 'PhosphorLight',
@@ -14071,7 +14071,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `rug` no estilo Light.
   ///
-  /// ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rug.svg)
+  /// ![rug](https://api.iconify.design/ph/rug-light.svg?height=32&color=%23888888)
   static const IconData rug = IconData(
     0xea1a,
     fontFamily: 'PhosphorLight',
@@ -14083,7 +14083,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ruler` no estilo Light.
   ///
-  /// ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ruler.svg)
+  /// ![ruler](https://api.iconify.design/ph/ruler-light.svg?height=32&color=%23888888)
   static const IconData ruler = IconData(
     0xe6b8,
     fontFamily: 'PhosphorLight',
@@ -14095,7 +14095,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sailboat` no estilo Light.
   ///
-  /// ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sailboat.svg)
+  /// ![sailboat](https://api.iconify.design/ph/sailboat-light.svg?height=32&color=%23888888)
   static const IconData sailboat = IconData(
     0xe78a,
     fontFamily: 'PhosphorLight',
@@ -14107,7 +14107,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scales` no estilo Light.
   ///
-  /// ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scales.svg)
+  /// ![scales](https://api.iconify.design/ph/scales-light.svg?height=32&color=%23888888)
   static const IconData scales = IconData(
     0xe750,
     fontFamily: 'PhosphorLight',
@@ -14119,7 +14119,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scan` no estilo Light.
   ///
-  /// ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scan.svg)
+  /// ![scan](https://api.iconify.design/ph/scan-light.svg?height=32&color=%23888888)
   static const IconData scan = IconData(
     0xebb6,
     fontFamily: 'PhosphorLight',
@@ -14131,7 +14131,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scanSmiley` no estilo Light.
   ///
-  /// ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scan-smiley.svg)
+  /// ![scan-smiley](https://api.iconify.design/ph/scan-smiley-light.svg?height=32&color=%23888888)
   static const IconData scanSmiley = IconData(
     0xebb4,
     fontFamily: 'PhosphorLight',
@@ -14143,7 +14143,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scissors` no estilo Light.
   ///
-  /// ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scissors.svg)
+  /// ![scissors](https://api.iconify.design/ph/scissors-light.svg?height=32&color=%23888888)
   static const IconData scissors = IconData(
     0xeae0,
     fontFamily: 'PhosphorLight',
@@ -14155,7 +14155,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scooter` no estilo Light.
   ///
-  /// ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scooter.svg)
+  /// ![scooter](https://api.iconify.design/ph/scooter-light.svg?height=32&color=%23888888)
   static const IconData scooter = IconData(
     0xe820,
     fontFamily: 'PhosphorLight',
@@ -14167,7 +14167,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `screencast` no estilo Light.
   ///
-  /// ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/screencast.svg)
+  /// ![screencast](https://api.iconify.design/ph/screencast-light.svg?height=32&color=%23888888)
   static const IconData screencast = IconData(
     0xe404,
     fontFamily: 'PhosphorLight',
@@ -14179,7 +14179,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `screwdriver` no estilo Light.
   ///
-  /// ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/screwdriver.svg)
+  /// ![screwdriver](https://api.iconify.design/ph/screwdriver-light.svg?height=32&color=%23888888)
   static const IconData screwdriver = IconData(
     0xe86e,
     fontFamily: 'PhosphorLight',
@@ -14191,7 +14191,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scribble` no estilo Light.
   ///
-  /// ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scribble.svg)
+  /// ![scribble](https://api.iconify.design/ph/scribble-light.svg?height=32&color=%23888888)
   static const IconData scribble = IconData(
     0xe806,
     fontFamily: 'PhosphorLight',
@@ -14203,7 +14203,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scribbleLoop` no estilo Light.
   ///
-  /// ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scribble-loop.svg)
+  /// ![scribble-loop](https://api.iconify.design/ph/scribble-loop-light.svg?height=32&color=%23888888)
   static const IconData scribbleLoop = IconData(
     0xe662,
     fontFamily: 'PhosphorLight',
@@ -14215,7 +14215,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `scroll` no estilo Light.
   ///
-  /// ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scroll.svg)
+  /// ![scroll](https://api.iconify.design/ph/scroll-light.svg?height=32&color=%23888888)
   static const IconData scroll = IconData(
     0xeb7a,
     fontFamily: 'PhosphorLight',
@@ -14227,7 +14227,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `seal` no estilo Light.
   ///
-  /// ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal.svg)
+  /// ![seal](https://api.iconify.design/ph/seal-light.svg?height=32&color=%23888888)
   static const IconData seal = IconData(
     0xe604,
     fontFamily: 'PhosphorLight',
@@ -14239,7 +14239,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sealCheck` no estilo Light.
   ///
-  /// ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-check.svg)
+  /// ![seal-check](https://api.iconify.design/ph/seal-check-light.svg?height=32&color=%23888888)
   static const IconData sealCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorLight',
@@ -14251,7 +14251,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sealPercent` no estilo Light.
   ///
-  /// ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-percent.svg)
+  /// ![seal-percent](https://api.iconify.design/ph/seal-percent-light.svg?height=32&color=%23888888)
   static const IconData sealPercent = IconData(
     0xe60a,
     fontFamily: 'PhosphorLight',
@@ -14263,7 +14263,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sealQuestion` no estilo Light.
   ///
-  /// ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-question.svg)
+  /// ![seal-question](https://api.iconify.design/ph/seal-question-light.svg?height=32&color=%23888888)
   static const IconData sealQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorLight',
@@ -14275,7 +14275,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sealWarning` no estilo Light.
   ///
-  /// ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-warning.svg)
+  /// ![seal-warning](https://api.iconify.design/ph/seal-warning-light.svg?height=32&color=%23888888)
   static const IconData sealWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorLight',
@@ -14287,7 +14287,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `seat` no estilo Light.
   ///
-  /// ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seat.svg)
+  /// ![seat](https://api.iconify.design/ph/seat-light.svg?height=32&color=%23888888)
   static const IconData seat = IconData(
     0xeb8e,
     fontFamily: 'PhosphorLight',
@@ -14299,7 +14299,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `seatbelt` no estilo Light.
   ///
-  /// ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seatbelt.svg)
+  /// ![seatbelt](https://api.iconify.design/ph/seatbelt-light.svg?height=32&color=%23888888)
   static const IconData seatbelt = IconData(
     0xedfe,
     fontFamily: 'PhosphorLight',
@@ -14311,7 +14311,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `securityCamera` no estilo Light.
   ///
-  /// ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/security-camera.svg)
+  /// ![security-camera](https://api.iconify.design/ph/security-camera-light.svg?height=32&color=%23888888)
   static const IconData securityCamera = IconData(
     0xeca4,
     fontFamily: 'PhosphorLight',
@@ -14323,7 +14323,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `selection` no estilo Light.
   ///
-  /// ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection.svg)
+  /// ![selection](https://api.iconify.design/ph/selection-light.svg?height=32&color=%23888888)
   static const IconData selection = IconData(
     0xe69a,
     fontFamily: 'PhosphorLight',
@@ -14335,7 +14335,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `selectionAll` no estilo Light.
   ///
-  /// ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-all.svg)
+  /// ![selection-all](https://api.iconify.design/ph/selection-all-light.svg?height=32&color=%23888888)
   static const IconData selectionAll = IconData(
     0xe746,
     fontFamily: 'PhosphorLight',
@@ -14347,7 +14347,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `selectionBackground` no estilo Light.
   ///
-  /// ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-background.svg)
+  /// ![selection-background](https://api.iconify.design/ph/selection-background-light.svg?height=32&color=%23888888)
   static const IconData selectionBackground = IconData(
     0xeaf8,
     fontFamily: 'PhosphorLight',
@@ -14359,7 +14359,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `selectionForeground` no estilo Light.
   ///
-  /// ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-foreground.svg)
+  /// ![selection-foreground](https://api.iconify.design/ph/selection-foreground-light.svg?height=32&color=%23888888)
   static const IconData selectionForeground = IconData(
     0xeaf6,
     fontFamily: 'PhosphorLight',
@@ -14371,7 +14371,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `selectionInverse` no estilo Light.
   ///
-  /// ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-inverse.svg)
+  /// ![selection-inverse](https://api.iconify.design/ph/selection-inverse-light.svg?height=32&color=%23888888)
   static const IconData selectionInverse = IconData(
     0xe744,
     fontFamily: 'PhosphorLight',
@@ -14383,7 +14383,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `selectionPlus` no estilo Light.
   ///
-  /// ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-plus.svg)
+  /// ![selection-plus](https://api.iconify.design/ph/selection-plus-light.svg?height=32&color=%23888888)
   static const IconData selectionPlus = IconData(
     0xe69c,
     fontFamily: 'PhosphorLight',
@@ -14395,7 +14395,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `selectionSlash` no estilo Light.
   ///
-  /// ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-slash.svg)
+  /// ![selection-slash](https://api.iconify.design/ph/selection-slash-light.svg?height=32&color=%23888888)
   static const IconData selectionSlash = IconData(
     0xe69e,
     fontFamily: 'PhosphorLight',
@@ -14407,7 +14407,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shapes` no estilo Light.
   ///
-  /// ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shapes.svg)
+  /// ![shapes](https://api.iconify.design/ph/shapes-light.svg?height=32&color=%23888888)
   static const IconData shapes = IconData(
     0xec5e,
     fontFamily: 'PhosphorLight',
@@ -14419,7 +14419,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `share` no estilo Light.
   ///
-  /// ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/share.svg)
+  /// ![share](https://api.iconify.design/ph/share-light.svg?height=32&color=%23888888)
   static const IconData share = IconData(
     0xe406,
     fontFamily: 'PhosphorLight',
@@ -14431,7 +14431,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shareFat` no estilo Light.
   ///
-  /// ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/share-fat.svg)
+  /// ![share-fat](https://api.iconify.design/ph/share-fat-light.svg?height=32&color=%23888888)
   static const IconData shareFat = IconData(
     0xed52,
     fontFamily: 'PhosphorLight',
@@ -14443,7 +14443,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shareNetwork` no estilo Light.
   ///
-  /// ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/share-network.svg)
+  /// ![share-network](https://api.iconify.design/ph/share-network-light.svg?height=32&color=%23888888)
   static const IconData shareNetwork = IconData(
     0xe408,
     fontFamily: 'PhosphorLight',
@@ -14455,7 +14455,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shield` no estilo Light.
   ///
-  /// ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield.svg)
+  /// ![shield](https://api.iconify.design/ph/shield-light.svg?height=32&color=%23888888)
   static const IconData shield = IconData(
     0xe40a,
     fontFamily: 'PhosphorLight',
@@ -14467,7 +14467,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shieldCheck` no estilo Light.
   ///
-  /// ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-check.svg)
+  /// ![shield-check](https://api.iconify.design/ph/shield-check-light.svg?height=32&color=%23888888)
   static const IconData shieldCheck = IconData(
     0xe40c,
     fontFamily: 'PhosphorLight',
@@ -14479,7 +14479,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shieldCheckered` no estilo Light.
   ///
-  /// ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-checkered.svg)
+  /// ![shield-checkered](https://api.iconify.design/ph/shield-checkered-light.svg?height=32&color=%23888888)
   static const IconData shieldCheckered = IconData(
     0xe708,
     fontFamily: 'PhosphorLight',
@@ -14491,7 +14491,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shieldChevron` no estilo Light.
   ///
-  /// ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-chevron.svg)
+  /// ![shield-chevron](https://api.iconify.design/ph/shield-chevron-light.svg?height=32&color=%23888888)
   static const IconData shieldChevron = IconData(
     0xe40e,
     fontFamily: 'PhosphorLight',
@@ -14503,7 +14503,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shieldPlus` no estilo Light.
   ///
-  /// ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-plus.svg)
+  /// ![shield-plus](https://api.iconify.design/ph/shield-plus-light.svg?height=32&color=%23888888)
   static const IconData shieldPlus = IconData(
     0xe706,
     fontFamily: 'PhosphorLight',
@@ -14515,7 +14515,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shieldSlash` no estilo Light.
   ///
-  /// ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-slash.svg)
+  /// ![shield-slash](https://api.iconify.design/ph/shield-slash-light.svg?height=32&color=%23888888)
   static const IconData shieldSlash = IconData(
     0xe410,
     fontFamily: 'PhosphorLight',
@@ -14527,7 +14527,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shieldStar` no estilo Light.
   ///
-  /// ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-star.svg)
+  /// ![shield-star](https://api.iconify.design/ph/shield-star-light.svg?height=32&color=%23888888)
   static const IconData shieldStar = IconData(
     0xec34,
     fontFamily: 'PhosphorLight',
@@ -14539,7 +14539,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shieldWarning` no estilo Light.
   ///
-  /// ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-warning.svg)
+  /// ![shield-warning](https://api.iconify.design/ph/shield-warning-light.svg?height=32&color=%23888888)
   static const IconData shieldWarning = IconData(
     0xe412,
     fontFamily: 'PhosphorLight',
@@ -14551,7 +14551,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shippingContainer` no estilo Light.
   ///
-  /// ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shipping-container.svg)
+  /// ![shipping-container](https://api.iconify.design/ph/shipping-container-light.svg?height=32&color=%23888888)
   static const IconData shippingContainer = IconData(
     0xe78c,
     fontFamily: 'PhosphorLight',
@@ -14563,7 +14563,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shirtFolded` no estilo Light.
   ///
-  /// ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shirt-folded.svg)
+  /// ![shirt-folded](https://api.iconify.design/ph/shirt-folded-light.svg?height=32&color=%23888888)
   static const IconData shirtFolded = IconData(
     0xea92,
     fontFamily: 'PhosphorLight',
@@ -14575,7 +14575,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shootingStar` no estilo Light.
   ///
-  /// ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shooting-star.svg)
+  /// ![shooting-star](https://api.iconify.design/ph/shooting-star-light.svg?height=32&color=%23888888)
   static const IconData shootingStar = IconData(
     0xecfa,
     fontFamily: 'PhosphorLight',
@@ -14587,7 +14587,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shoppingBag` no estilo Light.
   ///
-  /// ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-bag.svg)
+  /// ![shopping-bag](https://api.iconify.design/ph/shopping-bag-light.svg?height=32&color=%23888888)
   static const IconData shoppingBag = IconData(
     0xe416,
     fontFamily: 'PhosphorLight',
@@ -14599,7 +14599,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shoppingBagOpen` no estilo Light.
   ///
-  /// ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-bag-open.svg)
+  /// ![shopping-bag-open](https://api.iconify.design/ph/shopping-bag-open-light.svg?height=32&color=%23888888)
   static const IconData shoppingBagOpen = IconData(
     0xe418,
     fontFamily: 'PhosphorLight',
@@ -14611,7 +14611,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shoppingCart` no estilo Light.
   ///
-  /// ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-cart.svg)
+  /// ![shopping-cart](https://api.iconify.design/ph/shopping-cart-light.svg?height=32&color=%23888888)
   static const IconData shoppingCart = IconData(
     0xe41e,
     fontFamily: 'PhosphorLight',
@@ -14623,7 +14623,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shoppingCartSimple` no estilo Light.
   ///
-  /// ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-cart-simple.svg)
+  /// ![shopping-cart-simple](https://api.iconify.design/ph/shopping-cart-simple-light.svg?height=32&color=%23888888)
   static const IconData shoppingCartSimple = IconData(
     0xe420,
     fontFamily: 'PhosphorLight',
@@ -14635,7 +14635,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shovel` no estilo Light.
   ///
-  /// ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shovel.svg)
+  /// ![shovel](https://api.iconify.design/ph/shovel-light.svg?height=32&color=%23888888)
   static const IconData shovel = IconData(
     0xe9e6,
     fontFamily: 'PhosphorLight',
@@ -14647,7 +14647,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shower` no estilo Light.
   ///
-  /// ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shower.svg)
+  /// ![shower](https://api.iconify.design/ph/shower-light.svg?height=32&color=%23888888)
   static const IconData shower = IconData(
     0xe776,
     fontFamily: 'PhosphorLight',
@@ -14659,7 +14659,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shrimp` no estilo Light.
   ///
-  /// ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shrimp.svg)
+  /// ![shrimp](https://api.iconify.design/ph/shrimp-light.svg?height=32&color=%23888888)
   static const IconData shrimp = IconData(
     0xeab4,
     fontFamily: 'PhosphorLight',
@@ -14671,7 +14671,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shuffle` no estilo Light.
   ///
-  /// ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shuffle.svg)
+  /// ![shuffle](https://api.iconify.design/ph/shuffle-light.svg?height=32&color=%23888888)
   static const IconData shuffle = IconData(
     0xe422,
     fontFamily: 'PhosphorLight',
@@ -14683,7 +14683,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shuffleAngular` no estilo Light.
   ///
-  /// ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shuffle-angular.svg)
+  /// ![shuffle-angular](https://api.iconify.design/ph/shuffle-angular-light.svg?height=32&color=%23888888)
   static const IconData shuffleAngular = IconData(
     0xe424,
     fontFamily: 'PhosphorLight',
@@ -14695,7 +14695,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `shuffleSimple` no estilo Light.
   ///
-  /// ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shuffle-simple.svg)
+  /// ![shuffle-simple](https://api.iconify.design/ph/shuffle-simple-light.svg?height=32&color=%23888888)
   static const IconData shuffleSimple = IconData(
     0xe426,
     fontFamily: 'PhosphorLight',
@@ -14707,7 +14707,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sidebar` no estilo Light.
   ///
-  /// ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sidebar.svg)
+  /// ![sidebar](https://api.iconify.design/ph/sidebar-light.svg?height=32&color=%23888888)
   static const IconData sidebar = IconData(
     0xeab6,
     fontFamily: 'PhosphorLight',
@@ -14719,7 +14719,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sidebarSimple` no estilo Light.
   ///
-  /// ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sidebar-simple.svg)
+  /// ![sidebar-simple](https://api.iconify.design/ph/sidebar-simple-light.svg?height=32&color=%23888888)
   static const IconData sidebarSimple = IconData(
     0xec24,
     fontFamily: 'PhosphorLight',
@@ -14731,7 +14731,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sigma` no estilo Light.
   ///
-  /// ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sigma.svg)
+  /// ![sigma](https://api.iconify.design/ph/sigma-light.svg?height=32&color=%23888888)
   static const IconData sigma = IconData(
     0xeab8,
     fontFamily: 'PhosphorLight',
@@ -14743,7 +14743,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `signIn` no estilo Light.
   ///
-  /// ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sign-in.svg)
+  /// ![sign-in](https://api.iconify.design/ph/sign-in-light.svg?height=32&color=%23888888)
   static const IconData signIn = IconData(
     0xe428,
     fontFamily: 'PhosphorLight',
@@ -14755,7 +14755,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `signOut` no estilo Light.
   ///
-  /// ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sign-out.svg)
+  /// ![sign-out](https://api.iconify.design/ph/sign-out-light.svg?height=32&color=%23888888)
   static const IconData signOut = IconData(
     0xe42a,
     fontFamily: 'PhosphorLight',
@@ -14767,7 +14767,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `signature` no estilo Light.
   ///
-  /// ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/signature.svg)
+  /// ![signature](https://api.iconify.design/ph/signature-light.svg?height=32&color=%23888888)
   static const IconData signature = IconData(
     0xebac,
     fontFamily: 'PhosphorLight',
@@ -14779,7 +14779,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `signpost` no estilo Light.
   ///
-  /// ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/signpost.svg)
+  /// ![signpost](https://api.iconify.design/ph/signpost-light.svg?height=32&color=%23888888)
   static const IconData signpost = IconData(
     0xe89c,
     fontFamily: 'PhosphorLight',
@@ -14791,7 +14791,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `simCard` no estilo Light.
   ///
-  /// ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sim-card.svg)
+  /// ![sim-card](https://api.iconify.design/ph/sim-card-light.svg?height=32&color=%23888888)
   static const IconData simCard = IconData(
     0xe664,
     fontFamily: 'PhosphorLight',
@@ -14803,7 +14803,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `siren` no estilo Light.
   ///
-  /// ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/siren.svg)
+  /// ![siren](https://api.iconify.design/ph/siren-light.svg?height=32&color=%23888888)
   static const IconData siren = IconData(
     0xe9b8,
     fontFamily: 'PhosphorLight',
@@ -14815,7 +14815,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sketchLogo` no estilo Light.
   ///
-  /// ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sketch-logo.svg)
+  /// ![sketch-logo](https://api.iconify.design/ph/sketch-logo-light.svg?height=32&color=%23888888)
   static const IconData sketchLogo = IconData(
     0xe42c,
     fontFamily: 'PhosphorLight',
@@ -14827,7 +14827,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `skipBack` no estilo Light.
   ///
-  /// ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-back.svg)
+  /// ![skip-back](https://api.iconify.design/ph/skip-back-light.svg?height=32&color=%23888888)
   static const IconData skipBack = IconData(
     0xe5a4,
     fontFamily: 'PhosphorLight',
@@ -14839,7 +14839,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `skipBackCircle` no estilo Light.
   ///
-  /// ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-back-circle.svg)
+  /// ![skip-back-circle](https://api.iconify.design/ph/skip-back-circle-light.svg?height=32&color=%23888888)
   static const IconData skipBackCircle = IconData(
     0xe42e,
     fontFamily: 'PhosphorLight',
@@ -14851,7 +14851,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `skipForward` no estilo Light.
   ///
-  /// ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-forward.svg)
+  /// ![skip-forward](https://api.iconify.design/ph/skip-forward-light.svg?height=32&color=%23888888)
   static const IconData skipForward = IconData(
     0xe5a6,
     fontFamily: 'PhosphorLight',
@@ -14863,7 +14863,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `skipForwardCircle` no estilo Light.
   ///
-  /// ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-forward-circle.svg)
+  /// ![skip-forward-circle](https://api.iconify.design/ph/skip-forward-circle-light.svg?height=32&color=%23888888)
   static const IconData skipForwardCircle = IconData(
     0xe430,
     fontFamily: 'PhosphorLight',
@@ -14875,7 +14875,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `skull` no estilo Light.
   ///
-  /// ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skull.svg)
+  /// ![skull](https://api.iconify.design/ph/skull-light.svg?height=32&color=%23888888)
   static const IconData skull = IconData(
     0xe916,
     fontFamily: 'PhosphorLight',
@@ -14887,7 +14887,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `skypeLogo` no estilo Light.
   ///
-  /// ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skype-logo.svg)
+  /// ![skype-logo](https://api.iconify.design/ph/skype-logo-light.svg?height=32&color=%23888888)
   static const IconData skypeLogo = IconData(
     0xe8dc,
     fontFamily: 'PhosphorLight',
@@ -14899,7 +14899,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `slackLogo` no estilo Light.
   ///
-  /// ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/slack-logo.svg)
+  /// ![slack-logo](https://api.iconify.design/ph/slack-logo-light.svg?height=32&color=%23888888)
   static const IconData slackLogo = IconData(
     0xe5a8,
     fontFamily: 'PhosphorLight',
@@ -14911,7 +14911,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sliders` no estilo Light.
   ///
-  /// ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sliders.svg)
+  /// ![sliders](https://api.iconify.design/ph/sliders-light.svg?height=32&color=%23888888)
   static const IconData sliders = IconData(
     0xe432,
     fontFamily: 'PhosphorLight',
@@ -14923,7 +14923,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `slidersHorizontal` no estilo Light.
   ///
-  /// ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sliders-horizontal.svg)
+  /// ![sliders-horizontal](https://api.iconify.design/ph/sliders-horizontal-light.svg?height=32&color=%23888888)
   static const IconData slidersHorizontal = IconData(
     0xe434,
     fontFamily: 'PhosphorLight',
@@ -14935,7 +14935,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `slideshow` no estilo Light.
   ///
-  /// ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/slideshow.svg)
+  /// ![slideshow](https://api.iconify.design/ph/slideshow-light.svg?height=32&color=%23888888)
   static const IconData slideshow = IconData(
     0xed32,
     fontFamily: 'PhosphorLight',
@@ -14947,7 +14947,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smiley` no estilo Light.
   ///
-  /// ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley.svg)
+  /// ![smiley](https://api.iconify.design/ph/smiley-light.svg?height=32&color=%23888888)
   static const IconData smiley = IconData(
     0xe436,
     fontFamily: 'PhosphorLight',
@@ -14959,7 +14959,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileyAngry` no estilo Light.
   ///
-  /// ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-angry.svg)
+  /// ![smiley-angry](https://api.iconify.design/ph/smiley-angry-light.svg?height=32&color=%23888888)
   static const IconData smileyAngry = IconData(
     0xec62,
     fontFamily: 'PhosphorLight',
@@ -14971,7 +14971,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileyBlank` no estilo Light.
   ///
-  /// ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-blank.svg)
+  /// ![smiley-blank](https://api.iconify.design/ph/smiley-blank-light.svg?height=32&color=%23888888)
   static const IconData smileyBlank = IconData(
     0xe438,
     fontFamily: 'PhosphorLight',
@@ -14983,7 +14983,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileyMeh` no estilo Light.
   ///
-  /// ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-meh.svg)
+  /// ![smiley-meh](https://api.iconify.design/ph/smiley-meh-light.svg?height=32&color=%23888888)
   static const IconData smileyMeh = IconData(
     0xe43a,
     fontFamily: 'PhosphorLight',
@@ -14995,7 +14995,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileyMelting` no estilo Light.
   ///
-  /// ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-melting.svg)
+  /// ![smiley-melting](https://api.iconify.design/ph/smiley-melting-light.svg?height=32&color=%23888888)
   static const IconData smileyMelting = IconData(
     0xee56,
     fontFamily: 'PhosphorLight',
@@ -15007,7 +15007,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileyNervous` no estilo Light.
   ///
-  /// ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-nervous.svg)
+  /// ![smiley-nervous](https://api.iconify.design/ph/smiley-nervous-light.svg?height=32&color=%23888888)
   static const IconData smileyNervous = IconData(
     0xe43c,
     fontFamily: 'PhosphorLight',
@@ -15019,7 +15019,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileySad` no estilo Light.
   ///
-  /// ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-sad.svg)
+  /// ![smiley-sad](https://api.iconify.design/ph/smiley-sad-light.svg?height=32&color=%23888888)
   static const IconData smileySad = IconData(
     0xe43e,
     fontFamily: 'PhosphorLight',
@@ -15031,7 +15031,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileySticker` no estilo Light.
   ///
-  /// ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-sticker.svg)
+  /// ![smiley-sticker](https://api.iconify.design/ph/smiley-sticker-light.svg?height=32&color=%23888888)
   static const IconData smileySticker = IconData(
     0xe440,
     fontFamily: 'PhosphorLight',
@@ -15043,7 +15043,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileyWink` no estilo Light.
   ///
-  /// ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-wink.svg)
+  /// ![smiley-wink](https://api.iconify.design/ph/smiley-wink-light.svg?height=32&color=%23888888)
   static const IconData smileyWink = IconData(
     0xe666,
     fontFamily: 'PhosphorLight',
@@ -15055,7 +15055,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `smileyXEyes` no estilo Light.
   ///
-  /// ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-x-eyes.svg)
+  /// ![smiley-x-eyes](https://api.iconify.design/ph/smiley-x-eyes-light.svg?height=32&color=%23888888)
   static const IconData smileyXEyes = IconData(
     0xe442,
     fontFamily: 'PhosphorLight',
@@ -15067,7 +15067,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `snapchatLogo` no estilo Light.
   ///
-  /// ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/snapchat-logo.svg)
+  /// ![snapchat-logo](https://api.iconify.design/ph/snapchat-logo-light.svg?height=32&color=%23888888)
   static const IconData snapchatLogo = IconData(
     0xe668,
     fontFamily: 'PhosphorLight',
@@ -15079,7 +15079,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sneaker` no estilo Light.
   ///
-  /// ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sneaker.svg)
+  /// ![sneaker](https://api.iconify.design/ph/sneaker-light.svg?height=32&color=%23888888)
   static const IconData sneaker = IconData(
     0xe80c,
     fontFamily: 'PhosphorLight',
@@ -15091,7 +15091,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sneakerMove` no estilo Light.
   ///
-  /// ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sneaker-move.svg)
+  /// ![sneaker-move](https://api.iconify.design/ph/sneaker-move-light.svg?height=32&color=%23888888)
   static const IconData sneakerMove = IconData(
     0xed60,
     fontFamily: 'PhosphorLight',
@@ -15103,7 +15103,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `snowflake` no estilo Light.
   ///
-  /// ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/snowflake.svg)
+  /// ![snowflake](https://api.iconify.design/ph/snowflake-light.svg?height=32&color=%23888888)
   static const IconData snowflake = IconData(
     0xe5aa,
     fontFamily: 'PhosphorLight',
@@ -15115,7 +15115,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `soccerBall` no estilo Light.
   ///
-  /// ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/soccer-ball.svg)
+  /// ![soccer-ball](https://api.iconify.design/ph/soccer-ball-light.svg?height=32&color=%23888888)
   static const IconData soccerBall = IconData(
     0xe716,
     fontFamily: 'PhosphorLight',
@@ -15127,7 +15127,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sock` no estilo Light.
   ///
-  /// ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sock.svg)
+  /// ![sock](https://api.iconify.design/ph/sock-light.svg?height=32&color=%23888888)
   static const IconData sock = IconData(
     0xecce,
     fontFamily: 'PhosphorLight',
@@ -15139,7 +15139,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `solarPanel` no estilo Light.
   ///
-  /// ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/solar-panel.svg)
+  /// ![solar-panel](https://api.iconify.design/ph/solar-panel-light.svg?height=32&color=%23888888)
   static const IconData solarPanel = IconData(
     0xed7a,
     fontFamily: 'PhosphorLight',
@@ -15151,7 +15151,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `solarRoof` no estilo Light.
   ///
-  /// ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/solar-roof.svg)
+  /// ![solar-roof](https://api.iconify.design/ph/solar-roof-light.svg?height=32&color=%23888888)
   static const IconData solarRoof = IconData(
     0xed7b,
     fontFamily: 'PhosphorLight',
@@ -15163,7 +15163,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sortAscending` no estilo Light.
   ///
-  /// ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sort-ascending.svg)
+  /// ![sort-ascending](https://api.iconify.design/ph/sort-ascending-light.svg?height=32&color=%23888888)
   static const IconData sortAscending = IconData(
     0xe444,
     fontFamily: 'PhosphorLight',
@@ -15175,7 +15175,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sortDescending` no estilo Light.
   ///
-  /// ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sort-descending.svg)
+  /// ![sort-descending](https://api.iconify.design/ph/sort-descending-light.svg?height=32&color=%23888888)
   static const IconData sortDescending = IconData(
     0xe446,
     fontFamily: 'PhosphorLight',
@@ -15187,7 +15187,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `soundcloudLogo` no estilo Light.
   ///
-  /// ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/soundcloud-logo.svg)
+  /// ![soundcloud-logo](https://api.iconify.design/ph/soundcloud-logo-light.svg?height=32&color=%23888888)
   static const IconData soundcloudLogo = IconData(
     0xe8de,
     fontFamily: 'PhosphorLight',
@@ -15199,7 +15199,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `spade` no estilo Light.
   ///
-  /// ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spade.svg)
+  /// ![spade](https://api.iconify.design/ph/spade-light.svg?height=32&color=%23888888)
   static const IconData spade = IconData(
     0xe448,
     fontFamily: 'PhosphorLight',
@@ -15211,7 +15211,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sparkle` no estilo Light.
   ///
-  /// ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sparkle.svg)
+  /// ![sparkle](https://api.iconify.design/ph/sparkle-light.svg?height=32&color=%23888888)
   static const IconData sparkle = IconData(
     0xe6a2,
     fontFamily: 'PhosphorLight',
@@ -15223,7 +15223,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerHifi` no estilo Light.
   ///
-  /// ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-hifi.svg)
+  /// ![speaker-hifi](https://api.iconify.design/ph/speaker-hifi-light.svg?height=32&color=%23888888)
   static const IconData speakerHifi = IconData(
     0xea08,
     fontFamily: 'PhosphorLight',
@@ -15235,7 +15235,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerHigh` no estilo Light.
   ///
-  /// ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-high.svg)
+  /// ![speaker-high](https://api.iconify.design/ph/speaker-high-light.svg?height=32&color=%23888888)
   static const IconData speakerHigh = IconData(
     0xe44a,
     fontFamily: 'PhosphorLight',
@@ -15247,7 +15247,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerLow` no estilo Light.
   ///
-  /// ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-low.svg)
+  /// ![speaker-low](https://api.iconify.design/ph/speaker-low-light.svg?height=32&color=%23888888)
   static const IconData speakerLow = IconData(
     0xe44c,
     fontFamily: 'PhosphorLight',
@@ -15259,7 +15259,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerNone` no estilo Light.
   ///
-  /// ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-none.svg)
+  /// ![speaker-none](https://api.iconify.design/ph/speaker-none-light.svg?height=32&color=%23888888)
   static const IconData speakerNone = IconData(
     0xe44e,
     fontFamily: 'PhosphorLight',
@@ -15271,7 +15271,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerSimpleHigh` no estilo Light.
   ///
-  /// ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-high.svg)
+  /// ![speaker-simple-high](https://api.iconify.design/ph/speaker-simple-high-light.svg?height=32&color=%23888888)
   static const IconData speakerSimpleHigh = IconData(
     0xe450,
     fontFamily: 'PhosphorLight',
@@ -15283,7 +15283,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerSimpleLow` no estilo Light.
   ///
-  /// ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-low.svg)
+  /// ![speaker-simple-low](https://api.iconify.design/ph/speaker-simple-low-light.svg?height=32&color=%23888888)
   static const IconData speakerSimpleLow = IconData(
     0xe452,
     fontFamily: 'PhosphorLight',
@@ -15295,7 +15295,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerSimpleNone` no estilo Light.
   ///
-  /// ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-none.svg)
+  /// ![speaker-simple-none](https://api.iconify.design/ph/speaker-simple-none-light.svg?height=32&color=%23888888)
   static const IconData speakerSimpleNone = IconData(
     0xe454,
     fontFamily: 'PhosphorLight',
@@ -15307,7 +15307,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerSimpleSlash` no estilo Light.
   ///
-  /// ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-slash.svg)
+  /// ![speaker-simple-slash](https://api.iconify.design/ph/speaker-simple-slash-light.svg?height=32&color=%23888888)
   static const IconData speakerSimpleSlash = IconData(
     0xe456,
     fontFamily: 'PhosphorLight',
@@ -15319,7 +15319,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerSimpleX` no estilo Light.
   ///
-  /// ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-x.svg)
+  /// ![speaker-simple-x](https://api.iconify.design/ph/speaker-simple-x-light.svg?height=32&color=%23888888)
   static const IconData speakerSimpleX = IconData(
     0xe458,
     fontFamily: 'PhosphorLight',
@@ -15331,7 +15331,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerSlash` no estilo Light.
   ///
-  /// ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-slash.svg)
+  /// ![speaker-slash](https://api.iconify.design/ph/speaker-slash-light.svg?height=32&color=%23888888)
   static const IconData speakerSlash = IconData(
     0xe45a,
     fontFamily: 'PhosphorLight',
@@ -15343,7 +15343,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speakerX` no estilo Light.
   ///
-  /// ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-x.svg)
+  /// ![speaker-x](https://api.iconify.design/ph/speaker-x-light.svg?height=32&color=%23888888)
   static const IconData speakerX = IconData(
     0xe45c,
     fontFamily: 'PhosphorLight',
@@ -15355,7 +15355,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `speedometer` no estilo Light.
   ///
-  /// ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speedometer.svg)
+  /// ![speedometer](https://api.iconify.design/ph/speedometer-light.svg?height=32&color=%23888888)
   static const IconData speedometer = IconData(
     0xee74,
     fontFamily: 'PhosphorLight',
@@ -15367,7 +15367,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sphere` no estilo Light.
   ///
-  /// ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sphere.svg)
+  /// ![sphere](https://api.iconify.design/ph/sphere-light.svg?height=32&color=%23888888)
   static const IconData sphere = IconData(
     0xee66,
     fontFamily: 'PhosphorLight',
@@ -15379,7 +15379,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `spinner` no estilo Light.
   ///
-  /// ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spinner.svg)
+  /// ![spinner](https://api.iconify.design/ph/spinner-light.svg?height=32&color=%23888888)
   static const IconData spinner = IconData(
     0xe66a,
     fontFamily: 'PhosphorLight',
@@ -15391,7 +15391,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `spinnerBall` no estilo Light.
   ///
-  /// ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spinner-ball.svg)
+  /// ![spinner-ball](https://api.iconify.design/ph/spinner-ball-light.svg?height=32&color=%23888888)
   static const IconData spinnerBall = IconData(
     0xee28,
     fontFamily: 'PhosphorLight',
@@ -15403,7 +15403,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `spinnerGap` no estilo Light.
   ///
-  /// ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spinner-gap.svg)
+  /// ![spinner-gap](https://api.iconify.design/ph/spinner-gap-light.svg?height=32&color=%23888888)
   static const IconData spinnerGap = IconData(
     0xe66c,
     fontFamily: 'PhosphorLight',
@@ -15415,7 +15415,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `spiral` no estilo Light.
   ///
-  /// ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spiral.svg)
+  /// ![spiral](https://api.iconify.design/ph/spiral-light.svg?height=32&color=%23888888)
   static const IconData spiral = IconData(
     0xe9fa,
     fontFamily: 'PhosphorLight',
@@ -15427,7 +15427,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `splitHorizontal` no estilo Light.
   ///
-  /// ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/split-horizontal.svg)
+  /// ![split-horizontal](https://api.iconify.design/ph/split-horizontal-light.svg?height=32&color=%23888888)
   static const IconData splitHorizontal = IconData(
     0xe872,
     fontFamily: 'PhosphorLight',
@@ -15439,7 +15439,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `splitVertical` no estilo Light.
   ///
-  /// ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/split-vertical.svg)
+  /// ![split-vertical](https://api.iconify.design/ph/split-vertical-light.svg?height=32&color=%23888888)
   static const IconData splitVertical = IconData(
     0xe876,
     fontFamily: 'PhosphorLight',
@@ -15451,7 +15451,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `spotifyLogo` no estilo Light.
   ///
-  /// ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spotify-logo.svg)
+  /// ![spotify-logo](https://api.iconify.design/ph/spotify-logo-light.svg?height=32&color=%23888888)
   static const IconData spotifyLogo = IconData(
     0xe66e,
     fontFamily: 'PhosphorLight',
@@ -15463,7 +15463,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sprayBottle` no estilo Light.
   ///
-  /// ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spray-bottle.svg)
+  /// ![spray-bottle](https://api.iconify.design/ph/spray-bottle-light.svg?height=32&color=%23888888)
   static const IconData sprayBottle = IconData(
     0xe7e4,
     fontFamily: 'PhosphorLight',
@@ -15475,7 +15475,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `square` no estilo Light.
   ///
-  /// ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square.svg)
+  /// ![square](https://api.iconify.design/ph/square-light.svg?height=32&color=%23888888)
   static const IconData square = IconData(
     0xe45e,
     fontFamily: 'PhosphorLight',
@@ -15487,7 +15487,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `squareHalf` no estilo Light.
   ///
-  /// ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-half.svg)
+  /// ![square-half](https://api.iconify.design/ph/square-half-light.svg?height=32&color=%23888888)
   static const IconData squareHalf = IconData(
     0xe462,
     fontFamily: 'PhosphorLight',
@@ -15499,7 +15499,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `squareHalfBottom` no estilo Light.
   ///
-  /// ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-half-bottom.svg)
+  /// ![square-half-bottom](https://api.iconify.design/ph/square-half-bottom-light.svg?height=32&color=%23888888)
   static const IconData squareHalfBottom = IconData(
     0xeb16,
     fontFamily: 'PhosphorLight',
@@ -15511,7 +15511,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `squareLogo` no estilo Light.
   ///
-  /// ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-logo.svg)
+  /// ![square-logo](https://api.iconify.design/ph/square-logo-light.svg?height=32&color=%23888888)
   static const IconData squareLogo = IconData(
     0xe690,
     fontFamily: 'PhosphorLight',
@@ -15523,7 +15523,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `squareSplitHorizontal` no estilo Light.
   ///
-  /// ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-split-horizontal.svg)
+  /// ![square-split-horizontal](https://api.iconify.design/ph/square-split-horizontal-light.svg?height=32&color=%23888888)
   static const IconData squareSplitHorizontal = IconData(
     0xe870,
     fontFamily: 'PhosphorLight',
@@ -15535,7 +15535,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `squareSplitVertical` no estilo Light.
   ///
-  /// ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-split-vertical.svg)
+  /// ![square-split-vertical](https://api.iconify.design/ph/square-split-vertical-light.svg?height=32&color=%23888888)
   static const IconData squareSplitVertical = IconData(
     0xe874,
     fontFamily: 'PhosphorLight',
@@ -15547,7 +15547,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `squaresFour` no estilo Light.
   ///
-  /// ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/squares-four.svg)
+  /// ![squares-four](https://api.iconify.design/ph/squares-four-light.svg?height=32&color=%23888888)
   static const IconData squaresFour = IconData(
     0xe464,
     fontFamily: 'PhosphorLight',
@@ -15559,7 +15559,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stack` no estilo Light.
   ///
-  /// ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack.svg)
+  /// ![stack](https://api.iconify.design/ph/stack-light.svg?height=32&color=%23888888)
   static const IconData stack = IconData(
     0xe466,
     fontFamily: 'PhosphorLight',
@@ -15571,7 +15571,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stackMinus` no estilo Light.
   ///
-  /// ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-minus.svg)
+  /// ![stack-minus](https://api.iconify.design/ph/stack-minus-light.svg?height=32&color=%23888888)
   static const IconData stackMinus = IconData(
     0xedf4,
     fontFamily: 'PhosphorLight',
@@ -15583,7 +15583,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stackOverflowLogo` no estilo Light.
   ///
-  /// ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-overflow-logo.svg)
+  /// ![stack-overflow-logo](https://api.iconify.design/ph/stack-overflow-logo-light.svg?height=32&color=%23888888)
   static const IconData stackOverflowLogo = IconData(
     0xeb78,
     fontFamily: 'PhosphorLight',
@@ -15595,7 +15595,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stackPlus` no estilo Light.
   ///
-  /// ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-plus.svg)
+  /// ![stack-plus](https://api.iconify.design/ph/stack-plus-light.svg?height=32&color=%23888888)
   static const IconData stackPlus = IconData(
     0xedf6,
     fontFamily: 'PhosphorLight',
@@ -15607,7 +15607,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stackSimple` no estilo Light.
   ///
-  /// ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-simple.svg)
+  /// ![stack-simple](https://api.iconify.design/ph/stack-simple-light.svg?height=32&color=%23888888)
   static const IconData stackSimple = IconData(
     0xe468,
     fontFamily: 'PhosphorLight',
@@ -15619,7 +15619,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stairs` no estilo Light.
   ///
-  /// ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stairs.svg)
+  /// ![stairs](https://api.iconify.design/ph/stairs-light.svg?height=32&color=%23888888)
   static const IconData stairs = IconData(
     0xe8ec,
     fontFamily: 'PhosphorLight',
@@ -15631,7 +15631,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stamp` no estilo Light.
   ///
-  /// ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stamp.svg)
+  /// ![stamp](https://api.iconify.design/ph/stamp-light.svg?height=32&color=%23888888)
   static const IconData stamp = IconData(
     0xea48,
     fontFamily: 'PhosphorLight',
@@ -15643,7 +15643,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `standardDefinition` no estilo Light.
   ///
-  /// ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/standard-definition.svg)
+  /// ![standard-definition](https://api.iconify.design/ph/standard-definition-light.svg?height=32&color=%23888888)
   static const IconData standardDefinition = IconData(
     0xea90,
     fontFamily: 'PhosphorLight',
@@ -15655,7 +15655,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `star` no estilo Light.
   ///
-  /// ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star.svg)
+  /// ![star](https://api.iconify.design/ph/star-light.svg?height=32&color=%23888888)
   static const IconData star = IconData(
     0xe46a,
     fontFamily: 'PhosphorLight',
@@ -15667,7 +15667,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `starAndCrescent` no estilo Light.
   ///
-  /// ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-and-crescent.svg)
+  /// ![star-and-crescent](https://api.iconify.design/ph/star-and-crescent-light.svg?height=32&color=%23888888)
   static const IconData starAndCrescent = IconData(
     0xecf4,
     fontFamily: 'PhosphorLight',
@@ -15679,7 +15679,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `starFour` no estilo Light.
   ///
-  /// ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-four.svg)
+  /// ![star-four](https://api.iconify.design/ph/star-four-light.svg?height=32&color=%23888888)
   static const IconData starFour = IconData(
     0xe6a4,
     fontFamily: 'PhosphorLight',
@@ -15691,7 +15691,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `starHalf` no estilo Light.
   ///
-  /// ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-half.svg)
+  /// ![star-half](https://api.iconify.design/ph/star-half-light.svg?height=32&color=%23888888)
   static const IconData starHalf = IconData(
     0xe70a,
     fontFamily: 'PhosphorLight',
@@ -15703,7 +15703,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `starOfDavid` no estilo Light.
   ///
-  /// ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-of-david.svg)
+  /// ![star-of-david](https://api.iconify.design/ph/star-of-david-light.svg?height=32&color=%23888888)
   static const IconData starOfDavid = IconData(
     0xe89e,
     fontFamily: 'PhosphorLight',
@@ -15715,7 +15715,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `steamLogo` no estilo Light.
   ///
-  /// ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/steam-logo.svg)
+  /// ![steam-logo](https://api.iconify.design/ph/steam-logo-light.svg?height=32&color=%23888888)
   static const IconData steamLogo = IconData(
     0xead4,
     fontFamily: 'PhosphorLight',
@@ -15727,7 +15727,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `steeringWheel` no estilo Light.
   ///
-  /// ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/steering-wheel.svg)
+  /// ![steering-wheel](https://api.iconify.design/ph/steering-wheel-light.svg?height=32&color=%23888888)
   static const IconData steeringWheel = IconData(
     0xe9ac,
     fontFamily: 'PhosphorLight',
@@ -15739,7 +15739,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `steps` no estilo Light.
   ///
-  /// ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/steps.svg)
+  /// ![steps](https://api.iconify.design/ph/steps-light.svg?height=32&color=%23888888)
   static const IconData steps = IconData(
     0xecbe,
     fontFamily: 'PhosphorLight',
@@ -15751,7 +15751,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stethoscope` no estilo Light.
   ///
-  /// ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stethoscope.svg)
+  /// ![stethoscope](https://api.iconify.design/ph/stethoscope-light.svg?height=32&color=%23888888)
   static const IconData stethoscope = IconData(
     0xe7ea,
     fontFamily: 'PhosphorLight',
@@ -15763,7 +15763,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sticker` no estilo Light.
   ///
-  /// ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sticker.svg)
+  /// ![sticker](https://api.iconify.design/ph/sticker-light.svg?height=32&color=%23888888)
   static const IconData sticker = IconData(
     0xe5ac,
     fontFamily: 'PhosphorLight',
@@ -15775,7 +15775,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stool` no estilo Light.
   ///
-  /// ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stool.svg)
+  /// ![stool](https://api.iconify.design/ph/stool-light.svg?height=32&color=%23888888)
   static const IconData stool = IconData(
     0xea44,
     fontFamily: 'PhosphorLight',
@@ -15787,7 +15787,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stop` no estilo Light.
   ///
-  /// ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stop.svg)
+  /// ![stop](https://api.iconify.design/ph/stop-light.svg?height=32&color=%23888888)
   static const IconData stop = IconData(
     0xe46c,
     fontFamily: 'PhosphorLight',
@@ -15799,7 +15799,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stopCircle` no estilo Light.
   ///
-  /// ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stop-circle.svg)
+  /// ![stop-circle](https://api.iconify.design/ph/stop-circle-light.svg?height=32&color=%23888888)
   static const IconData stopCircle = IconData(
     0xe46e,
     fontFamily: 'PhosphorLight',
@@ -15811,7 +15811,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `storefront` no estilo Light.
   ///
-  /// ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/storefront.svg)
+  /// ![storefront](https://api.iconify.design/ph/storefront-light.svg?height=32&color=%23888888)
   static const IconData storefront = IconData(
     0xe470,
     fontFamily: 'PhosphorLight',
@@ -15823,7 +15823,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `strategy` no estilo Light.
   ///
-  /// ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/strategy.svg)
+  /// ![strategy](https://api.iconify.design/ph/strategy-light.svg?height=32&color=%23888888)
   static const IconData strategy = IconData(
     0xea3a,
     fontFamily: 'PhosphorLight',
@@ -15835,7 +15835,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `stripeLogo` no estilo Light.
   ///
-  /// ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stripe-logo.svg)
+  /// ![stripe-logo](https://api.iconify.design/ph/stripe-logo-light.svg?height=32&color=%23888888)
   static const IconData stripeLogo = IconData(
     0xe698,
     fontFamily: 'PhosphorLight',
@@ -15847,7 +15847,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `student` no estilo Light.
   ///
-  /// ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/student.svg)
+  /// ![student](https://api.iconify.design/ph/student-light.svg?height=32&color=%23888888)
   static const IconData student = IconData(
     0xe73e,
     fontFamily: 'PhosphorLight',
@@ -15859,7 +15859,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `subsetOf` no estilo Light.
   ///
-  /// ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subset-of.svg)
+  /// ![subset-of](https://api.iconify.design/ph/subset-of-light.svg?height=32&color=%23888888)
   static const IconData subsetOf = IconData(
     0xedc0,
     fontFamily: 'PhosphorLight',
@@ -15871,7 +15871,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `subsetProperOf` no estilo Light.
   ///
-  /// ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subset-proper-of.svg)
+  /// ![subset-proper-of](https://api.iconify.design/ph/subset-proper-of-light.svg?height=32&color=%23888888)
   static const IconData subsetProperOf = IconData(
     0xedb6,
     fontFamily: 'PhosphorLight',
@@ -15883,7 +15883,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `subtitles` no estilo Light.
   ///
-  /// ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtitles.svg)
+  /// ![subtitles](https://api.iconify.design/ph/subtitles-light.svg?height=32&color=%23888888)
   static const IconData subtitles = IconData(
     0xe1a8,
     fontFamily: 'PhosphorLight',
@@ -15895,7 +15895,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `subtitlesSlash` no estilo Light.
   ///
-  /// ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtitles-slash.svg)
+  /// ![subtitles-slash](https://api.iconify.design/ph/subtitles-slash-light.svg?height=32&color=%23888888)
   static const IconData subtitlesSlash = IconData(
     0xe1a6,
     fontFamily: 'PhosphorLight',
@@ -15907,7 +15907,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `subtract` no estilo Light.
   ///
-  /// ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtract.svg)
+  /// ![subtract](https://api.iconify.design/ph/subtract-light.svg?height=32&color=%23888888)
   static const IconData subtract = IconData(
     0xebd6,
     fontFamily: 'PhosphorLight',
@@ -15919,7 +15919,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `subtractSquare` no estilo Light.
   ///
-  /// ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtract-square.svg)
+  /// ![subtract-square](https://api.iconify.design/ph/subtract-square-light.svg?height=32&color=%23888888)
   static const IconData subtractSquare = IconData(
     0xebd4,
     fontFamily: 'PhosphorLight',
@@ -15931,7 +15931,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `subway` no estilo Light.
   ///
-  /// ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subway.svg)
+  /// ![subway](https://api.iconify.design/ph/subway-light.svg?height=32&color=%23888888)
   static const IconData subway = IconData(
     0xe498,
     fontFamily: 'PhosphorLight',
@@ -15943,7 +15943,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `suitcase` no estilo Light.
   ///
-  /// ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/suitcase.svg)
+  /// ![suitcase](https://api.iconify.design/ph/suitcase-light.svg?height=32&color=%23888888)
   static const IconData suitcase = IconData(
     0xe5ae,
     fontFamily: 'PhosphorLight',
@@ -15955,7 +15955,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `suitcaseRolling` no estilo Light.
   ///
-  /// ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/suitcase-rolling.svg)
+  /// ![suitcase-rolling](https://api.iconify.design/ph/suitcase-rolling-light.svg?height=32&color=%23888888)
   static const IconData suitcaseRolling = IconData(
     0xe9b0,
     fontFamily: 'PhosphorLight',
@@ -15967,7 +15967,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `suitcaseSimple` no estilo Light.
   ///
-  /// ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/suitcase-simple.svg)
+  /// ![suitcase-simple](https://api.iconify.design/ph/suitcase-simple-light.svg?height=32&color=%23888888)
   static const IconData suitcaseSimple = IconData(
     0xe5b0,
     fontFamily: 'PhosphorLight',
@@ -15979,7 +15979,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sun` no estilo Light.
   ///
-  /// ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sun.svg)
+  /// ![sun](https://api.iconify.design/ph/sun-light.svg?height=32&color=%23888888)
   static const IconData sun = IconData(
     0xe472,
     fontFamily: 'PhosphorLight',
@@ -15991,7 +15991,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sunDim` no estilo Light.
   ///
-  /// ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sun-dim.svg)
+  /// ![sun-dim](https://api.iconify.design/ph/sun-dim-light.svg?height=32&color=%23888888)
   static const IconData sunDim = IconData(
     0xe474,
     fontFamily: 'PhosphorLight',
@@ -16003,7 +16003,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sunHorizon` no estilo Light.
   ///
-  /// ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sun-horizon.svg)
+  /// ![sun-horizon](https://api.iconify.design/ph/sun-horizon-light.svg?height=32&color=%23888888)
   static const IconData sunHorizon = IconData(
     0xe5b6,
     fontFamily: 'PhosphorLight',
@@ -16015,7 +16015,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sunglasses` no estilo Light.
   ///
-  /// ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sunglasses.svg)
+  /// ![sunglasses](https://api.iconify.design/ph/sunglasses-light.svg?height=32&color=%23888888)
   static const IconData sunglasses = IconData(
     0xe816,
     fontFamily: 'PhosphorLight',
@@ -16027,7 +16027,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `supersetOf` no estilo Light.
   ///
-  /// ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/superset-of.svg)
+  /// ![superset-of](https://api.iconify.design/ph/superset-of-light.svg?height=32&color=%23888888)
   static const IconData supersetOf = IconData(
     0xedb8,
     fontFamily: 'PhosphorLight',
@@ -16039,7 +16039,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `supersetProperOf` no estilo Light.
   ///
-  /// ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/superset-proper-of.svg)
+  /// ![superset-proper-of](https://api.iconify.design/ph/superset-proper-of-light.svg?height=32&color=%23888888)
   static const IconData supersetProperOf = IconData(
     0xedb4,
     fontFamily: 'PhosphorLight',
@@ -16051,7 +16051,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `swap` no estilo Light.
   ///
-  /// ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/swap.svg)
+  /// ![swap](https://api.iconify.design/ph/swap-light.svg?height=32&color=%23888888)
   static const IconData swap = IconData(
     0xe83c,
     fontFamily: 'PhosphorLight',
@@ -16063,7 +16063,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `swatches` no estilo Light.
   ///
-  /// ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/swatches.svg)
+  /// ![swatches](https://api.iconify.design/ph/swatches-light.svg?height=32&color=%23888888)
   static const IconData swatches = IconData(
     0xe5b8,
     fontFamily: 'PhosphorLight',
@@ -16075,7 +16075,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `swimmingPool` no estilo Light.
   ///
-  /// ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/swimming-pool.svg)
+  /// ![swimming-pool](https://api.iconify.design/ph/swimming-pool-light.svg?height=32&color=%23888888)
   static const IconData swimmingPool = IconData(
     0xecb6,
     fontFamily: 'PhosphorLight',
@@ -16087,7 +16087,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `sword` no estilo Light.
   ///
-  /// ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sword.svg)
+  /// ![sword](https://api.iconify.design/ph/sword-light.svg?height=32&color=%23888888)
   static const IconData sword = IconData(
     0xe5ba,
     fontFamily: 'PhosphorLight',
@@ -16099,7 +16099,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `synagogue` no estilo Light.
   ///
-  /// ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/synagogue.svg)
+  /// ![synagogue](https://api.iconify.design/ph/synagogue-light.svg?height=32&color=%23888888)
   static const IconData synagogue = IconData(
     0xecec,
     fontFamily: 'PhosphorLight',
@@ -16111,7 +16111,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `syringe` no estilo Light.
   ///
-  /// ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/syringe.svg)
+  /// ![syringe](https://api.iconify.design/ph/syringe-light.svg?height=32&color=%23888888)
   static const IconData syringe = IconData(
     0xe968,
     fontFamily: 'PhosphorLight',
@@ -16123,7 +16123,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tShirt` no estilo Light.
   ///
-  /// ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/t-shirt.svg)
+  /// ![t-shirt](https://api.iconify.design/ph/t-shirt-light.svg?height=32&color=%23888888)
   static const IconData tShirt = IconData(
     0xe670,
     fontFamily: 'PhosphorLight',
@@ -16135,7 +16135,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `table` no estilo Light.
   ///
-  /// ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/table.svg)
+  /// ![table](https://api.iconify.design/ph/table-light.svg?height=32&color=%23888888)
   static const IconData table = IconData(
     0xe476,
     fontFamily: 'PhosphorLight',
@@ -16147,7 +16147,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tabs` no estilo Light.
   ///
-  /// ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tabs.svg)
+  /// ![tabs](https://api.iconify.design/ph/tabs-light.svg?height=32&color=%23888888)
   static const IconData tabs = IconData(
     0xe778,
     fontFamily: 'PhosphorLight',
@@ -16159,7 +16159,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tag` no estilo Light.
   ///
-  /// ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tag.svg)
+  /// ![tag](https://api.iconify.design/ph/tag-light.svg?height=32&color=%23888888)
   static const IconData tag = IconData(
     0xe478,
     fontFamily: 'PhosphorLight',
@@ -16171,7 +16171,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tagChevron` no estilo Light.
   ///
-  /// ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tag-chevron.svg)
+  /// ![tag-chevron](https://api.iconify.design/ph/tag-chevron-light.svg?height=32&color=%23888888)
   static const IconData tagChevron = IconData(
     0xe672,
     fontFamily: 'PhosphorLight',
@@ -16183,7 +16183,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tagSimple` no estilo Light.
   ///
-  /// ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tag-simple.svg)
+  /// ![tag-simple](https://api.iconify.design/ph/tag-simple-light.svg?height=32&color=%23888888)
   static const IconData tagSimple = IconData(
     0xe47a,
     fontFamily: 'PhosphorLight',
@@ -16195,7 +16195,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `target` no estilo Light.
   ///
-  /// ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/target.svg)
+  /// ![target](https://api.iconify.design/ph/target-light.svg?height=32&color=%23888888)
   static const IconData target = IconData(
     0xe47c,
     fontFamily: 'PhosphorLight',
@@ -16207,7 +16207,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `taxi` no estilo Light.
   ///
-  /// ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/taxi.svg)
+  /// ![taxi](https://api.iconify.design/ph/taxi-light.svg?height=32&color=%23888888)
   static const IconData taxi = IconData(
     0xe902,
     fontFamily: 'PhosphorLight',
@@ -16219,7 +16219,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `teaBag` no estilo Light.
   ///
-  /// ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tea-bag.svg)
+  /// ![tea-bag](https://api.iconify.design/ph/tea-bag-light.svg?height=32&color=%23888888)
   static const IconData teaBag = IconData(
     0xe8e6,
     fontFamily: 'PhosphorLight',
@@ -16231,7 +16231,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `telegramLogo` no estilo Light.
   ///
-  /// ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/telegram-logo.svg)
+  /// ![telegram-logo](https://api.iconify.design/ph/telegram-logo-light.svg?height=32&color=%23888888)
   static const IconData telegramLogo = IconData(
     0xe5bc,
     fontFamily: 'PhosphorLight',
@@ -16243,7 +16243,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `television` no estilo Light.
   ///
-  /// ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/television.svg)
+  /// ![television](https://api.iconify.design/ph/television-light.svg?height=32&color=%23888888)
   static const IconData television = IconData(
     0xe754,
     fontFamily: 'PhosphorLight',
@@ -16255,7 +16255,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `televisionSimple` no estilo Light.
   ///
-  /// ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/television-simple.svg)
+  /// ![television-simple](https://api.iconify.design/ph/television-simple-light.svg?height=32&color=%23888888)
   static const IconData televisionSimple = IconData(
     0xeae6,
     fontFamily: 'PhosphorLight',
@@ -16267,7 +16267,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tennisBall` no estilo Light.
   ///
-  /// ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tennis-ball.svg)
+  /// ![tennis-ball](https://api.iconify.design/ph/tennis-ball-light.svg?height=32&color=%23888888)
   static const IconData tennisBall = IconData(
     0xe720,
     fontFamily: 'PhosphorLight',
@@ -16279,7 +16279,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tent` no estilo Light.
   ///
-  /// ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tent.svg)
+  /// ![tent](https://api.iconify.design/ph/tent-light.svg?height=32&color=%23888888)
   static const IconData tent = IconData(
     0xe8ba,
     fontFamily: 'PhosphorLight',
@@ -16291,7 +16291,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `terminal` no estilo Light.
   ///
-  /// ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/terminal.svg)
+  /// ![terminal](https://api.iconify.design/ph/terminal-light.svg?height=32&color=%23888888)
   static const IconData terminal = IconData(
     0xe47e,
     fontFamily: 'PhosphorLight',
@@ -16303,7 +16303,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `terminalWindow` no estilo Light.
   ///
-  /// ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/terminal-window.svg)
+  /// ![terminal-window](https://api.iconify.design/ph/terminal-window-light.svg?height=32&color=%23888888)
   static const IconData terminalWindow = IconData(
     0xeae8,
     fontFamily: 'PhosphorLight',
@@ -16315,7 +16315,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `testTube` no estilo Light.
   ///
-  /// ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/test-tube.svg)
+  /// ![test-tube](https://api.iconify.design/ph/test-tube-light.svg?height=32&color=%23888888)
   static const IconData testTube = IconData(
     0xe7a0,
     fontFamily: 'PhosphorLight',
@@ -16327,7 +16327,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textAUnderline` no estilo Light.
   ///
-  /// ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-a-underline.svg)
+  /// ![text-a-underline](https://api.iconify.design/ph/text-a-underline-light.svg?height=32&color=%23888888)
   static const IconData textAUnderline = IconData(
     0xed34,
     fontFamily: 'PhosphorLight',
@@ -16339,7 +16339,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textAa` no estilo Light.
   ///
-  /// ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-aa.svg)
+  /// ![text-aa](https://api.iconify.design/ph/text-aa-light.svg?height=32&color=%23888888)
   static const IconData textAa = IconData(
     0xe6ee,
     fontFamily: 'PhosphorLight',
@@ -16351,7 +16351,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textAlignCenter` no estilo Light.
   ///
-  /// ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-center.svg)
+  /// ![text-align-center](https://api.iconify.design/ph/text-align-center-light.svg?height=32&color=%23888888)
   static const IconData textAlignCenter = IconData(
     0xe480,
     fontFamily: 'PhosphorLight',
@@ -16363,7 +16363,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textAlignJustify` no estilo Light.
   ///
-  /// ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-justify.svg)
+  /// ![text-align-justify](https://api.iconify.design/ph/text-align-justify-light.svg?height=32&color=%23888888)
   static const IconData textAlignJustify = IconData(
     0xe482,
     fontFamily: 'PhosphorLight',
@@ -16375,7 +16375,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textAlignLeft` no estilo Light.
   ///
-  /// ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-left.svg)
+  /// ![text-align-left](https://api.iconify.design/ph/text-align-left-light.svg?height=32&color=%23888888)
   static const IconData textAlignLeft = IconData(
     0xe484,
     fontFamily: 'PhosphorLight',
@@ -16387,7 +16387,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textAlignRight` no estilo Light.
   ///
-  /// ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-right.svg)
+  /// ![text-align-right](https://api.iconify.design/ph/text-align-right-light.svg?height=32&color=%23888888)
   static const IconData textAlignRight = IconData(
     0xe486,
     fontFamily: 'PhosphorLight',
@@ -16399,7 +16399,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textB` no estilo Light.
   ///
-  /// ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-b.svg)
+  /// ![text-b](https://api.iconify.design/ph/text-b-light.svg?height=32&color=%23888888)
   static const IconData textB = IconData(
     0xe5be,
     fontFamily: 'PhosphorLight',
@@ -16411,7 +16411,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textBolder` no estilo Light.
   ///
-  /// ![text-bolder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-bolder.svg)
+  /// ![text-bolder](https://api.iconify.design/ph/text-b-light.svg?height=32&color=%23888888)
   static const IconData textBolder = IconData(
     0xe5be,
     fontFamily: 'PhosphorLight',
@@ -16423,7 +16423,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textColumns` no estilo Light.
   ///
-  /// ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-columns.svg)
+  /// ![text-columns](https://api.iconify.design/ph/text-columns-light.svg?height=32&color=%23888888)
   static const IconData textColumns = IconData(
     0xec96,
     fontFamily: 'PhosphorLight',
@@ -16435,7 +16435,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textH` no estilo Light.
   ///
-  /// ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h.svg)
+  /// ![text-h](https://api.iconify.design/ph/text-h-light.svg?height=32&color=%23888888)
   static const IconData textH = IconData(
     0xe6ba,
     fontFamily: 'PhosphorLight',
@@ -16447,7 +16447,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textHFive` no estilo Light.
   ///
-  /// ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-five.svg)
+  /// ![text-h-five](https://api.iconify.design/ph/text-h-five-light.svg?height=32&color=%23888888)
   static const IconData textHFive = IconData(
     0xe6c4,
     fontFamily: 'PhosphorLight',
@@ -16459,7 +16459,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textHFour` no estilo Light.
   ///
-  /// ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-four.svg)
+  /// ![text-h-four](https://api.iconify.design/ph/text-h-four-light.svg?height=32&color=%23888888)
   static const IconData textHFour = IconData(
     0xe6c2,
     fontFamily: 'PhosphorLight',
@@ -16471,7 +16471,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textHOne` no estilo Light.
   ///
-  /// ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-one.svg)
+  /// ![text-h-one](https://api.iconify.design/ph/text-h-one-light.svg?height=32&color=%23888888)
   static const IconData textHOne = IconData(
     0xe6bc,
     fontFamily: 'PhosphorLight',
@@ -16483,7 +16483,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textHSix` no estilo Light.
   ///
-  /// ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-six.svg)
+  /// ![text-h-six](https://api.iconify.design/ph/text-h-six-light.svg?height=32&color=%23888888)
   static const IconData textHSix = IconData(
     0xe6c6,
     fontFamily: 'PhosphorLight',
@@ -16495,7 +16495,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textHThree` no estilo Light.
   ///
-  /// ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-three.svg)
+  /// ![text-h-three](https://api.iconify.design/ph/text-h-three-light.svg?height=32&color=%23888888)
   static const IconData textHThree = IconData(
     0xe6c0,
     fontFamily: 'PhosphorLight',
@@ -16507,7 +16507,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textHTwo` no estilo Light.
   ///
-  /// ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-two.svg)
+  /// ![text-h-two](https://api.iconify.design/ph/text-h-two-light.svg?height=32&color=%23888888)
   static const IconData textHTwo = IconData(
     0xe6be,
     fontFamily: 'PhosphorLight',
@@ -16519,7 +16519,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textIndent` no estilo Light.
   ///
-  /// ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-indent.svg)
+  /// ![text-indent](https://api.iconify.design/ph/text-indent-light.svg?height=32&color=%23888888)
   static const IconData textIndent = IconData(
     0xea1e,
     fontFamily: 'PhosphorLight',
@@ -16531,7 +16531,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textItalic` no estilo Light.
   ///
-  /// ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-italic.svg)
+  /// ![text-italic](https://api.iconify.design/ph/text-italic-light.svg?height=32&color=%23888888)
   static const IconData textItalic = IconData(
     0xe5c0,
     fontFamily: 'PhosphorLight',
@@ -16543,7 +16543,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textOutdent` no estilo Light.
   ///
-  /// ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-outdent.svg)
+  /// ![text-outdent](https://api.iconify.design/ph/text-outdent-light.svg?height=32&color=%23888888)
   static const IconData textOutdent = IconData(
     0xea1c,
     fontFamily: 'PhosphorLight',
@@ -16555,7 +16555,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textStrikethrough` no estilo Light.
   ///
-  /// ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-strikethrough.svg)
+  /// ![text-strikethrough](https://api.iconify.design/ph/text-strikethrough-light.svg?height=32&color=%23888888)
   static const IconData textStrikethrough = IconData(
     0xe5c2,
     fontFamily: 'PhosphorLight',
@@ -16567,7 +16567,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textSubscript` no estilo Light.
   ///
-  /// ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-subscript.svg)
+  /// ![text-subscript](https://api.iconify.design/ph/text-subscript-light.svg?height=32&color=%23888888)
   static const IconData textSubscript = IconData(
     0xec98,
     fontFamily: 'PhosphorLight',
@@ -16579,7 +16579,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textSuperscript` no estilo Light.
   ///
-  /// ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-superscript.svg)
+  /// ![text-superscript](https://api.iconify.design/ph/text-superscript-light.svg?height=32&color=%23888888)
   static const IconData textSuperscript = IconData(
     0xec9a,
     fontFamily: 'PhosphorLight',
@@ -16591,7 +16591,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textT` no estilo Light.
   ///
-  /// ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-t.svg)
+  /// ![text-t](https://api.iconify.design/ph/text-t-light.svg?height=32&color=%23888888)
   static const IconData textT = IconData(
     0xe48a,
     fontFamily: 'PhosphorLight',
@@ -16603,7 +16603,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textTSlash` no estilo Light.
   ///
-  /// ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-t-slash.svg)
+  /// ![text-t-slash](https://api.iconify.design/ph/text-t-slash-light.svg?height=32&color=%23888888)
   static const IconData textTSlash = IconData(
     0xe488,
     fontFamily: 'PhosphorLight',
@@ -16615,7 +16615,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textUnderline` no estilo Light.
   ///
-  /// ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-underline.svg)
+  /// ![text-underline](https://api.iconify.design/ph/text-underline-light.svg?height=32&color=%23888888)
   static const IconData textUnderline = IconData(
     0xe5c4,
     fontFamily: 'PhosphorLight',
@@ -16627,7 +16627,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `textbox` no estilo Light.
   ///
-  /// ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/textbox.svg)
+  /// ![textbox](https://api.iconify.design/ph/textbox-light.svg?height=32&color=%23888888)
   static const IconData textbox = IconData(
     0xeb0a,
     fontFamily: 'PhosphorLight',
@@ -16639,7 +16639,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `thermometer` no estilo Light.
   ///
-  /// ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer.svg)
+  /// ![thermometer](https://api.iconify.design/ph/thermometer-light.svg?height=32&color=%23888888)
   static const IconData thermometer = IconData(
     0xe5c6,
     fontFamily: 'PhosphorLight',
@@ -16651,7 +16651,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `thermometerCold` no estilo Light.
   ///
-  /// ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer-cold.svg)
+  /// ![thermometer-cold](https://api.iconify.design/ph/thermometer-cold-light.svg?height=32&color=%23888888)
   static const IconData thermometerCold = IconData(
     0xe5c8,
     fontFamily: 'PhosphorLight',
@@ -16663,7 +16663,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `thermometerHot` no estilo Light.
   ///
-  /// ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer-hot.svg)
+  /// ![thermometer-hot](https://api.iconify.design/ph/thermometer-hot-light.svg?height=32&color=%23888888)
   static const IconData thermometerHot = IconData(
     0xe5ca,
     fontFamily: 'PhosphorLight',
@@ -16675,7 +16675,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `thermometerSimple` no estilo Light.
   ///
-  /// ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer-simple.svg)
+  /// ![thermometer-simple](https://api.iconify.design/ph/thermometer-simple-light.svg?height=32&color=%23888888)
   static const IconData thermometerSimple = IconData(
     0xe5cc,
     fontFamily: 'PhosphorLight',
@@ -16687,7 +16687,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `threadsLogo` no estilo Light.
   ///
-  /// ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/threads-logo.svg)
+  /// ![threads-logo](https://api.iconify.design/ph/threads-logo-light.svg?height=32&color=%23888888)
   static const IconData threadsLogo = IconData(
     0xed9e,
     fontFamily: 'PhosphorLight',
@@ -16699,7 +16699,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `threeD` no estilo Light.
   ///
-  /// ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/three-d.svg)
+  /// ![three-d](https://api.iconify.design/ph/three-d-light.svg?height=32&color=%23888888)
   static const IconData threeD = IconData(
     0xea5a,
     fontFamily: 'PhosphorLight',
@@ -16711,7 +16711,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `thumbsDown` no estilo Light.
   ///
-  /// ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thumbs-down.svg)
+  /// ![thumbs-down](https://api.iconify.design/ph/thumbs-down-light.svg?height=32&color=%23888888)
   static const IconData thumbsDown = IconData(
     0xe48c,
     fontFamily: 'PhosphorLight',
@@ -16723,7 +16723,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `thumbsUp` no estilo Light.
   ///
-  /// ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thumbs-up.svg)
+  /// ![thumbs-up](https://api.iconify.design/ph/thumbs-up-light.svg?height=32&color=%23888888)
   static const IconData thumbsUp = IconData(
     0xe48e,
     fontFamily: 'PhosphorLight',
@@ -16735,7 +16735,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `ticket` no estilo Light.
   ///
-  /// ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ticket.svg)
+  /// ![ticket](https://api.iconify.design/ph/ticket-light.svg?height=32&color=%23888888)
   static const IconData ticket = IconData(
     0xe490,
     fontFamily: 'PhosphorLight',
@@ -16747,7 +16747,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tidalLogo` no estilo Light.
   ///
-  /// ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tidal-logo.svg)
+  /// ![tidal-logo](https://api.iconify.design/ph/tidal-logo-light.svg?height=32&color=%23888888)
   static const IconData tidalLogo = IconData(
     0xed1c,
     fontFamily: 'PhosphorLight',
@@ -16759,7 +16759,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tiktokLogo` no estilo Light.
   ///
-  /// ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tiktok-logo.svg)
+  /// ![tiktok-logo](https://api.iconify.design/ph/tiktok-logo-light.svg?height=32&color=%23888888)
   static const IconData tiktokLogo = IconData(
     0xeaf2,
     fontFamily: 'PhosphorLight',
@@ -16771,7 +16771,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tilde` no estilo Light.
   ///
-  /// ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tilde.svg)
+  /// ![tilde](https://api.iconify.design/ph/tilde-light.svg?height=32&color=%23888888)
   static const IconData tilde = IconData(
     0xeda8,
     fontFamily: 'PhosphorLight',
@@ -16783,7 +16783,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `timer` no estilo Light.
   ///
-  /// ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/timer.svg)
+  /// ![timer](https://api.iconify.design/ph/timer-light.svg?height=32&color=%23888888)
   static const IconData timer = IconData(
     0xe492,
     fontFamily: 'PhosphorLight',
@@ -16795,7 +16795,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tipJar` no estilo Light.
   ///
-  /// ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tip-jar.svg)
+  /// ![tip-jar](https://api.iconify.design/ph/tip-jar-light.svg?height=32&color=%23888888)
   static const IconData tipJar = IconData(
     0xe7e2,
     fontFamily: 'PhosphorLight',
@@ -16807,7 +16807,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tipi` no estilo Light.
   ///
-  /// ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tipi.svg)
+  /// ![tipi](https://api.iconify.design/ph/tipi-light.svg?height=32&color=%23888888)
   static const IconData tipi = IconData(
     0xed30,
     fontFamily: 'PhosphorLight',
@@ -16819,7 +16819,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tire` no estilo Light.
   ///
-  /// ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tire.svg)
+  /// ![tire](https://api.iconify.design/ph/tire-light.svg?height=32&color=%23888888)
   static const IconData tire = IconData(
     0xedd2,
     fontFamily: 'PhosphorLight',
@@ -16831,7 +16831,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `toggleLeft` no estilo Light.
   ///
-  /// ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toggle-left.svg)
+  /// ![toggle-left](https://api.iconify.design/ph/toggle-left-light.svg?height=32&color=%23888888)
   static const IconData toggleLeft = IconData(
     0xe674,
     fontFamily: 'PhosphorLight',
@@ -16843,7 +16843,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `toggleRight` no estilo Light.
   ///
-  /// ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toggle-right.svg)
+  /// ![toggle-right](https://api.iconify.design/ph/toggle-right-light.svg?height=32&color=%23888888)
   static const IconData toggleRight = IconData(
     0xe676,
     fontFamily: 'PhosphorLight',
@@ -16855,7 +16855,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `toilet` no estilo Light.
   ///
-  /// ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toilet.svg)
+  /// ![toilet](https://api.iconify.design/ph/toilet-light.svg?height=32&color=%23888888)
   static const IconData toilet = IconData(
     0xe79a,
     fontFamily: 'PhosphorLight',
@@ -16867,7 +16867,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `toiletPaper` no estilo Light.
   ///
-  /// ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toilet-paper.svg)
+  /// ![toilet-paper](https://api.iconify.design/ph/toilet-paper-light.svg?height=32&color=%23888888)
   static const IconData toiletPaper = IconData(
     0xe79c,
     fontFamily: 'PhosphorLight',
@@ -16879,7 +16879,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `toolbox` no estilo Light.
   ///
-  /// ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toolbox.svg)
+  /// ![toolbox](https://api.iconify.design/ph/toolbox-light.svg?height=32&color=%23888888)
   static const IconData toolbox = IconData(
     0xeca0,
     fontFamily: 'PhosphorLight',
@@ -16891,7 +16891,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tooth` no estilo Light.
   ///
-  /// ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tooth.svg)
+  /// ![tooth](https://api.iconify.design/ph/tooth-light.svg?height=32&color=%23888888)
   static const IconData tooth = IconData(
     0xe9cc,
     fontFamily: 'PhosphorLight',
@@ -16903,7 +16903,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tornado` no estilo Light.
   ///
-  /// ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tornado.svg)
+  /// ![tornado](https://api.iconify.design/ph/tornado-light.svg?height=32&color=%23888888)
   static const IconData tornado = IconData(
     0xe88c,
     fontFamily: 'PhosphorLight',
@@ -16915,7 +16915,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tote` no estilo Light.
   ///
-  /// ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tote.svg)
+  /// ![tote](https://api.iconify.design/ph/tote-light.svg?height=32&color=%23888888)
   static const IconData tote = IconData(
     0xe494,
     fontFamily: 'PhosphorLight',
@@ -16927,7 +16927,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `toteSimple` no estilo Light.
   ///
-  /// ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tote-simple.svg)
+  /// ![tote-simple](https://api.iconify.design/ph/tote-simple-light.svg?height=32&color=%23888888)
   static const IconData toteSimple = IconData(
     0xe678,
     fontFamily: 'PhosphorLight',
@@ -16939,7 +16939,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `towel` no estilo Light.
   ///
-  /// ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/towel.svg)
+  /// ![towel](https://api.iconify.design/ph/towel-light.svg?height=32&color=%23888888)
   static const IconData towel = IconData(
     0xede6,
     fontFamily: 'PhosphorLight',
@@ -16951,7 +16951,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tractor` no estilo Light.
   ///
-  /// ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tractor.svg)
+  /// ![tractor](https://api.iconify.design/ph/tractor-light.svg?height=32&color=%23888888)
   static const IconData tractor = IconData(
     0xec6e,
     fontFamily: 'PhosphorLight',
@@ -16963,7 +16963,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trademark` no estilo Light.
   ///
-  /// ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trademark.svg)
+  /// ![trademark](https://api.iconify.design/ph/trademark-light.svg?height=32&color=%23888888)
   static const IconData trademark = IconData(
     0xe9f0,
     fontFamily: 'PhosphorLight',
@@ -16975,7 +16975,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trademarkRegistered` no estilo Light.
   ///
-  /// ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trademark-registered.svg)
+  /// ![trademark-registered](https://api.iconify.design/ph/trademark-registered-light.svg?height=32&color=%23888888)
   static const IconData trademarkRegistered = IconData(
     0xe3f4,
     fontFamily: 'PhosphorLight',
@@ -16987,7 +16987,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trafficCone` no estilo Light.
   ///
-  /// ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/traffic-cone.svg)
+  /// ![traffic-cone](https://api.iconify.design/ph/traffic-cone-light.svg?height=32&color=%23888888)
   static const IconData trafficCone = IconData(
     0xe9a8,
     fontFamily: 'PhosphorLight',
@@ -16999,7 +16999,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trafficSign` no estilo Light.
   ///
-  /// ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/traffic-sign.svg)
+  /// ![traffic-sign](https://api.iconify.design/ph/traffic-sign-light.svg?height=32&color=%23888888)
   static const IconData trafficSign = IconData(
     0xe67a,
     fontFamily: 'PhosphorLight',
@@ -17011,7 +17011,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trafficSignal` no estilo Light.
   ///
-  /// ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/traffic-signal.svg)
+  /// ![traffic-signal](https://api.iconify.design/ph/traffic-signal-light.svg?height=32&color=%23888888)
   static const IconData trafficSignal = IconData(
     0xe9aa,
     fontFamily: 'PhosphorLight',
@@ -17023,7 +17023,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `train` no estilo Light.
   ///
-  /// ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/train.svg)
+  /// ![train](https://api.iconify.design/ph/train-light.svg?height=32&color=%23888888)
   static const IconData train = IconData(
     0xe496,
     fontFamily: 'PhosphorLight',
@@ -17035,7 +17035,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trainRegional` no estilo Light.
   ///
-  /// ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/train-regional.svg)
+  /// ![train-regional](https://api.iconify.design/ph/train-regional-light.svg?height=32&color=%23888888)
   static const IconData trainRegional = IconData(
     0xe49e,
     fontFamily: 'PhosphorLight',
@@ -17047,7 +17047,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trainSimple` no estilo Light.
   ///
-  /// ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/train-simple.svg)
+  /// ![train-simple](https://api.iconify.design/ph/train-simple-light.svg?height=32&color=%23888888)
   static const IconData trainSimple = IconData(
     0xe4a0,
     fontFamily: 'PhosphorLight',
@@ -17059,7 +17059,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tram` no estilo Light.
   ///
-  /// ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tram.svg)
+  /// ![tram](https://api.iconify.design/ph/tram-light.svg?height=32&color=%23888888)
   static const IconData tram = IconData(
     0xe9ec,
     fontFamily: 'PhosphorLight',
@@ -17071,7 +17071,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `translate` no estilo Light.
   ///
-  /// ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/translate.svg)
+  /// ![translate](https://api.iconify.design/ph/translate-light.svg?height=32&color=%23888888)
   static const IconData translate = IconData(
     0xe4a2,
     fontFamily: 'PhosphorLight',
@@ -17083,7 +17083,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trash` no estilo Light.
   ///
-  /// ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trash.svg)
+  /// ![trash](https://api.iconify.design/ph/trash-light.svg?height=32&color=%23888888)
   static const IconData trash = IconData(
     0xe4a6,
     fontFamily: 'PhosphorLight',
@@ -17095,7 +17095,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trashSimple` no estilo Light.
   ///
-  /// ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trash-simple.svg)
+  /// ![trash-simple](https://api.iconify.design/ph/trash-simple-light.svg?height=32&color=%23888888)
   static const IconData trashSimple = IconData(
     0xe4a8,
     fontFamily: 'PhosphorLight',
@@ -17107,7 +17107,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tray` no estilo Light.
   ///
-  /// ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tray.svg)
+  /// ![tray](https://api.iconify.design/ph/tray-light.svg?height=32&color=%23888888)
   static const IconData tray = IconData(
     0xe4aa,
     fontFamily: 'PhosphorLight',
@@ -17119,7 +17119,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trayArrowDown` no estilo Light.
   ///
-  /// ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tray-arrow-down.svg)
+  /// ![tray-arrow-down](https://api.iconify.design/ph/tray-arrow-down-light.svg?height=32&color=%23888888)
   static const IconData trayArrowDown = IconData(
     0xe010,
     fontFamily: 'PhosphorLight',
@@ -17131,7 +17131,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trayArrowUp` no estilo Light.
   ///
-  /// ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tray-arrow-up.svg)
+  /// ![tray-arrow-up](https://api.iconify.design/ph/tray-arrow-up-light.svg?height=32&color=%23888888)
   static const IconData trayArrowUp = IconData(
     0xee52,
     fontFamily: 'PhosphorLight',
@@ -17143,7 +17143,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `treasureChest` no estilo Light.
   ///
-  /// ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/treasure-chest.svg)
+  /// ![treasure-chest](https://api.iconify.design/ph/treasure-chest-light.svg?height=32&color=%23888888)
   static const IconData treasureChest = IconData(
     0xede2,
     fontFamily: 'PhosphorLight',
@@ -17155,7 +17155,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tree` no estilo Light.
   ///
-  /// ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree.svg)
+  /// ![tree](https://api.iconify.design/ph/tree-light.svg?height=32&color=%23888888)
   static const IconData tree = IconData(
     0xe6da,
     fontFamily: 'PhosphorLight',
@@ -17167,7 +17167,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `treeEvergreen` no estilo Light.
   ///
-  /// ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-evergreen.svg)
+  /// ![tree-evergreen](https://api.iconify.design/ph/tree-evergreen-light.svg?height=32&color=%23888888)
   static const IconData treeEvergreen = IconData(
     0xe6dc,
     fontFamily: 'PhosphorLight',
@@ -17179,7 +17179,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `treePalm` no estilo Light.
   ///
-  /// ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-palm.svg)
+  /// ![tree-palm](https://api.iconify.design/ph/tree-palm-light.svg?height=32&color=%23888888)
   static const IconData treePalm = IconData(
     0xe91a,
     fontFamily: 'PhosphorLight',
@@ -17191,7 +17191,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `treeStructure` no estilo Light.
   ///
-  /// ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-structure.svg)
+  /// ![tree-structure](https://api.iconify.design/ph/tree-structure-light.svg?height=32&color=%23888888)
   static const IconData treeStructure = IconData(
     0xe67c,
     fontFamily: 'PhosphorLight',
@@ -17203,7 +17203,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `treeView` no estilo Light.
   ///
-  /// ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-view.svg)
+  /// ![tree-view](https://api.iconify.design/ph/tree-view-light.svg?height=32&color=%23888888)
   static const IconData treeView = IconData(
     0xee48,
     fontFamily: 'PhosphorLight',
@@ -17215,7 +17215,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trendDown` no estilo Light.
   ///
-  /// ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trend-down.svg)
+  /// ![trend-down](https://api.iconify.design/ph/trend-down-light.svg?height=32&color=%23888888)
   static const IconData trendDown = IconData(
     0xe4ac,
     fontFamily: 'PhosphorLight',
@@ -17227,7 +17227,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trendUp` no estilo Light.
   ///
-  /// ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trend-up.svg)
+  /// ![trend-up](https://api.iconify.design/ph/trend-up-light.svg?height=32&color=%23888888)
   static const IconData trendUp = IconData(
     0xe4ae,
     fontFamily: 'PhosphorLight',
@@ -17239,7 +17239,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `triangle` no estilo Light.
   ///
-  /// ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/triangle.svg)
+  /// ![triangle](https://api.iconify.design/ph/triangle-light.svg?height=32&color=%23888888)
   static const IconData triangle = IconData(
     0xe4b0,
     fontFamily: 'PhosphorLight',
@@ -17251,7 +17251,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `triangleDashed` no estilo Light.
   ///
-  /// ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/triangle-dashed.svg)
+  /// ![triangle-dashed](https://api.iconify.design/ph/triangle-dashed-light.svg?height=32&color=%23888888)
   static const IconData triangleDashed = IconData(
     0xe4b2,
     fontFamily: 'PhosphorLight',
@@ -17263,7 +17263,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trolley` no estilo Light.
   ///
-  /// ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trolley.svg)
+  /// ![trolley](https://api.iconify.design/ph/trolley-light.svg?height=32&color=%23888888)
   static const IconData trolley = IconData(
     0xe5b2,
     fontFamily: 'PhosphorLight',
@@ -17275,7 +17275,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trolleySuitcase` no estilo Light.
   ///
-  /// ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trolley-suitcase.svg)
+  /// ![trolley-suitcase](https://api.iconify.design/ph/trolley-suitcase-light.svg?height=32&color=%23888888)
   static const IconData trolleySuitcase = IconData(
     0xe5b4,
     fontFamily: 'PhosphorLight',
@@ -17287,7 +17287,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `trophy` no estilo Light.
   ///
-  /// ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trophy.svg)
+  /// ![trophy](https://api.iconify.design/ph/trophy-light.svg?height=32&color=%23888888)
   static const IconData trophy = IconData(
     0xe67e,
     fontFamily: 'PhosphorLight',
@@ -17299,7 +17299,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `truck` no estilo Light.
   ///
-  /// ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/truck.svg)
+  /// ![truck](https://api.iconify.design/ph/truck-light.svg?height=32&color=%23888888)
   static const IconData truck = IconData(
     0xe4b4,
     fontFamily: 'PhosphorLight',
@@ -17311,7 +17311,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `truckTrailer` no estilo Light.
   ///
-  /// ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/truck-trailer.svg)
+  /// ![truck-trailer](https://api.iconify.design/ph/truck-trailer-light.svg?height=32&color=%23888888)
   static const IconData truckTrailer = IconData(
     0xe4b6,
     fontFamily: 'PhosphorLight',
@@ -17323,7 +17323,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `tumblrLogo` no estilo Light.
   ///
-  /// ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tumblr-logo.svg)
+  /// ![tumblr-logo](https://api.iconify.design/ph/tumblr-logo-light.svg?height=32&color=%23888888)
   static const IconData tumblrLogo = IconData(
     0xe8d4,
     fontFamily: 'PhosphorLight',
@@ -17335,7 +17335,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `twitchLogo` no estilo Light.
   ///
-  /// ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/twitch-logo.svg)
+  /// ![twitch-logo](https://api.iconify.design/ph/twitch-logo-light.svg?height=32&color=%23888888)
   static const IconData twitchLogo = IconData(
     0xe5ce,
     fontFamily: 'PhosphorLight',
@@ -17347,7 +17347,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `twitterLogo` no estilo Light.
   ///
-  /// ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/twitter-logo.svg)
+  /// ![twitter-logo](https://api.iconify.design/ph/twitter-logo-light.svg?height=32&color=%23888888)
   static const IconData twitterLogo = IconData(
     0xe4ba,
     fontFamily: 'PhosphorLight',
@@ -17359,7 +17359,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `umbrella` no estilo Light.
   ///
-  /// ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/umbrella.svg)
+  /// ![umbrella](https://api.iconify.design/ph/umbrella-light.svg?height=32&color=%23888888)
   static const IconData umbrella = IconData(
     0xe684,
     fontFamily: 'PhosphorLight',
@@ -17371,7 +17371,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `umbrellaSimple` no estilo Light.
   ///
-  /// ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/umbrella-simple.svg)
+  /// ![umbrella-simple](https://api.iconify.design/ph/umbrella-simple-light.svg?height=32&color=%23888888)
   static const IconData umbrellaSimple = IconData(
     0xe686,
     fontFamily: 'PhosphorLight',
@@ -17383,7 +17383,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `union` no estilo Light.
   ///
-  /// ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/union.svg)
+  /// ![union](https://api.iconify.design/ph/union-light.svg?height=32&color=%23888888)
   static const IconData union = IconData(
     0xedbe,
     fontFamily: 'PhosphorLight',
@@ -17395,7 +17395,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `unite` no estilo Light.
   ///
-  /// ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/unite.svg)
+  /// ![unite](https://api.iconify.design/ph/unite-light.svg?height=32&color=%23888888)
   static const IconData unite = IconData(
     0xe87e,
     fontFamily: 'PhosphorLight',
@@ -17407,7 +17407,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `uniteSquare` no estilo Light.
   ///
-  /// ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/unite-square.svg)
+  /// ![unite-square](https://api.iconify.design/ph/unite-square-light.svg?height=32&color=%23888888)
   static const IconData uniteSquare = IconData(
     0xe878,
     fontFamily: 'PhosphorLight',
@@ -17419,7 +17419,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `upload` no estilo Light.
   ///
-  /// ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/upload.svg)
+  /// ![upload](https://api.iconify.design/ph/upload-light.svg?height=32&color=%23888888)
   static const IconData upload = IconData(
     0xe4be,
     fontFamily: 'PhosphorLight',
@@ -17431,7 +17431,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `uploadSimple` no estilo Light.
   ///
-  /// ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/upload-simple.svg)
+  /// ![upload-simple](https://api.iconify.design/ph/upload-simple-light.svg?height=32&color=%23888888)
   static const IconData uploadSimple = IconData(
     0xe4c0,
     fontFamily: 'PhosphorLight',
@@ -17443,7 +17443,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `usb` no estilo Light.
   ///
-  /// ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/usb.svg)
+  /// ![usb](https://api.iconify.design/ph/usb-light.svg?height=32&color=%23888888)
   static const IconData usb = IconData(
     0xe956,
     fontFamily: 'PhosphorLight',
@@ -17455,7 +17455,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `user` no estilo Light.
   ///
-  /// ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user.svg)
+  /// ![user](https://api.iconify.design/ph/user-light.svg?height=32&color=%23888888)
   static const IconData user = IconData(
     0xe4c2,
     fontFamily: 'PhosphorLight',
@@ -17467,7 +17467,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userCheck` no estilo Light.
   ///
-  /// ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-check.svg)
+  /// ![user-check](https://api.iconify.design/ph/user-check-light.svg?height=32&color=%23888888)
   static const IconData userCheck = IconData(
     0xeafa,
     fontFamily: 'PhosphorLight',
@@ -17479,7 +17479,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userCircle` no estilo Light.
   ///
-  /// ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle.svg)
+  /// ![user-circle](https://api.iconify.design/ph/user-circle-light.svg?height=32&color=%23888888)
   static const IconData userCircle = IconData(
     0xe4c4,
     fontFamily: 'PhosphorLight',
@@ -17491,7 +17491,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userCircleCheck` no estilo Light.
   ///
-  /// ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-check.svg)
+  /// ![user-circle-check](https://api.iconify.design/ph/user-circle-check-light.svg?height=32&color=%23888888)
   static const IconData userCircleCheck = IconData(
     0xec38,
     fontFamily: 'PhosphorLight',
@@ -17503,7 +17503,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userCircleDashed` no estilo Light.
   ///
-  /// ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-dashed.svg)
+  /// ![user-circle-dashed](https://api.iconify.design/ph/user-circle-dashed-light.svg?height=32&color=%23888888)
   static const IconData userCircleDashed = IconData(
     0xec36,
     fontFamily: 'PhosphorLight',
@@ -17515,7 +17515,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userCircleGear` no estilo Light.
   ///
-  /// ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-gear.svg)
+  /// ![user-circle-gear](https://api.iconify.design/ph/user-circle-gear-light.svg?height=32&color=%23888888)
   static const IconData userCircleGear = IconData(
     0xe4c6,
     fontFamily: 'PhosphorLight',
@@ -17527,7 +17527,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userCircleMinus` no estilo Light.
   ///
-  /// ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-minus.svg)
+  /// ![user-circle-minus](https://api.iconify.design/ph/user-circle-minus-light.svg?height=32&color=%23888888)
   static const IconData userCircleMinus = IconData(
     0xe4c8,
     fontFamily: 'PhosphorLight',
@@ -17539,7 +17539,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userCirclePlus` no estilo Light.
   ///
-  /// ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-plus.svg)
+  /// ![user-circle-plus](https://api.iconify.design/ph/user-circle-plus-light.svg?height=32&color=%23888888)
   static const IconData userCirclePlus = IconData(
     0xe4ca,
     fontFamily: 'PhosphorLight',
@@ -17551,7 +17551,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userFocus` no estilo Light.
   ///
-  /// ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-focus.svg)
+  /// ![user-focus](https://api.iconify.design/ph/user-focus-light.svg?height=32&color=%23888888)
   static const IconData userFocus = IconData(
     0xe6fc,
     fontFamily: 'PhosphorLight',
@@ -17563,7 +17563,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userGear` no estilo Light.
   ///
-  /// ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-gear.svg)
+  /// ![user-gear](https://api.iconify.design/ph/user-gear-light.svg?height=32&color=%23888888)
   static const IconData userGear = IconData(
     0xe4cc,
     fontFamily: 'PhosphorLight',
@@ -17575,7 +17575,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userList` no estilo Light.
   ///
-  /// ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-list.svg)
+  /// ![user-list](https://api.iconify.design/ph/user-list-light.svg?height=32&color=%23888888)
   static const IconData userList = IconData(
     0xe73c,
     fontFamily: 'PhosphorLight',
@@ -17587,7 +17587,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userMinus` no estilo Light.
   ///
-  /// ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-minus.svg)
+  /// ![user-minus](https://api.iconify.design/ph/user-minus-light.svg?height=32&color=%23888888)
   static const IconData userMinus = IconData(
     0xe4ce,
     fontFamily: 'PhosphorLight',
@@ -17599,7 +17599,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userPlus` no estilo Light.
   ///
-  /// ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-plus.svg)
+  /// ![user-plus](https://api.iconify.design/ph/user-plus-light.svg?height=32&color=%23888888)
   static const IconData userPlus = IconData(
     0xe4d0,
     fontFamily: 'PhosphorLight',
@@ -17611,7 +17611,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userRectangle` no estilo Light.
   ///
-  /// ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-rectangle.svg)
+  /// ![user-rectangle](https://api.iconify.design/ph/user-rectangle-light.svg?height=32&color=%23888888)
   static const IconData userRectangle = IconData(
     0xe4d2,
     fontFamily: 'PhosphorLight',
@@ -17623,7 +17623,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userSound` no estilo Light.
   ///
-  /// ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-sound.svg)
+  /// ![user-sound](https://api.iconify.design/ph/user-sound-light.svg?height=32&color=%23888888)
   static const IconData userSound = IconData(
     0xeca8,
     fontFamily: 'PhosphorLight',
@@ -17635,7 +17635,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userSquare` no estilo Light.
   ///
-  /// ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-square.svg)
+  /// ![user-square](https://api.iconify.design/ph/user-square-light.svg?height=32&color=%23888888)
   static const IconData userSquare = IconData(
     0xe4d4,
     fontFamily: 'PhosphorLight',
@@ -17647,7 +17647,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `userSwitch` no estilo Light.
   ///
-  /// ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-switch.svg)
+  /// ![user-switch](https://api.iconify.design/ph/user-switch-light.svg?height=32&color=%23888888)
   static const IconData userSwitch = IconData(
     0xe756,
     fontFamily: 'PhosphorLight',
@@ -17659,7 +17659,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `users` no estilo Light.
   ///
-  /// ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/users.svg)
+  /// ![users](https://api.iconify.design/ph/users-light.svg?height=32&color=%23888888)
   static const IconData users = IconData(
     0xe4d6,
     fontFamily: 'PhosphorLight',
@@ -17671,7 +17671,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `usersFour` no estilo Light.
   ///
-  /// ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/users-four.svg)
+  /// ![users-four](https://api.iconify.design/ph/users-four-light.svg?height=32&color=%23888888)
   static const IconData usersFour = IconData(
     0xe68c,
     fontFamily: 'PhosphorLight',
@@ -17683,7 +17683,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `usersThree` no estilo Light.
   ///
-  /// ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/users-three.svg)
+  /// ![users-three](https://api.iconify.design/ph/users-three-light.svg?height=32&color=%23888888)
   static const IconData usersThree = IconData(
     0xe68e,
     fontFamily: 'PhosphorLight',
@@ -17695,7 +17695,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `van` no estilo Light.
   ///
-  /// ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/van.svg)
+  /// ![van](https://api.iconify.design/ph/van-light.svg?height=32&color=%23888888)
   static const IconData van = IconData(
     0xe826,
     fontFamily: 'PhosphorLight',
@@ -17707,7 +17707,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `vault` no estilo Light.
   ///
-  /// ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vault.svg)
+  /// ![vault](https://api.iconify.design/ph/vault-light.svg?height=32&color=%23888888)
   static const IconData vault = IconData(
     0xe76e,
     fontFamily: 'PhosphorLight',
@@ -17719,7 +17719,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `vectorThree` no estilo Light.
   ///
-  /// ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vector-three.svg)
+  /// ![vector-three](https://api.iconify.design/ph/vector-three-light.svg?height=32&color=%23888888)
   static const IconData vectorThree = IconData(
     0xee62,
     fontFamily: 'PhosphorLight',
@@ -17731,7 +17731,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `vectorTwo` no estilo Light.
   ///
-  /// ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vector-two.svg)
+  /// ![vector-two](https://api.iconify.design/ph/vector-two-light.svg?height=32&color=%23888888)
   static const IconData vectorTwo = IconData(
     0xee64,
     fontFamily: 'PhosphorLight',
@@ -17743,7 +17743,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `vibrate` no estilo Light.
   ///
-  /// ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vibrate.svg)
+  /// ![vibrate](https://api.iconify.design/ph/vibrate-light.svg?height=32&color=%23888888)
   static const IconData vibrate = IconData(
     0xe4d8,
     fontFamily: 'PhosphorLight',
@@ -17755,7 +17755,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `video` no estilo Light.
   ///
-  /// ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video.svg)
+  /// ![video](https://api.iconify.design/ph/video-light.svg?height=32&color=%23888888)
   static const IconData video = IconData(
     0xe740,
     fontFamily: 'PhosphorLight',
@@ -17767,7 +17767,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `videoCamera` no estilo Light.
   ///
-  /// ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video-camera.svg)
+  /// ![video-camera](https://api.iconify.design/ph/video-camera-light.svg?height=32&color=%23888888)
   static const IconData videoCamera = IconData(
     0xe4da,
     fontFamily: 'PhosphorLight',
@@ -17779,7 +17779,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `videoCameraSlash` no estilo Light.
   ///
-  /// ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video-camera-slash.svg)
+  /// ![video-camera-slash](https://api.iconify.design/ph/video-camera-slash-light.svg?height=32&color=%23888888)
   static const IconData videoCameraSlash = IconData(
     0xe4dc,
     fontFamily: 'PhosphorLight',
@@ -17791,7 +17791,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `videoConference` no estilo Light.
   ///
-  /// ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video-conference.svg)
+  /// ![video-conference](https://api.iconify.design/ph/video-conference-light.svg?height=32&color=%23888888)
   static const IconData videoConference = IconData(
     0xedce,
     fontFamily: 'PhosphorLight',
@@ -17803,7 +17803,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `vignette` no estilo Light.
   ///
-  /// ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vignette.svg)
+  /// ![vignette](https://api.iconify.design/ph/vignette-light.svg?height=32&color=%23888888)
   static const IconData vignette = IconData(
     0xeba2,
     fontFamily: 'PhosphorLight',
@@ -17815,7 +17815,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `vinylRecord` no estilo Light.
   ///
-  /// ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vinyl-record.svg)
+  /// ![vinyl-record](https://api.iconify.design/ph/vinyl-record-light.svg?height=32&color=%23888888)
   static const IconData vinylRecord = IconData(
     0xecac,
     fontFamily: 'PhosphorLight',
@@ -17827,7 +17827,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `virtualReality` no estilo Light.
   ///
-  /// ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/virtual-reality.svg)
+  /// ![virtual-reality](https://api.iconify.design/ph/virtual-reality-light.svg?height=32&color=%23888888)
   static const IconData virtualReality = IconData(
     0xe7b8,
     fontFamily: 'PhosphorLight',
@@ -17839,7 +17839,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `virus` no estilo Light.
   ///
-  /// ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/virus.svg)
+  /// ![virus](https://api.iconify.design/ph/virus-light.svg?height=32&color=%23888888)
   static const IconData virus = IconData(
     0xe7d6,
     fontFamily: 'PhosphorLight',
@@ -17851,7 +17851,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `visor` no estilo Light.
   ///
-  /// ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/visor.svg)
+  /// ![visor](https://api.iconify.design/ph/visor-light.svg?height=32&color=%23888888)
   static const IconData visor = IconData(
     0xee2a,
     fontFamily: 'PhosphorLight',
@@ -17863,7 +17863,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `voicemail` no estilo Light.
   ///
-  /// ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/voicemail.svg)
+  /// ![voicemail](https://api.iconify.design/ph/voicemail-light.svg?height=32&color=%23888888)
   static const IconData voicemail = IconData(
     0xe4de,
     fontFamily: 'PhosphorLight',
@@ -17875,7 +17875,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `volleyball` no estilo Light.
   ///
-  /// ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/volleyball.svg)
+  /// ![volleyball](https://api.iconify.design/ph/volleyball-light.svg?height=32&color=%23888888)
   static const IconData volleyball = IconData(
     0xe726,
     fontFamily: 'PhosphorLight',
@@ -17887,7 +17887,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wall` no estilo Light.
   ///
-  /// ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wall.svg)
+  /// ![wall](https://api.iconify.design/ph/wall-light.svg?height=32&color=%23888888)
   static const IconData wall = IconData(
     0xe688,
     fontFamily: 'PhosphorLight',
@@ -17899,7 +17899,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wallet` no estilo Light.
   ///
-  /// ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wallet.svg)
+  /// ![wallet](https://api.iconify.design/ph/wallet-light.svg?height=32&color=%23888888)
   static const IconData wallet = IconData(
     0xe68a,
     fontFamily: 'PhosphorLight',
@@ -17911,7 +17911,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `warehouse` no estilo Light.
   ///
-  /// ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warehouse.svg)
+  /// ![warehouse](https://api.iconify.design/ph/warehouse-light.svg?height=32&color=%23888888)
   static const IconData warehouse = IconData(
     0xecd4,
     fontFamily: 'PhosphorLight',
@@ -17923,7 +17923,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `warning` no estilo Light.
   ///
-  /// ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning.svg)
+  /// ![warning](https://api.iconify.design/ph/warning-light.svg?height=32&color=%23888888)
   static const IconData warning = IconData(
     0xe4e0,
     fontFamily: 'PhosphorLight',
@@ -17935,7 +17935,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `warningCircle` no estilo Light.
   ///
-  /// ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning-circle.svg)
+  /// ![warning-circle](https://api.iconify.design/ph/warning-circle-light.svg?height=32&color=%23888888)
   static const IconData warningCircle = IconData(
     0xe4e2,
     fontFamily: 'PhosphorLight',
@@ -17947,7 +17947,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `warningDiamond` no estilo Light.
   ///
-  /// ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning-diamond.svg)
+  /// ![warning-diamond](https://api.iconify.design/ph/warning-diamond-light.svg?height=32&color=%23888888)
   static const IconData warningDiamond = IconData(
     0xe7fc,
     fontFamily: 'PhosphorLight',
@@ -17959,7 +17959,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `warningOctagon` no estilo Light.
   ///
-  /// ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning-octagon.svg)
+  /// ![warning-octagon](https://api.iconify.design/ph/warning-octagon-light.svg?height=32&color=%23888888)
   static const IconData warningOctagon = IconData(
     0xe4e4,
     fontFamily: 'PhosphorLight',
@@ -17971,7 +17971,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `washingMachine` no estilo Light.
   ///
-  /// ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/washing-machine.svg)
+  /// ![washing-machine](https://api.iconify.design/ph/washing-machine-light.svg?height=32&color=%23888888)
   static const IconData washingMachine = IconData(
     0xede8,
     fontFamily: 'PhosphorLight',
@@ -17983,7 +17983,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `watch` no estilo Light.
   ///
-  /// ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/watch.svg)
+  /// ![watch](https://api.iconify.design/ph/watch-light.svg?height=32&color=%23888888)
   static const IconData watch = IconData(
     0xe4e6,
     fontFamily: 'PhosphorLight',
@@ -17995,7 +17995,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `waveSawtooth` no estilo Light.
   ///
-  /// ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-sawtooth.svg)
+  /// ![wave-sawtooth](https://api.iconify.design/ph/wave-sawtooth-light.svg?height=32&color=%23888888)
   static const IconData waveSawtooth = IconData(
     0xea9c,
     fontFamily: 'PhosphorLight',
@@ -18007,7 +18007,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `waveSine` no estilo Light.
   ///
-  /// ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-sine.svg)
+  /// ![wave-sine](https://api.iconify.design/ph/wave-sine-light.svg?height=32&color=%23888888)
   static const IconData waveSine = IconData(
     0xea9a,
     fontFamily: 'PhosphorLight',
@@ -18019,7 +18019,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `waveSquare` no estilo Light.
   ///
-  /// ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-square.svg)
+  /// ![wave-square](https://api.iconify.design/ph/wave-square-light.svg?height=32&color=%23888888)
   static const IconData waveSquare = IconData(
     0xea9e,
     fontFamily: 'PhosphorLight',
@@ -18031,7 +18031,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `waveTriangle` no estilo Light.
   ///
-  /// ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-triangle.svg)
+  /// ![wave-triangle](https://api.iconify.design/ph/wave-triangle-light.svg?height=32&color=%23888888)
   static const IconData waveTriangle = IconData(
     0xeaa0,
     fontFamily: 'PhosphorLight',
@@ -18043,7 +18043,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `waveform` no estilo Light.
   ///
-  /// ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/waveform.svg)
+  /// ![waveform](https://api.iconify.design/ph/waveform-light.svg?height=32&color=%23888888)
   static const IconData waveform = IconData(
     0xe802,
     fontFamily: 'PhosphorLight',
@@ -18055,7 +18055,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `waveformSlash` no estilo Light.
   ///
-  /// ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/waveform-slash.svg)
+  /// ![waveform-slash](https://api.iconify.design/ph/waveform-slash-light.svg?height=32&color=%23888888)
   static const IconData waveformSlash = IconData(
     0xe800,
     fontFamily: 'PhosphorLight',
@@ -18067,7 +18067,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `waves` no estilo Light.
   ///
-  /// ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/waves.svg)
+  /// ![waves](https://api.iconify.design/ph/waves-light.svg?height=32&color=%23888888)
   static const IconData waves = IconData(
     0xe6de,
     fontFamily: 'PhosphorLight',
@@ -18079,7 +18079,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `webcam` no estilo Light.
   ///
-  /// ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/webcam.svg)
+  /// ![webcam](https://api.iconify.design/ph/webcam-light.svg?height=32&color=%23888888)
   static const IconData webcam = IconData(
     0xe9b2,
     fontFamily: 'PhosphorLight',
@@ -18091,7 +18091,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `webcamSlash` no estilo Light.
   ///
-  /// ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/webcam-slash.svg)
+  /// ![webcam-slash](https://api.iconify.design/ph/webcam-slash-light.svg?height=32&color=%23888888)
   static const IconData webcamSlash = IconData(
     0xecdc,
     fontFamily: 'PhosphorLight',
@@ -18103,7 +18103,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `webhooksLogo` no estilo Light.
   ///
-  /// ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/webhooks-logo.svg)
+  /// ![webhooks-logo](https://api.iconify.design/ph/webhooks-logo-light.svg?height=32&color=%23888888)
   static const IconData webhooksLogo = IconData(
     0xecae,
     fontFamily: 'PhosphorLight',
@@ -18115,7 +18115,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wechatLogo` no estilo Light.
   ///
-  /// ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wechat-logo.svg)
+  /// ![wechat-logo](https://api.iconify.design/ph/wechat-logo-light.svg?height=32&color=%23888888)
   static const IconData wechatLogo = IconData(
     0xe8d2,
     fontFamily: 'PhosphorLight',
@@ -18127,7 +18127,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `whatsappLogo` no estilo Light.
   ///
-  /// ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/whatsapp-logo.svg)
+  /// ![whatsapp-logo](https://api.iconify.design/ph/whatsapp-logo-light.svg?height=32&color=%23888888)
   static const IconData whatsappLogo = IconData(
     0xe5d0,
     fontFamily: 'PhosphorLight',
@@ -18139,7 +18139,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wheelchair` no estilo Light.
   ///
-  /// ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wheelchair.svg)
+  /// ![wheelchair](https://api.iconify.design/ph/wheelchair-light.svg?height=32&color=%23888888)
   static const IconData wheelchair = IconData(
     0xe4e8,
     fontFamily: 'PhosphorLight',
@@ -18151,7 +18151,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wheelchairMotion` no estilo Light.
   ///
-  /// ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wheelchair-motion.svg)
+  /// ![wheelchair-motion](https://api.iconify.design/ph/wheelchair-motion-light.svg?height=32&color=%23888888)
   static const IconData wheelchairMotion = IconData(
     0xe89a,
     fontFamily: 'PhosphorLight',
@@ -18163,7 +18163,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wifiHigh` no estilo Light.
   ///
-  /// ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-high.svg)
+  /// ![wifi-high](https://api.iconify.design/ph/wifi-high-light.svg?height=32&color=%23888888)
   static const IconData wifiHigh = IconData(
     0xe4ea,
     fontFamily: 'PhosphorLight',
@@ -18175,7 +18175,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wifiLow` no estilo Light.
   ///
-  /// ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-low.svg)
+  /// ![wifi-low](https://api.iconify.design/ph/wifi-low-light.svg?height=32&color=%23888888)
   static const IconData wifiLow = IconData(
     0xe4ec,
     fontFamily: 'PhosphorLight',
@@ -18187,7 +18187,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wifiMedium` no estilo Light.
   ///
-  /// ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-medium.svg)
+  /// ![wifi-medium](https://api.iconify.design/ph/wifi-medium-light.svg?height=32&color=%23888888)
   static const IconData wifiMedium = IconData(
     0xe4ee,
     fontFamily: 'PhosphorLight',
@@ -18199,7 +18199,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wifiNone` no estilo Light.
   ///
-  /// ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-none.svg)
+  /// ![wifi-none](https://api.iconify.design/ph/wifi-none-light.svg?height=32&color=%23888888)
   static const IconData wifiNone = IconData(
     0xe4f0,
     fontFamily: 'PhosphorLight',
@@ -18211,7 +18211,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wifiSlash` no estilo Light.
   ///
-  /// ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-slash.svg)
+  /// ![wifi-slash](https://api.iconify.design/ph/wifi-slash-light.svg?height=32&color=%23888888)
   static const IconData wifiSlash = IconData(
     0xe4f2,
     fontFamily: 'PhosphorLight',
@@ -18223,7 +18223,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wifiX` no estilo Light.
   ///
-  /// ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-x.svg)
+  /// ![wifi-x](https://api.iconify.design/ph/wifi-x-light.svg?height=32&color=%23888888)
   static const IconData wifiX = IconData(
     0xe4f4,
     fontFamily: 'PhosphorLight',
@@ -18235,7 +18235,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wind` no estilo Light.
   ///
-  /// ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wind.svg)
+  /// ![wind](https://api.iconify.design/ph/wind-light.svg?height=32&color=%23888888)
   static const IconData wind = IconData(
     0xe5d2,
     fontFamily: 'PhosphorLight',
@@ -18247,7 +18247,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `windmill` no estilo Light.
   ///
-  /// ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/windmill.svg)
+  /// ![windmill](https://api.iconify.design/ph/windmill-light.svg?height=32&color=%23888888)
   static const IconData windmill = IconData(
     0xe9f8,
     fontFamily: 'PhosphorLight',
@@ -18259,7 +18259,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `windowsLogo` no estilo Light.
   ///
-  /// ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/windows-logo.svg)
+  /// ![windows-logo](https://api.iconify.design/ph/windows-logo-light.svg?height=32&color=%23888888)
   static const IconData windowsLogo = IconData(
     0xe692,
     fontFamily: 'PhosphorLight',
@@ -18271,7 +18271,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wine` no estilo Light.
   ///
-  /// ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wine.svg)
+  /// ![wine](https://api.iconify.design/ph/wine-light.svg?height=32&color=%23888888)
   static const IconData wine = IconData(
     0xe6b2,
     fontFamily: 'PhosphorLight',
@@ -18283,7 +18283,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `wrench` no estilo Light.
   ///
-  /// ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wrench.svg)
+  /// ![wrench](https://api.iconify.design/ph/wrench-light.svg?height=32&color=%23888888)
   static const IconData wrench = IconData(
     0xe5d4,
     fontFamily: 'PhosphorLight',
@@ -18295,7 +18295,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `x` no estilo Light.
   ///
-  /// ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x.svg)
+  /// ![x](https://api.iconify.design/ph/x-light.svg?height=32&color=%23888888)
   static const IconData x = IconData(
     0xe4f6,
     fontFamily: 'PhosphorLight',
@@ -18307,7 +18307,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `xCircle` no estilo Light.
   ///
-  /// ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x-circle.svg)
+  /// ![x-circle](https://api.iconify.design/ph/x-circle-light.svg?height=32&color=%23888888)
   static const IconData xCircle = IconData(
     0xe4f8,
     fontFamily: 'PhosphorLight',
@@ -18319,7 +18319,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `xLogo` no estilo Light.
   ///
-  /// ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x-logo.svg)
+  /// ![x-logo](https://api.iconify.design/ph/x-logo-light.svg?height=32&color=%23888888)
   static const IconData xLogo = IconData(
     0xe4bc,
     fontFamily: 'PhosphorLight',
@@ -18331,7 +18331,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `xSquare` no estilo Light.
   ///
-  /// ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x-square.svg)
+  /// ![x-square](https://api.iconify.design/ph/x-square-light.svg?height=32&color=%23888888)
   static const IconData xSquare = IconData(
     0xe4fa,
     fontFamily: 'PhosphorLight',
@@ -18343,7 +18343,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `yarn` no estilo Light.
   ///
-  /// ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/yarn.svg)
+  /// ![yarn](https://api.iconify.design/ph/yarn-light.svg?height=32&color=%23888888)
   static const IconData yarn = IconData(
     0xed9a,
     fontFamily: 'PhosphorLight',
@@ -18355,7 +18355,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `yinYang` no estilo Light.
   ///
-  /// ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/yin-yang.svg)
+  /// ![yin-yang](https://api.iconify.design/ph/yin-yang-light.svg?height=32&color=%23888888)
   static const IconData yinYang = IconData(
     0xe92a,
     fontFamily: 'PhosphorLight',
@@ -18367,7 +18367,7 @@ class PhosphorIconsLight {
   ///
   /// [PT] O ícone `youtubeLogo` no estilo Light.
   ///
-  /// ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/youtube-logo.svg)
+  /// ![youtube-logo](https://api.iconify.design/ph/youtube-logo-light.svg?height=32&color=%23888888)
   static const IconData youtubeLogo = IconData(
     0xe4fc,
     fontFamily: 'PhosphorLight',

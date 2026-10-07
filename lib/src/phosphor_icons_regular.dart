@@ -19,7 +19,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `acorn` no estilo Regular.
   ///
-  /// ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/acorn.svg)
+  /// ![acorn](https://api.iconify.design/ph/acorn.svg?height=32&color=%23888888)
   static const IconData acorn = IconData(
     0xeb9a,
     fontFamily: 'PhosphorRegular',
@@ -31,7 +31,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `activity` no estilo Regular.
   ///
-  /// ![activity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/activity.svg)
+  /// ![activity](https://api.iconify.design/ph/pulse.svg?height=32&color=%23888888)
   static const IconData activity = IconData(
     0xe000,
     fontFamily: 'PhosphorRegular',
@@ -43,7 +43,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `addressBook` no estilo Regular.
   ///
-  /// ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/address-book.svg)
+  /// ![address-book](https://api.iconify.design/ph/address-book.svg?height=32&color=%23888888)
   static const IconData addressBook = IconData(
     0xe6f8,
     fontFamily: 'PhosphorRegular',
@@ -55,7 +55,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `addressBookTabs` no estilo Regular.
   ///
-  /// ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/address-book-tabs.svg)
+  /// ![address-book-tabs](https://api.iconify.design/ph/address-book-tabs.svg?height=32&color=%23888888)
   static const IconData addressBookTabs = IconData(
     0xee4e,
     fontFamily: 'PhosphorRegular',
@@ -67,7 +67,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airTrafficControl` no estilo Regular.
   ///
-  /// ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/air-traffic-control.svg)
+  /// ![air-traffic-control](https://api.iconify.design/ph/air-traffic-control.svg?height=32&color=%23888888)
   static const IconData airTrafficControl = IconData(
     0xecd8,
     fontFamily: 'PhosphorRegular',
@@ -79,7 +79,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplane` no estilo Regular.
   ///
-  /// ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/airplane.svg)
+  /// ![airplane](https://api.iconify.design/ph/airplane.svg?height=32&color=%23888888)
   static const IconData airplane = IconData(
     0xe002,
     fontFamily: 'PhosphorRegular',
@@ -91,7 +91,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneInFlight` no estilo Regular.
   ///
-  /// ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/airplane-in-flight.svg)
+  /// ![airplane-in-flight](https://api.iconify.design/ph/airplane-in-flight.svg?height=32&color=%23888888)
   static const IconData airplaneInFlight = IconData(
     0xe4fe,
     fontFamily: 'PhosphorRegular',
@@ -103,7 +103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneLanding` no estilo Regular.
   ///
-  /// ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/airplane-landing.svg)
+  /// ![airplane-landing](https://api.iconify.design/ph/airplane-landing.svg?height=32&color=%23888888)
   static const IconData airplaneLanding = IconData(
     0xe502,
     fontFamily: 'PhosphorRegular',
@@ -115,7 +115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneTakeoff` no estilo Regular.
   ///
-  /// ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/airplane-takeoff.svg)
+  /// ![airplane-takeoff](https://api.iconify.design/ph/airplane-takeoff.svg?height=32&color=%23888888)
   static const IconData airplaneTakeoff = IconData(
     0xe504,
     fontFamily: 'PhosphorRegular',
@@ -127,7 +127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneTaxiing` no estilo Regular.
   ///
-  /// ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/airplane-taxiing.svg)
+  /// ![airplane-taxiing](https://api.iconify.design/ph/airplane-taxiing.svg?height=32&color=%23888888)
   static const IconData airplaneTaxiing = IconData(
     0xe500,
     fontFamily: 'PhosphorRegular',
@@ -139,7 +139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneTilt` no estilo Regular.
   ///
-  /// ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/airplane-tilt.svg)
+  /// ![airplane-tilt](https://api.iconify.design/ph/airplane-tilt.svg?height=32&color=%23888888)
   static const IconData airplaneTilt = IconData(
     0xe5d6,
     fontFamily: 'PhosphorRegular',
@@ -151,7 +151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplay` no estilo Regular.
   ///
-  /// ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/airplay.svg)
+  /// ![airplay](https://api.iconify.design/ph/airplay.svg?height=32&color=%23888888)
   static const IconData airplay = IconData(
     0xe004,
     fontFamily: 'PhosphorRegular',
@@ -163,7 +163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alarm` no estilo Regular.
   ///
-  /// ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/alarm.svg)
+  /// ![alarm](https://api.iconify.design/ph/alarm.svg?height=32&color=%23888888)
   static const IconData alarm = IconData(
     0xe006,
     fontFamily: 'PhosphorRegular',
@@ -175,7 +175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alien` no estilo Regular.
   ///
-  /// ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/alien.svg)
+  /// ![alien](https://api.iconify.design/ph/alien.svg?height=32&color=%23888888)
   static const IconData alien = IconData(
     0xe8a6,
     fontFamily: 'PhosphorRegular',
@@ -187,7 +187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignBottom` no estilo Regular.
   ///
-  /// ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-bottom.svg)
+  /// ![align-bottom](https://api.iconify.design/ph/align-bottom.svg?height=32&color=%23888888)
   static const IconData alignBottom = IconData(
     0xe506,
     fontFamily: 'PhosphorRegular',
@@ -199,7 +199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignBottomSimple` no estilo Regular.
   ///
-  /// ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-bottom-simple.svg)
+  /// ![align-bottom-simple](https://api.iconify.design/ph/align-bottom-simple.svg?height=32&color=%23888888)
   static const IconData alignBottomSimple = IconData(
     0xeb0c,
     fontFamily: 'PhosphorRegular',
@@ -211,7 +211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterHorizontal` no estilo Regular.
   ///
-  /// ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-center-horizontal.svg)
+  /// ![align-center-horizontal](https://api.iconify.design/ph/align-center-horizontal.svg?height=32&color=%23888888)
   static const IconData alignCenterHorizontal = IconData(
     0xe50a,
     fontFamily: 'PhosphorRegular',
@@ -223,7 +223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Regular.
   ///
-  /// ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-center-horizontal-simple.svg)
+  /// ![align-center-horizontal-simple](https://api.iconify.design/ph/align-center-horizontal-simple.svg?height=32&color=%23888888)
   static const IconData alignCenterHorizontalSimple = IconData(
     0xeb0e,
     fontFamily: 'PhosphorRegular',
@@ -235,7 +235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterVertical` no estilo Regular.
   ///
-  /// ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-center-vertical.svg)
+  /// ![align-center-vertical](https://api.iconify.design/ph/align-center-vertical.svg?height=32&color=%23888888)
   static const IconData alignCenterVertical = IconData(
     0xe50c,
     fontFamily: 'PhosphorRegular',
@@ -247,7 +247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterVerticalSimple` no estilo Regular.
   ///
-  /// ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-center-vertical-simple.svg)
+  /// ![align-center-vertical-simple](https://api.iconify.design/ph/align-center-vertical-simple.svg?height=32&color=%23888888)
   static const IconData alignCenterVerticalSimple = IconData(
     0xeb10,
     fontFamily: 'PhosphorRegular',
@@ -259,7 +259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignLeft` no estilo Regular.
   ///
-  /// ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-left.svg)
+  /// ![align-left](https://api.iconify.design/ph/align-left.svg?height=32&color=%23888888)
   static const IconData alignLeft = IconData(
     0xe50e,
     fontFamily: 'PhosphorRegular',
@@ -271,7 +271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignLeftSimple` no estilo Regular.
   ///
-  /// ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-left-simple.svg)
+  /// ![align-left-simple](https://api.iconify.design/ph/align-left-simple.svg?height=32&color=%23888888)
   static const IconData alignLeftSimple = IconData(
     0xeaee,
     fontFamily: 'PhosphorRegular',
@@ -283,7 +283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignRight` no estilo Regular.
   ///
-  /// ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-right.svg)
+  /// ![align-right](https://api.iconify.design/ph/align-right.svg?height=32&color=%23888888)
   static const IconData alignRight = IconData(
     0xe510,
     fontFamily: 'PhosphorRegular',
@@ -295,7 +295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignRightSimple` no estilo Regular.
   ///
-  /// ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-right-simple.svg)
+  /// ![align-right-simple](https://api.iconify.design/ph/align-right-simple.svg?height=32&color=%23888888)
   static const IconData alignRightSimple = IconData(
     0xeb12,
     fontFamily: 'PhosphorRegular',
@@ -307,7 +307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignTop` no estilo Regular.
   ///
-  /// ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-top.svg)
+  /// ![align-top](https://api.iconify.design/ph/align-top.svg?height=32&color=%23888888)
   static const IconData alignTop = IconData(
     0xe512,
     fontFamily: 'PhosphorRegular',
@@ -319,7 +319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignTopSimple` no estilo Regular.
   ///
-  /// ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/align-top-simple.svg)
+  /// ![align-top-simple](https://api.iconify.design/ph/align-top-simple.svg?height=32&color=%23888888)
   static const IconData alignTopSimple = IconData(
     0xeb14,
     fontFamily: 'PhosphorRegular',
@@ -331,7 +331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `amazonLogo` no estilo Regular.
   ///
-  /// ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/amazon-logo.svg)
+  /// ![amazon-logo](https://api.iconify.design/ph/amazon-logo.svg?height=32&color=%23888888)
   static const IconData amazonLogo = IconData(
     0xe96c,
     fontFamily: 'PhosphorRegular',
@@ -343,7 +343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ambulance` no estilo Regular.
   ///
-  /// ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ambulance.svg)
+  /// ![ambulance](https://api.iconify.design/ph/ambulance.svg?height=32&color=%23888888)
   static const IconData ambulance = IconData(
     0xe572,
     fontFamily: 'PhosphorRegular',
@@ -355,7 +355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `anchor` no estilo Regular.
   ///
-  /// ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/anchor.svg)
+  /// ![anchor](https://api.iconify.design/ph/anchor.svg?height=32&color=%23888888)
   static const IconData anchor = IconData(
     0xe514,
     fontFamily: 'PhosphorRegular',
@@ -367,7 +367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `anchorSimple` no estilo Regular.
   ///
-  /// ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/anchor-simple.svg)
+  /// ![anchor-simple](https://api.iconify.design/ph/anchor-simple.svg?height=32&color=%23888888)
   static const IconData anchorSimple = IconData(
     0xe5d8,
     fontFamily: 'PhosphorRegular',
@@ -379,7 +379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `androidLogo` no estilo Regular.
   ///
-  /// ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/android-logo.svg)
+  /// ![android-logo](https://api.iconify.design/ph/android-logo.svg?height=32&color=%23888888)
   static const IconData androidLogo = IconData(
     0xe008,
     fontFamily: 'PhosphorRegular',
@@ -391,7 +391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `angle` no estilo Regular.
   ///
-  /// ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/angle.svg)
+  /// ![angle](https://api.iconify.design/ph/angle.svg?height=32&color=%23888888)
   static const IconData angle = IconData(
     0xe7bc,
     fontFamily: 'PhosphorRegular',
@@ -403,7 +403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `angularLogo` no estilo Regular.
   ///
-  /// ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/angular-logo.svg)
+  /// ![angular-logo](https://api.iconify.design/ph/angular-logo.svg?height=32&color=%23888888)
   static const IconData angularLogo = IconData(
     0xeb80,
     fontFamily: 'PhosphorRegular',
@@ -415,7 +415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `aperture` no estilo Regular.
   ///
-  /// ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/aperture.svg)
+  /// ![aperture](https://api.iconify.design/ph/aperture.svg?height=32&color=%23888888)
   static const IconData aperture = IconData(
     0xe00a,
     fontFamily: 'PhosphorRegular',
@@ -427,7 +427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `appStoreLogo` no estilo Regular.
   ///
-  /// ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/app-store-logo.svg)
+  /// ![app-store-logo](https://api.iconify.design/ph/app-store-logo.svg?height=32&color=%23888888)
   static const IconData appStoreLogo = IconData(
     0xe974,
     fontFamily: 'PhosphorRegular',
@@ -439,7 +439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `appWindow` no estilo Regular.
   ///
-  /// ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/app-window.svg)
+  /// ![app-window](https://api.iconify.design/ph/app-window.svg?height=32&color=%23888888)
   static const IconData appWindow = IconData(
     0xe5da,
     fontFamily: 'PhosphorRegular',
@@ -451,7 +451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `appleLogo` no estilo Regular.
   ///
-  /// ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/apple-logo.svg)
+  /// ![apple-logo](https://api.iconify.design/ph/apple-logo.svg?height=32&color=%23888888)
   static const IconData appleLogo = IconData(
     0xe516,
     fontFamily: 'PhosphorRegular',
@@ -463,7 +463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `applePodcastsLogo` no estilo Regular.
   ///
-  /// ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/apple-podcasts-logo.svg)
+  /// ![apple-podcasts-logo](https://api.iconify.design/ph/apple-podcasts-logo.svg?height=32&color=%23888888)
   static const IconData applePodcastsLogo = IconData(
     0xeb96,
     fontFamily: 'PhosphorRegular',
@@ -475,7 +475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `approximateEquals` no estilo Regular.
   ///
-  /// ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/approximate-equals.svg)
+  /// ![approximate-equals](https://api.iconify.design/ph/approximate-equals.svg?height=32&color=%23888888)
   static const IconData approximateEquals = IconData(
     0xedaa,
     fontFamily: 'PhosphorRegular',
@@ -487,7 +487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `archive` no estilo Regular.
   ///
-  /// ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/archive.svg)
+  /// ![archive](https://api.iconify.design/ph/archive.svg?height=32&color=%23888888)
   static const IconData archive = IconData(
     0xe00c,
     fontFamily: 'PhosphorRegular',
@@ -499,7 +499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `archiveBox` no estilo Regular.
   ///
-  /// ![archive-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/archive-box.svg)
+  /// ![archive-box](https://api.iconify.design/ph/box-arrow-down.svg?height=32&color=%23888888)
   static const IconData archiveBox = IconData(
     0xe00e,
     fontFamily: 'PhosphorRegular',
@@ -511,7 +511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `archiveTray` no estilo Regular.
   ///
-  /// ![archive-tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/archive-tray.svg)
+  /// ![archive-tray](https://api.iconify.design/ph/tray-arrow-down.svg?height=32&color=%23888888)
   static const IconData archiveTray = IconData(
     0xe010,
     fontFamily: 'PhosphorRegular',
@@ -523,7 +523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `armchair` no estilo Regular.
   ///
-  /// ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/armchair.svg)
+  /// ![armchair](https://api.iconify.design/ph/armchair.svg?height=32&color=%23888888)
   static const IconData armchair = IconData(
     0xe012,
     fontFamily: 'PhosphorRegular',
@@ -535,7 +535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowArcLeft` no estilo Regular.
   ///
-  /// ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-arc-left.svg)
+  /// ![arrow-arc-left](https://api.iconify.design/ph/arrow-arc-left.svg?height=32&color=%23888888)
   static const IconData arrowArcLeft = IconData(
     0xe014,
     fontFamily: 'PhosphorRegular',
@@ -547,7 +547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowArcRight` no estilo Regular.
   ///
-  /// ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-arc-right.svg)
+  /// ![arrow-arc-right](https://api.iconify.design/ph/arrow-arc-right.svg?height=32&color=%23888888)
   static const IconData arrowArcRight = IconData(
     0xe016,
     fontFamily: 'PhosphorRegular',
@@ -559,7 +559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Regular.
   ///
-  /// ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-double-up-left.svg)
+  /// ![arrow-bend-double-up-left](https://api.iconify.design/ph/arrow-bend-double-up-left.svg?height=32&color=%23888888)
   static const IconData arrowBendDoubleUpLeft = IconData(
     0xe03a,
     fontFamily: 'PhosphorRegular',
@@ -571,7 +571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Regular.
   ///
-  /// ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-double-up-right.svg)
+  /// ![arrow-bend-double-up-right](https://api.iconify.design/ph/arrow-bend-double-up-right.svg?height=32&color=%23888888)
   static const IconData arrowBendDoubleUpRight = IconData(
     0xe03c,
     fontFamily: 'PhosphorRegular',
@@ -583,7 +583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDownLeft` no estilo Regular.
   ///
-  /// ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-down-left.svg)
+  /// ![arrow-bend-down-left](https://api.iconify.design/ph/arrow-bend-down-left.svg?height=32&color=%23888888)
   static const IconData arrowBendDownLeft = IconData(
     0xe018,
     fontFamily: 'PhosphorRegular',
@@ -595,7 +595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDownRight` no estilo Regular.
   ///
-  /// ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-down-right.svg)
+  /// ![arrow-bend-down-right](https://api.iconify.design/ph/arrow-bend-down-right.svg?height=32&color=%23888888)
   static const IconData arrowBendDownRight = IconData(
     0xe01a,
     fontFamily: 'PhosphorRegular',
@@ -607,7 +607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendLeftDown` no estilo Regular.
   ///
-  /// ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-left-down.svg)
+  /// ![arrow-bend-left-down](https://api.iconify.design/ph/arrow-bend-left-down.svg?height=32&color=%23888888)
   static const IconData arrowBendLeftDown = IconData(
     0xe01c,
     fontFamily: 'PhosphorRegular',
@@ -619,7 +619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendLeftUp` no estilo Regular.
   ///
-  /// ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-left-up.svg)
+  /// ![arrow-bend-left-up](https://api.iconify.design/ph/arrow-bend-left-up.svg?height=32&color=%23888888)
   static const IconData arrowBendLeftUp = IconData(
     0xe01e,
     fontFamily: 'PhosphorRegular',
@@ -631,7 +631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendRightDown` no estilo Regular.
   ///
-  /// ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-right-down.svg)
+  /// ![arrow-bend-right-down](https://api.iconify.design/ph/arrow-bend-right-down.svg?height=32&color=%23888888)
   static const IconData arrowBendRightDown = IconData(
     0xe020,
     fontFamily: 'PhosphorRegular',
@@ -643,7 +643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendRightUp` no estilo Regular.
   ///
-  /// ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-right-up.svg)
+  /// ![arrow-bend-right-up](https://api.iconify.design/ph/arrow-bend-right-up.svg?height=32&color=%23888888)
   static const IconData arrowBendRightUp = IconData(
     0xe022,
     fontFamily: 'PhosphorRegular',
@@ -655,7 +655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendUpLeft` no estilo Regular.
   ///
-  /// ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-up-left.svg)
+  /// ![arrow-bend-up-left](https://api.iconify.design/ph/arrow-bend-up-left.svg?height=32&color=%23888888)
   static const IconData arrowBendUpLeft = IconData(
     0xe024,
     fontFamily: 'PhosphorRegular',
@@ -667,7 +667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendUpRight` no estilo Regular.
   ///
-  /// ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-bend-up-right.svg)
+  /// ![arrow-bend-up-right](https://api.iconify.design/ph/arrow-bend-up-right.svg?height=32&color=%23888888)
   static const IconData arrowBendUpRight = IconData(
     0xe026,
     fontFamily: 'PhosphorRegular',
@@ -679,7 +679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleDown` no estilo Regular.
   ///
-  /// ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-down.svg)
+  /// ![arrow-circle-down](https://api.iconify.design/ph/arrow-circle-down.svg?height=32&color=%23888888)
   static const IconData arrowCircleDown = IconData(
     0xe028,
     fontFamily: 'PhosphorRegular',
@@ -691,7 +691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleDownLeft` no estilo Regular.
   ///
-  /// ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-down-left.svg)
+  /// ![arrow-circle-down-left](https://api.iconify.design/ph/arrow-circle-down-left.svg?height=32&color=%23888888)
   static const IconData arrowCircleDownLeft = IconData(
     0xe02a,
     fontFamily: 'PhosphorRegular',
@@ -703,7 +703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleDownRight` no estilo Regular.
   ///
-  /// ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-down-right.svg)
+  /// ![arrow-circle-down-right](https://api.iconify.design/ph/arrow-circle-down-right.svg?height=32&color=%23888888)
   static const IconData arrowCircleDownRight = IconData(
     0xe02c,
     fontFamily: 'PhosphorRegular',
@@ -715,7 +715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleLeft` no estilo Regular.
   ///
-  /// ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-left.svg)
+  /// ![arrow-circle-left](https://api.iconify.design/ph/arrow-circle-left.svg?height=32&color=%23888888)
   static const IconData arrowCircleLeft = IconData(
     0xe05a,
     fontFamily: 'PhosphorRegular',
@@ -727,7 +727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleRight` no estilo Regular.
   ///
-  /// ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-right.svg)
+  /// ![arrow-circle-right](https://api.iconify.design/ph/arrow-circle-right.svg?height=32&color=%23888888)
   static const IconData arrowCircleRight = IconData(
     0xe02e,
     fontFamily: 'PhosphorRegular',
@@ -739,7 +739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleUp` no estilo Regular.
   ///
-  /// ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-up.svg)
+  /// ![arrow-circle-up](https://api.iconify.design/ph/arrow-circle-up.svg?height=32&color=%23888888)
   static const IconData arrowCircleUp = IconData(
     0xe030,
     fontFamily: 'PhosphorRegular',
@@ -751,7 +751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleUpLeft` no estilo Regular.
   ///
-  /// ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-up-left.svg)
+  /// ![arrow-circle-up-left](https://api.iconify.design/ph/arrow-circle-up-left.svg?height=32&color=%23888888)
   static const IconData arrowCircleUpLeft = IconData(
     0xe032,
     fontFamily: 'PhosphorRegular',
@@ -763,7 +763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleUpRight` no estilo Regular.
   ///
-  /// ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-circle-up-right.svg)
+  /// ![arrow-circle-up-right](https://api.iconify.design/ph/arrow-circle-up-right.svg?height=32&color=%23888888)
   static const IconData arrowCircleUpRight = IconData(
     0xe034,
     fontFamily: 'PhosphorRegular',
@@ -775,7 +775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowClockwise` no estilo Regular.
   ///
-  /// ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-clockwise.svg)
+  /// ![arrow-clockwise](https://api.iconify.design/ph/arrow-clockwise.svg?height=32&color=%23888888)
   static const IconData arrowClockwise = IconData(
     0xe036,
     fontFamily: 'PhosphorRegular',
@@ -787,7 +787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCounterClockwise` no estilo Regular.
   ///
-  /// ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-counter-clockwise.svg)
+  /// ![arrow-counter-clockwise](https://api.iconify.design/ph/arrow-counter-clockwise.svg?height=32&color=%23888888)
   static const IconData arrowCounterClockwise = IconData(
     0xe038,
     fontFamily: 'PhosphorRegular',
@@ -799,7 +799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowDown` no estilo Regular.
   ///
-  /// ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-down.svg)
+  /// ![arrow-down](https://api.iconify.design/ph/arrow-down.svg?height=32&color=%23888888)
   static const IconData arrowDown = IconData(
     0xe03e,
     fontFamily: 'PhosphorRegular',
@@ -811,7 +811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowDownLeft` no estilo Regular.
   ///
-  /// ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-down-left.svg)
+  /// ![arrow-down-left](https://api.iconify.design/ph/arrow-down-left.svg?height=32&color=%23888888)
   static const IconData arrowDownLeft = IconData(
     0xe040,
     fontFamily: 'PhosphorRegular',
@@ -823,7 +823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowDownRight` no estilo Regular.
   ///
-  /// ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-down-right.svg)
+  /// ![arrow-down-right](https://api.iconify.design/ph/arrow-down-right.svg?height=32&color=%23888888)
   static const IconData arrowDownRight = IconData(
     0xe042,
     fontFamily: 'PhosphorRegular',
@@ -835,7 +835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowDownLeft` no estilo Regular.
   ///
-  /// ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-down-left.svg)
+  /// ![arrow-elbow-down-left](https://api.iconify.design/ph/arrow-elbow-down-left.svg?height=32&color=%23888888)
   static const IconData arrowElbowDownLeft = IconData(
     0xe044,
     fontFamily: 'PhosphorRegular',
@@ -847,7 +847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowDownRight` no estilo Regular.
   ///
-  /// ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-down-right.svg)
+  /// ![arrow-elbow-down-right](https://api.iconify.design/ph/arrow-elbow-down-right.svg?height=32&color=%23888888)
   static const IconData arrowElbowDownRight = IconData(
     0xe046,
     fontFamily: 'PhosphorRegular',
@@ -859,7 +859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowLeft` no estilo Regular.
   ///
-  /// ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-left.svg)
+  /// ![arrow-elbow-left](https://api.iconify.design/ph/arrow-elbow-left.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeft = IconData(
     0xe048,
     fontFamily: 'PhosphorRegular',
@@ -871,7 +871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowLeftDown` no estilo Regular.
   ///
-  /// ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-left-down.svg)
+  /// ![arrow-elbow-left-down](https://api.iconify.design/ph/arrow-elbow-left-down.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeftDown = IconData(
     0xe04a,
     fontFamily: 'PhosphorRegular',
@@ -883,7 +883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowLeftUp` no estilo Regular.
   ///
-  /// ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-left-up.svg)
+  /// ![arrow-elbow-left-up](https://api.iconify.design/ph/arrow-elbow-left-up.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeftUp = IconData(
     0xe04c,
     fontFamily: 'PhosphorRegular',
@@ -895,7 +895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowRight` no estilo Regular.
   ///
-  /// ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-right.svg)
+  /// ![arrow-elbow-right](https://api.iconify.design/ph/arrow-elbow-right.svg?height=32&color=%23888888)
   static const IconData arrowElbowRight = IconData(
     0xe04e,
     fontFamily: 'PhosphorRegular',
@@ -907,7 +907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowRightDown` no estilo Regular.
   ///
-  /// ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-right-down.svg)
+  /// ![arrow-elbow-right-down](https://api.iconify.design/ph/arrow-elbow-right-down.svg?height=32&color=%23888888)
   static const IconData arrowElbowRightDown = IconData(
     0xe050,
     fontFamily: 'PhosphorRegular',
@@ -919,7 +919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowRightUp` no estilo Regular.
   ///
-  /// ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-right-up.svg)
+  /// ![arrow-elbow-right-up](https://api.iconify.design/ph/arrow-elbow-right-up.svg?height=32&color=%23888888)
   static const IconData arrowElbowRightUp = IconData(
     0xe052,
     fontFamily: 'PhosphorRegular',
@@ -931,7 +931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowUpLeft` no estilo Regular.
   ///
-  /// ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-up-left.svg)
+  /// ![arrow-elbow-up-left](https://api.iconify.design/ph/arrow-elbow-up-left.svg?height=32&color=%23888888)
   static const IconData arrowElbowUpLeft = IconData(
     0xe054,
     fontFamily: 'PhosphorRegular',
@@ -943,7 +943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowUpRight` no estilo Regular.
   ///
-  /// ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-elbow-up-right.svg)
+  /// ![arrow-elbow-up-right](https://api.iconify.design/ph/arrow-elbow-up-right.svg?height=32&color=%23888888)
   static const IconData arrowElbowUpRight = IconData(
     0xe056,
     fontFamily: 'PhosphorRegular',
@@ -955,7 +955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatDown` no estilo Regular.
   ///
-  /// ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-down.svg)
+  /// ![arrow-fat-down](https://api.iconify.design/ph/arrow-fat-down.svg?height=32&color=%23888888)
   static const IconData arrowFatDown = IconData(
     0xe518,
     fontFamily: 'PhosphorRegular',
@@ -967,7 +967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLeft` no estilo Regular.
   ///
-  /// ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-left.svg)
+  /// ![arrow-fat-left](https://api.iconify.design/ph/arrow-fat-left.svg?height=32&color=%23888888)
   static const IconData arrowFatLeft = IconData(
     0xe51a,
     fontFamily: 'PhosphorRegular',
@@ -979,7 +979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineDown` no estilo Regular.
   ///
-  /// ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-line-down.svg)
+  /// ![arrow-fat-line-down](https://api.iconify.design/ph/arrow-fat-line-down.svg?height=32&color=%23888888)
   static const IconData arrowFatLineDown = IconData(
     0xe51c,
     fontFamily: 'PhosphorRegular',
@@ -991,7 +991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineLeft` no estilo Regular.
   ///
-  /// ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-line-left.svg)
+  /// ![arrow-fat-line-left](https://api.iconify.design/ph/arrow-fat-line-left.svg?height=32&color=%23888888)
   static const IconData arrowFatLineLeft = IconData(
     0xe51e,
     fontFamily: 'PhosphorRegular',
@@ -1003,7 +1003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineRight` no estilo Regular.
   ///
-  /// ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-line-right.svg)
+  /// ![arrow-fat-line-right](https://api.iconify.design/ph/arrow-fat-line-right.svg?height=32&color=%23888888)
   static const IconData arrowFatLineRight = IconData(
     0xe520,
     fontFamily: 'PhosphorRegular',
@@ -1015,7 +1015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineUp` no estilo Regular.
   ///
-  /// ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-line-up.svg)
+  /// ![arrow-fat-line-up](https://api.iconify.design/ph/arrow-fat-line-up.svg?height=32&color=%23888888)
   static const IconData arrowFatLineUp = IconData(
     0xe522,
     fontFamily: 'PhosphorRegular',
@@ -1027,7 +1027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesDown` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-lines-down.svg)
+  /// ![arrow-fat-lines-down](https://api.iconify.design/ph/arrow-fat-lines-down.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesDown = IconData(
     0xe524,
     fontFamily: 'PhosphorRegular',
@@ -1039,7 +1039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesLeft` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-lines-left.svg)
+  /// ![arrow-fat-lines-left](https://api.iconify.design/ph/arrow-fat-lines-left.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesLeft = IconData(
     0xe526,
     fontFamily: 'PhosphorRegular',
@@ -1051,7 +1051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesRight` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-lines-right.svg)
+  /// ![arrow-fat-lines-right](https://api.iconify.design/ph/arrow-fat-lines-right.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesRight = IconData(
     0xe528,
     fontFamily: 'PhosphorRegular',
@@ -1063,7 +1063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesUp` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-lines-up.svg)
+  /// ![arrow-fat-lines-up](https://api.iconify.design/ph/arrow-fat-lines-up.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesUp = IconData(
     0xe52a,
     fontFamily: 'PhosphorRegular',
@@ -1075,7 +1075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatRight` no estilo Regular.
   ///
-  /// ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-right.svg)
+  /// ![arrow-fat-right](https://api.iconify.design/ph/arrow-fat-right.svg?height=32&color=%23888888)
   static const IconData arrowFatRight = IconData(
     0xe52c,
     fontFamily: 'PhosphorRegular',
@@ -1087,7 +1087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatUp` no estilo Regular.
   ///
-  /// ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-fat-up.svg)
+  /// ![arrow-fat-up](https://api.iconify.design/ph/arrow-fat-up.svg?height=32&color=%23888888)
   static const IconData arrowFatUp = IconData(
     0xe52e,
     fontFamily: 'PhosphorRegular',
@@ -1099,7 +1099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLeft` no estilo Regular.
   ///
-  /// ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-left.svg)
+  /// ![arrow-left](https://api.iconify.design/ph/arrow-left.svg?height=32&color=%23888888)
   static const IconData arrowLeft = IconData(
     0xe058,
     fontFamily: 'PhosphorRegular',
@@ -1111,7 +1111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineDown` no estilo Regular.
   ///
-  /// ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-down.svg)
+  /// ![arrow-line-down](https://api.iconify.design/ph/arrow-line-down.svg?height=32&color=%23888888)
   static const IconData arrowLineDown = IconData(
     0xe05c,
     fontFamily: 'PhosphorRegular',
@@ -1123,7 +1123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineDownLeft` no estilo Regular.
   ///
-  /// ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-down-left.svg)
+  /// ![arrow-line-down-left](https://api.iconify.design/ph/arrow-line-down-left.svg?height=32&color=%23888888)
   static const IconData arrowLineDownLeft = IconData(
     0xe05e,
     fontFamily: 'PhosphorRegular',
@@ -1135,7 +1135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineDownRight` no estilo Regular.
   ///
-  /// ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-down-right.svg)
+  /// ![arrow-line-down-right](https://api.iconify.design/ph/arrow-line-down-right.svg?height=32&color=%23888888)
   static const IconData arrowLineDownRight = IconData(
     0xe060,
     fontFamily: 'PhosphorRegular',
@@ -1147,7 +1147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineLeft` no estilo Regular.
   ///
-  /// ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-left.svg)
+  /// ![arrow-line-left](https://api.iconify.design/ph/arrow-line-left.svg?height=32&color=%23888888)
   static const IconData arrowLineLeft = IconData(
     0xe062,
     fontFamily: 'PhosphorRegular',
@@ -1159,7 +1159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineRight` no estilo Regular.
   ///
-  /// ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-right.svg)
+  /// ![arrow-line-right](https://api.iconify.design/ph/arrow-line-right.svg?height=32&color=%23888888)
   static const IconData arrowLineRight = IconData(
     0xe064,
     fontFamily: 'PhosphorRegular',
@@ -1171,7 +1171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineUp` no estilo Regular.
   ///
-  /// ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-up.svg)
+  /// ![arrow-line-up](https://api.iconify.design/ph/arrow-line-up.svg?height=32&color=%23888888)
   static const IconData arrowLineUp = IconData(
     0xe066,
     fontFamily: 'PhosphorRegular',
@@ -1183,7 +1183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineUpLeft` no estilo Regular.
   ///
-  /// ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-up-left.svg)
+  /// ![arrow-line-up-left](https://api.iconify.design/ph/arrow-line-up-left.svg?height=32&color=%23888888)
   static const IconData arrowLineUpLeft = IconData(
     0xe068,
     fontFamily: 'PhosphorRegular',
@@ -1195,7 +1195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineUpRight` no estilo Regular.
   ///
-  /// ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-line-up-right.svg)
+  /// ![arrow-line-up-right](https://api.iconify.design/ph/arrow-line-up-right.svg?height=32&color=%23888888)
   static const IconData arrowLineUpRight = IconData(
     0xe06a,
     fontFamily: 'PhosphorRegular',
@@ -1207,7 +1207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowRight` no estilo Regular.
   ///
-  /// ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-right.svg)
+  /// ![arrow-right](https://api.iconify.design/ph/arrow-right.svg?height=32&color=%23888888)
   static const IconData arrowRight = IconData(
     0xe06c,
     fontFamily: 'PhosphorRegular',
@@ -1219,7 +1219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareDown` no estilo Regular.
   ///
-  /// ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-down.svg)
+  /// ![arrow-square-down](https://api.iconify.design/ph/arrow-square-down.svg?height=32&color=%23888888)
   static const IconData arrowSquareDown = IconData(
     0xe06e,
     fontFamily: 'PhosphorRegular',
@@ -1231,7 +1231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareDownLeft` no estilo Regular.
   ///
-  /// ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-down-left.svg)
+  /// ![arrow-square-down-left](https://api.iconify.design/ph/arrow-square-down-left.svg?height=32&color=%23888888)
   static const IconData arrowSquareDownLeft = IconData(
     0xe070,
     fontFamily: 'PhosphorRegular',
@@ -1243,7 +1243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareDownRight` no estilo Regular.
   ///
-  /// ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-down-right.svg)
+  /// ![arrow-square-down-right](https://api.iconify.design/ph/arrow-square-down-right.svg?height=32&color=%23888888)
   static const IconData arrowSquareDownRight = IconData(
     0xe072,
     fontFamily: 'PhosphorRegular',
@@ -1255,7 +1255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareIn` no estilo Regular.
   ///
-  /// ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-in.svg)
+  /// ![arrow-square-in](https://api.iconify.design/ph/arrow-square-in.svg?height=32&color=%23888888)
   static const IconData arrowSquareIn = IconData(
     0xe5dc,
     fontFamily: 'PhosphorRegular',
@@ -1267,7 +1267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareLeft` no estilo Regular.
   ///
-  /// ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-left.svg)
+  /// ![arrow-square-left](https://api.iconify.design/ph/arrow-square-left.svg?height=32&color=%23888888)
   static const IconData arrowSquareLeft = IconData(
     0xe074,
     fontFamily: 'PhosphorRegular',
@@ -1279,7 +1279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareOut` no estilo Regular.
   ///
-  /// ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-out.svg)
+  /// ![arrow-square-out](https://api.iconify.design/ph/arrow-square-out.svg?height=32&color=%23888888)
   static const IconData arrowSquareOut = IconData(
     0xe5de,
     fontFamily: 'PhosphorRegular',
@@ -1291,7 +1291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareRight` no estilo Regular.
   ///
-  /// ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-right.svg)
+  /// ![arrow-square-right](https://api.iconify.design/ph/arrow-square-right.svg?height=32&color=%23888888)
   static const IconData arrowSquareRight = IconData(
     0xe076,
     fontFamily: 'PhosphorRegular',
@@ -1303,7 +1303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareUp` no estilo Regular.
   ///
-  /// ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-up.svg)
+  /// ![arrow-square-up](https://api.iconify.design/ph/arrow-square-up.svg?height=32&color=%23888888)
   static const IconData arrowSquareUp = IconData(
     0xe078,
     fontFamily: 'PhosphorRegular',
@@ -1315,7 +1315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareUpLeft` no estilo Regular.
   ///
-  /// ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-up-left.svg)
+  /// ![arrow-square-up-left](https://api.iconify.design/ph/arrow-square-up-left.svg?height=32&color=%23888888)
   static const IconData arrowSquareUpLeft = IconData(
     0xe07a,
     fontFamily: 'PhosphorRegular',
@@ -1327,7 +1327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareUpRight` no estilo Regular.
   ///
-  /// ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-square-up-right.svg)
+  /// ![arrow-square-up-right](https://api.iconify.design/ph/arrow-square-up-right.svg?height=32&color=%23888888)
   static const IconData arrowSquareUpRight = IconData(
     0xe07c,
     fontFamily: 'PhosphorRegular',
@@ -1339,7 +1339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUDownLeft` no estilo Regular.
   ///
-  /// ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-down-left.svg)
+  /// ![arrow-u-down-left](https://api.iconify.design/ph/arrow-u-down-left.svg?height=32&color=%23888888)
   static const IconData arrowUDownLeft = IconData(
     0xe07e,
     fontFamily: 'PhosphorRegular',
@@ -1351,7 +1351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUDownRight` no estilo Regular.
   ///
-  /// ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-down-right.svg)
+  /// ![arrow-u-down-right](https://api.iconify.design/ph/arrow-u-down-right.svg?height=32&color=%23888888)
   static const IconData arrowUDownRight = IconData(
     0xe080,
     fontFamily: 'PhosphorRegular',
@@ -1363,7 +1363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowULeftDown` no estilo Regular.
   ///
-  /// ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-left-down.svg)
+  /// ![arrow-u-left-down](https://api.iconify.design/ph/arrow-u-left-down.svg?height=32&color=%23888888)
   static const IconData arrowULeftDown = IconData(
     0xe082,
     fontFamily: 'PhosphorRegular',
@@ -1375,7 +1375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowULeftUp` no estilo Regular.
   ///
-  /// ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-left-up.svg)
+  /// ![arrow-u-left-up](https://api.iconify.design/ph/arrow-u-left-up.svg?height=32&color=%23888888)
   static const IconData arrowULeftUp = IconData(
     0xe084,
     fontFamily: 'PhosphorRegular',
@@ -1387,7 +1387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowURightDown` no estilo Regular.
   ///
-  /// ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-right-down.svg)
+  /// ![arrow-u-right-down](https://api.iconify.design/ph/arrow-u-right-down.svg?height=32&color=%23888888)
   static const IconData arrowURightDown = IconData(
     0xe086,
     fontFamily: 'PhosphorRegular',
@@ -1399,7 +1399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowURightUp` no estilo Regular.
   ///
-  /// ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-right-up.svg)
+  /// ![arrow-u-right-up](https://api.iconify.design/ph/arrow-u-right-up.svg?height=32&color=%23888888)
   static const IconData arrowURightUp = IconData(
     0xe088,
     fontFamily: 'PhosphorRegular',
@@ -1411,7 +1411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUUpLeft` no estilo Regular.
   ///
-  /// ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-up-left.svg)
+  /// ![arrow-u-up-left](https://api.iconify.design/ph/arrow-u-up-left.svg?height=32&color=%23888888)
   static const IconData arrowUUpLeft = IconData(
     0xe08a,
     fontFamily: 'PhosphorRegular',
@@ -1423,7 +1423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUUpRight` no estilo Regular.
   ///
-  /// ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-u-up-right.svg)
+  /// ![arrow-u-up-right](https://api.iconify.design/ph/arrow-u-up-right.svg?height=32&color=%23888888)
   static const IconData arrowUUpRight = IconData(
     0xe08c,
     fontFamily: 'PhosphorRegular',
@@ -1435,7 +1435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUp` no estilo Regular.
   ///
-  /// ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-up.svg)
+  /// ![arrow-up](https://api.iconify.design/ph/arrow-up.svg?height=32&color=%23888888)
   static const IconData arrowUp = IconData(
     0xe08e,
     fontFamily: 'PhosphorRegular',
@@ -1447,7 +1447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUpLeft` no estilo Regular.
   ///
-  /// ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-up-left.svg)
+  /// ![arrow-up-left](https://api.iconify.design/ph/arrow-up-left.svg?height=32&color=%23888888)
   static const IconData arrowUpLeft = IconData(
     0xe090,
     fontFamily: 'PhosphorRegular',
@@ -1459,7 +1459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUpRight` no estilo Regular.
   ///
-  /// ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrow-up-right.svg)
+  /// ![arrow-up-right](https://api.iconify.design/ph/arrow-up-right.svg?height=32&color=%23888888)
   static const IconData arrowUpRight = IconData(
     0xe092,
     fontFamily: 'PhosphorRegular',
@@ -1471,7 +1471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsClockwise` no estilo Regular.
   ///
-  /// ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-clockwise.svg)
+  /// ![arrows-clockwise](https://api.iconify.design/ph/arrows-clockwise.svg?height=32&color=%23888888)
   static const IconData arrowsClockwise = IconData(
     0xe094,
     fontFamily: 'PhosphorRegular',
@@ -1483,7 +1483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsCounterClockwise` no estilo Regular.
   ///
-  /// ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-counter-clockwise.svg)
+  /// ![arrows-counter-clockwise](https://api.iconify.design/ph/arrows-counter-clockwise.svg?height=32&color=%23888888)
   static const IconData arrowsCounterClockwise = IconData(
     0xe096,
     fontFamily: 'PhosphorRegular',
@@ -1495,7 +1495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsDownUp` no estilo Regular.
   ///
-  /// ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-down-up.svg)
+  /// ![arrows-down-up](https://api.iconify.design/ph/arrows-down-up.svg?height=32&color=%23888888)
   static const IconData arrowsDownUp = IconData(
     0xe098,
     fontFamily: 'PhosphorRegular',
@@ -1507,7 +1507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsHorizontal` no estilo Regular.
   ///
-  /// ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-horizontal.svg)
+  /// ![arrows-horizontal](https://api.iconify.design/ph/arrows-horizontal.svg?height=32&color=%23888888)
   static const IconData arrowsHorizontal = IconData(
     0xeb06,
     fontFamily: 'PhosphorRegular',
@@ -1519,7 +1519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsIn` no estilo Regular.
   ///
-  /// ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-in.svg)
+  /// ![arrows-in](https://api.iconify.design/ph/arrows-in.svg?height=32&color=%23888888)
   static const IconData arrowsIn = IconData(
     0xe09a,
     fontFamily: 'PhosphorRegular',
@@ -1531,7 +1531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInCardinal` no estilo Regular.
   ///
-  /// ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-in-cardinal.svg)
+  /// ![arrows-in-cardinal](https://api.iconify.design/ph/arrows-in-cardinal.svg?height=32&color=%23888888)
   static const IconData arrowsInCardinal = IconData(
     0xe09c,
     fontFamily: 'PhosphorRegular',
@@ -1543,7 +1543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInLineHorizontal` no estilo Regular.
   ///
-  /// ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-in-line-horizontal.svg)
+  /// ![arrows-in-line-horizontal](https://api.iconify.design/ph/arrows-in-line-horizontal.svg?height=32&color=%23888888)
   static const IconData arrowsInLineHorizontal = IconData(
     0xe530,
     fontFamily: 'PhosphorRegular',
@@ -1555,7 +1555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInLineVertical` no estilo Regular.
   ///
-  /// ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-in-line-vertical.svg)
+  /// ![arrows-in-line-vertical](https://api.iconify.design/ph/arrows-in-line-vertical.svg?height=32&color=%23888888)
   static const IconData arrowsInLineVertical = IconData(
     0xe532,
     fontFamily: 'PhosphorRegular',
@@ -1567,7 +1567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInSimple` no estilo Regular.
   ///
-  /// ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-in-simple.svg)
+  /// ![arrows-in-simple](https://api.iconify.design/ph/arrows-in-simple.svg?height=32&color=%23888888)
   static const IconData arrowsInSimple = IconData(
     0xe09e,
     fontFamily: 'PhosphorRegular',
@@ -1579,7 +1579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsLeftRight` no estilo Regular.
   ///
-  /// ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-left-right.svg)
+  /// ![arrows-left-right](https://api.iconify.design/ph/arrows-left-right.svg?height=32&color=%23888888)
   static const IconData arrowsLeftRight = IconData(
     0xe0a0,
     fontFamily: 'PhosphorRegular',
@@ -1591,7 +1591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsMerge` no estilo Regular.
   ///
-  /// ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-merge.svg)
+  /// ![arrows-merge](https://api.iconify.design/ph/arrows-merge.svg?height=32&color=%23888888)
   static const IconData arrowsMerge = IconData(
     0xed3e,
     fontFamily: 'PhosphorRegular',
@@ -1603,7 +1603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOut` no estilo Regular.
   ///
-  /// ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-out.svg)
+  /// ![arrows-out](https://api.iconify.design/ph/arrows-out.svg?height=32&color=%23888888)
   static const IconData arrowsOut = IconData(
     0xe0a2,
     fontFamily: 'PhosphorRegular',
@@ -1615,7 +1615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutCardinal` no estilo Regular.
   ///
-  /// ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-out-cardinal.svg)
+  /// ![arrows-out-cardinal](https://api.iconify.design/ph/arrows-out-cardinal.svg?height=32&color=%23888888)
   static const IconData arrowsOutCardinal = IconData(
     0xe0a4,
     fontFamily: 'PhosphorRegular',
@@ -1627,7 +1627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Regular.
   ///
-  /// ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-out-line-horizontal.svg)
+  /// ![arrows-out-line-horizontal](https://api.iconify.design/ph/arrows-out-line-horizontal.svg?height=32&color=%23888888)
   static const IconData arrowsOutLineHorizontal = IconData(
     0xe534,
     fontFamily: 'PhosphorRegular',
@@ -1639,7 +1639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutLineVertical` no estilo Regular.
   ///
-  /// ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-out-line-vertical.svg)
+  /// ![arrows-out-line-vertical](https://api.iconify.design/ph/arrows-out-line-vertical.svg?height=32&color=%23888888)
   static const IconData arrowsOutLineVertical = IconData(
     0xe536,
     fontFamily: 'PhosphorRegular',
@@ -1651,7 +1651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutSimple` no estilo Regular.
   ///
-  /// ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-out-simple.svg)
+  /// ![arrows-out-simple](https://api.iconify.design/ph/arrows-out-simple.svg?height=32&color=%23888888)
   static const IconData arrowsOutSimple = IconData(
     0xe0a6,
     fontFamily: 'PhosphorRegular',
@@ -1663,7 +1663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsSplit` no estilo Regular.
   ///
-  /// ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-split.svg)
+  /// ![arrows-split](https://api.iconify.design/ph/arrows-split.svg?height=32&color=%23888888)
   static const IconData arrowsSplit = IconData(
     0xed3c,
     fontFamily: 'PhosphorRegular',
@@ -1675,7 +1675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsVertical` no estilo Regular.
   ///
-  /// ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/arrows-vertical.svg)
+  /// ![arrows-vertical](https://api.iconify.design/ph/arrows-vertical.svg?height=32&color=%23888888)
   static const IconData arrowsVertical = IconData(
     0xeb04,
     fontFamily: 'PhosphorRegular',
@@ -1687,7 +1687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `article` no estilo Regular.
   ///
-  /// ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/article.svg)
+  /// ![article](https://api.iconify.design/ph/article.svg?height=32&color=%23888888)
   static const IconData article = IconData(
     0xe0a8,
     fontFamily: 'PhosphorRegular',
@@ -1699,7 +1699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `articleMedium` no estilo Regular.
   ///
-  /// ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/article-medium.svg)
+  /// ![article-medium](https://api.iconify.design/ph/article-medium.svg?height=32&color=%23888888)
   static const IconData articleMedium = IconData(
     0xe5e0,
     fontFamily: 'PhosphorRegular',
@@ -1711,7 +1711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `articleNyTimes` no estilo Regular.
   ///
-  /// ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/article-ny-times.svg)
+  /// ![article-ny-times](https://api.iconify.design/ph/article-ny-times.svg?height=32&color=%23888888)
   static const IconData articleNyTimes = IconData(
     0xe5e2,
     fontFamily: 'PhosphorRegular',
@@ -1723,7 +1723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `asclepius` no estilo Regular.
   ///
-  /// ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/asclepius.svg)
+  /// ![asclepius](https://api.iconify.design/ph/asclepius.svg?height=32&color=%23888888)
   static const IconData asclepius = IconData(
     0xee34,
     fontFamily: 'PhosphorRegular',
@@ -1735,7 +1735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `asterisk` no estilo Regular.
   ///
-  /// ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/asterisk.svg)
+  /// ![asterisk](https://api.iconify.design/ph/asterisk.svg?height=32&color=%23888888)
   static const IconData asterisk = IconData(
     0xe0aa,
     fontFamily: 'PhosphorRegular',
@@ -1747,7 +1747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `asteriskSimple` no estilo Regular.
   ///
-  /// ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/asterisk-simple.svg)
+  /// ![asterisk-simple](https://api.iconify.design/ph/asterisk-simple.svg?height=32&color=%23888888)
   static const IconData asteriskSimple = IconData(
     0xe832,
     fontFamily: 'PhosphorRegular',
@@ -1759,7 +1759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `at` no estilo Regular.
   ///
-  /// ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/at.svg)
+  /// ![at](https://api.iconify.design/ph/at.svg?height=32&color=%23888888)
   static const IconData at = IconData(
     0xe0ac,
     fontFamily: 'PhosphorRegular',
@@ -1771,7 +1771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `atom` no estilo Regular.
   ///
-  /// ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/atom.svg)
+  /// ![atom](https://api.iconify.design/ph/atom.svg?height=32&color=%23888888)
   static const IconData atom = IconData(
     0xe5e4,
     fontFamily: 'PhosphorRegular',
@@ -1783,7 +1783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `avocado` no estilo Regular.
   ///
-  /// ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/avocado.svg)
+  /// ![avocado](https://api.iconify.design/ph/avocado.svg?height=32&color=%23888888)
   static const IconData avocado = IconData(
     0xee04,
     fontFamily: 'PhosphorRegular',
@@ -1795,7 +1795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `axe` no estilo Regular.
   ///
-  /// ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/axe.svg)
+  /// ![axe](https://api.iconify.design/ph/axe.svg?height=32&color=%23888888)
   static const IconData axe = IconData(
     0xe9fc,
     fontFamily: 'PhosphorRegular',
@@ -1807,7 +1807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baby` no estilo Regular.
   ///
-  /// ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/baby.svg)
+  /// ![baby](https://api.iconify.design/ph/baby.svg?height=32&color=%23888888)
   static const IconData baby = IconData(
     0xe774,
     fontFamily: 'PhosphorRegular',
@@ -1819,7 +1819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `babyCarriage` no estilo Regular.
   ///
-  /// ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/baby-carriage.svg)
+  /// ![baby-carriage](https://api.iconify.design/ph/baby-carriage.svg?height=32&color=%23888888)
   static const IconData babyCarriage = IconData(
     0xe818,
     fontFamily: 'PhosphorRegular',
@@ -1831,7 +1831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `backpack` no estilo Regular.
   ///
-  /// ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/backpack.svg)
+  /// ![backpack](https://api.iconify.design/ph/backpack.svg?height=32&color=%23888888)
   static const IconData backpack = IconData(
     0xe922,
     fontFamily: 'PhosphorRegular',
@@ -1843,7 +1843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `backspace` no estilo Regular.
   ///
-  /// ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/backspace.svg)
+  /// ![backspace](https://api.iconify.design/ph/backspace.svg?height=32&color=%23888888)
   static const IconData backspace = IconData(
     0xe0ae,
     fontFamily: 'PhosphorRegular',
@@ -1855,7 +1855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bag` no estilo Regular.
   ///
-  /// ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bag.svg)
+  /// ![bag](https://api.iconify.design/ph/bag.svg?height=32&color=%23888888)
   static const IconData bag = IconData(
     0xe0b0,
     fontFamily: 'PhosphorRegular',
@@ -1867,7 +1867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bagSimple` no estilo Regular.
   ///
-  /// ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bag-simple.svg)
+  /// ![bag-simple](https://api.iconify.design/ph/bag-simple.svg?height=32&color=%23888888)
   static const IconData bagSimple = IconData(
     0xe5e6,
     fontFamily: 'PhosphorRegular',
@@ -1879,7 +1879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `balloon` no estilo Regular.
   ///
-  /// ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/balloon.svg)
+  /// ![balloon](https://api.iconify.design/ph/balloon.svg?height=32&color=%23888888)
   static const IconData balloon = IconData(
     0xe76c,
     fontFamily: 'PhosphorRegular',
@@ -1891,7 +1891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bandaids` no estilo Regular.
   ///
-  /// ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bandaids.svg)
+  /// ![bandaids](https://api.iconify.design/ph/bandaids.svg?height=32&color=%23888888)
   static const IconData bandaids = IconData(
     0xe0b2,
     fontFamily: 'PhosphorRegular',
@@ -1903,7 +1903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bank` no estilo Regular.
   ///
-  /// ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bank.svg)
+  /// ![bank](https://api.iconify.design/ph/bank.svg?height=32&color=%23888888)
   static const IconData bank = IconData(
     0xe0b4,
     fontFamily: 'PhosphorRegular',
@@ -1915,7 +1915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barbell` no estilo Regular.
   ///
-  /// ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/barbell.svg)
+  /// ![barbell](https://api.iconify.design/ph/barbell.svg?height=32&color=%23888888)
   static const IconData barbell = IconData(
     0xe0b6,
     fontFamily: 'PhosphorRegular',
@@ -1927,7 +1927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barcode` no estilo Regular.
   ///
-  /// ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/barcode.svg)
+  /// ![barcode](https://api.iconify.design/ph/barcode.svg?height=32&color=%23888888)
   static const IconData barcode = IconData(
     0xe0b8,
     fontFamily: 'PhosphorRegular',
@@ -1939,7 +1939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barn` no estilo Regular.
   ///
-  /// ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/barn.svg)
+  /// ![barn](https://api.iconify.design/ph/barn.svg?height=32&color=%23888888)
   static const IconData barn = IconData(
     0xec72,
     fontFamily: 'PhosphorRegular',
@@ -1951,7 +1951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barricade` no estilo Regular.
   ///
-  /// ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/barricade.svg)
+  /// ![barricade](https://api.iconify.design/ph/barricade.svg?height=32&color=%23888888)
   static const IconData barricade = IconData(
     0xe948,
     fontFamily: 'PhosphorRegular',
@@ -1963,7 +1963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baseball` no estilo Regular.
   ///
-  /// ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/baseball.svg)
+  /// ![baseball](https://api.iconify.design/ph/baseball.svg?height=32&color=%23888888)
   static const IconData baseball = IconData(
     0xe71a,
     fontFamily: 'PhosphorRegular',
@@ -1975,7 +1975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baseballCap` no estilo Regular.
   ///
-  /// ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/baseball-cap.svg)
+  /// ![baseball-cap](https://api.iconify.design/ph/baseball-cap.svg?height=32&color=%23888888)
   static const IconData baseballCap = IconData(
     0xea28,
     fontFamily: 'PhosphorRegular',
@@ -1987,7 +1987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baseballHelmet` no estilo Regular.
   ///
-  /// ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/baseball-helmet.svg)
+  /// ![baseball-helmet](https://api.iconify.design/ph/baseball-helmet.svg?height=32&color=%23888888)
   static const IconData baseballHelmet = IconData(
     0xee4a,
     fontFamily: 'PhosphorRegular',
@@ -1999,7 +1999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `basket` no estilo Regular.
   ///
-  /// ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/basket.svg)
+  /// ![basket](https://api.iconify.design/ph/basket.svg?height=32&color=%23888888)
   static const IconData basket = IconData(
     0xe964,
     fontFamily: 'PhosphorRegular',
@@ -2011,7 +2011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `basketball` no estilo Regular.
   ///
-  /// ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/basketball.svg)
+  /// ![basketball](https://api.iconify.design/ph/basketball.svg?height=32&color=%23888888)
   static const IconData basketball = IconData(
     0xe724,
     fontFamily: 'PhosphorRegular',
@@ -2023,7 +2023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bathtub` no estilo Regular.
   ///
-  /// ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bathtub.svg)
+  /// ![bathtub](https://api.iconify.design/ph/bathtub.svg?height=32&color=%23888888)
   static const IconData bathtub = IconData(
     0xe81e,
     fontFamily: 'PhosphorRegular',
@@ -2035,7 +2035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryCharging` no estilo Regular.
   ///
-  /// ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-charging.svg)
+  /// ![battery-charging](https://api.iconify.design/ph/battery-charging.svg?height=32&color=%23888888)
   static const IconData batteryCharging = IconData(
     0xe0ba,
     fontFamily: 'PhosphorRegular',
@@ -2047,7 +2047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryChargingVertical` no estilo Regular.
   ///
-  /// ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-charging-vertical.svg)
+  /// ![battery-charging-vertical](https://api.iconify.design/ph/battery-charging-vertical.svg?height=32&color=%23888888)
   static const IconData batteryChargingVertical = IconData(
     0xe0bc,
     fontFamily: 'PhosphorRegular',
@@ -2059,7 +2059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryEmpty` no estilo Regular.
   ///
-  /// ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-empty.svg)
+  /// ![battery-empty](https://api.iconify.design/ph/battery-empty.svg?height=32&color=%23888888)
   static const IconData batteryEmpty = IconData(
     0xe0be,
     fontFamily: 'PhosphorRegular',
@@ -2071,7 +2071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryFull` no estilo Regular.
   ///
-  /// ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-full.svg)
+  /// ![battery-full](https://api.iconify.design/ph/battery-full.svg?height=32&color=%23888888)
   static const IconData batteryFull = IconData(
     0xe0c0,
     fontFamily: 'PhosphorRegular',
@@ -2083,7 +2083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryHigh` no estilo Regular.
   ///
-  /// ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-high.svg)
+  /// ![battery-high](https://api.iconify.design/ph/battery-high.svg?height=32&color=%23888888)
   static const IconData batteryHigh = IconData(
     0xe0c2,
     fontFamily: 'PhosphorRegular',
@@ -2095,7 +2095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryLow` no estilo Regular.
   ///
-  /// ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-low.svg)
+  /// ![battery-low](https://api.iconify.design/ph/battery-low.svg?height=32&color=%23888888)
   static const IconData batteryLow = IconData(
     0xe0c4,
     fontFamily: 'PhosphorRegular',
@@ -2107,7 +2107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryMedium` no estilo Regular.
   ///
-  /// ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-medium.svg)
+  /// ![battery-medium](https://api.iconify.design/ph/battery-medium.svg?height=32&color=%23888888)
   static const IconData batteryMedium = IconData(
     0xe0c6,
     fontFamily: 'PhosphorRegular',
@@ -2119,7 +2119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryPlus` no estilo Regular.
   ///
-  /// ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-plus.svg)
+  /// ![battery-plus](https://api.iconify.design/ph/battery-plus.svg?height=32&color=%23888888)
   static const IconData batteryPlus = IconData(
     0xe808,
     fontFamily: 'PhosphorRegular',
@@ -2131,7 +2131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryPlusVertical` no estilo Regular.
   ///
-  /// ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-plus-vertical.svg)
+  /// ![battery-plus-vertical](https://api.iconify.design/ph/battery-plus-vertical.svg?height=32&color=%23888888)
   static const IconData batteryPlusVertical = IconData(
     0xec50,
     fontFamily: 'PhosphorRegular',
@@ -2143,7 +2143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalEmpty` no estilo Regular.
   ///
-  /// ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-vertical-empty.svg)
+  /// ![battery-vertical-empty](https://api.iconify.design/ph/battery-vertical-empty.svg?height=32&color=%23888888)
   static const IconData batteryVerticalEmpty = IconData(
     0xe7c6,
     fontFamily: 'PhosphorRegular',
@@ -2155,7 +2155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalFull` no estilo Regular.
   ///
-  /// ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-vertical-full.svg)
+  /// ![battery-vertical-full](https://api.iconify.design/ph/battery-vertical-full.svg?height=32&color=%23888888)
   static const IconData batteryVerticalFull = IconData(
     0xe7c4,
     fontFamily: 'PhosphorRegular',
@@ -2167,7 +2167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalHigh` no estilo Regular.
   ///
-  /// ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-vertical-high.svg)
+  /// ![battery-vertical-high](https://api.iconify.design/ph/battery-vertical-high.svg?height=32&color=%23888888)
   static const IconData batteryVerticalHigh = IconData(
     0xe7c2,
     fontFamily: 'PhosphorRegular',
@@ -2179,7 +2179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalLow` no estilo Regular.
   ///
-  /// ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-vertical-low.svg)
+  /// ![battery-vertical-low](https://api.iconify.design/ph/battery-vertical-low.svg?height=32&color=%23888888)
   static const IconData batteryVerticalLow = IconData(
     0xe7be,
     fontFamily: 'PhosphorRegular',
@@ -2191,7 +2191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalMedium` no estilo Regular.
   ///
-  /// ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-vertical-medium.svg)
+  /// ![battery-vertical-medium](https://api.iconify.design/ph/battery-vertical-medium.svg?height=32&color=%23888888)
   static const IconData batteryVerticalMedium = IconData(
     0xe7c0,
     fontFamily: 'PhosphorRegular',
@@ -2203,7 +2203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryWarning` no estilo Regular.
   ///
-  /// ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-warning.svg)
+  /// ![battery-warning](https://api.iconify.design/ph/battery-warning.svg?height=32&color=%23888888)
   static const IconData batteryWarning = IconData(
     0xe0c8,
     fontFamily: 'PhosphorRegular',
@@ -2215,7 +2215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryWarningVertical` no estilo Regular.
   ///
-  /// ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/battery-warning-vertical.svg)
+  /// ![battery-warning-vertical](https://api.iconify.design/ph/battery-warning-vertical.svg?height=32&color=%23888888)
   static const IconData batteryWarningVertical = IconData(
     0xe0ca,
     fontFamily: 'PhosphorRegular',
@@ -2227,7 +2227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beachBall` no estilo Regular.
   ///
-  /// ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/beach-ball.svg)
+  /// ![beach-ball](https://api.iconify.design/ph/beach-ball.svg?height=32&color=%23888888)
   static const IconData beachBall = IconData(
     0xed24,
     fontFamily: 'PhosphorRegular',
@@ -2239,7 +2239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beanie` no estilo Regular.
   ///
-  /// ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/beanie.svg)
+  /// ![beanie](https://api.iconify.design/ph/beanie.svg?height=32&color=%23888888)
   static const IconData beanie = IconData(
     0xea2a,
     fontFamily: 'PhosphorRegular',
@@ -2251,7 +2251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bed` no estilo Regular.
   ///
-  /// ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bed.svg)
+  /// ![bed](https://api.iconify.design/ph/bed.svg?height=32&color=%23888888)
   static const IconData bed = IconData(
     0xe0cc,
     fontFamily: 'PhosphorRegular',
@@ -2263,7 +2263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beerBottle` no estilo Regular.
   ///
-  /// ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/beer-bottle.svg)
+  /// ![beer-bottle](https://api.iconify.design/ph/beer-bottle.svg?height=32&color=%23888888)
   static const IconData beerBottle = IconData(
     0xe7b0,
     fontFamily: 'PhosphorRegular',
@@ -2275,7 +2275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beerStein` no estilo Regular.
   ///
-  /// ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/beer-stein.svg)
+  /// ![beer-stein](https://api.iconify.design/ph/beer-stein.svg?height=32&color=%23888888)
   static const IconData beerStein = IconData(
     0xeb62,
     fontFamily: 'PhosphorRegular',
@@ -2287,7 +2287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `behanceLogo` no estilo Regular.
   ///
-  /// ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/behance-logo.svg)
+  /// ![behance-logo](https://api.iconify.design/ph/behance-logo.svg?height=32&color=%23888888)
   static const IconData behanceLogo = IconData(
     0xe7f4,
     fontFamily: 'PhosphorRegular',
@@ -2299,7 +2299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bell` no estilo Regular.
   ///
-  /// ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell.svg)
+  /// ![bell](https://api.iconify.design/ph/bell.svg?height=32&color=%23888888)
   static const IconData bell = IconData(
     0xe0ce,
     fontFamily: 'PhosphorRegular',
@@ -2311,7 +2311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellRinging` no estilo Regular.
   ///
-  /// ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell-ringing.svg)
+  /// ![bell-ringing](https://api.iconify.design/ph/bell-ringing.svg?height=32&color=%23888888)
   static const IconData bellRinging = IconData(
     0xe5e8,
     fontFamily: 'PhosphorRegular',
@@ -2323,7 +2323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimple` no estilo Regular.
   ///
-  /// ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell-simple.svg)
+  /// ![bell-simple](https://api.iconify.design/ph/bell-simple.svg?height=32&color=%23888888)
   static const IconData bellSimple = IconData(
     0xe0d0,
     fontFamily: 'PhosphorRegular',
@@ -2335,7 +2335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimpleRinging` no estilo Regular.
   ///
-  /// ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell-simple-ringing.svg)
+  /// ![bell-simple-ringing](https://api.iconify.design/ph/bell-simple-ringing.svg?height=32&color=%23888888)
   static const IconData bellSimpleRinging = IconData(
     0xe5ea,
     fontFamily: 'PhosphorRegular',
@@ -2347,7 +2347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimpleSlash` no estilo Regular.
   ///
-  /// ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell-simple-slash.svg)
+  /// ![bell-simple-slash](https://api.iconify.design/ph/bell-simple-slash.svg?height=32&color=%23888888)
   static const IconData bellSimpleSlash = IconData(
     0xe0d2,
     fontFamily: 'PhosphorRegular',
@@ -2359,7 +2359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimpleZ` no estilo Regular.
   ///
-  /// ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell-simple-z.svg)
+  /// ![bell-simple-z](https://api.iconify.design/ph/bell-simple-z.svg?height=32&color=%23888888)
   static const IconData bellSimpleZ = IconData(
     0xe5ec,
     fontFamily: 'PhosphorRegular',
@@ -2371,7 +2371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSlash` no estilo Regular.
   ///
-  /// ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell-slash.svg)
+  /// ![bell-slash](https://api.iconify.design/ph/bell-slash.svg?height=32&color=%23888888)
   static const IconData bellSlash = IconData(
     0xe0d4,
     fontFamily: 'PhosphorRegular',
@@ -2383,7 +2383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellZ` no estilo Regular.
   ///
-  /// ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bell-z.svg)
+  /// ![bell-z](https://api.iconify.design/ph/bell-z.svg?height=32&color=%23888888)
   static const IconData bellZ = IconData(
     0xe5ee,
     fontFamily: 'PhosphorRegular',
@@ -2395,7 +2395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `belt` no estilo Regular.
   ///
-  /// ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/belt.svg)
+  /// ![belt](https://api.iconify.design/ph/belt.svg?height=32&color=%23888888)
   static const IconData belt = IconData(
     0xea2c,
     fontFamily: 'PhosphorRegular',
@@ -2407,7 +2407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bezierCurve` no estilo Regular.
   ///
-  /// ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bezier-curve.svg)
+  /// ![bezier-curve](https://api.iconify.design/ph/bezier-curve.svg?height=32&color=%23888888)
   static const IconData bezierCurve = IconData(
     0xeb00,
     fontFamily: 'PhosphorRegular',
@@ -2419,7 +2419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bicycle` no estilo Regular.
   ///
-  /// ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bicycle.svg)
+  /// ![bicycle](https://api.iconify.design/ph/bicycle.svg?height=32&color=%23888888)
   static const IconData bicycle = IconData(
     0xe0d6,
     fontFamily: 'PhosphorRegular',
@@ -2431,7 +2431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `binary` no estilo Regular.
   ///
-  /// ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/binary.svg)
+  /// ![binary](https://api.iconify.design/ph/binary.svg?height=32&color=%23888888)
   static const IconData binary = IconData(
     0xee60,
     fontFamily: 'PhosphorRegular',
@@ -2443,7 +2443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `binoculars` no estilo Regular.
   ///
-  /// ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/binoculars.svg)
+  /// ![binoculars](https://api.iconify.design/ph/binoculars.svg?height=32&color=%23888888)
   static const IconData binoculars = IconData(
     0xea64,
     fontFamily: 'PhosphorRegular',
@@ -2455,7 +2455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `biohazard` no estilo Regular.
   ///
-  /// ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/biohazard.svg)
+  /// ![biohazard](https://api.iconify.design/ph/biohazard.svg?height=32&color=%23888888)
   static const IconData biohazard = IconData(
     0xe9e0,
     fontFamily: 'PhosphorRegular',
@@ -2467,7 +2467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bird` no estilo Regular.
   ///
-  /// ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bird.svg)
+  /// ![bird](https://api.iconify.design/ph/bird.svg?height=32&color=%23888888)
   static const IconData bird = IconData(
     0xe72c,
     fontFamily: 'PhosphorRegular',
@@ -2479,7 +2479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `blueprint` no estilo Regular.
   ///
-  /// ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/blueprint.svg)
+  /// ![blueprint](https://api.iconify.design/ph/blueprint.svg?height=32&color=%23888888)
   static const IconData blueprint = IconData(
     0xeda0,
     fontFamily: 'PhosphorRegular',
@@ -2491,7 +2491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetooth` no estilo Regular.
   ///
-  /// ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bluetooth.svg)
+  /// ![bluetooth](https://api.iconify.design/ph/bluetooth.svg?height=32&color=%23888888)
   static const IconData bluetooth = IconData(
     0xe0da,
     fontFamily: 'PhosphorRegular',
@@ -2503,7 +2503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetoothConnected` no estilo Regular.
   ///
-  /// ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bluetooth-connected.svg)
+  /// ![bluetooth-connected](https://api.iconify.design/ph/bluetooth-connected.svg?height=32&color=%23888888)
   static const IconData bluetoothConnected = IconData(
     0xe0dc,
     fontFamily: 'PhosphorRegular',
@@ -2515,7 +2515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetoothSlash` no estilo Regular.
   ///
-  /// ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bluetooth-slash.svg)
+  /// ![bluetooth-slash](https://api.iconify.design/ph/bluetooth-slash.svg?height=32&color=%23888888)
   static const IconData bluetoothSlash = IconData(
     0xe0de,
     fontFamily: 'PhosphorRegular',
@@ -2527,7 +2527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetoothX` no estilo Regular.
   ///
-  /// ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bluetooth-x.svg)
+  /// ![bluetooth-x](https://api.iconify.design/ph/bluetooth-x.svg?height=32&color=%23888888)
   static const IconData bluetoothX = IconData(
     0xe0e0,
     fontFamily: 'PhosphorRegular',
@@ -2539,7 +2539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boat` no estilo Regular.
   ///
-  /// ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/boat.svg)
+  /// ![boat](https://api.iconify.design/ph/boat.svg?height=32&color=%23888888)
   static const IconData boat = IconData(
     0xe786,
     fontFamily: 'PhosphorRegular',
@@ -2551,7 +2551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bomb` no estilo Regular.
   ///
-  /// ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bomb.svg)
+  /// ![bomb](https://api.iconify.design/ph/bomb.svg?height=32&color=%23888888)
   static const IconData bomb = IconData(
     0xee0a,
     fontFamily: 'PhosphorRegular',
@@ -2563,7 +2563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bone` no estilo Regular.
   ///
-  /// ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bone.svg)
+  /// ![bone](https://api.iconify.design/ph/bone.svg?height=32&color=%23888888)
   static const IconData bone = IconData(
     0xe7f2,
     fontFamily: 'PhosphorRegular',
@@ -2575,7 +2575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `book` no estilo Regular.
   ///
-  /// ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/book.svg)
+  /// ![book](https://api.iconify.design/ph/book.svg?height=32&color=%23888888)
   static const IconData book = IconData(
     0xe0e2,
     fontFamily: 'PhosphorRegular',
@@ -2587,7 +2587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookBookmark` no estilo Regular.
   ///
-  /// ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/book-bookmark.svg)
+  /// ![book-bookmark](https://api.iconify.design/ph/book-bookmark.svg?height=32&color=%23888888)
   static const IconData bookBookmark = IconData(
     0xe0e4,
     fontFamily: 'PhosphorRegular',
@@ -2599,7 +2599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookOpen` no estilo Regular.
   ///
-  /// ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/book-open.svg)
+  /// ![book-open](https://api.iconify.design/ph/book-open.svg?height=32&color=%23888888)
   static const IconData bookOpen = IconData(
     0xe0e6,
     fontFamily: 'PhosphorRegular',
@@ -2611,7 +2611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookOpenText` no estilo Regular.
   ///
-  /// ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/book-open-text.svg)
+  /// ![book-open-text](https://api.iconify.design/ph/book-open-text.svg?height=32&color=%23888888)
   static const IconData bookOpenText = IconData(
     0xe8f2,
     fontFamily: 'PhosphorRegular',
@@ -2623,7 +2623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookOpenUser` no estilo Regular.
   ///
-  /// ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/book-open-user.svg)
+  /// ![book-open-user](https://api.iconify.design/ph/book-open-user.svg?height=32&color=%23888888)
   static const IconData bookOpenUser = IconData(
     0xede0,
     fontFamily: 'PhosphorRegular',
@@ -2635,7 +2635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmark` no estilo Regular.
   ///
-  /// ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bookmark.svg)
+  /// ![bookmark](https://api.iconify.design/ph/bookmark.svg?height=32&color=%23888888)
   static const IconData bookmark = IconData(
     0xe0e8,
     fontFamily: 'PhosphorRegular',
@@ -2647,7 +2647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmarkSimple` no estilo Regular.
   ///
-  /// ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bookmark-simple.svg)
+  /// ![bookmark-simple](https://api.iconify.design/ph/bookmark-simple.svg?height=32&color=%23888888)
   static const IconData bookmarkSimple = IconData(
     0xe0ea,
     fontFamily: 'PhosphorRegular',
@@ -2659,7 +2659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmarks` no estilo Regular.
   ///
-  /// ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bookmarks.svg)
+  /// ![bookmarks](https://api.iconify.design/ph/bookmarks.svg?height=32&color=%23888888)
   static const IconData bookmarks = IconData(
     0xe0ec,
     fontFamily: 'PhosphorRegular',
@@ -2671,7 +2671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmarksSimple` no estilo Regular.
   ///
-  /// ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bookmarks-simple.svg)
+  /// ![bookmarks-simple](https://api.iconify.design/ph/bookmarks-simple.svg?height=32&color=%23888888)
   static const IconData bookmarksSimple = IconData(
     0xe5f0,
     fontFamily: 'PhosphorRegular',
@@ -2683,7 +2683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `books` no estilo Regular.
   ///
-  /// ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/books.svg)
+  /// ![books](https://api.iconify.design/ph/books.svg?height=32&color=%23888888)
   static const IconData books = IconData(
     0xe758,
     fontFamily: 'PhosphorRegular',
@@ -2695,7 +2695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boot` no estilo Regular.
   ///
-  /// ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/boot.svg)
+  /// ![boot](https://api.iconify.design/ph/boot.svg?height=32&color=%23888888)
   static const IconData boot = IconData(
     0xecca,
     fontFamily: 'PhosphorRegular',
@@ -2707,7 +2707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boules` no estilo Regular.
   ///
-  /// ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/boules.svg)
+  /// ![boules](https://api.iconify.design/ph/boules.svg?height=32&color=%23888888)
   static const IconData boules = IconData(
     0xe722,
     fontFamily: 'PhosphorRegular',
@@ -2719,7 +2719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boundingBox` no estilo Regular.
   ///
-  /// ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bounding-box.svg)
+  /// ![bounding-box](https://api.iconify.design/ph/bounding-box.svg?height=32&color=%23888888)
   static const IconData boundingBox = IconData(
     0xe6ce,
     fontFamily: 'PhosphorRegular',
@@ -2731,7 +2731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bowlFood` no estilo Regular.
   ///
-  /// ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bowl-food.svg)
+  /// ![bowl-food](https://api.iconify.design/ph/bowl-food.svg?height=32&color=%23888888)
   static const IconData bowlFood = IconData(
     0xeaa4,
     fontFamily: 'PhosphorRegular',
@@ -2743,7 +2743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bowlSteam` no estilo Regular.
   ///
-  /// ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bowl-steam.svg)
+  /// ![bowl-steam](https://api.iconify.design/ph/bowl-steam.svg?height=32&color=%23888888)
   static const IconData bowlSteam = IconData(
     0xe8e4,
     fontFamily: 'PhosphorRegular',
@@ -2755,7 +2755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bowlingBall` no estilo Regular.
   ///
-  /// ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bowling-ball.svg)
+  /// ![bowling-ball](https://api.iconify.design/ph/bowling-ball.svg?height=32&color=%23888888)
   static const IconData bowlingBall = IconData(
     0xea34,
     fontFamily: 'PhosphorRegular',
@@ -2767,7 +2767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boxArrowDown` no estilo Regular.
   ///
-  /// ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/box-arrow-down.svg)
+  /// ![box-arrow-down](https://api.iconify.design/ph/box-arrow-down.svg?height=32&color=%23888888)
   static const IconData boxArrowDown = IconData(
     0xe00e,
     fontFamily: 'PhosphorRegular',
@@ -2779,7 +2779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boxArrowUp` no estilo Regular.
   ///
-  /// ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/box-arrow-up.svg)
+  /// ![box-arrow-up](https://api.iconify.design/ph/box-arrow-up.svg?height=32&color=%23888888)
   static const IconData boxArrowUp = IconData(
     0xee54,
     fontFamily: 'PhosphorRegular',
@@ -2791,7 +2791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boxingGlove` no estilo Regular.
   ///
-  /// ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/boxing-glove.svg)
+  /// ![boxing-glove](https://api.iconify.design/ph/boxing-glove.svg?height=32&color=%23888888)
   static const IconData boxingGlove = IconData(
     0xea36,
     fontFamily: 'PhosphorRegular',
@@ -2803,7 +2803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsAngle` no estilo Regular.
   ///
-  /// ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/brackets-angle.svg)
+  /// ![brackets-angle](https://api.iconify.design/ph/brackets-angle.svg?height=32&color=%23888888)
   static const IconData bracketsAngle = IconData(
     0xe862,
     fontFamily: 'PhosphorRegular',
@@ -2815,7 +2815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsCurly` no estilo Regular.
   ///
-  /// ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/brackets-curly.svg)
+  /// ![brackets-curly](https://api.iconify.design/ph/brackets-curly.svg?height=32&color=%23888888)
   static const IconData bracketsCurly = IconData(
     0xe860,
     fontFamily: 'PhosphorRegular',
@@ -2827,7 +2827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsRound` no estilo Regular.
   ///
-  /// ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/brackets-round.svg)
+  /// ![brackets-round](https://api.iconify.design/ph/brackets-round.svg?height=32&color=%23888888)
   static const IconData bracketsRound = IconData(
     0xe864,
     fontFamily: 'PhosphorRegular',
@@ -2839,7 +2839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsSquare` no estilo Regular.
   ///
-  /// ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/brackets-square.svg)
+  /// ![brackets-square](https://api.iconify.design/ph/brackets-square.svg?height=32&color=%23888888)
   static const IconData bracketsSquare = IconData(
     0xe85e,
     fontFamily: 'PhosphorRegular',
@@ -2851,7 +2851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `brain` no estilo Regular.
   ///
-  /// ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/brain.svg)
+  /// ![brain](https://api.iconify.design/ph/brain.svg?height=32&color=%23888888)
   static const IconData brain = IconData(
     0xe74e,
     fontFamily: 'PhosphorRegular',
@@ -2863,7 +2863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `brandy` no estilo Regular.
   ///
-  /// ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/brandy.svg)
+  /// ![brandy](https://api.iconify.design/ph/brandy.svg?height=32&color=%23888888)
   static const IconData brandy = IconData(
     0xe6b4,
     fontFamily: 'PhosphorRegular',
@@ -2875,7 +2875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bread` no estilo Regular.
   ///
-  /// ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bread.svg)
+  /// ![bread](https://api.iconify.design/ph/bread.svg?height=32&color=%23888888)
   static const IconData bread = IconData(
     0xe81c,
     fontFamily: 'PhosphorRegular',
@@ -2887,7 +2887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bridge` no estilo Regular.
   ///
-  /// ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bridge.svg)
+  /// ![bridge](https://api.iconify.design/ph/bridge.svg?height=32&color=%23888888)
   static const IconData bridge = IconData(
     0xea68,
     fontFamily: 'PhosphorRegular',
@@ -2899,7 +2899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `briefcase` no estilo Regular.
   ///
-  /// ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/briefcase.svg)
+  /// ![briefcase](https://api.iconify.design/ph/briefcase.svg?height=32&color=%23888888)
   static const IconData briefcase = IconData(
     0xe0ee,
     fontFamily: 'PhosphorRegular',
@@ -2911,7 +2911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `briefcaseMetal` no estilo Regular.
   ///
-  /// ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/briefcase-metal.svg)
+  /// ![briefcase-metal](https://api.iconify.design/ph/briefcase-metal.svg?height=32&color=%23888888)
   static const IconData briefcaseMetal = IconData(
     0xe5f2,
     fontFamily: 'PhosphorRegular',
@@ -2923,7 +2923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `broadcast` no estilo Regular.
   ///
-  /// ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/broadcast.svg)
+  /// ![broadcast](https://api.iconify.design/ph/broadcast.svg?height=32&color=%23888888)
   static const IconData broadcast = IconData(
     0xe0f2,
     fontFamily: 'PhosphorRegular',
@@ -2935,7 +2935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `broom` no estilo Regular.
   ///
-  /// ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/broom.svg)
+  /// ![broom](https://api.iconify.design/ph/broom.svg?height=32&color=%23888888)
   static const IconData broom = IconData(
     0xec54,
     fontFamily: 'PhosphorRegular',
@@ -2947,7 +2947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `browser` no estilo Regular.
   ///
-  /// ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/browser.svg)
+  /// ![browser](https://api.iconify.design/ph/browser.svg?height=32&color=%23888888)
   static const IconData browser = IconData(
     0xe0f4,
     fontFamily: 'PhosphorRegular',
@@ -2959,7 +2959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `browsers` no estilo Regular.
   ///
-  /// ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/browsers.svg)
+  /// ![browsers](https://api.iconify.design/ph/browsers.svg?height=32&color=%23888888)
   static const IconData browsers = IconData(
     0xe0f6,
     fontFamily: 'PhosphorRegular',
@@ -2971,7 +2971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bug` no estilo Regular.
   ///
-  /// ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bug.svg)
+  /// ![bug](https://api.iconify.design/ph/bug.svg?height=32&color=%23888888)
   static const IconData bug = IconData(
     0xe5f4,
     fontFamily: 'PhosphorRegular',
@@ -2983,7 +2983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bugBeetle` no estilo Regular.
   ///
-  /// ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bug-beetle.svg)
+  /// ![bug-beetle](https://api.iconify.design/ph/bug-beetle.svg?height=32&color=%23888888)
   static const IconData bugBeetle = IconData(
     0xe5f6,
     fontFamily: 'PhosphorRegular',
@@ -2995,7 +2995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bugDroid` no estilo Regular.
   ///
-  /// ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bug-droid.svg)
+  /// ![bug-droid](https://api.iconify.design/ph/bug-droid.svg?height=32&color=%23888888)
   static const IconData bugDroid = IconData(
     0xe5f8,
     fontFamily: 'PhosphorRegular',
@@ -3007,7 +3007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `building` no estilo Regular.
   ///
-  /// ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/building.svg)
+  /// ![building](https://api.iconify.design/ph/building.svg?height=32&color=%23888888)
   static const IconData building = IconData(
     0xe100,
     fontFamily: 'PhosphorRegular',
@@ -3019,7 +3019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `buildingApartment` no estilo Regular.
   ///
-  /// ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/building-apartment.svg)
+  /// ![building-apartment](https://api.iconify.design/ph/building-apartment.svg?height=32&color=%23888888)
   static const IconData buildingApartment = IconData(
     0xe0fe,
     fontFamily: 'PhosphorRegular',
@@ -3031,7 +3031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `buildingOffice` no estilo Regular.
   ///
-  /// ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/building-office.svg)
+  /// ![building-office](https://api.iconify.design/ph/building-office.svg?height=32&color=%23888888)
   static const IconData buildingOffice = IconData(
     0xe0ff,
     fontFamily: 'PhosphorRegular',
@@ -3043,7 +3043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `buildings` no estilo Regular.
   ///
-  /// ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/buildings.svg)
+  /// ![buildings](https://api.iconify.design/ph/buildings.svg?height=32&color=%23888888)
   static const IconData buildings = IconData(
     0xe102,
     fontFamily: 'PhosphorRegular',
@@ -3055,7 +3055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bulldozer` no estilo Regular.
   ///
-  /// ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bulldozer.svg)
+  /// ![bulldozer](https://api.iconify.design/ph/bulldozer.svg?height=32&color=%23888888)
   static const IconData bulldozer = IconData(
     0xec6c,
     fontFamily: 'PhosphorRegular',
@@ -3067,7 +3067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bus` no estilo Regular.
   ///
-  /// ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/bus.svg)
+  /// ![bus](https://api.iconify.design/ph/bus.svg?height=32&color=%23888888)
   static const IconData bus = IconData(
     0xe106,
     fontFamily: 'PhosphorRegular',
@@ -3079,7 +3079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `butterfly` no estilo Regular.
   ///
-  /// ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/butterfly.svg)
+  /// ![butterfly](https://api.iconify.design/ph/butterfly.svg?height=32&color=%23888888)
   static const IconData butterfly = IconData(
     0xea6e,
     fontFamily: 'PhosphorRegular',
@@ -3091,7 +3091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cableCar` no estilo Regular.
   ///
-  /// ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cable-car.svg)
+  /// ![cable-car](https://api.iconify.design/ph/cable-car.svg?height=32&color=%23888888)
   static const IconData cableCar = IconData(
     0xe49c,
     fontFamily: 'PhosphorRegular',
@@ -3103,7 +3103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cactus` no estilo Regular.
   ///
-  /// ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cactus.svg)
+  /// ![cactus](https://api.iconify.design/ph/cactus.svg?height=32&color=%23888888)
   static const IconData cactus = IconData(
     0xe918,
     fontFamily: 'PhosphorRegular',
@@ -3115,7 +3115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caduceus` no estilo Regular.
   ///
-  /// ![caduceus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caduceus.svg)
+  /// ![caduceus](https://api.iconify.design/ph/asclepius.svg?height=32&color=%23888888)
   static const IconData caduceus = IconData(
     0xee34,
     fontFamily: 'PhosphorRegular',
@@ -3127,7 +3127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cake` no estilo Regular.
   ///
-  /// ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cake.svg)
+  /// ![cake](https://api.iconify.design/ph/cake.svg?height=32&color=%23888888)
   static const IconData cake = IconData(
     0xe780,
     fontFamily: 'PhosphorRegular',
@@ -3139,7 +3139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calculator` no estilo Regular.
   ///
-  /// ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calculator.svg)
+  /// ![calculator](https://api.iconify.design/ph/calculator.svg?height=32&color=%23888888)
   static const IconData calculator = IconData(
     0xe538,
     fontFamily: 'PhosphorRegular',
@@ -3151,7 +3151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendar` no estilo Regular.
   ///
-  /// ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar.svg)
+  /// ![calendar](https://api.iconify.design/ph/calendar.svg?height=32&color=%23888888)
   static const IconData calendar = IconData(
     0xe108,
     fontFamily: 'PhosphorRegular',
@@ -3163,7 +3163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarBlank` no estilo Regular.
   ///
-  /// ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-blank.svg)
+  /// ![calendar-blank](https://api.iconify.design/ph/calendar-blank.svg?height=32&color=%23888888)
   static const IconData calendarBlank = IconData(
     0xe10a,
     fontFamily: 'PhosphorRegular',
@@ -3175,7 +3175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarCheck` no estilo Regular.
   ///
-  /// ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-check.svg)
+  /// ![calendar-check](https://api.iconify.design/ph/calendar-check.svg?height=32&color=%23888888)
   static const IconData calendarCheck = IconData(
     0xe712,
     fontFamily: 'PhosphorRegular',
@@ -3187,7 +3187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarDot` no estilo Regular.
   ///
-  /// ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-dot.svg)
+  /// ![calendar-dot](https://api.iconify.design/ph/calendar-dot.svg?height=32&color=%23888888)
   static const IconData calendarDot = IconData(
     0xe7b2,
     fontFamily: 'PhosphorRegular',
@@ -3199,7 +3199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarDots` no estilo Regular.
   ///
-  /// ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-dots.svg)
+  /// ![calendar-dots](https://api.iconify.design/ph/calendar-dots.svg?height=32&color=%23888888)
   static const IconData calendarDots = IconData(
     0xe7b4,
     fontFamily: 'PhosphorRegular',
@@ -3211,7 +3211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarHeart` no estilo Regular.
   ///
-  /// ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-heart.svg)
+  /// ![calendar-heart](https://api.iconify.design/ph/calendar-heart.svg?height=32&color=%23888888)
   static const IconData calendarHeart = IconData(
     0xe8b0,
     fontFamily: 'PhosphorRegular',
@@ -3223,7 +3223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarMinus` no estilo Regular.
   ///
-  /// ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-minus.svg)
+  /// ![calendar-minus](https://api.iconify.design/ph/calendar-minus.svg?height=32&color=%23888888)
   static const IconData calendarMinus = IconData(
     0xea14,
     fontFamily: 'PhosphorRegular',
@@ -3235,7 +3235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarPlus` no estilo Regular.
   ///
-  /// ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-plus.svg)
+  /// ![calendar-plus](https://api.iconify.design/ph/calendar-plus.svg?height=32&color=%23888888)
   static const IconData calendarPlus = IconData(
     0xe714,
     fontFamily: 'PhosphorRegular',
@@ -3247,7 +3247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarSlash` no estilo Regular.
   ///
-  /// ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-slash.svg)
+  /// ![calendar-slash](https://api.iconify.design/ph/calendar-slash.svg?height=32&color=%23888888)
   static const IconData calendarSlash = IconData(
     0xea12,
     fontFamily: 'PhosphorRegular',
@@ -3259,7 +3259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarStar` no estilo Regular.
   ///
-  /// ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-star.svg)
+  /// ![calendar-star](https://api.iconify.design/ph/calendar-star.svg?height=32&color=%23888888)
   static const IconData calendarStar = IconData(
     0xe8b2,
     fontFamily: 'PhosphorRegular',
@@ -3271,7 +3271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarX` no estilo Regular.
   ///
-  /// ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/calendar-x.svg)
+  /// ![calendar-x](https://api.iconify.design/ph/calendar-x.svg?height=32&color=%23888888)
   static const IconData calendarX = IconData(
     0xe10c,
     fontFamily: 'PhosphorRegular',
@@ -3283,7 +3283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `callBell` no estilo Regular.
   ///
-  /// ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/call-bell.svg)
+  /// ![call-bell](https://api.iconify.design/ph/call-bell.svg?height=32&color=%23888888)
   static const IconData callBell = IconData(
     0xe7de,
     fontFamily: 'PhosphorRegular',
@@ -3295,7 +3295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `camera` no estilo Regular.
   ///
-  /// ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/camera.svg)
+  /// ![camera](https://api.iconify.design/ph/camera.svg?height=32&color=%23888888)
   static const IconData camera = IconData(
     0xe10e,
     fontFamily: 'PhosphorRegular',
@@ -3307,7 +3307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cameraPlus` no estilo Regular.
   ///
-  /// ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/camera-plus.svg)
+  /// ![camera-plus](https://api.iconify.design/ph/camera-plus.svg?height=32&color=%23888888)
   static const IconData cameraPlus = IconData(
     0xec58,
     fontFamily: 'PhosphorRegular',
@@ -3319,7 +3319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cameraRotate` no estilo Regular.
   ///
-  /// ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/camera-rotate.svg)
+  /// ![camera-rotate](https://api.iconify.design/ph/camera-rotate.svg?height=32&color=%23888888)
   static const IconData cameraRotate = IconData(
     0xe7a4,
     fontFamily: 'PhosphorRegular',
@@ -3331,7 +3331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cameraSlash` no estilo Regular.
   ///
-  /// ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/camera-slash.svg)
+  /// ![camera-slash](https://api.iconify.design/ph/camera-slash.svg?height=32&color=%23888888)
   static const IconData cameraSlash = IconData(
     0xe110,
     fontFamily: 'PhosphorRegular',
@@ -3343,7 +3343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `campfire` no estilo Regular.
   ///
-  /// ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/campfire.svg)
+  /// ![campfire](https://api.iconify.design/ph/campfire.svg?height=32&color=%23888888)
   static const IconData campfire = IconData(
     0xe9d8,
     fontFamily: 'PhosphorRegular',
@@ -3355,7 +3355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `car` no estilo Regular.
   ///
-  /// ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/car.svg)
+  /// ![car](https://api.iconify.design/ph/car.svg?height=32&color=%23888888)
   static const IconData car = IconData(
     0xe112,
     fontFamily: 'PhosphorRegular',
@@ -3367,7 +3367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carBattery` no estilo Regular.
   ///
-  /// ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/car-battery.svg)
+  /// ![car-battery](https://api.iconify.design/ph/car-battery.svg?height=32&color=%23888888)
   static const IconData carBattery = IconData(
     0xee30,
     fontFamily: 'PhosphorRegular',
@@ -3379,7 +3379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carProfile` no estilo Regular.
   ///
-  /// ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/car-profile.svg)
+  /// ![car-profile](https://api.iconify.design/ph/car-profile.svg?height=32&color=%23888888)
   static const IconData carProfile = IconData(
     0xe8cc,
     fontFamily: 'PhosphorRegular',
@@ -3391,7 +3391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carSimple` no estilo Regular.
   ///
-  /// ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/car-simple.svg)
+  /// ![car-simple](https://api.iconify.design/ph/car-simple.svg?height=32&color=%23888888)
   static const IconData carSimple = IconData(
     0xe114,
     fontFamily: 'PhosphorRegular',
@@ -3403,7 +3403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cardholder` no estilo Regular.
   ///
-  /// ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cardholder.svg)
+  /// ![cardholder](https://api.iconify.design/ph/cardholder.svg?height=32&color=%23888888)
   static const IconData cardholder = IconData(
     0xe5fa,
     fontFamily: 'PhosphorRegular',
@@ -3415,7 +3415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cards` no estilo Regular.
   ///
-  /// ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cards.svg)
+  /// ![cards](https://api.iconify.design/ph/cards.svg?height=32&color=%23888888)
   static const IconData cards = IconData(
     0xe0f8,
     fontFamily: 'PhosphorRegular',
@@ -3427,7 +3427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cardsThree` no estilo Regular.
   ///
-  /// ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cards-three.svg)
+  /// ![cards-three](https://api.iconify.design/ph/cards-three.svg?height=32&color=%23888888)
   static const IconData cardsThree = IconData(
     0xee50,
     fontFamily: 'PhosphorRegular',
@@ -3439,7 +3439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleDown` no estilo Regular.
   ///
-  /// ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-double-down.svg)
+  /// ![caret-circle-double-down](https://api.iconify.design/ph/caret-circle-double-down.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleDown = IconData(
     0xe116,
     fontFamily: 'PhosphorRegular',
@@ -3451,7 +3451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleLeft` no estilo Regular.
   ///
-  /// ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-double-left.svg)
+  /// ![caret-circle-double-left](https://api.iconify.design/ph/caret-circle-double-left.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleLeft = IconData(
     0xe118,
     fontFamily: 'PhosphorRegular',
@@ -3463,7 +3463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleRight` no estilo Regular.
   ///
-  /// ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-double-right.svg)
+  /// ![caret-circle-double-right](https://api.iconify.design/ph/caret-circle-double-right.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleRight = IconData(
     0xe11a,
     fontFamily: 'PhosphorRegular',
@@ -3475,7 +3475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleUp` no estilo Regular.
   ///
-  /// ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-double-up.svg)
+  /// ![caret-circle-double-up](https://api.iconify.design/ph/caret-circle-double-up.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleUp = IconData(
     0xe11c,
     fontFamily: 'PhosphorRegular',
@@ -3487,7 +3487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDown` no estilo Regular.
   ///
-  /// ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-down.svg)
+  /// ![caret-circle-down](https://api.iconify.design/ph/caret-circle-down.svg?height=32&color=%23888888)
   static const IconData caretCircleDown = IconData(
     0xe11e,
     fontFamily: 'PhosphorRegular',
@@ -3499,7 +3499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleLeft` no estilo Regular.
   ///
-  /// ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-left.svg)
+  /// ![caret-circle-left](https://api.iconify.design/ph/caret-circle-left.svg?height=32&color=%23888888)
   static const IconData caretCircleLeft = IconData(
     0xe120,
     fontFamily: 'PhosphorRegular',
@@ -3511,7 +3511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleRight` no estilo Regular.
   ///
-  /// ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-right.svg)
+  /// ![caret-circle-right](https://api.iconify.design/ph/caret-circle-right.svg?height=32&color=%23888888)
   static const IconData caretCircleRight = IconData(
     0xe122,
     fontFamily: 'PhosphorRegular',
@@ -3523,7 +3523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleUp` no estilo Regular.
   ///
-  /// ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-up.svg)
+  /// ![caret-circle-up](https://api.iconify.design/ph/caret-circle-up.svg?height=32&color=%23888888)
   static const IconData caretCircleUp = IconData(
     0xe124,
     fontFamily: 'PhosphorRegular',
@@ -3535,7 +3535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleUpDown` no estilo Regular.
   ///
-  /// ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-circle-up-down.svg)
+  /// ![caret-circle-up-down](https://api.iconify.design/ph/caret-circle-up-down.svg?height=32&color=%23888888)
   static const IconData caretCircleUpDown = IconData(
     0xe13e,
     fontFamily: 'PhosphorRegular',
@@ -3547,7 +3547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleDown` no estilo Regular.
   ///
-  /// ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-double-down.svg)
+  /// ![caret-double-down](https://api.iconify.design/ph/caret-double-down.svg?height=32&color=%23888888)
   static const IconData caretDoubleDown = IconData(
     0xe126,
     fontFamily: 'PhosphorRegular',
@@ -3559,7 +3559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleLeft` no estilo Regular.
   ///
-  /// ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-double-left.svg)
+  /// ![caret-double-left](https://api.iconify.design/ph/caret-double-left.svg?height=32&color=%23888888)
   static const IconData caretDoubleLeft = IconData(
     0xe128,
     fontFamily: 'PhosphorRegular',
@@ -3571,7 +3571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleRight` no estilo Regular.
   ///
-  /// ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-double-right.svg)
+  /// ![caret-double-right](https://api.iconify.design/ph/caret-double-right.svg?height=32&color=%23888888)
   static const IconData caretDoubleRight = IconData(
     0xe12a,
     fontFamily: 'PhosphorRegular',
@@ -3583,7 +3583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleUp` no estilo Regular.
   ///
-  /// ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-double-up.svg)
+  /// ![caret-double-up](https://api.iconify.design/ph/caret-double-up.svg?height=32&color=%23888888)
   static const IconData caretDoubleUp = IconData(
     0xe12c,
     fontFamily: 'PhosphorRegular',
@@ -3595,7 +3595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDown` no estilo Regular.
   ///
-  /// ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-down.svg)
+  /// ![caret-down](https://api.iconify.design/ph/caret-down.svg?height=32&color=%23888888)
   static const IconData caretDown = IconData(
     0xe136,
     fontFamily: 'PhosphorRegular',
@@ -3607,7 +3607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLeft` no estilo Regular.
   ///
-  /// ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-left.svg)
+  /// ![caret-left](https://api.iconify.design/ph/caret-left.svg?height=32&color=%23888888)
   static const IconData caretLeft = IconData(
     0xe138,
     fontFamily: 'PhosphorRegular',
@@ -3619,7 +3619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineDown` no estilo Regular.
   ///
-  /// ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-line-down.svg)
+  /// ![caret-line-down](https://api.iconify.design/ph/caret-line-down.svg?height=32&color=%23888888)
   static const IconData caretLineDown = IconData(
     0xe134,
     fontFamily: 'PhosphorRegular',
@@ -3631,7 +3631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineLeft` no estilo Regular.
   ///
-  /// ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-line-left.svg)
+  /// ![caret-line-left](https://api.iconify.design/ph/caret-line-left.svg?height=32&color=%23888888)
   static const IconData caretLineLeft = IconData(
     0xe132,
     fontFamily: 'PhosphorRegular',
@@ -3643,7 +3643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineRight` no estilo Regular.
   ///
-  /// ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-line-right.svg)
+  /// ![caret-line-right](https://api.iconify.design/ph/caret-line-right.svg?height=32&color=%23888888)
   static const IconData caretLineRight = IconData(
     0xe130,
     fontFamily: 'PhosphorRegular',
@@ -3655,7 +3655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineUp` no estilo Regular.
   ///
-  /// ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-line-up.svg)
+  /// ![caret-line-up](https://api.iconify.design/ph/caret-line-up.svg?height=32&color=%23888888)
   static const IconData caretLineUp = IconData(
     0xe12e,
     fontFamily: 'PhosphorRegular',
@@ -3667,7 +3667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretRight` no estilo Regular.
   ///
-  /// ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-right.svg)
+  /// ![caret-right](https://api.iconify.design/ph/caret-right.svg?height=32&color=%23888888)
   static const IconData caretRight = IconData(
     0xe13a,
     fontFamily: 'PhosphorRegular',
@@ -3679,7 +3679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretUp` no estilo Regular.
   ///
-  /// ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-up.svg)
+  /// ![caret-up](https://api.iconify.design/ph/caret-up.svg?height=32&color=%23888888)
   static const IconData caretUp = IconData(
     0xe13c,
     fontFamily: 'PhosphorRegular',
@@ -3691,7 +3691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretUpDown` no estilo Regular.
   ///
-  /// ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/caret-up-down.svg)
+  /// ![caret-up-down](https://api.iconify.design/ph/caret-up-down.svg?height=32&color=%23888888)
   static const IconData caretUpDown = IconData(
     0xe140,
     fontFamily: 'PhosphorRegular',
@@ -3703,7 +3703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carrot` no estilo Regular.
   ///
-  /// ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/carrot.svg)
+  /// ![carrot](https://api.iconify.design/ph/carrot.svg?height=32&color=%23888888)
   static const IconData carrot = IconData(
     0xed38,
     fontFamily: 'PhosphorRegular',
@@ -3715,7 +3715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cashRegister` no estilo Regular.
   ///
-  /// ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cash-register.svg)
+  /// ![cash-register](https://api.iconify.design/ph/cash-register.svg?height=32&color=%23888888)
   static const IconData cashRegister = IconData(
     0xed80,
     fontFamily: 'PhosphorRegular',
@@ -3727,7 +3727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cassetteTape` no estilo Regular.
   ///
-  /// ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cassette-tape.svg)
+  /// ![cassette-tape](https://api.iconify.design/ph/cassette-tape.svg?height=32&color=%23888888)
   static const IconData cassetteTape = IconData(
     0xed2e,
     fontFamily: 'PhosphorRegular',
@@ -3739,7 +3739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `castleTurret` no estilo Regular.
   ///
-  /// ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/castle-turret.svg)
+  /// ![castle-turret](https://api.iconify.design/ph/castle-turret.svg?height=32&color=%23888888)
   static const IconData castleTurret = IconData(
     0xe9d0,
     fontFamily: 'PhosphorRegular',
@@ -3751,7 +3751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cat` no estilo Regular.
   ///
-  /// ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cat.svg)
+  /// ![cat](https://api.iconify.design/ph/cat.svg?height=32&color=%23888888)
   static const IconData cat = IconData(
     0xe748,
     fontFamily: 'PhosphorRegular',
@@ -3763,7 +3763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalFull` no estilo Regular.
   ///
-  /// ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-signal-full.svg)
+  /// ![cell-signal-full](https://api.iconify.design/ph/cell-signal-full.svg?height=32&color=%23888888)
   static const IconData cellSignalFull = IconData(
     0xe142,
     fontFamily: 'PhosphorRegular',
@@ -3775,7 +3775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalHigh` no estilo Regular.
   ///
-  /// ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-signal-high.svg)
+  /// ![cell-signal-high](https://api.iconify.design/ph/cell-signal-high.svg?height=32&color=%23888888)
   static const IconData cellSignalHigh = IconData(
     0xe144,
     fontFamily: 'PhosphorRegular',
@@ -3787,7 +3787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalLow` no estilo Regular.
   ///
-  /// ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-signal-low.svg)
+  /// ![cell-signal-low](https://api.iconify.design/ph/cell-signal-low.svg?height=32&color=%23888888)
   static const IconData cellSignalLow = IconData(
     0xe146,
     fontFamily: 'PhosphorRegular',
@@ -3799,7 +3799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalMedium` no estilo Regular.
   ///
-  /// ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-signal-medium.svg)
+  /// ![cell-signal-medium](https://api.iconify.design/ph/cell-signal-medium.svg?height=32&color=%23888888)
   static const IconData cellSignalMedium = IconData(
     0xe148,
     fontFamily: 'PhosphorRegular',
@@ -3811,7 +3811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalNone` no estilo Regular.
   ///
-  /// ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-signal-none.svg)
+  /// ![cell-signal-none](https://api.iconify.design/ph/cell-signal-none.svg?height=32&color=%23888888)
   static const IconData cellSignalNone = IconData(
     0xe14a,
     fontFamily: 'PhosphorRegular',
@@ -3823,7 +3823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalSlash` no estilo Regular.
   ///
-  /// ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-signal-slash.svg)
+  /// ![cell-signal-slash](https://api.iconify.design/ph/cell-signal-slash.svg?height=32&color=%23888888)
   static const IconData cellSignalSlash = IconData(
     0xe14c,
     fontFamily: 'PhosphorRegular',
@@ -3835,7 +3835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalX` no estilo Regular.
   ///
-  /// ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-signal-x.svg)
+  /// ![cell-signal-x](https://api.iconify.design/ph/cell-signal-x.svg?height=32&color=%23888888)
   static const IconData cellSignalX = IconData(
     0xe14e,
     fontFamily: 'PhosphorRegular',
@@ -3847,7 +3847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellTower` no estilo Regular.
   ///
-  /// ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cell-tower.svg)
+  /// ![cell-tower](https://api.iconify.design/ph/cell-tower.svg?height=32&color=%23888888)
   static const IconData cellTower = IconData(
     0xebaa,
     fontFamily: 'PhosphorRegular',
@@ -3859,7 +3859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `certificate` no estilo Regular.
   ///
-  /// ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/certificate.svg)
+  /// ![certificate](https://api.iconify.design/ph/certificate.svg?height=32&color=%23888888)
   static const IconData certificate = IconData(
     0xe766,
     fontFamily: 'PhosphorRegular',
@@ -3871,7 +3871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chair` no estilo Regular.
   ///
-  /// ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chair.svg)
+  /// ![chair](https://api.iconify.design/ph/chair.svg?height=32&color=%23888888)
   static const IconData chair = IconData(
     0xe950,
     fontFamily: 'PhosphorRegular',
@@ -3883,7 +3883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chalkboard` no estilo Regular.
   ///
-  /// ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chalkboard.svg)
+  /// ![chalkboard](https://api.iconify.design/ph/chalkboard.svg?height=32&color=%23888888)
   static const IconData chalkboard = IconData(
     0xe5fc,
     fontFamily: 'PhosphorRegular',
@@ -3895,7 +3895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chalkboardSimple` no estilo Regular.
   ///
-  /// ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chalkboard-simple.svg)
+  /// ![chalkboard-simple](https://api.iconify.design/ph/chalkboard-simple.svg?height=32&color=%23888888)
   static const IconData chalkboardSimple = IconData(
     0xe5fe,
     fontFamily: 'PhosphorRegular',
@@ -3907,7 +3907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chalkboardTeacher` no estilo Regular.
   ///
-  /// ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chalkboard-teacher.svg)
+  /// ![chalkboard-teacher](https://api.iconify.design/ph/chalkboard-teacher.svg?height=32&color=%23888888)
   static const IconData chalkboardTeacher = IconData(
     0xe600,
     fontFamily: 'PhosphorRegular',
@@ -3919,7 +3919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `champagne` no estilo Regular.
   ///
-  /// ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/champagne.svg)
+  /// ![champagne](https://api.iconify.design/ph/champagne.svg?height=32&color=%23888888)
   static const IconData champagne = IconData(
     0xeaca,
     fontFamily: 'PhosphorRegular',
@@ -3931,7 +3931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chargingStation` no estilo Regular.
   ///
-  /// ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/charging-station.svg)
+  /// ![charging-station](https://api.iconify.design/ph/charging-station.svg?height=32&color=%23888888)
   static const IconData chargingStation = IconData(
     0xe8d0,
     fontFamily: 'PhosphorRegular',
@@ -3943,7 +3943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartBar` no estilo Regular.
   ///
-  /// ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-bar.svg)
+  /// ![chart-bar](https://api.iconify.design/ph/chart-bar.svg?height=32&color=%23888888)
   static const IconData chartBar = IconData(
     0xe150,
     fontFamily: 'PhosphorRegular',
@@ -3955,7 +3955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartBarHorizontal` no estilo Regular.
   ///
-  /// ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-bar-horizontal.svg)
+  /// ![chart-bar-horizontal](https://api.iconify.design/ph/chart-bar-horizontal.svg?height=32&color=%23888888)
   static const IconData chartBarHorizontal = IconData(
     0xe152,
     fontFamily: 'PhosphorRegular',
@@ -3967,7 +3967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartDonut` no estilo Regular.
   ///
-  /// ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-donut.svg)
+  /// ![chart-donut](https://api.iconify.design/ph/chart-donut.svg?height=32&color=%23888888)
   static const IconData chartDonut = IconData(
     0xeaa6,
     fontFamily: 'PhosphorRegular',
@@ -3979,7 +3979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartLine` no estilo Regular.
   ///
-  /// ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-line.svg)
+  /// ![chart-line](https://api.iconify.design/ph/chart-line.svg?height=32&color=%23888888)
   static const IconData chartLine = IconData(
     0xe154,
     fontFamily: 'PhosphorRegular',
@@ -3991,7 +3991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartLineDown` no estilo Regular.
   ///
-  /// ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-line-down.svg)
+  /// ![chart-line-down](https://api.iconify.design/ph/chart-line-down.svg?height=32&color=%23888888)
   static const IconData chartLineDown = IconData(
     0xe8b6,
     fontFamily: 'PhosphorRegular',
@@ -4003,7 +4003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartLineUp` no estilo Regular.
   ///
-  /// ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-line-up.svg)
+  /// ![chart-line-up](https://api.iconify.design/ph/chart-line-up.svg?height=32&color=%23888888)
   static const IconData chartLineUp = IconData(
     0xe156,
     fontFamily: 'PhosphorRegular',
@@ -4015,7 +4015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartPie` no estilo Regular.
   ///
-  /// ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-pie.svg)
+  /// ![chart-pie](https://api.iconify.design/ph/chart-pie.svg?height=32&color=%23888888)
   static const IconData chartPie = IconData(
     0xe158,
     fontFamily: 'PhosphorRegular',
@@ -4027,7 +4027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartPieSlice` no estilo Regular.
   ///
-  /// ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-pie-slice.svg)
+  /// ![chart-pie-slice](https://api.iconify.design/ph/chart-pie-slice.svg?height=32&color=%23888888)
   static const IconData chartPieSlice = IconData(
     0xe15a,
     fontFamily: 'PhosphorRegular',
@@ -4039,7 +4039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartPolar` no estilo Regular.
   ///
-  /// ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-polar.svg)
+  /// ![chart-polar](https://api.iconify.design/ph/chart-polar.svg?height=32&color=%23888888)
   static const IconData chartPolar = IconData(
     0xeaa8,
     fontFamily: 'PhosphorRegular',
@@ -4051,7 +4051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartScatter` no estilo Regular.
   ///
-  /// ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chart-scatter.svg)
+  /// ![chart-scatter](https://api.iconify.design/ph/chart-scatter.svg?height=32&color=%23888888)
   static const IconData chartScatter = IconData(
     0xeaac,
     fontFamily: 'PhosphorRegular',
@@ -4063,7 +4063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chat` no estilo Regular.
   ///
-  /// ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat.svg)
+  /// ![chat](https://api.iconify.design/ph/chat.svg?height=32&color=%23888888)
   static const IconData chat = IconData(
     0xe15c,
     fontFamily: 'PhosphorRegular',
@@ -4075,7 +4075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCentered` no estilo Regular.
   ///
-  /// ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-centered.svg)
+  /// ![chat-centered](https://api.iconify.design/ph/chat-centered.svg?height=32&color=%23888888)
   static const IconData chatCentered = IconData(
     0xe160,
     fontFamily: 'PhosphorRegular',
@@ -4087,7 +4087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCenteredDots` no estilo Regular.
   ///
-  /// ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-centered-dots.svg)
+  /// ![chat-centered-dots](https://api.iconify.design/ph/chat-centered-dots.svg?height=32&color=%23888888)
   static const IconData chatCenteredDots = IconData(
     0xe164,
     fontFamily: 'PhosphorRegular',
@@ -4099,7 +4099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCenteredSlash` no estilo Regular.
   ///
-  /// ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-centered-slash.svg)
+  /// ![chat-centered-slash](https://api.iconify.design/ph/chat-centered-slash.svg?height=32&color=%23888888)
   static const IconData chatCenteredSlash = IconData(
     0xe162,
     fontFamily: 'PhosphorRegular',
@@ -4111,7 +4111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCenteredText` no estilo Regular.
   ///
-  /// ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-centered-text.svg)
+  /// ![chat-centered-text](https://api.iconify.design/ph/chat-centered-text.svg?height=32&color=%23888888)
   static const IconData chatCenteredText = IconData(
     0xe166,
     fontFamily: 'PhosphorRegular',
@@ -4123,7 +4123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircle` no estilo Regular.
   ///
-  /// ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-circle.svg)
+  /// ![chat-circle](https://api.iconify.design/ph/chat-circle.svg?height=32&color=%23888888)
   static const IconData chatCircle = IconData(
     0xe168,
     fontFamily: 'PhosphorRegular',
@@ -4135,7 +4135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircleDots` no estilo Regular.
   ///
-  /// ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-circle-dots.svg)
+  /// ![chat-circle-dots](https://api.iconify.design/ph/chat-circle-dots.svg?height=32&color=%23888888)
   static const IconData chatCircleDots = IconData(
     0xe16c,
     fontFamily: 'PhosphorRegular',
@@ -4147,7 +4147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircleSlash` no estilo Regular.
   ///
-  /// ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-circle-slash.svg)
+  /// ![chat-circle-slash](https://api.iconify.design/ph/chat-circle-slash.svg?height=32&color=%23888888)
   static const IconData chatCircleSlash = IconData(
     0xe16a,
     fontFamily: 'PhosphorRegular',
@@ -4159,7 +4159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircleText` no estilo Regular.
   ///
-  /// ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-circle-text.svg)
+  /// ![chat-circle-text](https://api.iconify.design/ph/chat-circle-text.svg?height=32&color=%23888888)
   static const IconData chatCircleText = IconData(
     0xe16e,
     fontFamily: 'PhosphorRegular',
@@ -4171,7 +4171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatDots` no estilo Regular.
   ///
-  /// ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-dots.svg)
+  /// ![chat-dots](https://api.iconify.design/ph/chat-dots.svg?height=32&color=%23888888)
   static const IconData chatDots = IconData(
     0xe170,
     fontFamily: 'PhosphorRegular',
@@ -4183,7 +4183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatSlash` no estilo Regular.
   ///
-  /// ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-slash.svg)
+  /// ![chat-slash](https://api.iconify.design/ph/chat-slash.svg?height=32&color=%23888888)
   static const IconData chatSlash = IconData(
     0xe15e,
     fontFamily: 'PhosphorRegular',
@@ -4195,7 +4195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardrop` no estilo Regular.
   ///
-  /// ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-teardrop.svg)
+  /// ![chat-teardrop](https://api.iconify.design/ph/chat-teardrop.svg?height=32&color=%23888888)
   static const IconData chatTeardrop = IconData(
     0xe172,
     fontFamily: 'PhosphorRegular',
@@ -4207,7 +4207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardropDots` no estilo Regular.
   ///
-  /// ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-teardrop-dots.svg)
+  /// ![chat-teardrop-dots](https://api.iconify.design/ph/chat-teardrop-dots.svg?height=32&color=%23888888)
   static const IconData chatTeardropDots = IconData(
     0xe176,
     fontFamily: 'PhosphorRegular',
@@ -4219,7 +4219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardropSlash` no estilo Regular.
   ///
-  /// ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-teardrop-slash.svg)
+  /// ![chat-teardrop-slash](https://api.iconify.design/ph/chat-teardrop-slash.svg?height=32&color=%23888888)
   static const IconData chatTeardropSlash = IconData(
     0xe174,
     fontFamily: 'PhosphorRegular',
@@ -4231,7 +4231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardropText` no estilo Regular.
   ///
-  /// ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-teardrop-text.svg)
+  /// ![chat-teardrop-text](https://api.iconify.design/ph/chat-teardrop-text.svg?height=32&color=%23888888)
   static const IconData chatTeardropText = IconData(
     0xe178,
     fontFamily: 'PhosphorRegular',
@@ -4243,7 +4243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatText` no estilo Regular.
   ///
-  /// ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chat-text.svg)
+  /// ![chat-text](https://api.iconify.design/ph/chat-text.svg?height=32&color=%23888888)
   static const IconData chatText = IconData(
     0xe17a,
     fontFamily: 'PhosphorRegular',
@@ -4255,7 +4255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chats` no estilo Regular.
   ///
-  /// ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chats.svg)
+  /// ![chats](https://api.iconify.design/ph/chats.svg?height=32&color=%23888888)
   static const IconData chats = IconData(
     0xe17c,
     fontFamily: 'PhosphorRegular',
@@ -4267,7 +4267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatsCircle` no estilo Regular.
   ///
-  /// ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chats-circle.svg)
+  /// ![chats-circle](https://api.iconify.design/ph/chats-circle.svg?height=32&color=%23888888)
   static const IconData chatsCircle = IconData(
     0xe17e,
     fontFamily: 'PhosphorRegular',
@@ -4279,7 +4279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatsTeardrop` no estilo Regular.
   ///
-  /// ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chats-teardrop.svg)
+  /// ![chats-teardrop](https://api.iconify.design/ph/chats-teardrop.svg?height=32&color=%23888888)
   static const IconData chatsTeardrop = IconData(
     0xe180,
     fontFamily: 'PhosphorRegular',
@@ -4291,7 +4291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `check` no estilo Regular.
   ///
-  /// ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/check.svg)
+  /// ![check](https://api.iconify.design/ph/check.svg?height=32&color=%23888888)
   static const IconData check = IconData(
     0xe182,
     fontFamily: 'PhosphorRegular',
@@ -4303,7 +4303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkCircle` no estilo Regular.
   ///
-  /// ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/check-circle.svg)
+  /// ![check-circle](https://api.iconify.design/ph/check-circle.svg?height=32&color=%23888888)
   static const IconData checkCircle = IconData(
     0xe184,
     fontFamily: 'PhosphorRegular',
@@ -4315,7 +4315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkFat` no estilo Regular.
   ///
-  /// ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/check-fat.svg)
+  /// ![check-fat](https://api.iconify.design/ph/check-fat.svg?height=32&color=%23888888)
   static const IconData checkFat = IconData(
     0xeba6,
     fontFamily: 'PhosphorRegular',
@@ -4327,7 +4327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkSquare` no estilo Regular.
   ///
-  /// ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/check-square.svg)
+  /// ![check-square](https://api.iconify.design/ph/check-square.svg?height=32&color=%23888888)
   static const IconData checkSquare = IconData(
     0xe186,
     fontFamily: 'PhosphorRegular',
@@ -4339,7 +4339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkSquareOffset` no estilo Regular.
   ///
-  /// ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/check-square-offset.svg)
+  /// ![check-square-offset](https://api.iconify.design/ph/check-square-offset.svg?height=32&color=%23888888)
   static const IconData checkSquareOffset = IconData(
     0xe188,
     fontFamily: 'PhosphorRegular',
@@ -4351,7 +4351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkerboard` no estilo Regular.
   ///
-  /// ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/checkerboard.svg)
+  /// ![checkerboard](https://api.iconify.design/ph/checkerboard.svg?height=32&color=%23888888)
   static const IconData checkerboard = IconData(
     0xe8c4,
     fontFamily: 'PhosphorRegular',
@@ -4363,7 +4363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checks` no estilo Regular.
   ///
-  /// ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/checks.svg)
+  /// ![checks](https://api.iconify.design/ph/checks.svg?height=32&color=%23888888)
   static const IconData checks = IconData(
     0xe53a,
     fontFamily: 'PhosphorRegular',
@@ -4375,7 +4375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cheers` no estilo Regular.
   ///
-  /// ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cheers.svg)
+  /// ![cheers](https://api.iconify.design/ph/cheers.svg?height=32&color=%23888888)
   static const IconData cheers = IconData(
     0xea4a,
     fontFamily: 'PhosphorRegular',
@@ -4387,7 +4387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cheese` no estilo Regular.
   ///
-  /// ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cheese.svg)
+  /// ![cheese](https://api.iconify.design/ph/cheese.svg?height=32&color=%23888888)
   static const IconData cheese = IconData(
     0xe9fe,
     fontFamily: 'PhosphorRegular',
@@ -4399,7 +4399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chefHat` no estilo Regular.
   ///
-  /// ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/chef-hat.svg)
+  /// ![chef-hat](https://api.iconify.design/ph/chef-hat.svg?height=32&color=%23888888)
   static const IconData chefHat = IconData(
     0xed8e,
     fontFamily: 'PhosphorRegular',
@@ -4411,7 +4411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cherries` no estilo Regular.
   ///
-  /// ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cherries.svg)
+  /// ![cherries](https://api.iconify.design/ph/cherries.svg?height=32&color=%23888888)
   static const IconData cherries = IconData(
     0xe830,
     fontFamily: 'PhosphorRegular',
@@ -4423,7 +4423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `church` no estilo Regular.
   ///
-  /// ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/church.svg)
+  /// ![church](https://api.iconify.design/ph/church.svg?height=32&color=%23888888)
   static const IconData church = IconData(
     0xecea,
     fontFamily: 'PhosphorRegular',
@@ -4435,7 +4435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cigarette` no estilo Regular.
   ///
-  /// ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cigarette.svg)
+  /// ![cigarette](https://api.iconify.design/ph/cigarette.svg?height=32&color=%23888888)
   static const IconData cigarette = IconData(
     0xed90,
     fontFamily: 'PhosphorRegular',
@@ -4447,7 +4447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cigaretteSlash` no estilo Regular.
   ///
-  /// ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cigarette-slash.svg)
+  /// ![cigarette-slash](https://api.iconify.design/ph/cigarette-slash.svg?height=32&color=%23888888)
   static const IconData cigaretteSlash = IconData(
     0xed92,
     fontFamily: 'PhosphorRegular',
@@ -4459,7 +4459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circle` no estilo Regular.
   ///
-  /// ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle.svg)
+  /// ![circle](https://api.iconify.design/ph/circle.svg?height=32&color=%23888888)
   static const IconData circle = IconData(
     0xe18a,
     fontFamily: 'PhosphorRegular',
@@ -4471,7 +4471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleDashed` no estilo Regular.
   ///
-  /// ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-dashed.svg)
+  /// ![circle-dashed](https://api.iconify.design/ph/circle-dashed.svg?height=32&color=%23888888)
   static const IconData circleDashed = IconData(
     0xe602,
     fontFamily: 'PhosphorRegular',
@@ -4483,7 +4483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleHalf` no estilo Regular.
   ///
-  /// ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-half.svg)
+  /// ![circle-half](https://api.iconify.design/ph/circle-half.svg?height=32&color=%23888888)
   static const IconData circleHalf = IconData(
     0xe18c,
     fontFamily: 'PhosphorRegular',
@@ -4495,7 +4495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleHalfTilt` no estilo Regular.
   ///
-  /// ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-half-tilt.svg)
+  /// ![circle-half-tilt](https://api.iconify.design/ph/circle-half-tilt.svg?height=32&color=%23888888)
   static const IconData circleHalfTilt = IconData(
     0xe18e,
     fontFamily: 'PhosphorRegular',
@@ -4507,7 +4507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleNotch` no estilo Regular.
   ///
-  /// ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-notch.svg)
+  /// ![circle-notch](https://api.iconify.design/ph/circle-notch.svg?height=32&color=%23888888)
   static const IconData circleNotch = IconData(
     0xeb44,
     fontFamily: 'PhosphorRegular',
@@ -4519,7 +4519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavy` no estilo Regular.
   ///
-  /// ![circle-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-wavy.svg)
+  /// ![circle-wavy](https://api.iconify.design/ph/seal.svg?height=32&color=%23888888)
   static const IconData circleWavy = IconData(
     0xe604,
     fontFamily: 'PhosphorRegular',
@@ -4531,7 +4531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavyCheck` no estilo Regular.
   ///
-  /// ![circle-wavy-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-wavy-check.svg)
+  /// ![circle-wavy-check](https://api.iconify.design/ph/seal-check.svg?height=32&color=%23888888)
   static const IconData circleWavyCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorRegular',
@@ -4543,7 +4543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavyQuestion` no estilo Regular.
   ///
-  /// ![circle-wavy-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-wavy-question.svg)
+  /// ![circle-wavy-question](https://api.iconify.design/ph/seal-question.svg?height=32&color=%23888888)
   static const IconData circleWavyQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorRegular',
@@ -4555,7 +4555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavyWarning` no estilo Regular.
   ///
-  /// ![circle-wavy-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circle-wavy-warning.svg)
+  /// ![circle-wavy-warning](https://api.iconify.design/ph/seal-warning.svg?height=32&color=%23888888)
   static const IconData circleWavyWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorRegular',
@@ -4567,7 +4567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circlesFour` no estilo Regular.
   ///
-  /// ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circles-four.svg)
+  /// ![circles-four](https://api.iconify.design/ph/circles-four.svg?height=32&color=%23888888)
   static const IconData circlesFour = IconData(
     0xe190,
     fontFamily: 'PhosphorRegular',
@@ -4579,7 +4579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circlesThree` no estilo Regular.
   ///
-  /// ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circles-three.svg)
+  /// ![circles-three](https://api.iconify.design/ph/circles-three.svg?height=32&color=%23888888)
   static const IconData circlesThree = IconData(
     0xe192,
     fontFamily: 'PhosphorRegular',
@@ -4591,7 +4591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circlesThreePlus` no estilo Regular.
   ///
-  /// ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circles-three-plus.svg)
+  /// ![circles-three-plus](https://api.iconify.design/ph/circles-three-plus.svg?height=32&color=%23888888)
   static const IconData circlesThreePlus = IconData(
     0xe194,
     fontFamily: 'PhosphorRegular',
@@ -4603,7 +4603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circuitry` no estilo Regular.
   ///
-  /// ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/circuitry.svg)
+  /// ![circuitry](https://api.iconify.design/ph/circuitry.svg?height=32&color=%23888888)
   static const IconData circuitry = IconData(
     0xe9c2,
     fontFamily: 'PhosphorRegular',
@@ -4615,7 +4615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `city` no estilo Regular.
   ///
-  /// ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/city.svg)
+  /// ![city](https://api.iconify.design/ph/city.svg?height=32&color=%23888888)
   static const IconData city = IconData(
     0xea6a,
     fontFamily: 'PhosphorRegular',
@@ -4627,7 +4627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clipboard` no estilo Regular.
   ///
-  /// ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clipboard.svg)
+  /// ![clipboard](https://api.iconify.design/ph/clipboard.svg?height=32&color=%23888888)
   static const IconData clipboard = IconData(
     0xe196,
     fontFamily: 'PhosphorRegular',
@@ -4639,7 +4639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clipboardText` no estilo Regular.
   ///
-  /// ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clipboard-text.svg)
+  /// ![clipboard-text](https://api.iconify.design/ph/clipboard-text.svg?height=32&color=%23888888)
   static const IconData clipboardText = IconData(
     0xe198,
     fontFamily: 'PhosphorRegular',
@@ -4651,7 +4651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clock` no estilo Regular.
   ///
-  /// ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clock.svg)
+  /// ![clock](https://api.iconify.design/ph/clock.svg?height=32&color=%23888888)
   static const IconData clock = IconData(
     0xe19a,
     fontFamily: 'PhosphorRegular',
@@ -4663,7 +4663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockAfternoon` no estilo Regular.
   ///
-  /// ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clock-afternoon.svg)
+  /// ![clock-afternoon](https://api.iconify.design/ph/clock-afternoon.svg?height=32&color=%23888888)
   static const IconData clockAfternoon = IconData(
     0xe19c,
     fontFamily: 'PhosphorRegular',
@@ -4675,7 +4675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockClockwise` no estilo Regular.
   ///
-  /// ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clock-clockwise.svg)
+  /// ![clock-clockwise](https://api.iconify.design/ph/clock-clockwise.svg?height=32&color=%23888888)
   static const IconData clockClockwise = IconData(
     0xe19e,
     fontFamily: 'PhosphorRegular',
@@ -4687,7 +4687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockCountdown` no estilo Regular.
   ///
-  /// ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clock-countdown.svg)
+  /// ![clock-countdown](https://api.iconify.design/ph/clock-countdown.svg?height=32&color=%23888888)
   static const IconData clockCountdown = IconData(
     0xed2c,
     fontFamily: 'PhosphorRegular',
@@ -4699,7 +4699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockCounterClockwise` no estilo Regular.
   ///
-  /// ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clock-counter-clockwise.svg)
+  /// ![clock-counter-clockwise](https://api.iconify.design/ph/clock-counter-clockwise.svg?height=32&color=%23888888)
   static const IconData clockCounterClockwise = IconData(
     0xe1a0,
     fontFamily: 'PhosphorRegular',
@@ -4711,7 +4711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockUser` no estilo Regular.
   ///
-  /// ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clock-user.svg)
+  /// ![clock-user](https://api.iconify.design/ph/clock-user.svg?height=32&color=%23888888)
   static const IconData clockUser = IconData(
     0xedec,
     fontFamily: 'PhosphorRegular',
@@ -4723,7 +4723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `closedCaptioning` no estilo Regular.
   ///
-  /// ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/closed-captioning.svg)
+  /// ![closed-captioning](https://api.iconify.design/ph/closed-captioning.svg?height=32&color=%23888888)
   static const IconData closedCaptioning = IconData(
     0xe1a4,
     fontFamily: 'PhosphorRegular',
@@ -4735,7 +4735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloud` no estilo Regular.
   ///
-  /// ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud.svg)
+  /// ![cloud](https://api.iconify.design/ph/cloud.svg?height=32&color=%23888888)
   static const IconData cloud = IconData(
     0xe1aa,
     fontFamily: 'PhosphorRegular',
@@ -4747,7 +4747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudArrowDown` no estilo Regular.
   ///
-  /// ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-arrow-down.svg)
+  /// ![cloud-arrow-down](https://api.iconify.design/ph/cloud-arrow-down.svg?height=32&color=%23888888)
   static const IconData cloudArrowDown = IconData(
     0xe1ac,
     fontFamily: 'PhosphorRegular',
@@ -4759,7 +4759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudArrowUp` no estilo Regular.
   ///
-  /// ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-arrow-up.svg)
+  /// ![cloud-arrow-up](https://api.iconify.design/ph/cloud-arrow-up.svg?height=32&color=%23888888)
   static const IconData cloudArrowUp = IconData(
     0xe1ae,
     fontFamily: 'PhosphorRegular',
@@ -4771,7 +4771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudCheck` no estilo Regular.
   ///
-  /// ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-check.svg)
+  /// ![cloud-check](https://api.iconify.design/ph/cloud-check.svg?height=32&color=%23888888)
   static const IconData cloudCheck = IconData(
     0xe1b0,
     fontFamily: 'PhosphorRegular',
@@ -4783,7 +4783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudFog` no estilo Regular.
   ///
-  /// ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-fog.svg)
+  /// ![cloud-fog](https://api.iconify.design/ph/cloud-fog.svg?height=32&color=%23888888)
   static const IconData cloudFog = IconData(
     0xe53c,
     fontFamily: 'PhosphorRegular',
@@ -4795,7 +4795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudLightning` no estilo Regular.
   ///
-  /// ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-lightning.svg)
+  /// ![cloud-lightning](https://api.iconify.design/ph/cloud-lightning.svg?height=32&color=%23888888)
   static const IconData cloudLightning = IconData(
     0xe1b2,
     fontFamily: 'PhosphorRegular',
@@ -4807,7 +4807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudMoon` no estilo Regular.
   ///
-  /// ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-moon.svg)
+  /// ![cloud-moon](https://api.iconify.design/ph/cloud-moon.svg?height=32&color=%23888888)
   static const IconData cloudMoon = IconData(
     0xe53e,
     fontFamily: 'PhosphorRegular',
@@ -4819,7 +4819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudRain` no estilo Regular.
   ///
-  /// ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-rain.svg)
+  /// ![cloud-rain](https://api.iconify.design/ph/cloud-rain.svg?height=32&color=%23888888)
   static const IconData cloudRain = IconData(
     0xe1b4,
     fontFamily: 'PhosphorRegular',
@@ -4831,7 +4831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudSlash` no estilo Regular.
   ///
-  /// ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-slash.svg)
+  /// ![cloud-slash](https://api.iconify.design/ph/cloud-slash.svg?height=32&color=%23888888)
   static const IconData cloudSlash = IconData(
     0xe1b6,
     fontFamily: 'PhosphorRegular',
@@ -4843,7 +4843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudSnow` no estilo Regular.
   ///
-  /// ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-snow.svg)
+  /// ![cloud-snow](https://api.iconify.design/ph/cloud-snow.svg?height=32&color=%23888888)
   static const IconData cloudSnow = IconData(
     0xe1b8,
     fontFamily: 'PhosphorRegular',
@@ -4855,7 +4855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudSun` no estilo Regular.
   ///
-  /// ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-sun.svg)
+  /// ![cloud-sun](https://api.iconify.design/ph/cloud-sun.svg?height=32&color=%23888888)
   static const IconData cloudSun = IconData(
     0xe540,
     fontFamily: 'PhosphorRegular',
@@ -4867,7 +4867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudWarning` no estilo Regular.
   ///
-  /// ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-warning.svg)
+  /// ![cloud-warning](https://api.iconify.design/ph/cloud-warning.svg?height=32&color=%23888888)
   static const IconData cloudWarning = IconData(
     0xea98,
     fontFamily: 'PhosphorRegular',
@@ -4879,7 +4879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudX` no estilo Regular.
   ///
-  /// ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cloud-x.svg)
+  /// ![cloud-x](https://api.iconify.design/ph/cloud-x.svg?height=32&color=%23888888)
   static const IconData cloudX = IconData(
     0xea96,
     fontFamily: 'PhosphorRegular',
@@ -4891,7 +4891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clover` no estilo Regular.
   ///
-  /// ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/clover.svg)
+  /// ![clover](https://api.iconify.design/ph/clover.svg?height=32&color=%23888888)
   static const IconData clover = IconData(
     0xedc8,
     fontFamily: 'PhosphorRegular',
@@ -4903,7 +4903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `club` no estilo Regular.
   ///
-  /// ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/club.svg)
+  /// ![club](https://api.iconify.design/ph/club.svg?height=32&color=%23888888)
   static const IconData club = IconData(
     0xe1ba,
     fontFamily: 'PhosphorRegular',
@@ -4915,7 +4915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coatHanger` no estilo Regular.
   ///
-  /// ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/coat-hanger.svg)
+  /// ![coat-hanger](https://api.iconify.design/ph/coat-hanger.svg?height=32&color=%23888888)
   static const IconData coatHanger = IconData(
     0xe7fe,
     fontFamily: 'PhosphorRegular',
@@ -4927,7 +4927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codaLogo` no estilo Regular.
   ///
-  /// ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/coda-logo.svg)
+  /// ![coda-logo](https://api.iconify.design/ph/coda-logo.svg?height=32&color=%23888888)
   static const IconData codaLogo = IconData(
     0xe7ce,
     fontFamily: 'PhosphorRegular',
@@ -4939,7 +4939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `code` no estilo Regular.
   ///
-  /// ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/code.svg)
+  /// ![code](https://api.iconify.design/ph/code.svg?height=32&color=%23888888)
   static const IconData code = IconData(
     0xe1bc,
     fontFamily: 'PhosphorRegular',
@@ -4951,7 +4951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codeBlock` no estilo Regular.
   ///
-  /// ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/code-block.svg)
+  /// ![code-block](https://api.iconify.design/ph/code-block.svg?height=32&color=%23888888)
   static const IconData codeBlock = IconData(
     0xeafe,
     fontFamily: 'PhosphorRegular',
@@ -4963,7 +4963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codeSimple` no estilo Regular.
   ///
-  /// ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/code-simple.svg)
+  /// ![code-simple](https://api.iconify.design/ph/code-simple.svg?height=32&color=%23888888)
   static const IconData codeSimple = IconData(
     0xe1be,
     fontFamily: 'PhosphorRegular',
@@ -4975,7 +4975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codepenLogo` no estilo Regular.
   ///
-  /// ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/codepen-logo.svg)
+  /// ![codepen-logo](https://api.iconify.design/ph/codepen-logo.svg?height=32&color=%23888888)
   static const IconData codepenLogo = IconData(
     0xe978,
     fontFamily: 'PhosphorRegular',
@@ -4987,7 +4987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codesandboxLogo` no estilo Regular.
   ///
-  /// ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/codesandbox-logo.svg)
+  /// ![codesandbox-logo](https://api.iconify.design/ph/codesandbox-logo.svg?height=32&color=%23888888)
   static const IconData codesandboxLogo = IconData(
     0xea06,
     fontFamily: 'PhosphorRegular',
@@ -4999,7 +4999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coffee` no estilo Regular.
   ///
-  /// ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/coffee.svg)
+  /// ![coffee](https://api.iconify.design/ph/coffee.svg?height=32&color=%23888888)
   static const IconData coffee = IconData(
     0xe1c2,
     fontFamily: 'PhosphorRegular',
@@ -5011,7 +5011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coffeeBean` no estilo Regular.
   ///
-  /// ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/coffee-bean.svg)
+  /// ![coffee-bean](https://api.iconify.design/ph/coffee-bean.svg?height=32&color=%23888888)
   static const IconData coffeeBean = IconData(
     0xe1c0,
     fontFamily: 'PhosphorRegular',
@@ -5023,7 +5023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coin` no estilo Regular.
   ///
-  /// ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/coin.svg)
+  /// ![coin](https://api.iconify.design/ph/coin.svg?height=32&color=%23888888)
   static const IconData coin = IconData(
     0xe60e,
     fontFamily: 'PhosphorRegular',
@@ -5035,7 +5035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coinVertical` no estilo Regular.
   ///
-  /// ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/coin-vertical.svg)
+  /// ![coin-vertical](https://api.iconify.design/ph/coin-vertical.svg?height=32&color=%23888888)
   static const IconData coinVertical = IconData(
     0xeb48,
     fontFamily: 'PhosphorRegular',
@@ -5047,7 +5047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coins` no estilo Regular.
   ///
-  /// ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/coins.svg)
+  /// ![coins](https://api.iconify.design/ph/coins.svg?height=32&color=%23888888)
   static const IconData coins = IconData(
     0xe78e,
     fontFamily: 'PhosphorRegular',
@@ -5059,7 +5059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `columns` no estilo Regular.
   ///
-  /// ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/columns.svg)
+  /// ![columns](https://api.iconify.design/ph/columns.svg?height=32&color=%23888888)
   static const IconData columns = IconData(
     0xe546,
     fontFamily: 'PhosphorRegular',
@@ -5071,7 +5071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `columnsPlusLeft` no estilo Regular.
   ///
-  /// ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/columns-plus-left.svg)
+  /// ![columns-plus-left](https://api.iconify.design/ph/columns-plus-left.svg?height=32&color=%23888888)
   static const IconData columnsPlusLeft = IconData(
     0xe544,
     fontFamily: 'PhosphorRegular',
@@ -5083,7 +5083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `columnsPlusRight` no estilo Regular.
   ///
-  /// ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/columns-plus-right.svg)
+  /// ![columns-plus-right](https://api.iconify.design/ph/columns-plus-right.svg?height=32&color=%23888888)
   static const IconData columnsPlusRight = IconData(
     0xe542,
     fontFamily: 'PhosphorRegular',
@@ -5095,7 +5095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `command` no estilo Regular.
   ///
-  /// ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/command.svg)
+  /// ![command](https://api.iconify.design/ph/command.svg?height=32&color=%23888888)
   static const IconData command = IconData(
     0xe1c4,
     fontFamily: 'PhosphorRegular',
@@ -5107,7 +5107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `compass` no estilo Regular.
   ///
-  /// ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/compass.svg)
+  /// ![compass](https://api.iconify.design/ph/compass.svg?height=32&color=%23888888)
   static const IconData compass = IconData(
     0xe1c8,
     fontFamily: 'PhosphorRegular',
@@ -5119,7 +5119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `compassRose` no estilo Regular.
   ///
-  /// ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/compass-rose.svg)
+  /// ![compass-rose](https://api.iconify.design/ph/compass-rose.svg?height=32&color=%23888888)
   static const IconData compassRose = IconData(
     0xe1c6,
     fontFamily: 'PhosphorRegular',
@@ -5131,7 +5131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `compassTool` no estilo Regular.
   ///
-  /// ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/compass-tool.svg)
+  /// ![compass-tool](https://api.iconify.design/ph/compass-tool.svg?height=32&color=%23888888)
   static const IconData compassTool = IconData(
     0xea0e,
     fontFamily: 'PhosphorRegular',
@@ -5143,7 +5143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `computerTower` no estilo Regular.
   ///
-  /// ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/computer-tower.svg)
+  /// ![computer-tower](https://api.iconify.design/ph/computer-tower.svg?height=32&color=%23888888)
   static const IconData computerTower = IconData(
     0xe548,
     fontFamily: 'PhosphorRegular',
@@ -5155,7 +5155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `confetti` no estilo Regular.
   ///
-  /// ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/confetti.svg)
+  /// ![confetti](https://api.iconify.design/ph/confetti.svg?height=32&color=%23888888)
   static const IconData confetti = IconData(
     0xe81a,
     fontFamily: 'PhosphorRegular',
@@ -5167,7 +5167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `contactlessPayment` no estilo Regular.
   ///
-  /// ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/contactless-payment.svg)
+  /// ![contactless-payment](https://api.iconify.design/ph/contactless-payment.svg?height=32&color=%23888888)
   static const IconData contactlessPayment = IconData(
     0xed42,
     fontFamily: 'PhosphorRegular',
@@ -5179,7 +5179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `control` no estilo Regular.
   ///
-  /// ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/control.svg)
+  /// ![control](https://api.iconify.design/ph/control.svg?height=32&color=%23888888)
   static const IconData control = IconData(
     0xeca6,
     fontFamily: 'PhosphorRegular',
@@ -5191,7 +5191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cookie` no estilo Regular.
   ///
-  /// ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cookie.svg)
+  /// ![cookie](https://api.iconify.design/ph/cookie.svg?height=32&color=%23888888)
   static const IconData cookie = IconData(
     0xe6ca,
     fontFamily: 'PhosphorRegular',
@@ -5203,7 +5203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cookingPot` no estilo Regular.
   ///
-  /// ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cooking-pot.svg)
+  /// ![cooking-pot](https://api.iconify.design/ph/cooking-pot.svg?height=32&color=%23888888)
   static const IconData cookingPot = IconData(
     0xe764,
     fontFamily: 'PhosphorRegular',
@@ -5215,7 +5215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copy` no estilo Regular.
   ///
-  /// ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/copy.svg)
+  /// ![copy](https://api.iconify.design/ph/copy.svg?height=32&color=%23888888)
   static const IconData copy = IconData(
     0xe1ca,
     fontFamily: 'PhosphorRegular',
@@ -5227,7 +5227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copySimple` no estilo Regular.
   ///
-  /// ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/copy-simple.svg)
+  /// ![copy-simple](https://api.iconify.design/ph/copy-simple.svg?height=32&color=%23888888)
   static const IconData copySimple = IconData(
     0xe1cc,
     fontFamily: 'PhosphorRegular',
@@ -5239,7 +5239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copyleft` no estilo Regular.
   ///
-  /// ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/copyleft.svg)
+  /// ![copyleft](https://api.iconify.design/ph/copyleft.svg?height=32&color=%23888888)
   static const IconData copyleft = IconData(
     0xe86a,
     fontFamily: 'PhosphorRegular',
@@ -5251,7 +5251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copyright` no estilo Regular.
   ///
-  /// ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/copyright.svg)
+  /// ![copyright](https://api.iconify.design/ph/copyright.svg?height=32&color=%23888888)
   static const IconData copyright = IconData(
     0xe54a,
     fontFamily: 'PhosphorRegular',
@@ -5263,7 +5263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cornersIn` no estilo Regular.
   ///
-  /// ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/corners-in.svg)
+  /// ![corners-in](https://api.iconify.design/ph/corners-in.svg?height=32&color=%23888888)
   static const IconData cornersIn = IconData(
     0xe1ce,
     fontFamily: 'PhosphorRegular',
@@ -5275,7 +5275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cornersOut` no estilo Regular.
   ///
-  /// ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/corners-out.svg)
+  /// ![corners-out](https://api.iconify.design/ph/corners-out.svg?height=32&color=%23888888)
   static const IconData cornersOut = IconData(
     0xe1d0,
     fontFamily: 'PhosphorRegular',
@@ -5287,7 +5287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `couch` no estilo Regular.
   ///
-  /// ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/couch.svg)
+  /// ![couch](https://api.iconify.design/ph/couch.svg?height=32&color=%23888888)
   static const IconData couch = IconData(
     0xe7f6,
     fontFamily: 'PhosphorRegular',
@@ -5299,7 +5299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `courtBasketball` no estilo Regular.
   ///
-  /// ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/court-basketball.svg)
+  /// ![court-basketball](https://api.iconify.design/ph/court-basketball.svg?height=32&color=%23888888)
   static const IconData courtBasketball = IconData(
     0xee36,
     fontFamily: 'PhosphorRegular',
@@ -5311,7 +5311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cow` no estilo Regular.
   ///
-  /// ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cow.svg)
+  /// ![cow](https://api.iconify.design/ph/cow.svg?height=32&color=%23888888)
   static const IconData cow = IconData(
     0xeabe,
     fontFamily: 'PhosphorRegular',
@@ -5323,7 +5323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cowboyHat` no estilo Regular.
   ///
-  /// ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cowboy-hat.svg)
+  /// ![cowboy-hat](https://api.iconify.design/ph/cowboy-hat.svg?height=32&color=%23888888)
   static const IconData cowboyHat = IconData(
     0xed12,
     fontFamily: 'PhosphorRegular',
@@ -5335,7 +5335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cpu` no estilo Regular.
   ///
-  /// ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cpu.svg)
+  /// ![cpu](https://api.iconify.design/ph/cpu.svg?height=32&color=%23888888)
   static const IconData cpu = IconData(
     0xe610,
     fontFamily: 'PhosphorRegular',
@@ -5347,7 +5347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crane` no estilo Regular.
   ///
-  /// ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crane.svg)
+  /// ![crane](https://api.iconify.design/ph/crane.svg?height=32&color=%23888888)
   static const IconData crane = IconData(
     0xed48,
     fontFamily: 'PhosphorRegular',
@@ -5359,7 +5359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `craneTower` no estilo Regular.
   ///
-  /// ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crane-tower.svg)
+  /// ![crane-tower](https://api.iconify.design/ph/crane-tower.svg?height=32&color=%23888888)
   static const IconData craneTower = IconData(
     0xed49,
     fontFamily: 'PhosphorRegular',
@@ -5371,7 +5371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `creditCard` no estilo Regular.
   ///
-  /// ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/credit-card.svg)
+  /// ![credit-card](https://api.iconify.design/ph/credit-card.svg?height=32&color=%23888888)
   static const IconData creditCard = IconData(
     0xe1d2,
     fontFamily: 'PhosphorRegular',
@@ -5383,7 +5383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cricket` no estilo Regular.
   ///
-  /// ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cricket.svg)
+  /// ![cricket](https://api.iconify.design/ph/cricket.svg?height=32&color=%23888888)
   static const IconData cricket = IconData(
     0xee12,
     fontFamily: 'PhosphorRegular',
@@ -5395,7 +5395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crop` no estilo Regular.
   ///
-  /// ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crop.svg)
+  /// ![crop](https://api.iconify.design/ph/crop.svg?height=32&color=%23888888)
   static const IconData crop = IconData(
     0xe1d4,
     fontFamily: 'PhosphorRegular',
@@ -5407,7 +5407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cross` no estilo Regular.
   ///
-  /// ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cross.svg)
+  /// ![cross](https://api.iconify.design/ph/cross.svg?height=32&color=%23888888)
   static const IconData cross = IconData(
     0xe8a0,
     fontFamily: 'PhosphorRegular',
@@ -5419,7 +5419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crosshair` no estilo Regular.
   ///
-  /// ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crosshair.svg)
+  /// ![crosshair](https://api.iconify.design/ph/crosshair.svg?height=32&color=%23888888)
   static const IconData crosshair = IconData(
     0xe1d6,
     fontFamily: 'PhosphorRegular',
@@ -5431,7 +5431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crosshairSimple` no estilo Regular.
   ///
-  /// ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crosshair-simple.svg)
+  /// ![crosshair-simple](https://api.iconify.design/ph/crosshair-simple.svg?height=32&color=%23888888)
   static const IconData crosshairSimple = IconData(
     0xe1d8,
     fontFamily: 'PhosphorRegular',
@@ -5443,7 +5443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crown` no estilo Regular.
   ///
-  /// ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crown.svg)
+  /// ![crown](https://api.iconify.design/ph/crown.svg?height=32&color=%23888888)
   static const IconData crown = IconData(
     0xe614,
     fontFamily: 'PhosphorRegular',
@@ -5455,7 +5455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crownCross` no estilo Regular.
   ///
-  /// ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crown-cross.svg)
+  /// ![crown-cross](https://api.iconify.design/ph/crown-cross.svg?height=32&color=%23888888)
   static const IconData crownCross = IconData(
     0xee5e,
     fontFamily: 'PhosphorRegular',
@@ -5467,7 +5467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crownSimple` no estilo Regular.
   ///
-  /// ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/crown-simple.svg)
+  /// ![crown-simple](https://api.iconify.design/ph/crown-simple.svg?height=32&color=%23888888)
   static const IconData crownSimple = IconData(
     0xe616,
     fontFamily: 'PhosphorRegular',
@@ -5479,7 +5479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cube` no estilo Regular.
   ///
-  /// ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cube.svg)
+  /// ![cube](https://api.iconify.design/ph/cube.svg?height=32&color=%23888888)
   static const IconData cube = IconData(
     0xe1da,
     fontFamily: 'PhosphorRegular',
@@ -5491,7 +5491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cubeFocus` no estilo Regular.
   ///
-  /// ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cube-focus.svg)
+  /// ![cube-focus](https://api.iconify.design/ph/cube-focus.svg?height=32&color=%23888888)
   static const IconData cubeFocus = IconData(
     0xed0a,
     fontFamily: 'PhosphorRegular',
@@ -5503,7 +5503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cubeTransparent` no estilo Regular.
   ///
-  /// ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cube-transparent.svg)
+  /// ![cube-transparent](https://api.iconify.design/ph/cube-transparent.svg?height=32&color=%23888888)
   static const IconData cubeTransparent = IconData(
     0xec7c,
     fontFamily: 'PhosphorRegular',
@@ -5515,7 +5515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyBtc` no estilo Regular.
   ///
-  /// ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-btc.svg)
+  /// ![currency-btc](https://api.iconify.design/ph/currency-btc.svg?height=32&color=%23888888)
   static const IconData currencyBtc = IconData(
     0xe618,
     fontFamily: 'PhosphorRegular',
@@ -5527,7 +5527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyCircleDollar` no estilo Regular.
   ///
-  /// ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-circle-dollar.svg)
+  /// ![currency-circle-dollar](https://api.iconify.design/ph/currency-circle-dollar.svg?height=32&color=%23888888)
   static const IconData currencyCircleDollar = IconData(
     0xe54c,
     fontFamily: 'PhosphorRegular',
@@ -5539,7 +5539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyCny` no estilo Regular.
   ///
-  /// ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-cny.svg)
+  /// ![currency-cny](https://api.iconify.design/ph/currency-cny.svg?height=32&color=%23888888)
   static const IconData currencyCny = IconData(
     0xe54e,
     fontFamily: 'PhosphorRegular',
@@ -5551,7 +5551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyDollar` no estilo Regular.
   ///
-  /// ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-dollar.svg)
+  /// ![currency-dollar](https://api.iconify.design/ph/currency-dollar.svg?height=32&color=%23888888)
   static const IconData currencyDollar = IconData(
     0xe550,
     fontFamily: 'PhosphorRegular',
@@ -5563,7 +5563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyDollarSimple` no estilo Regular.
   ///
-  /// ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-dollar-simple.svg)
+  /// ![currency-dollar-simple](https://api.iconify.design/ph/currency-dollar-simple.svg?height=32&color=%23888888)
   static const IconData currencyDollarSimple = IconData(
     0xe552,
     fontFamily: 'PhosphorRegular',
@@ -5575,7 +5575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyEth` no estilo Regular.
   ///
-  /// ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-eth.svg)
+  /// ![currency-eth](https://api.iconify.design/ph/currency-eth.svg?height=32&color=%23888888)
   static const IconData currencyEth = IconData(
     0xeada,
     fontFamily: 'PhosphorRegular',
@@ -5587,7 +5587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyEur` no estilo Regular.
   ///
-  /// ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-eur.svg)
+  /// ![currency-eur](https://api.iconify.design/ph/currency-eur.svg?height=32&color=%23888888)
   static const IconData currencyEur = IconData(
     0xe554,
     fontFamily: 'PhosphorRegular',
@@ -5599,7 +5599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyGbp` no estilo Regular.
   ///
-  /// ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-gbp.svg)
+  /// ![currency-gbp](https://api.iconify.design/ph/currency-gbp.svg?height=32&color=%23888888)
   static const IconData currencyGbp = IconData(
     0xe556,
     fontFamily: 'PhosphorRegular',
@@ -5611,7 +5611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyInr` no estilo Regular.
   ///
-  /// ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-inr.svg)
+  /// ![currency-inr](https://api.iconify.design/ph/currency-inr.svg?height=32&color=%23888888)
   static const IconData currencyInr = IconData(
     0xe558,
     fontFamily: 'PhosphorRegular',
@@ -5623,7 +5623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyJpy` no estilo Regular.
   ///
-  /// ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-jpy.svg)
+  /// ![currency-jpy](https://api.iconify.design/ph/currency-jpy.svg?height=32&color=%23888888)
   static const IconData currencyJpy = IconData(
     0xe55a,
     fontFamily: 'PhosphorRegular',
@@ -5635,7 +5635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyKrw` no estilo Regular.
   ///
-  /// ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-krw.svg)
+  /// ![currency-krw](https://api.iconify.design/ph/currency-krw.svg?height=32&color=%23888888)
   static const IconData currencyKrw = IconData(
     0xe55c,
     fontFamily: 'PhosphorRegular',
@@ -5647,7 +5647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyKzt` no estilo Regular.
   ///
-  /// ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-kzt.svg)
+  /// ![currency-kzt](https://api.iconify.design/ph/currency-kzt.svg?height=32&color=%23888888)
   static const IconData currencyKzt = IconData(
     0xec4c,
     fontFamily: 'PhosphorRegular',
@@ -5659,7 +5659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyNgn` no estilo Regular.
   ///
-  /// ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-ngn.svg)
+  /// ![currency-ngn](https://api.iconify.design/ph/currency-ngn.svg?height=32&color=%23888888)
   static const IconData currencyNgn = IconData(
     0xeb52,
     fontFamily: 'PhosphorRegular',
@@ -5671,7 +5671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyRub` no estilo Regular.
   ///
-  /// ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/currency-rub.svg)
+  /// ![currency-rub](https://api.iconify.design/ph/currency-rub.svg?height=32&color=%23888888)
   static const IconData currencyRub = IconData(
     0xe55e,
     fontFamily: 'PhosphorRegular',
@@ -5683,7 +5683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cursor` no estilo Regular.
   ///
-  /// ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cursor.svg)
+  /// ![cursor](https://api.iconify.design/ph/cursor.svg?height=32&color=%23888888)
   static const IconData cursor = IconData(
     0xe1dc,
     fontFamily: 'PhosphorRegular',
@@ -5695,7 +5695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cursorClick` no estilo Regular.
   ///
-  /// ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cursor-click.svg)
+  /// ![cursor-click](https://api.iconify.design/ph/cursor-click.svg?height=32&color=%23888888)
   static const IconData cursorClick = IconData(
     0xe7c8,
     fontFamily: 'PhosphorRegular',
@@ -5707,7 +5707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cursorText` no estilo Regular.
   ///
-  /// ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cursor-text.svg)
+  /// ![cursor-text](https://api.iconify.design/ph/cursor-text.svg?height=32&color=%23888888)
   static const IconData cursorText = IconData(
     0xe7d8,
     fontFamily: 'PhosphorRegular',
@@ -5719,7 +5719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cylinder` no estilo Regular.
   ///
-  /// ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/cylinder.svg)
+  /// ![cylinder](https://api.iconify.design/ph/cylinder.svg?height=32&color=%23888888)
   static const IconData cylinder = IconData(
     0xe8fc,
     fontFamily: 'PhosphorRegular',
@@ -5731,7 +5731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `database` no estilo Regular.
   ///
-  /// ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/database.svg)
+  /// ![database](https://api.iconify.design/ph/database.svg?height=32&color=%23888888)
   static const IconData database = IconData(
     0xe1de,
     fontFamily: 'PhosphorRegular',
@@ -5743,7 +5743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `desk` no estilo Regular.
   ///
-  /// ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/desk.svg)
+  /// ![desk](https://api.iconify.design/ph/desk.svg?height=32&color=%23888888)
   static const IconData desk = IconData(
     0xed16,
     fontFamily: 'PhosphorRegular',
@@ -5755,7 +5755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `desktop` no estilo Regular.
   ///
-  /// ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/desktop.svg)
+  /// ![desktop](https://api.iconify.design/ph/desktop.svg?height=32&color=%23888888)
   static const IconData desktop = IconData(
     0xe560,
     fontFamily: 'PhosphorRegular',
@@ -5767,7 +5767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `desktopTower` no estilo Regular.
   ///
-  /// ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/desktop-tower.svg)
+  /// ![desktop-tower](https://api.iconify.design/ph/desktop-tower.svg?height=32&color=%23888888)
   static const IconData desktopTower = IconData(
     0xe562,
     fontFamily: 'PhosphorRegular',
@@ -5779,7 +5779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `detective` no estilo Regular.
   ///
-  /// ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/detective.svg)
+  /// ![detective](https://api.iconify.design/ph/detective.svg?height=32&color=%23888888)
   static const IconData detective = IconData(
     0xe83e,
     fontFamily: 'PhosphorRegular',
@@ -5791,7 +5791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `devToLogo` no estilo Regular.
   ///
-  /// ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dev-to-logo.svg)
+  /// ![dev-to-logo](https://api.iconify.design/ph/dev-to-logo.svg?height=32&color=%23888888)
   static const IconData devToLogo = IconData(
     0xed0e,
     fontFamily: 'PhosphorRegular',
@@ -5803,7 +5803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobile` no estilo Regular.
   ///
-  /// ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-mobile.svg)
+  /// ![device-mobile](https://api.iconify.design/ph/device-mobile.svg?height=32&color=%23888888)
   static const IconData deviceMobile = IconData(
     0xe1e0,
     fontFamily: 'PhosphorRegular',
@@ -5815,7 +5815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobileCamera` no estilo Regular.
   ///
-  /// ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-mobile-camera.svg)
+  /// ![device-mobile-camera](https://api.iconify.design/ph/device-mobile-camera.svg?height=32&color=%23888888)
   static const IconData deviceMobileCamera = IconData(
     0xe1e2,
     fontFamily: 'PhosphorRegular',
@@ -5827,7 +5827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobileSlash` no estilo Regular.
   ///
-  /// ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-mobile-slash.svg)
+  /// ![device-mobile-slash](https://api.iconify.design/ph/device-mobile-slash.svg?height=32&color=%23888888)
   static const IconData deviceMobileSlash = IconData(
     0xee46,
     fontFamily: 'PhosphorRegular',
@@ -5839,7 +5839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobileSpeaker` no estilo Regular.
   ///
-  /// ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-mobile-speaker.svg)
+  /// ![device-mobile-speaker](https://api.iconify.design/ph/device-mobile-speaker.svg?height=32&color=%23888888)
   static const IconData deviceMobileSpeaker = IconData(
     0xe1e4,
     fontFamily: 'PhosphorRegular',
@@ -5851,7 +5851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceRotate` no estilo Regular.
   ///
-  /// ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-rotate.svg)
+  /// ![device-rotate](https://api.iconify.design/ph/device-rotate.svg?height=32&color=%23888888)
   static const IconData deviceRotate = IconData(
     0xedf2,
     fontFamily: 'PhosphorRegular',
@@ -5863,7 +5863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceTablet` no estilo Regular.
   ///
-  /// ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-tablet.svg)
+  /// ![device-tablet](https://api.iconify.design/ph/device-tablet.svg?height=32&color=%23888888)
   static const IconData deviceTablet = IconData(
     0xe1e6,
     fontFamily: 'PhosphorRegular',
@@ -5875,7 +5875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceTabletCamera` no estilo Regular.
   ///
-  /// ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-tablet-camera.svg)
+  /// ![device-tablet-camera](https://api.iconify.design/ph/device-tablet-camera.svg?height=32&color=%23888888)
   static const IconData deviceTabletCamera = IconData(
     0xe1e8,
     fontFamily: 'PhosphorRegular',
@@ -5887,7 +5887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceTabletSpeaker` no estilo Regular.
   ///
-  /// ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/device-tablet-speaker.svg)
+  /// ![device-tablet-speaker](https://api.iconify.design/ph/device-tablet-speaker.svg?height=32&color=%23888888)
   static const IconData deviceTabletSpeaker = IconData(
     0xe1ea,
     fontFamily: 'PhosphorRegular',
@@ -5899,7 +5899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `devices` no estilo Regular.
   ///
-  /// ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/devices.svg)
+  /// ![devices](https://api.iconify.design/ph/devices.svg?height=32&color=%23888888)
   static const IconData devices = IconData(
     0xeba4,
     fontFamily: 'PhosphorRegular',
@@ -5911,7 +5911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diamond` no estilo Regular.
   ///
-  /// ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/diamond.svg)
+  /// ![diamond](https://api.iconify.design/ph/diamond.svg?height=32&color=%23888888)
   static const IconData diamond = IconData(
     0xe1ec,
     fontFamily: 'PhosphorRegular',
@@ -5923,7 +5923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diamondsFour` no estilo Regular.
   ///
-  /// ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/diamonds-four.svg)
+  /// ![diamonds-four](https://api.iconify.design/ph/diamonds-four.svg?height=32&color=%23888888)
   static const IconData diamondsFour = IconData(
     0xe8f4,
     fontFamily: 'PhosphorRegular',
@@ -5935,7 +5935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceFive` no estilo Regular.
   ///
-  /// ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dice-five.svg)
+  /// ![dice-five](https://api.iconify.design/ph/dice-five.svg?height=32&color=%23888888)
   static const IconData diceFive = IconData(
     0xe1ee,
     fontFamily: 'PhosphorRegular',
@@ -5947,7 +5947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceFour` no estilo Regular.
   ///
-  /// ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dice-four.svg)
+  /// ![dice-four](https://api.iconify.design/ph/dice-four.svg?height=32&color=%23888888)
   static const IconData diceFour = IconData(
     0xe1f0,
     fontFamily: 'PhosphorRegular',
@@ -5959,7 +5959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceOne` no estilo Regular.
   ///
-  /// ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dice-one.svg)
+  /// ![dice-one](https://api.iconify.design/ph/dice-one.svg?height=32&color=%23888888)
   static const IconData diceOne = IconData(
     0xe1f2,
     fontFamily: 'PhosphorRegular',
@@ -5971,7 +5971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceSix` no estilo Regular.
   ///
-  /// ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dice-six.svg)
+  /// ![dice-six](https://api.iconify.design/ph/dice-six.svg?height=32&color=%23888888)
   static const IconData diceSix = IconData(
     0xe1f4,
     fontFamily: 'PhosphorRegular',
@@ -5983,7 +5983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceThree` no estilo Regular.
   ///
-  /// ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dice-three.svg)
+  /// ![dice-three](https://api.iconify.design/ph/dice-three.svg?height=32&color=%23888888)
   static const IconData diceThree = IconData(
     0xe1f6,
     fontFamily: 'PhosphorRegular',
@@ -5995,7 +5995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceTwo` no estilo Regular.
   ///
-  /// ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dice-two.svg)
+  /// ![dice-two](https://api.iconify.design/ph/dice-two.svg?height=32&color=%23888888)
   static const IconData diceTwo = IconData(
     0xe1f8,
     fontFamily: 'PhosphorRegular',
@@ -6007,7 +6007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `disc` no estilo Regular.
   ///
-  /// ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/disc.svg)
+  /// ![disc](https://api.iconify.design/ph/disc.svg?height=32&color=%23888888)
   static const IconData disc = IconData(
     0xe564,
     fontFamily: 'PhosphorRegular',
@@ -6019,7 +6019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `discoBall` no estilo Regular.
   ///
-  /// ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/disco-ball.svg)
+  /// ![disco-ball](https://api.iconify.design/ph/disco-ball.svg?height=32&color=%23888888)
   static const IconData discoBall = IconData(
     0xed98,
     fontFamily: 'PhosphorRegular',
@@ -6031,7 +6031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `discordLogo` no estilo Regular.
   ///
-  /// ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/discord-logo.svg)
+  /// ![discord-logo](https://api.iconify.design/ph/discord-logo.svg?height=32&color=%23888888)
   static const IconData discordLogo = IconData(
     0xe61a,
     fontFamily: 'PhosphorRegular',
@@ -6043,7 +6043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `divide` no estilo Regular.
   ///
-  /// ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/divide.svg)
+  /// ![divide](https://api.iconify.design/ph/divide.svg?height=32&color=%23888888)
   static const IconData divide = IconData(
     0xe1fa,
     fontFamily: 'PhosphorRegular',
@@ -6055,7 +6055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dna` no estilo Regular.
   ///
-  /// ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dna.svg)
+  /// ![dna](https://api.iconify.design/ph/dna.svg?height=32&color=%23888888)
   static const IconData dna = IconData(
     0xe924,
     fontFamily: 'PhosphorRegular',
@@ -6067,7 +6067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dog` no estilo Regular.
   ///
-  /// ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dog.svg)
+  /// ![dog](https://api.iconify.design/ph/dog.svg?height=32&color=%23888888)
   static const IconData dog = IconData(
     0xe74a,
     fontFamily: 'PhosphorRegular',
@@ -6079,7 +6079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `door` no estilo Regular.
   ///
-  /// ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/door.svg)
+  /// ![door](https://api.iconify.design/ph/door.svg?height=32&color=%23888888)
   static const IconData door = IconData(
     0xe61c,
     fontFamily: 'PhosphorRegular',
@@ -6091,7 +6091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `doorOpen` no estilo Regular.
   ///
-  /// ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/door-open.svg)
+  /// ![door-open](https://api.iconify.design/ph/door-open.svg?height=32&color=%23888888)
   static const IconData doorOpen = IconData(
     0xe7e6,
     fontFamily: 'PhosphorRegular',
@@ -6103,7 +6103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dot` no estilo Regular.
   ///
-  /// ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dot.svg)
+  /// ![dot](https://api.iconify.design/ph/dot.svg?height=32&color=%23888888)
   static const IconData dot = IconData(
     0xecde,
     fontFamily: 'PhosphorRegular',
@@ -6115,7 +6115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotOutline` no estilo Regular.
   ///
-  /// ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dot-outline.svg)
+  /// ![dot-outline](https://api.iconify.design/ph/dot-outline.svg?height=32&color=%23888888)
   static const IconData dotOutline = IconData(
     0xece0,
     fontFamily: 'PhosphorRegular',
@@ -6127,7 +6127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsNine` no estilo Regular.
   ///
-  /// ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-nine.svg)
+  /// ![dots-nine](https://api.iconify.design/ph/dots-nine.svg?height=32&color=%23888888)
   static const IconData dotsNine = IconData(
     0xe1fc,
     fontFamily: 'PhosphorRegular',
@@ -6139,7 +6139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsSix` no estilo Regular.
   ///
-  /// ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-six.svg)
+  /// ![dots-six](https://api.iconify.design/ph/dots-six.svg?height=32&color=%23888888)
   static const IconData dotsSix = IconData(
     0xe794,
     fontFamily: 'PhosphorRegular',
@@ -6151,7 +6151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsSixVertical` no estilo Regular.
   ///
-  /// ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-six-vertical.svg)
+  /// ![dots-six-vertical](https://api.iconify.design/ph/dots-six-vertical.svg?height=32&color=%23888888)
   static const IconData dotsSixVertical = IconData(
     0xeae2,
     fontFamily: 'PhosphorRegular',
@@ -6163,7 +6163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThree` no estilo Regular.
   ///
-  /// ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-three.svg)
+  /// ![dots-three](https://api.iconify.design/ph/dots-three.svg?height=32&color=%23888888)
   static const IconData dotsThree = IconData(
     0xe1fe,
     fontFamily: 'PhosphorRegular',
@@ -6175,7 +6175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeCircle` no estilo Regular.
   ///
-  /// ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-three-circle.svg)
+  /// ![dots-three-circle](https://api.iconify.design/ph/dots-three-circle.svg?height=32&color=%23888888)
   static const IconData dotsThreeCircle = IconData(
     0xe200,
     fontFamily: 'PhosphorRegular',
@@ -6187,7 +6187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeCircleVertical` no estilo Regular.
   ///
-  /// ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-three-circle-vertical.svg)
+  /// ![dots-three-circle-vertical](https://api.iconify.design/ph/dots-three-circle-vertical.svg?height=32&color=%23888888)
   static const IconData dotsThreeCircleVertical = IconData(
     0xe202,
     fontFamily: 'PhosphorRegular',
@@ -6199,7 +6199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeOutline` no estilo Regular.
   ///
-  /// ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-three-outline.svg)
+  /// ![dots-three-outline](https://api.iconify.design/ph/dots-three-outline.svg?height=32&color=%23888888)
   static const IconData dotsThreeOutline = IconData(
     0xe204,
     fontFamily: 'PhosphorRegular',
@@ -6211,7 +6211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Regular.
   ///
-  /// ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-three-outline-vertical.svg)
+  /// ![dots-three-outline-vertical](https://api.iconify.design/ph/dots-three-outline-vertical.svg?height=32&color=%23888888)
   static const IconData dotsThreeOutlineVertical = IconData(
     0xe206,
     fontFamily: 'PhosphorRegular',
@@ -6223,7 +6223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeVertical` no estilo Regular.
   ///
-  /// ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dots-three-vertical.svg)
+  /// ![dots-three-vertical](https://api.iconify.design/ph/dots-three-vertical.svg?height=32&color=%23888888)
   static const IconData dotsThreeVertical = IconData(
     0xe208,
     fontFamily: 'PhosphorRegular',
@@ -6235,7 +6235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `download` no estilo Regular.
   ///
-  /// ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/download.svg)
+  /// ![download](https://api.iconify.design/ph/download.svg?height=32&color=%23888888)
   static const IconData download = IconData(
     0xe20a,
     fontFamily: 'PhosphorRegular',
@@ -6247,7 +6247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `downloadSimple` no estilo Regular.
   ///
-  /// ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/download-simple.svg)
+  /// ![download-simple](https://api.iconify.design/ph/download-simple.svg?height=32&color=%23888888)
   static const IconData downloadSimple = IconData(
     0xe20c,
     fontFamily: 'PhosphorRegular',
@@ -6259,7 +6259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dress` no estilo Regular.
   ///
-  /// ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dress.svg)
+  /// ![dress](https://api.iconify.design/ph/dress.svg?height=32&color=%23888888)
   static const IconData dress = IconData(
     0xea7e,
     fontFamily: 'PhosphorRegular',
@@ -6271,7 +6271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dresser` no estilo Regular.
   ///
-  /// ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dresser.svg)
+  /// ![dresser](https://api.iconify.design/ph/dresser.svg?height=32&color=%23888888)
   static const IconData dresser = IconData(
     0xe94e,
     fontFamily: 'PhosphorRegular',
@@ -6283,7 +6283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dribbbleLogo` no estilo Regular.
   ///
-  /// ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dribbble-logo.svg)
+  /// ![dribbble-logo](https://api.iconify.design/ph/dribbble-logo.svg?height=32&color=%23888888)
   static const IconData dribbbleLogo = IconData(
     0xe20e,
     fontFamily: 'PhosphorRegular',
@@ -6295,7 +6295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `drone` no estilo Regular.
   ///
-  /// ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/drone.svg)
+  /// ![drone](https://api.iconify.design/ph/drone.svg?height=32&color=%23888888)
   static const IconData drone = IconData(
     0xed74,
     fontFamily: 'PhosphorRegular',
@@ -6307,7 +6307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `drop` no estilo Regular.
   ///
-  /// ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/drop.svg)
+  /// ![drop](https://api.iconify.design/ph/drop.svg?height=32&color=%23888888)
   static const IconData drop = IconData(
     0xe210,
     fontFamily: 'PhosphorRegular',
@@ -6319,7 +6319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropHalf` no estilo Regular.
   ///
-  /// ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/drop-half.svg)
+  /// ![drop-half](https://api.iconify.design/ph/drop-half.svg?height=32&color=%23888888)
   static const IconData dropHalf = IconData(
     0xe566,
     fontFamily: 'PhosphorRegular',
@@ -6331,7 +6331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropHalfBottom` no estilo Regular.
   ///
-  /// ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/drop-half-bottom.svg)
+  /// ![drop-half-bottom](https://api.iconify.design/ph/drop-half-bottom.svg?height=32&color=%23888888)
   static const IconData dropHalfBottom = IconData(
     0xeb40,
     fontFamily: 'PhosphorRegular',
@@ -6343,7 +6343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropSimple` no estilo Regular.
   ///
-  /// ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/drop-simple.svg)
+  /// ![drop-simple](https://api.iconify.design/ph/drop-simple.svg?height=32&color=%23888888)
   static const IconData dropSimple = IconData(
     0xee32,
     fontFamily: 'PhosphorRegular',
@@ -6355,7 +6355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropSlash` no estilo Regular.
   ///
-  /// ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/drop-slash.svg)
+  /// ![drop-slash](https://api.iconify.design/ph/drop-slash.svg?height=32&color=%23888888)
   static const IconData dropSlash = IconData(
     0xe954,
     fontFamily: 'PhosphorRegular',
@@ -6367,7 +6367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropboxLogo` no estilo Regular.
   ///
-  /// ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/dropbox-logo.svg)
+  /// ![dropbox-logo](https://api.iconify.design/ph/dropbox-logo.svg?height=32&color=%23888888)
   static const IconData dropboxLogo = IconData(
     0xe7d0,
     fontFamily: 'PhosphorRegular',
@@ -6379,7 +6379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ear` no estilo Regular.
   ///
-  /// ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ear.svg)
+  /// ![ear](https://api.iconify.design/ph/ear.svg?height=32&color=%23888888)
   static const IconData ear = IconData(
     0xe70c,
     fontFamily: 'PhosphorRegular',
@@ -6391,7 +6391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `earSlash` no estilo Regular.
   ///
-  /// ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ear-slash.svg)
+  /// ![ear-slash](https://api.iconify.design/ph/ear-slash.svg?height=32&color=%23888888)
   static const IconData earSlash = IconData(
     0xe70e,
     fontFamily: 'PhosphorRegular',
@@ -6403,7 +6403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `egg` no estilo Regular.
   ///
-  /// ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/egg.svg)
+  /// ![egg](https://api.iconify.design/ph/egg.svg?height=32&color=%23888888)
   static const IconData egg = IconData(
     0xe812,
     fontFamily: 'PhosphorRegular',
@@ -6415,7 +6415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eggCrack` no estilo Regular.
   ///
-  /// ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/egg-crack.svg)
+  /// ![egg-crack](https://api.iconify.design/ph/egg-crack.svg?height=32&color=%23888888)
   static const IconData eggCrack = IconData(
     0xeb64,
     fontFamily: 'PhosphorRegular',
@@ -6427,7 +6427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eject` no estilo Regular.
   ///
-  /// ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eject.svg)
+  /// ![eject](https://api.iconify.design/ph/eject.svg?height=32&color=%23888888)
   static const IconData eject = IconData(
     0xe212,
     fontFamily: 'PhosphorRegular',
@@ -6439,7 +6439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ejectSimple` no estilo Regular.
   ///
-  /// ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eject-simple.svg)
+  /// ![eject-simple](https://api.iconify.design/ph/eject-simple.svg?height=32&color=%23888888)
   static const IconData ejectSimple = IconData(
     0xe6ae,
     fontFamily: 'PhosphorRegular',
@@ -6451,7 +6451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `elevator` no estilo Regular.
   ///
-  /// ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/elevator.svg)
+  /// ![elevator](https://api.iconify.design/ph/elevator.svg?height=32&color=%23888888)
   static const IconData elevator = IconData(
     0xecc0,
     fontFamily: 'PhosphorRegular',
@@ -6463,7 +6463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `empty` no estilo Regular.
   ///
-  /// ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/empty.svg)
+  /// ![empty](https://api.iconify.design/ph/empty.svg?height=32&color=%23888888)
   static const IconData empty = IconData(
     0xedbc,
     fontFamily: 'PhosphorRegular',
@@ -6475,7 +6475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `engine` no estilo Regular.
   ///
-  /// ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/engine.svg)
+  /// ![engine](https://api.iconify.design/ph/engine.svg?height=32&color=%23888888)
   static const IconData engine = IconData(
     0xea80,
     fontFamily: 'PhosphorRegular',
@@ -6487,7 +6487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelope` no estilo Regular.
   ///
-  /// ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/envelope.svg)
+  /// ![envelope](https://api.iconify.design/ph/envelope.svg?height=32&color=%23888888)
   static const IconData envelope = IconData(
     0xe214,
     fontFamily: 'PhosphorRegular',
@@ -6499,7 +6499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelopeOpen` no estilo Regular.
   ///
-  /// ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/envelope-open.svg)
+  /// ![envelope-open](https://api.iconify.design/ph/envelope-open.svg?height=32&color=%23888888)
   static const IconData envelopeOpen = IconData(
     0xe216,
     fontFamily: 'PhosphorRegular',
@@ -6511,7 +6511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelopeSimple` no estilo Regular.
   ///
-  /// ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/envelope-simple.svg)
+  /// ![envelope-simple](https://api.iconify.design/ph/envelope-simple.svg?height=32&color=%23888888)
   static const IconData envelopeSimple = IconData(
     0xe218,
     fontFamily: 'PhosphorRegular',
@@ -6523,7 +6523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelopeSimpleOpen` no estilo Regular.
   ///
-  /// ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/envelope-simple-open.svg)
+  /// ![envelope-simple-open](https://api.iconify.design/ph/envelope-simple-open.svg?height=32&color=%23888888)
   static const IconData envelopeSimpleOpen = IconData(
     0xe21a,
     fontFamily: 'PhosphorRegular',
@@ -6535,7 +6535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `equalizer` no estilo Regular.
   ///
-  /// ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/equalizer.svg)
+  /// ![equalizer](https://api.iconify.design/ph/equalizer.svg?height=32&color=%23888888)
   static const IconData equalizer = IconData(
     0xebbc,
     fontFamily: 'PhosphorRegular',
@@ -6547,7 +6547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `equals` no estilo Regular.
   ///
-  /// ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/equals.svg)
+  /// ![equals](https://api.iconify.design/ph/equals.svg?height=32&color=%23888888)
   static const IconData equals = IconData(
     0xe21c,
     fontFamily: 'PhosphorRegular',
@@ -6559,7 +6559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eraser` no estilo Regular.
   ///
-  /// ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eraser.svg)
+  /// ![eraser](https://api.iconify.design/ph/eraser.svg?height=32&color=%23888888)
   static const IconData eraser = IconData(
     0xe21e,
     fontFamily: 'PhosphorRegular',
@@ -6571,7 +6571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `escalatorDown` no estilo Regular.
   ///
-  /// ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/escalator-down.svg)
+  /// ![escalator-down](https://api.iconify.design/ph/escalator-down.svg?height=32&color=%23888888)
   static const IconData escalatorDown = IconData(
     0xecba,
     fontFamily: 'PhosphorRegular',
@@ -6583,7 +6583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `escalatorUp` no estilo Regular.
   ///
-  /// ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/escalator-up.svg)
+  /// ![escalator-up](https://api.iconify.design/ph/escalator-up.svg?height=32&color=%23888888)
   static const IconData escalatorUp = IconData(
     0xecbc,
     fontFamily: 'PhosphorRegular',
@@ -6595,7 +6595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `exam` no estilo Regular.
   ///
-  /// ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/exam.svg)
+  /// ![exam](https://api.iconify.design/ph/exam.svg?height=32&color=%23888888)
   static const IconData exam = IconData(
     0xe742,
     fontFamily: 'PhosphorRegular',
@@ -6607,7 +6607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `exclamationMark` no estilo Regular.
   ///
-  /// ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/exclamation-mark.svg)
+  /// ![exclamation-mark](https://api.iconify.design/ph/exclamation-mark.svg?height=32&color=%23888888)
   static const IconData exclamationMark = IconData(
     0xee44,
     fontFamily: 'PhosphorRegular',
@@ -6619,7 +6619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `exclude` no estilo Regular.
   ///
-  /// ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/exclude.svg)
+  /// ![exclude](https://api.iconify.design/ph/exclude.svg?height=32&color=%23888888)
   static const IconData exclude = IconData(
     0xe882,
     fontFamily: 'PhosphorRegular',
@@ -6631,7 +6631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `excludeSquare` no estilo Regular.
   ///
-  /// ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/exclude-square.svg)
+  /// ![exclude-square](https://api.iconify.design/ph/exclude-square.svg?height=32&color=%23888888)
   static const IconData excludeSquare = IconData(
     0xe880,
     fontFamily: 'PhosphorRegular',
@@ -6643,7 +6643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `export` no estilo Regular.
   ///
-  /// ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/export.svg)
+  /// ![export](https://api.iconify.design/ph/export.svg?height=32&color=%23888888)
   static const IconData export = IconData(
     0xeaf0,
     fontFamily: 'PhosphorRegular',
@@ -6655,7 +6655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eye` no estilo Regular.
   ///
-  /// ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eye.svg)
+  /// ![eye](https://api.iconify.design/ph/eye.svg?height=32&color=%23888888)
   static const IconData eye = IconData(
     0xe220,
     fontFamily: 'PhosphorRegular',
@@ -6667,7 +6667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyeClosed` no estilo Regular.
   ///
-  /// ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eye-closed.svg)
+  /// ![eye-closed](https://api.iconify.design/ph/eye-closed.svg?height=32&color=%23888888)
   static const IconData eyeClosed = IconData(
     0xe222,
     fontFamily: 'PhosphorRegular',
@@ -6679,7 +6679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyeSlash` no estilo Regular.
   ///
-  /// ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eye-slash.svg)
+  /// ![eye-slash](https://api.iconify.design/ph/eye-slash.svg?height=32&color=%23888888)
   static const IconData eyeSlash = IconData(
     0xe224,
     fontFamily: 'PhosphorRegular',
@@ -6691,7 +6691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyedropper` no estilo Regular.
   ///
-  /// ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eyedropper.svg)
+  /// ![eyedropper](https://api.iconify.design/ph/eyedropper.svg?height=32&color=%23888888)
   static const IconData eyedropper = IconData(
     0xe568,
     fontFamily: 'PhosphorRegular',
@@ -6703,7 +6703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyedropperSample` no estilo Regular.
   ///
-  /// ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eyedropper-sample.svg)
+  /// ![eyedropper-sample](https://api.iconify.design/ph/eyedropper-sample.svg?height=32&color=%23888888)
   static const IconData eyedropperSample = IconData(
     0xeac4,
     fontFamily: 'PhosphorRegular',
@@ -6715,7 +6715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyeglasses` no estilo Regular.
   ///
-  /// ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eyeglasses.svg)
+  /// ![eyeglasses](https://api.iconify.design/ph/eyeglasses.svg?height=32&color=%23888888)
   static const IconData eyeglasses = IconData(
     0xe7ba,
     fontFamily: 'PhosphorRegular',
@@ -6727,7 +6727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyes` no estilo Regular.
   ///
-  /// ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/eyes.svg)
+  /// ![eyes](https://api.iconify.design/ph/eyes.svg?height=32&color=%23888888)
   static const IconData eyes = IconData(
     0xee5c,
     fontFamily: 'PhosphorRegular',
@@ -6739,7 +6739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `faceMask` no estilo Regular.
   ///
-  /// ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/face-mask.svg)
+  /// ![face-mask](https://api.iconify.design/ph/face-mask.svg?height=32&color=%23888888)
   static const IconData faceMask = IconData(
     0xe56a,
     fontFamily: 'PhosphorRegular',
@@ -6751,7 +6751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `facebookLogo` no estilo Regular.
   ///
-  /// ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/facebook-logo.svg)
+  /// ![facebook-logo](https://api.iconify.design/ph/facebook-logo.svg?height=32&color=%23888888)
   static const IconData facebookLogo = IconData(
     0xe226,
     fontFamily: 'PhosphorRegular',
@@ -6763,7 +6763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `factory` no estilo Regular.
   ///
-  /// ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/factory.svg)
+  /// ![factory](https://api.iconify.design/ph/factory.svg?height=32&color=%23888888)
   static const IconData factory = IconData(
     0xe760,
     fontFamily: 'PhosphorRegular',
@@ -6775,7 +6775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `faders` no estilo Regular.
   ///
-  /// ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/faders.svg)
+  /// ![faders](https://api.iconify.design/ph/faders.svg?height=32&color=%23888888)
   static const IconData faders = IconData(
     0xe228,
     fontFamily: 'PhosphorRegular',
@@ -6787,7 +6787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fadersHorizontal` no estilo Regular.
   ///
-  /// ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/faders-horizontal.svg)
+  /// ![faders-horizontal](https://api.iconify.design/ph/faders-horizontal.svg?height=32&color=%23888888)
   static const IconData fadersHorizontal = IconData(
     0xe22a,
     fontFamily: 'PhosphorRegular',
@@ -6799,7 +6799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `falloutShelter` no estilo Regular.
   ///
-  /// ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fallout-shelter.svg)
+  /// ![fallout-shelter](https://api.iconify.design/ph/fallout-shelter.svg?height=32&color=%23888888)
   static const IconData falloutShelter = IconData(
     0xe9de,
     fontFamily: 'PhosphorRegular',
@@ -6811,7 +6811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fan` no estilo Regular.
   ///
-  /// ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fan.svg)
+  /// ![fan](https://api.iconify.design/ph/fan.svg?height=32&color=%23888888)
   static const IconData fan = IconData(
     0xe9f2,
     fontFamily: 'PhosphorRegular',
@@ -6823,7 +6823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `farm` no estilo Regular.
   ///
-  /// ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/farm.svg)
+  /// ![farm](https://api.iconify.design/ph/farm.svg?height=32&color=%23888888)
   static const IconData farm = IconData(
     0xec70,
     fontFamily: 'PhosphorRegular',
@@ -6835,7 +6835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fastForward` no estilo Regular.
   ///
-  /// ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fast-forward.svg)
+  /// ![fast-forward](https://api.iconify.design/ph/fast-forward.svg?height=32&color=%23888888)
   static const IconData fastForward = IconData(
     0xe6a6,
     fontFamily: 'PhosphorRegular',
@@ -6847,7 +6847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fastForwardCircle` no estilo Regular.
   ///
-  /// ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fast-forward-circle.svg)
+  /// ![fast-forward-circle](https://api.iconify.design/ph/fast-forward-circle.svg?height=32&color=%23888888)
   static const IconData fastForwardCircle = IconData(
     0xe22c,
     fontFamily: 'PhosphorRegular',
@@ -6859,7 +6859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `feather` no estilo Regular.
   ///
-  /// ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/feather.svg)
+  /// ![feather](https://api.iconify.design/ph/feather.svg?height=32&color=%23888888)
   static const IconData feather = IconData(
     0xe9c0,
     fontFamily: 'PhosphorRegular',
@@ -6871,7 +6871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fediverseLogo` no estilo Regular.
   ///
-  /// ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fediverse-logo.svg)
+  /// ![fediverse-logo](https://api.iconify.design/ph/fediverse-logo.svg?height=32&color=%23888888)
   static const IconData fediverseLogo = IconData(
     0xed66,
     fontFamily: 'PhosphorRegular',
@@ -6883,7 +6883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `figmaLogo` no estilo Regular.
   ///
-  /// ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/figma-logo.svg)
+  /// ![figma-logo](https://api.iconify.design/ph/figma-logo.svg?height=32&color=%23888888)
   static const IconData figmaLogo = IconData(
     0xe22e,
     fontFamily: 'PhosphorRegular',
@@ -6895,7 +6895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `file` no estilo Regular.
   ///
-  /// ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file.svg)
+  /// ![file](https://api.iconify.design/ph/file.svg?height=32&color=%23888888)
   static const IconData file = IconData(
     0xe230,
     fontFamily: 'PhosphorRegular',
@@ -6907,7 +6907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileArchive` no estilo Regular.
   ///
-  /// ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-archive.svg)
+  /// ![file-archive](https://api.iconify.design/ph/file-archive.svg?height=32&color=%23888888)
   static const IconData fileArchive = IconData(
     0xeb2a,
     fontFamily: 'PhosphorRegular',
@@ -6919,7 +6919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileArrowDown` no estilo Regular.
   ///
-  /// ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-arrow-down.svg)
+  /// ![file-arrow-down](https://api.iconify.design/ph/file-arrow-down.svg?height=32&color=%23888888)
   static const IconData fileArrowDown = IconData(
     0xe232,
     fontFamily: 'PhosphorRegular',
@@ -6931,7 +6931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileArrowUp` no estilo Regular.
   ///
-  /// ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-arrow-up.svg)
+  /// ![file-arrow-up](https://api.iconify.design/ph/file-arrow-up.svg?height=32&color=%23888888)
   static const IconData fileArrowUp = IconData(
     0xe61e,
     fontFamily: 'PhosphorRegular',
@@ -6943,7 +6943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileAudio` no estilo Regular.
   ///
-  /// ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-audio.svg)
+  /// ![file-audio](https://api.iconify.design/ph/file-audio.svg?height=32&color=%23888888)
   static const IconData fileAudio = IconData(
     0xea20,
     fontFamily: 'PhosphorRegular',
@@ -6955,7 +6955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileC` no estilo Regular.
   ///
-  /// ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-c.svg)
+  /// ![file-c](https://api.iconify.design/ph/file-c.svg?height=32&color=%23888888)
   static const IconData fileC = IconData(
     0xeb32,
     fontFamily: 'PhosphorRegular',
@@ -6967,7 +6967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCSharp` no estilo Regular.
   ///
-  /// ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-c-sharp.svg)
+  /// ![file-c-sharp](https://api.iconify.design/ph/file-c-sharp.svg?height=32&color=%23888888)
   static const IconData fileCSharp = IconData(
     0xeb30,
     fontFamily: 'PhosphorRegular',
@@ -6979,7 +6979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCloud` no estilo Regular.
   ///
-  /// ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-cloud.svg)
+  /// ![file-cloud](https://api.iconify.design/ph/file-cloud.svg?height=32&color=%23888888)
   static const IconData fileCloud = IconData(
     0xe95e,
     fontFamily: 'PhosphorRegular',
@@ -6991,7 +6991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCode` no estilo Regular.
   ///
-  /// ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-code.svg)
+  /// ![file-code](https://api.iconify.design/ph/file-code.svg?height=32&color=%23888888)
   static const IconData fileCode = IconData(
     0xe914,
     fontFamily: 'PhosphorRegular',
@@ -7003,7 +7003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCpp` no estilo Regular.
   ///
-  /// ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-cpp.svg)
+  /// ![file-cpp](https://api.iconify.design/ph/file-cpp.svg?height=32&color=%23888888)
   static const IconData fileCpp = IconData(
     0xeb2e,
     fontFamily: 'PhosphorRegular',
@@ -7015,7 +7015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCss` no estilo Regular.
   ///
-  /// ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-css.svg)
+  /// ![file-css](https://api.iconify.design/ph/file-css.svg?height=32&color=%23888888)
   static const IconData fileCss = IconData(
     0xeb34,
     fontFamily: 'PhosphorRegular',
@@ -7027,7 +7027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCsv` no estilo Regular.
   ///
-  /// ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-csv.svg)
+  /// ![file-csv](https://api.iconify.design/ph/file-csv.svg?height=32&color=%23888888)
   static const IconData fileCsv = IconData(
     0xeb1c,
     fontFamily: 'PhosphorRegular',
@@ -7039,7 +7039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileDashed` no estilo Regular.
   ///
-  /// ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-dashed.svg)
+  /// ![file-dashed](https://api.iconify.design/ph/file-dashed.svg?height=32&color=%23888888)
   static const IconData fileDashed = IconData(
     0xe704,
     fontFamily: 'PhosphorRegular',
@@ -7051,7 +7051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileDoc` no estilo Regular.
   ///
-  /// ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-doc.svg)
+  /// ![file-doc](https://api.iconify.design/ph/file-doc.svg?height=32&color=%23888888)
   static const IconData fileDoc = IconData(
     0xeb1e,
     fontFamily: 'PhosphorRegular',
@@ -7063,7 +7063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileDotted` no estilo Regular.
   ///
-  /// ![file-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-dotted.svg)
+  /// ![file-dotted](https://api.iconify.design/ph/file-dashed.svg?height=32&color=%23888888)
   static const IconData fileDotted = IconData(
     0xe704,
     fontFamily: 'PhosphorRegular',
@@ -7075,7 +7075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileHtml` no estilo Regular.
   ///
-  /// ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-html.svg)
+  /// ![file-html](https://api.iconify.design/ph/file-html.svg?height=32&color=%23888888)
   static const IconData fileHtml = IconData(
     0xeb38,
     fontFamily: 'PhosphorRegular',
@@ -7087,7 +7087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileImage` no estilo Regular.
   ///
-  /// ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-image.svg)
+  /// ![file-image](https://api.iconify.design/ph/file-image.svg?height=32&color=%23888888)
   static const IconData fileImage = IconData(
     0xea24,
     fontFamily: 'PhosphorRegular',
@@ -7099,7 +7099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileIni` no estilo Regular.
   ///
-  /// ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-ini.svg)
+  /// ![file-ini](https://api.iconify.design/ph/file-ini.svg?height=32&color=%23888888)
   static const IconData fileIni = IconData(
     0xeb33,
     fontFamily: 'PhosphorRegular',
@@ -7111,7 +7111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileJpg` no estilo Regular.
   ///
-  /// ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-jpg.svg)
+  /// ![file-jpg](https://api.iconify.design/ph/file-jpg.svg?height=32&color=%23888888)
   static const IconData fileJpg = IconData(
     0xeb1a,
     fontFamily: 'PhosphorRegular',
@@ -7123,7 +7123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileJs` no estilo Regular.
   ///
-  /// ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-js.svg)
+  /// ![file-js](https://api.iconify.design/ph/file-js.svg?height=32&color=%23888888)
   static const IconData fileJs = IconData(
     0xeb24,
     fontFamily: 'PhosphorRegular',
@@ -7135,7 +7135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileJsx` no estilo Regular.
   ///
-  /// ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-jsx.svg)
+  /// ![file-jsx](https://api.iconify.design/ph/file-jsx.svg?height=32&color=%23888888)
   static const IconData fileJsx = IconData(
     0xeb3a,
     fontFamily: 'PhosphorRegular',
@@ -7147,7 +7147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileLock` no estilo Regular.
   ///
-  /// ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-lock.svg)
+  /// ![file-lock](https://api.iconify.design/ph/file-lock.svg?height=32&color=%23888888)
   static const IconData fileLock = IconData(
     0xe95c,
     fontFamily: 'PhosphorRegular',
@@ -7159,7 +7159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileMagnifyingGlass` no estilo Regular.
   ///
-  /// ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-magnifying-glass.svg)
+  /// ![file-magnifying-glass](https://api.iconify.design/ph/file-magnifying-glass.svg?height=32&color=%23888888)
   static const IconData fileMagnifyingGlass = IconData(
     0xe238,
     fontFamily: 'PhosphorRegular',
@@ -7171,7 +7171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileMd` no estilo Regular.
   ///
-  /// ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-md.svg)
+  /// ![file-md](https://api.iconify.design/ph/file-md.svg?height=32&color=%23888888)
   static const IconData fileMd = IconData(
     0xed50,
     fontFamily: 'PhosphorRegular',
@@ -7183,7 +7183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileMinus` no estilo Regular.
   ///
-  /// ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-minus.svg)
+  /// ![file-minus](https://api.iconify.design/ph/file-minus.svg?height=32&color=%23888888)
   static const IconData fileMinus = IconData(
     0xe234,
     fontFamily: 'PhosphorRegular',
@@ -7195,7 +7195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePdf` no estilo Regular.
   ///
-  /// ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-pdf.svg)
+  /// ![file-pdf](https://api.iconify.design/ph/file-pdf.svg?height=32&color=%23888888)
   static const IconData filePdf = IconData(
     0xe702,
     fontFamily: 'PhosphorRegular',
@@ -7207,7 +7207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePlus` no estilo Regular.
   ///
-  /// ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-plus.svg)
+  /// ![file-plus](https://api.iconify.design/ph/file-plus.svg?height=32&color=%23888888)
   static const IconData filePlus = IconData(
     0xe236,
     fontFamily: 'PhosphorRegular',
@@ -7219,7 +7219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePng` no estilo Regular.
   ///
-  /// ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-png.svg)
+  /// ![file-png](https://api.iconify.design/ph/file-png.svg?height=32&color=%23888888)
   static const IconData filePng = IconData(
     0xeb18,
     fontFamily: 'PhosphorRegular',
@@ -7231,7 +7231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePpt` no estilo Regular.
   ///
-  /// ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-ppt.svg)
+  /// ![file-ppt](https://api.iconify.design/ph/file-ppt.svg?height=32&color=%23888888)
   static const IconData filePpt = IconData(
     0xeb20,
     fontFamily: 'PhosphorRegular',
@@ -7243,7 +7243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePy` no estilo Regular.
   ///
-  /// ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-py.svg)
+  /// ![file-py](https://api.iconify.design/ph/file-py.svg?height=32&color=%23888888)
   static const IconData filePy = IconData(
     0xeb2c,
     fontFamily: 'PhosphorRegular',
@@ -7255,7 +7255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileRs` no estilo Regular.
   ///
-  /// ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-rs.svg)
+  /// ![file-rs](https://api.iconify.design/ph/file-rs.svg?height=32&color=%23888888)
   static const IconData fileRs = IconData(
     0xeb28,
     fontFamily: 'PhosphorRegular',
@@ -7267,7 +7267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileSearch` no estilo Regular.
   ///
-  /// ![file-search](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-search.svg)
+  /// ![file-search](https://api.iconify.design/ph/file-magnifying-glass.svg?height=32&color=%23888888)
   static const IconData fileSearch = IconData(
     0xe238,
     fontFamily: 'PhosphorRegular',
@@ -7279,7 +7279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileSql` no estilo Regular.
   ///
-  /// ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-sql.svg)
+  /// ![file-sql](https://api.iconify.design/ph/file-sql.svg?height=32&color=%23888888)
   static const IconData fileSql = IconData(
     0xed4e,
     fontFamily: 'PhosphorRegular',
@@ -7291,7 +7291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileSvg` no estilo Regular.
   ///
-  /// ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-svg.svg)
+  /// ![file-svg](https://api.iconify.design/ph/file-svg.svg?height=32&color=%23888888)
   static const IconData fileSvg = IconData(
     0xed08,
     fontFamily: 'PhosphorRegular',
@@ -7303,7 +7303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileText` no estilo Regular.
   ///
-  /// ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-text.svg)
+  /// ![file-text](https://api.iconify.design/ph/file-text.svg?height=32&color=%23888888)
   static const IconData fileText = IconData(
     0xe23a,
     fontFamily: 'PhosphorRegular',
@@ -7315,7 +7315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileTs` no estilo Regular.
   ///
-  /// ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-ts.svg)
+  /// ![file-ts](https://api.iconify.design/ph/file-ts.svg?height=32&color=%23888888)
   static const IconData fileTs = IconData(
     0xeb26,
     fontFamily: 'PhosphorRegular',
@@ -7327,7 +7327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileTsx` no estilo Regular.
   ///
-  /// ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-tsx.svg)
+  /// ![file-tsx](https://api.iconify.design/ph/file-tsx.svg?height=32&color=%23888888)
   static const IconData fileTsx = IconData(
     0xeb3c,
     fontFamily: 'PhosphorRegular',
@@ -7339,7 +7339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileTxt` no estilo Regular.
   ///
-  /// ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-txt.svg)
+  /// ![file-txt](https://api.iconify.design/ph/file-txt.svg?height=32&color=%23888888)
   static const IconData fileTxt = IconData(
     0xeb35,
     fontFamily: 'PhosphorRegular',
@@ -7351,7 +7351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileVideo` no estilo Regular.
   ///
-  /// ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-video.svg)
+  /// ![file-video](https://api.iconify.design/ph/file-video.svg?height=32&color=%23888888)
   static const IconData fileVideo = IconData(
     0xea22,
     fontFamily: 'PhosphorRegular',
@@ -7363,7 +7363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileVue` no estilo Regular.
   ///
-  /// ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-vue.svg)
+  /// ![file-vue](https://api.iconify.design/ph/file-vue.svg?height=32&color=%23888888)
   static const IconData fileVue = IconData(
     0xeb3e,
     fontFamily: 'PhosphorRegular',
@@ -7375,7 +7375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileX` no estilo Regular.
   ///
-  /// ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-x.svg)
+  /// ![file-x](https://api.iconify.design/ph/file-x.svg?height=32&color=%23888888)
   static const IconData fileX = IconData(
     0xe23c,
     fontFamily: 'PhosphorRegular',
@@ -7387,7 +7387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileXls` no estilo Regular.
   ///
-  /// ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-xls.svg)
+  /// ![file-xls](https://api.iconify.design/ph/file-xls.svg?height=32&color=%23888888)
   static const IconData fileXls = IconData(
     0xeb22,
     fontFamily: 'PhosphorRegular',
@@ -7399,7 +7399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileZip` no estilo Regular.
   ///
-  /// ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/file-zip.svg)
+  /// ![file-zip](https://api.iconify.design/ph/file-zip.svg?height=32&color=%23888888)
   static const IconData fileZip = IconData(
     0xe958,
     fontFamily: 'PhosphorRegular',
@@ -7411,7 +7411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `files` no estilo Regular.
   ///
-  /// ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/files.svg)
+  /// ![files](https://api.iconify.design/ph/files.svg?height=32&color=%23888888)
   static const IconData files = IconData(
     0xe710,
     fontFamily: 'PhosphorRegular',
@@ -7423,7 +7423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmReel` no estilo Regular.
   ///
-  /// ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/film-reel.svg)
+  /// ![film-reel](https://api.iconify.design/ph/film-reel.svg?height=32&color=%23888888)
   static const IconData filmReel = IconData(
     0xe8c0,
     fontFamily: 'PhosphorRegular',
@@ -7435,7 +7435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmScript` no estilo Regular.
   ///
-  /// ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/film-script.svg)
+  /// ![film-script](https://api.iconify.design/ph/film-script.svg?height=32&color=%23888888)
   static const IconData filmScript = IconData(
     0xeb50,
     fontFamily: 'PhosphorRegular',
@@ -7447,7 +7447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmSlate` no estilo Regular.
   ///
-  /// ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/film-slate.svg)
+  /// ![film-slate](https://api.iconify.design/ph/film-slate.svg?height=32&color=%23888888)
   static const IconData filmSlate = IconData(
     0xe8c2,
     fontFamily: 'PhosphorRegular',
@@ -7459,7 +7459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmStrip` no estilo Regular.
   ///
-  /// ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/film-strip.svg)
+  /// ![film-strip](https://api.iconify.design/ph/film-strip.svg?height=32&color=%23888888)
   static const IconData filmStrip = IconData(
     0xe792,
     fontFamily: 'PhosphorRegular',
@@ -7471,7 +7471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fingerprint` no estilo Regular.
   ///
-  /// ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fingerprint.svg)
+  /// ![fingerprint](https://api.iconify.design/ph/fingerprint.svg?height=32&color=%23888888)
   static const IconData fingerprint = IconData(
     0xe23e,
     fontFamily: 'PhosphorRegular',
@@ -7483,7 +7483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fingerprintSimple` no estilo Regular.
   ///
-  /// ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fingerprint-simple.svg)
+  /// ![fingerprint-simple](https://api.iconify.design/ph/fingerprint-simple.svg?height=32&color=%23888888)
   static const IconData fingerprintSimple = IconData(
     0xe240,
     fontFamily: 'PhosphorRegular',
@@ -7495,7 +7495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `finnTheHuman` no estilo Regular.
   ///
-  /// ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/finn-the-human.svg)
+  /// ![finn-the-human](https://api.iconify.design/ph/finn-the-human.svg?height=32&color=%23888888)
   static const IconData finnTheHuman = IconData(
     0xe56c,
     fontFamily: 'PhosphorRegular',
@@ -7507,7 +7507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fire` no estilo Regular.
   ///
-  /// ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fire.svg)
+  /// ![fire](https://api.iconify.design/ph/fire.svg?height=32&color=%23888888)
   static const IconData fire = IconData(
     0xe242,
     fontFamily: 'PhosphorRegular',
@@ -7519,7 +7519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fireExtinguisher` no estilo Regular.
   ///
-  /// ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fire-extinguisher.svg)
+  /// ![fire-extinguisher](https://api.iconify.design/ph/fire-extinguisher.svg?height=32&color=%23888888)
   static const IconData fireExtinguisher = IconData(
     0xe9e8,
     fontFamily: 'PhosphorRegular',
@@ -7531,7 +7531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fireSimple` no estilo Regular.
   ///
-  /// ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fire-simple.svg)
+  /// ![fire-simple](https://api.iconify.design/ph/fire-simple.svg?height=32&color=%23888888)
   static const IconData fireSimple = IconData(
     0xe620,
     fontFamily: 'PhosphorRegular',
@@ -7543,7 +7543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fireTruck` no estilo Regular.
   ///
-  /// ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fire-truck.svg)
+  /// ![fire-truck](https://api.iconify.design/ph/fire-truck.svg?height=32&color=%23888888)
   static const IconData fireTruck = IconData(
     0xe574,
     fontFamily: 'PhosphorRegular',
@@ -7555,7 +7555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `firstAid` no estilo Regular.
   ///
-  /// ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/first-aid.svg)
+  /// ![first-aid](https://api.iconify.design/ph/first-aid.svg?height=32&color=%23888888)
   static const IconData firstAid = IconData(
     0xe56e,
     fontFamily: 'PhosphorRegular',
@@ -7567,7 +7567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `firstAidKit` no estilo Regular.
   ///
-  /// ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/first-aid-kit.svg)
+  /// ![first-aid-kit](https://api.iconify.design/ph/first-aid-kit.svg?height=32&color=%23888888)
   static const IconData firstAidKit = IconData(
     0xe570,
     fontFamily: 'PhosphorRegular',
@@ -7579,7 +7579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fish` no estilo Regular.
   ///
-  /// ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fish.svg)
+  /// ![fish](https://api.iconify.design/ph/fish.svg?height=32&color=%23888888)
   static const IconData fish = IconData(
     0xe728,
     fontFamily: 'PhosphorRegular',
@@ -7591,7 +7591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fishSimple` no estilo Regular.
   ///
-  /// ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fish-simple.svg)
+  /// ![fish-simple](https://api.iconify.design/ph/fish-simple.svg?height=32&color=%23888888)
   static const IconData fishSimple = IconData(
     0xe72a,
     fontFamily: 'PhosphorRegular',
@@ -7603,7 +7603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flag` no estilo Regular.
   ///
-  /// ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flag.svg)
+  /// ![flag](https://api.iconify.design/ph/flag.svg?height=32&color=%23888888)
   static const IconData flag = IconData(
     0xe244,
     fontFamily: 'PhosphorRegular',
@@ -7615,7 +7615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagBanner` no estilo Regular.
   ///
-  /// ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flag-banner.svg)
+  /// ![flag-banner](https://api.iconify.design/ph/flag-banner.svg?height=32&color=%23888888)
   static const IconData flagBanner = IconData(
     0xe622,
     fontFamily: 'PhosphorRegular',
@@ -7627,7 +7627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagBannerFold` no estilo Regular.
   ///
-  /// ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flag-banner-fold.svg)
+  /// ![flag-banner-fold](https://api.iconify.design/ph/flag-banner-fold.svg?height=32&color=%23888888)
   static const IconData flagBannerFold = IconData(
     0xecf2,
     fontFamily: 'PhosphorRegular',
@@ -7639,7 +7639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagCheckered` no estilo Regular.
   ///
-  /// ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flag-checkered.svg)
+  /// ![flag-checkered](https://api.iconify.design/ph/flag-checkered.svg?height=32&color=%23888888)
   static const IconData flagCheckered = IconData(
     0xea38,
     fontFamily: 'PhosphorRegular',
@@ -7651,7 +7651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagPennant` no estilo Regular.
   ///
-  /// ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flag-pennant.svg)
+  /// ![flag-pennant](https://api.iconify.design/ph/flag-pennant.svg?height=32&color=%23888888)
   static const IconData flagPennant = IconData(
     0xecf0,
     fontFamily: 'PhosphorRegular',
@@ -7663,7 +7663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flame` no estilo Regular.
   ///
-  /// ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flame.svg)
+  /// ![flame](https://api.iconify.design/ph/flame.svg?height=32&color=%23888888)
   static const IconData flame = IconData(
     0xe624,
     fontFamily: 'PhosphorRegular',
@@ -7675,7 +7675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flashlight` no estilo Regular.
   ///
-  /// ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flashlight.svg)
+  /// ![flashlight](https://api.iconify.design/ph/flashlight.svg?height=32&color=%23888888)
   static const IconData flashlight = IconData(
     0xe246,
     fontFamily: 'PhosphorRegular',
@@ -7687,7 +7687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flask` no estilo Regular.
   ///
-  /// ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flask.svg)
+  /// ![flask](https://api.iconify.design/ph/flask.svg?height=32&color=%23888888)
   static const IconData flask = IconData(
     0xe79e,
     fontFamily: 'PhosphorRegular',
@@ -7699,7 +7699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flipHorizontal` no estilo Regular.
   ///
-  /// ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flip-horizontal.svg)
+  /// ![flip-horizontal](https://api.iconify.design/ph/flip-horizontal.svg?height=32&color=%23888888)
   static const IconData flipHorizontal = IconData(
     0xed6a,
     fontFamily: 'PhosphorRegular',
@@ -7711,7 +7711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flipVertical` no estilo Regular.
   ///
-  /// ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flip-vertical.svg)
+  /// ![flip-vertical](https://api.iconify.design/ph/flip-vertical.svg?height=32&color=%23888888)
   static const IconData flipVertical = IconData(
     0xed6c,
     fontFamily: 'PhosphorRegular',
@@ -7723,7 +7723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `floppyDisk` no estilo Regular.
   ///
-  /// ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/floppy-disk.svg)
+  /// ![floppy-disk](https://api.iconify.design/ph/floppy-disk.svg?height=32&color=%23888888)
   static const IconData floppyDisk = IconData(
     0xe248,
     fontFamily: 'PhosphorRegular',
@@ -7735,7 +7735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `floppyDiskBack` no estilo Regular.
   ///
-  /// ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/floppy-disk-back.svg)
+  /// ![floppy-disk-back](https://api.iconify.design/ph/floppy-disk-back.svg?height=32&color=%23888888)
   static const IconData floppyDiskBack = IconData(
     0xeaf4,
     fontFamily: 'PhosphorRegular',
@@ -7747,7 +7747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flowArrow` no estilo Regular.
   ///
-  /// ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flow-arrow.svg)
+  /// ![flow-arrow](https://api.iconify.design/ph/flow-arrow.svg?height=32&color=%23888888)
   static const IconData flowArrow = IconData(
     0xe6ec,
     fontFamily: 'PhosphorRegular',
@@ -7759,7 +7759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flower` no estilo Regular.
   ///
-  /// ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flower.svg)
+  /// ![flower](https://api.iconify.design/ph/flower.svg?height=32&color=%23888888)
   static const IconData flower = IconData(
     0xe75e,
     fontFamily: 'PhosphorRegular',
@@ -7771,7 +7771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flowerLotus` no estilo Regular.
   ///
-  /// ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flower-lotus.svg)
+  /// ![flower-lotus](https://api.iconify.design/ph/flower-lotus.svg?height=32&color=%23888888)
   static const IconData flowerLotus = IconData(
     0xe6cc,
     fontFamily: 'PhosphorRegular',
@@ -7783,7 +7783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flowerTulip` no estilo Regular.
   ///
-  /// ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flower-tulip.svg)
+  /// ![flower-tulip](https://api.iconify.design/ph/flower-tulip.svg?height=32&color=%23888888)
   static const IconData flowerTulip = IconData(
     0xeacc,
     fontFamily: 'PhosphorRegular',
@@ -7795,7 +7795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flyingSaucer` no estilo Regular.
   ///
-  /// ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/flying-saucer.svg)
+  /// ![flying-saucer](https://api.iconify.design/ph/flying-saucer.svg?height=32&color=%23888888)
   static const IconData flyingSaucer = IconData(
     0xeb4a,
     fontFamily: 'PhosphorRegular',
@@ -7807,7 +7807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folder` no estilo Regular.
   ///
-  /// ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder.svg)
+  /// ![folder](https://api.iconify.design/ph/folder.svg?height=32&color=%23888888)
   static const IconData folder = IconData(
     0xe24a,
     fontFamily: 'PhosphorRegular',
@@ -7819,7 +7819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderDashed` no estilo Regular.
   ///
-  /// ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-dashed.svg)
+  /// ![folder-dashed](https://api.iconify.design/ph/folder-dashed.svg?height=32&color=%23888888)
   static const IconData folderDashed = IconData(
     0xe8f8,
     fontFamily: 'PhosphorRegular',
@@ -7831,7 +7831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderDotted` no estilo Regular.
   ///
-  /// ![folder-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-dotted.svg)
+  /// ![folder-dotted](https://api.iconify.design/ph/folder-dashed.svg?height=32&color=%23888888)
   static const IconData folderDotted = IconData(
     0xe8f8,
     fontFamily: 'PhosphorRegular',
@@ -7843,7 +7843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderLock` no estilo Regular.
   ///
-  /// ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-lock.svg)
+  /// ![folder-lock](https://api.iconify.design/ph/folder-lock.svg?height=32&color=%23888888)
   static const IconData folderLock = IconData(
     0xea3c,
     fontFamily: 'PhosphorRegular',
@@ -7855,7 +7855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderMinus` no estilo Regular.
   ///
-  /// ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-minus.svg)
+  /// ![folder-minus](https://api.iconify.design/ph/folder-minus.svg?height=32&color=%23888888)
   static const IconData folderMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorRegular',
@@ -7867,7 +7867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotch` no estilo Regular.
   ///
-  /// ![folder-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-notch.svg)
+  /// ![folder-notch](https://api.iconify.design/ph/folder.svg?height=32&color=%23888888)
   static const IconData folderNotch = IconData(
     0xe24a,
     fontFamily: 'PhosphorRegular',
@@ -7879,7 +7879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotchMinus` no estilo Regular.
   ///
-  /// ![folder-notch-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-notch-minus.svg)
+  /// ![folder-notch-minus](https://api.iconify.design/ph/folder-minus.svg?height=32&color=%23888888)
   static const IconData folderNotchMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorRegular',
@@ -7891,7 +7891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotchOpen` no estilo Regular.
   ///
-  /// ![folder-notch-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-notch-open.svg)
+  /// ![folder-notch-open](https://api.iconify.design/ph/folder-open.svg?height=32&color=%23888888)
   static const IconData folderNotchOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorRegular',
@@ -7903,7 +7903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotchPlus` no estilo Regular.
   ///
-  /// ![folder-notch-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-notch-plus.svg)
+  /// ![folder-notch-plus](https://api.iconify.design/ph/folder-plus.svg?height=32&color=%23888888)
   static const IconData folderNotchPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorRegular',
@@ -7915,7 +7915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderOpen` no estilo Regular.
   ///
-  /// ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-open.svg)
+  /// ![folder-open](https://api.iconify.design/ph/folder-open.svg?height=32&color=%23888888)
   static const IconData folderOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorRegular',
@@ -7927,7 +7927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderPlus` no estilo Regular.
   ///
-  /// ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-plus.svg)
+  /// ![folder-plus](https://api.iconify.design/ph/folder-plus.svg?height=32&color=%23888888)
   static const IconData folderPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorRegular',
@@ -7939,7 +7939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimple` no estilo Regular.
   ///
-  /// ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple.svg)
+  /// ![folder-simple](https://api.iconify.design/ph/folder-simple.svg?height=32&color=%23888888)
   static const IconData folderSimple = IconData(
     0xe25a,
     fontFamily: 'PhosphorRegular',
@@ -7951,7 +7951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleDashed` no estilo Regular.
   ///
-  /// ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple-dashed.svg)
+  /// ![folder-simple-dashed](https://api.iconify.design/ph/folder-simple-dashed.svg?height=32&color=%23888888)
   static const IconData folderSimpleDashed = IconData(
     0xec2a,
     fontFamily: 'PhosphorRegular',
@@ -7963,7 +7963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleDotted` no estilo Regular.
   ///
-  /// ![folder-simple-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple-dotted.svg)
+  /// ![folder-simple-dotted](https://api.iconify.design/ph/folder-simple-dashed.svg?height=32&color=%23888888)
   static const IconData folderSimpleDotted = IconData(
     0xec2a,
     fontFamily: 'PhosphorRegular',
@@ -7975,7 +7975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleLock` no estilo Regular.
   ///
-  /// ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple-lock.svg)
+  /// ![folder-simple-lock](https://api.iconify.design/ph/folder-simple-lock.svg?height=32&color=%23888888)
   static const IconData folderSimpleLock = IconData(
     0xeb5e,
     fontFamily: 'PhosphorRegular',
@@ -7987,7 +7987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleMinus` no estilo Regular.
   ///
-  /// ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple-minus.svg)
+  /// ![folder-simple-minus](https://api.iconify.design/ph/folder-simple-minus.svg?height=32&color=%23888888)
   static const IconData folderSimpleMinus = IconData(
     0xe25c,
     fontFamily: 'PhosphorRegular',
@@ -7999,7 +7999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimplePlus` no estilo Regular.
   ///
-  /// ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple-plus.svg)
+  /// ![folder-simple-plus](https://api.iconify.design/ph/folder-simple-plus.svg?height=32&color=%23888888)
   static const IconData folderSimplePlus = IconData(
     0xe25e,
     fontFamily: 'PhosphorRegular',
@@ -8011,7 +8011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleStar` no estilo Regular.
   ///
-  /// ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple-star.svg)
+  /// ![folder-simple-star](https://api.iconify.design/ph/folder-simple-star.svg?height=32&color=%23888888)
   static const IconData folderSimpleStar = IconData(
     0xec2e,
     fontFamily: 'PhosphorRegular',
@@ -8023,7 +8023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleUser` no estilo Regular.
   ///
-  /// ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-simple-user.svg)
+  /// ![folder-simple-user](https://api.iconify.design/ph/folder-simple-user.svg?height=32&color=%23888888)
   static const IconData folderSimpleUser = IconData(
     0xeb60,
     fontFamily: 'PhosphorRegular',
@@ -8035,7 +8035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderStar` no estilo Regular.
   ///
-  /// ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-star.svg)
+  /// ![folder-star](https://api.iconify.design/ph/folder-star.svg?height=32&color=%23888888)
   static const IconData folderStar = IconData(
     0xea86,
     fontFamily: 'PhosphorRegular',
@@ -8047,7 +8047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderUser` no estilo Regular.
   ///
-  /// ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folder-user.svg)
+  /// ![folder-user](https://api.iconify.design/ph/folder-user.svg?height=32&color=%23888888)
   static const IconData folderUser = IconData(
     0xeb46,
     fontFamily: 'PhosphorRegular',
@@ -8059,7 +8059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folders` no estilo Regular.
   ///
-  /// ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/folders.svg)
+  /// ![folders](https://api.iconify.design/ph/folders.svg?height=32&color=%23888888)
   static const IconData folders = IconData(
     0xe260,
     fontFamily: 'PhosphorRegular',
@@ -8071,7 +8071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `football` no estilo Regular.
   ///
-  /// ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/football.svg)
+  /// ![football](https://api.iconify.design/ph/football.svg?height=32&color=%23888888)
   static const IconData football = IconData(
     0xe718,
     fontFamily: 'PhosphorRegular',
@@ -8083,7 +8083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `footballHelmet` no estilo Regular.
   ///
-  /// ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/football-helmet.svg)
+  /// ![football-helmet](https://api.iconify.design/ph/football-helmet.svg?height=32&color=%23888888)
   static const IconData footballHelmet = IconData(
     0xee4c,
     fontFamily: 'PhosphorRegular',
@@ -8095,7 +8095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `footprints` no estilo Regular.
   ///
-  /// ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/footprints.svg)
+  /// ![footprints](https://api.iconify.design/ph/footprints.svg?height=32&color=%23888888)
   static const IconData footprints = IconData(
     0xea88,
     fontFamily: 'PhosphorRegular',
@@ -8107,7 +8107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `forkKnife` no estilo Regular.
   ///
-  /// ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/fork-knife.svg)
+  /// ![fork-knife](https://api.iconify.design/ph/fork-knife.svg?height=32&color=%23888888)
   static const IconData forkKnife = IconData(
     0xe262,
     fontFamily: 'PhosphorRegular',
@@ -8119,7 +8119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fourK` no estilo Regular.
   ///
-  /// ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/four-k.svg)
+  /// ![four-k](https://api.iconify.design/ph/four-k.svg?height=32&color=%23888888)
   static const IconData fourK = IconData(
     0xea5c,
     fontFamily: 'PhosphorRegular',
@@ -8131,7 +8131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `frameCorners` no estilo Regular.
   ///
-  /// ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/frame-corners.svg)
+  /// ![frame-corners](https://api.iconify.design/ph/frame-corners.svg?height=32&color=%23888888)
   static const IconData frameCorners = IconData(
     0xe626,
     fontFamily: 'PhosphorRegular',
@@ -8143,7 +8143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `framerLogo` no estilo Regular.
   ///
-  /// ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/framer-logo.svg)
+  /// ![framer-logo](https://api.iconify.design/ph/framer-logo.svg?height=32&color=%23888888)
   static const IconData framerLogo = IconData(
     0xe264,
     fontFamily: 'PhosphorRegular',
@@ -8155,7 +8155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `function` no estilo Regular.
   ///
-  /// ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/function.svg)
+  /// ![function](https://api.iconify.design/ph/function.svg?height=32&color=%23888888)
   static const IconData function = IconData(
     0xebe4,
     fontFamily: 'PhosphorRegular',
@@ -8167,7 +8167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnel` no estilo Regular.
   ///
-  /// ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/funnel.svg)
+  /// ![funnel](https://api.iconify.design/ph/funnel.svg?height=32&color=%23888888)
   static const IconData funnel = IconData(
     0xe266,
     fontFamily: 'PhosphorRegular',
@@ -8179,7 +8179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnelSimple` no estilo Regular.
   ///
-  /// ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/funnel-simple.svg)
+  /// ![funnel-simple](https://api.iconify.design/ph/funnel-simple.svg?height=32&color=%23888888)
   static const IconData funnelSimple = IconData(
     0xe268,
     fontFamily: 'PhosphorRegular',
@@ -8191,7 +8191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnelSimpleX` no estilo Regular.
   ///
-  /// ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/funnel-simple-x.svg)
+  /// ![funnel-simple-x](https://api.iconify.design/ph/funnel-simple-x.svg?height=32&color=%23888888)
   static const IconData funnelSimpleX = IconData(
     0xe26a,
     fontFamily: 'PhosphorRegular',
@@ -8203,7 +8203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnelX` no estilo Regular.
   ///
-  /// ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/funnel-x.svg)
+  /// ![funnel-x](https://api.iconify.design/ph/funnel-x.svg?height=32&color=%23888888)
   static const IconData funnelX = IconData(
     0xe26c,
     fontFamily: 'PhosphorRegular',
@@ -8215,7 +8215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gameController` no estilo Regular.
   ///
-  /// ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/game-controller.svg)
+  /// ![game-controller](https://api.iconify.design/ph/game-controller.svg?height=32&color=%23888888)
   static const IconData gameController = IconData(
     0xe26e,
     fontFamily: 'PhosphorRegular',
@@ -8227,7 +8227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `garage` no estilo Regular.
   ///
-  /// ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/garage.svg)
+  /// ![garage](https://api.iconify.design/ph/garage.svg?height=32&color=%23888888)
   static const IconData garage = IconData(
     0xecd6,
     fontFamily: 'PhosphorRegular',
@@ -8239,7 +8239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gasCan` no estilo Regular.
   ///
-  /// ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gas-can.svg)
+  /// ![gas-can](https://api.iconify.design/ph/gas-can.svg?height=32&color=%23888888)
   static const IconData gasCan = IconData(
     0xe8ce,
     fontFamily: 'PhosphorRegular',
@@ -8251,7 +8251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gasPump` no estilo Regular.
   ///
-  /// ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gas-pump.svg)
+  /// ![gas-pump](https://api.iconify.design/ph/gas-pump.svg?height=32&color=%23888888)
   static const IconData gasPump = IconData(
     0xe768,
     fontFamily: 'PhosphorRegular',
@@ -8263,7 +8263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gauge` no estilo Regular.
   ///
-  /// ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gauge.svg)
+  /// ![gauge](https://api.iconify.design/ph/gauge.svg?height=32&color=%23888888)
   static const IconData gauge = IconData(
     0xe628,
     fontFamily: 'PhosphorRegular',
@@ -8275,7 +8275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gavel` no estilo Regular.
   ///
-  /// ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gavel.svg)
+  /// ![gavel](https://api.iconify.design/ph/gavel.svg?height=32&color=%23888888)
   static const IconData gavel = IconData(
     0xea32,
     fontFamily: 'PhosphorRegular',
@@ -8287,7 +8287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gear` no estilo Regular.
   ///
-  /// ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gear.svg)
+  /// ![gear](https://api.iconify.design/ph/gear.svg?height=32&color=%23888888)
   static const IconData gear = IconData(
     0xe270,
     fontFamily: 'PhosphorRegular',
@@ -8299,7 +8299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gearFine` no estilo Regular.
   ///
-  /// ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gear-fine.svg)
+  /// ![gear-fine](https://api.iconify.design/ph/gear-fine.svg?height=32&color=%23888888)
   static const IconData gearFine = IconData(
     0xe87c,
     fontFamily: 'PhosphorRegular',
@@ -8311,7 +8311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gearSix` no estilo Regular.
   ///
-  /// ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gear-six.svg)
+  /// ![gear-six](https://api.iconify.design/ph/gear-six.svg?height=32&color=%23888888)
   static const IconData gearSix = IconData(
     0xe272,
     fontFamily: 'PhosphorRegular',
@@ -8323,7 +8323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderFemale` no estilo Regular.
   ///
-  /// ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gender-female.svg)
+  /// ![gender-female](https://api.iconify.design/ph/gender-female.svg?height=32&color=%23888888)
   static const IconData genderFemale = IconData(
     0xe6e0,
     fontFamily: 'PhosphorRegular',
@@ -8335,7 +8335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderIntersex` no estilo Regular.
   ///
-  /// ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gender-intersex.svg)
+  /// ![gender-intersex](https://api.iconify.design/ph/gender-intersex.svg?height=32&color=%23888888)
   static const IconData genderIntersex = IconData(
     0xe6e6,
     fontFamily: 'PhosphorRegular',
@@ -8347,7 +8347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderMale` no estilo Regular.
   ///
-  /// ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gender-male.svg)
+  /// ![gender-male](https://api.iconify.design/ph/gender-male.svg?height=32&color=%23888888)
   static const IconData genderMale = IconData(
     0xe6e2,
     fontFamily: 'PhosphorRegular',
@@ -8359,7 +8359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderNeuter` no estilo Regular.
   ///
-  /// ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gender-neuter.svg)
+  /// ![gender-neuter](https://api.iconify.design/ph/gender-neuter.svg?height=32&color=%23888888)
   static const IconData genderNeuter = IconData(
     0xe6ea,
     fontFamily: 'PhosphorRegular',
@@ -8371,7 +8371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderNonbinary` no estilo Regular.
   ///
-  /// ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gender-nonbinary.svg)
+  /// ![gender-nonbinary](https://api.iconify.design/ph/gender-nonbinary.svg?height=32&color=%23888888)
   static const IconData genderNonbinary = IconData(
     0xe6e4,
     fontFamily: 'PhosphorRegular',
@@ -8383,7 +8383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderTransgender` no estilo Regular.
   ///
-  /// ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gender-transgender.svg)
+  /// ![gender-transgender](https://api.iconify.design/ph/gender-transgender.svg?height=32&color=%23888888)
   static const IconData genderTransgender = IconData(
     0xe6e8,
     fontFamily: 'PhosphorRegular',
@@ -8395,7 +8395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ghost` no estilo Regular.
   ///
-  /// ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ghost.svg)
+  /// ![ghost](https://api.iconify.design/ph/ghost.svg?height=32&color=%23888888)
   static const IconData ghost = IconData(
     0xe62a,
     fontFamily: 'PhosphorRegular',
@@ -8407,7 +8407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gif` no estilo Regular.
   ///
-  /// ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gif.svg)
+  /// ![gif](https://api.iconify.design/ph/gif.svg?height=32&color=%23888888)
   static const IconData gif = IconData(
     0xe274,
     fontFamily: 'PhosphorRegular',
@@ -8419,7 +8419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gift` no estilo Regular.
   ///
-  /// ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gift.svg)
+  /// ![gift](https://api.iconify.design/ph/gift.svg?height=32&color=%23888888)
   static const IconData gift = IconData(
     0xe276,
     fontFamily: 'PhosphorRegular',
@@ -8431,7 +8431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitBranch` no estilo Regular.
   ///
-  /// ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/git-branch.svg)
+  /// ![git-branch](https://api.iconify.design/ph/git-branch.svg?height=32&color=%23888888)
   static const IconData gitBranch = IconData(
     0xe278,
     fontFamily: 'PhosphorRegular',
@@ -8443,7 +8443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitCommit` no estilo Regular.
   ///
-  /// ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/git-commit.svg)
+  /// ![git-commit](https://api.iconify.design/ph/git-commit.svg?height=32&color=%23888888)
   static const IconData gitCommit = IconData(
     0xe27a,
     fontFamily: 'PhosphorRegular',
@@ -8455,7 +8455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitDiff` no estilo Regular.
   ///
-  /// ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/git-diff.svg)
+  /// ![git-diff](https://api.iconify.design/ph/git-diff.svg?height=32&color=%23888888)
   static const IconData gitDiff = IconData(
     0xe27c,
     fontFamily: 'PhosphorRegular',
@@ -8467,7 +8467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitFork` no estilo Regular.
   ///
-  /// ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/git-fork.svg)
+  /// ![git-fork](https://api.iconify.design/ph/git-fork.svg?height=32&color=%23888888)
   static const IconData gitFork = IconData(
     0xe27e,
     fontFamily: 'PhosphorRegular',
@@ -8479,7 +8479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitMerge` no estilo Regular.
   ///
-  /// ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/git-merge.svg)
+  /// ![git-merge](https://api.iconify.design/ph/git-merge.svg?height=32&color=%23888888)
   static const IconData gitMerge = IconData(
     0xe280,
     fontFamily: 'PhosphorRegular',
@@ -8491,7 +8491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitPullRequest` no estilo Regular.
   ///
-  /// ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/git-pull-request.svg)
+  /// ![git-pull-request](https://api.iconify.design/ph/git-pull-request.svg?height=32&color=%23888888)
   static const IconData gitPullRequest = IconData(
     0xe282,
     fontFamily: 'PhosphorRegular',
@@ -8503,7 +8503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `githubLogo` no estilo Regular.
   ///
-  /// ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/github-logo.svg)
+  /// ![github-logo](https://api.iconify.design/ph/github-logo.svg?height=32&color=%23888888)
   static const IconData githubLogo = IconData(
     0xe576,
     fontFamily: 'PhosphorRegular',
@@ -8515,7 +8515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitlabLogo` no estilo Regular.
   ///
-  /// ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gitlab-logo.svg)
+  /// ![gitlab-logo](https://api.iconify.design/ph/gitlab-logo.svg?height=32&color=%23888888)
   static const IconData gitlabLogo = IconData(
     0xe694,
     fontFamily: 'PhosphorRegular',
@@ -8527,7 +8527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitlabLogoSimple` no estilo Regular.
   ///
-  /// ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gitlab-logo-simple.svg)
+  /// ![gitlab-logo-simple](https://api.iconify.design/ph/gitlab-logo-simple.svg?height=32&color=%23888888)
   static const IconData gitlabLogoSimple = IconData(
     0xe696,
     fontFamily: 'PhosphorRegular',
@@ -8539,7 +8539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globe` no estilo Regular.
   ///
-  /// ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe.svg)
+  /// ![globe](https://api.iconify.design/ph/globe.svg?height=32&color=%23888888)
   static const IconData globe = IconData(
     0xe288,
     fontFamily: 'PhosphorRegular',
@@ -8551,7 +8551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeHemisphereEast` no estilo Regular.
   ///
-  /// ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe-hemisphere-east.svg)
+  /// ![globe-hemisphere-east](https://api.iconify.design/ph/globe-hemisphere-east.svg?height=32&color=%23888888)
   static const IconData globeHemisphereEast = IconData(
     0xe28a,
     fontFamily: 'PhosphorRegular',
@@ -8563,7 +8563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeHemisphereWest` no estilo Regular.
   ///
-  /// ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe-hemisphere-west.svg)
+  /// ![globe-hemisphere-west](https://api.iconify.design/ph/globe-hemisphere-west.svg?height=32&color=%23888888)
   static const IconData globeHemisphereWest = IconData(
     0xe28c,
     fontFamily: 'PhosphorRegular',
@@ -8575,7 +8575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeSimple` no estilo Regular.
   ///
-  /// ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe-simple.svg)
+  /// ![globe-simple](https://api.iconify.design/ph/globe-simple.svg?height=32&color=%23888888)
   static const IconData globeSimple = IconData(
     0xe28e,
     fontFamily: 'PhosphorRegular',
@@ -8587,7 +8587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeSimpleX` no estilo Regular.
   ///
-  /// ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe-simple-x.svg)
+  /// ![globe-simple-x](https://api.iconify.design/ph/globe-simple-x.svg?height=32&color=%23888888)
   static const IconData globeSimpleX = IconData(
     0xe284,
     fontFamily: 'PhosphorRegular',
@@ -8599,7 +8599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeStand` no estilo Regular.
   ///
-  /// ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe-stand.svg)
+  /// ![globe-stand](https://api.iconify.design/ph/globe-stand.svg?height=32&color=%23888888)
   static const IconData globeStand = IconData(
     0xe290,
     fontFamily: 'PhosphorRegular',
@@ -8611,7 +8611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeX` no estilo Regular.
   ///
-  /// ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/globe-x.svg)
+  /// ![globe-x](https://api.iconify.design/ph/globe-x.svg?height=32&color=%23888888)
   static const IconData globeX = IconData(
     0xe286,
     fontFamily: 'PhosphorRegular',
@@ -8623,7 +8623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `goggles` no estilo Regular.
   ///
-  /// ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/goggles.svg)
+  /// ![goggles](https://api.iconify.design/ph/goggles.svg?height=32&color=%23888888)
   static const IconData goggles = IconData(
     0xecb4,
     fontFamily: 'PhosphorRegular',
@@ -8635,7 +8635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `golf` no estilo Regular.
   ///
-  /// ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/golf.svg)
+  /// ![golf](https://api.iconify.design/ph/golf.svg?height=32&color=%23888888)
   static const IconData golf = IconData(
     0xea3e,
     fontFamily: 'PhosphorRegular',
@@ -8647,7 +8647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `goodreadsLogo` no estilo Regular.
   ///
-  /// ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/goodreads-logo.svg)
+  /// ![goodreads-logo](https://api.iconify.design/ph/goodreads-logo.svg?height=32&color=%23888888)
   static const IconData goodreadsLogo = IconData(
     0xed10,
     fontFamily: 'PhosphorRegular',
@@ -8659,7 +8659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleCardboardLogo` no estilo Regular.
   ///
-  /// ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/google-cardboard-logo.svg)
+  /// ![google-cardboard-logo](https://api.iconify.design/ph/google-cardboard-logo.svg?height=32&color=%23888888)
   static const IconData googleCardboardLogo = IconData(
     0xe7b6,
     fontFamily: 'PhosphorRegular',
@@ -8671,7 +8671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleChromeLogo` no estilo Regular.
   ///
-  /// ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/google-chrome-logo.svg)
+  /// ![google-chrome-logo](https://api.iconify.design/ph/google-chrome-logo.svg?height=32&color=%23888888)
   static const IconData googleChromeLogo = IconData(
     0xe976,
     fontFamily: 'PhosphorRegular',
@@ -8683,7 +8683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleDriveLogo` no estilo Regular.
   ///
-  /// ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/google-drive-logo.svg)
+  /// ![google-drive-logo](https://api.iconify.design/ph/google-drive-logo.svg?height=32&color=%23888888)
   static const IconData googleDriveLogo = IconData(
     0xe8f6,
     fontFamily: 'PhosphorRegular',
@@ -8695,7 +8695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleLogo` no estilo Regular.
   ///
-  /// ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/google-logo.svg)
+  /// ![google-logo](https://api.iconify.design/ph/google-logo.svg?height=32&color=%23888888)
   static const IconData googleLogo = IconData(
     0xe292,
     fontFamily: 'PhosphorRegular',
@@ -8707,7 +8707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googlePhotosLogo` no estilo Regular.
   ///
-  /// ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/google-photos-logo.svg)
+  /// ![google-photos-logo](https://api.iconify.design/ph/google-photos-logo.svg?height=32&color=%23888888)
   static const IconData googlePhotosLogo = IconData(
     0xeb92,
     fontFamily: 'PhosphorRegular',
@@ -8719,7 +8719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googlePlayLogo` no estilo Regular.
   ///
-  /// ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/google-play-logo.svg)
+  /// ![google-play-logo](https://api.iconify.design/ph/google-play-logo.svg?height=32&color=%23888888)
   static const IconData googlePlayLogo = IconData(
     0xe294,
     fontFamily: 'PhosphorRegular',
@@ -8731,7 +8731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googlePodcastsLogo` no estilo Regular.
   ///
-  /// ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/google-podcasts-logo.svg)
+  /// ![google-podcasts-logo](https://api.iconify.design/ph/google-podcasts-logo.svg?height=32&color=%23888888)
   static const IconData googlePodcastsLogo = IconData(
     0xeb94,
     fontFamily: 'PhosphorRegular',
@@ -8743,7 +8743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gps` no estilo Regular.
   ///
-  /// ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gps.svg)
+  /// ![gps](https://api.iconify.design/ph/gps.svg?height=32&color=%23888888)
   static const IconData gps = IconData(
     0xedd8,
     fontFamily: 'PhosphorRegular',
@@ -8755,7 +8755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gpsFix` no estilo Regular.
   ///
-  /// ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gps-fix.svg)
+  /// ![gps-fix](https://api.iconify.design/ph/gps-fix.svg?height=32&color=%23888888)
   static const IconData gpsFix = IconData(
     0xedd6,
     fontFamily: 'PhosphorRegular',
@@ -8767,7 +8767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gpsSlash` no estilo Regular.
   ///
-  /// ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gps-slash.svg)
+  /// ![gps-slash](https://api.iconify.design/ph/gps-slash.svg?height=32&color=%23888888)
   static const IconData gpsSlash = IconData(
     0xedd4,
     fontFamily: 'PhosphorRegular',
@@ -8779,7 +8779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gradient` no estilo Regular.
   ///
-  /// ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/gradient.svg)
+  /// ![gradient](https://api.iconify.design/ph/gradient.svg?height=32&color=%23888888)
   static const IconData gradient = IconData(
     0xeb42,
     fontFamily: 'PhosphorRegular',
@@ -8791,7 +8791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `graduationCap` no estilo Regular.
   ///
-  /// ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/graduation-cap.svg)
+  /// ![graduation-cap](https://api.iconify.design/ph/graduation-cap.svg?height=32&color=%23888888)
   static const IconData graduationCap = IconData(
     0xe62c,
     fontFamily: 'PhosphorRegular',
@@ -8803,7 +8803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `grains` no estilo Regular.
   ///
-  /// ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/grains.svg)
+  /// ![grains](https://api.iconify.design/ph/grains.svg?height=32&color=%23888888)
   static const IconData grains = IconData(
     0xec68,
     fontFamily: 'PhosphorRegular',
@@ -8815,7 +8815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `grainsSlash` no estilo Regular.
   ///
-  /// ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/grains-slash.svg)
+  /// ![grains-slash](https://api.iconify.design/ph/grains-slash.svg?height=32&color=%23888888)
   static const IconData grainsSlash = IconData(
     0xec6a,
     fontFamily: 'PhosphorRegular',
@@ -8827,7 +8827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `graph` no estilo Regular.
   ///
-  /// ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/graph.svg)
+  /// ![graph](https://api.iconify.design/ph/graph.svg?height=32&color=%23888888)
   static const IconData graph = IconData(
     0xeb58,
     fontFamily: 'PhosphorRegular',
@@ -8839,7 +8839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `graphicsCard` no estilo Regular.
   ///
-  /// ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/graphics-card.svg)
+  /// ![graphics-card](https://api.iconify.design/ph/graphics-card.svg?height=32&color=%23888888)
   static const IconData graphicsCard = IconData(
     0xe612,
     fontFamily: 'PhosphorRegular',
@@ -8851,7 +8851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `greaterThan` no estilo Regular.
   ///
-  /// ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/greater-than.svg)
+  /// ![greater-than](https://api.iconify.design/ph/greater-than.svg?height=32&color=%23888888)
   static const IconData greaterThan = IconData(
     0xedc4,
     fontFamily: 'PhosphorRegular',
@@ -8863,7 +8863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `greaterThanOrEqual` no estilo Regular.
   ///
-  /// ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/greater-than-or-equal.svg)
+  /// ![greater-than-or-equal](https://api.iconify.design/ph/greater-than-or-equal.svg?height=32&color=%23888888)
   static const IconData greaterThanOrEqual = IconData(
     0xeda2,
     fontFamily: 'PhosphorRegular',
@@ -8875,7 +8875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gridFour` no estilo Regular.
   ///
-  /// ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/grid-four.svg)
+  /// ![grid-four](https://api.iconify.design/ph/grid-four.svg?height=32&color=%23888888)
   static const IconData gridFour = IconData(
     0xe296,
     fontFamily: 'PhosphorRegular',
@@ -8887,7 +8887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gridNine` no estilo Regular.
   ///
-  /// ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/grid-nine.svg)
+  /// ![grid-nine](https://api.iconify.design/ph/grid-nine.svg?height=32&color=%23888888)
   static const IconData gridNine = IconData(
     0xec8c,
     fontFamily: 'PhosphorRegular',
@@ -8899,7 +8899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `guitar` no estilo Regular.
   ///
-  /// ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/guitar.svg)
+  /// ![guitar](https://api.iconify.design/ph/guitar.svg?height=32&color=%23888888)
   static const IconData guitar = IconData(
     0xea8a,
     fontFamily: 'PhosphorRegular',
@@ -8911,7 +8911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hairDryer` no estilo Regular.
   ///
-  /// ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hair-dryer.svg)
+  /// ![hair-dryer](https://api.iconify.design/ph/hair-dryer.svg?height=32&color=%23888888)
   static const IconData hairDryer = IconData(
     0xea66,
     fontFamily: 'PhosphorRegular',
@@ -8923,7 +8923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hamburger` no estilo Regular.
   ///
-  /// ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hamburger.svg)
+  /// ![hamburger](https://api.iconify.design/ph/hamburger.svg?height=32&color=%23888888)
   static const IconData hamburger = IconData(
     0xe790,
     fontFamily: 'PhosphorRegular',
@@ -8935,7 +8935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hammer` no estilo Regular.
   ///
-  /// ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hammer.svg)
+  /// ![hammer](https://api.iconify.design/ph/hammer.svg?height=32&color=%23888888)
   static const IconData hammer = IconData(
     0xe80e,
     fontFamily: 'PhosphorRegular',
@@ -8947,7 +8947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hand` no estilo Regular.
   ///
-  /// ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand.svg)
+  /// ![hand](https://api.iconify.design/ph/hand.svg?height=32&color=%23888888)
   static const IconData hand = IconData(
     0xe298,
     fontFamily: 'PhosphorRegular',
@@ -8959,7 +8959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handArrowDown` no estilo Regular.
   ///
-  /// ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-arrow-down.svg)
+  /// ![hand-arrow-down](https://api.iconify.design/ph/hand-arrow-down.svg?height=32&color=%23888888)
   static const IconData handArrowDown = IconData(
     0xea4e,
     fontFamily: 'PhosphorRegular',
@@ -8971,7 +8971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handArrowUp` no estilo Regular.
   ///
-  /// ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-arrow-up.svg)
+  /// ![hand-arrow-up](https://api.iconify.design/ph/hand-arrow-up.svg?height=32&color=%23888888)
   static const IconData handArrowUp = IconData(
     0xee5a,
     fontFamily: 'PhosphorRegular',
@@ -8983,7 +8983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handCoins` no estilo Regular.
   ///
-  /// ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-coins.svg)
+  /// ![hand-coins](https://api.iconify.design/ph/hand-coins.svg?height=32&color=%23888888)
   static const IconData handCoins = IconData(
     0xea8c,
     fontFamily: 'PhosphorRegular',
@@ -8995,7 +8995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handDeposit` no estilo Regular.
   ///
-  /// ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-deposit.svg)
+  /// ![hand-deposit](https://api.iconify.design/ph/hand-deposit.svg?height=32&color=%23888888)
   static const IconData handDeposit = IconData(
     0xee82,
     fontFamily: 'PhosphorRegular',
@@ -9007,7 +9007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handEye` no estilo Regular.
   ///
-  /// ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-eye.svg)
+  /// ![hand-eye](https://api.iconify.design/ph/hand-eye.svg?height=32&color=%23888888)
   static const IconData handEye = IconData(
     0xea4c,
     fontFamily: 'PhosphorRegular',
@@ -9019,7 +9019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handFist` no estilo Regular.
   ///
-  /// ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-fist.svg)
+  /// ![hand-fist](https://api.iconify.design/ph/hand-fist.svg?height=32&color=%23888888)
   static const IconData handFist = IconData(
     0xe57a,
     fontFamily: 'PhosphorRegular',
@@ -9031,7 +9031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handGrabbing` no estilo Regular.
   ///
-  /// ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-grabbing.svg)
+  /// ![hand-grabbing](https://api.iconify.design/ph/hand-grabbing.svg?height=32&color=%23888888)
   static const IconData handGrabbing = IconData(
     0xe57c,
     fontFamily: 'PhosphorRegular',
@@ -9043,7 +9043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handHeart` no estilo Regular.
   ///
-  /// ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-heart.svg)
+  /// ![hand-heart](https://api.iconify.design/ph/hand-heart.svg?height=32&color=%23888888)
   static const IconData handHeart = IconData(
     0xe810,
     fontFamily: 'PhosphorRegular',
@@ -9055,7 +9055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handPalm` no estilo Regular.
   ///
-  /// ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-palm.svg)
+  /// ![hand-palm](https://api.iconify.design/ph/hand-palm.svg?height=32&color=%23888888)
   static const IconData handPalm = IconData(
     0xe57e,
     fontFamily: 'PhosphorRegular',
@@ -9067,7 +9067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handPeace` no estilo Regular.
   ///
-  /// ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-peace.svg)
+  /// ![hand-peace](https://api.iconify.design/ph/hand-peace.svg?height=32&color=%23888888)
   static const IconData handPeace = IconData(
     0xe7cc,
     fontFamily: 'PhosphorRegular',
@@ -9079,7 +9079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handPointing` no estilo Regular.
   ///
-  /// ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-pointing.svg)
+  /// ![hand-pointing](https://api.iconify.design/ph/hand-pointing.svg?height=32&color=%23888888)
   static const IconData handPointing = IconData(
     0xe29a,
     fontFamily: 'PhosphorRegular',
@@ -9091,7 +9091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handSoap` no estilo Regular.
   ///
-  /// ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-soap.svg)
+  /// ![hand-soap](https://api.iconify.design/ph/hand-soap.svg?height=32&color=%23888888)
   static const IconData handSoap = IconData(
     0xe630,
     fontFamily: 'PhosphorRegular',
@@ -9103,7 +9103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handSwipeLeft` no estilo Regular.
   ///
-  /// ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-swipe-left.svg)
+  /// ![hand-swipe-left](https://api.iconify.design/ph/hand-swipe-left.svg?height=32&color=%23888888)
   static const IconData handSwipeLeft = IconData(
     0xec94,
     fontFamily: 'PhosphorRegular',
@@ -9115,7 +9115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handSwipeRight` no estilo Regular.
   ///
-  /// ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-swipe-right.svg)
+  /// ![hand-swipe-right](https://api.iconify.design/ph/hand-swipe-right.svg?height=32&color=%23888888)
   static const IconData handSwipeRight = IconData(
     0xec92,
     fontFamily: 'PhosphorRegular',
@@ -9127,7 +9127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handTap` no estilo Regular.
   ///
-  /// ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-tap.svg)
+  /// ![hand-tap](https://api.iconify.design/ph/hand-tap.svg?height=32&color=%23888888)
   static const IconData handTap = IconData(
     0xec90,
     fontFamily: 'PhosphorRegular',
@@ -9139,7 +9139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handWaving` no estilo Regular.
   ///
-  /// ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-waving.svg)
+  /// ![hand-waving](https://api.iconify.design/ph/hand-waving.svg?height=32&color=%23888888)
   static const IconData handWaving = IconData(
     0xe580,
     fontFamily: 'PhosphorRegular',
@@ -9151,7 +9151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handWithdraw` no estilo Regular.
   ///
-  /// ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hand-withdraw.svg)
+  /// ![hand-withdraw](https://api.iconify.design/ph/hand-withdraw.svg?height=32&color=%23888888)
   static const IconData handWithdraw = IconData(
     0xee80,
     fontFamily: 'PhosphorRegular',
@@ -9163,7 +9163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handbag` no estilo Regular.
   ///
-  /// ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/handbag.svg)
+  /// ![handbag](https://api.iconify.design/ph/handbag.svg?height=32&color=%23888888)
   static const IconData handbag = IconData(
     0xe29c,
     fontFamily: 'PhosphorRegular',
@@ -9175,7 +9175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handbagSimple` no estilo Regular.
   ///
-  /// ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/handbag-simple.svg)
+  /// ![handbag-simple](https://api.iconify.design/ph/handbag-simple.svg?height=32&color=%23888888)
   static const IconData handbagSimple = IconData(
     0xe62e,
     fontFamily: 'PhosphorRegular',
@@ -9187,7 +9187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handsClapping` no estilo Regular.
   ///
-  /// ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hands-clapping.svg)
+  /// ![hands-clapping](https://api.iconify.design/ph/hands-clapping.svg?height=32&color=%23888888)
   static const IconData handsClapping = IconData(
     0xe6a0,
     fontFamily: 'PhosphorRegular',
@@ -9199,7 +9199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handsPraying` no estilo Regular.
   ///
-  /// ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hands-praying.svg)
+  /// ![hands-praying](https://api.iconify.design/ph/hands-praying.svg?height=32&color=%23888888)
   static const IconData handsPraying = IconData(
     0xecc8,
     fontFamily: 'PhosphorRegular',
@@ -9211,7 +9211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handshake` no estilo Regular.
   ///
-  /// ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/handshake.svg)
+  /// ![handshake](https://api.iconify.design/ph/handshake.svg?height=32&color=%23888888)
   static const IconData handshake = IconData(
     0xe582,
     fontFamily: 'PhosphorRegular',
@@ -9223,7 +9223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hardDrive` no estilo Regular.
   ///
-  /// ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hard-drive.svg)
+  /// ![hard-drive](https://api.iconify.design/ph/hard-drive.svg?height=32&color=%23888888)
   static const IconData hardDrive = IconData(
     0xe29e,
     fontFamily: 'PhosphorRegular',
@@ -9235,7 +9235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hardDrives` no estilo Regular.
   ///
-  /// ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hard-drives.svg)
+  /// ![hard-drives](https://api.iconify.design/ph/hard-drives.svg?height=32&color=%23888888)
   static const IconData hardDrives = IconData(
     0xe2a0,
     fontFamily: 'PhosphorRegular',
@@ -9247,7 +9247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hardHat` no estilo Regular.
   ///
-  /// ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hard-hat.svg)
+  /// ![hard-hat](https://api.iconify.design/ph/hard-hat.svg?height=32&color=%23888888)
   static const IconData hardHat = IconData(
     0xed46,
     fontFamily: 'PhosphorRegular',
@@ -9259,7 +9259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hash` no estilo Regular.
   ///
-  /// ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hash.svg)
+  /// ![hash](https://api.iconify.design/ph/hash.svg?height=32&color=%23888888)
   static const IconData hash = IconData(
     0xe2a2,
     fontFamily: 'PhosphorRegular',
@@ -9271,7 +9271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hashStraight` no estilo Regular.
   ///
-  /// ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hash-straight.svg)
+  /// ![hash-straight](https://api.iconify.design/ph/hash-straight.svg?height=32&color=%23888888)
   static const IconData hashStraight = IconData(
     0xe2a4,
     fontFamily: 'PhosphorRegular',
@@ -9283,7 +9283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headCircuit` no estilo Regular.
   ///
-  /// ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/head-circuit.svg)
+  /// ![head-circuit](https://api.iconify.design/ph/head-circuit.svg?height=32&color=%23888888)
   static const IconData headCircuit = IconData(
     0xe7d4,
     fontFamily: 'PhosphorRegular',
@@ -9295,7 +9295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headlights` no estilo Regular.
   ///
-  /// ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/headlights.svg)
+  /// ![headlights](https://api.iconify.design/ph/headlights.svg?height=32&color=%23888888)
   static const IconData headlights = IconData(
     0xe6fe,
     fontFamily: 'PhosphorRegular',
@@ -9307,7 +9307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headphones` no estilo Regular.
   ///
-  /// ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/headphones.svg)
+  /// ![headphones](https://api.iconify.design/ph/headphones.svg?height=32&color=%23888888)
   static const IconData headphones = IconData(
     0xe2a6,
     fontFamily: 'PhosphorRegular',
@@ -9319,7 +9319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headset` no estilo Regular.
   ///
-  /// ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/headset.svg)
+  /// ![headset](https://api.iconify.design/ph/headset.svg?height=32&color=%23888888)
   static const IconData headset = IconData(
     0xe584,
     fontFamily: 'PhosphorRegular',
@@ -9331,7 +9331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heart` no estilo Regular.
   ///
-  /// ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/heart.svg)
+  /// ![heart](https://api.iconify.design/ph/heart.svg?height=32&color=%23888888)
   static const IconData heart = IconData(
     0xe2a8,
     fontFamily: 'PhosphorRegular',
@@ -9343,7 +9343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartBreak` no estilo Regular.
   ///
-  /// ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/heart-break.svg)
+  /// ![heart-break](https://api.iconify.design/ph/heart-break.svg?height=32&color=%23888888)
   static const IconData heartBreak = IconData(
     0xebe8,
     fontFamily: 'PhosphorRegular',
@@ -9355,7 +9355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartHalf` no estilo Regular.
   ///
-  /// ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/heart-half.svg)
+  /// ![heart-half](https://api.iconify.design/ph/heart-half.svg?height=32&color=%23888888)
   static const IconData heartHalf = IconData(
     0xec48,
     fontFamily: 'PhosphorRegular',
@@ -9367,7 +9367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartStraight` no estilo Regular.
   ///
-  /// ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/heart-straight.svg)
+  /// ![heart-straight](https://api.iconify.design/ph/heart-straight.svg?height=32&color=%23888888)
   static const IconData heartStraight = IconData(
     0xe2aa,
     fontFamily: 'PhosphorRegular',
@@ -9379,7 +9379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartStraightBreak` no estilo Regular.
   ///
-  /// ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/heart-straight-break.svg)
+  /// ![heart-straight-break](https://api.iconify.design/ph/heart-straight-break.svg?height=32&color=%23888888)
   static const IconData heartStraightBreak = IconData(
     0xeb98,
     fontFamily: 'PhosphorRegular',
@@ -9391,7 +9391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartbeat` no estilo Regular.
   ///
-  /// ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/heartbeat.svg)
+  /// ![heartbeat](https://api.iconify.design/ph/heartbeat.svg?height=32&color=%23888888)
   static const IconData heartbeat = IconData(
     0xe2ac,
     fontFamily: 'PhosphorRegular',
@@ -9403,7 +9403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hexagon` no estilo Regular.
   ///
-  /// ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hexagon.svg)
+  /// ![hexagon](https://api.iconify.design/ph/hexagon.svg?height=32&color=%23888888)
   static const IconData hexagon = IconData(
     0xe2ae,
     fontFamily: 'PhosphorRegular',
@@ -9415,7 +9415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highDefinition` no estilo Regular.
   ///
-  /// ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/high-definition.svg)
+  /// ![high-definition](https://api.iconify.design/ph/high-definition.svg?height=32&color=%23888888)
   static const IconData highDefinition = IconData(
     0xea8e,
     fontFamily: 'PhosphorRegular',
@@ -9427,7 +9427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highHeel` no estilo Regular.
   ///
-  /// ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/high-heel.svg)
+  /// ![high-heel](https://api.iconify.design/ph/high-heel.svg?height=32&color=%23888888)
   static const IconData highHeel = IconData(
     0xe8e8,
     fontFamily: 'PhosphorRegular',
@@ -9439,7 +9439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highlighter` no estilo Regular.
   ///
-  /// ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/highlighter.svg)
+  /// ![highlighter](https://api.iconify.design/ph/highlighter.svg?height=32&color=%23888888)
   static const IconData highlighter = IconData(
     0xec76,
     fontFamily: 'PhosphorRegular',
@@ -9451,7 +9451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highlighterCircle` no estilo Regular.
   ///
-  /// ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/highlighter-circle.svg)
+  /// ![highlighter-circle](https://api.iconify.design/ph/highlighter-circle.svg?height=32&color=%23888888)
   static const IconData highlighterCircle = IconData(
     0xe632,
     fontFamily: 'PhosphorRegular',
@@ -9463,7 +9463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hockey` no estilo Regular.
   ///
-  /// ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hockey.svg)
+  /// ![hockey](https://api.iconify.design/ph/hockey.svg?height=32&color=%23888888)
   static const IconData hockey = IconData(
     0xec86,
     fontFamily: 'PhosphorRegular',
@@ -9475,7 +9475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hoodie` no estilo Regular.
   ///
-  /// ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hoodie.svg)
+  /// ![hoodie](https://api.iconify.design/ph/hoodie.svg?height=32&color=%23888888)
   static const IconData hoodie = IconData(
     0xecd0,
     fontFamily: 'PhosphorRegular',
@@ -9487,7 +9487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `horse` no estilo Regular.
   ///
-  /// ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/horse.svg)
+  /// ![horse](https://api.iconify.design/ph/horse.svg?height=32&color=%23888888)
   static const IconData horse = IconData(
     0xe2b0,
     fontFamily: 'PhosphorRegular',
@@ -9499,7 +9499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hospital` no estilo Regular.
   ///
-  /// ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hospital.svg)
+  /// ![hospital](https://api.iconify.design/ph/hospital.svg?height=32&color=%23888888)
   static const IconData hospital = IconData(
     0xe844,
     fontFamily: 'PhosphorRegular',
@@ -9511,7 +9511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglass` no estilo Regular.
   ///
-  /// ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass.svg)
+  /// ![hourglass](https://api.iconify.design/ph/hourglass.svg?height=32&color=%23888888)
   static const IconData hourglass = IconData(
     0xe2b2,
     fontFamily: 'PhosphorRegular',
@@ -9523,7 +9523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassHigh` no estilo Regular.
   ///
-  /// ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass-high.svg)
+  /// ![hourglass-high](https://api.iconify.design/ph/hourglass-high.svg?height=32&color=%23888888)
   static const IconData hourglassHigh = IconData(
     0xe2b4,
     fontFamily: 'PhosphorRegular',
@@ -9535,7 +9535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassLow` no estilo Regular.
   ///
-  /// ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass-low.svg)
+  /// ![hourglass-low](https://api.iconify.design/ph/hourglass-low.svg?height=32&color=%23888888)
   static const IconData hourglassLow = IconData(
     0xe2b6,
     fontFamily: 'PhosphorRegular',
@@ -9547,7 +9547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassMedium` no estilo Regular.
   ///
-  /// ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass-medium.svg)
+  /// ![hourglass-medium](https://api.iconify.design/ph/hourglass-medium.svg?height=32&color=%23888888)
   static const IconData hourglassMedium = IconData(
     0xe2b8,
     fontFamily: 'PhosphorRegular',
@@ -9559,7 +9559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimple` no estilo Regular.
   ///
-  /// ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass-simple.svg)
+  /// ![hourglass-simple](https://api.iconify.design/ph/hourglass-simple.svg?height=32&color=%23888888)
   static const IconData hourglassSimple = IconData(
     0xe2ba,
     fontFamily: 'PhosphorRegular',
@@ -9571,7 +9571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimpleHigh` no estilo Regular.
   ///
-  /// ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass-simple-high.svg)
+  /// ![hourglass-simple-high](https://api.iconify.design/ph/hourglass-simple-high.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleHigh = IconData(
     0xe2bc,
     fontFamily: 'PhosphorRegular',
@@ -9583,7 +9583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimpleLow` no estilo Regular.
   ///
-  /// ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass-simple-low.svg)
+  /// ![hourglass-simple-low](https://api.iconify.design/ph/hourglass-simple-low.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleLow = IconData(
     0xe2be,
     fontFamily: 'PhosphorRegular',
@@ -9595,7 +9595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimpleMedium` no estilo Regular.
   ///
-  /// ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hourglass-simple-medium.svg)
+  /// ![hourglass-simple-medium](https://api.iconify.design/ph/hourglass-simple-medium.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleMedium = IconData(
     0xe2c0,
     fontFamily: 'PhosphorRegular',
@@ -9607,7 +9607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `house` no estilo Regular.
   ///
-  /// ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/house.svg)
+  /// ![house](https://api.iconify.design/ph/house.svg?height=32&color=%23888888)
   static const IconData house = IconData(
     0xe2c2,
     fontFamily: 'PhosphorRegular',
@@ -9619,7 +9619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `houseLine` no estilo Regular.
   ///
-  /// ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/house-line.svg)
+  /// ![house-line](https://api.iconify.design/ph/house-line.svg?height=32&color=%23888888)
   static const IconData houseLine = IconData(
     0xe2c4,
     fontFamily: 'PhosphorRegular',
@@ -9631,7 +9631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `houseSimple` no estilo Regular.
   ///
-  /// ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/house-simple.svg)
+  /// ![house-simple](https://api.iconify.design/ph/house-simple.svg?height=32&color=%23888888)
   static const IconData houseSimple = IconData(
     0xe2c6,
     fontFamily: 'PhosphorRegular',
@@ -9643,7 +9643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hurricane` no estilo Regular.
   ///
-  /// ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/hurricane.svg)
+  /// ![hurricane](https://api.iconify.design/ph/hurricane.svg?height=32&color=%23888888)
   static const IconData hurricane = IconData(
     0xe88e,
     fontFamily: 'PhosphorRegular',
@@ -9655,7 +9655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `iceCream` no estilo Regular.
   ///
-  /// ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ice-cream.svg)
+  /// ![ice-cream](https://api.iconify.design/ph/ice-cream.svg?height=32&color=%23888888)
   static const IconData iceCream = IconData(
     0xe804,
     fontFamily: 'PhosphorRegular',
@@ -9667,7 +9667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `identificationBadge` no estilo Regular.
   ///
-  /// ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/identification-badge.svg)
+  /// ![identification-badge](https://api.iconify.design/ph/identification-badge.svg?height=32&color=%23888888)
   static const IconData identificationBadge = IconData(
     0xe6f6,
     fontFamily: 'PhosphorRegular',
@@ -9679,7 +9679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `identificationCard` no estilo Regular.
   ///
-  /// ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/identification-card.svg)
+  /// ![identification-card](https://api.iconify.design/ph/identification-card.svg?height=32&color=%23888888)
   static const IconData identificationCard = IconData(
     0xe2c8,
     fontFamily: 'PhosphorRegular',
@@ -9691,7 +9691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `image` no estilo Regular.
   ///
-  /// ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/image.svg)
+  /// ![image](https://api.iconify.design/ph/image.svg?height=32&color=%23888888)
   static const IconData image = IconData(
     0xe2ca,
     fontFamily: 'PhosphorRegular',
@@ -9703,7 +9703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `imageBroken` no estilo Regular.
   ///
-  /// ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/image-broken.svg)
+  /// ![image-broken](https://api.iconify.design/ph/image-broken.svg?height=32&color=%23888888)
   static const IconData imageBroken = IconData(
     0xe7a8,
     fontFamily: 'PhosphorRegular',
@@ -9715,7 +9715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `imageSquare` no estilo Regular.
   ///
-  /// ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/image-square.svg)
+  /// ![image-square](https://api.iconify.design/ph/image-square.svg?height=32&color=%23888888)
   static const IconData imageSquare = IconData(
     0xe2cc,
     fontFamily: 'PhosphorRegular',
@@ -9727,7 +9727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `images` no estilo Regular.
   ///
-  /// ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/images.svg)
+  /// ![images](https://api.iconify.design/ph/images.svg?height=32&color=%23888888)
   static const IconData images = IconData(
     0xe836,
     fontFamily: 'PhosphorRegular',
@@ -9739,7 +9739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `imagesSquare` no estilo Regular.
   ///
-  /// ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/images-square.svg)
+  /// ![images-square](https://api.iconify.design/ph/images-square.svg?height=32&color=%23888888)
   static const IconData imagesSquare = IconData(
     0xe834,
     fontFamily: 'PhosphorRegular',
@@ -9751,7 +9751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `infinity` no estilo Regular.
   ///
-  /// ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/infinity.svg)
+  /// ![infinity](https://api.iconify.design/ph/infinity.svg?height=32&color=%23888888)
   static const IconData infinity = IconData(
     0xe634,
     fontFamily: 'PhosphorRegular',
@@ -9763,7 +9763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `info` no estilo Regular.
   ///
-  /// ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/info.svg)
+  /// ![info](https://api.iconify.design/ph/info.svg?height=32&color=%23888888)
   static const IconData info = IconData(
     0xe2ce,
     fontFamily: 'PhosphorRegular',
@@ -9775,7 +9775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `instagramLogo` no estilo Regular.
   ///
-  /// ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/instagram-logo.svg)
+  /// ![instagram-logo](https://api.iconify.design/ph/instagram-logo.svg?height=32&color=%23888888)
   static const IconData instagramLogo = IconData(
     0xe2d0,
     fontFamily: 'PhosphorRegular',
@@ -9787,7 +9787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersect` no estilo Regular.
   ///
-  /// ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/intersect.svg)
+  /// ![intersect](https://api.iconify.design/ph/intersect.svg?height=32&color=%23888888)
   static const IconData intersect = IconData(
     0xe2d2,
     fontFamily: 'PhosphorRegular',
@@ -9799,7 +9799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersectSquare` no estilo Regular.
   ///
-  /// ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/intersect-square.svg)
+  /// ![intersect-square](https://api.iconify.design/ph/intersect-square.svg?height=32&color=%23888888)
   static const IconData intersectSquare = IconData(
     0xe87a,
     fontFamily: 'PhosphorRegular',
@@ -9811,7 +9811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersectThree` no estilo Regular.
   ///
-  /// ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/intersect-three.svg)
+  /// ![intersect-three](https://api.iconify.design/ph/intersect-three.svg?height=32&color=%23888888)
   static const IconData intersectThree = IconData(
     0xecc4,
     fontFamily: 'PhosphorRegular',
@@ -9823,7 +9823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersection` no estilo Regular.
   ///
-  /// ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/intersection.svg)
+  /// ![intersection](https://api.iconify.design/ph/intersection.svg?height=32&color=%23888888)
   static const IconData intersection = IconData(
     0xedba,
     fontFamily: 'PhosphorRegular',
@@ -9835,7 +9835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `invoice` no estilo Regular.
   ///
-  /// ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/invoice.svg)
+  /// ![invoice](https://api.iconify.design/ph/invoice.svg?height=32&color=%23888888)
   static const IconData invoice = IconData(
     0xee42,
     fontFamily: 'PhosphorRegular',
@@ -9847,7 +9847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `island` no estilo Regular.
   ///
-  /// ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/island.svg)
+  /// ![island](https://api.iconify.design/ph/island.svg?height=32&color=%23888888)
   static const IconData island = IconData(
     0xee06,
     fontFamily: 'PhosphorRegular',
@@ -9859,7 +9859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `jar` no estilo Regular.
   ///
-  /// ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/jar.svg)
+  /// ![jar](https://api.iconify.design/ph/jar.svg?height=32&color=%23888888)
   static const IconData jar = IconData(
     0xe7e0,
     fontFamily: 'PhosphorRegular',
@@ -9871,7 +9871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `jarLabel` no estilo Regular.
   ///
-  /// ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/jar-label.svg)
+  /// ![jar-label](https://api.iconify.design/ph/jar-label.svg?height=32&color=%23888888)
   static const IconData jarLabel = IconData(
     0xe7e1,
     fontFamily: 'PhosphorRegular',
@@ -9883,7 +9883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `jeep` no estilo Regular.
   ///
-  /// ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/jeep.svg)
+  /// ![jeep](https://api.iconify.design/ph/jeep.svg?height=32&color=%23888888)
   static const IconData jeep = IconData(
     0xe2d4,
     fontFamily: 'PhosphorRegular',
@@ -9895,7 +9895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `joystick` no estilo Regular.
   ///
-  /// ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/joystick.svg)
+  /// ![joystick](https://api.iconify.design/ph/joystick.svg?height=32&color=%23888888)
   static const IconData joystick = IconData(
     0xea5e,
     fontFamily: 'PhosphorRegular',
@@ -9907,7 +9907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `kanban` no estilo Regular.
   ///
-  /// ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/kanban.svg)
+  /// ![kanban](https://api.iconify.design/ph/kanban.svg?height=32&color=%23888888)
   static const IconData kanban = IconData(
     0xeb54,
     fontFamily: 'PhosphorRegular',
@@ -9919,7 +9919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `key` no estilo Regular.
   ///
-  /// ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/key.svg)
+  /// ![key](https://api.iconify.design/ph/key.svg?height=32&color=%23888888)
   static const IconData key = IconData(
     0xe2d6,
     fontFamily: 'PhosphorRegular',
@@ -9931,7 +9931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `keyReturn` no estilo Regular.
   ///
-  /// ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/key-return.svg)
+  /// ![key-return](https://api.iconify.design/ph/key-return.svg?height=32&color=%23888888)
   static const IconData keyReturn = IconData(
     0xe782,
     fontFamily: 'PhosphorRegular',
@@ -9943,7 +9943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `keyboard` no estilo Regular.
   ///
-  /// ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/keyboard.svg)
+  /// ![keyboard](https://api.iconify.design/ph/keyboard.svg?height=32&color=%23888888)
   static const IconData keyboard = IconData(
     0xe2d8,
     fontFamily: 'PhosphorRegular',
@@ -9955,7 +9955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `keyhole` no estilo Regular.
   ///
-  /// ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/keyhole.svg)
+  /// ![keyhole](https://api.iconify.design/ph/keyhole.svg?height=32&color=%23888888)
   static const IconData keyhole = IconData(
     0xea78,
     fontFamily: 'PhosphorRegular',
@@ -9967,7 +9967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `knife` no estilo Regular.
   ///
-  /// ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/knife.svg)
+  /// ![knife](https://api.iconify.design/ph/knife.svg?height=32&color=%23888888)
   static const IconData knife = IconData(
     0xe636,
     fontFamily: 'PhosphorRegular',
@@ -9979,7 +9979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ladder` no estilo Regular.
   ///
-  /// ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ladder.svg)
+  /// ![ladder](https://api.iconify.design/ph/ladder.svg?height=32&color=%23888888)
   static const IconData ladder = IconData(
     0xe9e4,
     fontFamily: 'PhosphorRegular',
@@ -9991,7 +9991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ladderSimple` no estilo Regular.
   ///
-  /// ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ladder-simple.svg)
+  /// ![ladder-simple](https://api.iconify.design/ph/ladder-simple.svg?height=32&color=%23888888)
   static const IconData ladderSimple = IconData(
     0xec26,
     fontFamily: 'PhosphorRegular',
@@ -10003,7 +10003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lamp` no estilo Regular.
   ///
-  /// ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lamp.svg)
+  /// ![lamp](https://api.iconify.design/ph/lamp.svg?height=32&color=%23888888)
   static const IconData lamp = IconData(
     0xe638,
     fontFamily: 'PhosphorRegular',
@@ -10015,7 +10015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lampPendant` no estilo Regular.
   ///
-  /// ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lamp-pendant.svg)
+  /// ![lamp-pendant](https://api.iconify.design/ph/lamp-pendant.svg?height=32&color=%23888888)
   static const IconData lampPendant = IconData(
     0xee2e,
     fontFamily: 'PhosphorRegular',
@@ -10027,7 +10027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `laptop` no estilo Regular.
   ///
-  /// ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/laptop.svg)
+  /// ![laptop](https://api.iconify.design/ph/laptop.svg?height=32&color=%23888888)
   static const IconData laptop = IconData(
     0xe586,
     fontFamily: 'PhosphorRegular',
@@ -10039,7 +10039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lasso` no estilo Regular.
   ///
-  /// ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lasso.svg)
+  /// ![lasso](https://api.iconify.design/ph/lasso.svg?height=32&color=%23888888)
   static const IconData lasso = IconData(
     0xedc6,
     fontFamily: 'PhosphorRegular',
@@ -10051,7 +10051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lastfmLogo` no estilo Regular.
   ///
-  /// ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lastfm-logo.svg)
+  /// ![lastfm-logo](https://api.iconify.design/ph/lastfm-logo.svg?height=32&color=%23888888)
   static const IconData lastfmLogo = IconData(
     0xe842,
     fontFamily: 'PhosphorRegular',
@@ -10063,7 +10063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `layout` no estilo Regular.
   ///
-  /// ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/layout.svg)
+  /// ![layout](https://api.iconify.design/ph/layout.svg?height=32&color=%23888888)
   static const IconData layout = IconData(
     0xe6d6,
     fontFamily: 'PhosphorRegular',
@@ -10075,7 +10075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `leaf` no estilo Regular.
   ///
-  /// ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/leaf.svg)
+  /// ![leaf](https://api.iconify.design/ph/leaf.svg?height=32&color=%23888888)
   static const IconData leaf = IconData(
     0xe2da,
     fontFamily: 'PhosphorRegular',
@@ -10087,7 +10087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lectern` no estilo Regular.
   ///
-  /// ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lectern.svg)
+  /// ![lectern](https://api.iconify.design/ph/lectern.svg?height=32&color=%23888888)
   static const IconData lectern = IconData(
     0xe95a,
     fontFamily: 'PhosphorRegular',
@@ -10099,7 +10099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lego` no estilo Regular.
   ///
-  /// ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lego.svg)
+  /// ![lego](https://api.iconify.design/ph/lego.svg?height=32&color=%23888888)
   static const IconData lego = IconData(
     0xe8c6,
     fontFamily: 'PhosphorRegular',
@@ -10111,7 +10111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `legoSmiley` no estilo Regular.
   ///
-  /// ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lego-smiley.svg)
+  /// ![lego-smiley](https://api.iconify.design/ph/lego-smiley.svg?height=32&color=%23888888)
   static const IconData legoSmiley = IconData(
     0xe8c7,
     fontFamily: 'PhosphorRegular',
@@ -10123,7 +10123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lemniscate` no estilo Regular.
   ///
-  /// ![lemniscate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lemniscate.svg)
+  /// ![lemniscate](https://api.iconify.design/ph/infinity.svg?height=32&color=%23888888)
   static const IconData lemniscate = IconData(
     0xe634,
     fontFamily: 'PhosphorRegular',
@@ -10135,7 +10135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lessThan` no estilo Regular.
   ///
-  /// ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/less-than.svg)
+  /// ![less-than](https://api.iconify.design/ph/less-than.svg?height=32&color=%23888888)
   static const IconData lessThan = IconData(
     0xedac,
     fontFamily: 'PhosphorRegular',
@@ -10147,7 +10147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lessThanOrEqual` no estilo Regular.
   ///
-  /// ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/less-than-or-equal.svg)
+  /// ![less-than-or-equal](https://api.iconify.design/ph/less-than-or-equal.svg?height=32&color=%23888888)
   static const IconData lessThanOrEqual = IconData(
     0xeda4,
     fontFamily: 'PhosphorRegular',
@@ -10159,7 +10159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `letterCircleH` no estilo Regular.
   ///
-  /// ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/letter-circle-h.svg)
+  /// ![letter-circle-h](https://api.iconify.design/ph/letter-circle-h.svg?height=32&color=%23888888)
   static const IconData letterCircleH = IconData(
     0xebf8,
     fontFamily: 'PhosphorRegular',
@@ -10171,7 +10171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `letterCircleP` no estilo Regular.
   ///
-  /// ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/letter-circle-p.svg)
+  /// ![letter-circle-p](https://api.iconify.design/ph/letter-circle-p.svg?height=32&color=%23888888)
   static const IconData letterCircleP = IconData(
     0xec08,
     fontFamily: 'PhosphorRegular',
@@ -10183,7 +10183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `letterCircleV` no estilo Regular.
   ///
-  /// ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/letter-circle-v.svg)
+  /// ![letter-circle-v](https://api.iconify.design/ph/letter-circle-v.svg?height=32&color=%23888888)
   static const IconData letterCircleV = IconData(
     0xec14,
     fontFamily: 'PhosphorRegular',
@@ -10195,7 +10195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lifebuoy` no estilo Regular.
   ///
-  /// ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lifebuoy.svg)
+  /// ![lifebuoy](https://api.iconify.design/ph/lifebuoy.svg?height=32&color=%23888888)
   static const IconData lifebuoy = IconData(
     0xe63a,
     fontFamily: 'PhosphorRegular',
@@ -10207,7 +10207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightbulb` no estilo Regular.
   ///
-  /// ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lightbulb.svg)
+  /// ![lightbulb](https://api.iconify.design/ph/lightbulb.svg?height=32&color=%23888888)
   static const IconData lightbulb = IconData(
     0xe2dc,
     fontFamily: 'PhosphorRegular',
@@ -10219,7 +10219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightbulbFilament` no estilo Regular.
   ///
-  /// ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lightbulb-filament.svg)
+  /// ![lightbulb-filament](https://api.iconify.design/ph/lightbulb-filament.svg?height=32&color=%23888888)
   static const IconData lightbulbFilament = IconData(
     0xe63c,
     fontFamily: 'PhosphorRegular',
@@ -10231,7 +10231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lighthouse` no estilo Regular.
   ///
-  /// ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lighthouse.svg)
+  /// ![lighthouse](https://api.iconify.design/ph/lighthouse.svg?height=32&color=%23888888)
   static const IconData lighthouse = IconData(
     0xe9f6,
     fontFamily: 'PhosphorRegular',
@@ -10243,7 +10243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightning` no estilo Regular.
   ///
-  /// ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lightning.svg)
+  /// ![lightning](https://api.iconify.design/ph/lightning.svg?height=32&color=%23888888)
   static const IconData lightning = IconData(
     0xe2de,
     fontFamily: 'PhosphorRegular',
@@ -10255,7 +10255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightningA` no estilo Regular.
   ///
-  /// ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lightning-a.svg)
+  /// ![lightning-a](https://api.iconify.design/ph/lightning-a.svg?height=32&color=%23888888)
   static const IconData lightningA = IconData(
     0xea84,
     fontFamily: 'PhosphorRegular',
@@ -10267,7 +10267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightningSlash` no estilo Regular.
   ///
-  /// ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lightning-slash.svg)
+  /// ![lightning-slash](https://api.iconify.design/ph/lightning-slash.svg?height=32&color=%23888888)
   static const IconData lightningSlash = IconData(
     0xe2e0,
     fontFamily: 'PhosphorRegular',
@@ -10279,7 +10279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lineSegment` no estilo Regular.
   ///
-  /// ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/line-segment.svg)
+  /// ![line-segment](https://api.iconify.design/ph/line-segment.svg?height=32&color=%23888888)
   static const IconData lineSegment = IconData(
     0xe6d2,
     fontFamily: 'PhosphorRegular',
@@ -10291,7 +10291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lineSegments` no estilo Regular.
   ///
-  /// ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/line-segments.svg)
+  /// ![line-segments](https://api.iconify.design/ph/line-segments.svg?height=32&color=%23888888)
   static const IconData lineSegments = IconData(
     0xe6d4,
     fontFamily: 'PhosphorRegular',
@@ -10303,7 +10303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lineVertical` no estilo Regular.
   ///
-  /// ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/line-vertical.svg)
+  /// ![line-vertical](https://api.iconify.design/ph/line-vertical.svg?height=32&color=%23888888)
   static const IconData lineVertical = IconData(
     0xed70,
     fontFamily: 'PhosphorRegular',
@@ -10315,7 +10315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `link` no estilo Regular.
   ///
-  /// ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/link.svg)
+  /// ![link](https://api.iconify.design/ph/link.svg?height=32&color=%23888888)
   static const IconData link = IconData(
     0xe2e2,
     fontFamily: 'PhosphorRegular',
@@ -10327,7 +10327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkBreak` no estilo Regular.
   ///
-  /// ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/link-break.svg)
+  /// ![link-break](https://api.iconify.design/ph/link-break.svg?height=32&color=%23888888)
   static const IconData linkBreak = IconData(
     0xe2e4,
     fontFamily: 'PhosphorRegular',
@@ -10339,7 +10339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimple` no estilo Regular.
   ///
-  /// ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/link-simple.svg)
+  /// ![link-simple](https://api.iconify.design/ph/link-simple.svg?height=32&color=%23888888)
   static const IconData linkSimple = IconData(
     0xe2e6,
     fontFamily: 'PhosphorRegular',
@@ -10351,7 +10351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimpleBreak` no estilo Regular.
   ///
-  /// ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/link-simple-break.svg)
+  /// ![link-simple-break](https://api.iconify.design/ph/link-simple-break.svg?height=32&color=%23888888)
   static const IconData linkSimpleBreak = IconData(
     0xe2e8,
     fontFamily: 'PhosphorRegular',
@@ -10363,7 +10363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimpleHorizontal` no estilo Regular.
   ///
-  /// ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/link-simple-horizontal.svg)
+  /// ![link-simple-horizontal](https://api.iconify.design/ph/link-simple-horizontal.svg?height=32&color=%23888888)
   static const IconData linkSimpleHorizontal = IconData(
     0xe2ea,
     fontFamily: 'PhosphorRegular',
@@ -10375,7 +10375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Regular.
   ///
-  /// ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/link-simple-horizontal-break.svg)
+  /// ![link-simple-horizontal-break](https://api.iconify.design/ph/link-simple-horizontal-break.svg?height=32&color=%23888888)
   static const IconData linkSimpleHorizontalBreak = IconData(
     0xe2ec,
     fontFamily: 'PhosphorRegular',
@@ -10387,7 +10387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkedinLogo` no estilo Regular.
   ///
-  /// ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/linkedin-logo.svg)
+  /// ![linkedin-logo](https://api.iconify.design/ph/linkedin-logo.svg?height=32&color=%23888888)
   static const IconData linkedinLogo = IconData(
     0xe2ee,
     fontFamily: 'PhosphorRegular',
@@ -10399,7 +10399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linktreeLogo` no estilo Regular.
   ///
-  /// ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/linktree-logo.svg)
+  /// ![linktree-logo](https://api.iconify.design/ph/linktree-logo.svg?height=32&color=%23888888)
   static const IconData linktreeLogo = IconData(
     0xedee,
     fontFamily: 'PhosphorRegular',
@@ -10411,7 +10411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linuxLogo` no estilo Regular.
   ///
-  /// ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/linux-logo.svg)
+  /// ![linux-logo](https://api.iconify.design/ph/linux-logo.svg?height=32&color=%23888888)
   static const IconData linuxLogo = IconData(
     0xeb02,
     fontFamily: 'PhosphorRegular',
@@ -10423,7 +10423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `list` no estilo Regular.
   ///
-  /// ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list.svg)
+  /// ![list](https://api.iconify.design/ph/list.svg?height=32&color=%23888888)
   static const IconData list = IconData(
     0xe2f0,
     fontFamily: 'PhosphorRegular',
@@ -10435,7 +10435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listBullets` no estilo Regular.
   ///
-  /// ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-bullets.svg)
+  /// ![list-bullets](https://api.iconify.design/ph/list-bullets.svg?height=32&color=%23888888)
   static const IconData listBullets = IconData(
     0xe2f2,
     fontFamily: 'PhosphorRegular',
@@ -10447,7 +10447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listChecks` no estilo Regular.
   ///
-  /// ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-checks.svg)
+  /// ![list-checks](https://api.iconify.design/ph/list-checks.svg?height=32&color=%23888888)
   static const IconData listChecks = IconData(
     0xeadc,
     fontFamily: 'PhosphorRegular',
@@ -10459,7 +10459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listDashes` no estilo Regular.
   ///
-  /// ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-dashes.svg)
+  /// ![list-dashes](https://api.iconify.design/ph/list-dashes.svg?height=32&color=%23888888)
   static const IconData listDashes = IconData(
     0xe2f4,
     fontFamily: 'PhosphorRegular',
@@ -10471,7 +10471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listHeart` no estilo Regular.
   ///
-  /// ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-heart.svg)
+  /// ![list-heart](https://api.iconify.design/ph/list-heart.svg?height=32&color=%23888888)
   static const IconData listHeart = IconData(
     0xebde,
     fontFamily: 'PhosphorRegular',
@@ -10483,7 +10483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listMagnifyingGlass` no estilo Regular.
   ///
-  /// ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-magnifying-glass.svg)
+  /// ![list-magnifying-glass](https://api.iconify.design/ph/list-magnifying-glass.svg?height=32&color=%23888888)
   static const IconData listMagnifyingGlass = IconData(
     0xebe0,
     fontFamily: 'PhosphorRegular',
@@ -10495,7 +10495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listNumbers` no estilo Regular.
   ///
-  /// ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-numbers.svg)
+  /// ![list-numbers](https://api.iconify.design/ph/list-numbers.svg?height=32&color=%23888888)
   static const IconData listNumbers = IconData(
     0xe2f6,
     fontFamily: 'PhosphorRegular',
@@ -10507,7 +10507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listPlus` no estilo Regular.
   ///
-  /// ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-plus.svg)
+  /// ![list-plus](https://api.iconify.design/ph/list-plus.svg?height=32&color=%23888888)
   static const IconData listPlus = IconData(
     0xe2f8,
     fontFamily: 'PhosphorRegular',
@@ -10519,7 +10519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listStar` no estilo Regular.
   ///
-  /// ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/list-star.svg)
+  /// ![list-star](https://api.iconify.design/ph/list-star.svg?height=32&color=%23888888)
   static const IconData listStar = IconData(
     0xebdc,
     fontFamily: 'PhosphorRegular',
@@ -10531,7 +10531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lock` no estilo Regular.
   ///
-  /// ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock.svg)
+  /// ![lock](https://api.iconify.design/ph/lock.svg?height=32&color=%23888888)
   static const IconData lock = IconData(
     0xe2fa,
     fontFamily: 'PhosphorRegular',
@@ -10543,7 +10543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockKey` no estilo Regular.
   ///
-  /// ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock-key.svg)
+  /// ![lock-key](https://api.iconify.design/ph/lock-key.svg?height=32&color=%23888888)
   static const IconData lockKey = IconData(
     0xe2fe,
     fontFamily: 'PhosphorRegular',
@@ -10555,7 +10555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockKeyOpen` no estilo Regular.
   ///
-  /// ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock-key-open.svg)
+  /// ![lock-key-open](https://api.iconify.design/ph/lock-key-open.svg?height=32&color=%23888888)
   static const IconData lockKeyOpen = IconData(
     0xe300,
     fontFamily: 'PhosphorRegular',
@@ -10567,7 +10567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockLaminated` no estilo Regular.
   ///
-  /// ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock-laminated.svg)
+  /// ![lock-laminated](https://api.iconify.design/ph/lock-laminated.svg?height=32&color=%23888888)
   static const IconData lockLaminated = IconData(
     0xe302,
     fontFamily: 'PhosphorRegular',
@@ -10579,7 +10579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockLaminatedOpen` no estilo Regular.
   ///
-  /// ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock-laminated-open.svg)
+  /// ![lock-laminated-open](https://api.iconify.design/ph/lock-laminated-open.svg?height=32&color=%23888888)
   static const IconData lockLaminatedOpen = IconData(
     0xe304,
     fontFamily: 'PhosphorRegular',
@@ -10591,7 +10591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockOpen` no estilo Regular.
   ///
-  /// ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock-open.svg)
+  /// ![lock-open](https://api.iconify.design/ph/lock-open.svg?height=32&color=%23888888)
   static const IconData lockOpen = IconData(
     0xe306,
     fontFamily: 'PhosphorRegular',
@@ -10603,7 +10603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockSimple` no estilo Regular.
   ///
-  /// ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock-simple.svg)
+  /// ![lock-simple](https://api.iconify.design/ph/lock-simple.svg?height=32&color=%23888888)
   static const IconData lockSimple = IconData(
     0xe308,
     fontFamily: 'PhosphorRegular',
@@ -10615,7 +10615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockSimpleOpen` no estilo Regular.
   ///
-  /// ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lock-simple-open.svg)
+  /// ![lock-simple-open](https://api.iconify.design/ph/lock-simple-open.svg?height=32&color=%23888888)
   static const IconData lockSimpleOpen = IconData(
     0xe30a,
     fontFamily: 'PhosphorRegular',
@@ -10627,7 +10627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockers` no estilo Regular.
   ///
-  /// ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/lockers.svg)
+  /// ![lockers](https://api.iconify.design/ph/lockers.svg?height=32&color=%23888888)
   static const IconData lockers = IconData(
     0xecb8,
     fontFamily: 'PhosphorRegular',
@@ -10639,7 +10639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `log` no estilo Regular.
   ///
-  /// ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/log.svg)
+  /// ![log](https://api.iconify.design/ph/log.svg?height=32&color=%23888888)
   static const IconData log = IconData(
     0xed82,
     fontFamily: 'PhosphorRegular',
@@ -10651,7 +10651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magicWand` no estilo Regular.
   ///
-  /// ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/magic-wand.svg)
+  /// ![magic-wand](https://api.iconify.design/ph/magic-wand.svg?height=32&color=%23888888)
   static const IconData magicWand = IconData(
     0xe6b6,
     fontFamily: 'PhosphorRegular',
@@ -10663,7 +10663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnet` no estilo Regular.
   ///
-  /// ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/magnet.svg)
+  /// ![magnet](https://api.iconify.design/ph/magnet.svg?height=32&color=%23888888)
   static const IconData magnet = IconData(
     0xe680,
     fontFamily: 'PhosphorRegular',
@@ -10675,7 +10675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnetStraight` no estilo Regular.
   ///
-  /// ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/magnet-straight.svg)
+  /// ![magnet-straight](https://api.iconify.design/ph/magnet-straight.svg?height=32&color=%23888888)
   static const IconData magnetStraight = IconData(
     0xe682,
     fontFamily: 'PhosphorRegular',
@@ -10687,7 +10687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnifyingGlass` no estilo Regular.
   ///
-  /// ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/magnifying-glass.svg)
+  /// ![magnifying-glass](https://api.iconify.design/ph/magnifying-glass.svg?height=32&color=%23888888)
   static const IconData magnifyingGlass = IconData(
     0xe30c,
     fontFamily: 'PhosphorRegular',
@@ -10699,7 +10699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnifyingGlassMinus` no estilo Regular.
   ///
-  /// ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/magnifying-glass-minus.svg)
+  /// ![magnifying-glass-minus](https://api.iconify.design/ph/magnifying-glass-minus.svg?height=32&color=%23888888)
   static const IconData magnifyingGlassMinus = IconData(
     0xe30e,
     fontFamily: 'PhosphorRegular',
@@ -10711,7 +10711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnifyingGlassPlus` no estilo Regular.
   ///
-  /// ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/magnifying-glass-plus.svg)
+  /// ![magnifying-glass-plus](https://api.iconify.design/ph/magnifying-glass-plus.svg?height=32&color=%23888888)
   static const IconData magnifyingGlassPlus = IconData(
     0xe310,
     fontFamily: 'PhosphorRegular',
@@ -10723,7 +10723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mailbox` no estilo Regular.
   ///
-  /// ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mailbox.svg)
+  /// ![mailbox](https://api.iconify.design/ph/mailbox.svg?height=32&color=%23888888)
   static const IconData mailbox = IconData(
     0xec1e,
     fontFamily: 'PhosphorRegular',
@@ -10735,7 +10735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPin` no estilo Regular.
   ///
-  /// ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-pin.svg)
+  /// ![map-pin](https://api.iconify.design/ph/map-pin.svg?height=32&color=%23888888)
   static const IconData mapPin = IconData(
     0xe316,
     fontFamily: 'PhosphorRegular',
@@ -10747,7 +10747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinArea` no estilo Regular.
   ///
-  /// ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-pin-area.svg)
+  /// ![map-pin-area](https://api.iconify.design/ph/map-pin-area.svg?height=32&color=%23888888)
   static const IconData mapPinArea = IconData(
     0xee3a,
     fontFamily: 'PhosphorRegular',
@@ -10759,7 +10759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinLine` no estilo Regular.
   ///
-  /// ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-pin-line.svg)
+  /// ![map-pin-line](https://api.iconify.design/ph/map-pin-line.svg?height=32&color=%23888888)
   static const IconData mapPinLine = IconData(
     0xe318,
     fontFamily: 'PhosphorRegular',
@@ -10771,7 +10771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinPlus` no estilo Regular.
   ///
-  /// ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-pin-plus.svg)
+  /// ![map-pin-plus](https://api.iconify.design/ph/map-pin-plus.svg?height=32&color=%23888888)
   static const IconData mapPinPlus = IconData(
     0xe314,
     fontFamily: 'PhosphorRegular',
@@ -10783,7 +10783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinSimple` no estilo Regular.
   ///
-  /// ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-pin-simple.svg)
+  /// ![map-pin-simple](https://api.iconify.design/ph/map-pin-simple.svg?height=32&color=%23888888)
   static const IconData mapPinSimple = IconData(
     0xee3e,
     fontFamily: 'PhosphorRegular',
@@ -10795,7 +10795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinSimpleArea` no estilo Regular.
   ///
-  /// ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-pin-simple-area.svg)
+  /// ![map-pin-simple-area](https://api.iconify.design/ph/map-pin-simple-area.svg?height=32&color=%23888888)
   static const IconData mapPinSimpleArea = IconData(
     0xee3c,
     fontFamily: 'PhosphorRegular',
@@ -10807,7 +10807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinSimpleLine` no estilo Regular.
   ///
-  /// ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-pin-simple-line.svg)
+  /// ![map-pin-simple-line](https://api.iconify.design/ph/map-pin-simple-line.svg?height=32&color=%23888888)
   static const IconData mapPinSimpleLine = IconData(
     0xee38,
     fontFamily: 'PhosphorRegular',
@@ -10819,7 +10819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapTrifold` no estilo Regular.
   ///
-  /// ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/map-trifold.svg)
+  /// ![map-trifold](https://api.iconify.design/ph/map-trifold.svg?height=32&color=%23888888)
   static const IconData mapTrifold = IconData(
     0xe31a,
     fontFamily: 'PhosphorRegular',
@@ -10831,7 +10831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `markdownLogo` no estilo Regular.
   ///
-  /// ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/markdown-logo.svg)
+  /// ![markdown-logo](https://api.iconify.design/ph/markdown-logo.svg?height=32&color=%23888888)
   static const IconData markdownLogo = IconData(
     0xe508,
     fontFamily: 'PhosphorRegular',
@@ -10843,7 +10843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `markerCircle` no estilo Regular.
   ///
-  /// ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/marker-circle.svg)
+  /// ![marker-circle](https://api.iconify.design/ph/marker-circle.svg?height=32&color=%23888888)
   static const IconData markerCircle = IconData(
     0xe640,
     fontFamily: 'PhosphorRegular',
@@ -10855,7 +10855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `martini` no estilo Regular.
   ///
-  /// ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/martini.svg)
+  /// ![martini](https://api.iconify.design/ph/martini.svg?height=32&color=%23888888)
   static const IconData martini = IconData(
     0xe31c,
     fontFamily: 'PhosphorRegular',
@@ -10867,7 +10867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `maskHappy` no estilo Regular.
   ///
-  /// ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mask-happy.svg)
+  /// ![mask-happy](https://api.iconify.design/ph/mask-happy.svg?height=32&color=%23888888)
   static const IconData maskHappy = IconData(
     0xe9f4,
     fontFamily: 'PhosphorRegular',
@@ -10879,7 +10879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `maskSad` no estilo Regular.
   ///
-  /// ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mask-sad.svg)
+  /// ![mask-sad](https://api.iconify.design/ph/mask-sad.svg?height=32&color=%23888888)
   static const IconData maskSad = IconData(
     0xeb9e,
     fontFamily: 'PhosphorRegular',
@@ -10891,7 +10891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mastodonLogo` no estilo Regular.
   ///
-  /// ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mastodon-logo.svg)
+  /// ![mastodon-logo](https://api.iconify.design/ph/mastodon-logo.svg?height=32&color=%23888888)
   static const IconData mastodonLogo = IconData(
     0xed68,
     fontFamily: 'PhosphorRegular',
@@ -10903,7 +10903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mathOperations` no estilo Regular.
   ///
-  /// ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/math-operations.svg)
+  /// ![math-operations](https://api.iconify.design/ph/math-operations.svg?height=32&color=%23888888)
   static const IconData mathOperations = IconData(
     0xe31e,
     fontFamily: 'PhosphorRegular',
@@ -10915,7 +10915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `matrixLogo` no estilo Regular.
   ///
-  /// ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/matrix-logo.svg)
+  /// ![matrix-logo](https://api.iconify.design/ph/matrix-logo.svg?height=32&color=%23888888)
   static const IconData matrixLogo = IconData(
     0xed64,
     fontFamily: 'PhosphorRegular',
@@ -10927,7 +10927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `medal` no estilo Regular.
   ///
-  /// ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/medal.svg)
+  /// ![medal](https://api.iconify.design/ph/medal.svg?height=32&color=%23888888)
   static const IconData medal = IconData(
     0xe320,
     fontFamily: 'PhosphorRegular',
@@ -10939,7 +10939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `medalMilitary` no estilo Regular.
   ///
-  /// ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/medal-military.svg)
+  /// ![medal-military](https://api.iconify.design/ph/medal-military.svg?height=32&color=%23888888)
   static const IconData medalMilitary = IconData(
     0xecfc,
     fontFamily: 'PhosphorRegular',
@@ -10951,7 +10951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mediumLogo` no estilo Regular.
   ///
-  /// ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/medium-logo.svg)
+  /// ![medium-logo](https://api.iconify.design/ph/medium-logo.svg?height=32&color=%23888888)
   static const IconData mediumLogo = IconData(
     0xe322,
     fontFamily: 'PhosphorRegular',
@@ -10963,7 +10963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `megaphone` no estilo Regular.
   ///
-  /// ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/megaphone.svg)
+  /// ![megaphone](https://api.iconify.design/ph/megaphone.svg?height=32&color=%23888888)
   static const IconData megaphone = IconData(
     0xe324,
     fontFamily: 'PhosphorRegular',
@@ -10975,7 +10975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `megaphoneSimple` no estilo Regular.
   ///
-  /// ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/megaphone-simple.svg)
+  /// ![megaphone-simple](https://api.iconify.design/ph/megaphone-simple.svg?height=32&color=%23888888)
   static const IconData megaphoneSimple = IconData(
     0xe642,
     fontFamily: 'PhosphorRegular',
@@ -10987,7 +10987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `memberOf` no estilo Regular.
   ///
-  /// ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/member-of.svg)
+  /// ![member-of](https://api.iconify.design/ph/member-of.svg?height=32&color=%23888888)
   static const IconData memberOf = IconData(
     0xedc2,
     fontFamily: 'PhosphorRegular',
@@ -10999,7 +10999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `memory` no estilo Regular.
   ///
-  /// ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/memory.svg)
+  /// ![memory](https://api.iconify.design/ph/memory.svg?height=32&color=%23888888)
   static const IconData memory = IconData(
     0xe9c4,
     fontFamily: 'PhosphorRegular',
@@ -11011,7 +11011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `messengerLogo` no estilo Regular.
   ///
-  /// ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/messenger-logo.svg)
+  /// ![messenger-logo](https://api.iconify.design/ph/messenger-logo.svg?height=32&color=%23888888)
   static const IconData messengerLogo = IconData(
     0xe6d8,
     fontFamily: 'PhosphorRegular',
@@ -11023,7 +11023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `metaLogo` no estilo Regular.
   ///
-  /// ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/meta-logo.svg)
+  /// ![meta-logo](https://api.iconify.design/ph/meta-logo.svg?height=32&color=%23888888)
   static const IconData metaLogo = IconData(
     0xed02,
     fontFamily: 'PhosphorRegular',
@@ -11035,7 +11035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `meteor` no estilo Regular.
   ///
-  /// ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/meteor.svg)
+  /// ![meteor](https://api.iconify.design/ph/meteor.svg?height=32&color=%23888888)
   static const IconData meteor = IconData(
     0xe9ba,
     fontFamily: 'PhosphorRegular',
@@ -11047,7 +11047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `metronome` no estilo Regular.
   ///
-  /// ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/metronome.svg)
+  /// ![metronome](https://api.iconify.design/ph/metronome.svg?height=32&color=%23888888)
   static const IconData metronome = IconData(
     0xec8e,
     fontFamily: 'PhosphorRegular',
@@ -11059,7 +11059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microphone` no estilo Regular.
   ///
-  /// ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microphone.svg)
+  /// ![microphone](https://api.iconify.design/ph/microphone.svg?height=32&color=%23888888)
   static const IconData microphone = IconData(
     0xe326,
     fontFamily: 'PhosphorRegular',
@@ -11071,7 +11071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microphoneSlash` no estilo Regular.
   ///
-  /// ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microphone-slash.svg)
+  /// ![microphone-slash](https://api.iconify.design/ph/microphone-slash.svg?height=32&color=%23888888)
   static const IconData microphoneSlash = IconData(
     0xe328,
     fontFamily: 'PhosphorRegular',
@@ -11083,7 +11083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microphoneStage` no estilo Regular.
   ///
-  /// ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microphone-stage.svg)
+  /// ![microphone-stage](https://api.iconify.design/ph/microphone-stage.svg?height=32&color=%23888888)
   static const IconData microphoneStage = IconData(
     0xe75c,
     fontFamily: 'PhosphorRegular',
@@ -11095,7 +11095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microscope` no estilo Regular.
   ///
-  /// ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microscope.svg)
+  /// ![microscope](https://api.iconify.design/ph/microscope.svg?height=32&color=%23888888)
   static const IconData microscope = IconData(
     0xec7a,
     fontFamily: 'PhosphorRegular',
@@ -11107,7 +11107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftExcelLogo` no estilo Regular.
   ///
-  /// ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microsoft-excel-logo.svg)
+  /// ![microsoft-excel-logo](https://api.iconify.design/ph/microsoft-excel-logo.svg?height=32&color=%23888888)
   static const IconData microsoftExcelLogo = IconData(
     0xeb6c,
     fontFamily: 'PhosphorRegular',
@@ -11119,7 +11119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftOutlookLogo` no estilo Regular.
   ///
-  /// ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microsoft-outlook-logo.svg)
+  /// ![microsoft-outlook-logo](https://api.iconify.design/ph/microsoft-outlook-logo.svg?height=32&color=%23888888)
   static const IconData microsoftOutlookLogo = IconData(
     0xeb70,
     fontFamily: 'PhosphorRegular',
@@ -11131,7 +11131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftPowerpointLogo` no estilo Regular.
   ///
-  /// ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microsoft-powerpoint-logo.svg)
+  /// ![microsoft-powerpoint-logo](https://api.iconify.design/ph/microsoft-powerpoint-logo.svg?height=32&color=%23888888)
   static const IconData microsoftPowerpointLogo = IconData(
     0xeace,
     fontFamily: 'PhosphorRegular',
@@ -11143,7 +11143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftTeamsLogo` no estilo Regular.
   ///
-  /// ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microsoft-teams-logo.svg)
+  /// ![microsoft-teams-logo](https://api.iconify.design/ph/microsoft-teams-logo.svg?height=32&color=%23888888)
   static const IconData microsoftTeamsLogo = IconData(
     0xeb66,
     fontFamily: 'PhosphorRegular',
@@ -11155,7 +11155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftWordLogo` no estilo Regular.
   ///
-  /// ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/microsoft-word-logo.svg)
+  /// ![microsoft-word-logo](https://api.iconify.design/ph/microsoft-word-logo.svg?height=32&color=%23888888)
   static const IconData microsoftWordLogo = IconData(
     0xeb6a,
     fontFamily: 'PhosphorRegular',
@@ -11167,7 +11167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `minus` no estilo Regular.
   ///
-  /// ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/minus.svg)
+  /// ![minus](https://api.iconify.design/ph/minus.svg?height=32&color=%23888888)
   static const IconData minus = IconData(
     0xe32a,
     fontFamily: 'PhosphorRegular',
@@ -11179,7 +11179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `minusCircle` no estilo Regular.
   ///
-  /// ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/minus-circle.svg)
+  /// ![minus-circle](https://api.iconify.design/ph/minus-circle.svg?height=32&color=%23888888)
   static const IconData minusCircle = IconData(
     0xe32c,
     fontFamily: 'PhosphorRegular',
@@ -11191,7 +11191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `minusSquare` no estilo Regular.
   ///
-  /// ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/minus-square.svg)
+  /// ![minus-square](https://api.iconify.design/ph/minus-square.svg?height=32&color=%23888888)
   static const IconData minusSquare = IconData(
     0xed4c,
     fontFamily: 'PhosphorRegular',
@@ -11203,7 +11203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `money` no estilo Regular.
   ///
-  /// ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/money.svg)
+  /// ![money](https://api.iconify.design/ph/money.svg?height=32&color=%23888888)
   static const IconData money = IconData(
     0xe588,
     fontFamily: 'PhosphorRegular',
@@ -11215,7 +11215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moneyWavy` no estilo Regular.
   ///
-  /// ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/money-wavy.svg)
+  /// ![money-wavy](https://api.iconify.design/ph/money-wavy.svg?height=32&color=%23888888)
   static const IconData moneyWavy = IconData(
     0xee68,
     fontFamily: 'PhosphorRegular',
@@ -11227,7 +11227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `monitor` no estilo Regular.
   ///
-  /// ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/monitor.svg)
+  /// ![monitor](https://api.iconify.design/ph/monitor.svg?height=32&color=%23888888)
   static const IconData monitor = IconData(
     0xe32e,
     fontFamily: 'PhosphorRegular',
@@ -11239,7 +11239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `monitorArrowUp` no estilo Regular.
   ///
-  /// ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/monitor-arrow-up.svg)
+  /// ![monitor-arrow-up](https://api.iconify.design/ph/monitor-arrow-up.svg?height=32&color=%23888888)
   static const IconData monitorArrowUp = IconData(
     0xe58a,
     fontFamily: 'PhosphorRegular',
@@ -11251,7 +11251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `monitorPlay` no estilo Regular.
   ///
-  /// ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/monitor-play.svg)
+  /// ![monitor-play](https://api.iconify.design/ph/monitor-play.svg?height=32&color=%23888888)
   static const IconData monitorPlay = IconData(
     0xe58c,
     fontFamily: 'PhosphorRegular',
@@ -11263,7 +11263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moon` no estilo Regular.
   ///
-  /// ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/moon.svg)
+  /// ![moon](https://api.iconify.design/ph/moon.svg?height=32&color=%23888888)
   static const IconData moon = IconData(
     0xe330,
     fontFamily: 'PhosphorRegular',
@@ -11275,7 +11275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moonStars` no estilo Regular.
   ///
-  /// ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/moon-stars.svg)
+  /// ![moon-stars](https://api.iconify.design/ph/moon-stars.svg?height=32&color=%23888888)
   static const IconData moonStars = IconData(
     0xe58e,
     fontFamily: 'PhosphorRegular',
@@ -11287,7 +11287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moped` no estilo Regular.
   ///
-  /// ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/moped.svg)
+  /// ![moped](https://api.iconify.design/ph/moped.svg?height=32&color=%23888888)
   static const IconData moped = IconData(
     0xe824,
     fontFamily: 'PhosphorRegular',
@@ -11299,7 +11299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mopedFront` no estilo Regular.
   ///
-  /// ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/moped-front.svg)
+  /// ![moped-front](https://api.iconify.design/ph/moped-front.svg?height=32&color=%23888888)
   static const IconData mopedFront = IconData(
     0xe822,
     fontFamily: 'PhosphorRegular',
@@ -11311,7 +11311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mosque` no estilo Regular.
   ///
-  /// ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mosque.svg)
+  /// ![mosque](https://api.iconify.design/ph/mosque.svg?height=32&color=%23888888)
   static const IconData mosque = IconData(
     0xecee,
     fontFamily: 'PhosphorRegular',
@@ -11323,7 +11323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `motorcycle` no estilo Regular.
   ///
-  /// ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/motorcycle.svg)
+  /// ![motorcycle](https://api.iconify.design/ph/motorcycle.svg?height=32&color=%23888888)
   static const IconData motorcycle = IconData(
     0xe80a,
     fontFamily: 'PhosphorRegular',
@@ -11335,7 +11335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mountains` no estilo Regular.
   ///
-  /// ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mountains.svg)
+  /// ![mountains](https://api.iconify.design/ph/mountains.svg?height=32&color=%23888888)
   static const IconData mountains = IconData(
     0xe7ae,
     fontFamily: 'PhosphorRegular',
@@ -11347,7 +11347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouse` no estilo Regular.
   ///
-  /// ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mouse.svg)
+  /// ![mouse](https://api.iconify.design/ph/mouse.svg?height=32&color=%23888888)
   static const IconData mouse = IconData(
     0xe33a,
     fontFamily: 'PhosphorRegular',
@@ -11359,7 +11359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseLeftClick` no estilo Regular.
   ///
-  /// ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mouse-left-click.svg)
+  /// ![mouse-left-click](https://api.iconify.design/ph/mouse-left-click.svg?height=32&color=%23888888)
   static const IconData mouseLeftClick = IconData(
     0xe334,
     fontFamily: 'PhosphorRegular',
@@ -11371,7 +11371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseMiddleClick` no estilo Regular.
   ///
-  /// ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mouse-middle-click.svg)
+  /// ![mouse-middle-click](https://api.iconify.design/ph/mouse-middle-click.svg?height=32&color=%23888888)
   static const IconData mouseMiddleClick = IconData(
     0xe338,
     fontFamily: 'PhosphorRegular',
@@ -11383,7 +11383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseRightClick` no estilo Regular.
   ///
-  /// ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mouse-right-click.svg)
+  /// ![mouse-right-click](https://api.iconify.design/ph/mouse-right-click.svg?height=32&color=%23888888)
   static const IconData mouseRightClick = IconData(
     0xe336,
     fontFamily: 'PhosphorRegular',
@@ -11395,7 +11395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseScroll` no estilo Regular.
   ///
-  /// ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mouse-scroll.svg)
+  /// ![mouse-scroll](https://api.iconify.design/ph/mouse-scroll.svg?height=32&color=%23888888)
   static const IconData mouseScroll = IconData(
     0xe332,
     fontFamily: 'PhosphorRegular',
@@ -11407,7 +11407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseSimple` no estilo Regular.
   ///
-  /// ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/mouse-simple.svg)
+  /// ![mouse-simple](https://api.iconify.design/ph/mouse-simple.svg?height=32&color=%23888888)
   static const IconData mouseSimple = IconData(
     0xe644,
     fontFamily: 'PhosphorRegular',
@@ -11419,7 +11419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNote` no estilo Regular.
   ///
-  /// ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/music-note.svg)
+  /// ![music-note](https://api.iconify.design/ph/music-note.svg?height=32&color=%23888888)
   static const IconData musicNote = IconData(
     0xe33c,
     fontFamily: 'PhosphorRegular',
@@ -11431,7 +11431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNoteSimple` no estilo Regular.
   ///
-  /// ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/music-note-simple.svg)
+  /// ![music-note-simple](https://api.iconify.design/ph/music-note-simple.svg?height=32&color=%23888888)
   static const IconData musicNoteSimple = IconData(
     0xe33e,
     fontFamily: 'PhosphorRegular',
@@ -11443,7 +11443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotes` no estilo Regular.
   ///
-  /// ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/music-notes.svg)
+  /// ![music-notes](https://api.iconify.design/ph/music-notes.svg?height=32&color=%23888888)
   static const IconData musicNotes = IconData(
     0xe340,
     fontFamily: 'PhosphorRegular',
@@ -11455,7 +11455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotesMinus` no estilo Regular.
   ///
-  /// ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/music-notes-minus.svg)
+  /// ![music-notes-minus](https://api.iconify.design/ph/music-notes-minus.svg?height=32&color=%23888888)
   static const IconData musicNotesMinus = IconData(
     0xee0c,
     fontFamily: 'PhosphorRegular',
@@ -11467,7 +11467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotesPlus` no estilo Regular.
   ///
-  /// ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/music-notes-plus.svg)
+  /// ![music-notes-plus](https://api.iconify.design/ph/music-notes-plus.svg?height=32&color=%23888888)
   static const IconData musicNotesPlus = IconData(
     0xeb7c,
     fontFamily: 'PhosphorRegular',
@@ -11479,7 +11479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotesSimple` no estilo Regular.
   ///
-  /// ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/music-notes-simple.svg)
+  /// ![music-notes-simple](https://api.iconify.design/ph/music-notes-simple.svg?height=32&color=%23888888)
   static const IconData musicNotesSimple = IconData(
     0xe342,
     fontFamily: 'PhosphorRegular',
@@ -11491,7 +11491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `navigationArrow` no estilo Regular.
   ///
-  /// ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/navigation-arrow.svg)
+  /// ![navigation-arrow](https://api.iconify.design/ph/navigation-arrow.svg?height=32&color=%23888888)
   static const IconData navigationArrow = IconData(
     0xeade,
     fontFamily: 'PhosphorRegular',
@@ -11503,7 +11503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `needle` no estilo Regular.
   ///
-  /// ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/needle.svg)
+  /// ![needle](https://api.iconify.design/ph/needle.svg?height=32&color=%23888888)
   static const IconData needle = IconData(
     0xe82e,
     fontFamily: 'PhosphorRegular',
@@ -11515,7 +11515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `network` no estilo Regular.
   ///
-  /// ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/network.svg)
+  /// ![network](https://api.iconify.design/ph/network.svg?height=32&color=%23888888)
   static const IconData network = IconData(
     0xedde,
     fontFamily: 'PhosphorRegular',
@@ -11527,7 +11527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `networkSlash` no estilo Regular.
   ///
-  /// ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/network-slash.svg)
+  /// ![network-slash](https://api.iconify.design/ph/network-slash.svg?height=32&color=%23888888)
   static const IconData networkSlash = IconData(
     0xeddc,
     fontFamily: 'PhosphorRegular',
@@ -11539,7 +11539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `networkX` no estilo Regular.
   ///
-  /// ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/network-x.svg)
+  /// ![network-x](https://api.iconify.design/ph/network-x.svg?height=32&color=%23888888)
   static const IconData networkX = IconData(
     0xedda,
     fontFamily: 'PhosphorRegular',
@@ -11551,7 +11551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `newspaper` no estilo Regular.
   ///
-  /// ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/newspaper.svg)
+  /// ![newspaper](https://api.iconify.design/ph/newspaper.svg?height=32&color=%23888888)
   static const IconData newspaper = IconData(
     0xe344,
     fontFamily: 'PhosphorRegular',
@@ -11563,7 +11563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `newspaperClipping` no estilo Regular.
   ///
-  /// ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/newspaper-clipping.svg)
+  /// ![newspaper-clipping](https://api.iconify.design/ph/newspaper-clipping.svg?height=32&color=%23888888)
   static const IconData newspaperClipping = IconData(
     0xe346,
     fontFamily: 'PhosphorRegular',
@@ -11575,7 +11575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notEquals` no estilo Regular.
   ///
-  /// ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/not-equals.svg)
+  /// ![not-equals](https://api.iconify.design/ph/not-equals.svg?height=32&color=%23888888)
   static const IconData notEquals = IconData(
     0xeda6,
     fontFamily: 'PhosphorRegular',
@@ -11587,7 +11587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notMemberOf` no estilo Regular.
   ///
-  /// ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/not-member-of.svg)
+  /// ![not-member-of](https://api.iconify.design/ph/not-member-of.svg?height=32&color=%23888888)
   static const IconData notMemberOf = IconData(
     0xedae,
     fontFamily: 'PhosphorRegular',
@@ -11599,7 +11599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notSubsetOf` no estilo Regular.
   ///
-  /// ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/not-subset-of.svg)
+  /// ![not-subset-of](https://api.iconify.design/ph/not-subset-of.svg?height=32&color=%23888888)
   static const IconData notSubsetOf = IconData(
     0xedb0,
     fontFamily: 'PhosphorRegular',
@@ -11611,7 +11611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notSupersetOf` no estilo Regular.
   ///
-  /// ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/not-superset-of.svg)
+  /// ![not-superset-of](https://api.iconify.design/ph/not-superset-of.svg?height=32&color=%23888888)
   static const IconData notSupersetOf = IconData(
     0xedb2,
     fontFamily: 'PhosphorRegular',
@@ -11623,7 +11623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notches` no estilo Regular.
   ///
-  /// ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/notches.svg)
+  /// ![notches](https://api.iconify.design/ph/notches.svg?height=32&color=%23888888)
   static const IconData notches = IconData(
     0xed3a,
     fontFamily: 'PhosphorRegular',
@@ -11635,7 +11635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `note` no estilo Regular.
   ///
-  /// ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/note.svg)
+  /// ![note](https://api.iconify.design/ph/note.svg?height=32&color=%23888888)
   static const IconData note = IconData(
     0xe348,
     fontFamily: 'PhosphorRegular',
@@ -11647,7 +11647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `noteBlank` no estilo Regular.
   ///
-  /// ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/note-blank.svg)
+  /// ![note-blank](https://api.iconify.design/ph/note-blank.svg?height=32&color=%23888888)
   static const IconData noteBlank = IconData(
     0xe34a,
     fontFamily: 'PhosphorRegular',
@@ -11659,7 +11659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notePencil` no estilo Regular.
   ///
-  /// ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/note-pencil.svg)
+  /// ![note-pencil](https://api.iconify.design/ph/note-pencil.svg?height=32&color=%23888888)
   static const IconData notePencil = IconData(
     0xe34c,
     fontFamily: 'PhosphorRegular',
@@ -11671,7 +11671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notebook` no estilo Regular.
   ///
-  /// ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/notebook.svg)
+  /// ![notebook](https://api.iconify.design/ph/notebook.svg?height=32&color=%23888888)
   static const IconData notebook = IconData(
     0xe34e,
     fontFamily: 'PhosphorRegular',
@@ -11683,7 +11683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notepad` no estilo Regular.
   ///
-  /// ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/notepad.svg)
+  /// ![notepad](https://api.iconify.design/ph/notepad.svg?height=32&color=%23888888)
   static const IconData notepad = IconData(
     0xe63e,
     fontFamily: 'PhosphorRegular',
@@ -11695,7 +11695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notification` no estilo Regular.
   ///
-  /// ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/notification.svg)
+  /// ![notification](https://api.iconify.design/ph/notification.svg?height=32&color=%23888888)
   static const IconData notification = IconData(
     0xe6fa,
     fontFamily: 'PhosphorRegular',
@@ -11707,7 +11707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notionLogo` no estilo Regular.
   ///
-  /// ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/notion-logo.svg)
+  /// ![notion-logo](https://api.iconify.design/ph/notion-logo.svg?height=32&color=%23888888)
   static const IconData notionLogo = IconData(
     0xe9a0,
     fontFamily: 'PhosphorRegular',
@@ -11719,7 +11719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `nuclearPlant` no estilo Regular.
   ///
-  /// ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/nuclear-plant.svg)
+  /// ![nuclear-plant](https://api.iconify.design/ph/nuclear-plant.svg?height=32&color=%23888888)
   static const IconData nuclearPlant = IconData(
     0xed7c,
     fontFamily: 'PhosphorRegular',
@@ -11731,7 +11731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleEight` no estilo Regular.
   ///
-  /// ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-eight.svg)
+  /// ![number-circle-eight](https://api.iconify.design/ph/number-circle-eight.svg?height=32&color=%23888888)
   static const IconData numberCircleEight = IconData(
     0xe352,
     fontFamily: 'PhosphorRegular',
@@ -11743,7 +11743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleFive` no estilo Regular.
   ///
-  /// ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-five.svg)
+  /// ![number-circle-five](https://api.iconify.design/ph/number-circle-five.svg?height=32&color=%23888888)
   static const IconData numberCircleFive = IconData(
     0xe358,
     fontFamily: 'PhosphorRegular',
@@ -11755,7 +11755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleFour` no estilo Regular.
   ///
-  /// ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-four.svg)
+  /// ![number-circle-four](https://api.iconify.design/ph/number-circle-four.svg?height=32&color=%23888888)
   static const IconData numberCircleFour = IconData(
     0xe35e,
     fontFamily: 'PhosphorRegular',
@@ -11767,7 +11767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleNine` no estilo Regular.
   ///
-  /// ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-nine.svg)
+  /// ![number-circle-nine](https://api.iconify.design/ph/number-circle-nine.svg?height=32&color=%23888888)
   static const IconData numberCircleNine = IconData(
     0xe364,
     fontFamily: 'PhosphorRegular',
@@ -11779,7 +11779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleOne` no estilo Regular.
   ///
-  /// ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-one.svg)
+  /// ![number-circle-one](https://api.iconify.design/ph/number-circle-one.svg?height=32&color=%23888888)
   static const IconData numberCircleOne = IconData(
     0xe36a,
     fontFamily: 'PhosphorRegular',
@@ -11791,7 +11791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleSeven` no estilo Regular.
   ///
-  /// ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-seven.svg)
+  /// ![number-circle-seven](https://api.iconify.design/ph/number-circle-seven.svg?height=32&color=%23888888)
   static const IconData numberCircleSeven = IconData(
     0xe370,
     fontFamily: 'PhosphorRegular',
@@ -11803,7 +11803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleSix` no estilo Regular.
   ///
-  /// ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-six.svg)
+  /// ![number-circle-six](https://api.iconify.design/ph/number-circle-six.svg?height=32&color=%23888888)
   static const IconData numberCircleSix = IconData(
     0xe376,
     fontFamily: 'PhosphorRegular',
@@ -11815,7 +11815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleThree` no estilo Regular.
   ///
-  /// ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-three.svg)
+  /// ![number-circle-three](https://api.iconify.design/ph/number-circle-three.svg?height=32&color=%23888888)
   static const IconData numberCircleThree = IconData(
     0xe37c,
     fontFamily: 'PhosphorRegular',
@@ -11827,7 +11827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleTwo` no estilo Regular.
   ///
-  /// ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-two.svg)
+  /// ![number-circle-two](https://api.iconify.design/ph/number-circle-two.svg?height=32&color=%23888888)
   static const IconData numberCircleTwo = IconData(
     0xe382,
     fontFamily: 'PhosphorRegular',
@@ -11839,7 +11839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleZero` no estilo Regular.
   ///
-  /// ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-circle-zero.svg)
+  /// ![number-circle-zero](https://api.iconify.design/ph/number-circle-zero.svg?height=32&color=%23888888)
   static const IconData numberCircleZero = IconData(
     0xe388,
     fontFamily: 'PhosphorRegular',
@@ -11851,7 +11851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberEight` no estilo Regular.
   ///
-  /// ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-eight.svg)
+  /// ![number-eight](https://api.iconify.design/ph/number-eight.svg?height=32&color=%23888888)
   static const IconData numberEight = IconData(
     0xe350,
     fontFamily: 'PhosphorRegular',
@@ -11863,7 +11863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberFive` no estilo Regular.
   ///
-  /// ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-five.svg)
+  /// ![number-five](https://api.iconify.design/ph/number-five.svg?height=32&color=%23888888)
   static const IconData numberFive = IconData(
     0xe356,
     fontFamily: 'PhosphorRegular',
@@ -11875,7 +11875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberFour` no estilo Regular.
   ///
-  /// ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-four.svg)
+  /// ![number-four](https://api.iconify.design/ph/number-four.svg?height=32&color=%23888888)
   static const IconData numberFour = IconData(
     0xe35c,
     fontFamily: 'PhosphorRegular',
@@ -11887,7 +11887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberNine` no estilo Regular.
   ///
-  /// ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-nine.svg)
+  /// ![number-nine](https://api.iconify.design/ph/number-nine.svg?height=32&color=%23888888)
   static const IconData numberNine = IconData(
     0xe362,
     fontFamily: 'PhosphorRegular',
@@ -11899,7 +11899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberOne` no estilo Regular.
   ///
-  /// ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-one.svg)
+  /// ![number-one](https://api.iconify.design/ph/number-one.svg?height=32&color=%23888888)
   static const IconData numberOne = IconData(
     0xe368,
     fontFamily: 'PhosphorRegular',
@@ -11911,7 +11911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSeven` no estilo Regular.
   ///
-  /// ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-seven.svg)
+  /// ![number-seven](https://api.iconify.design/ph/number-seven.svg?height=32&color=%23888888)
   static const IconData numberSeven = IconData(
     0xe36e,
     fontFamily: 'PhosphorRegular',
@@ -11923,7 +11923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSix` no estilo Regular.
   ///
-  /// ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-six.svg)
+  /// ![number-six](https://api.iconify.design/ph/number-six.svg?height=32&color=%23888888)
   static const IconData numberSix = IconData(
     0xe374,
     fontFamily: 'PhosphorRegular',
@@ -11935,7 +11935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareEight` no estilo Regular.
   ///
-  /// ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-eight.svg)
+  /// ![number-square-eight](https://api.iconify.design/ph/number-square-eight.svg?height=32&color=%23888888)
   static const IconData numberSquareEight = IconData(
     0xe354,
     fontFamily: 'PhosphorRegular',
@@ -11947,7 +11947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareFive` no estilo Regular.
   ///
-  /// ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-five.svg)
+  /// ![number-square-five](https://api.iconify.design/ph/number-square-five.svg?height=32&color=%23888888)
   static const IconData numberSquareFive = IconData(
     0xe35a,
     fontFamily: 'PhosphorRegular',
@@ -11959,7 +11959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareFour` no estilo Regular.
   ///
-  /// ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-four.svg)
+  /// ![number-square-four](https://api.iconify.design/ph/number-square-four.svg?height=32&color=%23888888)
   static const IconData numberSquareFour = IconData(
     0xe360,
     fontFamily: 'PhosphorRegular',
@@ -11971,7 +11971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareNine` no estilo Regular.
   ///
-  /// ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-nine.svg)
+  /// ![number-square-nine](https://api.iconify.design/ph/number-square-nine.svg?height=32&color=%23888888)
   static const IconData numberSquareNine = IconData(
     0xe366,
     fontFamily: 'PhosphorRegular',
@@ -11983,7 +11983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareOne` no estilo Regular.
   ///
-  /// ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-one.svg)
+  /// ![number-square-one](https://api.iconify.design/ph/number-square-one.svg?height=32&color=%23888888)
   static const IconData numberSquareOne = IconData(
     0xe36c,
     fontFamily: 'PhosphorRegular',
@@ -11995,7 +11995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareSeven` no estilo Regular.
   ///
-  /// ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-seven.svg)
+  /// ![number-square-seven](https://api.iconify.design/ph/number-square-seven.svg?height=32&color=%23888888)
   static const IconData numberSquareSeven = IconData(
     0xe372,
     fontFamily: 'PhosphorRegular',
@@ -12007,7 +12007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareSix` no estilo Regular.
   ///
-  /// ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-six.svg)
+  /// ![number-square-six](https://api.iconify.design/ph/number-square-six.svg?height=32&color=%23888888)
   static const IconData numberSquareSix = IconData(
     0xe378,
     fontFamily: 'PhosphorRegular',
@@ -12019,7 +12019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareThree` no estilo Regular.
   ///
-  /// ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-three.svg)
+  /// ![number-square-three](https://api.iconify.design/ph/number-square-three.svg?height=32&color=%23888888)
   static const IconData numberSquareThree = IconData(
     0xe37e,
     fontFamily: 'PhosphorRegular',
@@ -12031,7 +12031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareTwo` no estilo Regular.
   ///
-  /// ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-two.svg)
+  /// ![number-square-two](https://api.iconify.design/ph/number-square-two.svg?height=32&color=%23888888)
   static const IconData numberSquareTwo = IconData(
     0xe384,
     fontFamily: 'PhosphorRegular',
@@ -12043,7 +12043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareZero` no estilo Regular.
   ///
-  /// ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-square-zero.svg)
+  /// ![number-square-zero](https://api.iconify.design/ph/number-square-zero.svg?height=32&color=%23888888)
   static const IconData numberSquareZero = IconData(
     0xe38a,
     fontFamily: 'PhosphorRegular',
@@ -12055,7 +12055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberThree` no estilo Regular.
   ///
-  /// ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-three.svg)
+  /// ![number-three](https://api.iconify.design/ph/number-three.svg?height=32&color=%23888888)
   static const IconData numberThree = IconData(
     0xe37a,
     fontFamily: 'PhosphorRegular',
@@ -12067,7 +12067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberTwo` no estilo Regular.
   ///
-  /// ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-two.svg)
+  /// ![number-two](https://api.iconify.design/ph/number-two.svg?height=32&color=%23888888)
   static const IconData numberTwo = IconData(
     0xe380,
     fontFamily: 'PhosphorRegular',
@@ -12079,7 +12079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberZero` no estilo Regular.
   ///
-  /// ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/number-zero.svg)
+  /// ![number-zero](https://api.iconify.design/ph/number-zero.svg?height=32&color=%23888888)
   static const IconData numberZero = IconData(
     0xe386,
     fontFamily: 'PhosphorRegular',
@@ -12091,7 +12091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numpad` no estilo Regular.
   ///
-  /// ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/numpad.svg)
+  /// ![numpad](https://api.iconify.design/ph/numpad.svg?height=32&color=%23888888)
   static const IconData numpad = IconData(
     0xe3c8,
     fontFamily: 'PhosphorRegular',
@@ -12103,7 +12103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `nut` no estilo Regular.
   ///
-  /// ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/nut.svg)
+  /// ![nut](https://api.iconify.design/ph/nut.svg?height=32&color=%23888888)
   static const IconData nut = IconData(
     0xe38c,
     fontFamily: 'PhosphorRegular',
@@ -12115,7 +12115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `nyTimesLogo` no estilo Regular.
   ///
-  /// ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ny-times-logo.svg)
+  /// ![ny-times-logo](https://api.iconify.design/ph/ny-times-logo.svg?height=32&color=%23888888)
   static const IconData nyTimesLogo = IconData(
     0xe646,
     fontFamily: 'PhosphorRegular',
@@ -12127,7 +12127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `octagon` no estilo Regular.
   ///
-  /// ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/octagon.svg)
+  /// ![octagon](https://api.iconify.design/ph/octagon.svg?height=32&color=%23888888)
   static const IconData octagon = IconData(
     0xe38e,
     fontFamily: 'PhosphorRegular',
@@ -12139,7 +12139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `officeChair` no estilo Regular.
   ///
-  /// ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/office-chair.svg)
+  /// ![office-chair](https://api.iconify.design/ph/office-chair.svg?height=32&color=%23888888)
   static const IconData officeChair = IconData(
     0xea46,
     fontFamily: 'PhosphorRegular',
@@ -12151,7 +12151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `onigiri` no estilo Regular.
   ///
-  /// ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/onigiri.svg)
+  /// ![onigiri](https://api.iconify.design/ph/onigiri.svg?height=32&color=%23888888)
   static const IconData onigiri = IconData(
     0xee2c,
     fontFamily: 'PhosphorRegular',
@@ -12163,7 +12163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `openAiLogo` no estilo Regular.
   ///
-  /// ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/open-ai-logo.svg)
+  /// ![open-ai-logo](https://api.iconify.design/ph/open-ai-logo.svg?height=32&color=%23888888)
   static const IconData openAiLogo = IconData(
     0xe7d2,
     fontFamily: 'PhosphorRegular',
@@ -12175,7 +12175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `option` no estilo Regular.
   ///
-  /// ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/option.svg)
+  /// ![option](https://api.iconify.design/ph/option.svg?height=32&color=%23888888)
   static const IconData option = IconData(
     0xe8a8,
     fontFamily: 'PhosphorRegular',
@@ -12187,7 +12187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `orange` no estilo Regular.
   ///
-  /// ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/orange.svg)
+  /// ![orange](https://api.iconify.design/ph/orange.svg?height=32&color=%23888888)
   static const IconData orange = IconData(
     0xee40,
     fontFamily: 'PhosphorRegular',
@@ -12199,7 +12199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `orangeSlice` no estilo Regular.
   ///
-  /// ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/orange-slice.svg)
+  /// ![orange-slice](https://api.iconify.design/ph/orange-slice.svg?height=32&color=%23888888)
   static const IconData orangeSlice = IconData(
     0xed36,
     fontFamily: 'PhosphorRegular',
@@ -12211,7 +12211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `oven` no estilo Regular.
   ///
-  /// ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/oven.svg)
+  /// ![oven](https://api.iconify.design/ph/oven.svg?height=32&color=%23888888)
   static const IconData oven = IconData(
     0xed8c,
     fontFamily: 'PhosphorRegular',
@@ -12223,7 +12223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `package` no estilo Regular.
   ///
-  /// ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/package.svg)
+  /// ![package](https://api.iconify.design/ph/package.svg?height=32&color=%23888888)
   static const IconData package = IconData(
     0xe390,
     fontFamily: 'PhosphorRegular',
@@ -12235,7 +12235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBrush` no estilo Regular.
   ///
-  /// ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paint-brush.svg)
+  /// ![paint-brush](https://api.iconify.design/ph/paint-brush.svg?height=32&color=%23888888)
   static const IconData paintBrush = IconData(
     0xe6f0,
     fontFamily: 'PhosphorRegular',
@@ -12247,7 +12247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBrushBroad` no estilo Regular.
   ///
-  /// ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paint-brush-broad.svg)
+  /// ![paint-brush-broad](https://api.iconify.design/ph/paint-brush-broad.svg?height=32&color=%23888888)
   static const IconData paintBrushBroad = IconData(
     0xe590,
     fontFamily: 'PhosphorRegular',
@@ -12259,7 +12259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBrushHousehold` no estilo Regular.
   ///
-  /// ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paint-brush-household.svg)
+  /// ![paint-brush-household](https://api.iconify.design/ph/paint-brush-household.svg?height=32&color=%23888888)
   static const IconData paintBrushHousehold = IconData(
     0xe6f2,
     fontFamily: 'PhosphorRegular',
@@ -12271,7 +12271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBucket` no estilo Regular.
   ///
-  /// ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paint-bucket.svg)
+  /// ![paint-bucket](https://api.iconify.design/ph/paint-bucket.svg?height=32&color=%23888888)
   static const IconData paintBucket = IconData(
     0xe392,
     fontFamily: 'PhosphorRegular',
@@ -12283,7 +12283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintRoller` no estilo Regular.
   ///
-  /// ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paint-roller.svg)
+  /// ![paint-roller](https://api.iconify.design/ph/paint-roller.svg?height=32&color=%23888888)
   static const IconData paintRoller = IconData(
     0xe6f4,
     fontFamily: 'PhosphorRegular',
@@ -12295,7 +12295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `palette` no estilo Regular.
   ///
-  /// ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/palette.svg)
+  /// ![palette](https://api.iconify.design/ph/palette.svg?height=32&color=%23888888)
   static const IconData palette = IconData(
     0xe6c8,
     fontFamily: 'PhosphorRegular',
@@ -12307,7 +12307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `panorama` no estilo Regular.
   ///
-  /// ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/panorama.svg)
+  /// ![panorama](https://api.iconify.design/ph/panorama.svg?height=32&color=%23888888)
   static const IconData panorama = IconData(
     0xeaa2,
     fontFamily: 'PhosphorRegular',
@@ -12319,7 +12319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pants` no estilo Regular.
   ///
-  /// ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pants.svg)
+  /// ![pants](https://api.iconify.design/ph/pants.svg?height=32&color=%23888888)
   static const IconData pants = IconData(
     0xec88,
     fontFamily: 'PhosphorRegular',
@@ -12331,7 +12331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperPlane` no estilo Regular.
   ///
-  /// ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paper-plane.svg)
+  /// ![paper-plane](https://api.iconify.design/ph/paper-plane.svg?height=32&color=%23888888)
   static const IconData paperPlane = IconData(
     0xe394,
     fontFamily: 'PhosphorRegular',
@@ -12343,7 +12343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperPlaneRight` no estilo Regular.
   ///
-  /// ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paper-plane-right.svg)
+  /// ![paper-plane-right](https://api.iconify.design/ph/paper-plane-right.svg?height=32&color=%23888888)
   static const IconData paperPlaneRight = IconData(
     0xe396,
     fontFamily: 'PhosphorRegular',
@@ -12355,7 +12355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperPlaneTilt` no estilo Regular.
   ///
-  /// ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paper-plane-tilt.svg)
+  /// ![paper-plane-tilt](https://api.iconify.design/ph/paper-plane-tilt.svg?height=32&color=%23888888)
   static const IconData paperPlaneTilt = IconData(
     0xe398,
     fontFamily: 'PhosphorRegular',
@@ -12367,7 +12367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperclip` no estilo Regular.
   ///
-  /// ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paperclip.svg)
+  /// ![paperclip](https://api.iconify.design/ph/paperclip.svg?height=32&color=%23888888)
   static const IconData paperclip = IconData(
     0xe39a,
     fontFamily: 'PhosphorRegular',
@@ -12379,7 +12379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperclipHorizontal` no estilo Regular.
   ///
-  /// ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paperclip-horizontal.svg)
+  /// ![paperclip-horizontal](https://api.iconify.design/ph/paperclip-horizontal.svg?height=32&color=%23888888)
   static const IconData paperclipHorizontal = IconData(
     0xe592,
     fontFamily: 'PhosphorRegular',
@@ -12391,7 +12391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `parachute` no estilo Regular.
   ///
-  /// ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/parachute.svg)
+  /// ![parachute](https://api.iconify.design/ph/parachute.svg?height=32&color=%23888888)
   static const IconData parachute = IconData(
     0xea7c,
     fontFamily: 'PhosphorRegular',
@@ -12403,7 +12403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paragraph` no estilo Regular.
   ///
-  /// ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paragraph.svg)
+  /// ![paragraph](https://api.iconify.design/ph/paragraph.svg?height=32&color=%23888888)
   static const IconData paragraph = IconData(
     0xe960,
     fontFamily: 'PhosphorRegular',
@@ -12415,7 +12415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `parallelogram` no estilo Regular.
   ///
-  /// ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/parallelogram.svg)
+  /// ![parallelogram](https://api.iconify.design/ph/parallelogram.svg?height=32&color=%23888888)
   static const IconData parallelogram = IconData(
     0xecc6,
     fontFamily: 'PhosphorRegular',
@@ -12427,7 +12427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `park` no estilo Regular.
   ///
-  /// ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/park.svg)
+  /// ![park](https://api.iconify.design/ph/park.svg?height=32&color=%23888888)
   static const IconData park = IconData(
     0xecb2,
     fontFamily: 'PhosphorRegular',
@@ -12439,7 +12439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `password` no estilo Regular.
   ///
-  /// ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/password.svg)
+  /// ![password](https://api.iconify.design/ph/password.svg?height=32&color=%23888888)
   static const IconData password = IconData(
     0xe752,
     fontFamily: 'PhosphorRegular',
@@ -12451,7 +12451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `path` no estilo Regular.
   ///
-  /// ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/path.svg)
+  /// ![path](https://api.iconify.design/ph/path.svg?height=32&color=%23888888)
   static const IconData path = IconData(
     0xe39c,
     fontFamily: 'PhosphorRegular',
@@ -12463,7 +12463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `patreonLogo` no estilo Regular.
   ///
-  /// ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/patreon-logo.svg)
+  /// ![patreon-logo](https://api.iconify.design/ph/patreon-logo.svg?height=32&color=%23888888)
   static const IconData patreonLogo = IconData(
     0xe98a,
     fontFamily: 'PhosphorRegular',
@@ -12475,7 +12475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pause` no estilo Regular.
   ///
-  /// ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pause.svg)
+  /// ![pause](https://api.iconify.design/ph/pause.svg?height=32&color=%23888888)
   static const IconData pause = IconData(
     0xe39e,
     fontFamily: 'PhosphorRegular',
@@ -12487,7 +12487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pauseCircle` no estilo Regular.
   ///
-  /// ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pause-circle.svg)
+  /// ![pause-circle](https://api.iconify.design/ph/pause-circle.svg?height=32&color=%23888888)
   static const IconData pauseCircle = IconData(
     0xe3a0,
     fontFamily: 'PhosphorRegular',
@@ -12499,7 +12499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pawPrint` no estilo Regular.
   ///
-  /// ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paw-print.svg)
+  /// ![paw-print](https://api.iconify.design/ph/paw-print.svg?height=32&color=%23888888)
   static const IconData pawPrint = IconData(
     0xe648,
     fontFamily: 'PhosphorRegular',
@@ -12511,7 +12511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paypalLogo` no estilo Regular.
   ///
-  /// ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/paypal-logo.svg)
+  /// ![paypal-logo](https://api.iconify.design/ph/paypal-logo.svg?height=32&color=%23888888)
   static const IconData paypalLogo = IconData(
     0xe98c,
     fontFamily: 'PhosphorRegular',
@@ -12523,7 +12523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `peace` no estilo Regular.
   ///
-  /// ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/peace.svg)
+  /// ![peace](https://api.iconify.design/ph/peace.svg?height=32&color=%23888888)
   static const IconData peace = IconData(
     0xe3a2,
     fontFamily: 'PhosphorRegular',
@@ -12535,7 +12535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pen` no estilo Regular.
   ///
-  /// ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pen.svg)
+  /// ![pen](https://api.iconify.design/ph/pen.svg?height=32&color=%23888888)
   static const IconData pen = IconData(
     0xe3aa,
     fontFamily: 'PhosphorRegular',
@@ -12547,7 +12547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `penNib` no estilo Regular.
   ///
-  /// ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pen-nib.svg)
+  /// ![pen-nib](https://api.iconify.design/ph/pen-nib.svg?height=32&color=%23888888)
   static const IconData penNib = IconData(
     0xe3ac,
     fontFamily: 'PhosphorRegular',
@@ -12559,7 +12559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `penNibStraight` no estilo Regular.
   ///
-  /// ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pen-nib-straight.svg)
+  /// ![pen-nib-straight](https://api.iconify.design/ph/pen-nib-straight.svg?height=32&color=%23888888)
   static const IconData penNibStraight = IconData(
     0xe64a,
     fontFamily: 'PhosphorRegular',
@@ -12571,7 +12571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencil` no estilo Regular.
   ///
-  /// ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil.svg)
+  /// ![pencil](https://api.iconify.design/ph/pencil.svg?height=32&color=%23888888)
   static const IconData pencil = IconData(
     0xe3ae,
     fontFamily: 'PhosphorRegular',
@@ -12583,7 +12583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilCircle` no estilo Regular.
   ///
-  /// ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil-circle.svg)
+  /// ![pencil-circle](https://api.iconify.design/ph/pencil-circle.svg?height=32&color=%23888888)
   static const IconData pencilCircle = IconData(
     0xe3b0,
     fontFamily: 'PhosphorRegular',
@@ -12595,7 +12595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilLine` no estilo Regular.
   ///
-  /// ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil-line.svg)
+  /// ![pencil-line](https://api.iconify.design/ph/pencil-line.svg?height=32&color=%23888888)
   static const IconData pencilLine = IconData(
     0xe3b2,
     fontFamily: 'PhosphorRegular',
@@ -12607,7 +12607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilRuler` no estilo Regular.
   ///
-  /// ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil-ruler.svg)
+  /// ![pencil-ruler](https://api.iconify.design/ph/pencil-ruler.svg?height=32&color=%23888888)
   static const IconData pencilRuler = IconData(
     0xe906,
     fontFamily: 'PhosphorRegular',
@@ -12619,7 +12619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSimple` no estilo Regular.
   ///
-  /// ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil-simple.svg)
+  /// ![pencil-simple](https://api.iconify.design/ph/pencil-simple.svg?height=32&color=%23888888)
   static const IconData pencilSimple = IconData(
     0xe3b4,
     fontFamily: 'PhosphorRegular',
@@ -12631,7 +12631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSimpleLine` no estilo Regular.
   ///
-  /// ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil-simple-line.svg)
+  /// ![pencil-simple-line](https://api.iconify.design/ph/pencil-simple-line.svg?height=32&color=%23888888)
   static const IconData pencilSimpleLine = IconData(
     0xebc6,
     fontFamily: 'PhosphorRegular',
@@ -12643,7 +12643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSimpleSlash` no estilo Regular.
   ///
-  /// ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil-simple-slash.svg)
+  /// ![pencil-simple-slash](https://api.iconify.design/ph/pencil-simple-slash.svg?height=32&color=%23888888)
   static const IconData pencilSimpleSlash = IconData(
     0xecf6,
     fontFamily: 'PhosphorRegular',
@@ -12655,7 +12655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSlash` no estilo Regular.
   ///
-  /// ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pencil-slash.svg)
+  /// ![pencil-slash](https://api.iconify.design/ph/pencil-slash.svg?height=32&color=%23888888)
   static const IconData pencilSlash = IconData(
     0xecf8,
     fontFamily: 'PhosphorRegular',
@@ -12667,7 +12667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pentagon` no estilo Regular.
   ///
-  /// ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pentagon.svg)
+  /// ![pentagon](https://api.iconify.design/ph/pentagon.svg?height=32&color=%23888888)
   static const IconData pentagon = IconData(
     0xec7e,
     fontFamily: 'PhosphorRegular',
@@ -12679,7 +12679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pentagram` no estilo Regular.
   ///
-  /// ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pentagram.svg)
+  /// ![pentagram](https://api.iconify.design/ph/pentagram.svg?height=32&color=%23888888)
   static const IconData pentagram = IconData(
     0xec5c,
     fontFamily: 'PhosphorRegular',
@@ -12691,7 +12691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pepper` no estilo Regular.
   ///
-  /// ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pepper.svg)
+  /// ![pepper](https://api.iconify.design/ph/pepper.svg?height=32&color=%23888888)
   static const IconData pepper = IconData(
     0xe94a,
     fontFamily: 'PhosphorRegular',
@@ -12703,7 +12703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `percent` no estilo Regular.
   ///
-  /// ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/percent.svg)
+  /// ![percent](https://api.iconify.design/ph/percent.svg?height=32&color=%23888888)
   static const IconData percent = IconData(
     0xe3b6,
     fontFamily: 'PhosphorRegular',
@@ -12715,7 +12715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `person` no estilo Regular.
   ///
-  /// ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person.svg)
+  /// ![person](https://api.iconify.design/ph/person.svg?height=32&color=%23888888)
   static const IconData person = IconData(
     0xe3a8,
     fontFamily: 'PhosphorRegular',
@@ -12727,7 +12727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personArmsSpread` no estilo Regular.
   ///
-  /// ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-arms-spread.svg)
+  /// ![person-arms-spread](https://api.iconify.design/ph/person-arms-spread.svg?height=32&color=%23888888)
   static const IconData personArmsSpread = IconData(
     0xecfe,
     fontFamily: 'PhosphorRegular',
@@ -12739,7 +12739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimple` no estilo Regular.
   ///
-  /// ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple.svg)
+  /// ![person-simple](https://api.iconify.design/ph/person-simple.svg?height=32&color=%23888888)
   static const IconData personSimple = IconData(
     0xe72e,
     fontFamily: 'PhosphorRegular',
@@ -12751,7 +12751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleBike` no estilo Regular.
   ///
-  /// ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-bike.svg)
+  /// ![person-simple-bike](https://api.iconify.design/ph/person-simple-bike.svg?height=32&color=%23888888)
   static const IconData personSimpleBike = IconData(
     0xe734,
     fontFamily: 'PhosphorRegular',
@@ -12763,7 +12763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleCircle` no estilo Regular.
   ///
-  /// ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-circle.svg)
+  /// ![person-simple-circle](https://api.iconify.design/ph/person-simple-circle.svg?height=32&color=%23888888)
   static const IconData personSimpleCircle = IconData(
     0xee58,
     fontFamily: 'PhosphorRegular',
@@ -12775,7 +12775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleHike` no estilo Regular.
   ///
-  /// ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-hike.svg)
+  /// ![person-simple-hike](https://api.iconify.design/ph/person-simple-hike.svg?height=32&color=%23888888)
   static const IconData personSimpleHike = IconData(
     0xed54,
     fontFamily: 'PhosphorRegular',
@@ -12787,7 +12787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleRun` no estilo Regular.
   ///
-  /// ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-run.svg)
+  /// ![person-simple-run](https://api.iconify.design/ph/person-simple-run.svg?height=32&color=%23888888)
   static const IconData personSimpleRun = IconData(
     0xe730,
     fontFamily: 'PhosphorRegular',
@@ -12799,7 +12799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleSki` no estilo Regular.
   ///
-  /// ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-ski.svg)
+  /// ![person-simple-ski](https://api.iconify.design/ph/person-simple-ski.svg?height=32&color=%23888888)
   static const IconData personSimpleSki = IconData(
     0xe71c,
     fontFamily: 'PhosphorRegular',
@@ -12811,7 +12811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleSnowboard` no estilo Regular.
   ///
-  /// ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-snowboard.svg)
+  /// ![person-simple-snowboard](https://api.iconify.design/ph/person-simple-snowboard.svg?height=32&color=%23888888)
   static const IconData personSimpleSnowboard = IconData(
     0xe71e,
     fontFamily: 'PhosphorRegular',
@@ -12823,7 +12823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleSwim` no estilo Regular.
   ///
-  /// ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-swim.svg)
+  /// ![person-simple-swim](https://api.iconify.design/ph/person-simple-swim.svg?height=32&color=%23888888)
   static const IconData personSimpleSwim = IconData(
     0xe736,
     fontFamily: 'PhosphorRegular',
@@ -12835,7 +12835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleTaiChi` no estilo Regular.
   ///
-  /// ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-tai-chi.svg)
+  /// ![person-simple-tai-chi](https://api.iconify.design/ph/person-simple-tai-chi.svg?height=32&color=%23888888)
   static const IconData personSimpleTaiChi = IconData(
     0xed5c,
     fontFamily: 'PhosphorRegular',
@@ -12847,7 +12847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleThrow` no estilo Regular.
   ///
-  /// ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-throw.svg)
+  /// ![person-simple-throw](https://api.iconify.design/ph/person-simple-throw.svg?height=32&color=%23888888)
   static const IconData personSimpleThrow = IconData(
     0xe732,
     fontFamily: 'PhosphorRegular',
@@ -12859,7 +12859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleWalk` no estilo Regular.
   ///
-  /// ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/person-simple-walk.svg)
+  /// ![person-simple-walk](https://api.iconify.design/ph/person-simple-walk.svg?height=32&color=%23888888)
   static const IconData personSimpleWalk = IconData(
     0xe73a,
     fontFamily: 'PhosphorRegular',
@@ -12871,7 +12871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `perspective` no estilo Regular.
   ///
-  /// ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/perspective.svg)
+  /// ![perspective](https://api.iconify.design/ph/perspective.svg?height=32&color=%23888888)
   static const IconData perspective = IconData(
     0xebe6,
     fontFamily: 'PhosphorRegular',
@@ -12883,7 +12883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phone` no estilo Regular.
   ///
-  /// ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone.svg)
+  /// ![phone](https://api.iconify.design/ph/phone.svg?height=32&color=%23888888)
   static const IconData phone = IconData(
     0xe3b8,
     fontFamily: 'PhosphorRegular',
@@ -12895,7 +12895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneCall` no estilo Regular.
   ///
-  /// ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-call.svg)
+  /// ![phone-call](https://api.iconify.design/ph/phone-call.svg?height=32&color=%23888888)
   static const IconData phoneCall = IconData(
     0xe3ba,
     fontFamily: 'PhosphorRegular',
@@ -12907,7 +12907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneDisconnect` no estilo Regular.
   ///
-  /// ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-disconnect.svg)
+  /// ![phone-disconnect](https://api.iconify.design/ph/phone-disconnect.svg?height=32&color=%23888888)
   static const IconData phoneDisconnect = IconData(
     0xe3bc,
     fontFamily: 'PhosphorRegular',
@@ -12919,7 +12919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneIncoming` no estilo Regular.
   ///
-  /// ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-incoming.svg)
+  /// ![phone-incoming](https://api.iconify.design/ph/phone-incoming.svg?height=32&color=%23888888)
   static const IconData phoneIncoming = IconData(
     0xe3be,
     fontFamily: 'PhosphorRegular',
@@ -12931,7 +12931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneList` no estilo Regular.
   ///
-  /// ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-list.svg)
+  /// ![phone-list](https://api.iconify.design/ph/phone-list.svg?height=32&color=%23888888)
   static const IconData phoneList = IconData(
     0xe3cc,
     fontFamily: 'PhosphorRegular',
@@ -12943,7 +12943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneOutgoing` no estilo Regular.
   ///
-  /// ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-outgoing.svg)
+  /// ![phone-outgoing](https://api.iconify.design/ph/phone-outgoing.svg?height=32&color=%23888888)
   static const IconData phoneOutgoing = IconData(
     0xe3c0,
     fontFamily: 'PhosphorRegular',
@@ -12955,7 +12955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phonePause` no estilo Regular.
   ///
-  /// ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-pause.svg)
+  /// ![phone-pause](https://api.iconify.design/ph/phone-pause.svg?height=32&color=%23888888)
   static const IconData phonePause = IconData(
     0xe3ca,
     fontFamily: 'PhosphorRegular',
@@ -12967,7 +12967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phonePlus` no estilo Regular.
   ///
-  /// ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-plus.svg)
+  /// ![phone-plus](https://api.iconify.design/ph/phone-plus.svg?height=32&color=%23888888)
   static const IconData phonePlus = IconData(
     0xec56,
     fontFamily: 'PhosphorRegular',
@@ -12979,7 +12979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneSlash` no estilo Regular.
   ///
-  /// ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-slash.svg)
+  /// ![phone-slash](https://api.iconify.design/ph/phone-slash.svg?height=32&color=%23888888)
   static const IconData phoneSlash = IconData(
     0xe3c2,
     fontFamily: 'PhosphorRegular',
@@ -12991,7 +12991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneTransfer` no estilo Regular.
   ///
-  /// ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-transfer.svg)
+  /// ![phone-transfer](https://api.iconify.design/ph/phone-transfer.svg?height=32&color=%23888888)
   static const IconData phoneTransfer = IconData(
     0xe3c6,
     fontFamily: 'PhosphorRegular',
@@ -13003,7 +13003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneX` no estilo Regular.
   ///
-  /// ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phone-x.svg)
+  /// ![phone-x](https://api.iconify.design/ph/phone-x.svg?height=32&color=%23888888)
   static const IconData phoneX = IconData(
     0xe3c4,
     fontFamily: 'PhosphorRegular',
@@ -13015,7 +13015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phosphorLogo` no estilo Regular.
   ///
-  /// ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/phosphor-logo.svg)
+  /// ![phosphor-logo](https://api.iconify.design/ph/phosphor-logo.svg?height=32&color=%23888888)
   static const IconData phosphorLogo = IconData(
     0xe3ce,
     fontFamily: 'PhosphorRegular',
@@ -13027,7 +13027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pi` no estilo Regular.
   ///
-  /// ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pi.svg)
+  /// ![pi](https://api.iconify.design/ph/pi.svg?height=32&color=%23888888)
   static const IconData pi = IconData(
     0xec80,
     fontFamily: 'PhosphorRegular',
@@ -13039,7 +13039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pianoKeys` no estilo Regular.
   ///
-  /// ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/piano-keys.svg)
+  /// ![piano-keys](https://api.iconify.design/ph/piano-keys.svg?height=32&color=%23888888)
   static const IconData pianoKeys = IconData(
     0xe9c8,
     fontFamily: 'PhosphorRegular',
@@ -13051,7 +13051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `picnicTable` no estilo Regular.
   ///
-  /// ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/picnic-table.svg)
+  /// ![picnic-table](https://api.iconify.design/ph/picnic-table.svg?height=32&color=%23888888)
   static const IconData picnicTable = IconData(
     0xee26,
     fontFamily: 'PhosphorRegular',
@@ -13063,7 +13063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pictureInPicture` no estilo Regular.
   ///
-  /// ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/picture-in-picture.svg)
+  /// ![picture-in-picture](https://api.iconify.design/ph/picture-in-picture.svg?height=32&color=%23888888)
   static const IconData pictureInPicture = IconData(
     0xe64c,
     fontFamily: 'PhosphorRegular',
@@ -13075,7 +13075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `piggyBank` no estilo Regular.
   ///
-  /// ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/piggy-bank.svg)
+  /// ![piggy-bank](https://api.iconify.design/ph/piggy-bank.svg?height=32&color=%23888888)
   static const IconData piggyBank = IconData(
     0xea04,
     fontFamily: 'PhosphorRegular',
@@ -13087,7 +13087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pill` no estilo Regular.
   ///
-  /// ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pill.svg)
+  /// ![pill](https://api.iconify.design/ph/pill.svg?height=32&color=%23888888)
   static const IconData pill = IconData(
     0xe700,
     fontFamily: 'PhosphorRegular',
@@ -13099,7 +13099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pingPong` no estilo Regular.
   ///
-  /// ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ping-pong.svg)
+  /// ![ping-pong](https://api.iconify.design/ph/ping-pong.svg?height=32&color=%23888888)
   static const IconData pingPong = IconData(
     0xea42,
     fontFamily: 'PhosphorRegular',
@@ -13111,7 +13111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pintGlass` no estilo Regular.
   ///
-  /// ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pint-glass.svg)
+  /// ![pint-glass](https://api.iconify.design/ph/pint-glass.svg?height=32&color=%23888888)
   static const IconData pintGlass = IconData(
     0xedd0,
     fontFamily: 'PhosphorRegular',
@@ -13123,7 +13123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pinterestLogo` no estilo Regular.
   ///
-  /// ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pinterest-logo.svg)
+  /// ![pinterest-logo](https://api.iconify.design/ph/pinterest-logo.svg?height=32&color=%23888888)
   static const IconData pinterestLogo = IconData(
     0xe64e,
     fontFamily: 'PhosphorRegular',
@@ -13135,7 +13135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pinwheel` no estilo Regular.
   ///
-  /// ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pinwheel.svg)
+  /// ![pinwheel](https://api.iconify.design/ph/pinwheel.svg?height=32&color=%23888888)
   static const IconData pinwheel = IconData(
     0xeb9c,
     fontFamily: 'PhosphorRegular',
@@ -13147,7 +13147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pipe` no estilo Regular.
   ///
-  /// ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pipe.svg)
+  /// ![pipe](https://api.iconify.design/ph/pipe.svg?height=32&color=%23888888)
   static const IconData pipe = IconData(
     0xed86,
     fontFamily: 'PhosphorRegular',
@@ -13159,7 +13159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pipeWrench` no estilo Regular.
   ///
-  /// ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pipe-wrench.svg)
+  /// ![pipe-wrench](https://api.iconify.design/ph/pipe-wrench.svg?height=32&color=%23888888)
   static const IconData pipeWrench = IconData(
     0xed88,
     fontFamily: 'PhosphorRegular',
@@ -13171,7 +13171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pixLogo` no estilo Regular.
   ///
-  /// ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pix-logo.svg)
+  /// ![pix-logo](https://api.iconify.design/ph/pix-logo.svg?height=32&color=%23888888)
   static const IconData pixLogo = IconData(
     0xecc2,
     fontFamily: 'PhosphorRegular',
@@ -13183,7 +13183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pizza` no estilo Regular.
   ///
-  /// ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pizza.svg)
+  /// ![pizza](https://api.iconify.design/ph/pizza.svg?height=32&color=%23888888)
   static const IconData pizza = IconData(
     0xe796,
     fontFamily: 'PhosphorRegular',
@@ -13195,7 +13195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `placeholder` no estilo Regular.
   ///
-  /// ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/placeholder.svg)
+  /// ![placeholder](https://api.iconify.design/ph/placeholder.svg?height=32&color=%23888888)
   static const IconData placeholder = IconData(
     0xe650,
     fontFamily: 'PhosphorRegular',
@@ -13207,7 +13207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `planet` no estilo Regular.
   ///
-  /// ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/planet.svg)
+  /// ![planet](https://api.iconify.design/ph/planet.svg?height=32&color=%23888888)
   static const IconData planet = IconData(
     0xe652,
     fontFamily: 'PhosphorRegular',
@@ -13219,7 +13219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plant` no estilo Regular.
   ///
-  /// ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plant.svg)
+  /// ![plant](https://api.iconify.design/ph/plant.svg?height=32&color=%23888888)
   static const IconData plant = IconData(
     0xebae,
     fontFamily: 'PhosphorRegular',
@@ -13231,7 +13231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `play` no estilo Regular.
   ///
-  /// ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/play.svg)
+  /// ![play](https://api.iconify.design/ph/play.svg?height=32&color=%23888888)
   static const IconData play = IconData(
     0xe3d0,
     fontFamily: 'PhosphorRegular',
@@ -13243,7 +13243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `playCircle` no estilo Regular.
   ///
-  /// ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/play-circle.svg)
+  /// ![play-circle](https://api.iconify.design/ph/play-circle.svg?height=32&color=%23888888)
   static const IconData playCircle = IconData(
     0xe3d2,
     fontFamily: 'PhosphorRegular',
@@ -13255,7 +13255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `playPause` no estilo Regular.
   ///
-  /// ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/play-pause.svg)
+  /// ![play-pause](https://api.iconify.design/ph/play-pause.svg?height=32&color=%23888888)
   static const IconData playPause = IconData(
     0xe8be,
     fontFamily: 'PhosphorRegular',
@@ -13267,7 +13267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `playlist` no estilo Regular.
   ///
-  /// ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/playlist.svg)
+  /// ![playlist](https://api.iconify.design/ph/playlist.svg?height=32&color=%23888888)
   static const IconData playlist = IconData(
     0xe6aa,
     fontFamily: 'PhosphorRegular',
@@ -13279,7 +13279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plug` no estilo Regular.
   ///
-  /// ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plug.svg)
+  /// ![plug](https://api.iconify.design/ph/plug.svg?height=32&color=%23888888)
   static const IconData plug = IconData(
     0xe946,
     fontFamily: 'PhosphorRegular',
@@ -13291,7 +13291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plugCharging` no estilo Regular.
   ///
-  /// ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plug-charging.svg)
+  /// ![plug-charging](https://api.iconify.design/ph/plug-charging.svg?height=32&color=%23888888)
   static const IconData plugCharging = IconData(
     0xeb5c,
     fontFamily: 'PhosphorRegular',
@@ -13303,7 +13303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plugs` no estilo Regular.
   ///
-  /// ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plugs.svg)
+  /// ![plugs](https://api.iconify.design/ph/plugs.svg?height=32&color=%23888888)
   static const IconData plugs = IconData(
     0xeb56,
     fontFamily: 'PhosphorRegular',
@@ -13315,7 +13315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plugsConnected` no estilo Regular.
   ///
-  /// ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plugs-connected.svg)
+  /// ![plugs-connected](https://api.iconify.design/ph/plugs-connected.svg?height=32&color=%23888888)
   static const IconData plugsConnected = IconData(
     0xeb5a,
     fontFamily: 'PhosphorRegular',
@@ -13327,7 +13327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plus` no estilo Regular.
   ///
-  /// ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plus.svg)
+  /// ![plus](https://api.iconify.design/ph/plus.svg?height=32&color=%23888888)
   static const IconData plus = IconData(
     0xe3d4,
     fontFamily: 'PhosphorRegular',
@@ -13339,7 +13339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plusCircle` no estilo Regular.
   ///
-  /// ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plus-circle.svg)
+  /// ![plus-circle](https://api.iconify.design/ph/plus-circle.svg?height=32&color=%23888888)
   static const IconData plusCircle = IconData(
     0xe3d6,
     fontFamily: 'PhosphorRegular',
@@ -13351,7 +13351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plusMinus` no estilo Regular.
   ///
-  /// ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plus-minus.svg)
+  /// ![plus-minus](https://api.iconify.design/ph/plus-minus.svg?height=32&color=%23888888)
   static const IconData plusMinus = IconData(
     0xe3d8,
     fontFamily: 'PhosphorRegular',
@@ -13363,7 +13363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plusSquare` no estilo Regular.
   ///
-  /// ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/plus-square.svg)
+  /// ![plus-square](https://api.iconify.design/ph/plus-square.svg?height=32&color=%23888888)
   static const IconData plusSquare = IconData(
     0xed4a,
     fontFamily: 'PhosphorRegular',
@@ -13375,7 +13375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pokerChip` no estilo Regular.
   ///
-  /// ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/poker-chip.svg)
+  /// ![poker-chip](https://api.iconify.design/ph/poker-chip.svg?height=32&color=%23888888)
   static const IconData pokerChip = IconData(
     0xe594,
     fontFamily: 'PhosphorRegular',
@@ -13387,7 +13387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `policeCar` no estilo Regular.
   ///
-  /// ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/police-car.svg)
+  /// ![police-car](https://api.iconify.design/ph/police-car.svg?height=32&color=%23888888)
   static const IconData policeCar = IconData(
     0xec4a,
     fontFamily: 'PhosphorRegular',
@@ -13399,7 +13399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `polygon` no estilo Regular.
   ///
-  /// ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/polygon.svg)
+  /// ![polygon](https://api.iconify.design/ph/polygon.svg?height=32&color=%23888888)
   static const IconData polygon = IconData(
     0xe6d0,
     fontFamily: 'PhosphorRegular',
@@ -13411,7 +13411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `popcorn` no estilo Regular.
   ///
-  /// ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/popcorn.svg)
+  /// ![popcorn](https://api.iconify.design/ph/popcorn.svg?height=32&color=%23888888)
   static const IconData popcorn = IconData(
     0xeb4e,
     fontFamily: 'PhosphorRegular',
@@ -13423,7 +13423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `popsicle` no estilo Regular.
   ///
-  /// ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/popsicle.svg)
+  /// ![popsicle](https://api.iconify.design/ph/popsicle.svg?height=32&color=%23888888)
   static const IconData popsicle = IconData(
     0xebbe,
     fontFamily: 'PhosphorRegular',
@@ -13435,7 +13435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pottedPlant` no estilo Regular.
   ///
-  /// ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/potted-plant.svg)
+  /// ![potted-plant](https://api.iconify.design/ph/potted-plant.svg?height=32&color=%23888888)
   static const IconData pottedPlant = IconData(
     0xec22,
     fontFamily: 'PhosphorRegular',
@@ -13447,7 +13447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `power` no estilo Regular.
   ///
-  /// ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/power.svg)
+  /// ![power](https://api.iconify.design/ph/power.svg?height=32&color=%23888888)
   static const IconData power = IconData(
     0xe3da,
     fontFamily: 'PhosphorRegular',
@@ -13459,7 +13459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `prescription` no estilo Regular.
   ///
-  /// ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/prescription.svg)
+  /// ![prescription](https://api.iconify.design/ph/prescription.svg?height=32&color=%23888888)
   static const IconData prescription = IconData(
     0xe7a2,
     fontFamily: 'PhosphorRegular',
@@ -13471,7 +13471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `presentation` no estilo Regular.
   ///
-  /// ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/presentation.svg)
+  /// ![presentation](https://api.iconify.design/ph/presentation.svg?height=32&color=%23888888)
   static const IconData presentation = IconData(
     0xe654,
     fontFamily: 'PhosphorRegular',
@@ -13483,7 +13483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `presentationChart` no estilo Regular.
   ///
-  /// ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/presentation-chart.svg)
+  /// ![presentation-chart](https://api.iconify.design/ph/presentation-chart.svg?height=32&color=%23888888)
   static const IconData presentationChart = IconData(
     0xe656,
     fontFamily: 'PhosphorRegular',
@@ -13495,7 +13495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `printer` no estilo Regular.
   ///
-  /// ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/printer.svg)
+  /// ![printer](https://api.iconify.design/ph/printer.svg?height=32&color=%23888888)
   static const IconData printer = IconData(
     0xe3dc,
     fontFamily: 'PhosphorRegular',
@@ -13507,7 +13507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `prohibit` no estilo Regular.
   ///
-  /// ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/prohibit.svg)
+  /// ![prohibit](https://api.iconify.design/ph/prohibit.svg?height=32&color=%23888888)
   static const IconData prohibit = IconData(
     0xe3de,
     fontFamily: 'PhosphorRegular',
@@ -13519,7 +13519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `prohibitInset` no estilo Regular.
   ///
-  /// ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/prohibit-inset.svg)
+  /// ![prohibit-inset](https://api.iconify.design/ph/prohibit-inset.svg?height=32&color=%23888888)
   static const IconData prohibitInset = IconData(
     0xe3e0,
     fontFamily: 'PhosphorRegular',
@@ -13531,7 +13531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `projectorScreen` no estilo Regular.
   ///
-  /// ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/projector-screen.svg)
+  /// ![projector-screen](https://api.iconify.design/ph/projector-screen.svg?height=32&color=%23888888)
   static const IconData projectorScreen = IconData(
     0xe658,
     fontFamily: 'PhosphorRegular',
@@ -13543,7 +13543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `projectorScreenChart` no estilo Regular.
   ///
-  /// ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/projector-screen-chart.svg)
+  /// ![projector-screen-chart](https://api.iconify.design/ph/projector-screen-chart.svg?height=32&color=%23888888)
   static const IconData projectorScreenChart = IconData(
     0xe65a,
     fontFamily: 'PhosphorRegular',
@@ -13555,7 +13555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pulse` no estilo Regular.
   ///
-  /// ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/pulse.svg)
+  /// ![pulse](https://api.iconify.design/ph/pulse.svg?height=32&color=%23888888)
   static const IconData pulse = IconData(
     0xe000,
     fontFamily: 'PhosphorRegular',
@@ -13567,7 +13567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPin` no estilo Regular.
   ///
-  /// ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/push-pin.svg)
+  /// ![push-pin](https://api.iconify.design/ph/push-pin.svg?height=32&color=%23888888)
   static const IconData pushPin = IconData(
     0xe3e2,
     fontFamily: 'PhosphorRegular',
@@ -13579,7 +13579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPinSimple` no estilo Regular.
   ///
-  /// ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/push-pin-simple.svg)
+  /// ![push-pin-simple](https://api.iconify.design/ph/push-pin-simple.svg?height=32&color=%23888888)
   static const IconData pushPinSimple = IconData(
     0xe65c,
     fontFamily: 'PhosphorRegular',
@@ -13591,7 +13591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPinSimpleSlash` no estilo Regular.
   ///
-  /// ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/push-pin-simple-slash.svg)
+  /// ![push-pin-simple-slash](https://api.iconify.design/ph/push-pin-simple-slash.svg?height=32&color=%23888888)
   static const IconData pushPinSimpleSlash = IconData(
     0xe65e,
     fontFamily: 'PhosphorRegular',
@@ -13603,7 +13603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPinSlash` no estilo Regular.
   ///
-  /// ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/push-pin-slash.svg)
+  /// ![push-pin-slash](https://api.iconify.design/ph/push-pin-slash.svg?height=32&color=%23888888)
   static const IconData pushPinSlash = IconData(
     0xe3e4,
     fontFamily: 'PhosphorRegular',
@@ -13615,7 +13615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `puzzlePiece` no estilo Regular.
   ///
-  /// ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/puzzle-piece.svg)
+  /// ![puzzle-piece](https://api.iconify.design/ph/puzzle-piece.svg?height=32&color=%23888888)
   static const IconData puzzlePiece = IconData(
     0xe596,
     fontFamily: 'PhosphorRegular',
@@ -13627,7 +13627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `qrCode` no estilo Regular.
   ///
-  /// ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/qr-code.svg)
+  /// ![qr-code](https://api.iconify.design/ph/qr-code.svg?height=32&color=%23888888)
   static const IconData qrCode = IconData(
     0xe3e6,
     fontFamily: 'PhosphorRegular',
@@ -13639,7 +13639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `question` no estilo Regular.
   ///
-  /// ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/question.svg)
+  /// ![question](https://api.iconify.design/ph/question.svg?height=32&color=%23888888)
   static const IconData question = IconData(
     0xe3e8,
     fontFamily: 'PhosphorRegular',
@@ -13651,7 +13651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `questionMark` no estilo Regular.
   ///
-  /// ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/question-mark.svg)
+  /// ![question-mark](https://api.iconify.design/ph/question-mark.svg?height=32&color=%23888888)
   static const IconData questionMark = IconData(
     0xe3e9,
     fontFamily: 'PhosphorRegular',
@@ -13663,7 +13663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `queue` no estilo Regular.
   ///
-  /// ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/queue.svg)
+  /// ![queue](https://api.iconify.design/ph/queue.svg?height=32&color=%23888888)
   static const IconData queue = IconData(
     0xe6ac,
     fontFamily: 'PhosphorRegular',
@@ -13675,7 +13675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `quotes` no estilo Regular.
   ///
-  /// ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/quotes.svg)
+  /// ![quotes](https://api.iconify.design/ph/quotes.svg?height=32&color=%23888888)
   static const IconData quotes = IconData(
     0xe660,
     fontFamily: 'PhosphorRegular',
@@ -13687,7 +13687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rabbit` no estilo Regular.
   ///
-  /// ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rabbit.svg)
+  /// ![rabbit](https://api.iconify.design/ph/rabbit.svg?height=32&color=%23888888)
   static const IconData rabbit = IconData(
     0xeac2,
     fontFamily: 'PhosphorRegular',
@@ -13699,7 +13699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `racquet` no estilo Regular.
   ///
-  /// ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/racquet.svg)
+  /// ![racquet](https://api.iconify.design/ph/racquet.svg?height=32&color=%23888888)
   static const IconData racquet = IconData(
     0xee02,
     fontFamily: 'PhosphorRegular',
@@ -13711,7 +13711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radical` no estilo Regular.
   ///
-  /// ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/radical.svg)
+  /// ![radical](https://api.iconify.design/ph/radical.svg?height=32&color=%23888888)
   static const IconData radical = IconData(
     0xe3ea,
     fontFamily: 'PhosphorRegular',
@@ -13723,7 +13723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radio` no estilo Regular.
   ///
-  /// ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/radio.svg)
+  /// ![radio](https://api.iconify.design/ph/radio.svg?height=32&color=%23888888)
   static const IconData radio = IconData(
     0xe77e,
     fontFamily: 'PhosphorRegular',
@@ -13735,7 +13735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radioButton` no estilo Regular.
   ///
-  /// ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/radio-button.svg)
+  /// ![radio-button](https://api.iconify.design/ph/radio-button.svg?height=32&color=%23888888)
   static const IconData radioButton = IconData(
     0xeb08,
     fontFamily: 'PhosphorRegular',
@@ -13747,7 +13747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radioactive` no estilo Regular.
   ///
-  /// ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/radioactive.svg)
+  /// ![radioactive](https://api.iconify.design/ph/radioactive.svg?height=32&color=%23888888)
   static const IconData radioactive = IconData(
     0xe9dc,
     fontFamily: 'PhosphorRegular',
@@ -13759,7 +13759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rainbow` no estilo Regular.
   ///
-  /// ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rainbow.svg)
+  /// ![rainbow](https://api.iconify.design/ph/rainbow.svg?height=32&color=%23888888)
   static const IconData rainbow = IconData(
     0xe598,
     fontFamily: 'PhosphorRegular',
@@ -13771,7 +13771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rainbowCloud` no estilo Regular.
   ///
-  /// ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rainbow-cloud.svg)
+  /// ![rainbow-cloud](https://api.iconify.design/ph/rainbow-cloud.svg?height=32&color=%23888888)
   static const IconData rainbowCloud = IconData(
     0xe59a,
     fontFamily: 'PhosphorRegular',
@@ -13783,7 +13783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ranking` no estilo Regular.
   ///
-  /// ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ranking.svg)
+  /// ![ranking](https://api.iconify.design/ph/ranking.svg?height=32&color=%23888888)
   static const IconData ranking = IconData(
     0xed62,
     fontFamily: 'PhosphorRegular',
@@ -13795,7 +13795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `readCvLogo` no estilo Regular.
   ///
-  /// ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/read-cv-logo.svg)
+  /// ![read-cv-logo](https://api.iconify.design/ph/read-cv-logo.svg?height=32&color=%23888888)
   static const IconData readCvLogo = IconData(
     0xed0c,
     fontFamily: 'PhosphorRegular',
@@ -13807,7 +13807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `receipt` no estilo Regular.
   ///
-  /// ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/receipt.svg)
+  /// ![receipt](https://api.iconify.design/ph/receipt.svg?height=32&color=%23888888)
   static const IconData receipt = IconData(
     0xe3ec,
     fontFamily: 'PhosphorRegular',
@@ -13819,7 +13819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `receiptX` no estilo Regular.
   ///
-  /// ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/receipt-x.svg)
+  /// ![receipt-x](https://api.iconify.design/ph/receipt-x.svg?height=32&color=%23888888)
   static const IconData receiptX = IconData(
     0xed40,
     fontFamily: 'PhosphorRegular',
@@ -13831,7 +13831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `record` no estilo Regular.
   ///
-  /// ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/record.svg)
+  /// ![record](https://api.iconify.design/ph/record.svg?height=32&color=%23888888)
   static const IconData record = IconData(
     0xe3ee,
     fontFamily: 'PhosphorRegular',
@@ -13843,7 +13843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rectangle` no estilo Regular.
   ///
-  /// ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rectangle.svg)
+  /// ![rectangle](https://api.iconify.design/ph/rectangle.svg?height=32&color=%23888888)
   static const IconData rectangle = IconData(
     0xe3f0,
     fontFamily: 'PhosphorRegular',
@@ -13855,7 +13855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rectangleDashed` no estilo Regular.
   ///
-  /// ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rectangle-dashed.svg)
+  /// ![rectangle-dashed](https://api.iconify.design/ph/rectangle-dashed.svg?height=32&color=%23888888)
   static const IconData rectangleDashed = IconData(
     0xe3f2,
     fontFamily: 'PhosphorRegular',
@@ -13867,7 +13867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `recycle` no estilo Regular.
   ///
-  /// ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/recycle.svg)
+  /// ![recycle](https://api.iconify.design/ph/recycle.svg?height=32&color=%23888888)
   static const IconData recycle = IconData(
     0xe75a,
     fontFamily: 'PhosphorRegular',
@@ -13879,7 +13879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `redditLogo` no estilo Regular.
   ///
-  /// ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/reddit-logo.svg)
+  /// ![reddit-logo](https://api.iconify.design/ph/reddit-logo.svg?height=32&color=%23888888)
   static const IconData redditLogo = IconData(
     0xe59c,
     fontFamily: 'PhosphorRegular',
@@ -13891,7 +13891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `repeat` no estilo Regular.
   ///
-  /// ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/repeat.svg)
+  /// ![repeat](https://api.iconify.design/ph/repeat.svg?height=32&color=%23888888)
   static const IconData repeat = IconData(
     0xe3f6,
     fontFamily: 'PhosphorRegular',
@@ -13903,7 +13903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `repeatOnce` no estilo Regular.
   ///
-  /// ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/repeat-once.svg)
+  /// ![repeat-once](https://api.iconify.design/ph/repeat-once.svg?height=32&color=%23888888)
   static const IconData repeatOnce = IconData(
     0xe3f8,
     fontFamily: 'PhosphorRegular',
@@ -13915,7 +13915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `replitLogo` no estilo Regular.
   ///
-  /// ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/replit-logo.svg)
+  /// ![replit-logo](https://api.iconify.design/ph/replit-logo.svg?height=32&color=%23888888)
   static const IconData replitLogo = IconData(
     0xeb8a,
     fontFamily: 'PhosphorRegular',
@@ -13927,7 +13927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `resize` no estilo Regular.
   ///
-  /// ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/resize.svg)
+  /// ![resize](https://api.iconify.design/ph/resize.svg?height=32&color=%23888888)
   static const IconData resize = IconData(
     0xed6e,
     fontFamily: 'PhosphorRegular',
@@ -13939,7 +13939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rewind` no estilo Regular.
   ///
-  /// ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rewind.svg)
+  /// ![rewind](https://api.iconify.design/ph/rewind.svg?height=32&color=%23888888)
   static const IconData rewind = IconData(
     0xe6a8,
     fontFamily: 'PhosphorRegular',
@@ -13951,7 +13951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rewindCircle` no estilo Regular.
   ///
-  /// ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rewind-circle.svg)
+  /// ![rewind-circle](https://api.iconify.design/ph/rewind-circle.svg?height=32&color=%23888888)
   static const IconData rewindCircle = IconData(
     0xe3fa,
     fontFamily: 'PhosphorRegular',
@@ -13963,7 +13963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `roadHorizon` no estilo Regular.
   ///
-  /// ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/road-horizon.svg)
+  /// ![road-horizon](https://api.iconify.design/ph/road-horizon.svg?height=32&color=%23888888)
   static const IconData roadHorizon = IconData(
     0xe838,
     fontFamily: 'PhosphorRegular',
@@ -13975,7 +13975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `robot` no estilo Regular.
   ///
-  /// ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/robot.svg)
+  /// ![robot](https://api.iconify.design/ph/robot.svg?height=32&color=%23888888)
   static const IconData robot = IconData(
     0xe762,
     fontFamily: 'PhosphorRegular',
@@ -13987,7 +13987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rocket` no estilo Regular.
   ///
-  /// ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rocket.svg)
+  /// ![rocket](https://api.iconify.design/ph/rocket.svg?height=32&color=%23888888)
   static const IconData rocket = IconData(
     0xe3fc,
     fontFamily: 'PhosphorRegular',
@@ -13999,7 +13999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rocketLaunch` no estilo Regular.
   ///
-  /// ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rocket-launch.svg)
+  /// ![rocket-launch](https://api.iconify.design/ph/rocket-launch.svg?height=32&color=%23888888)
   static const IconData rocketLaunch = IconData(
     0xe3fe,
     fontFamily: 'PhosphorRegular',
@@ -14011,7 +14011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rows` no estilo Regular.
   ///
-  /// ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rows.svg)
+  /// ![rows](https://api.iconify.design/ph/rows.svg?height=32&color=%23888888)
   static const IconData rows = IconData(
     0xe5a2,
     fontFamily: 'PhosphorRegular',
@@ -14023,7 +14023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rowsPlusBottom` no estilo Regular.
   ///
-  /// ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rows-plus-bottom.svg)
+  /// ![rows-plus-bottom](https://api.iconify.design/ph/rows-plus-bottom.svg?height=32&color=%23888888)
   static const IconData rowsPlusBottom = IconData(
     0xe59e,
     fontFamily: 'PhosphorRegular',
@@ -14035,7 +14035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rowsPlusTop` no estilo Regular.
   ///
-  /// ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rows-plus-top.svg)
+  /// ![rows-plus-top](https://api.iconify.design/ph/rows-plus-top.svg?height=32&color=%23888888)
   static const IconData rowsPlusTop = IconData(
     0xe5a0,
     fontFamily: 'PhosphorRegular',
@@ -14047,7 +14047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rss` no estilo Regular.
   ///
-  /// ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rss.svg)
+  /// ![rss](https://api.iconify.design/ph/rss.svg?height=32&color=%23888888)
   static const IconData rss = IconData(
     0xe400,
     fontFamily: 'PhosphorRegular',
@@ -14059,7 +14059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rssSimple` no estilo Regular.
   ///
-  /// ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rss-simple.svg)
+  /// ![rss-simple](https://api.iconify.design/ph/rss-simple.svg?height=32&color=%23888888)
   static const IconData rssSimple = IconData(
     0xe402,
     fontFamily: 'PhosphorRegular',
@@ -14071,7 +14071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rug` no estilo Regular.
   ///
-  /// ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/rug.svg)
+  /// ![rug](https://api.iconify.design/ph/rug.svg?height=32&color=%23888888)
   static const IconData rug = IconData(
     0xea1a,
     fontFamily: 'PhosphorRegular',
@@ -14083,7 +14083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ruler` no estilo Regular.
   ///
-  /// ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ruler.svg)
+  /// ![ruler](https://api.iconify.design/ph/ruler.svg?height=32&color=%23888888)
   static const IconData ruler = IconData(
     0xe6b8,
     fontFamily: 'PhosphorRegular',
@@ -14095,7 +14095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sailboat` no estilo Regular.
   ///
-  /// ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sailboat.svg)
+  /// ![sailboat](https://api.iconify.design/ph/sailboat.svg?height=32&color=%23888888)
   static const IconData sailboat = IconData(
     0xe78a,
     fontFamily: 'PhosphorRegular',
@@ -14107,7 +14107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scales` no estilo Regular.
   ///
-  /// ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scales.svg)
+  /// ![scales](https://api.iconify.design/ph/scales.svg?height=32&color=%23888888)
   static const IconData scales = IconData(
     0xe750,
     fontFamily: 'PhosphorRegular',
@@ -14119,7 +14119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scan` no estilo Regular.
   ///
-  /// ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scan.svg)
+  /// ![scan](https://api.iconify.design/ph/scan.svg?height=32&color=%23888888)
   static const IconData scan = IconData(
     0xebb6,
     fontFamily: 'PhosphorRegular',
@@ -14131,7 +14131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scanSmiley` no estilo Regular.
   ///
-  /// ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scan-smiley.svg)
+  /// ![scan-smiley](https://api.iconify.design/ph/scan-smiley.svg?height=32&color=%23888888)
   static const IconData scanSmiley = IconData(
     0xebb4,
     fontFamily: 'PhosphorRegular',
@@ -14143,7 +14143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scissors` no estilo Regular.
   ///
-  /// ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scissors.svg)
+  /// ![scissors](https://api.iconify.design/ph/scissors.svg?height=32&color=%23888888)
   static const IconData scissors = IconData(
     0xeae0,
     fontFamily: 'PhosphorRegular',
@@ -14155,7 +14155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scooter` no estilo Regular.
   ///
-  /// ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scooter.svg)
+  /// ![scooter](https://api.iconify.design/ph/scooter.svg?height=32&color=%23888888)
   static const IconData scooter = IconData(
     0xe820,
     fontFamily: 'PhosphorRegular',
@@ -14167,7 +14167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `screencast` no estilo Regular.
   ///
-  /// ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/screencast.svg)
+  /// ![screencast](https://api.iconify.design/ph/screencast.svg?height=32&color=%23888888)
   static const IconData screencast = IconData(
     0xe404,
     fontFamily: 'PhosphorRegular',
@@ -14179,7 +14179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `screwdriver` no estilo Regular.
   ///
-  /// ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/screwdriver.svg)
+  /// ![screwdriver](https://api.iconify.design/ph/screwdriver.svg?height=32&color=%23888888)
   static const IconData screwdriver = IconData(
     0xe86e,
     fontFamily: 'PhosphorRegular',
@@ -14191,7 +14191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scribble` no estilo Regular.
   ///
-  /// ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scribble.svg)
+  /// ![scribble](https://api.iconify.design/ph/scribble.svg?height=32&color=%23888888)
   static const IconData scribble = IconData(
     0xe806,
     fontFamily: 'PhosphorRegular',
@@ -14203,7 +14203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scribbleLoop` no estilo Regular.
   ///
-  /// ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scribble-loop.svg)
+  /// ![scribble-loop](https://api.iconify.design/ph/scribble-loop.svg?height=32&color=%23888888)
   static const IconData scribbleLoop = IconData(
     0xe662,
     fontFamily: 'PhosphorRegular',
@@ -14215,7 +14215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scroll` no estilo Regular.
   ///
-  /// ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/scroll.svg)
+  /// ![scroll](https://api.iconify.design/ph/scroll.svg?height=32&color=%23888888)
   static const IconData scroll = IconData(
     0xeb7a,
     fontFamily: 'PhosphorRegular',
@@ -14227,7 +14227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `seal` no estilo Regular.
   ///
-  /// ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/seal.svg)
+  /// ![seal](https://api.iconify.design/ph/seal.svg?height=32&color=%23888888)
   static const IconData seal = IconData(
     0xe604,
     fontFamily: 'PhosphorRegular',
@@ -14239,7 +14239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealCheck` no estilo Regular.
   ///
-  /// ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/seal-check.svg)
+  /// ![seal-check](https://api.iconify.design/ph/seal-check.svg?height=32&color=%23888888)
   static const IconData sealCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorRegular',
@@ -14251,7 +14251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealPercent` no estilo Regular.
   ///
-  /// ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/seal-percent.svg)
+  /// ![seal-percent](https://api.iconify.design/ph/seal-percent.svg?height=32&color=%23888888)
   static const IconData sealPercent = IconData(
     0xe60a,
     fontFamily: 'PhosphorRegular',
@@ -14263,7 +14263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealQuestion` no estilo Regular.
   ///
-  /// ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/seal-question.svg)
+  /// ![seal-question](https://api.iconify.design/ph/seal-question.svg?height=32&color=%23888888)
   static const IconData sealQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorRegular',
@@ -14275,7 +14275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealWarning` no estilo Regular.
   ///
-  /// ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/seal-warning.svg)
+  /// ![seal-warning](https://api.iconify.design/ph/seal-warning.svg?height=32&color=%23888888)
   static const IconData sealWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorRegular',
@@ -14287,7 +14287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `seat` no estilo Regular.
   ///
-  /// ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/seat.svg)
+  /// ![seat](https://api.iconify.design/ph/seat.svg?height=32&color=%23888888)
   static const IconData seat = IconData(
     0xeb8e,
     fontFamily: 'PhosphorRegular',
@@ -14299,7 +14299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `seatbelt` no estilo Regular.
   ///
-  /// ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/seatbelt.svg)
+  /// ![seatbelt](https://api.iconify.design/ph/seatbelt.svg?height=32&color=%23888888)
   static const IconData seatbelt = IconData(
     0xedfe,
     fontFamily: 'PhosphorRegular',
@@ -14311,7 +14311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `securityCamera` no estilo Regular.
   ///
-  /// ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/security-camera.svg)
+  /// ![security-camera](https://api.iconify.design/ph/security-camera.svg?height=32&color=%23888888)
   static const IconData securityCamera = IconData(
     0xeca4,
     fontFamily: 'PhosphorRegular',
@@ -14323,7 +14323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selection` no estilo Regular.
   ///
-  /// ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/selection.svg)
+  /// ![selection](https://api.iconify.design/ph/selection.svg?height=32&color=%23888888)
   static const IconData selection = IconData(
     0xe69a,
     fontFamily: 'PhosphorRegular',
@@ -14335,7 +14335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionAll` no estilo Regular.
   ///
-  /// ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/selection-all.svg)
+  /// ![selection-all](https://api.iconify.design/ph/selection-all.svg?height=32&color=%23888888)
   static const IconData selectionAll = IconData(
     0xe746,
     fontFamily: 'PhosphorRegular',
@@ -14347,7 +14347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionBackground` no estilo Regular.
   ///
-  /// ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/selection-background.svg)
+  /// ![selection-background](https://api.iconify.design/ph/selection-background.svg?height=32&color=%23888888)
   static const IconData selectionBackground = IconData(
     0xeaf8,
     fontFamily: 'PhosphorRegular',
@@ -14359,7 +14359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionForeground` no estilo Regular.
   ///
-  /// ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/selection-foreground.svg)
+  /// ![selection-foreground](https://api.iconify.design/ph/selection-foreground.svg?height=32&color=%23888888)
   static const IconData selectionForeground = IconData(
     0xeaf6,
     fontFamily: 'PhosphorRegular',
@@ -14371,7 +14371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionInverse` no estilo Regular.
   ///
-  /// ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/selection-inverse.svg)
+  /// ![selection-inverse](https://api.iconify.design/ph/selection-inverse.svg?height=32&color=%23888888)
   static const IconData selectionInverse = IconData(
     0xe744,
     fontFamily: 'PhosphorRegular',
@@ -14383,7 +14383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionPlus` no estilo Regular.
   ///
-  /// ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/selection-plus.svg)
+  /// ![selection-plus](https://api.iconify.design/ph/selection-plus.svg?height=32&color=%23888888)
   static const IconData selectionPlus = IconData(
     0xe69c,
     fontFamily: 'PhosphorRegular',
@@ -14395,7 +14395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionSlash` no estilo Regular.
   ///
-  /// ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/selection-slash.svg)
+  /// ![selection-slash](https://api.iconify.design/ph/selection-slash.svg?height=32&color=%23888888)
   static const IconData selectionSlash = IconData(
     0xe69e,
     fontFamily: 'PhosphorRegular',
@@ -14407,7 +14407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shapes` no estilo Regular.
   ///
-  /// ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shapes.svg)
+  /// ![shapes](https://api.iconify.design/ph/shapes.svg?height=32&color=%23888888)
   static const IconData shapes = IconData(
     0xec5e,
     fontFamily: 'PhosphorRegular',
@@ -14419,7 +14419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `share` no estilo Regular.
   ///
-  /// ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/share.svg)
+  /// ![share](https://api.iconify.design/ph/share.svg?height=32&color=%23888888)
   static const IconData share = IconData(
     0xe406,
     fontFamily: 'PhosphorRegular',
@@ -14431,7 +14431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shareFat` no estilo Regular.
   ///
-  /// ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/share-fat.svg)
+  /// ![share-fat](https://api.iconify.design/ph/share-fat.svg?height=32&color=%23888888)
   static const IconData shareFat = IconData(
     0xed52,
     fontFamily: 'PhosphorRegular',
@@ -14443,7 +14443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shareNetwork` no estilo Regular.
   ///
-  /// ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/share-network.svg)
+  /// ![share-network](https://api.iconify.design/ph/share-network.svg?height=32&color=%23888888)
   static const IconData shareNetwork = IconData(
     0xe408,
     fontFamily: 'PhosphorRegular',
@@ -14455,7 +14455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shield` no estilo Regular.
   ///
-  /// ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield.svg)
+  /// ![shield](https://api.iconify.design/ph/shield.svg?height=32&color=%23888888)
   static const IconData shield = IconData(
     0xe40a,
     fontFamily: 'PhosphorRegular',
@@ -14467,7 +14467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldCheck` no estilo Regular.
   ///
-  /// ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield-check.svg)
+  /// ![shield-check](https://api.iconify.design/ph/shield-check.svg?height=32&color=%23888888)
   static const IconData shieldCheck = IconData(
     0xe40c,
     fontFamily: 'PhosphorRegular',
@@ -14479,7 +14479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldCheckered` no estilo Regular.
   ///
-  /// ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield-checkered.svg)
+  /// ![shield-checkered](https://api.iconify.design/ph/shield-checkered.svg?height=32&color=%23888888)
   static const IconData shieldCheckered = IconData(
     0xe708,
     fontFamily: 'PhosphorRegular',
@@ -14491,7 +14491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldChevron` no estilo Regular.
   ///
-  /// ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield-chevron.svg)
+  /// ![shield-chevron](https://api.iconify.design/ph/shield-chevron.svg?height=32&color=%23888888)
   static const IconData shieldChevron = IconData(
     0xe40e,
     fontFamily: 'PhosphorRegular',
@@ -14503,7 +14503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldPlus` no estilo Regular.
   ///
-  /// ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield-plus.svg)
+  /// ![shield-plus](https://api.iconify.design/ph/shield-plus.svg?height=32&color=%23888888)
   static const IconData shieldPlus = IconData(
     0xe706,
     fontFamily: 'PhosphorRegular',
@@ -14515,7 +14515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldSlash` no estilo Regular.
   ///
-  /// ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield-slash.svg)
+  /// ![shield-slash](https://api.iconify.design/ph/shield-slash.svg?height=32&color=%23888888)
   static const IconData shieldSlash = IconData(
     0xe410,
     fontFamily: 'PhosphorRegular',
@@ -14527,7 +14527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldStar` no estilo Regular.
   ///
-  /// ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield-star.svg)
+  /// ![shield-star](https://api.iconify.design/ph/shield-star.svg?height=32&color=%23888888)
   static const IconData shieldStar = IconData(
     0xec34,
     fontFamily: 'PhosphorRegular',
@@ -14539,7 +14539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldWarning` no estilo Regular.
   ///
-  /// ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shield-warning.svg)
+  /// ![shield-warning](https://api.iconify.design/ph/shield-warning.svg?height=32&color=%23888888)
   static const IconData shieldWarning = IconData(
     0xe412,
     fontFamily: 'PhosphorRegular',
@@ -14551,7 +14551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shippingContainer` no estilo Regular.
   ///
-  /// ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shipping-container.svg)
+  /// ![shipping-container](https://api.iconify.design/ph/shipping-container.svg?height=32&color=%23888888)
   static const IconData shippingContainer = IconData(
     0xe78c,
     fontFamily: 'PhosphorRegular',
@@ -14563,7 +14563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shirtFolded` no estilo Regular.
   ///
-  /// ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shirt-folded.svg)
+  /// ![shirt-folded](https://api.iconify.design/ph/shirt-folded.svg?height=32&color=%23888888)
   static const IconData shirtFolded = IconData(
     0xea92,
     fontFamily: 'PhosphorRegular',
@@ -14575,7 +14575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shootingStar` no estilo Regular.
   ///
-  /// ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shooting-star.svg)
+  /// ![shooting-star](https://api.iconify.design/ph/shooting-star.svg?height=32&color=%23888888)
   static const IconData shootingStar = IconData(
     0xecfa,
     fontFamily: 'PhosphorRegular',
@@ -14587,7 +14587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingBag` no estilo Regular.
   ///
-  /// ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shopping-bag.svg)
+  /// ![shopping-bag](https://api.iconify.design/ph/shopping-bag.svg?height=32&color=%23888888)
   static const IconData shoppingBag = IconData(
     0xe416,
     fontFamily: 'PhosphorRegular',
@@ -14599,7 +14599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingBagOpen` no estilo Regular.
   ///
-  /// ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shopping-bag-open.svg)
+  /// ![shopping-bag-open](https://api.iconify.design/ph/shopping-bag-open.svg?height=32&color=%23888888)
   static const IconData shoppingBagOpen = IconData(
     0xe418,
     fontFamily: 'PhosphorRegular',
@@ -14611,7 +14611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingCart` no estilo Regular.
   ///
-  /// ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shopping-cart.svg)
+  /// ![shopping-cart](https://api.iconify.design/ph/shopping-cart.svg?height=32&color=%23888888)
   static const IconData shoppingCart = IconData(
     0xe41e,
     fontFamily: 'PhosphorRegular',
@@ -14623,7 +14623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingCartSimple` no estilo Regular.
   ///
-  /// ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shopping-cart-simple.svg)
+  /// ![shopping-cart-simple](https://api.iconify.design/ph/shopping-cart-simple.svg?height=32&color=%23888888)
   static const IconData shoppingCartSimple = IconData(
     0xe420,
     fontFamily: 'PhosphorRegular',
@@ -14635,7 +14635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shovel` no estilo Regular.
   ///
-  /// ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shovel.svg)
+  /// ![shovel](https://api.iconify.design/ph/shovel.svg?height=32&color=%23888888)
   static const IconData shovel = IconData(
     0xe9e6,
     fontFamily: 'PhosphorRegular',
@@ -14647,7 +14647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shower` no estilo Regular.
   ///
-  /// ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shower.svg)
+  /// ![shower](https://api.iconify.design/ph/shower.svg?height=32&color=%23888888)
   static const IconData shower = IconData(
     0xe776,
     fontFamily: 'PhosphorRegular',
@@ -14659,7 +14659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shrimp` no estilo Regular.
   ///
-  /// ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shrimp.svg)
+  /// ![shrimp](https://api.iconify.design/ph/shrimp.svg?height=32&color=%23888888)
   static const IconData shrimp = IconData(
     0xeab4,
     fontFamily: 'PhosphorRegular',
@@ -14671,7 +14671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shuffle` no estilo Regular.
   ///
-  /// ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shuffle.svg)
+  /// ![shuffle](https://api.iconify.design/ph/shuffle.svg?height=32&color=%23888888)
   static const IconData shuffle = IconData(
     0xe422,
     fontFamily: 'PhosphorRegular',
@@ -14683,7 +14683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shuffleAngular` no estilo Regular.
   ///
-  /// ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shuffle-angular.svg)
+  /// ![shuffle-angular](https://api.iconify.design/ph/shuffle-angular.svg?height=32&color=%23888888)
   static const IconData shuffleAngular = IconData(
     0xe424,
     fontFamily: 'PhosphorRegular',
@@ -14695,7 +14695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shuffleSimple` no estilo Regular.
   ///
-  /// ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/shuffle-simple.svg)
+  /// ![shuffle-simple](https://api.iconify.design/ph/shuffle-simple.svg?height=32&color=%23888888)
   static const IconData shuffleSimple = IconData(
     0xe426,
     fontFamily: 'PhosphorRegular',
@@ -14707,7 +14707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sidebar` no estilo Regular.
   ///
-  /// ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sidebar.svg)
+  /// ![sidebar](https://api.iconify.design/ph/sidebar.svg?height=32&color=%23888888)
   static const IconData sidebar = IconData(
     0xeab6,
     fontFamily: 'PhosphorRegular',
@@ -14719,7 +14719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sidebarSimple` no estilo Regular.
   ///
-  /// ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sidebar-simple.svg)
+  /// ![sidebar-simple](https://api.iconify.design/ph/sidebar-simple.svg?height=32&color=%23888888)
   static const IconData sidebarSimple = IconData(
     0xec24,
     fontFamily: 'PhosphorRegular',
@@ -14731,7 +14731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sigma` no estilo Regular.
   ///
-  /// ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sigma.svg)
+  /// ![sigma](https://api.iconify.design/ph/sigma.svg?height=32&color=%23888888)
   static const IconData sigma = IconData(
     0xeab8,
     fontFamily: 'PhosphorRegular',
@@ -14743,7 +14743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signIn` no estilo Regular.
   ///
-  /// ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sign-in.svg)
+  /// ![sign-in](https://api.iconify.design/ph/sign-in.svg?height=32&color=%23888888)
   static const IconData signIn = IconData(
     0xe428,
     fontFamily: 'PhosphorRegular',
@@ -14755,7 +14755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signOut` no estilo Regular.
   ///
-  /// ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sign-out.svg)
+  /// ![sign-out](https://api.iconify.design/ph/sign-out.svg?height=32&color=%23888888)
   static const IconData signOut = IconData(
     0xe42a,
     fontFamily: 'PhosphorRegular',
@@ -14767,7 +14767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signature` no estilo Regular.
   ///
-  /// ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/signature.svg)
+  /// ![signature](https://api.iconify.design/ph/signature.svg?height=32&color=%23888888)
   static const IconData signature = IconData(
     0xebac,
     fontFamily: 'PhosphorRegular',
@@ -14779,7 +14779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signpost` no estilo Regular.
   ///
-  /// ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/signpost.svg)
+  /// ![signpost](https://api.iconify.design/ph/signpost.svg?height=32&color=%23888888)
   static const IconData signpost = IconData(
     0xe89c,
     fontFamily: 'PhosphorRegular',
@@ -14791,7 +14791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `simCard` no estilo Regular.
   ///
-  /// ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sim-card.svg)
+  /// ![sim-card](https://api.iconify.design/ph/sim-card.svg?height=32&color=%23888888)
   static const IconData simCard = IconData(
     0xe664,
     fontFamily: 'PhosphorRegular',
@@ -14803,7 +14803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `siren` no estilo Regular.
   ///
-  /// ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/siren.svg)
+  /// ![siren](https://api.iconify.design/ph/siren.svg?height=32&color=%23888888)
   static const IconData siren = IconData(
     0xe9b8,
     fontFamily: 'PhosphorRegular',
@@ -14815,7 +14815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sketchLogo` no estilo Regular.
   ///
-  /// ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sketch-logo.svg)
+  /// ![sketch-logo](https://api.iconify.design/ph/sketch-logo.svg?height=32&color=%23888888)
   static const IconData sketchLogo = IconData(
     0xe42c,
     fontFamily: 'PhosphorRegular',
@@ -14827,7 +14827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipBack` no estilo Regular.
   ///
-  /// ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/skip-back.svg)
+  /// ![skip-back](https://api.iconify.design/ph/skip-back.svg?height=32&color=%23888888)
   static const IconData skipBack = IconData(
     0xe5a4,
     fontFamily: 'PhosphorRegular',
@@ -14839,7 +14839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipBackCircle` no estilo Regular.
   ///
-  /// ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/skip-back-circle.svg)
+  /// ![skip-back-circle](https://api.iconify.design/ph/skip-back-circle.svg?height=32&color=%23888888)
   static const IconData skipBackCircle = IconData(
     0xe42e,
     fontFamily: 'PhosphorRegular',
@@ -14851,7 +14851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipForward` no estilo Regular.
   ///
-  /// ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/skip-forward.svg)
+  /// ![skip-forward](https://api.iconify.design/ph/skip-forward.svg?height=32&color=%23888888)
   static const IconData skipForward = IconData(
     0xe5a6,
     fontFamily: 'PhosphorRegular',
@@ -14863,7 +14863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipForwardCircle` no estilo Regular.
   ///
-  /// ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/skip-forward-circle.svg)
+  /// ![skip-forward-circle](https://api.iconify.design/ph/skip-forward-circle.svg?height=32&color=%23888888)
   static const IconData skipForwardCircle = IconData(
     0xe430,
     fontFamily: 'PhosphorRegular',
@@ -14875,7 +14875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skull` no estilo Regular.
   ///
-  /// ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/skull.svg)
+  /// ![skull](https://api.iconify.design/ph/skull.svg?height=32&color=%23888888)
   static const IconData skull = IconData(
     0xe916,
     fontFamily: 'PhosphorRegular',
@@ -14887,7 +14887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skypeLogo` no estilo Regular.
   ///
-  /// ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/skype-logo.svg)
+  /// ![skype-logo](https://api.iconify.design/ph/skype-logo.svg?height=32&color=%23888888)
   static const IconData skypeLogo = IconData(
     0xe8dc,
     fontFamily: 'PhosphorRegular',
@@ -14899,7 +14899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `slackLogo` no estilo Regular.
   ///
-  /// ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/slack-logo.svg)
+  /// ![slack-logo](https://api.iconify.design/ph/slack-logo.svg?height=32&color=%23888888)
   static const IconData slackLogo = IconData(
     0xe5a8,
     fontFamily: 'PhosphorRegular',
@@ -14911,7 +14911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sliders` no estilo Regular.
   ///
-  /// ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sliders.svg)
+  /// ![sliders](https://api.iconify.design/ph/sliders.svg?height=32&color=%23888888)
   static const IconData sliders = IconData(
     0xe432,
     fontFamily: 'PhosphorRegular',
@@ -14923,7 +14923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `slidersHorizontal` no estilo Regular.
   ///
-  /// ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sliders-horizontal.svg)
+  /// ![sliders-horizontal](https://api.iconify.design/ph/sliders-horizontal.svg?height=32&color=%23888888)
   static const IconData slidersHorizontal = IconData(
     0xe434,
     fontFamily: 'PhosphorRegular',
@@ -14935,7 +14935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `slideshow` no estilo Regular.
   ///
-  /// ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/slideshow.svg)
+  /// ![slideshow](https://api.iconify.design/ph/slideshow.svg?height=32&color=%23888888)
   static const IconData slideshow = IconData(
     0xed32,
     fontFamily: 'PhosphorRegular',
@@ -14947,7 +14947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smiley` no estilo Regular.
   ///
-  /// ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley.svg)
+  /// ![smiley](https://api.iconify.design/ph/smiley.svg?height=32&color=%23888888)
   static const IconData smiley = IconData(
     0xe436,
     fontFamily: 'PhosphorRegular',
@@ -14959,7 +14959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyAngry` no estilo Regular.
   ///
-  /// ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-angry.svg)
+  /// ![smiley-angry](https://api.iconify.design/ph/smiley-angry.svg?height=32&color=%23888888)
   static const IconData smileyAngry = IconData(
     0xec62,
     fontFamily: 'PhosphorRegular',
@@ -14971,7 +14971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyBlank` no estilo Regular.
   ///
-  /// ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-blank.svg)
+  /// ![smiley-blank](https://api.iconify.design/ph/smiley-blank.svg?height=32&color=%23888888)
   static const IconData smileyBlank = IconData(
     0xe438,
     fontFamily: 'PhosphorRegular',
@@ -14983,7 +14983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyMeh` no estilo Regular.
   ///
-  /// ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-meh.svg)
+  /// ![smiley-meh](https://api.iconify.design/ph/smiley-meh.svg?height=32&color=%23888888)
   static const IconData smileyMeh = IconData(
     0xe43a,
     fontFamily: 'PhosphorRegular',
@@ -14995,7 +14995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyMelting` no estilo Regular.
   ///
-  /// ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-melting.svg)
+  /// ![smiley-melting](https://api.iconify.design/ph/smiley-melting.svg?height=32&color=%23888888)
   static const IconData smileyMelting = IconData(
     0xee56,
     fontFamily: 'PhosphorRegular',
@@ -15007,7 +15007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyNervous` no estilo Regular.
   ///
-  /// ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-nervous.svg)
+  /// ![smiley-nervous](https://api.iconify.design/ph/smiley-nervous.svg?height=32&color=%23888888)
   static const IconData smileyNervous = IconData(
     0xe43c,
     fontFamily: 'PhosphorRegular',
@@ -15019,7 +15019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileySad` no estilo Regular.
   ///
-  /// ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-sad.svg)
+  /// ![smiley-sad](https://api.iconify.design/ph/smiley-sad.svg?height=32&color=%23888888)
   static const IconData smileySad = IconData(
     0xe43e,
     fontFamily: 'PhosphorRegular',
@@ -15031,7 +15031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileySticker` no estilo Regular.
   ///
-  /// ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-sticker.svg)
+  /// ![smiley-sticker](https://api.iconify.design/ph/smiley-sticker.svg?height=32&color=%23888888)
   static const IconData smileySticker = IconData(
     0xe440,
     fontFamily: 'PhosphorRegular',
@@ -15043,7 +15043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyWink` no estilo Regular.
   ///
-  /// ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-wink.svg)
+  /// ![smiley-wink](https://api.iconify.design/ph/smiley-wink.svg?height=32&color=%23888888)
   static const IconData smileyWink = IconData(
     0xe666,
     fontFamily: 'PhosphorRegular',
@@ -15055,7 +15055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyXEyes` no estilo Regular.
   ///
-  /// ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/smiley-x-eyes.svg)
+  /// ![smiley-x-eyes](https://api.iconify.design/ph/smiley-x-eyes.svg?height=32&color=%23888888)
   static const IconData smileyXEyes = IconData(
     0xe442,
     fontFamily: 'PhosphorRegular',
@@ -15067,7 +15067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `snapchatLogo` no estilo Regular.
   ///
-  /// ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/snapchat-logo.svg)
+  /// ![snapchat-logo](https://api.iconify.design/ph/snapchat-logo.svg?height=32&color=%23888888)
   static const IconData snapchatLogo = IconData(
     0xe668,
     fontFamily: 'PhosphorRegular',
@@ -15079,7 +15079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sneaker` no estilo Regular.
   ///
-  /// ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sneaker.svg)
+  /// ![sneaker](https://api.iconify.design/ph/sneaker.svg?height=32&color=%23888888)
   static const IconData sneaker = IconData(
     0xe80c,
     fontFamily: 'PhosphorRegular',
@@ -15091,7 +15091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sneakerMove` no estilo Regular.
   ///
-  /// ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sneaker-move.svg)
+  /// ![sneaker-move](https://api.iconify.design/ph/sneaker-move.svg?height=32&color=%23888888)
   static const IconData sneakerMove = IconData(
     0xed60,
     fontFamily: 'PhosphorRegular',
@@ -15103,7 +15103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `snowflake` no estilo Regular.
   ///
-  /// ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/snowflake.svg)
+  /// ![snowflake](https://api.iconify.design/ph/snowflake.svg?height=32&color=%23888888)
   static const IconData snowflake = IconData(
     0xe5aa,
     fontFamily: 'PhosphorRegular',
@@ -15115,7 +15115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `soccerBall` no estilo Regular.
   ///
-  /// ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/soccer-ball.svg)
+  /// ![soccer-ball](https://api.iconify.design/ph/soccer-ball.svg?height=32&color=%23888888)
   static const IconData soccerBall = IconData(
     0xe716,
     fontFamily: 'PhosphorRegular',
@@ -15127,7 +15127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sock` no estilo Regular.
   ///
-  /// ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sock.svg)
+  /// ![sock](https://api.iconify.design/ph/sock.svg?height=32&color=%23888888)
   static const IconData sock = IconData(
     0xecce,
     fontFamily: 'PhosphorRegular',
@@ -15139,7 +15139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `solarPanel` no estilo Regular.
   ///
-  /// ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/solar-panel.svg)
+  /// ![solar-panel](https://api.iconify.design/ph/solar-panel.svg?height=32&color=%23888888)
   static const IconData solarPanel = IconData(
     0xed7a,
     fontFamily: 'PhosphorRegular',
@@ -15151,7 +15151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `solarRoof` no estilo Regular.
   ///
-  /// ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/solar-roof.svg)
+  /// ![solar-roof](https://api.iconify.design/ph/solar-roof.svg?height=32&color=%23888888)
   static const IconData solarRoof = IconData(
     0xed7b,
     fontFamily: 'PhosphorRegular',
@@ -15163,7 +15163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sortAscending` no estilo Regular.
   ///
-  /// ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sort-ascending.svg)
+  /// ![sort-ascending](https://api.iconify.design/ph/sort-ascending.svg?height=32&color=%23888888)
   static const IconData sortAscending = IconData(
     0xe444,
     fontFamily: 'PhosphorRegular',
@@ -15175,7 +15175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sortDescending` no estilo Regular.
   ///
-  /// ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sort-descending.svg)
+  /// ![sort-descending](https://api.iconify.design/ph/sort-descending.svg?height=32&color=%23888888)
   static const IconData sortDescending = IconData(
     0xe446,
     fontFamily: 'PhosphorRegular',
@@ -15187,7 +15187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `soundcloudLogo` no estilo Regular.
   ///
-  /// ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/soundcloud-logo.svg)
+  /// ![soundcloud-logo](https://api.iconify.design/ph/soundcloud-logo.svg?height=32&color=%23888888)
   static const IconData soundcloudLogo = IconData(
     0xe8de,
     fontFamily: 'PhosphorRegular',
@@ -15199,7 +15199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spade` no estilo Regular.
   ///
-  /// ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/spade.svg)
+  /// ![spade](https://api.iconify.design/ph/spade.svg?height=32&color=%23888888)
   static const IconData spade = IconData(
     0xe448,
     fontFamily: 'PhosphorRegular',
@@ -15211,7 +15211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sparkle` no estilo Regular.
   ///
-  /// ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sparkle.svg)
+  /// ![sparkle](https://api.iconify.design/ph/sparkle.svg?height=32&color=%23888888)
   static const IconData sparkle = IconData(
     0xe6a2,
     fontFamily: 'PhosphorRegular',
@@ -15223,7 +15223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerHifi` no estilo Regular.
   ///
-  /// ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-hifi.svg)
+  /// ![speaker-hifi](https://api.iconify.design/ph/speaker-hifi.svg?height=32&color=%23888888)
   static const IconData speakerHifi = IconData(
     0xea08,
     fontFamily: 'PhosphorRegular',
@@ -15235,7 +15235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerHigh` no estilo Regular.
   ///
-  /// ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-high.svg)
+  /// ![speaker-high](https://api.iconify.design/ph/speaker-high.svg?height=32&color=%23888888)
   static const IconData speakerHigh = IconData(
     0xe44a,
     fontFamily: 'PhosphorRegular',
@@ -15247,7 +15247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerLow` no estilo Regular.
   ///
-  /// ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-low.svg)
+  /// ![speaker-low](https://api.iconify.design/ph/speaker-low.svg?height=32&color=%23888888)
   static const IconData speakerLow = IconData(
     0xe44c,
     fontFamily: 'PhosphorRegular',
@@ -15259,7 +15259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerNone` no estilo Regular.
   ///
-  /// ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-none.svg)
+  /// ![speaker-none](https://api.iconify.design/ph/speaker-none.svg?height=32&color=%23888888)
   static const IconData speakerNone = IconData(
     0xe44e,
     fontFamily: 'PhosphorRegular',
@@ -15271,7 +15271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleHigh` no estilo Regular.
   ///
-  /// ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-simple-high.svg)
+  /// ![speaker-simple-high](https://api.iconify.design/ph/speaker-simple-high.svg?height=32&color=%23888888)
   static const IconData speakerSimpleHigh = IconData(
     0xe450,
     fontFamily: 'PhosphorRegular',
@@ -15283,7 +15283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleLow` no estilo Regular.
   ///
-  /// ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-simple-low.svg)
+  /// ![speaker-simple-low](https://api.iconify.design/ph/speaker-simple-low.svg?height=32&color=%23888888)
   static const IconData speakerSimpleLow = IconData(
     0xe452,
     fontFamily: 'PhosphorRegular',
@@ -15295,7 +15295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleNone` no estilo Regular.
   ///
-  /// ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-simple-none.svg)
+  /// ![speaker-simple-none](https://api.iconify.design/ph/speaker-simple-none.svg?height=32&color=%23888888)
   static const IconData speakerSimpleNone = IconData(
     0xe454,
     fontFamily: 'PhosphorRegular',
@@ -15307,7 +15307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleSlash` no estilo Regular.
   ///
-  /// ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-simple-slash.svg)
+  /// ![speaker-simple-slash](https://api.iconify.design/ph/speaker-simple-slash.svg?height=32&color=%23888888)
   static const IconData speakerSimpleSlash = IconData(
     0xe456,
     fontFamily: 'PhosphorRegular',
@@ -15319,7 +15319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleX` no estilo Regular.
   ///
-  /// ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-simple-x.svg)
+  /// ![speaker-simple-x](https://api.iconify.design/ph/speaker-simple-x.svg?height=32&color=%23888888)
   static const IconData speakerSimpleX = IconData(
     0xe458,
     fontFamily: 'PhosphorRegular',
@@ -15331,7 +15331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSlash` no estilo Regular.
   ///
-  /// ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-slash.svg)
+  /// ![speaker-slash](https://api.iconify.design/ph/speaker-slash.svg?height=32&color=%23888888)
   static const IconData speakerSlash = IconData(
     0xe45a,
     fontFamily: 'PhosphorRegular',
@@ -15343,7 +15343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerX` no estilo Regular.
   ///
-  /// ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speaker-x.svg)
+  /// ![speaker-x](https://api.iconify.design/ph/speaker-x.svg?height=32&color=%23888888)
   static const IconData speakerX = IconData(
     0xe45c,
     fontFamily: 'PhosphorRegular',
@@ -15355,7 +15355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speedometer` no estilo Regular.
   ///
-  /// ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/speedometer.svg)
+  /// ![speedometer](https://api.iconify.design/ph/speedometer.svg?height=32&color=%23888888)
   static const IconData speedometer = IconData(
     0xee74,
     fontFamily: 'PhosphorRegular',
@@ -15367,7 +15367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sphere` no estilo Regular.
   ///
-  /// ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sphere.svg)
+  /// ![sphere](https://api.iconify.design/ph/sphere.svg?height=32&color=%23888888)
   static const IconData sphere = IconData(
     0xee66,
     fontFamily: 'PhosphorRegular',
@@ -15379,7 +15379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spinner` no estilo Regular.
   ///
-  /// ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/spinner.svg)
+  /// ![spinner](https://api.iconify.design/ph/spinner.svg?height=32&color=%23888888)
   static const IconData spinner = IconData(
     0xe66a,
     fontFamily: 'PhosphorRegular',
@@ -15391,7 +15391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spinnerBall` no estilo Regular.
   ///
-  /// ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/spinner-ball.svg)
+  /// ![spinner-ball](https://api.iconify.design/ph/spinner-ball.svg?height=32&color=%23888888)
   static const IconData spinnerBall = IconData(
     0xee28,
     fontFamily: 'PhosphorRegular',
@@ -15403,7 +15403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spinnerGap` no estilo Regular.
   ///
-  /// ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/spinner-gap.svg)
+  /// ![spinner-gap](https://api.iconify.design/ph/spinner-gap.svg?height=32&color=%23888888)
   static const IconData spinnerGap = IconData(
     0xe66c,
     fontFamily: 'PhosphorRegular',
@@ -15415,7 +15415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spiral` no estilo Regular.
   ///
-  /// ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/spiral.svg)
+  /// ![spiral](https://api.iconify.design/ph/spiral.svg?height=32&color=%23888888)
   static const IconData spiral = IconData(
     0xe9fa,
     fontFamily: 'PhosphorRegular',
@@ -15427,7 +15427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `splitHorizontal` no estilo Regular.
   ///
-  /// ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/split-horizontal.svg)
+  /// ![split-horizontal](https://api.iconify.design/ph/split-horizontal.svg?height=32&color=%23888888)
   static const IconData splitHorizontal = IconData(
     0xe872,
     fontFamily: 'PhosphorRegular',
@@ -15439,7 +15439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `splitVertical` no estilo Regular.
   ///
-  /// ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/split-vertical.svg)
+  /// ![split-vertical](https://api.iconify.design/ph/split-vertical.svg?height=32&color=%23888888)
   static const IconData splitVertical = IconData(
     0xe876,
     fontFamily: 'PhosphorRegular',
@@ -15451,7 +15451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spotifyLogo` no estilo Regular.
   ///
-  /// ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/spotify-logo.svg)
+  /// ![spotify-logo](https://api.iconify.design/ph/spotify-logo.svg?height=32&color=%23888888)
   static const IconData spotifyLogo = IconData(
     0xe66e,
     fontFamily: 'PhosphorRegular',
@@ -15463,7 +15463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sprayBottle` no estilo Regular.
   ///
-  /// ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/spray-bottle.svg)
+  /// ![spray-bottle](https://api.iconify.design/ph/spray-bottle.svg?height=32&color=%23888888)
   static const IconData sprayBottle = IconData(
     0xe7e4,
     fontFamily: 'PhosphorRegular',
@@ -15475,7 +15475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `square` no estilo Regular.
   ///
-  /// ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/square.svg)
+  /// ![square](https://api.iconify.design/ph/square.svg?height=32&color=%23888888)
   static const IconData square = IconData(
     0xe45e,
     fontFamily: 'PhosphorRegular',
@@ -15487,7 +15487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareHalf` no estilo Regular.
   ///
-  /// ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/square-half.svg)
+  /// ![square-half](https://api.iconify.design/ph/square-half.svg?height=32&color=%23888888)
   static const IconData squareHalf = IconData(
     0xe462,
     fontFamily: 'PhosphorRegular',
@@ -15499,7 +15499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareHalfBottom` no estilo Regular.
   ///
-  /// ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/square-half-bottom.svg)
+  /// ![square-half-bottom](https://api.iconify.design/ph/square-half-bottom.svg?height=32&color=%23888888)
   static const IconData squareHalfBottom = IconData(
     0xeb16,
     fontFamily: 'PhosphorRegular',
@@ -15511,7 +15511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareLogo` no estilo Regular.
   ///
-  /// ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/square-logo.svg)
+  /// ![square-logo](https://api.iconify.design/ph/square-logo.svg?height=32&color=%23888888)
   static const IconData squareLogo = IconData(
     0xe690,
     fontFamily: 'PhosphorRegular',
@@ -15523,7 +15523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareSplitHorizontal` no estilo Regular.
   ///
-  /// ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/square-split-horizontal.svg)
+  /// ![square-split-horizontal](https://api.iconify.design/ph/square-split-horizontal.svg?height=32&color=%23888888)
   static const IconData squareSplitHorizontal = IconData(
     0xe870,
     fontFamily: 'PhosphorRegular',
@@ -15535,7 +15535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareSplitVertical` no estilo Regular.
   ///
-  /// ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/square-split-vertical.svg)
+  /// ![square-split-vertical](https://api.iconify.design/ph/square-split-vertical.svg?height=32&color=%23888888)
   static const IconData squareSplitVertical = IconData(
     0xe874,
     fontFamily: 'PhosphorRegular',
@@ -15547,7 +15547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squaresFour` no estilo Regular.
   ///
-  /// ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/squares-four.svg)
+  /// ![squares-four](https://api.iconify.design/ph/squares-four.svg?height=32&color=%23888888)
   static const IconData squaresFour = IconData(
     0xe464,
     fontFamily: 'PhosphorRegular',
@@ -15559,7 +15559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stack` no estilo Regular.
   ///
-  /// ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stack.svg)
+  /// ![stack](https://api.iconify.design/ph/stack.svg?height=32&color=%23888888)
   static const IconData stack = IconData(
     0xe466,
     fontFamily: 'PhosphorRegular',
@@ -15571,7 +15571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackMinus` no estilo Regular.
   ///
-  /// ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stack-minus.svg)
+  /// ![stack-minus](https://api.iconify.design/ph/stack-minus.svg?height=32&color=%23888888)
   static const IconData stackMinus = IconData(
     0xedf4,
     fontFamily: 'PhosphorRegular',
@@ -15583,7 +15583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackOverflowLogo` no estilo Regular.
   ///
-  /// ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stack-overflow-logo.svg)
+  /// ![stack-overflow-logo](https://api.iconify.design/ph/stack-overflow-logo.svg?height=32&color=%23888888)
   static const IconData stackOverflowLogo = IconData(
     0xeb78,
     fontFamily: 'PhosphorRegular',
@@ -15595,7 +15595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackPlus` no estilo Regular.
   ///
-  /// ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stack-plus.svg)
+  /// ![stack-plus](https://api.iconify.design/ph/stack-plus.svg?height=32&color=%23888888)
   static const IconData stackPlus = IconData(
     0xedf6,
     fontFamily: 'PhosphorRegular',
@@ -15607,7 +15607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackSimple` no estilo Regular.
   ///
-  /// ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stack-simple.svg)
+  /// ![stack-simple](https://api.iconify.design/ph/stack-simple.svg?height=32&color=%23888888)
   static const IconData stackSimple = IconData(
     0xe468,
     fontFamily: 'PhosphorRegular',
@@ -15619,7 +15619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stairs` no estilo Regular.
   ///
-  /// ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stairs.svg)
+  /// ![stairs](https://api.iconify.design/ph/stairs.svg?height=32&color=%23888888)
   static const IconData stairs = IconData(
     0xe8ec,
     fontFamily: 'PhosphorRegular',
@@ -15631,7 +15631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stamp` no estilo Regular.
   ///
-  /// ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stamp.svg)
+  /// ![stamp](https://api.iconify.design/ph/stamp.svg?height=32&color=%23888888)
   static const IconData stamp = IconData(
     0xea48,
     fontFamily: 'PhosphorRegular',
@@ -15643,7 +15643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `standardDefinition` no estilo Regular.
   ///
-  /// ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/standard-definition.svg)
+  /// ![standard-definition](https://api.iconify.design/ph/standard-definition.svg?height=32&color=%23888888)
   static const IconData standardDefinition = IconData(
     0xea90,
     fontFamily: 'PhosphorRegular',
@@ -15655,7 +15655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `star` no estilo Regular.
   ///
-  /// ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/star.svg)
+  /// ![star](https://api.iconify.design/ph/star.svg?height=32&color=%23888888)
   static const IconData star = IconData(
     0xe46a,
     fontFamily: 'PhosphorRegular',
@@ -15667,7 +15667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starAndCrescent` no estilo Regular.
   ///
-  /// ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/star-and-crescent.svg)
+  /// ![star-and-crescent](https://api.iconify.design/ph/star-and-crescent.svg?height=32&color=%23888888)
   static const IconData starAndCrescent = IconData(
     0xecf4,
     fontFamily: 'PhosphorRegular',
@@ -15679,7 +15679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starFour` no estilo Regular.
   ///
-  /// ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/star-four.svg)
+  /// ![star-four](https://api.iconify.design/ph/star-four.svg?height=32&color=%23888888)
   static const IconData starFour = IconData(
     0xe6a4,
     fontFamily: 'PhosphorRegular',
@@ -15691,7 +15691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starHalf` no estilo Regular.
   ///
-  /// ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/star-half.svg)
+  /// ![star-half](https://api.iconify.design/ph/star-half.svg?height=32&color=%23888888)
   static const IconData starHalf = IconData(
     0xe70a,
     fontFamily: 'PhosphorRegular',
@@ -15703,7 +15703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starOfDavid` no estilo Regular.
   ///
-  /// ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/star-of-david.svg)
+  /// ![star-of-david](https://api.iconify.design/ph/star-of-david.svg?height=32&color=%23888888)
   static const IconData starOfDavid = IconData(
     0xe89e,
     fontFamily: 'PhosphorRegular',
@@ -15715,7 +15715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `steamLogo` no estilo Regular.
   ///
-  /// ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/steam-logo.svg)
+  /// ![steam-logo](https://api.iconify.design/ph/steam-logo.svg?height=32&color=%23888888)
   static const IconData steamLogo = IconData(
     0xead4,
     fontFamily: 'PhosphorRegular',
@@ -15727,7 +15727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `steeringWheel` no estilo Regular.
   ///
-  /// ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/steering-wheel.svg)
+  /// ![steering-wheel](https://api.iconify.design/ph/steering-wheel.svg?height=32&color=%23888888)
   static const IconData steeringWheel = IconData(
     0xe9ac,
     fontFamily: 'PhosphorRegular',
@@ -15739,7 +15739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `steps` no estilo Regular.
   ///
-  /// ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/steps.svg)
+  /// ![steps](https://api.iconify.design/ph/steps.svg?height=32&color=%23888888)
   static const IconData steps = IconData(
     0xecbe,
     fontFamily: 'PhosphorRegular',
@@ -15751,7 +15751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stethoscope` no estilo Regular.
   ///
-  /// ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stethoscope.svg)
+  /// ![stethoscope](https://api.iconify.design/ph/stethoscope.svg?height=32&color=%23888888)
   static const IconData stethoscope = IconData(
     0xe7ea,
     fontFamily: 'PhosphorRegular',
@@ -15763,7 +15763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sticker` no estilo Regular.
   ///
-  /// ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sticker.svg)
+  /// ![sticker](https://api.iconify.design/ph/sticker.svg?height=32&color=%23888888)
   static const IconData sticker = IconData(
     0xe5ac,
     fontFamily: 'PhosphorRegular',
@@ -15775,7 +15775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stool` no estilo Regular.
   ///
-  /// ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stool.svg)
+  /// ![stool](https://api.iconify.design/ph/stool.svg?height=32&color=%23888888)
   static const IconData stool = IconData(
     0xea44,
     fontFamily: 'PhosphorRegular',
@@ -15787,7 +15787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stop` no estilo Regular.
   ///
-  /// ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stop.svg)
+  /// ![stop](https://api.iconify.design/ph/stop.svg?height=32&color=%23888888)
   static const IconData stop = IconData(
     0xe46c,
     fontFamily: 'PhosphorRegular',
@@ -15799,7 +15799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stopCircle` no estilo Regular.
   ///
-  /// ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stop-circle.svg)
+  /// ![stop-circle](https://api.iconify.design/ph/stop-circle.svg?height=32&color=%23888888)
   static const IconData stopCircle = IconData(
     0xe46e,
     fontFamily: 'PhosphorRegular',
@@ -15811,7 +15811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `storefront` no estilo Regular.
   ///
-  /// ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/storefront.svg)
+  /// ![storefront](https://api.iconify.design/ph/storefront.svg?height=32&color=%23888888)
   static const IconData storefront = IconData(
     0xe470,
     fontFamily: 'PhosphorRegular',
@@ -15823,7 +15823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `strategy` no estilo Regular.
   ///
-  /// ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/strategy.svg)
+  /// ![strategy](https://api.iconify.design/ph/strategy.svg?height=32&color=%23888888)
   static const IconData strategy = IconData(
     0xea3a,
     fontFamily: 'PhosphorRegular',
@@ -15835,7 +15835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stripeLogo` no estilo Regular.
   ///
-  /// ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/stripe-logo.svg)
+  /// ![stripe-logo](https://api.iconify.design/ph/stripe-logo.svg?height=32&color=%23888888)
   static const IconData stripeLogo = IconData(
     0xe698,
     fontFamily: 'PhosphorRegular',
@@ -15847,7 +15847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `student` no estilo Regular.
   ///
-  /// ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/student.svg)
+  /// ![student](https://api.iconify.design/ph/student.svg?height=32&color=%23888888)
   static const IconData student = IconData(
     0xe73e,
     fontFamily: 'PhosphorRegular',
@@ -15859,7 +15859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subsetOf` no estilo Regular.
   ///
-  /// ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/subset-of.svg)
+  /// ![subset-of](https://api.iconify.design/ph/subset-of.svg?height=32&color=%23888888)
   static const IconData subsetOf = IconData(
     0xedc0,
     fontFamily: 'PhosphorRegular',
@@ -15871,7 +15871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subsetProperOf` no estilo Regular.
   ///
-  /// ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/subset-proper-of.svg)
+  /// ![subset-proper-of](https://api.iconify.design/ph/subset-proper-of.svg?height=32&color=%23888888)
   static const IconData subsetProperOf = IconData(
     0xedb6,
     fontFamily: 'PhosphorRegular',
@@ -15883,7 +15883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtitles` no estilo Regular.
   ///
-  /// ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/subtitles.svg)
+  /// ![subtitles](https://api.iconify.design/ph/subtitles.svg?height=32&color=%23888888)
   static const IconData subtitles = IconData(
     0xe1a8,
     fontFamily: 'PhosphorRegular',
@@ -15895,7 +15895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtitlesSlash` no estilo Regular.
   ///
-  /// ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/subtitles-slash.svg)
+  /// ![subtitles-slash](https://api.iconify.design/ph/subtitles-slash.svg?height=32&color=%23888888)
   static const IconData subtitlesSlash = IconData(
     0xe1a6,
     fontFamily: 'PhosphorRegular',
@@ -15907,7 +15907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtract` no estilo Regular.
   ///
-  /// ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/subtract.svg)
+  /// ![subtract](https://api.iconify.design/ph/subtract.svg?height=32&color=%23888888)
   static const IconData subtract = IconData(
     0xebd6,
     fontFamily: 'PhosphorRegular',
@@ -15919,7 +15919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtractSquare` no estilo Regular.
   ///
-  /// ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/subtract-square.svg)
+  /// ![subtract-square](https://api.iconify.design/ph/subtract-square.svg?height=32&color=%23888888)
   static const IconData subtractSquare = IconData(
     0xebd4,
     fontFamily: 'PhosphorRegular',
@@ -15931,7 +15931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subway` no estilo Regular.
   ///
-  /// ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/subway.svg)
+  /// ![subway](https://api.iconify.design/ph/subway.svg?height=32&color=%23888888)
   static const IconData subway = IconData(
     0xe498,
     fontFamily: 'PhosphorRegular',
@@ -15943,7 +15943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `suitcase` no estilo Regular.
   ///
-  /// ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/suitcase.svg)
+  /// ![suitcase](https://api.iconify.design/ph/suitcase.svg?height=32&color=%23888888)
   static const IconData suitcase = IconData(
     0xe5ae,
     fontFamily: 'PhosphorRegular',
@@ -15955,7 +15955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `suitcaseRolling` no estilo Regular.
   ///
-  /// ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/suitcase-rolling.svg)
+  /// ![suitcase-rolling](https://api.iconify.design/ph/suitcase-rolling.svg?height=32&color=%23888888)
   static const IconData suitcaseRolling = IconData(
     0xe9b0,
     fontFamily: 'PhosphorRegular',
@@ -15967,7 +15967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `suitcaseSimple` no estilo Regular.
   ///
-  /// ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/suitcase-simple.svg)
+  /// ![suitcase-simple](https://api.iconify.design/ph/suitcase-simple.svg?height=32&color=%23888888)
   static const IconData suitcaseSimple = IconData(
     0xe5b0,
     fontFamily: 'PhosphorRegular',
@@ -15979,7 +15979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sun` no estilo Regular.
   ///
-  /// ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sun.svg)
+  /// ![sun](https://api.iconify.design/ph/sun.svg?height=32&color=%23888888)
   static const IconData sun = IconData(
     0xe472,
     fontFamily: 'PhosphorRegular',
@@ -15991,7 +15991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sunDim` no estilo Regular.
   ///
-  /// ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sun-dim.svg)
+  /// ![sun-dim](https://api.iconify.design/ph/sun-dim.svg?height=32&color=%23888888)
   static const IconData sunDim = IconData(
     0xe474,
     fontFamily: 'PhosphorRegular',
@@ -16003,7 +16003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sunHorizon` no estilo Regular.
   ///
-  /// ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sun-horizon.svg)
+  /// ![sun-horizon](https://api.iconify.design/ph/sun-horizon.svg?height=32&color=%23888888)
   static const IconData sunHorizon = IconData(
     0xe5b6,
     fontFamily: 'PhosphorRegular',
@@ -16015,7 +16015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sunglasses` no estilo Regular.
   ///
-  /// ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sunglasses.svg)
+  /// ![sunglasses](https://api.iconify.design/ph/sunglasses.svg?height=32&color=%23888888)
   static const IconData sunglasses = IconData(
     0xe816,
     fontFamily: 'PhosphorRegular',
@@ -16027,7 +16027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `supersetOf` no estilo Regular.
   ///
-  /// ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/superset-of.svg)
+  /// ![superset-of](https://api.iconify.design/ph/superset-of.svg?height=32&color=%23888888)
   static const IconData supersetOf = IconData(
     0xedb8,
     fontFamily: 'PhosphorRegular',
@@ -16039,7 +16039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `supersetProperOf` no estilo Regular.
   ///
-  /// ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/superset-proper-of.svg)
+  /// ![superset-proper-of](https://api.iconify.design/ph/superset-proper-of.svg?height=32&color=%23888888)
   static const IconData supersetProperOf = IconData(
     0xedb4,
     fontFamily: 'PhosphorRegular',
@@ -16051,7 +16051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `swap` no estilo Regular.
   ///
-  /// ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/swap.svg)
+  /// ![swap](https://api.iconify.design/ph/swap.svg?height=32&color=%23888888)
   static const IconData swap = IconData(
     0xe83c,
     fontFamily: 'PhosphorRegular',
@@ -16063,7 +16063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `swatches` no estilo Regular.
   ///
-  /// ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/swatches.svg)
+  /// ![swatches](https://api.iconify.design/ph/swatches.svg?height=32&color=%23888888)
   static const IconData swatches = IconData(
     0xe5b8,
     fontFamily: 'PhosphorRegular',
@@ -16075,7 +16075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `swimmingPool` no estilo Regular.
   ///
-  /// ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/swimming-pool.svg)
+  /// ![swimming-pool](https://api.iconify.design/ph/swimming-pool.svg?height=32&color=%23888888)
   static const IconData swimmingPool = IconData(
     0xecb6,
     fontFamily: 'PhosphorRegular',
@@ -16087,7 +16087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sword` no estilo Regular.
   ///
-  /// ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/sword.svg)
+  /// ![sword](https://api.iconify.design/ph/sword.svg?height=32&color=%23888888)
   static const IconData sword = IconData(
     0xe5ba,
     fontFamily: 'PhosphorRegular',
@@ -16099,7 +16099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `synagogue` no estilo Regular.
   ///
-  /// ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/synagogue.svg)
+  /// ![synagogue](https://api.iconify.design/ph/synagogue.svg?height=32&color=%23888888)
   static const IconData synagogue = IconData(
     0xecec,
     fontFamily: 'PhosphorRegular',
@@ -16111,7 +16111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `syringe` no estilo Regular.
   ///
-  /// ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/syringe.svg)
+  /// ![syringe](https://api.iconify.design/ph/syringe.svg?height=32&color=%23888888)
   static const IconData syringe = IconData(
     0xe968,
     fontFamily: 'PhosphorRegular',
@@ -16123,7 +16123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tShirt` no estilo Regular.
   ///
-  /// ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/t-shirt.svg)
+  /// ![t-shirt](https://api.iconify.design/ph/t-shirt.svg?height=32&color=%23888888)
   static const IconData tShirt = IconData(
     0xe670,
     fontFamily: 'PhosphorRegular',
@@ -16135,7 +16135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `table` no estilo Regular.
   ///
-  /// ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/table.svg)
+  /// ![table](https://api.iconify.design/ph/table.svg?height=32&color=%23888888)
   static const IconData table = IconData(
     0xe476,
     fontFamily: 'PhosphorRegular',
@@ -16147,7 +16147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tabs` no estilo Regular.
   ///
-  /// ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tabs.svg)
+  /// ![tabs](https://api.iconify.design/ph/tabs.svg?height=32&color=%23888888)
   static const IconData tabs = IconData(
     0xe778,
     fontFamily: 'PhosphorRegular',
@@ -16159,7 +16159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tag` no estilo Regular.
   ///
-  /// ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tag.svg)
+  /// ![tag](https://api.iconify.design/ph/tag.svg?height=32&color=%23888888)
   static const IconData tag = IconData(
     0xe478,
     fontFamily: 'PhosphorRegular',
@@ -16171,7 +16171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tagChevron` no estilo Regular.
   ///
-  /// ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tag-chevron.svg)
+  /// ![tag-chevron](https://api.iconify.design/ph/tag-chevron.svg?height=32&color=%23888888)
   static const IconData tagChevron = IconData(
     0xe672,
     fontFamily: 'PhosphorRegular',
@@ -16183,7 +16183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tagSimple` no estilo Regular.
   ///
-  /// ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tag-simple.svg)
+  /// ![tag-simple](https://api.iconify.design/ph/tag-simple.svg?height=32&color=%23888888)
   static const IconData tagSimple = IconData(
     0xe47a,
     fontFamily: 'PhosphorRegular',
@@ -16195,7 +16195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `target` no estilo Regular.
   ///
-  /// ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/target.svg)
+  /// ![target](https://api.iconify.design/ph/target.svg?height=32&color=%23888888)
   static const IconData target = IconData(
     0xe47c,
     fontFamily: 'PhosphorRegular',
@@ -16207,7 +16207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `taxi` no estilo Regular.
   ///
-  /// ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/taxi.svg)
+  /// ![taxi](https://api.iconify.design/ph/taxi.svg?height=32&color=%23888888)
   static const IconData taxi = IconData(
     0xe902,
     fontFamily: 'PhosphorRegular',
@@ -16219,7 +16219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `teaBag` no estilo Regular.
   ///
-  /// ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tea-bag.svg)
+  /// ![tea-bag](https://api.iconify.design/ph/tea-bag.svg?height=32&color=%23888888)
   static const IconData teaBag = IconData(
     0xe8e6,
     fontFamily: 'PhosphorRegular',
@@ -16231,7 +16231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `telegramLogo` no estilo Regular.
   ///
-  /// ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/telegram-logo.svg)
+  /// ![telegram-logo](https://api.iconify.design/ph/telegram-logo.svg?height=32&color=%23888888)
   static const IconData telegramLogo = IconData(
     0xe5bc,
     fontFamily: 'PhosphorRegular',
@@ -16243,7 +16243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `television` no estilo Regular.
   ///
-  /// ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/television.svg)
+  /// ![television](https://api.iconify.design/ph/television.svg?height=32&color=%23888888)
   static const IconData television = IconData(
     0xe754,
     fontFamily: 'PhosphorRegular',
@@ -16255,7 +16255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `televisionSimple` no estilo Regular.
   ///
-  /// ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/television-simple.svg)
+  /// ![television-simple](https://api.iconify.design/ph/television-simple.svg?height=32&color=%23888888)
   static const IconData televisionSimple = IconData(
     0xeae6,
     fontFamily: 'PhosphorRegular',
@@ -16267,7 +16267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tennisBall` no estilo Regular.
   ///
-  /// ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tennis-ball.svg)
+  /// ![tennis-ball](https://api.iconify.design/ph/tennis-ball.svg?height=32&color=%23888888)
   static const IconData tennisBall = IconData(
     0xe720,
     fontFamily: 'PhosphorRegular',
@@ -16279,7 +16279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tent` no estilo Regular.
   ///
-  /// ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tent.svg)
+  /// ![tent](https://api.iconify.design/ph/tent.svg?height=32&color=%23888888)
   static const IconData tent = IconData(
     0xe8ba,
     fontFamily: 'PhosphorRegular',
@@ -16291,7 +16291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `terminal` no estilo Regular.
   ///
-  /// ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/terminal.svg)
+  /// ![terminal](https://api.iconify.design/ph/terminal.svg?height=32&color=%23888888)
   static const IconData terminal = IconData(
     0xe47e,
     fontFamily: 'PhosphorRegular',
@@ -16303,7 +16303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `terminalWindow` no estilo Regular.
   ///
-  /// ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/terminal-window.svg)
+  /// ![terminal-window](https://api.iconify.design/ph/terminal-window.svg?height=32&color=%23888888)
   static const IconData terminalWindow = IconData(
     0xeae8,
     fontFamily: 'PhosphorRegular',
@@ -16315,7 +16315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `testTube` no estilo Regular.
   ///
-  /// ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/test-tube.svg)
+  /// ![test-tube](https://api.iconify.design/ph/test-tube.svg?height=32&color=%23888888)
   static const IconData testTube = IconData(
     0xe7a0,
     fontFamily: 'PhosphorRegular',
@@ -16327,7 +16327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAUnderline` no estilo Regular.
   ///
-  /// ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-a-underline.svg)
+  /// ![text-a-underline](https://api.iconify.design/ph/text-a-underline.svg?height=32&color=%23888888)
   static const IconData textAUnderline = IconData(
     0xed34,
     fontFamily: 'PhosphorRegular',
@@ -16339,7 +16339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAa` no estilo Regular.
   ///
-  /// ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-aa.svg)
+  /// ![text-aa](https://api.iconify.design/ph/text-aa.svg?height=32&color=%23888888)
   static const IconData textAa = IconData(
     0xe6ee,
     fontFamily: 'PhosphorRegular',
@@ -16351,7 +16351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignCenter` no estilo Regular.
   ///
-  /// ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-align-center.svg)
+  /// ![text-align-center](https://api.iconify.design/ph/text-align-center.svg?height=32&color=%23888888)
   static const IconData textAlignCenter = IconData(
     0xe480,
     fontFamily: 'PhosphorRegular',
@@ -16363,7 +16363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignJustify` no estilo Regular.
   ///
-  /// ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-align-justify.svg)
+  /// ![text-align-justify](https://api.iconify.design/ph/text-align-justify.svg?height=32&color=%23888888)
   static const IconData textAlignJustify = IconData(
     0xe482,
     fontFamily: 'PhosphorRegular',
@@ -16375,7 +16375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignLeft` no estilo Regular.
   ///
-  /// ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-align-left.svg)
+  /// ![text-align-left](https://api.iconify.design/ph/text-align-left.svg?height=32&color=%23888888)
   static const IconData textAlignLeft = IconData(
     0xe484,
     fontFamily: 'PhosphorRegular',
@@ -16387,7 +16387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignRight` no estilo Regular.
   ///
-  /// ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-align-right.svg)
+  /// ![text-align-right](https://api.iconify.design/ph/text-align-right.svg?height=32&color=%23888888)
   static const IconData textAlignRight = IconData(
     0xe486,
     fontFamily: 'PhosphorRegular',
@@ -16399,7 +16399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textB` no estilo Regular.
   ///
-  /// ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-b.svg)
+  /// ![text-b](https://api.iconify.design/ph/text-b.svg?height=32&color=%23888888)
   static const IconData textB = IconData(
     0xe5be,
     fontFamily: 'PhosphorRegular',
@@ -16411,7 +16411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textBolder` no estilo Regular.
   ///
-  /// ![text-bolder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-bolder.svg)
+  /// ![text-bolder](https://api.iconify.design/ph/text-b.svg?height=32&color=%23888888)
   static const IconData textBolder = IconData(
     0xe5be,
     fontFamily: 'PhosphorRegular',
@@ -16423,7 +16423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textColumns` no estilo Regular.
   ///
-  /// ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-columns.svg)
+  /// ![text-columns](https://api.iconify.design/ph/text-columns.svg?height=32&color=%23888888)
   static const IconData textColumns = IconData(
     0xec96,
     fontFamily: 'PhosphorRegular',
@@ -16435,7 +16435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textH` no estilo Regular.
   ///
-  /// ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-h.svg)
+  /// ![text-h](https://api.iconify.design/ph/text-h.svg?height=32&color=%23888888)
   static const IconData textH = IconData(
     0xe6ba,
     fontFamily: 'PhosphorRegular',
@@ -16447,7 +16447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHFive` no estilo Regular.
   ///
-  /// ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-h-five.svg)
+  /// ![text-h-five](https://api.iconify.design/ph/text-h-five.svg?height=32&color=%23888888)
   static const IconData textHFive = IconData(
     0xe6c4,
     fontFamily: 'PhosphorRegular',
@@ -16459,7 +16459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHFour` no estilo Regular.
   ///
-  /// ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-h-four.svg)
+  /// ![text-h-four](https://api.iconify.design/ph/text-h-four.svg?height=32&color=%23888888)
   static const IconData textHFour = IconData(
     0xe6c2,
     fontFamily: 'PhosphorRegular',
@@ -16471,7 +16471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHOne` no estilo Regular.
   ///
-  /// ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-h-one.svg)
+  /// ![text-h-one](https://api.iconify.design/ph/text-h-one.svg?height=32&color=%23888888)
   static const IconData textHOne = IconData(
     0xe6bc,
     fontFamily: 'PhosphorRegular',
@@ -16483,7 +16483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHSix` no estilo Regular.
   ///
-  /// ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-h-six.svg)
+  /// ![text-h-six](https://api.iconify.design/ph/text-h-six.svg?height=32&color=%23888888)
   static const IconData textHSix = IconData(
     0xe6c6,
     fontFamily: 'PhosphorRegular',
@@ -16495,7 +16495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHThree` no estilo Regular.
   ///
-  /// ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-h-three.svg)
+  /// ![text-h-three](https://api.iconify.design/ph/text-h-three.svg?height=32&color=%23888888)
   static const IconData textHThree = IconData(
     0xe6c0,
     fontFamily: 'PhosphorRegular',
@@ -16507,7 +16507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHTwo` no estilo Regular.
   ///
-  /// ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-h-two.svg)
+  /// ![text-h-two](https://api.iconify.design/ph/text-h-two.svg?height=32&color=%23888888)
   static const IconData textHTwo = IconData(
     0xe6be,
     fontFamily: 'PhosphorRegular',
@@ -16519,7 +16519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textIndent` no estilo Regular.
   ///
-  /// ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-indent.svg)
+  /// ![text-indent](https://api.iconify.design/ph/text-indent.svg?height=32&color=%23888888)
   static const IconData textIndent = IconData(
     0xea1e,
     fontFamily: 'PhosphorRegular',
@@ -16531,7 +16531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textItalic` no estilo Regular.
   ///
-  /// ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-italic.svg)
+  /// ![text-italic](https://api.iconify.design/ph/text-italic.svg?height=32&color=%23888888)
   static const IconData textItalic = IconData(
     0xe5c0,
     fontFamily: 'PhosphorRegular',
@@ -16543,7 +16543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textOutdent` no estilo Regular.
   ///
-  /// ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-outdent.svg)
+  /// ![text-outdent](https://api.iconify.design/ph/text-outdent.svg?height=32&color=%23888888)
   static const IconData textOutdent = IconData(
     0xea1c,
     fontFamily: 'PhosphorRegular',
@@ -16555,7 +16555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textStrikethrough` no estilo Regular.
   ///
-  /// ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-strikethrough.svg)
+  /// ![text-strikethrough](https://api.iconify.design/ph/text-strikethrough.svg?height=32&color=%23888888)
   static const IconData textStrikethrough = IconData(
     0xe5c2,
     fontFamily: 'PhosphorRegular',
@@ -16567,7 +16567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textSubscript` no estilo Regular.
   ///
-  /// ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-subscript.svg)
+  /// ![text-subscript](https://api.iconify.design/ph/text-subscript.svg?height=32&color=%23888888)
   static const IconData textSubscript = IconData(
     0xec98,
     fontFamily: 'PhosphorRegular',
@@ -16579,7 +16579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textSuperscript` no estilo Regular.
   ///
-  /// ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-superscript.svg)
+  /// ![text-superscript](https://api.iconify.design/ph/text-superscript.svg?height=32&color=%23888888)
   static const IconData textSuperscript = IconData(
     0xec9a,
     fontFamily: 'PhosphorRegular',
@@ -16591,7 +16591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textT` no estilo Regular.
   ///
-  /// ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-t.svg)
+  /// ![text-t](https://api.iconify.design/ph/text-t.svg?height=32&color=%23888888)
   static const IconData textT = IconData(
     0xe48a,
     fontFamily: 'PhosphorRegular',
@@ -16603,7 +16603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textTSlash` no estilo Regular.
   ///
-  /// ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-t-slash.svg)
+  /// ![text-t-slash](https://api.iconify.design/ph/text-t-slash.svg?height=32&color=%23888888)
   static const IconData textTSlash = IconData(
     0xe488,
     fontFamily: 'PhosphorRegular',
@@ -16615,7 +16615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textUnderline` no estilo Regular.
   ///
-  /// ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/text-underline.svg)
+  /// ![text-underline](https://api.iconify.design/ph/text-underline.svg?height=32&color=%23888888)
   static const IconData textUnderline = IconData(
     0xe5c4,
     fontFamily: 'PhosphorRegular',
@@ -16627,7 +16627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textbox` no estilo Regular.
   ///
-  /// ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/textbox.svg)
+  /// ![textbox](https://api.iconify.design/ph/textbox.svg?height=32&color=%23888888)
   static const IconData textbox = IconData(
     0xeb0a,
     fontFamily: 'PhosphorRegular',
@@ -16639,7 +16639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometer` no estilo Regular.
   ///
-  /// ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/thermometer.svg)
+  /// ![thermometer](https://api.iconify.design/ph/thermometer.svg?height=32&color=%23888888)
   static const IconData thermometer = IconData(
     0xe5c6,
     fontFamily: 'PhosphorRegular',
@@ -16651,7 +16651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometerCold` no estilo Regular.
   ///
-  /// ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/thermometer-cold.svg)
+  /// ![thermometer-cold](https://api.iconify.design/ph/thermometer-cold.svg?height=32&color=%23888888)
   static const IconData thermometerCold = IconData(
     0xe5c8,
     fontFamily: 'PhosphorRegular',
@@ -16663,7 +16663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometerHot` no estilo Regular.
   ///
-  /// ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/thermometer-hot.svg)
+  /// ![thermometer-hot](https://api.iconify.design/ph/thermometer-hot.svg?height=32&color=%23888888)
   static const IconData thermometerHot = IconData(
     0xe5ca,
     fontFamily: 'PhosphorRegular',
@@ -16675,7 +16675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometerSimple` no estilo Regular.
   ///
-  /// ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/thermometer-simple.svg)
+  /// ![thermometer-simple](https://api.iconify.design/ph/thermometer-simple.svg?height=32&color=%23888888)
   static const IconData thermometerSimple = IconData(
     0xe5cc,
     fontFamily: 'PhosphorRegular',
@@ -16687,7 +16687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `threadsLogo` no estilo Regular.
   ///
-  /// ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/threads-logo.svg)
+  /// ![threads-logo](https://api.iconify.design/ph/threads-logo.svg?height=32&color=%23888888)
   static const IconData threadsLogo = IconData(
     0xed9e,
     fontFamily: 'PhosphorRegular',
@@ -16699,7 +16699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `threeD` no estilo Regular.
   ///
-  /// ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/three-d.svg)
+  /// ![three-d](https://api.iconify.design/ph/three-d.svg?height=32&color=%23888888)
   static const IconData threeD = IconData(
     0xea5a,
     fontFamily: 'PhosphorRegular',
@@ -16711,7 +16711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thumbsDown` no estilo Regular.
   ///
-  /// ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/thumbs-down.svg)
+  /// ![thumbs-down](https://api.iconify.design/ph/thumbs-down.svg?height=32&color=%23888888)
   static const IconData thumbsDown = IconData(
     0xe48c,
     fontFamily: 'PhosphorRegular',
@@ -16723,7 +16723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thumbsUp` no estilo Regular.
   ///
-  /// ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/thumbs-up.svg)
+  /// ![thumbs-up](https://api.iconify.design/ph/thumbs-up.svg?height=32&color=%23888888)
   static const IconData thumbsUp = IconData(
     0xe48e,
     fontFamily: 'PhosphorRegular',
@@ -16735,7 +16735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ticket` no estilo Regular.
   ///
-  /// ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/ticket.svg)
+  /// ![ticket](https://api.iconify.design/ph/ticket.svg?height=32&color=%23888888)
   static const IconData ticket = IconData(
     0xe490,
     fontFamily: 'PhosphorRegular',
@@ -16747,7 +16747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tidalLogo` no estilo Regular.
   ///
-  /// ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tidal-logo.svg)
+  /// ![tidal-logo](https://api.iconify.design/ph/tidal-logo.svg?height=32&color=%23888888)
   static const IconData tidalLogo = IconData(
     0xed1c,
     fontFamily: 'PhosphorRegular',
@@ -16759,7 +16759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tiktokLogo` no estilo Regular.
   ///
-  /// ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tiktok-logo.svg)
+  /// ![tiktok-logo](https://api.iconify.design/ph/tiktok-logo.svg?height=32&color=%23888888)
   static const IconData tiktokLogo = IconData(
     0xeaf2,
     fontFamily: 'PhosphorRegular',
@@ -16771,7 +16771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tilde` no estilo Regular.
   ///
-  /// ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tilde.svg)
+  /// ![tilde](https://api.iconify.design/ph/tilde.svg?height=32&color=%23888888)
   static const IconData tilde = IconData(
     0xeda8,
     fontFamily: 'PhosphorRegular',
@@ -16783,7 +16783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `timer` no estilo Regular.
   ///
-  /// ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/timer.svg)
+  /// ![timer](https://api.iconify.design/ph/timer.svg?height=32&color=%23888888)
   static const IconData timer = IconData(
     0xe492,
     fontFamily: 'PhosphorRegular',
@@ -16795,7 +16795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tipJar` no estilo Regular.
   ///
-  /// ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tip-jar.svg)
+  /// ![tip-jar](https://api.iconify.design/ph/tip-jar.svg?height=32&color=%23888888)
   static const IconData tipJar = IconData(
     0xe7e2,
     fontFamily: 'PhosphorRegular',
@@ -16807,7 +16807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tipi` no estilo Regular.
   ///
-  /// ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tipi.svg)
+  /// ![tipi](https://api.iconify.design/ph/tipi.svg?height=32&color=%23888888)
   static const IconData tipi = IconData(
     0xed30,
     fontFamily: 'PhosphorRegular',
@@ -16819,7 +16819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tire` no estilo Regular.
   ///
-  /// ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tire.svg)
+  /// ![tire](https://api.iconify.design/ph/tire.svg?height=32&color=%23888888)
   static const IconData tire = IconData(
     0xedd2,
     fontFamily: 'PhosphorRegular',
@@ -16831,7 +16831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toggleLeft` no estilo Regular.
   ///
-  /// ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/toggle-left.svg)
+  /// ![toggle-left](https://api.iconify.design/ph/toggle-left.svg?height=32&color=%23888888)
   static const IconData toggleLeft = IconData(
     0xe674,
     fontFamily: 'PhosphorRegular',
@@ -16843,7 +16843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toggleRight` no estilo Regular.
   ///
-  /// ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/toggle-right.svg)
+  /// ![toggle-right](https://api.iconify.design/ph/toggle-right.svg?height=32&color=%23888888)
   static const IconData toggleRight = IconData(
     0xe676,
     fontFamily: 'PhosphorRegular',
@@ -16855,7 +16855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toilet` no estilo Regular.
   ///
-  /// ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/toilet.svg)
+  /// ![toilet](https://api.iconify.design/ph/toilet.svg?height=32&color=%23888888)
   static const IconData toilet = IconData(
     0xe79a,
     fontFamily: 'PhosphorRegular',
@@ -16867,7 +16867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toiletPaper` no estilo Regular.
   ///
-  /// ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/toilet-paper.svg)
+  /// ![toilet-paper](https://api.iconify.design/ph/toilet-paper.svg?height=32&color=%23888888)
   static const IconData toiletPaper = IconData(
     0xe79c,
     fontFamily: 'PhosphorRegular',
@@ -16879,7 +16879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toolbox` no estilo Regular.
   ///
-  /// ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/toolbox.svg)
+  /// ![toolbox](https://api.iconify.design/ph/toolbox.svg?height=32&color=%23888888)
   static const IconData toolbox = IconData(
     0xeca0,
     fontFamily: 'PhosphorRegular',
@@ -16891,7 +16891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tooth` no estilo Regular.
   ///
-  /// ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tooth.svg)
+  /// ![tooth](https://api.iconify.design/ph/tooth.svg?height=32&color=%23888888)
   static const IconData tooth = IconData(
     0xe9cc,
     fontFamily: 'PhosphorRegular',
@@ -16903,7 +16903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tornado` no estilo Regular.
   ///
-  /// ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tornado.svg)
+  /// ![tornado](https://api.iconify.design/ph/tornado.svg?height=32&color=%23888888)
   static const IconData tornado = IconData(
     0xe88c,
     fontFamily: 'PhosphorRegular',
@@ -16915,7 +16915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tote` no estilo Regular.
   ///
-  /// ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tote.svg)
+  /// ![tote](https://api.iconify.design/ph/tote.svg?height=32&color=%23888888)
   static const IconData tote = IconData(
     0xe494,
     fontFamily: 'PhosphorRegular',
@@ -16927,7 +16927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toteSimple` no estilo Regular.
   ///
-  /// ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tote-simple.svg)
+  /// ![tote-simple](https://api.iconify.design/ph/tote-simple.svg?height=32&color=%23888888)
   static const IconData toteSimple = IconData(
     0xe678,
     fontFamily: 'PhosphorRegular',
@@ -16939,7 +16939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `towel` no estilo Regular.
   ///
-  /// ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/towel.svg)
+  /// ![towel](https://api.iconify.design/ph/towel.svg?height=32&color=%23888888)
   static const IconData towel = IconData(
     0xede6,
     fontFamily: 'PhosphorRegular',
@@ -16951,7 +16951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tractor` no estilo Regular.
   ///
-  /// ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tractor.svg)
+  /// ![tractor](https://api.iconify.design/ph/tractor.svg?height=32&color=%23888888)
   static const IconData tractor = IconData(
     0xec6e,
     fontFamily: 'PhosphorRegular',
@@ -16963,7 +16963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trademark` no estilo Regular.
   ///
-  /// ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trademark.svg)
+  /// ![trademark](https://api.iconify.design/ph/trademark.svg?height=32&color=%23888888)
   static const IconData trademark = IconData(
     0xe9f0,
     fontFamily: 'PhosphorRegular',
@@ -16975,7 +16975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trademarkRegistered` no estilo Regular.
   ///
-  /// ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trademark-registered.svg)
+  /// ![trademark-registered](https://api.iconify.design/ph/trademark-registered.svg?height=32&color=%23888888)
   static const IconData trademarkRegistered = IconData(
     0xe3f4,
     fontFamily: 'PhosphorRegular',
@@ -16987,7 +16987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trafficCone` no estilo Regular.
   ///
-  /// ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/traffic-cone.svg)
+  /// ![traffic-cone](https://api.iconify.design/ph/traffic-cone.svg?height=32&color=%23888888)
   static const IconData trafficCone = IconData(
     0xe9a8,
     fontFamily: 'PhosphorRegular',
@@ -16999,7 +16999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trafficSign` no estilo Regular.
   ///
-  /// ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/traffic-sign.svg)
+  /// ![traffic-sign](https://api.iconify.design/ph/traffic-sign.svg?height=32&color=%23888888)
   static const IconData trafficSign = IconData(
     0xe67a,
     fontFamily: 'PhosphorRegular',
@@ -17011,7 +17011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trafficSignal` no estilo Regular.
   ///
-  /// ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/traffic-signal.svg)
+  /// ![traffic-signal](https://api.iconify.design/ph/traffic-signal.svg?height=32&color=%23888888)
   static const IconData trafficSignal = IconData(
     0xe9aa,
     fontFamily: 'PhosphorRegular',
@@ -17023,7 +17023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `train` no estilo Regular.
   ///
-  /// ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/train.svg)
+  /// ![train](https://api.iconify.design/ph/train.svg?height=32&color=%23888888)
   static const IconData train = IconData(
     0xe496,
     fontFamily: 'PhosphorRegular',
@@ -17035,7 +17035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trainRegional` no estilo Regular.
   ///
-  /// ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/train-regional.svg)
+  /// ![train-regional](https://api.iconify.design/ph/train-regional.svg?height=32&color=%23888888)
   static const IconData trainRegional = IconData(
     0xe49e,
     fontFamily: 'PhosphorRegular',
@@ -17047,7 +17047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trainSimple` no estilo Regular.
   ///
-  /// ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/train-simple.svg)
+  /// ![train-simple](https://api.iconify.design/ph/train-simple.svg?height=32&color=%23888888)
   static const IconData trainSimple = IconData(
     0xe4a0,
     fontFamily: 'PhosphorRegular',
@@ -17059,7 +17059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tram` no estilo Regular.
   ///
-  /// ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tram.svg)
+  /// ![tram](https://api.iconify.design/ph/tram.svg?height=32&color=%23888888)
   static const IconData tram = IconData(
     0xe9ec,
     fontFamily: 'PhosphorRegular',
@@ -17071,7 +17071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `translate` no estilo Regular.
   ///
-  /// ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/translate.svg)
+  /// ![translate](https://api.iconify.design/ph/translate.svg?height=32&color=%23888888)
   static const IconData translate = IconData(
     0xe4a2,
     fontFamily: 'PhosphorRegular',
@@ -17083,7 +17083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trash` no estilo Regular.
   ///
-  /// ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trash.svg)
+  /// ![trash](https://api.iconify.design/ph/trash.svg?height=32&color=%23888888)
   static const IconData trash = IconData(
     0xe4a6,
     fontFamily: 'PhosphorRegular',
@@ -17095,7 +17095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trashSimple` no estilo Regular.
   ///
-  /// ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trash-simple.svg)
+  /// ![trash-simple](https://api.iconify.design/ph/trash-simple.svg?height=32&color=%23888888)
   static const IconData trashSimple = IconData(
     0xe4a8,
     fontFamily: 'PhosphorRegular',
@@ -17107,7 +17107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tray` no estilo Regular.
   ///
-  /// ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tray.svg)
+  /// ![tray](https://api.iconify.design/ph/tray.svg?height=32&color=%23888888)
   static const IconData tray = IconData(
     0xe4aa,
     fontFamily: 'PhosphorRegular',
@@ -17119,7 +17119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trayArrowDown` no estilo Regular.
   ///
-  /// ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tray-arrow-down.svg)
+  /// ![tray-arrow-down](https://api.iconify.design/ph/tray-arrow-down.svg?height=32&color=%23888888)
   static const IconData trayArrowDown = IconData(
     0xe010,
     fontFamily: 'PhosphorRegular',
@@ -17131,7 +17131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trayArrowUp` no estilo Regular.
   ///
-  /// ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tray-arrow-up.svg)
+  /// ![tray-arrow-up](https://api.iconify.design/ph/tray-arrow-up.svg?height=32&color=%23888888)
   static const IconData trayArrowUp = IconData(
     0xee52,
     fontFamily: 'PhosphorRegular',
@@ -17143,7 +17143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treasureChest` no estilo Regular.
   ///
-  /// ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/treasure-chest.svg)
+  /// ![treasure-chest](https://api.iconify.design/ph/treasure-chest.svg?height=32&color=%23888888)
   static const IconData treasureChest = IconData(
     0xede2,
     fontFamily: 'PhosphorRegular',
@@ -17155,7 +17155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tree` no estilo Regular.
   ///
-  /// ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tree.svg)
+  /// ![tree](https://api.iconify.design/ph/tree.svg?height=32&color=%23888888)
   static const IconData tree = IconData(
     0xe6da,
     fontFamily: 'PhosphorRegular',
@@ -17167,7 +17167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treeEvergreen` no estilo Regular.
   ///
-  /// ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tree-evergreen.svg)
+  /// ![tree-evergreen](https://api.iconify.design/ph/tree-evergreen.svg?height=32&color=%23888888)
   static const IconData treeEvergreen = IconData(
     0xe6dc,
     fontFamily: 'PhosphorRegular',
@@ -17179,7 +17179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treePalm` no estilo Regular.
   ///
-  /// ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tree-palm.svg)
+  /// ![tree-palm](https://api.iconify.design/ph/tree-palm.svg?height=32&color=%23888888)
   static const IconData treePalm = IconData(
     0xe91a,
     fontFamily: 'PhosphorRegular',
@@ -17191,7 +17191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treeStructure` no estilo Regular.
   ///
-  /// ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tree-structure.svg)
+  /// ![tree-structure](https://api.iconify.design/ph/tree-structure.svg?height=32&color=%23888888)
   static const IconData treeStructure = IconData(
     0xe67c,
     fontFamily: 'PhosphorRegular',
@@ -17203,7 +17203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treeView` no estilo Regular.
   ///
-  /// ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tree-view.svg)
+  /// ![tree-view](https://api.iconify.design/ph/tree-view.svg?height=32&color=%23888888)
   static const IconData treeView = IconData(
     0xee48,
     fontFamily: 'PhosphorRegular',
@@ -17215,7 +17215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trendDown` no estilo Regular.
   ///
-  /// ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trend-down.svg)
+  /// ![trend-down](https://api.iconify.design/ph/trend-down.svg?height=32&color=%23888888)
   static const IconData trendDown = IconData(
     0xe4ac,
     fontFamily: 'PhosphorRegular',
@@ -17227,7 +17227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trendUp` no estilo Regular.
   ///
-  /// ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trend-up.svg)
+  /// ![trend-up](https://api.iconify.design/ph/trend-up.svg?height=32&color=%23888888)
   static const IconData trendUp = IconData(
     0xe4ae,
     fontFamily: 'PhosphorRegular',
@@ -17239,7 +17239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `triangle` no estilo Regular.
   ///
-  /// ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/triangle.svg)
+  /// ![triangle](https://api.iconify.design/ph/triangle.svg?height=32&color=%23888888)
   static const IconData triangle = IconData(
     0xe4b0,
     fontFamily: 'PhosphorRegular',
@@ -17251,7 +17251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `triangleDashed` no estilo Regular.
   ///
-  /// ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/triangle-dashed.svg)
+  /// ![triangle-dashed](https://api.iconify.design/ph/triangle-dashed.svg?height=32&color=%23888888)
   static const IconData triangleDashed = IconData(
     0xe4b2,
     fontFamily: 'PhosphorRegular',
@@ -17263,7 +17263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trolley` no estilo Regular.
   ///
-  /// ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trolley.svg)
+  /// ![trolley](https://api.iconify.design/ph/trolley.svg?height=32&color=%23888888)
   static const IconData trolley = IconData(
     0xe5b2,
     fontFamily: 'PhosphorRegular',
@@ -17275,7 +17275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trolleySuitcase` no estilo Regular.
   ///
-  /// ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trolley-suitcase.svg)
+  /// ![trolley-suitcase](https://api.iconify.design/ph/trolley-suitcase.svg?height=32&color=%23888888)
   static const IconData trolleySuitcase = IconData(
     0xe5b4,
     fontFamily: 'PhosphorRegular',
@@ -17287,7 +17287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trophy` no estilo Regular.
   ///
-  /// ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/trophy.svg)
+  /// ![trophy](https://api.iconify.design/ph/trophy.svg?height=32&color=%23888888)
   static const IconData trophy = IconData(
     0xe67e,
     fontFamily: 'PhosphorRegular',
@@ -17299,7 +17299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `truck` no estilo Regular.
   ///
-  /// ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/truck.svg)
+  /// ![truck](https://api.iconify.design/ph/truck.svg?height=32&color=%23888888)
   static const IconData truck = IconData(
     0xe4b4,
     fontFamily: 'PhosphorRegular',
@@ -17311,7 +17311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `truckTrailer` no estilo Regular.
   ///
-  /// ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/truck-trailer.svg)
+  /// ![truck-trailer](https://api.iconify.design/ph/truck-trailer.svg?height=32&color=%23888888)
   static const IconData truckTrailer = IconData(
     0xe4b6,
     fontFamily: 'PhosphorRegular',
@@ -17323,7 +17323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tumblrLogo` no estilo Regular.
   ///
-  /// ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/tumblr-logo.svg)
+  /// ![tumblr-logo](https://api.iconify.design/ph/tumblr-logo.svg?height=32&color=%23888888)
   static const IconData tumblrLogo = IconData(
     0xe8d4,
     fontFamily: 'PhosphorRegular',
@@ -17335,7 +17335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `twitchLogo` no estilo Regular.
   ///
-  /// ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/twitch-logo.svg)
+  /// ![twitch-logo](https://api.iconify.design/ph/twitch-logo.svg?height=32&color=%23888888)
   static const IconData twitchLogo = IconData(
     0xe5ce,
     fontFamily: 'PhosphorRegular',
@@ -17347,7 +17347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `twitterLogo` no estilo Regular.
   ///
-  /// ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/twitter-logo.svg)
+  /// ![twitter-logo](https://api.iconify.design/ph/twitter-logo.svg?height=32&color=%23888888)
   static const IconData twitterLogo = IconData(
     0xe4ba,
     fontFamily: 'PhosphorRegular',
@@ -17359,7 +17359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `umbrella` no estilo Regular.
   ///
-  /// ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/umbrella.svg)
+  /// ![umbrella](https://api.iconify.design/ph/umbrella.svg?height=32&color=%23888888)
   static const IconData umbrella = IconData(
     0xe684,
     fontFamily: 'PhosphorRegular',
@@ -17371,7 +17371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `umbrellaSimple` no estilo Regular.
   ///
-  /// ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/umbrella-simple.svg)
+  /// ![umbrella-simple](https://api.iconify.design/ph/umbrella-simple.svg?height=32&color=%23888888)
   static const IconData umbrellaSimple = IconData(
     0xe686,
     fontFamily: 'PhosphorRegular',
@@ -17383,7 +17383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `union` no estilo Regular.
   ///
-  /// ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/union.svg)
+  /// ![union](https://api.iconify.design/ph/union.svg?height=32&color=%23888888)
   static const IconData union = IconData(
     0xedbe,
     fontFamily: 'PhosphorRegular',
@@ -17395,7 +17395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `unite` no estilo Regular.
   ///
-  /// ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/unite.svg)
+  /// ![unite](https://api.iconify.design/ph/unite.svg?height=32&color=%23888888)
   static const IconData unite = IconData(
     0xe87e,
     fontFamily: 'PhosphorRegular',
@@ -17407,7 +17407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `uniteSquare` no estilo Regular.
   ///
-  /// ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/unite-square.svg)
+  /// ![unite-square](https://api.iconify.design/ph/unite-square.svg?height=32&color=%23888888)
   static const IconData uniteSquare = IconData(
     0xe878,
     fontFamily: 'PhosphorRegular',
@@ -17419,7 +17419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `upload` no estilo Regular.
   ///
-  /// ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/upload.svg)
+  /// ![upload](https://api.iconify.design/ph/upload.svg?height=32&color=%23888888)
   static const IconData upload = IconData(
     0xe4be,
     fontFamily: 'PhosphorRegular',
@@ -17431,7 +17431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `uploadSimple` no estilo Regular.
   ///
-  /// ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/upload-simple.svg)
+  /// ![upload-simple](https://api.iconify.design/ph/upload-simple.svg?height=32&color=%23888888)
   static const IconData uploadSimple = IconData(
     0xe4c0,
     fontFamily: 'PhosphorRegular',
@@ -17443,7 +17443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `usb` no estilo Regular.
   ///
-  /// ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/usb.svg)
+  /// ![usb](https://api.iconify.design/ph/usb.svg?height=32&color=%23888888)
   static const IconData usb = IconData(
     0xe956,
     fontFamily: 'PhosphorRegular',
@@ -17455,7 +17455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `user` no estilo Regular.
   ///
-  /// ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user.svg)
+  /// ![user](https://api.iconify.design/ph/user.svg?height=32&color=%23888888)
   static const IconData user = IconData(
     0xe4c2,
     fontFamily: 'PhosphorRegular',
@@ -17467,7 +17467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCheck` no estilo Regular.
   ///
-  /// ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-check.svg)
+  /// ![user-check](https://api.iconify.design/ph/user-check.svg?height=32&color=%23888888)
   static const IconData userCheck = IconData(
     0xeafa,
     fontFamily: 'PhosphorRegular',
@@ -17479,7 +17479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircle` no estilo Regular.
   ///
-  /// ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-circle.svg)
+  /// ![user-circle](https://api.iconify.design/ph/user-circle.svg?height=32&color=%23888888)
   static const IconData userCircle = IconData(
     0xe4c4,
     fontFamily: 'PhosphorRegular',
@@ -17491,7 +17491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleCheck` no estilo Regular.
   ///
-  /// ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-circle-check.svg)
+  /// ![user-circle-check](https://api.iconify.design/ph/user-circle-check.svg?height=32&color=%23888888)
   static const IconData userCircleCheck = IconData(
     0xec38,
     fontFamily: 'PhosphorRegular',
@@ -17503,7 +17503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleDashed` no estilo Regular.
   ///
-  /// ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-circle-dashed.svg)
+  /// ![user-circle-dashed](https://api.iconify.design/ph/user-circle-dashed.svg?height=32&color=%23888888)
   static const IconData userCircleDashed = IconData(
     0xec36,
     fontFamily: 'PhosphorRegular',
@@ -17515,7 +17515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleGear` no estilo Regular.
   ///
-  /// ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-circle-gear.svg)
+  /// ![user-circle-gear](https://api.iconify.design/ph/user-circle-gear.svg?height=32&color=%23888888)
   static const IconData userCircleGear = IconData(
     0xe4c6,
     fontFamily: 'PhosphorRegular',
@@ -17527,7 +17527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleMinus` no estilo Regular.
   ///
-  /// ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-circle-minus.svg)
+  /// ![user-circle-minus](https://api.iconify.design/ph/user-circle-minus.svg?height=32&color=%23888888)
   static const IconData userCircleMinus = IconData(
     0xe4c8,
     fontFamily: 'PhosphorRegular',
@@ -17539,7 +17539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCirclePlus` no estilo Regular.
   ///
-  /// ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-circle-plus.svg)
+  /// ![user-circle-plus](https://api.iconify.design/ph/user-circle-plus.svg?height=32&color=%23888888)
   static const IconData userCirclePlus = IconData(
     0xe4ca,
     fontFamily: 'PhosphorRegular',
@@ -17551,7 +17551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userFocus` no estilo Regular.
   ///
-  /// ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-focus.svg)
+  /// ![user-focus](https://api.iconify.design/ph/user-focus.svg?height=32&color=%23888888)
   static const IconData userFocus = IconData(
     0xe6fc,
     fontFamily: 'PhosphorRegular',
@@ -17563,7 +17563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userGear` no estilo Regular.
   ///
-  /// ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-gear.svg)
+  /// ![user-gear](https://api.iconify.design/ph/user-gear.svg?height=32&color=%23888888)
   static const IconData userGear = IconData(
     0xe4cc,
     fontFamily: 'PhosphorRegular',
@@ -17575,7 +17575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userList` no estilo Regular.
   ///
-  /// ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-list.svg)
+  /// ![user-list](https://api.iconify.design/ph/user-list.svg?height=32&color=%23888888)
   static const IconData userList = IconData(
     0xe73c,
     fontFamily: 'PhosphorRegular',
@@ -17587,7 +17587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userMinus` no estilo Regular.
   ///
-  /// ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-minus.svg)
+  /// ![user-minus](https://api.iconify.design/ph/user-minus.svg?height=32&color=%23888888)
   static const IconData userMinus = IconData(
     0xe4ce,
     fontFamily: 'PhosphorRegular',
@@ -17599,7 +17599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userPlus` no estilo Regular.
   ///
-  /// ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-plus.svg)
+  /// ![user-plus](https://api.iconify.design/ph/user-plus.svg?height=32&color=%23888888)
   static const IconData userPlus = IconData(
     0xe4d0,
     fontFamily: 'PhosphorRegular',
@@ -17611,7 +17611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userRectangle` no estilo Regular.
   ///
-  /// ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-rectangle.svg)
+  /// ![user-rectangle](https://api.iconify.design/ph/user-rectangle.svg?height=32&color=%23888888)
   static const IconData userRectangle = IconData(
     0xe4d2,
     fontFamily: 'PhosphorRegular',
@@ -17623,7 +17623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userSound` no estilo Regular.
   ///
-  /// ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-sound.svg)
+  /// ![user-sound](https://api.iconify.design/ph/user-sound.svg?height=32&color=%23888888)
   static const IconData userSound = IconData(
     0xeca8,
     fontFamily: 'PhosphorRegular',
@@ -17635,7 +17635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userSquare` no estilo Regular.
   ///
-  /// ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-square.svg)
+  /// ![user-square](https://api.iconify.design/ph/user-square.svg?height=32&color=%23888888)
   static const IconData userSquare = IconData(
     0xe4d4,
     fontFamily: 'PhosphorRegular',
@@ -17647,7 +17647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userSwitch` no estilo Regular.
   ///
-  /// ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/user-switch.svg)
+  /// ![user-switch](https://api.iconify.design/ph/user-switch.svg?height=32&color=%23888888)
   static const IconData userSwitch = IconData(
     0xe756,
     fontFamily: 'PhosphorRegular',
@@ -17659,7 +17659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `users` no estilo Regular.
   ///
-  /// ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/users.svg)
+  /// ![users](https://api.iconify.design/ph/users.svg?height=32&color=%23888888)
   static const IconData users = IconData(
     0xe4d6,
     fontFamily: 'PhosphorRegular',
@@ -17671,7 +17671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `usersFour` no estilo Regular.
   ///
-  /// ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/users-four.svg)
+  /// ![users-four](https://api.iconify.design/ph/users-four.svg?height=32&color=%23888888)
   static const IconData usersFour = IconData(
     0xe68c,
     fontFamily: 'PhosphorRegular',
@@ -17683,7 +17683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `usersThree` no estilo Regular.
   ///
-  /// ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/users-three.svg)
+  /// ![users-three](https://api.iconify.design/ph/users-three.svg?height=32&color=%23888888)
   static const IconData usersThree = IconData(
     0xe68e,
     fontFamily: 'PhosphorRegular',
@@ -17695,7 +17695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `van` no estilo Regular.
   ///
-  /// ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/van.svg)
+  /// ![van](https://api.iconify.design/ph/van.svg?height=32&color=%23888888)
   static const IconData van = IconData(
     0xe826,
     fontFamily: 'PhosphorRegular',
@@ -17707,7 +17707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vault` no estilo Regular.
   ///
-  /// ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/vault.svg)
+  /// ![vault](https://api.iconify.design/ph/vault.svg?height=32&color=%23888888)
   static const IconData vault = IconData(
     0xe76e,
     fontFamily: 'PhosphorRegular',
@@ -17719,7 +17719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vectorThree` no estilo Regular.
   ///
-  /// ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/vector-three.svg)
+  /// ![vector-three](https://api.iconify.design/ph/vector-three.svg?height=32&color=%23888888)
   static const IconData vectorThree = IconData(
     0xee62,
     fontFamily: 'PhosphorRegular',
@@ -17731,7 +17731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vectorTwo` no estilo Regular.
   ///
-  /// ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/vector-two.svg)
+  /// ![vector-two](https://api.iconify.design/ph/vector-two.svg?height=32&color=%23888888)
   static const IconData vectorTwo = IconData(
     0xee64,
     fontFamily: 'PhosphorRegular',
@@ -17743,7 +17743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vibrate` no estilo Regular.
   ///
-  /// ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/vibrate.svg)
+  /// ![vibrate](https://api.iconify.design/ph/vibrate.svg?height=32&color=%23888888)
   static const IconData vibrate = IconData(
     0xe4d8,
     fontFamily: 'PhosphorRegular',
@@ -17755,7 +17755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `video` no estilo Regular.
   ///
-  /// ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/video.svg)
+  /// ![video](https://api.iconify.design/ph/video.svg?height=32&color=%23888888)
   static const IconData video = IconData(
     0xe740,
     fontFamily: 'PhosphorRegular',
@@ -17767,7 +17767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `videoCamera` no estilo Regular.
   ///
-  /// ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/video-camera.svg)
+  /// ![video-camera](https://api.iconify.design/ph/video-camera.svg?height=32&color=%23888888)
   static const IconData videoCamera = IconData(
     0xe4da,
     fontFamily: 'PhosphorRegular',
@@ -17779,7 +17779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `videoCameraSlash` no estilo Regular.
   ///
-  /// ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/video-camera-slash.svg)
+  /// ![video-camera-slash](https://api.iconify.design/ph/video-camera-slash.svg?height=32&color=%23888888)
   static const IconData videoCameraSlash = IconData(
     0xe4dc,
     fontFamily: 'PhosphorRegular',
@@ -17791,7 +17791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `videoConference` no estilo Regular.
   ///
-  /// ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/video-conference.svg)
+  /// ![video-conference](https://api.iconify.design/ph/video-conference.svg?height=32&color=%23888888)
   static const IconData videoConference = IconData(
     0xedce,
     fontFamily: 'PhosphorRegular',
@@ -17803,7 +17803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vignette` no estilo Regular.
   ///
-  /// ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/vignette.svg)
+  /// ![vignette](https://api.iconify.design/ph/vignette.svg?height=32&color=%23888888)
   static const IconData vignette = IconData(
     0xeba2,
     fontFamily: 'PhosphorRegular',
@@ -17815,7 +17815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vinylRecord` no estilo Regular.
   ///
-  /// ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/vinyl-record.svg)
+  /// ![vinyl-record](https://api.iconify.design/ph/vinyl-record.svg?height=32&color=%23888888)
   static const IconData vinylRecord = IconData(
     0xecac,
     fontFamily: 'PhosphorRegular',
@@ -17827,7 +17827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `virtualReality` no estilo Regular.
   ///
-  /// ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/virtual-reality.svg)
+  /// ![virtual-reality](https://api.iconify.design/ph/virtual-reality.svg?height=32&color=%23888888)
   static const IconData virtualReality = IconData(
     0xe7b8,
     fontFamily: 'PhosphorRegular',
@@ -17839,7 +17839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `virus` no estilo Regular.
   ///
-  /// ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/virus.svg)
+  /// ![virus](https://api.iconify.design/ph/virus.svg?height=32&color=%23888888)
   static const IconData virus = IconData(
     0xe7d6,
     fontFamily: 'PhosphorRegular',
@@ -17851,7 +17851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `visor` no estilo Regular.
   ///
-  /// ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/visor.svg)
+  /// ![visor](https://api.iconify.design/ph/visor.svg?height=32&color=%23888888)
   static const IconData visor = IconData(
     0xee2a,
     fontFamily: 'PhosphorRegular',
@@ -17863,7 +17863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `voicemail` no estilo Regular.
   ///
-  /// ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/voicemail.svg)
+  /// ![voicemail](https://api.iconify.design/ph/voicemail.svg?height=32&color=%23888888)
   static const IconData voicemail = IconData(
     0xe4de,
     fontFamily: 'PhosphorRegular',
@@ -17875,7 +17875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `volleyball` no estilo Regular.
   ///
-  /// ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/volleyball.svg)
+  /// ![volleyball](https://api.iconify.design/ph/volleyball.svg?height=32&color=%23888888)
   static const IconData volleyball = IconData(
     0xe726,
     fontFamily: 'PhosphorRegular',
@@ -17887,7 +17887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wall` no estilo Regular.
   ///
-  /// ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wall.svg)
+  /// ![wall](https://api.iconify.design/ph/wall.svg?height=32&color=%23888888)
   static const IconData wall = IconData(
     0xe688,
     fontFamily: 'PhosphorRegular',
@@ -17899,7 +17899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wallet` no estilo Regular.
   ///
-  /// ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wallet.svg)
+  /// ![wallet](https://api.iconify.design/ph/wallet.svg?height=32&color=%23888888)
   static const IconData wallet = IconData(
     0xe68a,
     fontFamily: 'PhosphorRegular',
@@ -17911,7 +17911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warehouse` no estilo Regular.
   ///
-  /// ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/warehouse.svg)
+  /// ![warehouse](https://api.iconify.design/ph/warehouse.svg?height=32&color=%23888888)
   static const IconData warehouse = IconData(
     0xecd4,
     fontFamily: 'PhosphorRegular',
@@ -17923,7 +17923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warning` no estilo Regular.
   ///
-  /// ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/warning.svg)
+  /// ![warning](https://api.iconify.design/ph/warning.svg?height=32&color=%23888888)
   static const IconData warning = IconData(
     0xe4e0,
     fontFamily: 'PhosphorRegular',
@@ -17935,7 +17935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warningCircle` no estilo Regular.
   ///
-  /// ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/warning-circle.svg)
+  /// ![warning-circle](https://api.iconify.design/ph/warning-circle.svg?height=32&color=%23888888)
   static const IconData warningCircle = IconData(
     0xe4e2,
     fontFamily: 'PhosphorRegular',
@@ -17947,7 +17947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warningDiamond` no estilo Regular.
   ///
-  /// ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/warning-diamond.svg)
+  /// ![warning-diamond](https://api.iconify.design/ph/warning-diamond.svg?height=32&color=%23888888)
   static const IconData warningDiamond = IconData(
     0xe7fc,
     fontFamily: 'PhosphorRegular',
@@ -17959,7 +17959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warningOctagon` no estilo Regular.
   ///
-  /// ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/warning-octagon.svg)
+  /// ![warning-octagon](https://api.iconify.design/ph/warning-octagon.svg?height=32&color=%23888888)
   static const IconData warningOctagon = IconData(
     0xe4e4,
     fontFamily: 'PhosphorRegular',
@@ -17971,7 +17971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `washingMachine` no estilo Regular.
   ///
-  /// ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/washing-machine.svg)
+  /// ![washing-machine](https://api.iconify.design/ph/washing-machine.svg?height=32&color=%23888888)
   static const IconData washingMachine = IconData(
     0xede8,
     fontFamily: 'PhosphorRegular',
@@ -17983,7 +17983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `watch` no estilo Regular.
   ///
-  /// ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/watch.svg)
+  /// ![watch](https://api.iconify.design/ph/watch.svg?height=32&color=%23888888)
   static const IconData watch = IconData(
     0xe4e6,
     fontFamily: 'PhosphorRegular',
@@ -17995,7 +17995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveSawtooth` no estilo Regular.
   ///
-  /// ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wave-sawtooth.svg)
+  /// ![wave-sawtooth](https://api.iconify.design/ph/wave-sawtooth.svg?height=32&color=%23888888)
   static const IconData waveSawtooth = IconData(
     0xea9c,
     fontFamily: 'PhosphorRegular',
@@ -18007,7 +18007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveSine` no estilo Regular.
   ///
-  /// ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wave-sine.svg)
+  /// ![wave-sine](https://api.iconify.design/ph/wave-sine.svg?height=32&color=%23888888)
   static const IconData waveSine = IconData(
     0xea9a,
     fontFamily: 'PhosphorRegular',
@@ -18019,7 +18019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveSquare` no estilo Regular.
   ///
-  /// ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wave-square.svg)
+  /// ![wave-square](https://api.iconify.design/ph/wave-square.svg?height=32&color=%23888888)
   static const IconData waveSquare = IconData(
     0xea9e,
     fontFamily: 'PhosphorRegular',
@@ -18031,7 +18031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveTriangle` no estilo Regular.
   ///
-  /// ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wave-triangle.svg)
+  /// ![wave-triangle](https://api.iconify.design/ph/wave-triangle.svg?height=32&color=%23888888)
   static const IconData waveTriangle = IconData(
     0xeaa0,
     fontFamily: 'PhosphorRegular',
@@ -18043,7 +18043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveform` no estilo Regular.
   ///
-  /// ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/waveform.svg)
+  /// ![waveform](https://api.iconify.design/ph/waveform.svg?height=32&color=%23888888)
   static const IconData waveform = IconData(
     0xe802,
     fontFamily: 'PhosphorRegular',
@@ -18055,7 +18055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveformSlash` no estilo Regular.
   ///
-  /// ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/waveform-slash.svg)
+  /// ![waveform-slash](https://api.iconify.design/ph/waveform-slash.svg?height=32&color=%23888888)
   static const IconData waveformSlash = IconData(
     0xe800,
     fontFamily: 'PhosphorRegular',
@@ -18067,7 +18067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waves` no estilo Regular.
   ///
-  /// ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/waves.svg)
+  /// ![waves](https://api.iconify.design/ph/waves.svg?height=32&color=%23888888)
   static const IconData waves = IconData(
     0xe6de,
     fontFamily: 'PhosphorRegular',
@@ -18079,7 +18079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `webcam` no estilo Regular.
   ///
-  /// ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/webcam.svg)
+  /// ![webcam](https://api.iconify.design/ph/webcam.svg?height=32&color=%23888888)
   static const IconData webcam = IconData(
     0xe9b2,
     fontFamily: 'PhosphorRegular',
@@ -18091,7 +18091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `webcamSlash` no estilo Regular.
   ///
-  /// ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/webcam-slash.svg)
+  /// ![webcam-slash](https://api.iconify.design/ph/webcam-slash.svg?height=32&color=%23888888)
   static const IconData webcamSlash = IconData(
     0xecdc,
     fontFamily: 'PhosphorRegular',
@@ -18103,7 +18103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `webhooksLogo` no estilo Regular.
   ///
-  /// ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/webhooks-logo.svg)
+  /// ![webhooks-logo](https://api.iconify.design/ph/webhooks-logo.svg?height=32&color=%23888888)
   static const IconData webhooksLogo = IconData(
     0xecae,
     fontFamily: 'PhosphorRegular',
@@ -18115,7 +18115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wechatLogo` no estilo Regular.
   ///
-  /// ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wechat-logo.svg)
+  /// ![wechat-logo](https://api.iconify.design/ph/wechat-logo.svg?height=32&color=%23888888)
   static const IconData wechatLogo = IconData(
     0xe8d2,
     fontFamily: 'PhosphorRegular',
@@ -18127,7 +18127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `whatsappLogo` no estilo Regular.
   ///
-  /// ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/whatsapp-logo.svg)
+  /// ![whatsapp-logo](https://api.iconify.design/ph/whatsapp-logo.svg?height=32&color=%23888888)
   static const IconData whatsappLogo = IconData(
     0xe5d0,
     fontFamily: 'PhosphorRegular',
@@ -18139,7 +18139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wheelchair` no estilo Regular.
   ///
-  /// ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wheelchair.svg)
+  /// ![wheelchair](https://api.iconify.design/ph/wheelchair.svg?height=32&color=%23888888)
   static const IconData wheelchair = IconData(
     0xe4e8,
     fontFamily: 'PhosphorRegular',
@@ -18151,7 +18151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wheelchairMotion` no estilo Regular.
   ///
-  /// ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wheelchair-motion.svg)
+  /// ![wheelchair-motion](https://api.iconify.design/ph/wheelchair-motion.svg?height=32&color=%23888888)
   static const IconData wheelchairMotion = IconData(
     0xe89a,
     fontFamily: 'PhosphorRegular',
@@ -18163,7 +18163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiHigh` no estilo Regular.
   ///
-  /// ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wifi-high.svg)
+  /// ![wifi-high](https://api.iconify.design/ph/wifi-high.svg?height=32&color=%23888888)
   static const IconData wifiHigh = IconData(
     0xe4ea,
     fontFamily: 'PhosphorRegular',
@@ -18175,7 +18175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiLow` no estilo Regular.
   ///
-  /// ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wifi-low.svg)
+  /// ![wifi-low](https://api.iconify.design/ph/wifi-low.svg?height=32&color=%23888888)
   static const IconData wifiLow = IconData(
     0xe4ec,
     fontFamily: 'PhosphorRegular',
@@ -18187,7 +18187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiMedium` no estilo Regular.
   ///
-  /// ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wifi-medium.svg)
+  /// ![wifi-medium](https://api.iconify.design/ph/wifi-medium.svg?height=32&color=%23888888)
   static const IconData wifiMedium = IconData(
     0xe4ee,
     fontFamily: 'PhosphorRegular',
@@ -18199,7 +18199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiNone` no estilo Regular.
   ///
-  /// ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wifi-none.svg)
+  /// ![wifi-none](https://api.iconify.design/ph/wifi-none.svg?height=32&color=%23888888)
   static const IconData wifiNone = IconData(
     0xe4f0,
     fontFamily: 'PhosphorRegular',
@@ -18211,7 +18211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiSlash` no estilo Regular.
   ///
-  /// ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wifi-slash.svg)
+  /// ![wifi-slash](https://api.iconify.design/ph/wifi-slash.svg?height=32&color=%23888888)
   static const IconData wifiSlash = IconData(
     0xe4f2,
     fontFamily: 'PhosphorRegular',
@@ -18223,7 +18223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiX` no estilo Regular.
   ///
-  /// ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wifi-x.svg)
+  /// ![wifi-x](https://api.iconify.design/ph/wifi-x.svg?height=32&color=%23888888)
   static const IconData wifiX = IconData(
     0xe4f4,
     fontFamily: 'PhosphorRegular',
@@ -18235,7 +18235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wind` no estilo Regular.
   ///
-  /// ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wind.svg)
+  /// ![wind](https://api.iconify.design/ph/wind.svg?height=32&color=%23888888)
   static const IconData wind = IconData(
     0xe5d2,
     fontFamily: 'PhosphorRegular',
@@ -18247,7 +18247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `windmill` no estilo Regular.
   ///
-  /// ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/windmill.svg)
+  /// ![windmill](https://api.iconify.design/ph/windmill.svg?height=32&color=%23888888)
   static const IconData windmill = IconData(
     0xe9f8,
     fontFamily: 'PhosphorRegular',
@@ -18259,7 +18259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `windowsLogo` no estilo Regular.
   ///
-  /// ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/windows-logo.svg)
+  /// ![windows-logo](https://api.iconify.design/ph/windows-logo.svg?height=32&color=%23888888)
   static const IconData windowsLogo = IconData(
     0xe692,
     fontFamily: 'PhosphorRegular',
@@ -18271,7 +18271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wine` no estilo Regular.
   ///
-  /// ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wine.svg)
+  /// ![wine](https://api.iconify.design/ph/wine.svg?height=32&color=%23888888)
   static const IconData wine = IconData(
     0xe6b2,
     fontFamily: 'PhosphorRegular',
@@ -18283,7 +18283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wrench` no estilo Regular.
   ///
-  /// ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/wrench.svg)
+  /// ![wrench](https://api.iconify.design/ph/wrench.svg?height=32&color=%23888888)
   static const IconData wrench = IconData(
     0xe5d4,
     fontFamily: 'PhosphorRegular',
@@ -18295,7 +18295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `x` no estilo Regular.
   ///
-  /// ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/x.svg)
+  /// ![x](https://api.iconify.design/ph/x.svg?height=32&color=%23888888)
   static const IconData x = IconData(
     0xe4f6,
     fontFamily: 'PhosphorRegular',
@@ -18307,7 +18307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `xCircle` no estilo Regular.
   ///
-  /// ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/x-circle.svg)
+  /// ![x-circle](https://api.iconify.design/ph/x-circle.svg?height=32&color=%23888888)
   static const IconData xCircle = IconData(
     0xe4f8,
     fontFamily: 'PhosphorRegular',
@@ -18319,7 +18319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `xLogo` no estilo Regular.
   ///
-  /// ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/x-logo.svg)
+  /// ![x-logo](https://api.iconify.design/ph/x-logo.svg?height=32&color=%23888888)
   static const IconData xLogo = IconData(
     0xe4bc,
     fontFamily: 'PhosphorRegular',
@@ -18331,7 +18331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `xSquare` no estilo Regular.
   ///
-  /// ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/x-square.svg)
+  /// ![x-square](https://api.iconify.design/ph/x-square.svg?height=32&color=%23888888)
   static const IconData xSquare = IconData(
     0xe4fa,
     fontFamily: 'PhosphorRegular',
@@ -18343,7 +18343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `yarn` no estilo Regular.
   ///
-  /// ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/yarn.svg)
+  /// ![yarn](https://api.iconify.design/ph/yarn.svg?height=32&color=%23888888)
   static const IconData yarn = IconData(
     0xed9a,
     fontFamily: 'PhosphorRegular',
@@ -18355,7 +18355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `yinYang` no estilo Regular.
   ///
-  /// ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/yin-yang.svg)
+  /// ![yin-yang](https://api.iconify.design/ph/yin-yang.svg?height=32&color=%23888888)
   static const IconData yinYang = IconData(
     0xe92a,
     fontFamily: 'PhosphorRegular',
@@ -18367,7 +18367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `youtubeLogo` no estilo Regular.
   ///
-  /// ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/regular/youtube-logo.svg)
+  /// ![youtube-logo](https://api.iconify.design/ph/youtube-logo.svg?height=32&color=%23888888)
   static const IconData youtubeLogo = IconData(
     0xe4fc,
     fontFamily: 'PhosphorRegular',
