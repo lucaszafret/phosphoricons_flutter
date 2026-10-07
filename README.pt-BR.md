@@ -23,10 +23,11 @@ Uma biblioteca completa de ícones para Flutter baseada no [Phosphor Icons](http
 
 ## Funcionalidades
 
-- **1530+ ícones** do núcleo do [Phosphor Icons](https://phosphoricons.com) v2.0.8
+- **1530+ ícones** do [Phosphor Icons](https://phosphoricons.com) v2.1
 - **6 estilos de peso** — Thin, Light, Regular, Bold, Fill, Duotone
 - **Compatível com Dart 3.x** — sem o uso de `extends IconData` em nenhum lugar
 - **Suporte a Duotone** via widget `PhosphorIcon` (Stack de duas camadas com opacidade e cor configuráveis)
+- **Sombras** — `PhosphorIcon(..., shadows: [...])`, em todos os estilos (inclusive Duotone)
 - **Dois padrões de acesso** — classes por estilo ou atalhos em uma única classe
 - **Todos os aliases (apelidos) de ícones** incluídos (ex: `asclepius` e `caduceus` compartilham o mesmo codepoint)
 - **Otimizado para Tree-shaking** — todas as classes são anotadas com `@staticIconProvider`
@@ -40,7 +41,7 @@ Adicione ao seu `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  phosphoricons_flutter: ^1.0.0
+  phosphoricons_flutter: ^1.1.0
 ```
 
 Em seguida, execute:
@@ -91,6 +92,17 @@ PhosphorIcon(PhosphorIconsBold.heart, color: Colors.red, size: 32)
 PhosphorIcon(PhosphorIconsFill.rocketLaunch, color: Colors.deepPurple)
 ```
 
+Adicione uma sombra com `shadows`, exatamente como no `Icon`:
+
+```dart
+PhosphorIcon(
+  PhosphorIconsBold.heart,
+  color: Colors.red,
+  size: 48,
+  shadows: [Shadow(color: Colors.black38, blurRadius: 6, offset: Offset(0, 4))],
+)
+```
+
 ### 4. Duotone
 
 Ícones Duotone exigem o `PhosphorIcon` porque eles renderizam duas camadas de fonte empilhadas via o widget `Stack`.
@@ -139,6 +151,8 @@ Todos os ícones usam camelCase. Encontre qualquer ícone em [phosphoricons.com]
 | `icon` | `Object` | obrigatório | `IconData` ou `PhosphorDuotoneIconData` |
 | `size` | `double?` | `null` | Tamanho em pixels lógicos (herda de `IconTheme`) |
 | `color` | `Color?` | `null` | Cor do ícone (herda de `IconTheme`) |
+| `shadows` | `List<Shadow>?` | `null` | Sombras pintadas atrás do ícone (herda de `IconTheme`). No Duotone valem para as duas camadas |
+| `fill`, `weight`, `grade`, `opticalSize` | `double?` | `null` | Aceitos por compatibilidade com o `phosphor_flutter` e o `Icon`. Sem efeito visual: as fontes Phosphor são estáticas (use outro estilo, como `PhosphorIconsBold`, para mudar a espessura) |
 | `duotoneSecondaryOpacity` | `double` | `0.20` | Opacidade da camada de preenchimento de fundo (apenas Duotone) |
 | `duotoneSecondaryColor` | `Color?` | `null` | Cor da camada de preenchimento — o padrão é `color` |
 | `semanticLabel` | `String?` | `null` | Rótulo de acessibilidade |
@@ -234,13 +248,16 @@ No pacote original `phosphor_flutter`, os ícones Duotone (como `PhosphorIconsDu
   }
   ```
 
+### 3. `shadows` e outros parâmetros do `Icon`
+O `PhosphorIcon` voltou a aceitar `shadows` (e `fill`, `weight`, `grade` e `opticalSize`, que não têm efeito visual nas fontes Phosphor estáticas), então o código que passava esses parâmetros ao `PhosphorIcon` antigo compila sem alterações.
+
 ---
 
 ## Atualizando ícones
 
-Quando o Phosphor Icons lançar novos ícones:
+As fontes incluídas são do Phosphor Icons **v2.1.x** (idênticas às publicadas no pacote npm [`@phosphor-icons/web`](https://www.npmjs.com/package/@phosphor-icons/web)). Quando o Phosphor Icons lançar novos ícones:
 
-1. Baixe o ZIP de fontes mais recente de [phosphoricons.com](https://phosphoricons.com) → **Download** → **Fonts**
+1. Baixe o ZIP de fontes mais recente de [phosphoricons.com](https://phosphoricons.com) → **Download** → **Fonts** (ou use as pastas `src/<estilo>/` do pacote npm `@phosphor-icons/web`, que traz os mesmos `selection.json` e TTFs)
 2. Extraia e substitua o conteúdo de `phosphor-icons/Fonts/` na raiz do repositório
 3. Execute o gerador:
 

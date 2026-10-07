@@ -12,6 +12,7 @@ pubspec.lock
 # Ferramentas internas de build (geração dos ícones)
 tool/
 phosphor-icons/
+NEW_ICONS.md
 
 # Arquivos utilitários de agentes de IA e CLI
 CLAUDE.md

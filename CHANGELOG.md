@@ -1,3 +1,12 @@
+## 1.1.0
+
+* **`shadows` is back** on `PhosphorIcon` (fixes [#1](https://github.com/lucaszafret/phosphoricons_flutter/issues/1)). It works in every style; in Duotone the shadows are applied to both layers, like the original `phosphor_flutter`.
+* `PhosphorIcon` also accepts `fill`, `weight`, `grade` and `opticalSize` again, so code migrated from `phosphor_flutter` compiles unchanged. They have no visual effect: Phosphor fonts are static.
+* **Documentation**: every icon constant (all six style classes and every `PhosphorIcons` shortcut) now has a bilingual (EN / PT) dartdoc description, and the library is documented.
+* **Icons**: no icon changes. The bundled fonts were already Phosphor Icons v2.1.x (identical to `@phosphor-icons/web` 2.1.x); the 1.0.0 docs wrongly said core v2.0.8. Docs corrected.
+* Example app: fixed a crash (missing `DefaultTabController`) and added a Shadows tab.
+* Tooling: updated for Flutter 3.47.6 and the latest dependencies; icon generator emits the new docs.
+
 ## 1.0.0
 
 * Initial release of `phosphoricons_flutter`.

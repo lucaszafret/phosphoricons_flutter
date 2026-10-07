@@ -23,7 +23,7 @@ cd tool && dart pub get && dart generate.dart
 
 ## Arquitetura
 
-Este é um pacote Flutter de ícones com **1530+ ícones** em **6 estilos** (Thin, Light, Regular, Bold, Fill, Duotone), baseado no [Phosphor Icons](https://phosphoricons.com) core v2.0.8.
+Este é um pacote Flutter de ícones com **1530+ ícones** em **6 estilos** (Thin, Light, Regular, Bold, Fill, Duotone), baseado no [Phosphor Icons](https://phosphoricons.com) v2.1.x (as fontes e os `selection.json` são idênticos aos do pacote npm `@phosphor-icons/web` 2.1.x).
 
 ### Motivação da existência do pacote
 
@@ -62,7 +62,7 @@ Registradas no `pubspec.yaml` com famílias nomeadas (`PhosphorRegular`, `Phosph
 
 ## Atualização de ícones
 
-1. Baixar novo ZIP em phosphoricons.com → Download → Fonts
+1. Baixar novo ZIP em phosphoricons.com → Download → Fonts (ou usar `src/<estilo>/` do pacote npm `@phosphor-icons/web`, que traz os mesmos `selection.json` e TTFs). Antes de baixar, compare os checksums com os arquivos atuais: se forem iguais, não há nada a atualizar.
 2. Substituir o conteúdo de `phosphor-icons/Fonts/`
 3. Executar `cd tool && dart generate.dart`
 4. Verificar o relatório no terminal e o arquivo gerado `NEW_ICONS.md` (contém o diff de ícones novos/removidos em formato markdown pronto para colar no CHANGELOG).
@@ -71,4 +71,4 @@ Registradas no `pubspec.yaml` com famílias nomeadas (`PhosphorRegular`, `Phosph
 
 O pacote é construído com suporte a duas linguagens (Inglês como primário, e Português `[PT]`).
 - O `README` possui duas versões (`README.md` e `README.pt-BR.md`).
-- O gerador (`tool/generate.dart`) automaticamente embute docstrings nos dois idiomas para todas as +9000 constantes geradas, garantindo que o "Hover" da IDE seja bilíngue.
+- O gerador (`tool/generate.dart`) automaticamente embute docstrings nos dois idiomas para todas as constantes geradas (as 6 classes de estilo e os atalhos de `PhosphorIcons`, +18000), garantindo que o "Hover" da IDE seja bilíngue e que o pub.dev conte a documentação da API (mínimo de 20%).
