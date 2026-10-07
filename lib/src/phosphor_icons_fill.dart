@@ -15,6 +15,10 @@ import 'package:flutter/widgets.dart';
 class PhosphorIconsFill {
   const PhosphorIconsFill();
 
+  /// The `acorn` icon in Fill style.
+  ///
+  /// [PT] O ícone `acorn` no estilo Fill.
+  ///
   /// ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/acorn.svg)
   static const IconData acorn = IconData(
     0xeb9a,
@@ -23,6 +27,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `activity` icon in Fill style.
+  ///
+  /// [PT] O ícone `activity` no estilo Fill.
+  ///
   /// ![activity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/activity.svg)
   static const IconData activity = IconData(
     0xe000,
@@ -31,6 +39,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `addressBook` icon in Fill style.
+  ///
+  /// [PT] O ícone `addressBook` no estilo Fill.
+  ///
   /// ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/address-book.svg)
   static const IconData addressBook = IconData(
     0xe6f8,
@@ -39,6 +51,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `addressBookTabs` icon in Fill style.
+  ///
+  /// [PT] O ícone `addressBookTabs` no estilo Fill.
+  ///
   /// ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/address-book-tabs.svg)
   static const IconData addressBookTabs = IconData(
     0xee4e,
@@ -47,6 +63,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airTrafficControl` icon in Fill style.
+  ///
+  /// [PT] O ícone `airTrafficControl` no estilo Fill.
+  ///
   /// ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/air-traffic-control.svg)
   static const IconData airTrafficControl = IconData(
     0xecd8,
@@ -55,6 +75,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airplane` icon in Fill style.
+  ///
+  /// [PT] O ícone `airplane` no estilo Fill.
+  ///
   /// ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane.svg)
   static const IconData airplane = IconData(
     0xe002,
@@ -63,6 +87,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airplaneInFlight` icon in Fill style.
+  ///
+  /// [PT] O ícone `airplaneInFlight` no estilo Fill.
+  ///
   /// ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-in-flight.svg)
   static const IconData airplaneInFlight = IconData(
     0xe4fe,
@@ -71,6 +99,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airplaneLanding` icon in Fill style.
+  ///
+  /// [PT] O ícone `airplaneLanding` no estilo Fill.
+  ///
   /// ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-landing.svg)
   static const IconData airplaneLanding = IconData(
     0xe502,
@@ -79,6 +111,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airplaneTakeoff` icon in Fill style.
+  ///
+  /// [PT] O ícone `airplaneTakeoff` no estilo Fill.
+  ///
   /// ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-takeoff.svg)
   static const IconData airplaneTakeoff = IconData(
     0xe504,
@@ -87,6 +123,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airplaneTaxiing` icon in Fill style.
+  ///
+  /// [PT] O ícone `airplaneTaxiing` no estilo Fill.
+  ///
   /// ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-taxiing.svg)
   static const IconData airplaneTaxiing = IconData(
     0xe500,
@@ -95,6 +135,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airplaneTilt` icon in Fill style.
+  ///
+  /// [PT] O ícone `airplaneTilt` no estilo Fill.
+  ///
   /// ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplane-tilt.svg)
   static const IconData airplaneTilt = IconData(
     0xe5d6,
@@ -103,6 +147,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `airplay` icon in Fill style.
+  ///
+  /// [PT] O ícone `airplay` no estilo Fill.
+  ///
   /// ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/airplay.svg)
   static const IconData airplay = IconData(
     0xe004,
@@ -111,6 +159,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alarm` icon in Fill style.
+  ///
+  /// [PT] O ícone `alarm` no estilo Fill.
+  ///
   /// ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/alarm.svg)
   static const IconData alarm = IconData(
     0xe006,
@@ -119,6 +171,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alien` icon in Fill style.
+  ///
+  /// [PT] O ícone `alien` no estilo Fill.
+  ///
   /// ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/alien.svg)
   static const IconData alien = IconData(
     0xe8a6,
@@ -127,6 +183,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignBottom` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignBottom` no estilo Fill.
+  ///
   /// ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-bottom.svg)
   static const IconData alignBottom = IconData(
     0xe506,
@@ -135,6 +195,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignBottomSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignBottomSimple` no estilo Fill.
+  ///
   /// ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-bottom-simple.svg)
   static const IconData alignBottomSimple = IconData(
     0xeb0c,
@@ -143,6 +207,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignCenterHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignCenterHorizontal` no estilo Fill.
+  ///
   /// ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-horizontal.svg)
   static const IconData alignCenterHorizontal = IconData(
     0xe50a,
@@ -151,6 +219,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignCenterHorizontalSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Fill.
+  ///
   /// ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-horizontal-simple.svg)
   static const IconData alignCenterHorizontalSimple = IconData(
     0xeb0e,
@@ -159,6 +231,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignCenterVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignCenterVertical` no estilo Fill.
+  ///
   /// ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-vertical.svg)
   static const IconData alignCenterVertical = IconData(
     0xe50c,
@@ -167,6 +243,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignCenterVerticalSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignCenterVerticalSimple` no estilo Fill.
+  ///
   /// ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-center-vertical-simple.svg)
   static const IconData alignCenterVerticalSimple = IconData(
     0xeb10,
@@ -175,6 +255,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignLeft` no estilo Fill.
+  ///
   /// ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-left.svg)
   static const IconData alignLeft = IconData(
     0xe50e,
@@ -183,6 +267,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignLeftSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignLeftSimple` no estilo Fill.
+  ///
   /// ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-left-simple.svg)
   static const IconData alignLeftSimple = IconData(
     0xeaee,
@@ -191,6 +279,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignRight` no estilo Fill.
+  ///
   /// ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-right.svg)
   static const IconData alignRight = IconData(
     0xe510,
@@ -199,6 +291,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignRightSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignRightSimple` no estilo Fill.
+  ///
   /// ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-right-simple.svg)
   static const IconData alignRightSimple = IconData(
     0xeb12,
@@ -207,6 +303,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignTop` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignTop` no estilo Fill.
+  ///
   /// ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-top.svg)
   static const IconData alignTop = IconData(
     0xe512,
@@ -215,6 +315,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `alignTopSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `alignTopSimple` no estilo Fill.
+  ///
   /// ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/align-top-simple.svg)
   static const IconData alignTopSimple = IconData(
     0xeb14,
@@ -223,6 +327,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `amazonLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `amazonLogo` no estilo Fill.
+  ///
   /// ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/amazon-logo.svg)
   static const IconData amazonLogo = IconData(
     0xe96c,
@@ -231,6 +339,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ambulance` icon in Fill style.
+  ///
+  /// [PT] O ícone `ambulance` no estilo Fill.
+  ///
   /// ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ambulance.svg)
   static const IconData ambulance = IconData(
     0xe572,
@@ -239,6 +351,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `anchor` icon in Fill style.
+  ///
+  /// [PT] O ícone `anchor` no estilo Fill.
+  ///
   /// ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/anchor.svg)
   static const IconData anchor = IconData(
     0xe514,
@@ -247,6 +363,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `anchorSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `anchorSimple` no estilo Fill.
+  ///
   /// ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/anchor-simple.svg)
   static const IconData anchorSimple = IconData(
     0xe5d8,
@@ -255,6 +375,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `androidLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `androidLogo` no estilo Fill.
+  ///
   /// ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/android-logo.svg)
   static const IconData androidLogo = IconData(
     0xe008,
@@ -263,6 +387,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `angle` icon in Fill style.
+  ///
+  /// [PT] O ícone `angle` no estilo Fill.
+  ///
   /// ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/angle.svg)
   static const IconData angle = IconData(
     0xe7bc,
@@ -271,6 +399,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `angularLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `angularLogo` no estilo Fill.
+  ///
   /// ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/angular-logo.svg)
   static const IconData angularLogo = IconData(
     0xeb80,
@@ -279,6 +411,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `aperture` icon in Fill style.
+  ///
+  /// [PT] O ícone `aperture` no estilo Fill.
+  ///
   /// ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/aperture.svg)
   static const IconData aperture = IconData(
     0xe00a,
@@ -287,6 +423,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `appStoreLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `appStoreLogo` no estilo Fill.
+  ///
   /// ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/app-store-logo.svg)
   static const IconData appStoreLogo = IconData(
     0xe974,
@@ -295,6 +435,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `appWindow` icon in Fill style.
+  ///
+  /// [PT] O ícone `appWindow` no estilo Fill.
+  ///
   /// ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/app-window.svg)
   static const IconData appWindow = IconData(
     0xe5da,
@@ -303,6 +447,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `appleLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `appleLogo` no estilo Fill.
+  ///
   /// ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/apple-logo.svg)
   static const IconData appleLogo = IconData(
     0xe516,
@@ -311,6 +459,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `applePodcastsLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `applePodcastsLogo` no estilo Fill.
+  ///
   /// ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/apple-podcasts-logo.svg)
   static const IconData applePodcastsLogo = IconData(
     0xeb96,
@@ -319,6 +471,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `approximateEquals` icon in Fill style.
+  ///
+  /// [PT] O ícone `approximateEquals` no estilo Fill.
+  ///
   /// ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/approximate-equals.svg)
   static const IconData approximateEquals = IconData(
     0xedaa,
@@ -327,6 +483,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `archive` icon in Fill style.
+  ///
+  /// [PT] O ícone `archive` no estilo Fill.
+  ///
   /// ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/archive.svg)
   static const IconData archive = IconData(
     0xe00c,
@@ -335,6 +495,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `archiveBox` icon in Fill style.
+  ///
+  /// [PT] O ícone `archiveBox` no estilo Fill.
+  ///
   /// ![archive-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/archive-box.svg)
   static const IconData archiveBox = IconData(
     0xe00e,
@@ -343,6 +507,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `archiveTray` icon in Fill style.
+  ///
+  /// [PT] O ícone `archiveTray` no estilo Fill.
+  ///
   /// ![archive-tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/archive-tray.svg)
   static const IconData archiveTray = IconData(
     0xe010,
@@ -351,6 +519,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `armchair` icon in Fill style.
+  ///
+  /// [PT] O ícone `armchair` no estilo Fill.
+  ///
   /// ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/armchair.svg)
   static const IconData armchair = IconData(
     0xe012,
@@ -359,6 +531,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowArcLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowArcLeft` no estilo Fill.
+  ///
   /// ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-arc-left.svg)
   static const IconData arrowArcLeft = IconData(
     0xe014,
@@ -367,6 +543,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowArcRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowArcRight` no estilo Fill.
+  ///
   /// ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-arc-right.svg)
   static const IconData arrowArcRight = IconData(
     0xe016,
@@ -375,6 +555,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendDoubleUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Fill.
+  ///
   /// ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-double-up-left.svg)
   static const IconData arrowBendDoubleUpLeft = IconData(
     0xe03a,
@@ -383,6 +567,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendDoubleUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Fill.
+  ///
   /// ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-double-up-right.svg)
   static const IconData arrowBendDoubleUpRight = IconData(
     0xe03c,
@@ -391,6 +579,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendDownLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendDownLeft` no estilo Fill.
+  ///
   /// ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-down-left.svg)
   static const IconData arrowBendDownLeft = IconData(
     0xe018,
@@ -399,6 +591,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendDownRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendDownRight` no estilo Fill.
+  ///
   /// ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-down-right.svg)
   static const IconData arrowBendDownRight = IconData(
     0xe01a,
@@ -407,6 +603,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendLeftDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendLeftDown` no estilo Fill.
+  ///
   /// ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-left-down.svg)
   static const IconData arrowBendLeftDown = IconData(
     0xe01c,
@@ -415,6 +615,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendLeftUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendLeftUp` no estilo Fill.
+  ///
   /// ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-left-up.svg)
   static const IconData arrowBendLeftUp = IconData(
     0xe01e,
@@ -423,6 +627,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendRightDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendRightDown` no estilo Fill.
+  ///
   /// ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-right-down.svg)
   static const IconData arrowBendRightDown = IconData(
     0xe020,
@@ -431,6 +639,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendRightUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendRightUp` no estilo Fill.
+  ///
   /// ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-right-up.svg)
   static const IconData arrowBendRightUp = IconData(
     0xe022,
@@ -439,6 +651,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendUpLeft` no estilo Fill.
+  ///
   /// ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-up-left.svg)
   static const IconData arrowBendUpLeft = IconData(
     0xe024,
@@ -447,6 +663,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowBendUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowBendUpRight` no estilo Fill.
+  ///
   /// ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-bend-up-right.svg)
   static const IconData arrowBendUpRight = IconData(
     0xe026,
@@ -455,6 +675,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleDown` no estilo Fill.
+  ///
   /// ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down.svg)
   static const IconData arrowCircleDown = IconData(
     0xe028,
@@ -463,6 +687,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleDownLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleDownLeft` no estilo Fill.
+  ///
   /// ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down-left.svg)
   static const IconData arrowCircleDownLeft = IconData(
     0xe02a,
@@ -471,6 +699,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleDownRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleDownRight` no estilo Fill.
+  ///
   /// ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-down-right.svg)
   static const IconData arrowCircleDownRight = IconData(
     0xe02c,
@@ -479,6 +711,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleLeft` no estilo Fill.
+  ///
   /// ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-left.svg)
   static const IconData arrowCircleLeft = IconData(
     0xe05a,
@@ -487,6 +723,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleRight` no estilo Fill.
+  ///
   /// ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-right.svg)
   static const IconData arrowCircleRight = IconData(
     0xe02e,
@@ -495,6 +735,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleUp` no estilo Fill.
+  ///
   /// ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up.svg)
   static const IconData arrowCircleUp = IconData(
     0xe030,
@@ -503,6 +747,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleUpLeft` no estilo Fill.
+  ///
   /// ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up-left.svg)
   static const IconData arrowCircleUpLeft = IconData(
     0xe032,
@@ -511,6 +759,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCircleUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCircleUpRight` no estilo Fill.
+  ///
   /// ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-circle-up-right.svg)
   static const IconData arrowCircleUpRight = IconData(
     0xe034,
@@ -519,6 +771,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowClockwise` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowClockwise` no estilo Fill.
+  ///
   /// ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-clockwise.svg)
   static const IconData arrowClockwise = IconData(
     0xe036,
@@ -527,6 +783,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowCounterClockwise` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowCounterClockwise` no estilo Fill.
+  ///
   /// ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-counter-clockwise.svg)
   static const IconData arrowCounterClockwise = IconData(
     0xe038,
@@ -535,6 +795,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowDown` no estilo Fill.
+  ///
   /// ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down.svg)
   static const IconData arrowDown = IconData(
     0xe03e,
@@ -543,6 +807,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowDownLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowDownLeft` no estilo Fill.
+  ///
   /// ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down-left.svg)
   static const IconData arrowDownLeft = IconData(
     0xe040,
@@ -551,6 +819,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowDownRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowDownRight` no estilo Fill.
+  ///
   /// ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-down-right.svg)
   static const IconData arrowDownRight = IconData(
     0xe042,
@@ -559,6 +831,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowDownLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowDownLeft` no estilo Fill.
+  ///
   /// ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-down-left.svg)
   static const IconData arrowElbowDownLeft = IconData(
     0xe044,
@@ -567,6 +843,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowDownRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowDownRight` no estilo Fill.
+  ///
   /// ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-down-right.svg)
   static const IconData arrowElbowDownRight = IconData(
     0xe046,
@@ -575,6 +855,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowLeft` no estilo Fill.
+  ///
   /// ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left.svg)
   static const IconData arrowElbowLeft = IconData(
     0xe048,
@@ -583,6 +867,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowLeftDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowLeftDown` no estilo Fill.
+  ///
   /// ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left-down.svg)
   static const IconData arrowElbowLeftDown = IconData(
     0xe04a,
@@ -591,6 +879,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowLeftUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowLeftUp` no estilo Fill.
+  ///
   /// ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-left-up.svg)
   static const IconData arrowElbowLeftUp = IconData(
     0xe04c,
@@ -599,6 +891,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowRight` no estilo Fill.
+  ///
   /// ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right.svg)
   static const IconData arrowElbowRight = IconData(
     0xe04e,
@@ -607,6 +903,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowRightDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowRightDown` no estilo Fill.
+  ///
   /// ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right-down.svg)
   static const IconData arrowElbowRightDown = IconData(
     0xe050,
@@ -615,6 +915,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowRightUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowRightUp` no estilo Fill.
+  ///
   /// ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-right-up.svg)
   static const IconData arrowElbowRightUp = IconData(
     0xe052,
@@ -623,6 +927,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowUpLeft` no estilo Fill.
+  ///
   /// ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-up-left.svg)
   static const IconData arrowElbowUpLeft = IconData(
     0xe054,
@@ -631,6 +939,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowElbowUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowElbowUpRight` no estilo Fill.
+  ///
   /// ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-elbow-up-right.svg)
   static const IconData arrowElbowUpRight = IconData(
     0xe056,
@@ -639,6 +951,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatDown` no estilo Fill.
+  ///
   /// ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-down.svg)
   static const IconData arrowFatDown = IconData(
     0xe518,
@@ -647,6 +963,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLeft` no estilo Fill.
+  ///
   /// ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-left.svg)
   static const IconData arrowFatLeft = IconData(
     0xe51a,
@@ -655,6 +975,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLineDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLineDown` no estilo Fill.
+  ///
   /// ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-down.svg)
   static const IconData arrowFatLineDown = IconData(
     0xe51c,
@@ -663,6 +987,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLineLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLineLeft` no estilo Fill.
+  ///
   /// ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-left.svg)
   static const IconData arrowFatLineLeft = IconData(
     0xe51e,
@@ -671,6 +999,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLineRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLineRight` no estilo Fill.
+  ///
   /// ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-right.svg)
   static const IconData arrowFatLineRight = IconData(
     0xe520,
@@ -679,6 +1011,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLineUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLineUp` no estilo Fill.
+  ///
   /// ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-line-up.svg)
   static const IconData arrowFatLineUp = IconData(
     0xe522,
@@ -687,6 +1023,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLinesDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLinesDown` no estilo Fill.
+  ///
   /// ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-down.svg)
   static const IconData arrowFatLinesDown = IconData(
     0xe524,
@@ -695,6 +1035,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLinesLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLinesLeft` no estilo Fill.
+  ///
   /// ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-left.svg)
   static const IconData arrowFatLinesLeft = IconData(
     0xe526,
@@ -703,6 +1047,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLinesRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLinesRight` no estilo Fill.
+  ///
   /// ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-right.svg)
   static const IconData arrowFatLinesRight = IconData(
     0xe528,
@@ -711,6 +1059,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatLinesUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatLinesUp` no estilo Fill.
+  ///
   /// ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-lines-up.svg)
   static const IconData arrowFatLinesUp = IconData(
     0xe52a,
@@ -719,6 +1071,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatRight` no estilo Fill.
+  ///
   /// ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-right.svg)
   static const IconData arrowFatRight = IconData(
     0xe52c,
@@ -727,6 +1083,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowFatUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowFatUp` no estilo Fill.
+  ///
   /// ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-fat-up.svg)
   static const IconData arrowFatUp = IconData(
     0xe52e,
@@ -735,6 +1095,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLeft` no estilo Fill.
+  ///
   /// ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-left.svg)
   static const IconData arrowLeft = IconData(
     0xe058,
@@ -743,6 +1107,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineDown` no estilo Fill.
+  ///
   /// ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down.svg)
   static const IconData arrowLineDown = IconData(
     0xe05c,
@@ -751,6 +1119,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineDownLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineDownLeft` no estilo Fill.
+  ///
   /// ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down-left.svg)
   static const IconData arrowLineDownLeft = IconData(
     0xe05e,
@@ -759,6 +1131,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineDownRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineDownRight` no estilo Fill.
+  ///
   /// ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-down-right.svg)
   static const IconData arrowLineDownRight = IconData(
     0xe060,
@@ -767,6 +1143,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineLeft` no estilo Fill.
+  ///
   /// ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-left.svg)
   static const IconData arrowLineLeft = IconData(
     0xe062,
@@ -775,6 +1155,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineRight` no estilo Fill.
+  ///
   /// ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-right.svg)
   static const IconData arrowLineRight = IconData(
     0xe064,
@@ -783,6 +1167,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineUp` no estilo Fill.
+  ///
   /// ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up.svg)
   static const IconData arrowLineUp = IconData(
     0xe066,
@@ -791,6 +1179,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineUpLeft` no estilo Fill.
+  ///
   /// ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up-left.svg)
   static const IconData arrowLineUpLeft = IconData(
     0xe068,
@@ -799,6 +1191,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowLineUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowLineUpRight` no estilo Fill.
+  ///
   /// ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-line-up-right.svg)
   static const IconData arrowLineUpRight = IconData(
     0xe06a,
@@ -807,6 +1203,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowRight` no estilo Fill.
+  ///
   /// ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-right.svg)
   static const IconData arrowRight = IconData(
     0xe06c,
@@ -815,6 +1215,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareDown` no estilo Fill.
+  ///
   /// ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down.svg)
   static const IconData arrowSquareDown = IconData(
     0xe06e,
@@ -823,6 +1227,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareDownLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareDownLeft` no estilo Fill.
+  ///
   /// ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down-left.svg)
   static const IconData arrowSquareDownLeft = IconData(
     0xe070,
@@ -831,6 +1239,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareDownRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareDownRight` no estilo Fill.
+  ///
   /// ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-down-right.svg)
   static const IconData arrowSquareDownRight = IconData(
     0xe072,
@@ -839,6 +1251,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareIn` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareIn` no estilo Fill.
+  ///
   /// ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-in.svg)
   static const IconData arrowSquareIn = IconData(
     0xe5dc,
@@ -847,6 +1263,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareLeft` no estilo Fill.
+  ///
   /// ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-left.svg)
   static const IconData arrowSquareLeft = IconData(
     0xe074,
@@ -855,6 +1275,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareOut` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareOut` no estilo Fill.
+  ///
   /// ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-out.svg)
   static const IconData arrowSquareOut = IconData(
     0xe5de,
@@ -863,6 +1287,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareRight` no estilo Fill.
+  ///
   /// ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-right.svg)
   static const IconData arrowSquareRight = IconData(
     0xe076,
@@ -871,6 +1299,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareUp` no estilo Fill.
+  ///
   /// ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up.svg)
   static const IconData arrowSquareUp = IconData(
     0xe078,
@@ -879,6 +1311,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareUpLeft` no estilo Fill.
+  ///
   /// ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up-left.svg)
   static const IconData arrowSquareUpLeft = IconData(
     0xe07a,
@@ -887,6 +1323,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowSquareUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowSquareUpRight` no estilo Fill.
+  ///
   /// ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-square-up-right.svg)
   static const IconData arrowSquareUpRight = IconData(
     0xe07c,
@@ -895,6 +1335,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowUDownLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowUDownLeft` no estilo Fill.
+  ///
   /// ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-down-left.svg)
   static const IconData arrowUDownLeft = IconData(
     0xe07e,
@@ -903,6 +1347,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowUDownRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowUDownRight` no estilo Fill.
+  ///
   /// ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-down-right.svg)
   static const IconData arrowUDownRight = IconData(
     0xe080,
@@ -911,6 +1359,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowULeftDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowULeftDown` no estilo Fill.
+  ///
   /// ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-left-down.svg)
   static const IconData arrowULeftDown = IconData(
     0xe082,
@@ -919,6 +1371,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowULeftUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowULeftUp` no estilo Fill.
+  ///
   /// ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-left-up.svg)
   static const IconData arrowULeftUp = IconData(
     0xe084,
@@ -927,6 +1383,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowURightDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowURightDown` no estilo Fill.
+  ///
   /// ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-right-down.svg)
   static const IconData arrowURightDown = IconData(
     0xe086,
@@ -935,6 +1395,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowURightUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowURightUp` no estilo Fill.
+  ///
   /// ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-right-up.svg)
   static const IconData arrowURightUp = IconData(
     0xe088,
@@ -943,6 +1407,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowUUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowUUpLeft` no estilo Fill.
+  ///
   /// ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-up-left.svg)
   static const IconData arrowUUpLeft = IconData(
     0xe08a,
@@ -951,6 +1419,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowUUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowUUpRight` no estilo Fill.
+  ///
   /// ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-u-up-right.svg)
   static const IconData arrowUUpRight = IconData(
     0xe08c,
@@ -959,6 +1431,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowUp` no estilo Fill.
+  ///
   /// ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up.svg)
   static const IconData arrowUp = IconData(
     0xe08e,
@@ -967,6 +1443,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowUpLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowUpLeft` no estilo Fill.
+  ///
   /// ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up-left.svg)
   static const IconData arrowUpLeft = IconData(
     0xe090,
@@ -975,6 +1455,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowUpRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowUpRight` no estilo Fill.
+  ///
   /// ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrow-up-right.svg)
   static const IconData arrowUpRight = IconData(
     0xe092,
@@ -983,6 +1467,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsClockwise` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsClockwise` no estilo Fill.
+  ///
   /// ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-clockwise.svg)
   static const IconData arrowsClockwise = IconData(
     0xe094,
@@ -991,6 +1479,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsCounterClockwise` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsCounterClockwise` no estilo Fill.
+  ///
   /// ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-counter-clockwise.svg)
   static const IconData arrowsCounterClockwise = IconData(
     0xe096,
@@ -999,6 +1491,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsDownUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsDownUp` no estilo Fill.
+  ///
   /// ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-down-up.svg)
   static const IconData arrowsDownUp = IconData(
     0xe098,
@@ -1007,6 +1503,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsHorizontal` no estilo Fill.
+  ///
   /// ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-horizontal.svg)
   static const IconData arrowsHorizontal = IconData(
     0xeb06,
@@ -1015,6 +1515,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsIn` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsIn` no estilo Fill.
+  ///
   /// ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in.svg)
   static const IconData arrowsIn = IconData(
     0xe09a,
@@ -1023,6 +1527,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsInCardinal` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsInCardinal` no estilo Fill.
+  ///
   /// ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-cardinal.svg)
   static const IconData arrowsInCardinal = IconData(
     0xe09c,
@@ -1031,6 +1539,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsInLineHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsInLineHorizontal` no estilo Fill.
+  ///
   /// ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-line-horizontal.svg)
   static const IconData arrowsInLineHorizontal = IconData(
     0xe530,
@@ -1039,6 +1551,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsInLineVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsInLineVertical` no estilo Fill.
+  ///
   /// ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-line-vertical.svg)
   static const IconData arrowsInLineVertical = IconData(
     0xe532,
@@ -1047,6 +1563,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsInSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsInSimple` no estilo Fill.
+  ///
   /// ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-in-simple.svg)
   static const IconData arrowsInSimple = IconData(
     0xe09e,
@@ -1055,6 +1575,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsLeftRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsLeftRight` no estilo Fill.
+  ///
   /// ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-left-right.svg)
   static const IconData arrowsLeftRight = IconData(
     0xe0a0,
@@ -1063,6 +1587,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsMerge` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsMerge` no estilo Fill.
+  ///
   /// ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-merge.svg)
   static const IconData arrowsMerge = IconData(
     0xed3e,
@@ -1071,6 +1599,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsOut` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsOut` no estilo Fill.
+  ///
   /// ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out.svg)
   static const IconData arrowsOut = IconData(
     0xe0a2,
@@ -1079,6 +1611,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsOutCardinal` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsOutCardinal` no estilo Fill.
+  ///
   /// ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-cardinal.svg)
   static const IconData arrowsOutCardinal = IconData(
     0xe0a4,
@@ -1087,6 +1623,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsOutLineHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Fill.
+  ///
   /// ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-line-horizontal.svg)
   static const IconData arrowsOutLineHorizontal = IconData(
     0xe534,
@@ -1095,6 +1635,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsOutLineVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsOutLineVertical` no estilo Fill.
+  ///
   /// ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-line-vertical.svg)
   static const IconData arrowsOutLineVertical = IconData(
     0xe536,
@@ -1103,6 +1647,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsOutSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsOutSimple` no estilo Fill.
+  ///
   /// ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-out-simple.svg)
   static const IconData arrowsOutSimple = IconData(
     0xe0a6,
@@ -1111,6 +1659,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsSplit` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsSplit` no estilo Fill.
+  ///
   /// ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-split.svg)
   static const IconData arrowsSplit = IconData(
     0xed3c,
@@ -1119,6 +1671,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `arrowsVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `arrowsVertical` no estilo Fill.
+  ///
   /// ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/arrows-vertical.svg)
   static const IconData arrowsVertical = IconData(
     0xeb04,
@@ -1127,6 +1683,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `article` icon in Fill style.
+  ///
+  /// [PT] O ícone `article` no estilo Fill.
+  ///
   /// ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article.svg)
   static const IconData article = IconData(
     0xe0a8,
@@ -1135,6 +1695,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `articleMedium` icon in Fill style.
+  ///
+  /// [PT] O ícone `articleMedium` no estilo Fill.
+  ///
   /// ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article-medium.svg)
   static const IconData articleMedium = IconData(
     0xe5e0,
@@ -1143,6 +1707,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `articleNyTimes` icon in Fill style.
+  ///
+  /// [PT] O ícone `articleNyTimes` no estilo Fill.
+  ///
   /// ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/article-ny-times.svg)
   static const IconData articleNyTimes = IconData(
     0xe5e2,
@@ -1151,6 +1719,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `asclepius` icon in Fill style.
+  ///
+  /// [PT] O ícone `asclepius` no estilo Fill.
+  ///
   /// ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asclepius.svg)
   static const IconData asclepius = IconData(
     0xee34,
@@ -1159,6 +1731,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `asterisk` icon in Fill style.
+  ///
+  /// [PT] O ícone `asterisk` no estilo Fill.
+  ///
   /// ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asterisk.svg)
   static const IconData asterisk = IconData(
     0xe0aa,
@@ -1167,6 +1743,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `asteriskSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `asteriskSimple` no estilo Fill.
+  ///
   /// ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/asterisk-simple.svg)
   static const IconData asteriskSimple = IconData(
     0xe832,
@@ -1175,6 +1755,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `at` icon in Fill style.
+  ///
+  /// [PT] O ícone `at` no estilo Fill.
+  ///
   /// ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/at.svg)
   static const IconData at = IconData(
     0xe0ac,
@@ -1183,6 +1767,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `atom` icon in Fill style.
+  ///
+  /// [PT] O ícone `atom` no estilo Fill.
+  ///
   /// ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/atom.svg)
   static const IconData atom = IconData(
     0xe5e4,
@@ -1191,6 +1779,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `avocado` icon in Fill style.
+  ///
+  /// [PT] O ícone `avocado` no estilo Fill.
+  ///
   /// ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/avocado.svg)
   static const IconData avocado = IconData(
     0xee04,
@@ -1199,6 +1791,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `axe` icon in Fill style.
+  ///
+  /// [PT] O ícone `axe` no estilo Fill.
+  ///
   /// ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/axe.svg)
   static const IconData axe = IconData(
     0xe9fc,
@@ -1207,6 +1803,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `baby` icon in Fill style.
+  ///
+  /// [PT] O ícone `baby` no estilo Fill.
+  ///
   /// ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baby.svg)
   static const IconData baby = IconData(
     0xe774,
@@ -1215,6 +1815,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `babyCarriage` icon in Fill style.
+  ///
+  /// [PT] O ícone `babyCarriage` no estilo Fill.
+  ///
   /// ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baby-carriage.svg)
   static const IconData babyCarriage = IconData(
     0xe818,
@@ -1223,6 +1827,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `backpack` icon in Fill style.
+  ///
+  /// [PT] O ícone `backpack` no estilo Fill.
+  ///
   /// ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/backpack.svg)
   static const IconData backpack = IconData(
     0xe922,
@@ -1231,6 +1839,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `backspace` icon in Fill style.
+  ///
+  /// [PT] O ícone `backspace` no estilo Fill.
+  ///
   /// ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/backspace.svg)
   static const IconData backspace = IconData(
     0xe0ae,
@@ -1239,6 +1851,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bag` icon in Fill style.
+  ///
+  /// [PT] O ícone `bag` no estilo Fill.
+  ///
   /// ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bag.svg)
   static const IconData bag = IconData(
     0xe0b0,
@@ -1247,6 +1863,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bagSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `bagSimple` no estilo Fill.
+  ///
   /// ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bag-simple.svg)
   static const IconData bagSimple = IconData(
     0xe5e6,
@@ -1255,6 +1875,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `balloon` icon in Fill style.
+  ///
+  /// [PT] O ícone `balloon` no estilo Fill.
+  ///
   /// ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/balloon.svg)
   static const IconData balloon = IconData(
     0xe76c,
@@ -1263,6 +1887,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bandaids` icon in Fill style.
+  ///
+  /// [PT] O ícone `bandaids` no estilo Fill.
+  ///
   /// ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bandaids.svg)
   static const IconData bandaids = IconData(
     0xe0b2,
@@ -1271,6 +1899,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bank` icon in Fill style.
+  ///
+  /// [PT] O ícone `bank` no estilo Fill.
+  ///
   /// ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bank.svg)
   static const IconData bank = IconData(
     0xe0b4,
@@ -1279,6 +1911,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `barbell` icon in Fill style.
+  ///
+  /// [PT] O ícone `barbell` no estilo Fill.
+  ///
   /// ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barbell.svg)
   static const IconData barbell = IconData(
     0xe0b6,
@@ -1287,6 +1923,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `barcode` icon in Fill style.
+  ///
+  /// [PT] O ícone `barcode` no estilo Fill.
+  ///
   /// ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barcode.svg)
   static const IconData barcode = IconData(
     0xe0b8,
@@ -1295,6 +1935,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `barn` icon in Fill style.
+  ///
+  /// [PT] O ícone `barn` no estilo Fill.
+  ///
   /// ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barn.svg)
   static const IconData barn = IconData(
     0xec72,
@@ -1303,6 +1947,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `barricade` icon in Fill style.
+  ///
+  /// [PT] O ícone `barricade` no estilo Fill.
+  ///
   /// ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/barricade.svg)
   static const IconData barricade = IconData(
     0xe948,
@@ -1311,6 +1959,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `baseball` icon in Fill style.
+  ///
+  /// [PT] O ícone `baseball` no estilo Fill.
+  ///
   /// ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball.svg)
   static const IconData baseball = IconData(
     0xe71a,
@@ -1319,6 +1971,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `baseballCap` icon in Fill style.
+  ///
+  /// [PT] O ícone `baseballCap` no estilo Fill.
+  ///
   /// ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball-cap.svg)
   static const IconData baseballCap = IconData(
     0xea28,
@@ -1327,6 +1983,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `baseballHelmet` icon in Fill style.
+  ///
+  /// [PT] O ícone `baseballHelmet` no estilo Fill.
+  ///
   /// ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/baseball-helmet.svg)
   static const IconData baseballHelmet = IconData(
     0xee4a,
@@ -1335,6 +1995,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `basket` icon in Fill style.
+  ///
+  /// [PT] O ícone `basket` no estilo Fill.
+  ///
   /// ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/basket.svg)
   static const IconData basket = IconData(
     0xe964,
@@ -1343,6 +2007,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `basketball` icon in Fill style.
+  ///
+  /// [PT] O ícone `basketball` no estilo Fill.
+  ///
   /// ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/basketball.svg)
   static const IconData basketball = IconData(
     0xe724,
@@ -1351,6 +2019,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bathtub` icon in Fill style.
+  ///
+  /// [PT] O ícone `bathtub` no estilo Fill.
+  ///
   /// ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bathtub.svg)
   static const IconData bathtub = IconData(
     0xe81e,
@@ -1359,6 +2031,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryCharging` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryCharging` no estilo Fill.
+  ///
   /// ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-charging.svg)
   static const IconData batteryCharging = IconData(
     0xe0ba,
@@ -1367,6 +2043,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryChargingVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryChargingVertical` no estilo Fill.
+  ///
   /// ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-charging-vertical.svg)
   static const IconData batteryChargingVertical = IconData(
     0xe0bc,
@@ -1375,6 +2055,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryEmpty` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryEmpty` no estilo Fill.
+  ///
   /// ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-empty.svg)
   static const IconData batteryEmpty = IconData(
     0xe0be,
@@ -1383,6 +2067,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryFull` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryFull` no estilo Fill.
+  ///
   /// ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-full.svg)
   static const IconData batteryFull = IconData(
     0xe0c0,
@@ -1391,6 +2079,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryHigh` no estilo Fill.
+  ///
   /// ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-high.svg)
   static const IconData batteryHigh = IconData(
     0xe0c2,
@@ -1399,6 +2091,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryLow` no estilo Fill.
+  ///
   /// ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-low.svg)
   static const IconData batteryLow = IconData(
     0xe0c4,
@@ -1407,6 +2103,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryMedium` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryMedium` no estilo Fill.
+  ///
   /// ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-medium.svg)
   static const IconData batteryMedium = IconData(
     0xe0c6,
@@ -1415,6 +2115,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryPlus` no estilo Fill.
+  ///
   /// ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-plus.svg)
   static const IconData batteryPlus = IconData(
     0xe808,
@@ -1423,6 +2127,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryPlusVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryPlusVertical` no estilo Fill.
+  ///
   /// ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-plus-vertical.svg)
   static const IconData batteryPlusVertical = IconData(
     0xec50,
@@ -1431,6 +2139,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryVerticalEmpty` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryVerticalEmpty` no estilo Fill.
+  ///
   /// ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-empty.svg)
   static const IconData batteryVerticalEmpty = IconData(
     0xe7c6,
@@ -1439,6 +2151,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryVerticalFull` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryVerticalFull` no estilo Fill.
+  ///
   /// ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-full.svg)
   static const IconData batteryVerticalFull = IconData(
     0xe7c4,
@@ -1447,6 +2163,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryVerticalHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryVerticalHigh` no estilo Fill.
+  ///
   /// ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-high.svg)
   static const IconData batteryVerticalHigh = IconData(
     0xe7c2,
@@ -1455,6 +2175,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryVerticalLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryVerticalLow` no estilo Fill.
+  ///
   /// ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-low.svg)
   static const IconData batteryVerticalLow = IconData(
     0xe7be,
@@ -1463,6 +2187,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryVerticalMedium` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryVerticalMedium` no estilo Fill.
+  ///
   /// ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-vertical-medium.svg)
   static const IconData batteryVerticalMedium = IconData(
     0xe7c0,
@@ -1471,6 +2199,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryWarning` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryWarning` no estilo Fill.
+  ///
   /// ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-warning.svg)
   static const IconData batteryWarning = IconData(
     0xe0c8,
@@ -1479,6 +2211,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `batteryWarningVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `batteryWarningVertical` no estilo Fill.
+  ///
   /// ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/battery-warning-vertical.svg)
   static const IconData batteryWarningVertical = IconData(
     0xe0ca,
@@ -1487,6 +2223,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `beachBall` icon in Fill style.
+  ///
+  /// [PT] O ícone `beachBall` no estilo Fill.
+  ///
   /// ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beach-ball.svg)
   static const IconData beachBall = IconData(
     0xed24,
@@ -1495,6 +2235,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `beanie` icon in Fill style.
+  ///
+  /// [PT] O ícone `beanie` no estilo Fill.
+  ///
   /// ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beanie.svg)
   static const IconData beanie = IconData(
     0xea2a,
@@ -1503,6 +2247,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bed` icon in Fill style.
+  ///
+  /// [PT] O ícone `bed` no estilo Fill.
+  ///
   /// ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bed.svg)
   static const IconData bed = IconData(
     0xe0cc,
@@ -1511,6 +2259,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `beerBottle` icon in Fill style.
+  ///
+  /// [PT] O ícone `beerBottle` no estilo Fill.
+  ///
   /// ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beer-bottle.svg)
   static const IconData beerBottle = IconData(
     0xe7b0,
@@ -1519,6 +2271,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `beerStein` icon in Fill style.
+  ///
+  /// [PT] O ícone `beerStein` no estilo Fill.
+  ///
   /// ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/beer-stein.svg)
   static const IconData beerStein = IconData(
     0xeb62,
@@ -1527,6 +2283,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `behanceLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `behanceLogo` no estilo Fill.
+  ///
   /// ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/behance-logo.svg)
   static const IconData behanceLogo = IconData(
     0xe7f4,
@@ -1535,6 +2295,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bell` icon in Fill style.
+  ///
+  /// [PT] O ícone `bell` no estilo Fill.
+  ///
   /// ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell.svg)
   static const IconData bell = IconData(
     0xe0ce,
@@ -1543,6 +2307,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bellRinging` icon in Fill style.
+  ///
+  /// [PT] O ícone `bellRinging` no estilo Fill.
+  ///
   /// ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-ringing.svg)
   static const IconData bellRinging = IconData(
     0xe5e8,
@@ -1551,6 +2319,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bellSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `bellSimple` no estilo Fill.
+  ///
   /// ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple.svg)
   static const IconData bellSimple = IconData(
     0xe0d0,
@@ -1559,6 +2331,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bellSimpleRinging` icon in Fill style.
+  ///
+  /// [PT] O ícone `bellSimpleRinging` no estilo Fill.
+  ///
   /// ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-ringing.svg)
   static const IconData bellSimpleRinging = IconData(
     0xe5ea,
@@ -1567,6 +2343,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bellSimpleSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `bellSimpleSlash` no estilo Fill.
+  ///
   /// ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-slash.svg)
   static const IconData bellSimpleSlash = IconData(
     0xe0d2,
@@ -1575,6 +2355,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bellSimpleZ` icon in Fill style.
+  ///
+  /// [PT] O ícone `bellSimpleZ` no estilo Fill.
+  ///
   /// ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-simple-z.svg)
   static const IconData bellSimpleZ = IconData(
     0xe5ec,
@@ -1583,6 +2367,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bellSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `bellSlash` no estilo Fill.
+  ///
   /// ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-slash.svg)
   static const IconData bellSlash = IconData(
     0xe0d4,
@@ -1591,6 +2379,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bellZ` icon in Fill style.
+  ///
+  /// [PT] O ícone `bellZ` no estilo Fill.
+  ///
   /// ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bell-z.svg)
   static const IconData bellZ = IconData(
     0xe5ee,
@@ -1599,6 +2391,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `belt` icon in Fill style.
+  ///
+  /// [PT] O ícone `belt` no estilo Fill.
+  ///
   /// ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/belt.svg)
   static const IconData belt = IconData(
     0xea2c,
@@ -1607,6 +2403,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bezierCurve` icon in Fill style.
+  ///
+  /// [PT] O ícone `bezierCurve` no estilo Fill.
+  ///
   /// ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bezier-curve.svg)
   static const IconData bezierCurve = IconData(
     0xeb00,
@@ -1615,6 +2415,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bicycle` icon in Fill style.
+  ///
+  /// [PT] O ícone `bicycle` no estilo Fill.
+  ///
   /// ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bicycle.svg)
   static const IconData bicycle = IconData(
     0xe0d6,
@@ -1623,6 +2427,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `binary` icon in Fill style.
+  ///
+  /// [PT] O ícone `binary` no estilo Fill.
+  ///
   /// ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/binary.svg)
   static const IconData binary = IconData(
     0xee60,
@@ -1631,6 +2439,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `binoculars` icon in Fill style.
+  ///
+  /// [PT] O ícone `binoculars` no estilo Fill.
+  ///
   /// ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/binoculars.svg)
   static const IconData binoculars = IconData(
     0xea64,
@@ -1639,6 +2451,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `biohazard` icon in Fill style.
+  ///
+  /// [PT] O ícone `biohazard` no estilo Fill.
+  ///
   /// ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/biohazard.svg)
   static const IconData biohazard = IconData(
     0xe9e0,
@@ -1647,6 +2463,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bird` icon in Fill style.
+  ///
+  /// [PT] O ícone `bird` no estilo Fill.
+  ///
   /// ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bird.svg)
   static const IconData bird = IconData(
     0xe72c,
@@ -1655,6 +2475,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `blueprint` icon in Fill style.
+  ///
+  /// [PT] O ícone `blueprint` no estilo Fill.
+  ///
   /// ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/blueprint.svg)
   static const IconData blueprint = IconData(
     0xeda0,
@@ -1663,6 +2487,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bluetooth` icon in Fill style.
+  ///
+  /// [PT] O ícone `bluetooth` no estilo Fill.
+  ///
   /// ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth.svg)
   static const IconData bluetooth = IconData(
     0xe0da,
@@ -1671,6 +2499,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bluetoothConnected` icon in Fill style.
+  ///
+  /// [PT] O ícone `bluetoothConnected` no estilo Fill.
+  ///
   /// ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-connected.svg)
   static const IconData bluetoothConnected = IconData(
     0xe0dc,
@@ -1679,6 +2511,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bluetoothSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `bluetoothSlash` no estilo Fill.
+  ///
   /// ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-slash.svg)
   static const IconData bluetoothSlash = IconData(
     0xe0de,
@@ -1687,6 +2523,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bluetoothX` icon in Fill style.
+  ///
+  /// [PT] O ícone `bluetoothX` no estilo Fill.
+  ///
   /// ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bluetooth-x.svg)
   static const IconData bluetoothX = IconData(
     0xe0e0,
@@ -1695,6 +2535,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `boat` icon in Fill style.
+  ///
+  /// [PT] O ícone `boat` no estilo Fill.
+  ///
   /// ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boat.svg)
   static const IconData boat = IconData(
     0xe786,
@@ -1703,6 +2547,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bomb` icon in Fill style.
+  ///
+  /// [PT] O ícone `bomb` no estilo Fill.
+  ///
   /// ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bomb.svg)
   static const IconData bomb = IconData(
     0xee0a,
@@ -1711,6 +2559,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bone` icon in Fill style.
+  ///
+  /// [PT] O ícone `bone` no estilo Fill.
+  ///
   /// ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bone.svg)
   static const IconData bone = IconData(
     0xe7f2,
@@ -1719,6 +2571,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `book` icon in Fill style.
+  ///
+  /// [PT] O ícone `book` no estilo Fill.
+  ///
   /// ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book.svg)
   static const IconData book = IconData(
     0xe0e2,
@@ -1727,6 +2583,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookBookmark` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookBookmark` no estilo Fill.
+  ///
   /// ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-bookmark.svg)
   static const IconData bookBookmark = IconData(
     0xe0e4,
@@ -1735,6 +2595,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookOpen` no estilo Fill.
+  ///
   /// ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open.svg)
   static const IconData bookOpen = IconData(
     0xe0e6,
@@ -1743,6 +2607,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookOpenText` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookOpenText` no estilo Fill.
+  ///
   /// ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open-text.svg)
   static const IconData bookOpenText = IconData(
     0xe8f2,
@@ -1751,6 +2619,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookOpenUser` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookOpenUser` no estilo Fill.
+  ///
   /// ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/book-open-user.svg)
   static const IconData bookOpenUser = IconData(
     0xede0,
@@ -1759,6 +2631,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookmark` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookmark` no estilo Fill.
+  ///
   /// ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmark.svg)
   static const IconData bookmark = IconData(
     0xe0e8,
@@ -1767,6 +2643,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookmarkSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookmarkSimple` no estilo Fill.
+  ///
   /// ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmark-simple.svg)
   static const IconData bookmarkSimple = IconData(
     0xe0ea,
@@ -1775,6 +2655,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookmarks` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookmarks` no estilo Fill.
+  ///
   /// ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmarks.svg)
   static const IconData bookmarks = IconData(
     0xe0ec,
@@ -1783,6 +2667,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bookmarksSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `bookmarksSimple` no estilo Fill.
+  ///
   /// ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bookmarks-simple.svg)
   static const IconData bookmarksSimple = IconData(
     0xe5f0,
@@ -1791,6 +2679,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `books` icon in Fill style.
+  ///
+  /// [PT] O ícone `books` no estilo Fill.
+  ///
   /// ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/books.svg)
   static const IconData books = IconData(
     0xe758,
@@ -1799,6 +2691,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `boot` icon in Fill style.
+  ///
+  /// [PT] O ícone `boot` no estilo Fill.
+  ///
   /// ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boot.svg)
   static const IconData boot = IconData(
     0xecca,
@@ -1807,6 +2703,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `boules` icon in Fill style.
+  ///
+  /// [PT] O ícone `boules` no estilo Fill.
+  ///
   /// ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boules.svg)
   static const IconData boules = IconData(
     0xe722,
@@ -1815,6 +2715,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `boundingBox` icon in Fill style.
+  ///
+  /// [PT] O ícone `boundingBox` no estilo Fill.
+  ///
   /// ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bounding-box.svg)
   static const IconData boundingBox = IconData(
     0xe6ce,
@@ -1823,6 +2727,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bowlFood` icon in Fill style.
+  ///
+  /// [PT] O ícone `bowlFood` no estilo Fill.
+  ///
   /// ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowl-food.svg)
   static const IconData bowlFood = IconData(
     0xeaa4,
@@ -1831,6 +2739,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bowlSteam` icon in Fill style.
+  ///
+  /// [PT] O ícone `bowlSteam` no estilo Fill.
+  ///
   /// ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowl-steam.svg)
   static const IconData bowlSteam = IconData(
     0xe8e4,
@@ -1839,6 +2751,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bowlingBall` icon in Fill style.
+  ///
+  /// [PT] O ícone `bowlingBall` no estilo Fill.
+  ///
   /// ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bowling-ball.svg)
   static const IconData bowlingBall = IconData(
     0xea34,
@@ -1847,6 +2763,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `boxArrowDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `boxArrowDown` no estilo Fill.
+  ///
   /// ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/box-arrow-down.svg)
   static const IconData boxArrowDown = IconData(
     0xe00e,
@@ -1855,6 +2775,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `boxArrowUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `boxArrowUp` no estilo Fill.
+  ///
   /// ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/box-arrow-up.svg)
   static const IconData boxArrowUp = IconData(
     0xee54,
@@ -1863,6 +2787,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `boxingGlove` icon in Fill style.
+  ///
+  /// [PT] O ícone `boxingGlove` no estilo Fill.
+  ///
   /// ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/boxing-glove.svg)
   static const IconData boxingGlove = IconData(
     0xea36,
@@ -1871,6 +2799,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bracketsAngle` icon in Fill style.
+  ///
+  /// [PT] O ícone `bracketsAngle` no estilo Fill.
+  ///
   /// ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-angle.svg)
   static const IconData bracketsAngle = IconData(
     0xe862,
@@ -1879,6 +2811,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bracketsCurly` icon in Fill style.
+  ///
+  /// [PT] O ícone `bracketsCurly` no estilo Fill.
+  ///
   /// ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-curly.svg)
   static const IconData bracketsCurly = IconData(
     0xe860,
@@ -1887,6 +2823,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bracketsRound` icon in Fill style.
+  ///
+  /// [PT] O ícone `bracketsRound` no estilo Fill.
+  ///
   /// ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-round.svg)
   static const IconData bracketsRound = IconData(
     0xe864,
@@ -1895,6 +2835,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bracketsSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `bracketsSquare` no estilo Fill.
+  ///
   /// ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brackets-square.svg)
   static const IconData bracketsSquare = IconData(
     0xe85e,
@@ -1903,6 +2847,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `brain` icon in Fill style.
+  ///
+  /// [PT] O ícone `brain` no estilo Fill.
+  ///
   /// ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brain.svg)
   static const IconData brain = IconData(
     0xe74e,
@@ -1911,6 +2859,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `brandy` icon in Fill style.
+  ///
+  /// [PT] O ícone `brandy` no estilo Fill.
+  ///
   /// ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/brandy.svg)
   static const IconData brandy = IconData(
     0xe6b4,
@@ -1919,6 +2871,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bread` icon in Fill style.
+  ///
+  /// [PT] O ícone `bread` no estilo Fill.
+  ///
   /// ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bread.svg)
   static const IconData bread = IconData(
     0xe81c,
@@ -1927,6 +2883,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bridge` icon in Fill style.
+  ///
+  /// [PT] O ícone `bridge` no estilo Fill.
+  ///
   /// ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bridge.svg)
   static const IconData bridge = IconData(
     0xea68,
@@ -1935,6 +2895,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `briefcase` icon in Fill style.
+  ///
+  /// [PT] O ícone `briefcase` no estilo Fill.
+  ///
   /// ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/briefcase.svg)
   static const IconData briefcase = IconData(
     0xe0ee,
@@ -1943,6 +2907,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `briefcaseMetal` icon in Fill style.
+  ///
+  /// [PT] O ícone `briefcaseMetal` no estilo Fill.
+  ///
   /// ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/briefcase-metal.svg)
   static const IconData briefcaseMetal = IconData(
     0xe5f2,
@@ -1951,6 +2919,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `broadcast` icon in Fill style.
+  ///
+  /// [PT] O ícone `broadcast` no estilo Fill.
+  ///
   /// ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/broadcast.svg)
   static const IconData broadcast = IconData(
     0xe0f2,
@@ -1959,6 +2931,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `broom` icon in Fill style.
+  ///
+  /// [PT] O ícone `broom` no estilo Fill.
+  ///
   /// ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/broom.svg)
   static const IconData broom = IconData(
     0xec54,
@@ -1967,6 +2943,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `browser` icon in Fill style.
+  ///
+  /// [PT] O ícone `browser` no estilo Fill.
+  ///
   /// ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/browser.svg)
   static const IconData browser = IconData(
     0xe0f4,
@@ -1975,6 +2955,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `browsers` icon in Fill style.
+  ///
+  /// [PT] O ícone `browsers` no estilo Fill.
+  ///
   /// ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/browsers.svg)
   static const IconData browsers = IconData(
     0xe0f6,
@@ -1983,6 +2967,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bug` icon in Fill style.
+  ///
+  /// [PT] O ícone `bug` no estilo Fill.
+  ///
   /// ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug.svg)
   static const IconData bug = IconData(
     0xe5f4,
@@ -1991,6 +2979,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bugBeetle` icon in Fill style.
+  ///
+  /// [PT] O ícone `bugBeetle` no estilo Fill.
+  ///
   /// ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug-beetle.svg)
   static const IconData bugBeetle = IconData(
     0xe5f6,
@@ -1999,6 +2991,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bugDroid` icon in Fill style.
+  ///
+  /// [PT] O ícone `bugDroid` no estilo Fill.
+  ///
   /// ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bug-droid.svg)
   static const IconData bugDroid = IconData(
     0xe5f8,
@@ -2007,6 +3003,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `building` icon in Fill style.
+  ///
+  /// [PT] O ícone `building` no estilo Fill.
+  ///
   /// ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building.svg)
   static const IconData building = IconData(
     0xe100,
@@ -2015,6 +3015,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `buildingApartment` icon in Fill style.
+  ///
+  /// [PT] O ícone `buildingApartment` no estilo Fill.
+  ///
   /// ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building-apartment.svg)
   static const IconData buildingApartment = IconData(
     0xe0fe,
@@ -2023,6 +3027,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `buildingOffice` icon in Fill style.
+  ///
+  /// [PT] O ícone `buildingOffice` no estilo Fill.
+  ///
   /// ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/building-office.svg)
   static const IconData buildingOffice = IconData(
     0xe0ff,
@@ -2031,6 +3039,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `buildings` icon in Fill style.
+  ///
+  /// [PT] O ícone `buildings` no estilo Fill.
+  ///
   /// ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/buildings.svg)
   static const IconData buildings = IconData(
     0xe102,
@@ -2039,6 +3051,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bulldozer` icon in Fill style.
+  ///
+  /// [PT] O ícone `bulldozer` no estilo Fill.
+  ///
   /// ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bulldozer.svg)
   static const IconData bulldozer = IconData(
     0xec6c,
@@ -2047,6 +3063,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `bus` icon in Fill style.
+  ///
+  /// [PT] O ícone `bus` no estilo Fill.
+  ///
   /// ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/bus.svg)
   static const IconData bus = IconData(
     0xe106,
@@ -2055,6 +3075,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `butterfly` icon in Fill style.
+  ///
+  /// [PT] O ícone `butterfly` no estilo Fill.
+  ///
   /// ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/butterfly.svg)
   static const IconData butterfly = IconData(
     0xea6e,
@@ -2063,6 +3087,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cableCar` icon in Fill style.
+  ///
+  /// [PT] O ícone `cableCar` no estilo Fill.
+  ///
   /// ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cable-car.svg)
   static const IconData cableCar = IconData(
     0xe49c,
@@ -2071,6 +3099,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cactus` icon in Fill style.
+  ///
+  /// [PT] O ícone `cactus` no estilo Fill.
+  ///
   /// ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cactus.svg)
   static const IconData cactus = IconData(
     0xe918,
@@ -2079,6 +3111,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caduceus` icon in Fill style.
+  ///
+  /// [PT] O ícone `caduceus` no estilo Fill.
+  ///
   /// ![caduceus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caduceus.svg)
   static const IconData caduceus = IconData(
     0xee34,
@@ -2087,6 +3123,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cake` icon in Fill style.
+  ///
+  /// [PT] O ícone `cake` no estilo Fill.
+  ///
   /// ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cake.svg)
   static const IconData cake = IconData(
     0xe780,
@@ -2095,6 +3135,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calculator` icon in Fill style.
+  ///
+  /// [PT] O ícone `calculator` no estilo Fill.
+  ///
   /// ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calculator.svg)
   static const IconData calculator = IconData(
     0xe538,
@@ -2103,6 +3147,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendar` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendar` no estilo Fill.
+  ///
   /// ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar.svg)
   static const IconData calendar = IconData(
     0xe108,
@@ -2111,6 +3159,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarBlank` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarBlank` no estilo Fill.
+  ///
   /// ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-blank.svg)
   static const IconData calendarBlank = IconData(
     0xe10a,
@@ -2119,6 +3171,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarCheck` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarCheck` no estilo Fill.
+  ///
   /// ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-check.svg)
   static const IconData calendarCheck = IconData(
     0xe712,
@@ -2127,6 +3183,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarDot` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarDot` no estilo Fill.
+  ///
   /// ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-dot.svg)
   static const IconData calendarDot = IconData(
     0xe7b2,
@@ -2135,6 +3195,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarDots` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarDots` no estilo Fill.
+  ///
   /// ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-dots.svg)
   static const IconData calendarDots = IconData(
     0xe7b4,
@@ -2143,6 +3207,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarHeart` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarHeart` no estilo Fill.
+  ///
   /// ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-heart.svg)
   static const IconData calendarHeart = IconData(
     0xe8b0,
@@ -2151,6 +3219,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarMinus` no estilo Fill.
+  ///
   /// ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-minus.svg)
   static const IconData calendarMinus = IconData(
     0xea14,
@@ -2159,6 +3231,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarPlus` no estilo Fill.
+  ///
   /// ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-plus.svg)
   static const IconData calendarPlus = IconData(
     0xe714,
@@ -2167,6 +3243,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarSlash` no estilo Fill.
+  ///
   /// ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-slash.svg)
   static const IconData calendarSlash = IconData(
     0xea12,
@@ -2175,6 +3255,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarStar` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarStar` no estilo Fill.
+  ///
   /// ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-star.svg)
   static const IconData calendarStar = IconData(
     0xe8b2,
@@ -2183,6 +3267,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `calendarX` icon in Fill style.
+  ///
+  /// [PT] O ícone `calendarX` no estilo Fill.
+  ///
   /// ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/calendar-x.svg)
   static const IconData calendarX = IconData(
     0xe10c,
@@ -2191,6 +3279,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `callBell` icon in Fill style.
+  ///
+  /// [PT] O ícone `callBell` no estilo Fill.
+  ///
   /// ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/call-bell.svg)
   static const IconData callBell = IconData(
     0xe7de,
@@ -2199,6 +3291,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `camera` icon in Fill style.
+  ///
+  /// [PT] O ícone `camera` no estilo Fill.
+  ///
   /// ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera.svg)
   static const IconData camera = IconData(
     0xe10e,
@@ -2207,6 +3303,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cameraPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `cameraPlus` no estilo Fill.
+  ///
   /// ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-plus.svg)
   static const IconData cameraPlus = IconData(
     0xec58,
@@ -2215,6 +3315,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cameraRotate` icon in Fill style.
+  ///
+  /// [PT] O ícone `cameraRotate` no estilo Fill.
+  ///
   /// ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-rotate.svg)
   static const IconData cameraRotate = IconData(
     0xe7a4,
@@ -2223,6 +3327,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cameraSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `cameraSlash` no estilo Fill.
+  ///
   /// ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/camera-slash.svg)
   static const IconData cameraSlash = IconData(
     0xe110,
@@ -2231,6 +3339,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `campfire` icon in Fill style.
+  ///
+  /// [PT] O ícone `campfire` no estilo Fill.
+  ///
   /// ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/campfire.svg)
   static const IconData campfire = IconData(
     0xe9d8,
@@ -2239,6 +3351,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `car` icon in Fill style.
+  ///
+  /// [PT] O ícone `car` no estilo Fill.
+  ///
   /// ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car.svg)
   static const IconData car = IconData(
     0xe112,
@@ -2247,6 +3363,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `carBattery` icon in Fill style.
+  ///
+  /// [PT] O ícone `carBattery` no estilo Fill.
+  ///
   /// ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-battery.svg)
   static const IconData carBattery = IconData(
     0xee30,
@@ -2255,6 +3375,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `carProfile` icon in Fill style.
+  ///
+  /// [PT] O ícone `carProfile` no estilo Fill.
+  ///
   /// ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-profile.svg)
   static const IconData carProfile = IconData(
     0xe8cc,
@@ -2263,6 +3387,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `carSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `carSimple` no estilo Fill.
+  ///
   /// ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/car-simple.svg)
   static const IconData carSimple = IconData(
     0xe114,
@@ -2271,6 +3399,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cardholder` icon in Fill style.
+  ///
+  /// [PT] O ícone `cardholder` no estilo Fill.
+  ///
   /// ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cardholder.svg)
   static const IconData cardholder = IconData(
     0xe5fa,
@@ -2279,6 +3411,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cards` icon in Fill style.
+  ///
+  /// [PT] O ícone `cards` no estilo Fill.
+  ///
   /// ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cards.svg)
   static const IconData cards = IconData(
     0xe0f8,
@@ -2287,6 +3423,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cardsThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `cardsThree` no estilo Fill.
+  ///
   /// ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cards-three.svg)
   static const IconData cardsThree = IconData(
     0xee50,
@@ -2295,6 +3435,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleDoubleDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleDown` no estilo Fill.
+  ///
   /// ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-down.svg)
   static const IconData caretCircleDoubleDown = IconData(
     0xe116,
@@ -2303,6 +3447,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleDoubleLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleLeft` no estilo Fill.
+  ///
   /// ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-left.svg)
   static const IconData caretCircleDoubleLeft = IconData(
     0xe118,
@@ -2311,6 +3459,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleDoubleRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleRight` no estilo Fill.
+  ///
   /// ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-right.svg)
   static const IconData caretCircleDoubleRight = IconData(
     0xe11a,
@@ -2319,6 +3471,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleDoubleUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleUp` no estilo Fill.
+  ///
   /// ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-double-up.svg)
   static const IconData caretCircleDoubleUp = IconData(
     0xe11c,
@@ -2327,6 +3483,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleDown` no estilo Fill.
+  ///
   /// ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-down.svg)
   static const IconData caretCircleDown = IconData(
     0xe11e,
@@ -2335,6 +3495,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleLeft` no estilo Fill.
+  ///
   /// ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-left.svg)
   static const IconData caretCircleLeft = IconData(
     0xe120,
@@ -2343,6 +3507,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleRight` no estilo Fill.
+  ///
   /// ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-right.svg)
   static const IconData caretCircleRight = IconData(
     0xe122,
@@ -2351,6 +3519,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleUp` no estilo Fill.
+  ///
   /// ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-up.svg)
   static const IconData caretCircleUp = IconData(
     0xe124,
@@ -2359,6 +3531,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretCircleUpDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretCircleUpDown` no estilo Fill.
+  ///
   /// ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-circle-up-down.svg)
   static const IconData caretCircleUpDown = IconData(
     0xe13e,
@@ -2367,6 +3543,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretDoubleDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretDoubleDown` no estilo Fill.
+  ///
   /// ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-down.svg)
   static const IconData caretDoubleDown = IconData(
     0xe126,
@@ -2375,6 +3555,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretDoubleLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretDoubleLeft` no estilo Fill.
+  ///
   /// ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-left.svg)
   static const IconData caretDoubleLeft = IconData(
     0xe128,
@@ -2383,6 +3567,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretDoubleRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretDoubleRight` no estilo Fill.
+  ///
   /// ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-right.svg)
   static const IconData caretDoubleRight = IconData(
     0xe12a,
@@ -2391,6 +3579,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretDoubleUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretDoubleUp` no estilo Fill.
+  ///
   /// ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-double-up.svg)
   static const IconData caretDoubleUp = IconData(
     0xe12c,
@@ -2399,6 +3591,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretDown` no estilo Fill.
+  ///
   /// ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-down.svg)
   static const IconData caretDown = IconData(
     0xe136,
@@ -2407,6 +3603,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretLeft` no estilo Fill.
+  ///
   /// ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-left.svg)
   static const IconData caretLeft = IconData(
     0xe138,
@@ -2415,6 +3615,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretLineDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretLineDown` no estilo Fill.
+  ///
   /// ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-down.svg)
   static const IconData caretLineDown = IconData(
     0xe134,
@@ -2423,6 +3627,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretLineLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretLineLeft` no estilo Fill.
+  ///
   /// ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-left.svg)
   static const IconData caretLineLeft = IconData(
     0xe132,
@@ -2431,6 +3639,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretLineRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretLineRight` no estilo Fill.
+  ///
   /// ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-right.svg)
   static const IconData caretLineRight = IconData(
     0xe130,
@@ -2439,6 +3651,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretLineUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretLineUp` no estilo Fill.
+  ///
   /// ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-line-up.svg)
   static const IconData caretLineUp = IconData(
     0xe12e,
@@ -2447,6 +3663,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretRight` no estilo Fill.
+  ///
   /// ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-right.svg)
   static const IconData caretRight = IconData(
     0xe13a,
@@ -2455,6 +3675,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretUp` no estilo Fill.
+  ///
   /// ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-up.svg)
   static const IconData caretUp = IconData(
     0xe13c,
@@ -2463,6 +3687,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `caretUpDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `caretUpDown` no estilo Fill.
+  ///
   /// ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/caret-up-down.svg)
   static const IconData caretUpDown = IconData(
     0xe140,
@@ -2471,6 +3699,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `carrot` icon in Fill style.
+  ///
+  /// [PT] O ícone `carrot` no estilo Fill.
+  ///
   /// ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/carrot.svg)
   static const IconData carrot = IconData(
     0xed38,
@@ -2479,6 +3711,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cashRegister` icon in Fill style.
+  ///
+  /// [PT] O ícone `cashRegister` no estilo Fill.
+  ///
   /// ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cash-register.svg)
   static const IconData cashRegister = IconData(
     0xed80,
@@ -2487,6 +3723,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cassetteTape` icon in Fill style.
+  ///
+  /// [PT] O ícone `cassetteTape` no estilo Fill.
+  ///
   /// ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cassette-tape.svg)
   static const IconData cassetteTape = IconData(
     0xed2e,
@@ -2495,6 +3735,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `castleTurret` icon in Fill style.
+  ///
+  /// [PT] O ícone `castleTurret` no estilo Fill.
+  ///
   /// ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/castle-turret.svg)
   static const IconData castleTurret = IconData(
     0xe9d0,
@@ -2503,6 +3747,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cat` icon in Fill style.
+  ///
+  /// [PT] O ícone `cat` no estilo Fill.
+  ///
   /// ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cat.svg)
   static const IconData cat = IconData(
     0xe748,
@@ -2511,6 +3759,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellSignalFull` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellSignalFull` no estilo Fill.
+  ///
   /// ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-full.svg)
   static const IconData cellSignalFull = IconData(
     0xe142,
@@ -2519,6 +3771,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellSignalHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellSignalHigh` no estilo Fill.
+  ///
   /// ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-high.svg)
   static const IconData cellSignalHigh = IconData(
     0xe144,
@@ -2527,6 +3783,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellSignalLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellSignalLow` no estilo Fill.
+  ///
   /// ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-low.svg)
   static const IconData cellSignalLow = IconData(
     0xe146,
@@ -2535,6 +3795,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellSignalMedium` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellSignalMedium` no estilo Fill.
+  ///
   /// ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-medium.svg)
   static const IconData cellSignalMedium = IconData(
     0xe148,
@@ -2543,6 +3807,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellSignalNone` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellSignalNone` no estilo Fill.
+  ///
   /// ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-none.svg)
   static const IconData cellSignalNone = IconData(
     0xe14a,
@@ -2551,6 +3819,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellSignalSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellSignalSlash` no estilo Fill.
+  ///
   /// ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-slash.svg)
   static const IconData cellSignalSlash = IconData(
     0xe14c,
@@ -2559,6 +3831,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellSignalX` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellSignalX` no estilo Fill.
+  ///
   /// ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-signal-x.svg)
   static const IconData cellSignalX = IconData(
     0xe14e,
@@ -2567,6 +3843,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cellTower` icon in Fill style.
+  ///
+  /// [PT] O ícone `cellTower` no estilo Fill.
+  ///
   /// ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cell-tower.svg)
   static const IconData cellTower = IconData(
     0xebaa,
@@ -2575,6 +3855,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `certificate` icon in Fill style.
+  ///
+  /// [PT] O ícone `certificate` no estilo Fill.
+  ///
   /// ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/certificate.svg)
   static const IconData certificate = IconData(
     0xe766,
@@ -2583,6 +3867,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chair` icon in Fill style.
+  ///
+  /// [PT] O ícone `chair` no estilo Fill.
+  ///
   /// ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chair.svg)
   static const IconData chair = IconData(
     0xe950,
@@ -2591,6 +3879,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chalkboard` icon in Fill style.
+  ///
+  /// [PT] O ícone `chalkboard` no estilo Fill.
+  ///
   /// ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard.svg)
   static const IconData chalkboard = IconData(
     0xe5fc,
@@ -2599,6 +3891,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chalkboardSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `chalkboardSimple` no estilo Fill.
+  ///
   /// ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard-simple.svg)
   static const IconData chalkboardSimple = IconData(
     0xe5fe,
@@ -2607,6 +3903,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chalkboardTeacher` icon in Fill style.
+  ///
+  /// [PT] O ícone `chalkboardTeacher` no estilo Fill.
+  ///
   /// ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chalkboard-teacher.svg)
   static const IconData chalkboardTeacher = IconData(
     0xe600,
@@ -2615,6 +3915,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `champagne` icon in Fill style.
+  ///
+  /// [PT] O ícone `champagne` no estilo Fill.
+  ///
   /// ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/champagne.svg)
   static const IconData champagne = IconData(
     0xeaca,
@@ -2623,6 +3927,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chargingStation` icon in Fill style.
+  ///
+  /// [PT] O ícone `chargingStation` no estilo Fill.
+  ///
   /// ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/charging-station.svg)
   static const IconData chargingStation = IconData(
     0xe8d0,
@@ -2631,6 +3939,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartBar` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartBar` no estilo Fill.
+  ///
   /// ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-bar.svg)
   static const IconData chartBar = IconData(
     0xe150,
@@ -2639,6 +3951,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartBarHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartBarHorizontal` no estilo Fill.
+  ///
   /// ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-bar-horizontal.svg)
   static const IconData chartBarHorizontal = IconData(
     0xe152,
@@ -2647,6 +3963,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartDonut` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartDonut` no estilo Fill.
+  ///
   /// ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-donut.svg)
   static const IconData chartDonut = IconData(
     0xeaa6,
@@ -2655,6 +3975,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartLine` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartLine` no estilo Fill.
+  ///
   /// ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line.svg)
   static const IconData chartLine = IconData(
     0xe154,
@@ -2663,6 +3987,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartLineDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartLineDown` no estilo Fill.
+  ///
   /// ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-down.svg)
   static const IconData chartLineDown = IconData(
     0xe8b6,
@@ -2671,6 +3999,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartLineUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartLineUp` no estilo Fill.
+  ///
   /// ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-line-up.svg)
   static const IconData chartLineUp = IconData(
     0xe156,
@@ -2679,6 +4011,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartPie` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartPie` no estilo Fill.
+  ///
   /// ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-pie.svg)
   static const IconData chartPie = IconData(
     0xe158,
@@ -2687,6 +4023,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartPieSlice` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartPieSlice` no estilo Fill.
+  ///
   /// ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-pie-slice.svg)
   static const IconData chartPieSlice = IconData(
     0xe15a,
@@ -2695,6 +4035,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartPolar` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartPolar` no estilo Fill.
+  ///
   /// ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-polar.svg)
   static const IconData chartPolar = IconData(
     0xeaa8,
@@ -2703,6 +4047,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chartScatter` icon in Fill style.
+  ///
+  /// [PT] O ícone `chartScatter` no estilo Fill.
+  ///
   /// ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chart-scatter.svg)
   static const IconData chartScatter = IconData(
     0xeaac,
@@ -2711,6 +4059,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chat` icon in Fill style.
+  ///
+  /// [PT] O ícone `chat` no estilo Fill.
+  ///
   /// ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat.svg)
   static const IconData chat = IconData(
     0xe15c,
@@ -2719,6 +4071,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCentered` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCentered` no estilo Fill.
+  ///
   /// ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered.svg)
   static const IconData chatCentered = IconData(
     0xe160,
@@ -2727,6 +4083,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCenteredDots` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCenteredDots` no estilo Fill.
+  ///
   /// ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-dots.svg)
   static const IconData chatCenteredDots = IconData(
     0xe164,
@@ -2735,6 +4095,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCenteredSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCenteredSlash` no estilo Fill.
+  ///
   /// ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-slash.svg)
   static const IconData chatCenteredSlash = IconData(
     0xe162,
@@ -2743,6 +4107,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCenteredText` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCenteredText` no estilo Fill.
+  ///
   /// ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-centered-text.svg)
   static const IconData chatCenteredText = IconData(
     0xe166,
@@ -2751,6 +4119,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCircle` no estilo Fill.
+  ///
   /// ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle.svg)
   static const IconData chatCircle = IconData(
     0xe168,
@@ -2759,6 +4131,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCircleDots` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCircleDots` no estilo Fill.
+  ///
   /// ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-dots.svg)
   static const IconData chatCircleDots = IconData(
     0xe16c,
@@ -2767,6 +4143,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCircleSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCircleSlash` no estilo Fill.
+  ///
   /// ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-slash.svg)
   static const IconData chatCircleSlash = IconData(
     0xe16a,
@@ -2775,6 +4155,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatCircleText` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatCircleText` no estilo Fill.
+  ///
   /// ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-circle-text.svg)
   static const IconData chatCircleText = IconData(
     0xe16e,
@@ -2783,6 +4167,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatDots` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatDots` no estilo Fill.
+  ///
   /// ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-dots.svg)
   static const IconData chatDots = IconData(
     0xe170,
@@ -2791,6 +4179,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatSlash` no estilo Fill.
+  ///
   /// ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-slash.svg)
   static const IconData chatSlash = IconData(
     0xe15e,
@@ -2799,6 +4191,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatTeardrop` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatTeardrop` no estilo Fill.
+  ///
   /// ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop.svg)
   static const IconData chatTeardrop = IconData(
     0xe172,
@@ -2807,6 +4203,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatTeardropDots` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatTeardropDots` no estilo Fill.
+  ///
   /// ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-dots.svg)
   static const IconData chatTeardropDots = IconData(
     0xe176,
@@ -2815,6 +4215,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatTeardropSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatTeardropSlash` no estilo Fill.
+  ///
   /// ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-slash.svg)
   static const IconData chatTeardropSlash = IconData(
     0xe174,
@@ -2823,6 +4227,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatTeardropText` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatTeardropText` no estilo Fill.
+  ///
   /// ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-teardrop-text.svg)
   static const IconData chatTeardropText = IconData(
     0xe178,
@@ -2831,6 +4239,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatText` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatText` no estilo Fill.
+  ///
   /// ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chat-text.svg)
   static const IconData chatText = IconData(
     0xe17a,
@@ -2839,6 +4251,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chats` icon in Fill style.
+  ///
+  /// [PT] O ícone `chats` no estilo Fill.
+  ///
   /// ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats.svg)
   static const IconData chats = IconData(
     0xe17c,
@@ -2847,6 +4263,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatsCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatsCircle` no estilo Fill.
+  ///
   /// ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats-circle.svg)
   static const IconData chatsCircle = IconData(
     0xe17e,
@@ -2855,6 +4275,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chatsTeardrop` icon in Fill style.
+  ///
+  /// [PT] O ícone `chatsTeardrop` no estilo Fill.
+  ///
   /// ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chats-teardrop.svg)
   static const IconData chatsTeardrop = IconData(
     0xe180,
@@ -2863,6 +4287,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `check` icon in Fill style.
+  ///
+  /// [PT] O ícone `check` no estilo Fill.
+  ///
   /// ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check.svg)
   static const IconData check = IconData(
     0xe182,
@@ -2871,6 +4299,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `checkCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `checkCircle` no estilo Fill.
+  ///
   /// ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-circle.svg)
   static const IconData checkCircle = IconData(
     0xe184,
@@ -2879,6 +4311,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `checkFat` icon in Fill style.
+  ///
+  /// [PT] O ícone `checkFat` no estilo Fill.
+  ///
   /// ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-fat.svg)
   static const IconData checkFat = IconData(
     0xeba6,
@@ -2887,6 +4323,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `checkSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `checkSquare` no estilo Fill.
+  ///
   /// ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-square.svg)
   static const IconData checkSquare = IconData(
     0xe186,
@@ -2895,6 +4335,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `checkSquareOffset` icon in Fill style.
+  ///
+  /// [PT] O ícone `checkSquareOffset` no estilo Fill.
+  ///
   /// ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/check-square-offset.svg)
   static const IconData checkSquareOffset = IconData(
     0xe188,
@@ -2903,6 +4347,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `checkerboard` icon in Fill style.
+  ///
+  /// [PT] O ícone `checkerboard` no estilo Fill.
+  ///
   /// ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/checkerboard.svg)
   static const IconData checkerboard = IconData(
     0xe8c4,
@@ -2911,6 +4359,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `checks` icon in Fill style.
+  ///
+  /// [PT] O ícone `checks` no estilo Fill.
+  ///
   /// ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/checks.svg)
   static const IconData checks = IconData(
     0xe53a,
@@ -2919,6 +4371,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cheers` icon in Fill style.
+  ///
+  /// [PT] O ícone `cheers` no estilo Fill.
+  ///
   /// ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cheers.svg)
   static const IconData cheers = IconData(
     0xea4a,
@@ -2927,6 +4383,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cheese` icon in Fill style.
+  ///
+  /// [PT] O ícone `cheese` no estilo Fill.
+  ///
   /// ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cheese.svg)
   static const IconData cheese = IconData(
     0xe9fe,
@@ -2935,6 +4395,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `chefHat` icon in Fill style.
+  ///
+  /// [PT] O ícone `chefHat` no estilo Fill.
+  ///
   /// ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/chef-hat.svg)
   static const IconData chefHat = IconData(
     0xed8e,
@@ -2943,6 +4407,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cherries` icon in Fill style.
+  ///
+  /// [PT] O ícone `cherries` no estilo Fill.
+  ///
   /// ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cherries.svg)
   static const IconData cherries = IconData(
     0xe830,
@@ -2951,6 +4419,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `church` icon in Fill style.
+  ///
+  /// [PT] O ícone `church` no estilo Fill.
+  ///
   /// ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/church.svg)
   static const IconData church = IconData(
     0xecea,
@@ -2959,6 +4431,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cigarette` icon in Fill style.
+  ///
+  /// [PT] O ícone `cigarette` no estilo Fill.
+  ///
   /// ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cigarette.svg)
   static const IconData cigarette = IconData(
     0xed90,
@@ -2967,6 +4443,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cigaretteSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `cigaretteSlash` no estilo Fill.
+  ///
   /// ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cigarette-slash.svg)
   static const IconData cigaretteSlash = IconData(
     0xed92,
@@ -2975,6 +4455,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circle` icon in Fill style.
+  ///
+  /// [PT] O ícone `circle` no estilo Fill.
+  ///
   /// ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle.svg)
   static const IconData circle = IconData(
     0xe18a,
@@ -2983,6 +4467,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleDashed` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleDashed` no estilo Fill.
+  ///
   /// ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-dashed.svg)
   static const IconData circleDashed = IconData(
     0xe602,
@@ -2991,6 +4479,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleHalf` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleHalf` no estilo Fill.
+  ///
   /// ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-half.svg)
   static const IconData circleHalf = IconData(
     0xe18c,
@@ -2999,6 +4491,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleHalfTilt` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleHalfTilt` no estilo Fill.
+  ///
   /// ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-half-tilt.svg)
   static const IconData circleHalfTilt = IconData(
     0xe18e,
@@ -3007,6 +4503,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleNotch` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleNotch` no estilo Fill.
+  ///
   /// ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-notch.svg)
   static const IconData circleNotch = IconData(
     0xeb44,
@@ -3015,6 +4515,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleWavy` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleWavy` no estilo Fill.
+  ///
   /// ![circle-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-wavy.svg)
   static const IconData circleWavy = IconData(
     0xe604,
@@ -3023,6 +4527,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleWavyCheck` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleWavyCheck` no estilo Fill.
+  ///
   /// ![circle-wavy-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-wavy-check.svg)
   static const IconData circleWavyCheck = IconData(
     0xe606,
@@ -3031,6 +4539,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleWavyQuestion` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleWavyQuestion` no estilo Fill.
+  ///
   /// ![circle-wavy-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-wavy-question.svg)
   static const IconData circleWavyQuestion = IconData(
     0xe608,
@@ -3039,6 +4551,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circleWavyWarning` icon in Fill style.
+  ///
+  /// [PT] O ícone `circleWavyWarning` no estilo Fill.
+  ///
   /// ![circle-wavy-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circle-wavy-warning.svg)
   static const IconData circleWavyWarning = IconData(
     0xe60c,
@@ -3047,6 +4563,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circlesFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `circlesFour` no estilo Fill.
+  ///
   /// ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-four.svg)
   static const IconData circlesFour = IconData(
     0xe190,
@@ -3055,6 +4575,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circlesThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `circlesThree` no estilo Fill.
+  ///
   /// ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-three.svg)
   static const IconData circlesThree = IconData(
     0xe192,
@@ -3063,6 +4587,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circlesThreePlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `circlesThreePlus` no estilo Fill.
+  ///
   /// ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circles-three-plus.svg)
   static const IconData circlesThreePlus = IconData(
     0xe194,
@@ -3071,6 +4599,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `circuitry` icon in Fill style.
+  ///
+  /// [PT] O ícone `circuitry` no estilo Fill.
+  ///
   /// ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/circuitry.svg)
   static const IconData circuitry = IconData(
     0xe9c2,
@@ -3079,6 +4611,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `city` icon in Fill style.
+  ///
+  /// [PT] O ícone `city` no estilo Fill.
+  ///
   /// ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/city.svg)
   static const IconData city = IconData(
     0xea6a,
@@ -3087,6 +4623,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clipboard` icon in Fill style.
+  ///
+  /// [PT] O ícone `clipboard` no estilo Fill.
+  ///
   /// ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clipboard.svg)
   static const IconData clipboard = IconData(
     0xe196,
@@ -3095,6 +4635,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clipboardText` icon in Fill style.
+  ///
+  /// [PT] O ícone `clipboardText` no estilo Fill.
+  ///
   /// ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clipboard-text.svg)
   static const IconData clipboardText = IconData(
     0xe198,
@@ -3103,6 +4647,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clock` icon in Fill style.
+  ///
+  /// [PT] O ícone `clock` no estilo Fill.
+  ///
   /// ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock.svg)
   static const IconData clock = IconData(
     0xe19a,
@@ -3111,6 +4659,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clockAfternoon` icon in Fill style.
+  ///
+  /// [PT] O ícone `clockAfternoon` no estilo Fill.
+  ///
   /// ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-afternoon.svg)
   static const IconData clockAfternoon = IconData(
     0xe19c,
@@ -3119,6 +4671,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clockClockwise` icon in Fill style.
+  ///
+  /// [PT] O ícone `clockClockwise` no estilo Fill.
+  ///
   /// ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-clockwise.svg)
   static const IconData clockClockwise = IconData(
     0xe19e,
@@ -3127,6 +4683,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clockCountdown` icon in Fill style.
+  ///
+  /// [PT] O ícone `clockCountdown` no estilo Fill.
+  ///
   /// ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-countdown.svg)
   static const IconData clockCountdown = IconData(
     0xed2c,
@@ -3135,6 +4695,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clockCounterClockwise` icon in Fill style.
+  ///
+  /// [PT] O ícone `clockCounterClockwise` no estilo Fill.
+  ///
   /// ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-counter-clockwise.svg)
   static const IconData clockCounterClockwise = IconData(
     0xe1a0,
@@ -3143,6 +4707,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clockUser` icon in Fill style.
+  ///
+  /// [PT] O ícone `clockUser` no estilo Fill.
+  ///
   /// ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clock-user.svg)
   static const IconData clockUser = IconData(
     0xedec,
@@ -3151,6 +4719,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `closedCaptioning` icon in Fill style.
+  ///
+  /// [PT] O ícone `closedCaptioning` no estilo Fill.
+  ///
   /// ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/closed-captioning.svg)
   static const IconData closedCaptioning = IconData(
     0xe1a4,
@@ -3159,6 +4731,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloud` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloud` no estilo Fill.
+  ///
   /// ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud.svg)
   static const IconData cloud = IconData(
     0xe1aa,
@@ -3167,6 +4743,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudArrowDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudArrowDown` no estilo Fill.
+  ///
   /// ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-arrow-down.svg)
   static const IconData cloudArrowDown = IconData(
     0xe1ac,
@@ -3175,6 +4755,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudArrowUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudArrowUp` no estilo Fill.
+  ///
   /// ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-arrow-up.svg)
   static const IconData cloudArrowUp = IconData(
     0xe1ae,
@@ -3183,6 +4767,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudCheck` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudCheck` no estilo Fill.
+  ///
   /// ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-check.svg)
   static const IconData cloudCheck = IconData(
     0xe1b0,
@@ -3191,6 +4779,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudFog` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudFog` no estilo Fill.
+  ///
   /// ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-fog.svg)
   static const IconData cloudFog = IconData(
     0xe53c,
@@ -3199,6 +4791,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudLightning` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudLightning` no estilo Fill.
+  ///
   /// ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-lightning.svg)
   static const IconData cloudLightning = IconData(
     0xe1b2,
@@ -3207,6 +4803,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudMoon` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudMoon` no estilo Fill.
+  ///
   /// ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-moon.svg)
   static const IconData cloudMoon = IconData(
     0xe53e,
@@ -3215,6 +4815,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudRain` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudRain` no estilo Fill.
+  ///
   /// ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-rain.svg)
   static const IconData cloudRain = IconData(
     0xe1b4,
@@ -3223,6 +4827,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudSlash` no estilo Fill.
+  ///
   /// ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-slash.svg)
   static const IconData cloudSlash = IconData(
     0xe1b6,
@@ -3231,6 +4839,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudSnow` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudSnow` no estilo Fill.
+  ///
   /// ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-snow.svg)
   static const IconData cloudSnow = IconData(
     0xe1b8,
@@ -3239,6 +4851,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudSun` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudSun` no estilo Fill.
+  ///
   /// ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-sun.svg)
   static const IconData cloudSun = IconData(
     0xe540,
@@ -3247,6 +4863,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudWarning` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudWarning` no estilo Fill.
+  ///
   /// ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-warning.svg)
   static const IconData cloudWarning = IconData(
     0xea98,
@@ -3255,6 +4875,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cloudX` icon in Fill style.
+  ///
+  /// [PT] O ícone `cloudX` no estilo Fill.
+  ///
   /// ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cloud-x.svg)
   static const IconData cloudX = IconData(
     0xea96,
@@ -3263,6 +4887,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `clover` icon in Fill style.
+  ///
+  /// [PT] O ícone `clover` no estilo Fill.
+  ///
   /// ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/clover.svg)
   static const IconData clover = IconData(
     0xedc8,
@@ -3271,6 +4899,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `club` icon in Fill style.
+  ///
+  /// [PT] O ícone `club` no estilo Fill.
+  ///
   /// ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/club.svg)
   static const IconData club = IconData(
     0xe1ba,
@@ -3279,6 +4911,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `coatHanger` icon in Fill style.
+  ///
+  /// [PT] O ícone `coatHanger` no estilo Fill.
+  ///
   /// ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coat-hanger.svg)
   static const IconData coatHanger = IconData(
     0xe7fe,
@@ -3287,6 +4923,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `codaLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `codaLogo` no estilo Fill.
+  ///
   /// ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coda-logo.svg)
   static const IconData codaLogo = IconData(
     0xe7ce,
@@ -3295,6 +4935,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `code` icon in Fill style.
+  ///
+  /// [PT] O ícone `code` no estilo Fill.
+  ///
   /// ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code.svg)
   static const IconData code = IconData(
     0xe1bc,
@@ -3303,6 +4947,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `codeBlock` icon in Fill style.
+  ///
+  /// [PT] O ícone `codeBlock` no estilo Fill.
+  ///
   /// ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code-block.svg)
   static const IconData codeBlock = IconData(
     0xeafe,
@@ -3311,6 +4959,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `codeSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `codeSimple` no estilo Fill.
+  ///
   /// ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/code-simple.svg)
   static const IconData codeSimple = IconData(
     0xe1be,
@@ -3319,6 +4971,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `codepenLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `codepenLogo` no estilo Fill.
+  ///
   /// ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/codepen-logo.svg)
   static const IconData codepenLogo = IconData(
     0xe978,
@@ -3327,6 +4983,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `codesandboxLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `codesandboxLogo` no estilo Fill.
+  ///
   /// ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/codesandbox-logo.svg)
   static const IconData codesandboxLogo = IconData(
     0xea06,
@@ -3335,6 +4995,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `coffee` icon in Fill style.
+  ///
+  /// [PT] O ícone `coffee` no estilo Fill.
+  ///
   /// ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coffee.svg)
   static const IconData coffee = IconData(
     0xe1c2,
@@ -3343,6 +5007,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `coffeeBean` icon in Fill style.
+  ///
+  /// [PT] O ícone `coffeeBean` no estilo Fill.
+  ///
   /// ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coffee-bean.svg)
   static const IconData coffeeBean = IconData(
     0xe1c0,
@@ -3351,6 +5019,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `coin` icon in Fill style.
+  ///
+  /// [PT] O ícone `coin` no estilo Fill.
+  ///
   /// ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coin.svg)
   static const IconData coin = IconData(
     0xe60e,
@@ -3359,6 +5031,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `coinVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `coinVertical` no estilo Fill.
+  ///
   /// ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coin-vertical.svg)
   static const IconData coinVertical = IconData(
     0xeb48,
@@ -3367,6 +5043,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `coins` icon in Fill style.
+  ///
+  /// [PT] O ícone `coins` no estilo Fill.
+  ///
   /// ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/coins.svg)
   static const IconData coins = IconData(
     0xe78e,
@@ -3375,6 +5055,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `columns` icon in Fill style.
+  ///
+  /// [PT] O ícone `columns` no estilo Fill.
+  ///
   /// ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns.svg)
   static const IconData columns = IconData(
     0xe546,
@@ -3383,6 +5067,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `columnsPlusLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `columnsPlusLeft` no estilo Fill.
+  ///
   /// ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns-plus-left.svg)
   static const IconData columnsPlusLeft = IconData(
     0xe544,
@@ -3391,6 +5079,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `columnsPlusRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `columnsPlusRight` no estilo Fill.
+  ///
   /// ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/columns-plus-right.svg)
   static const IconData columnsPlusRight = IconData(
     0xe542,
@@ -3399,6 +5091,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `command` icon in Fill style.
+  ///
+  /// [PT] O ícone `command` no estilo Fill.
+  ///
   /// ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/command.svg)
   static const IconData command = IconData(
     0xe1c4,
@@ -3407,6 +5103,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `compass` icon in Fill style.
+  ///
+  /// [PT] O ícone `compass` no estilo Fill.
+  ///
   /// ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass.svg)
   static const IconData compass = IconData(
     0xe1c8,
@@ -3415,6 +5115,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `compassRose` icon in Fill style.
+  ///
+  /// [PT] O ícone `compassRose` no estilo Fill.
+  ///
   /// ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass-rose.svg)
   static const IconData compassRose = IconData(
     0xe1c6,
@@ -3423,6 +5127,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `compassTool` icon in Fill style.
+  ///
+  /// [PT] O ícone `compassTool` no estilo Fill.
+  ///
   /// ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/compass-tool.svg)
   static const IconData compassTool = IconData(
     0xea0e,
@@ -3431,6 +5139,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `computerTower` icon in Fill style.
+  ///
+  /// [PT] O ícone `computerTower` no estilo Fill.
+  ///
   /// ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/computer-tower.svg)
   static const IconData computerTower = IconData(
     0xe548,
@@ -3439,6 +5151,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `confetti` icon in Fill style.
+  ///
+  /// [PT] O ícone `confetti` no estilo Fill.
+  ///
   /// ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/confetti.svg)
   static const IconData confetti = IconData(
     0xe81a,
@@ -3447,6 +5163,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `contactlessPayment` icon in Fill style.
+  ///
+  /// [PT] O ícone `contactlessPayment` no estilo Fill.
+  ///
   /// ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/contactless-payment.svg)
   static const IconData contactlessPayment = IconData(
     0xed42,
@@ -3455,6 +5175,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `control` icon in Fill style.
+  ///
+  /// [PT] O ícone `control` no estilo Fill.
+  ///
   /// ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/control.svg)
   static const IconData control = IconData(
     0xeca6,
@@ -3463,6 +5187,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cookie` icon in Fill style.
+  ///
+  /// [PT] O ícone `cookie` no estilo Fill.
+  ///
   /// ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cookie.svg)
   static const IconData cookie = IconData(
     0xe6ca,
@@ -3471,6 +5199,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cookingPot` icon in Fill style.
+  ///
+  /// [PT] O ícone `cookingPot` no estilo Fill.
+  ///
   /// ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cooking-pot.svg)
   static const IconData cookingPot = IconData(
     0xe764,
@@ -3479,6 +5211,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `copy` icon in Fill style.
+  ///
+  /// [PT] O ícone `copy` no estilo Fill.
+  ///
   /// ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copy.svg)
   static const IconData copy = IconData(
     0xe1ca,
@@ -3487,6 +5223,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `copySimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `copySimple` no estilo Fill.
+  ///
   /// ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copy-simple.svg)
   static const IconData copySimple = IconData(
     0xe1cc,
@@ -3495,6 +5235,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `copyleft` icon in Fill style.
+  ///
+  /// [PT] O ícone `copyleft` no estilo Fill.
+  ///
   /// ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copyleft.svg)
   static const IconData copyleft = IconData(
     0xe86a,
@@ -3503,6 +5247,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `copyright` icon in Fill style.
+  ///
+  /// [PT] O ícone `copyright` no estilo Fill.
+  ///
   /// ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/copyright.svg)
   static const IconData copyright = IconData(
     0xe54a,
@@ -3511,6 +5259,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cornersIn` icon in Fill style.
+  ///
+  /// [PT] O ícone `cornersIn` no estilo Fill.
+  ///
   /// ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/corners-in.svg)
   static const IconData cornersIn = IconData(
     0xe1ce,
@@ -3519,6 +5271,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cornersOut` icon in Fill style.
+  ///
+  /// [PT] O ícone `cornersOut` no estilo Fill.
+  ///
   /// ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/corners-out.svg)
   static const IconData cornersOut = IconData(
     0xe1d0,
@@ -3527,6 +5283,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `couch` icon in Fill style.
+  ///
+  /// [PT] O ícone `couch` no estilo Fill.
+  ///
   /// ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/couch.svg)
   static const IconData couch = IconData(
     0xe7f6,
@@ -3535,6 +5295,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `courtBasketball` icon in Fill style.
+  ///
+  /// [PT] O ícone `courtBasketball` no estilo Fill.
+  ///
   /// ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/court-basketball.svg)
   static const IconData courtBasketball = IconData(
     0xee36,
@@ -3543,6 +5307,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cow` icon in Fill style.
+  ///
+  /// [PT] O ícone `cow` no estilo Fill.
+  ///
   /// ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cow.svg)
   static const IconData cow = IconData(
     0xeabe,
@@ -3551,6 +5319,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cowboyHat` icon in Fill style.
+  ///
+  /// [PT] O ícone `cowboyHat` no estilo Fill.
+  ///
   /// ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cowboy-hat.svg)
   static const IconData cowboyHat = IconData(
     0xed12,
@@ -3559,6 +5331,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cpu` icon in Fill style.
+  ///
+  /// [PT] O ícone `cpu` no estilo Fill.
+  ///
   /// ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cpu.svg)
   static const IconData cpu = IconData(
     0xe610,
@@ -3567,6 +5343,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `crane` icon in Fill style.
+  ///
+  /// [PT] O ícone `crane` no estilo Fill.
+  ///
   /// ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crane.svg)
   static const IconData crane = IconData(
     0xed48,
@@ -3575,6 +5355,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `craneTower` icon in Fill style.
+  ///
+  /// [PT] O ícone `craneTower` no estilo Fill.
+  ///
   /// ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crane-tower.svg)
   static const IconData craneTower = IconData(
     0xed49,
@@ -3583,6 +5367,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `creditCard` icon in Fill style.
+  ///
+  /// [PT] O ícone `creditCard` no estilo Fill.
+  ///
   /// ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/credit-card.svg)
   static const IconData creditCard = IconData(
     0xe1d2,
@@ -3591,6 +5379,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cricket` icon in Fill style.
+  ///
+  /// [PT] O ícone `cricket` no estilo Fill.
+  ///
   /// ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cricket.svg)
   static const IconData cricket = IconData(
     0xee12,
@@ -3599,6 +5391,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `crop` icon in Fill style.
+  ///
+  /// [PT] O ícone `crop` no estilo Fill.
+  ///
   /// ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crop.svg)
   static const IconData crop = IconData(
     0xe1d4,
@@ -3607,6 +5403,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cross` icon in Fill style.
+  ///
+  /// [PT] O ícone `cross` no estilo Fill.
+  ///
   /// ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cross.svg)
   static const IconData cross = IconData(
     0xe8a0,
@@ -3615,6 +5415,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `crosshair` icon in Fill style.
+  ///
+  /// [PT] O ícone `crosshair` no estilo Fill.
+  ///
   /// ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crosshair.svg)
   static const IconData crosshair = IconData(
     0xe1d6,
@@ -3623,6 +5427,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `crosshairSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `crosshairSimple` no estilo Fill.
+  ///
   /// ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crosshair-simple.svg)
   static const IconData crosshairSimple = IconData(
     0xe1d8,
@@ -3631,6 +5439,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `crown` icon in Fill style.
+  ///
+  /// [PT] O ícone `crown` no estilo Fill.
+  ///
   /// ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown.svg)
   static const IconData crown = IconData(
     0xe614,
@@ -3639,6 +5451,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `crownCross` icon in Fill style.
+  ///
+  /// [PT] O ícone `crownCross` no estilo Fill.
+  ///
   /// ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown-cross.svg)
   static const IconData crownCross = IconData(
     0xee5e,
@@ -3647,6 +5463,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `crownSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `crownSimple` no estilo Fill.
+  ///
   /// ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/crown-simple.svg)
   static const IconData crownSimple = IconData(
     0xe616,
@@ -3655,6 +5475,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cube` icon in Fill style.
+  ///
+  /// [PT] O ícone `cube` no estilo Fill.
+  ///
   /// ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube.svg)
   static const IconData cube = IconData(
     0xe1da,
@@ -3663,6 +5487,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cubeFocus` icon in Fill style.
+  ///
+  /// [PT] O ícone `cubeFocus` no estilo Fill.
+  ///
   /// ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube-focus.svg)
   static const IconData cubeFocus = IconData(
     0xed0a,
@@ -3671,6 +5499,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cubeTransparent` icon in Fill style.
+  ///
+  /// [PT] O ícone `cubeTransparent` no estilo Fill.
+  ///
   /// ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cube-transparent.svg)
   static const IconData cubeTransparent = IconData(
     0xec7c,
@@ -3679,6 +5511,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyBtc` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyBtc` no estilo Fill.
+  ///
   /// ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-btc.svg)
   static const IconData currencyBtc = IconData(
     0xe618,
@@ -3687,6 +5523,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyCircleDollar` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyCircleDollar` no estilo Fill.
+  ///
   /// ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-circle-dollar.svg)
   static const IconData currencyCircleDollar = IconData(
     0xe54c,
@@ -3695,6 +5535,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyCny` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyCny` no estilo Fill.
+  ///
   /// ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-cny.svg)
   static const IconData currencyCny = IconData(
     0xe54e,
@@ -3703,6 +5547,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyDollar` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyDollar` no estilo Fill.
+  ///
   /// ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-dollar.svg)
   static const IconData currencyDollar = IconData(
     0xe550,
@@ -3711,6 +5559,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyDollarSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyDollarSimple` no estilo Fill.
+  ///
   /// ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-dollar-simple.svg)
   static const IconData currencyDollarSimple = IconData(
     0xe552,
@@ -3719,6 +5571,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyEth` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyEth` no estilo Fill.
+  ///
   /// ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-eth.svg)
   static const IconData currencyEth = IconData(
     0xeada,
@@ -3727,6 +5583,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyEur` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyEur` no estilo Fill.
+  ///
   /// ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-eur.svg)
   static const IconData currencyEur = IconData(
     0xe554,
@@ -3735,6 +5595,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyGbp` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyGbp` no estilo Fill.
+  ///
   /// ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-gbp.svg)
   static const IconData currencyGbp = IconData(
     0xe556,
@@ -3743,6 +5607,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyInr` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyInr` no estilo Fill.
+  ///
   /// ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-inr.svg)
   static const IconData currencyInr = IconData(
     0xe558,
@@ -3751,6 +5619,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyJpy` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyJpy` no estilo Fill.
+  ///
   /// ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-jpy.svg)
   static const IconData currencyJpy = IconData(
     0xe55a,
@@ -3759,6 +5631,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyKrw` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyKrw` no estilo Fill.
+  ///
   /// ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-krw.svg)
   static const IconData currencyKrw = IconData(
     0xe55c,
@@ -3767,6 +5643,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyKzt` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyKzt` no estilo Fill.
+  ///
   /// ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-kzt.svg)
   static const IconData currencyKzt = IconData(
     0xec4c,
@@ -3775,6 +5655,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyNgn` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyNgn` no estilo Fill.
+  ///
   /// ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-ngn.svg)
   static const IconData currencyNgn = IconData(
     0xeb52,
@@ -3783,6 +5667,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `currencyRub` icon in Fill style.
+  ///
+  /// [PT] O ícone `currencyRub` no estilo Fill.
+  ///
   /// ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/currency-rub.svg)
   static const IconData currencyRub = IconData(
     0xe55e,
@@ -3791,6 +5679,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cursor` icon in Fill style.
+  ///
+  /// [PT] O ícone `cursor` no estilo Fill.
+  ///
   /// ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor.svg)
   static const IconData cursor = IconData(
     0xe1dc,
@@ -3799,6 +5691,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cursorClick` icon in Fill style.
+  ///
+  /// [PT] O ícone `cursorClick` no estilo Fill.
+  ///
   /// ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor-click.svg)
   static const IconData cursorClick = IconData(
     0xe7c8,
@@ -3807,6 +5703,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cursorText` icon in Fill style.
+  ///
+  /// [PT] O ícone `cursorText` no estilo Fill.
+  ///
   /// ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cursor-text.svg)
   static const IconData cursorText = IconData(
     0xe7d8,
@@ -3815,6 +5715,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `cylinder` icon in Fill style.
+  ///
+  /// [PT] O ícone `cylinder` no estilo Fill.
+  ///
   /// ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/cylinder.svg)
   static const IconData cylinder = IconData(
     0xe8fc,
@@ -3823,6 +5727,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `database` icon in Fill style.
+  ///
+  /// [PT] O ícone `database` no estilo Fill.
+  ///
   /// ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/database.svg)
   static const IconData database = IconData(
     0xe1de,
@@ -3831,6 +5739,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `desk` icon in Fill style.
+  ///
+  /// [PT] O ícone `desk` no estilo Fill.
+  ///
   /// ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desk.svg)
   static const IconData desk = IconData(
     0xed16,
@@ -3839,6 +5751,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `desktop` icon in Fill style.
+  ///
+  /// [PT] O ícone `desktop` no estilo Fill.
+  ///
   /// ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop.svg)
   static const IconData desktop = IconData(
     0xe560,
@@ -3847,6 +5763,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `desktopTower` icon in Fill style.
+  ///
+  /// [PT] O ícone `desktopTower` no estilo Fill.
+  ///
   /// ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/desktop-tower.svg)
   static const IconData desktopTower = IconData(
     0xe562,
@@ -3855,6 +5775,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `detective` icon in Fill style.
+  ///
+  /// [PT] O ícone `detective` no estilo Fill.
+  ///
   /// ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/detective.svg)
   static const IconData detective = IconData(
     0xe83e,
@@ -3863,6 +5787,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `devToLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `devToLogo` no estilo Fill.
+  ///
   /// ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dev-to-logo.svg)
   static const IconData devToLogo = IconData(
     0xed0e,
@@ -3871,6 +5799,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceMobile` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceMobile` no estilo Fill.
+  ///
   /// ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile.svg)
   static const IconData deviceMobile = IconData(
     0xe1e0,
@@ -3879,6 +5811,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceMobileCamera` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceMobileCamera` no estilo Fill.
+  ///
   /// ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-camera.svg)
   static const IconData deviceMobileCamera = IconData(
     0xe1e2,
@@ -3887,6 +5823,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceMobileSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceMobileSlash` no estilo Fill.
+  ///
   /// ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-slash.svg)
   static const IconData deviceMobileSlash = IconData(
     0xee46,
@@ -3895,6 +5835,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceMobileSpeaker` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceMobileSpeaker` no estilo Fill.
+  ///
   /// ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-mobile-speaker.svg)
   static const IconData deviceMobileSpeaker = IconData(
     0xe1e4,
@@ -3903,6 +5847,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceRotate` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceRotate` no estilo Fill.
+  ///
   /// ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-rotate.svg)
   static const IconData deviceRotate = IconData(
     0xedf2,
@@ -3911,6 +5859,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceTablet` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceTablet` no estilo Fill.
+  ///
   /// ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet.svg)
   static const IconData deviceTablet = IconData(
     0xe1e6,
@@ -3919,6 +5871,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceTabletCamera` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceTabletCamera` no estilo Fill.
+  ///
   /// ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet-camera.svg)
   static const IconData deviceTabletCamera = IconData(
     0xe1e8,
@@ -3927,6 +5883,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `deviceTabletSpeaker` icon in Fill style.
+  ///
+  /// [PT] O ícone `deviceTabletSpeaker` no estilo Fill.
+  ///
   /// ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/device-tablet-speaker.svg)
   static const IconData deviceTabletSpeaker = IconData(
     0xe1ea,
@@ -3935,6 +5895,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `devices` icon in Fill style.
+  ///
+  /// [PT] O ícone `devices` no estilo Fill.
+  ///
   /// ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/devices.svg)
   static const IconData devices = IconData(
     0xeba4,
@@ -3943,6 +5907,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diamond` icon in Fill style.
+  ///
+  /// [PT] O ícone `diamond` no estilo Fill.
+  ///
   /// ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/diamond.svg)
   static const IconData diamond = IconData(
     0xe1ec,
@@ -3951,6 +5919,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diamondsFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `diamondsFour` no estilo Fill.
+  ///
   /// ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/diamonds-four.svg)
   static const IconData diamondsFour = IconData(
     0xe8f4,
@@ -3959,6 +5931,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diceFive` icon in Fill style.
+  ///
+  /// [PT] O ícone `diceFive` no estilo Fill.
+  ///
   /// ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-five.svg)
   static const IconData diceFive = IconData(
     0xe1ee,
@@ -3967,6 +5943,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diceFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `diceFour` no estilo Fill.
+  ///
   /// ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-four.svg)
   static const IconData diceFour = IconData(
     0xe1f0,
@@ -3975,6 +5955,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diceOne` icon in Fill style.
+  ///
+  /// [PT] O ícone `diceOne` no estilo Fill.
+  ///
   /// ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-one.svg)
   static const IconData diceOne = IconData(
     0xe1f2,
@@ -3983,6 +5967,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diceSix` icon in Fill style.
+  ///
+  /// [PT] O ícone `diceSix` no estilo Fill.
+  ///
   /// ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-six.svg)
   static const IconData diceSix = IconData(
     0xe1f4,
@@ -3991,6 +5979,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diceThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `diceThree` no estilo Fill.
+  ///
   /// ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-three.svg)
   static const IconData diceThree = IconData(
     0xe1f6,
@@ -3999,6 +5991,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `diceTwo` icon in Fill style.
+  ///
+  /// [PT] O ícone `diceTwo` no estilo Fill.
+  ///
   /// ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dice-two.svg)
   static const IconData diceTwo = IconData(
     0xe1f8,
@@ -4007,6 +6003,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `disc` icon in Fill style.
+  ///
+  /// [PT] O ícone `disc` no estilo Fill.
+  ///
   /// ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/disc.svg)
   static const IconData disc = IconData(
     0xe564,
@@ -4015,6 +6015,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `discoBall` icon in Fill style.
+  ///
+  /// [PT] O ícone `discoBall` no estilo Fill.
+  ///
   /// ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/disco-ball.svg)
   static const IconData discoBall = IconData(
     0xed98,
@@ -4023,6 +6027,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `discordLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `discordLogo` no estilo Fill.
+  ///
   /// ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/discord-logo.svg)
   static const IconData discordLogo = IconData(
     0xe61a,
@@ -4031,6 +6039,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `divide` icon in Fill style.
+  ///
+  /// [PT] O ícone `divide` no estilo Fill.
+  ///
   /// ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/divide.svg)
   static const IconData divide = IconData(
     0xe1fa,
@@ -4039,6 +6051,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dna` icon in Fill style.
+  ///
+  /// [PT] O ícone `dna` no estilo Fill.
+  ///
   /// ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dna.svg)
   static const IconData dna = IconData(
     0xe924,
@@ -4047,6 +6063,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dog` icon in Fill style.
+  ///
+  /// [PT] O ícone `dog` no estilo Fill.
+  ///
   /// ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dog.svg)
   static const IconData dog = IconData(
     0xe74a,
@@ -4055,6 +6075,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `door` icon in Fill style.
+  ///
+  /// [PT] O ícone `door` no estilo Fill.
+  ///
   /// ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/door.svg)
   static const IconData door = IconData(
     0xe61c,
@@ -4063,6 +6087,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `doorOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `doorOpen` no estilo Fill.
+  ///
   /// ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/door-open.svg)
   static const IconData doorOpen = IconData(
     0xe7e6,
@@ -4071,6 +6099,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dot` icon in Fill style.
+  ///
+  /// [PT] O ícone `dot` no estilo Fill.
+  ///
   /// ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dot.svg)
   static const IconData dot = IconData(
     0xecde,
@@ -4079,6 +6111,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotOutline` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotOutline` no estilo Fill.
+  ///
   /// ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dot-outline.svg)
   static const IconData dotOutline = IconData(
     0xece0,
@@ -4087,6 +6123,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsNine` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsNine` no estilo Fill.
+  ///
   /// ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-nine.svg)
   static const IconData dotsNine = IconData(
     0xe1fc,
@@ -4095,6 +6135,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsSix` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsSix` no estilo Fill.
+  ///
   /// ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-six.svg)
   static const IconData dotsSix = IconData(
     0xe794,
@@ -4103,6 +6147,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsSixVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsSixVertical` no estilo Fill.
+  ///
   /// ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-six-vertical.svg)
   static const IconData dotsSixVertical = IconData(
     0xeae2,
@@ -4111,6 +6159,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsThree` no estilo Fill.
+  ///
   /// ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three.svg)
   static const IconData dotsThree = IconData(
     0xe1fe,
@@ -4119,6 +6171,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsThreeCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsThreeCircle` no estilo Fill.
+  ///
   /// ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-circle.svg)
   static const IconData dotsThreeCircle = IconData(
     0xe200,
@@ -4127,6 +6183,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsThreeCircleVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsThreeCircleVertical` no estilo Fill.
+  ///
   /// ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-circle-vertical.svg)
   static const IconData dotsThreeCircleVertical = IconData(
     0xe202,
@@ -4135,6 +6195,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsThreeOutline` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsThreeOutline` no estilo Fill.
+  ///
   /// ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-outline.svg)
   static const IconData dotsThreeOutline = IconData(
     0xe204,
@@ -4143,6 +6207,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsThreeOutlineVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Fill.
+  ///
   /// ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-outline-vertical.svg)
   static const IconData dotsThreeOutlineVertical = IconData(
     0xe206,
@@ -4151,6 +6219,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dotsThreeVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `dotsThreeVertical` no estilo Fill.
+  ///
   /// ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dots-three-vertical.svg)
   static const IconData dotsThreeVertical = IconData(
     0xe208,
@@ -4159,6 +6231,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `download` icon in Fill style.
+  ///
+  /// [PT] O ícone `download` no estilo Fill.
+  ///
   /// ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/download.svg)
   static const IconData download = IconData(
     0xe20a,
@@ -4167,6 +6243,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `downloadSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `downloadSimple` no estilo Fill.
+  ///
   /// ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/download-simple.svg)
   static const IconData downloadSimple = IconData(
     0xe20c,
@@ -4175,6 +6255,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dress` icon in Fill style.
+  ///
+  /// [PT] O ícone `dress` no estilo Fill.
+  ///
   /// ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dress.svg)
   static const IconData dress = IconData(
     0xea7e,
@@ -4183,6 +6267,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dresser` icon in Fill style.
+  ///
+  /// [PT] O ícone `dresser` no estilo Fill.
+  ///
   /// ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dresser.svg)
   static const IconData dresser = IconData(
     0xe94e,
@@ -4191,6 +6279,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dribbbleLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `dribbbleLogo` no estilo Fill.
+  ///
   /// ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dribbble-logo.svg)
   static const IconData dribbbleLogo = IconData(
     0xe20e,
@@ -4199,6 +6291,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `drone` icon in Fill style.
+  ///
+  /// [PT] O ícone `drone` no estilo Fill.
+  ///
   /// ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drone.svg)
   static const IconData drone = IconData(
     0xed74,
@@ -4207,6 +6303,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `drop` icon in Fill style.
+  ///
+  /// [PT] O ícone `drop` no estilo Fill.
+  ///
   /// ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop.svg)
   static const IconData drop = IconData(
     0xe210,
@@ -4215,6 +6315,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dropHalf` icon in Fill style.
+  ///
+  /// [PT] O ícone `dropHalf` no estilo Fill.
+  ///
   /// ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-half.svg)
   static const IconData dropHalf = IconData(
     0xe566,
@@ -4223,6 +6327,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dropHalfBottom` icon in Fill style.
+  ///
+  /// [PT] O ícone `dropHalfBottom` no estilo Fill.
+  ///
   /// ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-half-bottom.svg)
   static const IconData dropHalfBottom = IconData(
     0xeb40,
@@ -4231,6 +6339,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dropSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `dropSimple` no estilo Fill.
+  ///
   /// ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-simple.svg)
   static const IconData dropSimple = IconData(
     0xee32,
@@ -4239,6 +6351,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dropSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `dropSlash` no estilo Fill.
+  ///
   /// ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/drop-slash.svg)
   static const IconData dropSlash = IconData(
     0xe954,
@@ -4247,6 +6363,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `dropboxLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `dropboxLogo` no estilo Fill.
+  ///
   /// ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/dropbox-logo.svg)
   static const IconData dropboxLogo = IconData(
     0xe7d0,
@@ -4255,6 +6375,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ear` icon in Fill style.
+  ///
+  /// [PT] O ícone `ear` no estilo Fill.
+  ///
   /// ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ear.svg)
   static const IconData ear = IconData(
     0xe70c,
@@ -4263,6 +6387,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `earSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `earSlash` no estilo Fill.
+  ///
   /// ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ear-slash.svg)
   static const IconData earSlash = IconData(
     0xe70e,
@@ -4271,6 +6399,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `egg` icon in Fill style.
+  ///
+  /// [PT] O ícone `egg` no estilo Fill.
+  ///
   /// ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/egg.svg)
   static const IconData egg = IconData(
     0xe812,
@@ -4279,6 +6411,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eggCrack` icon in Fill style.
+  ///
+  /// [PT] O ícone `eggCrack` no estilo Fill.
+  ///
   /// ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/egg-crack.svg)
   static const IconData eggCrack = IconData(
     0xeb64,
@@ -4287,6 +6423,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eject` icon in Fill style.
+  ///
+  /// [PT] O ícone `eject` no estilo Fill.
+  ///
   /// ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eject.svg)
   static const IconData eject = IconData(
     0xe212,
@@ -4295,6 +6435,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ejectSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `ejectSimple` no estilo Fill.
+  ///
   /// ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eject-simple.svg)
   static const IconData ejectSimple = IconData(
     0xe6ae,
@@ -4303,6 +6447,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `elevator` icon in Fill style.
+  ///
+  /// [PT] O ícone `elevator` no estilo Fill.
+  ///
   /// ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/elevator.svg)
   static const IconData elevator = IconData(
     0xecc0,
@@ -4311,6 +6459,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `empty` icon in Fill style.
+  ///
+  /// [PT] O ícone `empty` no estilo Fill.
+  ///
   /// ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/empty.svg)
   static const IconData empty = IconData(
     0xedbc,
@@ -4319,6 +6471,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `engine` icon in Fill style.
+  ///
+  /// [PT] O ícone `engine` no estilo Fill.
+  ///
   /// ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/engine.svg)
   static const IconData engine = IconData(
     0xea80,
@@ -4327,6 +6483,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `envelope` icon in Fill style.
+  ///
+  /// [PT] O ícone `envelope` no estilo Fill.
+  ///
   /// ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope.svg)
   static const IconData envelope = IconData(
     0xe214,
@@ -4335,6 +6495,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `envelopeOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `envelopeOpen` no estilo Fill.
+  ///
   /// ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-open.svg)
   static const IconData envelopeOpen = IconData(
     0xe216,
@@ -4343,6 +6507,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `envelopeSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `envelopeSimple` no estilo Fill.
+  ///
   /// ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-simple.svg)
   static const IconData envelopeSimple = IconData(
     0xe218,
@@ -4351,6 +6519,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `envelopeSimpleOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `envelopeSimpleOpen` no estilo Fill.
+  ///
   /// ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/envelope-simple-open.svg)
   static const IconData envelopeSimpleOpen = IconData(
     0xe21a,
@@ -4359,6 +6531,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `equalizer` icon in Fill style.
+  ///
+  /// [PT] O ícone `equalizer` no estilo Fill.
+  ///
   /// ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/equalizer.svg)
   static const IconData equalizer = IconData(
     0xebbc,
@@ -4367,6 +6543,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `equals` icon in Fill style.
+  ///
+  /// [PT] O ícone `equals` no estilo Fill.
+  ///
   /// ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/equals.svg)
   static const IconData equals = IconData(
     0xe21c,
@@ -4375,6 +6555,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eraser` icon in Fill style.
+  ///
+  /// [PT] O ícone `eraser` no estilo Fill.
+  ///
   /// ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eraser.svg)
   static const IconData eraser = IconData(
     0xe21e,
@@ -4383,6 +6567,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `escalatorDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `escalatorDown` no estilo Fill.
+  ///
   /// ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/escalator-down.svg)
   static const IconData escalatorDown = IconData(
     0xecba,
@@ -4391,6 +6579,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `escalatorUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `escalatorUp` no estilo Fill.
+  ///
   /// ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/escalator-up.svg)
   static const IconData escalatorUp = IconData(
     0xecbc,
@@ -4399,6 +6591,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `exam` icon in Fill style.
+  ///
+  /// [PT] O ícone `exam` no estilo Fill.
+  ///
   /// ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exam.svg)
   static const IconData exam = IconData(
     0xe742,
@@ -4407,6 +6603,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `exclamationMark` icon in Fill style.
+  ///
+  /// [PT] O ícone `exclamationMark` no estilo Fill.
+  ///
   /// ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclamation-mark.svg)
   static const IconData exclamationMark = IconData(
     0xee44,
@@ -4415,6 +6615,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `exclude` icon in Fill style.
+  ///
+  /// [PT] O ícone `exclude` no estilo Fill.
+  ///
   /// ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclude.svg)
   static const IconData exclude = IconData(
     0xe882,
@@ -4423,6 +6627,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `excludeSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `excludeSquare` no estilo Fill.
+  ///
   /// ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/exclude-square.svg)
   static const IconData excludeSquare = IconData(
     0xe880,
@@ -4431,6 +6639,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `export` icon in Fill style.
+  ///
+  /// [PT] O ícone `export` no estilo Fill.
+  ///
   /// ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/export.svg)
   static const IconData export = IconData(
     0xeaf0,
@@ -4439,6 +6651,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eye` icon in Fill style.
+  ///
+  /// [PT] O ícone `eye` no estilo Fill.
+  ///
   /// ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye.svg)
   static const IconData eye = IconData(
     0xe220,
@@ -4447,6 +6663,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eyeClosed` icon in Fill style.
+  ///
+  /// [PT] O ícone `eyeClosed` no estilo Fill.
+  ///
   /// ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye-closed.svg)
   static const IconData eyeClosed = IconData(
     0xe222,
@@ -4455,6 +6675,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eyeSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `eyeSlash` no estilo Fill.
+  ///
   /// ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eye-slash.svg)
   static const IconData eyeSlash = IconData(
     0xe224,
@@ -4463,6 +6687,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eyedropper` icon in Fill style.
+  ///
+  /// [PT] O ícone `eyedropper` no estilo Fill.
+  ///
   /// ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyedropper.svg)
   static const IconData eyedropper = IconData(
     0xe568,
@@ -4471,6 +6699,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eyedropperSample` icon in Fill style.
+  ///
+  /// [PT] O ícone `eyedropperSample` no estilo Fill.
+  ///
   /// ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyedropper-sample.svg)
   static const IconData eyedropperSample = IconData(
     0xeac4,
@@ -4479,6 +6711,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eyeglasses` icon in Fill style.
+  ///
+  /// [PT] O ícone `eyeglasses` no estilo Fill.
+  ///
   /// ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyeglasses.svg)
   static const IconData eyeglasses = IconData(
     0xe7ba,
@@ -4487,6 +6723,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `eyes` icon in Fill style.
+  ///
+  /// [PT] O ícone `eyes` no estilo Fill.
+  ///
   /// ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/eyes.svg)
   static const IconData eyes = IconData(
     0xee5c,
@@ -4495,6 +6735,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `faceMask` icon in Fill style.
+  ///
+  /// [PT] O ícone `faceMask` no estilo Fill.
+  ///
   /// ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/face-mask.svg)
   static const IconData faceMask = IconData(
     0xe56a,
@@ -4503,6 +6747,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `facebookLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `facebookLogo` no estilo Fill.
+  ///
   /// ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/facebook-logo.svg)
   static const IconData facebookLogo = IconData(
     0xe226,
@@ -4511,6 +6759,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `factory` icon in Fill style.
+  ///
+  /// [PT] O ícone `factory` no estilo Fill.
+  ///
   /// ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/factory.svg)
   static const IconData factory = IconData(
     0xe760,
@@ -4519,6 +6771,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `faders` icon in Fill style.
+  ///
+  /// [PT] O ícone `faders` no estilo Fill.
+  ///
   /// ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/faders.svg)
   static const IconData faders = IconData(
     0xe228,
@@ -4527,6 +6783,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fadersHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `fadersHorizontal` no estilo Fill.
+  ///
   /// ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/faders-horizontal.svg)
   static const IconData fadersHorizontal = IconData(
     0xe22a,
@@ -4535,6 +6795,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `falloutShelter` icon in Fill style.
+  ///
+  /// [PT] O ícone `falloutShelter` no estilo Fill.
+  ///
   /// ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fallout-shelter.svg)
   static const IconData falloutShelter = IconData(
     0xe9de,
@@ -4543,6 +6807,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fan` icon in Fill style.
+  ///
+  /// [PT] O ícone `fan` no estilo Fill.
+  ///
   /// ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fan.svg)
   static const IconData fan = IconData(
     0xe9f2,
@@ -4551,6 +6819,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `farm` icon in Fill style.
+  ///
+  /// [PT] O ícone `farm` no estilo Fill.
+  ///
   /// ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/farm.svg)
   static const IconData farm = IconData(
     0xec70,
@@ -4559,6 +6831,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fastForward` icon in Fill style.
+  ///
+  /// [PT] O ícone `fastForward` no estilo Fill.
+  ///
   /// ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fast-forward.svg)
   static const IconData fastForward = IconData(
     0xe6a6,
@@ -4567,6 +6843,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fastForwardCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `fastForwardCircle` no estilo Fill.
+  ///
   /// ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fast-forward-circle.svg)
   static const IconData fastForwardCircle = IconData(
     0xe22c,
@@ -4575,6 +6855,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `feather` icon in Fill style.
+  ///
+  /// [PT] O ícone `feather` no estilo Fill.
+  ///
   /// ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/feather.svg)
   static const IconData feather = IconData(
     0xe9c0,
@@ -4583,6 +6867,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fediverseLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `fediverseLogo` no estilo Fill.
+  ///
   /// ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fediverse-logo.svg)
   static const IconData fediverseLogo = IconData(
     0xed66,
@@ -4591,6 +6879,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `figmaLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `figmaLogo` no estilo Fill.
+  ///
   /// ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/figma-logo.svg)
   static const IconData figmaLogo = IconData(
     0xe22e,
@@ -4599,6 +6891,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `file` icon in Fill style.
+  ///
+  /// [PT] O ícone `file` no estilo Fill.
+  ///
   /// ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file.svg)
   static const IconData file = IconData(
     0xe230,
@@ -4607,6 +6903,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileArchive` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileArchive` no estilo Fill.
+  ///
   /// ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-archive.svg)
   static const IconData fileArchive = IconData(
     0xeb2a,
@@ -4615,6 +6915,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileArrowDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileArrowDown` no estilo Fill.
+  ///
   /// ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-arrow-down.svg)
   static const IconData fileArrowDown = IconData(
     0xe232,
@@ -4623,6 +6927,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileArrowUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileArrowUp` no estilo Fill.
+  ///
   /// ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-arrow-up.svg)
   static const IconData fileArrowUp = IconData(
     0xe61e,
@@ -4631,6 +6939,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileAudio` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileAudio` no estilo Fill.
+  ///
   /// ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-audio.svg)
   static const IconData fileAudio = IconData(
     0xea20,
@@ -4639,6 +6951,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileC` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileC` no estilo Fill.
+  ///
   /// ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-c.svg)
   static const IconData fileC = IconData(
     0xeb32,
@@ -4647,6 +6963,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileCSharp` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileCSharp` no estilo Fill.
+  ///
   /// ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-c-sharp.svg)
   static const IconData fileCSharp = IconData(
     0xeb30,
@@ -4655,6 +6975,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileCloud` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileCloud` no estilo Fill.
+  ///
   /// ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-cloud.svg)
   static const IconData fileCloud = IconData(
     0xe95e,
@@ -4663,6 +6987,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileCode` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileCode` no estilo Fill.
+  ///
   /// ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-code.svg)
   static const IconData fileCode = IconData(
     0xe914,
@@ -4671,6 +6999,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileCpp` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileCpp` no estilo Fill.
+  ///
   /// ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-cpp.svg)
   static const IconData fileCpp = IconData(
     0xeb2e,
@@ -4679,6 +7011,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileCss` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileCss` no estilo Fill.
+  ///
   /// ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-css.svg)
   static const IconData fileCss = IconData(
     0xeb34,
@@ -4687,6 +7023,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileCsv` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileCsv` no estilo Fill.
+  ///
   /// ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-csv.svg)
   static const IconData fileCsv = IconData(
     0xeb1c,
@@ -4695,6 +7035,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileDashed` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileDashed` no estilo Fill.
+  ///
   /// ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-dashed.svg)
   static const IconData fileDashed = IconData(
     0xe704,
@@ -4703,6 +7047,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileDoc` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileDoc` no estilo Fill.
+  ///
   /// ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-doc.svg)
   static const IconData fileDoc = IconData(
     0xeb1e,
@@ -4711,6 +7059,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileDotted` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileDotted` no estilo Fill.
+  ///
   /// ![file-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-dotted.svg)
   static const IconData fileDotted = IconData(
     0xe704,
@@ -4719,6 +7071,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileHtml` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileHtml` no estilo Fill.
+  ///
   /// ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-html.svg)
   static const IconData fileHtml = IconData(
     0xeb38,
@@ -4727,6 +7083,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileImage` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileImage` no estilo Fill.
+  ///
   /// ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-image.svg)
   static const IconData fileImage = IconData(
     0xea24,
@@ -4735,6 +7095,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileIni` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileIni` no estilo Fill.
+  ///
   /// ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ini.svg)
   static const IconData fileIni = IconData(
     0xeb33,
@@ -4743,6 +7107,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileJpg` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileJpg` no estilo Fill.
+  ///
   /// ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-jpg.svg)
   static const IconData fileJpg = IconData(
     0xeb1a,
@@ -4751,6 +7119,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileJs` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileJs` no estilo Fill.
+  ///
   /// ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-js.svg)
   static const IconData fileJs = IconData(
     0xeb24,
@@ -4759,6 +7131,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileJsx` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileJsx` no estilo Fill.
+  ///
   /// ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-jsx.svg)
   static const IconData fileJsx = IconData(
     0xeb3a,
@@ -4767,6 +7143,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileLock` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileLock` no estilo Fill.
+  ///
   /// ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-lock.svg)
   static const IconData fileLock = IconData(
     0xe95c,
@@ -4775,6 +7155,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileMagnifyingGlass` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileMagnifyingGlass` no estilo Fill.
+  ///
   /// ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-magnifying-glass.svg)
   static const IconData fileMagnifyingGlass = IconData(
     0xe238,
@@ -4783,6 +7167,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileMd` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileMd` no estilo Fill.
+  ///
   /// ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-md.svg)
   static const IconData fileMd = IconData(
     0xed50,
@@ -4791,6 +7179,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileMinus` no estilo Fill.
+  ///
   /// ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-minus.svg)
   static const IconData fileMinus = IconData(
     0xe234,
@@ -4799,6 +7191,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filePdf` icon in Fill style.
+  ///
+  /// [PT] O ícone `filePdf` no estilo Fill.
+  ///
   /// ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-pdf.svg)
   static const IconData filePdf = IconData(
     0xe702,
@@ -4807,6 +7203,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filePlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `filePlus` no estilo Fill.
+  ///
   /// ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-plus.svg)
   static const IconData filePlus = IconData(
     0xe236,
@@ -4815,6 +7215,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filePng` icon in Fill style.
+  ///
+  /// [PT] O ícone `filePng` no estilo Fill.
+  ///
   /// ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-png.svg)
   static const IconData filePng = IconData(
     0xeb18,
@@ -4823,6 +7227,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filePpt` icon in Fill style.
+  ///
+  /// [PT] O ícone `filePpt` no estilo Fill.
+  ///
   /// ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ppt.svg)
   static const IconData filePpt = IconData(
     0xeb20,
@@ -4831,6 +7239,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filePy` icon in Fill style.
+  ///
+  /// [PT] O ícone `filePy` no estilo Fill.
+  ///
   /// ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-py.svg)
   static const IconData filePy = IconData(
     0xeb2c,
@@ -4839,6 +7251,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileRs` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileRs` no estilo Fill.
+  ///
   /// ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-rs.svg)
   static const IconData fileRs = IconData(
     0xeb28,
@@ -4847,6 +7263,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileSearch` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileSearch` no estilo Fill.
+  ///
   /// ![file-search](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-search.svg)
   static const IconData fileSearch = IconData(
     0xe238,
@@ -4855,6 +7275,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileSql` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileSql` no estilo Fill.
+  ///
   /// ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-sql.svg)
   static const IconData fileSql = IconData(
     0xed4e,
@@ -4863,6 +7287,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileSvg` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileSvg` no estilo Fill.
+  ///
   /// ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-svg.svg)
   static const IconData fileSvg = IconData(
     0xed08,
@@ -4871,6 +7299,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileText` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileText` no estilo Fill.
+  ///
   /// ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-text.svg)
   static const IconData fileText = IconData(
     0xe23a,
@@ -4879,6 +7311,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileTs` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileTs` no estilo Fill.
+  ///
   /// ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-ts.svg)
   static const IconData fileTs = IconData(
     0xeb26,
@@ -4887,6 +7323,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileTsx` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileTsx` no estilo Fill.
+  ///
   /// ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-tsx.svg)
   static const IconData fileTsx = IconData(
     0xeb3c,
@@ -4895,6 +7335,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileTxt` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileTxt` no estilo Fill.
+  ///
   /// ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-txt.svg)
   static const IconData fileTxt = IconData(
     0xeb35,
@@ -4903,6 +7347,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileVideo` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileVideo` no estilo Fill.
+  ///
   /// ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-video.svg)
   static const IconData fileVideo = IconData(
     0xea22,
@@ -4911,6 +7359,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileVue` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileVue` no estilo Fill.
+  ///
   /// ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-vue.svg)
   static const IconData fileVue = IconData(
     0xeb3e,
@@ -4919,6 +7371,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileX` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileX` no estilo Fill.
+  ///
   /// ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-x.svg)
   static const IconData fileX = IconData(
     0xe23c,
@@ -4927,6 +7383,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileXls` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileXls` no estilo Fill.
+  ///
   /// ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-xls.svg)
   static const IconData fileXls = IconData(
     0xeb22,
@@ -4935,6 +7395,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fileZip` icon in Fill style.
+  ///
+  /// [PT] O ícone `fileZip` no estilo Fill.
+  ///
   /// ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/file-zip.svg)
   static const IconData fileZip = IconData(
     0xe958,
@@ -4943,6 +7407,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `files` icon in Fill style.
+  ///
+  /// [PT] O ícone `files` no estilo Fill.
+  ///
   /// ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/files.svg)
   static const IconData files = IconData(
     0xe710,
@@ -4951,6 +7419,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filmReel` icon in Fill style.
+  ///
+  /// [PT] O ícone `filmReel` no estilo Fill.
+  ///
   /// ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-reel.svg)
   static const IconData filmReel = IconData(
     0xe8c0,
@@ -4959,6 +7431,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filmScript` icon in Fill style.
+  ///
+  /// [PT] O ícone `filmScript` no estilo Fill.
+  ///
   /// ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-script.svg)
   static const IconData filmScript = IconData(
     0xeb50,
@@ -4967,6 +7443,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filmSlate` icon in Fill style.
+  ///
+  /// [PT] O ícone `filmSlate` no estilo Fill.
+  ///
   /// ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-slate.svg)
   static const IconData filmSlate = IconData(
     0xe8c2,
@@ -4975,6 +7455,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `filmStrip` icon in Fill style.
+  ///
+  /// [PT] O ícone `filmStrip` no estilo Fill.
+  ///
   /// ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/film-strip.svg)
   static const IconData filmStrip = IconData(
     0xe792,
@@ -4983,6 +7467,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fingerprint` icon in Fill style.
+  ///
+  /// [PT] O ícone `fingerprint` no estilo Fill.
+  ///
   /// ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fingerprint.svg)
   static const IconData fingerprint = IconData(
     0xe23e,
@@ -4991,6 +7479,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fingerprintSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `fingerprintSimple` no estilo Fill.
+  ///
   /// ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fingerprint-simple.svg)
   static const IconData fingerprintSimple = IconData(
     0xe240,
@@ -4999,6 +7491,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `finnTheHuman` icon in Fill style.
+  ///
+  /// [PT] O ícone `finnTheHuman` no estilo Fill.
+  ///
   /// ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/finn-the-human.svg)
   static const IconData finnTheHuman = IconData(
     0xe56c,
@@ -5007,6 +7503,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fire` icon in Fill style.
+  ///
+  /// [PT] O ícone `fire` no estilo Fill.
+  ///
   /// ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire.svg)
   static const IconData fire = IconData(
     0xe242,
@@ -5015,6 +7515,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fireExtinguisher` icon in Fill style.
+  ///
+  /// [PT] O ícone `fireExtinguisher` no estilo Fill.
+  ///
   /// ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-extinguisher.svg)
   static const IconData fireExtinguisher = IconData(
     0xe9e8,
@@ -5023,6 +7527,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fireSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `fireSimple` no estilo Fill.
+  ///
   /// ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-simple.svg)
   static const IconData fireSimple = IconData(
     0xe620,
@@ -5031,6 +7539,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fireTruck` icon in Fill style.
+  ///
+  /// [PT] O ícone `fireTruck` no estilo Fill.
+  ///
   /// ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fire-truck.svg)
   static const IconData fireTruck = IconData(
     0xe574,
@@ -5039,6 +7551,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `firstAid` icon in Fill style.
+  ///
+  /// [PT] O ícone `firstAid` no estilo Fill.
+  ///
   /// ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/first-aid.svg)
   static const IconData firstAid = IconData(
     0xe56e,
@@ -5047,6 +7563,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `firstAidKit` icon in Fill style.
+  ///
+  /// [PT] O ícone `firstAidKit` no estilo Fill.
+  ///
   /// ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/first-aid-kit.svg)
   static const IconData firstAidKit = IconData(
     0xe570,
@@ -5055,6 +7575,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fish` icon in Fill style.
+  ///
+  /// [PT] O ícone `fish` no estilo Fill.
+  ///
   /// ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fish.svg)
   static const IconData fish = IconData(
     0xe728,
@@ -5063,6 +7587,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fishSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `fishSimple` no estilo Fill.
+  ///
   /// ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fish-simple.svg)
   static const IconData fishSimple = IconData(
     0xe72a,
@@ -5071,6 +7599,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flag` icon in Fill style.
+  ///
+  /// [PT] O ícone `flag` no estilo Fill.
+  ///
   /// ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag.svg)
   static const IconData flag = IconData(
     0xe244,
@@ -5079,6 +7611,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flagBanner` icon in Fill style.
+  ///
+  /// [PT] O ícone `flagBanner` no estilo Fill.
+  ///
   /// ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-banner.svg)
   static const IconData flagBanner = IconData(
     0xe622,
@@ -5087,6 +7623,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flagBannerFold` icon in Fill style.
+  ///
+  /// [PT] O ícone `flagBannerFold` no estilo Fill.
+  ///
   /// ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-banner-fold.svg)
   static const IconData flagBannerFold = IconData(
     0xecf2,
@@ -5095,6 +7635,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flagCheckered` icon in Fill style.
+  ///
+  /// [PT] O ícone `flagCheckered` no estilo Fill.
+  ///
   /// ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-checkered.svg)
   static const IconData flagCheckered = IconData(
     0xea38,
@@ -5103,6 +7647,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flagPennant` icon in Fill style.
+  ///
+  /// [PT] O ícone `flagPennant` no estilo Fill.
+  ///
   /// ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flag-pennant.svg)
   static const IconData flagPennant = IconData(
     0xecf0,
@@ -5111,6 +7659,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flame` icon in Fill style.
+  ///
+  /// [PT] O ícone `flame` no estilo Fill.
+  ///
   /// ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flame.svg)
   static const IconData flame = IconData(
     0xe624,
@@ -5119,6 +7671,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flashlight` icon in Fill style.
+  ///
+  /// [PT] O ícone `flashlight` no estilo Fill.
+  ///
   /// ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flashlight.svg)
   static const IconData flashlight = IconData(
     0xe246,
@@ -5127,6 +7683,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flask` icon in Fill style.
+  ///
+  /// [PT] O ícone `flask` no estilo Fill.
+  ///
   /// ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flask.svg)
   static const IconData flask = IconData(
     0xe79e,
@@ -5135,6 +7695,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flipHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `flipHorizontal` no estilo Fill.
+  ///
   /// ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flip-horizontal.svg)
   static const IconData flipHorizontal = IconData(
     0xed6a,
@@ -5143,6 +7707,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flipVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `flipVertical` no estilo Fill.
+  ///
   /// ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flip-vertical.svg)
   static const IconData flipVertical = IconData(
     0xed6c,
@@ -5151,6 +7719,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `floppyDisk` icon in Fill style.
+  ///
+  /// [PT] O ícone `floppyDisk` no estilo Fill.
+  ///
   /// ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/floppy-disk.svg)
   static const IconData floppyDisk = IconData(
     0xe248,
@@ -5159,6 +7731,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `floppyDiskBack` icon in Fill style.
+  ///
+  /// [PT] O ícone `floppyDiskBack` no estilo Fill.
+  ///
   /// ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/floppy-disk-back.svg)
   static const IconData floppyDiskBack = IconData(
     0xeaf4,
@@ -5167,6 +7743,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flowArrow` icon in Fill style.
+  ///
+  /// [PT] O ícone `flowArrow` no estilo Fill.
+  ///
   /// ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flow-arrow.svg)
   static const IconData flowArrow = IconData(
     0xe6ec,
@@ -5175,6 +7755,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flower` icon in Fill style.
+  ///
+  /// [PT] O ícone `flower` no estilo Fill.
+  ///
   /// ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower.svg)
   static const IconData flower = IconData(
     0xe75e,
@@ -5183,6 +7767,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flowerLotus` icon in Fill style.
+  ///
+  /// [PT] O ícone `flowerLotus` no estilo Fill.
+  ///
   /// ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower-lotus.svg)
   static const IconData flowerLotus = IconData(
     0xe6cc,
@@ -5191,6 +7779,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flowerTulip` icon in Fill style.
+  ///
+  /// [PT] O ícone `flowerTulip` no estilo Fill.
+  ///
   /// ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flower-tulip.svg)
   static const IconData flowerTulip = IconData(
     0xeacc,
@@ -5199,6 +7791,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `flyingSaucer` icon in Fill style.
+  ///
+  /// [PT] O ícone `flyingSaucer` no estilo Fill.
+  ///
   /// ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/flying-saucer.svg)
   static const IconData flyingSaucer = IconData(
     0xeb4a,
@@ -5207,6 +7803,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folder` icon in Fill style.
+  ///
+  /// [PT] O ícone `folder` no estilo Fill.
+  ///
   /// ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder.svg)
   static const IconData folder = IconData(
     0xe24a,
@@ -5215,6 +7815,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderDashed` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderDashed` no estilo Fill.
+  ///
   /// ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-dashed.svg)
   static const IconData folderDashed = IconData(
     0xe8f8,
@@ -5223,6 +7827,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderDotted` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderDotted` no estilo Fill.
+  ///
   /// ![folder-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-dotted.svg)
   static const IconData folderDotted = IconData(
     0xe8f8,
@@ -5231,6 +7839,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderLock` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderLock` no estilo Fill.
+  ///
   /// ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-lock.svg)
   static const IconData folderLock = IconData(
     0xea3c,
@@ -5239,6 +7851,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderMinus` no estilo Fill.
+  ///
   /// ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-minus.svg)
   static const IconData folderMinus = IconData(
     0xe254,
@@ -5247,6 +7863,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderNotch` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderNotch` no estilo Fill.
+  ///
   /// ![folder-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-notch.svg)
   static const IconData folderNotch = IconData(
     0xe24a,
@@ -5255,6 +7875,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderNotchMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderNotchMinus` no estilo Fill.
+  ///
   /// ![folder-notch-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-notch-minus.svg)
   static const IconData folderNotchMinus = IconData(
     0xe254,
@@ -5263,6 +7887,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderNotchOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderNotchOpen` no estilo Fill.
+  ///
   /// ![folder-notch-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-notch-open.svg)
   static const IconData folderNotchOpen = IconData(
     0xe256,
@@ -5271,6 +7899,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderNotchPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderNotchPlus` no estilo Fill.
+  ///
   /// ![folder-notch-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-notch-plus.svg)
   static const IconData folderNotchPlus = IconData(
     0xe258,
@@ -5279,6 +7911,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderOpen` no estilo Fill.
+  ///
   /// ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-open.svg)
   static const IconData folderOpen = IconData(
     0xe256,
@@ -5287,6 +7923,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderPlus` no estilo Fill.
+  ///
   /// ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-plus.svg)
   static const IconData folderPlus = IconData(
     0xe258,
@@ -5295,6 +7935,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimple` no estilo Fill.
+  ///
   /// ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple.svg)
   static const IconData folderSimple = IconData(
     0xe25a,
@@ -5303,6 +7947,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimpleDashed` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimpleDashed` no estilo Fill.
+  ///
   /// ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-dashed.svg)
   static const IconData folderSimpleDashed = IconData(
     0xec2a,
@@ -5311,6 +7959,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimpleDotted` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimpleDotted` no estilo Fill.
+  ///
   /// ![folder-simple-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-dotted.svg)
   static const IconData folderSimpleDotted = IconData(
     0xec2a,
@@ -5319,6 +7971,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimpleLock` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimpleLock` no estilo Fill.
+  ///
   /// ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-lock.svg)
   static const IconData folderSimpleLock = IconData(
     0xeb5e,
@@ -5327,6 +7983,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimpleMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimpleMinus` no estilo Fill.
+  ///
   /// ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-minus.svg)
   static const IconData folderSimpleMinus = IconData(
     0xe25c,
@@ -5335,6 +7995,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimplePlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimplePlus` no estilo Fill.
+  ///
   /// ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-plus.svg)
   static const IconData folderSimplePlus = IconData(
     0xe25e,
@@ -5343,6 +8007,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimpleStar` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimpleStar` no estilo Fill.
+  ///
   /// ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-star.svg)
   static const IconData folderSimpleStar = IconData(
     0xec2e,
@@ -5351,6 +8019,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderSimpleUser` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderSimpleUser` no estilo Fill.
+  ///
   /// ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-simple-user.svg)
   static const IconData folderSimpleUser = IconData(
     0xeb60,
@@ -5359,6 +8031,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderStar` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderStar` no estilo Fill.
+  ///
   /// ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-star.svg)
   static const IconData folderStar = IconData(
     0xea86,
@@ -5367,6 +8043,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folderUser` icon in Fill style.
+  ///
+  /// [PT] O ícone `folderUser` no estilo Fill.
+  ///
   /// ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folder-user.svg)
   static const IconData folderUser = IconData(
     0xeb46,
@@ -5375,6 +8055,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `folders` icon in Fill style.
+  ///
+  /// [PT] O ícone `folders` no estilo Fill.
+  ///
   /// ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/folders.svg)
   static const IconData folders = IconData(
     0xe260,
@@ -5383,6 +8067,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `football` icon in Fill style.
+  ///
+  /// [PT] O ícone `football` no estilo Fill.
+  ///
   /// ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/football.svg)
   static const IconData football = IconData(
     0xe718,
@@ -5391,6 +8079,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `footballHelmet` icon in Fill style.
+  ///
+  /// [PT] O ícone `footballHelmet` no estilo Fill.
+  ///
   /// ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/football-helmet.svg)
   static const IconData footballHelmet = IconData(
     0xee4c,
@@ -5399,6 +8091,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `footprints` icon in Fill style.
+  ///
+  /// [PT] O ícone `footprints` no estilo Fill.
+  ///
   /// ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/footprints.svg)
   static const IconData footprints = IconData(
     0xea88,
@@ -5407,6 +8103,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `forkKnife` icon in Fill style.
+  ///
+  /// [PT] O ícone `forkKnife` no estilo Fill.
+  ///
   /// ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/fork-knife.svg)
   static const IconData forkKnife = IconData(
     0xe262,
@@ -5415,6 +8115,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `fourK` icon in Fill style.
+  ///
+  /// [PT] O ícone `fourK` no estilo Fill.
+  ///
   /// ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/four-k.svg)
   static const IconData fourK = IconData(
     0xea5c,
@@ -5423,6 +8127,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `frameCorners` icon in Fill style.
+  ///
+  /// [PT] O ícone `frameCorners` no estilo Fill.
+  ///
   /// ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/frame-corners.svg)
   static const IconData frameCorners = IconData(
     0xe626,
@@ -5431,6 +8139,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `framerLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `framerLogo` no estilo Fill.
+  ///
   /// ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/framer-logo.svg)
   static const IconData framerLogo = IconData(
     0xe264,
@@ -5439,6 +8151,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `function` icon in Fill style.
+  ///
+  /// [PT] O ícone `function` no estilo Fill.
+  ///
   /// ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/function.svg)
   static const IconData function = IconData(
     0xebe4,
@@ -5447,6 +8163,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `funnel` icon in Fill style.
+  ///
+  /// [PT] O ícone `funnel` no estilo Fill.
+  ///
   /// ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel.svg)
   static const IconData funnel = IconData(
     0xe266,
@@ -5455,6 +8175,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `funnelSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `funnelSimple` no estilo Fill.
+  ///
   /// ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-simple.svg)
   static const IconData funnelSimple = IconData(
     0xe268,
@@ -5463,6 +8187,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `funnelSimpleX` icon in Fill style.
+  ///
+  /// [PT] O ícone `funnelSimpleX` no estilo Fill.
+  ///
   /// ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-simple-x.svg)
   static const IconData funnelSimpleX = IconData(
     0xe26a,
@@ -5471,6 +8199,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `funnelX` icon in Fill style.
+  ///
+  /// [PT] O ícone `funnelX` no estilo Fill.
+  ///
   /// ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/funnel-x.svg)
   static const IconData funnelX = IconData(
     0xe26c,
@@ -5479,6 +8211,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gameController` icon in Fill style.
+  ///
+  /// [PT] O ícone `gameController` no estilo Fill.
+  ///
   /// ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/game-controller.svg)
   static const IconData gameController = IconData(
     0xe26e,
@@ -5487,6 +8223,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `garage` icon in Fill style.
+  ///
+  /// [PT] O ícone `garage` no estilo Fill.
+  ///
   /// ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/garage.svg)
   static const IconData garage = IconData(
     0xecd6,
@@ -5495,6 +8235,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gasCan` icon in Fill style.
+  ///
+  /// [PT] O ícone `gasCan` no estilo Fill.
+  ///
   /// ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gas-can.svg)
   static const IconData gasCan = IconData(
     0xe8ce,
@@ -5503,6 +8247,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gasPump` icon in Fill style.
+  ///
+  /// [PT] O ícone `gasPump` no estilo Fill.
+  ///
   /// ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gas-pump.svg)
   static const IconData gasPump = IconData(
     0xe768,
@@ -5511,6 +8259,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gauge` icon in Fill style.
+  ///
+  /// [PT] O ícone `gauge` no estilo Fill.
+  ///
   /// ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gauge.svg)
   static const IconData gauge = IconData(
     0xe628,
@@ -5519,6 +8271,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gavel` icon in Fill style.
+  ///
+  /// [PT] O ícone `gavel` no estilo Fill.
+  ///
   /// ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gavel.svg)
   static const IconData gavel = IconData(
     0xea32,
@@ -5527,6 +8283,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gear` icon in Fill style.
+  ///
+  /// [PT] O ícone `gear` no estilo Fill.
+  ///
   /// ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear.svg)
   static const IconData gear = IconData(
     0xe270,
@@ -5535,6 +8295,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gearFine` icon in Fill style.
+  ///
+  /// [PT] O ícone `gearFine` no estilo Fill.
+  ///
   /// ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear-fine.svg)
   static const IconData gearFine = IconData(
     0xe87c,
@@ -5543,6 +8307,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gearSix` icon in Fill style.
+  ///
+  /// [PT] O ícone `gearSix` no estilo Fill.
+  ///
   /// ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gear-six.svg)
   static const IconData gearSix = IconData(
     0xe272,
@@ -5551,6 +8319,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `genderFemale` icon in Fill style.
+  ///
+  /// [PT] O ícone `genderFemale` no estilo Fill.
+  ///
   /// ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-female.svg)
   static const IconData genderFemale = IconData(
     0xe6e0,
@@ -5559,6 +8331,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `genderIntersex` icon in Fill style.
+  ///
+  /// [PT] O ícone `genderIntersex` no estilo Fill.
+  ///
   /// ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-intersex.svg)
   static const IconData genderIntersex = IconData(
     0xe6e6,
@@ -5567,6 +8343,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `genderMale` icon in Fill style.
+  ///
+  /// [PT] O ícone `genderMale` no estilo Fill.
+  ///
   /// ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-male.svg)
   static const IconData genderMale = IconData(
     0xe6e2,
@@ -5575,6 +8355,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `genderNeuter` icon in Fill style.
+  ///
+  /// [PT] O ícone `genderNeuter` no estilo Fill.
+  ///
   /// ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-neuter.svg)
   static const IconData genderNeuter = IconData(
     0xe6ea,
@@ -5583,6 +8367,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `genderNonbinary` icon in Fill style.
+  ///
+  /// [PT] O ícone `genderNonbinary` no estilo Fill.
+  ///
   /// ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-nonbinary.svg)
   static const IconData genderNonbinary = IconData(
     0xe6e4,
@@ -5591,6 +8379,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `genderTransgender` icon in Fill style.
+  ///
+  /// [PT] O ícone `genderTransgender` no estilo Fill.
+  ///
   /// ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gender-transgender.svg)
   static const IconData genderTransgender = IconData(
     0xe6e8,
@@ -5599,6 +8391,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ghost` icon in Fill style.
+  ///
+  /// [PT] O ícone `ghost` no estilo Fill.
+  ///
   /// ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ghost.svg)
   static const IconData ghost = IconData(
     0xe62a,
@@ -5607,6 +8403,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gif` icon in Fill style.
+  ///
+  /// [PT] O ícone `gif` no estilo Fill.
+  ///
   /// ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gif.svg)
   static const IconData gif = IconData(
     0xe274,
@@ -5615,6 +8415,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gift` icon in Fill style.
+  ///
+  /// [PT] O ícone `gift` no estilo Fill.
+  ///
   /// ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gift.svg)
   static const IconData gift = IconData(
     0xe276,
@@ -5623,6 +8427,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitBranch` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitBranch` no estilo Fill.
+  ///
   /// ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-branch.svg)
   static const IconData gitBranch = IconData(
     0xe278,
@@ -5631,6 +8439,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitCommit` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitCommit` no estilo Fill.
+  ///
   /// ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-commit.svg)
   static const IconData gitCommit = IconData(
     0xe27a,
@@ -5639,6 +8451,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitDiff` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitDiff` no estilo Fill.
+  ///
   /// ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-diff.svg)
   static const IconData gitDiff = IconData(
     0xe27c,
@@ -5647,6 +8463,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitFork` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitFork` no estilo Fill.
+  ///
   /// ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-fork.svg)
   static const IconData gitFork = IconData(
     0xe27e,
@@ -5655,6 +8475,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitMerge` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitMerge` no estilo Fill.
+  ///
   /// ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-merge.svg)
   static const IconData gitMerge = IconData(
     0xe280,
@@ -5663,6 +8487,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitPullRequest` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitPullRequest` no estilo Fill.
+  ///
   /// ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/git-pull-request.svg)
   static const IconData gitPullRequest = IconData(
     0xe282,
@@ -5671,6 +8499,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `githubLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `githubLogo` no estilo Fill.
+  ///
   /// ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/github-logo.svg)
   static const IconData githubLogo = IconData(
     0xe576,
@@ -5679,6 +8511,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitlabLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitlabLogo` no estilo Fill.
+  ///
   /// ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gitlab-logo.svg)
   static const IconData gitlabLogo = IconData(
     0xe694,
@@ -5687,6 +8523,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gitlabLogoSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `gitlabLogoSimple` no estilo Fill.
+  ///
   /// ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gitlab-logo-simple.svg)
   static const IconData gitlabLogoSimple = IconData(
     0xe696,
@@ -5695,6 +8535,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `globe` icon in Fill style.
+  ///
+  /// [PT] O ícone `globe` no estilo Fill.
+  ///
   /// ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe.svg)
   static const IconData globe = IconData(
     0xe288,
@@ -5703,6 +8547,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `globeHemisphereEast` icon in Fill style.
+  ///
+  /// [PT] O ícone `globeHemisphereEast` no estilo Fill.
+  ///
   /// ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-hemisphere-east.svg)
   static const IconData globeHemisphereEast = IconData(
     0xe28a,
@@ -5711,6 +8559,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `globeHemisphereWest` icon in Fill style.
+  ///
+  /// [PT] O ícone `globeHemisphereWest` no estilo Fill.
+  ///
   /// ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-hemisphere-west.svg)
   static const IconData globeHemisphereWest = IconData(
     0xe28c,
@@ -5719,6 +8571,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `globeSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `globeSimple` no estilo Fill.
+  ///
   /// ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-simple.svg)
   static const IconData globeSimple = IconData(
     0xe28e,
@@ -5727,6 +8583,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `globeSimpleX` icon in Fill style.
+  ///
+  /// [PT] O ícone `globeSimpleX` no estilo Fill.
+  ///
   /// ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-simple-x.svg)
   static const IconData globeSimpleX = IconData(
     0xe284,
@@ -5735,6 +8595,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `globeStand` icon in Fill style.
+  ///
+  /// [PT] O ícone `globeStand` no estilo Fill.
+  ///
   /// ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-stand.svg)
   static const IconData globeStand = IconData(
     0xe290,
@@ -5743,6 +8607,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `globeX` icon in Fill style.
+  ///
+  /// [PT] O ícone `globeX` no estilo Fill.
+  ///
   /// ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/globe-x.svg)
   static const IconData globeX = IconData(
     0xe286,
@@ -5751,6 +8619,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `goggles` icon in Fill style.
+  ///
+  /// [PT] O ícone `goggles` no estilo Fill.
+  ///
   /// ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/goggles.svg)
   static const IconData goggles = IconData(
     0xecb4,
@@ -5759,6 +8631,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `golf` icon in Fill style.
+  ///
+  /// [PT] O ícone `golf` no estilo Fill.
+  ///
   /// ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/golf.svg)
   static const IconData golf = IconData(
     0xea3e,
@@ -5767,6 +8643,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `goodreadsLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `goodreadsLogo` no estilo Fill.
+  ///
   /// ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/goodreads-logo.svg)
   static const IconData goodreadsLogo = IconData(
     0xed10,
@@ -5775,6 +8655,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `googleCardboardLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `googleCardboardLogo` no estilo Fill.
+  ///
   /// ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-cardboard-logo.svg)
   static const IconData googleCardboardLogo = IconData(
     0xe7b6,
@@ -5783,6 +8667,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `googleChromeLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `googleChromeLogo` no estilo Fill.
+  ///
   /// ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-chrome-logo.svg)
   static const IconData googleChromeLogo = IconData(
     0xe976,
@@ -5791,6 +8679,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `googleDriveLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `googleDriveLogo` no estilo Fill.
+  ///
   /// ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-drive-logo.svg)
   static const IconData googleDriveLogo = IconData(
     0xe8f6,
@@ -5799,6 +8691,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `googleLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `googleLogo` no estilo Fill.
+  ///
   /// ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-logo.svg)
   static const IconData googleLogo = IconData(
     0xe292,
@@ -5807,6 +8703,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `googlePhotosLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `googlePhotosLogo` no estilo Fill.
+  ///
   /// ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-photos-logo.svg)
   static const IconData googlePhotosLogo = IconData(
     0xeb92,
@@ -5815,6 +8715,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `googlePlayLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `googlePlayLogo` no estilo Fill.
+  ///
   /// ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-play-logo.svg)
   static const IconData googlePlayLogo = IconData(
     0xe294,
@@ -5823,6 +8727,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `googlePodcastsLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `googlePodcastsLogo` no estilo Fill.
+  ///
   /// ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/google-podcasts-logo.svg)
   static const IconData googlePodcastsLogo = IconData(
     0xeb94,
@@ -5831,6 +8739,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gps` icon in Fill style.
+  ///
+  /// [PT] O ícone `gps` no estilo Fill.
+  ///
   /// ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps.svg)
   static const IconData gps = IconData(
     0xedd8,
@@ -5839,6 +8751,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gpsFix` icon in Fill style.
+  ///
+  /// [PT] O ícone `gpsFix` no estilo Fill.
+  ///
   /// ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps-fix.svg)
   static const IconData gpsFix = IconData(
     0xedd6,
@@ -5847,6 +8763,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gpsSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `gpsSlash` no estilo Fill.
+  ///
   /// ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gps-slash.svg)
   static const IconData gpsSlash = IconData(
     0xedd4,
@@ -5855,6 +8775,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gradient` icon in Fill style.
+  ///
+  /// [PT] O ícone `gradient` no estilo Fill.
+  ///
   /// ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/gradient.svg)
   static const IconData gradient = IconData(
     0xeb42,
@@ -5863,6 +8787,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `graduationCap` icon in Fill style.
+  ///
+  /// [PT] O ícone `graduationCap` no estilo Fill.
+  ///
   /// ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graduation-cap.svg)
   static const IconData graduationCap = IconData(
     0xe62c,
@@ -5871,6 +8799,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `grains` icon in Fill style.
+  ///
+  /// [PT] O ícone `grains` no estilo Fill.
+  ///
   /// ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grains.svg)
   static const IconData grains = IconData(
     0xec68,
@@ -5879,6 +8811,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `grainsSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `grainsSlash` no estilo Fill.
+  ///
   /// ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grains-slash.svg)
   static const IconData grainsSlash = IconData(
     0xec6a,
@@ -5887,6 +8823,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `graph` icon in Fill style.
+  ///
+  /// [PT] O ícone `graph` no estilo Fill.
+  ///
   /// ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graph.svg)
   static const IconData graph = IconData(
     0xeb58,
@@ -5895,6 +8835,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `graphicsCard` icon in Fill style.
+  ///
+  /// [PT] O ícone `graphicsCard` no estilo Fill.
+  ///
   /// ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/graphics-card.svg)
   static const IconData graphicsCard = IconData(
     0xe612,
@@ -5903,6 +8847,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `greaterThan` icon in Fill style.
+  ///
+  /// [PT] O ícone `greaterThan` no estilo Fill.
+  ///
   /// ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/greater-than.svg)
   static const IconData greaterThan = IconData(
     0xedc4,
@@ -5911,6 +8859,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `greaterThanOrEqual` icon in Fill style.
+  ///
+  /// [PT] O ícone `greaterThanOrEqual` no estilo Fill.
+  ///
   /// ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/greater-than-or-equal.svg)
   static const IconData greaterThanOrEqual = IconData(
     0xeda2,
@@ -5919,6 +8871,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gridFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `gridFour` no estilo Fill.
+  ///
   /// ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grid-four.svg)
   static const IconData gridFour = IconData(
     0xe296,
@@ -5927,6 +8883,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `gridNine` icon in Fill style.
+  ///
+  /// [PT] O ícone `gridNine` no estilo Fill.
+  ///
   /// ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/grid-nine.svg)
   static const IconData gridNine = IconData(
     0xec8c,
@@ -5935,6 +8895,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `guitar` icon in Fill style.
+  ///
+  /// [PT] O ícone `guitar` no estilo Fill.
+  ///
   /// ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/guitar.svg)
   static const IconData guitar = IconData(
     0xea8a,
@@ -5943,6 +8907,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hairDryer` icon in Fill style.
+  ///
+  /// [PT] O ícone `hairDryer` no estilo Fill.
+  ///
   /// ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hair-dryer.svg)
   static const IconData hairDryer = IconData(
     0xea66,
@@ -5951,6 +8919,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hamburger` icon in Fill style.
+  ///
+  /// [PT] O ícone `hamburger` no estilo Fill.
+  ///
   /// ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hamburger.svg)
   static const IconData hamburger = IconData(
     0xe790,
@@ -5959,6 +8931,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hammer` icon in Fill style.
+  ///
+  /// [PT] O ícone `hammer` no estilo Fill.
+  ///
   /// ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hammer.svg)
   static const IconData hammer = IconData(
     0xe80e,
@@ -5967,6 +8943,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hand` icon in Fill style.
+  ///
+  /// [PT] O ícone `hand` no estilo Fill.
+  ///
   /// ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand.svg)
   static const IconData hand = IconData(
     0xe298,
@@ -5975,6 +8955,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handArrowDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `handArrowDown` no estilo Fill.
+  ///
   /// ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-arrow-down.svg)
   static const IconData handArrowDown = IconData(
     0xea4e,
@@ -5983,6 +8967,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handArrowUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `handArrowUp` no estilo Fill.
+  ///
   /// ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-arrow-up.svg)
   static const IconData handArrowUp = IconData(
     0xee5a,
@@ -5991,6 +8979,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handCoins` icon in Fill style.
+  ///
+  /// [PT] O ícone `handCoins` no estilo Fill.
+  ///
   /// ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-coins.svg)
   static const IconData handCoins = IconData(
     0xea8c,
@@ -5999,6 +8991,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handDeposit` icon in Fill style.
+  ///
+  /// [PT] O ícone `handDeposit` no estilo Fill.
+  ///
   /// ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-deposit.svg)
   static const IconData handDeposit = IconData(
     0xee82,
@@ -6007,6 +9003,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handEye` icon in Fill style.
+  ///
+  /// [PT] O ícone `handEye` no estilo Fill.
+  ///
   /// ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-eye.svg)
   static const IconData handEye = IconData(
     0xea4c,
@@ -6015,6 +9015,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handFist` icon in Fill style.
+  ///
+  /// [PT] O ícone `handFist` no estilo Fill.
+  ///
   /// ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-fist.svg)
   static const IconData handFist = IconData(
     0xe57a,
@@ -6023,6 +9027,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handGrabbing` icon in Fill style.
+  ///
+  /// [PT] O ícone `handGrabbing` no estilo Fill.
+  ///
   /// ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-grabbing.svg)
   static const IconData handGrabbing = IconData(
     0xe57c,
@@ -6031,6 +9039,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handHeart` icon in Fill style.
+  ///
+  /// [PT] O ícone `handHeart` no estilo Fill.
+  ///
   /// ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-heart.svg)
   static const IconData handHeart = IconData(
     0xe810,
@@ -6039,6 +9051,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handPalm` icon in Fill style.
+  ///
+  /// [PT] O ícone `handPalm` no estilo Fill.
+  ///
   /// ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-palm.svg)
   static const IconData handPalm = IconData(
     0xe57e,
@@ -6047,6 +9063,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handPeace` icon in Fill style.
+  ///
+  /// [PT] O ícone `handPeace` no estilo Fill.
+  ///
   /// ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-peace.svg)
   static const IconData handPeace = IconData(
     0xe7cc,
@@ -6055,6 +9075,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handPointing` icon in Fill style.
+  ///
+  /// [PT] O ícone `handPointing` no estilo Fill.
+  ///
   /// ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-pointing.svg)
   static const IconData handPointing = IconData(
     0xe29a,
@@ -6063,6 +9087,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handSoap` icon in Fill style.
+  ///
+  /// [PT] O ícone `handSoap` no estilo Fill.
+  ///
   /// ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-soap.svg)
   static const IconData handSoap = IconData(
     0xe630,
@@ -6071,6 +9099,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handSwipeLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `handSwipeLeft` no estilo Fill.
+  ///
   /// ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-swipe-left.svg)
   static const IconData handSwipeLeft = IconData(
     0xec94,
@@ -6079,6 +9111,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handSwipeRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `handSwipeRight` no estilo Fill.
+  ///
   /// ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-swipe-right.svg)
   static const IconData handSwipeRight = IconData(
     0xec92,
@@ -6087,6 +9123,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handTap` icon in Fill style.
+  ///
+  /// [PT] O ícone `handTap` no estilo Fill.
+  ///
   /// ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-tap.svg)
   static const IconData handTap = IconData(
     0xec90,
@@ -6095,6 +9135,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handWaving` icon in Fill style.
+  ///
+  /// [PT] O ícone `handWaving` no estilo Fill.
+  ///
   /// ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-waving.svg)
   static const IconData handWaving = IconData(
     0xe580,
@@ -6103,6 +9147,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handWithdraw` icon in Fill style.
+  ///
+  /// [PT] O ícone `handWithdraw` no estilo Fill.
+  ///
   /// ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hand-withdraw.svg)
   static const IconData handWithdraw = IconData(
     0xee80,
@@ -6111,6 +9159,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handbag` icon in Fill style.
+  ///
+  /// [PT] O ícone `handbag` no estilo Fill.
+  ///
   /// ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handbag.svg)
   static const IconData handbag = IconData(
     0xe29c,
@@ -6119,6 +9171,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handbagSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `handbagSimple` no estilo Fill.
+  ///
   /// ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handbag-simple.svg)
   static const IconData handbagSimple = IconData(
     0xe62e,
@@ -6127,6 +9183,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handsClapping` icon in Fill style.
+  ///
+  /// [PT] O ícone `handsClapping` no estilo Fill.
+  ///
   /// ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hands-clapping.svg)
   static const IconData handsClapping = IconData(
     0xe6a0,
@@ -6135,6 +9195,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handsPraying` icon in Fill style.
+  ///
+  /// [PT] O ícone `handsPraying` no estilo Fill.
+  ///
   /// ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hands-praying.svg)
   static const IconData handsPraying = IconData(
     0xecc8,
@@ -6143,6 +9207,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `handshake` icon in Fill style.
+  ///
+  /// [PT] O ícone `handshake` no estilo Fill.
+  ///
   /// ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/handshake.svg)
   static const IconData handshake = IconData(
     0xe582,
@@ -6151,6 +9219,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hardDrive` icon in Fill style.
+  ///
+  /// [PT] O ícone `hardDrive` no estilo Fill.
+  ///
   /// ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-drive.svg)
   static const IconData hardDrive = IconData(
     0xe29e,
@@ -6159,6 +9231,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hardDrives` icon in Fill style.
+  ///
+  /// [PT] O ícone `hardDrives` no estilo Fill.
+  ///
   /// ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-drives.svg)
   static const IconData hardDrives = IconData(
     0xe2a0,
@@ -6167,6 +9243,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hardHat` icon in Fill style.
+  ///
+  /// [PT] O ícone `hardHat` no estilo Fill.
+  ///
   /// ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hard-hat.svg)
   static const IconData hardHat = IconData(
     0xed46,
@@ -6175,6 +9255,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hash` icon in Fill style.
+  ///
+  /// [PT] O ícone `hash` no estilo Fill.
+  ///
   /// ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hash.svg)
   static const IconData hash = IconData(
     0xe2a2,
@@ -6183,6 +9267,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hashStraight` icon in Fill style.
+  ///
+  /// [PT] O ícone `hashStraight` no estilo Fill.
+  ///
   /// ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hash-straight.svg)
   static const IconData hashStraight = IconData(
     0xe2a4,
@@ -6191,6 +9279,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `headCircuit` icon in Fill style.
+  ///
+  /// [PT] O ícone `headCircuit` no estilo Fill.
+  ///
   /// ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/head-circuit.svg)
   static const IconData headCircuit = IconData(
     0xe7d4,
@@ -6199,6 +9291,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `headlights` icon in Fill style.
+  ///
+  /// [PT] O ícone `headlights` no estilo Fill.
+  ///
   /// ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headlights.svg)
   static const IconData headlights = IconData(
     0xe6fe,
@@ -6207,6 +9303,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `headphones` icon in Fill style.
+  ///
+  /// [PT] O ícone `headphones` no estilo Fill.
+  ///
   /// ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headphones.svg)
   static const IconData headphones = IconData(
     0xe2a6,
@@ -6215,6 +9315,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `headset` icon in Fill style.
+  ///
+  /// [PT] O ícone `headset` no estilo Fill.
+  ///
   /// ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/headset.svg)
   static const IconData headset = IconData(
     0xe584,
@@ -6223,6 +9327,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `heart` icon in Fill style.
+  ///
+  /// [PT] O ícone `heart` no estilo Fill.
+  ///
   /// ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart.svg)
   static const IconData heart = IconData(
     0xe2a8,
@@ -6231,6 +9339,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `heartBreak` icon in Fill style.
+  ///
+  /// [PT] O ícone `heartBreak` no estilo Fill.
+  ///
   /// ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-break.svg)
   static const IconData heartBreak = IconData(
     0xebe8,
@@ -6239,6 +9351,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `heartHalf` icon in Fill style.
+  ///
+  /// [PT] O ícone `heartHalf` no estilo Fill.
+  ///
   /// ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-half.svg)
   static const IconData heartHalf = IconData(
     0xec48,
@@ -6247,6 +9363,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `heartStraight` icon in Fill style.
+  ///
+  /// [PT] O ícone `heartStraight` no estilo Fill.
+  ///
   /// ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-straight.svg)
   static const IconData heartStraight = IconData(
     0xe2aa,
@@ -6255,6 +9375,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `heartStraightBreak` icon in Fill style.
+  ///
+  /// [PT] O ícone `heartStraightBreak` no estilo Fill.
+  ///
   /// ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heart-straight-break.svg)
   static const IconData heartStraightBreak = IconData(
     0xeb98,
@@ -6263,6 +9387,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `heartbeat` icon in Fill style.
+  ///
+  /// [PT] O ícone `heartbeat` no estilo Fill.
+  ///
   /// ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/heartbeat.svg)
   static const IconData heartbeat = IconData(
     0xe2ac,
@@ -6271,6 +9399,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hexagon` icon in Fill style.
+  ///
+  /// [PT] O ícone `hexagon` no estilo Fill.
+  ///
   /// ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hexagon.svg)
   static const IconData hexagon = IconData(
     0xe2ae,
@@ -6279,6 +9411,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `highDefinition` icon in Fill style.
+  ///
+  /// [PT] O ícone `highDefinition` no estilo Fill.
+  ///
   /// ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/high-definition.svg)
   static const IconData highDefinition = IconData(
     0xea8e,
@@ -6287,6 +9423,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `highHeel` icon in Fill style.
+  ///
+  /// [PT] O ícone `highHeel` no estilo Fill.
+  ///
   /// ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/high-heel.svg)
   static const IconData highHeel = IconData(
     0xe8e8,
@@ -6295,6 +9435,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `highlighter` icon in Fill style.
+  ///
+  /// [PT] O ícone `highlighter` no estilo Fill.
+  ///
   /// ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/highlighter.svg)
   static const IconData highlighter = IconData(
     0xec76,
@@ -6303,6 +9447,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `highlighterCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `highlighterCircle` no estilo Fill.
+  ///
   /// ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/highlighter-circle.svg)
   static const IconData highlighterCircle = IconData(
     0xe632,
@@ -6311,6 +9459,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hockey` icon in Fill style.
+  ///
+  /// [PT] O ícone `hockey` no estilo Fill.
+  ///
   /// ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hockey.svg)
   static const IconData hockey = IconData(
     0xec86,
@@ -6319,6 +9471,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hoodie` icon in Fill style.
+  ///
+  /// [PT] O ícone `hoodie` no estilo Fill.
+  ///
   /// ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hoodie.svg)
   static const IconData hoodie = IconData(
     0xecd0,
@@ -6327,6 +9483,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `horse` icon in Fill style.
+  ///
+  /// [PT] O ícone `horse` no estilo Fill.
+  ///
   /// ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/horse.svg)
   static const IconData horse = IconData(
     0xe2b0,
@@ -6335,6 +9495,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hospital` icon in Fill style.
+  ///
+  /// [PT] O ícone `hospital` no estilo Fill.
+  ///
   /// ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hospital.svg)
   static const IconData hospital = IconData(
     0xe844,
@@ -6343,6 +9507,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglass` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglass` no estilo Fill.
+  ///
   /// ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass.svg)
   static const IconData hourglass = IconData(
     0xe2b2,
@@ -6351,6 +9519,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglassHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglassHigh` no estilo Fill.
+  ///
   /// ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-high.svg)
   static const IconData hourglassHigh = IconData(
     0xe2b4,
@@ -6359,6 +9531,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglassLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglassLow` no estilo Fill.
+  ///
   /// ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-low.svg)
   static const IconData hourglassLow = IconData(
     0xe2b6,
@@ -6367,6 +9543,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglassMedium` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglassMedium` no estilo Fill.
+  ///
   /// ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-medium.svg)
   static const IconData hourglassMedium = IconData(
     0xe2b8,
@@ -6375,6 +9555,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglassSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglassSimple` no estilo Fill.
+  ///
   /// ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple.svg)
   static const IconData hourglassSimple = IconData(
     0xe2ba,
@@ -6383,6 +9567,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglassSimpleHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglassSimpleHigh` no estilo Fill.
+  ///
   /// ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-high.svg)
   static const IconData hourglassSimpleHigh = IconData(
     0xe2bc,
@@ -6391,6 +9579,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglassSimpleLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglassSimpleLow` no estilo Fill.
+  ///
   /// ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-low.svg)
   static const IconData hourglassSimpleLow = IconData(
     0xe2be,
@@ -6399,6 +9591,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hourglassSimpleMedium` icon in Fill style.
+  ///
+  /// [PT] O ícone `hourglassSimpleMedium` no estilo Fill.
+  ///
   /// ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hourglass-simple-medium.svg)
   static const IconData hourglassSimpleMedium = IconData(
     0xe2c0,
@@ -6407,6 +9603,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `house` icon in Fill style.
+  ///
+  /// [PT] O ícone `house` no estilo Fill.
+  ///
   /// ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house.svg)
   static const IconData house = IconData(
     0xe2c2,
@@ -6415,6 +9615,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `houseLine` icon in Fill style.
+  ///
+  /// [PT] O ícone `houseLine` no estilo Fill.
+  ///
   /// ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house-line.svg)
   static const IconData houseLine = IconData(
     0xe2c4,
@@ -6423,6 +9627,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `houseSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `houseSimple` no estilo Fill.
+  ///
   /// ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/house-simple.svg)
   static const IconData houseSimple = IconData(
     0xe2c6,
@@ -6431,6 +9639,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `hurricane` icon in Fill style.
+  ///
+  /// [PT] O ícone `hurricane` no estilo Fill.
+  ///
   /// ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/hurricane.svg)
   static const IconData hurricane = IconData(
     0xe88e,
@@ -6439,6 +9651,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `iceCream` icon in Fill style.
+  ///
+  /// [PT] O ícone `iceCream` no estilo Fill.
+  ///
   /// ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ice-cream.svg)
   static const IconData iceCream = IconData(
     0xe804,
@@ -6447,6 +9663,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `identificationBadge` icon in Fill style.
+  ///
+  /// [PT] O ícone `identificationBadge` no estilo Fill.
+  ///
   /// ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/identification-badge.svg)
   static const IconData identificationBadge = IconData(
     0xe6f6,
@@ -6455,6 +9675,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `identificationCard` icon in Fill style.
+  ///
+  /// [PT] O ícone `identificationCard` no estilo Fill.
+  ///
   /// ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/identification-card.svg)
   static const IconData identificationCard = IconData(
     0xe2c8,
@@ -6463,6 +9687,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `image` icon in Fill style.
+  ///
+  /// [PT] O ícone `image` no estilo Fill.
+  ///
   /// ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image.svg)
   static const IconData image = IconData(
     0xe2ca,
@@ -6471,6 +9699,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `imageBroken` icon in Fill style.
+  ///
+  /// [PT] O ícone `imageBroken` no estilo Fill.
+  ///
   /// ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image-broken.svg)
   static const IconData imageBroken = IconData(
     0xe7a8,
@@ -6479,6 +9711,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `imageSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `imageSquare` no estilo Fill.
+  ///
   /// ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/image-square.svg)
   static const IconData imageSquare = IconData(
     0xe2cc,
@@ -6487,6 +9723,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `images` icon in Fill style.
+  ///
+  /// [PT] O ícone `images` no estilo Fill.
+  ///
   /// ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/images.svg)
   static const IconData images = IconData(
     0xe836,
@@ -6495,6 +9735,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `imagesSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `imagesSquare` no estilo Fill.
+  ///
   /// ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/images-square.svg)
   static const IconData imagesSquare = IconData(
     0xe834,
@@ -6503,6 +9747,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `infinity` icon in Fill style.
+  ///
+  /// [PT] O ícone `infinity` no estilo Fill.
+  ///
   /// ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/infinity.svg)
   static const IconData infinity = IconData(
     0xe634,
@@ -6511,6 +9759,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `info` icon in Fill style.
+  ///
+  /// [PT] O ícone `info` no estilo Fill.
+  ///
   /// ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/info.svg)
   static const IconData info = IconData(
     0xe2ce,
@@ -6519,6 +9771,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `instagramLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `instagramLogo` no estilo Fill.
+  ///
   /// ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/instagram-logo.svg)
   static const IconData instagramLogo = IconData(
     0xe2d0,
@@ -6527,6 +9783,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `intersect` icon in Fill style.
+  ///
+  /// [PT] O ícone `intersect` no estilo Fill.
+  ///
   /// ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect.svg)
   static const IconData intersect = IconData(
     0xe2d2,
@@ -6535,6 +9795,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `intersectSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `intersectSquare` no estilo Fill.
+  ///
   /// ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect-square.svg)
   static const IconData intersectSquare = IconData(
     0xe87a,
@@ -6543,6 +9807,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `intersectThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `intersectThree` no estilo Fill.
+  ///
   /// ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersect-three.svg)
   static const IconData intersectThree = IconData(
     0xecc4,
@@ -6551,6 +9819,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `intersection` icon in Fill style.
+  ///
+  /// [PT] O ícone `intersection` no estilo Fill.
+  ///
   /// ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/intersection.svg)
   static const IconData intersection = IconData(
     0xedba,
@@ -6559,6 +9831,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `invoice` icon in Fill style.
+  ///
+  /// [PT] O ícone `invoice` no estilo Fill.
+  ///
   /// ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/invoice.svg)
   static const IconData invoice = IconData(
     0xee42,
@@ -6567,6 +9843,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `island` icon in Fill style.
+  ///
+  /// [PT] O ícone `island` no estilo Fill.
+  ///
   /// ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/island.svg)
   static const IconData island = IconData(
     0xee06,
@@ -6575,6 +9855,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `jar` icon in Fill style.
+  ///
+  /// [PT] O ícone `jar` no estilo Fill.
+  ///
   /// ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jar.svg)
   static const IconData jar = IconData(
     0xe7e0,
@@ -6583,6 +9867,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `jarLabel` icon in Fill style.
+  ///
+  /// [PT] O ícone `jarLabel` no estilo Fill.
+  ///
   /// ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jar-label.svg)
   static const IconData jarLabel = IconData(
     0xe7e1,
@@ -6591,6 +9879,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `jeep` icon in Fill style.
+  ///
+  /// [PT] O ícone `jeep` no estilo Fill.
+  ///
   /// ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/jeep.svg)
   static const IconData jeep = IconData(
     0xe2d4,
@@ -6599,6 +9891,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `joystick` icon in Fill style.
+  ///
+  /// [PT] O ícone `joystick` no estilo Fill.
+  ///
   /// ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/joystick.svg)
   static const IconData joystick = IconData(
     0xea5e,
@@ -6607,6 +9903,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `kanban` icon in Fill style.
+  ///
+  /// [PT] O ícone `kanban` no estilo Fill.
+  ///
   /// ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/kanban.svg)
   static const IconData kanban = IconData(
     0xeb54,
@@ -6615,6 +9915,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `key` icon in Fill style.
+  ///
+  /// [PT] O ícone `key` no estilo Fill.
+  ///
   /// ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/key.svg)
   static const IconData key = IconData(
     0xe2d6,
@@ -6623,6 +9927,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `keyReturn` icon in Fill style.
+  ///
+  /// [PT] O ícone `keyReturn` no estilo Fill.
+  ///
   /// ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/key-return.svg)
   static const IconData keyReturn = IconData(
     0xe782,
@@ -6631,6 +9939,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `keyboard` icon in Fill style.
+  ///
+  /// [PT] O ícone `keyboard` no estilo Fill.
+  ///
   /// ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/keyboard.svg)
   static const IconData keyboard = IconData(
     0xe2d8,
@@ -6639,6 +9951,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `keyhole` icon in Fill style.
+  ///
+  /// [PT] O ícone `keyhole` no estilo Fill.
+  ///
   /// ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/keyhole.svg)
   static const IconData keyhole = IconData(
     0xea78,
@@ -6647,6 +9963,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `knife` icon in Fill style.
+  ///
+  /// [PT] O ícone `knife` no estilo Fill.
+  ///
   /// ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/knife.svg)
   static const IconData knife = IconData(
     0xe636,
@@ -6655,6 +9975,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ladder` icon in Fill style.
+  ///
+  /// [PT] O ícone `ladder` no estilo Fill.
+  ///
   /// ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ladder.svg)
   static const IconData ladder = IconData(
     0xe9e4,
@@ -6663,6 +9987,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ladderSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `ladderSimple` no estilo Fill.
+  ///
   /// ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ladder-simple.svg)
   static const IconData ladderSimple = IconData(
     0xec26,
@@ -6671,6 +9999,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lamp` icon in Fill style.
+  ///
+  /// [PT] O ícone `lamp` no estilo Fill.
+  ///
   /// ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lamp.svg)
   static const IconData lamp = IconData(
     0xe638,
@@ -6679,6 +10011,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lampPendant` icon in Fill style.
+  ///
+  /// [PT] O ícone `lampPendant` no estilo Fill.
+  ///
   /// ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lamp-pendant.svg)
   static const IconData lampPendant = IconData(
     0xee2e,
@@ -6687,6 +10023,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `laptop` icon in Fill style.
+  ///
+  /// [PT] O ícone `laptop` no estilo Fill.
+  ///
   /// ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/laptop.svg)
   static const IconData laptop = IconData(
     0xe586,
@@ -6695,6 +10035,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lasso` icon in Fill style.
+  ///
+  /// [PT] O ícone `lasso` no estilo Fill.
+  ///
   /// ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lasso.svg)
   static const IconData lasso = IconData(
     0xedc6,
@@ -6703,6 +10047,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lastfmLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `lastfmLogo` no estilo Fill.
+  ///
   /// ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lastfm-logo.svg)
   static const IconData lastfmLogo = IconData(
     0xe842,
@@ -6711,6 +10059,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `layout` icon in Fill style.
+  ///
+  /// [PT] O ícone `layout` no estilo Fill.
+  ///
   /// ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/layout.svg)
   static const IconData layout = IconData(
     0xe6d6,
@@ -6719,6 +10071,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `leaf` icon in Fill style.
+  ///
+  /// [PT] O ícone `leaf` no estilo Fill.
+  ///
   /// ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/leaf.svg)
   static const IconData leaf = IconData(
     0xe2da,
@@ -6727,6 +10083,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lectern` icon in Fill style.
+  ///
+  /// [PT] O ícone `lectern` no estilo Fill.
+  ///
   /// ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lectern.svg)
   static const IconData lectern = IconData(
     0xe95a,
@@ -6735,6 +10095,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lego` icon in Fill style.
+  ///
+  /// [PT] O ícone `lego` no estilo Fill.
+  ///
   /// ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lego.svg)
   static const IconData lego = IconData(
     0xe8c6,
@@ -6743,6 +10107,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `legoSmiley` icon in Fill style.
+  ///
+  /// [PT] O ícone `legoSmiley` no estilo Fill.
+  ///
   /// ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lego-smiley.svg)
   static const IconData legoSmiley = IconData(
     0xe8c7,
@@ -6751,6 +10119,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lemniscate` icon in Fill style.
+  ///
+  /// [PT] O ícone `lemniscate` no estilo Fill.
+  ///
   /// ![lemniscate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lemniscate.svg)
   static const IconData lemniscate = IconData(
     0xe634,
@@ -6759,6 +10131,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lessThan` icon in Fill style.
+  ///
+  /// [PT] O ícone `lessThan` no estilo Fill.
+  ///
   /// ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/less-than.svg)
   static const IconData lessThan = IconData(
     0xedac,
@@ -6767,6 +10143,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lessThanOrEqual` icon in Fill style.
+  ///
+  /// [PT] O ícone `lessThanOrEqual` no estilo Fill.
+  ///
   /// ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/less-than-or-equal.svg)
   static const IconData lessThanOrEqual = IconData(
     0xeda4,
@@ -6775,6 +10155,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `letterCircleH` icon in Fill style.
+  ///
+  /// [PT] O ícone `letterCircleH` no estilo Fill.
+  ///
   /// ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-h.svg)
   static const IconData letterCircleH = IconData(
     0xebf8,
@@ -6783,6 +10167,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `letterCircleP` icon in Fill style.
+  ///
+  /// [PT] O ícone `letterCircleP` no estilo Fill.
+  ///
   /// ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-p.svg)
   static const IconData letterCircleP = IconData(
     0xec08,
@@ -6791,6 +10179,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `letterCircleV` icon in Fill style.
+  ///
+  /// [PT] O ícone `letterCircleV` no estilo Fill.
+  ///
   /// ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/letter-circle-v.svg)
   static const IconData letterCircleV = IconData(
     0xec14,
@@ -6799,6 +10191,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lifebuoy` icon in Fill style.
+  ///
+  /// [PT] O ícone `lifebuoy` no estilo Fill.
+  ///
   /// ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lifebuoy.svg)
   static const IconData lifebuoy = IconData(
     0xe63a,
@@ -6807,6 +10203,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lightbulb` icon in Fill style.
+  ///
+  /// [PT] O ícone `lightbulb` no estilo Fill.
+  ///
   /// ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightbulb.svg)
   static const IconData lightbulb = IconData(
     0xe2dc,
@@ -6815,6 +10215,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lightbulbFilament` icon in Fill style.
+  ///
+  /// [PT] O ícone `lightbulbFilament` no estilo Fill.
+  ///
   /// ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightbulb-filament.svg)
   static const IconData lightbulbFilament = IconData(
     0xe63c,
@@ -6823,6 +10227,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lighthouse` icon in Fill style.
+  ///
+  /// [PT] O ícone `lighthouse` no estilo Fill.
+  ///
   /// ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lighthouse.svg)
   static const IconData lighthouse = IconData(
     0xe9f6,
@@ -6831,6 +10239,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lightning` icon in Fill style.
+  ///
+  /// [PT] O ícone `lightning` no estilo Fill.
+  ///
   /// ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning.svg)
   static const IconData lightning = IconData(
     0xe2de,
@@ -6839,6 +10251,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lightningA` icon in Fill style.
+  ///
+  /// [PT] O ícone `lightningA` no estilo Fill.
+  ///
   /// ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning-a.svg)
   static const IconData lightningA = IconData(
     0xea84,
@@ -6847,6 +10263,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lightningSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `lightningSlash` no estilo Fill.
+  ///
   /// ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lightning-slash.svg)
   static const IconData lightningSlash = IconData(
     0xe2e0,
@@ -6855,6 +10275,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lineSegment` icon in Fill style.
+  ///
+  /// [PT] O ícone `lineSegment` no estilo Fill.
+  ///
   /// ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-segment.svg)
   static const IconData lineSegment = IconData(
     0xe6d2,
@@ -6863,6 +10287,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lineSegments` icon in Fill style.
+  ///
+  /// [PT] O ícone `lineSegments` no estilo Fill.
+  ///
   /// ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-segments.svg)
   static const IconData lineSegments = IconData(
     0xe6d4,
@@ -6871,6 +10299,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lineVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `lineVertical` no estilo Fill.
+  ///
   /// ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/line-vertical.svg)
   static const IconData lineVertical = IconData(
     0xed70,
@@ -6879,6 +10311,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `link` icon in Fill style.
+  ///
+  /// [PT] O ícone `link` no estilo Fill.
+  ///
   /// ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link.svg)
   static const IconData link = IconData(
     0xe2e2,
@@ -6887,6 +10323,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linkBreak` icon in Fill style.
+  ///
+  /// [PT] O ícone `linkBreak` no estilo Fill.
+  ///
   /// ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-break.svg)
   static const IconData linkBreak = IconData(
     0xe2e4,
@@ -6895,6 +10335,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linkSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `linkSimple` no estilo Fill.
+  ///
   /// ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple.svg)
   static const IconData linkSimple = IconData(
     0xe2e6,
@@ -6903,6 +10347,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linkSimpleBreak` icon in Fill style.
+  ///
+  /// [PT] O ícone `linkSimpleBreak` no estilo Fill.
+  ///
   /// ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-break.svg)
   static const IconData linkSimpleBreak = IconData(
     0xe2e8,
@@ -6911,6 +10359,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linkSimpleHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `linkSimpleHorizontal` no estilo Fill.
+  ///
   /// ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-horizontal.svg)
   static const IconData linkSimpleHorizontal = IconData(
     0xe2ea,
@@ -6919,6 +10371,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linkSimpleHorizontalBreak` icon in Fill style.
+  ///
+  /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Fill.
+  ///
   /// ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/link-simple-horizontal-break.svg)
   static const IconData linkSimpleHorizontalBreak = IconData(
     0xe2ec,
@@ -6927,6 +10383,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linkedinLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `linkedinLogo` no estilo Fill.
+  ///
   /// ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linkedin-logo.svg)
   static const IconData linkedinLogo = IconData(
     0xe2ee,
@@ -6935,6 +10395,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linktreeLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `linktreeLogo` no estilo Fill.
+  ///
   /// ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linktree-logo.svg)
   static const IconData linktreeLogo = IconData(
     0xedee,
@@ -6943,6 +10407,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `linuxLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `linuxLogo` no estilo Fill.
+  ///
   /// ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/linux-logo.svg)
   static const IconData linuxLogo = IconData(
     0xeb02,
@@ -6951,6 +10419,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `list` icon in Fill style.
+  ///
+  /// [PT] O ícone `list` no estilo Fill.
+  ///
   /// ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list.svg)
   static const IconData list = IconData(
     0xe2f0,
@@ -6959,6 +10431,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listBullets` icon in Fill style.
+  ///
+  /// [PT] O ícone `listBullets` no estilo Fill.
+  ///
   /// ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-bullets.svg)
   static const IconData listBullets = IconData(
     0xe2f2,
@@ -6967,6 +10443,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listChecks` icon in Fill style.
+  ///
+  /// [PT] O ícone `listChecks` no estilo Fill.
+  ///
   /// ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-checks.svg)
   static const IconData listChecks = IconData(
     0xeadc,
@@ -6975,6 +10455,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listDashes` icon in Fill style.
+  ///
+  /// [PT] O ícone `listDashes` no estilo Fill.
+  ///
   /// ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-dashes.svg)
   static const IconData listDashes = IconData(
     0xe2f4,
@@ -6983,6 +10467,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listHeart` icon in Fill style.
+  ///
+  /// [PT] O ícone `listHeart` no estilo Fill.
+  ///
   /// ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-heart.svg)
   static const IconData listHeart = IconData(
     0xebde,
@@ -6991,6 +10479,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listMagnifyingGlass` icon in Fill style.
+  ///
+  /// [PT] O ícone `listMagnifyingGlass` no estilo Fill.
+  ///
   /// ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-magnifying-glass.svg)
   static const IconData listMagnifyingGlass = IconData(
     0xebe0,
@@ -6999,6 +10491,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listNumbers` icon in Fill style.
+  ///
+  /// [PT] O ícone `listNumbers` no estilo Fill.
+  ///
   /// ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-numbers.svg)
   static const IconData listNumbers = IconData(
     0xe2f6,
@@ -7007,6 +10503,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `listPlus` no estilo Fill.
+  ///
   /// ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-plus.svg)
   static const IconData listPlus = IconData(
     0xe2f8,
@@ -7015,6 +10515,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `listStar` icon in Fill style.
+  ///
+  /// [PT] O ícone `listStar` no estilo Fill.
+  ///
   /// ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/list-star.svg)
   static const IconData listStar = IconData(
     0xebdc,
@@ -7023,6 +10527,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lock` icon in Fill style.
+  ///
+  /// [PT] O ícone `lock` no estilo Fill.
+  ///
   /// ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock.svg)
   static const IconData lock = IconData(
     0xe2fa,
@@ -7031,6 +10539,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockKey` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockKey` no estilo Fill.
+  ///
   /// ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-key.svg)
   static const IconData lockKey = IconData(
     0xe2fe,
@@ -7039,6 +10551,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockKeyOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockKeyOpen` no estilo Fill.
+  ///
   /// ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-key-open.svg)
   static const IconData lockKeyOpen = IconData(
     0xe300,
@@ -7047,6 +10563,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockLaminated` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockLaminated` no estilo Fill.
+  ///
   /// ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-laminated.svg)
   static const IconData lockLaminated = IconData(
     0xe302,
@@ -7055,6 +10575,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockLaminatedOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockLaminatedOpen` no estilo Fill.
+  ///
   /// ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-laminated-open.svg)
   static const IconData lockLaminatedOpen = IconData(
     0xe304,
@@ -7063,6 +10587,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockOpen` no estilo Fill.
+  ///
   /// ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-open.svg)
   static const IconData lockOpen = IconData(
     0xe306,
@@ -7071,6 +10599,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockSimple` no estilo Fill.
+  ///
   /// ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-simple.svg)
   static const IconData lockSimple = IconData(
     0xe308,
@@ -7079,6 +10611,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockSimpleOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockSimpleOpen` no estilo Fill.
+  ///
   /// ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lock-simple-open.svg)
   static const IconData lockSimpleOpen = IconData(
     0xe30a,
@@ -7087,6 +10623,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `lockers` icon in Fill style.
+  ///
+  /// [PT] O ícone `lockers` no estilo Fill.
+  ///
   /// ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/lockers.svg)
   static const IconData lockers = IconData(
     0xecb8,
@@ -7095,6 +10635,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `log` icon in Fill style.
+  ///
+  /// [PT] O ícone `log` no estilo Fill.
+  ///
   /// ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/log.svg)
   static const IconData log = IconData(
     0xed82,
@@ -7103,6 +10647,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `magicWand` icon in Fill style.
+  ///
+  /// [PT] O ícone `magicWand` no estilo Fill.
+  ///
   /// ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magic-wand.svg)
   static const IconData magicWand = IconData(
     0xe6b6,
@@ -7111,6 +10659,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `magnet` icon in Fill style.
+  ///
+  /// [PT] O ícone `magnet` no estilo Fill.
+  ///
   /// ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnet.svg)
   static const IconData magnet = IconData(
     0xe680,
@@ -7119,6 +10671,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `magnetStraight` icon in Fill style.
+  ///
+  /// [PT] O ícone `magnetStraight` no estilo Fill.
+  ///
   /// ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnet-straight.svg)
   static const IconData magnetStraight = IconData(
     0xe682,
@@ -7127,6 +10683,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `magnifyingGlass` icon in Fill style.
+  ///
+  /// [PT] O ícone `magnifyingGlass` no estilo Fill.
+  ///
   /// ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass.svg)
   static const IconData magnifyingGlass = IconData(
     0xe30c,
@@ -7135,6 +10695,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `magnifyingGlassMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `magnifyingGlassMinus` no estilo Fill.
+  ///
   /// ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass-minus.svg)
   static const IconData magnifyingGlassMinus = IconData(
     0xe30e,
@@ -7143,6 +10707,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `magnifyingGlassPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `magnifyingGlassPlus` no estilo Fill.
+  ///
   /// ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/magnifying-glass-plus.svg)
   static const IconData magnifyingGlassPlus = IconData(
     0xe310,
@@ -7151,6 +10719,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mailbox` icon in Fill style.
+  ///
+  /// [PT] O ícone `mailbox` no estilo Fill.
+  ///
   /// ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mailbox.svg)
   static const IconData mailbox = IconData(
     0xec1e,
@@ -7159,6 +10731,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapPin` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapPin` no estilo Fill.
+  ///
   /// ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin.svg)
   static const IconData mapPin = IconData(
     0xe316,
@@ -7167,6 +10743,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapPinArea` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapPinArea` no estilo Fill.
+  ///
   /// ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-area.svg)
   static const IconData mapPinArea = IconData(
     0xee3a,
@@ -7175,6 +10755,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapPinLine` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapPinLine` no estilo Fill.
+  ///
   /// ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-line.svg)
   static const IconData mapPinLine = IconData(
     0xe318,
@@ -7183,6 +10767,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapPinPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapPinPlus` no estilo Fill.
+  ///
   /// ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-plus.svg)
   static const IconData mapPinPlus = IconData(
     0xe314,
@@ -7191,6 +10779,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapPinSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapPinSimple` no estilo Fill.
+  ///
   /// ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple.svg)
   static const IconData mapPinSimple = IconData(
     0xee3e,
@@ -7199,6 +10791,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapPinSimpleArea` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapPinSimpleArea` no estilo Fill.
+  ///
   /// ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple-area.svg)
   static const IconData mapPinSimpleArea = IconData(
     0xee3c,
@@ -7207,6 +10803,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapPinSimpleLine` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapPinSimpleLine` no estilo Fill.
+  ///
   /// ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-pin-simple-line.svg)
   static const IconData mapPinSimpleLine = IconData(
     0xee38,
@@ -7215,6 +10815,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mapTrifold` icon in Fill style.
+  ///
+  /// [PT] O ícone `mapTrifold` no estilo Fill.
+  ///
   /// ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/map-trifold.svg)
   static const IconData mapTrifold = IconData(
     0xe31a,
@@ -7223,6 +10827,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `markdownLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `markdownLogo` no estilo Fill.
+  ///
   /// ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/markdown-logo.svg)
   static const IconData markdownLogo = IconData(
     0xe508,
@@ -7231,6 +10839,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `markerCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `markerCircle` no estilo Fill.
+  ///
   /// ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/marker-circle.svg)
   static const IconData markerCircle = IconData(
     0xe640,
@@ -7239,6 +10851,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `martini` icon in Fill style.
+  ///
+  /// [PT] O ícone `martini` no estilo Fill.
+  ///
   /// ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/martini.svg)
   static const IconData martini = IconData(
     0xe31c,
@@ -7247,6 +10863,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `maskHappy` icon in Fill style.
+  ///
+  /// [PT] O ícone `maskHappy` no estilo Fill.
+  ///
   /// ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mask-happy.svg)
   static const IconData maskHappy = IconData(
     0xe9f4,
@@ -7255,6 +10875,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `maskSad` icon in Fill style.
+  ///
+  /// [PT] O ícone `maskSad` no estilo Fill.
+  ///
   /// ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mask-sad.svg)
   static const IconData maskSad = IconData(
     0xeb9e,
@@ -7263,6 +10887,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mastodonLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `mastodonLogo` no estilo Fill.
+  ///
   /// ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mastodon-logo.svg)
   static const IconData mastodonLogo = IconData(
     0xed68,
@@ -7271,6 +10899,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mathOperations` icon in Fill style.
+  ///
+  /// [PT] O ícone `mathOperations` no estilo Fill.
+  ///
   /// ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/math-operations.svg)
   static const IconData mathOperations = IconData(
     0xe31e,
@@ -7279,6 +10911,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `matrixLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `matrixLogo` no estilo Fill.
+  ///
   /// ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/matrix-logo.svg)
   static const IconData matrixLogo = IconData(
     0xed64,
@@ -7287,6 +10923,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `medal` icon in Fill style.
+  ///
+  /// [PT] O ícone `medal` no estilo Fill.
+  ///
   /// ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medal.svg)
   static const IconData medal = IconData(
     0xe320,
@@ -7295,6 +10935,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `medalMilitary` icon in Fill style.
+  ///
+  /// [PT] O ícone `medalMilitary` no estilo Fill.
+  ///
   /// ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medal-military.svg)
   static const IconData medalMilitary = IconData(
     0xecfc,
@@ -7303,6 +10947,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mediumLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `mediumLogo` no estilo Fill.
+  ///
   /// ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/medium-logo.svg)
   static const IconData mediumLogo = IconData(
     0xe322,
@@ -7311,6 +10959,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `megaphone` icon in Fill style.
+  ///
+  /// [PT] O ícone `megaphone` no estilo Fill.
+  ///
   /// ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/megaphone.svg)
   static const IconData megaphone = IconData(
     0xe324,
@@ -7319,6 +10971,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `megaphoneSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `megaphoneSimple` no estilo Fill.
+  ///
   /// ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/megaphone-simple.svg)
   static const IconData megaphoneSimple = IconData(
     0xe642,
@@ -7327,6 +10983,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `memberOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `memberOf` no estilo Fill.
+  ///
   /// ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/member-of.svg)
   static const IconData memberOf = IconData(
     0xedc2,
@@ -7335,6 +10995,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `memory` icon in Fill style.
+  ///
+  /// [PT] O ícone `memory` no estilo Fill.
+  ///
   /// ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/memory.svg)
   static const IconData memory = IconData(
     0xe9c4,
@@ -7343,6 +11007,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `messengerLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `messengerLogo` no estilo Fill.
+  ///
   /// ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/messenger-logo.svg)
   static const IconData messengerLogo = IconData(
     0xe6d8,
@@ -7351,6 +11019,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `metaLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `metaLogo` no estilo Fill.
+  ///
   /// ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/meta-logo.svg)
   static const IconData metaLogo = IconData(
     0xed02,
@@ -7359,6 +11031,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `meteor` icon in Fill style.
+  ///
+  /// [PT] O ícone `meteor` no estilo Fill.
+  ///
   /// ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/meteor.svg)
   static const IconData meteor = IconData(
     0xe9ba,
@@ -7367,6 +11043,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `metronome` icon in Fill style.
+  ///
+  /// [PT] O ícone `metronome` no estilo Fill.
+  ///
   /// ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/metronome.svg)
   static const IconData metronome = IconData(
     0xec8e,
@@ -7375,6 +11055,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microphone` icon in Fill style.
+  ///
+  /// [PT] O ícone `microphone` no estilo Fill.
+  ///
   /// ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone.svg)
   static const IconData microphone = IconData(
     0xe326,
@@ -7383,6 +11067,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microphoneSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `microphoneSlash` no estilo Fill.
+  ///
   /// ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone-slash.svg)
   static const IconData microphoneSlash = IconData(
     0xe328,
@@ -7391,6 +11079,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microphoneStage` icon in Fill style.
+  ///
+  /// [PT] O ícone `microphoneStage` no estilo Fill.
+  ///
   /// ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microphone-stage.svg)
   static const IconData microphoneStage = IconData(
     0xe75c,
@@ -7399,6 +11091,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microscope` icon in Fill style.
+  ///
+  /// [PT] O ícone `microscope` no estilo Fill.
+  ///
   /// ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microscope.svg)
   static const IconData microscope = IconData(
     0xec7a,
@@ -7407,6 +11103,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microsoftExcelLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `microsoftExcelLogo` no estilo Fill.
+  ///
   /// ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-excel-logo.svg)
   static const IconData microsoftExcelLogo = IconData(
     0xeb6c,
@@ -7415,6 +11115,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microsoftOutlookLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `microsoftOutlookLogo` no estilo Fill.
+  ///
   /// ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-outlook-logo.svg)
   static const IconData microsoftOutlookLogo = IconData(
     0xeb70,
@@ -7423,6 +11127,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microsoftPowerpointLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `microsoftPowerpointLogo` no estilo Fill.
+  ///
   /// ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-powerpoint-logo.svg)
   static const IconData microsoftPowerpointLogo = IconData(
     0xeace,
@@ -7431,6 +11139,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microsoftTeamsLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `microsoftTeamsLogo` no estilo Fill.
+  ///
   /// ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-teams-logo.svg)
   static const IconData microsoftTeamsLogo = IconData(
     0xeb66,
@@ -7439,6 +11151,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `microsoftWordLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `microsoftWordLogo` no estilo Fill.
+  ///
   /// ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/microsoft-word-logo.svg)
   static const IconData microsoftWordLogo = IconData(
     0xeb6a,
@@ -7447,6 +11163,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `minus` icon in Fill style.
+  ///
+  /// [PT] O ícone `minus` no estilo Fill.
+  ///
   /// ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus.svg)
   static const IconData minus = IconData(
     0xe32a,
@@ -7455,6 +11175,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `minusCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `minusCircle` no estilo Fill.
+  ///
   /// ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus-circle.svg)
   static const IconData minusCircle = IconData(
     0xe32c,
@@ -7463,6 +11187,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `minusSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `minusSquare` no estilo Fill.
+  ///
   /// ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/minus-square.svg)
   static const IconData minusSquare = IconData(
     0xed4c,
@@ -7471,6 +11199,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `money` icon in Fill style.
+  ///
+  /// [PT] O ícone `money` no estilo Fill.
+  ///
   /// ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/money.svg)
   static const IconData money = IconData(
     0xe588,
@@ -7479,6 +11211,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `moneyWavy` icon in Fill style.
+  ///
+  /// [PT] O ícone `moneyWavy` no estilo Fill.
+  ///
   /// ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/money-wavy.svg)
   static const IconData moneyWavy = IconData(
     0xee68,
@@ -7487,6 +11223,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `monitor` icon in Fill style.
+  ///
+  /// [PT] O ícone `monitor` no estilo Fill.
+  ///
   /// ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor.svg)
   static const IconData monitor = IconData(
     0xe32e,
@@ -7495,6 +11235,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `monitorArrowUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `monitorArrowUp` no estilo Fill.
+  ///
   /// ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor-arrow-up.svg)
   static const IconData monitorArrowUp = IconData(
     0xe58a,
@@ -7503,6 +11247,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `monitorPlay` icon in Fill style.
+  ///
+  /// [PT] O ícone `monitorPlay` no estilo Fill.
+  ///
   /// ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/monitor-play.svg)
   static const IconData monitorPlay = IconData(
     0xe58c,
@@ -7511,6 +11259,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `moon` icon in Fill style.
+  ///
+  /// [PT] O ícone `moon` no estilo Fill.
+  ///
   /// ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moon.svg)
   static const IconData moon = IconData(
     0xe330,
@@ -7519,6 +11271,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `moonStars` icon in Fill style.
+  ///
+  /// [PT] O ícone `moonStars` no estilo Fill.
+  ///
   /// ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moon-stars.svg)
   static const IconData moonStars = IconData(
     0xe58e,
@@ -7527,6 +11283,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `moped` icon in Fill style.
+  ///
+  /// [PT] O ícone `moped` no estilo Fill.
+  ///
   /// ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moped.svg)
   static const IconData moped = IconData(
     0xe824,
@@ -7535,6 +11295,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mopedFront` icon in Fill style.
+  ///
+  /// [PT] O ícone `mopedFront` no estilo Fill.
+  ///
   /// ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/moped-front.svg)
   static const IconData mopedFront = IconData(
     0xe822,
@@ -7543,6 +11307,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mosque` icon in Fill style.
+  ///
+  /// [PT] O ícone `mosque` no estilo Fill.
+  ///
   /// ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mosque.svg)
   static const IconData mosque = IconData(
     0xecee,
@@ -7551,6 +11319,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `motorcycle` icon in Fill style.
+  ///
+  /// [PT] O ícone `motorcycle` no estilo Fill.
+  ///
   /// ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/motorcycle.svg)
   static const IconData motorcycle = IconData(
     0xe80a,
@@ -7559,6 +11331,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mountains` icon in Fill style.
+  ///
+  /// [PT] O ícone `mountains` no estilo Fill.
+  ///
   /// ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mountains.svg)
   static const IconData mountains = IconData(
     0xe7ae,
@@ -7567,6 +11343,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mouse` icon in Fill style.
+  ///
+  /// [PT] O ícone `mouse` no estilo Fill.
+  ///
   /// ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse.svg)
   static const IconData mouse = IconData(
     0xe33a,
@@ -7575,6 +11355,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mouseLeftClick` icon in Fill style.
+  ///
+  /// [PT] O ícone `mouseLeftClick` no estilo Fill.
+  ///
   /// ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-left-click.svg)
   static const IconData mouseLeftClick = IconData(
     0xe334,
@@ -7583,6 +11367,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mouseMiddleClick` icon in Fill style.
+  ///
+  /// [PT] O ícone `mouseMiddleClick` no estilo Fill.
+  ///
   /// ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-middle-click.svg)
   static const IconData mouseMiddleClick = IconData(
     0xe338,
@@ -7591,6 +11379,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mouseRightClick` icon in Fill style.
+  ///
+  /// [PT] O ícone `mouseRightClick` no estilo Fill.
+  ///
   /// ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-right-click.svg)
   static const IconData mouseRightClick = IconData(
     0xe336,
@@ -7599,6 +11391,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mouseScroll` icon in Fill style.
+  ///
+  /// [PT] O ícone `mouseScroll` no estilo Fill.
+  ///
   /// ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-scroll.svg)
   static const IconData mouseScroll = IconData(
     0xe332,
@@ -7607,6 +11403,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `mouseSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `mouseSimple` no estilo Fill.
+  ///
   /// ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/mouse-simple.svg)
   static const IconData mouseSimple = IconData(
     0xe644,
@@ -7615,6 +11415,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `musicNote` icon in Fill style.
+  ///
+  /// [PT] O ícone `musicNote` no estilo Fill.
+  ///
   /// ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-note.svg)
   static const IconData musicNote = IconData(
     0xe33c,
@@ -7623,6 +11427,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `musicNoteSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `musicNoteSimple` no estilo Fill.
+  ///
   /// ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-note-simple.svg)
   static const IconData musicNoteSimple = IconData(
     0xe33e,
@@ -7631,6 +11439,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `musicNotes` icon in Fill style.
+  ///
+  /// [PT] O ícone `musicNotes` no estilo Fill.
+  ///
   /// ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes.svg)
   static const IconData musicNotes = IconData(
     0xe340,
@@ -7639,6 +11451,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `musicNotesMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `musicNotesMinus` no estilo Fill.
+  ///
   /// ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-minus.svg)
   static const IconData musicNotesMinus = IconData(
     0xee0c,
@@ -7647,6 +11463,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `musicNotesPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `musicNotesPlus` no estilo Fill.
+  ///
   /// ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-plus.svg)
   static const IconData musicNotesPlus = IconData(
     0xeb7c,
@@ -7655,6 +11475,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `musicNotesSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `musicNotesSimple` no estilo Fill.
+  ///
   /// ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/music-notes-simple.svg)
   static const IconData musicNotesSimple = IconData(
     0xe342,
@@ -7663,6 +11487,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `navigationArrow` icon in Fill style.
+  ///
+  /// [PT] O ícone `navigationArrow` no estilo Fill.
+  ///
   /// ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/navigation-arrow.svg)
   static const IconData navigationArrow = IconData(
     0xeade,
@@ -7671,6 +11499,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `needle` icon in Fill style.
+  ///
+  /// [PT] O ícone `needle` no estilo Fill.
+  ///
   /// ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/needle.svg)
   static const IconData needle = IconData(
     0xe82e,
@@ -7679,6 +11511,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `network` icon in Fill style.
+  ///
+  /// [PT] O ícone `network` no estilo Fill.
+  ///
   /// ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network.svg)
   static const IconData network = IconData(
     0xedde,
@@ -7687,6 +11523,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `networkSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `networkSlash` no estilo Fill.
+  ///
   /// ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network-slash.svg)
   static const IconData networkSlash = IconData(
     0xeddc,
@@ -7695,6 +11535,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `networkX` icon in Fill style.
+  ///
+  /// [PT] O ícone `networkX` no estilo Fill.
+  ///
   /// ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/network-x.svg)
   static const IconData networkX = IconData(
     0xedda,
@@ -7703,6 +11547,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `newspaper` icon in Fill style.
+  ///
+  /// [PT] O ícone `newspaper` no estilo Fill.
+  ///
   /// ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/newspaper.svg)
   static const IconData newspaper = IconData(
     0xe344,
@@ -7711,6 +11559,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `newspaperClipping` icon in Fill style.
+  ///
+  /// [PT] O ícone `newspaperClipping` no estilo Fill.
+  ///
   /// ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/newspaper-clipping.svg)
   static const IconData newspaperClipping = IconData(
     0xe346,
@@ -7719,6 +11571,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notEquals` icon in Fill style.
+  ///
+  /// [PT] O ícone `notEquals` no estilo Fill.
+  ///
   /// ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-equals.svg)
   static const IconData notEquals = IconData(
     0xeda6,
@@ -7727,6 +11583,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notMemberOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `notMemberOf` no estilo Fill.
+  ///
   /// ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-member-of.svg)
   static const IconData notMemberOf = IconData(
     0xedae,
@@ -7735,6 +11595,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notSubsetOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `notSubsetOf` no estilo Fill.
+  ///
   /// ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-subset-of.svg)
   static const IconData notSubsetOf = IconData(
     0xedb0,
@@ -7743,6 +11607,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notSupersetOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `notSupersetOf` no estilo Fill.
+  ///
   /// ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/not-superset-of.svg)
   static const IconData notSupersetOf = IconData(
     0xedb2,
@@ -7751,6 +11619,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notches` icon in Fill style.
+  ///
+  /// [PT] O ícone `notches` no estilo Fill.
+  ///
   /// ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notches.svg)
   static const IconData notches = IconData(
     0xed3a,
@@ -7759,6 +11631,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `note` icon in Fill style.
+  ///
+  /// [PT] O ícone `note` no estilo Fill.
+  ///
   /// ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note.svg)
   static const IconData note = IconData(
     0xe348,
@@ -7767,6 +11643,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `noteBlank` icon in Fill style.
+  ///
+  /// [PT] O ícone `noteBlank` no estilo Fill.
+  ///
   /// ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note-blank.svg)
   static const IconData noteBlank = IconData(
     0xe34a,
@@ -7775,6 +11655,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notePencil` icon in Fill style.
+  ///
+  /// [PT] O ícone `notePencil` no estilo Fill.
+  ///
   /// ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/note-pencil.svg)
   static const IconData notePencil = IconData(
     0xe34c,
@@ -7783,6 +11667,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notebook` icon in Fill style.
+  ///
+  /// [PT] O ícone `notebook` no estilo Fill.
+  ///
   /// ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notebook.svg)
   static const IconData notebook = IconData(
     0xe34e,
@@ -7791,6 +11679,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notepad` icon in Fill style.
+  ///
+  /// [PT] O ícone `notepad` no estilo Fill.
+  ///
   /// ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notepad.svg)
   static const IconData notepad = IconData(
     0xe63e,
@@ -7799,6 +11691,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notification` icon in Fill style.
+  ///
+  /// [PT] O ícone `notification` no estilo Fill.
+  ///
   /// ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notification.svg)
   static const IconData notification = IconData(
     0xe6fa,
@@ -7807,6 +11703,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `notionLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `notionLogo` no estilo Fill.
+  ///
   /// ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/notion-logo.svg)
   static const IconData notionLogo = IconData(
     0xe9a0,
@@ -7815,6 +11715,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `nuclearPlant` icon in Fill style.
+  ///
+  /// [PT] O ícone `nuclearPlant` no estilo Fill.
+  ///
   /// ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/nuclear-plant.svg)
   static const IconData nuclearPlant = IconData(
     0xed7c,
@@ -7823,6 +11727,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleEight` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleEight` no estilo Fill.
+  ///
   /// ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-eight.svg)
   static const IconData numberCircleEight = IconData(
     0xe352,
@@ -7831,6 +11739,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleFive` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleFive` no estilo Fill.
+  ///
   /// ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-five.svg)
   static const IconData numberCircleFive = IconData(
     0xe358,
@@ -7839,6 +11751,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleFour` no estilo Fill.
+  ///
   /// ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-four.svg)
   static const IconData numberCircleFour = IconData(
     0xe35e,
@@ -7847,6 +11763,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleNine` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleNine` no estilo Fill.
+  ///
   /// ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-nine.svg)
   static const IconData numberCircleNine = IconData(
     0xe364,
@@ -7855,6 +11775,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleOne` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleOne` no estilo Fill.
+  ///
   /// ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-one.svg)
   static const IconData numberCircleOne = IconData(
     0xe36a,
@@ -7863,6 +11787,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleSeven` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleSeven` no estilo Fill.
+  ///
   /// ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-seven.svg)
   static const IconData numberCircleSeven = IconData(
     0xe370,
@@ -7871,6 +11799,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleSix` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleSix` no estilo Fill.
+  ///
   /// ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-six.svg)
   static const IconData numberCircleSix = IconData(
     0xe376,
@@ -7879,6 +11811,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleThree` no estilo Fill.
+  ///
   /// ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-three.svg)
   static const IconData numberCircleThree = IconData(
     0xe37c,
@@ -7887,6 +11823,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleTwo` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleTwo` no estilo Fill.
+  ///
   /// ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-two.svg)
   static const IconData numberCircleTwo = IconData(
     0xe382,
@@ -7895,6 +11835,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberCircleZero` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberCircleZero` no estilo Fill.
+  ///
   /// ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-circle-zero.svg)
   static const IconData numberCircleZero = IconData(
     0xe388,
@@ -7903,6 +11847,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberEight` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberEight` no estilo Fill.
+  ///
   /// ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-eight.svg)
   static const IconData numberEight = IconData(
     0xe350,
@@ -7911,6 +11859,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberFive` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberFive` no estilo Fill.
+  ///
   /// ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-five.svg)
   static const IconData numberFive = IconData(
     0xe356,
@@ -7919,6 +11871,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberFour` no estilo Fill.
+  ///
   /// ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-four.svg)
   static const IconData numberFour = IconData(
     0xe35c,
@@ -7927,6 +11883,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberNine` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberNine` no estilo Fill.
+  ///
   /// ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-nine.svg)
   static const IconData numberNine = IconData(
     0xe362,
@@ -7935,6 +11895,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberOne` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberOne` no estilo Fill.
+  ///
   /// ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-one.svg)
   static const IconData numberOne = IconData(
     0xe368,
@@ -7943,6 +11907,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSeven` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSeven` no estilo Fill.
+  ///
   /// ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-seven.svg)
   static const IconData numberSeven = IconData(
     0xe36e,
@@ -7951,6 +11919,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSix` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSix` no estilo Fill.
+  ///
   /// ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-six.svg)
   static const IconData numberSix = IconData(
     0xe374,
@@ -7959,6 +11931,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareEight` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareEight` no estilo Fill.
+  ///
   /// ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-eight.svg)
   static const IconData numberSquareEight = IconData(
     0xe354,
@@ -7967,6 +11943,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareFive` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareFive` no estilo Fill.
+  ///
   /// ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-five.svg)
   static const IconData numberSquareFive = IconData(
     0xe35a,
@@ -7975,6 +11955,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareFour` no estilo Fill.
+  ///
   /// ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-four.svg)
   static const IconData numberSquareFour = IconData(
     0xe360,
@@ -7983,6 +11967,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareNine` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareNine` no estilo Fill.
+  ///
   /// ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-nine.svg)
   static const IconData numberSquareNine = IconData(
     0xe366,
@@ -7991,6 +11979,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareOne` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareOne` no estilo Fill.
+  ///
   /// ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-one.svg)
   static const IconData numberSquareOne = IconData(
     0xe36c,
@@ -7999,6 +11991,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareSeven` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareSeven` no estilo Fill.
+  ///
   /// ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-seven.svg)
   static const IconData numberSquareSeven = IconData(
     0xe372,
@@ -8007,6 +12003,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareSix` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareSix` no estilo Fill.
+  ///
   /// ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-six.svg)
   static const IconData numberSquareSix = IconData(
     0xe378,
@@ -8015,6 +12015,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareThree` no estilo Fill.
+  ///
   /// ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-three.svg)
   static const IconData numberSquareThree = IconData(
     0xe37e,
@@ -8023,6 +12027,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareTwo` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareTwo` no estilo Fill.
+  ///
   /// ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-two.svg)
   static const IconData numberSquareTwo = IconData(
     0xe384,
@@ -8031,6 +12039,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberSquareZero` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberSquareZero` no estilo Fill.
+  ///
   /// ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-square-zero.svg)
   static const IconData numberSquareZero = IconData(
     0xe38a,
@@ -8039,6 +12051,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberThree` no estilo Fill.
+  ///
   /// ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-three.svg)
   static const IconData numberThree = IconData(
     0xe37a,
@@ -8047,6 +12063,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberTwo` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberTwo` no estilo Fill.
+  ///
   /// ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-two.svg)
   static const IconData numberTwo = IconData(
     0xe380,
@@ -8055,6 +12075,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numberZero` icon in Fill style.
+  ///
+  /// [PT] O ícone `numberZero` no estilo Fill.
+  ///
   /// ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/number-zero.svg)
   static const IconData numberZero = IconData(
     0xe386,
@@ -8063,6 +12087,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `numpad` icon in Fill style.
+  ///
+  /// [PT] O ícone `numpad` no estilo Fill.
+  ///
   /// ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/numpad.svg)
   static const IconData numpad = IconData(
     0xe3c8,
@@ -8071,6 +12099,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `nut` icon in Fill style.
+  ///
+  /// [PT] O ícone `nut` no estilo Fill.
+  ///
   /// ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/nut.svg)
   static const IconData nut = IconData(
     0xe38c,
@@ -8079,6 +12111,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `nyTimesLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `nyTimesLogo` no estilo Fill.
+  ///
   /// ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ny-times-logo.svg)
   static const IconData nyTimesLogo = IconData(
     0xe646,
@@ -8087,6 +12123,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `octagon` icon in Fill style.
+  ///
+  /// [PT] O ícone `octagon` no estilo Fill.
+  ///
   /// ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/octagon.svg)
   static const IconData octagon = IconData(
     0xe38e,
@@ -8095,6 +12135,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `officeChair` icon in Fill style.
+  ///
+  /// [PT] O ícone `officeChair` no estilo Fill.
+  ///
   /// ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/office-chair.svg)
   static const IconData officeChair = IconData(
     0xea46,
@@ -8103,6 +12147,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `onigiri` icon in Fill style.
+  ///
+  /// [PT] O ícone `onigiri` no estilo Fill.
+  ///
   /// ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/onigiri.svg)
   static const IconData onigiri = IconData(
     0xee2c,
@@ -8111,6 +12159,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `openAiLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `openAiLogo` no estilo Fill.
+  ///
   /// ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/open-ai-logo.svg)
   static const IconData openAiLogo = IconData(
     0xe7d2,
@@ -8119,6 +12171,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `option` icon in Fill style.
+  ///
+  /// [PT] O ícone `option` no estilo Fill.
+  ///
   /// ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/option.svg)
   static const IconData option = IconData(
     0xe8a8,
@@ -8127,6 +12183,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `orange` icon in Fill style.
+  ///
+  /// [PT] O ícone `orange` no estilo Fill.
+  ///
   /// ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/orange.svg)
   static const IconData orange = IconData(
     0xee40,
@@ -8135,6 +12195,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `orangeSlice` icon in Fill style.
+  ///
+  /// [PT] O ícone `orangeSlice` no estilo Fill.
+  ///
   /// ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/orange-slice.svg)
   static const IconData orangeSlice = IconData(
     0xed36,
@@ -8143,6 +12207,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `oven` icon in Fill style.
+  ///
+  /// [PT] O ícone `oven` no estilo Fill.
+  ///
   /// ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/oven.svg)
   static const IconData oven = IconData(
     0xed8c,
@@ -8151,6 +12219,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `package` icon in Fill style.
+  ///
+  /// [PT] O ícone `package` no estilo Fill.
+  ///
   /// ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/package.svg)
   static const IconData package = IconData(
     0xe390,
@@ -8159,6 +12231,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paintBrush` icon in Fill style.
+  ///
+  /// [PT] O ícone `paintBrush` no estilo Fill.
+  ///
   /// ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush.svg)
   static const IconData paintBrush = IconData(
     0xe6f0,
@@ -8167,6 +12243,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paintBrushBroad` icon in Fill style.
+  ///
+  /// [PT] O ícone `paintBrushBroad` no estilo Fill.
+  ///
   /// ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush-broad.svg)
   static const IconData paintBrushBroad = IconData(
     0xe590,
@@ -8175,6 +12255,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paintBrushHousehold` icon in Fill style.
+  ///
+  /// [PT] O ícone `paintBrushHousehold` no estilo Fill.
+  ///
   /// ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-brush-household.svg)
   static const IconData paintBrushHousehold = IconData(
     0xe6f2,
@@ -8183,6 +12267,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paintBucket` icon in Fill style.
+  ///
+  /// [PT] O ícone `paintBucket` no estilo Fill.
+  ///
   /// ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-bucket.svg)
   static const IconData paintBucket = IconData(
     0xe392,
@@ -8191,6 +12279,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paintRoller` icon in Fill style.
+  ///
+  /// [PT] O ícone `paintRoller` no estilo Fill.
+  ///
   /// ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paint-roller.svg)
   static const IconData paintRoller = IconData(
     0xe6f4,
@@ -8199,6 +12291,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `palette` icon in Fill style.
+  ///
+  /// [PT] O ícone `palette` no estilo Fill.
+  ///
   /// ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/palette.svg)
   static const IconData palette = IconData(
     0xe6c8,
@@ -8207,6 +12303,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `panorama` icon in Fill style.
+  ///
+  /// [PT] O ícone `panorama` no estilo Fill.
+  ///
   /// ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/panorama.svg)
   static const IconData panorama = IconData(
     0xeaa2,
@@ -8215,6 +12315,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pants` icon in Fill style.
+  ///
+  /// [PT] O ícone `pants` no estilo Fill.
+  ///
   /// ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pants.svg)
   static const IconData pants = IconData(
     0xec88,
@@ -8223,6 +12327,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paperPlane` icon in Fill style.
+  ///
+  /// [PT] O ícone `paperPlane` no estilo Fill.
+  ///
   /// ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane.svg)
   static const IconData paperPlane = IconData(
     0xe394,
@@ -8231,6 +12339,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paperPlaneRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `paperPlaneRight` no estilo Fill.
+  ///
   /// ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane-right.svg)
   static const IconData paperPlaneRight = IconData(
     0xe396,
@@ -8239,6 +12351,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paperPlaneTilt` icon in Fill style.
+  ///
+  /// [PT] O ícone `paperPlaneTilt` no estilo Fill.
+  ///
   /// ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paper-plane-tilt.svg)
   static const IconData paperPlaneTilt = IconData(
     0xe398,
@@ -8247,6 +12363,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paperclip` icon in Fill style.
+  ///
+  /// [PT] O ícone `paperclip` no estilo Fill.
+  ///
   /// ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paperclip.svg)
   static const IconData paperclip = IconData(
     0xe39a,
@@ -8255,6 +12375,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paperclipHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `paperclipHorizontal` no estilo Fill.
+  ///
   /// ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paperclip-horizontal.svg)
   static const IconData paperclipHorizontal = IconData(
     0xe592,
@@ -8263,6 +12387,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `parachute` icon in Fill style.
+  ///
+  /// [PT] O ícone `parachute` no estilo Fill.
+  ///
   /// ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/parachute.svg)
   static const IconData parachute = IconData(
     0xea7c,
@@ -8271,6 +12399,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paragraph` icon in Fill style.
+  ///
+  /// [PT] O ícone `paragraph` no estilo Fill.
+  ///
   /// ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paragraph.svg)
   static const IconData paragraph = IconData(
     0xe960,
@@ -8279,6 +12411,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `parallelogram` icon in Fill style.
+  ///
+  /// [PT] O ícone `parallelogram` no estilo Fill.
+  ///
   /// ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/parallelogram.svg)
   static const IconData parallelogram = IconData(
     0xecc6,
@@ -8287,6 +12423,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `park` icon in Fill style.
+  ///
+  /// [PT] O ícone `park` no estilo Fill.
+  ///
   /// ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/park.svg)
   static const IconData park = IconData(
     0xecb2,
@@ -8295,6 +12435,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `password` icon in Fill style.
+  ///
+  /// [PT] O ícone `password` no estilo Fill.
+  ///
   /// ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/password.svg)
   static const IconData password = IconData(
     0xe752,
@@ -8303,6 +12447,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `path` icon in Fill style.
+  ///
+  /// [PT] O ícone `path` no estilo Fill.
+  ///
   /// ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/path.svg)
   static const IconData path = IconData(
     0xe39c,
@@ -8311,6 +12459,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `patreonLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `patreonLogo` no estilo Fill.
+  ///
   /// ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/patreon-logo.svg)
   static const IconData patreonLogo = IconData(
     0xe98a,
@@ -8319,6 +12471,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pause` icon in Fill style.
+  ///
+  /// [PT] O ícone `pause` no estilo Fill.
+  ///
   /// ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pause.svg)
   static const IconData pause = IconData(
     0xe39e,
@@ -8327,6 +12483,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pauseCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `pauseCircle` no estilo Fill.
+  ///
   /// ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pause-circle.svg)
   static const IconData pauseCircle = IconData(
     0xe3a0,
@@ -8335,6 +12495,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pawPrint` icon in Fill style.
+  ///
+  /// [PT] O ícone `pawPrint` no estilo Fill.
+  ///
   /// ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paw-print.svg)
   static const IconData pawPrint = IconData(
     0xe648,
@@ -8343,6 +12507,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `paypalLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `paypalLogo` no estilo Fill.
+  ///
   /// ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/paypal-logo.svg)
   static const IconData paypalLogo = IconData(
     0xe98c,
@@ -8351,6 +12519,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `peace` icon in Fill style.
+  ///
+  /// [PT] O ícone `peace` no estilo Fill.
+  ///
   /// ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/peace.svg)
   static const IconData peace = IconData(
     0xe3a2,
@@ -8359,6 +12531,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pen` icon in Fill style.
+  ///
+  /// [PT] O ícone `pen` no estilo Fill.
+  ///
   /// ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen.svg)
   static const IconData pen = IconData(
     0xe3aa,
@@ -8367,6 +12543,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `penNib` icon in Fill style.
+  ///
+  /// [PT] O ícone `penNib` no estilo Fill.
+  ///
   /// ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen-nib.svg)
   static const IconData penNib = IconData(
     0xe3ac,
@@ -8375,6 +12555,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `penNibStraight` icon in Fill style.
+  ///
+  /// [PT] O ícone `penNibStraight` no estilo Fill.
+  ///
   /// ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pen-nib-straight.svg)
   static const IconData penNibStraight = IconData(
     0xe64a,
@@ -8383,6 +12567,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencil` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencil` no estilo Fill.
+  ///
   /// ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil.svg)
   static const IconData pencil = IconData(
     0xe3ae,
@@ -8391,6 +12579,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencilCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencilCircle` no estilo Fill.
+  ///
   /// ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-circle.svg)
   static const IconData pencilCircle = IconData(
     0xe3b0,
@@ -8399,6 +12591,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencilLine` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencilLine` no estilo Fill.
+  ///
   /// ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-line.svg)
   static const IconData pencilLine = IconData(
     0xe3b2,
@@ -8407,6 +12603,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencilRuler` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencilRuler` no estilo Fill.
+  ///
   /// ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-ruler.svg)
   static const IconData pencilRuler = IconData(
     0xe906,
@@ -8415,6 +12615,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencilSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencilSimple` no estilo Fill.
+  ///
   /// ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple.svg)
   static const IconData pencilSimple = IconData(
     0xe3b4,
@@ -8423,6 +12627,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencilSimpleLine` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencilSimpleLine` no estilo Fill.
+  ///
   /// ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple-line.svg)
   static const IconData pencilSimpleLine = IconData(
     0xebc6,
@@ -8431,6 +12639,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencilSimpleSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencilSimpleSlash` no estilo Fill.
+  ///
   /// ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-simple-slash.svg)
   static const IconData pencilSimpleSlash = IconData(
     0xecf6,
@@ -8439,6 +12651,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pencilSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `pencilSlash` no estilo Fill.
+  ///
   /// ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pencil-slash.svg)
   static const IconData pencilSlash = IconData(
     0xecf8,
@@ -8447,6 +12663,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pentagon` icon in Fill style.
+  ///
+  /// [PT] O ícone `pentagon` no estilo Fill.
+  ///
   /// ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pentagon.svg)
   static const IconData pentagon = IconData(
     0xec7e,
@@ -8455,6 +12675,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pentagram` icon in Fill style.
+  ///
+  /// [PT] O ícone `pentagram` no estilo Fill.
+  ///
   /// ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pentagram.svg)
   static const IconData pentagram = IconData(
     0xec5c,
@@ -8463,6 +12687,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pepper` icon in Fill style.
+  ///
+  /// [PT] O ícone `pepper` no estilo Fill.
+  ///
   /// ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pepper.svg)
   static const IconData pepper = IconData(
     0xe94a,
@@ -8471,6 +12699,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `percent` icon in Fill style.
+  ///
+  /// [PT] O ícone `percent` no estilo Fill.
+  ///
   /// ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/percent.svg)
   static const IconData percent = IconData(
     0xe3b6,
@@ -8479,6 +12711,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `person` icon in Fill style.
+  ///
+  /// [PT] O ícone `person` no estilo Fill.
+  ///
   /// ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person.svg)
   static const IconData person = IconData(
     0xe3a8,
@@ -8487,6 +12723,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personArmsSpread` icon in Fill style.
+  ///
+  /// [PT] O ícone `personArmsSpread` no estilo Fill.
+  ///
   /// ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-arms-spread.svg)
   static const IconData personArmsSpread = IconData(
     0xecfe,
@@ -8495,6 +12735,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimple` no estilo Fill.
+  ///
   /// ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple.svg)
   static const IconData personSimple = IconData(
     0xe72e,
@@ -8503,6 +12747,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleBike` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleBike` no estilo Fill.
+  ///
   /// ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-bike.svg)
   static const IconData personSimpleBike = IconData(
     0xe734,
@@ -8511,6 +12759,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleCircle` no estilo Fill.
+  ///
   /// ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-circle.svg)
   static const IconData personSimpleCircle = IconData(
     0xee58,
@@ -8519,6 +12771,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleHike` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleHike` no estilo Fill.
+  ///
   /// ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-hike.svg)
   static const IconData personSimpleHike = IconData(
     0xed54,
@@ -8527,6 +12783,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleRun` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleRun` no estilo Fill.
+  ///
   /// ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-run.svg)
   static const IconData personSimpleRun = IconData(
     0xe730,
@@ -8535,6 +12795,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleSki` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleSki` no estilo Fill.
+  ///
   /// ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-ski.svg)
   static const IconData personSimpleSki = IconData(
     0xe71c,
@@ -8543,6 +12807,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleSnowboard` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleSnowboard` no estilo Fill.
+  ///
   /// ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-snowboard.svg)
   static const IconData personSimpleSnowboard = IconData(
     0xe71e,
@@ -8551,6 +12819,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleSwim` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleSwim` no estilo Fill.
+  ///
   /// ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-swim.svg)
   static const IconData personSimpleSwim = IconData(
     0xe736,
@@ -8559,6 +12831,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleTaiChi` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleTaiChi` no estilo Fill.
+  ///
   /// ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-tai-chi.svg)
   static const IconData personSimpleTaiChi = IconData(
     0xed5c,
@@ -8567,6 +12843,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleThrow` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleThrow` no estilo Fill.
+  ///
   /// ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-throw.svg)
   static const IconData personSimpleThrow = IconData(
     0xe732,
@@ -8575,6 +12855,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `personSimpleWalk` icon in Fill style.
+  ///
+  /// [PT] O ícone `personSimpleWalk` no estilo Fill.
+  ///
   /// ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/person-simple-walk.svg)
   static const IconData personSimpleWalk = IconData(
     0xe73a,
@@ -8583,6 +12867,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `perspective` icon in Fill style.
+  ///
+  /// [PT] O ícone `perspective` no estilo Fill.
+  ///
   /// ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/perspective.svg)
   static const IconData perspective = IconData(
     0xebe6,
@@ -8591,6 +12879,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phone` icon in Fill style.
+  ///
+  /// [PT] O ícone `phone` no estilo Fill.
+  ///
   /// ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone.svg)
   static const IconData phone = IconData(
     0xe3b8,
@@ -8599,6 +12891,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneCall` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneCall` no estilo Fill.
+  ///
   /// ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-call.svg)
   static const IconData phoneCall = IconData(
     0xe3ba,
@@ -8607,6 +12903,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneDisconnect` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneDisconnect` no estilo Fill.
+  ///
   /// ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-disconnect.svg)
   static const IconData phoneDisconnect = IconData(
     0xe3bc,
@@ -8615,6 +12915,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneIncoming` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneIncoming` no estilo Fill.
+  ///
   /// ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-incoming.svg)
   static const IconData phoneIncoming = IconData(
     0xe3be,
@@ -8623,6 +12927,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneList` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneList` no estilo Fill.
+  ///
   /// ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-list.svg)
   static const IconData phoneList = IconData(
     0xe3cc,
@@ -8631,6 +12939,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneOutgoing` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneOutgoing` no estilo Fill.
+  ///
   /// ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-outgoing.svg)
   static const IconData phoneOutgoing = IconData(
     0xe3c0,
@@ -8639,6 +12951,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phonePause` icon in Fill style.
+  ///
+  /// [PT] O ícone `phonePause` no estilo Fill.
+  ///
   /// ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-pause.svg)
   static const IconData phonePause = IconData(
     0xe3ca,
@@ -8647,6 +12963,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phonePlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `phonePlus` no estilo Fill.
+  ///
   /// ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-plus.svg)
   static const IconData phonePlus = IconData(
     0xec56,
@@ -8655,6 +12975,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneSlash` no estilo Fill.
+  ///
   /// ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-slash.svg)
   static const IconData phoneSlash = IconData(
     0xe3c2,
@@ -8663,6 +12987,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneTransfer` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneTransfer` no estilo Fill.
+  ///
   /// ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-transfer.svg)
   static const IconData phoneTransfer = IconData(
     0xe3c6,
@@ -8671,6 +12999,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phoneX` icon in Fill style.
+  ///
+  /// [PT] O ícone `phoneX` no estilo Fill.
+  ///
   /// ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phone-x.svg)
   static const IconData phoneX = IconData(
     0xe3c4,
@@ -8679,6 +13011,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `phosphorLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `phosphorLogo` no estilo Fill.
+  ///
   /// ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/phosphor-logo.svg)
   static const IconData phosphorLogo = IconData(
     0xe3ce,
@@ -8687,6 +13023,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pi` icon in Fill style.
+  ///
+  /// [PT] O ícone `pi` no estilo Fill.
+  ///
   /// ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pi.svg)
   static const IconData pi = IconData(
     0xec80,
@@ -8695,6 +13035,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pianoKeys` icon in Fill style.
+  ///
+  /// [PT] O ícone `pianoKeys` no estilo Fill.
+  ///
   /// ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/piano-keys.svg)
   static const IconData pianoKeys = IconData(
     0xe9c8,
@@ -8703,6 +13047,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `picnicTable` icon in Fill style.
+  ///
+  /// [PT] O ícone `picnicTable` no estilo Fill.
+  ///
   /// ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/picnic-table.svg)
   static const IconData picnicTable = IconData(
     0xee26,
@@ -8711,6 +13059,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pictureInPicture` icon in Fill style.
+  ///
+  /// [PT] O ícone `pictureInPicture` no estilo Fill.
+  ///
   /// ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/picture-in-picture.svg)
   static const IconData pictureInPicture = IconData(
     0xe64c,
@@ -8719,6 +13071,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `piggyBank` icon in Fill style.
+  ///
+  /// [PT] O ícone `piggyBank` no estilo Fill.
+  ///
   /// ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/piggy-bank.svg)
   static const IconData piggyBank = IconData(
     0xea04,
@@ -8727,6 +13083,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pill` icon in Fill style.
+  ///
+  /// [PT] O ícone `pill` no estilo Fill.
+  ///
   /// ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pill.svg)
   static const IconData pill = IconData(
     0xe700,
@@ -8735,6 +13095,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pingPong` icon in Fill style.
+  ///
+  /// [PT] O ícone `pingPong` no estilo Fill.
+  ///
   /// ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ping-pong.svg)
   static const IconData pingPong = IconData(
     0xea42,
@@ -8743,6 +13107,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pintGlass` icon in Fill style.
+  ///
+  /// [PT] O ícone `pintGlass` no estilo Fill.
+  ///
   /// ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pint-glass.svg)
   static const IconData pintGlass = IconData(
     0xedd0,
@@ -8751,6 +13119,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pinterestLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `pinterestLogo` no estilo Fill.
+  ///
   /// ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pinterest-logo.svg)
   static const IconData pinterestLogo = IconData(
     0xe64e,
@@ -8759,6 +13131,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pinwheel` icon in Fill style.
+  ///
+  /// [PT] O ícone `pinwheel` no estilo Fill.
+  ///
   /// ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pinwheel.svg)
   static const IconData pinwheel = IconData(
     0xeb9c,
@@ -8767,6 +13143,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pipe` icon in Fill style.
+  ///
+  /// [PT] O ícone `pipe` no estilo Fill.
+  ///
   /// ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pipe.svg)
   static const IconData pipe = IconData(
     0xed86,
@@ -8775,6 +13155,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pipeWrench` icon in Fill style.
+  ///
+  /// [PT] O ícone `pipeWrench` no estilo Fill.
+  ///
   /// ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pipe-wrench.svg)
   static const IconData pipeWrench = IconData(
     0xed88,
@@ -8783,6 +13167,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pixLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `pixLogo` no estilo Fill.
+  ///
   /// ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pix-logo.svg)
   static const IconData pixLogo = IconData(
     0xecc2,
@@ -8791,6 +13179,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pizza` icon in Fill style.
+  ///
+  /// [PT] O ícone `pizza` no estilo Fill.
+  ///
   /// ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pizza.svg)
   static const IconData pizza = IconData(
     0xe796,
@@ -8799,6 +13191,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `placeholder` icon in Fill style.
+  ///
+  /// [PT] O ícone `placeholder` no estilo Fill.
+  ///
   /// ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/placeholder.svg)
   static const IconData placeholder = IconData(
     0xe650,
@@ -8807,6 +13203,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `planet` icon in Fill style.
+  ///
+  /// [PT] O ícone `planet` no estilo Fill.
+  ///
   /// ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/planet.svg)
   static const IconData planet = IconData(
     0xe652,
@@ -8815,6 +13215,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plant` icon in Fill style.
+  ///
+  /// [PT] O ícone `plant` no estilo Fill.
+  ///
   /// ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plant.svg)
   static const IconData plant = IconData(
     0xebae,
@@ -8823,6 +13227,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `play` icon in Fill style.
+  ///
+  /// [PT] O ícone `play` no estilo Fill.
+  ///
   /// ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play.svg)
   static const IconData play = IconData(
     0xe3d0,
@@ -8831,6 +13239,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `playCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `playCircle` no estilo Fill.
+  ///
   /// ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play-circle.svg)
   static const IconData playCircle = IconData(
     0xe3d2,
@@ -8839,6 +13251,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `playPause` icon in Fill style.
+  ///
+  /// [PT] O ícone `playPause` no estilo Fill.
+  ///
   /// ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/play-pause.svg)
   static const IconData playPause = IconData(
     0xe8be,
@@ -8847,6 +13263,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `playlist` icon in Fill style.
+  ///
+  /// [PT] O ícone `playlist` no estilo Fill.
+  ///
   /// ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/playlist.svg)
   static const IconData playlist = IconData(
     0xe6aa,
@@ -8855,6 +13275,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plug` icon in Fill style.
+  ///
+  /// [PT] O ícone `plug` no estilo Fill.
+  ///
   /// ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plug.svg)
   static const IconData plug = IconData(
     0xe946,
@@ -8863,6 +13287,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plugCharging` icon in Fill style.
+  ///
+  /// [PT] O ícone `plugCharging` no estilo Fill.
+  ///
   /// ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plug-charging.svg)
   static const IconData plugCharging = IconData(
     0xeb5c,
@@ -8871,6 +13299,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plugs` icon in Fill style.
+  ///
+  /// [PT] O ícone `plugs` no estilo Fill.
+  ///
   /// ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plugs.svg)
   static const IconData plugs = IconData(
     0xeb56,
@@ -8879,6 +13311,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plugsConnected` icon in Fill style.
+  ///
+  /// [PT] O ícone `plugsConnected` no estilo Fill.
+  ///
   /// ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plugs-connected.svg)
   static const IconData plugsConnected = IconData(
     0xeb5a,
@@ -8887,6 +13323,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plus` icon in Fill style.
+  ///
+  /// [PT] O ícone `plus` no estilo Fill.
+  ///
   /// ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus.svg)
   static const IconData plus = IconData(
     0xe3d4,
@@ -8895,6 +13335,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plusCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `plusCircle` no estilo Fill.
+  ///
   /// ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-circle.svg)
   static const IconData plusCircle = IconData(
     0xe3d6,
@@ -8903,6 +13347,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plusMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `plusMinus` no estilo Fill.
+  ///
   /// ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-minus.svg)
   static const IconData plusMinus = IconData(
     0xe3d8,
@@ -8911,6 +13359,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `plusSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `plusSquare` no estilo Fill.
+  ///
   /// ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/plus-square.svg)
   static const IconData plusSquare = IconData(
     0xed4a,
@@ -8919,6 +13371,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pokerChip` icon in Fill style.
+  ///
+  /// [PT] O ícone `pokerChip` no estilo Fill.
+  ///
   /// ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/poker-chip.svg)
   static const IconData pokerChip = IconData(
     0xe594,
@@ -8927,6 +13383,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `policeCar` icon in Fill style.
+  ///
+  /// [PT] O ícone `policeCar` no estilo Fill.
+  ///
   /// ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/police-car.svg)
   static const IconData policeCar = IconData(
     0xec4a,
@@ -8935,6 +13395,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `polygon` icon in Fill style.
+  ///
+  /// [PT] O ícone `polygon` no estilo Fill.
+  ///
   /// ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/polygon.svg)
   static const IconData polygon = IconData(
     0xe6d0,
@@ -8943,6 +13407,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `popcorn` icon in Fill style.
+  ///
+  /// [PT] O ícone `popcorn` no estilo Fill.
+  ///
   /// ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/popcorn.svg)
   static const IconData popcorn = IconData(
     0xeb4e,
@@ -8951,6 +13419,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `popsicle` icon in Fill style.
+  ///
+  /// [PT] O ícone `popsicle` no estilo Fill.
+  ///
   /// ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/popsicle.svg)
   static const IconData popsicle = IconData(
     0xebbe,
@@ -8959,6 +13431,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pottedPlant` icon in Fill style.
+  ///
+  /// [PT] O ícone `pottedPlant` no estilo Fill.
+  ///
   /// ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/potted-plant.svg)
   static const IconData pottedPlant = IconData(
     0xec22,
@@ -8967,6 +13443,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `power` icon in Fill style.
+  ///
+  /// [PT] O ícone `power` no estilo Fill.
+  ///
   /// ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/power.svg)
   static const IconData power = IconData(
     0xe3da,
@@ -8975,6 +13455,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `prescription` icon in Fill style.
+  ///
+  /// [PT] O ícone `prescription` no estilo Fill.
+  ///
   /// ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prescription.svg)
   static const IconData prescription = IconData(
     0xe7a2,
@@ -8983,6 +13467,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `presentation` icon in Fill style.
+  ///
+  /// [PT] O ícone `presentation` no estilo Fill.
+  ///
   /// ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/presentation.svg)
   static const IconData presentation = IconData(
     0xe654,
@@ -8991,6 +13479,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `presentationChart` icon in Fill style.
+  ///
+  /// [PT] O ícone `presentationChart` no estilo Fill.
+  ///
   /// ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/presentation-chart.svg)
   static const IconData presentationChart = IconData(
     0xe656,
@@ -8999,6 +13491,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `printer` icon in Fill style.
+  ///
+  /// [PT] O ícone `printer` no estilo Fill.
+  ///
   /// ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/printer.svg)
   static const IconData printer = IconData(
     0xe3dc,
@@ -9007,6 +13503,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `prohibit` icon in Fill style.
+  ///
+  /// [PT] O ícone `prohibit` no estilo Fill.
+  ///
   /// ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prohibit.svg)
   static const IconData prohibit = IconData(
     0xe3de,
@@ -9015,6 +13515,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `prohibitInset` icon in Fill style.
+  ///
+  /// [PT] O ícone `prohibitInset` no estilo Fill.
+  ///
   /// ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/prohibit-inset.svg)
   static const IconData prohibitInset = IconData(
     0xe3e0,
@@ -9023,6 +13527,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `projectorScreen` icon in Fill style.
+  ///
+  /// [PT] O ícone `projectorScreen` no estilo Fill.
+  ///
   /// ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/projector-screen.svg)
   static const IconData projectorScreen = IconData(
     0xe658,
@@ -9031,6 +13539,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `projectorScreenChart` icon in Fill style.
+  ///
+  /// [PT] O ícone `projectorScreenChart` no estilo Fill.
+  ///
   /// ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/projector-screen-chart.svg)
   static const IconData projectorScreenChart = IconData(
     0xe65a,
@@ -9039,6 +13551,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pulse` icon in Fill style.
+  ///
+  /// [PT] O ícone `pulse` no estilo Fill.
+  ///
   /// ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/pulse.svg)
   static const IconData pulse = IconData(
     0xe000,
@@ -9047,6 +13563,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pushPin` icon in Fill style.
+  ///
+  /// [PT] O ícone `pushPin` no estilo Fill.
+  ///
   /// ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin.svg)
   static const IconData pushPin = IconData(
     0xe3e2,
@@ -9055,6 +13575,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pushPinSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `pushPinSimple` no estilo Fill.
+  ///
   /// ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-simple.svg)
   static const IconData pushPinSimple = IconData(
     0xe65c,
@@ -9063,6 +13587,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pushPinSimpleSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `pushPinSimpleSlash` no estilo Fill.
+  ///
   /// ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-simple-slash.svg)
   static const IconData pushPinSimpleSlash = IconData(
     0xe65e,
@@ -9071,6 +13599,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `pushPinSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `pushPinSlash` no estilo Fill.
+  ///
   /// ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/push-pin-slash.svg)
   static const IconData pushPinSlash = IconData(
     0xe3e4,
@@ -9079,6 +13611,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `puzzlePiece` icon in Fill style.
+  ///
+  /// [PT] O ícone `puzzlePiece` no estilo Fill.
+  ///
   /// ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/puzzle-piece.svg)
   static const IconData puzzlePiece = IconData(
     0xe596,
@@ -9087,6 +13623,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `qrCode` icon in Fill style.
+  ///
+  /// [PT] O ícone `qrCode` no estilo Fill.
+  ///
   /// ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/qr-code.svg)
   static const IconData qrCode = IconData(
     0xe3e6,
@@ -9095,6 +13635,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `question` icon in Fill style.
+  ///
+  /// [PT] O ícone `question` no estilo Fill.
+  ///
   /// ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/question.svg)
   static const IconData question = IconData(
     0xe3e8,
@@ -9103,6 +13647,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `questionMark` icon in Fill style.
+  ///
+  /// [PT] O ícone `questionMark` no estilo Fill.
+  ///
   /// ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/question-mark.svg)
   static const IconData questionMark = IconData(
     0xe3e9,
@@ -9111,6 +13659,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `queue` icon in Fill style.
+  ///
+  /// [PT] O ícone `queue` no estilo Fill.
+  ///
   /// ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/queue.svg)
   static const IconData queue = IconData(
     0xe6ac,
@@ -9119,6 +13671,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `quotes` icon in Fill style.
+  ///
+  /// [PT] O ícone `quotes` no estilo Fill.
+  ///
   /// ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/quotes.svg)
   static const IconData quotes = IconData(
     0xe660,
@@ -9127,6 +13683,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rabbit` icon in Fill style.
+  ///
+  /// [PT] O ícone `rabbit` no estilo Fill.
+  ///
   /// ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rabbit.svg)
   static const IconData rabbit = IconData(
     0xeac2,
@@ -9135,6 +13695,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `racquet` icon in Fill style.
+  ///
+  /// [PT] O ícone `racquet` no estilo Fill.
+  ///
   /// ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/racquet.svg)
   static const IconData racquet = IconData(
     0xee02,
@@ -9143,6 +13707,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `radical` icon in Fill style.
+  ///
+  /// [PT] O ícone `radical` no estilo Fill.
+  ///
   /// ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radical.svg)
   static const IconData radical = IconData(
     0xe3ea,
@@ -9151,6 +13719,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `radio` icon in Fill style.
+  ///
+  /// [PT] O ícone `radio` no estilo Fill.
+  ///
   /// ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radio.svg)
   static const IconData radio = IconData(
     0xe77e,
@@ -9159,6 +13731,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `radioButton` icon in Fill style.
+  ///
+  /// [PT] O ícone `radioButton` no estilo Fill.
+  ///
   /// ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radio-button.svg)
   static const IconData radioButton = IconData(
     0xeb08,
@@ -9167,6 +13743,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `radioactive` icon in Fill style.
+  ///
+  /// [PT] O ícone `radioactive` no estilo Fill.
+  ///
   /// ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/radioactive.svg)
   static const IconData radioactive = IconData(
     0xe9dc,
@@ -9175,6 +13755,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rainbow` icon in Fill style.
+  ///
+  /// [PT] O ícone `rainbow` no estilo Fill.
+  ///
   /// ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rainbow.svg)
   static const IconData rainbow = IconData(
     0xe598,
@@ -9183,6 +13767,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rainbowCloud` icon in Fill style.
+  ///
+  /// [PT] O ícone `rainbowCloud` no estilo Fill.
+  ///
   /// ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rainbow-cloud.svg)
   static const IconData rainbowCloud = IconData(
     0xe59a,
@@ -9191,6 +13779,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ranking` icon in Fill style.
+  ///
+  /// [PT] O ícone `ranking` no estilo Fill.
+  ///
   /// ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ranking.svg)
   static const IconData ranking = IconData(
     0xed62,
@@ -9199,6 +13791,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `readCvLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `readCvLogo` no estilo Fill.
+  ///
   /// ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/read-cv-logo.svg)
   static const IconData readCvLogo = IconData(
     0xed0c,
@@ -9207,6 +13803,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `receipt` icon in Fill style.
+  ///
+  /// [PT] O ícone `receipt` no estilo Fill.
+  ///
   /// ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/receipt.svg)
   static const IconData receipt = IconData(
     0xe3ec,
@@ -9215,6 +13815,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `receiptX` icon in Fill style.
+  ///
+  /// [PT] O ícone `receiptX` no estilo Fill.
+  ///
   /// ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/receipt-x.svg)
   static const IconData receiptX = IconData(
     0xed40,
@@ -9223,6 +13827,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `record` icon in Fill style.
+  ///
+  /// [PT] O ícone `record` no estilo Fill.
+  ///
   /// ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/record.svg)
   static const IconData record = IconData(
     0xe3ee,
@@ -9231,6 +13839,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rectangle` icon in Fill style.
+  ///
+  /// [PT] O ícone `rectangle` no estilo Fill.
+  ///
   /// ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rectangle.svg)
   static const IconData rectangle = IconData(
     0xe3f0,
@@ -9239,6 +13851,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rectangleDashed` icon in Fill style.
+  ///
+  /// [PT] O ícone `rectangleDashed` no estilo Fill.
+  ///
   /// ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rectangle-dashed.svg)
   static const IconData rectangleDashed = IconData(
     0xe3f2,
@@ -9247,6 +13863,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `recycle` icon in Fill style.
+  ///
+  /// [PT] O ícone `recycle` no estilo Fill.
+  ///
   /// ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/recycle.svg)
   static const IconData recycle = IconData(
     0xe75a,
@@ -9255,6 +13875,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `redditLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `redditLogo` no estilo Fill.
+  ///
   /// ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/reddit-logo.svg)
   static const IconData redditLogo = IconData(
     0xe59c,
@@ -9263,6 +13887,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `repeat` icon in Fill style.
+  ///
+  /// [PT] O ícone `repeat` no estilo Fill.
+  ///
   /// ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/repeat.svg)
   static const IconData repeat = IconData(
     0xe3f6,
@@ -9271,6 +13899,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `repeatOnce` icon in Fill style.
+  ///
+  /// [PT] O ícone `repeatOnce` no estilo Fill.
+  ///
   /// ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/repeat-once.svg)
   static const IconData repeatOnce = IconData(
     0xe3f8,
@@ -9279,6 +13911,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `replitLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `replitLogo` no estilo Fill.
+  ///
   /// ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/replit-logo.svg)
   static const IconData replitLogo = IconData(
     0xeb8a,
@@ -9287,6 +13923,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `resize` icon in Fill style.
+  ///
+  /// [PT] O ícone `resize` no estilo Fill.
+  ///
   /// ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/resize.svg)
   static const IconData resize = IconData(
     0xed6e,
@@ -9295,6 +13935,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rewind` icon in Fill style.
+  ///
+  /// [PT] O ícone `rewind` no estilo Fill.
+  ///
   /// ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rewind.svg)
   static const IconData rewind = IconData(
     0xe6a8,
@@ -9303,6 +13947,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rewindCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `rewindCircle` no estilo Fill.
+  ///
   /// ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rewind-circle.svg)
   static const IconData rewindCircle = IconData(
     0xe3fa,
@@ -9311,6 +13959,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `roadHorizon` icon in Fill style.
+  ///
+  /// [PT] O ícone `roadHorizon` no estilo Fill.
+  ///
   /// ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/road-horizon.svg)
   static const IconData roadHorizon = IconData(
     0xe838,
@@ -9319,6 +13971,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `robot` icon in Fill style.
+  ///
+  /// [PT] O ícone `robot` no estilo Fill.
+  ///
   /// ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/robot.svg)
   static const IconData robot = IconData(
     0xe762,
@@ -9327,6 +13983,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rocket` icon in Fill style.
+  ///
+  /// [PT] O ícone `rocket` no estilo Fill.
+  ///
   /// ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rocket.svg)
   static const IconData rocket = IconData(
     0xe3fc,
@@ -9335,6 +13995,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rocketLaunch` icon in Fill style.
+  ///
+  /// [PT] O ícone `rocketLaunch` no estilo Fill.
+  ///
   /// ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rocket-launch.svg)
   static const IconData rocketLaunch = IconData(
     0xe3fe,
@@ -9343,6 +14007,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rows` icon in Fill style.
+  ///
+  /// [PT] O ícone `rows` no estilo Fill.
+  ///
   /// ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows.svg)
   static const IconData rows = IconData(
     0xe5a2,
@@ -9351,6 +14019,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rowsPlusBottom` icon in Fill style.
+  ///
+  /// [PT] O ícone `rowsPlusBottom` no estilo Fill.
+  ///
   /// ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows-plus-bottom.svg)
   static const IconData rowsPlusBottom = IconData(
     0xe59e,
@@ -9359,6 +14031,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rowsPlusTop` icon in Fill style.
+  ///
+  /// [PT] O ícone `rowsPlusTop` no estilo Fill.
+  ///
   /// ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rows-plus-top.svg)
   static const IconData rowsPlusTop = IconData(
     0xe5a0,
@@ -9367,6 +14043,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rss` icon in Fill style.
+  ///
+  /// [PT] O ícone `rss` no estilo Fill.
+  ///
   /// ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rss.svg)
   static const IconData rss = IconData(
     0xe400,
@@ -9375,6 +14055,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rssSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `rssSimple` no estilo Fill.
+  ///
   /// ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rss-simple.svg)
   static const IconData rssSimple = IconData(
     0xe402,
@@ -9383,6 +14067,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `rug` icon in Fill style.
+  ///
+  /// [PT] O ícone `rug` no estilo Fill.
+  ///
   /// ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/rug.svg)
   static const IconData rug = IconData(
     0xea1a,
@@ -9391,6 +14079,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ruler` icon in Fill style.
+  ///
+  /// [PT] O ícone `ruler` no estilo Fill.
+  ///
   /// ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ruler.svg)
   static const IconData ruler = IconData(
     0xe6b8,
@@ -9399,6 +14091,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sailboat` icon in Fill style.
+  ///
+  /// [PT] O ícone `sailboat` no estilo Fill.
+  ///
   /// ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sailboat.svg)
   static const IconData sailboat = IconData(
     0xe78a,
@@ -9407,6 +14103,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scales` icon in Fill style.
+  ///
+  /// [PT] O ícone `scales` no estilo Fill.
+  ///
   /// ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scales.svg)
   static const IconData scales = IconData(
     0xe750,
@@ -9415,6 +14115,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scan` icon in Fill style.
+  ///
+  /// [PT] O ícone `scan` no estilo Fill.
+  ///
   /// ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scan.svg)
   static const IconData scan = IconData(
     0xebb6,
@@ -9423,6 +14127,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scanSmiley` icon in Fill style.
+  ///
+  /// [PT] O ícone `scanSmiley` no estilo Fill.
+  ///
   /// ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scan-smiley.svg)
   static const IconData scanSmiley = IconData(
     0xebb4,
@@ -9431,6 +14139,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scissors` icon in Fill style.
+  ///
+  /// [PT] O ícone `scissors` no estilo Fill.
+  ///
   /// ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scissors.svg)
   static const IconData scissors = IconData(
     0xeae0,
@@ -9439,6 +14151,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scooter` icon in Fill style.
+  ///
+  /// [PT] O ícone `scooter` no estilo Fill.
+  ///
   /// ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scooter.svg)
   static const IconData scooter = IconData(
     0xe820,
@@ -9447,6 +14163,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `screencast` icon in Fill style.
+  ///
+  /// [PT] O ícone `screencast` no estilo Fill.
+  ///
   /// ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/screencast.svg)
   static const IconData screencast = IconData(
     0xe404,
@@ -9455,6 +14175,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `screwdriver` icon in Fill style.
+  ///
+  /// [PT] O ícone `screwdriver` no estilo Fill.
+  ///
   /// ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/screwdriver.svg)
   static const IconData screwdriver = IconData(
     0xe86e,
@@ -9463,6 +14187,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scribble` icon in Fill style.
+  ///
+  /// [PT] O ícone `scribble` no estilo Fill.
+  ///
   /// ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scribble.svg)
   static const IconData scribble = IconData(
     0xe806,
@@ -9471,6 +14199,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scribbleLoop` icon in Fill style.
+  ///
+  /// [PT] O ícone `scribbleLoop` no estilo Fill.
+  ///
   /// ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scribble-loop.svg)
   static const IconData scribbleLoop = IconData(
     0xe662,
@@ -9479,6 +14211,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `scroll` icon in Fill style.
+  ///
+  /// [PT] O ícone `scroll` no estilo Fill.
+  ///
   /// ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/scroll.svg)
   static const IconData scroll = IconData(
     0xeb7a,
@@ -9487,6 +14223,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `seal` icon in Fill style.
+  ///
+  /// [PT] O ícone `seal` no estilo Fill.
+  ///
   /// ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal.svg)
   static const IconData seal = IconData(
     0xe604,
@@ -9495,6 +14235,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sealCheck` icon in Fill style.
+  ///
+  /// [PT] O ícone `sealCheck` no estilo Fill.
+  ///
   /// ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-check.svg)
   static const IconData sealCheck = IconData(
     0xe606,
@@ -9503,6 +14247,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sealPercent` icon in Fill style.
+  ///
+  /// [PT] O ícone `sealPercent` no estilo Fill.
+  ///
   /// ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-percent.svg)
   static const IconData sealPercent = IconData(
     0xe60a,
@@ -9511,6 +14259,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sealQuestion` icon in Fill style.
+  ///
+  /// [PT] O ícone `sealQuestion` no estilo Fill.
+  ///
   /// ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-question.svg)
   static const IconData sealQuestion = IconData(
     0xe608,
@@ -9519,6 +14271,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sealWarning` icon in Fill style.
+  ///
+  /// [PT] O ícone `sealWarning` no estilo Fill.
+  ///
   /// ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seal-warning.svg)
   static const IconData sealWarning = IconData(
     0xe60c,
@@ -9527,6 +14283,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `seat` icon in Fill style.
+  ///
+  /// [PT] O ícone `seat` no estilo Fill.
+  ///
   /// ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seat.svg)
   static const IconData seat = IconData(
     0xeb8e,
@@ -9535,6 +14295,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `seatbelt` icon in Fill style.
+  ///
+  /// [PT] O ícone `seatbelt` no estilo Fill.
+  ///
   /// ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/seatbelt.svg)
   static const IconData seatbelt = IconData(
     0xedfe,
@@ -9543,6 +14307,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `securityCamera` icon in Fill style.
+  ///
+  /// [PT] O ícone `securityCamera` no estilo Fill.
+  ///
   /// ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/security-camera.svg)
   static const IconData securityCamera = IconData(
     0xeca4,
@@ -9551,6 +14319,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `selection` icon in Fill style.
+  ///
+  /// [PT] O ícone `selection` no estilo Fill.
+  ///
   /// ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection.svg)
   static const IconData selection = IconData(
     0xe69a,
@@ -9559,6 +14331,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `selectionAll` icon in Fill style.
+  ///
+  /// [PT] O ícone `selectionAll` no estilo Fill.
+  ///
   /// ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-all.svg)
   static const IconData selectionAll = IconData(
     0xe746,
@@ -9567,6 +14343,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `selectionBackground` icon in Fill style.
+  ///
+  /// [PT] O ícone `selectionBackground` no estilo Fill.
+  ///
   /// ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-background.svg)
   static const IconData selectionBackground = IconData(
     0xeaf8,
@@ -9575,6 +14355,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `selectionForeground` icon in Fill style.
+  ///
+  /// [PT] O ícone `selectionForeground` no estilo Fill.
+  ///
   /// ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-foreground.svg)
   static const IconData selectionForeground = IconData(
     0xeaf6,
@@ -9583,6 +14367,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `selectionInverse` icon in Fill style.
+  ///
+  /// [PT] O ícone `selectionInverse` no estilo Fill.
+  ///
   /// ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-inverse.svg)
   static const IconData selectionInverse = IconData(
     0xe744,
@@ -9591,6 +14379,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `selectionPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `selectionPlus` no estilo Fill.
+  ///
   /// ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-plus.svg)
   static const IconData selectionPlus = IconData(
     0xe69c,
@@ -9599,6 +14391,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `selectionSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `selectionSlash` no estilo Fill.
+  ///
   /// ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/selection-slash.svg)
   static const IconData selectionSlash = IconData(
     0xe69e,
@@ -9607,6 +14403,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shapes` icon in Fill style.
+  ///
+  /// [PT] O ícone `shapes` no estilo Fill.
+  ///
   /// ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shapes.svg)
   static const IconData shapes = IconData(
     0xec5e,
@@ -9615,6 +14415,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `share` icon in Fill style.
+  ///
+  /// [PT] O ícone `share` no estilo Fill.
+  ///
   /// ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share.svg)
   static const IconData share = IconData(
     0xe406,
@@ -9623,6 +14427,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shareFat` icon in Fill style.
+  ///
+  /// [PT] O ícone `shareFat` no estilo Fill.
+  ///
   /// ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share-fat.svg)
   static const IconData shareFat = IconData(
     0xed52,
@@ -9631,6 +14439,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shareNetwork` icon in Fill style.
+  ///
+  /// [PT] O ícone `shareNetwork` no estilo Fill.
+  ///
   /// ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/share-network.svg)
   static const IconData shareNetwork = IconData(
     0xe408,
@@ -9639,6 +14451,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shield` icon in Fill style.
+  ///
+  /// [PT] O ícone `shield` no estilo Fill.
+  ///
   /// ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield.svg)
   static const IconData shield = IconData(
     0xe40a,
@@ -9647,6 +14463,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shieldCheck` icon in Fill style.
+  ///
+  /// [PT] O ícone `shieldCheck` no estilo Fill.
+  ///
   /// ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-check.svg)
   static const IconData shieldCheck = IconData(
     0xe40c,
@@ -9655,6 +14475,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shieldCheckered` icon in Fill style.
+  ///
+  /// [PT] O ícone `shieldCheckered` no estilo Fill.
+  ///
   /// ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-checkered.svg)
   static const IconData shieldCheckered = IconData(
     0xe708,
@@ -9663,6 +14487,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shieldChevron` icon in Fill style.
+  ///
+  /// [PT] O ícone `shieldChevron` no estilo Fill.
+  ///
   /// ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-chevron.svg)
   static const IconData shieldChevron = IconData(
     0xe40e,
@@ -9671,6 +14499,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shieldPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `shieldPlus` no estilo Fill.
+  ///
   /// ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-plus.svg)
   static const IconData shieldPlus = IconData(
     0xe706,
@@ -9679,6 +14511,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shieldSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `shieldSlash` no estilo Fill.
+  ///
   /// ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-slash.svg)
   static const IconData shieldSlash = IconData(
     0xe410,
@@ -9687,6 +14523,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shieldStar` icon in Fill style.
+  ///
+  /// [PT] O ícone `shieldStar` no estilo Fill.
+  ///
   /// ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-star.svg)
   static const IconData shieldStar = IconData(
     0xec34,
@@ -9695,6 +14535,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shieldWarning` icon in Fill style.
+  ///
+  /// [PT] O ícone `shieldWarning` no estilo Fill.
+  ///
   /// ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shield-warning.svg)
   static const IconData shieldWarning = IconData(
     0xe412,
@@ -9703,6 +14547,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shippingContainer` icon in Fill style.
+  ///
+  /// [PT] O ícone `shippingContainer` no estilo Fill.
+  ///
   /// ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shipping-container.svg)
   static const IconData shippingContainer = IconData(
     0xe78c,
@@ -9711,6 +14559,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shirtFolded` icon in Fill style.
+  ///
+  /// [PT] O ícone `shirtFolded` no estilo Fill.
+  ///
   /// ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shirt-folded.svg)
   static const IconData shirtFolded = IconData(
     0xea92,
@@ -9719,6 +14571,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shootingStar` icon in Fill style.
+  ///
+  /// [PT] O ícone `shootingStar` no estilo Fill.
+  ///
   /// ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shooting-star.svg)
   static const IconData shootingStar = IconData(
     0xecfa,
@@ -9727,6 +14583,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shoppingBag` icon in Fill style.
+  ///
+  /// [PT] O ícone `shoppingBag` no estilo Fill.
+  ///
   /// ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-bag.svg)
   static const IconData shoppingBag = IconData(
     0xe416,
@@ -9735,6 +14595,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shoppingBagOpen` icon in Fill style.
+  ///
+  /// [PT] O ícone `shoppingBagOpen` no estilo Fill.
+  ///
   /// ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-bag-open.svg)
   static const IconData shoppingBagOpen = IconData(
     0xe418,
@@ -9743,6 +14607,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shoppingCart` icon in Fill style.
+  ///
+  /// [PT] O ícone `shoppingCart` no estilo Fill.
+  ///
   /// ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-cart.svg)
   static const IconData shoppingCart = IconData(
     0xe41e,
@@ -9751,6 +14619,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shoppingCartSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `shoppingCartSimple` no estilo Fill.
+  ///
   /// ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shopping-cart-simple.svg)
   static const IconData shoppingCartSimple = IconData(
     0xe420,
@@ -9759,6 +14631,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shovel` icon in Fill style.
+  ///
+  /// [PT] O ícone `shovel` no estilo Fill.
+  ///
   /// ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shovel.svg)
   static const IconData shovel = IconData(
     0xe9e6,
@@ -9767,6 +14643,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shower` icon in Fill style.
+  ///
+  /// [PT] O ícone `shower` no estilo Fill.
+  ///
   /// ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shower.svg)
   static const IconData shower = IconData(
     0xe776,
@@ -9775,6 +14655,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shrimp` icon in Fill style.
+  ///
+  /// [PT] O ícone `shrimp` no estilo Fill.
+  ///
   /// ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shrimp.svg)
   static const IconData shrimp = IconData(
     0xeab4,
@@ -9783,6 +14667,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shuffle` icon in Fill style.
+  ///
+  /// [PT] O ícone `shuffle` no estilo Fill.
+  ///
   /// ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle.svg)
   static const IconData shuffle = IconData(
     0xe422,
@@ -9791,6 +14679,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shuffleAngular` icon in Fill style.
+  ///
+  /// [PT] O ícone `shuffleAngular` no estilo Fill.
+  ///
   /// ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle-angular.svg)
   static const IconData shuffleAngular = IconData(
     0xe424,
@@ -9799,6 +14691,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `shuffleSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `shuffleSimple` no estilo Fill.
+  ///
   /// ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/shuffle-simple.svg)
   static const IconData shuffleSimple = IconData(
     0xe426,
@@ -9807,6 +14703,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sidebar` icon in Fill style.
+  ///
+  /// [PT] O ícone `sidebar` no estilo Fill.
+  ///
   /// ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sidebar.svg)
   static const IconData sidebar = IconData(
     0xeab6,
@@ -9815,6 +14715,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sidebarSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `sidebarSimple` no estilo Fill.
+  ///
   /// ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sidebar-simple.svg)
   static const IconData sidebarSimple = IconData(
     0xec24,
@@ -9823,6 +14727,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sigma` icon in Fill style.
+  ///
+  /// [PT] O ícone `sigma` no estilo Fill.
+  ///
   /// ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sigma.svg)
   static const IconData sigma = IconData(
     0xeab8,
@@ -9831,6 +14739,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `signIn` icon in Fill style.
+  ///
+  /// [PT] O ícone `signIn` no estilo Fill.
+  ///
   /// ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sign-in.svg)
   static const IconData signIn = IconData(
     0xe428,
@@ -9839,6 +14751,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `signOut` icon in Fill style.
+  ///
+  /// [PT] O ícone `signOut` no estilo Fill.
+  ///
   /// ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sign-out.svg)
   static const IconData signOut = IconData(
     0xe42a,
@@ -9847,6 +14763,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `signature` icon in Fill style.
+  ///
+  /// [PT] O ícone `signature` no estilo Fill.
+  ///
   /// ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/signature.svg)
   static const IconData signature = IconData(
     0xebac,
@@ -9855,6 +14775,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `signpost` icon in Fill style.
+  ///
+  /// [PT] O ícone `signpost` no estilo Fill.
+  ///
   /// ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/signpost.svg)
   static const IconData signpost = IconData(
     0xe89c,
@@ -9863,6 +14787,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `simCard` icon in Fill style.
+  ///
+  /// [PT] O ícone `simCard` no estilo Fill.
+  ///
   /// ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sim-card.svg)
   static const IconData simCard = IconData(
     0xe664,
@@ -9871,6 +14799,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `siren` icon in Fill style.
+  ///
+  /// [PT] O ícone `siren` no estilo Fill.
+  ///
   /// ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/siren.svg)
   static const IconData siren = IconData(
     0xe9b8,
@@ -9879,6 +14811,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sketchLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `sketchLogo` no estilo Fill.
+  ///
   /// ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sketch-logo.svg)
   static const IconData sketchLogo = IconData(
     0xe42c,
@@ -9887,6 +14823,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `skipBack` icon in Fill style.
+  ///
+  /// [PT] O ícone `skipBack` no estilo Fill.
+  ///
   /// ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-back.svg)
   static const IconData skipBack = IconData(
     0xe5a4,
@@ -9895,6 +14835,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `skipBackCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `skipBackCircle` no estilo Fill.
+  ///
   /// ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-back-circle.svg)
   static const IconData skipBackCircle = IconData(
     0xe42e,
@@ -9903,6 +14847,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `skipForward` icon in Fill style.
+  ///
+  /// [PT] O ícone `skipForward` no estilo Fill.
+  ///
   /// ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-forward.svg)
   static const IconData skipForward = IconData(
     0xe5a6,
@@ -9911,6 +14859,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `skipForwardCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `skipForwardCircle` no estilo Fill.
+  ///
   /// ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skip-forward-circle.svg)
   static const IconData skipForwardCircle = IconData(
     0xe430,
@@ -9919,6 +14871,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `skull` icon in Fill style.
+  ///
+  /// [PT] O ícone `skull` no estilo Fill.
+  ///
   /// ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skull.svg)
   static const IconData skull = IconData(
     0xe916,
@@ -9927,6 +14883,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `skypeLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `skypeLogo` no estilo Fill.
+  ///
   /// ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/skype-logo.svg)
   static const IconData skypeLogo = IconData(
     0xe8dc,
@@ -9935,6 +14895,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `slackLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `slackLogo` no estilo Fill.
+  ///
   /// ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/slack-logo.svg)
   static const IconData slackLogo = IconData(
     0xe5a8,
@@ -9943,6 +14907,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sliders` icon in Fill style.
+  ///
+  /// [PT] O ícone `sliders` no estilo Fill.
+  ///
   /// ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sliders.svg)
   static const IconData sliders = IconData(
     0xe432,
@@ -9951,6 +14919,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `slidersHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `slidersHorizontal` no estilo Fill.
+  ///
   /// ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sliders-horizontal.svg)
   static const IconData slidersHorizontal = IconData(
     0xe434,
@@ -9959,6 +14931,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `slideshow` icon in Fill style.
+  ///
+  /// [PT] O ícone `slideshow` no estilo Fill.
+  ///
   /// ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/slideshow.svg)
   static const IconData slideshow = IconData(
     0xed32,
@@ -9967,6 +14943,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smiley` icon in Fill style.
+  ///
+  /// [PT] O ícone `smiley` no estilo Fill.
+  ///
   /// ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley.svg)
   static const IconData smiley = IconData(
     0xe436,
@@ -9975,6 +14955,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileyAngry` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileyAngry` no estilo Fill.
+  ///
   /// ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-angry.svg)
   static const IconData smileyAngry = IconData(
     0xec62,
@@ -9983,6 +14967,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileyBlank` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileyBlank` no estilo Fill.
+  ///
   /// ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-blank.svg)
   static const IconData smileyBlank = IconData(
     0xe438,
@@ -9991,6 +14979,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileyMeh` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileyMeh` no estilo Fill.
+  ///
   /// ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-meh.svg)
   static const IconData smileyMeh = IconData(
     0xe43a,
@@ -9999,6 +14991,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileyMelting` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileyMelting` no estilo Fill.
+  ///
   /// ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-melting.svg)
   static const IconData smileyMelting = IconData(
     0xee56,
@@ -10007,6 +15003,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileyNervous` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileyNervous` no estilo Fill.
+  ///
   /// ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-nervous.svg)
   static const IconData smileyNervous = IconData(
     0xe43c,
@@ -10015,6 +15015,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileySad` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileySad` no estilo Fill.
+  ///
   /// ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-sad.svg)
   static const IconData smileySad = IconData(
     0xe43e,
@@ -10023,6 +15027,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileySticker` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileySticker` no estilo Fill.
+  ///
   /// ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-sticker.svg)
   static const IconData smileySticker = IconData(
     0xe440,
@@ -10031,6 +15039,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileyWink` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileyWink` no estilo Fill.
+  ///
   /// ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-wink.svg)
   static const IconData smileyWink = IconData(
     0xe666,
@@ -10039,6 +15051,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `smileyXEyes` icon in Fill style.
+  ///
+  /// [PT] O ícone `smileyXEyes` no estilo Fill.
+  ///
   /// ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/smiley-x-eyes.svg)
   static const IconData smileyXEyes = IconData(
     0xe442,
@@ -10047,6 +15063,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `snapchatLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `snapchatLogo` no estilo Fill.
+  ///
   /// ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/snapchat-logo.svg)
   static const IconData snapchatLogo = IconData(
     0xe668,
@@ -10055,6 +15075,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sneaker` icon in Fill style.
+  ///
+  /// [PT] O ícone `sneaker` no estilo Fill.
+  ///
   /// ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sneaker.svg)
   static const IconData sneaker = IconData(
     0xe80c,
@@ -10063,6 +15087,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sneakerMove` icon in Fill style.
+  ///
+  /// [PT] O ícone `sneakerMove` no estilo Fill.
+  ///
   /// ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sneaker-move.svg)
   static const IconData sneakerMove = IconData(
     0xed60,
@@ -10071,6 +15099,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `snowflake` icon in Fill style.
+  ///
+  /// [PT] O ícone `snowflake` no estilo Fill.
+  ///
   /// ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/snowflake.svg)
   static const IconData snowflake = IconData(
     0xe5aa,
@@ -10079,6 +15111,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `soccerBall` icon in Fill style.
+  ///
+  /// [PT] O ícone `soccerBall` no estilo Fill.
+  ///
   /// ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/soccer-ball.svg)
   static const IconData soccerBall = IconData(
     0xe716,
@@ -10087,6 +15123,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sock` icon in Fill style.
+  ///
+  /// [PT] O ícone `sock` no estilo Fill.
+  ///
   /// ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sock.svg)
   static const IconData sock = IconData(
     0xecce,
@@ -10095,6 +15135,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `solarPanel` icon in Fill style.
+  ///
+  /// [PT] O ícone `solarPanel` no estilo Fill.
+  ///
   /// ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/solar-panel.svg)
   static const IconData solarPanel = IconData(
     0xed7a,
@@ -10103,6 +15147,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `solarRoof` icon in Fill style.
+  ///
+  /// [PT] O ícone `solarRoof` no estilo Fill.
+  ///
   /// ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/solar-roof.svg)
   static const IconData solarRoof = IconData(
     0xed7b,
@@ -10111,6 +15159,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sortAscending` icon in Fill style.
+  ///
+  /// [PT] O ícone `sortAscending` no estilo Fill.
+  ///
   /// ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sort-ascending.svg)
   static const IconData sortAscending = IconData(
     0xe444,
@@ -10119,6 +15171,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sortDescending` icon in Fill style.
+  ///
+  /// [PT] O ícone `sortDescending` no estilo Fill.
+  ///
   /// ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sort-descending.svg)
   static const IconData sortDescending = IconData(
     0xe446,
@@ -10127,6 +15183,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `soundcloudLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `soundcloudLogo` no estilo Fill.
+  ///
   /// ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/soundcloud-logo.svg)
   static const IconData soundcloudLogo = IconData(
     0xe8de,
@@ -10135,6 +15195,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `spade` icon in Fill style.
+  ///
+  /// [PT] O ícone `spade` no estilo Fill.
+  ///
   /// ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spade.svg)
   static const IconData spade = IconData(
     0xe448,
@@ -10143,6 +15207,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sparkle` icon in Fill style.
+  ///
+  /// [PT] O ícone `sparkle` no estilo Fill.
+  ///
   /// ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sparkle.svg)
   static const IconData sparkle = IconData(
     0xe6a2,
@@ -10151,6 +15219,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerHifi` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerHifi` no estilo Fill.
+  ///
   /// ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-hifi.svg)
   static const IconData speakerHifi = IconData(
     0xea08,
@@ -10159,6 +15231,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerHigh` no estilo Fill.
+  ///
   /// ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-high.svg)
   static const IconData speakerHigh = IconData(
     0xe44a,
@@ -10167,6 +15243,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerLow` no estilo Fill.
+  ///
   /// ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-low.svg)
   static const IconData speakerLow = IconData(
     0xe44c,
@@ -10175,6 +15255,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerNone` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerNone` no estilo Fill.
+  ///
   /// ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-none.svg)
   static const IconData speakerNone = IconData(
     0xe44e,
@@ -10183,6 +15267,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerSimpleHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerSimpleHigh` no estilo Fill.
+  ///
   /// ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-high.svg)
   static const IconData speakerSimpleHigh = IconData(
     0xe450,
@@ -10191,6 +15279,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerSimpleLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerSimpleLow` no estilo Fill.
+  ///
   /// ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-low.svg)
   static const IconData speakerSimpleLow = IconData(
     0xe452,
@@ -10199,6 +15291,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerSimpleNone` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerSimpleNone` no estilo Fill.
+  ///
   /// ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-none.svg)
   static const IconData speakerSimpleNone = IconData(
     0xe454,
@@ -10207,6 +15303,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerSimpleSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerSimpleSlash` no estilo Fill.
+  ///
   /// ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-slash.svg)
   static const IconData speakerSimpleSlash = IconData(
     0xe456,
@@ -10215,6 +15315,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerSimpleX` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerSimpleX` no estilo Fill.
+  ///
   /// ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-simple-x.svg)
   static const IconData speakerSimpleX = IconData(
     0xe458,
@@ -10223,6 +15327,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerSlash` no estilo Fill.
+  ///
   /// ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-slash.svg)
   static const IconData speakerSlash = IconData(
     0xe45a,
@@ -10231,6 +15339,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speakerX` icon in Fill style.
+  ///
+  /// [PT] O ícone `speakerX` no estilo Fill.
+  ///
   /// ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speaker-x.svg)
   static const IconData speakerX = IconData(
     0xe45c,
@@ -10239,6 +15351,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `speedometer` icon in Fill style.
+  ///
+  /// [PT] O ícone `speedometer` no estilo Fill.
+  ///
   /// ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/speedometer.svg)
   static const IconData speedometer = IconData(
     0xee74,
@@ -10247,6 +15363,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sphere` icon in Fill style.
+  ///
+  /// [PT] O ícone `sphere` no estilo Fill.
+  ///
   /// ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sphere.svg)
   static const IconData sphere = IconData(
     0xee66,
@@ -10255,6 +15375,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `spinner` icon in Fill style.
+  ///
+  /// [PT] O ícone `spinner` no estilo Fill.
+  ///
   /// ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner.svg)
   static const IconData spinner = IconData(
     0xe66a,
@@ -10263,6 +15387,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `spinnerBall` icon in Fill style.
+  ///
+  /// [PT] O ícone `spinnerBall` no estilo Fill.
+  ///
   /// ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner-ball.svg)
   static const IconData spinnerBall = IconData(
     0xee28,
@@ -10271,6 +15399,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `spinnerGap` icon in Fill style.
+  ///
+  /// [PT] O ícone `spinnerGap` no estilo Fill.
+  ///
   /// ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spinner-gap.svg)
   static const IconData spinnerGap = IconData(
     0xe66c,
@@ -10279,6 +15411,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `spiral` icon in Fill style.
+  ///
+  /// [PT] O ícone `spiral` no estilo Fill.
+  ///
   /// ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spiral.svg)
   static const IconData spiral = IconData(
     0xe9fa,
@@ -10287,6 +15423,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `splitHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `splitHorizontal` no estilo Fill.
+  ///
   /// ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/split-horizontal.svg)
   static const IconData splitHorizontal = IconData(
     0xe872,
@@ -10295,6 +15435,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `splitVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `splitVertical` no estilo Fill.
+  ///
   /// ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/split-vertical.svg)
   static const IconData splitVertical = IconData(
     0xe876,
@@ -10303,6 +15447,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `spotifyLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `spotifyLogo` no estilo Fill.
+  ///
   /// ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spotify-logo.svg)
   static const IconData spotifyLogo = IconData(
     0xe66e,
@@ -10311,6 +15459,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sprayBottle` icon in Fill style.
+  ///
+  /// [PT] O ícone `sprayBottle` no estilo Fill.
+  ///
   /// ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/spray-bottle.svg)
   static const IconData sprayBottle = IconData(
     0xe7e4,
@@ -10319,6 +15471,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `square` icon in Fill style.
+  ///
+  /// [PT] O ícone `square` no estilo Fill.
+  ///
   /// ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square.svg)
   static const IconData square = IconData(
     0xe45e,
@@ -10327,6 +15483,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `squareHalf` icon in Fill style.
+  ///
+  /// [PT] O ícone `squareHalf` no estilo Fill.
+  ///
   /// ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-half.svg)
   static const IconData squareHalf = IconData(
     0xe462,
@@ -10335,6 +15495,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `squareHalfBottom` icon in Fill style.
+  ///
+  /// [PT] O ícone `squareHalfBottom` no estilo Fill.
+  ///
   /// ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-half-bottom.svg)
   static const IconData squareHalfBottom = IconData(
     0xeb16,
@@ -10343,6 +15507,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `squareLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `squareLogo` no estilo Fill.
+  ///
   /// ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-logo.svg)
   static const IconData squareLogo = IconData(
     0xe690,
@@ -10351,6 +15519,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `squareSplitHorizontal` icon in Fill style.
+  ///
+  /// [PT] O ícone `squareSplitHorizontal` no estilo Fill.
+  ///
   /// ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-split-horizontal.svg)
   static const IconData squareSplitHorizontal = IconData(
     0xe870,
@@ -10359,6 +15531,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `squareSplitVertical` icon in Fill style.
+  ///
+  /// [PT] O ícone `squareSplitVertical` no estilo Fill.
+  ///
   /// ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/square-split-vertical.svg)
   static const IconData squareSplitVertical = IconData(
     0xe874,
@@ -10367,6 +15543,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `squaresFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `squaresFour` no estilo Fill.
+  ///
   /// ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/squares-four.svg)
   static const IconData squaresFour = IconData(
     0xe464,
@@ -10375,6 +15555,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stack` icon in Fill style.
+  ///
+  /// [PT] O ícone `stack` no estilo Fill.
+  ///
   /// ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack.svg)
   static const IconData stack = IconData(
     0xe466,
@@ -10383,6 +15567,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stackMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `stackMinus` no estilo Fill.
+  ///
   /// ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-minus.svg)
   static const IconData stackMinus = IconData(
     0xedf4,
@@ -10391,6 +15579,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stackOverflowLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `stackOverflowLogo` no estilo Fill.
+  ///
   /// ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-overflow-logo.svg)
   static const IconData stackOverflowLogo = IconData(
     0xeb78,
@@ -10399,6 +15591,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stackPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `stackPlus` no estilo Fill.
+  ///
   /// ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-plus.svg)
   static const IconData stackPlus = IconData(
     0xedf6,
@@ -10407,6 +15603,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stackSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `stackSimple` no estilo Fill.
+  ///
   /// ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stack-simple.svg)
   static const IconData stackSimple = IconData(
     0xe468,
@@ -10415,6 +15615,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stairs` icon in Fill style.
+  ///
+  /// [PT] O ícone `stairs` no estilo Fill.
+  ///
   /// ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stairs.svg)
   static const IconData stairs = IconData(
     0xe8ec,
@@ -10423,6 +15627,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stamp` icon in Fill style.
+  ///
+  /// [PT] O ícone `stamp` no estilo Fill.
+  ///
   /// ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stamp.svg)
   static const IconData stamp = IconData(
     0xea48,
@@ -10431,6 +15639,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `standardDefinition` icon in Fill style.
+  ///
+  /// [PT] O ícone `standardDefinition` no estilo Fill.
+  ///
   /// ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/standard-definition.svg)
   static const IconData standardDefinition = IconData(
     0xea90,
@@ -10439,6 +15651,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `star` icon in Fill style.
+  ///
+  /// [PT] O ícone `star` no estilo Fill.
+  ///
   /// ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star.svg)
   static const IconData star = IconData(
     0xe46a,
@@ -10447,6 +15663,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `starAndCrescent` icon in Fill style.
+  ///
+  /// [PT] O ícone `starAndCrescent` no estilo Fill.
+  ///
   /// ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-and-crescent.svg)
   static const IconData starAndCrescent = IconData(
     0xecf4,
@@ -10455,6 +15675,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `starFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `starFour` no estilo Fill.
+  ///
   /// ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-four.svg)
   static const IconData starFour = IconData(
     0xe6a4,
@@ -10463,6 +15687,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `starHalf` icon in Fill style.
+  ///
+  /// [PT] O ícone `starHalf` no estilo Fill.
+  ///
   /// ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-half.svg)
   static const IconData starHalf = IconData(
     0xe70a,
@@ -10471,6 +15699,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `starOfDavid` icon in Fill style.
+  ///
+  /// [PT] O ícone `starOfDavid` no estilo Fill.
+  ///
   /// ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/star-of-david.svg)
   static const IconData starOfDavid = IconData(
     0xe89e,
@@ -10479,6 +15711,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `steamLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `steamLogo` no estilo Fill.
+  ///
   /// ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steam-logo.svg)
   static const IconData steamLogo = IconData(
     0xead4,
@@ -10487,6 +15723,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `steeringWheel` icon in Fill style.
+  ///
+  /// [PT] O ícone `steeringWheel` no estilo Fill.
+  ///
   /// ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steering-wheel.svg)
   static const IconData steeringWheel = IconData(
     0xe9ac,
@@ -10495,6 +15735,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `steps` icon in Fill style.
+  ///
+  /// [PT] O ícone `steps` no estilo Fill.
+  ///
   /// ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/steps.svg)
   static const IconData steps = IconData(
     0xecbe,
@@ -10503,6 +15747,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stethoscope` icon in Fill style.
+  ///
+  /// [PT] O ícone `stethoscope` no estilo Fill.
+  ///
   /// ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stethoscope.svg)
   static const IconData stethoscope = IconData(
     0xe7ea,
@@ -10511,6 +15759,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sticker` icon in Fill style.
+  ///
+  /// [PT] O ícone `sticker` no estilo Fill.
+  ///
   /// ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sticker.svg)
   static const IconData sticker = IconData(
     0xe5ac,
@@ -10519,6 +15771,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stool` icon in Fill style.
+  ///
+  /// [PT] O ícone `stool` no estilo Fill.
+  ///
   /// ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stool.svg)
   static const IconData stool = IconData(
     0xea44,
@@ -10527,6 +15783,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stop` icon in Fill style.
+  ///
+  /// [PT] O ícone `stop` no estilo Fill.
+  ///
   /// ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stop.svg)
   static const IconData stop = IconData(
     0xe46c,
@@ -10535,6 +15795,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stopCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `stopCircle` no estilo Fill.
+  ///
   /// ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stop-circle.svg)
   static const IconData stopCircle = IconData(
     0xe46e,
@@ -10543,6 +15807,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `storefront` icon in Fill style.
+  ///
+  /// [PT] O ícone `storefront` no estilo Fill.
+  ///
   /// ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/storefront.svg)
   static const IconData storefront = IconData(
     0xe470,
@@ -10551,6 +15819,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `strategy` icon in Fill style.
+  ///
+  /// [PT] O ícone `strategy` no estilo Fill.
+  ///
   /// ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/strategy.svg)
   static const IconData strategy = IconData(
     0xea3a,
@@ -10559,6 +15831,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `stripeLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `stripeLogo` no estilo Fill.
+  ///
   /// ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/stripe-logo.svg)
   static const IconData stripeLogo = IconData(
     0xe698,
@@ -10567,6 +15843,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `student` icon in Fill style.
+  ///
+  /// [PT] O ícone `student` no estilo Fill.
+  ///
   /// ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/student.svg)
   static const IconData student = IconData(
     0xe73e,
@@ -10575,6 +15855,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `subsetOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `subsetOf` no estilo Fill.
+  ///
   /// ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subset-of.svg)
   static const IconData subsetOf = IconData(
     0xedc0,
@@ -10583,6 +15867,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `subsetProperOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `subsetProperOf` no estilo Fill.
+  ///
   /// ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subset-proper-of.svg)
   static const IconData subsetProperOf = IconData(
     0xedb6,
@@ -10591,6 +15879,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `subtitles` icon in Fill style.
+  ///
+  /// [PT] O ícone `subtitles` no estilo Fill.
+  ///
   /// ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtitles.svg)
   static const IconData subtitles = IconData(
     0xe1a8,
@@ -10599,6 +15891,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `subtitlesSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `subtitlesSlash` no estilo Fill.
+  ///
   /// ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtitles-slash.svg)
   static const IconData subtitlesSlash = IconData(
     0xe1a6,
@@ -10607,6 +15903,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `subtract` icon in Fill style.
+  ///
+  /// [PT] O ícone `subtract` no estilo Fill.
+  ///
   /// ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtract.svg)
   static const IconData subtract = IconData(
     0xebd6,
@@ -10615,6 +15915,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `subtractSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `subtractSquare` no estilo Fill.
+  ///
   /// ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subtract-square.svg)
   static const IconData subtractSquare = IconData(
     0xebd4,
@@ -10623,6 +15927,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `subway` icon in Fill style.
+  ///
+  /// [PT] O ícone `subway` no estilo Fill.
+  ///
   /// ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/subway.svg)
   static const IconData subway = IconData(
     0xe498,
@@ -10631,6 +15939,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `suitcase` icon in Fill style.
+  ///
+  /// [PT] O ícone `suitcase` no estilo Fill.
+  ///
   /// ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase.svg)
   static const IconData suitcase = IconData(
     0xe5ae,
@@ -10639,6 +15951,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `suitcaseRolling` icon in Fill style.
+  ///
+  /// [PT] O ícone `suitcaseRolling` no estilo Fill.
+  ///
   /// ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase-rolling.svg)
   static const IconData suitcaseRolling = IconData(
     0xe9b0,
@@ -10647,6 +15963,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `suitcaseSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `suitcaseSimple` no estilo Fill.
+  ///
   /// ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/suitcase-simple.svg)
   static const IconData suitcaseSimple = IconData(
     0xe5b0,
@@ -10655,6 +15975,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sun` icon in Fill style.
+  ///
+  /// [PT] O ícone `sun` no estilo Fill.
+  ///
   /// ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun.svg)
   static const IconData sun = IconData(
     0xe472,
@@ -10663,6 +15987,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sunDim` icon in Fill style.
+  ///
+  /// [PT] O ícone `sunDim` no estilo Fill.
+  ///
   /// ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun-dim.svg)
   static const IconData sunDim = IconData(
     0xe474,
@@ -10671,6 +15999,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sunHorizon` icon in Fill style.
+  ///
+  /// [PT] O ícone `sunHorizon` no estilo Fill.
+  ///
   /// ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sun-horizon.svg)
   static const IconData sunHorizon = IconData(
     0xe5b6,
@@ -10679,6 +16011,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sunglasses` icon in Fill style.
+  ///
+  /// [PT] O ícone `sunglasses` no estilo Fill.
+  ///
   /// ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sunglasses.svg)
   static const IconData sunglasses = IconData(
     0xe816,
@@ -10687,6 +16023,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `supersetOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `supersetOf` no estilo Fill.
+  ///
   /// ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/superset-of.svg)
   static const IconData supersetOf = IconData(
     0xedb8,
@@ -10695,6 +16035,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `supersetProperOf` icon in Fill style.
+  ///
+  /// [PT] O ícone `supersetProperOf` no estilo Fill.
+  ///
   /// ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/superset-proper-of.svg)
   static const IconData supersetProperOf = IconData(
     0xedb4,
@@ -10703,6 +16047,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `swap` icon in Fill style.
+  ///
+  /// [PT] O ícone `swap` no estilo Fill.
+  ///
   /// ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swap.svg)
   static const IconData swap = IconData(
     0xe83c,
@@ -10711,6 +16059,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `swatches` icon in Fill style.
+  ///
+  /// [PT] O ícone `swatches` no estilo Fill.
+  ///
   /// ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swatches.svg)
   static const IconData swatches = IconData(
     0xe5b8,
@@ -10719,6 +16071,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `swimmingPool` icon in Fill style.
+  ///
+  /// [PT] O ícone `swimmingPool` no estilo Fill.
+  ///
   /// ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/swimming-pool.svg)
   static const IconData swimmingPool = IconData(
     0xecb6,
@@ -10727,6 +16083,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `sword` icon in Fill style.
+  ///
+  /// [PT] O ícone `sword` no estilo Fill.
+  ///
   /// ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/sword.svg)
   static const IconData sword = IconData(
     0xe5ba,
@@ -10735,6 +16095,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `synagogue` icon in Fill style.
+  ///
+  /// [PT] O ícone `synagogue` no estilo Fill.
+  ///
   /// ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/synagogue.svg)
   static const IconData synagogue = IconData(
     0xecec,
@@ -10743,6 +16107,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `syringe` icon in Fill style.
+  ///
+  /// [PT] O ícone `syringe` no estilo Fill.
+  ///
   /// ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/syringe.svg)
   static const IconData syringe = IconData(
     0xe968,
@@ -10751,6 +16119,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tShirt` icon in Fill style.
+  ///
+  /// [PT] O ícone `tShirt` no estilo Fill.
+  ///
   /// ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/t-shirt.svg)
   static const IconData tShirt = IconData(
     0xe670,
@@ -10759,6 +16131,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `table` icon in Fill style.
+  ///
+  /// [PT] O ícone `table` no estilo Fill.
+  ///
   /// ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/table.svg)
   static const IconData table = IconData(
     0xe476,
@@ -10767,6 +16143,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tabs` icon in Fill style.
+  ///
+  /// [PT] O ícone `tabs` no estilo Fill.
+  ///
   /// ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tabs.svg)
   static const IconData tabs = IconData(
     0xe778,
@@ -10775,6 +16155,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tag` icon in Fill style.
+  ///
+  /// [PT] O ícone `tag` no estilo Fill.
+  ///
   /// ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag.svg)
   static const IconData tag = IconData(
     0xe478,
@@ -10783,6 +16167,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tagChevron` icon in Fill style.
+  ///
+  /// [PT] O ícone `tagChevron` no estilo Fill.
+  ///
   /// ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag-chevron.svg)
   static const IconData tagChevron = IconData(
     0xe672,
@@ -10791,6 +16179,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tagSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `tagSimple` no estilo Fill.
+  ///
   /// ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tag-simple.svg)
   static const IconData tagSimple = IconData(
     0xe47a,
@@ -10799,6 +16191,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `target` icon in Fill style.
+  ///
+  /// [PT] O ícone `target` no estilo Fill.
+  ///
   /// ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/target.svg)
   static const IconData target = IconData(
     0xe47c,
@@ -10807,6 +16203,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `taxi` icon in Fill style.
+  ///
+  /// [PT] O ícone `taxi` no estilo Fill.
+  ///
   /// ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/taxi.svg)
   static const IconData taxi = IconData(
     0xe902,
@@ -10815,6 +16215,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `teaBag` icon in Fill style.
+  ///
+  /// [PT] O ícone `teaBag` no estilo Fill.
+  ///
   /// ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tea-bag.svg)
   static const IconData teaBag = IconData(
     0xe8e6,
@@ -10823,6 +16227,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `telegramLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `telegramLogo` no estilo Fill.
+  ///
   /// ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/telegram-logo.svg)
   static const IconData telegramLogo = IconData(
     0xe5bc,
@@ -10831,6 +16239,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `television` icon in Fill style.
+  ///
+  /// [PT] O ícone `television` no estilo Fill.
+  ///
   /// ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/television.svg)
   static const IconData television = IconData(
     0xe754,
@@ -10839,6 +16251,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `televisionSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `televisionSimple` no estilo Fill.
+  ///
   /// ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/television-simple.svg)
   static const IconData televisionSimple = IconData(
     0xeae6,
@@ -10847,6 +16263,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tennisBall` icon in Fill style.
+  ///
+  /// [PT] O ícone `tennisBall` no estilo Fill.
+  ///
   /// ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tennis-ball.svg)
   static const IconData tennisBall = IconData(
     0xe720,
@@ -10855,6 +16275,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tent` icon in Fill style.
+  ///
+  /// [PT] O ícone `tent` no estilo Fill.
+  ///
   /// ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tent.svg)
   static const IconData tent = IconData(
     0xe8ba,
@@ -10863,6 +16287,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `terminal` icon in Fill style.
+  ///
+  /// [PT] O ícone `terminal` no estilo Fill.
+  ///
   /// ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/terminal.svg)
   static const IconData terminal = IconData(
     0xe47e,
@@ -10871,6 +16299,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `terminalWindow` icon in Fill style.
+  ///
+  /// [PT] O ícone `terminalWindow` no estilo Fill.
+  ///
   /// ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/terminal-window.svg)
   static const IconData terminalWindow = IconData(
     0xeae8,
@@ -10879,6 +16311,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `testTube` icon in Fill style.
+  ///
+  /// [PT] O ícone `testTube` no estilo Fill.
+  ///
   /// ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/test-tube.svg)
   static const IconData testTube = IconData(
     0xe7a0,
@@ -10887,6 +16323,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textAUnderline` icon in Fill style.
+  ///
+  /// [PT] O ícone `textAUnderline` no estilo Fill.
+  ///
   /// ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-a-underline.svg)
   static const IconData textAUnderline = IconData(
     0xed34,
@@ -10895,6 +16335,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textAa` icon in Fill style.
+  ///
+  /// [PT] O ícone `textAa` no estilo Fill.
+  ///
   /// ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-aa.svg)
   static const IconData textAa = IconData(
     0xe6ee,
@@ -10903,6 +16347,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textAlignCenter` icon in Fill style.
+  ///
+  /// [PT] O ícone `textAlignCenter` no estilo Fill.
+  ///
   /// ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-center.svg)
   static const IconData textAlignCenter = IconData(
     0xe480,
@@ -10911,6 +16359,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textAlignJustify` icon in Fill style.
+  ///
+  /// [PT] O ícone `textAlignJustify` no estilo Fill.
+  ///
   /// ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-justify.svg)
   static const IconData textAlignJustify = IconData(
     0xe482,
@@ -10919,6 +16371,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textAlignLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `textAlignLeft` no estilo Fill.
+  ///
   /// ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-left.svg)
   static const IconData textAlignLeft = IconData(
     0xe484,
@@ -10927,6 +16383,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textAlignRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `textAlignRight` no estilo Fill.
+  ///
   /// ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-align-right.svg)
   static const IconData textAlignRight = IconData(
     0xe486,
@@ -10935,6 +16395,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textB` icon in Fill style.
+  ///
+  /// [PT] O ícone `textB` no estilo Fill.
+  ///
   /// ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-b.svg)
   static const IconData textB = IconData(
     0xe5be,
@@ -10943,6 +16407,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textBolder` icon in Fill style.
+  ///
+  /// [PT] O ícone `textBolder` no estilo Fill.
+  ///
   /// ![text-bolder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-bolder.svg)
   static const IconData textBolder = IconData(
     0xe5be,
@@ -10951,6 +16419,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textColumns` icon in Fill style.
+  ///
+  /// [PT] O ícone `textColumns` no estilo Fill.
+  ///
   /// ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-columns.svg)
   static const IconData textColumns = IconData(
     0xec96,
@@ -10959,6 +16431,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textH` icon in Fill style.
+  ///
+  /// [PT] O ícone `textH` no estilo Fill.
+  ///
   /// ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h.svg)
   static const IconData textH = IconData(
     0xe6ba,
@@ -10967,6 +16443,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textHFive` icon in Fill style.
+  ///
+  /// [PT] O ícone `textHFive` no estilo Fill.
+  ///
   /// ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-five.svg)
   static const IconData textHFive = IconData(
     0xe6c4,
@@ -10975,6 +16455,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textHFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `textHFour` no estilo Fill.
+  ///
   /// ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-four.svg)
   static const IconData textHFour = IconData(
     0xe6c2,
@@ -10983,6 +16467,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textHOne` icon in Fill style.
+  ///
+  /// [PT] O ícone `textHOne` no estilo Fill.
+  ///
   /// ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-one.svg)
   static const IconData textHOne = IconData(
     0xe6bc,
@@ -10991,6 +16479,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textHSix` icon in Fill style.
+  ///
+  /// [PT] O ícone `textHSix` no estilo Fill.
+  ///
   /// ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-six.svg)
   static const IconData textHSix = IconData(
     0xe6c6,
@@ -10999,6 +16491,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textHThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `textHThree` no estilo Fill.
+  ///
   /// ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-three.svg)
   static const IconData textHThree = IconData(
     0xe6c0,
@@ -11007,6 +16503,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textHTwo` icon in Fill style.
+  ///
+  /// [PT] O ícone `textHTwo` no estilo Fill.
+  ///
   /// ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-h-two.svg)
   static const IconData textHTwo = IconData(
     0xe6be,
@@ -11015,6 +16515,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textIndent` icon in Fill style.
+  ///
+  /// [PT] O ícone `textIndent` no estilo Fill.
+  ///
   /// ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-indent.svg)
   static const IconData textIndent = IconData(
     0xea1e,
@@ -11023,6 +16527,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textItalic` icon in Fill style.
+  ///
+  /// [PT] O ícone `textItalic` no estilo Fill.
+  ///
   /// ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-italic.svg)
   static const IconData textItalic = IconData(
     0xe5c0,
@@ -11031,6 +16539,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textOutdent` icon in Fill style.
+  ///
+  /// [PT] O ícone `textOutdent` no estilo Fill.
+  ///
   /// ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-outdent.svg)
   static const IconData textOutdent = IconData(
     0xea1c,
@@ -11039,6 +16551,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textStrikethrough` icon in Fill style.
+  ///
+  /// [PT] O ícone `textStrikethrough` no estilo Fill.
+  ///
   /// ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-strikethrough.svg)
   static const IconData textStrikethrough = IconData(
     0xe5c2,
@@ -11047,6 +16563,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textSubscript` icon in Fill style.
+  ///
+  /// [PT] O ícone `textSubscript` no estilo Fill.
+  ///
   /// ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-subscript.svg)
   static const IconData textSubscript = IconData(
     0xec98,
@@ -11055,6 +16575,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textSuperscript` icon in Fill style.
+  ///
+  /// [PT] O ícone `textSuperscript` no estilo Fill.
+  ///
   /// ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-superscript.svg)
   static const IconData textSuperscript = IconData(
     0xec9a,
@@ -11063,6 +16587,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textT` icon in Fill style.
+  ///
+  /// [PT] O ícone `textT` no estilo Fill.
+  ///
   /// ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-t.svg)
   static const IconData textT = IconData(
     0xe48a,
@@ -11071,6 +16599,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textTSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `textTSlash` no estilo Fill.
+  ///
   /// ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-t-slash.svg)
   static const IconData textTSlash = IconData(
     0xe488,
@@ -11079,6 +16611,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textUnderline` icon in Fill style.
+  ///
+  /// [PT] O ícone `textUnderline` no estilo Fill.
+  ///
   /// ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/text-underline.svg)
   static const IconData textUnderline = IconData(
     0xe5c4,
@@ -11087,6 +16623,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `textbox` icon in Fill style.
+  ///
+  /// [PT] O ícone `textbox` no estilo Fill.
+  ///
   /// ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/textbox.svg)
   static const IconData textbox = IconData(
     0xeb0a,
@@ -11095,6 +16635,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `thermometer` icon in Fill style.
+  ///
+  /// [PT] O ícone `thermometer` no estilo Fill.
+  ///
   /// ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer.svg)
   static const IconData thermometer = IconData(
     0xe5c6,
@@ -11103,6 +16647,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `thermometerCold` icon in Fill style.
+  ///
+  /// [PT] O ícone `thermometerCold` no estilo Fill.
+  ///
   /// ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-cold.svg)
   static const IconData thermometerCold = IconData(
     0xe5c8,
@@ -11111,6 +16659,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `thermometerHot` icon in Fill style.
+  ///
+  /// [PT] O ícone `thermometerHot` no estilo Fill.
+  ///
   /// ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-hot.svg)
   static const IconData thermometerHot = IconData(
     0xe5ca,
@@ -11119,6 +16671,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `thermometerSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `thermometerSimple` no estilo Fill.
+  ///
   /// ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thermometer-simple.svg)
   static const IconData thermometerSimple = IconData(
     0xe5cc,
@@ -11127,6 +16683,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `threadsLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `threadsLogo` no estilo Fill.
+  ///
   /// ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/threads-logo.svg)
   static const IconData threadsLogo = IconData(
     0xed9e,
@@ -11135,6 +16695,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `threeD` icon in Fill style.
+  ///
+  /// [PT] O ícone `threeD` no estilo Fill.
+  ///
   /// ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/three-d.svg)
   static const IconData threeD = IconData(
     0xea5a,
@@ -11143,6 +16707,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `thumbsDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `thumbsDown` no estilo Fill.
+  ///
   /// ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thumbs-down.svg)
   static const IconData thumbsDown = IconData(
     0xe48c,
@@ -11151,6 +16719,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `thumbsUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `thumbsUp` no estilo Fill.
+  ///
   /// ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/thumbs-up.svg)
   static const IconData thumbsUp = IconData(
     0xe48e,
@@ -11159,6 +16731,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `ticket` icon in Fill style.
+  ///
+  /// [PT] O ícone `ticket` no estilo Fill.
+  ///
   /// ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/ticket.svg)
   static const IconData ticket = IconData(
     0xe490,
@@ -11167,6 +16743,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tidalLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `tidalLogo` no estilo Fill.
+  ///
   /// ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tidal-logo.svg)
   static const IconData tidalLogo = IconData(
     0xed1c,
@@ -11175,6 +16755,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tiktokLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `tiktokLogo` no estilo Fill.
+  ///
   /// ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tiktok-logo.svg)
   static const IconData tiktokLogo = IconData(
     0xeaf2,
@@ -11183,6 +16767,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tilde` icon in Fill style.
+  ///
+  /// [PT] O ícone `tilde` no estilo Fill.
+  ///
   /// ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tilde.svg)
   static const IconData tilde = IconData(
     0xeda8,
@@ -11191,6 +16779,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `timer` icon in Fill style.
+  ///
+  /// [PT] O ícone `timer` no estilo Fill.
+  ///
   /// ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/timer.svg)
   static const IconData timer = IconData(
     0xe492,
@@ -11199,6 +16791,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tipJar` icon in Fill style.
+  ///
+  /// [PT] O ícone `tipJar` no estilo Fill.
+  ///
   /// ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tip-jar.svg)
   static const IconData tipJar = IconData(
     0xe7e2,
@@ -11207,6 +16803,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tipi` icon in Fill style.
+  ///
+  /// [PT] O ícone `tipi` no estilo Fill.
+  ///
   /// ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tipi.svg)
   static const IconData tipi = IconData(
     0xed30,
@@ -11215,6 +16815,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tire` icon in Fill style.
+  ///
+  /// [PT] O ícone `tire` no estilo Fill.
+  ///
   /// ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tire.svg)
   static const IconData tire = IconData(
     0xedd2,
@@ -11223,6 +16827,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `toggleLeft` icon in Fill style.
+  ///
+  /// [PT] O ícone `toggleLeft` no estilo Fill.
+  ///
   /// ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toggle-left.svg)
   static const IconData toggleLeft = IconData(
     0xe674,
@@ -11231,6 +16839,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `toggleRight` icon in Fill style.
+  ///
+  /// [PT] O ícone `toggleRight` no estilo Fill.
+  ///
   /// ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toggle-right.svg)
   static const IconData toggleRight = IconData(
     0xe676,
@@ -11239,6 +16851,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `toilet` icon in Fill style.
+  ///
+  /// [PT] O ícone `toilet` no estilo Fill.
+  ///
   /// ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toilet.svg)
   static const IconData toilet = IconData(
     0xe79a,
@@ -11247,6 +16863,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `toiletPaper` icon in Fill style.
+  ///
+  /// [PT] O ícone `toiletPaper` no estilo Fill.
+  ///
   /// ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toilet-paper.svg)
   static const IconData toiletPaper = IconData(
     0xe79c,
@@ -11255,6 +16875,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `toolbox` icon in Fill style.
+  ///
+  /// [PT] O ícone `toolbox` no estilo Fill.
+  ///
   /// ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/toolbox.svg)
   static const IconData toolbox = IconData(
     0xeca0,
@@ -11263,6 +16887,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tooth` icon in Fill style.
+  ///
+  /// [PT] O ícone `tooth` no estilo Fill.
+  ///
   /// ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tooth.svg)
   static const IconData tooth = IconData(
     0xe9cc,
@@ -11271,6 +16899,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tornado` icon in Fill style.
+  ///
+  /// [PT] O ícone `tornado` no estilo Fill.
+  ///
   /// ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tornado.svg)
   static const IconData tornado = IconData(
     0xe88c,
@@ -11279,6 +16911,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tote` icon in Fill style.
+  ///
+  /// [PT] O ícone `tote` no estilo Fill.
+  ///
   /// ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tote.svg)
   static const IconData tote = IconData(
     0xe494,
@@ -11287,6 +16923,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `toteSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `toteSimple` no estilo Fill.
+  ///
   /// ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tote-simple.svg)
   static const IconData toteSimple = IconData(
     0xe678,
@@ -11295,6 +16935,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `towel` icon in Fill style.
+  ///
+  /// [PT] O ícone `towel` no estilo Fill.
+  ///
   /// ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/towel.svg)
   static const IconData towel = IconData(
     0xede6,
@@ -11303,6 +16947,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tractor` icon in Fill style.
+  ///
+  /// [PT] O ícone `tractor` no estilo Fill.
+  ///
   /// ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tractor.svg)
   static const IconData tractor = IconData(
     0xec6e,
@@ -11311,6 +16959,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trademark` icon in Fill style.
+  ///
+  /// [PT] O ícone `trademark` no estilo Fill.
+  ///
   /// ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trademark.svg)
   static const IconData trademark = IconData(
     0xe9f0,
@@ -11319,6 +16971,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trademarkRegistered` icon in Fill style.
+  ///
+  /// [PT] O ícone `trademarkRegistered` no estilo Fill.
+  ///
   /// ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trademark-registered.svg)
   static const IconData trademarkRegistered = IconData(
     0xe3f4,
@@ -11327,6 +16983,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trafficCone` icon in Fill style.
+  ///
+  /// [PT] O ícone `trafficCone` no estilo Fill.
+  ///
   /// ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-cone.svg)
   static const IconData trafficCone = IconData(
     0xe9a8,
@@ -11335,6 +16995,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trafficSign` icon in Fill style.
+  ///
+  /// [PT] O ícone `trafficSign` no estilo Fill.
+  ///
   /// ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-sign.svg)
   static const IconData trafficSign = IconData(
     0xe67a,
@@ -11343,6 +17007,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trafficSignal` icon in Fill style.
+  ///
+  /// [PT] O ícone `trafficSignal` no estilo Fill.
+  ///
   /// ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/traffic-signal.svg)
   static const IconData trafficSignal = IconData(
     0xe9aa,
@@ -11351,6 +17019,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `train` icon in Fill style.
+  ///
+  /// [PT] O ícone `train` no estilo Fill.
+  ///
   /// ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train.svg)
   static const IconData train = IconData(
     0xe496,
@@ -11359,6 +17031,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trainRegional` icon in Fill style.
+  ///
+  /// [PT] O ícone `trainRegional` no estilo Fill.
+  ///
   /// ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train-regional.svg)
   static const IconData trainRegional = IconData(
     0xe49e,
@@ -11367,6 +17043,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trainSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `trainSimple` no estilo Fill.
+  ///
   /// ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/train-simple.svg)
   static const IconData trainSimple = IconData(
     0xe4a0,
@@ -11375,6 +17055,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tram` icon in Fill style.
+  ///
+  /// [PT] O ícone `tram` no estilo Fill.
+  ///
   /// ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tram.svg)
   static const IconData tram = IconData(
     0xe9ec,
@@ -11383,6 +17067,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `translate` icon in Fill style.
+  ///
+  /// [PT] O ícone `translate` no estilo Fill.
+  ///
   /// ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/translate.svg)
   static const IconData translate = IconData(
     0xe4a2,
@@ -11391,6 +17079,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trash` icon in Fill style.
+  ///
+  /// [PT] O ícone `trash` no estilo Fill.
+  ///
   /// ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trash.svg)
   static const IconData trash = IconData(
     0xe4a6,
@@ -11399,6 +17091,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trashSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `trashSimple` no estilo Fill.
+  ///
   /// ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trash-simple.svg)
   static const IconData trashSimple = IconData(
     0xe4a8,
@@ -11407,6 +17103,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tray` icon in Fill style.
+  ///
+  /// [PT] O ícone `tray` no estilo Fill.
+  ///
   /// ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray.svg)
   static const IconData tray = IconData(
     0xe4aa,
@@ -11415,6 +17115,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trayArrowDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `trayArrowDown` no estilo Fill.
+  ///
   /// ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray-arrow-down.svg)
   static const IconData trayArrowDown = IconData(
     0xe010,
@@ -11423,6 +17127,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trayArrowUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `trayArrowUp` no estilo Fill.
+  ///
   /// ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tray-arrow-up.svg)
   static const IconData trayArrowUp = IconData(
     0xee52,
@@ -11431,6 +17139,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `treasureChest` icon in Fill style.
+  ///
+  /// [PT] O ícone `treasureChest` no estilo Fill.
+  ///
   /// ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/treasure-chest.svg)
   static const IconData treasureChest = IconData(
     0xede2,
@@ -11439,6 +17151,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tree` icon in Fill style.
+  ///
+  /// [PT] O ícone `tree` no estilo Fill.
+  ///
   /// ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree.svg)
   static const IconData tree = IconData(
     0xe6da,
@@ -11447,6 +17163,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `treeEvergreen` icon in Fill style.
+  ///
+  /// [PT] O ícone `treeEvergreen` no estilo Fill.
+  ///
   /// ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-evergreen.svg)
   static const IconData treeEvergreen = IconData(
     0xe6dc,
@@ -11455,6 +17175,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `treePalm` icon in Fill style.
+  ///
+  /// [PT] O ícone `treePalm` no estilo Fill.
+  ///
   /// ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-palm.svg)
   static const IconData treePalm = IconData(
     0xe91a,
@@ -11463,6 +17187,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `treeStructure` icon in Fill style.
+  ///
+  /// [PT] O ícone `treeStructure` no estilo Fill.
+  ///
   /// ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-structure.svg)
   static const IconData treeStructure = IconData(
     0xe67c,
@@ -11471,6 +17199,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `treeView` icon in Fill style.
+  ///
+  /// [PT] O ícone `treeView` no estilo Fill.
+  ///
   /// ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tree-view.svg)
   static const IconData treeView = IconData(
     0xee48,
@@ -11479,6 +17211,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trendDown` icon in Fill style.
+  ///
+  /// [PT] O ícone `trendDown` no estilo Fill.
+  ///
   /// ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trend-down.svg)
   static const IconData trendDown = IconData(
     0xe4ac,
@@ -11487,6 +17223,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trendUp` icon in Fill style.
+  ///
+  /// [PT] O ícone `trendUp` no estilo Fill.
+  ///
   /// ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trend-up.svg)
   static const IconData trendUp = IconData(
     0xe4ae,
@@ -11495,6 +17235,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `triangle` icon in Fill style.
+  ///
+  /// [PT] O ícone `triangle` no estilo Fill.
+  ///
   /// ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/triangle.svg)
   static const IconData triangle = IconData(
     0xe4b0,
@@ -11503,6 +17247,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `triangleDashed` icon in Fill style.
+  ///
+  /// [PT] O ícone `triangleDashed` no estilo Fill.
+  ///
   /// ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/triangle-dashed.svg)
   static const IconData triangleDashed = IconData(
     0xe4b2,
@@ -11511,6 +17259,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trolley` icon in Fill style.
+  ///
+  /// [PT] O ícone `trolley` no estilo Fill.
+  ///
   /// ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trolley.svg)
   static const IconData trolley = IconData(
     0xe5b2,
@@ -11519,6 +17271,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trolleySuitcase` icon in Fill style.
+  ///
+  /// [PT] O ícone `trolleySuitcase` no estilo Fill.
+  ///
   /// ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trolley-suitcase.svg)
   static const IconData trolleySuitcase = IconData(
     0xe5b4,
@@ -11527,6 +17283,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `trophy` icon in Fill style.
+  ///
+  /// [PT] O ícone `trophy` no estilo Fill.
+  ///
   /// ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/trophy.svg)
   static const IconData trophy = IconData(
     0xe67e,
@@ -11535,6 +17295,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `truck` icon in Fill style.
+  ///
+  /// [PT] O ícone `truck` no estilo Fill.
+  ///
   /// ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/truck.svg)
   static const IconData truck = IconData(
     0xe4b4,
@@ -11543,6 +17307,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `truckTrailer` icon in Fill style.
+  ///
+  /// [PT] O ícone `truckTrailer` no estilo Fill.
+  ///
   /// ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/truck-trailer.svg)
   static const IconData truckTrailer = IconData(
     0xe4b6,
@@ -11551,6 +17319,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `tumblrLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `tumblrLogo` no estilo Fill.
+  ///
   /// ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/tumblr-logo.svg)
   static const IconData tumblrLogo = IconData(
     0xe8d4,
@@ -11559,6 +17331,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `twitchLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `twitchLogo` no estilo Fill.
+  ///
   /// ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/twitch-logo.svg)
   static const IconData twitchLogo = IconData(
     0xe5ce,
@@ -11567,6 +17343,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `twitterLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `twitterLogo` no estilo Fill.
+  ///
   /// ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/twitter-logo.svg)
   static const IconData twitterLogo = IconData(
     0xe4ba,
@@ -11575,6 +17355,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `umbrella` icon in Fill style.
+  ///
+  /// [PT] O ícone `umbrella` no estilo Fill.
+  ///
   /// ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/umbrella.svg)
   static const IconData umbrella = IconData(
     0xe684,
@@ -11583,6 +17367,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `umbrellaSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `umbrellaSimple` no estilo Fill.
+  ///
   /// ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/umbrella-simple.svg)
   static const IconData umbrellaSimple = IconData(
     0xe686,
@@ -11591,6 +17379,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `union` icon in Fill style.
+  ///
+  /// [PT] O ícone `union` no estilo Fill.
+  ///
   /// ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/union.svg)
   static const IconData union = IconData(
     0xedbe,
@@ -11599,6 +17391,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `unite` icon in Fill style.
+  ///
+  /// [PT] O ícone `unite` no estilo Fill.
+  ///
   /// ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/unite.svg)
   static const IconData unite = IconData(
     0xe87e,
@@ -11607,6 +17403,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `uniteSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `uniteSquare` no estilo Fill.
+  ///
   /// ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/unite-square.svg)
   static const IconData uniteSquare = IconData(
     0xe878,
@@ -11615,6 +17415,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `upload` icon in Fill style.
+  ///
+  /// [PT] O ícone `upload` no estilo Fill.
+  ///
   /// ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/upload.svg)
   static const IconData upload = IconData(
     0xe4be,
@@ -11623,6 +17427,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `uploadSimple` icon in Fill style.
+  ///
+  /// [PT] O ícone `uploadSimple` no estilo Fill.
+  ///
   /// ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/upload-simple.svg)
   static const IconData uploadSimple = IconData(
     0xe4c0,
@@ -11631,6 +17439,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `usb` icon in Fill style.
+  ///
+  /// [PT] O ícone `usb` no estilo Fill.
+  ///
   /// ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/usb.svg)
   static const IconData usb = IconData(
     0xe956,
@@ -11639,6 +17451,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `user` icon in Fill style.
+  ///
+  /// [PT] O ícone `user` no estilo Fill.
+  ///
   /// ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user.svg)
   static const IconData user = IconData(
     0xe4c2,
@@ -11647,6 +17463,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userCheck` icon in Fill style.
+  ///
+  /// [PT] O ícone `userCheck` no estilo Fill.
+  ///
   /// ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-check.svg)
   static const IconData userCheck = IconData(
     0xeafa,
@@ -11655,6 +17475,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `userCircle` no estilo Fill.
+  ///
   /// ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle.svg)
   static const IconData userCircle = IconData(
     0xe4c4,
@@ -11663,6 +17487,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userCircleCheck` icon in Fill style.
+  ///
+  /// [PT] O ícone `userCircleCheck` no estilo Fill.
+  ///
   /// ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-check.svg)
   static const IconData userCircleCheck = IconData(
     0xec38,
@@ -11671,6 +17499,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userCircleDashed` icon in Fill style.
+  ///
+  /// [PT] O ícone `userCircleDashed` no estilo Fill.
+  ///
   /// ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-dashed.svg)
   static const IconData userCircleDashed = IconData(
     0xec36,
@@ -11679,6 +17511,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userCircleGear` icon in Fill style.
+  ///
+  /// [PT] O ícone `userCircleGear` no estilo Fill.
+  ///
   /// ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-gear.svg)
   static const IconData userCircleGear = IconData(
     0xe4c6,
@@ -11687,6 +17523,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userCircleMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `userCircleMinus` no estilo Fill.
+  ///
   /// ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-minus.svg)
   static const IconData userCircleMinus = IconData(
     0xe4c8,
@@ -11695,6 +17535,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userCirclePlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `userCirclePlus` no estilo Fill.
+  ///
   /// ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-circle-plus.svg)
   static const IconData userCirclePlus = IconData(
     0xe4ca,
@@ -11703,6 +17547,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userFocus` icon in Fill style.
+  ///
+  /// [PT] O ícone `userFocus` no estilo Fill.
+  ///
   /// ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-focus.svg)
   static const IconData userFocus = IconData(
     0xe6fc,
@@ -11711,6 +17559,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userGear` icon in Fill style.
+  ///
+  /// [PT] O ícone `userGear` no estilo Fill.
+  ///
   /// ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-gear.svg)
   static const IconData userGear = IconData(
     0xe4cc,
@@ -11719,6 +17571,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userList` icon in Fill style.
+  ///
+  /// [PT] O ícone `userList` no estilo Fill.
+  ///
   /// ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-list.svg)
   static const IconData userList = IconData(
     0xe73c,
@@ -11727,6 +17583,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userMinus` icon in Fill style.
+  ///
+  /// [PT] O ícone `userMinus` no estilo Fill.
+  ///
   /// ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-minus.svg)
   static const IconData userMinus = IconData(
     0xe4ce,
@@ -11735,6 +17595,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userPlus` icon in Fill style.
+  ///
+  /// [PT] O ícone `userPlus` no estilo Fill.
+  ///
   /// ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-plus.svg)
   static const IconData userPlus = IconData(
     0xe4d0,
@@ -11743,6 +17607,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userRectangle` icon in Fill style.
+  ///
+  /// [PT] O ícone `userRectangle` no estilo Fill.
+  ///
   /// ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-rectangle.svg)
   static const IconData userRectangle = IconData(
     0xe4d2,
@@ -11751,6 +17619,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userSound` icon in Fill style.
+  ///
+  /// [PT] O ícone `userSound` no estilo Fill.
+  ///
   /// ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-sound.svg)
   static const IconData userSound = IconData(
     0xeca8,
@@ -11759,6 +17631,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `userSquare` no estilo Fill.
+  ///
   /// ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-square.svg)
   static const IconData userSquare = IconData(
     0xe4d4,
@@ -11767,6 +17643,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `userSwitch` icon in Fill style.
+  ///
+  /// [PT] O ícone `userSwitch` no estilo Fill.
+  ///
   /// ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/user-switch.svg)
   static const IconData userSwitch = IconData(
     0xe756,
@@ -11775,6 +17655,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `users` icon in Fill style.
+  ///
+  /// [PT] O ícone `users` no estilo Fill.
+  ///
   /// ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users.svg)
   static const IconData users = IconData(
     0xe4d6,
@@ -11783,6 +17667,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `usersFour` icon in Fill style.
+  ///
+  /// [PT] O ícone `usersFour` no estilo Fill.
+  ///
   /// ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users-four.svg)
   static const IconData usersFour = IconData(
     0xe68c,
@@ -11791,6 +17679,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `usersThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `usersThree` no estilo Fill.
+  ///
   /// ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/users-three.svg)
   static const IconData usersThree = IconData(
     0xe68e,
@@ -11799,6 +17691,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `van` icon in Fill style.
+  ///
+  /// [PT] O ícone `van` no estilo Fill.
+  ///
   /// ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/van.svg)
   static const IconData van = IconData(
     0xe826,
@@ -11807,6 +17703,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `vault` icon in Fill style.
+  ///
+  /// [PT] O ícone `vault` no estilo Fill.
+  ///
   /// ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vault.svg)
   static const IconData vault = IconData(
     0xe76e,
@@ -11815,6 +17715,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `vectorThree` icon in Fill style.
+  ///
+  /// [PT] O ícone `vectorThree` no estilo Fill.
+  ///
   /// ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vector-three.svg)
   static const IconData vectorThree = IconData(
     0xee62,
@@ -11823,6 +17727,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `vectorTwo` icon in Fill style.
+  ///
+  /// [PT] O ícone `vectorTwo` no estilo Fill.
+  ///
   /// ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vector-two.svg)
   static const IconData vectorTwo = IconData(
     0xee64,
@@ -11831,6 +17739,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `vibrate` icon in Fill style.
+  ///
+  /// [PT] O ícone `vibrate` no estilo Fill.
+  ///
   /// ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vibrate.svg)
   static const IconData vibrate = IconData(
     0xe4d8,
@@ -11839,6 +17751,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `video` icon in Fill style.
+  ///
+  /// [PT] O ícone `video` no estilo Fill.
+  ///
   /// ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video.svg)
   static const IconData video = IconData(
     0xe740,
@@ -11847,6 +17763,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `videoCamera` icon in Fill style.
+  ///
+  /// [PT] O ícone `videoCamera` no estilo Fill.
+  ///
   /// ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-camera.svg)
   static const IconData videoCamera = IconData(
     0xe4da,
@@ -11855,6 +17775,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `videoCameraSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `videoCameraSlash` no estilo Fill.
+  ///
   /// ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-camera-slash.svg)
   static const IconData videoCameraSlash = IconData(
     0xe4dc,
@@ -11863,6 +17787,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `videoConference` icon in Fill style.
+  ///
+  /// [PT] O ícone `videoConference` no estilo Fill.
+  ///
   /// ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/video-conference.svg)
   static const IconData videoConference = IconData(
     0xedce,
@@ -11871,6 +17799,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `vignette` icon in Fill style.
+  ///
+  /// [PT] O ícone `vignette` no estilo Fill.
+  ///
   /// ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vignette.svg)
   static const IconData vignette = IconData(
     0xeba2,
@@ -11879,6 +17811,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `vinylRecord` icon in Fill style.
+  ///
+  /// [PT] O ícone `vinylRecord` no estilo Fill.
+  ///
   /// ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/vinyl-record.svg)
   static const IconData vinylRecord = IconData(
     0xecac,
@@ -11887,6 +17823,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `virtualReality` icon in Fill style.
+  ///
+  /// [PT] O ícone `virtualReality` no estilo Fill.
+  ///
   /// ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/virtual-reality.svg)
   static const IconData virtualReality = IconData(
     0xe7b8,
@@ -11895,6 +17835,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `virus` icon in Fill style.
+  ///
+  /// [PT] O ícone `virus` no estilo Fill.
+  ///
   /// ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/virus.svg)
   static const IconData virus = IconData(
     0xe7d6,
@@ -11903,6 +17847,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `visor` icon in Fill style.
+  ///
+  /// [PT] O ícone `visor` no estilo Fill.
+  ///
   /// ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/visor.svg)
   static const IconData visor = IconData(
     0xee2a,
@@ -11911,6 +17859,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `voicemail` icon in Fill style.
+  ///
+  /// [PT] O ícone `voicemail` no estilo Fill.
+  ///
   /// ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/voicemail.svg)
   static const IconData voicemail = IconData(
     0xe4de,
@@ -11919,6 +17871,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `volleyball` icon in Fill style.
+  ///
+  /// [PT] O ícone `volleyball` no estilo Fill.
+  ///
   /// ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/volleyball.svg)
   static const IconData volleyball = IconData(
     0xe726,
@@ -11927,6 +17883,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wall` icon in Fill style.
+  ///
+  /// [PT] O ícone `wall` no estilo Fill.
+  ///
   /// ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wall.svg)
   static const IconData wall = IconData(
     0xe688,
@@ -11935,6 +17895,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wallet` icon in Fill style.
+  ///
+  /// [PT] O ícone `wallet` no estilo Fill.
+  ///
   /// ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wallet.svg)
   static const IconData wallet = IconData(
     0xe68a,
@@ -11943,6 +17907,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `warehouse` icon in Fill style.
+  ///
+  /// [PT] O ícone `warehouse` no estilo Fill.
+  ///
   /// ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warehouse.svg)
   static const IconData warehouse = IconData(
     0xecd4,
@@ -11951,6 +17919,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `warning` icon in Fill style.
+  ///
+  /// [PT] O ícone `warning` no estilo Fill.
+  ///
   /// ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning.svg)
   static const IconData warning = IconData(
     0xe4e0,
@@ -11959,6 +17931,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `warningCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `warningCircle` no estilo Fill.
+  ///
   /// ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-circle.svg)
   static const IconData warningCircle = IconData(
     0xe4e2,
@@ -11967,6 +17943,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `warningDiamond` icon in Fill style.
+  ///
+  /// [PT] O ícone `warningDiamond` no estilo Fill.
+  ///
   /// ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-diamond.svg)
   static const IconData warningDiamond = IconData(
     0xe7fc,
@@ -11975,6 +17955,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `warningOctagon` icon in Fill style.
+  ///
+  /// [PT] O ícone `warningOctagon` no estilo Fill.
+  ///
   /// ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/warning-octagon.svg)
   static const IconData warningOctagon = IconData(
     0xe4e4,
@@ -11983,6 +17967,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `washingMachine` icon in Fill style.
+  ///
+  /// [PT] O ícone `washingMachine` no estilo Fill.
+  ///
   /// ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/washing-machine.svg)
   static const IconData washingMachine = IconData(
     0xede8,
@@ -11991,6 +17979,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `watch` icon in Fill style.
+  ///
+  /// [PT] O ícone `watch` no estilo Fill.
+  ///
   /// ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/watch.svg)
   static const IconData watch = IconData(
     0xe4e6,
@@ -11999,6 +17991,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `waveSawtooth` icon in Fill style.
+  ///
+  /// [PT] O ícone `waveSawtooth` no estilo Fill.
+  ///
   /// ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-sawtooth.svg)
   static const IconData waveSawtooth = IconData(
     0xea9c,
@@ -12007,6 +18003,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `waveSine` icon in Fill style.
+  ///
+  /// [PT] O ícone `waveSine` no estilo Fill.
+  ///
   /// ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-sine.svg)
   static const IconData waveSine = IconData(
     0xea9a,
@@ -12015,6 +18015,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `waveSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `waveSquare` no estilo Fill.
+  ///
   /// ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-square.svg)
   static const IconData waveSquare = IconData(
     0xea9e,
@@ -12023,6 +18027,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `waveTriangle` icon in Fill style.
+  ///
+  /// [PT] O ícone `waveTriangle` no estilo Fill.
+  ///
   /// ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wave-triangle.svg)
   static const IconData waveTriangle = IconData(
     0xeaa0,
@@ -12031,6 +18039,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `waveform` icon in Fill style.
+  ///
+  /// [PT] O ícone `waveform` no estilo Fill.
+  ///
   /// ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waveform.svg)
   static const IconData waveform = IconData(
     0xe802,
@@ -12039,6 +18051,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `waveformSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `waveformSlash` no estilo Fill.
+  ///
   /// ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waveform-slash.svg)
   static const IconData waveformSlash = IconData(
     0xe800,
@@ -12047,6 +18063,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `waves` icon in Fill style.
+  ///
+  /// [PT] O ícone `waves` no estilo Fill.
+  ///
   /// ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/waves.svg)
   static const IconData waves = IconData(
     0xe6de,
@@ -12055,6 +18075,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `webcam` icon in Fill style.
+  ///
+  /// [PT] O ícone `webcam` no estilo Fill.
+  ///
   /// ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webcam.svg)
   static const IconData webcam = IconData(
     0xe9b2,
@@ -12063,6 +18087,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `webcamSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `webcamSlash` no estilo Fill.
+  ///
   /// ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webcam-slash.svg)
   static const IconData webcamSlash = IconData(
     0xecdc,
@@ -12071,6 +18099,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `webhooksLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `webhooksLogo` no estilo Fill.
+  ///
   /// ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/webhooks-logo.svg)
   static const IconData webhooksLogo = IconData(
     0xecae,
@@ -12079,6 +18111,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wechatLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `wechatLogo` no estilo Fill.
+  ///
   /// ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wechat-logo.svg)
   static const IconData wechatLogo = IconData(
     0xe8d2,
@@ -12087,6 +18123,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `whatsappLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `whatsappLogo` no estilo Fill.
+  ///
   /// ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/whatsapp-logo.svg)
   static const IconData whatsappLogo = IconData(
     0xe5d0,
@@ -12095,6 +18135,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wheelchair` icon in Fill style.
+  ///
+  /// [PT] O ícone `wheelchair` no estilo Fill.
+  ///
   /// ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wheelchair.svg)
   static const IconData wheelchair = IconData(
     0xe4e8,
@@ -12103,6 +18147,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wheelchairMotion` icon in Fill style.
+  ///
+  /// [PT] O ícone `wheelchairMotion` no estilo Fill.
+  ///
   /// ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wheelchair-motion.svg)
   static const IconData wheelchairMotion = IconData(
     0xe89a,
@@ -12111,6 +18159,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wifiHigh` icon in Fill style.
+  ///
+  /// [PT] O ícone `wifiHigh` no estilo Fill.
+  ///
   /// ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-high.svg)
   static const IconData wifiHigh = IconData(
     0xe4ea,
@@ -12119,6 +18171,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wifiLow` icon in Fill style.
+  ///
+  /// [PT] O ícone `wifiLow` no estilo Fill.
+  ///
   /// ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-low.svg)
   static const IconData wifiLow = IconData(
     0xe4ec,
@@ -12127,6 +18183,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wifiMedium` icon in Fill style.
+  ///
+  /// [PT] O ícone `wifiMedium` no estilo Fill.
+  ///
   /// ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-medium.svg)
   static const IconData wifiMedium = IconData(
     0xe4ee,
@@ -12135,6 +18195,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wifiNone` icon in Fill style.
+  ///
+  /// [PT] O ícone `wifiNone` no estilo Fill.
+  ///
   /// ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-none.svg)
   static const IconData wifiNone = IconData(
     0xe4f0,
@@ -12143,6 +18207,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wifiSlash` icon in Fill style.
+  ///
+  /// [PT] O ícone `wifiSlash` no estilo Fill.
+  ///
   /// ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-slash.svg)
   static const IconData wifiSlash = IconData(
     0xe4f2,
@@ -12151,6 +18219,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wifiX` icon in Fill style.
+  ///
+  /// [PT] O ícone `wifiX` no estilo Fill.
+  ///
   /// ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wifi-x.svg)
   static const IconData wifiX = IconData(
     0xe4f4,
@@ -12159,6 +18231,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wind` icon in Fill style.
+  ///
+  /// [PT] O ícone `wind` no estilo Fill.
+  ///
   /// ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wind.svg)
   static const IconData wind = IconData(
     0xe5d2,
@@ -12167,6 +18243,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `windmill` icon in Fill style.
+  ///
+  /// [PT] O ícone `windmill` no estilo Fill.
+  ///
   /// ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/windmill.svg)
   static const IconData windmill = IconData(
     0xe9f8,
@@ -12175,6 +18255,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `windowsLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `windowsLogo` no estilo Fill.
+  ///
   /// ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/windows-logo.svg)
   static const IconData windowsLogo = IconData(
     0xe692,
@@ -12183,6 +18267,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wine` icon in Fill style.
+  ///
+  /// [PT] O ícone `wine` no estilo Fill.
+  ///
   /// ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wine.svg)
   static const IconData wine = IconData(
     0xe6b2,
@@ -12191,6 +18279,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `wrench` icon in Fill style.
+  ///
+  /// [PT] O ícone `wrench` no estilo Fill.
+  ///
   /// ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/wrench.svg)
   static const IconData wrench = IconData(
     0xe5d4,
@@ -12199,6 +18291,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `x` icon in Fill style.
+  ///
+  /// [PT] O ícone `x` no estilo Fill.
+  ///
   /// ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x.svg)
   static const IconData x = IconData(
     0xe4f6,
@@ -12207,6 +18303,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `xCircle` icon in Fill style.
+  ///
+  /// [PT] O ícone `xCircle` no estilo Fill.
+  ///
   /// ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-circle.svg)
   static const IconData xCircle = IconData(
     0xe4f8,
@@ -12215,6 +18315,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `xLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `xLogo` no estilo Fill.
+  ///
   /// ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-logo.svg)
   static const IconData xLogo = IconData(
     0xe4bc,
@@ -12223,6 +18327,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `xSquare` icon in Fill style.
+  ///
+  /// [PT] O ícone `xSquare` no estilo Fill.
+  ///
   /// ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/x-square.svg)
   static const IconData xSquare = IconData(
     0xe4fa,
@@ -12231,6 +18339,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `yarn` icon in Fill style.
+  ///
+  /// [PT] O ícone `yarn` no estilo Fill.
+  ///
   /// ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/yarn.svg)
   static const IconData yarn = IconData(
     0xed9a,
@@ -12239,6 +18351,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `yinYang` icon in Fill style.
+  ///
+  /// [PT] O ícone `yinYang` no estilo Fill.
+  ///
   /// ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/yin-yang.svg)
   static const IconData yinYang = IconData(
     0xe92a,
@@ -12247,6 +18363,10 @@ class PhosphorIconsFill {
     matchTextDirection: true,
   );
 
+  /// The `youtubeLogo` icon in Fill style.
+  ///
+  /// [PT] O ícone `youtubeLogo` no estilo Fill.
+  ///
   /// ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/youtube-logo.svg)
   static const IconData youtubeLogo = IconData(
     0xe4fc,

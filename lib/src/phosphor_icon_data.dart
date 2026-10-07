@@ -45,6 +45,11 @@ class PhosphorDuotoneIconData {
   /// [PT] Camada de traços/contorno — renderizada em opacidade total.
   final IconData secondary;
 
+  /// Creates Duotone icon data from its [primary] (fill) and [secondary]
+  /// (stroke) layers.
+  ///
+  /// [PT] Cria os dados de um ícone Duotone a partir das camadas [primary]
+  /// (preenchimento) e [secondary] (traços).
   const PhosphorDuotoneIconData(this.primary, this.secondary);
 }
 

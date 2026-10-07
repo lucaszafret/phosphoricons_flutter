@@ -9,7 +9,8 @@
 //   - Phosphor-<Estilo>.ttf → copiado para ../lib/fonts/
 //
 // Para atualizar com novos ícones:
-//   1. Baixar novo zip do site phosphoricons.com
+//   1. Baixar novo zip do site phosphoricons.com (ou o pacote npm
+//      @phosphor-icons/web, que traz src/<estilo>/selection.json e os TTFs)
 //   2. Substituir a pasta ../phosphor-icons/Fonts/
 //   3. Rodar este script novamente
 
@@ -199,6 +200,10 @@ String _generateFlatFile(
 
   for (final name in names) {
     final cp = allIcons[name]![style.id]!;
+    buf.writeln('  /// The `$name` icon in ${style.styleName} style.');
+    buf.writeln('  ///');
+    buf.writeln('  /// [PT] O ícone `$name` no estilo ${style.styleName}.');
+    buf.writeln('  ///');
     buf.writeln('  /// ![${_toKebabCase(name)}](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.id}/${_toKebabCase(name)}.svg)');
     buf.writeln('  static const IconData $name = IconData(');
     buf.writeln('    0x${cp.toRadixString(16)},');
@@ -250,6 +255,10 @@ String _generateDuotoneFile(
     final data = duotoneData[name]!;
     final primary = data['primary']!;
     final secondary = data['secondary']!;
+    buf.writeln('  /// The `$name` icon in Duotone style. Render it with `PhosphorIcon`.');
+    buf.writeln('  ///');
+    buf.writeln('  /// [PT] O ícone `$name` no estilo Duotone. Renderize com `PhosphorIcon`.');
+    buf.writeln('  ///');
     buf.writeln('  /// ![${_toKebabCase(name)}-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/${_toKebabCase(name)}-duotone.svg)');
     buf.writeln('  static const $name = PhosphorDuotoneIconData(');
     buf.writeln('    IconData(');
@@ -317,24 +326,35 @@ String _generateBaseFile(
   for (final name in sortedNames) {
     final styles = allIcons[name]!;
     if (styles.containsKey('regular')) {
+      _writeShortcutDoc(buf, 'Regular', name);
       buf.writeln('  static const IconData $name = PhosphorIconsRegular.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('thin')) {
+      _writeShortcutDoc(buf, 'Thin', name);
       buf.writeln('  static const IconData ${name}Thin = PhosphorIconsThin.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('light')) {
+      _writeShortcutDoc(buf, 'Light', name);
       buf.writeln('  static const IconData ${name}Light = PhosphorIconsLight.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('bold')) {
+      _writeShortcutDoc(buf, 'Bold', name);
       buf.writeln('  static const IconData ${name}Bold = PhosphorIconsBold.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('fill')) {
+      _writeShortcutDoc(buf, 'Fill', name);
       buf.writeln('  static const IconData ${name}Fill = PhosphorIconsFill.$name;');
+      buf.writeln();
     }
     if (duotoneData.containsKey(name)) {
+      _writeShortcutDoc(buf, 'Duotone', name);
       buf.writeln('  static const ${name}Duotone = PhosphorIconsDuotone.$name;');
+      buf.writeln();
     }
-    buf.writeln();
   }
 
   buf.writeln('}');
@@ -349,6 +369,13 @@ Set<String> _getOldIcons() {
   final content = file.readAsStringSync();
   final regex = RegExp(r'static const IconData (\w+) = IconData');
   return regex.allMatches(content).map((m) => m.group(1)!).toSet();
+}
+
+// Documentação de uma constante de atalho de PhosphorIcons, apontando para a
+// constante original do estilo (ex: [PhosphorIconsBold.acorn]).
+void _writeShortcutDoc(StringBuffer buf, String styleName, String name) {
+  final target = 'PhosphorIcons$styleName.$name';
+  buf.writeln('  /// Shortcut for [$target]. [PT] Atalho para [$target].');
 }
 
 void _writeHeader(StringBuffer buf) {
