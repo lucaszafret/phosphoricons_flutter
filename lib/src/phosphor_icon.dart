@@ -23,6 +23,13 @@ import 'phosphor_icon_data.dart';
 ///   color: Colors.indigo,
 ///   duotoneSecondaryOpacity: 0.25,
 /// )
+///
+/// // Shadows
+/// PhosphorIcon(
+///   PhosphorIconsBold.heart,
+///   color: Colors.red,
+///   shadows: [Shadow(color: Colors.black26, blurRadius: 4, offset: Offset(0, 2))],
+/// )
 /// ```
 /// 
 /// ---
@@ -47,6 +54,71 @@ class PhosphorIcon extends StatelessWidget {
   /// 
   /// [PT] Cor do ícone. Herda de [IconTheme] se não informada.
   final Color? color;
+
+  /// A list of [Shadow]s that will be painted underneath the icon.
+  ///
+  /// In the Duotone style the shadows are applied to both layers, as in the
+  /// original `phosphor_flutter` package. The shadow of the fill layer is
+  /// attenuated by [duotoneSecondaryOpacity].
+  ///
+  /// When `null`, inherits from [IconTheme].
+  ///
+  /// [PT] Lista de [Shadow]s pintadas atrás do ícone.
+  ///
+  /// No estilo Duotone as sombras são aplicadas nas duas camadas, como no
+  /// pacote original `phosphor_flutter`. A sombra da camada de preenchimento é
+  /// atenuada por [duotoneSecondaryOpacity].
+  ///
+  /// Quando `null`, herda de [IconTheme].
+  final List<Shadow>? shadows;
+
+  /// The fill axis value, between 0.0 and 1.0.
+  ///
+  /// Has no visual effect on Phosphor icons, whose fonts are static (they have
+  /// no variable axes). Accepted only for source compatibility with
+  /// `phosphor_flutter` and with Flutter's [Icon].
+  ///
+  /// [PT] Valor do eixo de preenchimento, entre 0.0 e 1.0.
+  ///
+  /// Não tem efeito visual nos ícones Phosphor, cujas fontes são estáticas
+  /// (sem eixos variáveis). Aceito apenas por compatibilidade de código com o
+  /// `phosphor_flutter` e com o [Icon] do Flutter.
+  final double? fill;
+
+  /// The stroke weight axis value. Must be greater than 0.
+  ///
+  /// Has no visual effect on Phosphor icons (static fonts). To change the
+  /// weight, pick another style, such as `PhosphorIconsBold`. Accepted only for
+  /// source compatibility.
+  ///
+  /// [PT] Valor do eixo de espessura do traço. Deve ser maior que 0.
+  ///
+  /// Não tem efeito visual nos ícones Phosphor (fontes estáticas). Para mudar a
+  /// espessura, escolha outro estilo, como `PhosphorIconsBold`. Aceito apenas
+  /// por compatibilidade de código.
+  final double? weight;
+
+  /// The grade axis value.
+  ///
+  /// Has no visual effect on Phosphor icons (static fonts). Accepted only for
+  /// source compatibility.
+  ///
+  /// [PT] Valor do eixo de contraste (grade).
+  ///
+  /// Não tem efeito visual nos ícones Phosphor (fontes estáticas). Aceito
+  /// apenas por compatibilidade de código.
+  final double? grade;
+
+  /// The optical size axis value. Must be greater than 0.
+  ///
+  /// Has no visual effect on Phosphor icons (static fonts). Accepted only for
+  /// source compatibility.
+  ///
+  /// [PT] Valor do eixo de tamanho óptico. Deve ser maior que 0.
+  ///
+  /// Não tem efeito visual nos ícones Phosphor (fontes estáticas). Aceito
+  /// apenas por compatibilidade de código.
+  final double? opticalSize;
 
   /// Opacity of the fill layer in the Duotone style.
   ///
@@ -78,19 +150,30 @@ class PhosphorIcon extends StatelessWidget {
   /// [PT] Direção do texto. Substitui a direção herdada do contexto.
   final TextDirection? textDirection;
 
+  /// Creates a Phosphor icon widget.
+  ///
+  /// [PT] Cria um widget de ícone Phosphor.
   const PhosphorIcon(
     this.icon, {
     super.key,
     this.size,
+    this.fill,
+    this.weight,
+    this.grade,
+    this.opticalSize,
     this.color,
+    this.shadows,
     this.duotoneSecondaryOpacity = 0.20,
     this.duotoneSecondaryColor,
     this.semanticLabel,
     this.textDirection,
-  }) : assert(
+  })  : assert(
           icon is IconData || icon is PhosphorDuotoneIconData,
           'icon deve ser IconData ou PhosphorDuotoneIconData',
-        );
+        ),
+        assert(fill == null || (0.0 <= fill && fill <= 1.0)),
+        assert(weight == null || (0.0 < weight)),
+        assert(opticalSize == null || (0.0 < opticalSize));
 
   @override
   Widget build(BuildContext context) {
@@ -106,14 +189,24 @@ class PhosphorIcon extends StatelessWidget {
             child: Icon(
               duotone.primary,
               size: size,
+              fill: fill,
+              weight: weight,
+              grade: grade,
+              opticalSize: opticalSize,
               color: duotoneSecondaryColor ?? color,
+              shadows: shadows,
               textDirection: textDirection,
             ),
           ),
           Icon(
             duotone.secondary,
             size: size,
+            fill: fill,
+            weight: weight,
+            grade: grade,
+            opticalSize: opticalSize,
             color: color,
+            shadows: shadows,
             semanticLabel: semanticLabel,
             textDirection: textDirection,
           ),
@@ -124,7 +217,12 @@ class PhosphorIcon extends StatelessWidget {
     return Icon(
       icon as IconData,
       size: size,
+      fill: fill,
+      weight: weight,
+      grade: grade,
+      opticalSize: opticalSize,
       color: color,
+      shadows: shadows,
       semanticLabel: semanticLabel,
       textDirection: textDirection,
     );
