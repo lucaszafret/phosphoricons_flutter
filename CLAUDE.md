@@ -67,6 +67,23 @@ Registradas no `pubspec.yaml` com famílias nomeadas (`PhosphorRegular`, `Phosph
 3. Executar `cd tool && dart generate.dart`
 4. Verificar o relatório no terminal e o arquivo gerado `NEW_ICONS.md` (contém o diff de ícones novos/removidos em formato markdown pronto para colar no CHANGELOG).
 
+## Imagens de pré-visualização nas docstrings
+
+Cada constante gerada tem `![nome](https://api.iconify.design/ph/<nome>[-estilo].svg?height=32&color=%23888888)`. Usamos o Iconify (coleção `ph`, os mesmos ícones das fontes) porque o SVG já vem com tamanho e cor fixos; os SVGs crus do Phosphor não têm width/height e aparecem gigantes e pretos. Regras importantes (todas em `_docImageUrl` no gerador):
+- o estilo Regular não leva sufixo (`acorn`), os outros sim (`acorn-bold`, `acorn-thin`...);
+- aliases (ex: `caduceus`) apontam para o nome principal (`asclepius`), pois só ele tem imagem.
+
+Para validar todas as URLs depois de regenerar: baixe `https://api.iconify.design/collection?prefix=ph` e confira que cada nome usado nos `///` existe lá. As bolinhas de ícone ao lado do código no VS Code são um recurso fixo da extensão Dart só para `Icons.*` e `CupertinoIcons.*`: nenhum pacote consegue ativá-las; o que funciona é o hover/autocomplete com essa imagem.
+
+## Screenshots do pub.dev
+
+`screenshots/*.png` (listadas em `screenshots:` no `pubspec.yaml`) são geradas por `example/test/screenshots_test.dart`:
+`cd example && GENERATE_SCREENSHOTS=1 flutter test --update-goldens test/screenshots_test.dart`. Máx. 10 imagens, 4 MB cada, descrição ≤ 160 caracteres; a primeira vira a miniatura. Não use logos.
+
+## CI
+
+`.github/workflows/ci.yml` roda formatação, analyze, testes (pacote e exemplo) e `flutter pub publish --dry-run`.
+
 ## Internacionalização (Suporte Bilíngue)
 
 O pacote é construído com suporte a duas linguagens (Inglês como primário, e Português `[PT]`).
