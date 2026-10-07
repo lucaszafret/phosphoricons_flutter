@@ -23,7 +23,11 @@ import 'phosphor_icon_data.dart';
 class PhosphorIconsDuotone {
   const PhosphorIconsDuotone();
 
-  /// ![acorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/acorn-duotone.svg)
+  /// The `acorn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `acorn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![acorn-duotone](https://api.iconify.design/ph/acorn-duotone.svg?height=32&color=%23888888)
   static const acorn = PhosphorDuotoneIconData(
     IconData(
       0xeb9a,
@@ -39,7 +43,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![activity-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/activity-duotone.svg)
+  /// The `activity` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `activity` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![activity-duotone](https://api.iconify.design/ph/pulse-duotone.svg?height=32&color=%23888888)
   static const activity = PhosphorDuotoneIconData(
     IconData(
       0xe000,
@@ -55,7 +63,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![address-book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-duotone.svg)
+  /// The `addressBook` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `addressBook` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![address-book-duotone](https://api.iconify.design/ph/address-book-duotone.svg?height=32&color=%23888888)
   static const addressBook = PhosphorDuotoneIconData(
     IconData(
       0xe6f8,
@@ -71,7 +83,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![address-book-tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/address-book-tabs-duotone.svg)
+  /// The `addressBookTabs` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `addressBookTabs` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![address-book-tabs-duotone](https://api.iconify.design/ph/address-book-tabs-duotone.svg?height=32&color=%23888888)
   static const addressBookTabs = PhosphorDuotoneIconData(
     IconData(
       0xee4e,
@@ -87,7 +103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![air-traffic-control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/air-traffic-control-duotone.svg)
+  /// The `airTrafficControl` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airTrafficControl` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![air-traffic-control-duotone](https://api.iconify.design/ph/air-traffic-control-duotone.svg?height=32&color=%23888888)
   static const airTrafficControl = PhosphorDuotoneIconData(
     IconData(
       0xecd8,
@@ -103,7 +123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![airplane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-duotone.svg)
+  /// The `airplane` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airplane` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![airplane-duotone](https://api.iconify.design/ph/airplane-duotone.svg?height=32&color=%23888888)
   static const airplane = PhosphorDuotoneIconData(
     IconData(
       0xe002,
@@ -119,7 +143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![airplane-in-flight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-in-flight-duotone.svg)
+  /// The `airplaneInFlight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airplaneInFlight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![airplane-in-flight-duotone](https://api.iconify.design/ph/airplane-in-flight-duotone.svg?height=32&color=%23888888)
   static const airplaneInFlight = PhosphorDuotoneIconData(
     IconData(
       0xe4fe,
@@ -135,7 +163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![airplane-landing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-landing-duotone.svg)
+  /// The `airplaneLanding` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airplaneLanding` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![airplane-landing-duotone](https://api.iconify.design/ph/airplane-landing-duotone.svg?height=32&color=%23888888)
   static const airplaneLanding = PhosphorDuotoneIconData(
     IconData(
       0xe502,
@@ -151,7 +183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![airplane-takeoff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-takeoff-duotone.svg)
+  /// The `airplaneTakeoff` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airplaneTakeoff` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![airplane-takeoff-duotone](https://api.iconify.design/ph/airplane-takeoff-duotone.svg?height=32&color=%23888888)
   static const airplaneTakeoff = PhosphorDuotoneIconData(
     IconData(
       0xe504,
@@ -167,7 +203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![airplane-taxiing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-taxiing-duotone.svg)
+  /// The `airplaneTaxiing` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airplaneTaxiing` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![airplane-taxiing-duotone](https://api.iconify.design/ph/airplane-taxiing-duotone.svg?height=32&color=%23888888)
   static const airplaneTaxiing = PhosphorDuotoneIconData(
     IconData(
       0xe500,
@@ -183,7 +223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![airplane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplane-tilt-duotone.svg)
+  /// The `airplaneTilt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airplaneTilt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![airplane-tilt-duotone](https://api.iconify.design/ph/airplane-tilt-duotone.svg?height=32&color=%23888888)
   static const airplaneTilt = PhosphorDuotoneIconData(
     IconData(
       0xe5d6,
@@ -199,7 +243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![airplay-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/airplay-duotone.svg)
+  /// The `airplay` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `airplay` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![airplay-duotone](https://api.iconify.design/ph/airplay-duotone.svg?height=32&color=%23888888)
   static const airplay = PhosphorDuotoneIconData(
     IconData(
       0xe004,
@@ -215,7 +263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![alarm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alarm-duotone.svg)
+  /// The `alarm` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alarm` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![alarm-duotone](https://api.iconify.design/ph/alarm-duotone.svg?height=32&color=%23888888)
   static const alarm = PhosphorDuotoneIconData(
     IconData(
       0xe006,
@@ -231,7 +283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![alien-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/alien-duotone.svg)
+  /// The `alien` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alien` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![alien-duotone](https://api.iconify.design/ph/alien-duotone.svg?height=32&color=%23888888)
   static const alien = PhosphorDuotoneIconData(
     IconData(
       0xe8a6,
@@ -247,7 +303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-duotone.svg)
+  /// The `alignBottom` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-bottom-duotone](https://api.iconify.design/ph/align-bottom-duotone.svg?height=32&color=%23888888)
   static const alignBottom = PhosphorDuotoneIconData(
     IconData(
       0xe506,
@@ -263,7 +323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-bottom-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-bottom-simple-duotone.svg)
+  /// The `alignBottomSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignBottomSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-bottom-simple-duotone](https://api.iconify.design/ph/align-bottom-simple-duotone.svg?height=32&color=%23888888)
   static const alignBottomSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb0c,
@@ -279,7 +343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-center-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-duotone.svg)
+  /// The `alignCenterHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignCenterHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-center-horizontal-duotone](https://api.iconify.design/ph/align-center-horizontal-duotone.svg?height=32&color=%23888888)
   static const alignCenterHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe50a,
@@ -295,7 +363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-center-horizontal-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-horizontal-simple-duotone.svg)
+  /// The `alignCenterHorizontalSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-center-horizontal-simple-duotone](https://api.iconify.design/ph/align-center-horizontal-simple-duotone.svg?height=32&color=%23888888)
   static const alignCenterHorizontalSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb0e,
@@ -311,7 +383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-center-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-duotone.svg)
+  /// The `alignCenterVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignCenterVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-center-vertical-duotone](https://api.iconify.design/ph/align-center-vertical-duotone.svg?height=32&color=%23888888)
   static const alignCenterVertical = PhosphorDuotoneIconData(
     IconData(
       0xe50c,
@@ -327,7 +403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-center-vertical-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-center-vertical-simple-duotone.svg)
+  /// The `alignCenterVerticalSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignCenterVerticalSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-center-vertical-simple-duotone](https://api.iconify.design/ph/align-center-vertical-simple-duotone.svg?height=32&color=%23888888)
   static const alignCenterVerticalSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb10,
@@ -343,7 +423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-duotone.svg)
+  /// The `alignLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-left-duotone](https://api.iconify.design/ph/align-left-duotone.svg?height=32&color=%23888888)
   static const alignLeft = PhosphorDuotoneIconData(
     IconData(
       0xe50e,
@@ -359,7 +443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-left-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-left-simple-duotone.svg)
+  /// The `alignLeftSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignLeftSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-left-simple-duotone](https://api.iconify.design/ph/align-left-simple-duotone.svg?height=32&color=%23888888)
   static const alignLeftSimple = PhosphorDuotoneIconData(
     IconData(
       0xeaee,
@@ -375,7 +463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-duotone.svg)
+  /// The `alignRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-right-duotone](https://api.iconify.design/ph/align-right-duotone.svg?height=32&color=%23888888)
   static const alignRight = PhosphorDuotoneIconData(
     IconData(
       0xe510,
@@ -391,7 +483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-right-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-right-simple-duotone.svg)
+  /// The `alignRightSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignRightSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-right-simple-duotone](https://api.iconify.design/ph/align-right-simple-duotone.svg?height=32&color=%23888888)
   static const alignRightSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb12,
@@ -407,7 +503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-duotone.svg)
+  /// The `alignTop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignTop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-top-duotone](https://api.iconify.design/ph/align-top-duotone.svg?height=32&color=%23888888)
   static const alignTop = PhosphorDuotoneIconData(
     IconData(
       0xe512,
@@ -423,7 +523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![align-top-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/align-top-simple-duotone.svg)
+  /// The `alignTopSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `alignTopSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![align-top-simple-duotone](https://api.iconify.design/ph/align-top-simple-duotone.svg?height=32&color=%23888888)
   static const alignTopSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb14,
@@ -439,7 +543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![amazon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/amazon-logo-duotone.svg)
+  /// The `amazonLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `amazonLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![amazon-logo-duotone](https://api.iconify.design/ph/amazon-logo-duotone.svg?height=32&color=%23888888)
   static const amazonLogo = PhosphorDuotoneIconData(
     IconData(
       0xe96c,
@@ -455,7 +563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ambulance-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ambulance-duotone.svg)
+  /// The `ambulance` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ambulance` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ambulance-duotone](https://api.iconify.design/ph/ambulance-duotone.svg?height=32&color=%23888888)
   static const ambulance = PhosphorDuotoneIconData(
     IconData(
       0xe572,
@@ -471,7 +583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![anchor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-duotone.svg)
+  /// The `anchor` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `anchor` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![anchor-duotone](https://api.iconify.design/ph/anchor-duotone.svg?height=32&color=%23888888)
   static const anchor = PhosphorDuotoneIconData(
     IconData(
       0xe514,
@@ -487,7 +603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![anchor-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/anchor-simple-duotone.svg)
+  /// The `anchorSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `anchorSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![anchor-simple-duotone](https://api.iconify.design/ph/anchor-simple-duotone.svg?height=32&color=%23888888)
   static const anchorSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5d8,
@@ -503,7 +623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![android-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/android-logo-duotone.svg)
+  /// The `androidLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `androidLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![android-logo-duotone](https://api.iconify.design/ph/android-logo-duotone.svg?height=32&color=%23888888)
   static const androidLogo = PhosphorDuotoneIconData(
     IconData(
       0xe008,
@@ -519,7 +643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angle-duotone.svg)
+  /// The `angle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `angle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![angle-duotone](https://api.iconify.design/ph/angle-duotone.svg?height=32&color=%23888888)
   static const angle = PhosphorDuotoneIconData(
     IconData(
       0xe7bc,
@@ -535,7 +663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![angular-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/angular-logo-duotone.svg)
+  /// The `angularLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `angularLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![angular-logo-duotone](https://api.iconify.design/ph/angular-logo-duotone.svg?height=32&color=%23888888)
   static const angularLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb80,
@@ -551,7 +683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![aperture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/aperture-duotone.svg)
+  /// The `aperture` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `aperture` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![aperture-duotone](https://api.iconify.design/ph/aperture-duotone.svg?height=32&color=%23888888)
   static const aperture = PhosphorDuotoneIconData(
     IconData(
       0xe00a,
@@ -567,7 +703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![app-store-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-store-logo-duotone.svg)
+  /// The `appStoreLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `appStoreLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![app-store-logo-duotone](https://api.iconify.design/ph/app-store-logo-duotone.svg?height=32&color=%23888888)
   static const appStoreLogo = PhosphorDuotoneIconData(
     IconData(
       0xe974,
@@ -583,7 +723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![app-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/app-window-duotone.svg)
+  /// The `appWindow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `appWindow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![app-window-duotone](https://api.iconify.design/ph/app-window-duotone.svg?height=32&color=%23888888)
   static const appWindow = PhosphorDuotoneIconData(
     IconData(
       0xe5da,
@@ -599,7 +743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![apple-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-logo-duotone.svg)
+  /// The `appleLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `appleLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![apple-logo-duotone](https://api.iconify.design/ph/apple-logo-duotone.svg?height=32&color=%23888888)
   static const appleLogo = PhosphorDuotoneIconData(
     IconData(
       0xe516,
@@ -615,7 +763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![apple-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/apple-podcasts-logo-duotone.svg)
+  /// The `applePodcastsLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `applePodcastsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![apple-podcasts-logo-duotone](https://api.iconify.design/ph/apple-podcasts-logo-duotone.svg?height=32&color=%23888888)
   static const applePodcastsLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb96,
@@ -631,7 +783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![approximate-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/approximate-equals-duotone.svg)
+  /// The `approximateEquals` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `approximateEquals` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![approximate-equals-duotone](https://api.iconify.design/ph/approximate-equals-duotone.svg?height=32&color=%23888888)
   static const approximateEquals = PhosphorDuotoneIconData(
     IconData(
       0xedaa,
@@ -647,7 +803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive-duotone.svg)
+  /// The `archive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `archive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![archive-duotone](https://api.iconify.design/ph/archive-duotone.svg?height=32&color=%23888888)
   static const archive = PhosphorDuotoneIconData(
     IconData(
       0xe00c,
@@ -663,7 +823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![archive-box-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive-box-duotone.svg)
+  /// The `archiveBox` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `archiveBox` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![archive-box-duotone](https://api.iconify.design/ph/box-arrow-down-duotone.svg?height=32&color=%23888888)
   static const archiveBox = PhosphorDuotoneIconData(
     IconData(
       0xe00e,
@@ -679,7 +843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![archive-tray-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/archive-tray-duotone.svg)
+  /// The `archiveTray` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `archiveTray` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![archive-tray-duotone](https://api.iconify.design/ph/tray-arrow-down-duotone.svg?height=32&color=%23888888)
   static const archiveTray = PhosphorDuotoneIconData(
     IconData(
       0xe010,
@@ -695,7 +863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![armchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/armchair-duotone.svg)
+  /// The `armchair` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `armchair` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![armchair-duotone](https://api.iconify.design/ph/armchair-duotone.svg?height=32&color=%23888888)
   static const armchair = PhosphorDuotoneIconData(
     IconData(
       0xe012,
@@ -711,7 +883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-arc-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-left-duotone.svg)
+  /// The `arrowArcLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowArcLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-arc-left-duotone](https://api.iconify.design/ph/arrow-arc-left-duotone.svg?height=32&color=%23888888)
   static const arrowArcLeft = PhosphorDuotoneIconData(
     IconData(
       0xe014,
@@ -727,7 +903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-arc-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-arc-right-duotone.svg)
+  /// The `arrowArcRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowArcRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-arc-right-duotone](https://api.iconify.design/ph/arrow-arc-right-duotone.svg?height=32&color=%23888888)
   static const arrowArcRight = PhosphorDuotoneIconData(
     IconData(
       0xe016,
@@ -743,7 +923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-double-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-left-duotone.svg)
+  /// The `arrowBendDoubleUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-double-up-left-duotone](https://api.iconify.design/ph/arrow-bend-double-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowBendDoubleUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe03a,
@@ -759,7 +943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-double-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-double-up-right-duotone.svg)
+  /// The `arrowBendDoubleUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-double-up-right-duotone](https://api.iconify.design/ph/arrow-bend-double-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowBendDoubleUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe03c,
@@ -775,7 +963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-left-duotone.svg)
+  /// The `arrowBendDownLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-down-left-duotone](https://api.iconify.design/ph/arrow-bend-down-left-duotone.svg?height=32&color=%23888888)
   static const arrowBendDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe018,
@@ -791,7 +983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-down-right-duotone.svg)
+  /// The `arrowBendDownRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-down-right-duotone](https://api.iconify.design/ph/arrow-bend-down-right-duotone.svg?height=32&color=%23888888)
   static const arrowBendDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe01a,
@@ -807,7 +1003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-down-duotone.svg)
+  /// The `arrowBendLeftDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendLeftDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-left-down-duotone](https://api.iconify.design/ph/arrow-bend-left-down-duotone.svg?height=32&color=%23888888)
   static const arrowBendLeftDown = PhosphorDuotoneIconData(
     IconData(
       0xe01c,
@@ -823,7 +1023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-left-up-duotone.svg)
+  /// The `arrowBendLeftUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendLeftUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-left-up-duotone](https://api.iconify.design/ph/arrow-bend-left-up-duotone.svg?height=32&color=%23888888)
   static const arrowBendLeftUp = PhosphorDuotoneIconData(
     IconData(
       0xe01e,
@@ -839,7 +1043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-down-duotone.svg)
+  /// The `arrowBendRightDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendRightDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-right-down-duotone](https://api.iconify.design/ph/arrow-bend-right-down-duotone.svg?height=32&color=%23888888)
   static const arrowBendRightDown = PhosphorDuotoneIconData(
     IconData(
       0xe020,
@@ -855,7 +1063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-right-up-duotone.svg)
+  /// The `arrowBendRightUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendRightUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-right-up-duotone](https://api.iconify.design/ph/arrow-bend-right-up-duotone.svg?height=32&color=%23888888)
   static const arrowBendRightUp = PhosphorDuotoneIconData(
     IconData(
       0xe022,
@@ -871,7 +1083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-left-duotone.svg)
+  /// The `arrowBendUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-up-left-duotone](https://api.iconify.design/ph/arrow-bend-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowBendUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe024,
@@ -887,7 +1103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-bend-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-bend-up-right-duotone.svg)
+  /// The `arrowBendUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowBendUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-bend-up-right-duotone](https://api.iconify.design/ph/arrow-bend-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowBendUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe026,
@@ -903,7 +1123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-duotone.svg)
+  /// The `arrowCircleDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-down-duotone](https://api.iconify.design/ph/arrow-circle-down-duotone.svg?height=32&color=%23888888)
   static const arrowCircleDown = PhosphorDuotoneIconData(
     IconData(
       0xe028,
@@ -919,7 +1143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-left-duotone.svg)
+  /// The `arrowCircleDownLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-down-left-duotone](https://api.iconify.design/ph/arrow-circle-down-left-duotone.svg?height=32&color=%23888888)
   static const arrowCircleDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe02a,
@@ -935,7 +1163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-down-right-duotone.svg)
+  /// The `arrowCircleDownRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-down-right-duotone](https://api.iconify.design/ph/arrow-circle-down-right-duotone.svg?height=32&color=%23888888)
   static const arrowCircleDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe02c,
@@ -951,7 +1183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-left-duotone.svg)
+  /// The `arrowCircleLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-left-duotone](https://api.iconify.design/ph/arrow-circle-left-duotone.svg?height=32&color=%23888888)
   static const arrowCircleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe05a,
@@ -967,7 +1203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-right-duotone.svg)
+  /// The `arrowCircleRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-right-duotone](https://api.iconify.design/ph/arrow-circle-right-duotone.svg?height=32&color=%23888888)
   static const arrowCircleRight = PhosphorDuotoneIconData(
     IconData(
       0xe02e,
@@ -983,7 +1223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-duotone.svg)
+  /// The `arrowCircleUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-up-duotone](https://api.iconify.design/ph/arrow-circle-up-duotone.svg?height=32&color=%23888888)
   static const arrowCircleUp = PhosphorDuotoneIconData(
     IconData(
       0xe030,
@@ -999,7 +1243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-left-duotone.svg)
+  /// The `arrowCircleUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-up-left-duotone](https://api.iconify.design/ph/arrow-circle-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowCircleUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe032,
@@ -1015,7 +1263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-circle-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-circle-up-right-duotone.svg)
+  /// The `arrowCircleUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCircleUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-circle-up-right-duotone](https://api.iconify.design/ph/arrow-circle-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowCircleUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe034,
@@ -1031,7 +1283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-clockwise-duotone.svg)
+  /// The `arrowClockwise` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-clockwise-duotone](https://api.iconify.design/ph/arrow-clockwise-duotone.svg?height=32&color=%23888888)
   static const arrowClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe036,
@@ -1047,7 +1303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-counter-clockwise-duotone.svg)
+  /// The `arrowCounterClockwise` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowCounterClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-counter-clockwise-duotone](https://api.iconify.design/ph/arrow-counter-clockwise-duotone.svg?height=32&color=%23888888)
   static const arrowCounterClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe038,
@@ -1063,7 +1323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-duotone.svg)
+  /// The `arrowDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-down-duotone](https://api.iconify.design/ph/arrow-down-duotone.svg?height=32&color=%23888888)
   static const arrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe03e,
@@ -1079,7 +1343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-left-duotone.svg)
+  /// The `arrowDownLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-down-left-duotone](https://api.iconify.design/ph/arrow-down-left-duotone.svg?height=32&color=%23888888)
   static const arrowDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe040,
@@ -1095,7 +1363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-down-right-duotone.svg)
+  /// The `arrowDownRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-down-right-duotone](https://api.iconify.design/ph/arrow-down-right-duotone.svg?height=32&color=%23888888)
   static const arrowDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe042,
@@ -1111,7 +1383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-left-duotone.svg)
+  /// The `arrowElbowDownLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-down-left-duotone](https://api.iconify.design/ph/arrow-elbow-down-left-duotone.svg?height=32&color=%23888888)
   static const arrowElbowDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe044,
@@ -1127,7 +1403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-down-right-duotone.svg)
+  /// The `arrowElbowDownRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-down-right-duotone](https://api.iconify.design/ph/arrow-elbow-down-right-duotone.svg?height=32&color=%23888888)
   static const arrowElbowDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe046,
@@ -1143,7 +1423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-duotone.svg)
+  /// The `arrowElbowLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-left-duotone](https://api.iconify.design/ph/arrow-elbow-left-duotone.svg?height=32&color=%23888888)
   static const arrowElbowLeft = PhosphorDuotoneIconData(
     IconData(
       0xe048,
@@ -1159,7 +1443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-down-duotone.svg)
+  /// The `arrowElbowLeftDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowLeftDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-left-down-duotone](https://api.iconify.design/ph/arrow-elbow-left-down-duotone.svg?height=32&color=%23888888)
   static const arrowElbowLeftDown = PhosphorDuotoneIconData(
     IconData(
       0xe04a,
@@ -1175,7 +1463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-left-up-duotone.svg)
+  /// The `arrowElbowLeftUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowLeftUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-left-up-duotone](https://api.iconify.design/ph/arrow-elbow-left-up-duotone.svg?height=32&color=%23888888)
   static const arrowElbowLeftUp = PhosphorDuotoneIconData(
     IconData(
       0xe04c,
@@ -1191,7 +1483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-duotone.svg)
+  /// The `arrowElbowRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-right-duotone](https://api.iconify.design/ph/arrow-elbow-right-duotone.svg?height=32&color=%23888888)
   static const arrowElbowRight = PhosphorDuotoneIconData(
     IconData(
       0xe04e,
@@ -1207,7 +1503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-down-duotone.svg)
+  /// The `arrowElbowRightDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowRightDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-right-down-duotone](https://api.iconify.design/ph/arrow-elbow-right-down-duotone.svg?height=32&color=%23888888)
   static const arrowElbowRightDown = PhosphorDuotoneIconData(
     IconData(
       0xe050,
@@ -1223,7 +1523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-right-up-duotone.svg)
+  /// The `arrowElbowRightUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowRightUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-right-up-duotone](https://api.iconify.design/ph/arrow-elbow-right-up-duotone.svg?height=32&color=%23888888)
   static const arrowElbowRightUp = PhosphorDuotoneIconData(
     IconData(
       0xe052,
@@ -1239,7 +1543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-left-duotone.svg)
+  /// The `arrowElbowUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-up-left-duotone](https://api.iconify.design/ph/arrow-elbow-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowElbowUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe054,
@@ -1255,7 +1563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-elbow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-elbow-up-right-duotone.svg)
+  /// The `arrowElbowUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowElbowUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-elbow-up-right-duotone](https://api.iconify.design/ph/arrow-elbow-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowElbowUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe056,
@@ -1271,7 +1583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-down-duotone.svg)
+  /// The `arrowFatDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-down-duotone](https://api.iconify.design/ph/arrow-fat-down-duotone.svg?height=32&color=%23888888)
   static const arrowFatDown = PhosphorDuotoneIconData(
     IconData(
       0xe518,
@@ -1287,7 +1603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-left-duotone.svg)
+  /// The `arrowFatLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-left-duotone](https://api.iconify.design/ph/arrow-fat-left-duotone.svg?height=32&color=%23888888)
   static const arrowFatLeft = PhosphorDuotoneIconData(
     IconData(
       0xe51a,
@@ -1303,7 +1623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-down-duotone.svg)
+  /// The `arrowFatLineDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-line-down-duotone](https://api.iconify.design/ph/arrow-fat-line-down-duotone.svg?height=32&color=%23888888)
   static const arrowFatLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe51c,
@@ -1319,7 +1643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-left-duotone.svg)
+  /// The `arrowFatLineLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLineLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-line-left-duotone](https://api.iconify.design/ph/arrow-fat-line-left-duotone.svg?height=32&color=%23888888)
   static const arrowFatLineLeft = PhosphorDuotoneIconData(
     IconData(
       0xe51e,
@@ -1335,7 +1663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-right-duotone.svg)
+  /// The `arrowFatLineRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLineRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-line-right-duotone](https://api.iconify.design/ph/arrow-fat-line-right-duotone.svg?height=32&color=%23888888)
   static const arrowFatLineRight = PhosphorDuotoneIconData(
     IconData(
       0xe520,
@@ -1351,7 +1683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-line-up-duotone.svg)
+  /// The `arrowFatLineUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-line-up-duotone](https://api.iconify.design/ph/arrow-fat-line-up-duotone.svg?height=32&color=%23888888)
   static const arrowFatLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe522,
@@ -1367,7 +1703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-lines-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-down-duotone.svg)
+  /// The `arrowFatLinesDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLinesDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-lines-down-duotone](https://api.iconify.design/ph/arrow-fat-lines-down-duotone.svg?height=32&color=%23888888)
   static const arrowFatLinesDown = PhosphorDuotoneIconData(
     IconData(
       0xe524,
@@ -1383,7 +1723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-lines-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-left-duotone.svg)
+  /// The `arrowFatLinesLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLinesLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-lines-left-duotone](https://api.iconify.design/ph/arrow-fat-lines-left-duotone.svg?height=32&color=%23888888)
   static const arrowFatLinesLeft = PhosphorDuotoneIconData(
     IconData(
       0xe526,
@@ -1399,7 +1743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-lines-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-right-duotone.svg)
+  /// The `arrowFatLinesRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLinesRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-lines-right-duotone](https://api.iconify.design/ph/arrow-fat-lines-right-duotone.svg?height=32&color=%23888888)
   static const arrowFatLinesRight = PhosphorDuotoneIconData(
     IconData(
       0xe528,
@@ -1415,7 +1763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-lines-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-lines-up-duotone.svg)
+  /// The `arrowFatLinesUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatLinesUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-lines-up-duotone](https://api.iconify.design/ph/arrow-fat-lines-up-duotone.svg?height=32&color=%23888888)
   static const arrowFatLinesUp = PhosphorDuotoneIconData(
     IconData(
       0xe52a,
@@ -1431,7 +1783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-right-duotone.svg)
+  /// The `arrowFatRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-right-duotone](https://api.iconify.design/ph/arrow-fat-right-duotone.svg?height=32&color=%23888888)
   static const arrowFatRight = PhosphorDuotoneIconData(
     IconData(
       0xe52c,
@@ -1447,7 +1803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-fat-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-fat-up-duotone.svg)
+  /// The `arrowFatUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowFatUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-fat-up-duotone](https://api.iconify.design/ph/arrow-fat-up-duotone.svg?height=32&color=%23888888)
   static const arrowFatUp = PhosphorDuotoneIconData(
     IconData(
       0xe52e,
@@ -1463,7 +1823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-left-duotone.svg)
+  /// The `arrowLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-left-duotone](https://api.iconify.design/ph/arrow-left-duotone.svg?height=32&color=%23888888)
   static const arrowLeft = PhosphorDuotoneIconData(
     IconData(
       0xe058,
@@ -1479,7 +1843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-duotone.svg)
+  /// The `arrowLineDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-down-duotone](https://api.iconify.design/ph/arrow-line-down-duotone.svg?height=32&color=%23888888)
   static const arrowLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe05c,
@@ -1495,7 +1863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-left-duotone.svg)
+  /// The `arrowLineDownLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-down-left-duotone](https://api.iconify.design/ph/arrow-line-down-left-duotone.svg?height=32&color=%23888888)
   static const arrowLineDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe05e,
@@ -1511,7 +1883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-down-right-duotone.svg)
+  /// The `arrowLineDownRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-down-right-duotone](https://api.iconify.design/ph/arrow-line-down-right-duotone.svg?height=32&color=%23888888)
   static const arrowLineDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe060,
@@ -1527,7 +1903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-left-duotone.svg)
+  /// The `arrowLineLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-left-duotone](https://api.iconify.design/ph/arrow-line-left-duotone.svg?height=32&color=%23888888)
   static const arrowLineLeft = PhosphorDuotoneIconData(
     IconData(
       0xe062,
@@ -1543,7 +1923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-right-duotone.svg)
+  /// The `arrowLineRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-right-duotone](https://api.iconify.design/ph/arrow-line-right-duotone.svg?height=32&color=%23888888)
   static const arrowLineRight = PhosphorDuotoneIconData(
     IconData(
       0xe064,
@@ -1559,7 +1943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-duotone.svg)
+  /// The `arrowLineUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-up-duotone](https://api.iconify.design/ph/arrow-line-up-duotone.svg?height=32&color=%23888888)
   static const arrowLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe066,
@@ -1575,7 +1963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-left-duotone.svg)
+  /// The `arrowLineUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-up-left-duotone](https://api.iconify.design/ph/arrow-line-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowLineUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe068,
@@ -1591,7 +1983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-line-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-line-up-right-duotone.svg)
+  /// The `arrowLineUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowLineUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-line-up-right-duotone](https://api.iconify.design/ph/arrow-line-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowLineUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe06a,
@@ -1607,7 +2003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-right-duotone.svg)
+  /// The `arrowRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-right-duotone](https://api.iconify.design/ph/arrow-right-duotone.svg?height=32&color=%23888888)
   static const arrowRight = PhosphorDuotoneIconData(
     IconData(
       0xe06c,
@@ -1623,7 +2023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-duotone.svg)
+  /// The `arrowSquareDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-down-duotone](https://api.iconify.design/ph/arrow-square-down-duotone.svg?height=32&color=%23888888)
   static const arrowSquareDown = PhosphorDuotoneIconData(
     IconData(
       0xe06e,
@@ -1639,7 +2043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-left-duotone.svg)
+  /// The `arrowSquareDownLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-down-left-duotone](https://api.iconify.design/ph/arrow-square-down-left-duotone.svg?height=32&color=%23888888)
   static const arrowSquareDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe070,
@@ -1655,7 +2063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-down-right-duotone.svg)
+  /// The `arrowSquareDownRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-down-right-duotone](https://api.iconify.design/ph/arrow-square-down-right-duotone.svg?height=32&color=%23888888)
   static const arrowSquareDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe072,
@@ -1671,7 +2083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-in-duotone.svg)
+  /// The `arrowSquareIn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareIn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-in-duotone](https://api.iconify.design/ph/arrow-square-in-duotone.svg?height=32&color=%23888888)
   static const arrowSquareIn = PhosphorDuotoneIconData(
     IconData(
       0xe5dc,
@@ -1687,7 +2103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-left-duotone.svg)
+  /// The `arrowSquareLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-left-duotone](https://api.iconify.design/ph/arrow-square-left-duotone.svg?height=32&color=%23888888)
   static const arrowSquareLeft = PhosphorDuotoneIconData(
     IconData(
       0xe074,
@@ -1703,7 +2123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-out-duotone.svg)
+  /// The `arrowSquareOut` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareOut` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-out-duotone](https://api.iconify.design/ph/arrow-square-out-duotone.svg?height=32&color=%23888888)
   static const arrowSquareOut = PhosphorDuotoneIconData(
     IconData(
       0xe5de,
@@ -1719,7 +2143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-right-duotone.svg)
+  /// The `arrowSquareRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-right-duotone](https://api.iconify.design/ph/arrow-square-right-duotone.svg?height=32&color=%23888888)
   static const arrowSquareRight = PhosphorDuotoneIconData(
     IconData(
       0xe076,
@@ -1735,7 +2163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-duotone.svg)
+  /// The `arrowSquareUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-up-duotone](https://api.iconify.design/ph/arrow-square-up-duotone.svg?height=32&color=%23888888)
   static const arrowSquareUp = PhosphorDuotoneIconData(
     IconData(
       0xe078,
@@ -1751,7 +2183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-left-duotone.svg)
+  /// The `arrowSquareUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-up-left-duotone](https://api.iconify.design/ph/arrow-square-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowSquareUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe07a,
@@ -1767,7 +2203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-square-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-square-up-right-duotone.svg)
+  /// The `arrowSquareUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowSquareUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-square-up-right-duotone](https://api.iconify.design/ph/arrow-square-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowSquareUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe07c,
@@ -1783,7 +2223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-down-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-left-duotone.svg)
+  /// The `arrowUDownLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowUDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-down-left-duotone](https://api.iconify.design/ph/arrow-u-down-left-duotone.svg?height=32&color=%23888888)
   static const arrowUDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe07e,
@@ -1799,7 +2243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-down-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-down-right-duotone.svg)
+  /// The `arrowUDownRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowUDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-down-right-duotone](https://api.iconify.design/ph/arrow-u-down-right-duotone.svg?height=32&color=%23888888)
   static const arrowUDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe080,
@@ -1815,7 +2263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-left-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-down-duotone.svg)
+  /// The `arrowULeftDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowULeftDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-left-down-duotone](https://api.iconify.design/ph/arrow-u-left-down-duotone.svg?height=32&color=%23888888)
   static const arrowULeftDown = PhosphorDuotoneIconData(
     IconData(
       0xe082,
@@ -1831,7 +2283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-left-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-left-up-duotone.svg)
+  /// The `arrowULeftUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowULeftUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-left-up-duotone](https://api.iconify.design/ph/arrow-u-left-up-duotone.svg?height=32&color=%23888888)
   static const arrowULeftUp = PhosphorDuotoneIconData(
     IconData(
       0xe084,
@@ -1847,7 +2303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-right-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-down-duotone.svg)
+  /// The `arrowURightDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowURightDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-right-down-duotone](https://api.iconify.design/ph/arrow-u-right-down-duotone.svg?height=32&color=%23888888)
   static const arrowURightDown = PhosphorDuotoneIconData(
     IconData(
       0xe086,
@@ -1863,7 +2323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-right-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-right-up-duotone.svg)
+  /// The `arrowURightUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowURightUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-right-up-duotone](https://api.iconify.design/ph/arrow-u-right-up-duotone.svg?height=32&color=%23888888)
   static const arrowURightUp = PhosphorDuotoneIconData(
     IconData(
       0xe088,
@@ -1879,7 +2343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-left-duotone.svg)
+  /// The `arrowUUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowUUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-up-left-duotone](https://api.iconify.design/ph/arrow-u-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowUUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe08a,
@@ -1895,7 +2363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-u-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-u-up-right-duotone.svg)
+  /// The `arrowUUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowUUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-u-up-right-duotone](https://api.iconify.design/ph/arrow-u-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowUUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe08c,
@@ -1911,7 +2383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-duotone.svg)
+  /// The `arrowUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-up-duotone](https://api.iconify.design/ph/arrow-up-duotone.svg?height=32&color=%23888888)
   static const arrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe08e,
@@ -1927,7 +2403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-up-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-left-duotone.svg)
+  /// The `arrowUpLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-up-left-duotone](https://api.iconify.design/ph/arrow-up-left-duotone.svg?height=32&color=%23888888)
   static const arrowUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe090,
@@ -1943,7 +2423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrow-up-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrow-up-right-duotone.svg)
+  /// The `arrowUpRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrow-up-right-duotone](https://api.iconify.design/ph/arrow-up-right-duotone.svg?height=32&color=%23888888)
   static const arrowUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe092,
@@ -1959,7 +2443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-clockwise-duotone.svg)
+  /// The `arrowsClockwise` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-clockwise-duotone](https://api.iconify.design/ph/arrows-clockwise-duotone.svg?height=32&color=%23888888)
   static const arrowsClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe094,
@@ -1975,7 +2463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-counter-clockwise-duotone.svg)
+  /// The `arrowsCounterClockwise` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsCounterClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-counter-clockwise-duotone](https://api.iconify.design/ph/arrows-counter-clockwise-duotone.svg?height=32&color=%23888888)
   static const arrowsCounterClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe096,
@@ -1991,7 +2483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-down-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-down-up-duotone.svg)
+  /// The `arrowsDownUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsDownUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-down-up-duotone](https://api.iconify.design/ph/arrows-down-up-duotone.svg?height=32&color=%23888888)
   static const arrowsDownUp = PhosphorDuotoneIconData(
     IconData(
       0xe098,
@@ -2007,7 +2503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-horizontal-duotone.svg)
+  /// The `arrowsHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-horizontal-duotone](https://api.iconify.design/ph/arrows-horizontal-duotone.svg?height=32&color=%23888888)
   static const arrowsHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xeb06,
@@ -2023,7 +2523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-duotone.svg)
+  /// The `arrowsIn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsIn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-in-duotone](https://api.iconify.design/ph/arrows-in-duotone.svg?height=32&color=%23888888)
   static const arrowsIn = PhosphorDuotoneIconData(
     IconData(
       0xe09a,
@@ -2039,7 +2543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-in-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-cardinal-duotone.svg)
+  /// The `arrowsInCardinal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsInCardinal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-in-cardinal-duotone](https://api.iconify.design/ph/arrows-in-cardinal-duotone.svg?height=32&color=%23888888)
   static const arrowsInCardinal = PhosphorDuotoneIconData(
     IconData(
       0xe09c,
@@ -2055,7 +2563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-in-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-horizontal-duotone.svg)
+  /// The `arrowsInLineHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsInLineHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-in-line-horizontal-duotone](https://api.iconify.design/ph/arrows-in-line-horizontal-duotone.svg?height=32&color=%23888888)
   static const arrowsInLineHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe530,
@@ -2071,7 +2583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-in-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-line-vertical-duotone.svg)
+  /// The `arrowsInLineVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsInLineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-in-line-vertical-duotone](https://api.iconify.design/ph/arrows-in-line-vertical-duotone.svg?height=32&color=%23888888)
   static const arrowsInLineVertical = PhosphorDuotoneIconData(
     IconData(
       0xe532,
@@ -2087,7 +2603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-in-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-in-simple-duotone.svg)
+  /// The `arrowsInSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsInSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-in-simple-duotone](https://api.iconify.design/ph/arrows-in-simple-duotone.svg?height=32&color=%23888888)
   static const arrowsInSimple = PhosphorDuotoneIconData(
     IconData(
       0xe09e,
@@ -2103,7 +2623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-left-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-left-right-duotone.svg)
+  /// The `arrowsLeftRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsLeftRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-left-right-duotone](https://api.iconify.design/ph/arrows-left-right-duotone.svg?height=32&color=%23888888)
   static const arrowsLeftRight = PhosphorDuotoneIconData(
     IconData(
       0xe0a0,
@@ -2119,7 +2643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-merge-duotone.svg)
+  /// The `arrowsMerge` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsMerge` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-merge-duotone](https://api.iconify.design/ph/arrows-merge-duotone.svg?height=32&color=%23888888)
   static const arrowsMerge = PhosphorDuotoneIconData(
     IconData(
       0xed3e,
@@ -2135,7 +2663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-duotone.svg)
+  /// The `arrowsOut` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsOut` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-out-duotone](https://api.iconify.design/ph/arrows-out-duotone.svg?height=32&color=%23888888)
   static const arrowsOut = PhosphorDuotoneIconData(
     IconData(
       0xe0a2,
@@ -2151,7 +2683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-out-cardinal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-cardinal-duotone.svg)
+  /// The `arrowsOutCardinal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsOutCardinal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-out-cardinal-duotone](https://api.iconify.design/ph/arrows-out-cardinal-duotone.svg?height=32&color=%23888888)
   static const arrowsOutCardinal = PhosphorDuotoneIconData(
     IconData(
       0xe0a4,
@@ -2167,7 +2703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-out-line-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-horizontal-duotone.svg)
+  /// The `arrowsOutLineHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-out-line-horizontal-duotone](https://api.iconify.design/ph/arrows-out-line-horizontal-duotone.svg?height=32&color=%23888888)
   static const arrowsOutLineHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe534,
@@ -2183,7 +2723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-out-line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-line-vertical-duotone.svg)
+  /// The `arrowsOutLineVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsOutLineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-out-line-vertical-duotone](https://api.iconify.design/ph/arrows-out-line-vertical-duotone.svg?height=32&color=%23888888)
   static const arrowsOutLineVertical = PhosphorDuotoneIconData(
     IconData(
       0xe536,
@@ -2199,7 +2743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-out-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-out-simple-duotone.svg)
+  /// The `arrowsOutSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsOutSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-out-simple-duotone](https://api.iconify.design/ph/arrows-out-simple-duotone.svg?height=32&color=%23888888)
   static const arrowsOutSimple = PhosphorDuotoneIconData(
     IconData(
       0xe0a6,
@@ -2215,7 +2763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-split-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-split-duotone.svg)
+  /// The `arrowsSplit` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsSplit` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-split-duotone](https://api.iconify.design/ph/arrows-split-duotone.svg?height=32&color=%23888888)
   static const arrowsSplit = PhosphorDuotoneIconData(
     IconData(
       0xed3c,
@@ -2231,7 +2783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![arrows-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/arrows-vertical-duotone.svg)
+  /// The `arrowsVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `arrowsVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![arrows-vertical-duotone](https://api.iconify.design/ph/arrows-vertical-duotone.svg?height=32&color=%23888888)
   static const arrowsVertical = PhosphorDuotoneIconData(
     IconData(
       0xeb04,
@@ -2247,7 +2803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![article-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-duotone.svg)
+  /// The `article` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `article` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![article-duotone](https://api.iconify.design/ph/article-duotone.svg?height=32&color=%23888888)
   static const article = PhosphorDuotoneIconData(
     IconData(
       0xe0a8,
@@ -2263,7 +2823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![article-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-medium-duotone.svg)
+  /// The `articleMedium` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `articleMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![article-medium-duotone](https://api.iconify.design/ph/article-medium-duotone.svg?height=32&color=%23888888)
   static const articleMedium = PhosphorDuotoneIconData(
     IconData(
       0xe5e0,
@@ -2279,7 +2843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![article-ny-times-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/article-ny-times-duotone.svg)
+  /// The `articleNyTimes` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `articleNyTimes` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![article-ny-times-duotone](https://api.iconify.design/ph/article-ny-times-duotone.svg?height=32&color=%23888888)
   static const articleNyTimes = PhosphorDuotoneIconData(
     IconData(
       0xe5e2,
@@ -2295,7 +2863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![asclepius-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asclepius-duotone.svg)
+  /// The `asclepius` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `asclepius` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![asclepius-duotone](https://api.iconify.design/ph/asclepius-duotone.svg?height=32&color=%23888888)
   static const asclepius = PhosphorDuotoneIconData(
     IconData(
       0xee34,
@@ -2311,7 +2883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![asterisk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-duotone.svg)
+  /// The `asterisk` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `asterisk` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![asterisk-duotone](https://api.iconify.design/ph/asterisk-duotone.svg?height=32&color=%23888888)
   static const asterisk = PhosphorDuotoneIconData(
     IconData(
       0xe0aa,
@@ -2327,7 +2903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![asterisk-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/asterisk-simple-duotone.svg)
+  /// The `asteriskSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `asteriskSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![asterisk-simple-duotone](https://api.iconify.design/ph/asterisk-simple-duotone.svg?height=32&color=%23888888)
   static const asteriskSimple = PhosphorDuotoneIconData(
     IconData(
       0xe832,
@@ -2343,7 +2923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![at-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/at-duotone.svg)
+  /// The `at` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `at` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![at-duotone](https://api.iconify.design/ph/at-duotone.svg?height=32&color=%23888888)
   static const at = PhosphorDuotoneIconData(
     IconData(
       0xe0ac,
@@ -2359,7 +2943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![atom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/atom-duotone.svg)
+  /// The `atom` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `atom` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![atom-duotone](https://api.iconify.design/ph/atom-duotone.svg?height=32&color=%23888888)
   static const atom = PhosphorDuotoneIconData(
     IconData(
       0xe5e4,
@@ -2375,7 +2963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![avocado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/avocado-duotone.svg)
+  /// The `avocado` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `avocado` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![avocado-duotone](https://api.iconify.design/ph/avocado-duotone.svg?height=32&color=%23888888)
   static const avocado = PhosphorDuotoneIconData(
     IconData(
       0xee04,
@@ -2391,7 +2983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![axe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/axe-duotone.svg)
+  /// The `axe` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `axe` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![axe-duotone](https://api.iconify.design/ph/axe-duotone.svg?height=32&color=%23888888)
   static const axe = PhosphorDuotoneIconData(
     IconData(
       0xe9fc,
@@ -2407,7 +3003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![baby-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-duotone.svg)
+  /// The `baby` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `baby` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![baby-duotone](https://api.iconify.design/ph/baby-duotone.svg?height=32&color=%23888888)
   static const baby = PhosphorDuotoneIconData(
     IconData(
       0xe774,
@@ -2423,7 +3023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![baby-carriage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baby-carriage-duotone.svg)
+  /// The `babyCarriage` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `babyCarriage` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![baby-carriage-duotone](https://api.iconify.design/ph/baby-carriage-duotone.svg?height=32&color=%23888888)
   static const babyCarriage = PhosphorDuotoneIconData(
     IconData(
       0xe818,
@@ -2439,7 +3043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![backpack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backpack-duotone.svg)
+  /// The `backpack` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `backpack` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![backpack-duotone](https://api.iconify.design/ph/backpack-duotone.svg?height=32&color=%23888888)
   static const backpack = PhosphorDuotoneIconData(
     IconData(
       0xe922,
@@ -2455,7 +3063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![backspace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/backspace-duotone.svg)
+  /// The `backspace` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `backspace` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![backspace-duotone](https://api.iconify.design/ph/backspace-duotone.svg?height=32&color=%23888888)
   static const backspace = PhosphorDuotoneIconData(
     IconData(
       0xe0ae,
@@ -2471,7 +3083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-duotone.svg)
+  /// The `bag` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bag` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bag-duotone](https://api.iconify.design/ph/bag-duotone.svg?height=32&color=%23888888)
   static const bag = PhosphorDuotoneIconData(
     IconData(
       0xe0b0,
@@ -2487,7 +3103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bag-simple-duotone.svg)
+  /// The `bagSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bagSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bag-simple-duotone](https://api.iconify.design/ph/bag-simple-duotone.svg?height=32&color=%23888888)
   static const bagSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5e6,
@@ -2503,7 +3123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![balloon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/balloon-duotone.svg)
+  /// The `balloon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `balloon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![balloon-duotone](https://api.iconify.design/ph/balloon-duotone.svg?height=32&color=%23888888)
   static const balloon = PhosphorDuotoneIconData(
     IconData(
       0xe76c,
@@ -2519,7 +3143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bandaids-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bandaids-duotone.svg)
+  /// The `bandaids` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bandaids` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bandaids-duotone](https://api.iconify.design/ph/bandaids-duotone.svg?height=32&color=%23888888)
   static const bandaids = PhosphorDuotoneIconData(
     IconData(
       0xe0b2,
@@ -2535,7 +3163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bank-duotone.svg)
+  /// The `bank` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bank` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bank-duotone](https://api.iconify.design/ph/bank-duotone.svg?height=32&color=%23888888)
   static const bank = PhosphorDuotoneIconData(
     IconData(
       0xe0b4,
@@ -2551,7 +3183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![barbell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barbell-duotone.svg)
+  /// The `barbell` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `barbell` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![barbell-duotone](https://api.iconify.design/ph/barbell-duotone.svg?height=32&color=%23888888)
   static const barbell = PhosphorDuotoneIconData(
     IconData(
       0xe0b6,
@@ -2567,7 +3203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![barcode-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barcode-duotone.svg)
+  /// The `barcode` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `barcode` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![barcode-duotone](https://api.iconify.design/ph/barcode-duotone.svg?height=32&color=%23888888)
   static const barcode = PhosphorDuotoneIconData(
     IconData(
       0xe0b8,
@@ -2583,7 +3223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![barn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barn-duotone.svg)
+  /// The `barn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `barn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![barn-duotone](https://api.iconify.design/ph/barn-duotone.svg?height=32&color=%23888888)
   static const barn = PhosphorDuotoneIconData(
     IconData(
       0xec72,
@@ -2599,7 +3243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![barricade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/barricade-duotone.svg)
+  /// The `barricade` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `barricade` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![barricade-duotone](https://api.iconify.design/ph/barricade-duotone.svg?height=32&color=%23888888)
   static const barricade = PhosphorDuotoneIconData(
     IconData(
       0xe948,
@@ -2615,7 +3263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![baseball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-duotone.svg)
+  /// The `baseball` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `baseball` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![baseball-duotone](https://api.iconify.design/ph/baseball-duotone.svg?height=32&color=%23888888)
   static const baseball = PhosphorDuotoneIconData(
     IconData(
       0xe71a,
@@ -2631,7 +3283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![baseball-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-cap-duotone.svg)
+  /// The `baseballCap` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `baseballCap` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![baseball-cap-duotone](https://api.iconify.design/ph/baseball-cap-duotone.svg?height=32&color=%23888888)
   static const baseballCap = PhosphorDuotoneIconData(
     IconData(
       0xea28,
@@ -2647,7 +3303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![baseball-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/baseball-helmet-duotone.svg)
+  /// The `baseballHelmet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `baseballHelmet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![baseball-helmet-duotone](https://api.iconify.design/ph/baseball-helmet-duotone.svg?height=32&color=%23888888)
   static const baseballHelmet = PhosphorDuotoneIconData(
     IconData(
       0xee4a,
@@ -2663,7 +3323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![basket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basket-duotone.svg)
+  /// The `basket` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `basket` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![basket-duotone](https://api.iconify.design/ph/basket-duotone.svg?height=32&color=%23888888)
   static const basket = PhosphorDuotoneIconData(
     IconData(
       0xe964,
@@ -2679,7 +3343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/basketball-duotone.svg)
+  /// The `basketball` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `basketball` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![basketball-duotone](https://api.iconify.design/ph/basketball-duotone.svg?height=32&color=%23888888)
   static const basketball = PhosphorDuotoneIconData(
     IconData(
       0xe724,
@@ -2695,7 +3363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bathtub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bathtub-duotone.svg)
+  /// The `bathtub` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bathtub` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bathtub-duotone](https://api.iconify.design/ph/bathtub-duotone.svg?height=32&color=%23888888)
   static const bathtub = PhosphorDuotoneIconData(
     IconData(
       0xe81e,
@@ -2711,7 +3383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-duotone.svg)
+  /// The `batteryCharging` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryCharging` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-charging-duotone](https://api.iconify.design/ph/battery-charging-duotone.svg?height=32&color=%23888888)
   static const batteryCharging = PhosphorDuotoneIconData(
     IconData(
       0xe0ba,
@@ -2727,7 +3403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-charging-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-charging-vertical-duotone.svg)
+  /// The `batteryChargingVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryChargingVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-charging-vertical-duotone](https://api.iconify.design/ph/battery-charging-vertical-duotone.svg?height=32&color=%23888888)
   static const batteryChargingVertical = PhosphorDuotoneIconData(
     IconData(
       0xe0bc,
@@ -2743,7 +3423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-empty-duotone.svg)
+  /// The `batteryEmpty` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryEmpty` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-empty-duotone](https://api.iconify.design/ph/battery-empty-duotone.svg?height=32&color=%23888888)
   static const batteryEmpty = PhosphorDuotoneIconData(
     IconData(
       0xe0be,
@@ -2759,7 +3443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-full-duotone.svg)
+  /// The `batteryFull` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryFull` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-full-duotone](https://api.iconify.design/ph/battery-full-duotone.svg?height=32&color=%23888888)
   static const batteryFull = PhosphorDuotoneIconData(
     IconData(
       0xe0c0,
@@ -2775,7 +3463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-high-duotone.svg)
+  /// The `batteryHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-high-duotone](https://api.iconify.design/ph/battery-high-duotone.svg?height=32&color=%23888888)
   static const batteryHigh = PhosphorDuotoneIconData(
     IconData(
       0xe0c2,
@@ -2791,7 +3483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-low-duotone.svg)
+  /// The `batteryLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-low-duotone](https://api.iconify.design/ph/battery-low-duotone.svg?height=32&color=%23888888)
   static const batteryLow = PhosphorDuotoneIconData(
     IconData(
       0xe0c4,
@@ -2807,7 +3503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-medium-duotone.svg)
+  /// The `batteryMedium` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-medium-duotone](https://api.iconify.design/ph/battery-medium-duotone.svg?height=32&color=%23888888)
   static const batteryMedium = PhosphorDuotoneIconData(
     IconData(
       0xe0c6,
@@ -2823,7 +3523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-duotone.svg)
+  /// The `batteryPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-plus-duotone](https://api.iconify.design/ph/battery-plus-duotone.svg?height=32&color=%23888888)
   static const batteryPlus = PhosphorDuotoneIconData(
     IconData(
       0xe808,
@@ -2839,7 +3543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-plus-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-plus-vertical-duotone.svg)
+  /// The `batteryPlusVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryPlusVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-plus-vertical-duotone](https://api.iconify.design/ph/battery-plus-vertical-duotone.svg?height=32&color=%23888888)
   static const batteryPlusVertical = PhosphorDuotoneIconData(
     IconData(
       0xec50,
@@ -2855,7 +3563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-vertical-empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-empty-duotone.svg)
+  /// The `batteryVerticalEmpty` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryVerticalEmpty` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-vertical-empty-duotone](https://api.iconify.design/ph/battery-vertical-empty-duotone.svg?height=32&color=%23888888)
   static const batteryVerticalEmpty = PhosphorDuotoneIconData(
     IconData(
       0xe7c6,
@@ -2871,7 +3583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-vertical-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-full-duotone.svg)
+  /// The `batteryVerticalFull` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryVerticalFull` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-vertical-full-duotone](https://api.iconify.design/ph/battery-vertical-full-duotone.svg?height=32&color=%23888888)
   static const batteryVerticalFull = PhosphorDuotoneIconData(
     IconData(
       0xe7c4,
@@ -2887,7 +3603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-vertical-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-high-duotone.svg)
+  /// The `batteryVerticalHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryVerticalHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-vertical-high-duotone](https://api.iconify.design/ph/battery-vertical-high-duotone.svg?height=32&color=%23888888)
   static const batteryVerticalHigh = PhosphorDuotoneIconData(
     IconData(
       0xe7c2,
@@ -2903,7 +3623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-vertical-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-low-duotone.svg)
+  /// The `batteryVerticalLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryVerticalLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-vertical-low-duotone](https://api.iconify.design/ph/battery-vertical-low-duotone.svg?height=32&color=%23888888)
   static const batteryVerticalLow = PhosphorDuotoneIconData(
     IconData(
       0xe7be,
@@ -2919,7 +3643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-vertical-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-vertical-medium-duotone.svg)
+  /// The `batteryVerticalMedium` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryVerticalMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-vertical-medium-duotone](https://api.iconify.design/ph/battery-vertical-medium-duotone.svg?height=32&color=%23888888)
   static const batteryVerticalMedium = PhosphorDuotoneIconData(
     IconData(
       0xe7c0,
@@ -2935,7 +3663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-duotone.svg)
+  /// The `batteryWarning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-warning-duotone](https://api.iconify.design/ph/battery-warning-duotone.svg?height=32&color=%23888888)
   static const batteryWarning = PhosphorDuotoneIconData(
     IconData(
       0xe0c8,
@@ -2951,7 +3683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![battery-warning-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/battery-warning-vertical-duotone.svg)
+  /// The `batteryWarningVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `batteryWarningVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![battery-warning-vertical-duotone](https://api.iconify.design/ph/battery-warning-vertical-duotone.svg?height=32&color=%23888888)
   static const batteryWarningVertical = PhosphorDuotoneIconData(
     IconData(
       0xe0ca,
@@ -2967,7 +3703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![beach-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beach-ball-duotone.svg)
+  /// The `beachBall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `beachBall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![beach-ball-duotone](https://api.iconify.design/ph/beach-ball-duotone.svg?height=32&color=%23888888)
   static const beachBall = PhosphorDuotoneIconData(
     IconData(
       0xed24,
@@ -2983,7 +3723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![beanie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beanie-duotone.svg)
+  /// The `beanie` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `beanie` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![beanie-duotone](https://api.iconify.design/ph/beanie-duotone.svg?height=32&color=%23888888)
   static const beanie = PhosphorDuotoneIconData(
     IconData(
       0xea2a,
@@ -2999,7 +3743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bed-duotone.svg)
+  /// The `bed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bed-duotone](https://api.iconify.design/ph/bed-duotone.svg?height=32&color=%23888888)
   static const bed = PhosphorDuotoneIconData(
     IconData(
       0xe0cc,
@@ -3015,7 +3763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![beer-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-bottle-duotone.svg)
+  /// The `beerBottle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `beerBottle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![beer-bottle-duotone](https://api.iconify.design/ph/beer-bottle-duotone.svg?height=32&color=%23888888)
   static const beerBottle = PhosphorDuotoneIconData(
     IconData(
       0xe7b0,
@@ -3031,7 +3783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![beer-stein-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/beer-stein-duotone.svg)
+  /// The `beerStein` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `beerStein` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![beer-stein-duotone](https://api.iconify.design/ph/beer-stein-duotone.svg?height=32&color=%23888888)
   static const beerStein = PhosphorDuotoneIconData(
     IconData(
       0xeb62,
@@ -3047,7 +3803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![behance-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/behance-logo-duotone.svg)
+  /// The `behanceLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `behanceLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![behance-logo-duotone](https://api.iconify.design/ph/behance-logo-duotone.svg?height=32&color=%23888888)
   static const behanceLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7f4,
@@ -3063,7 +3823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-duotone.svg)
+  /// The `bell` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bell` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-duotone](https://api.iconify.design/ph/bell-duotone.svg?height=32&color=%23888888)
   static const bell = PhosphorDuotoneIconData(
     IconData(
       0xe0ce,
@@ -3079,7 +3843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-ringing-duotone.svg)
+  /// The `bellRinging` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bellRinging` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-ringing-duotone](https://api.iconify.design/ph/bell-ringing-duotone.svg?height=32&color=%23888888)
   static const bellRinging = PhosphorDuotoneIconData(
     IconData(
       0xe5e8,
@@ -3095,7 +3863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-duotone.svg)
+  /// The `bellSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bellSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-simple-duotone](https://api.iconify.design/ph/bell-simple-duotone.svg?height=32&color=%23888888)
   static const bellSimple = PhosphorDuotoneIconData(
     IconData(
       0xe0d0,
@@ -3111,7 +3883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-simple-ringing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-ringing-duotone.svg)
+  /// The `bellSimpleRinging` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bellSimpleRinging` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-simple-ringing-duotone](https://api.iconify.design/ph/bell-simple-ringing-duotone.svg?height=32&color=%23888888)
   static const bellSimpleRinging = PhosphorDuotoneIconData(
     IconData(
       0xe5ea,
@@ -3127,7 +3903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-slash-duotone.svg)
+  /// The `bellSimpleSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bellSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-simple-slash-duotone](https://api.iconify.design/ph/bell-simple-slash-duotone.svg?height=32&color=%23888888)
   static const bellSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe0d2,
@@ -3143,7 +3923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-simple-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-simple-z-duotone.svg)
+  /// The `bellSimpleZ` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bellSimpleZ` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-simple-z-duotone](https://api.iconify.design/ph/bell-simple-z-duotone.svg?height=32&color=%23888888)
   static const bellSimpleZ = PhosphorDuotoneIconData(
     IconData(
       0xe5ec,
@@ -3159,7 +3943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-slash-duotone.svg)
+  /// The `bellSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bellSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-slash-duotone](https://api.iconify.design/ph/bell-slash-duotone.svg?height=32&color=%23888888)
   static const bellSlash = PhosphorDuotoneIconData(
     IconData(
       0xe0d4,
@@ -3175,7 +3963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bell-z-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bell-z-duotone.svg)
+  /// The `bellZ` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bellZ` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bell-z-duotone](https://api.iconify.design/ph/bell-z-duotone.svg?height=32&color=%23888888)
   static const bellZ = PhosphorDuotoneIconData(
     IconData(
       0xe5ee,
@@ -3191,7 +3983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![belt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/belt-duotone.svg)
+  /// The `belt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `belt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![belt-duotone](https://api.iconify.design/ph/belt-duotone.svg?height=32&color=%23888888)
   static const belt = PhosphorDuotoneIconData(
     IconData(
       0xea2c,
@@ -3207,7 +4003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bezier-curve-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bezier-curve-duotone.svg)
+  /// The `bezierCurve` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bezierCurve` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bezier-curve-duotone](https://api.iconify.design/ph/bezier-curve-duotone.svg?height=32&color=%23888888)
   static const bezierCurve = PhosphorDuotoneIconData(
     IconData(
       0xeb00,
@@ -3223,7 +4023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bicycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bicycle-duotone.svg)
+  /// The `bicycle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bicycle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bicycle-duotone](https://api.iconify.design/ph/bicycle-duotone.svg?height=32&color=%23888888)
   static const bicycle = PhosphorDuotoneIconData(
     IconData(
       0xe0d6,
@@ -3239,7 +4043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![binary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binary-duotone.svg)
+  /// The `binary` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `binary` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![binary-duotone](https://api.iconify.design/ph/binary-duotone.svg?height=32&color=%23888888)
   static const binary = PhosphorDuotoneIconData(
     IconData(
       0xee60,
@@ -3255,7 +4063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![binoculars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/binoculars-duotone.svg)
+  /// The `binoculars` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `binoculars` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![binoculars-duotone](https://api.iconify.design/ph/binoculars-duotone.svg?height=32&color=%23888888)
   static const binoculars = PhosphorDuotoneIconData(
     IconData(
       0xea64,
@@ -3271,7 +4083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![biohazard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/biohazard-duotone.svg)
+  /// The `biohazard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `biohazard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![biohazard-duotone](https://api.iconify.design/ph/biohazard-duotone.svg?height=32&color=%23888888)
   static const biohazard = PhosphorDuotoneIconData(
     IconData(
       0xe9e0,
@@ -3287,7 +4103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bird-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bird-duotone.svg)
+  /// The `bird` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bird` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bird-duotone](https://api.iconify.design/ph/bird-duotone.svg?height=32&color=%23888888)
   static const bird = PhosphorDuotoneIconData(
     IconData(
       0xe72c,
@@ -3303,7 +4123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![blueprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/blueprint-duotone.svg)
+  /// The `blueprint` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `blueprint` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![blueprint-duotone](https://api.iconify.design/ph/blueprint-duotone.svg?height=32&color=%23888888)
   static const blueprint = PhosphorDuotoneIconData(
     IconData(
       0xeda0,
@@ -3319,7 +4143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bluetooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-duotone.svg)
+  /// The `bluetooth` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bluetooth` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bluetooth-duotone](https://api.iconify.design/ph/bluetooth-duotone.svg?height=32&color=%23888888)
   static const bluetooth = PhosphorDuotoneIconData(
     IconData(
       0xe0da,
@@ -3335,7 +4163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bluetooth-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-connected-duotone.svg)
+  /// The `bluetoothConnected` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bluetoothConnected` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bluetooth-connected-duotone](https://api.iconify.design/ph/bluetooth-connected-duotone.svg?height=32&color=%23888888)
   static const bluetoothConnected = PhosphorDuotoneIconData(
     IconData(
       0xe0dc,
@@ -3351,7 +4183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bluetooth-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-slash-duotone.svg)
+  /// The `bluetoothSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bluetoothSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bluetooth-slash-duotone](https://api.iconify.design/ph/bluetooth-slash-duotone.svg?height=32&color=%23888888)
   static const bluetoothSlash = PhosphorDuotoneIconData(
     IconData(
       0xe0de,
@@ -3367,7 +4203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bluetooth-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bluetooth-x-duotone.svg)
+  /// The `bluetoothX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bluetoothX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bluetooth-x-duotone](https://api.iconify.design/ph/bluetooth-x-duotone.svg?height=32&color=%23888888)
   static const bluetoothX = PhosphorDuotoneIconData(
     IconData(
       0xe0e0,
@@ -3383,7 +4223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![boat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boat-duotone.svg)
+  /// The `boat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `boat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![boat-duotone](https://api.iconify.design/ph/boat-duotone.svg?height=32&color=%23888888)
   static const boat = PhosphorDuotoneIconData(
     IconData(
       0xe786,
@@ -3399,7 +4243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bomb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bomb-duotone.svg)
+  /// The `bomb` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bomb` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bomb-duotone](https://api.iconify.design/ph/bomb-duotone.svg?height=32&color=%23888888)
   static const bomb = PhosphorDuotoneIconData(
     IconData(
       0xee0a,
@@ -3415,7 +4263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bone-duotone.svg)
+  /// The `bone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bone-duotone](https://api.iconify.design/ph/bone-duotone.svg?height=32&color=%23888888)
   static const bone = PhosphorDuotoneIconData(
     IconData(
       0xe7f2,
@@ -3431,7 +4283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![book-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-duotone.svg)
+  /// The `book` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `book` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![book-duotone](https://api.iconify.design/ph/book-duotone.svg?height=32&color=%23888888)
   static const book = PhosphorDuotoneIconData(
     IconData(
       0xe0e2,
@@ -3447,7 +4303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![book-bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-bookmark-duotone.svg)
+  /// The `bookBookmark` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookBookmark` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![book-bookmark-duotone](https://api.iconify.design/ph/book-bookmark-duotone.svg?height=32&color=%23888888)
   static const bookBookmark = PhosphorDuotoneIconData(
     IconData(
       0xe0e4,
@@ -3463,7 +4323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![book-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-duotone.svg)
+  /// The `bookOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![book-open-duotone](https://api.iconify.design/ph/book-open-duotone.svg?height=32&color=%23888888)
   static const bookOpen = PhosphorDuotoneIconData(
     IconData(
       0xe0e6,
@@ -3479,7 +4343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![book-open-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-text-duotone.svg)
+  /// The `bookOpenText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookOpenText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![book-open-text-duotone](https://api.iconify.design/ph/book-open-text-duotone.svg?height=32&color=%23888888)
   static const bookOpenText = PhosphorDuotoneIconData(
     IconData(
       0xe8f2,
@@ -3495,7 +4363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![book-open-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/book-open-user-duotone.svg)
+  /// The `bookOpenUser` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookOpenUser` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![book-open-user-duotone](https://api.iconify.design/ph/book-open-user-duotone.svg?height=32&color=%23888888)
   static const bookOpenUser = PhosphorDuotoneIconData(
     IconData(
       0xede0,
@@ -3511,7 +4383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bookmark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-duotone.svg)
+  /// The `bookmark` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookmark` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bookmark-duotone](https://api.iconify.design/ph/bookmark-duotone.svg?height=32&color=%23888888)
   static const bookmark = PhosphorDuotoneIconData(
     IconData(
       0xe0e8,
@@ -3527,7 +4403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bookmark-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmark-simple-duotone.svg)
+  /// The `bookmarkSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookmarkSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bookmark-simple-duotone](https://api.iconify.design/ph/bookmark-simple-duotone.svg?height=32&color=%23888888)
   static const bookmarkSimple = PhosphorDuotoneIconData(
     IconData(
       0xe0ea,
@@ -3543,7 +4423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bookmarks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-duotone.svg)
+  /// The `bookmarks` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookmarks` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bookmarks-duotone](https://api.iconify.design/ph/bookmarks-duotone.svg?height=32&color=%23888888)
   static const bookmarks = PhosphorDuotoneIconData(
     IconData(
       0xe0ec,
@@ -3559,7 +4443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bookmarks-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bookmarks-simple-duotone.svg)
+  /// The `bookmarksSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bookmarksSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bookmarks-simple-duotone](https://api.iconify.design/ph/bookmarks-simple-duotone.svg?height=32&color=%23888888)
   static const bookmarksSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5f0,
@@ -3575,7 +4463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![books-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/books-duotone.svg)
+  /// The `books` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `books` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![books-duotone](https://api.iconify.design/ph/books-duotone.svg?height=32&color=%23888888)
   static const books = PhosphorDuotoneIconData(
     IconData(
       0xe758,
@@ -3591,7 +4483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![boot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boot-duotone.svg)
+  /// The `boot` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `boot` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![boot-duotone](https://api.iconify.design/ph/boot-duotone.svg?height=32&color=%23888888)
   static const boot = PhosphorDuotoneIconData(
     IconData(
       0xecca,
@@ -3607,7 +4503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![boules-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boules-duotone.svg)
+  /// The `boules` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `boules` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![boules-duotone](https://api.iconify.design/ph/boules-duotone.svg?height=32&color=%23888888)
   static const boules = PhosphorDuotoneIconData(
     IconData(
       0xe722,
@@ -3623,7 +4523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bounding-box-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bounding-box-duotone.svg)
+  /// The `boundingBox` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `boundingBox` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bounding-box-duotone](https://api.iconify.design/ph/bounding-box-duotone.svg?height=32&color=%23888888)
   static const boundingBox = PhosphorDuotoneIconData(
     IconData(
       0xe6ce,
@@ -3639,7 +4543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bowl-food-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-food-duotone.svg)
+  /// The `bowlFood` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bowlFood` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bowl-food-duotone](https://api.iconify.design/ph/bowl-food-duotone.svg?height=32&color=%23888888)
   static const bowlFood = PhosphorDuotoneIconData(
     IconData(
       0xeaa4,
@@ -3655,7 +4563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bowl-steam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowl-steam-duotone.svg)
+  /// The `bowlSteam` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bowlSteam` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bowl-steam-duotone](https://api.iconify.design/ph/bowl-steam-duotone.svg?height=32&color=%23888888)
   static const bowlSteam = PhosphorDuotoneIconData(
     IconData(
       0xe8e4,
@@ -3671,7 +4583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bowling-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bowling-ball-duotone.svg)
+  /// The `bowlingBall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bowlingBall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bowling-ball-duotone](https://api.iconify.design/ph/bowling-ball-duotone.svg?height=32&color=%23888888)
   static const bowlingBall = PhosphorDuotoneIconData(
     IconData(
       0xea34,
@@ -3687,7 +4603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![box-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-down-duotone.svg)
+  /// The `boxArrowDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `boxArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![box-arrow-down-duotone](https://api.iconify.design/ph/box-arrow-down-duotone.svg?height=32&color=%23888888)
   static const boxArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe00e,
@@ -3703,7 +4623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![box-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/box-arrow-up-duotone.svg)
+  /// The `boxArrowUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `boxArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![box-arrow-up-duotone](https://api.iconify.design/ph/box-arrow-up-duotone.svg?height=32&color=%23888888)
   static const boxArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xee54,
@@ -3719,7 +4643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![boxing-glove-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/boxing-glove-duotone.svg)
+  /// The `boxingGlove` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `boxingGlove` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![boxing-glove-duotone](https://api.iconify.design/ph/boxing-glove-duotone.svg?height=32&color=%23888888)
   static const boxingGlove = PhosphorDuotoneIconData(
     IconData(
       0xea36,
@@ -3735,7 +4663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![brackets-angle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-angle-duotone.svg)
+  /// The `bracketsAngle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bracketsAngle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![brackets-angle-duotone](https://api.iconify.design/ph/brackets-angle-duotone.svg?height=32&color=%23888888)
   static const bracketsAngle = PhosphorDuotoneIconData(
     IconData(
       0xe862,
@@ -3751,7 +4683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![brackets-curly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-curly-duotone.svg)
+  /// The `bracketsCurly` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bracketsCurly` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![brackets-curly-duotone](https://api.iconify.design/ph/brackets-curly-duotone.svg?height=32&color=%23888888)
   static const bracketsCurly = PhosphorDuotoneIconData(
     IconData(
       0xe860,
@@ -3767,7 +4703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![brackets-round-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-round-duotone.svg)
+  /// The `bracketsRound` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bracketsRound` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![brackets-round-duotone](https://api.iconify.design/ph/brackets-round-duotone.svg?height=32&color=%23888888)
   static const bracketsRound = PhosphorDuotoneIconData(
     IconData(
       0xe864,
@@ -3783,7 +4723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![brackets-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brackets-square-duotone.svg)
+  /// The `bracketsSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bracketsSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![brackets-square-duotone](https://api.iconify.design/ph/brackets-square-duotone.svg?height=32&color=%23888888)
   static const bracketsSquare = PhosphorDuotoneIconData(
     IconData(
       0xe85e,
@@ -3799,7 +4743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![brain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brain-duotone.svg)
+  /// The `brain` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `brain` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![brain-duotone](https://api.iconify.design/ph/brain-duotone.svg?height=32&color=%23888888)
   static const brain = PhosphorDuotoneIconData(
     IconData(
       0xe74e,
@@ -3815,7 +4763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![brandy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/brandy-duotone.svg)
+  /// The `brandy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `brandy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![brandy-duotone](https://api.iconify.design/ph/brandy-duotone.svg?height=32&color=%23888888)
   static const brandy = PhosphorDuotoneIconData(
     IconData(
       0xe6b4,
@@ -3831,7 +4783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bread-duotone.svg)
+  /// The `bread` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bread` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bread-duotone](https://api.iconify.design/ph/bread-duotone.svg?height=32&color=%23888888)
   static const bread = PhosphorDuotoneIconData(
     IconData(
       0xe81c,
@@ -3847,7 +4803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bridge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bridge-duotone.svg)
+  /// The `bridge` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bridge` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bridge-duotone](https://api.iconify.design/ph/bridge-duotone.svg?height=32&color=%23888888)
   static const bridge = PhosphorDuotoneIconData(
     IconData(
       0xea68,
@@ -3863,7 +4823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![briefcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-duotone.svg)
+  /// The `briefcase` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `briefcase` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![briefcase-duotone](https://api.iconify.design/ph/briefcase-duotone.svg?height=32&color=%23888888)
   static const briefcase = PhosphorDuotoneIconData(
     IconData(
       0xe0ee,
@@ -3879,7 +4843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![briefcase-metal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/briefcase-metal-duotone.svg)
+  /// The `briefcaseMetal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `briefcaseMetal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![briefcase-metal-duotone](https://api.iconify.design/ph/briefcase-metal-duotone.svg?height=32&color=%23888888)
   static const briefcaseMetal = PhosphorDuotoneIconData(
     IconData(
       0xe5f2,
@@ -3895,7 +4863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![broadcast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broadcast-duotone.svg)
+  /// The `broadcast` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `broadcast` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![broadcast-duotone](https://api.iconify.design/ph/broadcast-duotone.svg?height=32&color=%23888888)
   static const broadcast = PhosphorDuotoneIconData(
     IconData(
       0xe0f2,
@@ -3911,7 +4883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![broom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/broom-duotone.svg)
+  /// The `broom` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `broom` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![broom-duotone](https://api.iconify.design/ph/broom-duotone.svg?height=32&color=%23888888)
   static const broom = PhosphorDuotoneIconData(
     IconData(
       0xec54,
@@ -3927,7 +4903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![browser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browser-duotone.svg)
+  /// The `browser` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `browser` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![browser-duotone](https://api.iconify.design/ph/browser-duotone.svg?height=32&color=%23888888)
   static const browser = PhosphorDuotoneIconData(
     IconData(
       0xe0f4,
@@ -3943,7 +4923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![browsers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/browsers-duotone.svg)
+  /// The `browsers` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `browsers` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![browsers-duotone](https://api.iconify.design/ph/browsers-duotone.svg?height=32&color=%23888888)
   static const browsers = PhosphorDuotoneIconData(
     IconData(
       0xe0f6,
@@ -3959,7 +4943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-duotone.svg)
+  /// The `bug` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bug` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bug-duotone](https://api.iconify.design/ph/bug-duotone.svg?height=32&color=%23888888)
   static const bug = PhosphorDuotoneIconData(
     IconData(
       0xe5f4,
@@ -3975,7 +4963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bug-beetle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-beetle-duotone.svg)
+  /// The `bugBeetle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bugBeetle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bug-beetle-duotone](https://api.iconify.design/ph/bug-beetle-duotone.svg?height=32&color=%23888888)
   static const bugBeetle = PhosphorDuotoneIconData(
     IconData(
       0xe5f6,
@@ -3991,7 +4983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bug-droid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bug-droid-duotone.svg)
+  /// The `bugDroid` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bugDroid` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bug-droid-duotone](https://api.iconify.design/ph/bug-droid-duotone.svg?height=32&color=%23888888)
   static const bugDroid = PhosphorDuotoneIconData(
     IconData(
       0xe5f8,
@@ -4007,7 +5003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![building-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-duotone.svg)
+  /// The `building` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `building` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![building-duotone](https://api.iconify.design/ph/building-duotone.svg?height=32&color=%23888888)
   static const building = PhosphorDuotoneIconData(
     IconData(
       0xe100,
@@ -4023,7 +5023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![building-apartment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-apartment-duotone.svg)
+  /// The `buildingApartment` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `buildingApartment` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![building-apartment-duotone](https://api.iconify.design/ph/building-apartment-duotone.svg?height=32&color=%23888888)
   static const buildingApartment = PhosphorDuotoneIconData(
     IconData(
       0xe0fe,
@@ -4039,7 +5043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![building-office-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/building-office-duotone.svg)
+  /// The `buildingOffice` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `buildingOffice` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![building-office-duotone](https://api.iconify.design/ph/building-office-duotone.svg?height=32&color=%23888888)
   static const buildingOffice = PhosphorDuotoneIconData(
     IconData(
       0xe0ff,
@@ -4055,7 +5063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![buildings-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/buildings-duotone.svg)
+  /// The `buildings` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `buildings` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![buildings-duotone](https://api.iconify.design/ph/buildings-duotone.svg?height=32&color=%23888888)
   static const buildings = PhosphorDuotoneIconData(
     IconData(
       0xe102,
@@ -4071,7 +5083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bulldozer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bulldozer-duotone.svg)
+  /// The `bulldozer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bulldozer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bulldozer-duotone](https://api.iconify.design/ph/bulldozer-duotone.svg?height=32&color=%23888888)
   static const bulldozer = PhosphorDuotoneIconData(
     IconData(
       0xec6c,
@@ -4087,7 +5103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![bus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/bus-duotone.svg)
+  /// The `bus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `bus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![bus-duotone](https://api.iconify.design/ph/bus-duotone.svg?height=32&color=%23888888)
   static const bus = PhosphorDuotoneIconData(
     IconData(
       0xe106,
@@ -4103,7 +5123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![butterfly-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/butterfly-duotone.svg)
+  /// The `butterfly` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `butterfly` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![butterfly-duotone](https://api.iconify.design/ph/butterfly-duotone.svg?height=32&color=%23888888)
   static const butterfly = PhosphorDuotoneIconData(
     IconData(
       0xea6e,
@@ -4119,7 +5143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cable-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cable-car-duotone.svg)
+  /// The `cableCar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cableCar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cable-car-duotone](https://api.iconify.design/ph/cable-car-duotone.svg?height=32&color=%23888888)
   static const cableCar = PhosphorDuotoneIconData(
     IconData(
       0xe49c,
@@ -4135,7 +5163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cactus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cactus-duotone.svg)
+  /// The `cactus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cactus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cactus-duotone](https://api.iconify.design/ph/cactus-duotone.svg?height=32&color=%23888888)
   static const cactus = PhosphorDuotoneIconData(
     IconData(
       0xe918,
@@ -4151,7 +5183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caduceus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caduceus-duotone.svg)
+  /// The `caduceus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caduceus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caduceus-duotone](https://api.iconify.design/ph/asclepius-duotone.svg?height=32&color=%23888888)
   static const caduceus = PhosphorDuotoneIconData(
     IconData(
       0xee34,
@@ -4167,7 +5203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cake-duotone.svg)
+  /// The `cake` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cake` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cake-duotone](https://api.iconify.design/ph/cake-duotone.svg?height=32&color=%23888888)
   static const cake = PhosphorDuotoneIconData(
     IconData(
       0xe780,
@@ -4183,7 +5223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calculator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calculator-duotone.svg)
+  /// The `calculator` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calculator` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calculator-duotone](https://api.iconify.design/ph/calculator-duotone.svg?height=32&color=%23888888)
   static const calculator = PhosphorDuotoneIconData(
     IconData(
       0xe538,
@@ -4199,7 +5243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-duotone.svg)
+  /// The `calendar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-duotone](https://api.iconify.design/ph/calendar-duotone.svg?height=32&color=%23888888)
   static const calendar = PhosphorDuotoneIconData(
     IconData(
       0xe108,
@@ -4215,7 +5263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-blank-duotone.svg)
+  /// The `calendarBlank` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarBlank` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-blank-duotone](https://api.iconify.design/ph/calendar-blank-duotone.svg?height=32&color=%23888888)
   static const calendarBlank = PhosphorDuotoneIconData(
     IconData(
       0xe10a,
@@ -4231,7 +5283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-check-duotone.svg)
+  /// The `calendarCheck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-check-duotone](https://api.iconify.design/ph/calendar-check-duotone.svg?height=32&color=%23888888)
   static const calendarCheck = PhosphorDuotoneIconData(
     IconData(
       0xe712,
@@ -4247,7 +5303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dot-duotone.svg)
+  /// The `calendarDot` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarDot` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-dot-duotone](https://api.iconify.design/ph/calendar-dot-duotone.svg?height=32&color=%23888888)
   static const calendarDot = PhosphorDuotoneIconData(
     IconData(
       0xe7b2,
@@ -4263,7 +5323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-dots-duotone.svg)
+  /// The `calendarDots` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarDots` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-dots-duotone](https://api.iconify.design/ph/calendar-dots-duotone.svg?height=32&color=%23888888)
   static const calendarDots = PhosphorDuotoneIconData(
     IconData(
       0xe7b4,
@@ -4279,7 +5343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-heart-duotone.svg)
+  /// The `calendarHeart` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarHeart` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-heart-duotone](https://api.iconify.design/ph/calendar-heart-duotone.svg?height=32&color=%23888888)
   static const calendarHeart = PhosphorDuotoneIconData(
     IconData(
       0xe8b0,
@@ -4295,7 +5363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-minus-duotone.svg)
+  /// The `calendarMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-minus-duotone](https://api.iconify.design/ph/calendar-minus-duotone.svg?height=32&color=%23888888)
   static const calendarMinus = PhosphorDuotoneIconData(
     IconData(
       0xea14,
@@ -4311,7 +5383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-plus-duotone.svg)
+  /// The `calendarPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-plus-duotone](https://api.iconify.design/ph/calendar-plus-duotone.svg?height=32&color=%23888888)
   static const calendarPlus = PhosphorDuotoneIconData(
     IconData(
       0xe714,
@@ -4327,7 +5403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-slash-duotone.svg)
+  /// The `calendarSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-slash-duotone](https://api.iconify.design/ph/calendar-slash-duotone.svg?height=32&color=%23888888)
   static const calendarSlash = PhosphorDuotoneIconData(
     IconData(
       0xea12,
@@ -4343,7 +5423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-star-duotone.svg)
+  /// The `calendarStar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarStar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-star-duotone](https://api.iconify.design/ph/calendar-star-duotone.svg?height=32&color=%23888888)
   static const calendarStar = PhosphorDuotoneIconData(
     IconData(
       0xe8b2,
@@ -4359,7 +5443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![calendar-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/calendar-x-duotone.svg)
+  /// The `calendarX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `calendarX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![calendar-x-duotone](https://api.iconify.design/ph/calendar-x-duotone.svg?height=32&color=%23888888)
   static const calendarX = PhosphorDuotoneIconData(
     IconData(
       0xe10c,
@@ -4375,7 +5463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![call-bell-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/call-bell-duotone.svg)
+  /// The `callBell` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `callBell` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![call-bell-duotone](https://api.iconify.design/ph/call-bell-duotone.svg?height=32&color=%23888888)
   static const callBell = PhosphorDuotoneIconData(
     IconData(
       0xe7de,
@@ -4391,7 +5483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-duotone.svg)
+  /// The `camera` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `camera` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![camera-duotone](https://api.iconify.design/ph/camera-duotone.svg?height=32&color=%23888888)
   static const camera = PhosphorDuotoneIconData(
     IconData(
       0xe10e,
@@ -4407,7 +5503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![camera-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-plus-duotone.svg)
+  /// The `cameraPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cameraPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![camera-plus-duotone](https://api.iconify.design/ph/camera-plus-duotone.svg?height=32&color=%23888888)
   static const cameraPlus = PhosphorDuotoneIconData(
     IconData(
       0xec58,
@@ -4423,7 +5523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![camera-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-rotate-duotone.svg)
+  /// The `cameraRotate` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cameraRotate` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![camera-rotate-duotone](https://api.iconify.design/ph/camera-rotate-duotone.svg?height=32&color=%23888888)
   static const cameraRotate = PhosphorDuotoneIconData(
     IconData(
       0xe7a4,
@@ -4439,7 +5543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/camera-slash-duotone.svg)
+  /// The `cameraSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cameraSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![camera-slash-duotone](https://api.iconify.design/ph/camera-slash-duotone.svg?height=32&color=%23888888)
   static const cameraSlash = PhosphorDuotoneIconData(
     IconData(
       0xe110,
@@ -4455,7 +5563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![campfire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/campfire-duotone.svg)
+  /// The `campfire` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `campfire` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![campfire-duotone](https://api.iconify.design/ph/campfire-duotone.svg?height=32&color=%23888888)
   static const campfire = PhosphorDuotoneIconData(
     IconData(
       0xe9d8,
@@ -4471,7 +5583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-duotone.svg)
+  /// The `car` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `car` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![car-duotone](https://api.iconify.design/ph/car-duotone.svg?height=32&color=%23888888)
   static const car = PhosphorDuotoneIconData(
     IconData(
       0xe112,
@@ -4487,7 +5603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![car-battery-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-battery-duotone.svg)
+  /// The `carBattery` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `carBattery` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![car-battery-duotone](https://api.iconify.design/ph/car-battery-duotone.svg?height=32&color=%23888888)
   static const carBattery = PhosphorDuotoneIconData(
     IconData(
       0xee30,
@@ -4503,7 +5623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![car-profile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-profile-duotone.svg)
+  /// The `carProfile` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `carProfile` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![car-profile-duotone](https://api.iconify.design/ph/car-profile-duotone.svg?height=32&color=%23888888)
   static const carProfile = PhosphorDuotoneIconData(
     IconData(
       0xe8cc,
@@ -4519,7 +5643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![car-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/car-simple-duotone.svg)
+  /// The `carSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `carSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![car-simple-duotone](https://api.iconify.design/ph/car-simple-duotone.svg?height=32&color=%23888888)
   static const carSimple = PhosphorDuotoneIconData(
     IconData(
       0xe114,
@@ -4535,7 +5663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cardholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cardholder-duotone.svg)
+  /// The `cardholder` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cardholder` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cardholder-duotone](https://api.iconify.design/ph/cardholder-duotone.svg?height=32&color=%23888888)
   static const cardholder = PhosphorDuotoneIconData(
     IconData(
       0xe5fa,
@@ -4551,7 +5683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cards-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-duotone.svg)
+  /// The `cards` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cards` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cards-duotone](https://api.iconify.design/ph/cards-duotone.svg?height=32&color=%23888888)
   static const cards = PhosphorDuotoneIconData(
     IconData(
       0xe0f8,
@@ -4567,7 +5703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cards-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cards-three-duotone.svg)
+  /// The `cardsThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cardsThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cards-three-duotone](https://api.iconify.design/ph/cards-three-duotone.svg?height=32&color=%23888888)
   static const cardsThree = PhosphorDuotoneIconData(
     IconData(
       0xee50,
@@ -4583,7 +5723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-down-duotone.svg)
+  /// The `caretCircleDoubleDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleDoubleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-double-down-duotone](https://api.iconify.design/ph/caret-circle-double-down-duotone.svg?height=32&color=%23888888)
   static const caretCircleDoubleDown = PhosphorDuotoneIconData(
     IconData(
       0xe116,
@@ -4599,7 +5743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-left-duotone.svg)
+  /// The `caretCircleDoubleLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleDoubleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-double-left-duotone](https://api.iconify.design/ph/caret-circle-double-left-duotone.svg?height=32&color=%23888888)
   static const caretCircleDoubleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe118,
@@ -4615,7 +5763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-right-duotone.svg)
+  /// The `caretCircleDoubleRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleDoubleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-double-right-duotone](https://api.iconify.design/ph/caret-circle-double-right-duotone.svg?height=32&color=%23888888)
   static const caretCircleDoubleRight = PhosphorDuotoneIconData(
     IconData(
       0xe11a,
@@ -4631,7 +5783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-double-up-duotone.svg)
+  /// The `caretCircleDoubleUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleDoubleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-double-up-duotone](https://api.iconify.design/ph/caret-circle-double-up-duotone.svg?height=32&color=%23888888)
   static const caretCircleDoubleUp = PhosphorDuotoneIconData(
     IconData(
       0xe11c,
@@ -4647,7 +5803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-down-duotone.svg)
+  /// The `caretCircleDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-down-duotone](https://api.iconify.design/ph/caret-circle-down-duotone.svg?height=32&color=%23888888)
   static const caretCircleDown = PhosphorDuotoneIconData(
     IconData(
       0xe11e,
@@ -4663,7 +5823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-left-duotone.svg)
+  /// The `caretCircleLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-left-duotone](https://api.iconify.design/ph/caret-circle-left-duotone.svg?height=32&color=%23888888)
   static const caretCircleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe120,
@@ -4679,7 +5843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-right-duotone.svg)
+  /// The `caretCircleRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-right-duotone](https://api.iconify.design/ph/caret-circle-right-duotone.svg?height=32&color=%23888888)
   static const caretCircleRight = PhosphorDuotoneIconData(
     IconData(
       0xe122,
@@ -4695,7 +5863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-duotone.svg)
+  /// The `caretCircleUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-up-duotone](https://api.iconify.design/ph/caret-circle-up-duotone.svg?height=32&color=%23888888)
   static const caretCircleUp = PhosphorDuotoneIconData(
     IconData(
       0xe124,
@@ -4711,7 +5883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-circle-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-circle-up-down-duotone.svg)
+  /// The `caretCircleUpDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretCircleUpDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-circle-up-down-duotone](https://api.iconify.design/ph/caret-circle-up-down-duotone.svg?height=32&color=%23888888)
   static const caretCircleUpDown = PhosphorDuotoneIconData(
     IconData(
       0xe13e,
@@ -4727,7 +5903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-double-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-down-duotone.svg)
+  /// The `caretDoubleDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretDoubleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-double-down-duotone](https://api.iconify.design/ph/caret-double-down-duotone.svg?height=32&color=%23888888)
   static const caretDoubleDown = PhosphorDuotoneIconData(
     IconData(
       0xe126,
@@ -4743,7 +5923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-double-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-left-duotone.svg)
+  /// The `caretDoubleLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretDoubleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-double-left-duotone](https://api.iconify.design/ph/caret-double-left-duotone.svg?height=32&color=%23888888)
   static const caretDoubleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe128,
@@ -4759,7 +5943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-double-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-right-duotone.svg)
+  /// The `caretDoubleRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretDoubleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-double-right-duotone](https://api.iconify.design/ph/caret-double-right-duotone.svg?height=32&color=%23888888)
   static const caretDoubleRight = PhosphorDuotoneIconData(
     IconData(
       0xe12a,
@@ -4775,7 +5963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-double-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-double-up-duotone.svg)
+  /// The `caretDoubleUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretDoubleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-double-up-duotone](https://api.iconify.design/ph/caret-double-up-duotone.svg?height=32&color=%23888888)
   static const caretDoubleUp = PhosphorDuotoneIconData(
     IconData(
       0xe12c,
@@ -4791,7 +5983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-down-duotone.svg)
+  /// The `caretDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-down-duotone](https://api.iconify.design/ph/caret-down-duotone.svg?height=32&color=%23888888)
   static const caretDown = PhosphorDuotoneIconData(
     IconData(
       0xe136,
@@ -4807,7 +6003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-left-duotone.svg)
+  /// The `caretLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-left-duotone](https://api.iconify.design/ph/caret-left-duotone.svg?height=32&color=%23888888)
   static const caretLeft = PhosphorDuotoneIconData(
     IconData(
       0xe138,
@@ -4823,7 +6023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-down-duotone.svg)
+  /// The `caretLineDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-line-down-duotone](https://api.iconify.design/ph/caret-line-down-duotone.svg?height=32&color=%23888888)
   static const caretLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe134,
@@ -4839,7 +6043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-line-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-left-duotone.svg)
+  /// The `caretLineLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretLineLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-line-left-duotone](https://api.iconify.design/ph/caret-line-left-duotone.svg?height=32&color=%23888888)
   static const caretLineLeft = PhosphorDuotoneIconData(
     IconData(
       0xe132,
@@ -4855,7 +6063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-line-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-right-duotone.svg)
+  /// The `caretLineRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretLineRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-line-right-duotone](https://api.iconify.design/ph/caret-line-right-duotone.svg?height=32&color=%23888888)
   static const caretLineRight = PhosphorDuotoneIconData(
     IconData(
       0xe130,
@@ -4871,7 +6083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-line-up-duotone.svg)
+  /// The `caretLineUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-line-up-duotone](https://api.iconify.design/ph/caret-line-up-duotone.svg?height=32&color=%23888888)
   static const caretLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe12e,
@@ -4887,7 +6103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-right-duotone.svg)
+  /// The `caretRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-right-duotone](https://api.iconify.design/ph/caret-right-duotone.svg?height=32&color=%23888888)
   static const caretRight = PhosphorDuotoneIconData(
     IconData(
       0xe13a,
@@ -4903,7 +6123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-duotone.svg)
+  /// The `caretUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-up-duotone](https://api.iconify.design/ph/caret-up-duotone.svg?height=32&color=%23888888)
   static const caretUp = PhosphorDuotoneIconData(
     IconData(
       0xe13c,
@@ -4919,7 +6143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![caret-up-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/caret-up-down-duotone.svg)
+  /// The `caretUpDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `caretUpDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![caret-up-down-duotone](https://api.iconify.design/ph/caret-up-down-duotone.svg?height=32&color=%23888888)
   static const caretUpDown = PhosphorDuotoneIconData(
     IconData(
       0xe140,
@@ -4935,7 +6163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![carrot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/carrot-duotone.svg)
+  /// The `carrot` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `carrot` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![carrot-duotone](https://api.iconify.design/ph/carrot-duotone.svg?height=32&color=%23888888)
   static const carrot = PhosphorDuotoneIconData(
     IconData(
       0xed38,
@@ -4951,7 +6183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cash-register-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cash-register-duotone.svg)
+  /// The `cashRegister` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cashRegister` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cash-register-duotone](https://api.iconify.design/ph/cash-register-duotone.svg?height=32&color=%23888888)
   static const cashRegister = PhosphorDuotoneIconData(
     IconData(
       0xed80,
@@ -4967,7 +6203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cassette-tape-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cassette-tape-duotone.svg)
+  /// The `cassetteTape` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cassetteTape` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cassette-tape-duotone](https://api.iconify.design/ph/cassette-tape-duotone.svg?height=32&color=%23888888)
   static const cassetteTape = PhosphorDuotoneIconData(
     IconData(
       0xed2e,
@@ -4983,7 +6223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![castle-turret-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/castle-turret-duotone.svg)
+  /// The `castleTurret` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `castleTurret` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![castle-turret-duotone](https://api.iconify.design/ph/castle-turret-duotone.svg?height=32&color=%23888888)
   static const castleTurret = PhosphorDuotoneIconData(
     IconData(
       0xe9d0,
@@ -4999,7 +6243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cat-duotone.svg)
+  /// The `cat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cat-duotone](https://api.iconify.design/ph/cat-duotone.svg?height=32&color=%23888888)
   static const cat = PhosphorDuotoneIconData(
     IconData(
       0xe748,
@@ -5015,7 +6263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-signal-full-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-full-duotone.svg)
+  /// The `cellSignalFull` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellSignalFull` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-signal-full-duotone](https://api.iconify.design/ph/cell-signal-full-duotone.svg?height=32&color=%23888888)
   static const cellSignalFull = PhosphorDuotoneIconData(
     IconData(
       0xe142,
@@ -5031,7 +6283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-signal-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-high-duotone.svg)
+  /// The `cellSignalHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellSignalHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-signal-high-duotone](https://api.iconify.design/ph/cell-signal-high-duotone.svg?height=32&color=%23888888)
   static const cellSignalHigh = PhosphorDuotoneIconData(
     IconData(
       0xe144,
@@ -5047,7 +6303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-signal-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-low-duotone.svg)
+  /// The `cellSignalLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellSignalLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-signal-low-duotone](https://api.iconify.design/ph/cell-signal-low-duotone.svg?height=32&color=%23888888)
   static const cellSignalLow = PhosphorDuotoneIconData(
     IconData(
       0xe146,
@@ -5063,7 +6323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-signal-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-medium-duotone.svg)
+  /// The `cellSignalMedium` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellSignalMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-signal-medium-duotone](https://api.iconify.design/ph/cell-signal-medium-duotone.svg?height=32&color=%23888888)
   static const cellSignalMedium = PhosphorDuotoneIconData(
     IconData(
       0xe148,
@@ -5079,7 +6343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-signal-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-none-duotone.svg)
+  /// The `cellSignalNone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellSignalNone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-signal-none-duotone](https://api.iconify.design/ph/cell-signal-none-duotone.svg?height=32&color=%23888888)
   static const cellSignalNone = PhosphorDuotoneIconData(
     IconData(
       0xe14a,
@@ -5095,7 +6363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-signal-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-slash-duotone.svg)
+  /// The `cellSignalSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellSignalSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-signal-slash-duotone](https://api.iconify.design/ph/cell-signal-slash-duotone.svg?height=32&color=%23888888)
   static const cellSignalSlash = PhosphorDuotoneIconData(
     IconData(
       0xe14c,
@@ -5111,7 +6383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-signal-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-signal-x-duotone.svg)
+  /// The `cellSignalX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellSignalX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-signal-x-duotone](https://api.iconify.design/ph/cell-signal-x-duotone.svg?height=32&color=%23888888)
   static const cellSignalX = PhosphorDuotoneIconData(
     IconData(
       0xe14e,
@@ -5127,7 +6403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cell-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cell-tower-duotone.svg)
+  /// The `cellTower` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cellTower` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cell-tower-duotone](https://api.iconify.design/ph/cell-tower-duotone.svg?height=32&color=%23888888)
   static const cellTower = PhosphorDuotoneIconData(
     IconData(
       0xebaa,
@@ -5143,7 +6423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![certificate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/certificate-duotone.svg)
+  /// The `certificate` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `certificate` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![certificate-duotone](https://api.iconify.design/ph/certificate-duotone.svg?height=32&color=%23888888)
   static const certificate = PhosphorDuotoneIconData(
     IconData(
       0xe766,
@@ -5159,7 +6443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chair-duotone.svg)
+  /// The `chair` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chair` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chair-duotone](https://api.iconify.design/ph/chair-duotone.svg?height=32&color=%23888888)
   static const chair = PhosphorDuotoneIconData(
     IconData(
       0xe950,
@@ -5175,7 +6463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chalkboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-duotone.svg)
+  /// The `chalkboard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chalkboard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chalkboard-duotone](https://api.iconify.design/ph/chalkboard-duotone.svg?height=32&color=%23888888)
   static const chalkboard = PhosphorDuotoneIconData(
     IconData(
       0xe5fc,
@@ -5191,7 +6483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chalkboard-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-simple-duotone.svg)
+  /// The `chalkboardSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chalkboardSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chalkboard-simple-duotone](https://api.iconify.design/ph/chalkboard-simple-duotone.svg?height=32&color=%23888888)
   static const chalkboardSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5fe,
@@ -5207,7 +6503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chalkboard-teacher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chalkboard-teacher-duotone.svg)
+  /// The `chalkboardTeacher` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chalkboardTeacher` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chalkboard-teacher-duotone](https://api.iconify.design/ph/chalkboard-teacher-duotone.svg?height=32&color=%23888888)
   static const chalkboardTeacher = PhosphorDuotoneIconData(
     IconData(
       0xe600,
@@ -5223,7 +6523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![champagne-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/champagne-duotone.svg)
+  /// The `champagne` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `champagne` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![champagne-duotone](https://api.iconify.design/ph/champagne-duotone.svg?height=32&color=%23888888)
   static const champagne = PhosphorDuotoneIconData(
     IconData(
       0xeaca,
@@ -5239,7 +6543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![charging-station-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/charging-station-duotone.svg)
+  /// The `chargingStation` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chargingStation` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![charging-station-duotone](https://api.iconify.design/ph/charging-station-duotone.svg?height=32&color=%23888888)
   static const chargingStation = PhosphorDuotoneIconData(
     IconData(
       0xe8d0,
@@ -5255,7 +6563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-bar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-duotone.svg)
+  /// The `chartBar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartBar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-bar-duotone](https://api.iconify.design/ph/chart-bar-duotone.svg?height=32&color=%23888888)
   static const chartBar = PhosphorDuotoneIconData(
     IconData(
       0xe150,
@@ -5271,7 +6583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-bar-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-bar-horizontal-duotone.svg)
+  /// The `chartBarHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartBarHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-bar-horizontal-duotone](https://api.iconify.design/ph/chart-bar-horizontal-duotone.svg?height=32&color=%23888888)
   static const chartBarHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe152,
@@ -5287,7 +6603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-donut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-donut-duotone.svg)
+  /// The `chartDonut` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartDonut` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-donut-duotone](https://api.iconify.design/ph/chart-donut-duotone.svg?height=32&color=%23888888)
   static const chartDonut = PhosphorDuotoneIconData(
     IconData(
       0xeaa6,
@@ -5303,7 +6623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-duotone.svg)
+  /// The `chartLine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartLine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-line-duotone](https://api.iconify.design/ph/chart-line-duotone.svg?height=32&color=%23888888)
   static const chartLine = PhosphorDuotoneIconData(
     IconData(
       0xe154,
@@ -5319,7 +6643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-line-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-down-duotone.svg)
+  /// The `chartLineDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-line-down-duotone](https://api.iconify.design/ph/chart-line-down-duotone.svg?height=32&color=%23888888)
   static const chartLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe8b6,
@@ -5335,7 +6663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-line-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-line-up-duotone.svg)
+  /// The `chartLineUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-line-up-duotone](https://api.iconify.design/ph/chart-line-up-duotone.svg?height=32&color=%23888888)
   static const chartLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe156,
@@ -5351,7 +6683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-pie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-duotone.svg)
+  /// The `chartPie` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartPie` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-pie-duotone](https://api.iconify.design/ph/chart-pie-duotone.svg?height=32&color=%23888888)
   static const chartPie = PhosphorDuotoneIconData(
     IconData(
       0xe158,
@@ -5367,7 +6703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-pie-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-pie-slice-duotone.svg)
+  /// The `chartPieSlice` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartPieSlice` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-pie-slice-duotone](https://api.iconify.design/ph/chart-pie-slice-duotone.svg?height=32&color=%23888888)
   static const chartPieSlice = PhosphorDuotoneIconData(
     IconData(
       0xe15a,
@@ -5383,7 +6723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-polar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-polar-duotone.svg)
+  /// The `chartPolar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartPolar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-polar-duotone](https://api.iconify.design/ph/chart-polar-duotone.svg?height=32&color=%23888888)
   static const chartPolar = PhosphorDuotoneIconData(
     IconData(
       0xeaa8,
@@ -5399,7 +6743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chart-scatter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chart-scatter-duotone.svg)
+  /// The `chartScatter` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chartScatter` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chart-scatter-duotone](https://api.iconify.design/ph/chart-scatter-duotone.svg?height=32&color=%23888888)
   static const chartScatter = PhosphorDuotoneIconData(
     IconData(
       0xeaac,
@@ -5415,7 +6763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-duotone.svg)
+  /// The `chat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-duotone](https://api.iconify.design/ph/chat-duotone.svg?height=32&color=%23888888)
   static const chat = PhosphorDuotoneIconData(
     IconData(
       0xe15c,
@@ -5431,7 +6783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-centered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-duotone.svg)
+  /// The `chatCentered` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCentered` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-centered-duotone](https://api.iconify.design/ph/chat-centered-duotone.svg?height=32&color=%23888888)
   static const chatCentered = PhosphorDuotoneIconData(
     IconData(
       0xe160,
@@ -5447,7 +6803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-centered-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-dots-duotone.svg)
+  /// The `chatCenteredDots` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCenteredDots` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-centered-dots-duotone](https://api.iconify.design/ph/chat-centered-dots-duotone.svg?height=32&color=%23888888)
   static const chatCenteredDots = PhosphorDuotoneIconData(
     IconData(
       0xe164,
@@ -5463,7 +6823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-centered-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-slash-duotone.svg)
+  /// The `chatCenteredSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCenteredSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-centered-slash-duotone](https://api.iconify.design/ph/chat-centered-slash-duotone.svg?height=32&color=%23888888)
   static const chatCenteredSlash = PhosphorDuotoneIconData(
     IconData(
       0xe162,
@@ -5479,7 +6843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-centered-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-centered-text-duotone.svg)
+  /// The `chatCenteredText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCenteredText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-centered-text-duotone](https://api.iconify.design/ph/chat-centered-text-duotone.svg?height=32&color=%23888888)
   static const chatCenteredText = PhosphorDuotoneIconData(
     IconData(
       0xe166,
@@ -5495,7 +6863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-duotone.svg)
+  /// The `chatCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-circle-duotone](https://api.iconify.design/ph/chat-circle-duotone.svg?height=32&color=%23888888)
   static const chatCircle = PhosphorDuotoneIconData(
     IconData(
       0xe168,
@@ -5511,7 +6883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-circle-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-dots-duotone.svg)
+  /// The `chatCircleDots` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCircleDots` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-circle-dots-duotone](https://api.iconify.design/ph/chat-circle-dots-duotone.svg?height=32&color=%23888888)
   static const chatCircleDots = PhosphorDuotoneIconData(
     IconData(
       0xe16c,
@@ -5527,7 +6903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-circle-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-slash-duotone.svg)
+  /// The `chatCircleSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCircleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-circle-slash-duotone](https://api.iconify.design/ph/chat-circle-slash-duotone.svg?height=32&color=%23888888)
   static const chatCircleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe16a,
@@ -5543,7 +6923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-circle-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-circle-text-duotone.svg)
+  /// The `chatCircleText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatCircleText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-circle-text-duotone](https://api.iconify.design/ph/chat-circle-text-duotone.svg?height=32&color=%23888888)
   static const chatCircleText = PhosphorDuotoneIconData(
     IconData(
       0xe16e,
@@ -5559,7 +6943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-dots-duotone.svg)
+  /// The `chatDots` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatDots` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-dots-duotone](https://api.iconify.design/ph/chat-dots-duotone.svg?height=32&color=%23888888)
   static const chatDots = PhosphorDuotoneIconData(
     IconData(
       0xe170,
@@ -5575,7 +6963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-slash-duotone.svg)
+  /// The `chatSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-slash-duotone](https://api.iconify.design/ph/chat-slash-duotone.svg?height=32&color=%23888888)
   static const chatSlash = PhosphorDuotoneIconData(
     IconData(
       0xe15e,
@@ -5591,7 +6983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-duotone.svg)
+  /// The `chatTeardrop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatTeardrop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-teardrop-duotone](https://api.iconify.design/ph/chat-teardrop-duotone.svg?height=32&color=%23888888)
   static const chatTeardrop = PhosphorDuotoneIconData(
     IconData(
       0xe172,
@@ -5607,7 +7003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-teardrop-dots-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-dots-duotone.svg)
+  /// The `chatTeardropDots` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatTeardropDots` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-teardrop-dots-duotone](https://api.iconify.design/ph/chat-teardrop-dots-duotone.svg?height=32&color=%23888888)
   static const chatTeardropDots = PhosphorDuotoneIconData(
     IconData(
       0xe176,
@@ -5623,7 +7023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-teardrop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-slash-duotone.svg)
+  /// The `chatTeardropSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatTeardropSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-teardrop-slash-duotone](https://api.iconify.design/ph/chat-teardrop-slash-duotone.svg?height=32&color=%23888888)
   static const chatTeardropSlash = PhosphorDuotoneIconData(
     IconData(
       0xe174,
@@ -5639,7 +7043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-teardrop-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-teardrop-text-duotone.svg)
+  /// The `chatTeardropText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatTeardropText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-teardrop-text-duotone](https://api.iconify.design/ph/chat-teardrop-text-duotone.svg?height=32&color=%23888888)
   static const chatTeardropText = PhosphorDuotoneIconData(
     IconData(
       0xe178,
@@ -5655,7 +7063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chat-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chat-text-duotone.svg)
+  /// The `chatText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chat-text-duotone](https://api.iconify.design/ph/chat-text-duotone.svg?height=32&color=%23888888)
   static const chatText = PhosphorDuotoneIconData(
     IconData(
       0xe17a,
@@ -5671,7 +7083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chats-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-duotone.svg)
+  /// The `chats` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chats` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chats-duotone](https://api.iconify.design/ph/chats-duotone.svg?height=32&color=%23888888)
   static const chats = PhosphorDuotoneIconData(
     IconData(
       0xe17c,
@@ -5687,7 +7103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chats-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-circle-duotone.svg)
+  /// The `chatsCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatsCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chats-circle-duotone](https://api.iconify.design/ph/chats-circle-duotone.svg?height=32&color=%23888888)
   static const chatsCircle = PhosphorDuotoneIconData(
     IconData(
       0xe17e,
@@ -5703,7 +7123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chats-teardrop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chats-teardrop-duotone.svg)
+  /// The `chatsTeardrop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chatsTeardrop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chats-teardrop-duotone](https://api.iconify.design/ph/chats-teardrop-duotone.svg?height=32&color=%23888888)
   static const chatsTeardrop = PhosphorDuotoneIconData(
     IconData(
       0xe180,
@@ -5719,7 +7143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-duotone.svg)
+  /// The `check` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `check` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![check-duotone](https://api.iconify.design/ph/check-duotone.svg?height=32&color=%23888888)
   static const check = PhosphorDuotoneIconData(
     IconData(
       0xe182,
@@ -5735,7 +7163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![check-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-circle-duotone.svg)
+  /// The `checkCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `checkCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![check-circle-duotone](https://api.iconify.design/ph/check-circle-duotone.svg?height=32&color=%23888888)
   static const checkCircle = PhosphorDuotoneIconData(
     IconData(
       0xe184,
@@ -5751,7 +7183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![check-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-fat-duotone.svg)
+  /// The `checkFat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `checkFat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![check-fat-duotone](https://api.iconify.design/ph/check-fat-duotone.svg?height=32&color=%23888888)
   static const checkFat = PhosphorDuotoneIconData(
     IconData(
       0xeba6,
@@ -5767,7 +7203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![check-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-duotone.svg)
+  /// The `checkSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `checkSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![check-square-duotone](https://api.iconify.design/ph/check-square-duotone.svg?height=32&color=%23888888)
   static const checkSquare = PhosphorDuotoneIconData(
     IconData(
       0xe186,
@@ -5783,7 +7223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![check-square-offset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/check-square-offset-duotone.svg)
+  /// The `checkSquareOffset` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `checkSquareOffset` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![check-square-offset-duotone](https://api.iconify.design/ph/check-square-offset-duotone.svg?height=32&color=%23888888)
   static const checkSquareOffset = PhosphorDuotoneIconData(
     IconData(
       0xe188,
@@ -5799,7 +7243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![checkerboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checkerboard-duotone.svg)
+  /// The `checkerboard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `checkerboard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![checkerboard-duotone](https://api.iconify.design/ph/checkerboard-duotone.svg?height=32&color=%23888888)
   static const checkerboard = PhosphorDuotoneIconData(
     IconData(
       0xe8c4,
@@ -5815,7 +7263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/checks-duotone.svg)
+  /// The `checks` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `checks` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![checks-duotone](https://api.iconify.design/ph/checks-duotone.svg?height=32&color=%23888888)
   static const checks = PhosphorDuotoneIconData(
     IconData(
       0xe53a,
@@ -5831,7 +7283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cheers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheers-duotone.svg)
+  /// The `cheers` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cheers` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cheers-duotone](https://api.iconify.design/ph/cheers-duotone.svg?height=32&color=%23888888)
   static const cheers = PhosphorDuotoneIconData(
     IconData(
       0xea4a,
@@ -5847,7 +7303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cheese-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cheese-duotone.svg)
+  /// The `cheese` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cheese` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cheese-duotone](https://api.iconify.design/ph/cheese-duotone.svg?height=32&color=%23888888)
   static const cheese = PhosphorDuotoneIconData(
     IconData(
       0xe9fe,
@@ -5863,7 +7323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![chef-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/chef-hat-duotone.svg)
+  /// The `chefHat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `chefHat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![chef-hat-duotone](https://api.iconify.design/ph/chef-hat-duotone.svg?height=32&color=%23888888)
   static const chefHat = PhosphorDuotoneIconData(
     IconData(
       0xed8e,
@@ -5879,7 +7343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cherries-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cherries-duotone.svg)
+  /// The `cherries` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cherries` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cherries-duotone](https://api.iconify.design/ph/cherries-duotone.svg?height=32&color=%23888888)
   static const cherries = PhosphorDuotoneIconData(
     IconData(
       0xe830,
@@ -5895,7 +7363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![church-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/church-duotone.svg)
+  /// The `church` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `church` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![church-duotone](https://api.iconify.design/ph/church-duotone.svg?height=32&color=%23888888)
   static const church = PhosphorDuotoneIconData(
     IconData(
       0xecea,
@@ -5911,7 +7383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cigarette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-duotone.svg)
+  /// The `cigarette` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cigarette` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cigarette-duotone](https://api.iconify.design/ph/cigarette-duotone.svg?height=32&color=%23888888)
   static const cigarette = PhosphorDuotoneIconData(
     IconData(
       0xed90,
@@ -5927,7 +7403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cigarette-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cigarette-slash-duotone.svg)
+  /// The `cigaretteSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cigaretteSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cigarette-slash-duotone](https://api.iconify.design/ph/cigarette-slash-duotone.svg?height=32&color=%23888888)
   static const cigaretteSlash = PhosphorDuotoneIconData(
     IconData(
       0xed92,
@@ -5943,7 +7423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-duotone.svg)
+  /// The `circle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-duotone](https://api.iconify.design/ph/circle-duotone.svg?height=32&color=%23888888)
   static const circle = PhosphorDuotoneIconData(
     IconData(
       0xe18a,
@@ -5959,7 +7443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-dashed-duotone.svg)
+  /// The `circleDashed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-dashed-duotone](https://api.iconify.design/ph/circle-dashed-duotone.svg?height=32&color=%23888888)
   static const circleDashed = PhosphorDuotoneIconData(
     IconData(
       0xe602,
@@ -5975,7 +7463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-duotone.svg)
+  /// The `circleHalf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-half-duotone](https://api.iconify.design/ph/circle-half-duotone.svg?height=32&color=%23888888)
   static const circleHalf = PhosphorDuotoneIconData(
     IconData(
       0xe18c,
@@ -5991,7 +7483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-half-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-half-tilt-duotone.svg)
+  /// The `circleHalfTilt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleHalfTilt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-half-tilt-duotone](https://api.iconify.design/ph/circle-half-tilt-duotone.svg?height=32&color=%23888888)
   static const circleHalfTilt = PhosphorDuotoneIconData(
     IconData(
       0xe18e,
@@ -6007,7 +7503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-notch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-notch-duotone.svg)
+  /// The `circleNotch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleNotch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-notch-duotone](https://api.iconify.design/ph/circle-notch-duotone.svg?height=32&color=%23888888)
   static const circleNotch = PhosphorDuotoneIconData(
     IconData(
       0xeb44,
@@ -6023,7 +7523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-wavy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-wavy-duotone.svg)
+  /// The `circleWavy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleWavy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-wavy-duotone](https://api.iconify.design/ph/seal-duotone.svg?height=32&color=%23888888)
   static const circleWavy = PhosphorDuotoneIconData(
     IconData(
       0xe604,
@@ -6039,7 +7543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-wavy-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-wavy-check-duotone.svg)
+  /// The `circleWavyCheck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleWavyCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-wavy-check-duotone](https://api.iconify.design/ph/seal-check-duotone.svg?height=32&color=%23888888)
   static const circleWavyCheck = PhosphorDuotoneIconData(
     IconData(
       0xe606,
@@ -6055,7 +7563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-wavy-question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-wavy-question-duotone.svg)
+  /// The `circleWavyQuestion` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleWavyQuestion` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-wavy-question-duotone](https://api.iconify.design/ph/seal-question-duotone.svg?height=32&color=%23888888)
   static const circleWavyQuestion = PhosphorDuotoneIconData(
     IconData(
       0xe608,
@@ -6071,7 +7583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circle-wavy-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circle-wavy-warning-duotone.svg)
+  /// The `circleWavyWarning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circleWavyWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circle-wavy-warning-duotone](https://api.iconify.design/ph/seal-warning-duotone.svg?height=32&color=%23888888)
   static const circleWavyWarning = PhosphorDuotoneIconData(
     IconData(
       0xe60c,
@@ -6087,7 +7603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circles-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-four-duotone.svg)
+  /// The `circlesFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circlesFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circles-four-duotone](https://api.iconify.design/ph/circles-four-duotone.svg?height=32&color=%23888888)
   static const circlesFour = PhosphorDuotoneIconData(
     IconData(
       0xe190,
@@ -6103,7 +7623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circles-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-duotone.svg)
+  /// The `circlesThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circlesThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circles-three-duotone](https://api.iconify.design/ph/circles-three-duotone.svg?height=32&color=%23888888)
   static const circlesThree = PhosphorDuotoneIconData(
     IconData(
       0xe192,
@@ -6119,7 +7643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circles-three-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circles-three-plus-duotone.svg)
+  /// The `circlesThreePlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circlesThreePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circles-three-plus-duotone](https://api.iconify.design/ph/circles-three-plus-duotone.svg?height=32&color=%23888888)
   static const circlesThreePlus = PhosphorDuotoneIconData(
     IconData(
       0xe194,
@@ -6135,7 +7663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![circuitry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/circuitry-duotone.svg)
+  /// The `circuitry` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `circuitry` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![circuitry-duotone](https://api.iconify.design/ph/circuitry-duotone.svg?height=32&color=%23888888)
   static const circuitry = PhosphorDuotoneIconData(
     IconData(
       0xe9c2,
@@ -6151,7 +7683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![city-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/city-duotone.svg)
+  /// The `city` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `city` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![city-duotone](https://api.iconify.design/ph/city-duotone.svg?height=32&color=%23888888)
   static const city = PhosphorDuotoneIconData(
     IconData(
       0xea6a,
@@ -6167,7 +7703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clipboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-duotone.svg)
+  /// The `clipboard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clipboard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clipboard-duotone](https://api.iconify.design/ph/clipboard-duotone.svg?height=32&color=%23888888)
   static const clipboard = PhosphorDuotoneIconData(
     IconData(
       0xe196,
@@ -6183,7 +7723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clipboard-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clipboard-text-duotone.svg)
+  /// The `clipboardText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clipboardText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clipboard-text-duotone](https://api.iconify.design/ph/clipboard-text-duotone.svg?height=32&color=%23888888)
   static const clipboardText = PhosphorDuotoneIconData(
     IconData(
       0xe198,
@@ -6199,7 +7743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-duotone.svg)
+  /// The `clock` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clock` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clock-duotone](https://api.iconify.design/ph/clock-duotone.svg?height=32&color=%23888888)
   static const clock = PhosphorDuotoneIconData(
     IconData(
       0xe19a,
@@ -6215,7 +7763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clock-afternoon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-afternoon-duotone.svg)
+  /// The `clockAfternoon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clockAfternoon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clock-afternoon-duotone](https://api.iconify.design/ph/clock-afternoon-duotone.svg?height=32&color=%23888888)
   static const clockAfternoon = PhosphorDuotoneIconData(
     IconData(
       0xe19c,
@@ -6231,7 +7783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clock-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-clockwise-duotone.svg)
+  /// The `clockClockwise` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clockClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clock-clockwise-duotone](https://api.iconify.design/ph/clock-clockwise-duotone.svg?height=32&color=%23888888)
   static const clockClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe19e,
@@ -6247,7 +7803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clock-countdown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-countdown-duotone.svg)
+  /// The `clockCountdown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clockCountdown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clock-countdown-duotone](https://api.iconify.design/ph/clock-countdown-duotone.svg?height=32&color=%23888888)
   static const clockCountdown = PhosphorDuotoneIconData(
     IconData(
       0xed2c,
@@ -6263,7 +7823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clock-counter-clockwise-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-counter-clockwise-duotone.svg)
+  /// The `clockCounterClockwise` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clockCounterClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clock-counter-clockwise-duotone](https://api.iconify.design/ph/clock-counter-clockwise-duotone.svg?height=32&color=%23888888)
   static const clockCounterClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe1a0,
@@ -6279,7 +7843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clock-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clock-user-duotone.svg)
+  /// The `clockUser` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clockUser` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clock-user-duotone](https://api.iconify.design/ph/clock-user-duotone.svg?height=32&color=%23888888)
   static const clockUser = PhosphorDuotoneIconData(
     IconData(
       0xedec,
@@ -6295,7 +7863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![closed-captioning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/closed-captioning-duotone.svg)
+  /// The `closedCaptioning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `closedCaptioning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![closed-captioning-duotone](https://api.iconify.design/ph/closed-captioning-duotone.svg?height=32&color=%23888888)
   static const closedCaptioning = PhosphorDuotoneIconData(
     IconData(
       0xe1a4,
@@ -6311,7 +7883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-duotone.svg)
+  /// The `cloud` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloud` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-duotone](https://api.iconify.design/ph/cloud-duotone.svg?height=32&color=%23888888)
   static const cloud = PhosphorDuotoneIconData(
     IconData(
       0xe1aa,
@@ -6327,7 +7903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-down-duotone.svg)
+  /// The `cloudArrowDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-arrow-down-duotone](https://api.iconify.design/ph/cloud-arrow-down-duotone.svg?height=32&color=%23888888)
   static const cloudArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe1ac,
@@ -6343,7 +7923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-arrow-up-duotone.svg)
+  /// The `cloudArrowUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-arrow-up-duotone](https://api.iconify.design/ph/cloud-arrow-up-duotone.svg?height=32&color=%23888888)
   static const cloudArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe1ae,
@@ -6359,7 +7943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-check-duotone.svg)
+  /// The `cloudCheck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-check-duotone](https://api.iconify.design/ph/cloud-check-duotone.svg?height=32&color=%23888888)
   static const cloudCheck = PhosphorDuotoneIconData(
     IconData(
       0xe1b0,
@@ -6375,7 +7963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-fog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-fog-duotone.svg)
+  /// The `cloudFog` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudFog` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-fog-duotone](https://api.iconify.design/ph/cloud-fog-duotone.svg?height=32&color=%23888888)
   static const cloudFog = PhosphorDuotoneIconData(
     IconData(
       0xe53c,
@@ -6391,7 +7983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-lightning-duotone.svg)
+  /// The `cloudLightning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudLightning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-lightning-duotone](https://api.iconify.design/ph/cloud-lightning-duotone.svg?height=32&color=%23888888)
   static const cloudLightning = PhosphorDuotoneIconData(
     IconData(
       0xe1b2,
@@ -6407,7 +8003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-moon-duotone.svg)
+  /// The `cloudMoon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudMoon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-moon-duotone](https://api.iconify.design/ph/cloud-moon-duotone.svg?height=32&color=%23888888)
   static const cloudMoon = PhosphorDuotoneIconData(
     IconData(
       0xe53e,
@@ -6423,7 +8023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-rain-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-rain-duotone.svg)
+  /// The `cloudRain` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudRain` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-rain-duotone](https://api.iconify.design/ph/cloud-rain-duotone.svg?height=32&color=%23888888)
   static const cloudRain = PhosphorDuotoneIconData(
     IconData(
       0xe1b4,
@@ -6439,7 +8043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-slash-duotone.svg)
+  /// The `cloudSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-slash-duotone](https://api.iconify.design/ph/cloud-slash-duotone.svg?height=32&color=%23888888)
   static const cloudSlash = PhosphorDuotoneIconData(
     IconData(
       0xe1b6,
@@ -6455,7 +8063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-snow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-snow-duotone.svg)
+  /// The `cloudSnow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudSnow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-snow-duotone](https://api.iconify.design/ph/cloud-snow-duotone.svg?height=32&color=%23888888)
   static const cloudSnow = PhosphorDuotoneIconData(
     IconData(
       0xe1b8,
@@ -6471,7 +8083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-sun-duotone.svg)
+  /// The `cloudSun` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudSun` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-sun-duotone](https://api.iconify.design/ph/cloud-sun-duotone.svg?height=32&color=%23888888)
   static const cloudSun = PhosphorDuotoneIconData(
     IconData(
       0xe540,
@@ -6487,7 +8103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-warning-duotone.svg)
+  /// The `cloudWarning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-warning-duotone](https://api.iconify.design/ph/cloud-warning-duotone.svg?height=32&color=%23888888)
   static const cloudWarning = PhosphorDuotoneIconData(
     IconData(
       0xea98,
@@ -6503,7 +8123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cloud-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cloud-x-duotone.svg)
+  /// The `cloudX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cloudX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cloud-x-duotone](https://api.iconify.design/ph/cloud-x-duotone.svg?height=32&color=%23888888)
   static const cloudX = PhosphorDuotoneIconData(
     IconData(
       0xea96,
@@ -6519,7 +8143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![clover-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/clover-duotone.svg)
+  /// The `clover` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `clover` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![clover-duotone](https://api.iconify.design/ph/clover-duotone.svg?height=32&color=%23888888)
   static const clover = PhosphorDuotoneIconData(
     IconData(
       0xedc8,
@@ -6535,7 +8163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![club-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/club-duotone.svg)
+  /// The `club` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `club` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![club-duotone](https://api.iconify.design/ph/club-duotone.svg?height=32&color=%23888888)
   static const club = PhosphorDuotoneIconData(
     IconData(
       0xe1ba,
@@ -6551,7 +8183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![coat-hanger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coat-hanger-duotone.svg)
+  /// The `coatHanger` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `coatHanger` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![coat-hanger-duotone](https://api.iconify.design/ph/coat-hanger-duotone.svg?height=32&color=%23888888)
   static const coatHanger = PhosphorDuotoneIconData(
     IconData(
       0xe7fe,
@@ -6567,7 +8203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![coda-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coda-logo-duotone.svg)
+  /// The `codaLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `codaLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![coda-logo-duotone](https://api.iconify.design/ph/coda-logo-duotone.svg?height=32&color=%23888888)
   static const codaLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7ce,
@@ -6583,7 +8223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-duotone.svg)
+  /// The `code` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `code` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![code-duotone](https://api.iconify.design/ph/code-duotone.svg?height=32&color=%23888888)
   static const code = PhosphorDuotoneIconData(
     IconData(
       0xe1bc,
@@ -6599,7 +8243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![code-block-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-block-duotone.svg)
+  /// The `codeBlock` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `codeBlock` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![code-block-duotone](https://api.iconify.design/ph/code-block-duotone.svg?height=32&color=%23888888)
   static const codeBlock = PhosphorDuotoneIconData(
     IconData(
       0xeafe,
@@ -6615,7 +8263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![code-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/code-simple-duotone.svg)
+  /// The `codeSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `codeSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![code-simple-duotone](https://api.iconify.design/ph/code-simple-duotone.svg?height=32&color=%23888888)
   static const codeSimple = PhosphorDuotoneIconData(
     IconData(
       0xe1be,
@@ -6631,7 +8283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![codepen-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codepen-logo-duotone.svg)
+  /// The `codepenLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `codepenLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![codepen-logo-duotone](https://api.iconify.design/ph/codepen-logo-duotone.svg?height=32&color=%23888888)
   static const codepenLogo = PhosphorDuotoneIconData(
     IconData(
       0xe978,
@@ -6647,7 +8303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![codesandbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/codesandbox-logo-duotone.svg)
+  /// The `codesandboxLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `codesandboxLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![codesandbox-logo-duotone](https://api.iconify.design/ph/codesandbox-logo-duotone.svg?height=32&color=%23888888)
   static const codesandboxLogo = PhosphorDuotoneIconData(
     IconData(
       0xea06,
@@ -6663,7 +8323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![coffee-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-duotone.svg)
+  /// The `coffee` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `coffee` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![coffee-duotone](https://api.iconify.design/ph/coffee-duotone.svg?height=32&color=%23888888)
   static const coffee = PhosphorDuotoneIconData(
     IconData(
       0xe1c2,
@@ -6679,7 +8343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![coffee-bean-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coffee-bean-duotone.svg)
+  /// The `coffeeBean` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `coffeeBean` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![coffee-bean-duotone](https://api.iconify.design/ph/coffee-bean-duotone.svg?height=32&color=%23888888)
   static const coffeeBean = PhosphorDuotoneIconData(
     IconData(
       0xe1c0,
@@ -6695,7 +8363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![coin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-duotone.svg)
+  /// The `coin` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `coin` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![coin-duotone](https://api.iconify.design/ph/coin-duotone.svg?height=32&color=%23888888)
   static const coin = PhosphorDuotoneIconData(
     IconData(
       0xe60e,
@@ -6711,7 +8383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![coin-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coin-vertical-duotone.svg)
+  /// The `coinVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `coinVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![coin-vertical-duotone](https://api.iconify.design/ph/coin-vertical-duotone.svg?height=32&color=%23888888)
   static const coinVertical = PhosphorDuotoneIconData(
     IconData(
       0xeb48,
@@ -6727,7 +8403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/coins-duotone.svg)
+  /// The `coins` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `coins` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![coins-duotone](https://api.iconify.design/ph/coins-duotone.svg?height=32&color=%23888888)
   static const coins = PhosphorDuotoneIconData(
     IconData(
       0xe78e,
@@ -6743,7 +8423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-duotone.svg)
+  /// The `columns` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `columns` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![columns-duotone](https://api.iconify.design/ph/columns-duotone.svg?height=32&color=%23888888)
   static const columns = PhosphorDuotoneIconData(
     IconData(
       0xe546,
@@ -6759,7 +8443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![columns-plus-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-left-duotone.svg)
+  /// The `columnsPlusLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `columnsPlusLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![columns-plus-left-duotone](https://api.iconify.design/ph/columns-plus-left-duotone.svg?height=32&color=%23888888)
   static const columnsPlusLeft = PhosphorDuotoneIconData(
     IconData(
       0xe544,
@@ -6775,7 +8463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![columns-plus-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/columns-plus-right-duotone.svg)
+  /// The `columnsPlusRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `columnsPlusRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![columns-plus-right-duotone](https://api.iconify.design/ph/columns-plus-right-duotone.svg?height=32&color=%23888888)
   static const columnsPlusRight = PhosphorDuotoneIconData(
     IconData(
       0xe542,
@@ -6791,7 +8483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![command-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/command-duotone.svg)
+  /// The `command` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `command` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![command-duotone](https://api.iconify.design/ph/command-duotone.svg?height=32&color=%23888888)
   static const command = PhosphorDuotoneIconData(
     IconData(
       0xe1c4,
@@ -6807,7 +8503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![compass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-duotone.svg)
+  /// The `compass` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `compass` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![compass-duotone](https://api.iconify.design/ph/compass-duotone.svg?height=32&color=%23888888)
   static const compass = PhosphorDuotoneIconData(
     IconData(
       0xe1c8,
@@ -6823,7 +8523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![compass-rose-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-rose-duotone.svg)
+  /// The `compassRose` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `compassRose` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![compass-rose-duotone](https://api.iconify.design/ph/compass-rose-duotone.svg?height=32&color=%23888888)
   static const compassRose = PhosphorDuotoneIconData(
     IconData(
       0xe1c6,
@@ -6839,7 +8543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![compass-tool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/compass-tool-duotone.svg)
+  /// The `compassTool` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `compassTool` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![compass-tool-duotone](https://api.iconify.design/ph/compass-tool-duotone.svg?height=32&color=%23888888)
   static const compassTool = PhosphorDuotoneIconData(
     IconData(
       0xea0e,
@@ -6855,7 +8563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![computer-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/computer-tower-duotone.svg)
+  /// The `computerTower` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `computerTower` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![computer-tower-duotone](https://api.iconify.design/ph/computer-tower-duotone.svg?height=32&color=%23888888)
   static const computerTower = PhosphorDuotoneIconData(
     IconData(
       0xe548,
@@ -6871,7 +8583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![confetti-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/confetti-duotone.svg)
+  /// The `confetti` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `confetti` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![confetti-duotone](https://api.iconify.design/ph/confetti-duotone.svg?height=32&color=%23888888)
   static const confetti = PhosphorDuotoneIconData(
     IconData(
       0xe81a,
@@ -6887,7 +8603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![contactless-payment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/contactless-payment-duotone.svg)
+  /// The `contactlessPayment` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `contactlessPayment` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![contactless-payment-duotone](https://api.iconify.design/ph/contactless-payment-duotone.svg?height=32&color=%23888888)
   static const contactlessPayment = PhosphorDuotoneIconData(
     IconData(
       0xed42,
@@ -6903,7 +8623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![control-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/control-duotone.svg)
+  /// The `control` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `control` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![control-duotone](https://api.iconify.design/ph/control-duotone.svg?height=32&color=%23888888)
   static const control = PhosphorDuotoneIconData(
     IconData(
       0xeca6,
@@ -6919,7 +8643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cookie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cookie-duotone.svg)
+  /// The `cookie` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cookie` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cookie-duotone](https://api.iconify.design/ph/cookie-duotone.svg?height=32&color=%23888888)
   static const cookie = PhosphorDuotoneIconData(
     IconData(
       0xe6ca,
@@ -6935,7 +8663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cooking-pot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cooking-pot-duotone.svg)
+  /// The `cookingPot` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cookingPot` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cooking-pot-duotone](https://api.iconify.design/ph/cooking-pot-duotone.svg?height=32&color=%23888888)
   static const cookingPot = PhosphorDuotoneIconData(
     IconData(
       0xe764,
@@ -6951,7 +8683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![copy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-duotone.svg)
+  /// The `copy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `copy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![copy-duotone](https://api.iconify.design/ph/copy-duotone.svg?height=32&color=%23888888)
   static const copy = PhosphorDuotoneIconData(
     IconData(
       0xe1ca,
@@ -6967,7 +8703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![copy-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copy-simple-duotone.svg)
+  /// The `copySimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `copySimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![copy-simple-duotone](https://api.iconify.design/ph/copy-simple-duotone.svg?height=32&color=%23888888)
   static const copySimple = PhosphorDuotoneIconData(
     IconData(
       0xe1cc,
@@ -6983,7 +8723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![copyleft-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyleft-duotone.svg)
+  /// The `copyleft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `copyleft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![copyleft-duotone](https://api.iconify.design/ph/copyleft-duotone.svg?height=32&color=%23888888)
   static const copyleft = PhosphorDuotoneIconData(
     IconData(
       0xe86a,
@@ -6999,7 +8743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![copyright-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/copyright-duotone.svg)
+  /// The `copyright` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `copyright` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![copyright-duotone](https://api.iconify.design/ph/copyright-duotone.svg?height=32&color=%23888888)
   static const copyright = PhosphorDuotoneIconData(
     IconData(
       0xe54a,
@@ -7015,7 +8763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![corners-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-in-duotone.svg)
+  /// The `cornersIn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cornersIn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![corners-in-duotone](https://api.iconify.design/ph/corners-in-duotone.svg?height=32&color=%23888888)
   static const cornersIn = PhosphorDuotoneIconData(
     IconData(
       0xe1ce,
@@ -7031,7 +8783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![corners-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/corners-out-duotone.svg)
+  /// The `cornersOut` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cornersOut` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![corners-out-duotone](https://api.iconify.design/ph/corners-out-duotone.svg?height=32&color=%23888888)
   static const cornersOut = PhosphorDuotoneIconData(
     IconData(
       0xe1d0,
@@ -7047,7 +8803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![couch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/couch-duotone.svg)
+  /// The `couch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `couch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![couch-duotone](https://api.iconify.design/ph/couch-duotone.svg?height=32&color=%23888888)
   static const couch = PhosphorDuotoneIconData(
     IconData(
       0xe7f6,
@@ -7063,7 +8823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![court-basketball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/court-basketball-duotone.svg)
+  /// The `courtBasketball` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `courtBasketball` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![court-basketball-duotone](https://api.iconify.design/ph/court-basketball-duotone.svg?height=32&color=%23888888)
   static const courtBasketball = PhosphorDuotoneIconData(
     IconData(
       0xee36,
@@ -7079,7 +8843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cow-duotone.svg)
+  /// The `cow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cow-duotone](https://api.iconify.design/ph/cow-duotone.svg?height=32&color=%23888888)
   static const cow = PhosphorDuotoneIconData(
     IconData(
       0xeabe,
@@ -7095,7 +8863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cowboy-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cowboy-hat-duotone.svg)
+  /// The `cowboyHat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cowboyHat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cowboy-hat-duotone](https://api.iconify.design/ph/cowboy-hat-duotone.svg?height=32&color=%23888888)
   static const cowboyHat = PhosphorDuotoneIconData(
     IconData(
       0xed12,
@@ -7111,7 +8883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cpu-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cpu-duotone.svg)
+  /// The `cpu` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cpu` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cpu-duotone](https://api.iconify.design/ph/cpu-duotone.svg?height=32&color=%23888888)
   static const cpu = PhosphorDuotoneIconData(
     IconData(
       0xe610,
@@ -7127,7 +8903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-duotone.svg)
+  /// The `crane` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `crane` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crane-duotone](https://api.iconify.design/ph/crane-duotone.svg?height=32&color=%23888888)
   static const crane = PhosphorDuotoneIconData(
     IconData(
       0xed48,
@@ -7143,7 +8923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crane-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crane-tower-duotone.svg)
+  /// The `craneTower` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `craneTower` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crane-tower-duotone](https://api.iconify.design/ph/crane-tower-duotone.svg?height=32&color=%23888888)
   static const craneTower = PhosphorDuotoneIconData(
     IconData(
       0xed49,
@@ -7159,7 +8943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![credit-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/credit-card-duotone.svg)
+  /// The `creditCard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `creditCard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![credit-card-duotone](https://api.iconify.design/ph/credit-card-duotone.svg?height=32&color=%23888888)
   static const creditCard = PhosphorDuotoneIconData(
     IconData(
       0xe1d2,
@@ -7175,7 +8963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cricket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cricket-duotone.svg)
+  /// The `cricket` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cricket` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cricket-duotone](https://api.iconify.design/ph/cricket-duotone.svg?height=32&color=%23888888)
   static const cricket = PhosphorDuotoneIconData(
     IconData(
       0xee12,
@@ -7191,7 +8983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crop-duotone.svg)
+  /// The `crop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `crop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crop-duotone](https://api.iconify.design/ph/crop-duotone.svg?height=32&color=%23888888)
   static const crop = PhosphorDuotoneIconData(
     IconData(
       0xe1d4,
@@ -7207,7 +9003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cross-duotone.svg)
+  /// The `cross` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cross` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cross-duotone](https://api.iconify.design/ph/cross-duotone.svg?height=32&color=%23888888)
   static const cross = PhosphorDuotoneIconData(
     IconData(
       0xe8a0,
@@ -7223,7 +9023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crosshair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-duotone.svg)
+  /// The `crosshair` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `crosshair` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crosshair-duotone](https://api.iconify.design/ph/crosshair-duotone.svg?height=32&color=%23888888)
   static const crosshair = PhosphorDuotoneIconData(
     IconData(
       0xe1d6,
@@ -7239,7 +9043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crosshair-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crosshair-simple-duotone.svg)
+  /// The `crosshairSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `crosshairSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crosshair-simple-duotone](https://api.iconify.design/ph/crosshair-simple-duotone.svg?height=32&color=%23888888)
   static const crosshairSimple = PhosphorDuotoneIconData(
     IconData(
       0xe1d8,
@@ -7255,7 +9063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crown-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-duotone.svg)
+  /// The `crown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `crown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crown-duotone](https://api.iconify.design/ph/crown-duotone.svg?height=32&color=%23888888)
   static const crown = PhosphorDuotoneIconData(
     IconData(
       0xe614,
@@ -7271,7 +9083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crown-cross-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-cross-duotone.svg)
+  /// The `crownCross` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `crownCross` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crown-cross-duotone](https://api.iconify.design/ph/crown-cross-duotone.svg?height=32&color=%23888888)
   static const crownCross = PhosphorDuotoneIconData(
     IconData(
       0xee5e,
@@ -7287,7 +9103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![crown-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/crown-simple-duotone.svg)
+  /// The `crownSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `crownSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![crown-simple-duotone](https://api.iconify.design/ph/crown-simple-duotone.svg?height=32&color=%23888888)
   static const crownSimple = PhosphorDuotoneIconData(
     IconData(
       0xe616,
@@ -7303,7 +9123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-duotone.svg)
+  /// The `cube` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cube` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cube-duotone](https://api.iconify.design/ph/cube-duotone.svg?height=32&color=%23888888)
   static const cube = PhosphorDuotoneIconData(
     IconData(
       0xe1da,
@@ -7319,7 +9143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cube-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-focus-duotone.svg)
+  /// The `cubeFocus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cubeFocus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cube-focus-duotone](https://api.iconify.design/ph/cube-focus-duotone.svg?height=32&color=%23888888)
   static const cubeFocus = PhosphorDuotoneIconData(
     IconData(
       0xed0a,
@@ -7335,7 +9163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cube-transparent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cube-transparent-duotone.svg)
+  /// The `cubeTransparent` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cubeTransparent` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cube-transparent-duotone](https://api.iconify.design/ph/cube-transparent-duotone.svg?height=32&color=%23888888)
   static const cubeTransparent = PhosphorDuotoneIconData(
     IconData(
       0xec7c,
@@ -7351,7 +9183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-btc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-btc-duotone.svg)
+  /// The `currencyBtc` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyBtc` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-btc-duotone](https://api.iconify.design/ph/currency-btc-duotone.svg?height=32&color=%23888888)
   static const currencyBtc = PhosphorDuotoneIconData(
     IconData(
       0xe618,
@@ -7367,7 +9203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-circle-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-circle-dollar-duotone.svg)
+  /// The `currencyCircleDollar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyCircleDollar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-circle-dollar-duotone](https://api.iconify.design/ph/currency-circle-dollar-duotone.svg?height=32&color=%23888888)
   static const currencyCircleDollar = PhosphorDuotoneIconData(
     IconData(
       0xe54c,
@@ -7383,7 +9223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-cny-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-cny-duotone.svg)
+  /// The `currencyCny` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyCny` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-cny-duotone](https://api.iconify.design/ph/currency-cny-duotone.svg?height=32&color=%23888888)
   static const currencyCny = PhosphorDuotoneIconData(
     IconData(
       0xe54e,
@@ -7399,7 +9243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-dollar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-duotone.svg)
+  /// The `currencyDollar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyDollar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-dollar-duotone](https://api.iconify.design/ph/currency-dollar-duotone.svg?height=32&color=%23888888)
   static const currencyDollar = PhosphorDuotoneIconData(
     IconData(
       0xe550,
@@ -7415,7 +9263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-dollar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-dollar-simple-duotone.svg)
+  /// The `currencyDollarSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyDollarSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-dollar-simple-duotone](https://api.iconify.design/ph/currency-dollar-simple-duotone.svg?height=32&color=%23888888)
   static const currencyDollarSimple = PhosphorDuotoneIconData(
     IconData(
       0xe552,
@@ -7431,7 +9283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-eth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eth-duotone.svg)
+  /// The `currencyEth` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyEth` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-eth-duotone](https://api.iconify.design/ph/currency-eth-duotone.svg?height=32&color=%23888888)
   static const currencyEth = PhosphorDuotoneIconData(
     IconData(
       0xeada,
@@ -7447,7 +9303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-eur-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-eur-duotone.svg)
+  /// The `currencyEur` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyEur` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-eur-duotone](https://api.iconify.design/ph/currency-eur-duotone.svg?height=32&color=%23888888)
   static const currencyEur = PhosphorDuotoneIconData(
     IconData(
       0xe554,
@@ -7463,7 +9323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-gbp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-gbp-duotone.svg)
+  /// The `currencyGbp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyGbp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-gbp-duotone](https://api.iconify.design/ph/currency-gbp-duotone.svg?height=32&color=%23888888)
   static const currencyGbp = PhosphorDuotoneIconData(
     IconData(
       0xe556,
@@ -7479,7 +9343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-inr-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-inr-duotone.svg)
+  /// The `currencyInr` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyInr` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-inr-duotone](https://api.iconify.design/ph/currency-inr-duotone.svg?height=32&color=%23888888)
   static const currencyInr = PhosphorDuotoneIconData(
     IconData(
       0xe558,
@@ -7495,7 +9363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-jpy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-jpy-duotone.svg)
+  /// The `currencyJpy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyJpy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-jpy-duotone](https://api.iconify.design/ph/currency-jpy-duotone.svg?height=32&color=%23888888)
   static const currencyJpy = PhosphorDuotoneIconData(
     IconData(
       0xe55a,
@@ -7511,7 +9383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-krw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-krw-duotone.svg)
+  /// The `currencyKrw` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyKrw` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-krw-duotone](https://api.iconify.design/ph/currency-krw-duotone.svg?height=32&color=%23888888)
   static const currencyKrw = PhosphorDuotoneIconData(
     IconData(
       0xe55c,
@@ -7527,7 +9403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-kzt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-kzt-duotone.svg)
+  /// The `currencyKzt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyKzt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-kzt-duotone](https://api.iconify.design/ph/currency-kzt-duotone.svg?height=32&color=%23888888)
   static const currencyKzt = PhosphorDuotoneIconData(
     IconData(
       0xec4c,
@@ -7543,7 +9423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-ngn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-ngn-duotone.svg)
+  /// The `currencyNgn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyNgn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-ngn-duotone](https://api.iconify.design/ph/currency-ngn-duotone.svg?height=32&color=%23888888)
   static const currencyNgn = PhosphorDuotoneIconData(
     IconData(
       0xeb52,
@@ -7559,7 +9443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![currency-rub-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/currency-rub-duotone.svg)
+  /// The `currencyRub` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `currencyRub` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![currency-rub-duotone](https://api.iconify.design/ph/currency-rub-duotone.svg?height=32&color=%23888888)
   static const currencyRub = PhosphorDuotoneIconData(
     IconData(
       0xe55e,
@@ -7575,7 +9463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cursor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-duotone.svg)
+  /// The `cursor` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cursor` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cursor-duotone](https://api.iconify.design/ph/cursor-duotone.svg?height=32&color=%23888888)
   static const cursor = PhosphorDuotoneIconData(
     IconData(
       0xe1dc,
@@ -7591,7 +9483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cursor-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-click-duotone.svg)
+  /// The `cursorClick` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cursorClick` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cursor-click-duotone](https://api.iconify.design/ph/cursor-click-duotone.svg?height=32&color=%23888888)
   static const cursorClick = PhosphorDuotoneIconData(
     IconData(
       0xe7c8,
@@ -7607,7 +9503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cursor-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cursor-text-duotone.svg)
+  /// The `cursorText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cursorText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cursor-text-duotone](https://api.iconify.design/ph/cursor-text-duotone.svg?height=32&color=%23888888)
   static const cursorText = PhosphorDuotoneIconData(
     IconData(
       0xe7d8,
@@ -7623,7 +9523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![cylinder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/cylinder-duotone.svg)
+  /// The `cylinder` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `cylinder` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![cylinder-duotone](https://api.iconify.design/ph/cylinder-duotone.svg?height=32&color=%23888888)
   static const cylinder = PhosphorDuotoneIconData(
     IconData(
       0xe8fc,
@@ -7639,7 +9543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![database-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/database-duotone.svg)
+  /// The `database` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `database` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![database-duotone](https://api.iconify.design/ph/database-duotone.svg?height=32&color=%23888888)
   static const database = PhosphorDuotoneIconData(
     IconData(
       0xe1de,
@@ -7655,7 +9563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![desk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desk-duotone.svg)
+  /// The `desk` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `desk` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![desk-duotone](https://api.iconify.design/ph/desk-duotone.svg?height=32&color=%23888888)
   static const desk = PhosphorDuotoneIconData(
     IconData(
       0xed16,
@@ -7671,7 +9583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![desktop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-duotone.svg)
+  /// The `desktop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `desktop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![desktop-duotone](https://api.iconify.design/ph/desktop-duotone.svg?height=32&color=%23888888)
   static const desktop = PhosphorDuotoneIconData(
     IconData(
       0xe560,
@@ -7687,7 +9603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![desktop-tower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/desktop-tower-duotone.svg)
+  /// The `desktopTower` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `desktopTower` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![desktop-tower-duotone](https://api.iconify.design/ph/desktop-tower-duotone.svg?height=32&color=%23888888)
   static const desktopTower = PhosphorDuotoneIconData(
     IconData(
       0xe562,
@@ -7703,7 +9623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![detective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/detective-duotone.svg)
+  /// The `detective` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `detective` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![detective-duotone](https://api.iconify.design/ph/detective-duotone.svg?height=32&color=%23888888)
   static const detective = PhosphorDuotoneIconData(
     IconData(
       0xe83e,
@@ -7719,7 +9643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dev-to-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dev-to-logo-duotone.svg)
+  /// The `devToLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `devToLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dev-to-logo-duotone](https://api.iconify.design/ph/dev-to-logo-duotone.svg?height=32&color=%23888888)
   static const devToLogo = PhosphorDuotoneIconData(
     IconData(
       0xed0e,
@@ -7735,7 +9663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-mobile-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-duotone.svg)
+  /// The `deviceMobile` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceMobile` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-mobile-duotone](https://api.iconify.design/ph/device-mobile-duotone.svg?height=32&color=%23888888)
   static const deviceMobile = PhosphorDuotoneIconData(
     IconData(
       0xe1e0,
@@ -7751,7 +9683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-mobile-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-camera-duotone.svg)
+  /// The `deviceMobileCamera` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceMobileCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-mobile-camera-duotone](https://api.iconify.design/ph/device-mobile-camera-duotone.svg?height=32&color=%23888888)
   static const deviceMobileCamera = PhosphorDuotoneIconData(
     IconData(
       0xe1e2,
@@ -7767,7 +9703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-mobile-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-slash-duotone.svg)
+  /// The `deviceMobileSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceMobileSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-mobile-slash-duotone](https://api.iconify.design/ph/device-mobile-slash-duotone.svg?height=32&color=%23888888)
   static const deviceMobileSlash = PhosphorDuotoneIconData(
     IconData(
       0xee46,
@@ -7783,7 +9723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-mobile-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-mobile-speaker-duotone.svg)
+  /// The `deviceMobileSpeaker` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceMobileSpeaker` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-mobile-speaker-duotone](https://api.iconify.design/ph/device-mobile-speaker-duotone.svg?height=32&color=%23888888)
   static const deviceMobileSpeaker = PhosphorDuotoneIconData(
     IconData(
       0xe1e4,
@@ -7799,7 +9743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-rotate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-rotate-duotone.svg)
+  /// The `deviceRotate` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceRotate` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-rotate-duotone](https://api.iconify.design/ph/device-rotate-duotone.svg?height=32&color=%23888888)
   static const deviceRotate = PhosphorDuotoneIconData(
     IconData(
       0xedf2,
@@ -7815,7 +9763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-tablet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-duotone.svg)
+  /// The `deviceTablet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceTablet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-tablet-duotone](https://api.iconify.design/ph/device-tablet-duotone.svg?height=32&color=%23888888)
   static const deviceTablet = PhosphorDuotoneIconData(
     IconData(
       0xe1e6,
@@ -7831,7 +9783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-tablet-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-camera-duotone.svg)
+  /// The `deviceTabletCamera` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceTabletCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-tablet-camera-duotone](https://api.iconify.design/ph/device-tablet-camera-duotone.svg?height=32&color=%23888888)
   static const deviceTabletCamera = PhosphorDuotoneIconData(
     IconData(
       0xe1e8,
@@ -7847,7 +9803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![device-tablet-speaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/device-tablet-speaker-duotone.svg)
+  /// The `deviceTabletSpeaker` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `deviceTabletSpeaker` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![device-tablet-speaker-duotone](https://api.iconify.design/ph/device-tablet-speaker-duotone.svg?height=32&color=%23888888)
   static const deviceTabletSpeaker = PhosphorDuotoneIconData(
     IconData(
       0xe1ea,
@@ -7863,7 +9823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![devices-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/devices-duotone.svg)
+  /// The `devices` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `devices` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![devices-duotone](https://api.iconify.design/ph/devices-duotone.svg?height=32&color=%23888888)
   static const devices = PhosphorDuotoneIconData(
     IconData(
       0xeba4,
@@ -7879,7 +9843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamond-duotone.svg)
+  /// The `diamond` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diamond` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![diamond-duotone](https://api.iconify.design/ph/diamond-duotone.svg?height=32&color=%23888888)
   static const diamond = PhosphorDuotoneIconData(
     IconData(
       0xe1ec,
@@ -7895,7 +9863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![diamonds-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/diamonds-four-duotone.svg)
+  /// The `diamondsFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diamondsFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![diamonds-four-duotone](https://api.iconify.design/ph/diamonds-four-duotone.svg?height=32&color=%23888888)
   static const diamondsFour = PhosphorDuotoneIconData(
     IconData(
       0xe8f4,
@@ -7911,7 +9883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dice-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-five-duotone.svg)
+  /// The `diceFive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diceFive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dice-five-duotone](https://api.iconify.design/ph/dice-five-duotone.svg?height=32&color=%23888888)
   static const diceFive = PhosphorDuotoneIconData(
     IconData(
       0xe1ee,
@@ -7927,7 +9903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dice-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-four-duotone.svg)
+  /// The `diceFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diceFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dice-four-duotone](https://api.iconify.design/ph/dice-four-duotone.svg?height=32&color=%23888888)
   static const diceFour = PhosphorDuotoneIconData(
     IconData(
       0xe1f0,
@@ -7943,7 +9923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dice-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-one-duotone.svg)
+  /// The `diceOne` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diceOne` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dice-one-duotone](https://api.iconify.design/ph/dice-one-duotone.svg?height=32&color=%23888888)
   static const diceOne = PhosphorDuotoneIconData(
     IconData(
       0xe1f2,
@@ -7959,7 +9943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dice-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-six-duotone.svg)
+  /// The `diceSix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diceSix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dice-six-duotone](https://api.iconify.design/ph/dice-six-duotone.svg?height=32&color=%23888888)
   static const diceSix = PhosphorDuotoneIconData(
     IconData(
       0xe1f4,
@@ -7975,7 +9963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dice-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-three-duotone.svg)
+  /// The `diceThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diceThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dice-three-duotone](https://api.iconify.design/ph/dice-three-duotone.svg?height=32&color=%23888888)
   static const diceThree = PhosphorDuotoneIconData(
     IconData(
       0xe1f6,
@@ -7991,7 +9983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dice-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dice-two-duotone.svg)
+  /// The `diceTwo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `diceTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dice-two-duotone](https://api.iconify.design/ph/dice-two-duotone.svg?height=32&color=%23888888)
   static const diceTwo = PhosphorDuotoneIconData(
     IconData(
       0xe1f8,
@@ -8007,7 +10003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![disc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disc-duotone.svg)
+  /// The `disc` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `disc` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![disc-duotone](https://api.iconify.design/ph/disc-duotone.svg?height=32&color=%23888888)
   static const disc = PhosphorDuotoneIconData(
     IconData(
       0xe564,
@@ -8023,7 +10023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![disco-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/disco-ball-duotone.svg)
+  /// The `discoBall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `discoBall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![disco-ball-duotone](https://api.iconify.design/ph/disco-ball-duotone.svg?height=32&color=%23888888)
   static const discoBall = PhosphorDuotoneIconData(
     IconData(
       0xed98,
@@ -8039,7 +10043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![discord-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/discord-logo-duotone.svg)
+  /// The `discordLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `discordLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![discord-logo-duotone](https://api.iconify.design/ph/discord-logo-duotone.svg?height=32&color=%23888888)
   static const discordLogo = PhosphorDuotoneIconData(
     IconData(
       0xe61a,
@@ -8055,7 +10063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![divide-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/divide-duotone.svg)
+  /// The `divide` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `divide` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![divide-duotone](https://api.iconify.design/ph/divide-duotone.svg?height=32&color=%23888888)
   static const divide = PhosphorDuotoneIconData(
     IconData(
       0xe1fa,
@@ -8071,7 +10083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dna-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dna-duotone.svg)
+  /// The `dna` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dna` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dna-duotone](https://api.iconify.design/ph/dna-duotone.svg?height=32&color=%23888888)
   static const dna = PhosphorDuotoneIconData(
     IconData(
       0xe924,
@@ -8087,7 +10103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dog-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dog-duotone.svg)
+  /// The `dog` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dog` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dog-duotone](https://api.iconify.design/ph/dog-duotone.svg?height=32&color=%23888888)
   static const dog = PhosphorDuotoneIconData(
     IconData(
       0xe74a,
@@ -8103,7 +10123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![door-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-duotone.svg)
+  /// The `door` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `door` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![door-duotone](https://api.iconify.design/ph/door-duotone.svg?height=32&color=%23888888)
   static const door = PhosphorDuotoneIconData(
     IconData(
       0xe61c,
@@ -8119,7 +10143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![door-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/door-open-duotone.svg)
+  /// The `doorOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `doorOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![door-open-duotone](https://api.iconify.design/ph/door-open-duotone.svg?height=32&color=%23888888)
   static const doorOpen = PhosphorDuotoneIconData(
     IconData(
       0xe7e6,
@@ -8135,7 +10163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-duotone.svg)
+  /// The `dot` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dot` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dot-duotone](https://api.iconify.design/ph/dot-duotone.svg?height=32&color=%23888888)
   static const dot = PhosphorDuotoneIconData(
     IconData(
       0xecde,
@@ -8151,7 +10183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dot-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dot-outline-duotone.svg)
+  /// The `dotOutline` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotOutline` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dot-outline-duotone](https://api.iconify.design/ph/dot-outline-duotone.svg?height=32&color=%23888888)
   static const dotOutline = PhosphorDuotoneIconData(
     IconData(
       0xece0,
@@ -8167,7 +10203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-nine-duotone.svg)
+  /// The `dotsNine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsNine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-nine-duotone](https://api.iconify.design/ph/dots-nine-duotone.svg?height=32&color=%23888888)
   static const dotsNine = PhosphorDuotoneIconData(
     IconData(
       0xe1fc,
@@ -8183,7 +10223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-duotone.svg)
+  /// The `dotsSix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsSix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-six-duotone](https://api.iconify.design/ph/dots-six-duotone.svg?height=32&color=%23888888)
   static const dotsSix = PhosphorDuotoneIconData(
     IconData(
       0xe794,
@@ -8199,7 +10243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-six-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-six-vertical-duotone.svg)
+  /// The `dotsSixVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsSixVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-six-vertical-duotone](https://api.iconify.design/ph/dots-six-vertical-duotone.svg?height=32&color=%23888888)
   static const dotsSixVertical = PhosphorDuotoneIconData(
     IconData(
       0xeae2,
@@ -8215,7 +10263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-duotone.svg)
+  /// The `dotsThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-three-duotone](https://api.iconify.design/ph/dots-three-duotone.svg?height=32&color=%23888888)
   static const dotsThree = PhosphorDuotoneIconData(
     IconData(
       0xe1fe,
@@ -8231,7 +10283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-three-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-duotone.svg)
+  /// The `dotsThreeCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsThreeCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-three-circle-duotone](https://api.iconify.design/ph/dots-three-circle-duotone.svg?height=32&color=%23888888)
   static const dotsThreeCircle = PhosphorDuotoneIconData(
     IconData(
       0xe200,
@@ -8247,7 +10303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-three-circle-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-circle-vertical-duotone.svg)
+  /// The `dotsThreeCircleVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsThreeCircleVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-three-circle-vertical-duotone](https://api.iconify.design/ph/dots-three-circle-vertical-duotone.svg?height=32&color=%23888888)
   static const dotsThreeCircleVertical = PhosphorDuotoneIconData(
     IconData(
       0xe202,
@@ -8263,7 +10323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-three-outline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-duotone.svg)
+  /// The `dotsThreeOutline` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsThreeOutline` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-three-outline-duotone](https://api.iconify.design/ph/dots-three-outline-duotone.svg?height=32&color=%23888888)
   static const dotsThreeOutline = PhosphorDuotoneIconData(
     IconData(
       0xe204,
@@ -8279,7 +10343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-three-outline-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-outline-vertical-duotone.svg)
+  /// The `dotsThreeOutlineVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-three-outline-vertical-duotone](https://api.iconify.design/ph/dots-three-outline-vertical-duotone.svg?height=32&color=%23888888)
   static const dotsThreeOutlineVertical = PhosphorDuotoneIconData(
     IconData(
       0xe206,
@@ -8295,7 +10363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dots-three-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dots-three-vertical-duotone.svg)
+  /// The `dotsThreeVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dotsThreeVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dots-three-vertical-duotone](https://api.iconify.design/ph/dots-three-vertical-duotone.svg?height=32&color=%23888888)
   static const dotsThreeVertical = PhosphorDuotoneIconData(
     IconData(
       0xe208,
@@ -8311,7 +10383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![download-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-duotone.svg)
+  /// The `download` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `download` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![download-duotone](https://api.iconify.design/ph/download-duotone.svg?height=32&color=%23888888)
   static const download = PhosphorDuotoneIconData(
     IconData(
       0xe20a,
@@ -8327,7 +10403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![download-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/download-simple-duotone.svg)
+  /// The `downloadSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `downloadSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![download-simple-duotone](https://api.iconify.design/ph/download-simple-duotone.svg?height=32&color=%23888888)
   static const downloadSimple = PhosphorDuotoneIconData(
     IconData(
       0xe20c,
@@ -8343,7 +10423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dress-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dress-duotone.svg)
+  /// The `dress` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dress` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dress-duotone](https://api.iconify.design/ph/dress-duotone.svg?height=32&color=%23888888)
   static const dress = PhosphorDuotoneIconData(
     IconData(
       0xea7e,
@@ -8359,7 +10443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dresser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dresser-duotone.svg)
+  /// The `dresser` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dresser` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dresser-duotone](https://api.iconify.design/ph/dresser-duotone.svg?height=32&color=%23888888)
   static const dresser = PhosphorDuotoneIconData(
     IconData(
       0xe94e,
@@ -8375,7 +10463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dribbble-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dribbble-logo-duotone.svg)
+  /// The `dribbbleLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dribbbleLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dribbble-logo-duotone](https://api.iconify.design/ph/dribbble-logo-duotone.svg?height=32&color=%23888888)
   static const dribbbleLogo = PhosphorDuotoneIconData(
     IconData(
       0xe20e,
@@ -8391,7 +10483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![drone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drone-duotone.svg)
+  /// The `drone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `drone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![drone-duotone](https://api.iconify.design/ph/drone-duotone.svg?height=32&color=%23888888)
   static const drone = PhosphorDuotoneIconData(
     IconData(
       0xed74,
@@ -8407,7 +10503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![drop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-duotone.svg)
+  /// The `drop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `drop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![drop-duotone](https://api.iconify.design/ph/drop-duotone.svg?height=32&color=%23888888)
   static const drop = PhosphorDuotoneIconData(
     IconData(
       0xe210,
@@ -8423,7 +10523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![drop-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-duotone.svg)
+  /// The `dropHalf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dropHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![drop-half-duotone](https://api.iconify.design/ph/drop-half-duotone.svg?height=32&color=%23888888)
   static const dropHalf = PhosphorDuotoneIconData(
     IconData(
       0xe566,
@@ -8439,7 +10543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![drop-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-half-bottom-duotone.svg)
+  /// The `dropHalfBottom` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dropHalfBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![drop-half-bottom-duotone](https://api.iconify.design/ph/drop-half-bottom-duotone.svg?height=32&color=%23888888)
   static const dropHalfBottom = PhosphorDuotoneIconData(
     IconData(
       0xeb40,
@@ -8455,7 +10563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![drop-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-simple-duotone.svg)
+  /// The `dropSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dropSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![drop-simple-duotone](https://api.iconify.design/ph/drop-simple-duotone.svg?height=32&color=%23888888)
   static const dropSimple = PhosphorDuotoneIconData(
     IconData(
       0xee32,
@@ -8471,7 +10583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![drop-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/drop-slash-duotone.svg)
+  /// The `dropSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dropSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![drop-slash-duotone](https://api.iconify.design/ph/drop-slash-duotone.svg?height=32&color=%23888888)
   static const dropSlash = PhosphorDuotoneIconData(
     IconData(
       0xe954,
@@ -8487,7 +10603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![dropbox-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/dropbox-logo-duotone.svg)
+  /// The `dropboxLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `dropboxLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![dropbox-logo-duotone](https://api.iconify.design/ph/dropbox-logo-duotone.svg?height=32&color=%23888888)
   static const dropboxLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7d0,
@@ -8503,7 +10623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-duotone.svg)
+  /// The `ear` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ear` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ear-duotone](https://api.iconify.design/ph/ear-duotone.svg?height=32&color=%23888888)
   static const ear = PhosphorDuotoneIconData(
     IconData(
       0xe70c,
@@ -8519,7 +10643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ear-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ear-slash-duotone.svg)
+  /// The `earSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `earSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ear-slash-duotone](https://api.iconify.design/ph/ear-slash-duotone.svg?height=32&color=%23888888)
   static const earSlash = PhosphorDuotoneIconData(
     IconData(
       0xe70e,
@@ -8535,7 +10663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![egg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-duotone.svg)
+  /// The `egg` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `egg` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![egg-duotone](https://api.iconify.design/ph/egg-duotone.svg?height=32&color=%23888888)
   static const egg = PhosphorDuotoneIconData(
     IconData(
       0xe812,
@@ -8551,7 +10683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![egg-crack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/egg-crack-duotone.svg)
+  /// The `eggCrack` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eggCrack` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![egg-crack-duotone](https://api.iconify.design/ph/egg-crack-duotone.svg?height=32&color=%23888888)
   static const eggCrack = PhosphorDuotoneIconData(
     IconData(
       0xeb64,
@@ -8567,7 +10703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eject-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-duotone.svg)
+  /// The `eject` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eject` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eject-duotone](https://api.iconify.design/ph/eject-duotone.svg?height=32&color=%23888888)
   static const eject = PhosphorDuotoneIconData(
     IconData(
       0xe212,
@@ -8583,7 +10723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eject-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eject-simple-duotone.svg)
+  /// The `ejectSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ejectSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eject-simple-duotone](https://api.iconify.design/ph/eject-simple-duotone.svg?height=32&color=%23888888)
   static const ejectSimple = PhosphorDuotoneIconData(
     IconData(
       0xe6ae,
@@ -8599,7 +10743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![elevator-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/elevator-duotone.svg)
+  /// The `elevator` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `elevator` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![elevator-duotone](https://api.iconify.design/ph/elevator-duotone.svg?height=32&color=%23888888)
   static const elevator = PhosphorDuotoneIconData(
     IconData(
       0xecc0,
@@ -8615,7 +10763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![empty-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/empty-duotone.svg)
+  /// The `empty` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `empty` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![empty-duotone](https://api.iconify.design/ph/empty-duotone.svg?height=32&color=%23888888)
   static const empty = PhosphorDuotoneIconData(
     IconData(
       0xedbc,
@@ -8631,7 +10783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![engine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/engine-duotone.svg)
+  /// The `engine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `engine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![engine-duotone](https://api.iconify.design/ph/engine-duotone.svg?height=32&color=%23888888)
   static const engine = PhosphorDuotoneIconData(
     IconData(
       0xea80,
@@ -8647,7 +10803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![envelope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-duotone.svg)
+  /// The `envelope` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `envelope` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![envelope-duotone](https://api.iconify.design/ph/envelope-duotone.svg?height=32&color=%23888888)
   static const envelope = PhosphorDuotoneIconData(
     IconData(
       0xe214,
@@ -8663,7 +10823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![envelope-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-open-duotone.svg)
+  /// The `envelopeOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `envelopeOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![envelope-open-duotone](https://api.iconify.design/ph/envelope-open-duotone.svg?height=32&color=%23888888)
   static const envelopeOpen = PhosphorDuotoneIconData(
     IconData(
       0xe216,
@@ -8679,7 +10843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![envelope-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-duotone.svg)
+  /// The `envelopeSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `envelopeSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![envelope-simple-duotone](https://api.iconify.design/ph/envelope-simple-duotone.svg?height=32&color=%23888888)
   static const envelopeSimple = PhosphorDuotoneIconData(
     IconData(
       0xe218,
@@ -8695,7 +10863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![envelope-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/envelope-simple-open-duotone.svg)
+  /// The `envelopeSimpleOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `envelopeSimpleOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![envelope-simple-open-duotone](https://api.iconify.design/ph/envelope-simple-open-duotone.svg?height=32&color=%23888888)
   static const envelopeSimpleOpen = PhosphorDuotoneIconData(
     IconData(
       0xe21a,
@@ -8711,7 +10883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![equalizer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equalizer-duotone.svg)
+  /// The `equalizer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `equalizer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![equalizer-duotone](https://api.iconify.design/ph/equalizer-duotone.svg?height=32&color=%23888888)
   static const equalizer = PhosphorDuotoneIconData(
     IconData(
       0xebbc,
@@ -8727,7 +10903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/equals-duotone.svg)
+  /// The `equals` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `equals` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![equals-duotone](https://api.iconify.design/ph/equals-duotone.svg?height=32&color=%23888888)
   static const equals = PhosphorDuotoneIconData(
     IconData(
       0xe21c,
@@ -8743,7 +10923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eraser-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eraser-duotone.svg)
+  /// The `eraser` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eraser` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eraser-duotone](https://api.iconify.design/ph/eraser-duotone.svg?height=32&color=%23888888)
   static const eraser = PhosphorDuotoneIconData(
     IconData(
       0xe21e,
@@ -8759,7 +10943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![escalator-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-down-duotone.svg)
+  /// The `escalatorDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `escalatorDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![escalator-down-duotone](https://api.iconify.design/ph/escalator-down-duotone.svg?height=32&color=%23888888)
   static const escalatorDown = PhosphorDuotoneIconData(
     IconData(
       0xecba,
@@ -8775,7 +10963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![escalator-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/escalator-up-duotone.svg)
+  /// The `escalatorUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `escalatorUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![escalator-up-duotone](https://api.iconify.design/ph/escalator-up-duotone.svg?height=32&color=%23888888)
   static const escalatorUp = PhosphorDuotoneIconData(
     IconData(
       0xecbc,
@@ -8791,7 +10983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![exam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exam-duotone.svg)
+  /// The `exam` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `exam` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![exam-duotone](https://api.iconify.design/ph/exam-duotone.svg?height=32&color=%23888888)
   static const exam = PhosphorDuotoneIconData(
     IconData(
       0xe742,
@@ -8807,7 +11003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![exclamation-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclamation-mark-duotone.svg)
+  /// The `exclamationMark` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `exclamationMark` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![exclamation-mark-duotone](https://api.iconify.design/ph/exclamation-mark-duotone.svg?height=32&color=%23888888)
   static const exclamationMark = PhosphorDuotoneIconData(
     IconData(
       0xee44,
@@ -8823,7 +11023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![exclude-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-duotone.svg)
+  /// The `exclude` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `exclude` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![exclude-duotone](https://api.iconify.design/ph/exclude-duotone.svg?height=32&color=%23888888)
   static const exclude = PhosphorDuotoneIconData(
     IconData(
       0xe882,
@@ -8839,7 +11043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![exclude-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/exclude-square-duotone.svg)
+  /// The `excludeSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `excludeSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![exclude-square-duotone](https://api.iconify.design/ph/exclude-square-duotone.svg?height=32&color=%23888888)
   static const excludeSquare = PhosphorDuotoneIconData(
     IconData(
       0xe880,
@@ -8855,7 +11063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![export-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/export-duotone.svg)
+  /// The `export` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `export` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![export-duotone](https://api.iconify.design/ph/export-duotone.svg?height=32&color=%23888888)
   static const export = PhosphorDuotoneIconData(
     IconData(
       0xeaf0,
@@ -8871,7 +11083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-duotone.svg)
+  /// The `eye` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eye` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eye-duotone](https://api.iconify.design/ph/eye-duotone.svg?height=32&color=%23888888)
   static const eye = PhosphorDuotoneIconData(
     IconData(
       0xe220,
@@ -8887,7 +11103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eye-closed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-closed-duotone.svg)
+  /// The `eyeClosed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eyeClosed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eye-closed-duotone](https://api.iconify.design/ph/eye-closed-duotone.svg?height=32&color=%23888888)
   static const eyeClosed = PhosphorDuotoneIconData(
     IconData(
       0xe222,
@@ -8903,7 +11123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eye-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eye-slash-duotone.svg)
+  /// The `eyeSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eyeSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eye-slash-duotone](https://api.iconify.design/ph/eye-slash-duotone.svg?height=32&color=%23888888)
   static const eyeSlash = PhosphorDuotoneIconData(
     IconData(
       0xe224,
@@ -8919,7 +11143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eyedropper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-duotone.svg)
+  /// The `eyedropper` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eyedropper` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eyedropper-duotone](https://api.iconify.design/ph/eyedropper-duotone.svg?height=32&color=%23888888)
   static const eyedropper = PhosphorDuotoneIconData(
     IconData(
       0xe568,
@@ -8935,7 +11163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eyedropper-sample-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyedropper-sample-duotone.svg)
+  /// The `eyedropperSample` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eyedropperSample` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eyedropper-sample-duotone](https://api.iconify.design/ph/eyedropper-sample-duotone.svg?height=32&color=%23888888)
   static const eyedropperSample = PhosphorDuotoneIconData(
     IconData(
       0xeac4,
@@ -8951,7 +11183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eyeglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyeglasses-duotone.svg)
+  /// The `eyeglasses` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eyeglasses` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eyeglasses-duotone](https://api.iconify.design/ph/eyeglasses-duotone.svg?height=32&color=%23888888)
   static const eyeglasses = PhosphorDuotoneIconData(
     IconData(
       0xe7ba,
@@ -8967,7 +11203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/eyes-duotone.svg)
+  /// The `eyes` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `eyes` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![eyes-duotone](https://api.iconify.design/ph/eyes-duotone.svg?height=32&color=%23888888)
   static const eyes = PhosphorDuotoneIconData(
     IconData(
       0xee5c,
@@ -8983,7 +11223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![face-mask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/face-mask-duotone.svg)
+  /// The `faceMask` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `faceMask` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![face-mask-duotone](https://api.iconify.design/ph/face-mask-duotone.svg?height=32&color=%23888888)
   static const faceMask = PhosphorDuotoneIconData(
     IconData(
       0xe56a,
@@ -8999,7 +11243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![facebook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/facebook-logo-duotone.svg)
+  /// The `facebookLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `facebookLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![facebook-logo-duotone](https://api.iconify.design/ph/facebook-logo-duotone.svg?height=32&color=%23888888)
   static const facebookLogo = PhosphorDuotoneIconData(
     IconData(
       0xe226,
@@ -9015,7 +11263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![factory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/factory-duotone.svg)
+  /// The `factory` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `factory` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![factory-duotone](https://api.iconify.design/ph/factory-duotone.svg?height=32&color=%23888888)
   static const factory = PhosphorDuotoneIconData(
     IconData(
       0xe760,
@@ -9031,7 +11283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![faders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-duotone.svg)
+  /// The `faders` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `faders` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![faders-duotone](https://api.iconify.design/ph/faders-duotone.svg?height=32&color=%23888888)
   static const faders = PhosphorDuotoneIconData(
     IconData(
       0xe228,
@@ -9047,7 +11303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![faders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/faders-horizontal-duotone.svg)
+  /// The `fadersHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fadersHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![faders-horizontal-duotone](https://api.iconify.design/ph/faders-horizontal-duotone.svg?height=32&color=%23888888)
   static const fadersHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe22a,
@@ -9063,7 +11323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fallout-shelter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fallout-shelter-duotone.svg)
+  /// The `falloutShelter` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `falloutShelter` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fallout-shelter-duotone](https://api.iconify.design/ph/fallout-shelter-duotone.svg?height=32&color=%23888888)
   static const falloutShelter = PhosphorDuotoneIconData(
     IconData(
       0xe9de,
@@ -9079,7 +11343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fan-duotone.svg)
+  /// The `fan` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fan` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fan-duotone](https://api.iconify.design/ph/fan-duotone.svg?height=32&color=%23888888)
   static const fan = PhosphorDuotoneIconData(
     IconData(
       0xe9f2,
@@ -9095,7 +11363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![farm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/farm-duotone.svg)
+  /// The `farm` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `farm` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![farm-duotone](https://api.iconify.design/ph/farm-duotone.svg?height=32&color=%23888888)
   static const farm = PhosphorDuotoneIconData(
     IconData(
       0xec70,
@@ -9111,7 +11383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fast-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-duotone.svg)
+  /// The `fastForward` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fastForward` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fast-forward-duotone](https://api.iconify.design/ph/fast-forward-duotone.svg?height=32&color=%23888888)
   static const fastForward = PhosphorDuotoneIconData(
     IconData(
       0xe6a6,
@@ -9127,7 +11403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fast-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fast-forward-circle-duotone.svg)
+  /// The `fastForwardCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fastForwardCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fast-forward-circle-duotone](https://api.iconify.design/ph/fast-forward-circle-duotone.svg?height=32&color=%23888888)
   static const fastForwardCircle = PhosphorDuotoneIconData(
     IconData(
       0xe22c,
@@ -9143,7 +11423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![feather-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/feather-duotone.svg)
+  /// The `feather` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `feather` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![feather-duotone](https://api.iconify.design/ph/feather-duotone.svg?height=32&color=%23888888)
   static const feather = PhosphorDuotoneIconData(
     IconData(
       0xe9c0,
@@ -9159,7 +11443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fediverse-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fediverse-logo-duotone.svg)
+  /// The `fediverseLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fediverseLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fediverse-logo-duotone](https://api.iconify.design/ph/fediverse-logo-duotone.svg?height=32&color=%23888888)
   static const fediverseLogo = PhosphorDuotoneIconData(
     IconData(
       0xed66,
@@ -9175,7 +11463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![figma-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/figma-logo-duotone.svg)
+  /// The `figmaLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `figmaLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![figma-logo-duotone](https://api.iconify.design/ph/figma-logo-duotone.svg?height=32&color=%23888888)
   static const figmaLogo = PhosphorDuotoneIconData(
     IconData(
       0xe22e,
@@ -9191,7 +11483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-duotone.svg)
+  /// The `file` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `file` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-duotone](https://api.iconify.design/ph/file-duotone.svg?height=32&color=%23888888)
   static const file = PhosphorDuotoneIconData(
     IconData(
       0xe230,
@@ -9207,7 +11503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-archive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-archive-duotone.svg)
+  /// The `fileArchive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileArchive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-archive-duotone](https://api.iconify.design/ph/file-archive-duotone.svg?height=32&color=%23888888)
   static const fileArchive = PhosphorDuotoneIconData(
     IconData(
       0xeb2a,
@@ -9223,7 +11523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-down-duotone.svg)
+  /// The `fileArrowDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-arrow-down-duotone](https://api.iconify.design/ph/file-arrow-down-duotone.svg?height=32&color=%23888888)
   static const fileArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe232,
@@ -9239,7 +11543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-arrow-up-duotone.svg)
+  /// The `fileArrowUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-arrow-up-duotone](https://api.iconify.design/ph/file-arrow-up-duotone.svg?height=32&color=%23888888)
   static const fileArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe61e,
@@ -9255,7 +11563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-audio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-audio-duotone.svg)
+  /// The `fileAudio` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileAudio` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-audio-duotone](https://api.iconify.design/ph/file-audio-duotone.svg?height=32&color=%23888888)
   static const fileAudio = PhosphorDuotoneIconData(
     IconData(
       0xea20,
@@ -9271,7 +11583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-c-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-duotone.svg)
+  /// The `fileC` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileC` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-c-duotone](https://api.iconify.design/ph/file-c-duotone.svg?height=32&color=%23888888)
   static const fileC = PhosphorDuotoneIconData(
     IconData(
       0xeb32,
@@ -9287,7 +11603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-c-sharp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-c-sharp-duotone.svg)
+  /// The `fileCSharp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileCSharp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-c-sharp-duotone](https://api.iconify.design/ph/file-c-sharp-duotone.svg?height=32&color=%23888888)
   static const fileCSharp = PhosphorDuotoneIconData(
     IconData(
       0xeb30,
@@ -9303,7 +11623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cloud-duotone.svg)
+  /// The `fileCloud` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileCloud` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-cloud-duotone](https://api.iconify.design/ph/file-cloud-duotone.svg?height=32&color=%23888888)
   static const fileCloud = PhosphorDuotoneIconData(
     IconData(
       0xe95e,
@@ -9319,7 +11643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-code-duotone.svg)
+  /// The `fileCode` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileCode` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-code-duotone](https://api.iconify.design/ph/file-code-duotone.svg?height=32&color=%23888888)
   static const fileCode = PhosphorDuotoneIconData(
     IconData(
       0xe914,
@@ -9335,7 +11663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-cpp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-cpp-duotone.svg)
+  /// The `fileCpp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileCpp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-cpp-duotone](https://api.iconify.design/ph/file-cpp-duotone.svg?height=32&color=%23888888)
   static const fileCpp = PhosphorDuotoneIconData(
     IconData(
       0xeb2e,
@@ -9351,7 +11683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-css-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-css-duotone.svg)
+  /// The `fileCss` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileCss` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-css-duotone](https://api.iconify.design/ph/file-css-duotone.svg?height=32&color=%23888888)
   static const fileCss = PhosphorDuotoneIconData(
     IconData(
       0xeb34,
@@ -9367,7 +11703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-csv-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-csv-duotone.svg)
+  /// The `fileCsv` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileCsv` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-csv-duotone](https://api.iconify.design/ph/file-csv-duotone.svg?height=32&color=%23888888)
   static const fileCsv = PhosphorDuotoneIconData(
     IconData(
       0xeb1c,
@@ -9383,7 +11723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-dashed-duotone.svg)
+  /// The `fileDashed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-dashed-duotone](https://api.iconify.design/ph/file-dashed-duotone.svg?height=32&color=%23888888)
   static const fileDashed = PhosphorDuotoneIconData(
     IconData(
       0xe704,
@@ -9399,7 +11743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-doc-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-doc-duotone.svg)
+  /// The `fileDoc` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileDoc` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-doc-duotone](https://api.iconify.design/ph/file-doc-duotone.svg?height=32&color=%23888888)
   static const fileDoc = PhosphorDuotoneIconData(
     IconData(
       0xeb1e,
@@ -9415,7 +11763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-dotted-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-dotted-duotone.svg)
+  /// The `fileDotted` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileDotted` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-dotted-duotone](https://api.iconify.design/ph/file-dashed-duotone.svg?height=32&color=%23888888)
   static const fileDotted = PhosphorDuotoneIconData(
     IconData(
       0xe704,
@@ -9431,7 +11783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-html-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-html-duotone.svg)
+  /// The `fileHtml` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileHtml` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-html-duotone](https://api.iconify.design/ph/file-html-duotone.svg?height=32&color=%23888888)
   static const fileHtml = PhosphorDuotoneIconData(
     IconData(
       0xeb38,
@@ -9447,7 +11803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-image-duotone.svg)
+  /// The `fileImage` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileImage` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-image-duotone](https://api.iconify.design/ph/file-image-duotone.svg?height=32&color=%23888888)
   static const fileImage = PhosphorDuotoneIconData(
     IconData(
       0xea24,
@@ -9463,7 +11823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-ini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ini-duotone.svg)
+  /// The `fileIni` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileIni` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-ini-duotone](https://api.iconify.design/ph/file-ini-duotone.svg?height=32&color=%23888888)
   static const fileIni = PhosphorDuotoneIconData(
     IconData(
       0xeb33,
@@ -9479,7 +11843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-jpg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jpg-duotone.svg)
+  /// The `fileJpg` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileJpg` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-jpg-duotone](https://api.iconify.design/ph/file-jpg-duotone.svg?height=32&color=%23888888)
   static const fileJpg = PhosphorDuotoneIconData(
     IconData(
       0xeb1a,
@@ -9495,7 +11863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-js-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-js-duotone.svg)
+  /// The `fileJs` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileJs` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-js-duotone](https://api.iconify.design/ph/file-js-duotone.svg?height=32&color=%23888888)
   static const fileJs = PhosphorDuotoneIconData(
     IconData(
       0xeb24,
@@ -9511,7 +11883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-jsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-jsx-duotone.svg)
+  /// The `fileJsx` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileJsx` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-jsx-duotone](https://api.iconify.design/ph/file-jsx-duotone.svg?height=32&color=%23888888)
   static const fileJsx = PhosphorDuotoneIconData(
     IconData(
       0xeb3a,
@@ -9527,7 +11903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-lock-duotone.svg)
+  /// The `fileLock` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileLock` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-lock-duotone](https://api.iconify.design/ph/file-lock-duotone.svg?height=32&color=%23888888)
   static const fileLock = PhosphorDuotoneIconData(
     IconData(
       0xe95c,
@@ -9543,7 +11923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-magnifying-glass-duotone.svg)
+  /// The `fileMagnifyingGlass` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileMagnifyingGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-magnifying-glass-duotone](https://api.iconify.design/ph/file-magnifying-glass-duotone.svg?height=32&color=%23888888)
   static const fileMagnifyingGlass = PhosphorDuotoneIconData(
     IconData(
       0xe238,
@@ -9559,7 +11943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-md-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-md-duotone.svg)
+  /// The `fileMd` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileMd` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-md-duotone](https://api.iconify.design/ph/file-md-duotone.svg?height=32&color=%23888888)
   static const fileMd = PhosphorDuotoneIconData(
     IconData(
       0xed50,
@@ -9575,7 +11963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-minus-duotone.svg)
+  /// The `fileMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-minus-duotone](https://api.iconify.design/ph/file-minus-duotone.svg?height=32&color=%23888888)
   static const fileMinus = PhosphorDuotoneIconData(
     IconData(
       0xe234,
@@ -9591,7 +11983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-pdf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-pdf-duotone.svg)
+  /// The `filePdf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filePdf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-pdf-duotone](https://api.iconify.design/ph/file-pdf-duotone.svg?height=32&color=%23888888)
   static const filePdf = PhosphorDuotoneIconData(
     IconData(
       0xe702,
@@ -9607,7 +12003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-plus-duotone.svg)
+  /// The `filePlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-plus-duotone](https://api.iconify.design/ph/file-plus-duotone.svg?height=32&color=%23888888)
   static const filePlus = PhosphorDuotoneIconData(
     IconData(
       0xe236,
@@ -9623,7 +12023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-png-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-png-duotone.svg)
+  /// The `filePng` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filePng` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-png-duotone](https://api.iconify.design/ph/file-png-duotone.svg?height=32&color=%23888888)
   static const filePng = PhosphorDuotoneIconData(
     IconData(
       0xeb18,
@@ -9639,7 +12043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-ppt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ppt-duotone.svg)
+  /// The `filePpt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filePpt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-ppt-duotone](https://api.iconify.design/ph/file-ppt-duotone.svg?height=32&color=%23888888)
   static const filePpt = PhosphorDuotoneIconData(
     IconData(
       0xeb20,
@@ -9655,7 +12063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-py-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-py-duotone.svg)
+  /// The `filePy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filePy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-py-duotone](https://api.iconify.design/ph/file-py-duotone.svg?height=32&color=%23888888)
   static const filePy = PhosphorDuotoneIconData(
     IconData(
       0xeb2c,
@@ -9671,7 +12083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-rs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-rs-duotone.svg)
+  /// The `fileRs` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileRs` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-rs-duotone](https://api.iconify.design/ph/file-rs-duotone.svg?height=32&color=%23888888)
   static const fileRs = PhosphorDuotoneIconData(
     IconData(
       0xeb28,
@@ -9687,7 +12103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-search-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-search-duotone.svg)
+  /// The `fileSearch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileSearch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-search-duotone](https://api.iconify.design/ph/file-magnifying-glass-duotone.svg?height=32&color=%23888888)
   static const fileSearch = PhosphorDuotoneIconData(
     IconData(
       0xe238,
@@ -9703,7 +12123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-sql-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-sql-duotone.svg)
+  /// The `fileSql` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileSql` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-sql-duotone](https://api.iconify.design/ph/file-sql-duotone.svg?height=32&color=%23888888)
   static const fileSql = PhosphorDuotoneIconData(
     IconData(
       0xed4e,
@@ -9719,7 +12143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-svg-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-svg-duotone.svg)
+  /// The `fileSvg` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileSvg` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-svg-duotone](https://api.iconify.design/ph/file-svg-duotone.svg?height=32&color=%23888888)
   static const fileSvg = PhosphorDuotoneIconData(
     IconData(
       0xed08,
@@ -9735,7 +12163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-text-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-text-duotone.svg)
+  /// The `fileText` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileText` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-text-duotone](https://api.iconify.design/ph/file-text-duotone.svg?height=32&color=%23888888)
   static const fileText = PhosphorDuotoneIconData(
     IconData(
       0xe23a,
@@ -9751,7 +12183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-ts-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-ts-duotone.svg)
+  /// The `fileTs` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileTs` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-ts-duotone](https://api.iconify.design/ph/file-ts-duotone.svg?height=32&color=%23888888)
   static const fileTs = PhosphorDuotoneIconData(
     IconData(
       0xeb26,
@@ -9767,7 +12203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-tsx-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-tsx-duotone.svg)
+  /// The `fileTsx` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileTsx` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-tsx-duotone](https://api.iconify.design/ph/file-tsx-duotone.svg?height=32&color=%23888888)
   static const fileTsx = PhosphorDuotoneIconData(
     IconData(
       0xeb3c,
@@ -9783,7 +12223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-txt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-txt-duotone.svg)
+  /// The `fileTxt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileTxt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-txt-duotone](https://api.iconify.design/ph/file-txt-duotone.svg?height=32&color=%23888888)
   static const fileTxt = PhosphorDuotoneIconData(
     IconData(
       0xeb35,
@@ -9799,7 +12243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-video-duotone.svg)
+  /// The `fileVideo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileVideo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-video-duotone](https://api.iconify.design/ph/file-video-duotone.svg?height=32&color=%23888888)
   static const fileVideo = PhosphorDuotoneIconData(
     IconData(
       0xea22,
@@ -9815,7 +12263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-vue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-vue-duotone.svg)
+  /// The `fileVue` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileVue` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-vue-duotone](https://api.iconify.design/ph/file-vue-duotone.svg?height=32&color=%23888888)
   static const fileVue = PhosphorDuotoneIconData(
     IconData(
       0xeb3e,
@@ -9831,7 +12283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-x-duotone.svg)
+  /// The `fileX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-x-duotone](https://api.iconify.design/ph/file-x-duotone.svg?height=32&color=%23888888)
   static const fileX = PhosphorDuotoneIconData(
     IconData(
       0xe23c,
@@ -9847,7 +12303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-xls-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-xls-duotone.svg)
+  /// The `fileXls` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileXls` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-xls-duotone](https://api.iconify.design/ph/file-xls-duotone.svg?height=32&color=%23888888)
   static const fileXls = PhosphorDuotoneIconData(
     IconData(
       0xeb22,
@@ -9863,7 +12323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![file-zip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/file-zip-duotone.svg)
+  /// The `fileZip` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fileZip` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![file-zip-duotone](https://api.iconify.design/ph/file-zip-duotone.svg?height=32&color=%23888888)
   static const fileZip = PhosphorDuotoneIconData(
     IconData(
       0xe958,
@@ -9879,7 +12343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![files-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/files-duotone.svg)
+  /// The `files` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `files` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![files-duotone](https://api.iconify.design/ph/files-duotone.svg?height=32&color=%23888888)
   static const files = PhosphorDuotoneIconData(
     IconData(
       0xe710,
@@ -9895,7 +12363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![film-reel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-reel-duotone.svg)
+  /// The `filmReel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filmReel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![film-reel-duotone](https://api.iconify.design/ph/film-reel-duotone.svg?height=32&color=%23888888)
   static const filmReel = PhosphorDuotoneIconData(
     IconData(
       0xe8c0,
@@ -9911,7 +12383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![film-script-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-script-duotone.svg)
+  /// The `filmScript` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filmScript` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![film-script-duotone](https://api.iconify.design/ph/film-script-duotone.svg?height=32&color=%23888888)
   static const filmScript = PhosphorDuotoneIconData(
     IconData(
       0xeb50,
@@ -9927,7 +12403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![film-slate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-slate-duotone.svg)
+  /// The `filmSlate` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filmSlate` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![film-slate-duotone](https://api.iconify.design/ph/film-slate-duotone.svg?height=32&color=%23888888)
   static const filmSlate = PhosphorDuotoneIconData(
     IconData(
       0xe8c2,
@@ -9943,7 +12423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![film-strip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/film-strip-duotone.svg)
+  /// The `filmStrip` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `filmStrip` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![film-strip-duotone](https://api.iconify.design/ph/film-strip-duotone.svg?height=32&color=%23888888)
   static const filmStrip = PhosphorDuotoneIconData(
     IconData(
       0xe792,
@@ -9959,7 +12443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fingerprint-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-duotone.svg)
+  /// The `fingerprint` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fingerprint` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fingerprint-duotone](https://api.iconify.design/ph/fingerprint-duotone.svg?height=32&color=%23888888)
   static const fingerprint = PhosphorDuotoneIconData(
     IconData(
       0xe23e,
@@ -9975,7 +12463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fingerprint-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fingerprint-simple-duotone.svg)
+  /// The `fingerprintSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fingerprintSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fingerprint-simple-duotone](https://api.iconify.design/ph/fingerprint-simple-duotone.svg?height=32&color=%23888888)
   static const fingerprintSimple = PhosphorDuotoneIconData(
     IconData(
       0xe240,
@@ -9991,7 +12483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![finn-the-human-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/finn-the-human-duotone.svg)
+  /// The `finnTheHuman` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `finnTheHuman` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![finn-the-human-duotone](https://api.iconify.design/ph/finn-the-human-duotone.svg?height=32&color=%23888888)
   static const finnTheHuman = PhosphorDuotoneIconData(
     IconData(
       0xe56c,
@@ -10007,7 +12503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-duotone.svg)
+  /// The `fire` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fire` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fire-duotone](https://api.iconify.design/ph/fire-duotone.svg?height=32&color=%23888888)
   static const fire = PhosphorDuotoneIconData(
     IconData(
       0xe242,
@@ -10023,7 +12523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fire-extinguisher-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-extinguisher-duotone.svg)
+  /// The `fireExtinguisher` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fireExtinguisher` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fire-extinguisher-duotone](https://api.iconify.design/ph/fire-extinguisher-duotone.svg?height=32&color=%23888888)
   static const fireExtinguisher = PhosphorDuotoneIconData(
     IconData(
       0xe9e8,
@@ -10039,7 +12543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fire-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-simple-duotone.svg)
+  /// The `fireSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fireSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fire-simple-duotone](https://api.iconify.design/ph/fire-simple-duotone.svg?height=32&color=%23888888)
   static const fireSimple = PhosphorDuotoneIconData(
     IconData(
       0xe620,
@@ -10055,7 +12563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fire-truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fire-truck-duotone.svg)
+  /// The `fireTruck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fireTruck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fire-truck-duotone](https://api.iconify.design/ph/fire-truck-duotone.svg?height=32&color=%23888888)
   static const fireTruck = PhosphorDuotoneIconData(
     IconData(
       0xe574,
@@ -10071,7 +12583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![first-aid-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-duotone.svg)
+  /// The `firstAid` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `firstAid` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![first-aid-duotone](https://api.iconify.design/ph/first-aid-duotone.svg?height=32&color=%23888888)
   static const firstAid = PhosphorDuotoneIconData(
     IconData(
       0xe56e,
@@ -10087,7 +12603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![first-aid-kit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/first-aid-kit-duotone.svg)
+  /// The `firstAidKit` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `firstAidKit` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![first-aid-kit-duotone](https://api.iconify.design/ph/first-aid-kit-duotone.svg?height=32&color=%23888888)
   static const firstAidKit = PhosphorDuotoneIconData(
     IconData(
       0xe570,
@@ -10103,7 +12623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fish-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-duotone.svg)
+  /// The `fish` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fish` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fish-duotone](https://api.iconify.design/ph/fish-duotone.svg?height=32&color=%23888888)
   static const fish = PhosphorDuotoneIconData(
     IconData(
       0xe728,
@@ -10119,7 +12643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fish-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fish-simple-duotone.svg)
+  /// The `fishSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fishSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fish-simple-duotone](https://api.iconify.design/ph/fish-simple-duotone.svg?height=32&color=%23888888)
   static const fishSimple = PhosphorDuotoneIconData(
     IconData(
       0xe72a,
@@ -10135,7 +12663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-duotone.svg)
+  /// The `flag` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flag` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flag-duotone](https://api.iconify.design/ph/flag-duotone.svg?height=32&color=%23888888)
   static const flag = PhosphorDuotoneIconData(
     IconData(
       0xe244,
@@ -10151,7 +12683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flag-banner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-duotone.svg)
+  /// The `flagBanner` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flagBanner` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flag-banner-duotone](https://api.iconify.design/ph/flag-banner-duotone.svg?height=32&color=%23888888)
   static const flagBanner = PhosphorDuotoneIconData(
     IconData(
       0xe622,
@@ -10167,7 +12703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flag-banner-fold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-banner-fold-duotone.svg)
+  /// The `flagBannerFold` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flagBannerFold` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flag-banner-fold-duotone](https://api.iconify.design/ph/flag-banner-fold-duotone.svg?height=32&color=%23888888)
   static const flagBannerFold = PhosphorDuotoneIconData(
     IconData(
       0xecf2,
@@ -10183,7 +12723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flag-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-checkered-duotone.svg)
+  /// The `flagCheckered` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flagCheckered` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flag-checkered-duotone](https://api.iconify.design/ph/flag-checkered-duotone.svg?height=32&color=%23888888)
   static const flagCheckered = PhosphorDuotoneIconData(
     IconData(
       0xea38,
@@ -10199,7 +12743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flag-pennant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flag-pennant-duotone.svg)
+  /// The `flagPennant` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flagPennant` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flag-pennant-duotone](https://api.iconify.design/ph/flag-pennant-duotone.svg?height=32&color=%23888888)
   static const flagPennant = PhosphorDuotoneIconData(
     IconData(
       0xecf0,
@@ -10215,7 +12763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flame-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flame-duotone.svg)
+  /// The `flame` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flame` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flame-duotone](https://api.iconify.design/ph/flame-duotone.svg?height=32&color=%23888888)
   static const flame = PhosphorDuotoneIconData(
     IconData(
       0xe624,
@@ -10231,7 +12783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flashlight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flashlight-duotone.svg)
+  /// The `flashlight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flashlight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flashlight-duotone](https://api.iconify.design/ph/flashlight-duotone.svg?height=32&color=%23888888)
   static const flashlight = PhosphorDuotoneIconData(
     IconData(
       0xe246,
@@ -10247,7 +12803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flask-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flask-duotone.svg)
+  /// The `flask` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flask` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flask-duotone](https://api.iconify.design/ph/flask-duotone.svg?height=32&color=%23888888)
   static const flask = PhosphorDuotoneIconData(
     IconData(
       0xe79e,
@@ -10263,7 +12823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-horizontal-duotone.svg)
+  /// The `flipHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flipHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flip-horizontal-duotone](https://api.iconify.design/ph/flip-horizontal-duotone.svg?height=32&color=%23888888)
   static const flipHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xed6a,
@@ -10279,7 +12843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flip-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flip-vertical-duotone.svg)
+  /// The `flipVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flipVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flip-vertical-duotone](https://api.iconify.design/ph/flip-vertical-duotone.svg?height=32&color=%23888888)
   static const flipVertical = PhosphorDuotoneIconData(
     IconData(
       0xed6c,
@@ -10295,7 +12863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![floppy-disk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-duotone.svg)
+  /// The `floppyDisk` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `floppyDisk` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![floppy-disk-duotone](https://api.iconify.design/ph/floppy-disk-duotone.svg?height=32&color=%23888888)
   static const floppyDisk = PhosphorDuotoneIconData(
     IconData(
       0xe248,
@@ -10311,7 +12883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![floppy-disk-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/floppy-disk-back-duotone.svg)
+  /// The `floppyDiskBack` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `floppyDiskBack` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![floppy-disk-back-duotone](https://api.iconify.design/ph/floppy-disk-back-duotone.svg?height=32&color=%23888888)
   static const floppyDiskBack = PhosphorDuotoneIconData(
     IconData(
       0xeaf4,
@@ -10327,7 +12903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flow-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flow-arrow-duotone.svg)
+  /// The `flowArrow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flowArrow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flow-arrow-duotone](https://api.iconify.design/ph/flow-arrow-duotone.svg?height=32&color=%23888888)
   static const flowArrow = PhosphorDuotoneIconData(
     IconData(
       0xe6ec,
@@ -10343,7 +12923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-duotone.svg)
+  /// The `flower` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flower` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flower-duotone](https://api.iconify.design/ph/flower-duotone.svg?height=32&color=%23888888)
   static const flower = PhosphorDuotoneIconData(
     IconData(
       0xe75e,
@@ -10359,7 +12943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flower-lotus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-lotus-duotone.svg)
+  /// The `flowerLotus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flowerLotus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flower-lotus-duotone](https://api.iconify.design/ph/flower-lotus-duotone.svg?height=32&color=%23888888)
   static const flowerLotus = PhosphorDuotoneIconData(
     IconData(
       0xe6cc,
@@ -10375,7 +12963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flower-tulip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flower-tulip-duotone.svg)
+  /// The `flowerTulip` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flowerTulip` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flower-tulip-duotone](https://api.iconify.design/ph/flower-tulip-duotone.svg?height=32&color=%23888888)
   static const flowerTulip = PhosphorDuotoneIconData(
     IconData(
       0xeacc,
@@ -10391,7 +12983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![flying-saucer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/flying-saucer-duotone.svg)
+  /// The `flyingSaucer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `flyingSaucer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![flying-saucer-duotone](https://api.iconify.design/ph/flying-saucer-duotone.svg?height=32&color=%23888888)
   static const flyingSaucer = PhosphorDuotoneIconData(
     IconData(
       0xeb4a,
@@ -10407,7 +13003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-duotone.svg)
+  /// The `folder` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folder` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-duotone](https://api.iconify.design/ph/folder-duotone.svg?height=32&color=%23888888)
   static const folder = PhosphorDuotoneIconData(
     IconData(
       0xe24a,
@@ -10423,7 +13023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-dashed-duotone.svg)
+  /// The `folderDashed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-dashed-duotone](https://api.iconify.design/ph/folder-dashed-duotone.svg?height=32&color=%23888888)
   static const folderDashed = PhosphorDuotoneIconData(
     IconData(
       0xe8f8,
@@ -10439,7 +13043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-dotted-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-dotted-duotone.svg)
+  /// The `folderDotted` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderDotted` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-dotted-duotone](https://api.iconify.design/ph/folder-dashed-duotone.svg?height=32&color=%23888888)
   static const folderDotted = PhosphorDuotoneIconData(
     IconData(
       0xe8f8,
@@ -10455,7 +13063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-lock-duotone.svg)
+  /// The `folderLock` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderLock` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-lock-duotone](https://api.iconify.design/ph/folder-lock-duotone.svg?height=32&color=%23888888)
   static const folderLock = PhosphorDuotoneIconData(
     IconData(
       0xea3c,
@@ -10471,7 +13083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-minus-duotone.svg)
+  /// The `folderMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-minus-duotone](https://api.iconify.design/ph/folder-minus-duotone.svg?height=32&color=%23888888)
   static const folderMinus = PhosphorDuotoneIconData(
     IconData(
       0xe254,
@@ -10487,7 +13103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-notch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-notch-duotone.svg)
+  /// The `folderNotch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderNotch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-notch-duotone](https://api.iconify.design/ph/folder-duotone.svg?height=32&color=%23888888)
   static const folderNotch = PhosphorDuotoneIconData(
     IconData(
       0xe24a,
@@ -10503,7 +13123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-notch-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-notch-minus-duotone.svg)
+  /// The `folderNotchMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderNotchMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-notch-minus-duotone](https://api.iconify.design/ph/folder-minus-duotone.svg?height=32&color=%23888888)
   static const folderNotchMinus = PhosphorDuotoneIconData(
     IconData(
       0xe254,
@@ -10519,7 +13143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-notch-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-notch-open-duotone.svg)
+  /// The `folderNotchOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderNotchOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-notch-open-duotone](https://api.iconify.design/ph/folder-open-duotone.svg?height=32&color=%23888888)
   static const folderNotchOpen = PhosphorDuotoneIconData(
     IconData(
       0xe256,
@@ -10535,7 +13163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-notch-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-notch-plus-duotone.svg)
+  /// The `folderNotchPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderNotchPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-notch-plus-duotone](https://api.iconify.design/ph/folder-plus-duotone.svg?height=32&color=%23888888)
   static const folderNotchPlus = PhosphorDuotoneIconData(
     IconData(
       0xe258,
@@ -10551,7 +13183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-open-duotone.svg)
+  /// The `folderOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-open-duotone](https://api.iconify.design/ph/folder-open-duotone.svg?height=32&color=%23888888)
   static const folderOpen = PhosphorDuotoneIconData(
     IconData(
       0xe256,
@@ -10567,7 +13203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-plus-duotone.svg)
+  /// The `folderPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-plus-duotone](https://api.iconify.design/ph/folder-plus-duotone.svg?height=32&color=%23888888)
   static const folderPlus = PhosphorDuotoneIconData(
     IconData(
       0xe258,
@@ -10583,7 +13223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-duotone.svg)
+  /// The `folderSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-duotone](https://api.iconify.design/ph/folder-simple-duotone.svg?height=32&color=%23888888)
   static const folderSimple = PhosphorDuotoneIconData(
     IconData(
       0xe25a,
@@ -10599,7 +13243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-dashed-duotone.svg)
+  /// The `folderSimpleDashed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimpleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-dashed-duotone](https://api.iconify.design/ph/folder-simple-dashed-duotone.svg?height=32&color=%23888888)
   static const folderSimpleDashed = PhosphorDuotoneIconData(
     IconData(
       0xec2a,
@@ -10615,7 +13263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-dotted-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-dotted-duotone.svg)
+  /// The `folderSimpleDotted` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimpleDotted` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-dotted-duotone](https://api.iconify.design/ph/folder-simple-dashed-duotone.svg?height=32&color=%23888888)
   static const folderSimpleDotted = PhosphorDuotoneIconData(
     IconData(
       0xec2a,
@@ -10631,7 +13283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-lock-duotone.svg)
+  /// The `folderSimpleLock` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimpleLock` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-lock-duotone](https://api.iconify.design/ph/folder-simple-lock-duotone.svg?height=32&color=%23888888)
   static const folderSimpleLock = PhosphorDuotoneIconData(
     IconData(
       0xeb5e,
@@ -10647,7 +13303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-minus-duotone.svg)
+  /// The `folderSimpleMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimpleMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-minus-duotone](https://api.iconify.design/ph/folder-simple-minus-duotone.svg?height=32&color=%23888888)
   static const folderSimpleMinus = PhosphorDuotoneIconData(
     IconData(
       0xe25c,
@@ -10663,7 +13323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-plus-duotone.svg)
+  /// The `folderSimplePlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimplePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-plus-duotone](https://api.iconify.design/ph/folder-simple-plus-duotone.svg?height=32&color=%23888888)
   static const folderSimplePlus = PhosphorDuotoneIconData(
     IconData(
       0xe25e,
@@ -10679,7 +13343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-star-duotone.svg)
+  /// The `folderSimpleStar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimpleStar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-star-duotone](https://api.iconify.design/ph/folder-simple-star-duotone.svg?height=32&color=%23888888)
   static const folderSimpleStar = PhosphorDuotoneIconData(
     IconData(
       0xec2e,
@@ -10695,7 +13363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-simple-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-simple-user-duotone.svg)
+  /// The `folderSimpleUser` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderSimpleUser` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-simple-user-duotone](https://api.iconify.design/ph/folder-simple-user-duotone.svg?height=32&color=%23888888)
   static const folderSimpleUser = PhosphorDuotoneIconData(
     IconData(
       0xeb60,
@@ -10711,7 +13383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-star-duotone.svg)
+  /// The `folderStar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderStar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-star-duotone](https://api.iconify.design/ph/folder-star-duotone.svg?height=32&color=%23888888)
   static const folderStar = PhosphorDuotoneIconData(
     IconData(
       0xea86,
@@ -10727,7 +13403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folder-user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folder-user-duotone.svg)
+  /// The `folderUser` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folderUser` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folder-user-duotone](https://api.iconify.design/ph/folder-user-duotone.svg?height=32&color=%23888888)
   static const folderUser = PhosphorDuotoneIconData(
     IconData(
       0xeb46,
@@ -10743,7 +13423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![folders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/folders-duotone.svg)
+  /// The `folders` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `folders` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![folders-duotone](https://api.iconify.design/ph/folders-duotone.svg?height=32&color=%23888888)
   static const folders = PhosphorDuotoneIconData(
     IconData(
       0xe260,
@@ -10759,7 +13443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![football-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-duotone.svg)
+  /// The `football` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `football` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![football-duotone](https://api.iconify.design/ph/football-duotone.svg?height=32&color=%23888888)
   static const football = PhosphorDuotoneIconData(
     IconData(
       0xe718,
@@ -10775,7 +13463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![football-helmet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/football-helmet-duotone.svg)
+  /// The `footballHelmet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `footballHelmet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![football-helmet-duotone](https://api.iconify.design/ph/football-helmet-duotone.svg?height=32&color=%23888888)
   static const footballHelmet = PhosphorDuotoneIconData(
     IconData(
       0xee4c,
@@ -10791,7 +13483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![footprints-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/footprints-duotone.svg)
+  /// The `footprints` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `footprints` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![footprints-duotone](https://api.iconify.design/ph/footprints-duotone.svg?height=32&color=%23888888)
   static const footprints = PhosphorDuotoneIconData(
     IconData(
       0xea88,
@@ -10807,7 +13503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![fork-knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/fork-knife-duotone.svg)
+  /// The `forkKnife` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `forkKnife` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![fork-knife-duotone](https://api.iconify.design/ph/fork-knife-duotone.svg?height=32&color=%23888888)
   static const forkKnife = PhosphorDuotoneIconData(
     IconData(
       0xe262,
@@ -10823,7 +13523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![four-k-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/four-k-duotone.svg)
+  /// The `fourK` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `fourK` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![four-k-duotone](https://api.iconify.design/ph/four-k-duotone.svg?height=32&color=%23888888)
   static const fourK = PhosphorDuotoneIconData(
     IconData(
       0xea5c,
@@ -10839,7 +13543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![frame-corners-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/frame-corners-duotone.svg)
+  /// The `frameCorners` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `frameCorners` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![frame-corners-duotone](https://api.iconify.design/ph/frame-corners-duotone.svg?height=32&color=%23888888)
   static const frameCorners = PhosphorDuotoneIconData(
     IconData(
       0xe626,
@@ -10855,7 +13563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![framer-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/framer-logo-duotone.svg)
+  /// The `framerLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `framerLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![framer-logo-duotone](https://api.iconify.design/ph/framer-logo-duotone.svg?height=32&color=%23888888)
   static const framerLogo = PhosphorDuotoneIconData(
     IconData(
       0xe264,
@@ -10871,7 +13583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![function-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/function-duotone.svg)
+  /// The `function` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `function` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![function-duotone](https://api.iconify.design/ph/function-duotone.svg?height=32&color=%23888888)
   static const function = PhosphorDuotoneIconData(
     IconData(
       0xebe4,
@@ -10887,7 +13603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![funnel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-duotone.svg)
+  /// The `funnel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `funnel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![funnel-duotone](https://api.iconify.design/ph/funnel-duotone.svg?height=32&color=%23888888)
   static const funnel = PhosphorDuotoneIconData(
     IconData(
       0xe266,
@@ -10903,7 +13623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![funnel-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-duotone.svg)
+  /// The `funnelSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `funnelSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![funnel-simple-duotone](https://api.iconify.design/ph/funnel-simple-duotone.svg?height=32&color=%23888888)
   static const funnelSimple = PhosphorDuotoneIconData(
     IconData(
       0xe268,
@@ -10919,7 +13643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![funnel-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-simple-x-duotone.svg)
+  /// The `funnelSimpleX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `funnelSimpleX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![funnel-simple-x-duotone](https://api.iconify.design/ph/funnel-simple-x-duotone.svg?height=32&color=%23888888)
   static const funnelSimpleX = PhosphorDuotoneIconData(
     IconData(
       0xe26a,
@@ -10935,7 +13663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![funnel-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/funnel-x-duotone.svg)
+  /// The `funnelX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `funnelX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![funnel-x-duotone](https://api.iconify.design/ph/funnel-x-duotone.svg?height=32&color=%23888888)
   static const funnelX = PhosphorDuotoneIconData(
     IconData(
       0xe26c,
@@ -10951,7 +13683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![game-controller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/game-controller-duotone.svg)
+  /// The `gameController` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gameController` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![game-controller-duotone](https://api.iconify.design/ph/game-controller-duotone.svg?height=32&color=%23888888)
   static const gameController = PhosphorDuotoneIconData(
     IconData(
       0xe26e,
@@ -10967,7 +13703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![garage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/garage-duotone.svg)
+  /// The `garage` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `garage` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![garage-duotone](https://api.iconify.design/ph/garage-duotone.svg?height=32&color=%23888888)
   static const garage = PhosphorDuotoneIconData(
     IconData(
       0xecd6,
@@ -10983,7 +13723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gas-can-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-can-duotone.svg)
+  /// The `gasCan` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gasCan` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gas-can-duotone](https://api.iconify.design/ph/gas-can-duotone.svg?height=32&color=%23888888)
   static const gasCan = PhosphorDuotoneIconData(
     IconData(
       0xe8ce,
@@ -10999,7 +13743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gas-pump-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gas-pump-duotone.svg)
+  /// The `gasPump` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gasPump` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gas-pump-duotone](https://api.iconify.design/ph/gas-pump-duotone.svg?height=32&color=%23888888)
   static const gasPump = PhosphorDuotoneIconData(
     IconData(
       0xe768,
@@ -11015,7 +13763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gauge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gauge-duotone.svg)
+  /// The `gauge` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gauge` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gauge-duotone](https://api.iconify.design/ph/gauge-duotone.svg?height=32&color=%23888888)
   static const gauge = PhosphorDuotoneIconData(
     IconData(
       0xe628,
@@ -11031,7 +13783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gavel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gavel-duotone.svg)
+  /// The `gavel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gavel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gavel-duotone](https://api.iconify.design/ph/gavel-duotone.svg?height=32&color=%23888888)
   static const gavel = PhosphorDuotoneIconData(
     IconData(
       0xea32,
@@ -11047,7 +13803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-duotone.svg)
+  /// The `gear` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gear` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gear-duotone](https://api.iconify.design/ph/gear-duotone.svg?height=32&color=%23888888)
   static const gear = PhosphorDuotoneIconData(
     IconData(
       0xe270,
@@ -11063,7 +13823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gear-fine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-fine-duotone.svg)
+  /// The `gearFine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gearFine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gear-fine-duotone](https://api.iconify.design/ph/gear-fine-duotone.svg?height=32&color=%23888888)
   static const gearFine = PhosphorDuotoneIconData(
     IconData(
       0xe87c,
@@ -11079,7 +13843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gear-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gear-six-duotone.svg)
+  /// The `gearSix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gearSix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gear-six-duotone](https://api.iconify.design/ph/gear-six-duotone.svg?height=32&color=%23888888)
   static const gearSix = PhosphorDuotoneIconData(
     IconData(
       0xe272,
@@ -11095,7 +13863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gender-female-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-female-duotone.svg)
+  /// The `genderFemale` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `genderFemale` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gender-female-duotone](https://api.iconify.design/ph/gender-female-duotone.svg?height=32&color=%23888888)
   static const genderFemale = PhosphorDuotoneIconData(
     IconData(
       0xe6e0,
@@ -11111,7 +13883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gender-intersex-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-intersex-duotone.svg)
+  /// The `genderIntersex` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `genderIntersex` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gender-intersex-duotone](https://api.iconify.design/ph/gender-intersex-duotone.svg?height=32&color=%23888888)
   static const genderIntersex = PhosphorDuotoneIconData(
     IconData(
       0xe6e6,
@@ -11127,7 +13903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gender-male-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-male-duotone.svg)
+  /// The `genderMale` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `genderMale` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gender-male-duotone](https://api.iconify.design/ph/gender-male-duotone.svg?height=32&color=%23888888)
   static const genderMale = PhosphorDuotoneIconData(
     IconData(
       0xe6e2,
@@ -11143,7 +13923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gender-neuter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-neuter-duotone.svg)
+  /// The `genderNeuter` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `genderNeuter` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gender-neuter-duotone](https://api.iconify.design/ph/gender-neuter-duotone.svg?height=32&color=%23888888)
   static const genderNeuter = PhosphorDuotoneIconData(
     IconData(
       0xe6ea,
@@ -11159,7 +13943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gender-nonbinary-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-nonbinary-duotone.svg)
+  /// The `genderNonbinary` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `genderNonbinary` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gender-nonbinary-duotone](https://api.iconify.design/ph/gender-nonbinary-duotone.svg?height=32&color=%23888888)
   static const genderNonbinary = PhosphorDuotoneIconData(
     IconData(
       0xe6e4,
@@ -11175,7 +13963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gender-transgender-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gender-transgender-duotone.svg)
+  /// The `genderTransgender` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `genderTransgender` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gender-transgender-duotone](https://api.iconify.design/ph/gender-transgender-duotone.svg?height=32&color=%23888888)
   static const genderTransgender = PhosphorDuotoneIconData(
     IconData(
       0xe6e8,
@@ -11191,7 +13983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ghost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ghost-duotone.svg)
+  /// The `ghost` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ghost` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ghost-duotone](https://api.iconify.design/ph/ghost-duotone.svg?height=32&color=%23888888)
   static const ghost = PhosphorDuotoneIconData(
     IconData(
       0xe62a,
@@ -11207,7 +14003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gif-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gif-duotone.svg)
+  /// The `gif` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gif` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gif-duotone](https://api.iconify.design/ph/gif-duotone.svg?height=32&color=%23888888)
   static const gif = PhosphorDuotoneIconData(
     IconData(
       0xe274,
@@ -11223,7 +14023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gift-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gift-duotone.svg)
+  /// The `gift` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gift` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gift-duotone](https://api.iconify.design/ph/gift-duotone.svg?height=32&color=%23888888)
   static const gift = PhosphorDuotoneIconData(
     IconData(
       0xe276,
@@ -11239,7 +14043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![git-branch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-branch-duotone.svg)
+  /// The `gitBranch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitBranch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![git-branch-duotone](https://api.iconify.design/ph/git-branch-duotone.svg?height=32&color=%23888888)
   static const gitBranch = PhosphorDuotoneIconData(
     IconData(
       0xe278,
@@ -11255,7 +14063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![git-commit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-commit-duotone.svg)
+  /// The `gitCommit` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitCommit` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![git-commit-duotone](https://api.iconify.design/ph/git-commit-duotone.svg?height=32&color=%23888888)
   static const gitCommit = PhosphorDuotoneIconData(
     IconData(
       0xe27a,
@@ -11271,7 +14083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![git-diff-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-diff-duotone.svg)
+  /// The `gitDiff` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitDiff` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![git-diff-duotone](https://api.iconify.design/ph/git-diff-duotone.svg?height=32&color=%23888888)
   static const gitDiff = PhosphorDuotoneIconData(
     IconData(
       0xe27c,
@@ -11287,7 +14103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![git-fork-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-fork-duotone.svg)
+  /// The `gitFork` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitFork` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![git-fork-duotone](https://api.iconify.design/ph/git-fork-duotone.svg?height=32&color=%23888888)
   static const gitFork = PhosphorDuotoneIconData(
     IconData(
       0xe27e,
@@ -11303,7 +14123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![git-merge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-merge-duotone.svg)
+  /// The `gitMerge` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitMerge` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![git-merge-duotone](https://api.iconify.design/ph/git-merge-duotone.svg?height=32&color=%23888888)
   static const gitMerge = PhosphorDuotoneIconData(
     IconData(
       0xe280,
@@ -11319,7 +14143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![git-pull-request-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/git-pull-request-duotone.svg)
+  /// The `gitPullRequest` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitPullRequest` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![git-pull-request-duotone](https://api.iconify.design/ph/git-pull-request-duotone.svg?height=32&color=%23888888)
   static const gitPullRequest = PhosphorDuotoneIconData(
     IconData(
       0xe282,
@@ -11335,7 +14163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![github-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/github-logo-duotone.svg)
+  /// The `githubLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `githubLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![github-logo-duotone](https://api.iconify.design/ph/github-logo-duotone.svg?height=32&color=%23888888)
   static const githubLogo = PhosphorDuotoneIconData(
     IconData(
       0xe576,
@@ -11351,7 +14183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gitlab-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-duotone.svg)
+  /// The `gitlabLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitlabLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gitlab-logo-duotone](https://api.iconify.design/ph/gitlab-logo-duotone.svg?height=32&color=%23888888)
   static const gitlabLogo = PhosphorDuotoneIconData(
     IconData(
       0xe694,
@@ -11367,7 +14203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gitlab-logo-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gitlab-logo-simple-duotone.svg)
+  /// The `gitlabLogoSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gitlabLogoSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gitlab-logo-simple-duotone](https://api.iconify.design/ph/gitlab-logo-simple-duotone.svg?height=32&color=%23888888)
   static const gitlabLogoSimple = PhosphorDuotoneIconData(
     IconData(
       0xe696,
@@ -11383,7 +14223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![globe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-duotone.svg)
+  /// The `globe` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `globe` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![globe-duotone](https://api.iconify.design/ph/globe-duotone.svg?height=32&color=%23888888)
   static const globe = PhosphorDuotoneIconData(
     IconData(
       0xe288,
@@ -11399,7 +14243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![globe-hemisphere-east-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-east-duotone.svg)
+  /// The `globeHemisphereEast` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `globeHemisphereEast` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![globe-hemisphere-east-duotone](https://api.iconify.design/ph/globe-hemisphere-east-duotone.svg?height=32&color=%23888888)
   static const globeHemisphereEast = PhosphorDuotoneIconData(
     IconData(
       0xe28a,
@@ -11415,7 +14263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![globe-hemisphere-west-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-hemisphere-west-duotone.svg)
+  /// The `globeHemisphereWest` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `globeHemisphereWest` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![globe-hemisphere-west-duotone](https://api.iconify.design/ph/globe-hemisphere-west-duotone.svg?height=32&color=%23888888)
   static const globeHemisphereWest = PhosphorDuotoneIconData(
     IconData(
       0xe28c,
@@ -11431,7 +14283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![globe-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-duotone.svg)
+  /// The `globeSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `globeSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![globe-simple-duotone](https://api.iconify.design/ph/globe-simple-duotone.svg?height=32&color=%23888888)
   static const globeSimple = PhosphorDuotoneIconData(
     IconData(
       0xe28e,
@@ -11447,7 +14303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![globe-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-simple-x-duotone.svg)
+  /// The `globeSimpleX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `globeSimpleX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![globe-simple-x-duotone](https://api.iconify.design/ph/globe-simple-x-duotone.svg?height=32&color=%23888888)
   static const globeSimpleX = PhosphorDuotoneIconData(
     IconData(
       0xe284,
@@ -11463,7 +14323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![globe-stand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-stand-duotone.svg)
+  /// The `globeStand` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `globeStand` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![globe-stand-duotone](https://api.iconify.design/ph/globe-stand-duotone.svg?height=32&color=%23888888)
   static const globeStand = PhosphorDuotoneIconData(
     IconData(
       0xe290,
@@ -11479,7 +14343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![globe-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/globe-x-duotone.svg)
+  /// The `globeX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `globeX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![globe-x-duotone](https://api.iconify.design/ph/globe-x-duotone.svg?height=32&color=%23888888)
   static const globeX = PhosphorDuotoneIconData(
     IconData(
       0xe286,
@@ -11495,7 +14363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![goggles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goggles-duotone.svg)
+  /// The `goggles` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `goggles` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![goggles-duotone](https://api.iconify.design/ph/goggles-duotone.svg?height=32&color=%23888888)
   static const goggles = PhosphorDuotoneIconData(
     IconData(
       0xecb4,
@@ -11511,7 +14383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![golf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/golf-duotone.svg)
+  /// The `golf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `golf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![golf-duotone](https://api.iconify.design/ph/golf-duotone.svg?height=32&color=%23888888)
   static const golf = PhosphorDuotoneIconData(
     IconData(
       0xea3e,
@@ -11527,7 +14403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![goodreads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/goodreads-logo-duotone.svg)
+  /// The `goodreadsLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `goodreadsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![goodreads-logo-duotone](https://api.iconify.design/ph/goodreads-logo-duotone.svg?height=32&color=%23888888)
   static const goodreadsLogo = PhosphorDuotoneIconData(
     IconData(
       0xed10,
@@ -11543,7 +14423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![google-cardboard-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-cardboard-logo-duotone.svg)
+  /// The `googleCardboardLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `googleCardboardLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![google-cardboard-logo-duotone](https://api.iconify.design/ph/google-cardboard-logo-duotone.svg?height=32&color=%23888888)
   static const googleCardboardLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7b6,
@@ -11559,7 +14443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![google-chrome-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-chrome-logo-duotone.svg)
+  /// The `googleChromeLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `googleChromeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![google-chrome-logo-duotone](https://api.iconify.design/ph/google-chrome-logo-duotone.svg?height=32&color=%23888888)
   static const googleChromeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe976,
@@ -11575,7 +14463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![google-drive-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-drive-logo-duotone.svg)
+  /// The `googleDriveLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `googleDriveLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![google-drive-logo-duotone](https://api.iconify.design/ph/google-drive-logo-duotone.svg?height=32&color=%23888888)
   static const googleDriveLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8f6,
@@ -11591,7 +14483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![google-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-logo-duotone.svg)
+  /// The `googleLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `googleLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![google-logo-duotone](https://api.iconify.design/ph/google-logo-duotone.svg?height=32&color=%23888888)
   static const googleLogo = PhosphorDuotoneIconData(
     IconData(
       0xe292,
@@ -11607,7 +14503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![google-photos-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-photos-logo-duotone.svg)
+  /// The `googlePhotosLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `googlePhotosLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![google-photos-logo-duotone](https://api.iconify.design/ph/google-photos-logo-duotone.svg?height=32&color=%23888888)
   static const googlePhotosLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb92,
@@ -11623,7 +14523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![google-play-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-play-logo-duotone.svg)
+  /// The `googlePlayLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `googlePlayLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![google-play-logo-duotone](https://api.iconify.design/ph/google-play-logo-duotone.svg?height=32&color=%23888888)
   static const googlePlayLogo = PhosphorDuotoneIconData(
     IconData(
       0xe294,
@@ -11639,7 +14543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![google-podcasts-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/google-podcasts-logo-duotone.svg)
+  /// The `googlePodcastsLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `googlePodcastsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![google-podcasts-logo-duotone](https://api.iconify.design/ph/google-podcasts-logo-duotone.svg?height=32&color=%23888888)
   static const googlePodcastsLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb94,
@@ -11655,7 +14563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-duotone.svg)
+  /// The `gps` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gps` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gps-duotone](https://api.iconify.design/ph/gps-duotone.svg?height=32&color=%23888888)
   static const gps = PhosphorDuotoneIconData(
     IconData(
       0xedd8,
@@ -11671,7 +14583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gps-fix-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-fix-duotone.svg)
+  /// The `gpsFix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gpsFix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gps-fix-duotone](https://api.iconify.design/ph/gps-fix-duotone.svg?height=32&color=%23888888)
   static const gpsFix = PhosphorDuotoneIconData(
     IconData(
       0xedd6,
@@ -11687,7 +14603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gps-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gps-slash-duotone.svg)
+  /// The `gpsSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gpsSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gps-slash-duotone](https://api.iconify.design/ph/gps-slash-duotone.svg?height=32&color=%23888888)
   static const gpsSlash = PhosphorDuotoneIconData(
     IconData(
       0xedd4,
@@ -11703,7 +14623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![gradient-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/gradient-duotone.svg)
+  /// The `gradient` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gradient` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![gradient-duotone](https://api.iconify.design/ph/gradient-duotone.svg?height=32&color=%23888888)
   static const gradient = PhosphorDuotoneIconData(
     IconData(
       0xeb42,
@@ -11719,7 +14643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![graduation-cap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graduation-cap-duotone.svg)
+  /// The `graduationCap` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `graduationCap` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![graduation-cap-duotone](https://api.iconify.design/ph/graduation-cap-duotone.svg?height=32&color=%23888888)
   static const graduationCap = PhosphorDuotoneIconData(
     IconData(
       0xe62c,
@@ -11735,7 +14663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![grains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-duotone.svg)
+  /// The `grains` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `grains` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![grains-duotone](https://api.iconify.design/ph/grains-duotone.svg?height=32&color=%23888888)
   static const grains = PhosphorDuotoneIconData(
     IconData(
       0xec68,
@@ -11751,7 +14683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![grains-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grains-slash-duotone.svg)
+  /// The `grainsSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `grainsSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![grains-slash-duotone](https://api.iconify.design/ph/grains-slash-duotone.svg?height=32&color=%23888888)
   static const grainsSlash = PhosphorDuotoneIconData(
     IconData(
       0xec6a,
@@ -11767,7 +14703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![graph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graph-duotone.svg)
+  /// The `graph` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `graph` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![graph-duotone](https://api.iconify.design/ph/graph-duotone.svg?height=32&color=%23888888)
   static const graph = PhosphorDuotoneIconData(
     IconData(
       0xeb58,
@@ -11783,7 +14723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![graphics-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/graphics-card-duotone.svg)
+  /// The `graphicsCard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `graphicsCard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![graphics-card-duotone](https://api.iconify.design/ph/graphics-card-duotone.svg?height=32&color=%23888888)
   static const graphicsCard = PhosphorDuotoneIconData(
     IconData(
       0xe612,
@@ -11799,7 +14743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![greater-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-duotone.svg)
+  /// The `greaterThan` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `greaterThan` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![greater-than-duotone](https://api.iconify.design/ph/greater-than-duotone.svg?height=32&color=%23888888)
   static const greaterThan = PhosphorDuotoneIconData(
     IconData(
       0xedc4,
@@ -11815,7 +14763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![greater-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/greater-than-or-equal-duotone.svg)
+  /// The `greaterThanOrEqual` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `greaterThanOrEqual` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![greater-than-or-equal-duotone](https://api.iconify.design/ph/greater-than-or-equal-duotone.svg?height=32&color=%23888888)
   static const greaterThanOrEqual = PhosphorDuotoneIconData(
     IconData(
       0xeda2,
@@ -11831,7 +14783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![grid-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-four-duotone.svg)
+  /// The `gridFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gridFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![grid-four-duotone](https://api.iconify.design/ph/grid-four-duotone.svg?height=32&color=%23888888)
   static const gridFour = PhosphorDuotoneIconData(
     IconData(
       0xe296,
@@ -11847,7 +14803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![grid-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/grid-nine-duotone.svg)
+  /// The `gridNine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `gridNine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![grid-nine-duotone](https://api.iconify.design/ph/grid-nine-duotone.svg?height=32&color=%23888888)
   static const gridNine = PhosphorDuotoneIconData(
     IconData(
       0xec8c,
@@ -11863,7 +14823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![guitar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/guitar-duotone.svg)
+  /// The `guitar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `guitar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![guitar-duotone](https://api.iconify.design/ph/guitar-duotone.svg?height=32&color=%23888888)
   static const guitar = PhosphorDuotoneIconData(
     IconData(
       0xea8a,
@@ -11879,7 +14843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hair-dryer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hair-dryer-duotone.svg)
+  /// The `hairDryer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hairDryer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hair-dryer-duotone](https://api.iconify.design/ph/hair-dryer-duotone.svg?height=32&color=%23888888)
   static const hairDryer = PhosphorDuotoneIconData(
     IconData(
       0xea66,
@@ -11895,7 +14863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hamburger-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hamburger-duotone.svg)
+  /// The `hamburger` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hamburger` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hamburger-duotone](https://api.iconify.design/ph/hamburger-duotone.svg?height=32&color=%23888888)
   static const hamburger = PhosphorDuotoneIconData(
     IconData(
       0xe790,
@@ -11911,7 +14883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hammer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hammer-duotone.svg)
+  /// The `hammer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hammer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hammer-duotone](https://api.iconify.design/ph/hammer-duotone.svg?height=32&color=%23888888)
   static const hammer = PhosphorDuotoneIconData(
     IconData(
       0xe80e,
@@ -11927,7 +14903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-duotone.svg)
+  /// The `hand` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hand` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-duotone](https://api.iconify.design/ph/hand-duotone.svg?height=32&color=%23888888)
   static const hand = PhosphorDuotoneIconData(
     IconData(
       0xe298,
@@ -11943,7 +14923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-down-duotone.svg)
+  /// The `handArrowDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-arrow-down-duotone](https://api.iconify.design/ph/hand-arrow-down-duotone.svg?height=32&color=%23888888)
   static const handArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xea4e,
@@ -11959,7 +14943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-arrow-up-duotone.svg)
+  /// The `handArrowUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-arrow-up-duotone](https://api.iconify.design/ph/hand-arrow-up-duotone.svg?height=32&color=%23888888)
   static const handArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xee5a,
@@ -11975,7 +14963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-coins-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-coins-duotone.svg)
+  /// The `handCoins` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handCoins` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-coins-duotone](https://api.iconify.design/ph/hand-coins-duotone.svg?height=32&color=%23888888)
   static const handCoins = PhosphorDuotoneIconData(
     IconData(
       0xea8c,
@@ -11991,7 +14983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-deposit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-deposit-duotone.svg)
+  /// The `handDeposit` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handDeposit` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-deposit-duotone](https://api.iconify.design/ph/hand-deposit-duotone.svg?height=32&color=%23888888)
   static const handDeposit = PhosphorDuotoneIconData(
     IconData(
       0xee82,
@@ -12007,7 +15003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-eye-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-eye-duotone.svg)
+  /// The `handEye` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handEye` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-eye-duotone](https://api.iconify.design/ph/hand-eye-duotone.svg?height=32&color=%23888888)
   static const handEye = PhosphorDuotoneIconData(
     IconData(
       0xea4c,
@@ -12023,7 +15023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-fist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-fist-duotone.svg)
+  /// The `handFist` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handFist` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-fist-duotone](https://api.iconify.design/ph/hand-fist-duotone.svg?height=32&color=%23888888)
   static const handFist = PhosphorDuotoneIconData(
     IconData(
       0xe57a,
@@ -12039,7 +15043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-grabbing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-grabbing-duotone.svg)
+  /// The `handGrabbing` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handGrabbing` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-grabbing-duotone](https://api.iconify.design/ph/hand-grabbing-duotone.svg?height=32&color=%23888888)
   static const handGrabbing = PhosphorDuotoneIconData(
     IconData(
       0xe57c,
@@ -12055,7 +15063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-heart-duotone.svg)
+  /// The `handHeart` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handHeart` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-heart-duotone](https://api.iconify.design/ph/hand-heart-duotone.svg?height=32&color=%23888888)
   static const handHeart = PhosphorDuotoneIconData(
     IconData(
       0xe810,
@@ -12071,7 +15083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-palm-duotone.svg)
+  /// The `handPalm` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handPalm` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-palm-duotone](https://api.iconify.design/ph/hand-palm-duotone.svg?height=32&color=%23888888)
   static const handPalm = PhosphorDuotoneIconData(
     IconData(
       0xe57e,
@@ -12087,7 +15103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-peace-duotone.svg)
+  /// The `handPeace` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handPeace` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-peace-duotone](https://api.iconify.design/ph/hand-peace-duotone.svg?height=32&color=%23888888)
   static const handPeace = PhosphorDuotoneIconData(
     IconData(
       0xe7cc,
@@ -12103,7 +15123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-pointing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-pointing-duotone.svg)
+  /// The `handPointing` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handPointing` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-pointing-duotone](https://api.iconify.design/ph/hand-pointing-duotone.svg?height=32&color=%23888888)
   static const handPointing = PhosphorDuotoneIconData(
     IconData(
       0xe29a,
@@ -12119,7 +15143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-soap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-soap-duotone.svg)
+  /// The `handSoap` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handSoap` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-soap-duotone](https://api.iconify.design/ph/hand-soap-duotone.svg?height=32&color=%23888888)
   static const handSoap = PhosphorDuotoneIconData(
     IconData(
       0xe630,
@@ -12135,7 +15163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-swipe-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-left-duotone.svg)
+  /// The `handSwipeLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handSwipeLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-swipe-left-duotone](https://api.iconify.design/ph/hand-swipe-left-duotone.svg?height=32&color=%23888888)
   static const handSwipeLeft = PhosphorDuotoneIconData(
     IconData(
       0xec94,
@@ -12151,7 +15183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-swipe-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-swipe-right-duotone.svg)
+  /// The `handSwipeRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handSwipeRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-swipe-right-duotone](https://api.iconify.design/ph/hand-swipe-right-duotone.svg?height=32&color=%23888888)
   static const handSwipeRight = PhosphorDuotoneIconData(
     IconData(
       0xec92,
@@ -12167,7 +15203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-tap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-tap-duotone.svg)
+  /// The `handTap` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handTap` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-tap-duotone](https://api.iconify.design/ph/hand-tap-duotone.svg?height=32&color=%23888888)
   static const handTap = PhosphorDuotoneIconData(
     IconData(
       0xec90,
@@ -12183,7 +15223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-waving-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-waving-duotone.svg)
+  /// The `handWaving` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handWaving` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-waving-duotone](https://api.iconify.design/ph/hand-waving-duotone.svg?height=32&color=%23888888)
   static const handWaving = PhosphorDuotoneIconData(
     IconData(
       0xe580,
@@ -12199,7 +15243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hand-withdraw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hand-withdraw-duotone.svg)
+  /// The `handWithdraw` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handWithdraw` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hand-withdraw-duotone](https://api.iconify.design/ph/hand-withdraw-duotone.svg?height=32&color=%23888888)
   static const handWithdraw = PhosphorDuotoneIconData(
     IconData(
       0xee80,
@@ -12215,7 +15263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![handbag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-duotone.svg)
+  /// The `handbag` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handbag` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![handbag-duotone](https://api.iconify.design/ph/handbag-duotone.svg?height=32&color=%23888888)
   static const handbag = PhosphorDuotoneIconData(
     IconData(
       0xe29c,
@@ -12231,7 +15283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![handbag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handbag-simple-duotone.svg)
+  /// The `handbagSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handbagSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![handbag-simple-duotone](https://api.iconify.design/ph/handbag-simple-duotone.svg?height=32&color=%23888888)
   static const handbagSimple = PhosphorDuotoneIconData(
     IconData(
       0xe62e,
@@ -12247,7 +15303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hands-clapping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-clapping-duotone.svg)
+  /// The `handsClapping` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handsClapping` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hands-clapping-duotone](https://api.iconify.design/ph/hands-clapping-duotone.svg?height=32&color=%23888888)
   static const handsClapping = PhosphorDuotoneIconData(
     IconData(
       0xe6a0,
@@ -12263,7 +15323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hands-praying-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hands-praying-duotone.svg)
+  /// The `handsPraying` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handsPraying` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hands-praying-duotone](https://api.iconify.design/ph/hands-praying-duotone.svg?height=32&color=%23888888)
   static const handsPraying = PhosphorDuotoneIconData(
     IconData(
       0xecc8,
@@ -12279,7 +15343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![handshake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/handshake-duotone.svg)
+  /// The `handshake` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `handshake` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![handshake-duotone](https://api.iconify.design/ph/handshake-duotone.svg?height=32&color=%23888888)
   static const handshake = PhosphorDuotoneIconData(
     IconData(
       0xe582,
@@ -12295,7 +15363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hard-drive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drive-duotone.svg)
+  /// The `hardDrive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hardDrive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hard-drive-duotone](https://api.iconify.design/ph/hard-drive-duotone.svg?height=32&color=%23888888)
   static const hardDrive = PhosphorDuotoneIconData(
     IconData(
       0xe29e,
@@ -12311,7 +15383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hard-drives-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-drives-duotone.svg)
+  /// The `hardDrives` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hardDrives` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hard-drives-duotone](https://api.iconify.design/ph/hard-drives-duotone.svg?height=32&color=%23888888)
   static const hardDrives = PhosphorDuotoneIconData(
     IconData(
       0xe2a0,
@@ -12327,7 +15403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hard-hat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hard-hat-duotone.svg)
+  /// The `hardHat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hardHat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hard-hat-duotone](https://api.iconify.design/ph/hard-hat-duotone.svg?height=32&color=%23888888)
   static const hardHat = PhosphorDuotoneIconData(
     IconData(
       0xed46,
@@ -12343,7 +15423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-duotone.svg)
+  /// The `hash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hash-duotone](https://api.iconify.design/ph/hash-duotone.svg?height=32&color=%23888888)
   static const hash = PhosphorDuotoneIconData(
     IconData(
       0xe2a2,
@@ -12359,7 +15443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hash-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hash-straight-duotone.svg)
+  /// The `hashStraight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hashStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hash-straight-duotone](https://api.iconify.design/ph/hash-straight-duotone.svg?height=32&color=%23888888)
   static const hashStraight = PhosphorDuotoneIconData(
     IconData(
       0xe2a4,
@@ -12375,7 +15463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![head-circuit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/head-circuit-duotone.svg)
+  /// The `headCircuit` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `headCircuit` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![head-circuit-duotone](https://api.iconify.design/ph/head-circuit-duotone.svg?height=32&color=%23888888)
   static const headCircuit = PhosphorDuotoneIconData(
     IconData(
       0xe7d4,
@@ -12391,7 +15483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![headlights-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headlights-duotone.svg)
+  /// The `headlights` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `headlights` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![headlights-duotone](https://api.iconify.design/ph/headlights-duotone.svg?height=32&color=%23888888)
   static const headlights = PhosphorDuotoneIconData(
     IconData(
       0xe6fe,
@@ -12407,7 +15503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![headphones-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headphones-duotone.svg)
+  /// The `headphones` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `headphones` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![headphones-duotone](https://api.iconify.design/ph/headphones-duotone.svg?height=32&color=%23888888)
   static const headphones = PhosphorDuotoneIconData(
     IconData(
       0xe2a6,
@@ -12423,7 +15523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![headset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/headset-duotone.svg)
+  /// The `headset` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `headset` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![headset-duotone](https://api.iconify.design/ph/headset-duotone.svg?height=32&color=%23888888)
   static const headset = PhosphorDuotoneIconData(
     IconData(
       0xe584,
@@ -12439,7 +15543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-duotone.svg)
+  /// The `heart` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `heart` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![heart-duotone](https://api.iconify.design/ph/heart-duotone.svg?height=32&color=%23888888)
   static const heart = PhosphorDuotoneIconData(
     IconData(
       0xe2a8,
@@ -12455,7 +15563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![heart-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-break-duotone.svg)
+  /// The `heartBreak` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `heartBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![heart-break-duotone](https://api.iconify.design/ph/heart-break-duotone.svg?height=32&color=%23888888)
   static const heartBreak = PhosphorDuotoneIconData(
     IconData(
       0xebe8,
@@ -12471,7 +15583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![heart-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-half-duotone.svg)
+  /// The `heartHalf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `heartHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![heart-half-duotone](https://api.iconify.design/ph/heart-half-duotone.svg?height=32&color=%23888888)
   static const heartHalf = PhosphorDuotoneIconData(
     IconData(
       0xec48,
@@ -12487,7 +15603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![heart-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-duotone.svg)
+  /// The `heartStraight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `heartStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![heart-straight-duotone](https://api.iconify.design/ph/heart-straight-duotone.svg?height=32&color=%23888888)
   static const heartStraight = PhosphorDuotoneIconData(
     IconData(
       0xe2aa,
@@ -12503,7 +15623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![heart-straight-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heart-straight-break-duotone.svg)
+  /// The `heartStraightBreak` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `heartStraightBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![heart-straight-break-duotone](https://api.iconify.design/ph/heart-straight-break-duotone.svg?height=32&color=%23888888)
   static const heartStraightBreak = PhosphorDuotoneIconData(
     IconData(
       0xeb98,
@@ -12519,7 +15643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![heartbeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/heartbeat-duotone.svg)
+  /// The `heartbeat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `heartbeat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![heartbeat-duotone](https://api.iconify.design/ph/heartbeat-duotone.svg?height=32&color=%23888888)
   static const heartbeat = PhosphorDuotoneIconData(
     IconData(
       0xe2ac,
@@ -12535,7 +15663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hexagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hexagon-duotone.svg)
+  /// The `hexagon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hexagon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hexagon-duotone](https://api.iconify.design/ph/hexagon-duotone.svg?height=32&color=%23888888)
   static const hexagon = PhosphorDuotoneIconData(
     IconData(
       0xe2ae,
@@ -12551,7 +15683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![high-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-definition-duotone.svg)
+  /// The `highDefinition` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `highDefinition` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![high-definition-duotone](https://api.iconify.design/ph/high-definition-duotone.svg?height=32&color=%23888888)
   static const highDefinition = PhosphorDuotoneIconData(
     IconData(
       0xea8e,
@@ -12567,7 +15703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![high-heel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/high-heel-duotone.svg)
+  /// The `highHeel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `highHeel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![high-heel-duotone](https://api.iconify.design/ph/high-heel-duotone.svg?height=32&color=%23888888)
   static const highHeel = PhosphorDuotoneIconData(
     IconData(
       0xe8e8,
@@ -12583,7 +15723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![highlighter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-duotone.svg)
+  /// The `highlighter` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `highlighter` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![highlighter-duotone](https://api.iconify.design/ph/highlighter-duotone.svg?height=32&color=%23888888)
   static const highlighter = PhosphorDuotoneIconData(
     IconData(
       0xec76,
@@ -12599,7 +15743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![highlighter-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/highlighter-circle-duotone.svg)
+  /// The `highlighterCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `highlighterCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![highlighter-circle-duotone](https://api.iconify.design/ph/highlighter-circle-duotone.svg?height=32&color=%23888888)
   static const highlighterCircle = PhosphorDuotoneIconData(
     IconData(
       0xe632,
@@ -12615,7 +15763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hockey-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hockey-duotone.svg)
+  /// The `hockey` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hockey` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hockey-duotone](https://api.iconify.design/ph/hockey-duotone.svg?height=32&color=%23888888)
   static const hockey = PhosphorDuotoneIconData(
     IconData(
       0xec86,
@@ -12631,7 +15783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hoodie-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hoodie-duotone.svg)
+  /// The `hoodie` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hoodie` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hoodie-duotone](https://api.iconify.design/ph/hoodie-duotone.svg?height=32&color=%23888888)
   static const hoodie = PhosphorDuotoneIconData(
     IconData(
       0xecd0,
@@ -12647,7 +15803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![horse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/horse-duotone.svg)
+  /// The `horse` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `horse` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![horse-duotone](https://api.iconify.design/ph/horse-duotone.svg?height=32&color=%23888888)
   static const horse = PhosphorDuotoneIconData(
     IconData(
       0xe2b0,
@@ -12663,7 +15823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hospital-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hospital-duotone.svg)
+  /// The `hospital` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hospital` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hospital-duotone](https://api.iconify.design/ph/hospital-duotone.svg?height=32&color=%23888888)
   static const hospital = PhosphorDuotoneIconData(
     IconData(
       0xe844,
@@ -12679,7 +15843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-duotone.svg)
+  /// The `hourglass` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglass` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-duotone](https://api.iconify.design/ph/hourglass-duotone.svg?height=32&color=%23888888)
   static const hourglass = PhosphorDuotoneIconData(
     IconData(
       0xe2b2,
@@ -12695,7 +15863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-high-duotone.svg)
+  /// The `hourglassHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglassHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-high-duotone](https://api.iconify.design/ph/hourglass-high-duotone.svg?height=32&color=%23888888)
   static const hourglassHigh = PhosphorDuotoneIconData(
     IconData(
       0xe2b4,
@@ -12711,7 +15883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-low-duotone.svg)
+  /// The `hourglassLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglassLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-low-duotone](https://api.iconify.design/ph/hourglass-low-duotone.svg?height=32&color=%23888888)
   static const hourglassLow = PhosphorDuotoneIconData(
     IconData(
       0xe2b6,
@@ -12727,7 +15903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-medium-duotone.svg)
+  /// The `hourglassMedium` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglassMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-medium-duotone](https://api.iconify.design/ph/hourglass-medium-duotone.svg?height=32&color=%23888888)
   static const hourglassMedium = PhosphorDuotoneIconData(
     IconData(
       0xe2b8,
@@ -12743,7 +15923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-duotone.svg)
+  /// The `hourglassSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglassSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-simple-duotone](https://api.iconify.design/ph/hourglass-simple-duotone.svg?height=32&color=%23888888)
   static const hourglassSimple = PhosphorDuotoneIconData(
     IconData(
       0xe2ba,
@@ -12759,7 +15943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-high-duotone.svg)
+  /// The `hourglassSimpleHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglassSimpleHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-simple-high-duotone](https://api.iconify.design/ph/hourglass-simple-high-duotone.svg?height=32&color=%23888888)
   static const hourglassSimpleHigh = PhosphorDuotoneIconData(
     IconData(
       0xe2bc,
@@ -12775,7 +15963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-low-duotone.svg)
+  /// The `hourglassSimpleLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglassSimpleLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-simple-low-duotone](https://api.iconify.design/ph/hourglass-simple-low-duotone.svg?height=32&color=%23888888)
   static const hourglassSimpleLow = PhosphorDuotoneIconData(
     IconData(
       0xe2be,
@@ -12791,7 +15983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hourglass-simple-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hourglass-simple-medium-duotone.svg)
+  /// The `hourglassSimpleMedium` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hourglassSimpleMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hourglass-simple-medium-duotone](https://api.iconify.design/ph/hourglass-simple-medium-duotone.svg?height=32&color=%23888888)
   static const hourglassSimpleMedium = PhosphorDuotoneIconData(
     IconData(
       0xe2c0,
@@ -12807,7 +16003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![house-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-duotone.svg)
+  /// The `house` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `house` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![house-duotone](https://api.iconify.design/ph/house-duotone.svg?height=32&color=%23888888)
   static const house = PhosphorDuotoneIconData(
     IconData(
       0xe2c2,
@@ -12823,7 +16023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![house-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-line-duotone.svg)
+  /// The `houseLine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `houseLine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![house-line-duotone](https://api.iconify.design/ph/house-line-duotone.svg?height=32&color=%23888888)
   static const houseLine = PhosphorDuotoneIconData(
     IconData(
       0xe2c4,
@@ -12839,7 +16043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![house-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/house-simple-duotone.svg)
+  /// The `houseSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `houseSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![house-simple-duotone](https://api.iconify.design/ph/house-simple-duotone.svg?height=32&color=%23888888)
   static const houseSimple = PhosphorDuotoneIconData(
     IconData(
       0xe2c6,
@@ -12855,7 +16063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![hurricane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/hurricane-duotone.svg)
+  /// The `hurricane` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `hurricane` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![hurricane-duotone](https://api.iconify.design/ph/hurricane-duotone.svg?height=32&color=%23888888)
   static const hurricane = PhosphorDuotoneIconData(
     IconData(
       0xe88e,
@@ -12871,7 +16083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ice-cream-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ice-cream-duotone.svg)
+  /// The `iceCream` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `iceCream` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ice-cream-duotone](https://api.iconify.design/ph/ice-cream-duotone.svg?height=32&color=%23888888)
   static const iceCream = PhosphorDuotoneIconData(
     IconData(
       0xe804,
@@ -12887,7 +16103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![identification-badge-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-badge-duotone.svg)
+  /// The `identificationBadge` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `identificationBadge` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![identification-badge-duotone](https://api.iconify.design/ph/identification-badge-duotone.svg?height=32&color=%23888888)
   static const identificationBadge = PhosphorDuotoneIconData(
     IconData(
       0xe6f6,
@@ -12903,7 +16123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![identification-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/identification-card-duotone.svg)
+  /// The `identificationCard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `identificationCard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![identification-card-duotone](https://api.iconify.design/ph/identification-card-duotone.svg?height=32&color=%23888888)
   static const identificationCard = PhosphorDuotoneIconData(
     IconData(
       0xe2c8,
@@ -12919,7 +16143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![image-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-duotone.svg)
+  /// The `image` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `image` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![image-duotone](https://api.iconify.design/ph/image-duotone.svg?height=32&color=%23888888)
   static const image = PhosphorDuotoneIconData(
     IconData(
       0xe2ca,
@@ -12935,7 +16163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![image-broken-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-broken-duotone.svg)
+  /// The `imageBroken` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `imageBroken` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![image-broken-duotone](https://api.iconify.design/ph/image-broken-duotone.svg?height=32&color=%23888888)
   static const imageBroken = PhosphorDuotoneIconData(
     IconData(
       0xe7a8,
@@ -12951,7 +16183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![image-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/image-square-duotone.svg)
+  /// The `imageSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `imageSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![image-square-duotone](https://api.iconify.design/ph/image-square-duotone.svg?height=32&color=%23888888)
   static const imageSquare = PhosphorDuotoneIconData(
     IconData(
       0xe2cc,
@@ -12967,7 +16203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![images-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-duotone.svg)
+  /// The `images` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `images` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![images-duotone](https://api.iconify.design/ph/images-duotone.svg?height=32&color=%23888888)
   static const images = PhosphorDuotoneIconData(
     IconData(
       0xe836,
@@ -12983,7 +16223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![images-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/images-square-duotone.svg)
+  /// The `imagesSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `imagesSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![images-square-duotone](https://api.iconify.design/ph/images-square-duotone.svg?height=32&color=%23888888)
   static const imagesSquare = PhosphorDuotoneIconData(
     IconData(
       0xe834,
@@ -12999,7 +16243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![infinity-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/infinity-duotone.svg)
+  /// The `infinity` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `infinity` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![infinity-duotone](https://api.iconify.design/ph/infinity-duotone.svg?height=32&color=%23888888)
   static const infinity = PhosphorDuotoneIconData(
     IconData(
       0xe634,
@@ -13015,7 +16263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![info-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/info-duotone.svg)
+  /// The `info` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `info` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![info-duotone](https://api.iconify.design/ph/info-duotone.svg?height=32&color=%23888888)
   static const info = PhosphorDuotoneIconData(
     IconData(
       0xe2ce,
@@ -13031,7 +16283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![instagram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/instagram-logo-duotone.svg)
+  /// The `instagramLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `instagramLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![instagram-logo-duotone](https://api.iconify.design/ph/instagram-logo-duotone.svg?height=32&color=%23888888)
   static const instagramLogo = PhosphorDuotoneIconData(
     IconData(
       0xe2d0,
@@ -13047,7 +16303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![intersect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-duotone.svg)
+  /// The `intersect` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `intersect` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![intersect-duotone](https://api.iconify.design/ph/intersect-duotone.svg?height=32&color=%23888888)
   static const intersect = PhosphorDuotoneIconData(
     IconData(
       0xe2d2,
@@ -13063,7 +16323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![intersect-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-square-duotone.svg)
+  /// The `intersectSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `intersectSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![intersect-square-duotone](https://api.iconify.design/ph/intersect-square-duotone.svg?height=32&color=%23888888)
   static const intersectSquare = PhosphorDuotoneIconData(
     IconData(
       0xe87a,
@@ -13079,7 +16343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![intersect-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersect-three-duotone.svg)
+  /// The `intersectThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `intersectThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![intersect-three-duotone](https://api.iconify.design/ph/intersect-three-duotone.svg?height=32&color=%23888888)
   static const intersectThree = PhosphorDuotoneIconData(
     IconData(
       0xecc4,
@@ -13095,7 +16363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![intersection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/intersection-duotone.svg)
+  /// The `intersection` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `intersection` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![intersection-duotone](https://api.iconify.design/ph/intersection-duotone.svg?height=32&color=%23888888)
   static const intersection = PhosphorDuotoneIconData(
     IconData(
       0xedba,
@@ -13111,7 +16383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![invoice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/invoice-duotone.svg)
+  /// The `invoice` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `invoice` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![invoice-duotone](https://api.iconify.design/ph/invoice-duotone.svg?height=32&color=%23888888)
   static const invoice = PhosphorDuotoneIconData(
     IconData(
       0xee42,
@@ -13127,7 +16403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![island-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/island-duotone.svg)
+  /// The `island` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `island` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![island-duotone](https://api.iconify.design/ph/island-duotone.svg?height=32&color=%23888888)
   static const island = PhosphorDuotoneIconData(
     IconData(
       0xee06,
@@ -13143,7 +16423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-duotone.svg)
+  /// The `jar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `jar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![jar-duotone](https://api.iconify.design/ph/jar-duotone.svg?height=32&color=%23888888)
   static const jar = PhosphorDuotoneIconData(
     IconData(
       0xe7e0,
@@ -13159,7 +16443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![jar-label-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jar-label-duotone.svg)
+  /// The `jarLabel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `jarLabel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![jar-label-duotone](https://api.iconify.design/ph/jar-label-duotone.svg?height=32&color=%23888888)
   static const jarLabel = PhosphorDuotoneIconData(
     IconData(
       0xe7e1,
@@ -13175,7 +16463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![jeep-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/jeep-duotone.svg)
+  /// The `jeep` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `jeep` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![jeep-duotone](https://api.iconify.design/ph/jeep-duotone.svg?height=32&color=%23888888)
   static const jeep = PhosphorDuotoneIconData(
     IconData(
       0xe2d4,
@@ -13191,7 +16483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![joystick-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/joystick-duotone.svg)
+  /// The `joystick` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `joystick` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![joystick-duotone](https://api.iconify.design/ph/joystick-duotone.svg?height=32&color=%23888888)
   static const joystick = PhosphorDuotoneIconData(
     IconData(
       0xea5e,
@@ -13207,7 +16503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![kanban-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/kanban-duotone.svg)
+  /// The `kanban` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `kanban` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![kanban-duotone](https://api.iconify.design/ph/kanban-duotone.svg?height=32&color=%23888888)
   static const kanban = PhosphorDuotoneIconData(
     IconData(
       0xeb54,
@@ -13223,7 +16523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-duotone.svg)
+  /// The `key` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `key` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![key-duotone](https://api.iconify.design/ph/key-duotone.svg?height=32&color=%23888888)
   static const key = PhosphorDuotoneIconData(
     IconData(
       0xe2d6,
@@ -13239,7 +16543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![key-return-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/key-return-duotone.svg)
+  /// The `keyReturn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `keyReturn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![key-return-duotone](https://api.iconify.design/ph/key-return-duotone.svg?height=32&color=%23888888)
   static const keyReturn = PhosphorDuotoneIconData(
     IconData(
       0xe782,
@@ -13255,7 +16563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![keyboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyboard-duotone.svg)
+  /// The `keyboard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `keyboard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![keyboard-duotone](https://api.iconify.design/ph/keyboard-duotone.svg?height=32&color=%23888888)
   static const keyboard = PhosphorDuotoneIconData(
     IconData(
       0xe2d8,
@@ -13271,7 +16583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![keyhole-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/keyhole-duotone.svg)
+  /// The `keyhole` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `keyhole` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![keyhole-duotone](https://api.iconify.design/ph/keyhole-duotone.svg?height=32&color=%23888888)
   static const keyhole = PhosphorDuotoneIconData(
     IconData(
       0xea78,
@@ -13287,7 +16603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![knife-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/knife-duotone.svg)
+  /// The `knife` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `knife` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![knife-duotone](https://api.iconify.design/ph/knife-duotone.svg?height=32&color=%23888888)
   static const knife = PhosphorDuotoneIconData(
     IconData(
       0xe636,
@@ -13303,7 +16623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ladder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-duotone.svg)
+  /// The `ladder` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ladder` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ladder-duotone](https://api.iconify.design/ph/ladder-duotone.svg?height=32&color=%23888888)
   static const ladder = PhosphorDuotoneIconData(
     IconData(
       0xe9e4,
@@ -13319,7 +16643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ladder-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ladder-simple-duotone.svg)
+  /// The `ladderSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ladderSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ladder-simple-duotone](https://api.iconify.design/ph/ladder-simple-duotone.svg?height=32&color=%23888888)
   static const ladderSimple = PhosphorDuotoneIconData(
     IconData(
       0xec26,
@@ -13335,7 +16663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-duotone.svg)
+  /// The `lamp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lamp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lamp-duotone](https://api.iconify.design/ph/lamp-duotone.svg?height=32&color=%23888888)
   static const lamp = PhosphorDuotoneIconData(
     IconData(
       0xe638,
@@ -13351,7 +16683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lamp-pendant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lamp-pendant-duotone.svg)
+  /// The `lampPendant` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lampPendant` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lamp-pendant-duotone](https://api.iconify.design/ph/lamp-pendant-duotone.svg?height=32&color=%23888888)
   static const lampPendant = PhosphorDuotoneIconData(
     IconData(
       0xee2e,
@@ -13367,7 +16703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![laptop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/laptop-duotone.svg)
+  /// The `laptop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `laptop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![laptop-duotone](https://api.iconify.design/ph/laptop-duotone.svg?height=32&color=%23888888)
   static const laptop = PhosphorDuotoneIconData(
     IconData(
       0xe586,
@@ -13383,7 +16723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lasso-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lasso-duotone.svg)
+  /// The `lasso` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lasso` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lasso-duotone](https://api.iconify.design/ph/lasso-duotone.svg?height=32&color=%23888888)
   static const lasso = PhosphorDuotoneIconData(
     IconData(
       0xedc6,
@@ -13399,7 +16743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lastfm-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lastfm-logo-duotone.svg)
+  /// The `lastfmLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lastfmLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lastfm-logo-duotone](https://api.iconify.design/ph/lastfm-logo-duotone.svg?height=32&color=%23888888)
   static const lastfmLogo = PhosphorDuotoneIconData(
     IconData(
       0xe842,
@@ -13415,7 +16763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![layout-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/layout-duotone.svg)
+  /// The `layout` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `layout` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![layout-duotone](https://api.iconify.design/ph/layout-duotone.svg?height=32&color=%23888888)
   static const layout = PhosphorDuotoneIconData(
     IconData(
       0xe6d6,
@@ -13431,7 +16783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![leaf-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/leaf-duotone.svg)
+  /// The `leaf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `leaf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![leaf-duotone](https://api.iconify.design/ph/leaf-duotone.svg?height=32&color=%23888888)
   static const leaf = PhosphorDuotoneIconData(
     IconData(
       0xe2da,
@@ -13447,7 +16803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lectern-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lectern-duotone.svg)
+  /// The `lectern` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lectern` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lectern-duotone](https://api.iconify.design/ph/lectern-duotone.svg?height=32&color=%23888888)
   static const lectern = PhosphorDuotoneIconData(
     IconData(
       0xe95a,
@@ -13463,7 +16823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lego-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-duotone.svg)
+  /// The `lego` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lego` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lego-duotone](https://api.iconify.design/ph/lego-duotone.svg?height=32&color=%23888888)
   static const lego = PhosphorDuotoneIconData(
     IconData(
       0xe8c6,
@@ -13479,7 +16843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lego-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lego-smiley-duotone.svg)
+  /// The `legoSmiley` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `legoSmiley` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lego-smiley-duotone](https://api.iconify.design/ph/lego-smiley-duotone.svg?height=32&color=%23888888)
   static const legoSmiley = PhosphorDuotoneIconData(
     IconData(
       0xe8c7,
@@ -13495,7 +16863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lemniscate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lemniscate-duotone.svg)
+  /// The `lemniscate` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lemniscate` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lemniscate-duotone](https://api.iconify.design/ph/infinity-duotone.svg?height=32&color=%23888888)
   static const lemniscate = PhosphorDuotoneIconData(
     IconData(
       0xe634,
@@ -13511,7 +16883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![less-than-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-duotone.svg)
+  /// The `lessThan` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lessThan` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![less-than-duotone](https://api.iconify.design/ph/less-than-duotone.svg?height=32&color=%23888888)
   static const lessThan = PhosphorDuotoneIconData(
     IconData(
       0xedac,
@@ -13527,7 +16903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![less-than-or-equal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/less-than-or-equal-duotone.svg)
+  /// The `lessThanOrEqual` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lessThanOrEqual` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![less-than-or-equal-duotone](https://api.iconify.design/ph/less-than-or-equal-duotone.svg?height=32&color=%23888888)
   static const lessThanOrEqual = PhosphorDuotoneIconData(
     IconData(
       0xeda4,
@@ -13543,7 +16923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![letter-circle-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-h-duotone.svg)
+  /// The `letterCircleH` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `letterCircleH` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![letter-circle-h-duotone](https://api.iconify.design/ph/letter-circle-h-duotone.svg?height=32&color=%23888888)
   static const letterCircleH = PhosphorDuotoneIconData(
     IconData(
       0xebf8,
@@ -13559,7 +16943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![letter-circle-p-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-p-duotone.svg)
+  /// The `letterCircleP` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `letterCircleP` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![letter-circle-p-duotone](https://api.iconify.design/ph/letter-circle-p-duotone.svg?height=32&color=%23888888)
   static const letterCircleP = PhosphorDuotoneIconData(
     IconData(
       0xec08,
@@ -13575,7 +16963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![letter-circle-v-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/letter-circle-v-duotone.svg)
+  /// The `letterCircleV` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `letterCircleV` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![letter-circle-v-duotone](https://api.iconify.design/ph/letter-circle-v-duotone.svg?height=32&color=%23888888)
   static const letterCircleV = PhosphorDuotoneIconData(
     IconData(
       0xec14,
@@ -13591,7 +16983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lifebuoy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lifebuoy-duotone.svg)
+  /// The `lifebuoy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lifebuoy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lifebuoy-duotone](https://api.iconify.design/ph/lifebuoy-duotone.svg?height=32&color=%23888888)
   static const lifebuoy = PhosphorDuotoneIconData(
     IconData(
       0xe63a,
@@ -13607,7 +17003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lightbulb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-duotone.svg)
+  /// The `lightbulb` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lightbulb` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lightbulb-duotone](https://api.iconify.design/ph/lightbulb-duotone.svg?height=32&color=%23888888)
   static const lightbulb = PhosphorDuotoneIconData(
     IconData(
       0xe2dc,
@@ -13623,7 +17023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lightbulb-filament-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightbulb-filament-duotone.svg)
+  /// The `lightbulbFilament` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lightbulbFilament` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lightbulb-filament-duotone](https://api.iconify.design/ph/lightbulb-filament-duotone.svg?height=32&color=%23888888)
   static const lightbulbFilament = PhosphorDuotoneIconData(
     IconData(
       0xe63c,
@@ -13639,7 +17043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lighthouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lighthouse-duotone.svg)
+  /// The `lighthouse` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lighthouse` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lighthouse-duotone](https://api.iconify.design/ph/lighthouse-duotone.svg?height=32&color=%23888888)
   static const lighthouse = PhosphorDuotoneIconData(
     IconData(
       0xe9f6,
@@ -13655,7 +17063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lightning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-duotone.svg)
+  /// The `lightning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lightning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lightning-duotone](https://api.iconify.design/ph/lightning-duotone.svg?height=32&color=%23888888)
   static const lightning = PhosphorDuotoneIconData(
     IconData(
       0xe2de,
@@ -13671,7 +17083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lightning-a-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-a-duotone.svg)
+  /// The `lightningA` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lightningA` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lightning-a-duotone](https://api.iconify.design/ph/lightning-a-duotone.svg?height=32&color=%23888888)
   static const lightningA = PhosphorDuotoneIconData(
     IconData(
       0xea84,
@@ -13687,7 +17103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lightning-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lightning-slash-duotone.svg)
+  /// The `lightningSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lightningSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lightning-slash-duotone](https://api.iconify.design/ph/lightning-slash-duotone.svg?height=32&color=%23888888)
   static const lightningSlash = PhosphorDuotoneIconData(
     IconData(
       0xe2e0,
@@ -13703,7 +17123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![line-segment-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segment-duotone.svg)
+  /// The `lineSegment` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lineSegment` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![line-segment-duotone](https://api.iconify.design/ph/line-segment-duotone.svg?height=32&color=%23888888)
   static const lineSegment = PhosphorDuotoneIconData(
     IconData(
       0xe6d2,
@@ -13719,7 +17143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![line-segments-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-segments-duotone.svg)
+  /// The `lineSegments` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lineSegments` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![line-segments-duotone](https://api.iconify.design/ph/line-segments-duotone.svg?height=32&color=%23888888)
   static const lineSegments = PhosphorDuotoneIconData(
     IconData(
       0xe6d4,
@@ -13735,7 +17163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![line-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/line-vertical-duotone.svg)
+  /// The `lineVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![line-vertical-duotone](https://api.iconify.design/ph/line-vertical-duotone.svg?height=32&color=%23888888)
   static const lineVertical = PhosphorDuotoneIconData(
     IconData(
       0xed70,
@@ -13751,7 +17183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![link-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-duotone.svg)
+  /// The `link` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `link` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![link-duotone](https://api.iconify.design/ph/link-duotone.svg?height=32&color=%23888888)
   static const link = PhosphorDuotoneIconData(
     IconData(
       0xe2e2,
@@ -13767,7 +17203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![link-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-break-duotone.svg)
+  /// The `linkBreak` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linkBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![link-break-duotone](https://api.iconify.design/ph/link-break-duotone.svg?height=32&color=%23888888)
   static const linkBreak = PhosphorDuotoneIconData(
     IconData(
       0xe2e4,
@@ -13783,7 +17223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![link-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-duotone.svg)
+  /// The `linkSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linkSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![link-simple-duotone](https://api.iconify.design/ph/link-simple-duotone.svg?height=32&color=%23888888)
   static const linkSimple = PhosphorDuotoneIconData(
     IconData(
       0xe2e6,
@@ -13799,7 +17243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![link-simple-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-break-duotone.svg)
+  /// The `linkSimpleBreak` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linkSimpleBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![link-simple-break-duotone](https://api.iconify.design/ph/link-simple-break-duotone.svg?height=32&color=%23888888)
   static const linkSimpleBreak = PhosphorDuotoneIconData(
     IconData(
       0xe2e8,
@@ -13815,7 +17263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![link-simple-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-duotone.svg)
+  /// The `linkSimpleHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linkSimpleHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![link-simple-horizontal-duotone](https://api.iconify.design/ph/link-simple-horizontal-duotone.svg?height=32&color=%23888888)
   static const linkSimpleHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe2ea,
@@ -13831,7 +17283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![link-simple-horizontal-break-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/link-simple-horizontal-break-duotone.svg)
+  /// The `linkSimpleHorizontalBreak` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![link-simple-horizontal-break-duotone](https://api.iconify.design/ph/link-simple-horizontal-break-duotone.svg?height=32&color=%23888888)
   static const linkSimpleHorizontalBreak = PhosphorDuotoneIconData(
     IconData(
       0xe2ec,
@@ -13847,7 +17303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![linkedin-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linkedin-logo-duotone.svg)
+  /// The `linkedinLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linkedinLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![linkedin-logo-duotone](https://api.iconify.design/ph/linkedin-logo-duotone.svg?height=32&color=%23888888)
   static const linkedinLogo = PhosphorDuotoneIconData(
     IconData(
       0xe2ee,
@@ -13863,7 +17323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![linktree-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linktree-logo-duotone.svg)
+  /// The `linktreeLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linktreeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![linktree-logo-duotone](https://api.iconify.design/ph/linktree-logo-duotone.svg?height=32&color=%23888888)
   static const linktreeLogo = PhosphorDuotoneIconData(
     IconData(
       0xedee,
@@ -13879,7 +17343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![linux-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/linux-logo-duotone.svg)
+  /// The `linuxLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `linuxLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![linux-logo-duotone](https://api.iconify.design/ph/linux-logo-duotone.svg?height=32&color=%23888888)
   static const linuxLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb02,
@@ -13895,7 +17363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-duotone.svg)
+  /// The `list` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `list` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-duotone](https://api.iconify.design/ph/list-duotone.svg?height=32&color=%23888888)
   static const list = PhosphorDuotoneIconData(
     IconData(
       0xe2f0,
@@ -13911,7 +17383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-bullets-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-bullets-duotone.svg)
+  /// The `listBullets` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listBullets` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-bullets-duotone](https://api.iconify.design/ph/list-bullets-duotone.svg?height=32&color=%23888888)
   static const listBullets = PhosphorDuotoneIconData(
     IconData(
       0xe2f2,
@@ -13927,7 +17403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-checks-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-checks-duotone.svg)
+  /// The `listChecks` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listChecks` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-checks-duotone](https://api.iconify.design/ph/list-checks-duotone.svg?height=32&color=%23888888)
   static const listChecks = PhosphorDuotoneIconData(
     IconData(
       0xeadc,
@@ -13943,7 +17423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-dashes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-dashes-duotone.svg)
+  /// The `listDashes` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listDashes` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-dashes-duotone](https://api.iconify.design/ph/list-dashes-duotone.svg?height=32&color=%23888888)
   static const listDashes = PhosphorDuotoneIconData(
     IconData(
       0xe2f4,
@@ -13959,7 +17443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-heart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-heart-duotone.svg)
+  /// The `listHeart` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listHeart` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-heart-duotone](https://api.iconify.design/ph/list-heart-duotone.svg?height=32&color=%23888888)
   static const listHeart = PhosphorDuotoneIconData(
     IconData(
       0xebde,
@@ -13975,7 +17463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-magnifying-glass-duotone.svg)
+  /// The `listMagnifyingGlass` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listMagnifyingGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-magnifying-glass-duotone](https://api.iconify.design/ph/list-magnifying-glass-duotone.svg?height=32&color=%23888888)
   static const listMagnifyingGlass = PhosphorDuotoneIconData(
     IconData(
       0xebe0,
@@ -13991,7 +17483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-numbers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-numbers-duotone.svg)
+  /// The `listNumbers` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listNumbers` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-numbers-duotone](https://api.iconify.design/ph/list-numbers-duotone.svg?height=32&color=%23888888)
   static const listNumbers = PhosphorDuotoneIconData(
     IconData(
       0xe2f6,
@@ -14007,7 +17503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-plus-duotone.svg)
+  /// The `listPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-plus-duotone](https://api.iconify.design/ph/list-plus-duotone.svg?height=32&color=%23888888)
   static const listPlus = PhosphorDuotoneIconData(
     IconData(
       0xe2f8,
@@ -14023,7 +17523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![list-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/list-star-duotone.svg)
+  /// The `listStar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `listStar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![list-star-duotone](https://api.iconify.design/ph/list-star-duotone.svg?height=32&color=%23888888)
   static const listStar = PhosphorDuotoneIconData(
     IconData(
       0xebdc,
@@ -14039,7 +17543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-duotone.svg)
+  /// The `lock` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lock` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-duotone](https://api.iconify.design/ph/lock-duotone.svg?height=32&color=%23888888)
   static const lock = PhosphorDuotoneIconData(
     IconData(
       0xe2fa,
@@ -14055,7 +17563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-key-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-duotone.svg)
+  /// The `lockKey` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockKey` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-key-duotone](https://api.iconify.design/ph/lock-key-duotone.svg?height=32&color=%23888888)
   static const lockKey = PhosphorDuotoneIconData(
     IconData(
       0xe2fe,
@@ -14071,7 +17583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-key-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-key-open-duotone.svg)
+  /// The `lockKeyOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockKeyOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-key-open-duotone](https://api.iconify.design/ph/lock-key-open-duotone.svg?height=32&color=%23888888)
   static const lockKeyOpen = PhosphorDuotoneIconData(
     IconData(
       0xe300,
@@ -14087,7 +17603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-laminated-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-duotone.svg)
+  /// The `lockLaminated` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockLaminated` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-laminated-duotone](https://api.iconify.design/ph/lock-laminated-duotone.svg?height=32&color=%23888888)
   static const lockLaminated = PhosphorDuotoneIconData(
     IconData(
       0xe302,
@@ -14103,7 +17623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-laminated-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-laminated-open-duotone.svg)
+  /// The `lockLaminatedOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockLaminatedOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-laminated-open-duotone](https://api.iconify.design/ph/lock-laminated-open-duotone.svg?height=32&color=%23888888)
   static const lockLaminatedOpen = PhosphorDuotoneIconData(
     IconData(
       0xe304,
@@ -14119,7 +17643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-open-duotone.svg)
+  /// The `lockOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-open-duotone](https://api.iconify.design/ph/lock-open-duotone.svg?height=32&color=%23888888)
   static const lockOpen = PhosphorDuotoneIconData(
     IconData(
       0xe306,
@@ -14135,7 +17663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-duotone.svg)
+  /// The `lockSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-simple-duotone](https://api.iconify.design/ph/lock-simple-duotone.svg?height=32&color=%23888888)
   static const lockSimple = PhosphorDuotoneIconData(
     IconData(
       0xe308,
@@ -14151,7 +17683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lock-simple-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lock-simple-open-duotone.svg)
+  /// The `lockSimpleOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockSimpleOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lock-simple-open-duotone](https://api.iconify.design/ph/lock-simple-open-duotone.svg?height=32&color=%23888888)
   static const lockSimpleOpen = PhosphorDuotoneIconData(
     IconData(
       0xe30a,
@@ -14167,7 +17703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![lockers-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/lockers-duotone.svg)
+  /// The `lockers` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `lockers` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![lockers-duotone](https://api.iconify.design/ph/lockers-duotone.svg?height=32&color=%23888888)
   static const lockers = PhosphorDuotoneIconData(
     IconData(
       0xecb8,
@@ -14183,7 +17723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![log-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/log-duotone.svg)
+  /// The `log` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `log` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![log-duotone](https://api.iconify.design/ph/log-duotone.svg?height=32&color=%23888888)
   static const log = PhosphorDuotoneIconData(
     IconData(
       0xed82,
@@ -14199,7 +17743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![magic-wand-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magic-wand-duotone.svg)
+  /// The `magicWand` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `magicWand` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![magic-wand-duotone](https://api.iconify.design/ph/magic-wand-duotone.svg?height=32&color=%23888888)
   static const magicWand = PhosphorDuotoneIconData(
     IconData(
       0xe6b6,
@@ -14215,7 +17763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![magnet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-duotone.svg)
+  /// The `magnet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `magnet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![magnet-duotone](https://api.iconify.design/ph/magnet-duotone.svg?height=32&color=%23888888)
   static const magnet = PhosphorDuotoneIconData(
     IconData(
       0xe680,
@@ -14231,7 +17783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![magnet-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnet-straight-duotone.svg)
+  /// The `magnetStraight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `magnetStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![magnet-straight-duotone](https://api.iconify.design/ph/magnet-straight-duotone.svg?height=32&color=%23888888)
   static const magnetStraight = PhosphorDuotoneIconData(
     IconData(
       0xe682,
@@ -14247,7 +17803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![magnifying-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-duotone.svg)
+  /// The `magnifyingGlass` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `magnifyingGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![magnifying-glass-duotone](https://api.iconify.design/ph/magnifying-glass-duotone.svg?height=32&color=%23888888)
   static const magnifyingGlass = PhosphorDuotoneIconData(
     IconData(
       0xe30c,
@@ -14263,7 +17823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![magnifying-glass-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-minus-duotone.svg)
+  /// The `magnifyingGlassMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `magnifyingGlassMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![magnifying-glass-minus-duotone](https://api.iconify.design/ph/magnifying-glass-minus-duotone.svg?height=32&color=%23888888)
   static const magnifyingGlassMinus = PhosphorDuotoneIconData(
     IconData(
       0xe30e,
@@ -14279,7 +17843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![magnifying-glass-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/magnifying-glass-plus-duotone.svg)
+  /// The `magnifyingGlassPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `magnifyingGlassPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![magnifying-glass-plus-duotone](https://api.iconify.design/ph/magnifying-glass-plus-duotone.svg?height=32&color=%23888888)
   static const magnifyingGlassPlus = PhosphorDuotoneIconData(
     IconData(
       0xe310,
@@ -14295,7 +17863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mailbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mailbox-duotone.svg)
+  /// The `mailbox` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mailbox` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mailbox-duotone](https://api.iconify.design/ph/mailbox-duotone.svg?height=32&color=%23888888)
   static const mailbox = PhosphorDuotoneIconData(
     IconData(
       0xec1e,
@@ -14311,7 +17883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-duotone.svg)
+  /// The `mapPin` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapPin` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-pin-duotone](https://api.iconify.design/ph/map-pin-duotone.svg?height=32&color=%23888888)
   static const mapPin = PhosphorDuotoneIconData(
     IconData(
       0xe316,
@@ -14327,7 +17903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-pin-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-area-duotone.svg)
+  /// The `mapPinArea` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapPinArea` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-pin-area-duotone](https://api.iconify.design/ph/map-pin-area-duotone.svg?height=32&color=%23888888)
   static const mapPinArea = PhosphorDuotoneIconData(
     IconData(
       0xee3a,
@@ -14343,7 +17923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-pin-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-line-duotone.svg)
+  /// The `mapPinLine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapPinLine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-pin-line-duotone](https://api.iconify.design/ph/map-pin-line-duotone.svg?height=32&color=%23888888)
   static const mapPinLine = PhosphorDuotoneIconData(
     IconData(
       0xe318,
@@ -14359,7 +17943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-pin-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-plus-duotone.svg)
+  /// The `mapPinPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapPinPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-pin-plus-duotone](https://api.iconify.design/ph/map-pin-plus-duotone.svg?height=32&color=%23888888)
   static const mapPinPlus = PhosphorDuotoneIconData(
     IconData(
       0xe314,
@@ -14375,7 +17963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-duotone.svg)
+  /// The `mapPinSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapPinSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-pin-simple-duotone](https://api.iconify.design/ph/map-pin-simple-duotone.svg?height=32&color=%23888888)
   static const mapPinSimple = PhosphorDuotoneIconData(
     IconData(
       0xee3e,
@@ -14391,7 +17983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-pin-simple-area-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-area-duotone.svg)
+  /// The `mapPinSimpleArea` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapPinSimpleArea` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-pin-simple-area-duotone](https://api.iconify.design/ph/map-pin-simple-area-duotone.svg?height=32&color=%23888888)
   static const mapPinSimpleArea = PhosphorDuotoneIconData(
     IconData(
       0xee3c,
@@ -14407,7 +18003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-pin-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-pin-simple-line-duotone.svg)
+  /// The `mapPinSimpleLine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapPinSimpleLine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-pin-simple-line-duotone](https://api.iconify.design/ph/map-pin-simple-line-duotone.svg?height=32&color=%23888888)
   static const mapPinSimpleLine = PhosphorDuotoneIconData(
     IconData(
       0xee38,
@@ -14423,7 +18023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![map-trifold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/map-trifold-duotone.svg)
+  /// The `mapTrifold` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mapTrifold` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![map-trifold-duotone](https://api.iconify.design/ph/map-trifold-duotone.svg?height=32&color=%23888888)
   static const mapTrifold = PhosphorDuotoneIconData(
     IconData(
       0xe31a,
@@ -14439,7 +18043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![markdown-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/markdown-logo-duotone.svg)
+  /// The `markdownLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `markdownLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![markdown-logo-duotone](https://api.iconify.design/ph/markdown-logo-duotone.svg?height=32&color=%23888888)
   static const markdownLogo = PhosphorDuotoneIconData(
     IconData(
       0xe508,
@@ -14455,7 +18063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![marker-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/marker-circle-duotone.svg)
+  /// The `markerCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `markerCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![marker-circle-duotone](https://api.iconify.design/ph/marker-circle-duotone.svg?height=32&color=%23888888)
   static const markerCircle = PhosphorDuotoneIconData(
     IconData(
       0xe640,
@@ -14471,7 +18083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![martini-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/martini-duotone.svg)
+  /// The `martini` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `martini` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![martini-duotone](https://api.iconify.design/ph/martini-duotone.svg?height=32&color=%23888888)
   static const martini = PhosphorDuotoneIconData(
     IconData(
       0xe31c,
@@ -14487,7 +18103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mask-happy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-happy-duotone.svg)
+  /// The `maskHappy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `maskHappy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mask-happy-duotone](https://api.iconify.design/ph/mask-happy-duotone.svg?height=32&color=%23888888)
   static const maskHappy = PhosphorDuotoneIconData(
     IconData(
       0xe9f4,
@@ -14503,7 +18123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mask-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mask-sad-duotone.svg)
+  /// The `maskSad` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `maskSad` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mask-sad-duotone](https://api.iconify.design/ph/mask-sad-duotone.svg?height=32&color=%23888888)
   static const maskSad = PhosphorDuotoneIconData(
     IconData(
       0xeb9e,
@@ -14519,7 +18143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mastodon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mastodon-logo-duotone.svg)
+  /// The `mastodonLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mastodonLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mastodon-logo-duotone](https://api.iconify.design/ph/mastodon-logo-duotone.svg?height=32&color=%23888888)
   static const mastodonLogo = PhosphorDuotoneIconData(
     IconData(
       0xed68,
@@ -14535,7 +18163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![math-operations-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/math-operations-duotone.svg)
+  /// The `mathOperations` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mathOperations` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![math-operations-duotone](https://api.iconify.design/ph/math-operations-duotone.svg?height=32&color=%23888888)
   static const mathOperations = PhosphorDuotoneIconData(
     IconData(
       0xe31e,
@@ -14551,7 +18183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![matrix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/matrix-logo-duotone.svg)
+  /// The `matrixLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `matrixLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![matrix-logo-duotone](https://api.iconify.design/ph/matrix-logo-duotone.svg?height=32&color=%23888888)
   static const matrixLogo = PhosphorDuotoneIconData(
     IconData(
       0xed64,
@@ -14567,7 +18203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![medal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-duotone.svg)
+  /// The `medal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `medal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![medal-duotone](https://api.iconify.design/ph/medal-duotone.svg?height=32&color=%23888888)
   static const medal = PhosphorDuotoneIconData(
     IconData(
       0xe320,
@@ -14583,7 +18223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![medal-military-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medal-military-duotone.svg)
+  /// The `medalMilitary` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `medalMilitary` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![medal-military-duotone](https://api.iconify.design/ph/medal-military-duotone.svg?height=32&color=%23888888)
   static const medalMilitary = PhosphorDuotoneIconData(
     IconData(
       0xecfc,
@@ -14599,7 +18243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![medium-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/medium-logo-duotone.svg)
+  /// The `mediumLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mediumLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![medium-logo-duotone](https://api.iconify.design/ph/medium-logo-duotone.svg?height=32&color=%23888888)
   static const mediumLogo = PhosphorDuotoneIconData(
     IconData(
       0xe322,
@@ -14615,7 +18263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![megaphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-duotone.svg)
+  /// The `megaphone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `megaphone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![megaphone-duotone](https://api.iconify.design/ph/megaphone-duotone.svg?height=32&color=%23888888)
   static const megaphone = PhosphorDuotoneIconData(
     IconData(
       0xe324,
@@ -14631,7 +18283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![megaphone-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/megaphone-simple-duotone.svg)
+  /// The `megaphoneSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `megaphoneSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![megaphone-simple-duotone](https://api.iconify.design/ph/megaphone-simple-duotone.svg?height=32&color=%23888888)
   static const megaphoneSimple = PhosphorDuotoneIconData(
     IconData(
       0xe642,
@@ -14647,7 +18303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/member-of-duotone.svg)
+  /// The `memberOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `memberOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![member-of-duotone](https://api.iconify.design/ph/member-of-duotone.svg?height=32&color=%23888888)
   static const memberOf = PhosphorDuotoneIconData(
     IconData(
       0xedc2,
@@ -14663,7 +18323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![memory-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/memory-duotone.svg)
+  /// The `memory` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `memory` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![memory-duotone](https://api.iconify.design/ph/memory-duotone.svg?height=32&color=%23888888)
   static const memory = PhosphorDuotoneIconData(
     IconData(
       0xe9c4,
@@ -14679,7 +18343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![messenger-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/messenger-logo-duotone.svg)
+  /// The `messengerLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `messengerLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![messenger-logo-duotone](https://api.iconify.design/ph/messenger-logo-duotone.svg?height=32&color=%23888888)
   static const messengerLogo = PhosphorDuotoneIconData(
     IconData(
       0xe6d8,
@@ -14695,7 +18363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![meta-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meta-logo-duotone.svg)
+  /// The `metaLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `metaLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![meta-logo-duotone](https://api.iconify.design/ph/meta-logo-duotone.svg?height=32&color=%23888888)
   static const metaLogo = PhosphorDuotoneIconData(
     IconData(
       0xed02,
@@ -14711,7 +18383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![meteor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/meteor-duotone.svg)
+  /// The `meteor` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `meteor` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![meteor-duotone](https://api.iconify.design/ph/meteor-duotone.svg?height=32&color=%23888888)
   static const meteor = PhosphorDuotoneIconData(
     IconData(
       0xe9ba,
@@ -14727,7 +18403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![metronome-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/metronome-duotone.svg)
+  /// The `metronome` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `metronome` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![metronome-duotone](https://api.iconify.design/ph/metronome-duotone.svg?height=32&color=%23888888)
   static const metronome = PhosphorDuotoneIconData(
     IconData(
       0xec8e,
@@ -14743,7 +18423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microphone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-duotone.svg)
+  /// The `microphone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microphone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microphone-duotone](https://api.iconify.design/ph/microphone-duotone.svg?height=32&color=%23888888)
   static const microphone = PhosphorDuotoneIconData(
     IconData(
       0xe326,
@@ -14759,7 +18443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microphone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-slash-duotone.svg)
+  /// The `microphoneSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microphoneSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microphone-slash-duotone](https://api.iconify.design/ph/microphone-slash-duotone.svg?height=32&color=%23888888)
   static const microphoneSlash = PhosphorDuotoneIconData(
     IconData(
       0xe328,
@@ -14775,7 +18463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microphone-stage-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microphone-stage-duotone.svg)
+  /// The `microphoneStage` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microphoneStage` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microphone-stage-duotone](https://api.iconify.design/ph/microphone-stage-duotone.svg?height=32&color=%23888888)
   static const microphoneStage = PhosphorDuotoneIconData(
     IconData(
       0xe75c,
@@ -14791,7 +18483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microscope-duotone.svg)
+  /// The `microscope` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microscope` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microscope-duotone](https://api.iconify.design/ph/microscope-duotone.svg?height=32&color=%23888888)
   static const microscope = PhosphorDuotoneIconData(
     IconData(
       0xec7a,
@@ -14807,7 +18503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microsoft-excel-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-excel-logo-duotone.svg)
+  /// The `microsoftExcelLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microsoftExcelLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microsoft-excel-logo-duotone](https://api.iconify.design/ph/microsoft-excel-logo-duotone.svg?height=32&color=%23888888)
   static const microsoftExcelLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb6c,
@@ -14823,7 +18523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microsoft-outlook-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-outlook-logo-duotone.svg)
+  /// The `microsoftOutlookLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microsoftOutlookLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microsoft-outlook-logo-duotone](https://api.iconify.design/ph/microsoft-outlook-logo-duotone.svg?height=32&color=%23888888)
   static const microsoftOutlookLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb70,
@@ -14839,7 +18543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microsoft-powerpoint-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-powerpoint-logo-duotone.svg)
+  /// The `microsoftPowerpointLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microsoftPowerpointLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microsoft-powerpoint-logo-duotone](https://api.iconify.design/ph/microsoft-powerpoint-logo-duotone.svg?height=32&color=%23888888)
   static const microsoftPowerpointLogo = PhosphorDuotoneIconData(
     IconData(
       0xeace,
@@ -14855,7 +18563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microsoft-teams-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-teams-logo-duotone.svg)
+  /// The `microsoftTeamsLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microsoftTeamsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microsoft-teams-logo-duotone](https://api.iconify.design/ph/microsoft-teams-logo-duotone.svg?height=32&color=%23888888)
   static const microsoftTeamsLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb66,
@@ -14871,7 +18583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![microsoft-word-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/microsoft-word-logo-duotone.svg)
+  /// The `microsoftWordLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `microsoftWordLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![microsoft-word-logo-duotone](https://api.iconify.design/ph/microsoft-word-logo-duotone.svg?height=32&color=%23888888)
   static const microsoftWordLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb6a,
@@ -14887,7 +18603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-duotone.svg)
+  /// The `minus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `minus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![minus-duotone](https://api.iconify.design/ph/minus-duotone.svg?height=32&color=%23888888)
   static const minus = PhosphorDuotoneIconData(
     IconData(
       0xe32a,
@@ -14903,7 +18623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![minus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-circle-duotone.svg)
+  /// The `minusCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `minusCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![minus-circle-duotone](https://api.iconify.design/ph/minus-circle-duotone.svg?height=32&color=%23888888)
   static const minusCircle = PhosphorDuotoneIconData(
     IconData(
       0xe32c,
@@ -14919,7 +18643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![minus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/minus-square-duotone.svg)
+  /// The `minusSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `minusSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![minus-square-duotone](https://api.iconify.design/ph/minus-square-duotone.svg?height=32&color=%23888888)
   static const minusSquare = PhosphorDuotoneIconData(
     IconData(
       0xed4c,
@@ -14935,7 +18663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![money-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-duotone.svg)
+  /// The `money` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `money` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![money-duotone](https://api.iconify.design/ph/money-duotone.svg?height=32&color=%23888888)
   static const money = PhosphorDuotoneIconData(
     IconData(
       0xe588,
@@ -14951,7 +18683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![money-wavy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/money-wavy-duotone.svg)
+  /// The `moneyWavy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `moneyWavy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![money-wavy-duotone](https://api.iconify.design/ph/money-wavy-duotone.svg?height=32&color=%23888888)
   static const moneyWavy = PhosphorDuotoneIconData(
     IconData(
       0xee68,
@@ -14967,7 +18703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![monitor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-duotone.svg)
+  /// The `monitor` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `monitor` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![monitor-duotone](https://api.iconify.design/ph/monitor-duotone.svg?height=32&color=%23888888)
   static const monitor = PhosphorDuotoneIconData(
     IconData(
       0xe32e,
@@ -14983,7 +18723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![monitor-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-arrow-up-duotone.svg)
+  /// The `monitorArrowUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `monitorArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![monitor-arrow-up-duotone](https://api.iconify.design/ph/monitor-arrow-up-duotone.svg?height=32&color=%23888888)
   static const monitorArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe58a,
@@ -14999,7 +18743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![monitor-play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/monitor-play-duotone.svg)
+  /// The `monitorPlay` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `monitorPlay` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![monitor-play-duotone](https://api.iconify.design/ph/monitor-play-duotone.svg?height=32&color=%23888888)
   static const monitorPlay = PhosphorDuotoneIconData(
     IconData(
       0xe58c,
@@ -15015,7 +18763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![moon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-duotone.svg)
+  /// The `moon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `moon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![moon-duotone](https://api.iconify.design/ph/moon-duotone.svg?height=32&color=%23888888)
   static const moon = PhosphorDuotoneIconData(
     IconData(
       0xe330,
@@ -15031,7 +18783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![moon-stars-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moon-stars-duotone.svg)
+  /// The `moonStars` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `moonStars` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![moon-stars-duotone](https://api.iconify.design/ph/moon-stars-duotone.svg?height=32&color=%23888888)
   static const moonStars = PhosphorDuotoneIconData(
     IconData(
       0xe58e,
@@ -15047,7 +18803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![moped-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-duotone.svg)
+  /// The `moped` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `moped` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![moped-duotone](https://api.iconify.design/ph/moped-duotone.svg?height=32&color=%23888888)
   static const moped = PhosphorDuotoneIconData(
     IconData(
       0xe824,
@@ -15063,7 +18823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![moped-front-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/moped-front-duotone.svg)
+  /// The `mopedFront` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mopedFront` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![moped-front-duotone](https://api.iconify.design/ph/moped-front-duotone.svg?height=32&color=%23888888)
   static const mopedFront = PhosphorDuotoneIconData(
     IconData(
       0xe822,
@@ -15079,7 +18843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mosque-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mosque-duotone.svg)
+  /// The `mosque` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mosque` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mosque-duotone](https://api.iconify.design/ph/mosque-duotone.svg?height=32&color=%23888888)
   static const mosque = PhosphorDuotoneIconData(
     IconData(
       0xecee,
@@ -15095,7 +18863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![motorcycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/motorcycle-duotone.svg)
+  /// The `motorcycle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `motorcycle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![motorcycle-duotone](https://api.iconify.design/ph/motorcycle-duotone.svg?height=32&color=%23888888)
   static const motorcycle = PhosphorDuotoneIconData(
     IconData(
       0xe80a,
@@ -15111,7 +18883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mountains-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mountains-duotone.svg)
+  /// The `mountains` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mountains` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mountains-duotone](https://api.iconify.design/ph/mountains-duotone.svg?height=32&color=%23888888)
   static const mountains = PhosphorDuotoneIconData(
     IconData(
       0xe7ae,
@@ -15127,7 +18903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-duotone.svg)
+  /// The `mouse` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mouse` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mouse-duotone](https://api.iconify.design/ph/mouse-duotone.svg?height=32&color=%23888888)
   static const mouse = PhosphorDuotoneIconData(
     IconData(
       0xe33a,
@@ -15143,7 +18923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mouse-left-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-left-click-duotone.svg)
+  /// The `mouseLeftClick` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mouseLeftClick` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mouse-left-click-duotone](https://api.iconify.design/ph/mouse-left-click-duotone.svg?height=32&color=%23888888)
   static const mouseLeftClick = PhosphorDuotoneIconData(
     IconData(
       0xe334,
@@ -15159,7 +18943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mouse-middle-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-middle-click-duotone.svg)
+  /// The `mouseMiddleClick` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mouseMiddleClick` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mouse-middle-click-duotone](https://api.iconify.design/ph/mouse-middle-click-duotone.svg?height=32&color=%23888888)
   static const mouseMiddleClick = PhosphorDuotoneIconData(
     IconData(
       0xe338,
@@ -15175,7 +18963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mouse-right-click-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-right-click-duotone.svg)
+  /// The `mouseRightClick` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mouseRightClick` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mouse-right-click-duotone](https://api.iconify.design/ph/mouse-right-click-duotone.svg?height=32&color=%23888888)
   static const mouseRightClick = PhosphorDuotoneIconData(
     IconData(
       0xe336,
@@ -15191,7 +18983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mouse-scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-scroll-duotone.svg)
+  /// The `mouseScroll` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mouseScroll` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mouse-scroll-duotone](https://api.iconify.design/ph/mouse-scroll-duotone.svg?height=32&color=%23888888)
   static const mouseScroll = PhosphorDuotoneIconData(
     IconData(
       0xe332,
@@ -15207,7 +19003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![mouse-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/mouse-simple-duotone.svg)
+  /// The `mouseSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `mouseSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![mouse-simple-duotone](https://api.iconify.design/ph/mouse-simple-duotone.svg?height=32&color=%23888888)
   static const mouseSimple = PhosphorDuotoneIconData(
     IconData(
       0xe644,
@@ -15223,7 +19023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![music-note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-duotone.svg)
+  /// The `musicNote` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `musicNote` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![music-note-duotone](https://api.iconify.design/ph/music-note-duotone.svg?height=32&color=%23888888)
   static const musicNote = PhosphorDuotoneIconData(
     IconData(
       0xe33c,
@@ -15239,7 +19043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![music-note-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-note-simple-duotone.svg)
+  /// The `musicNoteSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `musicNoteSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![music-note-simple-duotone](https://api.iconify.design/ph/music-note-simple-duotone.svg?height=32&color=%23888888)
   static const musicNoteSimple = PhosphorDuotoneIconData(
     IconData(
       0xe33e,
@@ -15255,7 +19063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![music-notes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-duotone.svg)
+  /// The `musicNotes` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `musicNotes` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![music-notes-duotone](https://api.iconify.design/ph/music-notes-duotone.svg?height=32&color=%23888888)
   static const musicNotes = PhosphorDuotoneIconData(
     IconData(
       0xe340,
@@ -15271,7 +19083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![music-notes-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-minus-duotone.svg)
+  /// The `musicNotesMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `musicNotesMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![music-notes-minus-duotone](https://api.iconify.design/ph/music-notes-minus-duotone.svg?height=32&color=%23888888)
   static const musicNotesMinus = PhosphorDuotoneIconData(
     IconData(
       0xee0c,
@@ -15287,7 +19103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![music-notes-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-plus-duotone.svg)
+  /// The `musicNotesPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `musicNotesPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![music-notes-plus-duotone](https://api.iconify.design/ph/music-notes-plus-duotone.svg?height=32&color=%23888888)
   static const musicNotesPlus = PhosphorDuotoneIconData(
     IconData(
       0xeb7c,
@@ -15303,7 +19123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![music-notes-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/music-notes-simple-duotone.svg)
+  /// The `musicNotesSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `musicNotesSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![music-notes-simple-duotone](https://api.iconify.design/ph/music-notes-simple-duotone.svg?height=32&color=%23888888)
   static const musicNotesSimple = PhosphorDuotoneIconData(
     IconData(
       0xe342,
@@ -15319,7 +19143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![navigation-arrow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/navigation-arrow-duotone.svg)
+  /// The `navigationArrow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `navigationArrow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![navigation-arrow-duotone](https://api.iconify.design/ph/navigation-arrow-duotone.svg?height=32&color=%23888888)
   static const navigationArrow = PhosphorDuotoneIconData(
     IconData(
       0xeade,
@@ -15335,7 +19163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![needle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/needle-duotone.svg)
+  /// The `needle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `needle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![needle-duotone](https://api.iconify.design/ph/needle-duotone.svg?height=32&color=%23888888)
   static const needle = PhosphorDuotoneIconData(
     IconData(
       0xe82e,
@@ -15351,7 +19183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-duotone.svg)
+  /// The `network` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `network` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![network-duotone](https://api.iconify.design/ph/network-duotone.svg?height=32&color=%23888888)
   static const network = PhosphorDuotoneIconData(
     IconData(
       0xedde,
@@ -15367,7 +19203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![network-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-slash-duotone.svg)
+  /// The `networkSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `networkSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![network-slash-duotone](https://api.iconify.design/ph/network-slash-duotone.svg?height=32&color=%23888888)
   static const networkSlash = PhosphorDuotoneIconData(
     IconData(
       0xeddc,
@@ -15383,7 +19223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![network-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/network-x-duotone.svg)
+  /// The `networkX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `networkX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![network-x-duotone](https://api.iconify.design/ph/network-x-duotone.svg?height=32&color=%23888888)
   static const networkX = PhosphorDuotoneIconData(
     IconData(
       0xedda,
@@ -15399,7 +19243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![newspaper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-duotone.svg)
+  /// The `newspaper` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `newspaper` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![newspaper-duotone](https://api.iconify.design/ph/newspaper-duotone.svg?height=32&color=%23888888)
   static const newspaper = PhosphorDuotoneIconData(
     IconData(
       0xe344,
@@ -15415,7 +19263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![newspaper-clipping-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/newspaper-clipping-duotone.svg)
+  /// The `newspaperClipping` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `newspaperClipping` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![newspaper-clipping-duotone](https://api.iconify.design/ph/newspaper-clipping-duotone.svg?height=32&color=%23888888)
   static const newspaperClipping = PhosphorDuotoneIconData(
     IconData(
       0xe346,
@@ -15431,7 +19283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![not-equals-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-equals-duotone.svg)
+  /// The `notEquals` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notEquals` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![not-equals-duotone](https://api.iconify.design/ph/not-equals-duotone.svg?height=32&color=%23888888)
   static const notEquals = PhosphorDuotoneIconData(
     IconData(
       0xeda6,
@@ -15447,7 +19303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![not-member-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-member-of-duotone.svg)
+  /// The `notMemberOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notMemberOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![not-member-of-duotone](https://api.iconify.design/ph/not-member-of-duotone.svg?height=32&color=%23888888)
   static const notMemberOf = PhosphorDuotoneIconData(
     IconData(
       0xedae,
@@ -15463,7 +19323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![not-subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-subset-of-duotone.svg)
+  /// The `notSubsetOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notSubsetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![not-subset-of-duotone](https://api.iconify.design/ph/not-subset-of-duotone.svg?height=32&color=%23888888)
   static const notSubsetOf = PhosphorDuotoneIconData(
     IconData(
       0xedb0,
@@ -15479,7 +19343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![not-superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/not-superset-of-duotone.svg)
+  /// The `notSupersetOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notSupersetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![not-superset-of-duotone](https://api.iconify.design/ph/not-superset-of-duotone.svg?height=32&color=%23888888)
   static const notSupersetOf = PhosphorDuotoneIconData(
     IconData(
       0xedb2,
@@ -15495,7 +19363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![notches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notches-duotone.svg)
+  /// The `notches` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notches` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![notches-duotone](https://api.iconify.design/ph/notches-duotone.svg?height=32&color=%23888888)
   static const notches = PhosphorDuotoneIconData(
     IconData(
       0xed3a,
@@ -15511,7 +19383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![note-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-duotone.svg)
+  /// The `note` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `note` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![note-duotone](https://api.iconify.design/ph/note-duotone.svg?height=32&color=%23888888)
   static const note = PhosphorDuotoneIconData(
     IconData(
       0xe348,
@@ -15527,7 +19403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![note-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-blank-duotone.svg)
+  /// The `noteBlank` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `noteBlank` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![note-blank-duotone](https://api.iconify.design/ph/note-blank-duotone.svg?height=32&color=%23888888)
   static const noteBlank = PhosphorDuotoneIconData(
     IconData(
       0xe34a,
@@ -15543,7 +19423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![note-pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/note-pencil-duotone.svg)
+  /// The `notePencil` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notePencil` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![note-pencil-duotone](https://api.iconify.design/ph/note-pencil-duotone.svg?height=32&color=%23888888)
   static const notePencil = PhosphorDuotoneIconData(
     IconData(
       0xe34c,
@@ -15559,7 +19443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![notebook-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notebook-duotone.svg)
+  /// The `notebook` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notebook` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![notebook-duotone](https://api.iconify.design/ph/notebook-duotone.svg?height=32&color=%23888888)
   static const notebook = PhosphorDuotoneIconData(
     IconData(
       0xe34e,
@@ -15575,7 +19463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![notepad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notepad-duotone.svg)
+  /// The `notepad` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notepad` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![notepad-duotone](https://api.iconify.design/ph/notepad-duotone.svg?height=32&color=%23888888)
   static const notepad = PhosphorDuotoneIconData(
     IconData(
       0xe63e,
@@ -15591,7 +19483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![notification-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notification-duotone.svg)
+  /// The `notification` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notification` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![notification-duotone](https://api.iconify.design/ph/notification-duotone.svg?height=32&color=%23888888)
   static const notification = PhosphorDuotoneIconData(
     IconData(
       0xe6fa,
@@ -15607,7 +19503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![notion-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/notion-logo-duotone.svg)
+  /// The `notionLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `notionLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![notion-logo-duotone](https://api.iconify.design/ph/notion-logo-duotone.svg?height=32&color=%23888888)
   static const notionLogo = PhosphorDuotoneIconData(
     IconData(
       0xe9a0,
@@ -15623,7 +19523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![nuclear-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nuclear-plant-duotone.svg)
+  /// The `nuclearPlant` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `nuclearPlant` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![nuclear-plant-duotone](https://api.iconify.design/ph/nuclear-plant-duotone.svg?height=32&color=%23888888)
   static const nuclearPlant = PhosphorDuotoneIconData(
     IconData(
       0xed7c,
@@ -15639,7 +19543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-eight-duotone.svg)
+  /// The `numberCircleEight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleEight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-eight-duotone](https://api.iconify.design/ph/number-circle-eight-duotone.svg?height=32&color=%23888888)
   static const numberCircleEight = PhosphorDuotoneIconData(
     IconData(
       0xe352,
@@ -15655,7 +19563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-five-duotone.svg)
+  /// The `numberCircleFive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleFive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-five-duotone](https://api.iconify.design/ph/number-circle-five-duotone.svg?height=32&color=%23888888)
   static const numberCircleFive = PhosphorDuotoneIconData(
     IconData(
       0xe358,
@@ -15671,7 +19583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-four-duotone.svg)
+  /// The `numberCircleFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-four-duotone](https://api.iconify.design/ph/number-circle-four-duotone.svg?height=32&color=%23888888)
   static const numberCircleFour = PhosphorDuotoneIconData(
     IconData(
       0xe35e,
@@ -15687,7 +19603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-nine-duotone.svg)
+  /// The `numberCircleNine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleNine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-nine-duotone](https://api.iconify.design/ph/number-circle-nine-duotone.svg?height=32&color=%23888888)
   static const numberCircleNine = PhosphorDuotoneIconData(
     IconData(
       0xe364,
@@ -15703,7 +19623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-one-duotone.svg)
+  /// The `numberCircleOne` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleOne` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-one-duotone](https://api.iconify.design/ph/number-circle-one-duotone.svg?height=32&color=%23888888)
   static const numberCircleOne = PhosphorDuotoneIconData(
     IconData(
       0xe36a,
@@ -15719,7 +19643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-seven-duotone.svg)
+  /// The `numberCircleSeven` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleSeven` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-seven-duotone](https://api.iconify.design/ph/number-circle-seven-duotone.svg?height=32&color=%23888888)
   static const numberCircleSeven = PhosphorDuotoneIconData(
     IconData(
       0xe370,
@@ -15735,7 +19663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-six-duotone.svg)
+  /// The `numberCircleSix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleSix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-six-duotone](https://api.iconify.design/ph/number-circle-six-duotone.svg?height=32&color=%23888888)
   static const numberCircleSix = PhosphorDuotoneIconData(
     IconData(
       0xe376,
@@ -15751,7 +19683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-three-duotone.svg)
+  /// The `numberCircleThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-three-duotone](https://api.iconify.design/ph/number-circle-three-duotone.svg?height=32&color=%23888888)
   static const numberCircleThree = PhosphorDuotoneIconData(
     IconData(
       0xe37c,
@@ -15767,7 +19703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-two-duotone.svg)
+  /// The `numberCircleTwo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-two-duotone](https://api.iconify.design/ph/number-circle-two-duotone.svg?height=32&color=%23888888)
   static const numberCircleTwo = PhosphorDuotoneIconData(
     IconData(
       0xe382,
@@ -15783,7 +19723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-circle-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-circle-zero-duotone.svg)
+  /// The `numberCircleZero` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberCircleZero` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-circle-zero-duotone](https://api.iconify.design/ph/number-circle-zero-duotone.svg?height=32&color=%23888888)
   static const numberCircleZero = PhosphorDuotoneIconData(
     IconData(
       0xe388,
@@ -15799,7 +19743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-eight-duotone.svg)
+  /// The `numberEight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberEight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-eight-duotone](https://api.iconify.design/ph/number-eight-duotone.svg?height=32&color=%23888888)
   static const numberEight = PhosphorDuotoneIconData(
     IconData(
       0xe350,
@@ -15815,7 +19763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-five-duotone.svg)
+  /// The `numberFive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberFive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-five-duotone](https://api.iconify.design/ph/number-five-duotone.svg?height=32&color=%23888888)
   static const numberFive = PhosphorDuotoneIconData(
     IconData(
       0xe356,
@@ -15831,7 +19783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-four-duotone.svg)
+  /// The `numberFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-four-duotone](https://api.iconify.design/ph/number-four-duotone.svg?height=32&color=%23888888)
   static const numberFour = PhosphorDuotoneIconData(
     IconData(
       0xe35c,
@@ -15847,7 +19803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-nine-duotone.svg)
+  /// The `numberNine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberNine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-nine-duotone](https://api.iconify.design/ph/number-nine-duotone.svg?height=32&color=%23888888)
   static const numberNine = PhosphorDuotoneIconData(
     IconData(
       0xe362,
@@ -15863,7 +19823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-one-duotone.svg)
+  /// The `numberOne` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberOne` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-one-duotone](https://api.iconify.design/ph/number-one-duotone.svg?height=32&color=%23888888)
   static const numberOne = PhosphorDuotoneIconData(
     IconData(
       0xe368,
@@ -15879,7 +19843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-seven-duotone.svg)
+  /// The `numberSeven` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSeven` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-seven-duotone](https://api.iconify.design/ph/number-seven-duotone.svg?height=32&color=%23888888)
   static const numberSeven = PhosphorDuotoneIconData(
     IconData(
       0xe36e,
@@ -15895,7 +19863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-six-duotone.svg)
+  /// The `numberSix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-six-duotone](https://api.iconify.design/ph/number-six-duotone.svg?height=32&color=%23888888)
   static const numberSix = PhosphorDuotoneIconData(
     IconData(
       0xe374,
@@ -15911,7 +19883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-eight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-eight-duotone.svg)
+  /// The `numberSquareEight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareEight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-eight-duotone](https://api.iconify.design/ph/number-square-eight-duotone.svg?height=32&color=%23888888)
   static const numberSquareEight = PhosphorDuotoneIconData(
     IconData(
       0xe354,
@@ -15927,7 +19903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-five-duotone.svg)
+  /// The `numberSquareFive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareFive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-five-duotone](https://api.iconify.design/ph/number-square-five-duotone.svg?height=32&color=%23888888)
   static const numberSquareFive = PhosphorDuotoneIconData(
     IconData(
       0xe35a,
@@ -15943,7 +19923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-four-duotone.svg)
+  /// The `numberSquareFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-four-duotone](https://api.iconify.design/ph/number-square-four-duotone.svg?height=32&color=%23888888)
   static const numberSquareFour = PhosphorDuotoneIconData(
     IconData(
       0xe360,
@@ -15959,7 +19943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-nine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-nine-duotone.svg)
+  /// The `numberSquareNine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareNine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-nine-duotone](https://api.iconify.design/ph/number-square-nine-duotone.svg?height=32&color=%23888888)
   static const numberSquareNine = PhosphorDuotoneIconData(
     IconData(
       0xe366,
@@ -15975,7 +19963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-one-duotone.svg)
+  /// The `numberSquareOne` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareOne` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-one-duotone](https://api.iconify.design/ph/number-square-one-duotone.svg?height=32&color=%23888888)
   static const numberSquareOne = PhosphorDuotoneIconData(
     IconData(
       0xe36c,
@@ -15991,7 +19983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-seven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-seven-duotone.svg)
+  /// The `numberSquareSeven` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareSeven` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-seven-duotone](https://api.iconify.design/ph/number-square-seven-duotone.svg?height=32&color=%23888888)
   static const numberSquareSeven = PhosphorDuotoneIconData(
     IconData(
       0xe372,
@@ -16007,7 +20003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-six-duotone.svg)
+  /// The `numberSquareSix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareSix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-six-duotone](https://api.iconify.design/ph/number-square-six-duotone.svg?height=32&color=%23888888)
   static const numberSquareSix = PhosphorDuotoneIconData(
     IconData(
       0xe378,
@@ -16023,7 +20023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-three-duotone.svg)
+  /// The `numberSquareThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-three-duotone](https://api.iconify.design/ph/number-square-three-duotone.svg?height=32&color=%23888888)
   static const numberSquareThree = PhosphorDuotoneIconData(
     IconData(
       0xe37e,
@@ -16039,7 +20043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-two-duotone.svg)
+  /// The `numberSquareTwo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-two-duotone](https://api.iconify.design/ph/number-square-two-duotone.svg?height=32&color=%23888888)
   static const numberSquareTwo = PhosphorDuotoneIconData(
     IconData(
       0xe384,
@@ -16055,7 +20063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-square-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-square-zero-duotone.svg)
+  /// The `numberSquareZero` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberSquareZero` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-square-zero-duotone](https://api.iconify.design/ph/number-square-zero-duotone.svg?height=32&color=%23888888)
   static const numberSquareZero = PhosphorDuotoneIconData(
     IconData(
       0xe38a,
@@ -16071,7 +20083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-three-duotone.svg)
+  /// The `numberThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-three-duotone](https://api.iconify.design/ph/number-three-duotone.svg?height=32&color=%23888888)
   static const numberThree = PhosphorDuotoneIconData(
     IconData(
       0xe37a,
@@ -16087,7 +20103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-two-duotone.svg)
+  /// The `numberTwo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-two-duotone](https://api.iconify.design/ph/number-two-duotone.svg?height=32&color=%23888888)
   static const numberTwo = PhosphorDuotoneIconData(
     IconData(
       0xe380,
@@ -16103,7 +20123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![number-zero-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/number-zero-duotone.svg)
+  /// The `numberZero` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numberZero` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![number-zero-duotone](https://api.iconify.design/ph/number-zero-duotone.svg?height=32&color=%23888888)
   static const numberZero = PhosphorDuotoneIconData(
     IconData(
       0xe386,
@@ -16119,7 +20143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![numpad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/numpad-duotone.svg)
+  /// The `numpad` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `numpad` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![numpad-duotone](https://api.iconify.design/ph/numpad-duotone.svg?height=32&color=%23888888)
   static const numpad = PhosphorDuotoneIconData(
     IconData(
       0xe3c8,
@@ -16135,7 +20163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![nut-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/nut-duotone.svg)
+  /// The `nut` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `nut` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![nut-duotone](https://api.iconify.design/ph/nut-duotone.svg?height=32&color=%23888888)
   static const nut = PhosphorDuotoneIconData(
     IconData(
       0xe38c,
@@ -16151,7 +20183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ny-times-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ny-times-logo-duotone.svg)
+  /// The `nyTimesLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `nyTimesLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ny-times-logo-duotone](https://api.iconify.design/ph/ny-times-logo-duotone.svg?height=32&color=%23888888)
   static const nyTimesLogo = PhosphorDuotoneIconData(
     IconData(
       0xe646,
@@ -16167,7 +20203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/octagon-duotone.svg)
+  /// The `octagon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `octagon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![octagon-duotone](https://api.iconify.design/ph/octagon-duotone.svg?height=32&color=%23888888)
   static const octagon = PhosphorDuotoneIconData(
     IconData(
       0xe38e,
@@ -16183,7 +20223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![office-chair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/office-chair-duotone.svg)
+  /// The `officeChair` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `officeChair` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![office-chair-duotone](https://api.iconify.design/ph/office-chair-duotone.svg?height=32&color=%23888888)
   static const officeChair = PhosphorDuotoneIconData(
     IconData(
       0xea46,
@@ -16199,7 +20243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![onigiri-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/onigiri-duotone.svg)
+  /// The `onigiri` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `onigiri` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![onigiri-duotone](https://api.iconify.design/ph/onigiri-duotone.svg?height=32&color=%23888888)
   static const onigiri = PhosphorDuotoneIconData(
     IconData(
       0xee2c,
@@ -16215,7 +20263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![open-ai-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/open-ai-logo-duotone.svg)
+  /// The `openAiLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `openAiLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![open-ai-logo-duotone](https://api.iconify.design/ph/open-ai-logo-duotone.svg?height=32&color=%23888888)
   static const openAiLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7d2,
@@ -16231,7 +20283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![option-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/option-duotone.svg)
+  /// The `option` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `option` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![option-duotone](https://api.iconify.design/ph/option-duotone.svg?height=32&color=%23888888)
   static const option = PhosphorDuotoneIconData(
     IconData(
       0xe8a8,
@@ -16247,7 +20303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![orange-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-duotone.svg)
+  /// The `orange` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `orange` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![orange-duotone](https://api.iconify.design/ph/orange-duotone.svg?height=32&color=%23888888)
   static const orange = PhosphorDuotoneIconData(
     IconData(
       0xee40,
@@ -16263,7 +20323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![orange-slice-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/orange-slice-duotone.svg)
+  /// The `orangeSlice` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `orangeSlice` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![orange-slice-duotone](https://api.iconify.design/ph/orange-slice-duotone.svg?height=32&color=%23888888)
   static const orangeSlice = PhosphorDuotoneIconData(
     IconData(
       0xed36,
@@ -16279,7 +20343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![oven-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/oven-duotone.svg)
+  /// The `oven` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `oven` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![oven-duotone](https://api.iconify.design/ph/oven-duotone.svg?height=32&color=%23888888)
   static const oven = PhosphorDuotoneIconData(
     IconData(
       0xed8c,
@@ -16295,7 +20363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![package-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/package-duotone.svg)
+  /// The `package` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `package` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![package-duotone](https://api.iconify.design/ph/package-duotone.svg?height=32&color=%23888888)
   static const package = PhosphorDuotoneIconData(
     IconData(
       0xe390,
@@ -16311,7 +20383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paint-brush-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-duotone.svg)
+  /// The `paintBrush` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paintBrush` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paint-brush-duotone](https://api.iconify.design/ph/paint-brush-duotone.svg?height=32&color=%23888888)
   static const paintBrush = PhosphorDuotoneIconData(
     IconData(
       0xe6f0,
@@ -16327,7 +20403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paint-brush-broad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-broad-duotone.svg)
+  /// The `paintBrushBroad` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paintBrushBroad` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paint-brush-broad-duotone](https://api.iconify.design/ph/paint-brush-broad-duotone.svg?height=32&color=%23888888)
   static const paintBrushBroad = PhosphorDuotoneIconData(
     IconData(
       0xe590,
@@ -16343,7 +20423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paint-brush-household-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-brush-household-duotone.svg)
+  /// The `paintBrushHousehold` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paintBrushHousehold` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paint-brush-household-duotone](https://api.iconify.design/ph/paint-brush-household-duotone.svg?height=32&color=%23888888)
   static const paintBrushHousehold = PhosphorDuotoneIconData(
     IconData(
       0xe6f2,
@@ -16359,7 +20443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paint-bucket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-bucket-duotone.svg)
+  /// The `paintBucket` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paintBucket` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paint-bucket-duotone](https://api.iconify.design/ph/paint-bucket-duotone.svg?height=32&color=%23888888)
   static const paintBucket = PhosphorDuotoneIconData(
     IconData(
       0xe392,
@@ -16375,7 +20463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paint-roller-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paint-roller-duotone.svg)
+  /// The `paintRoller` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paintRoller` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paint-roller-duotone](https://api.iconify.design/ph/paint-roller-duotone.svg?height=32&color=%23888888)
   static const paintRoller = PhosphorDuotoneIconData(
     IconData(
       0xe6f4,
@@ -16391,7 +20483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![palette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/palette-duotone.svg)
+  /// The `palette` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `palette` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![palette-duotone](https://api.iconify.design/ph/palette-duotone.svg?height=32&color=%23888888)
   static const palette = PhosphorDuotoneIconData(
     IconData(
       0xe6c8,
@@ -16407,7 +20503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![panorama-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/panorama-duotone.svg)
+  /// The `panorama` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `panorama` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![panorama-duotone](https://api.iconify.design/ph/panorama-duotone.svg?height=32&color=%23888888)
   static const panorama = PhosphorDuotoneIconData(
     IconData(
       0xeaa2,
@@ -16423,7 +20523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pants-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pants-duotone.svg)
+  /// The `pants` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pants` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pants-duotone](https://api.iconify.design/ph/pants-duotone.svg?height=32&color=%23888888)
   static const pants = PhosphorDuotoneIconData(
     IconData(
       0xec88,
@@ -16439,7 +20543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paper-plane-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-duotone.svg)
+  /// The `paperPlane` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paperPlane` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paper-plane-duotone](https://api.iconify.design/ph/paper-plane-duotone.svg?height=32&color=%23888888)
   static const paperPlane = PhosphorDuotoneIconData(
     IconData(
       0xe394,
@@ -16455,7 +20563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paper-plane-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-right-duotone.svg)
+  /// The `paperPlaneRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paperPlaneRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paper-plane-right-duotone](https://api.iconify.design/ph/paper-plane-right-duotone.svg?height=32&color=%23888888)
   static const paperPlaneRight = PhosphorDuotoneIconData(
     IconData(
       0xe396,
@@ -16471,7 +20583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paper-plane-tilt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paper-plane-tilt-duotone.svg)
+  /// The `paperPlaneTilt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paperPlaneTilt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paper-plane-tilt-duotone](https://api.iconify.design/ph/paper-plane-tilt-duotone.svg?height=32&color=%23888888)
   static const paperPlaneTilt = PhosphorDuotoneIconData(
     IconData(
       0xe398,
@@ -16487,7 +20603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paperclip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-duotone.svg)
+  /// The `paperclip` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paperclip` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paperclip-duotone](https://api.iconify.design/ph/paperclip-duotone.svg?height=32&color=%23888888)
   static const paperclip = PhosphorDuotoneIconData(
     IconData(
       0xe39a,
@@ -16503,7 +20623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paperclip-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paperclip-horizontal-duotone.svg)
+  /// The `paperclipHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paperclipHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paperclip-horizontal-duotone](https://api.iconify.design/ph/paperclip-horizontal-duotone.svg?height=32&color=%23888888)
   static const paperclipHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe592,
@@ -16519,7 +20643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![parachute-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parachute-duotone.svg)
+  /// The `parachute` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `parachute` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![parachute-duotone](https://api.iconify.design/ph/parachute-duotone.svg?height=32&color=%23888888)
   static const parachute = PhosphorDuotoneIconData(
     IconData(
       0xea7c,
@@ -16535,7 +20663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paragraph-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paragraph-duotone.svg)
+  /// The `paragraph` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paragraph` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paragraph-duotone](https://api.iconify.design/ph/paragraph-duotone.svg?height=32&color=%23888888)
   static const paragraph = PhosphorDuotoneIconData(
     IconData(
       0xe960,
@@ -16551,7 +20683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![parallelogram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/parallelogram-duotone.svg)
+  /// The `parallelogram` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `parallelogram` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![parallelogram-duotone](https://api.iconify.design/ph/parallelogram-duotone.svg?height=32&color=%23888888)
   static const parallelogram = PhosphorDuotoneIconData(
     IconData(
       0xecc6,
@@ -16567,7 +20703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![park-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/park-duotone.svg)
+  /// The `park` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `park` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![park-duotone](https://api.iconify.design/ph/park-duotone.svg?height=32&color=%23888888)
   static const park = PhosphorDuotoneIconData(
     IconData(
       0xecb2,
@@ -16583,7 +20723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![password-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/password-duotone.svg)
+  /// The `password` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `password` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![password-duotone](https://api.iconify.design/ph/password-duotone.svg?height=32&color=%23888888)
   static const password = PhosphorDuotoneIconData(
     IconData(
       0xe752,
@@ -16599,7 +20743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![path-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/path-duotone.svg)
+  /// The `path` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `path` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![path-duotone](https://api.iconify.design/ph/path-duotone.svg?height=32&color=%23888888)
   static const path = PhosphorDuotoneIconData(
     IconData(
       0xe39c,
@@ -16615,7 +20763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![patreon-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/patreon-logo-duotone.svg)
+  /// The `patreonLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `patreonLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![patreon-logo-duotone](https://api.iconify.design/ph/patreon-logo-duotone.svg?height=32&color=%23888888)
   static const patreonLogo = PhosphorDuotoneIconData(
     IconData(
       0xe98a,
@@ -16631,7 +20783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-duotone.svg)
+  /// The `pause` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pause` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pause-duotone](https://api.iconify.design/ph/pause-duotone.svg?height=32&color=%23888888)
   static const pause = PhosphorDuotoneIconData(
     IconData(
       0xe39e,
@@ -16647,7 +20803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pause-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pause-circle-duotone.svg)
+  /// The `pauseCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pauseCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pause-circle-duotone](https://api.iconify.design/ph/pause-circle-duotone.svg?height=32&color=%23888888)
   static const pauseCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3a0,
@@ -16663,7 +20823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paw-print-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paw-print-duotone.svg)
+  /// The `pawPrint` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pawPrint` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paw-print-duotone](https://api.iconify.design/ph/paw-print-duotone.svg?height=32&color=%23888888)
   static const pawPrint = PhosphorDuotoneIconData(
     IconData(
       0xe648,
@@ -16679,7 +20843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![paypal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/paypal-logo-duotone.svg)
+  /// The `paypalLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `paypalLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![paypal-logo-duotone](https://api.iconify.design/ph/paypal-logo-duotone.svg?height=32&color=%23888888)
   static const paypalLogo = PhosphorDuotoneIconData(
     IconData(
       0xe98c,
@@ -16695,7 +20863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![peace-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/peace-duotone.svg)
+  /// The `peace` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `peace` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![peace-duotone](https://api.iconify.design/ph/peace-duotone.svg?height=32&color=%23888888)
   static const peace = PhosphorDuotoneIconData(
     IconData(
       0xe3a2,
@@ -16711,7 +20883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-duotone.svg)
+  /// The `pen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pen-duotone](https://api.iconify.design/ph/pen-duotone.svg?height=32&color=%23888888)
   static const pen = PhosphorDuotoneIconData(
     IconData(
       0xe3aa,
@@ -16727,7 +20903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pen-nib-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-duotone.svg)
+  /// The `penNib` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `penNib` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pen-nib-duotone](https://api.iconify.design/ph/pen-nib-duotone.svg?height=32&color=%23888888)
   static const penNib = PhosphorDuotoneIconData(
     IconData(
       0xe3ac,
@@ -16743,7 +20923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pen-nib-straight-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pen-nib-straight-duotone.svg)
+  /// The `penNibStraight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `penNibStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pen-nib-straight-duotone](https://api.iconify.design/ph/pen-nib-straight-duotone.svg?height=32&color=%23888888)
   static const penNibStraight = PhosphorDuotoneIconData(
     IconData(
       0xe64a,
@@ -16759,7 +20943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-duotone.svg)
+  /// The `pencil` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencil` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-duotone](https://api.iconify.design/ph/pencil-duotone.svg?height=32&color=%23888888)
   static const pencil = PhosphorDuotoneIconData(
     IconData(
       0xe3ae,
@@ -16775,7 +20963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-circle-duotone.svg)
+  /// The `pencilCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencilCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-circle-duotone](https://api.iconify.design/ph/pencil-circle-duotone.svg?height=32&color=%23888888)
   static const pencilCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3b0,
@@ -16791,7 +20983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-line-duotone.svg)
+  /// The `pencilLine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencilLine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-line-duotone](https://api.iconify.design/ph/pencil-line-duotone.svg?height=32&color=%23888888)
   static const pencilLine = PhosphorDuotoneIconData(
     IconData(
       0xe3b2,
@@ -16807,7 +21003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-ruler-duotone.svg)
+  /// The `pencilRuler` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencilRuler` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-ruler-duotone](https://api.iconify.design/ph/pencil-ruler-duotone.svg?height=32&color=%23888888)
   static const pencilRuler = PhosphorDuotoneIconData(
     IconData(
       0xe906,
@@ -16823,7 +21023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-duotone.svg)
+  /// The `pencilSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencilSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-simple-duotone](https://api.iconify.design/ph/pencil-simple-duotone.svg?height=32&color=%23888888)
   static const pencilSimple = PhosphorDuotoneIconData(
     IconData(
       0xe3b4,
@@ -16839,7 +21043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-simple-line-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-line-duotone.svg)
+  /// The `pencilSimpleLine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencilSimpleLine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-simple-line-duotone](https://api.iconify.design/ph/pencil-simple-line-duotone.svg?height=32&color=%23888888)
   static const pencilSimpleLine = PhosphorDuotoneIconData(
     IconData(
       0xebc6,
@@ -16855,7 +21063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-simple-slash-duotone.svg)
+  /// The `pencilSimpleSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencilSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-simple-slash-duotone](https://api.iconify.design/ph/pencil-simple-slash-duotone.svg?height=32&color=%23888888)
   static const pencilSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xecf6,
@@ -16871,7 +21083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pencil-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pencil-slash-duotone.svg)
+  /// The `pencilSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pencilSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pencil-slash-duotone](https://api.iconify.design/ph/pencil-slash-duotone.svg?height=32&color=%23888888)
   static const pencilSlash = PhosphorDuotoneIconData(
     IconData(
       0xecf8,
@@ -16887,7 +21103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pentagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagon-duotone.svg)
+  /// The `pentagon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pentagon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pentagon-duotone](https://api.iconify.design/ph/pentagon-duotone.svg?height=32&color=%23888888)
   static const pentagon = PhosphorDuotoneIconData(
     IconData(
       0xec7e,
@@ -16903,7 +21123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pentagram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pentagram-duotone.svg)
+  /// The `pentagram` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pentagram` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pentagram-duotone](https://api.iconify.design/ph/pentagram-duotone.svg?height=32&color=%23888888)
   static const pentagram = PhosphorDuotoneIconData(
     IconData(
       0xec5c,
@@ -16919,7 +21143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pepper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pepper-duotone.svg)
+  /// The `pepper` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pepper` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pepper-duotone](https://api.iconify.design/ph/pepper-duotone.svg?height=32&color=%23888888)
   static const pepper = PhosphorDuotoneIconData(
     IconData(
       0xe94a,
@@ -16935,7 +21163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/percent-duotone.svg)
+  /// The `percent` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `percent` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![percent-duotone](https://api.iconify.design/ph/percent-duotone.svg?height=32&color=%23888888)
   static const percent = PhosphorDuotoneIconData(
     IconData(
       0xe3b6,
@@ -16951,7 +21183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-duotone.svg)
+  /// The `person` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `person` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-duotone](https://api.iconify.design/ph/person-duotone.svg?height=32&color=%23888888)
   static const person = PhosphorDuotoneIconData(
     IconData(
       0xe3a8,
@@ -16967,7 +21203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-arms-spread-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-arms-spread-duotone.svg)
+  /// The `personArmsSpread` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personArmsSpread` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-arms-spread-duotone](https://api.iconify.design/ph/person-arms-spread-duotone.svg?height=32&color=%23888888)
   static const personArmsSpread = PhosphorDuotoneIconData(
     IconData(
       0xecfe,
@@ -16983,7 +21223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-duotone.svg)
+  /// The `personSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-duotone](https://api.iconify.design/ph/person-simple-duotone.svg?height=32&color=%23888888)
   static const personSimple = PhosphorDuotoneIconData(
     IconData(
       0xe72e,
@@ -16999,7 +21243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-bike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-bike-duotone.svg)
+  /// The `personSimpleBike` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleBike` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-bike-duotone](https://api.iconify.design/ph/person-simple-bike-duotone.svg?height=32&color=%23888888)
   static const personSimpleBike = PhosphorDuotoneIconData(
     IconData(
       0xe734,
@@ -17015,7 +21263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-circle-duotone.svg)
+  /// The `personSimpleCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-circle-duotone](https://api.iconify.design/ph/person-simple-circle-duotone.svg?height=32&color=%23888888)
   static const personSimpleCircle = PhosphorDuotoneIconData(
     IconData(
       0xee58,
@@ -17031,7 +21283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-hike-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-hike-duotone.svg)
+  /// The `personSimpleHike` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleHike` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-hike-duotone](https://api.iconify.design/ph/person-simple-hike-duotone.svg?height=32&color=%23888888)
   static const personSimpleHike = PhosphorDuotoneIconData(
     IconData(
       0xed54,
@@ -17047,7 +21303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-run-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-run-duotone.svg)
+  /// The `personSimpleRun` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleRun` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-run-duotone](https://api.iconify.design/ph/person-simple-run-duotone.svg?height=32&color=%23888888)
   static const personSimpleRun = PhosphorDuotoneIconData(
     IconData(
       0xe730,
@@ -17063,7 +21323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-ski-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-ski-duotone.svg)
+  /// The `personSimpleSki` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleSki` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-ski-duotone](https://api.iconify.design/ph/person-simple-ski-duotone.svg?height=32&color=%23888888)
   static const personSimpleSki = PhosphorDuotoneIconData(
     IconData(
       0xe71c,
@@ -17079,7 +21343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-snowboard-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-snowboard-duotone.svg)
+  /// The `personSimpleSnowboard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleSnowboard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-snowboard-duotone](https://api.iconify.design/ph/person-simple-snowboard-duotone.svg?height=32&color=%23888888)
   static const personSimpleSnowboard = PhosphorDuotoneIconData(
     IconData(
       0xe71e,
@@ -17095,7 +21363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-swim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-swim-duotone.svg)
+  /// The `personSimpleSwim` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleSwim` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-swim-duotone](https://api.iconify.design/ph/person-simple-swim-duotone.svg?height=32&color=%23888888)
   static const personSimpleSwim = PhosphorDuotoneIconData(
     IconData(
       0xe736,
@@ -17111,7 +21383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-tai-chi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-tai-chi-duotone.svg)
+  /// The `personSimpleTaiChi` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleTaiChi` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-tai-chi-duotone](https://api.iconify.design/ph/person-simple-tai-chi-duotone.svg?height=32&color=%23888888)
   static const personSimpleTaiChi = PhosphorDuotoneIconData(
     IconData(
       0xed5c,
@@ -17127,7 +21403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-throw-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-throw-duotone.svg)
+  /// The `personSimpleThrow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleThrow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-throw-duotone](https://api.iconify.design/ph/person-simple-throw-duotone.svg?height=32&color=%23888888)
   static const personSimpleThrow = PhosphorDuotoneIconData(
     IconData(
       0xe732,
@@ -17143,7 +21423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![person-simple-walk-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/person-simple-walk-duotone.svg)
+  /// The `personSimpleWalk` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `personSimpleWalk` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![person-simple-walk-duotone](https://api.iconify.design/ph/person-simple-walk-duotone.svg?height=32&color=%23888888)
   static const personSimpleWalk = PhosphorDuotoneIconData(
     IconData(
       0xe73a,
@@ -17159,7 +21443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![perspective-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/perspective-duotone.svg)
+  /// The `perspective` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `perspective` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![perspective-duotone](https://api.iconify.design/ph/perspective-duotone.svg?height=32&color=%23888888)
   static const perspective = PhosphorDuotoneIconData(
     IconData(
       0xebe6,
@@ -17175,7 +21463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-duotone.svg)
+  /// The `phone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-duotone](https://api.iconify.design/ph/phone-duotone.svg?height=32&color=%23888888)
   static const phone = PhosphorDuotoneIconData(
     IconData(
       0xe3b8,
@@ -17191,7 +21483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-call-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-call-duotone.svg)
+  /// The `phoneCall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneCall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-call-duotone](https://api.iconify.design/ph/phone-call-duotone.svg?height=32&color=%23888888)
   static const phoneCall = PhosphorDuotoneIconData(
     IconData(
       0xe3ba,
@@ -17207,7 +21503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-disconnect-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-disconnect-duotone.svg)
+  /// The `phoneDisconnect` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneDisconnect` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-disconnect-duotone](https://api.iconify.design/ph/phone-disconnect-duotone.svg?height=32&color=%23888888)
   static const phoneDisconnect = PhosphorDuotoneIconData(
     IconData(
       0xe3bc,
@@ -17223,7 +21523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-incoming-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-incoming-duotone.svg)
+  /// The `phoneIncoming` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneIncoming` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-incoming-duotone](https://api.iconify.design/ph/phone-incoming-duotone.svg?height=32&color=%23888888)
   static const phoneIncoming = PhosphorDuotoneIconData(
     IconData(
       0xe3be,
@@ -17239,7 +21543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-list-duotone.svg)
+  /// The `phoneList` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneList` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-list-duotone](https://api.iconify.design/ph/phone-list-duotone.svg?height=32&color=%23888888)
   static const phoneList = PhosphorDuotoneIconData(
     IconData(
       0xe3cc,
@@ -17255,7 +21563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-outgoing-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-outgoing-duotone.svg)
+  /// The `phoneOutgoing` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneOutgoing` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-outgoing-duotone](https://api.iconify.design/ph/phone-outgoing-duotone.svg?height=32&color=%23888888)
   static const phoneOutgoing = PhosphorDuotoneIconData(
     IconData(
       0xe3c0,
@@ -17271,7 +21583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-pause-duotone.svg)
+  /// The `phonePause` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phonePause` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-pause-duotone](https://api.iconify.design/ph/phone-pause-duotone.svg?height=32&color=%23888888)
   static const phonePause = PhosphorDuotoneIconData(
     IconData(
       0xe3ca,
@@ -17287,7 +21603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-plus-duotone.svg)
+  /// The `phonePlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phonePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-plus-duotone](https://api.iconify.design/ph/phone-plus-duotone.svg?height=32&color=%23888888)
   static const phonePlus = PhosphorDuotoneIconData(
     IconData(
       0xec56,
@@ -17303,7 +21623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-slash-duotone.svg)
+  /// The `phoneSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-slash-duotone](https://api.iconify.design/ph/phone-slash-duotone.svg?height=32&color=%23888888)
   static const phoneSlash = PhosphorDuotoneIconData(
     IconData(
       0xe3c2,
@@ -17319,7 +21643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-transfer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-transfer-duotone.svg)
+  /// The `phoneTransfer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneTransfer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-transfer-duotone](https://api.iconify.design/ph/phone-transfer-duotone.svg?height=32&color=%23888888)
   static const phoneTransfer = PhosphorDuotoneIconData(
     IconData(
       0xe3c6,
@@ -17335,7 +21663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phone-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phone-x-duotone.svg)
+  /// The `phoneX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phoneX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phone-x-duotone](https://api.iconify.design/ph/phone-x-duotone.svg?height=32&color=%23888888)
   static const phoneX = PhosphorDuotoneIconData(
     IconData(
       0xe3c4,
@@ -17351,7 +21683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![phosphor-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/phosphor-logo-duotone.svg)
+  /// The `phosphorLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `phosphorLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![phosphor-logo-duotone](https://api.iconify.design/ph/phosphor-logo-duotone.svg?height=32&color=%23888888)
   static const phosphorLogo = PhosphorDuotoneIconData(
     IconData(
       0xe3ce,
@@ -17367,7 +21703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pi-duotone.svg)
+  /// The `pi` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pi` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pi-duotone](https://api.iconify.design/ph/pi-duotone.svg?height=32&color=%23888888)
   static const pi = PhosphorDuotoneIconData(
     IconData(
       0xec80,
@@ -17383,7 +21723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![piano-keys-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piano-keys-duotone.svg)
+  /// The `pianoKeys` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pianoKeys` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![piano-keys-duotone](https://api.iconify.design/ph/piano-keys-duotone.svg?height=32&color=%23888888)
   static const pianoKeys = PhosphorDuotoneIconData(
     IconData(
       0xe9c8,
@@ -17399,7 +21743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![picnic-table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picnic-table-duotone.svg)
+  /// The `picnicTable` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `picnicTable` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![picnic-table-duotone](https://api.iconify.design/ph/picnic-table-duotone.svg?height=32&color=%23888888)
   static const picnicTable = PhosphorDuotoneIconData(
     IconData(
       0xee26,
@@ -17415,7 +21763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![picture-in-picture-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/picture-in-picture-duotone.svg)
+  /// The `pictureInPicture` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pictureInPicture` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![picture-in-picture-duotone](https://api.iconify.design/ph/picture-in-picture-duotone.svg?height=32&color=%23888888)
   static const pictureInPicture = PhosphorDuotoneIconData(
     IconData(
       0xe64c,
@@ -17431,7 +21783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![piggy-bank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/piggy-bank-duotone.svg)
+  /// The `piggyBank` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `piggyBank` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![piggy-bank-duotone](https://api.iconify.design/ph/piggy-bank-duotone.svg?height=32&color=%23888888)
   static const piggyBank = PhosphorDuotoneIconData(
     IconData(
       0xea04,
@@ -17447,7 +21803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pill-duotone.svg)
+  /// The `pill` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pill` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pill-duotone](https://api.iconify.design/ph/pill-duotone.svg?height=32&color=%23888888)
   static const pill = PhosphorDuotoneIconData(
     IconData(
       0xe700,
@@ -17463,7 +21823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ping-pong-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ping-pong-duotone.svg)
+  /// The `pingPong` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pingPong` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ping-pong-duotone](https://api.iconify.design/ph/ping-pong-duotone.svg?height=32&color=%23888888)
   static const pingPong = PhosphorDuotoneIconData(
     IconData(
       0xea42,
@@ -17479,7 +21843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pint-glass-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pint-glass-duotone.svg)
+  /// The `pintGlass` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pintGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pint-glass-duotone](https://api.iconify.design/ph/pint-glass-duotone.svg?height=32&color=%23888888)
   static const pintGlass = PhosphorDuotoneIconData(
     IconData(
       0xedd0,
@@ -17495,7 +21863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pinterest-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinterest-logo-duotone.svg)
+  /// The `pinterestLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pinterestLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pinterest-logo-duotone](https://api.iconify.design/ph/pinterest-logo-duotone.svg?height=32&color=%23888888)
   static const pinterestLogo = PhosphorDuotoneIconData(
     IconData(
       0xe64e,
@@ -17511,7 +21883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pinwheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pinwheel-duotone.svg)
+  /// The `pinwheel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pinwheel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pinwheel-duotone](https://api.iconify.design/ph/pinwheel-duotone.svg?height=32&color=%23888888)
   static const pinwheel = PhosphorDuotoneIconData(
     IconData(
       0xeb9c,
@@ -17527,7 +21903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pipe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-duotone.svg)
+  /// The `pipe` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pipe` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pipe-duotone](https://api.iconify.design/ph/pipe-duotone.svg?height=32&color=%23888888)
   static const pipe = PhosphorDuotoneIconData(
     IconData(
       0xed86,
@@ -17543,7 +21923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pipe-wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pipe-wrench-duotone.svg)
+  /// The `pipeWrench` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pipeWrench` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pipe-wrench-duotone](https://api.iconify.design/ph/pipe-wrench-duotone.svg?height=32&color=%23888888)
   static const pipeWrench = PhosphorDuotoneIconData(
     IconData(
       0xed88,
@@ -17559,7 +21943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pix-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pix-logo-duotone.svg)
+  /// The `pixLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pixLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pix-logo-duotone](https://api.iconify.design/ph/pix-logo-duotone.svg?height=32&color=%23888888)
   static const pixLogo = PhosphorDuotoneIconData(
     IconData(
       0xecc2,
@@ -17575,7 +21963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pizza-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pizza-duotone.svg)
+  /// The `pizza` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pizza` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pizza-duotone](https://api.iconify.design/ph/pizza-duotone.svg?height=32&color=%23888888)
   static const pizza = PhosphorDuotoneIconData(
     IconData(
       0xe796,
@@ -17591,7 +21983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![placeholder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/placeholder-duotone.svg)
+  /// The `placeholder` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `placeholder` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![placeholder-duotone](https://api.iconify.design/ph/placeholder-duotone.svg?height=32&color=%23888888)
   static const placeholder = PhosphorDuotoneIconData(
     IconData(
       0xe650,
@@ -17607,7 +22003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![planet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/planet-duotone.svg)
+  /// The `planet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `planet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![planet-duotone](https://api.iconify.design/ph/planet-duotone.svg?height=32&color=%23888888)
   static const planet = PhosphorDuotoneIconData(
     IconData(
       0xe652,
@@ -17623,7 +22023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plant-duotone.svg)
+  /// The `plant` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plant` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plant-duotone](https://api.iconify.design/ph/plant-duotone.svg?height=32&color=%23888888)
   static const plant = PhosphorDuotoneIconData(
     IconData(
       0xebae,
@@ -17639,7 +22043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![play-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-duotone.svg)
+  /// The `play` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `play` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![play-duotone](https://api.iconify.design/ph/play-duotone.svg?height=32&color=%23888888)
   static const play = PhosphorDuotoneIconData(
     IconData(
       0xe3d0,
@@ -17655,7 +22063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![play-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-circle-duotone.svg)
+  /// The `playCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `playCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![play-circle-duotone](https://api.iconify.design/ph/play-circle-duotone.svg?height=32&color=%23888888)
   static const playCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3d2,
@@ -17671,7 +22083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![play-pause-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/play-pause-duotone.svg)
+  /// The `playPause` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `playPause` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![play-pause-duotone](https://api.iconify.design/ph/play-pause-duotone.svg?height=32&color=%23888888)
   static const playPause = PhosphorDuotoneIconData(
     IconData(
       0xe8be,
@@ -17687,7 +22103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![playlist-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/playlist-duotone.svg)
+  /// The `playlist` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `playlist` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![playlist-duotone](https://api.iconify.design/ph/playlist-duotone.svg?height=32&color=%23888888)
   static const playlist = PhosphorDuotoneIconData(
     IconData(
       0xe6aa,
@@ -17703,7 +22123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-duotone.svg)
+  /// The `plug` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plug` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plug-duotone](https://api.iconify.design/ph/plug-duotone.svg?height=32&color=%23888888)
   static const plug = PhosphorDuotoneIconData(
     IconData(
       0xe946,
@@ -17719,7 +22143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plug-charging-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plug-charging-duotone.svg)
+  /// The `plugCharging` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plugCharging` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plug-charging-duotone](https://api.iconify.design/ph/plug-charging-duotone.svg?height=32&color=%23888888)
   static const plugCharging = PhosphorDuotoneIconData(
     IconData(
       0xeb5c,
@@ -17735,7 +22163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plugs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-duotone.svg)
+  /// The `plugs` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plugs` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plugs-duotone](https://api.iconify.design/ph/plugs-duotone.svg?height=32&color=%23888888)
   static const plugs = PhosphorDuotoneIconData(
     IconData(
       0xeb56,
@@ -17751,7 +22183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plugs-connected-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plugs-connected-duotone.svg)
+  /// The `plugsConnected` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plugsConnected` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plugs-connected-duotone](https://api.iconify.design/ph/plugs-connected-duotone.svg?height=32&color=%23888888)
   static const plugsConnected = PhosphorDuotoneIconData(
     IconData(
       0xeb5a,
@@ -17767,7 +22203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-duotone.svg)
+  /// The `plus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plus-duotone](https://api.iconify.design/ph/plus-duotone.svg?height=32&color=%23888888)
   static const plus = PhosphorDuotoneIconData(
     IconData(
       0xe3d4,
@@ -17783,7 +22223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plus-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-circle-duotone.svg)
+  /// The `plusCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plusCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plus-circle-duotone](https://api.iconify.design/ph/plus-circle-duotone.svg?height=32&color=%23888888)
   static const plusCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3d6,
@@ -17799,7 +22243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plus-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-minus-duotone.svg)
+  /// The `plusMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plusMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plus-minus-duotone](https://api.iconify.design/ph/plus-minus-duotone.svg?height=32&color=%23888888)
   static const plusMinus = PhosphorDuotoneIconData(
     IconData(
       0xe3d8,
@@ -17815,7 +22263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![plus-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/plus-square-duotone.svg)
+  /// The `plusSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `plusSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![plus-square-duotone](https://api.iconify.design/ph/plus-square-duotone.svg?height=32&color=%23888888)
   static const plusSquare = PhosphorDuotoneIconData(
     IconData(
       0xed4a,
@@ -17831,7 +22283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![poker-chip-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/poker-chip-duotone.svg)
+  /// The `pokerChip` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pokerChip` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![poker-chip-duotone](https://api.iconify.design/ph/poker-chip-duotone.svg?height=32&color=%23888888)
   static const pokerChip = PhosphorDuotoneIconData(
     IconData(
       0xe594,
@@ -17847,7 +22303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![police-car-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/police-car-duotone.svg)
+  /// The `policeCar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `policeCar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![police-car-duotone](https://api.iconify.design/ph/police-car-duotone.svg?height=32&color=%23888888)
   static const policeCar = PhosphorDuotoneIconData(
     IconData(
       0xec4a,
@@ -17863,7 +22323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![polygon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/polygon-duotone.svg)
+  /// The `polygon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `polygon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![polygon-duotone](https://api.iconify.design/ph/polygon-duotone.svg?height=32&color=%23888888)
   static const polygon = PhosphorDuotoneIconData(
     IconData(
       0xe6d0,
@@ -17879,7 +22343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![popcorn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popcorn-duotone.svg)
+  /// The `popcorn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `popcorn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![popcorn-duotone](https://api.iconify.design/ph/popcorn-duotone.svg?height=32&color=%23888888)
   static const popcorn = PhosphorDuotoneIconData(
     IconData(
       0xeb4e,
@@ -17895,7 +22363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![popsicle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/popsicle-duotone.svg)
+  /// The `popsicle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `popsicle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![popsicle-duotone](https://api.iconify.design/ph/popsicle-duotone.svg?height=32&color=%23888888)
   static const popsicle = PhosphorDuotoneIconData(
     IconData(
       0xebbe,
@@ -17911,7 +22383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![potted-plant-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/potted-plant-duotone.svg)
+  /// The `pottedPlant` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pottedPlant` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![potted-plant-duotone](https://api.iconify.design/ph/potted-plant-duotone.svg?height=32&color=%23888888)
   static const pottedPlant = PhosphorDuotoneIconData(
     IconData(
       0xec22,
@@ -17927,7 +22403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![power-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/power-duotone.svg)
+  /// The `power` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `power` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![power-duotone](https://api.iconify.design/ph/power-duotone.svg?height=32&color=%23888888)
   static const power = PhosphorDuotoneIconData(
     IconData(
       0xe3da,
@@ -17943,7 +22423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![prescription-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prescription-duotone.svg)
+  /// The `prescription` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `prescription` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![prescription-duotone](https://api.iconify.design/ph/prescription-duotone.svg?height=32&color=%23888888)
   static const prescription = PhosphorDuotoneIconData(
     IconData(
       0xe7a2,
@@ -17959,7 +22443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![presentation-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-duotone.svg)
+  /// The `presentation` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `presentation` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![presentation-duotone](https://api.iconify.design/ph/presentation-duotone.svg?height=32&color=%23888888)
   static const presentation = PhosphorDuotoneIconData(
     IconData(
       0xe654,
@@ -17975,7 +22463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![presentation-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/presentation-chart-duotone.svg)
+  /// The `presentationChart` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `presentationChart` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![presentation-chart-duotone](https://api.iconify.design/ph/presentation-chart-duotone.svg?height=32&color=%23888888)
   static const presentationChart = PhosphorDuotoneIconData(
     IconData(
       0xe656,
@@ -17991,7 +22483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![printer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/printer-duotone.svg)
+  /// The `printer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `printer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![printer-duotone](https://api.iconify.design/ph/printer-duotone.svg?height=32&color=%23888888)
   static const printer = PhosphorDuotoneIconData(
     IconData(
       0xe3dc,
@@ -18007,7 +22503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![prohibit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-duotone.svg)
+  /// The `prohibit` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `prohibit` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![prohibit-duotone](https://api.iconify.design/ph/prohibit-duotone.svg?height=32&color=%23888888)
   static const prohibit = PhosphorDuotoneIconData(
     IconData(
       0xe3de,
@@ -18023,7 +22523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![prohibit-inset-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/prohibit-inset-duotone.svg)
+  /// The `prohibitInset` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `prohibitInset` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![prohibit-inset-duotone](https://api.iconify.design/ph/prohibit-inset-duotone.svg?height=32&color=%23888888)
   static const prohibitInset = PhosphorDuotoneIconData(
     IconData(
       0xe3e0,
@@ -18039,7 +22543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![projector-screen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-duotone.svg)
+  /// The `projectorScreen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `projectorScreen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![projector-screen-duotone](https://api.iconify.design/ph/projector-screen-duotone.svg?height=32&color=%23888888)
   static const projectorScreen = PhosphorDuotoneIconData(
     IconData(
       0xe658,
@@ -18055,7 +22563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![projector-screen-chart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/projector-screen-chart-duotone.svg)
+  /// The `projectorScreenChart` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `projectorScreenChart` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![projector-screen-chart-duotone](https://api.iconify.design/ph/projector-screen-chart-duotone.svg?height=32&color=%23888888)
   static const projectorScreenChart = PhosphorDuotoneIconData(
     IconData(
       0xe65a,
@@ -18071,7 +22583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![pulse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/pulse-duotone.svg)
+  /// The `pulse` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pulse` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![pulse-duotone](https://api.iconify.design/ph/pulse-duotone.svg?height=32&color=%23888888)
   static const pulse = PhosphorDuotoneIconData(
     IconData(
       0xe000,
@@ -18087,7 +22603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![push-pin-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-duotone.svg)
+  /// The `pushPin` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pushPin` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![push-pin-duotone](https://api.iconify.design/ph/push-pin-duotone.svg?height=32&color=%23888888)
   static const pushPin = PhosphorDuotoneIconData(
     IconData(
       0xe3e2,
@@ -18103,7 +22623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![push-pin-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-duotone.svg)
+  /// The `pushPinSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pushPinSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![push-pin-simple-duotone](https://api.iconify.design/ph/push-pin-simple-duotone.svg?height=32&color=%23888888)
   static const pushPinSimple = PhosphorDuotoneIconData(
     IconData(
       0xe65c,
@@ -18119,7 +22643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![push-pin-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-simple-slash-duotone.svg)
+  /// The `pushPinSimpleSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pushPinSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![push-pin-simple-slash-duotone](https://api.iconify.design/ph/push-pin-simple-slash-duotone.svg?height=32&color=%23888888)
   static const pushPinSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe65e,
@@ -18135,7 +22663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![push-pin-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/push-pin-slash-duotone.svg)
+  /// The `pushPinSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `pushPinSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![push-pin-slash-duotone](https://api.iconify.design/ph/push-pin-slash-duotone.svg?height=32&color=%23888888)
   static const pushPinSlash = PhosphorDuotoneIconData(
     IconData(
       0xe3e4,
@@ -18151,7 +22683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![puzzle-piece-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/puzzle-piece-duotone.svg)
+  /// The `puzzlePiece` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `puzzlePiece` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![puzzle-piece-duotone](https://api.iconify.design/ph/puzzle-piece-duotone.svg?height=32&color=%23888888)
   static const puzzlePiece = PhosphorDuotoneIconData(
     IconData(
       0xe596,
@@ -18167,7 +22703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![qr-code-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/qr-code-duotone.svg)
+  /// The `qrCode` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `qrCode` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![qr-code-duotone](https://api.iconify.design/ph/qr-code-duotone.svg?height=32&color=%23888888)
   static const qrCode = PhosphorDuotoneIconData(
     IconData(
       0xe3e6,
@@ -18183,7 +22723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-duotone.svg)
+  /// The `question` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `question` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![question-duotone](https://api.iconify.design/ph/question-duotone.svg?height=32&color=%23888888)
   static const question = PhosphorDuotoneIconData(
     IconData(
       0xe3e8,
@@ -18199,7 +22743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![question-mark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/question-mark-duotone.svg)
+  /// The `questionMark` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `questionMark` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![question-mark-duotone](https://api.iconify.design/ph/question-mark-duotone.svg?height=32&color=%23888888)
   static const questionMark = PhosphorDuotoneIconData(
     IconData(
       0xe3e9,
@@ -18215,7 +22763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![queue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/queue-duotone.svg)
+  /// The `queue` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `queue` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![queue-duotone](https://api.iconify.design/ph/queue-duotone.svg?height=32&color=%23888888)
   static const queue = PhosphorDuotoneIconData(
     IconData(
       0xe6ac,
@@ -18231,7 +22783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![quotes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/quotes-duotone.svg)
+  /// The `quotes` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `quotes` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![quotes-duotone](https://api.iconify.design/ph/quotes-duotone.svg?height=32&color=%23888888)
   static const quotes = PhosphorDuotoneIconData(
     IconData(
       0xe660,
@@ -18247,7 +22803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rabbit-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rabbit-duotone.svg)
+  /// The `rabbit` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rabbit` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rabbit-duotone](https://api.iconify.design/ph/rabbit-duotone.svg?height=32&color=%23888888)
   static const rabbit = PhosphorDuotoneIconData(
     IconData(
       0xeac2,
@@ -18263,7 +22823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![racquet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/racquet-duotone.svg)
+  /// The `racquet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `racquet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![racquet-duotone](https://api.iconify.design/ph/racquet-duotone.svg?height=32&color=%23888888)
   static const racquet = PhosphorDuotoneIconData(
     IconData(
       0xee02,
@@ -18279,7 +22843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![radical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radical-duotone.svg)
+  /// The `radical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `radical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![radical-duotone](https://api.iconify.design/ph/radical-duotone.svg?height=32&color=%23888888)
   static const radical = PhosphorDuotoneIconData(
     IconData(
       0xe3ea,
@@ -18295,7 +22863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![radio-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-duotone.svg)
+  /// The `radio` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `radio` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![radio-duotone](https://api.iconify.design/ph/radio-duotone.svg?height=32&color=%23888888)
   static const radio = PhosphorDuotoneIconData(
     IconData(
       0xe77e,
@@ -18311,7 +22883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![radio-button-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radio-button-duotone.svg)
+  /// The `radioButton` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `radioButton` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![radio-button-duotone](https://api.iconify.design/ph/radio-button-duotone.svg?height=32&color=%23888888)
   static const radioButton = PhosphorDuotoneIconData(
     IconData(
       0xeb08,
@@ -18327,7 +22903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![radioactive-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/radioactive-duotone.svg)
+  /// The `radioactive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `radioactive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![radioactive-duotone](https://api.iconify.design/ph/radioactive-duotone.svg?height=32&color=%23888888)
   static const radioactive = PhosphorDuotoneIconData(
     IconData(
       0xe9dc,
@@ -18343,7 +22923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rainbow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-duotone.svg)
+  /// The `rainbow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rainbow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rainbow-duotone](https://api.iconify.design/ph/rainbow-duotone.svg?height=32&color=%23888888)
   static const rainbow = PhosphorDuotoneIconData(
     IconData(
       0xe598,
@@ -18359,7 +22943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rainbow-cloud-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rainbow-cloud-duotone.svg)
+  /// The `rainbowCloud` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rainbowCloud` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rainbow-cloud-duotone](https://api.iconify.design/ph/rainbow-cloud-duotone.svg?height=32&color=%23888888)
   static const rainbowCloud = PhosphorDuotoneIconData(
     IconData(
       0xe59a,
@@ -18375,7 +22963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ranking-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ranking-duotone.svg)
+  /// The `ranking` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ranking` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ranking-duotone](https://api.iconify.design/ph/ranking-duotone.svg?height=32&color=%23888888)
   static const ranking = PhosphorDuotoneIconData(
     IconData(
       0xed62,
@@ -18391,7 +22983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![read-cv-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/read-cv-logo-duotone.svg)
+  /// The `readCvLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `readCvLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![read-cv-logo-duotone](https://api.iconify.design/ph/read-cv-logo-duotone.svg?height=32&color=%23888888)
   static const readCvLogo = PhosphorDuotoneIconData(
     IconData(
       0xed0c,
@@ -18407,7 +23003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![receipt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-duotone.svg)
+  /// The `receipt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `receipt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![receipt-duotone](https://api.iconify.design/ph/receipt-duotone.svg?height=32&color=%23888888)
   static const receipt = PhosphorDuotoneIconData(
     IconData(
       0xe3ec,
@@ -18423,7 +23023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![receipt-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/receipt-x-duotone.svg)
+  /// The `receiptX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `receiptX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![receipt-x-duotone](https://api.iconify.design/ph/receipt-x-duotone.svg?height=32&color=%23888888)
   static const receiptX = PhosphorDuotoneIconData(
     IconData(
       0xed40,
@@ -18439,7 +23043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/record-duotone.svg)
+  /// The `record` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `record` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![record-duotone](https://api.iconify.design/ph/record-duotone.svg?height=32&color=%23888888)
   static const record = PhosphorDuotoneIconData(
     IconData(
       0xe3ee,
@@ -18455,7 +23063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-duotone.svg)
+  /// The `rectangle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rectangle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rectangle-duotone](https://api.iconify.design/ph/rectangle-duotone.svg?height=32&color=%23888888)
   static const rectangle = PhosphorDuotoneIconData(
     IconData(
       0xe3f0,
@@ -18471,7 +23083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rectangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rectangle-dashed-duotone.svg)
+  /// The `rectangleDashed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rectangleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rectangle-dashed-duotone](https://api.iconify.design/ph/rectangle-dashed-duotone.svg?height=32&color=%23888888)
   static const rectangleDashed = PhosphorDuotoneIconData(
     IconData(
       0xe3f2,
@@ -18487,7 +23103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![recycle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/recycle-duotone.svg)
+  /// The `recycle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `recycle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![recycle-duotone](https://api.iconify.design/ph/recycle-duotone.svg?height=32&color=%23888888)
   static const recycle = PhosphorDuotoneIconData(
     IconData(
       0xe75a,
@@ -18503,7 +23123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![reddit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/reddit-logo-duotone.svg)
+  /// The `redditLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `redditLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![reddit-logo-duotone](https://api.iconify.design/ph/reddit-logo-duotone.svg?height=32&color=%23888888)
   static const redditLogo = PhosphorDuotoneIconData(
     IconData(
       0xe59c,
@@ -18519,7 +23143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![repeat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-duotone.svg)
+  /// The `repeat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `repeat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![repeat-duotone](https://api.iconify.design/ph/repeat-duotone.svg?height=32&color=%23888888)
   static const repeat = PhosphorDuotoneIconData(
     IconData(
       0xe3f6,
@@ -18535,7 +23163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![repeat-once-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/repeat-once-duotone.svg)
+  /// The `repeatOnce` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `repeatOnce` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![repeat-once-duotone](https://api.iconify.design/ph/repeat-once-duotone.svg?height=32&color=%23888888)
   static const repeatOnce = PhosphorDuotoneIconData(
     IconData(
       0xe3f8,
@@ -18551,7 +23183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![replit-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/replit-logo-duotone.svg)
+  /// The `replitLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `replitLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![replit-logo-duotone](https://api.iconify.design/ph/replit-logo-duotone.svg?height=32&color=%23888888)
   static const replitLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb8a,
@@ -18567,7 +23203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![resize-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/resize-duotone.svg)
+  /// The `resize` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `resize` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![resize-duotone](https://api.iconify.design/ph/resize-duotone.svg?height=32&color=%23888888)
   static const resize = PhosphorDuotoneIconData(
     IconData(
       0xed6e,
@@ -18583,7 +23223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rewind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-duotone.svg)
+  /// The `rewind` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rewind` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rewind-duotone](https://api.iconify.design/ph/rewind-duotone.svg?height=32&color=%23888888)
   static const rewind = PhosphorDuotoneIconData(
     IconData(
       0xe6a8,
@@ -18599,7 +23243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rewind-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rewind-circle-duotone.svg)
+  /// The `rewindCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rewindCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rewind-circle-duotone](https://api.iconify.design/ph/rewind-circle-duotone.svg?height=32&color=%23888888)
   static const rewindCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3fa,
@@ -18615,7 +23263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![road-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/road-horizon-duotone.svg)
+  /// The `roadHorizon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `roadHorizon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![road-horizon-duotone](https://api.iconify.design/ph/road-horizon-duotone.svg?height=32&color=%23888888)
   static const roadHorizon = PhosphorDuotoneIconData(
     IconData(
       0xe838,
@@ -18631,7 +23283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![robot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/robot-duotone.svg)
+  /// The `robot` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `robot` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![robot-duotone](https://api.iconify.design/ph/robot-duotone.svg?height=32&color=%23888888)
   static const robot = PhosphorDuotoneIconData(
     IconData(
       0xe762,
@@ -18647,7 +23303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rocket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-duotone.svg)
+  /// The `rocket` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rocket` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rocket-duotone](https://api.iconify.design/ph/rocket-duotone.svg?height=32&color=%23888888)
   static const rocket = PhosphorDuotoneIconData(
     IconData(
       0xe3fc,
@@ -18663,7 +23323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rocket-launch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rocket-launch-duotone.svg)
+  /// The `rocketLaunch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rocketLaunch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rocket-launch-duotone](https://api.iconify.design/ph/rocket-launch-duotone.svg?height=32&color=%23888888)
   static const rocketLaunch = PhosphorDuotoneIconData(
     IconData(
       0xe3fe,
@@ -18679,7 +23343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rows-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-duotone.svg)
+  /// The `rows` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rows` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rows-duotone](https://api.iconify.design/ph/rows-duotone.svg?height=32&color=%23888888)
   static const rows = PhosphorDuotoneIconData(
     IconData(
       0xe5a2,
@@ -18695,7 +23363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rows-plus-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-bottom-duotone.svg)
+  /// The `rowsPlusBottom` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rowsPlusBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rows-plus-bottom-duotone](https://api.iconify.design/ph/rows-plus-bottom-duotone.svg?height=32&color=%23888888)
   static const rowsPlusBottom = PhosphorDuotoneIconData(
     IconData(
       0xe59e,
@@ -18711,7 +23383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rows-plus-top-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rows-plus-top-duotone.svg)
+  /// The `rowsPlusTop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rowsPlusTop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rows-plus-top-duotone](https://api.iconify.design/ph/rows-plus-top-duotone.svg?height=32&color=%23888888)
   static const rowsPlusTop = PhosphorDuotoneIconData(
     IconData(
       0xe5a0,
@@ -18727,7 +23403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rss-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-duotone.svg)
+  /// The `rss` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rss` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rss-duotone](https://api.iconify.design/ph/rss-duotone.svg?height=32&color=%23888888)
   static const rss = PhosphorDuotoneIconData(
     IconData(
       0xe400,
@@ -18743,7 +23423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rss-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rss-simple-duotone.svg)
+  /// The `rssSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rssSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rss-simple-duotone](https://api.iconify.design/ph/rss-simple-duotone.svg?height=32&color=%23888888)
   static const rssSimple = PhosphorDuotoneIconData(
     IconData(
       0xe402,
@@ -18759,7 +23443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![rug-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/rug-duotone.svg)
+  /// The `rug` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `rug` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![rug-duotone](https://api.iconify.design/ph/rug-duotone.svg?height=32&color=%23888888)
   static const rug = PhosphorDuotoneIconData(
     IconData(
       0xea1a,
@@ -18775,7 +23463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ruler-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ruler-duotone.svg)
+  /// The `ruler` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ruler` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ruler-duotone](https://api.iconify.design/ph/ruler-duotone.svg?height=32&color=%23888888)
   static const ruler = PhosphorDuotoneIconData(
     IconData(
       0xe6b8,
@@ -18791,7 +23483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sailboat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sailboat-duotone.svg)
+  /// The `sailboat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sailboat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sailboat-duotone](https://api.iconify.design/ph/sailboat-duotone.svg?height=32&color=%23888888)
   static const sailboat = PhosphorDuotoneIconData(
     IconData(
       0xe78a,
@@ -18807,7 +23503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scales-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scales-duotone.svg)
+  /// The `scales` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scales` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scales-duotone](https://api.iconify.design/ph/scales-duotone.svg?height=32&color=%23888888)
   static const scales = PhosphorDuotoneIconData(
     IconData(
       0xe750,
@@ -18823,7 +23523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scan-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-duotone.svg)
+  /// The `scan` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scan` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scan-duotone](https://api.iconify.design/ph/scan-duotone.svg?height=32&color=%23888888)
   static const scan = PhosphorDuotoneIconData(
     IconData(
       0xebb6,
@@ -18839,7 +23543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scan-smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scan-smiley-duotone.svg)
+  /// The `scanSmiley` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scanSmiley` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scan-smiley-duotone](https://api.iconify.design/ph/scan-smiley-duotone.svg?height=32&color=%23888888)
   static const scanSmiley = PhosphorDuotoneIconData(
     IconData(
       0xebb4,
@@ -18855,7 +23563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scissors-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scissors-duotone.svg)
+  /// The `scissors` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scissors` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scissors-duotone](https://api.iconify.design/ph/scissors-duotone.svg?height=32&color=%23888888)
   static const scissors = PhosphorDuotoneIconData(
     IconData(
       0xeae0,
@@ -18871,7 +23583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scooter-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scooter-duotone.svg)
+  /// The `scooter` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scooter` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scooter-duotone](https://api.iconify.design/ph/scooter-duotone.svg?height=32&color=%23888888)
   static const scooter = PhosphorDuotoneIconData(
     IconData(
       0xe820,
@@ -18887,7 +23603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![screencast-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screencast-duotone.svg)
+  /// The `screencast` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `screencast` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![screencast-duotone](https://api.iconify.design/ph/screencast-duotone.svg?height=32&color=%23888888)
   static const screencast = PhosphorDuotoneIconData(
     IconData(
       0xe404,
@@ -18903,7 +23623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![screwdriver-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/screwdriver-duotone.svg)
+  /// The `screwdriver` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `screwdriver` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![screwdriver-duotone](https://api.iconify.design/ph/screwdriver-duotone.svg?height=32&color=%23888888)
   static const screwdriver = PhosphorDuotoneIconData(
     IconData(
       0xe86e,
@@ -18919,7 +23643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scribble-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-duotone.svg)
+  /// The `scribble` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scribble` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scribble-duotone](https://api.iconify.design/ph/scribble-duotone.svg?height=32&color=%23888888)
   static const scribble = PhosphorDuotoneIconData(
     IconData(
       0xe806,
@@ -18935,7 +23663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scribble-loop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scribble-loop-duotone.svg)
+  /// The `scribbleLoop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scribbleLoop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scribble-loop-duotone](https://api.iconify.design/ph/scribble-loop-duotone.svg?height=32&color=%23888888)
   static const scribbleLoop = PhosphorDuotoneIconData(
     IconData(
       0xe662,
@@ -18951,7 +23683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![scroll-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/scroll-duotone.svg)
+  /// The `scroll` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `scroll` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![scroll-duotone](https://api.iconify.design/ph/scroll-duotone.svg?height=32&color=%23888888)
   static const scroll = PhosphorDuotoneIconData(
     IconData(
       0xeb7a,
@@ -18967,7 +23703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![seal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-duotone.svg)
+  /// The `seal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `seal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![seal-duotone](https://api.iconify.design/ph/seal-duotone.svg?height=32&color=%23888888)
   static const seal = PhosphorDuotoneIconData(
     IconData(
       0xe604,
@@ -18983,7 +23723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![seal-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-check-duotone.svg)
+  /// The `sealCheck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sealCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![seal-check-duotone](https://api.iconify.design/ph/seal-check-duotone.svg?height=32&color=%23888888)
   static const sealCheck = PhosphorDuotoneIconData(
     IconData(
       0xe606,
@@ -18999,7 +23743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![seal-percent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-percent-duotone.svg)
+  /// The `sealPercent` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sealPercent` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![seal-percent-duotone](https://api.iconify.design/ph/seal-percent-duotone.svg?height=32&color=%23888888)
   static const sealPercent = PhosphorDuotoneIconData(
     IconData(
       0xe60a,
@@ -19015,7 +23763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![seal-question-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-question-duotone.svg)
+  /// The `sealQuestion` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sealQuestion` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![seal-question-duotone](https://api.iconify.design/ph/seal-question-duotone.svg?height=32&color=%23888888)
   static const sealQuestion = PhosphorDuotoneIconData(
     IconData(
       0xe608,
@@ -19031,7 +23783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![seal-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seal-warning-duotone.svg)
+  /// The `sealWarning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sealWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![seal-warning-duotone](https://api.iconify.design/ph/seal-warning-duotone.svg?height=32&color=%23888888)
   static const sealWarning = PhosphorDuotoneIconData(
     IconData(
       0xe60c,
@@ -19047,7 +23803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![seat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seat-duotone.svg)
+  /// The `seat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `seat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![seat-duotone](https://api.iconify.design/ph/seat-duotone.svg?height=32&color=%23888888)
   static const seat = PhosphorDuotoneIconData(
     IconData(
       0xeb8e,
@@ -19063,7 +23823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![seatbelt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/seatbelt-duotone.svg)
+  /// The `seatbelt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `seatbelt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![seatbelt-duotone](https://api.iconify.design/ph/seatbelt-duotone.svg?height=32&color=%23888888)
   static const seatbelt = PhosphorDuotoneIconData(
     IconData(
       0xedfe,
@@ -19079,7 +23843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![security-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/security-camera-duotone.svg)
+  /// The `securityCamera` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `securityCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![security-camera-duotone](https://api.iconify.design/ph/security-camera-duotone.svg?height=32&color=%23888888)
   static const securityCamera = PhosphorDuotoneIconData(
     IconData(
       0xeca4,
@@ -19095,7 +23863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![selection-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-duotone.svg)
+  /// The `selection` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `selection` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![selection-duotone](https://api.iconify.design/ph/selection-duotone.svg?height=32&color=%23888888)
   static const selection = PhosphorDuotoneIconData(
     IconData(
       0xe69a,
@@ -19111,7 +23883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![selection-all-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-all-duotone.svg)
+  /// The `selectionAll` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `selectionAll` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![selection-all-duotone](https://api.iconify.design/ph/selection-all-duotone.svg?height=32&color=%23888888)
   static const selectionAll = PhosphorDuotoneIconData(
     IconData(
       0xe746,
@@ -19127,7 +23903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![selection-background-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-background-duotone.svg)
+  /// The `selectionBackground` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `selectionBackground` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![selection-background-duotone](https://api.iconify.design/ph/selection-background-duotone.svg?height=32&color=%23888888)
   static const selectionBackground = PhosphorDuotoneIconData(
     IconData(
       0xeaf8,
@@ -19143,7 +23923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![selection-foreground-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-foreground-duotone.svg)
+  /// The `selectionForeground` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `selectionForeground` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![selection-foreground-duotone](https://api.iconify.design/ph/selection-foreground-duotone.svg?height=32&color=%23888888)
   static const selectionForeground = PhosphorDuotoneIconData(
     IconData(
       0xeaf6,
@@ -19159,7 +23943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![selection-inverse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-inverse-duotone.svg)
+  /// The `selectionInverse` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `selectionInverse` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![selection-inverse-duotone](https://api.iconify.design/ph/selection-inverse-duotone.svg?height=32&color=%23888888)
   static const selectionInverse = PhosphorDuotoneIconData(
     IconData(
       0xe744,
@@ -19175,7 +23963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![selection-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-plus-duotone.svg)
+  /// The `selectionPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `selectionPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![selection-plus-duotone](https://api.iconify.design/ph/selection-plus-duotone.svg?height=32&color=%23888888)
   static const selectionPlus = PhosphorDuotoneIconData(
     IconData(
       0xe69c,
@@ -19191,7 +23983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![selection-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/selection-slash-duotone.svg)
+  /// The `selectionSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `selectionSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![selection-slash-duotone](https://api.iconify.design/ph/selection-slash-duotone.svg?height=32&color=%23888888)
   static const selectionSlash = PhosphorDuotoneIconData(
     IconData(
       0xe69e,
@@ -19207,7 +24003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shapes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shapes-duotone.svg)
+  /// The `shapes` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shapes` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shapes-duotone](https://api.iconify.design/ph/shapes-duotone.svg?height=32&color=%23888888)
   static const shapes = PhosphorDuotoneIconData(
     IconData(
       0xec5e,
@@ -19223,7 +24023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![share-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-duotone.svg)
+  /// The `share` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `share` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![share-duotone](https://api.iconify.design/ph/share-duotone.svg?height=32&color=%23888888)
   static const share = PhosphorDuotoneIconData(
     IconData(
       0xe406,
@@ -19239,7 +24043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![share-fat-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-fat-duotone.svg)
+  /// The `shareFat` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shareFat` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![share-fat-duotone](https://api.iconify.design/ph/share-fat-duotone.svg?height=32&color=%23888888)
   static const shareFat = PhosphorDuotoneIconData(
     IconData(
       0xed52,
@@ -19255,7 +24063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![share-network-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/share-network-duotone.svg)
+  /// The `shareNetwork` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shareNetwork` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![share-network-duotone](https://api.iconify.design/ph/share-network-duotone.svg?height=32&color=%23888888)
   static const shareNetwork = PhosphorDuotoneIconData(
     IconData(
       0xe408,
@@ -19271,7 +24083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-duotone.svg)
+  /// The `shield` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shield` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-duotone](https://api.iconify.design/ph/shield-duotone.svg?height=32&color=%23888888)
   static const shield = PhosphorDuotoneIconData(
     IconData(
       0xe40a,
@@ -19287,7 +24103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-check-duotone.svg)
+  /// The `shieldCheck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shieldCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-check-duotone](https://api.iconify.design/ph/shield-check-duotone.svg?height=32&color=%23888888)
   static const shieldCheck = PhosphorDuotoneIconData(
     IconData(
       0xe40c,
@@ -19303,7 +24123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-checkered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-checkered-duotone.svg)
+  /// The `shieldCheckered` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shieldCheckered` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-checkered-duotone](https://api.iconify.design/ph/shield-checkered-duotone.svg?height=32&color=%23888888)
   static const shieldCheckered = PhosphorDuotoneIconData(
     IconData(
       0xe708,
@@ -19319,7 +24143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-chevron-duotone.svg)
+  /// The `shieldChevron` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shieldChevron` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-chevron-duotone](https://api.iconify.design/ph/shield-chevron-duotone.svg?height=32&color=%23888888)
   static const shieldChevron = PhosphorDuotoneIconData(
     IconData(
       0xe40e,
@@ -19335,7 +24163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-plus-duotone.svg)
+  /// The `shieldPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shieldPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-plus-duotone](https://api.iconify.design/ph/shield-plus-duotone.svg?height=32&color=%23888888)
   static const shieldPlus = PhosphorDuotoneIconData(
     IconData(
       0xe706,
@@ -19351,7 +24183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-slash-duotone.svg)
+  /// The `shieldSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shieldSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-slash-duotone](https://api.iconify.design/ph/shield-slash-duotone.svg?height=32&color=%23888888)
   static const shieldSlash = PhosphorDuotoneIconData(
     IconData(
       0xe410,
@@ -19367,7 +24203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-star-duotone.svg)
+  /// The `shieldStar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shieldStar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-star-duotone](https://api.iconify.design/ph/shield-star-duotone.svg?height=32&color=%23888888)
   static const shieldStar = PhosphorDuotoneIconData(
     IconData(
       0xec34,
@@ -19383,7 +24223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shield-warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shield-warning-duotone.svg)
+  /// The `shieldWarning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shieldWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shield-warning-duotone](https://api.iconify.design/ph/shield-warning-duotone.svg?height=32&color=%23888888)
   static const shieldWarning = PhosphorDuotoneIconData(
     IconData(
       0xe412,
@@ -19399,7 +24243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shipping-container-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shipping-container-duotone.svg)
+  /// The `shippingContainer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shippingContainer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shipping-container-duotone](https://api.iconify.design/ph/shipping-container-duotone.svg?height=32&color=%23888888)
   static const shippingContainer = PhosphorDuotoneIconData(
     IconData(
       0xe78c,
@@ -19415,7 +24263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shirt-folded-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shirt-folded-duotone.svg)
+  /// The `shirtFolded` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shirtFolded` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shirt-folded-duotone](https://api.iconify.design/ph/shirt-folded-duotone.svg?height=32&color=%23888888)
   static const shirtFolded = PhosphorDuotoneIconData(
     IconData(
       0xea92,
@@ -19431,7 +24283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shooting-star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shooting-star-duotone.svg)
+  /// The `shootingStar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shootingStar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shooting-star-duotone](https://api.iconify.design/ph/shooting-star-duotone.svg?height=32&color=%23888888)
   static const shootingStar = PhosphorDuotoneIconData(
     IconData(
       0xecfa,
@@ -19447,7 +24303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shopping-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-duotone.svg)
+  /// The `shoppingBag` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shoppingBag` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shopping-bag-duotone](https://api.iconify.design/ph/shopping-bag-duotone.svg?height=32&color=%23888888)
   static const shoppingBag = PhosphorDuotoneIconData(
     IconData(
       0xe416,
@@ -19463,7 +24323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shopping-bag-open-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-bag-open-duotone.svg)
+  /// The `shoppingBagOpen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shoppingBagOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shopping-bag-open-duotone](https://api.iconify.design/ph/shopping-bag-open-duotone.svg?height=32&color=%23888888)
   static const shoppingBagOpen = PhosphorDuotoneIconData(
     IconData(
       0xe418,
@@ -19479,7 +24343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shopping-cart-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-duotone.svg)
+  /// The `shoppingCart` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shoppingCart` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shopping-cart-duotone](https://api.iconify.design/ph/shopping-cart-duotone.svg?height=32&color=%23888888)
   static const shoppingCart = PhosphorDuotoneIconData(
     IconData(
       0xe41e,
@@ -19495,7 +24363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shopping-cart-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shopping-cart-simple-duotone.svg)
+  /// The `shoppingCartSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shoppingCartSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shopping-cart-simple-duotone](https://api.iconify.design/ph/shopping-cart-simple-duotone.svg?height=32&color=%23888888)
   static const shoppingCartSimple = PhosphorDuotoneIconData(
     IconData(
       0xe420,
@@ -19511,7 +24383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shovel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shovel-duotone.svg)
+  /// The `shovel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shovel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shovel-duotone](https://api.iconify.design/ph/shovel-duotone.svg?height=32&color=%23888888)
   static const shovel = PhosphorDuotoneIconData(
     IconData(
       0xe9e6,
@@ -19527,7 +24403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shower-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shower-duotone.svg)
+  /// The `shower` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shower` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shower-duotone](https://api.iconify.design/ph/shower-duotone.svg?height=32&color=%23888888)
   static const shower = PhosphorDuotoneIconData(
     IconData(
       0xe776,
@@ -19543,7 +24423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shrimp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shrimp-duotone.svg)
+  /// The `shrimp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shrimp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shrimp-duotone](https://api.iconify.design/ph/shrimp-duotone.svg?height=32&color=%23888888)
   static const shrimp = PhosphorDuotoneIconData(
     IconData(
       0xeab4,
@@ -19559,7 +24443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shuffle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-duotone.svg)
+  /// The `shuffle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shuffle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shuffle-duotone](https://api.iconify.design/ph/shuffle-duotone.svg?height=32&color=%23888888)
   static const shuffle = PhosphorDuotoneIconData(
     IconData(
       0xe422,
@@ -19575,7 +24463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shuffle-angular-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-angular-duotone.svg)
+  /// The `shuffleAngular` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shuffleAngular` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shuffle-angular-duotone](https://api.iconify.design/ph/shuffle-angular-duotone.svg?height=32&color=%23888888)
   static const shuffleAngular = PhosphorDuotoneIconData(
     IconData(
       0xe424,
@@ -19591,7 +24483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![shuffle-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/shuffle-simple-duotone.svg)
+  /// The `shuffleSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `shuffleSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![shuffle-simple-duotone](https://api.iconify.design/ph/shuffle-simple-duotone.svg?height=32&color=%23888888)
   static const shuffleSimple = PhosphorDuotoneIconData(
     IconData(
       0xe426,
@@ -19607,7 +24503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sidebar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-duotone.svg)
+  /// The `sidebar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sidebar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sidebar-duotone](https://api.iconify.design/ph/sidebar-duotone.svg?height=32&color=%23888888)
   static const sidebar = PhosphorDuotoneIconData(
     IconData(
       0xeab6,
@@ -19623,7 +24523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sidebar-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sidebar-simple-duotone.svg)
+  /// The `sidebarSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sidebarSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sidebar-simple-duotone](https://api.iconify.design/ph/sidebar-simple-duotone.svg?height=32&color=%23888888)
   static const sidebarSimple = PhosphorDuotoneIconData(
     IconData(
       0xec24,
@@ -19639,7 +24543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sigma-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sigma-duotone.svg)
+  /// The `sigma` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sigma` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sigma-duotone](https://api.iconify.design/ph/sigma-duotone.svg?height=32&color=%23888888)
   static const sigma = PhosphorDuotoneIconData(
     IconData(
       0xeab8,
@@ -19655,7 +24563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sign-in-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-in-duotone.svg)
+  /// The `signIn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `signIn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sign-in-duotone](https://api.iconify.design/ph/sign-in-duotone.svg?height=32&color=%23888888)
   static const signIn = PhosphorDuotoneIconData(
     IconData(
       0xe428,
@@ -19671,7 +24583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sign-out-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sign-out-duotone.svg)
+  /// The `signOut` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `signOut` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sign-out-duotone](https://api.iconify.design/ph/sign-out-duotone.svg?height=32&color=%23888888)
   static const signOut = PhosphorDuotoneIconData(
     IconData(
       0xe42a,
@@ -19687,7 +24603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![signature-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signature-duotone.svg)
+  /// The `signature` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `signature` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![signature-duotone](https://api.iconify.design/ph/signature-duotone.svg?height=32&color=%23888888)
   static const signature = PhosphorDuotoneIconData(
     IconData(
       0xebac,
@@ -19703,7 +24623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![signpost-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/signpost-duotone.svg)
+  /// The `signpost` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `signpost` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![signpost-duotone](https://api.iconify.design/ph/signpost-duotone.svg?height=32&color=%23888888)
   static const signpost = PhosphorDuotoneIconData(
     IconData(
       0xe89c,
@@ -19719,7 +24643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sim-card-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sim-card-duotone.svg)
+  /// The `simCard` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `simCard` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sim-card-duotone](https://api.iconify.design/ph/sim-card-duotone.svg?height=32&color=%23888888)
   static const simCard = PhosphorDuotoneIconData(
     IconData(
       0xe664,
@@ -19735,7 +24663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![siren-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/siren-duotone.svg)
+  /// The `siren` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `siren` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![siren-duotone](https://api.iconify.design/ph/siren-duotone.svg?height=32&color=%23888888)
   static const siren = PhosphorDuotoneIconData(
     IconData(
       0xe9b8,
@@ -19751,7 +24683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sketch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sketch-logo-duotone.svg)
+  /// The `sketchLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sketchLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sketch-logo-duotone](https://api.iconify.design/ph/sketch-logo-duotone.svg?height=32&color=%23888888)
   static const sketchLogo = PhosphorDuotoneIconData(
     IconData(
       0xe42c,
@@ -19767,7 +24703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![skip-back-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-duotone.svg)
+  /// The `skipBack` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `skipBack` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![skip-back-duotone](https://api.iconify.design/ph/skip-back-duotone.svg?height=32&color=%23888888)
   static const skipBack = PhosphorDuotoneIconData(
     IconData(
       0xe5a4,
@@ -19783,7 +24723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![skip-back-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-back-circle-duotone.svg)
+  /// The `skipBackCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `skipBackCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![skip-back-circle-duotone](https://api.iconify.design/ph/skip-back-circle-duotone.svg?height=32&color=%23888888)
   static const skipBackCircle = PhosphorDuotoneIconData(
     IconData(
       0xe42e,
@@ -19799,7 +24743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![skip-forward-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-duotone.svg)
+  /// The `skipForward` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `skipForward` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![skip-forward-duotone](https://api.iconify.design/ph/skip-forward-duotone.svg?height=32&color=%23888888)
   static const skipForward = PhosphorDuotoneIconData(
     IconData(
       0xe5a6,
@@ -19815,7 +24763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![skip-forward-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skip-forward-circle-duotone.svg)
+  /// The `skipForwardCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `skipForwardCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![skip-forward-circle-duotone](https://api.iconify.design/ph/skip-forward-circle-duotone.svg?height=32&color=%23888888)
   static const skipForwardCircle = PhosphorDuotoneIconData(
     IconData(
       0xe430,
@@ -19831,7 +24783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![skull-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skull-duotone.svg)
+  /// The `skull` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `skull` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![skull-duotone](https://api.iconify.design/ph/skull-duotone.svg?height=32&color=%23888888)
   static const skull = PhosphorDuotoneIconData(
     IconData(
       0xe916,
@@ -19847,7 +24803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![skype-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/skype-logo-duotone.svg)
+  /// The `skypeLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `skypeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![skype-logo-duotone](https://api.iconify.design/ph/skype-logo-duotone.svg?height=32&color=%23888888)
   static const skypeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8dc,
@@ -19863,7 +24823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![slack-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slack-logo-duotone.svg)
+  /// The `slackLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `slackLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![slack-logo-duotone](https://api.iconify.design/ph/slack-logo-duotone.svg?height=32&color=%23888888)
   static const slackLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5a8,
@@ -19879,7 +24843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sliders-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-duotone.svg)
+  /// The `sliders` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sliders` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sliders-duotone](https://api.iconify.design/ph/sliders-duotone.svg?height=32&color=%23888888)
   static const sliders = PhosphorDuotoneIconData(
     IconData(
       0xe432,
@@ -19895,7 +24863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sliders-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sliders-horizontal-duotone.svg)
+  /// The `slidersHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `slidersHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sliders-horizontal-duotone](https://api.iconify.design/ph/sliders-horizontal-duotone.svg?height=32&color=%23888888)
   static const slidersHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe434,
@@ -19911,7 +24883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![slideshow-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/slideshow-duotone.svg)
+  /// The `slideshow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `slideshow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![slideshow-duotone](https://api.iconify.design/ph/slideshow-duotone.svg?height=32&color=%23888888)
   static const slideshow = PhosphorDuotoneIconData(
     IconData(
       0xed32,
@@ -19927,7 +24903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-duotone.svg)
+  /// The `smiley` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smiley` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-duotone](https://api.iconify.design/ph/smiley-duotone.svg?height=32&color=%23888888)
   static const smiley = PhosphorDuotoneIconData(
     IconData(
       0xe436,
@@ -19943,7 +24923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-angry-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-angry-duotone.svg)
+  /// The `smileyAngry` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileyAngry` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-angry-duotone](https://api.iconify.design/ph/smiley-angry-duotone.svg?height=32&color=%23888888)
   static const smileyAngry = PhosphorDuotoneIconData(
     IconData(
       0xec62,
@@ -19959,7 +24943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-blank-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-blank-duotone.svg)
+  /// The `smileyBlank` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileyBlank` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-blank-duotone](https://api.iconify.design/ph/smiley-blank-duotone.svg?height=32&color=%23888888)
   static const smileyBlank = PhosphorDuotoneIconData(
     IconData(
       0xe438,
@@ -19975,7 +24963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-meh-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-meh-duotone.svg)
+  /// The `smileyMeh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileyMeh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-meh-duotone](https://api.iconify.design/ph/smiley-meh-duotone.svg?height=32&color=%23888888)
   static const smileyMeh = PhosphorDuotoneIconData(
     IconData(
       0xe43a,
@@ -19991,7 +24983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-melting-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-melting-duotone.svg)
+  /// The `smileyMelting` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileyMelting` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-melting-duotone](https://api.iconify.design/ph/smiley-melting-duotone.svg?height=32&color=%23888888)
   static const smileyMelting = PhosphorDuotoneIconData(
     IconData(
       0xee56,
@@ -20007,7 +25003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-nervous-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-nervous-duotone.svg)
+  /// The `smileyNervous` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileyNervous` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-nervous-duotone](https://api.iconify.design/ph/smiley-nervous-duotone.svg?height=32&color=%23888888)
   static const smileyNervous = PhosphorDuotoneIconData(
     IconData(
       0xe43c,
@@ -20023,7 +25023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-sad-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sad-duotone.svg)
+  /// The `smileySad` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileySad` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-sad-duotone](https://api.iconify.design/ph/smiley-sad-duotone.svg?height=32&color=%23888888)
   static const smileySad = PhosphorDuotoneIconData(
     IconData(
       0xe43e,
@@ -20039,7 +25043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-sticker-duotone.svg)
+  /// The `smileySticker` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileySticker` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-sticker-duotone](https://api.iconify.design/ph/smiley-sticker-duotone.svg?height=32&color=%23888888)
   static const smileySticker = PhosphorDuotoneIconData(
     IconData(
       0xe440,
@@ -20055,7 +25063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-wink-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-wink-duotone.svg)
+  /// The `smileyWink` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileyWink` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-wink-duotone](https://api.iconify.design/ph/smiley-wink-duotone.svg?height=32&color=%23888888)
   static const smileyWink = PhosphorDuotoneIconData(
     IconData(
       0xe666,
@@ -20071,7 +25083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![smiley-x-eyes-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/smiley-x-eyes-duotone.svg)
+  /// The `smileyXEyes` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `smileyXEyes` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![smiley-x-eyes-duotone](https://api.iconify.design/ph/smiley-x-eyes-duotone.svg?height=32&color=%23888888)
   static const smileyXEyes = PhosphorDuotoneIconData(
     IconData(
       0xe442,
@@ -20087,7 +25103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![snapchat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snapchat-logo-duotone.svg)
+  /// The `snapchatLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `snapchatLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![snapchat-logo-duotone](https://api.iconify.design/ph/snapchat-logo-duotone.svg?height=32&color=%23888888)
   static const snapchatLogo = PhosphorDuotoneIconData(
     IconData(
       0xe668,
@@ -20103,7 +25123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sneaker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-duotone.svg)
+  /// The `sneaker` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sneaker` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sneaker-duotone](https://api.iconify.design/ph/sneaker-duotone.svg?height=32&color=%23888888)
   static const sneaker = PhosphorDuotoneIconData(
     IconData(
       0xe80c,
@@ -20119,7 +25143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sneaker-move-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sneaker-move-duotone.svg)
+  /// The `sneakerMove` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sneakerMove` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sneaker-move-duotone](https://api.iconify.design/ph/sneaker-move-duotone.svg?height=32&color=%23888888)
   static const sneakerMove = PhosphorDuotoneIconData(
     IconData(
       0xed60,
@@ -20135,7 +25163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![snowflake-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/snowflake-duotone.svg)
+  /// The `snowflake` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `snowflake` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![snowflake-duotone](https://api.iconify.design/ph/snowflake-duotone.svg?height=32&color=%23888888)
   static const snowflake = PhosphorDuotoneIconData(
     IconData(
       0xe5aa,
@@ -20151,7 +25183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![soccer-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soccer-ball-duotone.svg)
+  /// The `soccerBall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `soccerBall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![soccer-ball-duotone](https://api.iconify.design/ph/soccer-ball-duotone.svg?height=32&color=%23888888)
   static const soccerBall = PhosphorDuotoneIconData(
     IconData(
       0xe716,
@@ -20167,7 +25203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sock-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sock-duotone.svg)
+  /// The `sock` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sock` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sock-duotone](https://api.iconify.design/ph/sock-duotone.svg?height=32&color=%23888888)
   static const sock = PhosphorDuotoneIconData(
     IconData(
       0xecce,
@@ -20183,7 +25223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![solar-panel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-panel-duotone.svg)
+  /// The `solarPanel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `solarPanel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![solar-panel-duotone](https://api.iconify.design/ph/solar-panel-duotone.svg?height=32&color=%23888888)
   static const solarPanel = PhosphorDuotoneIconData(
     IconData(
       0xed7a,
@@ -20199,7 +25243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![solar-roof-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/solar-roof-duotone.svg)
+  /// The `solarRoof` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `solarRoof` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![solar-roof-duotone](https://api.iconify.design/ph/solar-roof-duotone.svg?height=32&color=%23888888)
   static const solarRoof = PhosphorDuotoneIconData(
     IconData(
       0xed7b,
@@ -20215,7 +25263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sort-ascending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-ascending-duotone.svg)
+  /// The `sortAscending` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sortAscending` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sort-ascending-duotone](https://api.iconify.design/ph/sort-ascending-duotone.svg?height=32&color=%23888888)
   static const sortAscending = PhosphorDuotoneIconData(
     IconData(
       0xe444,
@@ -20231,7 +25283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sort-descending-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sort-descending-duotone.svg)
+  /// The `sortDescending` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sortDescending` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sort-descending-duotone](https://api.iconify.design/ph/sort-descending-duotone.svg?height=32&color=%23888888)
   static const sortDescending = PhosphorDuotoneIconData(
     IconData(
       0xe446,
@@ -20247,7 +25303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![soundcloud-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/soundcloud-logo-duotone.svg)
+  /// The `soundcloudLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `soundcloudLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![soundcloud-logo-duotone](https://api.iconify.design/ph/soundcloud-logo-duotone.svg?height=32&color=%23888888)
   static const soundcloudLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8de,
@@ -20263,7 +25323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![spade-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spade-duotone.svg)
+  /// The `spade` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `spade` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![spade-duotone](https://api.iconify.design/ph/spade-duotone.svg?height=32&color=%23888888)
   static const spade = PhosphorDuotoneIconData(
     IconData(
       0xe448,
@@ -20279,7 +25343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sparkle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sparkle-duotone.svg)
+  /// The `sparkle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sparkle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sparkle-duotone](https://api.iconify.design/ph/sparkle-duotone.svg?height=32&color=%23888888)
   static const sparkle = PhosphorDuotoneIconData(
     IconData(
       0xe6a2,
@@ -20295,7 +25363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-hifi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-hifi-duotone.svg)
+  /// The `speakerHifi` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerHifi` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-hifi-duotone](https://api.iconify.design/ph/speaker-hifi-duotone.svg?height=32&color=%23888888)
   static const speakerHifi = PhosphorDuotoneIconData(
     IconData(
       0xea08,
@@ -20311,7 +25383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-high-duotone.svg)
+  /// The `speakerHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-high-duotone](https://api.iconify.design/ph/speaker-high-duotone.svg?height=32&color=%23888888)
   static const speakerHigh = PhosphorDuotoneIconData(
     IconData(
       0xe44a,
@@ -20327,7 +25403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-low-duotone.svg)
+  /// The `speakerLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-low-duotone](https://api.iconify.design/ph/speaker-low-duotone.svg?height=32&color=%23888888)
   static const speakerLow = PhosphorDuotoneIconData(
     IconData(
       0xe44c,
@@ -20343,7 +25423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-none-duotone.svg)
+  /// The `speakerNone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerNone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-none-duotone](https://api.iconify.design/ph/speaker-none-duotone.svg?height=32&color=%23888888)
   static const speakerNone = PhosphorDuotoneIconData(
     IconData(
       0xe44e,
@@ -20359,7 +25443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-simple-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-high-duotone.svg)
+  /// The `speakerSimpleHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerSimpleHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-simple-high-duotone](https://api.iconify.design/ph/speaker-simple-high-duotone.svg?height=32&color=%23888888)
   static const speakerSimpleHigh = PhosphorDuotoneIconData(
     IconData(
       0xe450,
@@ -20375,7 +25463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-simple-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-low-duotone.svg)
+  /// The `speakerSimpleLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerSimpleLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-simple-low-duotone](https://api.iconify.design/ph/speaker-simple-low-duotone.svg?height=32&color=%23888888)
   static const speakerSimpleLow = PhosphorDuotoneIconData(
     IconData(
       0xe452,
@@ -20391,7 +25483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-simple-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-none-duotone.svg)
+  /// The `speakerSimpleNone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerSimpleNone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-simple-none-duotone](https://api.iconify.design/ph/speaker-simple-none-duotone.svg?height=32&color=%23888888)
   static const speakerSimpleNone = PhosphorDuotoneIconData(
     IconData(
       0xe454,
@@ -20407,7 +25503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-simple-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-slash-duotone.svg)
+  /// The `speakerSimpleSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-simple-slash-duotone](https://api.iconify.design/ph/speaker-simple-slash-duotone.svg?height=32&color=%23888888)
   static const speakerSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe456,
@@ -20423,7 +25523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-simple-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-simple-x-duotone.svg)
+  /// The `speakerSimpleX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerSimpleX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-simple-x-duotone](https://api.iconify.design/ph/speaker-simple-x-duotone.svg?height=32&color=%23888888)
   static const speakerSimpleX = PhosphorDuotoneIconData(
     IconData(
       0xe458,
@@ -20439,7 +25543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-slash-duotone.svg)
+  /// The `speakerSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-slash-duotone](https://api.iconify.design/ph/speaker-slash-duotone.svg?height=32&color=%23888888)
   static const speakerSlash = PhosphorDuotoneIconData(
     IconData(
       0xe45a,
@@ -20455,7 +25563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speaker-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speaker-x-duotone.svg)
+  /// The `speakerX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speakerX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speaker-x-duotone](https://api.iconify.design/ph/speaker-x-duotone.svg?height=32&color=%23888888)
   static const speakerX = PhosphorDuotoneIconData(
     IconData(
       0xe45c,
@@ -20471,7 +25583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![speedometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/speedometer-duotone.svg)
+  /// The `speedometer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `speedometer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![speedometer-duotone](https://api.iconify.design/ph/speedometer-duotone.svg?height=32&color=%23888888)
   static const speedometer = PhosphorDuotoneIconData(
     IconData(
       0xee74,
@@ -20487,7 +25603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sphere-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sphere-duotone.svg)
+  /// The `sphere` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sphere` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sphere-duotone](https://api.iconify.design/ph/sphere-duotone.svg?height=32&color=%23888888)
   static const sphere = PhosphorDuotoneIconData(
     IconData(
       0xee66,
@@ -20503,7 +25623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![spinner-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-duotone.svg)
+  /// The `spinner` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `spinner` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![spinner-duotone](https://api.iconify.design/ph/spinner-duotone.svg?height=32&color=%23888888)
   static const spinner = PhosphorDuotoneIconData(
     IconData(
       0xe66a,
@@ -20519,7 +25643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![spinner-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-ball-duotone.svg)
+  /// The `spinnerBall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `spinnerBall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![spinner-ball-duotone](https://api.iconify.design/ph/spinner-ball-duotone.svg?height=32&color=%23888888)
   static const spinnerBall = PhosphorDuotoneIconData(
     IconData(
       0xee28,
@@ -20535,7 +25663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![spinner-gap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spinner-gap-duotone.svg)
+  /// The `spinnerGap` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `spinnerGap` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![spinner-gap-duotone](https://api.iconify.design/ph/spinner-gap-duotone.svg?height=32&color=%23888888)
   static const spinnerGap = PhosphorDuotoneIconData(
     IconData(
       0xe66c,
@@ -20551,7 +25683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![spiral-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spiral-duotone.svg)
+  /// The `spiral` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `spiral` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![spiral-duotone](https://api.iconify.design/ph/spiral-duotone.svg?height=32&color=%23888888)
   static const spiral = PhosphorDuotoneIconData(
     IconData(
       0xe9fa,
@@ -20567,7 +25703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-horizontal-duotone.svg)
+  /// The `splitHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `splitHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![split-horizontal-duotone](https://api.iconify.design/ph/split-horizontal-duotone.svg?height=32&color=%23888888)
   static const splitHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe872,
@@ -20583,7 +25723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/split-vertical-duotone.svg)
+  /// The `splitVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `splitVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![split-vertical-duotone](https://api.iconify.design/ph/split-vertical-duotone.svg?height=32&color=%23888888)
   static const splitVertical = PhosphorDuotoneIconData(
     IconData(
       0xe876,
@@ -20599,7 +25743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![spotify-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spotify-logo-duotone.svg)
+  /// The `spotifyLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `spotifyLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![spotify-logo-duotone](https://api.iconify.design/ph/spotify-logo-duotone.svg?height=32&color=%23888888)
   static const spotifyLogo = PhosphorDuotoneIconData(
     IconData(
       0xe66e,
@@ -20615,7 +25763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![spray-bottle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/spray-bottle-duotone.svg)
+  /// The `sprayBottle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sprayBottle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![spray-bottle-duotone](https://api.iconify.design/ph/spray-bottle-duotone.svg?height=32&color=%23888888)
   static const sprayBottle = PhosphorDuotoneIconData(
     IconData(
       0xe7e4,
@@ -20631,7 +25783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-duotone.svg)
+  /// The `square` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `square` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![square-duotone](https://api.iconify.design/ph/square-duotone.svg?height=32&color=%23888888)
   static const square = PhosphorDuotoneIconData(
     IconData(
       0xe45e,
@@ -20647,7 +25803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![square-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-duotone.svg)
+  /// The `squareHalf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `squareHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![square-half-duotone](https://api.iconify.design/ph/square-half-duotone.svg?height=32&color=%23888888)
   static const squareHalf = PhosphorDuotoneIconData(
     IconData(
       0xe462,
@@ -20663,7 +25823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![square-half-bottom-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-half-bottom-duotone.svg)
+  /// The `squareHalfBottom` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `squareHalfBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![square-half-bottom-duotone](https://api.iconify.design/ph/square-half-bottom-duotone.svg?height=32&color=%23888888)
   static const squareHalfBottom = PhosphorDuotoneIconData(
     IconData(
       0xeb16,
@@ -20679,7 +25843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![square-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-logo-duotone.svg)
+  /// The `squareLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `squareLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![square-logo-duotone](https://api.iconify.design/ph/square-logo-duotone.svg?height=32&color=%23888888)
   static const squareLogo = PhosphorDuotoneIconData(
     IconData(
       0xe690,
@@ -20695,7 +25863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![square-split-horizontal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-horizontal-duotone.svg)
+  /// The `squareSplitHorizontal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `squareSplitHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![square-split-horizontal-duotone](https://api.iconify.design/ph/square-split-horizontal-duotone.svg?height=32&color=%23888888)
   static const squareSplitHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe870,
@@ -20711,7 +25883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![square-split-vertical-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/square-split-vertical-duotone.svg)
+  /// The `squareSplitVertical` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `squareSplitVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![square-split-vertical-duotone](https://api.iconify.design/ph/square-split-vertical-duotone.svg?height=32&color=%23888888)
   static const squareSplitVertical = PhosphorDuotoneIconData(
     IconData(
       0xe874,
@@ -20727,7 +25903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![squares-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/squares-four-duotone.svg)
+  /// The `squaresFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `squaresFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![squares-four-duotone](https://api.iconify.design/ph/squares-four-duotone.svg?height=32&color=%23888888)
   static const squaresFour = PhosphorDuotoneIconData(
     IconData(
       0xe464,
@@ -20743,7 +25923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stack-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-duotone.svg)
+  /// The `stack` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stack` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stack-duotone](https://api.iconify.design/ph/stack-duotone.svg?height=32&color=%23888888)
   static const stack = PhosphorDuotoneIconData(
     IconData(
       0xe466,
@@ -20759,7 +25943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stack-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-minus-duotone.svg)
+  /// The `stackMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stackMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stack-minus-duotone](https://api.iconify.design/ph/stack-minus-duotone.svg?height=32&color=%23888888)
   static const stackMinus = PhosphorDuotoneIconData(
     IconData(
       0xedf4,
@@ -20775,7 +25963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stack-overflow-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-overflow-logo-duotone.svg)
+  /// The `stackOverflowLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stackOverflowLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stack-overflow-logo-duotone](https://api.iconify.design/ph/stack-overflow-logo-duotone.svg?height=32&color=%23888888)
   static const stackOverflowLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb78,
@@ -20791,7 +25983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stack-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-plus-duotone.svg)
+  /// The `stackPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stackPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stack-plus-duotone](https://api.iconify.design/ph/stack-plus-duotone.svg?height=32&color=%23888888)
   static const stackPlus = PhosphorDuotoneIconData(
     IconData(
       0xedf6,
@@ -20807,7 +26003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stack-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stack-simple-duotone.svg)
+  /// The `stackSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stackSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stack-simple-duotone](https://api.iconify.design/ph/stack-simple-duotone.svg?height=32&color=%23888888)
   static const stackSimple = PhosphorDuotoneIconData(
     IconData(
       0xe468,
@@ -20823,7 +26023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stairs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stairs-duotone.svg)
+  /// The `stairs` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stairs` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stairs-duotone](https://api.iconify.design/ph/stairs-duotone.svg?height=32&color=%23888888)
   static const stairs = PhosphorDuotoneIconData(
     IconData(
       0xe8ec,
@@ -20839,7 +26043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stamp-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stamp-duotone.svg)
+  /// The `stamp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stamp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stamp-duotone](https://api.iconify.design/ph/stamp-duotone.svg?height=32&color=%23888888)
   static const stamp = PhosphorDuotoneIconData(
     IconData(
       0xea48,
@@ -20855,7 +26063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![standard-definition-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/standard-definition-duotone.svg)
+  /// The `standardDefinition` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `standardDefinition` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![standard-definition-duotone](https://api.iconify.design/ph/standard-definition-duotone.svg?height=32&color=%23888888)
   static const standardDefinition = PhosphorDuotoneIconData(
     IconData(
       0xea90,
@@ -20871,7 +26083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![star-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-duotone.svg)
+  /// The `star` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `star` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![star-duotone](https://api.iconify.design/ph/star-duotone.svg?height=32&color=%23888888)
   static const star = PhosphorDuotoneIconData(
     IconData(
       0xe46a,
@@ -20887,7 +26103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![star-and-crescent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-and-crescent-duotone.svg)
+  /// The `starAndCrescent` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `starAndCrescent` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![star-and-crescent-duotone](https://api.iconify.design/ph/star-and-crescent-duotone.svg?height=32&color=%23888888)
   static const starAndCrescent = PhosphorDuotoneIconData(
     IconData(
       0xecf4,
@@ -20903,7 +26123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![star-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-four-duotone.svg)
+  /// The `starFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `starFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![star-four-duotone](https://api.iconify.design/ph/star-four-duotone.svg?height=32&color=%23888888)
   static const starFour = PhosphorDuotoneIconData(
     IconData(
       0xe6a4,
@@ -20919,7 +26143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![star-half-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-half-duotone.svg)
+  /// The `starHalf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `starHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![star-half-duotone](https://api.iconify.design/ph/star-half-duotone.svg?height=32&color=%23888888)
   static const starHalf = PhosphorDuotoneIconData(
     IconData(
       0xe70a,
@@ -20935,7 +26163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![star-of-david-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/star-of-david-duotone.svg)
+  /// The `starOfDavid` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `starOfDavid` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![star-of-david-duotone](https://api.iconify.design/ph/star-of-david-duotone.svg?height=32&color=%23888888)
   static const starOfDavid = PhosphorDuotoneIconData(
     IconData(
       0xe89e,
@@ -20951,7 +26183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![steam-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steam-logo-duotone.svg)
+  /// The `steamLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `steamLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![steam-logo-duotone](https://api.iconify.design/ph/steam-logo-duotone.svg?height=32&color=%23888888)
   static const steamLogo = PhosphorDuotoneIconData(
     IconData(
       0xead4,
@@ -20967,7 +26203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![steering-wheel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steering-wheel-duotone.svg)
+  /// The `steeringWheel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `steeringWheel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![steering-wheel-duotone](https://api.iconify.design/ph/steering-wheel-duotone.svg?height=32&color=%23888888)
   static const steeringWheel = PhosphorDuotoneIconData(
     IconData(
       0xe9ac,
@@ -20983,7 +26223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![steps-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/steps-duotone.svg)
+  /// The `steps` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `steps` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![steps-duotone](https://api.iconify.design/ph/steps-duotone.svg?height=32&color=%23888888)
   static const steps = PhosphorDuotoneIconData(
     IconData(
       0xecbe,
@@ -20999,7 +26243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stethoscope-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stethoscope-duotone.svg)
+  /// The `stethoscope` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stethoscope` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stethoscope-duotone](https://api.iconify.design/ph/stethoscope-duotone.svg?height=32&color=%23888888)
   static const stethoscope = PhosphorDuotoneIconData(
     IconData(
       0xe7ea,
@@ -21015,7 +26263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sticker-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sticker-duotone.svg)
+  /// The `sticker` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sticker` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sticker-duotone](https://api.iconify.design/ph/sticker-duotone.svg?height=32&color=%23888888)
   static const sticker = PhosphorDuotoneIconData(
     IconData(
       0xe5ac,
@@ -21031,7 +26283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stool-duotone.svg)
+  /// The `stool` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stool` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stool-duotone](https://api.iconify.design/ph/stool-duotone.svg?height=32&color=%23888888)
   static const stool = PhosphorDuotoneIconData(
     IconData(
       0xea44,
@@ -21047,7 +26303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stop-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-duotone.svg)
+  /// The `stop` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stop` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stop-duotone](https://api.iconify.design/ph/stop-duotone.svg?height=32&color=%23888888)
   static const stop = PhosphorDuotoneIconData(
     IconData(
       0xe46c,
@@ -21063,7 +26323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stop-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stop-circle-duotone.svg)
+  /// The `stopCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stopCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stop-circle-duotone](https://api.iconify.design/ph/stop-circle-duotone.svg?height=32&color=%23888888)
   static const stopCircle = PhosphorDuotoneIconData(
     IconData(
       0xe46e,
@@ -21079,7 +26343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![storefront-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/storefront-duotone.svg)
+  /// The `storefront` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `storefront` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![storefront-duotone](https://api.iconify.design/ph/storefront-duotone.svg?height=32&color=%23888888)
   static const storefront = PhosphorDuotoneIconData(
     IconData(
       0xe470,
@@ -21095,7 +26363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![strategy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/strategy-duotone.svg)
+  /// The `strategy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `strategy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![strategy-duotone](https://api.iconify.design/ph/strategy-duotone.svg?height=32&color=%23888888)
   static const strategy = PhosphorDuotoneIconData(
     IconData(
       0xea3a,
@@ -21111,7 +26383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![stripe-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/stripe-logo-duotone.svg)
+  /// The `stripeLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `stripeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![stripe-logo-duotone](https://api.iconify.design/ph/stripe-logo-duotone.svg?height=32&color=%23888888)
   static const stripeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe698,
@@ -21127,7 +26403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![student-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/student-duotone.svg)
+  /// The `student` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `student` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![student-duotone](https://api.iconify.design/ph/student-duotone.svg?height=32&color=%23888888)
   static const student = PhosphorDuotoneIconData(
     IconData(
       0xe73e,
@@ -21143,7 +26423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![subset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-of-duotone.svg)
+  /// The `subsetOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `subsetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![subset-of-duotone](https://api.iconify.design/ph/subset-of-duotone.svg?height=32&color=%23888888)
   static const subsetOf = PhosphorDuotoneIconData(
     IconData(
       0xedc0,
@@ -21159,7 +26443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![subset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subset-proper-of-duotone.svg)
+  /// The `subsetProperOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `subsetProperOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![subset-proper-of-duotone](https://api.iconify.design/ph/subset-proper-of-duotone.svg?height=32&color=%23888888)
   static const subsetProperOf = PhosphorDuotoneIconData(
     IconData(
       0xedb6,
@@ -21175,7 +26463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![subtitles-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-duotone.svg)
+  /// The `subtitles` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `subtitles` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![subtitles-duotone](https://api.iconify.design/ph/subtitles-duotone.svg?height=32&color=%23888888)
   static const subtitles = PhosphorDuotoneIconData(
     IconData(
       0xe1a8,
@@ -21191,7 +26483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![subtitles-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtitles-slash-duotone.svg)
+  /// The `subtitlesSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `subtitlesSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![subtitles-slash-duotone](https://api.iconify.design/ph/subtitles-slash-duotone.svg?height=32&color=%23888888)
   static const subtitlesSlash = PhosphorDuotoneIconData(
     IconData(
       0xe1a6,
@@ -21207,7 +26503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![subtract-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-duotone.svg)
+  /// The `subtract` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `subtract` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![subtract-duotone](https://api.iconify.design/ph/subtract-duotone.svg?height=32&color=%23888888)
   static const subtract = PhosphorDuotoneIconData(
     IconData(
       0xebd6,
@@ -21223,7 +26523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![subtract-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subtract-square-duotone.svg)
+  /// The `subtractSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `subtractSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![subtract-square-duotone](https://api.iconify.design/ph/subtract-square-duotone.svg?height=32&color=%23888888)
   static const subtractSquare = PhosphorDuotoneIconData(
     IconData(
       0xebd4,
@@ -21239,7 +26543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![subway-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/subway-duotone.svg)
+  /// The `subway` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `subway` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![subway-duotone](https://api.iconify.design/ph/subway-duotone.svg?height=32&color=%23888888)
   static const subway = PhosphorDuotoneIconData(
     IconData(
       0xe498,
@@ -21255,7 +26563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-duotone.svg)
+  /// The `suitcase` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `suitcase` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![suitcase-duotone](https://api.iconify.design/ph/suitcase-duotone.svg?height=32&color=%23888888)
   static const suitcase = PhosphorDuotoneIconData(
     IconData(
       0xe5ae,
@@ -21271,7 +26583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![suitcase-rolling-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-rolling-duotone.svg)
+  /// The `suitcaseRolling` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `suitcaseRolling` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![suitcase-rolling-duotone](https://api.iconify.design/ph/suitcase-rolling-duotone.svg?height=32&color=%23888888)
   static const suitcaseRolling = PhosphorDuotoneIconData(
     IconData(
       0xe9b0,
@@ -21287,7 +26603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![suitcase-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/suitcase-simple-duotone.svg)
+  /// The `suitcaseSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `suitcaseSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![suitcase-simple-duotone](https://api.iconify.design/ph/suitcase-simple-duotone.svg?height=32&color=%23888888)
   static const suitcaseSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5b0,
@@ -21303,7 +26623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sun-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-duotone.svg)
+  /// The `sun` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sun` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sun-duotone](https://api.iconify.design/ph/sun-duotone.svg?height=32&color=%23888888)
   static const sun = PhosphorDuotoneIconData(
     IconData(
       0xe472,
@@ -21319,7 +26643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sun-dim-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-dim-duotone.svg)
+  /// The `sunDim` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sunDim` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sun-dim-duotone](https://api.iconify.design/ph/sun-dim-duotone.svg?height=32&color=%23888888)
   static const sunDim = PhosphorDuotoneIconData(
     IconData(
       0xe474,
@@ -21335,7 +26663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sun-horizon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sun-horizon-duotone.svg)
+  /// The `sunHorizon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sunHorizon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sun-horizon-duotone](https://api.iconify.design/ph/sun-horizon-duotone.svg?height=32&color=%23888888)
   static const sunHorizon = PhosphorDuotoneIconData(
     IconData(
       0xe5b6,
@@ -21351,7 +26683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sunglasses-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sunglasses-duotone.svg)
+  /// The `sunglasses` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sunglasses` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sunglasses-duotone](https://api.iconify.design/ph/sunglasses-duotone.svg?height=32&color=%23888888)
   static const sunglasses = PhosphorDuotoneIconData(
     IconData(
       0xe816,
@@ -21367,7 +26703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![superset-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-of-duotone.svg)
+  /// The `supersetOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `supersetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![superset-of-duotone](https://api.iconify.design/ph/superset-of-duotone.svg?height=32&color=%23888888)
   static const supersetOf = PhosphorDuotoneIconData(
     IconData(
       0xedb8,
@@ -21383,7 +26723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![superset-proper-of-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/superset-proper-of-duotone.svg)
+  /// The `supersetProperOf` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `supersetProperOf` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![superset-proper-of-duotone](https://api.iconify.design/ph/superset-proper-of-duotone.svg?height=32&color=%23888888)
   static const supersetProperOf = PhosphorDuotoneIconData(
     IconData(
       0xedb4,
@@ -21399,7 +26743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![swap-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swap-duotone.svg)
+  /// The `swap` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `swap` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![swap-duotone](https://api.iconify.design/ph/swap-duotone.svg?height=32&color=%23888888)
   static const swap = PhosphorDuotoneIconData(
     IconData(
       0xe83c,
@@ -21415,7 +26763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![swatches-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swatches-duotone.svg)
+  /// The `swatches` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `swatches` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![swatches-duotone](https://api.iconify.design/ph/swatches-duotone.svg?height=32&color=%23888888)
   static const swatches = PhosphorDuotoneIconData(
     IconData(
       0xe5b8,
@@ -21431,7 +26783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![swimming-pool-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/swimming-pool-duotone.svg)
+  /// The `swimmingPool` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `swimmingPool` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![swimming-pool-duotone](https://api.iconify.design/ph/swimming-pool-duotone.svg?height=32&color=%23888888)
   static const swimmingPool = PhosphorDuotoneIconData(
     IconData(
       0xecb6,
@@ -21447,7 +26803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![sword-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/sword-duotone.svg)
+  /// The `sword` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `sword` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![sword-duotone](https://api.iconify.design/ph/sword-duotone.svg?height=32&color=%23888888)
   static const sword = PhosphorDuotoneIconData(
     IconData(
       0xe5ba,
@@ -21463,7 +26823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![synagogue-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/synagogue-duotone.svg)
+  /// The `synagogue` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `synagogue` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![synagogue-duotone](https://api.iconify.design/ph/synagogue-duotone.svg?height=32&color=%23888888)
   static const synagogue = PhosphorDuotoneIconData(
     IconData(
       0xecec,
@@ -21479,7 +26843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![syringe-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/syringe-duotone.svg)
+  /// The `syringe` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `syringe` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![syringe-duotone](https://api.iconify.design/ph/syringe-duotone.svg?height=32&color=%23888888)
   static const syringe = PhosphorDuotoneIconData(
     IconData(
       0xe968,
@@ -21495,7 +26863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![t-shirt-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/t-shirt-duotone.svg)
+  /// The `tShirt` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tShirt` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![t-shirt-duotone](https://api.iconify.design/ph/t-shirt-duotone.svg?height=32&color=%23888888)
   static const tShirt = PhosphorDuotoneIconData(
     IconData(
       0xe670,
@@ -21511,7 +26883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![table-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/table-duotone.svg)
+  /// The `table` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `table` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![table-duotone](https://api.iconify.design/ph/table-duotone.svg?height=32&color=%23888888)
   static const table = PhosphorDuotoneIconData(
     IconData(
       0xe476,
@@ -21527,7 +26903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tabs-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tabs-duotone.svg)
+  /// The `tabs` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tabs` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tabs-duotone](https://api.iconify.design/ph/tabs-duotone.svg?height=32&color=%23888888)
   static const tabs = PhosphorDuotoneIconData(
     IconData(
       0xe778,
@@ -21543,7 +26923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-duotone.svg)
+  /// The `tag` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tag` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tag-duotone](https://api.iconify.design/ph/tag-duotone.svg?height=32&color=%23888888)
   static const tag = PhosphorDuotoneIconData(
     IconData(
       0xe478,
@@ -21559,7 +26943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tag-chevron-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-chevron-duotone.svg)
+  /// The `tagChevron` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tagChevron` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tag-chevron-duotone](https://api.iconify.design/ph/tag-chevron-duotone.svg?height=32&color=%23888888)
   static const tagChevron = PhosphorDuotoneIconData(
     IconData(
       0xe672,
@@ -21575,7 +26963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tag-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tag-simple-duotone.svg)
+  /// The `tagSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tagSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tag-simple-duotone](https://api.iconify.design/ph/tag-simple-duotone.svg?height=32&color=%23888888)
   static const tagSimple = PhosphorDuotoneIconData(
     IconData(
       0xe47a,
@@ -21591,7 +26983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![target-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/target-duotone.svg)
+  /// The `target` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `target` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![target-duotone](https://api.iconify.design/ph/target-duotone.svg?height=32&color=%23888888)
   static const target = PhosphorDuotoneIconData(
     IconData(
       0xe47c,
@@ -21607,7 +27003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![taxi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/taxi-duotone.svg)
+  /// The `taxi` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `taxi` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![taxi-duotone](https://api.iconify.design/ph/taxi-duotone.svg?height=32&color=%23888888)
   static const taxi = PhosphorDuotoneIconData(
     IconData(
       0xe902,
@@ -21623,7 +27023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tea-bag-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tea-bag-duotone.svg)
+  /// The `teaBag` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `teaBag` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tea-bag-duotone](https://api.iconify.design/ph/tea-bag-duotone.svg?height=32&color=%23888888)
   static const teaBag = PhosphorDuotoneIconData(
     IconData(
       0xe8e6,
@@ -21639,7 +27043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![telegram-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/telegram-logo-duotone.svg)
+  /// The `telegramLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `telegramLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![telegram-logo-duotone](https://api.iconify.design/ph/telegram-logo-duotone.svg?height=32&color=%23888888)
   static const telegramLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5bc,
@@ -21655,7 +27063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![television-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-duotone.svg)
+  /// The `television` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `television` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![television-duotone](https://api.iconify.design/ph/television-duotone.svg?height=32&color=%23888888)
   static const television = PhosphorDuotoneIconData(
     IconData(
       0xe754,
@@ -21671,7 +27083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![television-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/television-simple-duotone.svg)
+  /// The `televisionSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `televisionSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![television-simple-duotone](https://api.iconify.design/ph/television-simple-duotone.svg?height=32&color=%23888888)
   static const televisionSimple = PhosphorDuotoneIconData(
     IconData(
       0xeae6,
@@ -21687,7 +27103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tennis-ball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tennis-ball-duotone.svg)
+  /// The `tennisBall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tennisBall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tennis-ball-duotone](https://api.iconify.design/ph/tennis-ball-duotone.svg?height=32&color=%23888888)
   static const tennisBall = PhosphorDuotoneIconData(
     IconData(
       0xe720,
@@ -21703,7 +27123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tent-duotone.svg)
+  /// The `tent` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tent` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tent-duotone](https://api.iconify.design/ph/tent-duotone.svg?height=32&color=%23888888)
   static const tent = PhosphorDuotoneIconData(
     IconData(
       0xe8ba,
@@ -21719,7 +27143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![terminal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-duotone.svg)
+  /// The `terminal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `terminal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![terminal-duotone](https://api.iconify.design/ph/terminal-duotone.svg?height=32&color=%23888888)
   static const terminal = PhosphorDuotoneIconData(
     IconData(
       0xe47e,
@@ -21735,7 +27163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![terminal-window-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/terminal-window-duotone.svg)
+  /// The `terminalWindow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `terminalWindow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![terminal-window-duotone](https://api.iconify.design/ph/terminal-window-duotone.svg?height=32&color=%23888888)
   static const terminalWindow = PhosphorDuotoneIconData(
     IconData(
       0xeae8,
@@ -21751,7 +27183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![test-tube-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/test-tube-duotone.svg)
+  /// The `testTube` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `testTube` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![test-tube-duotone](https://api.iconify.design/ph/test-tube-duotone.svg?height=32&color=%23888888)
   static const testTube = PhosphorDuotoneIconData(
     IconData(
       0xe7a0,
@@ -21767,7 +27203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-a-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-a-underline-duotone.svg)
+  /// The `textAUnderline` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textAUnderline` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-a-underline-duotone](https://api.iconify.design/ph/text-a-underline-duotone.svg?height=32&color=%23888888)
   static const textAUnderline = PhosphorDuotoneIconData(
     IconData(
       0xed34,
@@ -21783,7 +27223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-aa-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-aa-duotone.svg)
+  /// The `textAa` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textAa` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-aa-duotone](https://api.iconify.design/ph/text-aa-duotone.svg?height=32&color=%23888888)
   static const textAa = PhosphorDuotoneIconData(
     IconData(
       0xe6ee,
@@ -21799,7 +27243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-align-center-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-center-duotone.svg)
+  /// The `textAlignCenter` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textAlignCenter` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-align-center-duotone](https://api.iconify.design/ph/text-align-center-duotone.svg?height=32&color=%23888888)
   static const textAlignCenter = PhosphorDuotoneIconData(
     IconData(
       0xe480,
@@ -21815,7 +27263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-align-justify-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-justify-duotone.svg)
+  /// The `textAlignJustify` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textAlignJustify` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-align-justify-duotone](https://api.iconify.design/ph/text-align-justify-duotone.svg?height=32&color=%23888888)
   static const textAlignJustify = PhosphorDuotoneIconData(
     IconData(
       0xe482,
@@ -21831,7 +27283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-align-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-left-duotone.svg)
+  /// The `textAlignLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textAlignLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-align-left-duotone](https://api.iconify.design/ph/text-align-left-duotone.svg?height=32&color=%23888888)
   static const textAlignLeft = PhosphorDuotoneIconData(
     IconData(
       0xe484,
@@ -21847,7 +27303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-align-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-align-right-duotone.svg)
+  /// The `textAlignRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textAlignRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-align-right-duotone](https://api.iconify.design/ph/text-align-right-duotone.svg?height=32&color=%23888888)
   static const textAlignRight = PhosphorDuotoneIconData(
     IconData(
       0xe486,
@@ -21863,7 +27323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-b-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-b-duotone.svg)
+  /// The `textB` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textB` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-b-duotone](https://api.iconify.design/ph/text-b-duotone.svg?height=32&color=%23888888)
   static const textB = PhosphorDuotoneIconData(
     IconData(
       0xe5be,
@@ -21879,7 +27343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-bolder-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-bolder-duotone.svg)
+  /// The `textBolder` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textBolder` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-bolder-duotone](https://api.iconify.design/ph/text-b-duotone.svg?height=32&color=%23888888)
   static const textBolder = PhosphorDuotoneIconData(
     IconData(
       0xe5be,
@@ -21895,7 +27363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-columns-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-columns-duotone.svg)
+  /// The `textColumns` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textColumns` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-columns-duotone](https://api.iconify.design/ph/text-columns-duotone.svg?height=32&color=%23888888)
   static const textColumns = PhosphorDuotoneIconData(
     IconData(
       0xec96,
@@ -21911,7 +27383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-h-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-duotone.svg)
+  /// The `textH` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textH` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-h-duotone](https://api.iconify.design/ph/text-h-duotone.svg?height=32&color=%23888888)
   static const textH = PhosphorDuotoneIconData(
     IconData(
       0xe6ba,
@@ -21927,7 +27403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-h-five-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-five-duotone.svg)
+  /// The `textHFive` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textHFive` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-h-five-duotone](https://api.iconify.design/ph/text-h-five-duotone.svg?height=32&color=%23888888)
   static const textHFive = PhosphorDuotoneIconData(
     IconData(
       0xe6c4,
@@ -21943,7 +27423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-h-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-four-duotone.svg)
+  /// The `textHFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textHFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-h-four-duotone](https://api.iconify.design/ph/text-h-four-duotone.svg?height=32&color=%23888888)
   static const textHFour = PhosphorDuotoneIconData(
     IconData(
       0xe6c2,
@@ -21959,7 +27443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-h-one-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-one-duotone.svg)
+  /// The `textHOne` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textHOne` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-h-one-duotone](https://api.iconify.design/ph/text-h-one-duotone.svg?height=32&color=%23888888)
   static const textHOne = PhosphorDuotoneIconData(
     IconData(
       0xe6bc,
@@ -21975,7 +27463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-h-six-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-six-duotone.svg)
+  /// The `textHSix` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textHSix` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-h-six-duotone](https://api.iconify.design/ph/text-h-six-duotone.svg?height=32&color=%23888888)
   static const textHSix = PhosphorDuotoneIconData(
     IconData(
       0xe6c6,
@@ -21991,7 +27483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-h-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-three-duotone.svg)
+  /// The `textHThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textHThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-h-three-duotone](https://api.iconify.design/ph/text-h-three-duotone.svg?height=32&color=%23888888)
   static const textHThree = PhosphorDuotoneIconData(
     IconData(
       0xe6c0,
@@ -22007,7 +27503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-h-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-h-two-duotone.svg)
+  /// The `textHTwo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textHTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-h-two-duotone](https://api.iconify.design/ph/text-h-two-duotone.svg?height=32&color=%23888888)
   static const textHTwo = PhosphorDuotoneIconData(
     IconData(
       0xe6be,
@@ -22023,7 +27523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-indent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-indent-duotone.svg)
+  /// The `textIndent` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textIndent` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-indent-duotone](https://api.iconify.design/ph/text-indent-duotone.svg?height=32&color=%23888888)
   static const textIndent = PhosphorDuotoneIconData(
     IconData(
       0xea1e,
@@ -22039,7 +27543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-italic-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-italic-duotone.svg)
+  /// The `textItalic` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textItalic` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-italic-duotone](https://api.iconify.design/ph/text-italic-duotone.svg?height=32&color=%23888888)
   static const textItalic = PhosphorDuotoneIconData(
     IconData(
       0xe5c0,
@@ -22055,7 +27563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-outdent-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-outdent-duotone.svg)
+  /// The `textOutdent` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textOutdent` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-outdent-duotone](https://api.iconify.design/ph/text-outdent-duotone.svg?height=32&color=%23888888)
   static const textOutdent = PhosphorDuotoneIconData(
     IconData(
       0xea1c,
@@ -22071,7 +27583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-strikethrough-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-strikethrough-duotone.svg)
+  /// The `textStrikethrough` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textStrikethrough` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-strikethrough-duotone](https://api.iconify.design/ph/text-strikethrough-duotone.svg?height=32&color=%23888888)
   static const textStrikethrough = PhosphorDuotoneIconData(
     IconData(
       0xe5c2,
@@ -22087,7 +27603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-subscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-subscript-duotone.svg)
+  /// The `textSubscript` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textSubscript` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-subscript-duotone](https://api.iconify.design/ph/text-subscript-duotone.svg?height=32&color=%23888888)
   static const textSubscript = PhosphorDuotoneIconData(
     IconData(
       0xec98,
@@ -22103,7 +27623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-superscript-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-superscript-duotone.svg)
+  /// The `textSuperscript` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textSuperscript` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-superscript-duotone](https://api.iconify.design/ph/text-superscript-duotone.svg?height=32&color=%23888888)
   static const textSuperscript = PhosphorDuotoneIconData(
     IconData(
       0xec9a,
@@ -22119,7 +27643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-t-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-duotone.svg)
+  /// The `textT` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textT` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-t-duotone](https://api.iconify.design/ph/text-t-duotone.svg?height=32&color=%23888888)
   static const textT = PhosphorDuotoneIconData(
     IconData(
       0xe48a,
@@ -22135,7 +27663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-t-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-t-slash-duotone.svg)
+  /// The `textTSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textTSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-t-slash-duotone](https://api.iconify.design/ph/text-t-slash-duotone.svg?height=32&color=%23888888)
   static const textTSlash = PhosphorDuotoneIconData(
     IconData(
       0xe488,
@@ -22151,7 +27683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![text-underline-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/text-underline-duotone.svg)
+  /// The `textUnderline` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textUnderline` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![text-underline-duotone](https://api.iconify.design/ph/text-underline-duotone.svg?height=32&color=%23888888)
   static const textUnderline = PhosphorDuotoneIconData(
     IconData(
       0xe5c4,
@@ -22167,7 +27703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![textbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/textbox-duotone.svg)
+  /// The `textbox` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `textbox` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![textbox-duotone](https://api.iconify.design/ph/textbox-duotone.svg?height=32&color=%23888888)
   static const textbox = PhosphorDuotoneIconData(
     IconData(
       0xeb0a,
@@ -22183,7 +27723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![thermometer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-duotone.svg)
+  /// The `thermometer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `thermometer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![thermometer-duotone](https://api.iconify.design/ph/thermometer-duotone.svg?height=32&color=%23888888)
   static const thermometer = PhosphorDuotoneIconData(
     IconData(
       0xe5c6,
@@ -22199,7 +27743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![thermometer-cold-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-cold-duotone.svg)
+  /// The `thermometerCold` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `thermometerCold` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![thermometer-cold-duotone](https://api.iconify.design/ph/thermometer-cold-duotone.svg?height=32&color=%23888888)
   static const thermometerCold = PhosphorDuotoneIconData(
     IconData(
       0xe5c8,
@@ -22215,7 +27763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![thermometer-hot-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-hot-duotone.svg)
+  /// The `thermometerHot` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `thermometerHot` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![thermometer-hot-duotone](https://api.iconify.design/ph/thermometer-hot-duotone.svg?height=32&color=%23888888)
   static const thermometerHot = PhosphorDuotoneIconData(
     IconData(
       0xe5ca,
@@ -22231,7 +27783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![thermometer-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thermometer-simple-duotone.svg)
+  /// The `thermometerSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `thermometerSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![thermometer-simple-duotone](https://api.iconify.design/ph/thermometer-simple-duotone.svg?height=32&color=%23888888)
   static const thermometerSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5cc,
@@ -22247,7 +27803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![threads-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/threads-logo-duotone.svg)
+  /// The `threadsLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `threadsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![threads-logo-duotone](https://api.iconify.design/ph/threads-logo-duotone.svg?height=32&color=%23888888)
   static const threadsLogo = PhosphorDuotoneIconData(
     IconData(
       0xed9e,
@@ -22263,7 +27823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![three-d-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/three-d-duotone.svg)
+  /// The `threeD` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `threeD` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![three-d-duotone](https://api.iconify.design/ph/three-d-duotone.svg?height=32&color=%23888888)
   static const threeD = PhosphorDuotoneIconData(
     IconData(
       0xea5a,
@@ -22279,7 +27843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![thumbs-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-down-duotone.svg)
+  /// The `thumbsDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `thumbsDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![thumbs-down-duotone](https://api.iconify.design/ph/thumbs-down-duotone.svg?height=32&color=%23888888)
   static const thumbsDown = PhosphorDuotoneIconData(
     IconData(
       0xe48c,
@@ -22295,7 +27863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![thumbs-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/thumbs-up-duotone.svg)
+  /// The `thumbsUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `thumbsUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![thumbs-up-duotone](https://api.iconify.design/ph/thumbs-up-duotone.svg?height=32&color=%23888888)
   static const thumbsUp = PhosphorDuotoneIconData(
     IconData(
       0xe48e,
@@ -22311,7 +27883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![ticket-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/ticket-duotone.svg)
+  /// The `ticket` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `ticket` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![ticket-duotone](https://api.iconify.design/ph/ticket-duotone.svg?height=32&color=%23888888)
   static const ticket = PhosphorDuotoneIconData(
     IconData(
       0xe490,
@@ -22327,7 +27903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tidal-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tidal-logo-duotone.svg)
+  /// The `tidalLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tidalLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tidal-logo-duotone](https://api.iconify.design/ph/tidal-logo-duotone.svg?height=32&color=%23888888)
   static const tidalLogo = PhosphorDuotoneIconData(
     IconData(
       0xed1c,
@@ -22343,7 +27923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tiktok-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tiktok-logo-duotone.svg)
+  /// The `tiktokLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tiktokLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tiktok-logo-duotone](https://api.iconify.design/ph/tiktok-logo-duotone.svg?height=32&color=%23888888)
   static const tiktokLogo = PhosphorDuotoneIconData(
     IconData(
       0xeaf2,
@@ -22359,7 +27943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tilde-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tilde-duotone.svg)
+  /// The `tilde` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tilde` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tilde-duotone](https://api.iconify.design/ph/tilde-duotone.svg?height=32&color=%23888888)
   static const tilde = PhosphorDuotoneIconData(
     IconData(
       0xeda8,
@@ -22375,7 +27963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![timer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/timer-duotone.svg)
+  /// The `timer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `timer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![timer-duotone](https://api.iconify.design/ph/timer-duotone.svg?height=32&color=%23888888)
   static const timer = PhosphorDuotoneIconData(
     IconData(
       0xe492,
@@ -22391,7 +27983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tip-jar-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tip-jar-duotone.svg)
+  /// The `tipJar` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tipJar` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tip-jar-duotone](https://api.iconify.design/ph/tip-jar-duotone.svg?height=32&color=%23888888)
   static const tipJar = PhosphorDuotoneIconData(
     IconData(
       0xe7e2,
@@ -22407,7 +28003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tipi-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tipi-duotone.svg)
+  /// The `tipi` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tipi` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tipi-duotone](https://api.iconify.design/ph/tipi-duotone.svg?height=32&color=%23888888)
   static const tipi = PhosphorDuotoneIconData(
     IconData(
       0xed30,
@@ -22423,7 +28023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tire-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tire-duotone.svg)
+  /// The `tire` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tire` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tire-duotone](https://api.iconify.design/ph/tire-duotone.svg?height=32&color=%23888888)
   static const tire = PhosphorDuotoneIconData(
     IconData(
       0xedd2,
@@ -22439,7 +28043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![toggle-left-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-left-duotone.svg)
+  /// The `toggleLeft` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `toggleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![toggle-left-duotone](https://api.iconify.design/ph/toggle-left-duotone.svg?height=32&color=%23888888)
   static const toggleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe674,
@@ -22455,7 +28063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![toggle-right-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toggle-right-duotone.svg)
+  /// The `toggleRight` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `toggleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![toggle-right-duotone](https://api.iconify.design/ph/toggle-right-duotone.svg?height=32&color=%23888888)
   static const toggleRight = PhosphorDuotoneIconData(
     IconData(
       0xe676,
@@ -22471,7 +28083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![toilet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-duotone.svg)
+  /// The `toilet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `toilet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![toilet-duotone](https://api.iconify.design/ph/toilet-duotone.svg?height=32&color=%23888888)
   static const toilet = PhosphorDuotoneIconData(
     IconData(
       0xe79a,
@@ -22487,7 +28103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![toilet-paper-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toilet-paper-duotone.svg)
+  /// The `toiletPaper` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `toiletPaper` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![toilet-paper-duotone](https://api.iconify.design/ph/toilet-paper-duotone.svg?height=32&color=%23888888)
   static const toiletPaper = PhosphorDuotoneIconData(
     IconData(
       0xe79c,
@@ -22503,7 +28123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![toolbox-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/toolbox-duotone.svg)
+  /// The `toolbox` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `toolbox` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![toolbox-duotone](https://api.iconify.design/ph/toolbox-duotone.svg?height=32&color=%23888888)
   static const toolbox = PhosphorDuotoneIconData(
     IconData(
       0xeca0,
@@ -22519,7 +28143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tooth-duotone.svg)
+  /// The `tooth` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tooth` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tooth-duotone](https://api.iconify.design/ph/tooth-duotone.svg?height=32&color=%23888888)
   static const tooth = PhosphorDuotoneIconData(
     IconData(
       0xe9cc,
@@ -22535,7 +28163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tornado-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tornado-duotone.svg)
+  /// The `tornado` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tornado` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tornado-duotone](https://api.iconify.design/ph/tornado-duotone.svg?height=32&color=%23888888)
   static const tornado = PhosphorDuotoneIconData(
     IconData(
       0xe88c,
@@ -22551,7 +28183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tote-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-duotone.svg)
+  /// The `tote` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tote` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tote-duotone](https://api.iconify.design/ph/tote-duotone.svg?height=32&color=%23888888)
   static const tote = PhosphorDuotoneIconData(
     IconData(
       0xe494,
@@ -22567,7 +28203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tote-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tote-simple-duotone.svg)
+  /// The `toteSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `toteSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tote-simple-duotone](https://api.iconify.design/ph/tote-simple-duotone.svg?height=32&color=%23888888)
   static const toteSimple = PhosphorDuotoneIconData(
     IconData(
       0xe678,
@@ -22583,7 +28223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![towel-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/towel-duotone.svg)
+  /// The `towel` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `towel` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![towel-duotone](https://api.iconify.design/ph/towel-duotone.svg?height=32&color=%23888888)
   static const towel = PhosphorDuotoneIconData(
     IconData(
       0xede6,
@@ -22599,7 +28243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tractor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tractor-duotone.svg)
+  /// The `tractor` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tractor` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tractor-duotone](https://api.iconify.design/ph/tractor-duotone.svg?height=32&color=%23888888)
   static const tractor = PhosphorDuotoneIconData(
     IconData(
       0xec6e,
@@ -22615,7 +28263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trademark-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-duotone.svg)
+  /// The `trademark` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trademark` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trademark-duotone](https://api.iconify.design/ph/trademark-duotone.svg?height=32&color=%23888888)
   static const trademark = PhosphorDuotoneIconData(
     IconData(
       0xe9f0,
@@ -22631,7 +28283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trademark-registered-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trademark-registered-duotone.svg)
+  /// The `trademarkRegistered` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trademarkRegistered` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trademark-registered-duotone](https://api.iconify.design/ph/trademark-registered-duotone.svg?height=32&color=%23888888)
   static const trademarkRegistered = PhosphorDuotoneIconData(
     IconData(
       0xe3f4,
@@ -22647,7 +28303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![traffic-cone-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-cone-duotone.svg)
+  /// The `trafficCone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trafficCone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![traffic-cone-duotone](https://api.iconify.design/ph/traffic-cone-duotone.svg?height=32&color=%23888888)
   static const trafficCone = PhosphorDuotoneIconData(
     IconData(
       0xe9a8,
@@ -22663,7 +28323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![traffic-sign-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-sign-duotone.svg)
+  /// The `trafficSign` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trafficSign` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![traffic-sign-duotone](https://api.iconify.design/ph/traffic-sign-duotone.svg?height=32&color=%23888888)
   static const trafficSign = PhosphorDuotoneIconData(
     IconData(
       0xe67a,
@@ -22679,7 +28343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![traffic-signal-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/traffic-signal-duotone.svg)
+  /// The `trafficSignal` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trafficSignal` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![traffic-signal-duotone](https://api.iconify.design/ph/traffic-signal-duotone.svg?height=32&color=%23888888)
   static const trafficSignal = PhosphorDuotoneIconData(
     IconData(
       0xe9aa,
@@ -22695,7 +28363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![train-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-duotone.svg)
+  /// The `train` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `train` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![train-duotone](https://api.iconify.design/ph/train-duotone.svg?height=32&color=%23888888)
   static const train = PhosphorDuotoneIconData(
     IconData(
       0xe496,
@@ -22711,7 +28383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![train-regional-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-regional-duotone.svg)
+  /// The `trainRegional` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trainRegional` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![train-regional-duotone](https://api.iconify.design/ph/train-regional-duotone.svg?height=32&color=%23888888)
   static const trainRegional = PhosphorDuotoneIconData(
     IconData(
       0xe49e,
@@ -22727,7 +28403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![train-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/train-simple-duotone.svg)
+  /// The `trainSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trainSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![train-simple-duotone](https://api.iconify.design/ph/train-simple-duotone.svg?height=32&color=%23888888)
   static const trainSimple = PhosphorDuotoneIconData(
     IconData(
       0xe4a0,
@@ -22743,7 +28423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tram-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tram-duotone.svg)
+  /// The `tram` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tram` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tram-duotone](https://api.iconify.design/ph/tram-duotone.svg?height=32&color=%23888888)
   static const tram = PhosphorDuotoneIconData(
     IconData(
       0xe9ec,
@@ -22759,7 +28443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![translate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/translate-duotone.svg)
+  /// The `translate` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `translate` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![translate-duotone](https://api.iconify.design/ph/translate-duotone.svg?height=32&color=%23888888)
   static const translate = PhosphorDuotoneIconData(
     IconData(
       0xe4a2,
@@ -22775,7 +28463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-duotone.svg)
+  /// The `trash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trash-duotone](https://api.iconify.design/ph/trash-duotone.svg?height=32&color=%23888888)
   static const trash = PhosphorDuotoneIconData(
     IconData(
       0xe4a6,
@@ -22791,7 +28483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trash-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trash-simple-duotone.svg)
+  /// The `trashSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trashSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trash-simple-duotone](https://api.iconify.design/ph/trash-simple-duotone.svg?height=32&color=%23888888)
   static const trashSimple = PhosphorDuotoneIconData(
     IconData(
       0xe4a8,
@@ -22807,7 +28503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tray-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-duotone.svg)
+  /// The `tray` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tray` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tray-duotone](https://api.iconify.design/ph/tray-duotone.svg?height=32&color=%23888888)
   static const tray = PhosphorDuotoneIconData(
     IconData(
       0xe4aa,
@@ -22823,7 +28523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tray-arrow-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-down-duotone.svg)
+  /// The `trayArrowDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trayArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tray-arrow-down-duotone](https://api.iconify.design/ph/tray-arrow-down-duotone.svg?height=32&color=%23888888)
   static const trayArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe010,
@@ -22839,7 +28543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tray-arrow-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tray-arrow-up-duotone.svg)
+  /// The `trayArrowUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trayArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tray-arrow-up-duotone](https://api.iconify.design/ph/tray-arrow-up-duotone.svg?height=32&color=%23888888)
   static const trayArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xee52,
@@ -22855,7 +28563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![treasure-chest-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/treasure-chest-duotone.svg)
+  /// The `treasureChest` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `treasureChest` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![treasure-chest-duotone](https://api.iconify.design/ph/treasure-chest-duotone.svg?height=32&color=%23888888)
   static const treasureChest = PhosphorDuotoneIconData(
     IconData(
       0xede2,
@@ -22871,7 +28583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tree-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-duotone.svg)
+  /// The `tree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tree-duotone](https://api.iconify.design/ph/tree-duotone.svg?height=32&color=%23888888)
   static const tree = PhosphorDuotoneIconData(
     IconData(
       0xe6da,
@@ -22887,7 +28603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tree-evergreen-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-evergreen-duotone.svg)
+  /// The `treeEvergreen` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `treeEvergreen` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tree-evergreen-duotone](https://api.iconify.design/ph/tree-evergreen-duotone.svg?height=32&color=%23888888)
   static const treeEvergreen = PhosphorDuotoneIconData(
     IconData(
       0xe6dc,
@@ -22903,7 +28623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tree-palm-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-palm-duotone.svg)
+  /// The `treePalm` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `treePalm` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tree-palm-duotone](https://api.iconify.design/ph/tree-palm-duotone.svg?height=32&color=%23888888)
   static const treePalm = PhosphorDuotoneIconData(
     IconData(
       0xe91a,
@@ -22919,7 +28643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tree-structure-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-structure-duotone.svg)
+  /// The `treeStructure` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `treeStructure` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tree-structure-duotone](https://api.iconify.design/ph/tree-structure-duotone.svg?height=32&color=%23888888)
   static const treeStructure = PhosphorDuotoneIconData(
     IconData(
       0xe67c,
@@ -22935,7 +28663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tree-view-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tree-view-duotone.svg)
+  /// The `treeView` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `treeView` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tree-view-duotone](https://api.iconify.design/ph/tree-view-duotone.svg?height=32&color=%23888888)
   static const treeView = PhosphorDuotoneIconData(
     IconData(
       0xee48,
@@ -22951,7 +28683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trend-down-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-down-duotone.svg)
+  /// The `trendDown` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trendDown` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trend-down-duotone](https://api.iconify.design/ph/trend-down-duotone.svg?height=32&color=%23888888)
   static const trendDown = PhosphorDuotoneIconData(
     IconData(
       0xe4ac,
@@ -22967,7 +28703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trend-up-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trend-up-duotone.svg)
+  /// The `trendUp` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trendUp` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trend-up-duotone](https://api.iconify.design/ph/trend-up-duotone.svg?height=32&color=%23888888)
   static const trendUp = PhosphorDuotoneIconData(
     IconData(
       0xe4ae,
@@ -22983,7 +28723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-duotone.svg)
+  /// The `triangle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `triangle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![triangle-duotone](https://api.iconify.design/ph/triangle-duotone.svg?height=32&color=%23888888)
   static const triangle = PhosphorDuotoneIconData(
     IconData(
       0xe4b0,
@@ -22999,7 +28743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![triangle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/triangle-dashed-duotone.svg)
+  /// The `triangleDashed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `triangleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![triangle-dashed-duotone](https://api.iconify.design/ph/triangle-dashed-duotone.svg?height=32&color=%23888888)
   static const triangleDashed = PhosphorDuotoneIconData(
     IconData(
       0xe4b2,
@@ -23015,7 +28763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trolley-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-duotone.svg)
+  /// The `trolley` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trolley` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trolley-duotone](https://api.iconify.design/ph/trolley-duotone.svg?height=32&color=%23888888)
   static const trolley = PhosphorDuotoneIconData(
     IconData(
       0xe5b2,
@@ -23031,7 +28783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trolley-suitcase-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trolley-suitcase-duotone.svg)
+  /// The `trolleySuitcase` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trolleySuitcase` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trolley-suitcase-duotone](https://api.iconify.design/ph/trolley-suitcase-duotone.svg?height=32&color=%23888888)
   static const trolleySuitcase = PhosphorDuotoneIconData(
     IconData(
       0xe5b4,
@@ -23047,7 +28803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![trophy-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/trophy-duotone.svg)
+  /// The `trophy` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `trophy` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![trophy-duotone](https://api.iconify.design/ph/trophy-duotone.svg?height=32&color=%23888888)
   static const trophy = PhosphorDuotoneIconData(
     IconData(
       0xe67e,
@@ -23063,7 +28823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![truck-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-duotone.svg)
+  /// The `truck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `truck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![truck-duotone](https://api.iconify.design/ph/truck-duotone.svg?height=32&color=%23888888)
   static const truck = PhosphorDuotoneIconData(
     IconData(
       0xe4b4,
@@ -23079,7 +28843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![truck-trailer-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/truck-trailer-duotone.svg)
+  /// The `truckTrailer` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `truckTrailer` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![truck-trailer-duotone](https://api.iconify.design/ph/truck-trailer-duotone.svg?height=32&color=%23888888)
   static const truckTrailer = PhosphorDuotoneIconData(
     IconData(
       0xe4b6,
@@ -23095,7 +28863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![tumblr-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/tumblr-logo-duotone.svg)
+  /// The `tumblrLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `tumblrLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![tumblr-logo-duotone](https://api.iconify.design/ph/tumblr-logo-duotone.svg?height=32&color=%23888888)
   static const tumblrLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8d4,
@@ -23111,7 +28883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![twitch-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitch-logo-duotone.svg)
+  /// The `twitchLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `twitchLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![twitch-logo-duotone](https://api.iconify.design/ph/twitch-logo-duotone.svg?height=32&color=%23888888)
   static const twitchLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5ce,
@@ -23127,7 +28903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![twitter-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/twitter-logo-duotone.svg)
+  /// The `twitterLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `twitterLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![twitter-logo-duotone](https://api.iconify.design/ph/twitter-logo-duotone.svg?height=32&color=%23888888)
   static const twitterLogo = PhosphorDuotoneIconData(
     IconData(
       0xe4ba,
@@ -23143,7 +28923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![umbrella-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-duotone.svg)
+  /// The `umbrella` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `umbrella` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![umbrella-duotone](https://api.iconify.design/ph/umbrella-duotone.svg?height=32&color=%23888888)
   static const umbrella = PhosphorDuotoneIconData(
     IconData(
       0xe684,
@@ -23159,7 +28943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![umbrella-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/umbrella-simple-duotone.svg)
+  /// The `umbrellaSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `umbrellaSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![umbrella-simple-duotone](https://api.iconify.design/ph/umbrella-simple-duotone.svg?height=32&color=%23888888)
   static const umbrellaSimple = PhosphorDuotoneIconData(
     IconData(
       0xe686,
@@ -23175,7 +28963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![union-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/union-duotone.svg)
+  /// The `union` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `union` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![union-duotone](https://api.iconify.design/ph/union-duotone.svg?height=32&color=%23888888)
   static const union = PhosphorDuotoneIconData(
     IconData(
       0xedbe,
@@ -23191,7 +28983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![unite-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-duotone.svg)
+  /// The `unite` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `unite` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![unite-duotone](https://api.iconify.design/ph/unite-duotone.svg?height=32&color=%23888888)
   static const unite = PhosphorDuotoneIconData(
     IconData(
       0xe87e,
@@ -23207,7 +29003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![unite-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/unite-square-duotone.svg)
+  /// The `uniteSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `uniteSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![unite-square-duotone](https://api.iconify.design/ph/unite-square-duotone.svg?height=32&color=%23888888)
   static const uniteSquare = PhosphorDuotoneIconData(
     IconData(
       0xe878,
@@ -23223,7 +29023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![upload-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-duotone.svg)
+  /// The `upload` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `upload` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![upload-duotone](https://api.iconify.design/ph/upload-duotone.svg?height=32&color=%23888888)
   static const upload = PhosphorDuotoneIconData(
     IconData(
       0xe4be,
@@ -23239,7 +29043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![upload-simple-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/upload-simple-duotone.svg)
+  /// The `uploadSimple` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `uploadSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![upload-simple-duotone](https://api.iconify.design/ph/upload-simple-duotone.svg?height=32&color=%23888888)
   static const uploadSimple = PhosphorDuotoneIconData(
     IconData(
       0xe4c0,
@@ -23255,7 +29063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![usb-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/usb-duotone.svg)
+  /// The `usb` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `usb` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![usb-duotone](https://api.iconify.design/ph/usb-duotone.svg?height=32&color=%23888888)
   static const usb = PhosphorDuotoneIconData(
     IconData(
       0xe956,
@@ -23271,7 +29083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-duotone.svg)
+  /// The `user` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `user` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-duotone](https://api.iconify.design/ph/user-duotone.svg?height=32&color=%23888888)
   static const user = PhosphorDuotoneIconData(
     IconData(
       0xe4c2,
@@ -23287,7 +29103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-check-duotone.svg)
+  /// The `userCheck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-check-duotone](https://api.iconify.design/ph/user-check-duotone.svg?height=32&color=%23888888)
   static const userCheck = PhosphorDuotoneIconData(
     IconData(
       0xeafa,
@@ -23303,7 +29123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-duotone.svg)
+  /// The `userCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-circle-duotone](https://api.iconify.design/ph/user-circle-duotone.svg?height=32&color=%23888888)
   static const userCircle = PhosphorDuotoneIconData(
     IconData(
       0xe4c4,
@@ -23319,7 +29143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-circle-check-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-check-duotone.svg)
+  /// The `userCircleCheck` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userCircleCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-circle-check-duotone](https://api.iconify.design/ph/user-circle-check-duotone.svg?height=32&color=%23888888)
   static const userCircleCheck = PhosphorDuotoneIconData(
     IconData(
       0xec38,
@@ -23335,7 +29163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-circle-dashed-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-dashed-duotone.svg)
+  /// The `userCircleDashed` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userCircleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-circle-dashed-duotone](https://api.iconify.design/ph/user-circle-dashed-duotone.svg?height=32&color=%23888888)
   static const userCircleDashed = PhosphorDuotoneIconData(
     IconData(
       0xec36,
@@ -23351,7 +29183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-circle-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-gear-duotone.svg)
+  /// The `userCircleGear` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userCircleGear` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-circle-gear-duotone](https://api.iconify.design/ph/user-circle-gear-duotone.svg?height=32&color=%23888888)
   static const userCircleGear = PhosphorDuotoneIconData(
     IconData(
       0xe4c6,
@@ -23367,7 +29203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-circle-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-minus-duotone.svg)
+  /// The `userCircleMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userCircleMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-circle-minus-duotone](https://api.iconify.design/ph/user-circle-minus-duotone.svg?height=32&color=%23888888)
   static const userCircleMinus = PhosphorDuotoneIconData(
     IconData(
       0xe4c8,
@@ -23383,7 +29223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-circle-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-circle-plus-duotone.svg)
+  /// The `userCirclePlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userCirclePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-circle-plus-duotone](https://api.iconify.design/ph/user-circle-plus-duotone.svg?height=32&color=%23888888)
   static const userCirclePlus = PhosphorDuotoneIconData(
     IconData(
       0xe4ca,
@@ -23399,7 +29243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-focus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-focus-duotone.svg)
+  /// The `userFocus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userFocus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-focus-duotone](https://api.iconify.design/ph/user-focus-duotone.svg?height=32&color=%23888888)
   static const userFocus = PhosphorDuotoneIconData(
     IconData(
       0xe6fc,
@@ -23415,7 +29263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-gear-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-gear-duotone.svg)
+  /// The `userGear` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userGear` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-gear-duotone](https://api.iconify.design/ph/user-gear-duotone.svg?height=32&color=%23888888)
   static const userGear = PhosphorDuotoneIconData(
     IconData(
       0xe4cc,
@@ -23431,7 +29283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-list-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-list-duotone.svg)
+  /// The `userList` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userList` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-list-duotone](https://api.iconify.design/ph/user-list-duotone.svg?height=32&color=%23888888)
   static const userList = PhosphorDuotoneIconData(
     IconData(
       0xe73c,
@@ -23447,7 +29303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-minus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-minus-duotone.svg)
+  /// The `userMinus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-minus-duotone](https://api.iconify.design/ph/user-minus-duotone.svg?height=32&color=%23888888)
   static const userMinus = PhosphorDuotoneIconData(
     IconData(
       0xe4ce,
@@ -23463,7 +29323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-plus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-plus-duotone.svg)
+  /// The `userPlus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-plus-duotone](https://api.iconify.design/ph/user-plus-duotone.svg?height=32&color=%23888888)
   static const userPlus = PhosphorDuotoneIconData(
     IconData(
       0xe4d0,
@@ -23479,7 +29343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-rectangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-rectangle-duotone.svg)
+  /// The `userRectangle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userRectangle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-rectangle-duotone](https://api.iconify.design/ph/user-rectangle-duotone.svg?height=32&color=%23888888)
   static const userRectangle = PhosphorDuotoneIconData(
     IconData(
       0xe4d2,
@@ -23495,7 +29363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-sound-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-sound-duotone.svg)
+  /// The `userSound` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userSound` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-sound-duotone](https://api.iconify.design/ph/user-sound-duotone.svg?height=32&color=%23888888)
   static const userSound = PhosphorDuotoneIconData(
     IconData(
       0xeca8,
@@ -23511,7 +29383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-square-duotone.svg)
+  /// The `userSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-square-duotone](https://api.iconify.design/ph/user-square-duotone.svg?height=32&color=%23888888)
   static const userSquare = PhosphorDuotoneIconData(
     IconData(
       0xe4d4,
@@ -23527,7 +29403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![user-switch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/user-switch-duotone.svg)
+  /// The `userSwitch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `userSwitch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![user-switch-duotone](https://api.iconify.design/ph/user-switch-duotone.svg?height=32&color=%23888888)
   static const userSwitch = PhosphorDuotoneIconData(
     IconData(
       0xe756,
@@ -23543,7 +29423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![users-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-duotone.svg)
+  /// The `users` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `users` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![users-duotone](https://api.iconify.design/ph/users-duotone.svg?height=32&color=%23888888)
   static const users = PhosphorDuotoneIconData(
     IconData(
       0xe4d6,
@@ -23559,7 +29443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![users-four-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-four-duotone.svg)
+  /// The `usersFour` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `usersFour` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![users-four-duotone](https://api.iconify.design/ph/users-four-duotone.svg?height=32&color=%23888888)
   static const usersFour = PhosphorDuotoneIconData(
     IconData(
       0xe68c,
@@ -23575,7 +29463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![users-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/users-three-duotone.svg)
+  /// The `usersThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `usersThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![users-three-duotone](https://api.iconify.design/ph/users-three-duotone.svg?height=32&color=%23888888)
   static const usersThree = PhosphorDuotoneIconData(
     IconData(
       0xe68e,
@@ -23591,7 +29483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![van-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/van-duotone.svg)
+  /// The `van` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `van` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![van-duotone](https://api.iconify.design/ph/van-duotone.svg?height=32&color=%23888888)
   static const van = PhosphorDuotoneIconData(
     IconData(
       0xe826,
@@ -23607,7 +29503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![vault-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vault-duotone.svg)
+  /// The `vault` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `vault` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![vault-duotone](https://api.iconify.design/ph/vault-duotone.svg?height=32&color=%23888888)
   static const vault = PhosphorDuotoneIconData(
     IconData(
       0xe76e,
@@ -23623,7 +29523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![vector-three-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-three-duotone.svg)
+  /// The `vectorThree` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `vectorThree` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![vector-three-duotone](https://api.iconify.design/ph/vector-three-duotone.svg?height=32&color=%23888888)
   static const vectorThree = PhosphorDuotoneIconData(
     IconData(
       0xee62,
@@ -23639,7 +29543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![vector-two-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vector-two-duotone.svg)
+  /// The `vectorTwo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `vectorTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![vector-two-duotone](https://api.iconify.design/ph/vector-two-duotone.svg?height=32&color=%23888888)
   static const vectorTwo = PhosphorDuotoneIconData(
     IconData(
       0xee64,
@@ -23655,7 +29563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![vibrate-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vibrate-duotone.svg)
+  /// The `vibrate` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `vibrate` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![vibrate-duotone](https://api.iconify.design/ph/vibrate-duotone.svg?height=32&color=%23888888)
   static const vibrate = PhosphorDuotoneIconData(
     IconData(
       0xe4d8,
@@ -23671,7 +29583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![video-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-duotone.svg)
+  /// The `video` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `video` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![video-duotone](https://api.iconify.design/ph/video-duotone.svg?height=32&color=%23888888)
   static const video = PhosphorDuotoneIconData(
     IconData(
       0xe740,
@@ -23687,7 +29603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![video-camera-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-duotone.svg)
+  /// The `videoCamera` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `videoCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![video-camera-duotone](https://api.iconify.design/ph/video-camera-duotone.svg?height=32&color=%23888888)
   static const videoCamera = PhosphorDuotoneIconData(
     IconData(
       0xe4da,
@@ -23703,7 +29623,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![video-camera-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-camera-slash-duotone.svg)
+  /// The `videoCameraSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `videoCameraSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![video-camera-slash-duotone](https://api.iconify.design/ph/video-camera-slash-duotone.svg?height=32&color=%23888888)
   static const videoCameraSlash = PhosphorDuotoneIconData(
     IconData(
       0xe4dc,
@@ -23719,7 +29643,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![video-conference-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/video-conference-duotone.svg)
+  /// The `videoConference` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `videoConference` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![video-conference-duotone](https://api.iconify.design/ph/video-conference-duotone.svg?height=32&color=%23888888)
   static const videoConference = PhosphorDuotoneIconData(
     IconData(
       0xedce,
@@ -23735,7 +29663,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![vignette-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vignette-duotone.svg)
+  /// The `vignette` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `vignette` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![vignette-duotone](https://api.iconify.design/ph/vignette-duotone.svg?height=32&color=%23888888)
   static const vignette = PhosphorDuotoneIconData(
     IconData(
       0xeba2,
@@ -23751,7 +29683,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![vinyl-record-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/vinyl-record-duotone.svg)
+  /// The `vinylRecord` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `vinylRecord` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![vinyl-record-duotone](https://api.iconify.design/ph/vinyl-record-duotone.svg?height=32&color=%23888888)
   static const vinylRecord = PhosphorDuotoneIconData(
     IconData(
       0xecac,
@@ -23767,7 +29703,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![virtual-reality-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virtual-reality-duotone.svg)
+  /// The `virtualReality` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `virtualReality` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![virtual-reality-duotone](https://api.iconify.design/ph/virtual-reality-duotone.svg?height=32&color=%23888888)
   static const virtualReality = PhosphorDuotoneIconData(
     IconData(
       0xe7b8,
@@ -23783,7 +29723,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![virus-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/virus-duotone.svg)
+  /// The `virus` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `virus` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![virus-duotone](https://api.iconify.design/ph/virus-duotone.svg?height=32&color=%23888888)
   static const virus = PhosphorDuotoneIconData(
     IconData(
       0xe7d6,
@@ -23799,7 +29743,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![visor-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/visor-duotone.svg)
+  /// The `visor` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `visor` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![visor-duotone](https://api.iconify.design/ph/visor-duotone.svg?height=32&color=%23888888)
   static const visor = PhosphorDuotoneIconData(
     IconData(
       0xee2a,
@@ -23815,7 +29763,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![voicemail-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/voicemail-duotone.svg)
+  /// The `voicemail` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `voicemail` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![voicemail-duotone](https://api.iconify.design/ph/voicemail-duotone.svg?height=32&color=%23888888)
   static const voicemail = PhosphorDuotoneIconData(
     IconData(
       0xe4de,
@@ -23831,7 +29783,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![volleyball-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/volleyball-duotone.svg)
+  /// The `volleyball` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `volleyball` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![volleyball-duotone](https://api.iconify.design/ph/volleyball-duotone.svg?height=32&color=%23888888)
   static const volleyball = PhosphorDuotoneIconData(
     IconData(
       0xe726,
@@ -23847,7 +29803,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wall-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wall-duotone.svg)
+  /// The `wall` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wall` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wall-duotone](https://api.iconify.design/ph/wall-duotone.svg?height=32&color=%23888888)
   static const wall = PhosphorDuotoneIconData(
     IconData(
       0xe688,
@@ -23863,7 +29823,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wallet-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wallet-duotone.svg)
+  /// The `wallet` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wallet` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wallet-duotone](https://api.iconify.design/ph/wallet-duotone.svg?height=32&color=%23888888)
   static const wallet = PhosphorDuotoneIconData(
     IconData(
       0xe68a,
@@ -23879,7 +29843,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![warehouse-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warehouse-duotone.svg)
+  /// The `warehouse` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `warehouse` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![warehouse-duotone](https://api.iconify.design/ph/warehouse-duotone.svg?height=32&color=%23888888)
   static const warehouse = PhosphorDuotoneIconData(
     IconData(
       0xecd4,
@@ -23895,7 +29863,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![warning-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-duotone.svg)
+  /// The `warning` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `warning` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![warning-duotone](https://api.iconify.design/ph/warning-duotone.svg?height=32&color=%23888888)
   static const warning = PhosphorDuotoneIconData(
     IconData(
       0xe4e0,
@@ -23911,7 +29883,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![warning-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-circle-duotone.svg)
+  /// The `warningCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `warningCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![warning-circle-duotone](https://api.iconify.design/ph/warning-circle-duotone.svg?height=32&color=%23888888)
   static const warningCircle = PhosphorDuotoneIconData(
     IconData(
       0xe4e2,
@@ -23927,7 +29903,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![warning-diamond-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-diamond-duotone.svg)
+  /// The `warningDiamond` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `warningDiamond` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![warning-diamond-duotone](https://api.iconify.design/ph/warning-diamond-duotone.svg?height=32&color=%23888888)
   static const warningDiamond = PhosphorDuotoneIconData(
     IconData(
       0xe7fc,
@@ -23943,7 +29923,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![warning-octagon-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/warning-octagon-duotone.svg)
+  /// The `warningOctagon` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `warningOctagon` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![warning-octagon-duotone](https://api.iconify.design/ph/warning-octagon-duotone.svg?height=32&color=%23888888)
   static const warningOctagon = PhosphorDuotoneIconData(
     IconData(
       0xe4e4,
@@ -23959,7 +29943,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![washing-machine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/washing-machine-duotone.svg)
+  /// The `washingMachine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `washingMachine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![washing-machine-duotone](https://api.iconify.design/ph/washing-machine-duotone.svg?height=32&color=%23888888)
   static const washingMachine = PhosphorDuotoneIconData(
     IconData(
       0xede8,
@@ -23975,7 +29963,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![watch-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/watch-duotone.svg)
+  /// The `watch` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `watch` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![watch-duotone](https://api.iconify.design/ph/watch-duotone.svg?height=32&color=%23888888)
   static const watch = PhosphorDuotoneIconData(
     IconData(
       0xe4e6,
@@ -23991,7 +29983,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wave-sawtooth-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sawtooth-duotone.svg)
+  /// The `waveSawtooth` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `waveSawtooth` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wave-sawtooth-duotone](https://api.iconify.design/ph/wave-sawtooth-duotone.svg?height=32&color=%23888888)
   static const waveSawtooth = PhosphorDuotoneIconData(
     IconData(
       0xea9c,
@@ -24007,7 +30003,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wave-sine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-sine-duotone.svg)
+  /// The `waveSine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `waveSine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wave-sine-duotone](https://api.iconify.design/ph/wave-sine-duotone.svg?height=32&color=%23888888)
   static const waveSine = PhosphorDuotoneIconData(
     IconData(
       0xea9a,
@@ -24023,7 +30023,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wave-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-square-duotone.svg)
+  /// The `waveSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `waveSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wave-square-duotone](https://api.iconify.design/ph/wave-square-duotone.svg?height=32&color=%23888888)
   static const waveSquare = PhosphorDuotoneIconData(
     IconData(
       0xea9e,
@@ -24039,7 +30043,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wave-triangle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wave-triangle-duotone.svg)
+  /// The `waveTriangle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `waveTriangle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wave-triangle-duotone](https://api.iconify.design/ph/wave-triangle-duotone.svg?height=32&color=%23888888)
   static const waveTriangle = PhosphorDuotoneIconData(
     IconData(
       0xeaa0,
@@ -24055,7 +30063,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![waveform-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-duotone.svg)
+  /// The `waveform` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `waveform` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![waveform-duotone](https://api.iconify.design/ph/waveform-duotone.svg?height=32&color=%23888888)
   static const waveform = PhosphorDuotoneIconData(
     IconData(
       0xe802,
@@ -24071,7 +30083,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![waveform-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waveform-slash-duotone.svg)
+  /// The `waveformSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `waveformSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![waveform-slash-duotone](https://api.iconify.design/ph/waveform-slash-duotone.svg?height=32&color=%23888888)
   static const waveformSlash = PhosphorDuotoneIconData(
     IconData(
       0xe800,
@@ -24087,7 +30103,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![waves-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/waves-duotone.svg)
+  /// The `waves` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `waves` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![waves-duotone](https://api.iconify.design/ph/waves-duotone.svg?height=32&color=%23888888)
   static const waves = PhosphorDuotoneIconData(
     IconData(
       0xe6de,
@@ -24103,7 +30123,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![webcam-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-duotone.svg)
+  /// The `webcam` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `webcam` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![webcam-duotone](https://api.iconify.design/ph/webcam-duotone.svg?height=32&color=%23888888)
   static const webcam = PhosphorDuotoneIconData(
     IconData(
       0xe9b2,
@@ -24119,7 +30143,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![webcam-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webcam-slash-duotone.svg)
+  /// The `webcamSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `webcamSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![webcam-slash-duotone](https://api.iconify.design/ph/webcam-slash-duotone.svg?height=32&color=%23888888)
   static const webcamSlash = PhosphorDuotoneIconData(
     IconData(
       0xecdc,
@@ -24135,7 +30163,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![webhooks-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/webhooks-logo-duotone.svg)
+  /// The `webhooksLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `webhooksLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![webhooks-logo-duotone](https://api.iconify.design/ph/webhooks-logo-duotone.svg?height=32&color=%23888888)
   static const webhooksLogo = PhosphorDuotoneIconData(
     IconData(
       0xecae,
@@ -24151,7 +30183,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wechat-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wechat-logo-duotone.svg)
+  /// The `wechatLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wechatLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wechat-logo-duotone](https://api.iconify.design/ph/wechat-logo-duotone.svg?height=32&color=%23888888)
   static const wechatLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8d2,
@@ -24167,7 +30203,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![whatsapp-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/whatsapp-logo-duotone.svg)
+  /// The `whatsappLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `whatsappLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![whatsapp-logo-duotone](https://api.iconify.design/ph/whatsapp-logo-duotone.svg?height=32&color=%23888888)
   static const whatsappLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5d0,
@@ -24183,7 +30223,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wheelchair-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-duotone.svg)
+  /// The `wheelchair` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wheelchair` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wheelchair-duotone](https://api.iconify.design/ph/wheelchair-duotone.svg?height=32&color=%23888888)
   static const wheelchair = PhosphorDuotoneIconData(
     IconData(
       0xe4e8,
@@ -24199,7 +30243,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wheelchair-motion-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wheelchair-motion-duotone.svg)
+  /// The `wheelchairMotion` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wheelchairMotion` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wheelchair-motion-duotone](https://api.iconify.design/ph/wheelchair-motion-duotone.svg?height=32&color=%23888888)
   static const wheelchairMotion = PhosphorDuotoneIconData(
     IconData(
       0xe89a,
@@ -24215,7 +30263,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wifi-high-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-high-duotone.svg)
+  /// The `wifiHigh` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wifiHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wifi-high-duotone](https://api.iconify.design/ph/wifi-high-duotone.svg?height=32&color=%23888888)
   static const wifiHigh = PhosphorDuotoneIconData(
     IconData(
       0xe4ea,
@@ -24231,7 +30283,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wifi-low-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-low-duotone.svg)
+  /// The `wifiLow` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wifiLow` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wifi-low-duotone](https://api.iconify.design/ph/wifi-low-duotone.svg?height=32&color=%23888888)
   static const wifiLow = PhosphorDuotoneIconData(
     IconData(
       0xe4ec,
@@ -24247,7 +30303,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wifi-medium-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-medium-duotone.svg)
+  /// The `wifiMedium` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wifiMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wifi-medium-duotone](https://api.iconify.design/ph/wifi-medium-duotone.svg?height=32&color=%23888888)
   static const wifiMedium = PhosphorDuotoneIconData(
     IconData(
       0xe4ee,
@@ -24263,7 +30323,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wifi-none-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-none-duotone.svg)
+  /// The `wifiNone` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wifiNone` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wifi-none-duotone](https://api.iconify.design/ph/wifi-none-duotone.svg?height=32&color=%23888888)
   static const wifiNone = PhosphorDuotoneIconData(
     IconData(
       0xe4f0,
@@ -24279,7 +30343,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wifi-slash-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-slash-duotone.svg)
+  /// The `wifiSlash` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wifiSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wifi-slash-duotone](https://api.iconify.design/ph/wifi-slash-duotone.svg?height=32&color=%23888888)
   static const wifiSlash = PhosphorDuotoneIconData(
     IconData(
       0xe4f2,
@@ -24295,7 +30363,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wifi-x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wifi-x-duotone.svg)
+  /// The `wifiX` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wifiX` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wifi-x-duotone](https://api.iconify.design/ph/wifi-x-duotone.svg?height=32&color=%23888888)
   static const wifiX = PhosphorDuotoneIconData(
     IconData(
       0xe4f4,
@@ -24311,7 +30383,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wind-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wind-duotone.svg)
+  /// The `wind` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wind` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wind-duotone](https://api.iconify.design/ph/wind-duotone.svg?height=32&color=%23888888)
   static const wind = PhosphorDuotoneIconData(
     IconData(
       0xe5d2,
@@ -24327,7 +30403,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![windmill-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windmill-duotone.svg)
+  /// The `windmill` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `windmill` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![windmill-duotone](https://api.iconify.design/ph/windmill-duotone.svg?height=32&color=%23888888)
   static const windmill = PhosphorDuotoneIconData(
     IconData(
       0xe9f8,
@@ -24343,7 +30423,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![windows-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/windows-logo-duotone.svg)
+  /// The `windowsLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `windowsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![windows-logo-duotone](https://api.iconify.design/ph/windows-logo-duotone.svg?height=32&color=%23888888)
   static const windowsLogo = PhosphorDuotoneIconData(
     IconData(
       0xe692,
@@ -24359,7 +30443,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wine-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wine-duotone.svg)
+  /// The `wine` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wine` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wine-duotone](https://api.iconify.design/ph/wine-duotone.svg?height=32&color=%23888888)
   static const wine = PhosphorDuotoneIconData(
     IconData(
       0xe6b2,
@@ -24375,7 +30463,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![wrench-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/wrench-duotone.svg)
+  /// The `wrench` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `wrench` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![wrench-duotone](https://api.iconify.design/ph/wrench-duotone.svg?height=32&color=%23888888)
   static const wrench = PhosphorDuotoneIconData(
     IconData(
       0xe5d4,
@@ -24391,7 +30483,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![x-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-duotone.svg)
+  /// The `x` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `x` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![x-duotone](https://api.iconify.design/ph/x-duotone.svg?height=32&color=%23888888)
   static const x = PhosphorDuotoneIconData(
     IconData(
       0xe4f6,
@@ -24407,7 +30503,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![x-circle-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-circle-duotone.svg)
+  /// The `xCircle` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `xCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![x-circle-duotone](https://api.iconify.design/ph/x-circle-duotone.svg?height=32&color=%23888888)
   static const xCircle = PhosphorDuotoneIconData(
     IconData(
       0xe4f8,
@@ -24423,7 +30523,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![x-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-logo-duotone.svg)
+  /// The `xLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `xLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![x-logo-duotone](https://api.iconify.design/ph/x-logo-duotone.svg?height=32&color=%23888888)
   static const xLogo = PhosphorDuotoneIconData(
     IconData(
       0xe4bc,
@@ -24439,7 +30543,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![x-square-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/x-square-duotone.svg)
+  /// The `xSquare` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `xSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![x-square-duotone](https://api.iconify.design/ph/x-square-duotone.svg?height=32&color=%23888888)
   static const xSquare = PhosphorDuotoneIconData(
     IconData(
       0xe4fa,
@@ -24455,7 +30563,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![yarn-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yarn-duotone.svg)
+  /// The `yarn` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `yarn` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![yarn-duotone](https://api.iconify.design/ph/yarn-duotone.svg?height=32&color=%23888888)
   static const yarn = PhosphorDuotoneIconData(
     IconData(
       0xed9a,
@@ -24471,7 +30583,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![yin-yang-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/yin-yang-duotone.svg)
+  /// The `yinYang` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `yinYang` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![yin-yang-duotone](https://api.iconify.design/ph/yin-yang-duotone.svg?height=32&color=%23888888)
   static const yinYang = PhosphorDuotoneIconData(
     IconData(
       0xe92a,
@@ -24487,7 +30603,11 @@ class PhosphorIconsDuotone {
     ),
   );
 
-  /// ![youtube-logo-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/youtube-logo-duotone.svg)
+  /// The `youtubeLogo` icon in Duotone style. Render it with `PhosphorIcon`.
+  ///
+  /// [PT] O ícone `youtubeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
+  ///
+  /// ![youtube-logo-duotone](https://api.iconify.design/ph/youtube-logo-duotone.svg?height=32&color=%23888888)
   static const youtubeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe4fc,
@@ -24502,5 +30622,4 @@ class PhosphorIconsDuotone {
       matchTextDirection: true,
     ),
   );
-
 }

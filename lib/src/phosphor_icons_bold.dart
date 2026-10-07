@@ -15,7 +15,11 @@ import 'package:flutter/widgets.dart';
 class PhosphorIconsBold {
   const PhosphorIconsBold();
 
-  /// ![acorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/acorn.svg)
+  /// The `acorn` icon in Bold style.
+  ///
+  /// [PT] O ícone `acorn` no estilo Bold.
+  ///
+  /// ![acorn](https://api.iconify.design/ph/acorn-bold.svg?height=32&color=%23888888)
   static const IconData acorn = IconData(
     0xeb9a,
     fontFamily: 'PhosphorBold',
@@ -23,7 +27,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![activity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/activity.svg)
+  /// The `activity` icon in Bold style.
+  ///
+  /// [PT] O ícone `activity` no estilo Bold.
+  ///
+  /// ![activity](https://api.iconify.design/ph/pulse-bold.svg?height=32&color=%23888888)
   static const IconData activity = IconData(
     0xe000,
     fontFamily: 'PhosphorBold',
@@ -31,7 +39,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![address-book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book.svg)
+  /// The `addressBook` icon in Bold style.
+  ///
+  /// [PT] O ícone `addressBook` no estilo Bold.
+  ///
+  /// ![address-book](https://api.iconify.design/ph/address-book-bold.svg?height=32&color=%23888888)
   static const IconData addressBook = IconData(
     0xe6f8,
     fontFamily: 'PhosphorBold',
@@ -39,7 +51,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![address-book-tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/address-book-tabs.svg)
+  /// The `addressBookTabs` icon in Bold style.
+  ///
+  /// [PT] O ícone `addressBookTabs` no estilo Bold.
+  ///
+  /// ![address-book-tabs](https://api.iconify.design/ph/address-book-tabs-bold.svg?height=32&color=%23888888)
   static const IconData addressBookTabs = IconData(
     0xee4e,
     fontFamily: 'PhosphorBold',
@@ -47,7 +63,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![air-traffic-control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/air-traffic-control.svg)
+  /// The `airTrafficControl` icon in Bold style.
+  ///
+  /// [PT] O ícone `airTrafficControl` no estilo Bold.
+  ///
+  /// ![air-traffic-control](https://api.iconify.design/ph/air-traffic-control-bold.svg?height=32&color=%23888888)
   static const IconData airTrafficControl = IconData(
     0xecd8,
     fontFamily: 'PhosphorBold',
@@ -55,7 +75,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![airplane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane.svg)
+  /// The `airplane` icon in Bold style.
+  ///
+  /// [PT] O ícone `airplane` no estilo Bold.
+  ///
+  /// ![airplane](https://api.iconify.design/ph/airplane-bold.svg?height=32&color=%23888888)
   static const IconData airplane = IconData(
     0xe002,
     fontFamily: 'PhosphorBold',
@@ -63,7 +87,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![airplane-in-flight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-in-flight.svg)
+  /// The `airplaneInFlight` icon in Bold style.
+  ///
+  /// [PT] O ícone `airplaneInFlight` no estilo Bold.
+  ///
+  /// ![airplane-in-flight](https://api.iconify.design/ph/airplane-in-flight-bold.svg?height=32&color=%23888888)
   static const IconData airplaneInFlight = IconData(
     0xe4fe,
     fontFamily: 'PhosphorBold',
@@ -71,7 +99,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![airplane-landing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-landing.svg)
+  /// The `airplaneLanding` icon in Bold style.
+  ///
+  /// [PT] O ícone `airplaneLanding` no estilo Bold.
+  ///
+  /// ![airplane-landing](https://api.iconify.design/ph/airplane-landing-bold.svg?height=32&color=%23888888)
   static const IconData airplaneLanding = IconData(
     0xe502,
     fontFamily: 'PhosphorBold',
@@ -79,7 +111,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![airplane-takeoff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-takeoff.svg)
+  /// The `airplaneTakeoff` icon in Bold style.
+  ///
+  /// [PT] O ícone `airplaneTakeoff` no estilo Bold.
+  ///
+  /// ![airplane-takeoff](https://api.iconify.design/ph/airplane-takeoff-bold.svg?height=32&color=%23888888)
   static const IconData airplaneTakeoff = IconData(
     0xe504,
     fontFamily: 'PhosphorBold',
@@ -87,7 +123,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![airplane-taxiing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-taxiing.svg)
+  /// The `airplaneTaxiing` icon in Bold style.
+  ///
+  /// [PT] O ícone `airplaneTaxiing` no estilo Bold.
+  ///
+  /// ![airplane-taxiing](https://api.iconify.design/ph/airplane-taxiing-bold.svg?height=32&color=%23888888)
   static const IconData airplaneTaxiing = IconData(
     0xe500,
     fontFamily: 'PhosphorBold',
@@ -95,7 +135,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![airplane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplane-tilt.svg)
+  /// The `airplaneTilt` icon in Bold style.
+  ///
+  /// [PT] O ícone `airplaneTilt` no estilo Bold.
+  ///
+  /// ![airplane-tilt](https://api.iconify.design/ph/airplane-tilt-bold.svg?height=32&color=%23888888)
   static const IconData airplaneTilt = IconData(
     0xe5d6,
     fontFamily: 'PhosphorBold',
@@ -103,7 +147,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![airplay](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/airplay.svg)
+  /// The `airplay` icon in Bold style.
+  ///
+  /// [PT] O ícone `airplay` no estilo Bold.
+  ///
+  /// ![airplay](https://api.iconify.design/ph/airplay-bold.svg?height=32&color=%23888888)
   static const IconData airplay = IconData(
     0xe004,
     fontFamily: 'PhosphorBold',
@@ -111,7 +159,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![alarm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alarm.svg)
+  /// The `alarm` icon in Bold style.
+  ///
+  /// [PT] O ícone `alarm` no estilo Bold.
+  ///
+  /// ![alarm](https://api.iconify.design/ph/alarm-bold.svg?height=32&color=%23888888)
   static const IconData alarm = IconData(
     0xe006,
     fontFamily: 'PhosphorBold',
@@ -119,7 +171,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![alien](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/alien.svg)
+  /// The `alien` icon in Bold style.
+  ///
+  /// [PT] O ícone `alien` no estilo Bold.
+  ///
+  /// ![alien](https://api.iconify.design/ph/alien-bold.svg?height=32&color=%23888888)
   static const IconData alien = IconData(
     0xe8a6,
     fontFamily: 'PhosphorBold',
@@ -127,7 +183,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom.svg)
+  /// The `alignBottom` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignBottom` no estilo Bold.
+  ///
+  /// ![align-bottom](https://api.iconify.design/ph/align-bottom-bold.svg?height=32&color=%23888888)
   static const IconData alignBottom = IconData(
     0xe506,
     fontFamily: 'PhosphorBold',
@@ -135,7 +195,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-bottom-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-bottom-simple.svg)
+  /// The `alignBottomSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignBottomSimple` no estilo Bold.
+  ///
+  /// ![align-bottom-simple](https://api.iconify.design/ph/align-bottom-simple-bold.svg?height=32&color=%23888888)
   static const IconData alignBottomSimple = IconData(
     0xeb0c,
     fontFamily: 'PhosphorBold',
@@ -143,7 +207,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-center-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal.svg)
+  /// The `alignCenterHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignCenterHorizontal` no estilo Bold.
+  ///
+  /// ![align-center-horizontal](https://api.iconify.design/ph/align-center-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData alignCenterHorizontal = IconData(
     0xe50a,
     fontFamily: 'PhosphorBold',
@@ -151,7 +219,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-center-horizontal-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-horizontal-simple.svg)
+  /// The `alignCenterHorizontalSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Bold.
+  ///
+  /// ![align-center-horizontal-simple](https://api.iconify.design/ph/align-center-horizontal-simple-bold.svg?height=32&color=%23888888)
   static const IconData alignCenterHorizontalSimple = IconData(
     0xeb0e,
     fontFamily: 'PhosphorBold',
@@ -159,7 +231,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-center-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical.svg)
+  /// The `alignCenterVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignCenterVertical` no estilo Bold.
+  ///
+  /// ![align-center-vertical](https://api.iconify.design/ph/align-center-vertical-bold.svg?height=32&color=%23888888)
   static const IconData alignCenterVertical = IconData(
     0xe50c,
     fontFamily: 'PhosphorBold',
@@ -167,7 +243,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-center-vertical-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-center-vertical-simple.svg)
+  /// The `alignCenterVerticalSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignCenterVerticalSimple` no estilo Bold.
+  ///
+  /// ![align-center-vertical-simple](https://api.iconify.design/ph/align-center-vertical-simple-bold.svg?height=32&color=%23888888)
   static const IconData alignCenterVerticalSimple = IconData(
     0xeb10,
     fontFamily: 'PhosphorBold',
@@ -175,7 +255,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left.svg)
+  /// The `alignLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignLeft` no estilo Bold.
+  ///
+  /// ![align-left](https://api.iconify.design/ph/align-left-bold.svg?height=32&color=%23888888)
   static const IconData alignLeft = IconData(
     0xe50e,
     fontFamily: 'PhosphorBold',
@@ -183,7 +267,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-left-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-left-simple.svg)
+  /// The `alignLeftSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignLeftSimple` no estilo Bold.
+  ///
+  /// ![align-left-simple](https://api.iconify.design/ph/align-left-simple-bold.svg?height=32&color=%23888888)
   static const IconData alignLeftSimple = IconData(
     0xeaee,
     fontFamily: 'PhosphorBold',
@@ -191,7 +279,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right.svg)
+  /// The `alignRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignRight` no estilo Bold.
+  ///
+  /// ![align-right](https://api.iconify.design/ph/align-right-bold.svg?height=32&color=%23888888)
   static const IconData alignRight = IconData(
     0xe510,
     fontFamily: 'PhosphorBold',
@@ -199,7 +291,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-right-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-right-simple.svg)
+  /// The `alignRightSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignRightSimple` no estilo Bold.
+  ///
+  /// ![align-right-simple](https://api.iconify.design/ph/align-right-simple-bold.svg?height=32&color=%23888888)
   static const IconData alignRightSimple = IconData(
     0xeb12,
     fontFamily: 'PhosphorBold',
@@ -207,7 +303,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top.svg)
+  /// The `alignTop` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignTop` no estilo Bold.
+  ///
+  /// ![align-top](https://api.iconify.design/ph/align-top-bold.svg?height=32&color=%23888888)
   static const IconData alignTop = IconData(
     0xe512,
     fontFamily: 'PhosphorBold',
@@ -215,7 +315,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![align-top-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/align-top-simple.svg)
+  /// The `alignTopSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `alignTopSimple` no estilo Bold.
+  ///
+  /// ![align-top-simple](https://api.iconify.design/ph/align-top-simple-bold.svg?height=32&color=%23888888)
   static const IconData alignTopSimple = IconData(
     0xeb14,
     fontFamily: 'PhosphorBold',
@@ -223,7 +327,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![amazon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/amazon-logo.svg)
+  /// The `amazonLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `amazonLogo` no estilo Bold.
+  ///
+  /// ![amazon-logo](https://api.iconify.design/ph/amazon-logo-bold.svg?height=32&color=%23888888)
   static const IconData amazonLogo = IconData(
     0xe96c,
     fontFamily: 'PhosphorBold',
@@ -231,7 +339,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ambulance](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ambulance.svg)
+  /// The `ambulance` icon in Bold style.
+  ///
+  /// [PT] O ícone `ambulance` no estilo Bold.
+  ///
+  /// ![ambulance](https://api.iconify.design/ph/ambulance-bold.svg?height=32&color=%23888888)
   static const IconData ambulance = IconData(
     0xe572,
     fontFamily: 'PhosphorBold',
@@ -239,7 +351,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![anchor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor.svg)
+  /// The `anchor` icon in Bold style.
+  ///
+  /// [PT] O ícone `anchor` no estilo Bold.
+  ///
+  /// ![anchor](https://api.iconify.design/ph/anchor-bold.svg?height=32&color=%23888888)
   static const IconData anchor = IconData(
     0xe514,
     fontFamily: 'PhosphorBold',
@@ -247,7 +363,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![anchor-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/anchor-simple.svg)
+  /// The `anchorSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `anchorSimple` no estilo Bold.
+  ///
+  /// ![anchor-simple](https://api.iconify.design/ph/anchor-simple-bold.svg?height=32&color=%23888888)
   static const IconData anchorSimple = IconData(
     0xe5d8,
     fontFamily: 'PhosphorBold',
@@ -255,7 +375,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![android-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/android-logo.svg)
+  /// The `androidLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `androidLogo` no estilo Bold.
+  ///
+  /// ![android-logo](https://api.iconify.design/ph/android-logo-bold.svg?height=32&color=%23888888)
   static const IconData androidLogo = IconData(
     0xe008,
     fontFamily: 'PhosphorBold',
@@ -263,7 +387,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angle.svg)
+  /// The `angle` icon in Bold style.
+  ///
+  /// [PT] O ícone `angle` no estilo Bold.
+  ///
+  /// ![angle](https://api.iconify.design/ph/angle-bold.svg?height=32&color=%23888888)
   static const IconData angle = IconData(
     0xe7bc,
     fontFamily: 'PhosphorBold',
@@ -271,7 +399,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![angular-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/angular-logo.svg)
+  /// The `angularLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `angularLogo` no estilo Bold.
+  ///
+  /// ![angular-logo](https://api.iconify.design/ph/angular-logo-bold.svg?height=32&color=%23888888)
   static const IconData angularLogo = IconData(
     0xeb80,
     fontFamily: 'PhosphorBold',
@@ -279,7 +411,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![aperture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/aperture.svg)
+  /// The `aperture` icon in Bold style.
+  ///
+  /// [PT] O ícone `aperture` no estilo Bold.
+  ///
+  /// ![aperture](https://api.iconify.design/ph/aperture-bold.svg?height=32&color=%23888888)
   static const IconData aperture = IconData(
     0xe00a,
     fontFamily: 'PhosphorBold',
@@ -287,7 +423,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![app-store-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-store-logo.svg)
+  /// The `appStoreLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `appStoreLogo` no estilo Bold.
+  ///
+  /// ![app-store-logo](https://api.iconify.design/ph/app-store-logo-bold.svg?height=32&color=%23888888)
   static const IconData appStoreLogo = IconData(
     0xe974,
     fontFamily: 'PhosphorBold',
@@ -295,7 +435,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![app-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/app-window.svg)
+  /// The `appWindow` icon in Bold style.
+  ///
+  /// [PT] O ícone `appWindow` no estilo Bold.
+  ///
+  /// ![app-window](https://api.iconify.design/ph/app-window-bold.svg?height=32&color=%23888888)
   static const IconData appWindow = IconData(
     0xe5da,
     fontFamily: 'PhosphorBold',
@@ -303,7 +447,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![apple-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-logo.svg)
+  /// The `appleLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `appleLogo` no estilo Bold.
+  ///
+  /// ![apple-logo](https://api.iconify.design/ph/apple-logo-bold.svg?height=32&color=%23888888)
   static const IconData appleLogo = IconData(
     0xe516,
     fontFamily: 'PhosphorBold',
@@ -311,7 +459,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![apple-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/apple-podcasts-logo.svg)
+  /// The `applePodcastsLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `applePodcastsLogo` no estilo Bold.
+  ///
+  /// ![apple-podcasts-logo](https://api.iconify.design/ph/apple-podcasts-logo-bold.svg?height=32&color=%23888888)
   static const IconData applePodcastsLogo = IconData(
     0xeb96,
     fontFamily: 'PhosphorBold',
@@ -319,7 +471,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![approximate-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/approximate-equals.svg)
+  /// The `approximateEquals` icon in Bold style.
+  ///
+  /// [PT] O ícone `approximateEquals` no estilo Bold.
+  ///
+  /// ![approximate-equals](https://api.iconify.design/ph/approximate-equals-bold.svg?height=32&color=%23888888)
   static const IconData approximateEquals = IconData(
     0xedaa,
     fontFamily: 'PhosphorBold',
@@ -327,7 +483,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/archive.svg)
+  /// The `archive` icon in Bold style.
+  ///
+  /// [PT] O ícone `archive` no estilo Bold.
+  ///
+  /// ![archive](https://api.iconify.design/ph/archive-bold.svg?height=32&color=%23888888)
   static const IconData archive = IconData(
     0xe00c,
     fontFamily: 'PhosphorBold',
@@ -335,7 +495,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![archive-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/archive-box.svg)
+  /// The `archiveBox` icon in Bold style.
+  ///
+  /// [PT] O ícone `archiveBox` no estilo Bold.
+  ///
+  /// ![archive-box](https://api.iconify.design/ph/box-arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData archiveBox = IconData(
     0xe00e,
     fontFamily: 'PhosphorBold',
@@ -343,7 +507,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![archive-tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/archive-tray.svg)
+  /// The `archiveTray` icon in Bold style.
+  ///
+  /// [PT] O ícone `archiveTray` no estilo Bold.
+  ///
+  /// ![archive-tray](https://api.iconify.design/ph/tray-arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData archiveTray = IconData(
     0xe010,
     fontFamily: 'PhosphorBold',
@@ -351,7 +519,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![armchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/armchair.svg)
+  /// The `armchair` icon in Bold style.
+  ///
+  /// [PT] O ícone `armchair` no estilo Bold.
+  ///
+  /// ![armchair](https://api.iconify.design/ph/armchair-bold.svg?height=32&color=%23888888)
   static const IconData armchair = IconData(
     0xe012,
     fontFamily: 'PhosphorBold',
@@ -359,7 +531,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-arc-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-left.svg)
+  /// The `arrowArcLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowArcLeft` no estilo Bold.
+  ///
+  /// ![arrow-arc-left](https://api.iconify.design/ph/arrow-arc-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowArcLeft = IconData(
     0xe014,
     fontFamily: 'PhosphorBold',
@@ -367,7 +543,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-arc-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-arc-right.svg)
+  /// The `arrowArcRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowArcRight` no estilo Bold.
+  ///
+  /// ![arrow-arc-right](https://api.iconify.design/ph/arrow-arc-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowArcRight = IconData(
     0xe016,
     fontFamily: 'PhosphorBold',
@@ -375,7 +555,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-double-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-left.svg)
+  /// The `arrowBendDoubleUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-bend-double-up-left](https://api.iconify.design/ph/arrow-bend-double-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendDoubleUpLeft = IconData(
     0xe03a,
     fontFamily: 'PhosphorBold',
@@ -383,7 +567,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-double-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-double-up-right.svg)
+  /// The `arrowBendDoubleUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Bold.
+  ///
+  /// ![arrow-bend-double-up-right](https://api.iconify.design/ph/arrow-bend-double-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendDoubleUpRight = IconData(
     0xe03c,
     fontFamily: 'PhosphorBold',
@@ -391,7 +579,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-left.svg)
+  /// The `arrowBendDownLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendDownLeft` no estilo Bold.
+  ///
+  /// ![arrow-bend-down-left](https://api.iconify.design/ph/arrow-bend-down-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendDownLeft = IconData(
     0xe018,
     fontFamily: 'PhosphorBold',
@@ -399,7 +591,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-down-right.svg)
+  /// The `arrowBendDownRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendDownRight` no estilo Bold.
+  ///
+  /// ![arrow-bend-down-right](https://api.iconify.design/ph/arrow-bend-down-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendDownRight = IconData(
     0xe01a,
     fontFamily: 'PhosphorBold',
@@ -407,7 +603,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-down.svg)
+  /// The `arrowBendLeftDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendLeftDown` no estilo Bold.
+  ///
+  /// ![arrow-bend-left-down](https://api.iconify.design/ph/arrow-bend-left-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendLeftDown = IconData(
     0xe01c,
     fontFamily: 'PhosphorBold',
@@ -415,7 +615,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-left-up.svg)
+  /// The `arrowBendLeftUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendLeftUp` no estilo Bold.
+  ///
+  /// ![arrow-bend-left-up](https://api.iconify.design/ph/arrow-bend-left-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendLeftUp = IconData(
     0xe01e,
     fontFamily: 'PhosphorBold',
@@ -423,7 +627,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-down.svg)
+  /// The `arrowBendRightDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendRightDown` no estilo Bold.
+  ///
+  /// ![arrow-bend-right-down](https://api.iconify.design/ph/arrow-bend-right-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendRightDown = IconData(
     0xe020,
     fontFamily: 'PhosphorBold',
@@ -431,7 +639,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-right-up.svg)
+  /// The `arrowBendRightUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendRightUp` no estilo Bold.
+  ///
+  /// ![arrow-bend-right-up](https://api.iconify.design/ph/arrow-bend-right-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendRightUp = IconData(
     0xe022,
     fontFamily: 'PhosphorBold',
@@ -439,7 +651,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-left.svg)
+  /// The `arrowBendUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-bend-up-left](https://api.iconify.design/ph/arrow-bend-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendUpLeft = IconData(
     0xe024,
     fontFamily: 'PhosphorBold',
@@ -447,7 +663,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-bend-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-bend-up-right.svg)
+  /// The `arrowBendUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowBendUpRight` no estilo Bold.
+  ///
+  /// ![arrow-bend-up-right](https://api.iconify.design/ph/arrow-bend-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowBendUpRight = IconData(
     0xe026,
     fontFamily: 'PhosphorBold',
@@ -455,7 +675,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down.svg)
+  /// The `arrowCircleDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleDown` no estilo Bold.
+  ///
+  /// ![arrow-circle-down](https://api.iconify.design/ph/arrow-circle-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleDown = IconData(
     0xe028,
     fontFamily: 'PhosphorBold',
@@ -463,7 +687,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-left.svg)
+  /// The `arrowCircleDownLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleDownLeft` no estilo Bold.
+  ///
+  /// ![arrow-circle-down-left](https://api.iconify.design/ph/arrow-circle-down-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleDownLeft = IconData(
     0xe02a,
     fontFamily: 'PhosphorBold',
@@ -471,7 +699,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-down-right.svg)
+  /// The `arrowCircleDownRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleDownRight` no estilo Bold.
+  ///
+  /// ![arrow-circle-down-right](https://api.iconify.design/ph/arrow-circle-down-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleDownRight = IconData(
     0xe02c,
     fontFamily: 'PhosphorBold',
@@ -479,7 +711,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-left.svg)
+  /// The `arrowCircleLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleLeft` no estilo Bold.
+  ///
+  /// ![arrow-circle-left](https://api.iconify.design/ph/arrow-circle-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleLeft = IconData(
     0xe05a,
     fontFamily: 'PhosphorBold',
@@ -487,7 +723,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-right.svg)
+  /// The `arrowCircleRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleRight` no estilo Bold.
+  ///
+  /// ![arrow-circle-right](https://api.iconify.design/ph/arrow-circle-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleRight = IconData(
     0xe02e,
     fontFamily: 'PhosphorBold',
@@ -495,7 +735,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up.svg)
+  /// The `arrowCircleUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleUp` no estilo Bold.
+  ///
+  /// ![arrow-circle-up](https://api.iconify.design/ph/arrow-circle-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleUp = IconData(
     0xe030,
     fontFamily: 'PhosphorBold',
@@ -503,7 +747,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-left.svg)
+  /// The `arrowCircleUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-circle-up-left](https://api.iconify.design/ph/arrow-circle-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleUpLeft = IconData(
     0xe032,
     fontFamily: 'PhosphorBold',
@@ -511,7 +759,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-circle-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-circle-up-right.svg)
+  /// The `arrowCircleUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCircleUpRight` no estilo Bold.
+  ///
+  /// ![arrow-circle-up-right](https://api.iconify.design/ph/arrow-circle-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowCircleUpRight = IconData(
     0xe034,
     fontFamily: 'PhosphorBold',
@@ -519,7 +771,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-clockwise.svg)
+  /// The `arrowClockwise` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowClockwise` no estilo Bold.
+  ///
+  /// ![arrow-clockwise](https://api.iconify.design/ph/arrow-clockwise-bold.svg?height=32&color=%23888888)
   static const IconData arrowClockwise = IconData(
     0xe036,
     fontFamily: 'PhosphorBold',
@@ -527,7 +783,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-counter-clockwise.svg)
+  /// The `arrowCounterClockwise` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowCounterClockwise` no estilo Bold.
+  ///
+  /// ![arrow-counter-clockwise](https://api.iconify.design/ph/arrow-counter-clockwise-bold.svg?height=32&color=%23888888)
   static const IconData arrowCounterClockwise = IconData(
     0xe038,
     fontFamily: 'PhosphorBold',
@@ -535,7 +795,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down.svg)
+  /// The `arrowDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowDown` no estilo Bold.
+  ///
+  /// ![arrow-down](https://api.iconify.design/ph/arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowDown = IconData(
     0xe03e,
     fontFamily: 'PhosphorBold',
@@ -543,7 +807,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-left.svg)
+  /// The `arrowDownLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowDownLeft` no estilo Bold.
+  ///
+  /// ![arrow-down-left](https://api.iconify.design/ph/arrow-down-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowDownLeft = IconData(
     0xe040,
     fontFamily: 'PhosphorBold',
@@ -551,7 +819,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-down-right.svg)
+  /// The `arrowDownRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowDownRight` no estilo Bold.
+  ///
+  /// ![arrow-down-right](https://api.iconify.design/ph/arrow-down-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowDownRight = IconData(
     0xe042,
     fontFamily: 'PhosphorBold',
@@ -559,7 +831,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-left.svg)
+  /// The `arrowElbowDownLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowDownLeft` no estilo Bold.
+  ///
+  /// ![arrow-elbow-down-left](https://api.iconify.design/ph/arrow-elbow-down-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowDownLeft = IconData(
     0xe044,
     fontFamily: 'PhosphorBold',
@@ -567,7 +843,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-down-right.svg)
+  /// The `arrowElbowDownRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowDownRight` no estilo Bold.
+  ///
+  /// ![arrow-elbow-down-right](https://api.iconify.design/ph/arrow-elbow-down-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowDownRight = IconData(
     0xe046,
     fontFamily: 'PhosphorBold',
@@ -575,7 +855,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left.svg)
+  /// The `arrowElbowLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowLeft` no estilo Bold.
+  ///
+  /// ![arrow-elbow-left](https://api.iconify.design/ph/arrow-elbow-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeft = IconData(
     0xe048,
     fontFamily: 'PhosphorBold',
@@ -583,7 +867,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-down.svg)
+  /// The `arrowElbowLeftDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowLeftDown` no estilo Bold.
+  ///
+  /// ![arrow-elbow-left-down](https://api.iconify.design/ph/arrow-elbow-left-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeftDown = IconData(
     0xe04a,
     fontFamily: 'PhosphorBold',
@@ -591,7 +879,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-left-up.svg)
+  /// The `arrowElbowLeftUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowLeftUp` no estilo Bold.
+  ///
+  /// ![arrow-elbow-left-up](https://api.iconify.design/ph/arrow-elbow-left-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowLeftUp = IconData(
     0xe04c,
     fontFamily: 'PhosphorBold',
@@ -599,7 +891,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right.svg)
+  /// The `arrowElbowRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowRight` no estilo Bold.
+  ///
+  /// ![arrow-elbow-right](https://api.iconify.design/ph/arrow-elbow-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowRight = IconData(
     0xe04e,
     fontFamily: 'PhosphorBold',
@@ -607,7 +903,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-down.svg)
+  /// The `arrowElbowRightDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowRightDown` no estilo Bold.
+  ///
+  /// ![arrow-elbow-right-down](https://api.iconify.design/ph/arrow-elbow-right-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowRightDown = IconData(
     0xe050,
     fontFamily: 'PhosphorBold',
@@ -615,7 +915,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-right-up.svg)
+  /// The `arrowElbowRightUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowRightUp` no estilo Bold.
+  ///
+  /// ![arrow-elbow-right-up](https://api.iconify.design/ph/arrow-elbow-right-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowRightUp = IconData(
     0xe052,
     fontFamily: 'PhosphorBold',
@@ -623,7 +927,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-left.svg)
+  /// The `arrowElbowUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-elbow-up-left](https://api.iconify.design/ph/arrow-elbow-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowUpLeft = IconData(
     0xe054,
     fontFamily: 'PhosphorBold',
@@ -631,7 +939,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-elbow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-elbow-up-right.svg)
+  /// The `arrowElbowUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowElbowUpRight` no estilo Bold.
+  ///
+  /// ![arrow-elbow-up-right](https://api.iconify.design/ph/arrow-elbow-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowElbowUpRight = IconData(
     0xe056,
     fontFamily: 'PhosphorBold',
@@ -639,7 +951,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-down.svg)
+  /// The `arrowFatDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatDown` no estilo Bold.
+  ///
+  /// ![arrow-fat-down](https://api.iconify.design/ph/arrow-fat-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatDown = IconData(
     0xe518,
     fontFamily: 'PhosphorBold',
@@ -647,7 +963,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-left.svg)
+  /// The `arrowFatLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLeft` no estilo Bold.
+  ///
+  /// ![arrow-fat-left](https://api.iconify.design/ph/arrow-fat-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLeft = IconData(
     0xe51a,
     fontFamily: 'PhosphorBold',
@@ -655,7 +975,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-down.svg)
+  /// The `arrowFatLineDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLineDown` no estilo Bold.
+  ///
+  /// ![arrow-fat-line-down](https://api.iconify.design/ph/arrow-fat-line-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLineDown = IconData(
     0xe51c,
     fontFamily: 'PhosphorBold',
@@ -663,7 +987,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-left.svg)
+  /// The `arrowFatLineLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLineLeft` no estilo Bold.
+  ///
+  /// ![arrow-fat-line-left](https://api.iconify.design/ph/arrow-fat-line-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLineLeft = IconData(
     0xe51e,
     fontFamily: 'PhosphorBold',
@@ -671,7 +999,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-right.svg)
+  /// The `arrowFatLineRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLineRight` no estilo Bold.
+  ///
+  /// ![arrow-fat-line-right](https://api.iconify.design/ph/arrow-fat-line-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLineRight = IconData(
     0xe520,
     fontFamily: 'PhosphorBold',
@@ -679,7 +1011,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-line-up.svg)
+  /// The `arrowFatLineUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLineUp` no estilo Bold.
+  ///
+  /// ![arrow-fat-line-up](https://api.iconify.design/ph/arrow-fat-line-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLineUp = IconData(
     0xe522,
     fontFamily: 'PhosphorBold',
@@ -687,7 +1023,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-lines-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-down.svg)
+  /// The `arrowFatLinesDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLinesDown` no estilo Bold.
+  ///
+  /// ![arrow-fat-lines-down](https://api.iconify.design/ph/arrow-fat-lines-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesDown = IconData(
     0xe524,
     fontFamily: 'PhosphorBold',
@@ -695,7 +1035,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-lines-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-left.svg)
+  /// The `arrowFatLinesLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLinesLeft` no estilo Bold.
+  ///
+  /// ![arrow-fat-lines-left](https://api.iconify.design/ph/arrow-fat-lines-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesLeft = IconData(
     0xe526,
     fontFamily: 'PhosphorBold',
@@ -703,7 +1047,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-lines-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-right.svg)
+  /// The `arrowFatLinesRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLinesRight` no estilo Bold.
+  ///
+  /// ![arrow-fat-lines-right](https://api.iconify.design/ph/arrow-fat-lines-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesRight = IconData(
     0xe528,
     fontFamily: 'PhosphorBold',
@@ -711,7 +1059,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-lines-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-lines-up.svg)
+  /// The `arrowFatLinesUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatLinesUp` no estilo Bold.
+  ///
+  /// ![arrow-fat-lines-up](https://api.iconify.design/ph/arrow-fat-lines-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatLinesUp = IconData(
     0xe52a,
     fontFamily: 'PhosphorBold',
@@ -719,7 +1071,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-right.svg)
+  /// The `arrowFatRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatRight` no estilo Bold.
+  ///
+  /// ![arrow-fat-right](https://api.iconify.design/ph/arrow-fat-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatRight = IconData(
     0xe52c,
     fontFamily: 'PhosphorBold',
@@ -727,7 +1083,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-fat-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-fat-up.svg)
+  /// The `arrowFatUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowFatUp` no estilo Bold.
+  ///
+  /// ![arrow-fat-up](https://api.iconify.design/ph/arrow-fat-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowFatUp = IconData(
     0xe52e,
     fontFamily: 'PhosphorBold',
@@ -735,7 +1095,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-left.svg)
+  /// The `arrowLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLeft` no estilo Bold.
+  ///
+  /// ![arrow-left](https://api.iconify.design/ph/arrow-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowLeft = IconData(
     0xe058,
     fontFamily: 'PhosphorBold',
@@ -743,7 +1107,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down.svg)
+  /// The `arrowLineDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineDown` no estilo Bold.
+  ///
+  /// ![arrow-line-down](https://api.iconify.design/ph/arrow-line-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineDown = IconData(
     0xe05c,
     fontFamily: 'PhosphorBold',
@@ -751,7 +1119,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-left.svg)
+  /// The `arrowLineDownLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineDownLeft` no estilo Bold.
+  ///
+  /// ![arrow-line-down-left](https://api.iconify.design/ph/arrow-line-down-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineDownLeft = IconData(
     0xe05e,
     fontFamily: 'PhosphorBold',
@@ -759,7 +1131,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-down-right.svg)
+  /// The `arrowLineDownRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineDownRight` no estilo Bold.
+  ///
+  /// ![arrow-line-down-right](https://api.iconify.design/ph/arrow-line-down-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineDownRight = IconData(
     0xe060,
     fontFamily: 'PhosphorBold',
@@ -767,7 +1143,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-left.svg)
+  /// The `arrowLineLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineLeft` no estilo Bold.
+  ///
+  /// ![arrow-line-left](https://api.iconify.design/ph/arrow-line-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineLeft = IconData(
     0xe062,
     fontFamily: 'PhosphorBold',
@@ -775,7 +1155,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-right.svg)
+  /// The `arrowLineRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineRight` no estilo Bold.
+  ///
+  /// ![arrow-line-right](https://api.iconify.design/ph/arrow-line-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineRight = IconData(
     0xe064,
     fontFamily: 'PhosphorBold',
@@ -783,7 +1167,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up.svg)
+  /// The `arrowLineUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineUp` no estilo Bold.
+  ///
+  /// ![arrow-line-up](https://api.iconify.design/ph/arrow-line-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineUp = IconData(
     0xe066,
     fontFamily: 'PhosphorBold',
@@ -791,7 +1179,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-left.svg)
+  /// The `arrowLineUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-line-up-left](https://api.iconify.design/ph/arrow-line-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineUpLeft = IconData(
     0xe068,
     fontFamily: 'PhosphorBold',
@@ -799,7 +1191,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-line-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-line-up-right.svg)
+  /// The `arrowLineUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowLineUpRight` no estilo Bold.
+  ///
+  /// ![arrow-line-up-right](https://api.iconify.design/ph/arrow-line-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowLineUpRight = IconData(
     0xe06a,
     fontFamily: 'PhosphorBold',
@@ -807,7 +1203,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-right.svg)
+  /// The `arrowRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowRight` no estilo Bold.
+  ///
+  /// ![arrow-right](https://api.iconify.design/ph/arrow-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowRight = IconData(
     0xe06c,
     fontFamily: 'PhosphorBold',
@@ -815,7 +1215,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down.svg)
+  /// The `arrowSquareDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareDown` no estilo Bold.
+  ///
+  /// ![arrow-square-down](https://api.iconify.design/ph/arrow-square-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareDown = IconData(
     0xe06e,
     fontFamily: 'PhosphorBold',
@@ -823,7 +1227,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-left.svg)
+  /// The `arrowSquareDownLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareDownLeft` no estilo Bold.
+  ///
+  /// ![arrow-square-down-left](https://api.iconify.design/ph/arrow-square-down-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareDownLeft = IconData(
     0xe070,
     fontFamily: 'PhosphorBold',
@@ -831,7 +1239,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-down-right.svg)
+  /// The `arrowSquareDownRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareDownRight` no estilo Bold.
+  ///
+  /// ![arrow-square-down-right](https://api.iconify.design/ph/arrow-square-down-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareDownRight = IconData(
     0xe072,
     fontFamily: 'PhosphorBold',
@@ -839,7 +1251,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-in.svg)
+  /// The `arrowSquareIn` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareIn` no estilo Bold.
+  ///
+  /// ![arrow-square-in](https://api.iconify.design/ph/arrow-square-in-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareIn = IconData(
     0xe5dc,
     fontFamily: 'PhosphorBold',
@@ -847,7 +1263,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-left.svg)
+  /// The `arrowSquareLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareLeft` no estilo Bold.
+  ///
+  /// ![arrow-square-left](https://api.iconify.design/ph/arrow-square-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareLeft = IconData(
     0xe074,
     fontFamily: 'PhosphorBold',
@@ -855,7 +1275,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-out.svg)
+  /// The `arrowSquareOut` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareOut` no estilo Bold.
+  ///
+  /// ![arrow-square-out](https://api.iconify.design/ph/arrow-square-out-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareOut = IconData(
     0xe5de,
     fontFamily: 'PhosphorBold',
@@ -863,7 +1287,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-right.svg)
+  /// The `arrowSquareRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareRight` no estilo Bold.
+  ///
+  /// ![arrow-square-right](https://api.iconify.design/ph/arrow-square-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareRight = IconData(
     0xe076,
     fontFamily: 'PhosphorBold',
@@ -871,7 +1299,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up.svg)
+  /// The `arrowSquareUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareUp` no estilo Bold.
+  ///
+  /// ![arrow-square-up](https://api.iconify.design/ph/arrow-square-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareUp = IconData(
     0xe078,
     fontFamily: 'PhosphorBold',
@@ -879,7 +1311,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-left.svg)
+  /// The `arrowSquareUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-square-up-left](https://api.iconify.design/ph/arrow-square-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareUpLeft = IconData(
     0xe07a,
     fontFamily: 'PhosphorBold',
@@ -887,7 +1323,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-square-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-square-up-right.svg)
+  /// The `arrowSquareUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowSquareUpRight` no estilo Bold.
+  ///
+  /// ![arrow-square-up-right](https://api.iconify.design/ph/arrow-square-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowSquareUpRight = IconData(
     0xe07c,
     fontFamily: 'PhosphorBold',
@@ -895,7 +1335,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-down-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-left.svg)
+  /// The `arrowUDownLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowUDownLeft` no estilo Bold.
+  ///
+  /// ![arrow-u-down-left](https://api.iconify.design/ph/arrow-u-down-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowUDownLeft = IconData(
     0xe07e,
     fontFamily: 'PhosphorBold',
@@ -903,7 +1347,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-down-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-down-right.svg)
+  /// The `arrowUDownRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowUDownRight` no estilo Bold.
+  ///
+  /// ![arrow-u-down-right](https://api.iconify.design/ph/arrow-u-down-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowUDownRight = IconData(
     0xe080,
     fontFamily: 'PhosphorBold',
@@ -911,7 +1359,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-left-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-down.svg)
+  /// The `arrowULeftDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowULeftDown` no estilo Bold.
+  ///
+  /// ![arrow-u-left-down](https://api.iconify.design/ph/arrow-u-left-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowULeftDown = IconData(
     0xe082,
     fontFamily: 'PhosphorBold',
@@ -919,7 +1371,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-left-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-left-up.svg)
+  /// The `arrowULeftUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowULeftUp` no estilo Bold.
+  ///
+  /// ![arrow-u-left-up](https://api.iconify.design/ph/arrow-u-left-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowULeftUp = IconData(
     0xe084,
     fontFamily: 'PhosphorBold',
@@ -927,7 +1383,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-right-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-down.svg)
+  /// The `arrowURightDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowURightDown` no estilo Bold.
+  ///
+  /// ![arrow-u-right-down](https://api.iconify.design/ph/arrow-u-right-down-bold.svg?height=32&color=%23888888)
   static const IconData arrowURightDown = IconData(
     0xe086,
     fontFamily: 'PhosphorBold',
@@ -935,7 +1395,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-right-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-right-up.svg)
+  /// The `arrowURightUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowURightUp` no estilo Bold.
+  ///
+  /// ![arrow-u-right-up](https://api.iconify.design/ph/arrow-u-right-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowURightUp = IconData(
     0xe088,
     fontFamily: 'PhosphorBold',
@@ -943,7 +1407,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-left.svg)
+  /// The `arrowUUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowUUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-u-up-left](https://api.iconify.design/ph/arrow-u-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowUUpLeft = IconData(
     0xe08a,
     fontFamily: 'PhosphorBold',
@@ -951,7 +1419,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-u-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-u-up-right.svg)
+  /// The `arrowUUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowUUpRight` no estilo Bold.
+  ///
+  /// ![arrow-u-up-right](https://api.iconify.design/ph/arrow-u-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowUUpRight = IconData(
     0xe08c,
     fontFamily: 'PhosphorBold',
@@ -959,7 +1431,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up.svg)
+  /// The `arrowUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowUp` no estilo Bold.
+  ///
+  /// ![arrow-up](https://api.iconify.design/ph/arrow-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowUp = IconData(
     0xe08e,
     fontFamily: 'PhosphorBold',
@@ -967,7 +1443,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-up-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-left.svg)
+  /// The `arrowUpLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowUpLeft` no estilo Bold.
+  ///
+  /// ![arrow-up-left](https://api.iconify.design/ph/arrow-up-left-bold.svg?height=32&color=%23888888)
   static const IconData arrowUpLeft = IconData(
     0xe090,
     fontFamily: 'PhosphorBold',
@@ -975,7 +1455,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrow-up-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrow-up-right.svg)
+  /// The `arrowUpRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowUpRight` no estilo Bold.
+  ///
+  /// ![arrow-up-right](https://api.iconify.design/ph/arrow-up-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowUpRight = IconData(
     0xe092,
     fontFamily: 'PhosphorBold',
@@ -983,7 +1467,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-clockwise.svg)
+  /// The `arrowsClockwise` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsClockwise` no estilo Bold.
+  ///
+  /// ![arrows-clockwise](https://api.iconify.design/ph/arrows-clockwise-bold.svg?height=32&color=%23888888)
   static const IconData arrowsClockwise = IconData(
     0xe094,
     fontFamily: 'PhosphorBold',
@@ -991,7 +1479,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-counter-clockwise.svg)
+  /// The `arrowsCounterClockwise` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsCounterClockwise` no estilo Bold.
+  ///
+  /// ![arrows-counter-clockwise](https://api.iconify.design/ph/arrows-counter-clockwise-bold.svg?height=32&color=%23888888)
   static const IconData arrowsCounterClockwise = IconData(
     0xe096,
     fontFamily: 'PhosphorBold',
@@ -999,7 +1491,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-down-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-down-up.svg)
+  /// The `arrowsDownUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsDownUp` no estilo Bold.
+  ///
+  /// ![arrows-down-up](https://api.iconify.design/ph/arrows-down-up-bold.svg?height=32&color=%23888888)
   static const IconData arrowsDownUp = IconData(
     0xe098,
     fontFamily: 'PhosphorBold',
@@ -1007,7 +1503,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-horizontal.svg)
+  /// The `arrowsHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsHorizontal` no estilo Bold.
+  ///
+  /// ![arrows-horizontal](https://api.iconify.design/ph/arrows-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData arrowsHorizontal = IconData(
     0xeb06,
     fontFamily: 'PhosphorBold',
@@ -1015,7 +1515,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in.svg)
+  /// The `arrowsIn` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsIn` no estilo Bold.
+  ///
+  /// ![arrows-in](https://api.iconify.design/ph/arrows-in-bold.svg?height=32&color=%23888888)
   static const IconData arrowsIn = IconData(
     0xe09a,
     fontFamily: 'PhosphorBold',
@@ -1023,7 +1527,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-in-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-cardinal.svg)
+  /// The `arrowsInCardinal` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsInCardinal` no estilo Bold.
+  ///
+  /// ![arrows-in-cardinal](https://api.iconify.design/ph/arrows-in-cardinal-bold.svg?height=32&color=%23888888)
   static const IconData arrowsInCardinal = IconData(
     0xe09c,
     fontFamily: 'PhosphorBold',
@@ -1031,7 +1539,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-in-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-horizontal.svg)
+  /// The `arrowsInLineHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsInLineHorizontal` no estilo Bold.
+  ///
+  /// ![arrows-in-line-horizontal](https://api.iconify.design/ph/arrows-in-line-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData arrowsInLineHorizontal = IconData(
     0xe530,
     fontFamily: 'PhosphorBold',
@@ -1039,7 +1551,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-in-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-line-vertical.svg)
+  /// The `arrowsInLineVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsInLineVertical` no estilo Bold.
+  ///
+  /// ![arrows-in-line-vertical](https://api.iconify.design/ph/arrows-in-line-vertical-bold.svg?height=32&color=%23888888)
   static const IconData arrowsInLineVertical = IconData(
     0xe532,
     fontFamily: 'PhosphorBold',
@@ -1047,7 +1563,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-in-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-in-simple.svg)
+  /// The `arrowsInSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsInSimple` no estilo Bold.
+  ///
+  /// ![arrows-in-simple](https://api.iconify.design/ph/arrows-in-simple-bold.svg?height=32&color=%23888888)
   static const IconData arrowsInSimple = IconData(
     0xe09e,
     fontFamily: 'PhosphorBold',
@@ -1055,7 +1575,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-left-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-left-right.svg)
+  /// The `arrowsLeftRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsLeftRight` no estilo Bold.
+  ///
+  /// ![arrows-left-right](https://api.iconify.design/ph/arrows-left-right-bold.svg?height=32&color=%23888888)
   static const IconData arrowsLeftRight = IconData(
     0xe0a0,
     fontFamily: 'PhosphorBold',
@@ -1063,7 +1587,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-merge.svg)
+  /// The `arrowsMerge` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsMerge` no estilo Bold.
+  ///
+  /// ![arrows-merge](https://api.iconify.design/ph/arrows-merge-bold.svg?height=32&color=%23888888)
   static const IconData arrowsMerge = IconData(
     0xed3e,
     fontFamily: 'PhosphorBold',
@@ -1071,7 +1599,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out.svg)
+  /// The `arrowsOut` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsOut` no estilo Bold.
+  ///
+  /// ![arrows-out](https://api.iconify.design/ph/arrows-out-bold.svg?height=32&color=%23888888)
   static const IconData arrowsOut = IconData(
     0xe0a2,
     fontFamily: 'PhosphorBold',
@@ -1079,7 +1611,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-out-cardinal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-cardinal.svg)
+  /// The `arrowsOutCardinal` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsOutCardinal` no estilo Bold.
+  ///
+  /// ![arrows-out-cardinal](https://api.iconify.design/ph/arrows-out-cardinal-bold.svg?height=32&color=%23888888)
   static const IconData arrowsOutCardinal = IconData(
     0xe0a4,
     fontFamily: 'PhosphorBold',
@@ -1087,7 +1623,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-out-line-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-horizontal.svg)
+  /// The `arrowsOutLineHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Bold.
+  ///
+  /// ![arrows-out-line-horizontal](https://api.iconify.design/ph/arrows-out-line-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData arrowsOutLineHorizontal = IconData(
     0xe534,
     fontFamily: 'PhosphorBold',
@@ -1095,7 +1635,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-out-line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-line-vertical.svg)
+  /// The `arrowsOutLineVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsOutLineVertical` no estilo Bold.
+  ///
+  /// ![arrows-out-line-vertical](https://api.iconify.design/ph/arrows-out-line-vertical-bold.svg?height=32&color=%23888888)
   static const IconData arrowsOutLineVertical = IconData(
     0xe536,
     fontFamily: 'PhosphorBold',
@@ -1103,7 +1647,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-out-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-out-simple.svg)
+  /// The `arrowsOutSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsOutSimple` no estilo Bold.
+  ///
+  /// ![arrows-out-simple](https://api.iconify.design/ph/arrows-out-simple-bold.svg?height=32&color=%23888888)
   static const IconData arrowsOutSimple = IconData(
     0xe0a6,
     fontFamily: 'PhosphorBold',
@@ -1111,7 +1659,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-split](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-split.svg)
+  /// The `arrowsSplit` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsSplit` no estilo Bold.
+  ///
+  /// ![arrows-split](https://api.iconify.design/ph/arrows-split-bold.svg?height=32&color=%23888888)
   static const IconData arrowsSplit = IconData(
     0xed3c,
     fontFamily: 'PhosphorBold',
@@ -1119,7 +1671,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![arrows-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/arrows-vertical.svg)
+  /// The `arrowsVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `arrowsVertical` no estilo Bold.
+  ///
+  /// ![arrows-vertical](https://api.iconify.design/ph/arrows-vertical-bold.svg?height=32&color=%23888888)
   static const IconData arrowsVertical = IconData(
     0xeb04,
     fontFamily: 'PhosphorBold',
@@ -1127,7 +1683,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![article](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article.svg)
+  /// The `article` icon in Bold style.
+  ///
+  /// [PT] O ícone `article` no estilo Bold.
+  ///
+  /// ![article](https://api.iconify.design/ph/article-bold.svg?height=32&color=%23888888)
   static const IconData article = IconData(
     0xe0a8,
     fontFamily: 'PhosphorBold',
@@ -1135,7 +1695,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![article-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-medium.svg)
+  /// The `articleMedium` icon in Bold style.
+  ///
+  /// [PT] O ícone `articleMedium` no estilo Bold.
+  ///
+  /// ![article-medium](https://api.iconify.design/ph/article-medium-bold.svg?height=32&color=%23888888)
   static const IconData articleMedium = IconData(
     0xe5e0,
     fontFamily: 'PhosphorBold',
@@ -1143,7 +1707,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![article-ny-times](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/article-ny-times.svg)
+  /// The `articleNyTimes` icon in Bold style.
+  ///
+  /// [PT] O ícone `articleNyTimes` no estilo Bold.
+  ///
+  /// ![article-ny-times](https://api.iconify.design/ph/article-ny-times-bold.svg?height=32&color=%23888888)
   static const IconData articleNyTimes = IconData(
     0xe5e2,
     fontFamily: 'PhosphorBold',
@@ -1151,7 +1719,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![asclepius](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asclepius.svg)
+  /// The `asclepius` icon in Bold style.
+  ///
+  /// [PT] O ícone `asclepius` no estilo Bold.
+  ///
+  /// ![asclepius](https://api.iconify.design/ph/asclepius-bold.svg?height=32&color=%23888888)
   static const IconData asclepius = IconData(
     0xee34,
     fontFamily: 'PhosphorBold',
@@ -1159,7 +1731,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![asterisk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk.svg)
+  /// The `asterisk` icon in Bold style.
+  ///
+  /// [PT] O ícone `asterisk` no estilo Bold.
+  ///
+  /// ![asterisk](https://api.iconify.design/ph/asterisk-bold.svg?height=32&color=%23888888)
   static const IconData asterisk = IconData(
     0xe0aa,
     fontFamily: 'PhosphorBold',
@@ -1167,7 +1743,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![asterisk-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/asterisk-simple.svg)
+  /// The `asteriskSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `asteriskSimple` no estilo Bold.
+  ///
+  /// ![asterisk-simple](https://api.iconify.design/ph/asterisk-simple-bold.svg?height=32&color=%23888888)
   static const IconData asteriskSimple = IconData(
     0xe832,
     fontFamily: 'PhosphorBold',
@@ -1175,7 +1755,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![at](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/at.svg)
+  /// The `at` icon in Bold style.
+  ///
+  /// [PT] O ícone `at` no estilo Bold.
+  ///
+  /// ![at](https://api.iconify.design/ph/at-bold.svg?height=32&color=%23888888)
   static const IconData at = IconData(
     0xe0ac,
     fontFamily: 'PhosphorBold',
@@ -1183,7 +1767,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![atom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/atom.svg)
+  /// The `atom` icon in Bold style.
+  ///
+  /// [PT] O ícone `atom` no estilo Bold.
+  ///
+  /// ![atom](https://api.iconify.design/ph/atom-bold.svg?height=32&color=%23888888)
   static const IconData atom = IconData(
     0xe5e4,
     fontFamily: 'PhosphorBold',
@@ -1191,7 +1779,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![avocado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/avocado.svg)
+  /// The `avocado` icon in Bold style.
+  ///
+  /// [PT] O ícone `avocado` no estilo Bold.
+  ///
+  /// ![avocado](https://api.iconify.design/ph/avocado-bold.svg?height=32&color=%23888888)
   static const IconData avocado = IconData(
     0xee04,
     fontFamily: 'PhosphorBold',
@@ -1199,7 +1791,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![axe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/axe.svg)
+  /// The `axe` icon in Bold style.
+  ///
+  /// [PT] O ícone `axe` no estilo Bold.
+  ///
+  /// ![axe](https://api.iconify.design/ph/axe-bold.svg?height=32&color=%23888888)
   static const IconData axe = IconData(
     0xe9fc,
     fontFamily: 'PhosphorBold',
@@ -1207,7 +1803,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![baby](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby.svg)
+  /// The `baby` icon in Bold style.
+  ///
+  /// [PT] O ícone `baby` no estilo Bold.
+  ///
+  /// ![baby](https://api.iconify.design/ph/baby-bold.svg?height=32&color=%23888888)
   static const IconData baby = IconData(
     0xe774,
     fontFamily: 'PhosphorBold',
@@ -1215,7 +1815,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![baby-carriage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baby-carriage.svg)
+  /// The `babyCarriage` icon in Bold style.
+  ///
+  /// [PT] O ícone `babyCarriage` no estilo Bold.
+  ///
+  /// ![baby-carriage](https://api.iconify.design/ph/baby-carriage-bold.svg?height=32&color=%23888888)
   static const IconData babyCarriage = IconData(
     0xe818,
     fontFamily: 'PhosphorBold',
@@ -1223,7 +1827,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![backpack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backpack.svg)
+  /// The `backpack` icon in Bold style.
+  ///
+  /// [PT] O ícone `backpack` no estilo Bold.
+  ///
+  /// ![backpack](https://api.iconify.design/ph/backpack-bold.svg?height=32&color=%23888888)
   static const IconData backpack = IconData(
     0xe922,
     fontFamily: 'PhosphorBold',
@@ -1231,7 +1839,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![backspace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/backspace.svg)
+  /// The `backspace` icon in Bold style.
+  ///
+  /// [PT] O ícone `backspace` no estilo Bold.
+  ///
+  /// ![backspace](https://api.iconify.design/ph/backspace-bold.svg?height=32&color=%23888888)
   static const IconData backspace = IconData(
     0xe0ae,
     fontFamily: 'PhosphorBold',
@@ -1239,7 +1851,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag.svg)
+  /// The `bag` icon in Bold style.
+  ///
+  /// [PT] O ícone `bag` no estilo Bold.
+  ///
+  /// ![bag](https://api.iconify.design/ph/bag-bold.svg?height=32&color=%23888888)
   static const IconData bag = IconData(
     0xe0b0,
     fontFamily: 'PhosphorBold',
@@ -1247,7 +1863,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bag-simple.svg)
+  /// The `bagSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `bagSimple` no estilo Bold.
+  ///
+  /// ![bag-simple](https://api.iconify.design/ph/bag-simple-bold.svg?height=32&color=%23888888)
   static const IconData bagSimple = IconData(
     0xe5e6,
     fontFamily: 'PhosphorBold',
@@ -1255,7 +1875,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![balloon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/balloon.svg)
+  /// The `balloon` icon in Bold style.
+  ///
+  /// [PT] O ícone `balloon` no estilo Bold.
+  ///
+  /// ![balloon](https://api.iconify.design/ph/balloon-bold.svg?height=32&color=%23888888)
   static const IconData balloon = IconData(
     0xe76c,
     fontFamily: 'PhosphorBold',
@@ -1263,7 +1887,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bandaids](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bandaids.svg)
+  /// The `bandaids` icon in Bold style.
+  ///
+  /// [PT] O ícone `bandaids` no estilo Bold.
+  ///
+  /// ![bandaids](https://api.iconify.design/ph/bandaids-bold.svg?height=32&color=%23888888)
   static const IconData bandaids = IconData(
     0xe0b2,
     fontFamily: 'PhosphorBold',
@@ -1271,7 +1899,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bank.svg)
+  /// The `bank` icon in Bold style.
+  ///
+  /// [PT] O ícone `bank` no estilo Bold.
+  ///
+  /// ![bank](https://api.iconify.design/ph/bank-bold.svg?height=32&color=%23888888)
   static const IconData bank = IconData(
     0xe0b4,
     fontFamily: 'PhosphorBold',
@@ -1279,7 +1911,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![barbell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barbell.svg)
+  /// The `barbell` icon in Bold style.
+  ///
+  /// [PT] O ícone `barbell` no estilo Bold.
+  ///
+  /// ![barbell](https://api.iconify.design/ph/barbell-bold.svg?height=32&color=%23888888)
   static const IconData barbell = IconData(
     0xe0b6,
     fontFamily: 'PhosphorBold',
@@ -1287,7 +1923,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![barcode](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barcode.svg)
+  /// The `barcode` icon in Bold style.
+  ///
+  /// [PT] O ícone `barcode` no estilo Bold.
+  ///
+  /// ![barcode](https://api.iconify.design/ph/barcode-bold.svg?height=32&color=%23888888)
   static const IconData barcode = IconData(
     0xe0b8,
     fontFamily: 'PhosphorBold',
@@ -1295,7 +1935,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![barn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barn.svg)
+  /// The `barn` icon in Bold style.
+  ///
+  /// [PT] O ícone `barn` no estilo Bold.
+  ///
+  /// ![barn](https://api.iconify.design/ph/barn-bold.svg?height=32&color=%23888888)
   static const IconData barn = IconData(
     0xec72,
     fontFamily: 'PhosphorBold',
@@ -1303,7 +1947,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![barricade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/barricade.svg)
+  /// The `barricade` icon in Bold style.
+  ///
+  /// [PT] O ícone `barricade` no estilo Bold.
+  ///
+  /// ![barricade](https://api.iconify.design/ph/barricade-bold.svg?height=32&color=%23888888)
   static const IconData barricade = IconData(
     0xe948,
     fontFamily: 'PhosphorBold',
@@ -1311,7 +1959,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![baseball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball.svg)
+  /// The `baseball` icon in Bold style.
+  ///
+  /// [PT] O ícone `baseball` no estilo Bold.
+  ///
+  /// ![baseball](https://api.iconify.design/ph/baseball-bold.svg?height=32&color=%23888888)
   static const IconData baseball = IconData(
     0xe71a,
     fontFamily: 'PhosphorBold',
@@ -1319,7 +1971,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![baseball-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-cap.svg)
+  /// The `baseballCap` icon in Bold style.
+  ///
+  /// [PT] O ícone `baseballCap` no estilo Bold.
+  ///
+  /// ![baseball-cap](https://api.iconify.design/ph/baseball-cap-bold.svg?height=32&color=%23888888)
   static const IconData baseballCap = IconData(
     0xea28,
     fontFamily: 'PhosphorBold',
@@ -1327,7 +1983,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![baseball-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/baseball-helmet.svg)
+  /// The `baseballHelmet` icon in Bold style.
+  ///
+  /// [PT] O ícone `baseballHelmet` no estilo Bold.
+  ///
+  /// ![baseball-helmet](https://api.iconify.design/ph/baseball-helmet-bold.svg?height=32&color=%23888888)
   static const IconData baseballHelmet = IconData(
     0xee4a,
     fontFamily: 'PhosphorBold',
@@ -1335,7 +1995,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![basket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basket.svg)
+  /// The `basket` icon in Bold style.
+  ///
+  /// [PT] O ícone `basket` no estilo Bold.
+  ///
+  /// ![basket](https://api.iconify.design/ph/basket-bold.svg?height=32&color=%23888888)
   static const IconData basket = IconData(
     0xe964,
     fontFamily: 'PhosphorBold',
@@ -1343,7 +2007,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/basketball.svg)
+  /// The `basketball` icon in Bold style.
+  ///
+  /// [PT] O ícone `basketball` no estilo Bold.
+  ///
+  /// ![basketball](https://api.iconify.design/ph/basketball-bold.svg?height=32&color=%23888888)
   static const IconData basketball = IconData(
     0xe724,
     fontFamily: 'PhosphorBold',
@@ -1351,7 +2019,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bathtub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bathtub.svg)
+  /// The `bathtub` icon in Bold style.
+  ///
+  /// [PT] O ícone `bathtub` no estilo Bold.
+  ///
+  /// ![bathtub](https://api.iconify.design/ph/bathtub-bold.svg?height=32&color=%23888888)
   static const IconData bathtub = IconData(
     0xe81e,
     fontFamily: 'PhosphorBold',
@@ -1359,7 +2031,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging.svg)
+  /// The `batteryCharging` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryCharging` no estilo Bold.
+  ///
+  /// ![battery-charging](https://api.iconify.design/ph/battery-charging-bold.svg?height=32&color=%23888888)
   static const IconData batteryCharging = IconData(
     0xe0ba,
     fontFamily: 'PhosphorBold',
@@ -1367,7 +2043,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-charging-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-charging-vertical.svg)
+  /// The `batteryChargingVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryChargingVertical` no estilo Bold.
+  ///
+  /// ![battery-charging-vertical](https://api.iconify.design/ph/battery-charging-vertical-bold.svg?height=32&color=%23888888)
   static const IconData batteryChargingVertical = IconData(
     0xe0bc,
     fontFamily: 'PhosphorBold',
@@ -1375,7 +2055,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-empty.svg)
+  /// The `batteryEmpty` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryEmpty` no estilo Bold.
+  ///
+  /// ![battery-empty](https://api.iconify.design/ph/battery-empty-bold.svg?height=32&color=%23888888)
   static const IconData batteryEmpty = IconData(
     0xe0be,
     fontFamily: 'PhosphorBold',
@@ -1383,7 +2067,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-full.svg)
+  /// The `batteryFull` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryFull` no estilo Bold.
+  ///
+  /// ![battery-full](https://api.iconify.design/ph/battery-full-bold.svg?height=32&color=%23888888)
   static const IconData batteryFull = IconData(
     0xe0c0,
     fontFamily: 'PhosphorBold',
@@ -1391,7 +2079,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-high.svg)
+  /// The `batteryHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryHigh` no estilo Bold.
+  ///
+  /// ![battery-high](https://api.iconify.design/ph/battery-high-bold.svg?height=32&color=%23888888)
   static const IconData batteryHigh = IconData(
     0xe0c2,
     fontFamily: 'PhosphorBold',
@@ -1399,7 +2091,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-low.svg)
+  /// The `batteryLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryLow` no estilo Bold.
+  ///
+  /// ![battery-low](https://api.iconify.design/ph/battery-low-bold.svg?height=32&color=%23888888)
   static const IconData batteryLow = IconData(
     0xe0c4,
     fontFamily: 'PhosphorBold',
@@ -1407,7 +2103,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-medium.svg)
+  /// The `batteryMedium` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryMedium` no estilo Bold.
+  ///
+  /// ![battery-medium](https://api.iconify.design/ph/battery-medium-bold.svg?height=32&color=%23888888)
   static const IconData batteryMedium = IconData(
     0xe0c6,
     fontFamily: 'PhosphorBold',
@@ -1415,7 +2115,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus.svg)
+  /// The `batteryPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryPlus` no estilo Bold.
+  ///
+  /// ![battery-plus](https://api.iconify.design/ph/battery-plus-bold.svg?height=32&color=%23888888)
   static const IconData batteryPlus = IconData(
     0xe808,
     fontFamily: 'PhosphorBold',
@@ -1423,7 +2127,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-plus-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-plus-vertical.svg)
+  /// The `batteryPlusVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryPlusVertical` no estilo Bold.
+  ///
+  /// ![battery-plus-vertical](https://api.iconify.design/ph/battery-plus-vertical-bold.svg?height=32&color=%23888888)
   static const IconData batteryPlusVertical = IconData(
     0xec50,
     fontFamily: 'PhosphorBold',
@@ -1431,7 +2139,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-vertical-empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-empty.svg)
+  /// The `batteryVerticalEmpty` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryVerticalEmpty` no estilo Bold.
+  ///
+  /// ![battery-vertical-empty](https://api.iconify.design/ph/battery-vertical-empty-bold.svg?height=32&color=%23888888)
   static const IconData batteryVerticalEmpty = IconData(
     0xe7c6,
     fontFamily: 'PhosphorBold',
@@ -1439,7 +2151,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-vertical-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-full.svg)
+  /// The `batteryVerticalFull` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryVerticalFull` no estilo Bold.
+  ///
+  /// ![battery-vertical-full](https://api.iconify.design/ph/battery-vertical-full-bold.svg?height=32&color=%23888888)
   static const IconData batteryVerticalFull = IconData(
     0xe7c4,
     fontFamily: 'PhosphorBold',
@@ -1447,7 +2163,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-vertical-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-high.svg)
+  /// The `batteryVerticalHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryVerticalHigh` no estilo Bold.
+  ///
+  /// ![battery-vertical-high](https://api.iconify.design/ph/battery-vertical-high-bold.svg?height=32&color=%23888888)
   static const IconData batteryVerticalHigh = IconData(
     0xe7c2,
     fontFamily: 'PhosphorBold',
@@ -1455,7 +2175,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-vertical-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-low.svg)
+  /// The `batteryVerticalLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryVerticalLow` no estilo Bold.
+  ///
+  /// ![battery-vertical-low](https://api.iconify.design/ph/battery-vertical-low-bold.svg?height=32&color=%23888888)
   static const IconData batteryVerticalLow = IconData(
     0xe7be,
     fontFamily: 'PhosphorBold',
@@ -1463,7 +2187,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-vertical-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-vertical-medium.svg)
+  /// The `batteryVerticalMedium` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryVerticalMedium` no estilo Bold.
+  ///
+  /// ![battery-vertical-medium](https://api.iconify.design/ph/battery-vertical-medium-bold.svg?height=32&color=%23888888)
   static const IconData batteryVerticalMedium = IconData(
     0xe7c0,
     fontFamily: 'PhosphorBold',
@@ -1471,7 +2199,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning.svg)
+  /// The `batteryWarning` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryWarning` no estilo Bold.
+  ///
+  /// ![battery-warning](https://api.iconify.design/ph/battery-warning-bold.svg?height=32&color=%23888888)
   static const IconData batteryWarning = IconData(
     0xe0c8,
     fontFamily: 'PhosphorBold',
@@ -1479,7 +2211,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![battery-warning-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/battery-warning-vertical.svg)
+  /// The `batteryWarningVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `batteryWarningVertical` no estilo Bold.
+  ///
+  /// ![battery-warning-vertical](https://api.iconify.design/ph/battery-warning-vertical-bold.svg?height=32&color=%23888888)
   static const IconData batteryWarningVertical = IconData(
     0xe0ca,
     fontFamily: 'PhosphorBold',
@@ -1487,7 +2223,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![beach-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beach-ball.svg)
+  /// The `beachBall` icon in Bold style.
+  ///
+  /// [PT] O ícone `beachBall` no estilo Bold.
+  ///
+  /// ![beach-ball](https://api.iconify.design/ph/beach-ball-bold.svg?height=32&color=%23888888)
   static const IconData beachBall = IconData(
     0xed24,
     fontFamily: 'PhosphorBold',
@@ -1495,7 +2235,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![beanie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beanie.svg)
+  /// The `beanie` icon in Bold style.
+  ///
+  /// [PT] O ícone `beanie` no estilo Bold.
+  ///
+  /// ![beanie](https://api.iconify.design/ph/beanie-bold.svg?height=32&color=%23888888)
   static const IconData beanie = IconData(
     0xea2a,
     fontFamily: 'PhosphorBold',
@@ -1503,7 +2247,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bed.svg)
+  /// The `bed` icon in Bold style.
+  ///
+  /// [PT] O ícone `bed` no estilo Bold.
+  ///
+  /// ![bed](https://api.iconify.design/ph/bed-bold.svg?height=32&color=%23888888)
   static const IconData bed = IconData(
     0xe0cc,
     fontFamily: 'PhosphorBold',
@@ -1511,7 +2259,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![beer-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-bottle.svg)
+  /// The `beerBottle` icon in Bold style.
+  ///
+  /// [PT] O ícone `beerBottle` no estilo Bold.
+  ///
+  /// ![beer-bottle](https://api.iconify.design/ph/beer-bottle-bold.svg?height=32&color=%23888888)
   static const IconData beerBottle = IconData(
     0xe7b0,
     fontFamily: 'PhosphorBold',
@@ -1519,7 +2271,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![beer-stein](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/beer-stein.svg)
+  /// The `beerStein` icon in Bold style.
+  ///
+  /// [PT] O ícone `beerStein` no estilo Bold.
+  ///
+  /// ![beer-stein](https://api.iconify.design/ph/beer-stein-bold.svg?height=32&color=%23888888)
   static const IconData beerStein = IconData(
     0xeb62,
     fontFamily: 'PhosphorBold',
@@ -1527,7 +2283,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![behance-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/behance-logo.svg)
+  /// The `behanceLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `behanceLogo` no estilo Bold.
+  ///
+  /// ![behance-logo](https://api.iconify.design/ph/behance-logo-bold.svg?height=32&color=%23888888)
   static const IconData behanceLogo = IconData(
     0xe7f4,
     fontFamily: 'PhosphorBold',
@@ -1535,7 +2295,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell.svg)
+  /// The `bell` icon in Bold style.
+  ///
+  /// [PT] O ícone `bell` no estilo Bold.
+  ///
+  /// ![bell](https://api.iconify.design/ph/bell-bold.svg?height=32&color=%23888888)
   static const IconData bell = IconData(
     0xe0ce,
     fontFamily: 'PhosphorBold',
@@ -1543,7 +2307,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-ringing.svg)
+  /// The `bellRinging` icon in Bold style.
+  ///
+  /// [PT] O ícone `bellRinging` no estilo Bold.
+  ///
+  /// ![bell-ringing](https://api.iconify.design/ph/bell-ringing-bold.svg?height=32&color=%23888888)
   static const IconData bellRinging = IconData(
     0xe5e8,
     fontFamily: 'PhosphorBold',
@@ -1551,7 +2319,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple.svg)
+  /// The `bellSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `bellSimple` no estilo Bold.
+  ///
+  /// ![bell-simple](https://api.iconify.design/ph/bell-simple-bold.svg?height=32&color=%23888888)
   static const IconData bellSimple = IconData(
     0xe0d0,
     fontFamily: 'PhosphorBold',
@@ -1559,7 +2331,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell-simple-ringing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-ringing.svg)
+  /// The `bellSimpleRinging` icon in Bold style.
+  ///
+  /// [PT] O ícone `bellSimpleRinging` no estilo Bold.
+  ///
+  /// ![bell-simple-ringing](https://api.iconify.design/ph/bell-simple-ringing-bold.svg?height=32&color=%23888888)
   static const IconData bellSimpleRinging = IconData(
     0xe5ea,
     fontFamily: 'PhosphorBold',
@@ -1567,7 +2343,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-slash.svg)
+  /// The `bellSimpleSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `bellSimpleSlash` no estilo Bold.
+  ///
+  /// ![bell-simple-slash](https://api.iconify.design/ph/bell-simple-slash-bold.svg?height=32&color=%23888888)
   static const IconData bellSimpleSlash = IconData(
     0xe0d2,
     fontFamily: 'PhosphorBold',
@@ -1575,7 +2355,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell-simple-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-simple-z.svg)
+  /// The `bellSimpleZ` icon in Bold style.
+  ///
+  /// [PT] O ícone `bellSimpleZ` no estilo Bold.
+  ///
+  /// ![bell-simple-z](https://api.iconify.design/ph/bell-simple-z-bold.svg?height=32&color=%23888888)
   static const IconData bellSimpleZ = IconData(
     0xe5ec,
     fontFamily: 'PhosphorBold',
@@ -1583,7 +2367,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-slash.svg)
+  /// The `bellSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `bellSlash` no estilo Bold.
+  ///
+  /// ![bell-slash](https://api.iconify.design/ph/bell-slash-bold.svg?height=32&color=%23888888)
   static const IconData bellSlash = IconData(
     0xe0d4,
     fontFamily: 'PhosphorBold',
@@ -1591,7 +2379,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bell-z](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bell-z.svg)
+  /// The `bellZ` icon in Bold style.
+  ///
+  /// [PT] O ícone `bellZ` no estilo Bold.
+  ///
+  /// ![bell-z](https://api.iconify.design/ph/bell-z-bold.svg?height=32&color=%23888888)
   static const IconData bellZ = IconData(
     0xe5ee,
     fontFamily: 'PhosphorBold',
@@ -1599,7 +2391,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![belt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/belt.svg)
+  /// The `belt` icon in Bold style.
+  ///
+  /// [PT] O ícone `belt` no estilo Bold.
+  ///
+  /// ![belt](https://api.iconify.design/ph/belt-bold.svg?height=32&color=%23888888)
   static const IconData belt = IconData(
     0xea2c,
     fontFamily: 'PhosphorBold',
@@ -1607,7 +2403,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bezier-curve](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bezier-curve.svg)
+  /// The `bezierCurve` icon in Bold style.
+  ///
+  /// [PT] O ícone `bezierCurve` no estilo Bold.
+  ///
+  /// ![bezier-curve](https://api.iconify.design/ph/bezier-curve-bold.svg?height=32&color=%23888888)
   static const IconData bezierCurve = IconData(
     0xeb00,
     fontFamily: 'PhosphorBold',
@@ -1615,7 +2415,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bicycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bicycle.svg)
+  /// The `bicycle` icon in Bold style.
+  ///
+  /// [PT] O ícone `bicycle` no estilo Bold.
+  ///
+  /// ![bicycle](https://api.iconify.design/ph/bicycle-bold.svg?height=32&color=%23888888)
   static const IconData bicycle = IconData(
     0xe0d6,
     fontFamily: 'PhosphorBold',
@@ -1623,7 +2427,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![binary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binary.svg)
+  /// The `binary` icon in Bold style.
+  ///
+  /// [PT] O ícone `binary` no estilo Bold.
+  ///
+  /// ![binary](https://api.iconify.design/ph/binary-bold.svg?height=32&color=%23888888)
   static const IconData binary = IconData(
     0xee60,
     fontFamily: 'PhosphorBold',
@@ -1631,7 +2439,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![binoculars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/binoculars.svg)
+  /// The `binoculars` icon in Bold style.
+  ///
+  /// [PT] O ícone `binoculars` no estilo Bold.
+  ///
+  /// ![binoculars](https://api.iconify.design/ph/binoculars-bold.svg?height=32&color=%23888888)
   static const IconData binoculars = IconData(
     0xea64,
     fontFamily: 'PhosphorBold',
@@ -1639,7 +2451,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![biohazard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/biohazard.svg)
+  /// The `biohazard` icon in Bold style.
+  ///
+  /// [PT] O ícone `biohazard` no estilo Bold.
+  ///
+  /// ![biohazard](https://api.iconify.design/ph/biohazard-bold.svg?height=32&color=%23888888)
   static const IconData biohazard = IconData(
     0xe9e0,
     fontFamily: 'PhosphorBold',
@@ -1647,7 +2463,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bird](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bird.svg)
+  /// The `bird` icon in Bold style.
+  ///
+  /// [PT] O ícone `bird` no estilo Bold.
+  ///
+  /// ![bird](https://api.iconify.design/ph/bird-bold.svg?height=32&color=%23888888)
   static const IconData bird = IconData(
     0xe72c,
     fontFamily: 'PhosphorBold',
@@ -1655,7 +2475,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![blueprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/blueprint.svg)
+  /// The `blueprint` icon in Bold style.
+  ///
+  /// [PT] O ícone `blueprint` no estilo Bold.
+  ///
+  /// ![blueprint](https://api.iconify.design/ph/blueprint-bold.svg?height=32&color=%23888888)
   static const IconData blueprint = IconData(
     0xeda0,
     fontFamily: 'PhosphorBold',
@@ -1663,7 +2487,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bluetooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth.svg)
+  /// The `bluetooth` icon in Bold style.
+  ///
+  /// [PT] O ícone `bluetooth` no estilo Bold.
+  ///
+  /// ![bluetooth](https://api.iconify.design/ph/bluetooth-bold.svg?height=32&color=%23888888)
   static const IconData bluetooth = IconData(
     0xe0da,
     fontFamily: 'PhosphorBold',
@@ -1671,7 +2499,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bluetooth-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-connected.svg)
+  /// The `bluetoothConnected` icon in Bold style.
+  ///
+  /// [PT] O ícone `bluetoothConnected` no estilo Bold.
+  ///
+  /// ![bluetooth-connected](https://api.iconify.design/ph/bluetooth-connected-bold.svg?height=32&color=%23888888)
   static const IconData bluetoothConnected = IconData(
     0xe0dc,
     fontFamily: 'PhosphorBold',
@@ -1679,7 +2511,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bluetooth-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-slash.svg)
+  /// The `bluetoothSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `bluetoothSlash` no estilo Bold.
+  ///
+  /// ![bluetooth-slash](https://api.iconify.design/ph/bluetooth-slash-bold.svg?height=32&color=%23888888)
   static const IconData bluetoothSlash = IconData(
     0xe0de,
     fontFamily: 'PhosphorBold',
@@ -1687,7 +2523,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bluetooth-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bluetooth-x.svg)
+  /// The `bluetoothX` icon in Bold style.
+  ///
+  /// [PT] O ícone `bluetoothX` no estilo Bold.
+  ///
+  /// ![bluetooth-x](https://api.iconify.design/ph/bluetooth-x-bold.svg?height=32&color=%23888888)
   static const IconData bluetoothX = IconData(
     0xe0e0,
     fontFamily: 'PhosphorBold',
@@ -1695,7 +2535,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![boat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boat.svg)
+  /// The `boat` icon in Bold style.
+  ///
+  /// [PT] O ícone `boat` no estilo Bold.
+  ///
+  /// ![boat](https://api.iconify.design/ph/boat-bold.svg?height=32&color=%23888888)
   static const IconData boat = IconData(
     0xe786,
     fontFamily: 'PhosphorBold',
@@ -1703,7 +2547,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bomb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bomb.svg)
+  /// The `bomb` icon in Bold style.
+  ///
+  /// [PT] O ícone `bomb` no estilo Bold.
+  ///
+  /// ![bomb](https://api.iconify.design/ph/bomb-bold.svg?height=32&color=%23888888)
   static const IconData bomb = IconData(
     0xee0a,
     fontFamily: 'PhosphorBold',
@@ -1711,7 +2559,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bone.svg)
+  /// The `bone` icon in Bold style.
+  ///
+  /// [PT] O ícone `bone` no estilo Bold.
+  ///
+  /// ![bone](https://api.iconify.design/ph/bone-bold.svg?height=32&color=%23888888)
   static const IconData bone = IconData(
     0xe7f2,
     fontFamily: 'PhosphorBold',
@@ -1719,7 +2571,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![book](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book.svg)
+  /// The `book` icon in Bold style.
+  ///
+  /// [PT] O ícone `book` no estilo Bold.
+  ///
+  /// ![book](https://api.iconify.design/ph/book-bold.svg?height=32&color=%23888888)
   static const IconData book = IconData(
     0xe0e2,
     fontFamily: 'PhosphorBold',
@@ -1727,7 +2583,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![book-bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-bookmark.svg)
+  /// The `bookBookmark` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookBookmark` no estilo Bold.
+  ///
+  /// ![book-bookmark](https://api.iconify.design/ph/book-bookmark-bold.svg?height=32&color=%23888888)
   static const IconData bookBookmark = IconData(
     0xe0e4,
     fontFamily: 'PhosphorBold',
@@ -1735,7 +2595,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![book-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open.svg)
+  /// The `bookOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookOpen` no estilo Bold.
+  ///
+  /// ![book-open](https://api.iconify.design/ph/book-open-bold.svg?height=32&color=%23888888)
   static const IconData bookOpen = IconData(
     0xe0e6,
     fontFamily: 'PhosphorBold',
@@ -1743,7 +2607,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![book-open-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-text.svg)
+  /// The `bookOpenText` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookOpenText` no estilo Bold.
+  ///
+  /// ![book-open-text](https://api.iconify.design/ph/book-open-text-bold.svg?height=32&color=%23888888)
   static const IconData bookOpenText = IconData(
     0xe8f2,
     fontFamily: 'PhosphorBold',
@@ -1751,7 +2619,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![book-open-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/book-open-user.svg)
+  /// The `bookOpenUser` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookOpenUser` no estilo Bold.
+  ///
+  /// ![book-open-user](https://api.iconify.design/ph/book-open-user-bold.svg?height=32&color=%23888888)
   static const IconData bookOpenUser = IconData(
     0xede0,
     fontFamily: 'PhosphorBold',
@@ -1759,7 +2631,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bookmark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark.svg)
+  /// The `bookmark` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookmark` no estilo Bold.
+  ///
+  /// ![bookmark](https://api.iconify.design/ph/bookmark-bold.svg?height=32&color=%23888888)
   static const IconData bookmark = IconData(
     0xe0e8,
     fontFamily: 'PhosphorBold',
@@ -1767,7 +2643,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bookmark-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmark-simple.svg)
+  /// The `bookmarkSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookmarkSimple` no estilo Bold.
+  ///
+  /// ![bookmark-simple](https://api.iconify.design/ph/bookmark-simple-bold.svg?height=32&color=%23888888)
   static const IconData bookmarkSimple = IconData(
     0xe0ea,
     fontFamily: 'PhosphorBold',
@@ -1775,7 +2655,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bookmarks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks.svg)
+  /// The `bookmarks` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookmarks` no estilo Bold.
+  ///
+  /// ![bookmarks](https://api.iconify.design/ph/bookmarks-bold.svg?height=32&color=%23888888)
   static const IconData bookmarks = IconData(
     0xe0ec,
     fontFamily: 'PhosphorBold',
@@ -1783,7 +2667,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bookmarks-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bookmarks-simple.svg)
+  /// The `bookmarksSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `bookmarksSimple` no estilo Bold.
+  ///
+  /// ![bookmarks-simple](https://api.iconify.design/ph/bookmarks-simple-bold.svg?height=32&color=%23888888)
   static const IconData bookmarksSimple = IconData(
     0xe5f0,
     fontFamily: 'PhosphorBold',
@@ -1791,7 +2679,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![books](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/books.svg)
+  /// The `books` icon in Bold style.
+  ///
+  /// [PT] O ícone `books` no estilo Bold.
+  ///
+  /// ![books](https://api.iconify.design/ph/books-bold.svg?height=32&color=%23888888)
   static const IconData books = IconData(
     0xe758,
     fontFamily: 'PhosphorBold',
@@ -1799,7 +2691,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![boot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boot.svg)
+  /// The `boot` icon in Bold style.
+  ///
+  /// [PT] O ícone `boot` no estilo Bold.
+  ///
+  /// ![boot](https://api.iconify.design/ph/boot-bold.svg?height=32&color=%23888888)
   static const IconData boot = IconData(
     0xecca,
     fontFamily: 'PhosphorBold',
@@ -1807,7 +2703,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![boules](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boules.svg)
+  /// The `boules` icon in Bold style.
+  ///
+  /// [PT] O ícone `boules` no estilo Bold.
+  ///
+  /// ![boules](https://api.iconify.design/ph/boules-bold.svg?height=32&color=%23888888)
   static const IconData boules = IconData(
     0xe722,
     fontFamily: 'PhosphorBold',
@@ -1815,7 +2715,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bounding-box](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bounding-box.svg)
+  /// The `boundingBox` icon in Bold style.
+  ///
+  /// [PT] O ícone `boundingBox` no estilo Bold.
+  ///
+  /// ![bounding-box](https://api.iconify.design/ph/bounding-box-bold.svg?height=32&color=%23888888)
   static const IconData boundingBox = IconData(
     0xe6ce,
     fontFamily: 'PhosphorBold',
@@ -1823,7 +2727,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bowl-food](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-food.svg)
+  /// The `bowlFood` icon in Bold style.
+  ///
+  /// [PT] O ícone `bowlFood` no estilo Bold.
+  ///
+  /// ![bowl-food](https://api.iconify.design/ph/bowl-food-bold.svg?height=32&color=%23888888)
   static const IconData bowlFood = IconData(
     0xeaa4,
     fontFamily: 'PhosphorBold',
@@ -1831,7 +2739,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bowl-steam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowl-steam.svg)
+  /// The `bowlSteam` icon in Bold style.
+  ///
+  /// [PT] O ícone `bowlSteam` no estilo Bold.
+  ///
+  /// ![bowl-steam](https://api.iconify.design/ph/bowl-steam-bold.svg?height=32&color=%23888888)
   static const IconData bowlSteam = IconData(
     0xe8e4,
     fontFamily: 'PhosphorBold',
@@ -1839,7 +2751,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bowling-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bowling-ball.svg)
+  /// The `bowlingBall` icon in Bold style.
+  ///
+  /// [PT] O ícone `bowlingBall` no estilo Bold.
+  ///
+  /// ![bowling-ball](https://api.iconify.design/ph/bowling-ball-bold.svg?height=32&color=%23888888)
   static const IconData bowlingBall = IconData(
     0xea34,
     fontFamily: 'PhosphorBold',
@@ -1847,7 +2763,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![box-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-down.svg)
+  /// The `boxArrowDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `boxArrowDown` no estilo Bold.
+  ///
+  /// ![box-arrow-down](https://api.iconify.design/ph/box-arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData boxArrowDown = IconData(
     0xe00e,
     fontFamily: 'PhosphorBold',
@@ -1855,7 +2775,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![box-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/box-arrow-up.svg)
+  /// The `boxArrowUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `boxArrowUp` no estilo Bold.
+  ///
+  /// ![box-arrow-up](https://api.iconify.design/ph/box-arrow-up-bold.svg?height=32&color=%23888888)
   static const IconData boxArrowUp = IconData(
     0xee54,
     fontFamily: 'PhosphorBold',
@@ -1863,7 +2787,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![boxing-glove](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/boxing-glove.svg)
+  /// The `boxingGlove` icon in Bold style.
+  ///
+  /// [PT] O ícone `boxingGlove` no estilo Bold.
+  ///
+  /// ![boxing-glove](https://api.iconify.design/ph/boxing-glove-bold.svg?height=32&color=%23888888)
   static const IconData boxingGlove = IconData(
     0xea36,
     fontFamily: 'PhosphorBold',
@@ -1871,7 +2799,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![brackets-angle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-angle.svg)
+  /// The `bracketsAngle` icon in Bold style.
+  ///
+  /// [PT] O ícone `bracketsAngle` no estilo Bold.
+  ///
+  /// ![brackets-angle](https://api.iconify.design/ph/brackets-angle-bold.svg?height=32&color=%23888888)
   static const IconData bracketsAngle = IconData(
     0xe862,
     fontFamily: 'PhosphorBold',
@@ -1879,7 +2811,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![brackets-curly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-curly.svg)
+  /// The `bracketsCurly` icon in Bold style.
+  ///
+  /// [PT] O ícone `bracketsCurly` no estilo Bold.
+  ///
+  /// ![brackets-curly](https://api.iconify.design/ph/brackets-curly-bold.svg?height=32&color=%23888888)
   static const IconData bracketsCurly = IconData(
     0xe860,
     fontFamily: 'PhosphorBold',
@@ -1887,7 +2823,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![brackets-round](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-round.svg)
+  /// The `bracketsRound` icon in Bold style.
+  ///
+  /// [PT] O ícone `bracketsRound` no estilo Bold.
+  ///
+  /// ![brackets-round](https://api.iconify.design/ph/brackets-round-bold.svg?height=32&color=%23888888)
   static const IconData bracketsRound = IconData(
     0xe864,
     fontFamily: 'PhosphorBold',
@@ -1895,7 +2835,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![brackets-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brackets-square.svg)
+  /// The `bracketsSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `bracketsSquare` no estilo Bold.
+  ///
+  /// ![brackets-square](https://api.iconify.design/ph/brackets-square-bold.svg?height=32&color=%23888888)
   static const IconData bracketsSquare = IconData(
     0xe85e,
     fontFamily: 'PhosphorBold',
@@ -1903,7 +2847,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![brain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brain.svg)
+  /// The `brain` icon in Bold style.
+  ///
+  /// [PT] O ícone `brain` no estilo Bold.
+  ///
+  /// ![brain](https://api.iconify.design/ph/brain-bold.svg?height=32&color=%23888888)
   static const IconData brain = IconData(
     0xe74e,
     fontFamily: 'PhosphorBold',
@@ -1911,7 +2859,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![brandy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/brandy.svg)
+  /// The `brandy` icon in Bold style.
+  ///
+  /// [PT] O ícone `brandy` no estilo Bold.
+  ///
+  /// ![brandy](https://api.iconify.design/ph/brandy-bold.svg?height=32&color=%23888888)
   static const IconData brandy = IconData(
     0xe6b4,
     fontFamily: 'PhosphorBold',
@@ -1919,7 +2871,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bread.svg)
+  /// The `bread` icon in Bold style.
+  ///
+  /// [PT] O ícone `bread` no estilo Bold.
+  ///
+  /// ![bread](https://api.iconify.design/ph/bread-bold.svg?height=32&color=%23888888)
   static const IconData bread = IconData(
     0xe81c,
     fontFamily: 'PhosphorBold',
@@ -1927,7 +2883,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bridge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bridge.svg)
+  /// The `bridge` icon in Bold style.
+  ///
+  /// [PT] O ícone `bridge` no estilo Bold.
+  ///
+  /// ![bridge](https://api.iconify.design/ph/bridge-bold.svg?height=32&color=%23888888)
   static const IconData bridge = IconData(
     0xea68,
     fontFamily: 'PhosphorBold',
@@ -1935,7 +2895,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![briefcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase.svg)
+  /// The `briefcase` icon in Bold style.
+  ///
+  /// [PT] O ícone `briefcase` no estilo Bold.
+  ///
+  /// ![briefcase](https://api.iconify.design/ph/briefcase-bold.svg?height=32&color=%23888888)
   static const IconData briefcase = IconData(
     0xe0ee,
     fontFamily: 'PhosphorBold',
@@ -1943,7 +2907,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![briefcase-metal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/briefcase-metal.svg)
+  /// The `briefcaseMetal` icon in Bold style.
+  ///
+  /// [PT] O ícone `briefcaseMetal` no estilo Bold.
+  ///
+  /// ![briefcase-metal](https://api.iconify.design/ph/briefcase-metal-bold.svg?height=32&color=%23888888)
   static const IconData briefcaseMetal = IconData(
     0xe5f2,
     fontFamily: 'PhosphorBold',
@@ -1951,7 +2919,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![broadcast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broadcast.svg)
+  /// The `broadcast` icon in Bold style.
+  ///
+  /// [PT] O ícone `broadcast` no estilo Bold.
+  ///
+  /// ![broadcast](https://api.iconify.design/ph/broadcast-bold.svg?height=32&color=%23888888)
   static const IconData broadcast = IconData(
     0xe0f2,
     fontFamily: 'PhosphorBold',
@@ -1959,7 +2931,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![broom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/broom.svg)
+  /// The `broom` icon in Bold style.
+  ///
+  /// [PT] O ícone `broom` no estilo Bold.
+  ///
+  /// ![broom](https://api.iconify.design/ph/broom-bold.svg?height=32&color=%23888888)
   static const IconData broom = IconData(
     0xec54,
     fontFamily: 'PhosphorBold',
@@ -1967,7 +2943,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![browser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browser.svg)
+  /// The `browser` icon in Bold style.
+  ///
+  /// [PT] O ícone `browser` no estilo Bold.
+  ///
+  /// ![browser](https://api.iconify.design/ph/browser-bold.svg?height=32&color=%23888888)
   static const IconData browser = IconData(
     0xe0f4,
     fontFamily: 'PhosphorBold',
@@ -1975,7 +2955,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![browsers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/browsers.svg)
+  /// The `browsers` icon in Bold style.
+  ///
+  /// [PT] O ícone `browsers` no estilo Bold.
+  ///
+  /// ![browsers](https://api.iconify.design/ph/browsers-bold.svg?height=32&color=%23888888)
   static const IconData browsers = IconData(
     0xe0f6,
     fontFamily: 'PhosphorBold',
@@ -1983,7 +2967,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug.svg)
+  /// The `bug` icon in Bold style.
+  ///
+  /// [PT] O ícone `bug` no estilo Bold.
+  ///
+  /// ![bug](https://api.iconify.design/ph/bug-bold.svg?height=32&color=%23888888)
   static const IconData bug = IconData(
     0xe5f4,
     fontFamily: 'PhosphorBold',
@@ -1991,7 +2979,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bug-beetle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-beetle.svg)
+  /// The `bugBeetle` icon in Bold style.
+  ///
+  /// [PT] O ícone `bugBeetle` no estilo Bold.
+  ///
+  /// ![bug-beetle](https://api.iconify.design/ph/bug-beetle-bold.svg?height=32&color=%23888888)
   static const IconData bugBeetle = IconData(
     0xe5f6,
     fontFamily: 'PhosphorBold',
@@ -1999,7 +2991,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bug-droid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bug-droid.svg)
+  /// The `bugDroid` icon in Bold style.
+  ///
+  /// [PT] O ícone `bugDroid` no estilo Bold.
+  ///
+  /// ![bug-droid](https://api.iconify.design/ph/bug-droid-bold.svg?height=32&color=%23888888)
   static const IconData bugDroid = IconData(
     0xe5f8,
     fontFamily: 'PhosphorBold',
@@ -2007,7 +3003,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![building](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building.svg)
+  /// The `building` icon in Bold style.
+  ///
+  /// [PT] O ícone `building` no estilo Bold.
+  ///
+  /// ![building](https://api.iconify.design/ph/building-bold.svg?height=32&color=%23888888)
   static const IconData building = IconData(
     0xe100,
     fontFamily: 'PhosphorBold',
@@ -2015,7 +3015,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![building-apartment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-apartment.svg)
+  /// The `buildingApartment` icon in Bold style.
+  ///
+  /// [PT] O ícone `buildingApartment` no estilo Bold.
+  ///
+  /// ![building-apartment](https://api.iconify.design/ph/building-apartment-bold.svg?height=32&color=%23888888)
   static const IconData buildingApartment = IconData(
     0xe0fe,
     fontFamily: 'PhosphorBold',
@@ -2023,7 +3027,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![building-office](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/building-office.svg)
+  /// The `buildingOffice` icon in Bold style.
+  ///
+  /// [PT] O ícone `buildingOffice` no estilo Bold.
+  ///
+  /// ![building-office](https://api.iconify.design/ph/building-office-bold.svg?height=32&color=%23888888)
   static const IconData buildingOffice = IconData(
     0xe0ff,
     fontFamily: 'PhosphorBold',
@@ -2031,7 +3039,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![buildings](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/buildings.svg)
+  /// The `buildings` icon in Bold style.
+  ///
+  /// [PT] O ícone `buildings` no estilo Bold.
+  ///
+  /// ![buildings](https://api.iconify.design/ph/buildings-bold.svg?height=32&color=%23888888)
   static const IconData buildings = IconData(
     0xe102,
     fontFamily: 'PhosphorBold',
@@ -2039,7 +3051,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bulldozer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bulldozer.svg)
+  /// The `bulldozer` icon in Bold style.
+  ///
+  /// [PT] O ícone `bulldozer` no estilo Bold.
+  ///
+  /// ![bulldozer](https://api.iconify.design/ph/bulldozer-bold.svg?height=32&color=%23888888)
   static const IconData bulldozer = IconData(
     0xec6c,
     fontFamily: 'PhosphorBold',
@@ -2047,7 +3063,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![bus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/bus.svg)
+  /// The `bus` icon in Bold style.
+  ///
+  /// [PT] O ícone `bus` no estilo Bold.
+  ///
+  /// ![bus](https://api.iconify.design/ph/bus-bold.svg?height=32&color=%23888888)
   static const IconData bus = IconData(
     0xe106,
     fontFamily: 'PhosphorBold',
@@ -2055,7 +3075,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![butterfly](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/butterfly.svg)
+  /// The `butterfly` icon in Bold style.
+  ///
+  /// [PT] O ícone `butterfly` no estilo Bold.
+  ///
+  /// ![butterfly](https://api.iconify.design/ph/butterfly-bold.svg?height=32&color=%23888888)
   static const IconData butterfly = IconData(
     0xea6e,
     fontFamily: 'PhosphorBold',
@@ -2063,7 +3087,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cable-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cable-car.svg)
+  /// The `cableCar` icon in Bold style.
+  ///
+  /// [PT] O ícone `cableCar` no estilo Bold.
+  ///
+  /// ![cable-car](https://api.iconify.design/ph/cable-car-bold.svg?height=32&color=%23888888)
   static const IconData cableCar = IconData(
     0xe49c,
     fontFamily: 'PhosphorBold',
@@ -2071,7 +3099,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cactus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cactus.svg)
+  /// The `cactus` icon in Bold style.
+  ///
+  /// [PT] O ícone `cactus` no estilo Bold.
+  ///
+  /// ![cactus](https://api.iconify.design/ph/cactus-bold.svg?height=32&color=%23888888)
   static const IconData cactus = IconData(
     0xe918,
     fontFamily: 'PhosphorBold',
@@ -2079,7 +3111,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caduceus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caduceus.svg)
+  /// The `caduceus` icon in Bold style.
+  ///
+  /// [PT] O ícone `caduceus` no estilo Bold.
+  ///
+  /// ![caduceus](https://api.iconify.design/ph/asclepius-bold.svg?height=32&color=%23888888)
   static const IconData caduceus = IconData(
     0xee34,
     fontFamily: 'PhosphorBold',
@@ -2087,7 +3123,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cake.svg)
+  /// The `cake` icon in Bold style.
+  ///
+  /// [PT] O ícone `cake` no estilo Bold.
+  ///
+  /// ![cake](https://api.iconify.design/ph/cake-bold.svg?height=32&color=%23888888)
   static const IconData cake = IconData(
     0xe780,
     fontFamily: 'PhosphorBold',
@@ -2095,7 +3135,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calculator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calculator.svg)
+  /// The `calculator` icon in Bold style.
+  ///
+  /// [PT] O ícone `calculator` no estilo Bold.
+  ///
+  /// ![calculator](https://api.iconify.design/ph/calculator-bold.svg?height=32&color=%23888888)
   static const IconData calculator = IconData(
     0xe538,
     fontFamily: 'PhosphorBold',
@@ -2103,7 +3147,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar.svg)
+  /// The `calendar` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendar` no estilo Bold.
+  ///
+  /// ![calendar](https://api.iconify.design/ph/calendar-bold.svg?height=32&color=%23888888)
   static const IconData calendar = IconData(
     0xe108,
     fontFamily: 'PhosphorBold',
@@ -2111,7 +3159,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-blank.svg)
+  /// The `calendarBlank` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarBlank` no estilo Bold.
+  ///
+  /// ![calendar-blank](https://api.iconify.design/ph/calendar-blank-bold.svg?height=32&color=%23888888)
   static const IconData calendarBlank = IconData(
     0xe10a,
     fontFamily: 'PhosphorBold',
@@ -2119,7 +3171,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-check.svg)
+  /// The `calendarCheck` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarCheck` no estilo Bold.
+  ///
+  /// ![calendar-check](https://api.iconify.design/ph/calendar-check-bold.svg?height=32&color=%23888888)
   static const IconData calendarCheck = IconData(
     0xe712,
     fontFamily: 'PhosphorBold',
@@ -2127,7 +3183,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dot.svg)
+  /// The `calendarDot` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarDot` no estilo Bold.
+  ///
+  /// ![calendar-dot](https://api.iconify.design/ph/calendar-dot-bold.svg?height=32&color=%23888888)
   static const IconData calendarDot = IconData(
     0xe7b2,
     fontFamily: 'PhosphorBold',
@@ -2135,7 +3195,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-dots.svg)
+  /// The `calendarDots` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarDots` no estilo Bold.
+  ///
+  /// ![calendar-dots](https://api.iconify.design/ph/calendar-dots-bold.svg?height=32&color=%23888888)
   static const IconData calendarDots = IconData(
     0xe7b4,
     fontFamily: 'PhosphorBold',
@@ -2143,7 +3207,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-heart.svg)
+  /// The `calendarHeart` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarHeart` no estilo Bold.
+  ///
+  /// ![calendar-heart](https://api.iconify.design/ph/calendar-heart-bold.svg?height=32&color=%23888888)
   static const IconData calendarHeart = IconData(
     0xe8b0,
     fontFamily: 'PhosphorBold',
@@ -2151,7 +3219,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-minus.svg)
+  /// The `calendarMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarMinus` no estilo Bold.
+  ///
+  /// ![calendar-minus](https://api.iconify.design/ph/calendar-minus-bold.svg?height=32&color=%23888888)
   static const IconData calendarMinus = IconData(
     0xea14,
     fontFamily: 'PhosphorBold',
@@ -2159,7 +3231,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-plus.svg)
+  /// The `calendarPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarPlus` no estilo Bold.
+  ///
+  /// ![calendar-plus](https://api.iconify.design/ph/calendar-plus-bold.svg?height=32&color=%23888888)
   static const IconData calendarPlus = IconData(
     0xe714,
     fontFamily: 'PhosphorBold',
@@ -2167,7 +3243,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-slash.svg)
+  /// The `calendarSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarSlash` no estilo Bold.
+  ///
+  /// ![calendar-slash](https://api.iconify.design/ph/calendar-slash-bold.svg?height=32&color=%23888888)
   static const IconData calendarSlash = IconData(
     0xea12,
     fontFamily: 'PhosphorBold',
@@ -2175,7 +3255,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-star.svg)
+  /// The `calendarStar` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarStar` no estilo Bold.
+  ///
+  /// ![calendar-star](https://api.iconify.design/ph/calendar-star-bold.svg?height=32&color=%23888888)
   static const IconData calendarStar = IconData(
     0xe8b2,
     fontFamily: 'PhosphorBold',
@@ -2183,7 +3267,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![calendar-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/calendar-x.svg)
+  /// The `calendarX` icon in Bold style.
+  ///
+  /// [PT] O ícone `calendarX` no estilo Bold.
+  ///
+  /// ![calendar-x](https://api.iconify.design/ph/calendar-x-bold.svg?height=32&color=%23888888)
   static const IconData calendarX = IconData(
     0xe10c,
     fontFamily: 'PhosphorBold',
@@ -2191,7 +3279,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![call-bell](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/call-bell.svg)
+  /// The `callBell` icon in Bold style.
+  ///
+  /// [PT] O ícone `callBell` no estilo Bold.
+  ///
+  /// ![call-bell](https://api.iconify.design/ph/call-bell-bold.svg?height=32&color=%23888888)
   static const IconData callBell = IconData(
     0xe7de,
     fontFamily: 'PhosphorBold',
@@ -2199,7 +3291,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera.svg)
+  /// The `camera` icon in Bold style.
+  ///
+  /// [PT] O ícone `camera` no estilo Bold.
+  ///
+  /// ![camera](https://api.iconify.design/ph/camera-bold.svg?height=32&color=%23888888)
   static const IconData camera = IconData(
     0xe10e,
     fontFamily: 'PhosphorBold',
@@ -2207,7 +3303,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![camera-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-plus.svg)
+  /// The `cameraPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `cameraPlus` no estilo Bold.
+  ///
+  /// ![camera-plus](https://api.iconify.design/ph/camera-plus-bold.svg?height=32&color=%23888888)
   static const IconData cameraPlus = IconData(
     0xec58,
     fontFamily: 'PhosphorBold',
@@ -2215,7 +3315,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![camera-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-rotate.svg)
+  /// The `cameraRotate` icon in Bold style.
+  ///
+  /// [PT] O ícone `cameraRotate` no estilo Bold.
+  ///
+  /// ![camera-rotate](https://api.iconify.design/ph/camera-rotate-bold.svg?height=32&color=%23888888)
   static const IconData cameraRotate = IconData(
     0xe7a4,
     fontFamily: 'PhosphorBold',
@@ -2223,7 +3327,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/camera-slash.svg)
+  /// The `cameraSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `cameraSlash` no estilo Bold.
+  ///
+  /// ![camera-slash](https://api.iconify.design/ph/camera-slash-bold.svg?height=32&color=%23888888)
   static const IconData cameraSlash = IconData(
     0xe110,
     fontFamily: 'PhosphorBold',
@@ -2231,7 +3339,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![campfire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/campfire.svg)
+  /// The `campfire` icon in Bold style.
+  ///
+  /// [PT] O ícone `campfire` no estilo Bold.
+  ///
+  /// ![campfire](https://api.iconify.design/ph/campfire-bold.svg?height=32&color=%23888888)
   static const IconData campfire = IconData(
     0xe9d8,
     fontFamily: 'PhosphorBold',
@@ -2239,7 +3351,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car.svg)
+  /// The `car` icon in Bold style.
+  ///
+  /// [PT] O ícone `car` no estilo Bold.
+  ///
+  /// ![car](https://api.iconify.design/ph/car-bold.svg?height=32&color=%23888888)
   static const IconData car = IconData(
     0xe112,
     fontFamily: 'PhosphorBold',
@@ -2247,7 +3363,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![car-battery](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-battery.svg)
+  /// The `carBattery` icon in Bold style.
+  ///
+  /// [PT] O ícone `carBattery` no estilo Bold.
+  ///
+  /// ![car-battery](https://api.iconify.design/ph/car-battery-bold.svg?height=32&color=%23888888)
   static const IconData carBattery = IconData(
     0xee30,
     fontFamily: 'PhosphorBold',
@@ -2255,7 +3375,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![car-profile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-profile.svg)
+  /// The `carProfile` icon in Bold style.
+  ///
+  /// [PT] O ícone `carProfile` no estilo Bold.
+  ///
+  /// ![car-profile](https://api.iconify.design/ph/car-profile-bold.svg?height=32&color=%23888888)
   static const IconData carProfile = IconData(
     0xe8cc,
     fontFamily: 'PhosphorBold',
@@ -2263,7 +3387,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![car-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/car-simple.svg)
+  /// The `carSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `carSimple` no estilo Bold.
+  ///
+  /// ![car-simple](https://api.iconify.design/ph/car-simple-bold.svg?height=32&color=%23888888)
   static const IconData carSimple = IconData(
     0xe114,
     fontFamily: 'PhosphorBold',
@@ -2271,7 +3399,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cardholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cardholder.svg)
+  /// The `cardholder` icon in Bold style.
+  ///
+  /// [PT] O ícone `cardholder` no estilo Bold.
+  ///
+  /// ![cardholder](https://api.iconify.design/ph/cardholder-bold.svg?height=32&color=%23888888)
   static const IconData cardholder = IconData(
     0xe5fa,
     fontFamily: 'PhosphorBold',
@@ -2279,7 +3411,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cards](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards.svg)
+  /// The `cards` icon in Bold style.
+  ///
+  /// [PT] O ícone `cards` no estilo Bold.
+  ///
+  /// ![cards](https://api.iconify.design/ph/cards-bold.svg?height=32&color=%23888888)
   static const IconData cards = IconData(
     0xe0f8,
     fontFamily: 'PhosphorBold',
@@ -2287,7 +3423,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cards-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cards-three.svg)
+  /// The `cardsThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `cardsThree` no estilo Bold.
+  ///
+  /// ![cards-three](https://api.iconify.design/ph/cards-three-bold.svg?height=32&color=%23888888)
   static const IconData cardsThree = IconData(
     0xee50,
     fontFamily: 'PhosphorBold',
@@ -2295,7 +3435,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-down.svg)
+  /// The `caretCircleDoubleDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleDown` no estilo Bold.
+  ///
+  /// ![caret-circle-double-down](https://api.iconify.design/ph/caret-circle-double-down-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleDown = IconData(
     0xe116,
     fontFamily: 'PhosphorBold',
@@ -2303,7 +3447,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-left.svg)
+  /// The `caretCircleDoubleLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleLeft` no estilo Bold.
+  ///
+  /// ![caret-circle-double-left](https://api.iconify.design/ph/caret-circle-double-left-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleLeft = IconData(
     0xe118,
     fontFamily: 'PhosphorBold',
@@ -2311,7 +3459,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-right.svg)
+  /// The `caretCircleDoubleRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleRight` no estilo Bold.
+  ///
+  /// ![caret-circle-double-right](https://api.iconify.design/ph/caret-circle-double-right-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleRight = IconData(
     0xe11a,
     fontFamily: 'PhosphorBold',
@@ -2319,7 +3471,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-double-up.svg)
+  /// The `caretCircleDoubleUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleDoubleUp` no estilo Bold.
+  ///
+  /// ![caret-circle-double-up](https://api.iconify.design/ph/caret-circle-double-up-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleDoubleUp = IconData(
     0xe11c,
     fontFamily: 'PhosphorBold',
@@ -2327,7 +3483,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-down.svg)
+  /// The `caretCircleDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleDown` no estilo Bold.
+  ///
+  /// ![caret-circle-down](https://api.iconify.design/ph/caret-circle-down-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleDown = IconData(
     0xe11e,
     fontFamily: 'PhosphorBold',
@@ -2335,7 +3495,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-left.svg)
+  /// The `caretCircleLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleLeft` no estilo Bold.
+  ///
+  /// ![caret-circle-left](https://api.iconify.design/ph/caret-circle-left-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleLeft = IconData(
     0xe120,
     fontFamily: 'PhosphorBold',
@@ -2343,7 +3507,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-right.svg)
+  /// The `caretCircleRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleRight` no estilo Bold.
+  ///
+  /// ![caret-circle-right](https://api.iconify.design/ph/caret-circle-right-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleRight = IconData(
     0xe122,
     fontFamily: 'PhosphorBold',
@@ -2351,7 +3519,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up.svg)
+  /// The `caretCircleUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleUp` no estilo Bold.
+  ///
+  /// ![caret-circle-up](https://api.iconify.design/ph/caret-circle-up-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleUp = IconData(
     0xe124,
     fontFamily: 'PhosphorBold',
@@ -2359,7 +3531,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-circle-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-circle-up-down.svg)
+  /// The `caretCircleUpDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretCircleUpDown` no estilo Bold.
+  ///
+  /// ![caret-circle-up-down](https://api.iconify.design/ph/caret-circle-up-down-bold.svg?height=32&color=%23888888)
   static const IconData caretCircleUpDown = IconData(
     0xe13e,
     fontFamily: 'PhosphorBold',
@@ -2367,7 +3543,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-double-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-down.svg)
+  /// The `caretDoubleDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretDoubleDown` no estilo Bold.
+  ///
+  /// ![caret-double-down](https://api.iconify.design/ph/caret-double-down-bold.svg?height=32&color=%23888888)
   static const IconData caretDoubleDown = IconData(
     0xe126,
     fontFamily: 'PhosphorBold',
@@ -2375,7 +3555,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-double-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-left.svg)
+  /// The `caretDoubleLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretDoubleLeft` no estilo Bold.
+  ///
+  /// ![caret-double-left](https://api.iconify.design/ph/caret-double-left-bold.svg?height=32&color=%23888888)
   static const IconData caretDoubleLeft = IconData(
     0xe128,
     fontFamily: 'PhosphorBold',
@@ -2383,7 +3567,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-double-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-right.svg)
+  /// The `caretDoubleRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretDoubleRight` no estilo Bold.
+  ///
+  /// ![caret-double-right](https://api.iconify.design/ph/caret-double-right-bold.svg?height=32&color=%23888888)
   static const IconData caretDoubleRight = IconData(
     0xe12a,
     fontFamily: 'PhosphorBold',
@@ -2391,7 +3579,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-double-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-double-up.svg)
+  /// The `caretDoubleUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretDoubleUp` no estilo Bold.
+  ///
+  /// ![caret-double-up](https://api.iconify.design/ph/caret-double-up-bold.svg?height=32&color=%23888888)
   static const IconData caretDoubleUp = IconData(
     0xe12c,
     fontFamily: 'PhosphorBold',
@@ -2399,7 +3591,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-down.svg)
+  /// The `caretDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretDown` no estilo Bold.
+  ///
+  /// ![caret-down](https://api.iconify.design/ph/caret-down-bold.svg?height=32&color=%23888888)
   static const IconData caretDown = IconData(
     0xe136,
     fontFamily: 'PhosphorBold',
@@ -2407,7 +3603,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-left.svg)
+  /// The `caretLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretLeft` no estilo Bold.
+  ///
+  /// ![caret-left](https://api.iconify.design/ph/caret-left-bold.svg?height=32&color=%23888888)
   static const IconData caretLeft = IconData(
     0xe138,
     fontFamily: 'PhosphorBold',
@@ -2415,7 +3615,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-down.svg)
+  /// The `caretLineDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretLineDown` no estilo Bold.
+  ///
+  /// ![caret-line-down](https://api.iconify.design/ph/caret-line-down-bold.svg?height=32&color=%23888888)
   static const IconData caretLineDown = IconData(
     0xe134,
     fontFamily: 'PhosphorBold',
@@ -2423,7 +3627,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-line-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-left.svg)
+  /// The `caretLineLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretLineLeft` no estilo Bold.
+  ///
+  /// ![caret-line-left](https://api.iconify.design/ph/caret-line-left-bold.svg?height=32&color=%23888888)
   static const IconData caretLineLeft = IconData(
     0xe132,
     fontFamily: 'PhosphorBold',
@@ -2431,7 +3639,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-line-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-right.svg)
+  /// The `caretLineRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretLineRight` no estilo Bold.
+  ///
+  /// ![caret-line-right](https://api.iconify.design/ph/caret-line-right-bold.svg?height=32&color=%23888888)
   static const IconData caretLineRight = IconData(
     0xe130,
     fontFamily: 'PhosphorBold',
@@ -2439,7 +3651,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-line-up.svg)
+  /// The `caretLineUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretLineUp` no estilo Bold.
+  ///
+  /// ![caret-line-up](https://api.iconify.design/ph/caret-line-up-bold.svg?height=32&color=%23888888)
   static const IconData caretLineUp = IconData(
     0xe12e,
     fontFamily: 'PhosphorBold',
@@ -2447,7 +3663,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-right.svg)
+  /// The `caretRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretRight` no estilo Bold.
+  ///
+  /// ![caret-right](https://api.iconify.design/ph/caret-right-bold.svg?height=32&color=%23888888)
   static const IconData caretRight = IconData(
     0xe13a,
     fontFamily: 'PhosphorBold',
@@ -2455,7 +3675,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up.svg)
+  /// The `caretUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretUp` no estilo Bold.
+  ///
+  /// ![caret-up](https://api.iconify.design/ph/caret-up-bold.svg?height=32&color=%23888888)
   static const IconData caretUp = IconData(
     0xe13c,
     fontFamily: 'PhosphorBold',
@@ -2463,7 +3687,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![caret-up-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/caret-up-down.svg)
+  /// The `caretUpDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `caretUpDown` no estilo Bold.
+  ///
+  /// ![caret-up-down](https://api.iconify.design/ph/caret-up-down-bold.svg?height=32&color=%23888888)
   static const IconData caretUpDown = IconData(
     0xe140,
     fontFamily: 'PhosphorBold',
@@ -2471,7 +3699,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![carrot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/carrot.svg)
+  /// The `carrot` icon in Bold style.
+  ///
+  /// [PT] O ícone `carrot` no estilo Bold.
+  ///
+  /// ![carrot](https://api.iconify.design/ph/carrot-bold.svg?height=32&color=%23888888)
   static const IconData carrot = IconData(
     0xed38,
     fontFamily: 'PhosphorBold',
@@ -2479,7 +3711,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cash-register](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cash-register.svg)
+  /// The `cashRegister` icon in Bold style.
+  ///
+  /// [PT] O ícone `cashRegister` no estilo Bold.
+  ///
+  /// ![cash-register](https://api.iconify.design/ph/cash-register-bold.svg?height=32&color=%23888888)
   static const IconData cashRegister = IconData(
     0xed80,
     fontFamily: 'PhosphorBold',
@@ -2487,7 +3723,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cassette-tape](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cassette-tape.svg)
+  /// The `cassetteTape` icon in Bold style.
+  ///
+  /// [PT] O ícone `cassetteTape` no estilo Bold.
+  ///
+  /// ![cassette-tape](https://api.iconify.design/ph/cassette-tape-bold.svg?height=32&color=%23888888)
   static const IconData cassetteTape = IconData(
     0xed2e,
     fontFamily: 'PhosphorBold',
@@ -2495,7 +3735,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![castle-turret](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/castle-turret.svg)
+  /// The `castleTurret` icon in Bold style.
+  ///
+  /// [PT] O ícone `castleTurret` no estilo Bold.
+  ///
+  /// ![castle-turret](https://api.iconify.design/ph/castle-turret-bold.svg?height=32&color=%23888888)
   static const IconData castleTurret = IconData(
     0xe9d0,
     fontFamily: 'PhosphorBold',
@@ -2503,7 +3747,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cat.svg)
+  /// The `cat` icon in Bold style.
+  ///
+  /// [PT] O ícone `cat` no estilo Bold.
+  ///
+  /// ![cat](https://api.iconify.design/ph/cat-bold.svg?height=32&color=%23888888)
   static const IconData cat = IconData(
     0xe748,
     fontFamily: 'PhosphorBold',
@@ -2511,7 +3759,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-signal-full](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-full.svg)
+  /// The `cellSignalFull` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellSignalFull` no estilo Bold.
+  ///
+  /// ![cell-signal-full](https://api.iconify.design/ph/cell-signal-full-bold.svg?height=32&color=%23888888)
   static const IconData cellSignalFull = IconData(
     0xe142,
     fontFamily: 'PhosphorBold',
@@ -2519,7 +3771,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-signal-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-high.svg)
+  /// The `cellSignalHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellSignalHigh` no estilo Bold.
+  ///
+  /// ![cell-signal-high](https://api.iconify.design/ph/cell-signal-high-bold.svg?height=32&color=%23888888)
   static const IconData cellSignalHigh = IconData(
     0xe144,
     fontFamily: 'PhosphorBold',
@@ -2527,7 +3783,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-signal-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-low.svg)
+  /// The `cellSignalLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellSignalLow` no estilo Bold.
+  ///
+  /// ![cell-signal-low](https://api.iconify.design/ph/cell-signal-low-bold.svg?height=32&color=%23888888)
   static const IconData cellSignalLow = IconData(
     0xe146,
     fontFamily: 'PhosphorBold',
@@ -2535,7 +3795,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-signal-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-medium.svg)
+  /// The `cellSignalMedium` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellSignalMedium` no estilo Bold.
+  ///
+  /// ![cell-signal-medium](https://api.iconify.design/ph/cell-signal-medium-bold.svg?height=32&color=%23888888)
   static const IconData cellSignalMedium = IconData(
     0xe148,
     fontFamily: 'PhosphorBold',
@@ -2543,7 +3807,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-signal-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-none.svg)
+  /// The `cellSignalNone` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellSignalNone` no estilo Bold.
+  ///
+  /// ![cell-signal-none](https://api.iconify.design/ph/cell-signal-none-bold.svg?height=32&color=%23888888)
   static const IconData cellSignalNone = IconData(
     0xe14a,
     fontFamily: 'PhosphorBold',
@@ -2551,7 +3819,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-signal-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-slash.svg)
+  /// The `cellSignalSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellSignalSlash` no estilo Bold.
+  ///
+  /// ![cell-signal-slash](https://api.iconify.design/ph/cell-signal-slash-bold.svg?height=32&color=%23888888)
   static const IconData cellSignalSlash = IconData(
     0xe14c,
     fontFamily: 'PhosphorBold',
@@ -2559,7 +3831,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-signal-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-signal-x.svg)
+  /// The `cellSignalX` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellSignalX` no estilo Bold.
+  ///
+  /// ![cell-signal-x](https://api.iconify.design/ph/cell-signal-x-bold.svg?height=32&color=%23888888)
   static const IconData cellSignalX = IconData(
     0xe14e,
     fontFamily: 'PhosphorBold',
@@ -2567,7 +3843,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cell-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cell-tower.svg)
+  /// The `cellTower` icon in Bold style.
+  ///
+  /// [PT] O ícone `cellTower` no estilo Bold.
+  ///
+  /// ![cell-tower](https://api.iconify.design/ph/cell-tower-bold.svg?height=32&color=%23888888)
   static const IconData cellTower = IconData(
     0xebaa,
     fontFamily: 'PhosphorBold',
@@ -2575,7 +3855,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![certificate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/certificate.svg)
+  /// The `certificate` icon in Bold style.
+  ///
+  /// [PT] O ícone `certificate` no estilo Bold.
+  ///
+  /// ![certificate](https://api.iconify.design/ph/certificate-bold.svg?height=32&color=%23888888)
   static const IconData certificate = IconData(
     0xe766,
     fontFamily: 'PhosphorBold',
@@ -2583,7 +3867,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chair.svg)
+  /// The `chair` icon in Bold style.
+  ///
+  /// [PT] O ícone `chair` no estilo Bold.
+  ///
+  /// ![chair](https://api.iconify.design/ph/chair-bold.svg?height=32&color=%23888888)
   static const IconData chair = IconData(
     0xe950,
     fontFamily: 'PhosphorBold',
@@ -2591,7 +3879,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chalkboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard.svg)
+  /// The `chalkboard` icon in Bold style.
+  ///
+  /// [PT] O ícone `chalkboard` no estilo Bold.
+  ///
+  /// ![chalkboard](https://api.iconify.design/ph/chalkboard-bold.svg?height=32&color=%23888888)
   static const IconData chalkboard = IconData(
     0xe5fc,
     fontFamily: 'PhosphorBold',
@@ -2599,7 +3891,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chalkboard-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-simple.svg)
+  /// The `chalkboardSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `chalkboardSimple` no estilo Bold.
+  ///
+  /// ![chalkboard-simple](https://api.iconify.design/ph/chalkboard-simple-bold.svg?height=32&color=%23888888)
   static const IconData chalkboardSimple = IconData(
     0xe5fe,
     fontFamily: 'PhosphorBold',
@@ -2607,7 +3903,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chalkboard-teacher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chalkboard-teacher.svg)
+  /// The `chalkboardTeacher` icon in Bold style.
+  ///
+  /// [PT] O ícone `chalkboardTeacher` no estilo Bold.
+  ///
+  /// ![chalkboard-teacher](https://api.iconify.design/ph/chalkboard-teacher-bold.svg?height=32&color=%23888888)
   static const IconData chalkboardTeacher = IconData(
     0xe600,
     fontFamily: 'PhosphorBold',
@@ -2615,7 +3915,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![champagne](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/champagne.svg)
+  /// The `champagne` icon in Bold style.
+  ///
+  /// [PT] O ícone `champagne` no estilo Bold.
+  ///
+  /// ![champagne](https://api.iconify.design/ph/champagne-bold.svg?height=32&color=%23888888)
   static const IconData champagne = IconData(
     0xeaca,
     fontFamily: 'PhosphorBold',
@@ -2623,7 +3927,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![charging-station](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/charging-station.svg)
+  /// The `chargingStation` icon in Bold style.
+  ///
+  /// [PT] O ícone `chargingStation` no estilo Bold.
+  ///
+  /// ![charging-station](https://api.iconify.design/ph/charging-station-bold.svg?height=32&color=%23888888)
   static const IconData chargingStation = IconData(
     0xe8d0,
     fontFamily: 'PhosphorBold',
@@ -2631,7 +3939,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-bar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar.svg)
+  /// The `chartBar` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartBar` no estilo Bold.
+  ///
+  /// ![chart-bar](https://api.iconify.design/ph/chart-bar-bold.svg?height=32&color=%23888888)
   static const IconData chartBar = IconData(
     0xe150,
     fontFamily: 'PhosphorBold',
@@ -2639,7 +3951,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-bar-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-bar-horizontal.svg)
+  /// The `chartBarHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartBarHorizontal` no estilo Bold.
+  ///
+  /// ![chart-bar-horizontal](https://api.iconify.design/ph/chart-bar-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData chartBarHorizontal = IconData(
     0xe152,
     fontFamily: 'PhosphorBold',
@@ -2647,7 +3963,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-donut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-donut.svg)
+  /// The `chartDonut` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartDonut` no estilo Bold.
+  ///
+  /// ![chart-donut](https://api.iconify.design/ph/chart-donut-bold.svg?height=32&color=%23888888)
   static const IconData chartDonut = IconData(
     0xeaa6,
     fontFamily: 'PhosphorBold',
@@ -2655,7 +3975,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line.svg)
+  /// The `chartLine` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartLine` no estilo Bold.
+  ///
+  /// ![chart-line](https://api.iconify.design/ph/chart-line-bold.svg?height=32&color=%23888888)
   static const IconData chartLine = IconData(
     0xe154,
     fontFamily: 'PhosphorBold',
@@ -2663,7 +3987,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-line-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-down.svg)
+  /// The `chartLineDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartLineDown` no estilo Bold.
+  ///
+  /// ![chart-line-down](https://api.iconify.design/ph/chart-line-down-bold.svg?height=32&color=%23888888)
   static const IconData chartLineDown = IconData(
     0xe8b6,
     fontFamily: 'PhosphorBold',
@@ -2671,7 +3999,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-line-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-line-up.svg)
+  /// The `chartLineUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartLineUp` no estilo Bold.
+  ///
+  /// ![chart-line-up](https://api.iconify.design/ph/chart-line-up-bold.svg?height=32&color=%23888888)
   static const IconData chartLineUp = IconData(
     0xe156,
     fontFamily: 'PhosphorBold',
@@ -2679,7 +4011,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-pie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie.svg)
+  /// The `chartPie` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartPie` no estilo Bold.
+  ///
+  /// ![chart-pie](https://api.iconify.design/ph/chart-pie-bold.svg?height=32&color=%23888888)
   static const IconData chartPie = IconData(
     0xe158,
     fontFamily: 'PhosphorBold',
@@ -2687,7 +4023,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-pie-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-pie-slice.svg)
+  /// The `chartPieSlice` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartPieSlice` no estilo Bold.
+  ///
+  /// ![chart-pie-slice](https://api.iconify.design/ph/chart-pie-slice-bold.svg?height=32&color=%23888888)
   static const IconData chartPieSlice = IconData(
     0xe15a,
     fontFamily: 'PhosphorBold',
@@ -2695,7 +4035,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-polar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-polar.svg)
+  /// The `chartPolar` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartPolar` no estilo Bold.
+  ///
+  /// ![chart-polar](https://api.iconify.design/ph/chart-polar-bold.svg?height=32&color=%23888888)
   static const IconData chartPolar = IconData(
     0xeaa8,
     fontFamily: 'PhosphorBold',
@@ -2703,7 +4047,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chart-scatter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chart-scatter.svg)
+  /// The `chartScatter` icon in Bold style.
+  ///
+  /// [PT] O ícone `chartScatter` no estilo Bold.
+  ///
+  /// ![chart-scatter](https://api.iconify.design/ph/chart-scatter-bold.svg?height=32&color=%23888888)
   static const IconData chartScatter = IconData(
     0xeaac,
     fontFamily: 'PhosphorBold',
@@ -2711,7 +4059,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat.svg)
+  /// The `chat` icon in Bold style.
+  ///
+  /// [PT] O ícone `chat` no estilo Bold.
+  ///
+  /// ![chat](https://api.iconify.design/ph/chat-bold.svg?height=32&color=%23888888)
   static const IconData chat = IconData(
     0xe15c,
     fontFamily: 'PhosphorBold',
@@ -2719,7 +4071,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-centered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered.svg)
+  /// The `chatCentered` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCentered` no estilo Bold.
+  ///
+  /// ![chat-centered](https://api.iconify.design/ph/chat-centered-bold.svg?height=32&color=%23888888)
   static const IconData chatCentered = IconData(
     0xe160,
     fontFamily: 'PhosphorBold',
@@ -2727,7 +4083,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-centered-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-dots.svg)
+  /// The `chatCenteredDots` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCenteredDots` no estilo Bold.
+  ///
+  /// ![chat-centered-dots](https://api.iconify.design/ph/chat-centered-dots-bold.svg?height=32&color=%23888888)
   static const IconData chatCenteredDots = IconData(
     0xe164,
     fontFamily: 'PhosphorBold',
@@ -2735,7 +4095,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-centered-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-slash.svg)
+  /// The `chatCenteredSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCenteredSlash` no estilo Bold.
+  ///
+  /// ![chat-centered-slash](https://api.iconify.design/ph/chat-centered-slash-bold.svg?height=32&color=%23888888)
   static const IconData chatCenteredSlash = IconData(
     0xe162,
     fontFamily: 'PhosphorBold',
@@ -2743,7 +4107,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-centered-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-centered-text.svg)
+  /// The `chatCenteredText` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCenteredText` no estilo Bold.
+  ///
+  /// ![chat-centered-text](https://api.iconify.design/ph/chat-centered-text-bold.svg?height=32&color=%23888888)
   static const IconData chatCenteredText = IconData(
     0xe166,
     fontFamily: 'PhosphorBold',
@@ -2751,7 +4119,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle.svg)
+  /// The `chatCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCircle` no estilo Bold.
+  ///
+  /// ![chat-circle](https://api.iconify.design/ph/chat-circle-bold.svg?height=32&color=%23888888)
   static const IconData chatCircle = IconData(
     0xe168,
     fontFamily: 'PhosphorBold',
@@ -2759,7 +4131,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-circle-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-dots.svg)
+  /// The `chatCircleDots` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCircleDots` no estilo Bold.
+  ///
+  /// ![chat-circle-dots](https://api.iconify.design/ph/chat-circle-dots-bold.svg?height=32&color=%23888888)
   static const IconData chatCircleDots = IconData(
     0xe16c,
     fontFamily: 'PhosphorBold',
@@ -2767,7 +4143,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-circle-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-slash.svg)
+  /// The `chatCircleSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCircleSlash` no estilo Bold.
+  ///
+  /// ![chat-circle-slash](https://api.iconify.design/ph/chat-circle-slash-bold.svg?height=32&color=%23888888)
   static const IconData chatCircleSlash = IconData(
     0xe16a,
     fontFamily: 'PhosphorBold',
@@ -2775,7 +4155,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-circle-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-circle-text.svg)
+  /// The `chatCircleText` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatCircleText` no estilo Bold.
+  ///
+  /// ![chat-circle-text](https://api.iconify.design/ph/chat-circle-text-bold.svg?height=32&color=%23888888)
   static const IconData chatCircleText = IconData(
     0xe16e,
     fontFamily: 'PhosphorBold',
@@ -2783,7 +4167,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-dots.svg)
+  /// The `chatDots` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatDots` no estilo Bold.
+  ///
+  /// ![chat-dots](https://api.iconify.design/ph/chat-dots-bold.svg?height=32&color=%23888888)
   static const IconData chatDots = IconData(
     0xe170,
     fontFamily: 'PhosphorBold',
@@ -2791,7 +4179,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-slash.svg)
+  /// The `chatSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatSlash` no estilo Bold.
+  ///
+  /// ![chat-slash](https://api.iconify.design/ph/chat-slash-bold.svg?height=32&color=%23888888)
   static const IconData chatSlash = IconData(
     0xe15e,
     fontFamily: 'PhosphorBold',
@@ -2799,7 +4191,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop.svg)
+  /// The `chatTeardrop` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatTeardrop` no estilo Bold.
+  ///
+  /// ![chat-teardrop](https://api.iconify.design/ph/chat-teardrop-bold.svg?height=32&color=%23888888)
   static const IconData chatTeardrop = IconData(
     0xe172,
     fontFamily: 'PhosphorBold',
@@ -2807,7 +4203,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-teardrop-dots](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-dots.svg)
+  /// The `chatTeardropDots` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatTeardropDots` no estilo Bold.
+  ///
+  /// ![chat-teardrop-dots](https://api.iconify.design/ph/chat-teardrop-dots-bold.svg?height=32&color=%23888888)
   static const IconData chatTeardropDots = IconData(
     0xe176,
     fontFamily: 'PhosphorBold',
@@ -2815,7 +4215,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-teardrop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-slash.svg)
+  /// The `chatTeardropSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatTeardropSlash` no estilo Bold.
+  ///
+  /// ![chat-teardrop-slash](https://api.iconify.design/ph/chat-teardrop-slash-bold.svg?height=32&color=%23888888)
   static const IconData chatTeardropSlash = IconData(
     0xe174,
     fontFamily: 'PhosphorBold',
@@ -2823,7 +4227,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-teardrop-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-teardrop-text.svg)
+  /// The `chatTeardropText` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatTeardropText` no estilo Bold.
+  ///
+  /// ![chat-teardrop-text](https://api.iconify.design/ph/chat-teardrop-text-bold.svg?height=32&color=%23888888)
   static const IconData chatTeardropText = IconData(
     0xe178,
     fontFamily: 'PhosphorBold',
@@ -2831,7 +4239,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chat-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chat-text.svg)
+  /// The `chatText` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatText` no estilo Bold.
+  ///
+  /// ![chat-text](https://api.iconify.design/ph/chat-text-bold.svg?height=32&color=%23888888)
   static const IconData chatText = IconData(
     0xe17a,
     fontFamily: 'PhosphorBold',
@@ -2839,7 +4251,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chats](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats.svg)
+  /// The `chats` icon in Bold style.
+  ///
+  /// [PT] O ícone `chats` no estilo Bold.
+  ///
+  /// ![chats](https://api.iconify.design/ph/chats-bold.svg?height=32&color=%23888888)
   static const IconData chats = IconData(
     0xe17c,
     fontFamily: 'PhosphorBold',
@@ -2847,7 +4263,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chats-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-circle.svg)
+  /// The `chatsCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatsCircle` no estilo Bold.
+  ///
+  /// ![chats-circle](https://api.iconify.design/ph/chats-circle-bold.svg?height=32&color=%23888888)
   static const IconData chatsCircle = IconData(
     0xe17e,
     fontFamily: 'PhosphorBold',
@@ -2855,7 +4275,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chats-teardrop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chats-teardrop.svg)
+  /// The `chatsTeardrop` icon in Bold style.
+  ///
+  /// [PT] O ícone `chatsTeardrop` no estilo Bold.
+  ///
+  /// ![chats-teardrop](https://api.iconify.design/ph/chats-teardrop-bold.svg?height=32&color=%23888888)
   static const IconData chatsTeardrop = IconData(
     0xe180,
     fontFamily: 'PhosphorBold',
@@ -2863,7 +4287,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check.svg)
+  /// The `check` icon in Bold style.
+  ///
+  /// [PT] O ícone `check` no estilo Bold.
+  ///
+  /// ![check](https://api.iconify.design/ph/check-bold.svg?height=32&color=%23888888)
   static const IconData check = IconData(
     0xe182,
     fontFamily: 'PhosphorBold',
@@ -2871,7 +4299,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![check-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-circle.svg)
+  /// The `checkCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `checkCircle` no estilo Bold.
+  ///
+  /// ![check-circle](https://api.iconify.design/ph/check-circle-bold.svg?height=32&color=%23888888)
   static const IconData checkCircle = IconData(
     0xe184,
     fontFamily: 'PhosphorBold',
@@ -2879,7 +4311,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![check-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-fat.svg)
+  /// The `checkFat` icon in Bold style.
+  ///
+  /// [PT] O ícone `checkFat` no estilo Bold.
+  ///
+  /// ![check-fat](https://api.iconify.design/ph/check-fat-bold.svg?height=32&color=%23888888)
   static const IconData checkFat = IconData(
     0xeba6,
     fontFamily: 'PhosphorBold',
@@ -2887,7 +4323,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![check-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square.svg)
+  /// The `checkSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `checkSquare` no estilo Bold.
+  ///
+  /// ![check-square](https://api.iconify.design/ph/check-square-bold.svg?height=32&color=%23888888)
   static const IconData checkSquare = IconData(
     0xe186,
     fontFamily: 'PhosphorBold',
@@ -2895,7 +4335,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![check-square-offset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/check-square-offset.svg)
+  /// The `checkSquareOffset` icon in Bold style.
+  ///
+  /// [PT] O ícone `checkSquareOffset` no estilo Bold.
+  ///
+  /// ![check-square-offset](https://api.iconify.design/ph/check-square-offset-bold.svg?height=32&color=%23888888)
   static const IconData checkSquareOffset = IconData(
     0xe188,
     fontFamily: 'PhosphorBold',
@@ -2903,7 +4347,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![checkerboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checkerboard.svg)
+  /// The `checkerboard` icon in Bold style.
+  ///
+  /// [PT] O ícone `checkerboard` no estilo Bold.
+  ///
+  /// ![checkerboard](https://api.iconify.design/ph/checkerboard-bold.svg?height=32&color=%23888888)
   static const IconData checkerboard = IconData(
     0xe8c4,
     fontFamily: 'PhosphorBold',
@@ -2911,7 +4359,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/checks.svg)
+  /// The `checks` icon in Bold style.
+  ///
+  /// [PT] O ícone `checks` no estilo Bold.
+  ///
+  /// ![checks](https://api.iconify.design/ph/checks-bold.svg?height=32&color=%23888888)
   static const IconData checks = IconData(
     0xe53a,
     fontFamily: 'PhosphorBold',
@@ -2919,7 +4371,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cheers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheers.svg)
+  /// The `cheers` icon in Bold style.
+  ///
+  /// [PT] O ícone `cheers` no estilo Bold.
+  ///
+  /// ![cheers](https://api.iconify.design/ph/cheers-bold.svg?height=32&color=%23888888)
   static const IconData cheers = IconData(
     0xea4a,
     fontFamily: 'PhosphorBold',
@@ -2927,7 +4383,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cheese](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cheese.svg)
+  /// The `cheese` icon in Bold style.
+  ///
+  /// [PT] O ícone `cheese` no estilo Bold.
+  ///
+  /// ![cheese](https://api.iconify.design/ph/cheese-bold.svg?height=32&color=%23888888)
   static const IconData cheese = IconData(
     0xe9fe,
     fontFamily: 'PhosphorBold',
@@ -2935,7 +4395,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![chef-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/chef-hat.svg)
+  /// The `chefHat` icon in Bold style.
+  ///
+  /// [PT] O ícone `chefHat` no estilo Bold.
+  ///
+  /// ![chef-hat](https://api.iconify.design/ph/chef-hat-bold.svg?height=32&color=%23888888)
   static const IconData chefHat = IconData(
     0xed8e,
     fontFamily: 'PhosphorBold',
@@ -2943,7 +4407,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cherries](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cherries.svg)
+  /// The `cherries` icon in Bold style.
+  ///
+  /// [PT] O ícone `cherries` no estilo Bold.
+  ///
+  /// ![cherries](https://api.iconify.design/ph/cherries-bold.svg?height=32&color=%23888888)
   static const IconData cherries = IconData(
     0xe830,
     fontFamily: 'PhosphorBold',
@@ -2951,7 +4419,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![church](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/church.svg)
+  /// The `church` icon in Bold style.
+  ///
+  /// [PT] O ícone `church` no estilo Bold.
+  ///
+  /// ![church](https://api.iconify.design/ph/church-bold.svg?height=32&color=%23888888)
   static const IconData church = IconData(
     0xecea,
     fontFamily: 'PhosphorBold',
@@ -2959,7 +4431,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cigarette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette.svg)
+  /// The `cigarette` icon in Bold style.
+  ///
+  /// [PT] O ícone `cigarette` no estilo Bold.
+  ///
+  /// ![cigarette](https://api.iconify.design/ph/cigarette-bold.svg?height=32&color=%23888888)
   static const IconData cigarette = IconData(
     0xed90,
     fontFamily: 'PhosphorBold',
@@ -2967,7 +4443,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cigarette-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cigarette-slash.svg)
+  /// The `cigaretteSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `cigaretteSlash` no estilo Bold.
+  ///
+  /// ![cigarette-slash](https://api.iconify.design/ph/cigarette-slash-bold.svg?height=32&color=%23888888)
   static const IconData cigaretteSlash = IconData(
     0xed92,
     fontFamily: 'PhosphorBold',
@@ -2975,7 +4455,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle.svg)
+  /// The `circle` icon in Bold style.
+  ///
+  /// [PT] O ícone `circle` no estilo Bold.
+  ///
+  /// ![circle](https://api.iconify.design/ph/circle-bold.svg?height=32&color=%23888888)
   static const IconData circle = IconData(
     0xe18a,
     fontFamily: 'PhosphorBold',
@@ -2983,7 +4467,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-dashed.svg)
+  /// The `circleDashed` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleDashed` no estilo Bold.
+  ///
+  /// ![circle-dashed](https://api.iconify.design/ph/circle-dashed-bold.svg?height=32&color=%23888888)
   static const IconData circleDashed = IconData(
     0xe602,
     fontFamily: 'PhosphorBold',
@@ -2991,7 +4479,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half.svg)
+  /// The `circleHalf` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleHalf` no estilo Bold.
+  ///
+  /// ![circle-half](https://api.iconify.design/ph/circle-half-bold.svg?height=32&color=%23888888)
   static const IconData circleHalf = IconData(
     0xe18c,
     fontFamily: 'PhosphorBold',
@@ -2999,7 +4491,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-half-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-half-tilt.svg)
+  /// The `circleHalfTilt` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleHalfTilt` no estilo Bold.
+  ///
+  /// ![circle-half-tilt](https://api.iconify.design/ph/circle-half-tilt-bold.svg?height=32&color=%23888888)
   static const IconData circleHalfTilt = IconData(
     0xe18e,
     fontFamily: 'PhosphorBold',
@@ -3007,7 +4503,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-notch.svg)
+  /// The `circleNotch` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleNotch` no estilo Bold.
+  ///
+  /// ![circle-notch](https://api.iconify.design/ph/circle-notch-bold.svg?height=32&color=%23888888)
   static const IconData circleNotch = IconData(
     0xeb44,
     fontFamily: 'PhosphorBold',
@@ -3015,7 +4515,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-wavy.svg)
+  /// The `circleWavy` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleWavy` no estilo Bold.
+  ///
+  /// ![circle-wavy](https://api.iconify.design/ph/seal-bold.svg?height=32&color=%23888888)
   static const IconData circleWavy = IconData(
     0xe604,
     fontFamily: 'PhosphorBold',
@@ -3023,7 +4527,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-wavy-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-wavy-check.svg)
+  /// The `circleWavyCheck` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleWavyCheck` no estilo Bold.
+  ///
+  /// ![circle-wavy-check](https://api.iconify.design/ph/seal-check-bold.svg?height=32&color=%23888888)
   static const IconData circleWavyCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorBold',
@@ -3031,7 +4539,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-wavy-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-wavy-question.svg)
+  /// The `circleWavyQuestion` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleWavyQuestion` no estilo Bold.
+  ///
+  /// ![circle-wavy-question](https://api.iconify.design/ph/seal-question-bold.svg?height=32&color=%23888888)
   static const IconData circleWavyQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorBold',
@@ -3039,7 +4551,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circle-wavy-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circle-wavy-warning.svg)
+  /// The `circleWavyWarning` icon in Bold style.
+  ///
+  /// [PT] O ícone `circleWavyWarning` no estilo Bold.
+  ///
+  /// ![circle-wavy-warning](https://api.iconify.design/ph/seal-warning-bold.svg?height=32&color=%23888888)
   static const IconData circleWavyWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorBold',
@@ -3047,7 +4563,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circles-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-four.svg)
+  /// The `circlesFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `circlesFour` no estilo Bold.
+  ///
+  /// ![circles-four](https://api.iconify.design/ph/circles-four-bold.svg?height=32&color=%23888888)
   static const IconData circlesFour = IconData(
     0xe190,
     fontFamily: 'PhosphorBold',
@@ -3055,7 +4575,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circles-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three.svg)
+  /// The `circlesThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `circlesThree` no estilo Bold.
+  ///
+  /// ![circles-three](https://api.iconify.design/ph/circles-three-bold.svg?height=32&color=%23888888)
   static const IconData circlesThree = IconData(
     0xe192,
     fontFamily: 'PhosphorBold',
@@ -3063,7 +4587,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circles-three-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circles-three-plus.svg)
+  /// The `circlesThreePlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `circlesThreePlus` no estilo Bold.
+  ///
+  /// ![circles-three-plus](https://api.iconify.design/ph/circles-three-plus-bold.svg?height=32&color=%23888888)
   static const IconData circlesThreePlus = IconData(
     0xe194,
     fontFamily: 'PhosphorBold',
@@ -3071,7 +4599,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![circuitry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/circuitry.svg)
+  /// The `circuitry` icon in Bold style.
+  ///
+  /// [PT] O ícone `circuitry` no estilo Bold.
+  ///
+  /// ![circuitry](https://api.iconify.design/ph/circuitry-bold.svg?height=32&color=%23888888)
   static const IconData circuitry = IconData(
     0xe9c2,
     fontFamily: 'PhosphorBold',
@@ -3079,7 +4611,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![city](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/city.svg)
+  /// The `city` icon in Bold style.
+  ///
+  /// [PT] O ícone `city` no estilo Bold.
+  ///
+  /// ![city](https://api.iconify.design/ph/city-bold.svg?height=32&color=%23888888)
   static const IconData city = IconData(
     0xea6a,
     fontFamily: 'PhosphorBold',
@@ -3087,7 +4623,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clipboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard.svg)
+  /// The `clipboard` icon in Bold style.
+  ///
+  /// [PT] O ícone `clipboard` no estilo Bold.
+  ///
+  /// ![clipboard](https://api.iconify.design/ph/clipboard-bold.svg?height=32&color=%23888888)
   static const IconData clipboard = IconData(
     0xe196,
     fontFamily: 'PhosphorBold',
@@ -3095,7 +4635,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clipboard-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clipboard-text.svg)
+  /// The `clipboardText` icon in Bold style.
+  ///
+  /// [PT] O ícone `clipboardText` no estilo Bold.
+  ///
+  /// ![clipboard-text](https://api.iconify.design/ph/clipboard-text-bold.svg?height=32&color=%23888888)
   static const IconData clipboardText = IconData(
     0xe198,
     fontFamily: 'PhosphorBold',
@@ -3103,7 +4647,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock.svg)
+  /// The `clock` icon in Bold style.
+  ///
+  /// [PT] O ícone `clock` no estilo Bold.
+  ///
+  /// ![clock](https://api.iconify.design/ph/clock-bold.svg?height=32&color=%23888888)
   static const IconData clock = IconData(
     0xe19a,
     fontFamily: 'PhosphorBold',
@@ -3111,7 +4659,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clock-afternoon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-afternoon.svg)
+  /// The `clockAfternoon` icon in Bold style.
+  ///
+  /// [PT] O ícone `clockAfternoon` no estilo Bold.
+  ///
+  /// ![clock-afternoon](https://api.iconify.design/ph/clock-afternoon-bold.svg?height=32&color=%23888888)
   static const IconData clockAfternoon = IconData(
     0xe19c,
     fontFamily: 'PhosphorBold',
@@ -3119,7 +4671,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clock-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-clockwise.svg)
+  /// The `clockClockwise` icon in Bold style.
+  ///
+  /// [PT] O ícone `clockClockwise` no estilo Bold.
+  ///
+  /// ![clock-clockwise](https://api.iconify.design/ph/clock-clockwise-bold.svg?height=32&color=%23888888)
   static const IconData clockClockwise = IconData(
     0xe19e,
     fontFamily: 'PhosphorBold',
@@ -3127,7 +4683,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clock-countdown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-countdown.svg)
+  /// The `clockCountdown` icon in Bold style.
+  ///
+  /// [PT] O ícone `clockCountdown` no estilo Bold.
+  ///
+  /// ![clock-countdown](https://api.iconify.design/ph/clock-countdown-bold.svg?height=32&color=%23888888)
   static const IconData clockCountdown = IconData(
     0xed2c,
     fontFamily: 'PhosphorBold',
@@ -3135,7 +4695,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clock-counter-clockwise](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-counter-clockwise.svg)
+  /// The `clockCounterClockwise` icon in Bold style.
+  ///
+  /// [PT] O ícone `clockCounterClockwise` no estilo Bold.
+  ///
+  /// ![clock-counter-clockwise](https://api.iconify.design/ph/clock-counter-clockwise-bold.svg?height=32&color=%23888888)
   static const IconData clockCounterClockwise = IconData(
     0xe1a0,
     fontFamily: 'PhosphorBold',
@@ -3143,7 +4707,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clock-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clock-user.svg)
+  /// The `clockUser` icon in Bold style.
+  ///
+  /// [PT] O ícone `clockUser` no estilo Bold.
+  ///
+  /// ![clock-user](https://api.iconify.design/ph/clock-user-bold.svg?height=32&color=%23888888)
   static const IconData clockUser = IconData(
     0xedec,
     fontFamily: 'PhosphorBold',
@@ -3151,7 +4719,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![closed-captioning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/closed-captioning.svg)
+  /// The `closedCaptioning` icon in Bold style.
+  ///
+  /// [PT] O ícone `closedCaptioning` no estilo Bold.
+  ///
+  /// ![closed-captioning](https://api.iconify.design/ph/closed-captioning-bold.svg?height=32&color=%23888888)
   static const IconData closedCaptioning = IconData(
     0xe1a4,
     fontFamily: 'PhosphorBold',
@@ -3159,7 +4731,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud.svg)
+  /// The `cloud` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloud` no estilo Bold.
+  ///
+  /// ![cloud](https://api.iconify.design/ph/cloud-bold.svg?height=32&color=%23888888)
   static const IconData cloud = IconData(
     0xe1aa,
     fontFamily: 'PhosphorBold',
@@ -3167,7 +4743,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-down.svg)
+  /// The `cloudArrowDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudArrowDown` no estilo Bold.
+  ///
+  /// ![cloud-arrow-down](https://api.iconify.design/ph/cloud-arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData cloudArrowDown = IconData(
     0xe1ac,
     fontFamily: 'PhosphorBold',
@@ -3175,7 +4755,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-arrow-up.svg)
+  /// The `cloudArrowUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudArrowUp` no estilo Bold.
+  ///
+  /// ![cloud-arrow-up](https://api.iconify.design/ph/cloud-arrow-up-bold.svg?height=32&color=%23888888)
   static const IconData cloudArrowUp = IconData(
     0xe1ae,
     fontFamily: 'PhosphorBold',
@@ -3183,7 +4767,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-check.svg)
+  /// The `cloudCheck` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudCheck` no estilo Bold.
+  ///
+  /// ![cloud-check](https://api.iconify.design/ph/cloud-check-bold.svg?height=32&color=%23888888)
   static const IconData cloudCheck = IconData(
     0xe1b0,
     fontFamily: 'PhosphorBold',
@@ -3191,7 +4779,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-fog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-fog.svg)
+  /// The `cloudFog` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudFog` no estilo Bold.
+  ///
+  /// ![cloud-fog](https://api.iconify.design/ph/cloud-fog-bold.svg?height=32&color=%23888888)
   static const IconData cloudFog = IconData(
     0xe53c,
     fontFamily: 'PhosphorBold',
@@ -3199,7 +4791,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-lightning.svg)
+  /// The `cloudLightning` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudLightning` no estilo Bold.
+  ///
+  /// ![cloud-lightning](https://api.iconify.design/ph/cloud-lightning-bold.svg?height=32&color=%23888888)
   static const IconData cloudLightning = IconData(
     0xe1b2,
     fontFamily: 'PhosphorBold',
@@ -3207,7 +4803,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-moon.svg)
+  /// The `cloudMoon` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudMoon` no estilo Bold.
+  ///
+  /// ![cloud-moon](https://api.iconify.design/ph/cloud-moon-bold.svg?height=32&color=%23888888)
   static const IconData cloudMoon = IconData(
     0xe53e,
     fontFamily: 'PhosphorBold',
@@ -3215,7 +4815,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-rain](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-rain.svg)
+  /// The `cloudRain` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudRain` no estilo Bold.
+  ///
+  /// ![cloud-rain](https://api.iconify.design/ph/cloud-rain-bold.svg?height=32&color=%23888888)
   static const IconData cloudRain = IconData(
     0xe1b4,
     fontFamily: 'PhosphorBold',
@@ -3223,7 +4827,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-slash.svg)
+  /// The `cloudSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudSlash` no estilo Bold.
+  ///
+  /// ![cloud-slash](https://api.iconify.design/ph/cloud-slash-bold.svg?height=32&color=%23888888)
   static const IconData cloudSlash = IconData(
     0xe1b6,
     fontFamily: 'PhosphorBold',
@@ -3231,7 +4839,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-snow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-snow.svg)
+  /// The `cloudSnow` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudSnow` no estilo Bold.
+  ///
+  /// ![cloud-snow](https://api.iconify.design/ph/cloud-snow-bold.svg?height=32&color=%23888888)
   static const IconData cloudSnow = IconData(
     0xe1b8,
     fontFamily: 'PhosphorBold',
@@ -3239,7 +4851,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-sun.svg)
+  /// The `cloudSun` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudSun` no estilo Bold.
+  ///
+  /// ![cloud-sun](https://api.iconify.design/ph/cloud-sun-bold.svg?height=32&color=%23888888)
   static const IconData cloudSun = IconData(
     0xe540,
     fontFamily: 'PhosphorBold',
@@ -3247,7 +4863,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-warning.svg)
+  /// The `cloudWarning` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudWarning` no estilo Bold.
+  ///
+  /// ![cloud-warning](https://api.iconify.design/ph/cloud-warning-bold.svg?height=32&color=%23888888)
   static const IconData cloudWarning = IconData(
     0xea98,
     fontFamily: 'PhosphorBold',
@@ -3255,7 +4875,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cloud-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cloud-x.svg)
+  /// The `cloudX` icon in Bold style.
+  ///
+  /// [PT] O ícone `cloudX` no estilo Bold.
+  ///
+  /// ![cloud-x](https://api.iconify.design/ph/cloud-x-bold.svg?height=32&color=%23888888)
   static const IconData cloudX = IconData(
     0xea96,
     fontFamily: 'PhosphorBold',
@@ -3263,7 +4887,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![clover](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/clover.svg)
+  /// The `clover` icon in Bold style.
+  ///
+  /// [PT] O ícone `clover` no estilo Bold.
+  ///
+  /// ![clover](https://api.iconify.design/ph/clover-bold.svg?height=32&color=%23888888)
   static const IconData clover = IconData(
     0xedc8,
     fontFamily: 'PhosphorBold',
@@ -3271,7 +4899,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![club](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/club.svg)
+  /// The `club` icon in Bold style.
+  ///
+  /// [PT] O ícone `club` no estilo Bold.
+  ///
+  /// ![club](https://api.iconify.design/ph/club-bold.svg?height=32&color=%23888888)
   static const IconData club = IconData(
     0xe1ba,
     fontFamily: 'PhosphorBold',
@@ -3279,7 +4911,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![coat-hanger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coat-hanger.svg)
+  /// The `coatHanger` icon in Bold style.
+  ///
+  /// [PT] O ícone `coatHanger` no estilo Bold.
+  ///
+  /// ![coat-hanger](https://api.iconify.design/ph/coat-hanger-bold.svg?height=32&color=%23888888)
   static const IconData coatHanger = IconData(
     0xe7fe,
     fontFamily: 'PhosphorBold',
@@ -3287,7 +4923,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![coda-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coda-logo.svg)
+  /// The `codaLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `codaLogo` no estilo Bold.
+  ///
+  /// ![coda-logo](https://api.iconify.design/ph/coda-logo-bold.svg?height=32&color=%23888888)
   static const IconData codaLogo = IconData(
     0xe7ce,
     fontFamily: 'PhosphorBold',
@@ -3295,7 +4935,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code.svg)
+  /// The `code` icon in Bold style.
+  ///
+  /// [PT] O ícone `code` no estilo Bold.
+  ///
+  /// ![code](https://api.iconify.design/ph/code-bold.svg?height=32&color=%23888888)
   static const IconData code = IconData(
     0xe1bc,
     fontFamily: 'PhosphorBold',
@@ -3303,7 +4947,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![code-block](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-block.svg)
+  /// The `codeBlock` icon in Bold style.
+  ///
+  /// [PT] O ícone `codeBlock` no estilo Bold.
+  ///
+  /// ![code-block](https://api.iconify.design/ph/code-block-bold.svg?height=32&color=%23888888)
   static const IconData codeBlock = IconData(
     0xeafe,
     fontFamily: 'PhosphorBold',
@@ -3311,7 +4959,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![code-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/code-simple.svg)
+  /// The `codeSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `codeSimple` no estilo Bold.
+  ///
+  /// ![code-simple](https://api.iconify.design/ph/code-simple-bold.svg?height=32&color=%23888888)
   static const IconData codeSimple = IconData(
     0xe1be,
     fontFamily: 'PhosphorBold',
@@ -3319,7 +4971,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![codepen-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codepen-logo.svg)
+  /// The `codepenLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `codepenLogo` no estilo Bold.
+  ///
+  /// ![codepen-logo](https://api.iconify.design/ph/codepen-logo-bold.svg?height=32&color=%23888888)
   static const IconData codepenLogo = IconData(
     0xe978,
     fontFamily: 'PhosphorBold',
@@ -3327,7 +4983,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![codesandbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/codesandbox-logo.svg)
+  /// The `codesandboxLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `codesandboxLogo` no estilo Bold.
+  ///
+  /// ![codesandbox-logo](https://api.iconify.design/ph/codesandbox-logo-bold.svg?height=32&color=%23888888)
   static const IconData codesandboxLogo = IconData(
     0xea06,
     fontFamily: 'PhosphorBold',
@@ -3335,7 +4995,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![coffee](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee.svg)
+  /// The `coffee` icon in Bold style.
+  ///
+  /// [PT] O ícone `coffee` no estilo Bold.
+  ///
+  /// ![coffee](https://api.iconify.design/ph/coffee-bold.svg?height=32&color=%23888888)
   static const IconData coffee = IconData(
     0xe1c2,
     fontFamily: 'PhosphorBold',
@@ -3343,7 +5007,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![coffee-bean](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coffee-bean.svg)
+  /// The `coffeeBean` icon in Bold style.
+  ///
+  /// [PT] O ícone `coffeeBean` no estilo Bold.
+  ///
+  /// ![coffee-bean](https://api.iconify.design/ph/coffee-bean-bold.svg?height=32&color=%23888888)
   static const IconData coffeeBean = IconData(
     0xe1c0,
     fontFamily: 'PhosphorBold',
@@ -3351,7 +5019,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![coin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin.svg)
+  /// The `coin` icon in Bold style.
+  ///
+  /// [PT] O ícone `coin` no estilo Bold.
+  ///
+  /// ![coin](https://api.iconify.design/ph/coin-bold.svg?height=32&color=%23888888)
   static const IconData coin = IconData(
     0xe60e,
     fontFamily: 'PhosphorBold',
@@ -3359,7 +5031,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![coin-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coin-vertical.svg)
+  /// The `coinVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `coinVertical` no estilo Bold.
+  ///
+  /// ![coin-vertical](https://api.iconify.design/ph/coin-vertical-bold.svg?height=32&color=%23888888)
   static const IconData coinVertical = IconData(
     0xeb48,
     fontFamily: 'PhosphorBold',
@@ -3367,7 +5043,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/coins.svg)
+  /// The `coins` icon in Bold style.
+  ///
+  /// [PT] O ícone `coins` no estilo Bold.
+  ///
+  /// ![coins](https://api.iconify.design/ph/coins-bold.svg?height=32&color=%23888888)
   static const IconData coins = IconData(
     0xe78e,
     fontFamily: 'PhosphorBold',
@@ -3375,7 +5055,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns.svg)
+  /// The `columns` icon in Bold style.
+  ///
+  /// [PT] O ícone `columns` no estilo Bold.
+  ///
+  /// ![columns](https://api.iconify.design/ph/columns-bold.svg?height=32&color=%23888888)
   static const IconData columns = IconData(
     0xe546,
     fontFamily: 'PhosphorBold',
@@ -3383,7 +5067,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![columns-plus-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-left.svg)
+  /// The `columnsPlusLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `columnsPlusLeft` no estilo Bold.
+  ///
+  /// ![columns-plus-left](https://api.iconify.design/ph/columns-plus-left-bold.svg?height=32&color=%23888888)
   static const IconData columnsPlusLeft = IconData(
     0xe544,
     fontFamily: 'PhosphorBold',
@@ -3391,7 +5079,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![columns-plus-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/columns-plus-right.svg)
+  /// The `columnsPlusRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `columnsPlusRight` no estilo Bold.
+  ///
+  /// ![columns-plus-right](https://api.iconify.design/ph/columns-plus-right-bold.svg?height=32&color=%23888888)
   static const IconData columnsPlusRight = IconData(
     0xe542,
     fontFamily: 'PhosphorBold',
@@ -3399,7 +5091,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![command](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/command.svg)
+  /// The `command` icon in Bold style.
+  ///
+  /// [PT] O ícone `command` no estilo Bold.
+  ///
+  /// ![command](https://api.iconify.design/ph/command-bold.svg?height=32&color=%23888888)
   static const IconData command = IconData(
     0xe1c4,
     fontFamily: 'PhosphorBold',
@@ -3407,7 +5103,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![compass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass.svg)
+  /// The `compass` icon in Bold style.
+  ///
+  /// [PT] O ícone `compass` no estilo Bold.
+  ///
+  /// ![compass](https://api.iconify.design/ph/compass-bold.svg?height=32&color=%23888888)
   static const IconData compass = IconData(
     0xe1c8,
     fontFamily: 'PhosphorBold',
@@ -3415,7 +5115,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![compass-rose](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-rose.svg)
+  /// The `compassRose` icon in Bold style.
+  ///
+  /// [PT] O ícone `compassRose` no estilo Bold.
+  ///
+  /// ![compass-rose](https://api.iconify.design/ph/compass-rose-bold.svg?height=32&color=%23888888)
   static const IconData compassRose = IconData(
     0xe1c6,
     fontFamily: 'PhosphorBold',
@@ -3423,7 +5127,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![compass-tool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/compass-tool.svg)
+  /// The `compassTool` icon in Bold style.
+  ///
+  /// [PT] O ícone `compassTool` no estilo Bold.
+  ///
+  /// ![compass-tool](https://api.iconify.design/ph/compass-tool-bold.svg?height=32&color=%23888888)
   static const IconData compassTool = IconData(
     0xea0e,
     fontFamily: 'PhosphorBold',
@@ -3431,7 +5139,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![computer-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/computer-tower.svg)
+  /// The `computerTower` icon in Bold style.
+  ///
+  /// [PT] O ícone `computerTower` no estilo Bold.
+  ///
+  /// ![computer-tower](https://api.iconify.design/ph/computer-tower-bold.svg?height=32&color=%23888888)
   static const IconData computerTower = IconData(
     0xe548,
     fontFamily: 'PhosphorBold',
@@ -3439,7 +5151,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![confetti](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/confetti.svg)
+  /// The `confetti` icon in Bold style.
+  ///
+  /// [PT] O ícone `confetti` no estilo Bold.
+  ///
+  /// ![confetti](https://api.iconify.design/ph/confetti-bold.svg?height=32&color=%23888888)
   static const IconData confetti = IconData(
     0xe81a,
     fontFamily: 'PhosphorBold',
@@ -3447,7 +5163,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![contactless-payment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/contactless-payment.svg)
+  /// The `contactlessPayment` icon in Bold style.
+  ///
+  /// [PT] O ícone `contactlessPayment` no estilo Bold.
+  ///
+  /// ![contactless-payment](https://api.iconify.design/ph/contactless-payment-bold.svg?height=32&color=%23888888)
   static const IconData contactlessPayment = IconData(
     0xed42,
     fontFamily: 'PhosphorBold',
@@ -3455,7 +5175,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![control](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/control.svg)
+  /// The `control` icon in Bold style.
+  ///
+  /// [PT] O ícone `control` no estilo Bold.
+  ///
+  /// ![control](https://api.iconify.design/ph/control-bold.svg?height=32&color=%23888888)
   static const IconData control = IconData(
     0xeca6,
     fontFamily: 'PhosphorBold',
@@ -3463,7 +5187,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cookie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cookie.svg)
+  /// The `cookie` icon in Bold style.
+  ///
+  /// [PT] O ícone `cookie` no estilo Bold.
+  ///
+  /// ![cookie](https://api.iconify.design/ph/cookie-bold.svg?height=32&color=%23888888)
   static const IconData cookie = IconData(
     0xe6ca,
     fontFamily: 'PhosphorBold',
@@ -3471,7 +5199,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cooking-pot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cooking-pot.svg)
+  /// The `cookingPot` icon in Bold style.
+  ///
+  /// [PT] O ícone `cookingPot` no estilo Bold.
+  ///
+  /// ![cooking-pot](https://api.iconify.design/ph/cooking-pot-bold.svg?height=32&color=%23888888)
   static const IconData cookingPot = IconData(
     0xe764,
     fontFamily: 'PhosphorBold',
@@ -3479,7 +5211,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![copy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy.svg)
+  /// The `copy` icon in Bold style.
+  ///
+  /// [PT] O ícone `copy` no estilo Bold.
+  ///
+  /// ![copy](https://api.iconify.design/ph/copy-bold.svg?height=32&color=%23888888)
   static const IconData copy = IconData(
     0xe1ca,
     fontFamily: 'PhosphorBold',
@@ -3487,7 +5223,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![copy-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copy-simple.svg)
+  /// The `copySimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `copySimple` no estilo Bold.
+  ///
+  /// ![copy-simple](https://api.iconify.design/ph/copy-simple-bold.svg?height=32&color=%23888888)
   static const IconData copySimple = IconData(
     0xe1cc,
     fontFamily: 'PhosphorBold',
@@ -3495,7 +5235,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![copyleft](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyleft.svg)
+  /// The `copyleft` icon in Bold style.
+  ///
+  /// [PT] O ícone `copyleft` no estilo Bold.
+  ///
+  /// ![copyleft](https://api.iconify.design/ph/copyleft-bold.svg?height=32&color=%23888888)
   static const IconData copyleft = IconData(
     0xe86a,
     fontFamily: 'PhosphorBold',
@@ -3503,7 +5247,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![copyright](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/copyright.svg)
+  /// The `copyright` icon in Bold style.
+  ///
+  /// [PT] O ícone `copyright` no estilo Bold.
+  ///
+  /// ![copyright](https://api.iconify.design/ph/copyright-bold.svg?height=32&color=%23888888)
   static const IconData copyright = IconData(
     0xe54a,
     fontFamily: 'PhosphorBold',
@@ -3511,7 +5259,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![corners-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-in.svg)
+  /// The `cornersIn` icon in Bold style.
+  ///
+  /// [PT] O ícone `cornersIn` no estilo Bold.
+  ///
+  /// ![corners-in](https://api.iconify.design/ph/corners-in-bold.svg?height=32&color=%23888888)
   static const IconData cornersIn = IconData(
     0xe1ce,
     fontFamily: 'PhosphorBold',
@@ -3519,7 +5271,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![corners-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/corners-out.svg)
+  /// The `cornersOut` icon in Bold style.
+  ///
+  /// [PT] O ícone `cornersOut` no estilo Bold.
+  ///
+  /// ![corners-out](https://api.iconify.design/ph/corners-out-bold.svg?height=32&color=%23888888)
   static const IconData cornersOut = IconData(
     0xe1d0,
     fontFamily: 'PhosphorBold',
@@ -3527,7 +5283,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![couch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/couch.svg)
+  /// The `couch` icon in Bold style.
+  ///
+  /// [PT] O ícone `couch` no estilo Bold.
+  ///
+  /// ![couch](https://api.iconify.design/ph/couch-bold.svg?height=32&color=%23888888)
   static const IconData couch = IconData(
     0xe7f6,
     fontFamily: 'PhosphorBold',
@@ -3535,7 +5295,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![court-basketball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/court-basketball.svg)
+  /// The `courtBasketball` icon in Bold style.
+  ///
+  /// [PT] O ícone `courtBasketball` no estilo Bold.
+  ///
+  /// ![court-basketball](https://api.iconify.design/ph/court-basketball-bold.svg?height=32&color=%23888888)
   static const IconData courtBasketball = IconData(
     0xee36,
     fontFamily: 'PhosphorBold',
@@ -3543,7 +5307,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cow.svg)
+  /// The `cow` icon in Bold style.
+  ///
+  /// [PT] O ícone `cow` no estilo Bold.
+  ///
+  /// ![cow](https://api.iconify.design/ph/cow-bold.svg?height=32&color=%23888888)
   static const IconData cow = IconData(
     0xeabe,
     fontFamily: 'PhosphorBold',
@@ -3551,7 +5319,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cowboy-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cowboy-hat.svg)
+  /// The `cowboyHat` icon in Bold style.
+  ///
+  /// [PT] O ícone `cowboyHat` no estilo Bold.
+  ///
+  /// ![cowboy-hat](https://api.iconify.design/ph/cowboy-hat-bold.svg?height=32&color=%23888888)
   static const IconData cowboyHat = IconData(
     0xed12,
     fontFamily: 'PhosphorBold',
@@ -3559,7 +5331,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cpu](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cpu.svg)
+  /// The `cpu` icon in Bold style.
+  ///
+  /// [PT] O ícone `cpu` no estilo Bold.
+  ///
+  /// ![cpu](https://api.iconify.design/ph/cpu-bold.svg?height=32&color=%23888888)
   static const IconData cpu = IconData(
     0xe610,
     fontFamily: 'PhosphorBold',
@@ -3567,7 +5343,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane.svg)
+  /// The `crane` icon in Bold style.
+  ///
+  /// [PT] O ícone `crane` no estilo Bold.
+  ///
+  /// ![crane](https://api.iconify.design/ph/crane-bold.svg?height=32&color=%23888888)
   static const IconData crane = IconData(
     0xed48,
     fontFamily: 'PhosphorBold',
@@ -3575,7 +5355,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crane-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crane-tower.svg)
+  /// The `craneTower` icon in Bold style.
+  ///
+  /// [PT] O ícone `craneTower` no estilo Bold.
+  ///
+  /// ![crane-tower](https://api.iconify.design/ph/crane-tower-bold.svg?height=32&color=%23888888)
   static const IconData craneTower = IconData(
     0xed49,
     fontFamily: 'PhosphorBold',
@@ -3583,7 +5367,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![credit-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/credit-card.svg)
+  /// The `creditCard` icon in Bold style.
+  ///
+  /// [PT] O ícone `creditCard` no estilo Bold.
+  ///
+  /// ![credit-card](https://api.iconify.design/ph/credit-card-bold.svg?height=32&color=%23888888)
   static const IconData creditCard = IconData(
     0xe1d2,
     fontFamily: 'PhosphorBold',
@@ -3591,7 +5379,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cricket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cricket.svg)
+  /// The `cricket` icon in Bold style.
+  ///
+  /// [PT] O ícone `cricket` no estilo Bold.
+  ///
+  /// ![cricket](https://api.iconify.design/ph/cricket-bold.svg?height=32&color=%23888888)
   static const IconData cricket = IconData(
     0xee12,
     fontFamily: 'PhosphorBold',
@@ -3599,7 +5391,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crop.svg)
+  /// The `crop` icon in Bold style.
+  ///
+  /// [PT] O ícone `crop` no estilo Bold.
+  ///
+  /// ![crop](https://api.iconify.design/ph/crop-bold.svg?height=32&color=%23888888)
   static const IconData crop = IconData(
     0xe1d4,
     fontFamily: 'PhosphorBold',
@@ -3607,7 +5403,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cross.svg)
+  /// The `cross` icon in Bold style.
+  ///
+  /// [PT] O ícone `cross` no estilo Bold.
+  ///
+  /// ![cross](https://api.iconify.design/ph/cross-bold.svg?height=32&color=%23888888)
   static const IconData cross = IconData(
     0xe8a0,
     fontFamily: 'PhosphorBold',
@@ -3615,7 +5415,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crosshair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair.svg)
+  /// The `crosshair` icon in Bold style.
+  ///
+  /// [PT] O ícone `crosshair` no estilo Bold.
+  ///
+  /// ![crosshair](https://api.iconify.design/ph/crosshair-bold.svg?height=32&color=%23888888)
   static const IconData crosshair = IconData(
     0xe1d6,
     fontFamily: 'PhosphorBold',
@@ -3623,7 +5427,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crosshair-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crosshair-simple.svg)
+  /// The `crosshairSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `crosshairSimple` no estilo Bold.
+  ///
+  /// ![crosshair-simple](https://api.iconify.design/ph/crosshair-simple-bold.svg?height=32&color=%23888888)
   static const IconData crosshairSimple = IconData(
     0xe1d8,
     fontFamily: 'PhosphorBold',
@@ -3631,7 +5439,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crown](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown.svg)
+  /// The `crown` icon in Bold style.
+  ///
+  /// [PT] O ícone `crown` no estilo Bold.
+  ///
+  /// ![crown](https://api.iconify.design/ph/crown-bold.svg?height=32&color=%23888888)
   static const IconData crown = IconData(
     0xe614,
     fontFamily: 'PhosphorBold',
@@ -3639,7 +5451,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crown-cross](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-cross.svg)
+  /// The `crownCross` icon in Bold style.
+  ///
+  /// [PT] O ícone `crownCross` no estilo Bold.
+  ///
+  /// ![crown-cross](https://api.iconify.design/ph/crown-cross-bold.svg?height=32&color=%23888888)
   static const IconData crownCross = IconData(
     0xee5e,
     fontFamily: 'PhosphorBold',
@@ -3647,7 +5463,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![crown-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/crown-simple.svg)
+  /// The `crownSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `crownSimple` no estilo Bold.
+  ///
+  /// ![crown-simple](https://api.iconify.design/ph/crown-simple-bold.svg?height=32&color=%23888888)
   static const IconData crownSimple = IconData(
     0xe616,
     fontFamily: 'PhosphorBold',
@@ -3655,7 +5475,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube.svg)
+  /// The `cube` icon in Bold style.
+  ///
+  /// [PT] O ícone `cube` no estilo Bold.
+  ///
+  /// ![cube](https://api.iconify.design/ph/cube-bold.svg?height=32&color=%23888888)
   static const IconData cube = IconData(
     0xe1da,
     fontFamily: 'PhosphorBold',
@@ -3663,7 +5487,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cube-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-focus.svg)
+  /// The `cubeFocus` icon in Bold style.
+  ///
+  /// [PT] O ícone `cubeFocus` no estilo Bold.
+  ///
+  /// ![cube-focus](https://api.iconify.design/ph/cube-focus-bold.svg?height=32&color=%23888888)
   static const IconData cubeFocus = IconData(
     0xed0a,
     fontFamily: 'PhosphorBold',
@@ -3671,7 +5499,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cube-transparent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cube-transparent.svg)
+  /// The `cubeTransparent` icon in Bold style.
+  ///
+  /// [PT] O ícone `cubeTransparent` no estilo Bold.
+  ///
+  /// ![cube-transparent](https://api.iconify.design/ph/cube-transparent-bold.svg?height=32&color=%23888888)
   static const IconData cubeTransparent = IconData(
     0xec7c,
     fontFamily: 'PhosphorBold',
@@ -3679,7 +5511,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-btc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-btc.svg)
+  /// The `currencyBtc` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyBtc` no estilo Bold.
+  ///
+  /// ![currency-btc](https://api.iconify.design/ph/currency-btc-bold.svg?height=32&color=%23888888)
   static const IconData currencyBtc = IconData(
     0xe618,
     fontFamily: 'PhosphorBold',
@@ -3687,7 +5523,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-circle-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-circle-dollar.svg)
+  /// The `currencyCircleDollar` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyCircleDollar` no estilo Bold.
+  ///
+  /// ![currency-circle-dollar](https://api.iconify.design/ph/currency-circle-dollar-bold.svg?height=32&color=%23888888)
   static const IconData currencyCircleDollar = IconData(
     0xe54c,
     fontFamily: 'PhosphorBold',
@@ -3695,7 +5535,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-cny](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-cny.svg)
+  /// The `currencyCny` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyCny` no estilo Bold.
+  ///
+  /// ![currency-cny](https://api.iconify.design/ph/currency-cny-bold.svg?height=32&color=%23888888)
   static const IconData currencyCny = IconData(
     0xe54e,
     fontFamily: 'PhosphorBold',
@@ -3703,7 +5547,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-dollar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar.svg)
+  /// The `currencyDollar` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyDollar` no estilo Bold.
+  ///
+  /// ![currency-dollar](https://api.iconify.design/ph/currency-dollar-bold.svg?height=32&color=%23888888)
   static const IconData currencyDollar = IconData(
     0xe550,
     fontFamily: 'PhosphorBold',
@@ -3711,7 +5559,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-dollar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-dollar-simple.svg)
+  /// The `currencyDollarSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyDollarSimple` no estilo Bold.
+  ///
+  /// ![currency-dollar-simple](https://api.iconify.design/ph/currency-dollar-simple-bold.svg?height=32&color=%23888888)
   static const IconData currencyDollarSimple = IconData(
     0xe552,
     fontFamily: 'PhosphorBold',
@@ -3719,7 +5571,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-eth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eth.svg)
+  /// The `currencyEth` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyEth` no estilo Bold.
+  ///
+  /// ![currency-eth](https://api.iconify.design/ph/currency-eth-bold.svg?height=32&color=%23888888)
   static const IconData currencyEth = IconData(
     0xeada,
     fontFamily: 'PhosphorBold',
@@ -3727,7 +5583,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-eur](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-eur.svg)
+  /// The `currencyEur` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyEur` no estilo Bold.
+  ///
+  /// ![currency-eur](https://api.iconify.design/ph/currency-eur-bold.svg?height=32&color=%23888888)
   static const IconData currencyEur = IconData(
     0xe554,
     fontFamily: 'PhosphorBold',
@@ -3735,7 +5595,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-gbp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-gbp.svg)
+  /// The `currencyGbp` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyGbp` no estilo Bold.
+  ///
+  /// ![currency-gbp](https://api.iconify.design/ph/currency-gbp-bold.svg?height=32&color=%23888888)
   static const IconData currencyGbp = IconData(
     0xe556,
     fontFamily: 'PhosphorBold',
@@ -3743,7 +5607,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-inr](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-inr.svg)
+  /// The `currencyInr` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyInr` no estilo Bold.
+  ///
+  /// ![currency-inr](https://api.iconify.design/ph/currency-inr-bold.svg?height=32&color=%23888888)
   static const IconData currencyInr = IconData(
     0xe558,
     fontFamily: 'PhosphorBold',
@@ -3751,7 +5619,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-jpy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-jpy.svg)
+  /// The `currencyJpy` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyJpy` no estilo Bold.
+  ///
+  /// ![currency-jpy](https://api.iconify.design/ph/currency-jpy-bold.svg?height=32&color=%23888888)
   static const IconData currencyJpy = IconData(
     0xe55a,
     fontFamily: 'PhosphorBold',
@@ -3759,7 +5631,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-krw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-krw.svg)
+  /// The `currencyKrw` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyKrw` no estilo Bold.
+  ///
+  /// ![currency-krw](https://api.iconify.design/ph/currency-krw-bold.svg?height=32&color=%23888888)
   static const IconData currencyKrw = IconData(
     0xe55c,
     fontFamily: 'PhosphorBold',
@@ -3767,7 +5643,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-kzt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-kzt.svg)
+  /// The `currencyKzt` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyKzt` no estilo Bold.
+  ///
+  /// ![currency-kzt](https://api.iconify.design/ph/currency-kzt-bold.svg?height=32&color=%23888888)
   static const IconData currencyKzt = IconData(
     0xec4c,
     fontFamily: 'PhosphorBold',
@@ -3775,7 +5655,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-ngn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-ngn.svg)
+  /// The `currencyNgn` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyNgn` no estilo Bold.
+  ///
+  /// ![currency-ngn](https://api.iconify.design/ph/currency-ngn-bold.svg?height=32&color=%23888888)
   static const IconData currencyNgn = IconData(
     0xeb52,
     fontFamily: 'PhosphorBold',
@@ -3783,7 +5667,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![currency-rub](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/currency-rub.svg)
+  /// The `currencyRub` icon in Bold style.
+  ///
+  /// [PT] O ícone `currencyRub` no estilo Bold.
+  ///
+  /// ![currency-rub](https://api.iconify.design/ph/currency-rub-bold.svg?height=32&color=%23888888)
   static const IconData currencyRub = IconData(
     0xe55e,
     fontFamily: 'PhosphorBold',
@@ -3791,7 +5679,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cursor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor.svg)
+  /// The `cursor` icon in Bold style.
+  ///
+  /// [PT] O ícone `cursor` no estilo Bold.
+  ///
+  /// ![cursor](https://api.iconify.design/ph/cursor-bold.svg?height=32&color=%23888888)
   static const IconData cursor = IconData(
     0xe1dc,
     fontFamily: 'PhosphorBold',
@@ -3799,7 +5691,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cursor-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-click.svg)
+  /// The `cursorClick` icon in Bold style.
+  ///
+  /// [PT] O ícone `cursorClick` no estilo Bold.
+  ///
+  /// ![cursor-click](https://api.iconify.design/ph/cursor-click-bold.svg?height=32&color=%23888888)
   static const IconData cursorClick = IconData(
     0xe7c8,
     fontFamily: 'PhosphorBold',
@@ -3807,7 +5703,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cursor-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cursor-text.svg)
+  /// The `cursorText` icon in Bold style.
+  ///
+  /// [PT] O ícone `cursorText` no estilo Bold.
+  ///
+  /// ![cursor-text](https://api.iconify.design/ph/cursor-text-bold.svg?height=32&color=%23888888)
   static const IconData cursorText = IconData(
     0xe7d8,
     fontFamily: 'PhosphorBold',
@@ -3815,7 +5715,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![cylinder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/cylinder.svg)
+  /// The `cylinder` icon in Bold style.
+  ///
+  /// [PT] O ícone `cylinder` no estilo Bold.
+  ///
+  /// ![cylinder](https://api.iconify.design/ph/cylinder-bold.svg?height=32&color=%23888888)
   static const IconData cylinder = IconData(
     0xe8fc,
     fontFamily: 'PhosphorBold',
@@ -3823,7 +5727,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![database](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/database.svg)
+  /// The `database` icon in Bold style.
+  ///
+  /// [PT] O ícone `database` no estilo Bold.
+  ///
+  /// ![database](https://api.iconify.design/ph/database-bold.svg?height=32&color=%23888888)
   static const IconData database = IconData(
     0xe1de,
     fontFamily: 'PhosphorBold',
@@ -3831,7 +5739,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![desk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desk.svg)
+  /// The `desk` icon in Bold style.
+  ///
+  /// [PT] O ícone `desk` no estilo Bold.
+  ///
+  /// ![desk](https://api.iconify.design/ph/desk-bold.svg?height=32&color=%23888888)
   static const IconData desk = IconData(
     0xed16,
     fontFamily: 'PhosphorBold',
@@ -3839,7 +5751,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![desktop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop.svg)
+  /// The `desktop` icon in Bold style.
+  ///
+  /// [PT] O ícone `desktop` no estilo Bold.
+  ///
+  /// ![desktop](https://api.iconify.design/ph/desktop-bold.svg?height=32&color=%23888888)
   static const IconData desktop = IconData(
     0xe560,
     fontFamily: 'PhosphorBold',
@@ -3847,7 +5763,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![desktop-tower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/desktop-tower.svg)
+  /// The `desktopTower` icon in Bold style.
+  ///
+  /// [PT] O ícone `desktopTower` no estilo Bold.
+  ///
+  /// ![desktop-tower](https://api.iconify.design/ph/desktop-tower-bold.svg?height=32&color=%23888888)
   static const IconData desktopTower = IconData(
     0xe562,
     fontFamily: 'PhosphorBold',
@@ -3855,7 +5775,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![detective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/detective.svg)
+  /// The `detective` icon in Bold style.
+  ///
+  /// [PT] O ícone `detective` no estilo Bold.
+  ///
+  /// ![detective](https://api.iconify.design/ph/detective-bold.svg?height=32&color=%23888888)
   static const IconData detective = IconData(
     0xe83e,
     fontFamily: 'PhosphorBold',
@@ -3863,7 +5787,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dev-to-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dev-to-logo.svg)
+  /// The `devToLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `devToLogo` no estilo Bold.
+  ///
+  /// ![dev-to-logo](https://api.iconify.design/ph/dev-to-logo-bold.svg?height=32&color=%23888888)
   static const IconData devToLogo = IconData(
     0xed0e,
     fontFamily: 'PhosphorBold',
@@ -3871,7 +5799,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-mobile](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile.svg)
+  /// The `deviceMobile` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceMobile` no estilo Bold.
+  ///
+  /// ![device-mobile](https://api.iconify.design/ph/device-mobile-bold.svg?height=32&color=%23888888)
   static const IconData deviceMobile = IconData(
     0xe1e0,
     fontFamily: 'PhosphorBold',
@@ -3879,7 +5811,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-mobile-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-camera.svg)
+  /// The `deviceMobileCamera` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceMobileCamera` no estilo Bold.
+  ///
+  /// ![device-mobile-camera](https://api.iconify.design/ph/device-mobile-camera-bold.svg?height=32&color=%23888888)
   static const IconData deviceMobileCamera = IconData(
     0xe1e2,
     fontFamily: 'PhosphorBold',
@@ -3887,7 +5823,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-mobile-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-slash.svg)
+  /// The `deviceMobileSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceMobileSlash` no estilo Bold.
+  ///
+  /// ![device-mobile-slash](https://api.iconify.design/ph/device-mobile-slash-bold.svg?height=32&color=%23888888)
   static const IconData deviceMobileSlash = IconData(
     0xee46,
     fontFamily: 'PhosphorBold',
@@ -3895,7 +5835,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-mobile-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-mobile-speaker.svg)
+  /// The `deviceMobileSpeaker` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceMobileSpeaker` no estilo Bold.
+  ///
+  /// ![device-mobile-speaker](https://api.iconify.design/ph/device-mobile-speaker-bold.svg?height=32&color=%23888888)
   static const IconData deviceMobileSpeaker = IconData(
     0xe1e4,
     fontFamily: 'PhosphorBold',
@@ -3903,7 +5847,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-rotate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-rotate.svg)
+  /// The `deviceRotate` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceRotate` no estilo Bold.
+  ///
+  /// ![device-rotate](https://api.iconify.design/ph/device-rotate-bold.svg?height=32&color=%23888888)
   static const IconData deviceRotate = IconData(
     0xedf2,
     fontFamily: 'PhosphorBold',
@@ -3911,7 +5859,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-tablet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet.svg)
+  /// The `deviceTablet` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceTablet` no estilo Bold.
+  ///
+  /// ![device-tablet](https://api.iconify.design/ph/device-tablet-bold.svg?height=32&color=%23888888)
   static const IconData deviceTablet = IconData(
     0xe1e6,
     fontFamily: 'PhosphorBold',
@@ -3919,7 +5871,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-tablet-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-camera.svg)
+  /// The `deviceTabletCamera` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceTabletCamera` no estilo Bold.
+  ///
+  /// ![device-tablet-camera](https://api.iconify.design/ph/device-tablet-camera-bold.svg?height=32&color=%23888888)
   static const IconData deviceTabletCamera = IconData(
     0xe1e8,
     fontFamily: 'PhosphorBold',
@@ -3927,7 +5883,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![device-tablet-speaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/device-tablet-speaker.svg)
+  /// The `deviceTabletSpeaker` icon in Bold style.
+  ///
+  /// [PT] O ícone `deviceTabletSpeaker` no estilo Bold.
+  ///
+  /// ![device-tablet-speaker](https://api.iconify.design/ph/device-tablet-speaker-bold.svg?height=32&color=%23888888)
   static const IconData deviceTabletSpeaker = IconData(
     0xe1ea,
     fontFamily: 'PhosphorBold',
@@ -3935,7 +5895,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![devices](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/devices.svg)
+  /// The `devices` icon in Bold style.
+  ///
+  /// [PT] O ícone `devices` no estilo Bold.
+  ///
+  /// ![devices](https://api.iconify.design/ph/devices-bold.svg?height=32&color=%23888888)
   static const IconData devices = IconData(
     0xeba4,
     fontFamily: 'PhosphorBold',
@@ -3943,7 +5907,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamond.svg)
+  /// The `diamond` icon in Bold style.
+  ///
+  /// [PT] O ícone `diamond` no estilo Bold.
+  ///
+  /// ![diamond](https://api.iconify.design/ph/diamond-bold.svg?height=32&color=%23888888)
   static const IconData diamond = IconData(
     0xe1ec,
     fontFamily: 'PhosphorBold',
@@ -3951,7 +5919,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![diamonds-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/diamonds-four.svg)
+  /// The `diamondsFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `diamondsFour` no estilo Bold.
+  ///
+  /// ![diamonds-four](https://api.iconify.design/ph/diamonds-four-bold.svg?height=32&color=%23888888)
   static const IconData diamondsFour = IconData(
     0xe8f4,
     fontFamily: 'PhosphorBold',
@@ -3959,7 +5931,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dice-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-five.svg)
+  /// The `diceFive` icon in Bold style.
+  ///
+  /// [PT] O ícone `diceFive` no estilo Bold.
+  ///
+  /// ![dice-five](https://api.iconify.design/ph/dice-five-bold.svg?height=32&color=%23888888)
   static const IconData diceFive = IconData(
     0xe1ee,
     fontFamily: 'PhosphorBold',
@@ -3967,7 +5943,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dice-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-four.svg)
+  /// The `diceFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `diceFour` no estilo Bold.
+  ///
+  /// ![dice-four](https://api.iconify.design/ph/dice-four-bold.svg?height=32&color=%23888888)
   static const IconData diceFour = IconData(
     0xe1f0,
     fontFamily: 'PhosphorBold',
@@ -3975,7 +5955,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dice-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-one.svg)
+  /// The `diceOne` icon in Bold style.
+  ///
+  /// [PT] O ícone `diceOne` no estilo Bold.
+  ///
+  /// ![dice-one](https://api.iconify.design/ph/dice-one-bold.svg?height=32&color=%23888888)
   static const IconData diceOne = IconData(
     0xe1f2,
     fontFamily: 'PhosphorBold',
@@ -3983,7 +5967,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dice-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-six.svg)
+  /// The `diceSix` icon in Bold style.
+  ///
+  /// [PT] O ícone `diceSix` no estilo Bold.
+  ///
+  /// ![dice-six](https://api.iconify.design/ph/dice-six-bold.svg?height=32&color=%23888888)
   static const IconData diceSix = IconData(
     0xe1f4,
     fontFamily: 'PhosphorBold',
@@ -3991,7 +5979,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dice-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-three.svg)
+  /// The `diceThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `diceThree` no estilo Bold.
+  ///
+  /// ![dice-three](https://api.iconify.design/ph/dice-three-bold.svg?height=32&color=%23888888)
   static const IconData diceThree = IconData(
     0xe1f6,
     fontFamily: 'PhosphorBold',
@@ -3999,7 +5991,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dice-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dice-two.svg)
+  /// The `diceTwo` icon in Bold style.
+  ///
+  /// [PT] O ícone `diceTwo` no estilo Bold.
+  ///
+  /// ![dice-two](https://api.iconify.design/ph/dice-two-bold.svg?height=32&color=%23888888)
   static const IconData diceTwo = IconData(
     0xe1f8,
     fontFamily: 'PhosphorBold',
@@ -4007,7 +6003,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![disc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disc.svg)
+  /// The `disc` icon in Bold style.
+  ///
+  /// [PT] O ícone `disc` no estilo Bold.
+  ///
+  /// ![disc](https://api.iconify.design/ph/disc-bold.svg?height=32&color=%23888888)
   static const IconData disc = IconData(
     0xe564,
     fontFamily: 'PhosphorBold',
@@ -4015,7 +6015,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![disco-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/disco-ball.svg)
+  /// The `discoBall` icon in Bold style.
+  ///
+  /// [PT] O ícone `discoBall` no estilo Bold.
+  ///
+  /// ![disco-ball](https://api.iconify.design/ph/disco-ball-bold.svg?height=32&color=%23888888)
   static const IconData discoBall = IconData(
     0xed98,
     fontFamily: 'PhosphorBold',
@@ -4023,7 +6027,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![discord-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/discord-logo.svg)
+  /// The `discordLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `discordLogo` no estilo Bold.
+  ///
+  /// ![discord-logo](https://api.iconify.design/ph/discord-logo-bold.svg?height=32&color=%23888888)
   static const IconData discordLogo = IconData(
     0xe61a,
     fontFamily: 'PhosphorBold',
@@ -4031,7 +6039,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![divide](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/divide.svg)
+  /// The `divide` icon in Bold style.
+  ///
+  /// [PT] O ícone `divide` no estilo Bold.
+  ///
+  /// ![divide](https://api.iconify.design/ph/divide-bold.svg?height=32&color=%23888888)
   static const IconData divide = IconData(
     0xe1fa,
     fontFamily: 'PhosphorBold',
@@ -4039,7 +6051,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dna](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dna.svg)
+  /// The `dna` icon in Bold style.
+  ///
+  /// [PT] O ícone `dna` no estilo Bold.
+  ///
+  /// ![dna](https://api.iconify.design/ph/dna-bold.svg?height=32&color=%23888888)
   static const IconData dna = IconData(
     0xe924,
     fontFamily: 'PhosphorBold',
@@ -4047,7 +6063,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dog](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dog.svg)
+  /// The `dog` icon in Bold style.
+  ///
+  /// [PT] O ícone `dog` no estilo Bold.
+  ///
+  /// ![dog](https://api.iconify.design/ph/dog-bold.svg?height=32&color=%23888888)
   static const IconData dog = IconData(
     0xe74a,
     fontFamily: 'PhosphorBold',
@@ -4055,7 +6075,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![door](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door.svg)
+  /// The `door` icon in Bold style.
+  ///
+  /// [PT] O ícone `door` no estilo Bold.
+  ///
+  /// ![door](https://api.iconify.design/ph/door-bold.svg?height=32&color=%23888888)
   static const IconData door = IconData(
     0xe61c,
     fontFamily: 'PhosphorBold',
@@ -4063,7 +6087,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![door-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/door-open.svg)
+  /// The `doorOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `doorOpen` no estilo Bold.
+  ///
+  /// ![door-open](https://api.iconify.design/ph/door-open-bold.svg?height=32&color=%23888888)
   static const IconData doorOpen = IconData(
     0xe7e6,
     fontFamily: 'PhosphorBold',
@@ -4071,7 +6099,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot.svg)
+  /// The `dot` icon in Bold style.
+  ///
+  /// [PT] O ícone `dot` no estilo Bold.
+  ///
+  /// ![dot](https://api.iconify.design/ph/dot-bold.svg?height=32&color=%23888888)
   static const IconData dot = IconData(
     0xecde,
     fontFamily: 'PhosphorBold',
@@ -4079,7 +6111,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dot-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dot-outline.svg)
+  /// The `dotOutline` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotOutline` no estilo Bold.
+  ///
+  /// ![dot-outline](https://api.iconify.design/ph/dot-outline-bold.svg?height=32&color=%23888888)
   static const IconData dotOutline = IconData(
     0xece0,
     fontFamily: 'PhosphorBold',
@@ -4087,7 +6123,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-nine.svg)
+  /// The `dotsNine` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsNine` no estilo Bold.
+  ///
+  /// ![dots-nine](https://api.iconify.design/ph/dots-nine-bold.svg?height=32&color=%23888888)
   static const IconData dotsNine = IconData(
     0xe1fc,
     fontFamily: 'PhosphorBold',
@@ -4095,7 +6135,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six.svg)
+  /// The `dotsSix` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsSix` no estilo Bold.
+  ///
+  /// ![dots-six](https://api.iconify.design/ph/dots-six-bold.svg?height=32&color=%23888888)
   static const IconData dotsSix = IconData(
     0xe794,
     fontFamily: 'PhosphorBold',
@@ -4103,7 +6147,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-six-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-six-vertical.svg)
+  /// The `dotsSixVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsSixVertical` no estilo Bold.
+  ///
+  /// ![dots-six-vertical](https://api.iconify.design/ph/dots-six-vertical-bold.svg?height=32&color=%23888888)
   static const IconData dotsSixVertical = IconData(
     0xeae2,
     fontFamily: 'PhosphorBold',
@@ -4111,7 +6159,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three.svg)
+  /// The `dotsThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsThree` no estilo Bold.
+  ///
+  /// ![dots-three](https://api.iconify.design/ph/dots-three-bold.svg?height=32&color=%23888888)
   static const IconData dotsThree = IconData(
     0xe1fe,
     fontFamily: 'PhosphorBold',
@@ -4119,7 +6171,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-three-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle.svg)
+  /// The `dotsThreeCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsThreeCircle` no estilo Bold.
+  ///
+  /// ![dots-three-circle](https://api.iconify.design/ph/dots-three-circle-bold.svg?height=32&color=%23888888)
   static const IconData dotsThreeCircle = IconData(
     0xe200,
     fontFamily: 'PhosphorBold',
@@ -4127,7 +6183,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-three-circle-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-circle-vertical.svg)
+  /// The `dotsThreeCircleVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsThreeCircleVertical` no estilo Bold.
+  ///
+  /// ![dots-three-circle-vertical](https://api.iconify.design/ph/dots-three-circle-vertical-bold.svg?height=32&color=%23888888)
   static const IconData dotsThreeCircleVertical = IconData(
     0xe202,
     fontFamily: 'PhosphorBold',
@@ -4135,7 +6195,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-three-outline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline.svg)
+  /// The `dotsThreeOutline` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsThreeOutline` no estilo Bold.
+  ///
+  /// ![dots-three-outline](https://api.iconify.design/ph/dots-three-outline-bold.svg?height=32&color=%23888888)
   static const IconData dotsThreeOutline = IconData(
     0xe204,
     fontFamily: 'PhosphorBold',
@@ -4143,7 +6207,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-three-outline-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-outline-vertical.svg)
+  /// The `dotsThreeOutlineVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Bold.
+  ///
+  /// ![dots-three-outline-vertical](https://api.iconify.design/ph/dots-three-outline-vertical-bold.svg?height=32&color=%23888888)
   static const IconData dotsThreeOutlineVertical = IconData(
     0xe206,
     fontFamily: 'PhosphorBold',
@@ -4151,7 +6219,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dots-three-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dots-three-vertical.svg)
+  /// The `dotsThreeVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `dotsThreeVertical` no estilo Bold.
+  ///
+  /// ![dots-three-vertical](https://api.iconify.design/ph/dots-three-vertical-bold.svg?height=32&color=%23888888)
   static const IconData dotsThreeVertical = IconData(
     0xe208,
     fontFamily: 'PhosphorBold',
@@ -4159,7 +6231,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![download](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download.svg)
+  /// The `download` icon in Bold style.
+  ///
+  /// [PT] O ícone `download` no estilo Bold.
+  ///
+  /// ![download](https://api.iconify.design/ph/download-bold.svg?height=32&color=%23888888)
   static const IconData download = IconData(
     0xe20a,
     fontFamily: 'PhosphorBold',
@@ -4167,7 +6243,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![download-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/download-simple.svg)
+  /// The `downloadSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `downloadSimple` no estilo Bold.
+  ///
+  /// ![download-simple](https://api.iconify.design/ph/download-simple-bold.svg?height=32&color=%23888888)
   static const IconData downloadSimple = IconData(
     0xe20c,
     fontFamily: 'PhosphorBold',
@@ -4175,7 +6255,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dress](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dress.svg)
+  /// The `dress` icon in Bold style.
+  ///
+  /// [PT] O ícone `dress` no estilo Bold.
+  ///
+  /// ![dress](https://api.iconify.design/ph/dress-bold.svg?height=32&color=%23888888)
   static const IconData dress = IconData(
     0xea7e,
     fontFamily: 'PhosphorBold',
@@ -4183,7 +6267,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dresser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dresser.svg)
+  /// The `dresser` icon in Bold style.
+  ///
+  /// [PT] O ícone `dresser` no estilo Bold.
+  ///
+  /// ![dresser](https://api.iconify.design/ph/dresser-bold.svg?height=32&color=%23888888)
   static const IconData dresser = IconData(
     0xe94e,
     fontFamily: 'PhosphorBold',
@@ -4191,7 +6279,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dribbble-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dribbble-logo.svg)
+  /// The `dribbbleLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `dribbbleLogo` no estilo Bold.
+  ///
+  /// ![dribbble-logo](https://api.iconify.design/ph/dribbble-logo-bold.svg?height=32&color=%23888888)
   static const IconData dribbbleLogo = IconData(
     0xe20e,
     fontFamily: 'PhosphorBold',
@@ -4199,7 +6291,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![drone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drone.svg)
+  /// The `drone` icon in Bold style.
+  ///
+  /// [PT] O ícone `drone` no estilo Bold.
+  ///
+  /// ![drone](https://api.iconify.design/ph/drone-bold.svg?height=32&color=%23888888)
   static const IconData drone = IconData(
     0xed74,
     fontFamily: 'PhosphorBold',
@@ -4207,7 +6303,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![drop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop.svg)
+  /// The `drop` icon in Bold style.
+  ///
+  /// [PT] O ícone `drop` no estilo Bold.
+  ///
+  /// ![drop](https://api.iconify.design/ph/drop-bold.svg?height=32&color=%23888888)
   static const IconData drop = IconData(
     0xe210,
     fontFamily: 'PhosphorBold',
@@ -4215,7 +6315,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![drop-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half.svg)
+  /// The `dropHalf` icon in Bold style.
+  ///
+  /// [PT] O ícone `dropHalf` no estilo Bold.
+  ///
+  /// ![drop-half](https://api.iconify.design/ph/drop-half-bold.svg?height=32&color=%23888888)
   static const IconData dropHalf = IconData(
     0xe566,
     fontFamily: 'PhosphorBold',
@@ -4223,7 +6327,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![drop-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-half-bottom.svg)
+  /// The `dropHalfBottom` icon in Bold style.
+  ///
+  /// [PT] O ícone `dropHalfBottom` no estilo Bold.
+  ///
+  /// ![drop-half-bottom](https://api.iconify.design/ph/drop-half-bottom-bold.svg?height=32&color=%23888888)
   static const IconData dropHalfBottom = IconData(
     0xeb40,
     fontFamily: 'PhosphorBold',
@@ -4231,7 +6339,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![drop-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-simple.svg)
+  /// The `dropSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `dropSimple` no estilo Bold.
+  ///
+  /// ![drop-simple](https://api.iconify.design/ph/drop-simple-bold.svg?height=32&color=%23888888)
   static const IconData dropSimple = IconData(
     0xee32,
     fontFamily: 'PhosphorBold',
@@ -4239,7 +6351,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![drop-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/drop-slash.svg)
+  /// The `dropSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `dropSlash` no estilo Bold.
+  ///
+  /// ![drop-slash](https://api.iconify.design/ph/drop-slash-bold.svg?height=32&color=%23888888)
   static const IconData dropSlash = IconData(
     0xe954,
     fontFamily: 'PhosphorBold',
@@ -4247,7 +6363,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![dropbox-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/dropbox-logo.svg)
+  /// The `dropboxLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `dropboxLogo` no estilo Bold.
+  ///
+  /// ![dropbox-logo](https://api.iconify.design/ph/dropbox-logo-bold.svg?height=32&color=%23888888)
   static const IconData dropboxLogo = IconData(
     0xe7d0,
     fontFamily: 'PhosphorBold',
@@ -4255,7 +6375,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear.svg)
+  /// The `ear` icon in Bold style.
+  ///
+  /// [PT] O ícone `ear` no estilo Bold.
+  ///
+  /// ![ear](https://api.iconify.design/ph/ear-bold.svg?height=32&color=%23888888)
   static const IconData ear = IconData(
     0xe70c,
     fontFamily: 'PhosphorBold',
@@ -4263,7 +6387,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ear-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ear-slash.svg)
+  /// The `earSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `earSlash` no estilo Bold.
+  ///
+  /// ![ear-slash](https://api.iconify.design/ph/ear-slash-bold.svg?height=32&color=%23888888)
   static const IconData earSlash = IconData(
     0xe70e,
     fontFamily: 'PhosphorBold',
@@ -4271,7 +6399,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![egg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg.svg)
+  /// The `egg` icon in Bold style.
+  ///
+  /// [PT] O ícone `egg` no estilo Bold.
+  ///
+  /// ![egg](https://api.iconify.design/ph/egg-bold.svg?height=32&color=%23888888)
   static const IconData egg = IconData(
     0xe812,
     fontFamily: 'PhosphorBold',
@@ -4279,7 +6411,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![egg-crack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/egg-crack.svg)
+  /// The `eggCrack` icon in Bold style.
+  ///
+  /// [PT] O ícone `eggCrack` no estilo Bold.
+  ///
+  /// ![egg-crack](https://api.iconify.design/ph/egg-crack-bold.svg?height=32&color=%23888888)
   static const IconData eggCrack = IconData(
     0xeb64,
     fontFamily: 'PhosphorBold',
@@ -4287,7 +6423,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eject](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject.svg)
+  /// The `eject` icon in Bold style.
+  ///
+  /// [PT] O ícone `eject` no estilo Bold.
+  ///
+  /// ![eject](https://api.iconify.design/ph/eject-bold.svg?height=32&color=%23888888)
   static const IconData eject = IconData(
     0xe212,
     fontFamily: 'PhosphorBold',
@@ -4295,7 +6435,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eject-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eject-simple.svg)
+  /// The `ejectSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `ejectSimple` no estilo Bold.
+  ///
+  /// ![eject-simple](https://api.iconify.design/ph/eject-simple-bold.svg?height=32&color=%23888888)
   static const IconData ejectSimple = IconData(
     0xe6ae,
     fontFamily: 'PhosphorBold',
@@ -4303,7 +6447,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![elevator](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/elevator.svg)
+  /// The `elevator` icon in Bold style.
+  ///
+  /// [PT] O ícone `elevator` no estilo Bold.
+  ///
+  /// ![elevator](https://api.iconify.design/ph/elevator-bold.svg?height=32&color=%23888888)
   static const IconData elevator = IconData(
     0xecc0,
     fontFamily: 'PhosphorBold',
@@ -4311,7 +6459,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![empty](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/empty.svg)
+  /// The `empty` icon in Bold style.
+  ///
+  /// [PT] O ícone `empty` no estilo Bold.
+  ///
+  /// ![empty](https://api.iconify.design/ph/empty-bold.svg?height=32&color=%23888888)
   static const IconData empty = IconData(
     0xedbc,
     fontFamily: 'PhosphorBold',
@@ -4319,7 +6471,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![engine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/engine.svg)
+  /// The `engine` icon in Bold style.
+  ///
+  /// [PT] O ícone `engine` no estilo Bold.
+  ///
+  /// ![engine](https://api.iconify.design/ph/engine-bold.svg?height=32&color=%23888888)
   static const IconData engine = IconData(
     0xea80,
     fontFamily: 'PhosphorBold',
@@ -4327,7 +6483,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![envelope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope.svg)
+  /// The `envelope` icon in Bold style.
+  ///
+  /// [PT] O ícone `envelope` no estilo Bold.
+  ///
+  /// ![envelope](https://api.iconify.design/ph/envelope-bold.svg?height=32&color=%23888888)
   static const IconData envelope = IconData(
     0xe214,
     fontFamily: 'PhosphorBold',
@@ -4335,7 +6495,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![envelope-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-open.svg)
+  /// The `envelopeOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `envelopeOpen` no estilo Bold.
+  ///
+  /// ![envelope-open](https://api.iconify.design/ph/envelope-open-bold.svg?height=32&color=%23888888)
   static const IconData envelopeOpen = IconData(
     0xe216,
     fontFamily: 'PhosphorBold',
@@ -4343,7 +6507,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![envelope-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple.svg)
+  /// The `envelopeSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `envelopeSimple` no estilo Bold.
+  ///
+  /// ![envelope-simple](https://api.iconify.design/ph/envelope-simple-bold.svg?height=32&color=%23888888)
   static const IconData envelopeSimple = IconData(
     0xe218,
     fontFamily: 'PhosphorBold',
@@ -4351,7 +6519,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![envelope-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/envelope-simple-open.svg)
+  /// The `envelopeSimpleOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `envelopeSimpleOpen` no estilo Bold.
+  ///
+  /// ![envelope-simple-open](https://api.iconify.design/ph/envelope-simple-open-bold.svg?height=32&color=%23888888)
   static const IconData envelopeSimpleOpen = IconData(
     0xe21a,
     fontFamily: 'PhosphorBold',
@@ -4359,7 +6531,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![equalizer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equalizer.svg)
+  /// The `equalizer` icon in Bold style.
+  ///
+  /// [PT] O ícone `equalizer` no estilo Bold.
+  ///
+  /// ![equalizer](https://api.iconify.design/ph/equalizer-bold.svg?height=32&color=%23888888)
   static const IconData equalizer = IconData(
     0xebbc,
     fontFamily: 'PhosphorBold',
@@ -4367,7 +6543,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/equals.svg)
+  /// The `equals` icon in Bold style.
+  ///
+  /// [PT] O ícone `equals` no estilo Bold.
+  ///
+  /// ![equals](https://api.iconify.design/ph/equals-bold.svg?height=32&color=%23888888)
   static const IconData equals = IconData(
     0xe21c,
     fontFamily: 'PhosphorBold',
@@ -4375,7 +6555,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eraser](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eraser.svg)
+  /// The `eraser` icon in Bold style.
+  ///
+  /// [PT] O ícone `eraser` no estilo Bold.
+  ///
+  /// ![eraser](https://api.iconify.design/ph/eraser-bold.svg?height=32&color=%23888888)
   static const IconData eraser = IconData(
     0xe21e,
     fontFamily: 'PhosphorBold',
@@ -4383,7 +6567,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![escalator-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-down.svg)
+  /// The `escalatorDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `escalatorDown` no estilo Bold.
+  ///
+  /// ![escalator-down](https://api.iconify.design/ph/escalator-down-bold.svg?height=32&color=%23888888)
   static const IconData escalatorDown = IconData(
     0xecba,
     fontFamily: 'PhosphorBold',
@@ -4391,7 +6579,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![escalator-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/escalator-up.svg)
+  /// The `escalatorUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `escalatorUp` no estilo Bold.
+  ///
+  /// ![escalator-up](https://api.iconify.design/ph/escalator-up-bold.svg?height=32&color=%23888888)
   static const IconData escalatorUp = IconData(
     0xecbc,
     fontFamily: 'PhosphorBold',
@@ -4399,7 +6591,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![exam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exam.svg)
+  /// The `exam` icon in Bold style.
+  ///
+  /// [PT] O ícone `exam` no estilo Bold.
+  ///
+  /// ![exam](https://api.iconify.design/ph/exam-bold.svg?height=32&color=%23888888)
   static const IconData exam = IconData(
     0xe742,
     fontFamily: 'PhosphorBold',
@@ -4407,7 +6603,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![exclamation-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclamation-mark.svg)
+  /// The `exclamationMark` icon in Bold style.
+  ///
+  /// [PT] O ícone `exclamationMark` no estilo Bold.
+  ///
+  /// ![exclamation-mark](https://api.iconify.design/ph/exclamation-mark-bold.svg?height=32&color=%23888888)
   static const IconData exclamationMark = IconData(
     0xee44,
     fontFamily: 'PhosphorBold',
@@ -4415,7 +6615,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![exclude](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude.svg)
+  /// The `exclude` icon in Bold style.
+  ///
+  /// [PT] O ícone `exclude` no estilo Bold.
+  ///
+  /// ![exclude](https://api.iconify.design/ph/exclude-bold.svg?height=32&color=%23888888)
   static const IconData exclude = IconData(
     0xe882,
     fontFamily: 'PhosphorBold',
@@ -4423,7 +6627,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![exclude-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/exclude-square.svg)
+  /// The `excludeSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `excludeSquare` no estilo Bold.
+  ///
+  /// ![exclude-square](https://api.iconify.design/ph/exclude-square-bold.svg?height=32&color=%23888888)
   static const IconData excludeSquare = IconData(
     0xe880,
     fontFamily: 'PhosphorBold',
@@ -4431,7 +6639,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![export](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/export.svg)
+  /// The `export` icon in Bold style.
+  ///
+  /// [PT] O ícone `export` no estilo Bold.
+  ///
+  /// ![export](https://api.iconify.design/ph/export-bold.svg?height=32&color=%23888888)
   static const IconData export = IconData(
     0xeaf0,
     fontFamily: 'PhosphorBold',
@@ -4439,7 +6651,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye.svg)
+  /// The `eye` icon in Bold style.
+  ///
+  /// [PT] O ícone `eye` no estilo Bold.
+  ///
+  /// ![eye](https://api.iconify.design/ph/eye-bold.svg?height=32&color=%23888888)
   static const IconData eye = IconData(
     0xe220,
     fontFamily: 'PhosphorBold',
@@ -4447,7 +6663,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eye-closed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-closed.svg)
+  /// The `eyeClosed` icon in Bold style.
+  ///
+  /// [PT] O ícone `eyeClosed` no estilo Bold.
+  ///
+  /// ![eye-closed](https://api.iconify.design/ph/eye-closed-bold.svg?height=32&color=%23888888)
   static const IconData eyeClosed = IconData(
     0xe222,
     fontFamily: 'PhosphorBold',
@@ -4455,7 +6675,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eye-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eye-slash.svg)
+  /// The `eyeSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `eyeSlash` no estilo Bold.
+  ///
+  /// ![eye-slash](https://api.iconify.design/ph/eye-slash-bold.svg?height=32&color=%23888888)
   static const IconData eyeSlash = IconData(
     0xe224,
     fontFamily: 'PhosphorBold',
@@ -4463,7 +6687,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eyedropper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper.svg)
+  /// The `eyedropper` icon in Bold style.
+  ///
+  /// [PT] O ícone `eyedropper` no estilo Bold.
+  ///
+  /// ![eyedropper](https://api.iconify.design/ph/eyedropper-bold.svg?height=32&color=%23888888)
   static const IconData eyedropper = IconData(
     0xe568,
     fontFamily: 'PhosphorBold',
@@ -4471,7 +6699,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eyedropper-sample](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyedropper-sample.svg)
+  /// The `eyedropperSample` icon in Bold style.
+  ///
+  /// [PT] O ícone `eyedropperSample` no estilo Bold.
+  ///
+  /// ![eyedropper-sample](https://api.iconify.design/ph/eyedropper-sample-bold.svg?height=32&color=%23888888)
   static const IconData eyedropperSample = IconData(
     0xeac4,
     fontFamily: 'PhosphorBold',
@@ -4479,7 +6711,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eyeglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyeglasses.svg)
+  /// The `eyeglasses` icon in Bold style.
+  ///
+  /// [PT] O ícone `eyeglasses` no estilo Bold.
+  ///
+  /// ![eyeglasses](https://api.iconify.design/ph/eyeglasses-bold.svg?height=32&color=%23888888)
   static const IconData eyeglasses = IconData(
     0xe7ba,
     fontFamily: 'PhosphorBold',
@@ -4487,7 +6723,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/eyes.svg)
+  /// The `eyes` icon in Bold style.
+  ///
+  /// [PT] O ícone `eyes` no estilo Bold.
+  ///
+  /// ![eyes](https://api.iconify.design/ph/eyes-bold.svg?height=32&color=%23888888)
   static const IconData eyes = IconData(
     0xee5c,
     fontFamily: 'PhosphorBold',
@@ -4495,7 +6735,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![face-mask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/face-mask.svg)
+  /// The `faceMask` icon in Bold style.
+  ///
+  /// [PT] O ícone `faceMask` no estilo Bold.
+  ///
+  /// ![face-mask](https://api.iconify.design/ph/face-mask-bold.svg?height=32&color=%23888888)
   static const IconData faceMask = IconData(
     0xe56a,
     fontFamily: 'PhosphorBold',
@@ -4503,7 +6747,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![facebook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/facebook-logo.svg)
+  /// The `facebookLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `facebookLogo` no estilo Bold.
+  ///
+  /// ![facebook-logo](https://api.iconify.design/ph/facebook-logo-bold.svg?height=32&color=%23888888)
   static const IconData facebookLogo = IconData(
     0xe226,
     fontFamily: 'PhosphorBold',
@@ -4511,7 +6759,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![factory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/factory.svg)
+  /// The `factory` icon in Bold style.
+  ///
+  /// [PT] O ícone `factory` no estilo Bold.
+  ///
+  /// ![factory](https://api.iconify.design/ph/factory-bold.svg?height=32&color=%23888888)
   static const IconData factory = IconData(
     0xe760,
     fontFamily: 'PhosphorBold',
@@ -4519,7 +6771,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![faders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders.svg)
+  /// The `faders` icon in Bold style.
+  ///
+  /// [PT] O ícone `faders` no estilo Bold.
+  ///
+  /// ![faders](https://api.iconify.design/ph/faders-bold.svg?height=32&color=%23888888)
   static const IconData faders = IconData(
     0xe228,
     fontFamily: 'PhosphorBold',
@@ -4527,7 +6783,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![faders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/faders-horizontal.svg)
+  /// The `fadersHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `fadersHorizontal` no estilo Bold.
+  ///
+  /// ![faders-horizontal](https://api.iconify.design/ph/faders-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData fadersHorizontal = IconData(
     0xe22a,
     fontFamily: 'PhosphorBold',
@@ -4535,7 +6795,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fallout-shelter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fallout-shelter.svg)
+  /// The `falloutShelter` icon in Bold style.
+  ///
+  /// [PT] O ícone `falloutShelter` no estilo Bold.
+  ///
+  /// ![fallout-shelter](https://api.iconify.design/ph/fallout-shelter-bold.svg?height=32&color=%23888888)
   static const IconData falloutShelter = IconData(
     0xe9de,
     fontFamily: 'PhosphorBold',
@@ -4543,7 +6807,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fan.svg)
+  /// The `fan` icon in Bold style.
+  ///
+  /// [PT] O ícone `fan` no estilo Bold.
+  ///
+  /// ![fan](https://api.iconify.design/ph/fan-bold.svg?height=32&color=%23888888)
   static const IconData fan = IconData(
     0xe9f2,
     fontFamily: 'PhosphorBold',
@@ -4551,7 +6819,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![farm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/farm.svg)
+  /// The `farm` icon in Bold style.
+  ///
+  /// [PT] O ícone `farm` no estilo Bold.
+  ///
+  /// ![farm](https://api.iconify.design/ph/farm-bold.svg?height=32&color=%23888888)
   static const IconData farm = IconData(
     0xec70,
     fontFamily: 'PhosphorBold',
@@ -4559,7 +6831,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fast-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward.svg)
+  /// The `fastForward` icon in Bold style.
+  ///
+  /// [PT] O ícone `fastForward` no estilo Bold.
+  ///
+  /// ![fast-forward](https://api.iconify.design/ph/fast-forward-bold.svg?height=32&color=%23888888)
   static const IconData fastForward = IconData(
     0xe6a6,
     fontFamily: 'PhosphorBold',
@@ -4567,7 +6843,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fast-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fast-forward-circle.svg)
+  /// The `fastForwardCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `fastForwardCircle` no estilo Bold.
+  ///
+  /// ![fast-forward-circle](https://api.iconify.design/ph/fast-forward-circle-bold.svg?height=32&color=%23888888)
   static const IconData fastForwardCircle = IconData(
     0xe22c,
     fontFamily: 'PhosphorBold',
@@ -4575,7 +6855,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![feather](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/feather.svg)
+  /// The `feather` icon in Bold style.
+  ///
+  /// [PT] O ícone `feather` no estilo Bold.
+  ///
+  /// ![feather](https://api.iconify.design/ph/feather-bold.svg?height=32&color=%23888888)
   static const IconData feather = IconData(
     0xe9c0,
     fontFamily: 'PhosphorBold',
@@ -4583,7 +6867,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fediverse-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fediverse-logo.svg)
+  /// The `fediverseLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `fediverseLogo` no estilo Bold.
+  ///
+  /// ![fediverse-logo](https://api.iconify.design/ph/fediverse-logo-bold.svg?height=32&color=%23888888)
   static const IconData fediverseLogo = IconData(
     0xed66,
     fontFamily: 'PhosphorBold',
@@ -4591,7 +6879,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![figma-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/figma-logo.svg)
+  /// The `figmaLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `figmaLogo` no estilo Bold.
+  ///
+  /// ![figma-logo](https://api.iconify.design/ph/figma-logo-bold.svg?height=32&color=%23888888)
   static const IconData figmaLogo = IconData(
     0xe22e,
     fontFamily: 'PhosphorBold',
@@ -4599,7 +6891,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file.svg)
+  /// The `file` icon in Bold style.
+  ///
+  /// [PT] O ícone `file` no estilo Bold.
+  ///
+  /// ![file](https://api.iconify.design/ph/file-bold.svg?height=32&color=%23888888)
   static const IconData file = IconData(
     0xe230,
     fontFamily: 'PhosphorBold',
@@ -4607,7 +6903,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-archive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-archive.svg)
+  /// The `fileArchive` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileArchive` no estilo Bold.
+  ///
+  /// ![file-archive](https://api.iconify.design/ph/file-archive-bold.svg?height=32&color=%23888888)
   static const IconData fileArchive = IconData(
     0xeb2a,
     fontFamily: 'PhosphorBold',
@@ -4615,7 +6915,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-down.svg)
+  /// The `fileArrowDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileArrowDown` no estilo Bold.
+  ///
+  /// ![file-arrow-down](https://api.iconify.design/ph/file-arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData fileArrowDown = IconData(
     0xe232,
     fontFamily: 'PhosphorBold',
@@ -4623,7 +6927,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-arrow-up.svg)
+  /// The `fileArrowUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileArrowUp` no estilo Bold.
+  ///
+  /// ![file-arrow-up](https://api.iconify.design/ph/file-arrow-up-bold.svg?height=32&color=%23888888)
   static const IconData fileArrowUp = IconData(
     0xe61e,
     fontFamily: 'PhosphorBold',
@@ -4631,7 +6939,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-audio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-audio.svg)
+  /// The `fileAudio` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileAudio` no estilo Bold.
+  ///
+  /// ![file-audio](https://api.iconify.design/ph/file-audio-bold.svg?height=32&color=%23888888)
   static const IconData fileAudio = IconData(
     0xea20,
     fontFamily: 'PhosphorBold',
@@ -4639,7 +6951,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-c](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c.svg)
+  /// The `fileC` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileC` no estilo Bold.
+  ///
+  /// ![file-c](https://api.iconify.design/ph/file-c-bold.svg?height=32&color=%23888888)
   static const IconData fileC = IconData(
     0xeb32,
     fontFamily: 'PhosphorBold',
@@ -4647,7 +6963,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-c-sharp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-c-sharp.svg)
+  /// The `fileCSharp` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileCSharp` no estilo Bold.
+  ///
+  /// ![file-c-sharp](https://api.iconify.design/ph/file-c-sharp-bold.svg?height=32&color=%23888888)
   static const IconData fileCSharp = IconData(
     0xeb30,
     fontFamily: 'PhosphorBold',
@@ -4655,7 +6975,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cloud.svg)
+  /// The `fileCloud` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileCloud` no estilo Bold.
+  ///
+  /// ![file-cloud](https://api.iconify.design/ph/file-cloud-bold.svg?height=32&color=%23888888)
   static const IconData fileCloud = IconData(
     0xe95e,
     fontFamily: 'PhosphorBold',
@@ -4663,7 +6987,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-code.svg)
+  /// The `fileCode` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileCode` no estilo Bold.
+  ///
+  /// ![file-code](https://api.iconify.design/ph/file-code-bold.svg?height=32&color=%23888888)
   static const IconData fileCode = IconData(
     0xe914,
     fontFamily: 'PhosphorBold',
@@ -4671,7 +6999,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-cpp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-cpp.svg)
+  /// The `fileCpp` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileCpp` no estilo Bold.
+  ///
+  /// ![file-cpp](https://api.iconify.design/ph/file-cpp-bold.svg?height=32&color=%23888888)
   static const IconData fileCpp = IconData(
     0xeb2e,
     fontFamily: 'PhosphorBold',
@@ -4679,7 +7011,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-css](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-css.svg)
+  /// The `fileCss` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileCss` no estilo Bold.
+  ///
+  /// ![file-css](https://api.iconify.design/ph/file-css-bold.svg?height=32&color=%23888888)
   static const IconData fileCss = IconData(
     0xeb34,
     fontFamily: 'PhosphorBold',
@@ -4687,7 +7023,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-csv](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-csv.svg)
+  /// The `fileCsv` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileCsv` no estilo Bold.
+  ///
+  /// ![file-csv](https://api.iconify.design/ph/file-csv-bold.svg?height=32&color=%23888888)
   static const IconData fileCsv = IconData(
     0xeb1c,
     fontFamily: 'PhosphorBold',
@@ -4695,7 +7035,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-dashed.svg)
+  /// The `fileDashed` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileDashed` no estilo Bold.
+  ///
+  /// ![file-dashed](https://api.iconify.design/ph/file-dashed-bold.svg?height=32&color=%23888888)
   static const IconData fileDashed = IconData(
     0xe704,
     fontFamily: 'PhosphorBold',
@@ -4703,7 +7047,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-doc](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-doc.svg)
+  /// The `fileDoc` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileDoc` no estilo Bold.
+  ///
+  /// ![file-doc](https://api.iconify.design/ph/file-doc-bold.svg?height=32&color=%23888888)
   static const IconData fileDoc = IconData(
     0xeb1e,
     fontFamily: 'PhosphorBold',
@@ -4711,7 +7059,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-dotted.svg)
+  /// The `fileDotted` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileDotted` no estilo Bold.
+  ///
+  /// ![file-dotted](https://api.iconify.design/ph/file-dashed-bold.svg?height=32&color=%23888888)
   static const IconData fileDotted = IconData(
     0xe704,
     fontFamily: 'PhosphorBold',
@@ -4719,7 +7071,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-html](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-html.svg)
+  /// The `fileHtml` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileHtml` no estilo Bold.
+  ///
+  /// ![file-html](https://api.iconify.design/ph/file-html-bold.svg?height=32&color=%23888888)
   static const IconData fileHtml = IconData(
     0xeb38,
     fontFamily: 'PhosphorBold',
@@ -4727,7 +7083,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-image.svg)
+  /// The `fileImage` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileImage` no estilo Bold.
+  ///
+  /// ![file-image](https://api.iconify.design/ph/file-image-bold.svg?height=32&color=%23888888)
   static const IconData fileImage = IconData(
     0xea24,
     fontFamily: 'PhosphorBold',
@@ -4735,7 +7095,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-ini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ini.svg)
+  /// The `fileIni` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileIni` no estilo Bold.
+  ///
+  /// ![file-ini](https://api.iconify.design/ph/file-ini-bold.svg?height=32&color=%23888888)
   static const IconData fileIni = IconData(
     0xeb33,
     fontFamily: 'PhosphorBold',
@@ -4743,7 +7107,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-jpg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jpg.svg)
+  /// The `fileJpg` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileJpg` no estilo Bold.
+  ///
+  /// ![file-jpg](https://api.iconify.design/ph/file-jpg-bold.svg?height=32&color=%23888888)
   static const IconData fileJpg = IconData(
     0xeb1a,
     fontFamily: 'PhosphorBold',
@@ -4751,7 +7119,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-js](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-js.svg)
+  /// The `fileJs` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileJs` no estilo Bold.
+  ///
+  /// ![file-js](https://api.iconify.design/ph/file-js-bold.svg?height=32&color=%23888888)
   static const IconData fileJs = IconData(
     0xeb24,
     fontFamily: 'PhosphorBold',
@@ -4759,7 +7131,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-jsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-jsx.svg)
+  /// The `fileJsx` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileJsx` no estilo Bold.
+  ///
+  /// ![file-jsx](https://api.iconify.design/ph/file-jsx-bold.svg?height=32&color=%23888888)
   static const IconData fileJsx = IconData(
     0xeb3a,
     fontFamily: 'PhosphorBold',
@@ -4767,7 +7143,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-lock.svg)
+  /// The `fileLock` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileLock` no estilo Bold.
+  ///
+  /// ![file-lock](https://api.iconify.design/ph/file-lock-bold.svg?height=32&color=%23888888)
   static const IconData fileLock = IconData(
     0xe95c,
     fontFamily: 'PhosphorBold',
@@ -4775,7 +7155,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-magnifying-glass.svg)
+  /// The `fileMagnifyingGlass` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileMagnifyingGlass` no estilo Bold.
+  ///
+  /// ![file-magnifying-glass](https://api.iconify.design/ph/file-magnifying-glass-bold.svg?height=32&color=%23888888)
   static const IconData fileMagnifyingGlass = IconData(
     0xe238,
     fontFamily: 'PhosphorBold',
@@ -4783,7 +7167,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-md](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-md.svg)
+  /// The `fileMd` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileMd` no estilo Bold.
+  ///
+  /// ![file-md](https://api.iconify.design/ph/file-md-bold.svg?height=32&color=%23888888)
   static const IconData fileMd = IconData(
     0xed50,
     fontFamily: 'PhosphorBold',
@@ -4791,7 +7179,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-minus.svg)
+  /// The `fileMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileMinus` no estilo Bold.
+  ///
+  /// ![file-minus](https://api.iconify.design/ph/file-minus-bold.svg?height=32&color=%23888888)
   static const IconData fileMinus = IconData(
     0xe234,
     fontFamily: 'PhosphorBold',
@@ -4799,7 +7191,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-pdf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-pdf.svg)
+  /// The `filePdf` icon in Bold style.
+  ///
+  /// [PT] O ícone `filePdf` no estilo Bold.
+  ///
+  /// ![file-pdf](https://api.iconify.design/ph/file-pdf-bold.svg?height=32&color=%23888888)
   static const IconData filePdf = IconData(
     0xe702,
     fontFamily: 'PhosphorBold',
@@ -4807,7 +7203,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-plus.svg)
+  /// The `filePlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `filePlus` no estilo Bold.
+  ///
+  /// ![file-plus](https://api.iconify.design/ph/file-plus-bold.svg?height=32&color=%23888888)
   static const IconData filePlus = IconData(
     0xe236,
     fontFamily: 'PhosphorBold',
@@ -4815,7 +7215,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-png](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-png.svg)
+  /// The `filePng` icon in Bold style.
+  ///
+  /// [PT] O ícone `filePng` no estilo Bold.
+  ///
+  /// ![file-png](https://api.iconify.design/ph/file-png-bold.svg?height=32&color=%23888888)
   static const IconData filePng = IconData(
     0xeb18,
     fontFamily: 'PhosphorBold',
@@ -4823,7 +7227,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-ppt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ppt.svg)
+  /// The `filePpt` icon in Bold style.
+  ///
+  /// [PT] O ícone `filePpt` no estilo Bold.
+  ///
+  /// ![file-ppt](https://api.iconify.design/ph/file-ppt-bold.svg?height=32&color=%23888888)
   static const IconData filePpt = IconData(
     0xeb20,
     fontFamily: 'PhosphorBold',
@@ -4831,7 +7239,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-py](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-py.svg)
+  /// The `filePy` icon in Bold style.
+  ///
+  /// [PT] O ícone `filePy` no estilo Bold.
+  ///
+  /// ![file-py](https://api.iconify.design/ph/file-py-bold.svg?height=32&color=%23888888)
   static const IconData filePy = IconData(
     0xeb2c,
     fontFamily: 'PhosphorBold',
@@ -4839,7 +7251,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-rs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-rs.svg)
+  /// The `fileRs` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileRs` no estilo Bold.
+  ///
+  /// ![file-rs](https://api.iconify.design/ph/file-rs-bold.svg?height=32&color=%23888888)
   static const IconData fileRs = IconData(
     0xeb28,
     fontFamily: 'PhosphorBold',
@@ -4847,7 +7263,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-search](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-search.svg)
+  /// The `fileSearch` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileSearch` no estilo Bold.
+  ///
+  /// ![file-search](https://api.iconify.design/ph/file-magnifying-glass-bold.svg?height=32&color=%23888888)
   static const IconData fileSearch = IconData(
     0xe238,
     fontFamily: 'PhosphorBold',
@@ -4855,7 +7275,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-sql](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-sql.svg)
+  /// The `fileSql` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileSql` no estilo Bold.
+  ///
+  /// ![file-sql](https://api.iconify.design/ph/file-sql-bold.svg?height=32&color=%23888888)
   static const IconData fileSql = IconData(
     0xed4e,
     fontFamily: 'PhosphorBold',
@@ -4863,7 +7287,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-svg](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-svg.svg)
+  /// The `fileSvg` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileSvg` no estilo Bold.
+  ///
+  /// ![file-svg](https://api.iconify.design/ph/file-svg-bold.svg?height=32&color=%23888888)
   static const IconData fileSvg = IconData(
     0xed08,
     fontFamily: 'PhosphorBold',
@@ -4871,7 +7299,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-text](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-text.svg)
+  /// The `fileText` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileText` no estilo Bold.
+  ///
+  /// ![file-text](https://api.iconify.design/ph/file-text-bold.svg?height=32&color=%23888888)
   static const IconData fileText = IconData(
     0xe23a,
     fontFamily: 'PhosphorBold',
@@ -4879,7 +7311,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-ts](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-ts.svg)
+  /// The `fileTs` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileTs` no estilo Bold.
+  ///
+  /// ![file-ts](https://api.iconify.design/ph/file-ts-bold.svg?height=32&color=%23888888)
   static const IconData fileTs = IconData(
     0xeb26,
     fontFamily: 'PhosphorBold',
@@ -4887,7 +7323,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-tsx](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-tsx.svg)
+  /// The `fileTsx` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileTsx` no estilo Bold.
+  ///
+  /// ![file-tsx](https://api.iconify.design/ph/file-tsx-bold.svg?height=32&color=%23888888)
   static const IconData fileTsx = IconData(
     0xeb3c,
     fontFamily: 'PhosphorBold',
@@ -4895,7 +7335,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-txt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-txt.svg)
+  /// The `fileTxt` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileTxt` no estilo Bold.
+  ///
+  /// ![file-txt](https://api.iconify.design/ph/file-txt-bold.svg?height=32&color=%23888888)
   static const IconData fileTxt = IconData(
     0xeb35,
     fontFamily: 'PhosphorBold',
@@ -4903,7 +7347,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-video.svg)
+  /// The `fileVideo` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileVideo` no estilo Bold.
+  ///
+  /// ![file-video](https://api.iconify.design/ph/file-video-bold.svg?height=32&color=%23888888)
   static const IconData fileVideo = IconData(
     0xea22,
     fontFamily: 'PhosphorBold',
@@ -4911,7 +7359,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-vue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-vue.svg)
+  /// The `fileVue` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileVue` no estilo Bold.
+  ///
+  /// ![file-vue](https://api.iconify.design/ph/file-vue-bold.svg?height=32&color=%23888888)
   static const IconData fileVue = IconData(
     0xeb3e,
     fontFamily: 'PhosphorBold',
@@ -4919,7 +7371,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-x.svg)
+  /// The `fileX` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileX` no estilo Bold.
+  ///
+  /// ![file-x](https://api.iconify.design/ph/file-x-bold.svg?height=32&color=%23888888)
   static const IconData fileX = IconData(
     0xe23c,
     fontFamily: 'PhosphorBold',
@@ -4927,7 +7383,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-xls](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-xls.svg)
+  /// The `fileXls` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileXls` no estilo Bold.
+  ///
+  /// ![file-xls](https://api.iconify.design/ph/file-xls-bold.svg?height=32&color=%23888888)
   static const IconData fileXls = IconData(
     0xeb22,
     fontFamily: 'PhosphorBold',
@@ -4935,7 +7395,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![file-zip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/file-zip.svg)
+  /// The `fileZip` icon in Bold style.
+  ///
+  /// [PT] O ícone `fileZip` no estilo Bold.
+  ///
+  /// ![file-zip](https://api.iconify.design/ph/file-zip-bold.svg?height=32&color=%23888888)
   static const IconData fileZip = IconData(
     0xe958,
     fontFamily: 'PhosphorBold',
@@ -4943,7 +7407,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![files](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/files.svg)
+  /// The `files` icon in Bold style.
+  ///
+  /// [PT] O ícone `files` no estilo Bold.
+  ///
+  /// ![files](https://api.iconify.design/ph/files-bold.svg?height=32&color=%23888888)
   static const IconData files = IconData(
     0xe710,
     fontFamily: 'PhosphorBold',
@@ -4951,7 +7419,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![film-reel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-reel.svg)
+  /// The `filmReel` icon in Bold style.
+  ///
+  /// [PT] O ícone `filmReel` no estilo Bold.
+  ///
+  /// ![film-reel](https://api.iconify.design/ph/film-reel-bold.svg?height=32&color=%23888888)
   static const IconData filmReel = IconData(
     0xe8c0,
     fontFamily: 'PhosphorBold',
@@ -4959,7 +7431,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![film-script](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-script.svg)
+  /// The `filmScript` icon in Bold style.
+  ///
+  /// [PT] O ícone `filmScript` no estilo Bold.
+  ///
+  /// ![film-script](https://api.iconify.design/ph/film-script-bold.svg?height=32&color=%23888888)
   static const IconData filmScript = IconData(
     0xeb50,
     fontFamily: 'PhosphorBold',
@@ -4967,7 +7443,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![film-slate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-slate.svg)
+  /// The `filmSlate` icon in Bold style.
+  ///
+  /// [PT] O ícone `filmSlate` no estilo Bold.
+  ///
+  /// ![film-slate](https://api.iconify.design/ph/film-slate-bold.svg?height=32&color=%23888888)
   static const IconData filmSlate = IconData(
     0xe8c2,
     fontFamily: 'PhosphorBold',
@@ -4975,7 +7455,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![film-strip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/film-strip.svg)
+  /// The `filmStrip` icon in Bold style.
+  ///
+  /// [PT] O ícone `filmStrip` no estilo Bold.
+  ///
+  /// ![film-strip](https://api.iconify.design/ph/film-strip-bold.svg?height=32&color=%23888888)
   static const IconData filmStrip = IconData(
     0xe792,
     fontFamily: 'PhosphorBold',
@@ -4983,7 +7467,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fingerprint](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint.svg)
+  /// The `fingerprint` icon in Bold style.
+  ///
+  /// [PT] O ícone `fingerprint` no estilo Bold.
+  ///
+  /// ![fingerprint](https://api.iconify.design/ph/fingerprint-bold.svg?height=32&color=%23888888)
   static const IconData fingerprint = IconData(
     0xe23e,
     fontFamily: 'PhosphorBold',
@@ -4991,7 +7479,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fingerprint-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fingerprint-simple.svg)
+  /// The `fingerprintSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `fingerprintSimple` no estilo Bold.
+  ///
+  /// ![fingerprint-simple](https://api.iconify.design/ph/fingerprint-simple-bold.svg?height=32&color=%23888888)
   static const IconData fingerprintSimple = IconData(
     0xe240,
     fontFamily: 'PhosphorBold',
@@ -4999,7 +7491,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![finn-the-human](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/finn-the-human.svg)
+  /// The `finnTheHuman` icon in Bold style.
+  ///
+  /// [PT] O ícone `finnTheHuman` no estilo Bold.
+  ///
+  /// ![finn-the-human](https://api.iconify.design/ph/finn-the-human-bold.svg?height=32&color=%23888888)
   static const IconData finnTheHuman = IconData(
     0xe56c,
     fontFamily: 'PhosphorBold',
@@ -5007,7 +7503,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire.svg)
+  /// The `fire` icon in Bold style.
+  ///
+  /// [PT] O ícone `fire` no estilo Bold.
+  ///
+  /// ![fire](https://api.iconify.design/ph/fire-bold.svg?height=32&color=%23888888)
   static const IconData fire = IconData(
     0xe242,
     fontFamily: 'PhosphorBold',
@@ -5015,7 +7515,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fire-extinguisher](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-extinguisher.svg)
+  /// The `fireExtinguisher` icon in Bold style.
+  ///
+  /// [PT] O ícone `fireExtinguisher` no estilo Bold.
+  ///
+  /// ![fire-extinguisher](https://api.iconify.design/ph/fire-extinguisher-bold.svg?height=32&color=%23888888)
   static const IconData fireExtinguisher = IconData(
     0xe9e8,
     fontFamily: 'PhosphorBold',
@@ -5023,7 +7527,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fire-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-simple.svg)
+  /// The `fireSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `fireSimple` no estilo Bold.
+  ///
+  /// ![fire-simple](https://api.iconify.design/ph/fire-simple-bold.svg?height=32&color=%23888888)
   static const IconData fireSimple = IconData(
     0xe620,
     fontFamily: 'PhosphorBold',
@@ -5031,7 +7539,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fire-truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fire-truck.svg)
+  /// The `fireTruck` icon in Bold style.
+  ///
+  /// [PT] O ícone `fireTruck` no estilo Bold.
+  ///
+  /// ![fire-truck](https://api.iconify.design/ph/fire-truck-bold.svg?height=32&color=%23888888)
   static const IconData fireTruck = IconData(
     0xe574,
     fontFamily: 'PhosphorBold',
@@ -5039,7 +7551,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![first-aid](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid.svg)
+  /// The `firstAid` icon in Bold style.
+  ///
+  /// [PT] O ícone `firstAid` no estilo Bold.
+  ///
+  /// ![first-aid](https://api.iconify.design/ph/first-aid-bold.svg?height=32&color=%23888888)
   static const IconData firstAid = IconData(
     0xe56e,
     fontFamily: 'PhosphorBold',
@@ -5047,7 +7563,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![first-aid-kit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/first-aid-kit.svg)
+  /// The `firstAidKit` icon in Bold style.
+  ///
+  /// [PT] O ícone `firstAidKit` no estilo Bold.
+  ///
+  /// ![first-aid-kit](https://api.iconify.design/ph/first-aid-kit-bold.svg?height=32&color=%23888888)
   static const IconData firstAidKit = IconData(
     0xe570,
     fontFamily: 'PhosphorBold',
@@ -5055,7 +7575,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fish](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish.svg)
+  /// The `fish` icon in Bold style.
+  ///
+  /// [PT] O ícone `fish` no estilo Bold.
+  ///
+  /// ![fish](https://api.iconify.design/ph/fish-bold.svg?height=32&color=%23888888)
   static const IconData fish = IconData(
     0xe728,
     fontFamily: 'PhosphorBold',
@@ -5063,7 +7587,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fish-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fish-simple.svg)
+  /// The `fishSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `fishSimple` no estilo Bold.
+  ///
+  /// ![fish-simple](https://api.iconify.design/ph/fish-simple-bold.svg?height=32&color=%23888888)
   static const IconData fishSimple = IconData(
     0xe72a,
     fontFamily: 'PhosphorBold',
@@ -5071,7 +7599,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag.svg)
+  /// The `flag` icon in Bold style.
+  ///
+  /// [PT] O ícone `flag` no estilo Bold.
+  ///
+  /// ![flag](https://api.iconify.design/ph/flag-bold.svg?height=32&color=%23888888)
   static const IconData flag = IconData(
     0xe244,
     fontFamily: 'PhosphorBold',
@@ -5079,7 +7611,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flag-banner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner.svg)
+  /// The `flagBanner` icon in Bold style.
+  ///
+  /// [PT] O ícone `flagBanner` no estilo Bold.
+  ///
+  /// ![flag-banner](https://api.iconify.design/ph/flag-banner-bold.svg?height=32&color=%23888888)
   static const IconData flagBanner = IconData(
     0xe622,
     fontFamily: 'PhosphorBold',
@@ -5087,7 +7623,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flag-banner-fold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-banner-fold.svg)
+  /// The `flagBannerFold` icon in Bold style.
+  ///
+  /// [PT] O ícone `flagBannerFold` no estilo Bold.
+  ///
+  /// ![flag-banner-fold](https://api.iconify.design/ph/flag-banner-fold-bold.svg?height=32&color=%23888888)
   static const IconData flagBannerFold = IconData(
     0xecf2,
     fontFamily: 'PhosphorBold',
@@ -5095,7 +7635,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flag-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-checkered.svg)
+  /// The `flagCheckered` icon in Bold style.
+  ///
+  /// [PT] O ícone `flagCheckered` no estilo Bold.
+  ///
+  /// ![flag-checkered](https://api.iconify.design/ph/flag-checkered-bold.svg?height=32&color=%23888888)
   static const IconData flagCheckered = IconData(
     0xea38,
     fontFamily: 'PhosphorBold',
@@ -5103,7 +7647,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flag-pennant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flag-pennant.svg)
+  /// The `flagPennant` icon in Bold style.
+  ///
+  /// [PT] O ícone `flagPennant` no estilo Bold.
+  ///
+  /// ![flag-pennant](https://api.iconify.design/ph/flag-pennant-bold.svg?height=32&color=%23888888)
   static const IconData flagPennant = IconData(
     0xecf0,
     fontFamily: 'PhosphorBold',
@@ -5111,7 +7659,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flame](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flame.svg)
+  /// The `flame` icon in Bold style.
+  ///
+  /// [PT] O ícone `flame` no estilo Bold.
+  ///
+  /// ![flame](https://api.iconify.design/ph/flame-bold.svg?height=32&color=%23888888)
   static const IconData flame = IconData(
     0xe624,
     fontFamily: 'PhosphorBold',
@@ -5119,7 +7671,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flashlight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flashlight.svg)
+  /// The `flashlight` icon in Bold style.
+  ///
+  /// [PT] O ícone `flashlight` no estilo Bold.
+  ///
+  /// ![flashlight](https://api.iconify.design/ph/flashlight-bold.svg?height=32&color=%23888888)
   static const IconData flashlight = IconData(
     0xe246,
     fontFamily: 'PhosphorBold',
@@ -5127,7 +7683,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flask](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flask.svg)
+  /// The `flask` icon in Bold style.
+  ///
+  /// [PT] O ícone `flask` no estilo Bold.
+  ///
+  /// ![flask](https://api.iconify.design/ph/flask-bold.svg?height=32&color=%23888888)
   static const IconData flask = IconData(
     0xe79e,
     fontFamily: 'PhosphorBold',
@@ -5135,7 +7695,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-horizontal.svg)
+  /// The `flipHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `flipHorizontal` no estilo Bold.
+  ///
+  /// ![flip-horizontal](https://api.iconify.design/ph/flip-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData flipHorizontal = IconData(
     0xed6a,
     fontFamily: 'PhosphorBold',
@@ -5143,7 +7707,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flip-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flip-vertical.svg)
+  /// The `flipVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `flipVertical` no estilo Bold.
+  ///
+  /// ![flip-vertical](https://api.iconify.design/ph/flip-vertical-bold.svg?height=32&color=%23888888)
   static const IconData flipVertical = IconData(
     0xed6c,
     fontFamily: 'PhosphorBold',
@@ -5151,7 +7719,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![floppy-disk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk.svg)
+  /// The `floppyDisk` icon in Bold style.
+  ///
+  /// [PT] O ícone `floppyDisk` no estilo Bold.
+  ///
+  /// ![floppy-disk](https://api.iconify.design/ph/floppy-disk-bold.svg?height=32&color=%23888888)
   static const IconData floppyDisk = IconData(
     0xe248,
     fontFamily: 'PhosphorBold',
@@ -5159,7 +7731,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![floppy-disk-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/floppy-disk-back.svg)
+  /// The `floppyDiskBack` icon in Bold style.
+  ///
+  /// [PT] O ícone `floppyDiskBack` no estilo Bold.
+  ///
+  /// ![floppy-disk-back](https://api.iconify.design/ph/floppy-disk-back-bold.svg?height=32&color=%23888888)
   static const IconData floppyDiskBack = IconData(
     0xeaf4,
     fontFamily: 'PhosphorBold',
@@ -5167,7 +7743,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flow-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flow-arrow.svg)
+  /// The `flowArrow` icon in Bold style.
+  ///
+  /// [PT] O ícone `flowArrow` no estilo Bold.
+  ///
+  /// ![flow-arrow](https://api.iconify.design/ph/flow-arrow-bold.svg?height=32&color=%23888888)
   static const IconData flowArrow = IconData(
     0xe6ec,
     fontFamily: 'PhosphorBold',
@@ -5175,7 +7755,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower.svg)
+  /// The `flower` icon in Bold style.
+  ///
+  /// [PT] O ícone `flower` no estilo Bold.
+  ///
+  /// ![flower](https://api.iconify.design/ph/flower-bold.svg?height=32&color=%23888888)
   static const IconData flower = IconData(
     0xe75e,
     fontFamily: 'PhosphorBold',
@@ -5183,7 +7767,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flower-lotus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-lotus.svg)
+  /// The `flowerLotus` icon in Bold style.
+  ///
+  /// [PT] O ícone `flowerLotus` no estilo Bold.
+  ///
+  /// ![flower-lotus](https://api.iconify.design/ph/flower-lotus-bold.svg?height=32&color=%23888888)
   static const IconData flowerLotus = IconData(
     0xe6cc,
     fontFamily: 'PhosphorBold',
@@ -5191,7 +7779,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flower-tulip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flower-tulip.svg)
+  /// The `flowerTulip` icon in Bold style.
+  ///
+  /// [PT] O ícone `flowerTulip` no estilo Bold.
+  ///
+  /// ![flower-tulip](https://api.iconify.design/ph/flower-tulip-bold.svg?height=32&color=%23888888)
   static const IconData flowerTulip = IconData(
     0xeacc,
     fontFamily: 'PhosphorBold',
@@ -5199,7 +7791,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![flying-saucer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/flying-saucer.svg)
+  /// The `flyingSaucer` icon in Bold style.
+  ///
+  /// [PT] O ícone `flyingSaucer` no estilo Bold.
+  ///
+  /// ![flying-saucer](https://api.iconify.design/ph/flying-saucer-bold.svg?height=32&color=%23888888)
   static const IconData flyingSaucer = IconData(
     0xeb4a,
     fontFamily: 'PhosphorBold',
@@ -5207,7 +7803,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder.svg)
+  /// The `folder` icon in Bold style.
+  ///
+  /// [PT] O ícone `folder` no estilo Bold.
+  ///
+  /// ![folder](https://api.iconify.design/ph/folder-bold.svg?height=32&color=%23888888)
   static const IconData folder = IconData(
     0xe24a,
     fontFamily: 'PhosphorBold',
@@ -5215,7 +7815,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-dashed.svg)
+  /// The `folderDashed` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderDashed` no estilo Bold.
+  ///
+  /// ![folder-dashed](https://api.iconify.design/ph/folder-dashed-bold.svg?height=32&color=%23888888)
   static const IconData folderDashed = IconData(
     0xe8f8,
     fontFamily: 'PhosphorBold',
@@ -5223,7 +7827,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-dotted.svg)
+  /// The `folderDotted` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderDotted` no estilo Bold.
+  ///
+  /// ![folder-dotted](https://api.iconify.design/ph/folder-dashed-bold.svg?height=32&color=%23888888)
   static const IconData folderDotted = IconData(
     0xe8f8,
     fontFamily: 'PhosphorBold',
@@ -5231,7 +7839,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-lock.svg)
+  /// The `folderLock` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderLock` no estilo Bold.
+  ///
+  /// ![folder-lock](https://api.iconify.design/ph/folder-lock-bold.svg?height=32&color=%23888888)
   static const IconData folderLock = IconData(
     0xea3c,
     fontFamily: 'PhosphorBold',
@@ -5239,7 +7851,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-minus.svg)
+  /// The `folderMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderMinus` no estilo Bold.
+  ///
+  /// ![folder-minus](https://api.iconify.design/ph/folder-minus-bold.svg?height=32&color=%23888888)
   static const IconData folderMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorBold',
@@ -5247,7 +7863,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-notch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-notch.svg)
+  /// The `folderNotch` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderNotch` no estilo Bold.
+  ///
+  /// ![folder-notch](https://api.iconify.design/ph/folder-bold.svg?height=32&color=%23888888)
   static const IconData folderNotch = IconData(
     0xe24a,
     fontFamily: 'PhosphorBold',
@@ -5255,7 +7875,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-notch-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-notch-minus.svg)
+  /// The `folderNotchMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderNotchMinus` no estilo Bold.
+  ///
+  /// ![folder-notch-minus](https://api.iconify.design/ph/folder-minus-bold.svg?height=32&color=%23888888)
   static const IconData folderNotchMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorBold',
@@ -5263,7 +7887,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-notch-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-notch-open.svg)
+  /// The `folderNotchOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderNotchOpen` no estilo Bold.
+  ///
+  /// ![folder-notch-open](https://api.iconify.design/ph/folder-open-bold.svg?height=32&color=%23888888)
   static const IconData folderNotchOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorBold',
@@ -5271,7 +7899,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-notch-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-notch-plus.svg)
+  /// The `folderNotchPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderNotchPlus` no estilo Bold.
+  ///
+  /// ![folder-notch-plus](https://api.iconify.design/ph/folder-plus-bold.svg?height=32&color=%23888888)
   static const IconData folderNotchPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorBold',
@@ -5279,7 +7911,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-open.svg)
+  /// The `folderOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderOpen` no estilo Bold.
+  ///
+  /// ![folder-open](https://api.iconify.design/ph/folder-open-bold.svg?height=32&color=%23888888)
   static const IconData folderOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorBold',
@@ -5287,7 +7923,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-plus.svg)
+  /// The `folderPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderPlus` no estilo Bold.
+  ///
+  /// ![folder-plus](https://api.iconify.design/ph/folder-plus-bold.svg?height=32&color=%23888888)
   static const IconData folderPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorBold',
@@ -5295,7 +7935,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple.svg)
+  /// The `folderSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimple` no estilo Bold.
+  ///
+  /// ![folder-simple](https://api.iconify.design/ph/folder-simple-bold.svg?height=32&color=%23888888)
   static const IconData folderSimple = IconData(
     0xe25a,
     fontFamily: 'PhosphorBold',
@@ -5303,7 +7947,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-dashed.svg)
+  /// The `folderSimpleDashed` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimpleDashed` no estilo Bold.
+  ///
+  /// ![folder-simple-dashed](https://api.iconify.design/ph/folder-simple-dashed-bold.svg?height=32&color=%23888888)
   static const IconData folderSimpleDashed = IconData(
     0xec2a,
     fontFamily: 'PhosphorBold',
@@ -5311,7 +7959,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple-dotted](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-dotted.svg)
+  /// The `folderSimpleDotted` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimpleDotted` no estilo Bold.
+  ///
+  /// ![folder-simple-dotted](https://api.iconify.design/ph/folder-simple-dashed-bold.svg?height=32&color=%23888888)
   static const IconData folderSimpleDotted = IconData(
     0xec2a,
     fontFamily: 'PhosphorBold',
@@ -5319,7 +7971,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple-lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-lock.svg)
+  /// The `folderSimpleLock` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimpleLock` no estilo Bold.
+  ///
+  /// ![folder-simple-lock](https://api.iconify.design/ph/folder-simple-lock-bold.svg?height=32&color=%23888888)
   static const IconData folderSimpleLock = IconData(
     0xeb5e,
     fontFamily: 'PhosphorBold',
@@ -5327,7 +7983,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-minus.svg)
+  /// The `folderSimpleMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimpleMinus` no estilo Bold.
+  ///
+  /// ![folder-simple-minus](https://api.iconify.design/ph/folder-simple-minus-bold.svg?height=32&color=%23888888)
   static const IconData folderSimpleMinus = IconData(
     0xe25c,
     fontFamily: 'PhosphorBold',
@@ -5335,7 +7995,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-plus.svg)
+  /// The `folderSimplePlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimplePlus` no estilo Bold.
+  ///
+  /// ![folder-simple-plus](https://api.iconify.design/ph/folder-simple-plus-bold.svg?height=32&color=%23888888)
   static const IconData folderSimplePlus = IconData(
     0xe25e,
     fontFamily: 'PhosphorBold',
@@ -5343,7 +8007,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-star.svg)
+  /// The `folderSimpleStar` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimpleStar` no estilo Bold.
+  ///
+  /// ![folder-simple-star](https://api.iconify.design/ph/folder-simple-star-bold.svg?height=32&color=%23888888)
   static const IconData folderSimpleStar = IconData(
     0xec2e,
     fontFamily: 'PhosphorBold',
@@ -5351,7 +8019,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-simple-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-simple-user.svg)
+  /// The `folderSimpleUser` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderSimpleUser` no estilo Bold.
+  ///
+  /// ![folder-simple-user](https://api.iconify.design/ph/folder-simple-user-bold.svg?height=32&color=%23888888)
   static const IconData folderSimpleUser = IconData(
     0xeb60,
     fontFamily: 'PhosphorBold',
@@ -5359,7 +8031,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-star.svg)
+  /// The `folderStar` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderStar` no estilo Bold.
+  ///
+  /// ![folder-star](https://api.iconify.design/ph/folder-star-bold.svg?height=32&color=%23888888)
   static const IconData folderStar = IconData(
     0xea86,
     fontFamily: 'PhosphorBold',
@@ -5367,7 +8043,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folder-user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folder-user.svg)
+  /// The `folderUser` icon in Bold style.
+  ///
+  /// [PT] O ícone `folderUser` no estilo Bold.
+  ///
+  /// ![folder-user](https://api.iconify.design/ph/folder-user-bold.svg?height=32&color=%23888888)
   static const IconData folderUser = IconData(
     0xeb46,
     fontFamily: 'PhosphorBold',
@@ -5375,7 +8055,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![folders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/folders.svg)
+  /// The `folders` icon in Bold style.
+  ///
+  /// [PT] O ícone `folders` no estilo Bold.
+  ///
+  /// ![folders](https://api.iconify.design/ph/folders-bold.svg?height=32&color=%23888888)
   static const IconData folders = IconData(
     0xe260,
     fontFamily: 'PhosphorBold',
@@ -5383,7 +8067,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![football](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football.svg)
+  /// The `football` icon in Bold style.
+  ///
+  /// [PT] O ícone `football` no estilo Bold.
+  ///
+  /// ![football](https://api.iconify.design/ph/football-bold.svg?height=32&color=%23888888)
   static const IconData football = IconData(
     0xe718,
     fontFamily: 'PhosphorBold',
@@ -5391,7 +8079,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![football-helmet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/football-helmet.svg)
+  /// The `footballHelmet` icon in Bold style.
+  ///
+  /// [PT] O ícone `footballHelmet` no estilo Bold.
+  ///
+  /// ![football-helmet](https://api.iconify.design/ph/football-helmet-bold.svg?height=32&color=%23888888)
   static const IconData footballHelmet = IconData(
     0xee4c,
     fontFamily: 'PhosphorBold',
@@ -5399,7 +8091,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![footprints](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/footprints.svg)
+  /// The `footprints` icon in Bold style.
+  ///
+  /// [PT] O ícone `footprints` no estilo Bold.
+  ///
+  /// ![footprints](https://api.iconify.design/ph/footprints-bold.svg?height=32&color=%23888888)
   static const IconData footprints = IconData(
     0xea88,
     fontFamily: 'PhosphorBold',
@@ -5407,7 +8103,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![fork-knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/fork-knife.svg)
+  /// The `forkKnife` icon in Bold style.
+  ///
+  /// [PT] O ícone `forkKnife` no estilo Bold.
+  ///
+  /// ![fork-knife](https://api.iconify.design/ph/fork-knife-bold.svg?height=32&color=%23888888)
   static const IconData forkKnife = IconData(
     0xe262,
     fontFamily: 'PhosphorBold',
@@ -5415,7 +8115,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![four-k](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/four-k.svg)
+  /// The `fourK` icon in Bold style.
+  ///
+  /// [PT] O ícone `fourK` no estilo Bold.
+  ///
+  /// ![four-k](https://api.iconify.design/ph/four-k-bold.svg?height=32&color=%23888888)
   static const IconData fourK = IconData(
     0xea5c,
     fontFamily: 'PhosphorBold',
@@ -5423,7 +8127,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![frame-corners](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/frame-corners.svg)
+  /// The `frameCorners` icon in Bold style.
+  ///
+  /// [PT] O ícone `frameCorners` no estilo Bold.
+  ///
+  /// ![frame-corners](https://api.iconify.design/ph/frame-corners-bold.svg?height=32&color=%23888888)
   static const IconData frameCorners = IconData(
     0xe626,
     fontFamily: 'PhosphorBold',
@@ -5431,7 +8139,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![framer-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/framer-logo.svg)
+  /// The `framerLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `framerLogo` no estilo Bold.
+  ///
+  /// ![framer-logo](https://api.iconify.design/ph/framer-logo-bold.svg?height=32&color=%23888888)
   static const IconData framerLogo = IconData(
     0xe264,
     fontFamily: 'PhosphorBold',
@@ -5439,7 +8151,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![function](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/function.svg)
+  /// The `function` icon in Bold style.
+  ///
+  /// [PT] O ícone `function` no estilo Bold.
+  ///
+  /// ![function](https://api.iconify.design/ph/function-bold.svg?height=32&color=%23888888)
   static const IconData function = IconData(
     0xebe4,
     fontFamily: 'PhosphorBold',
@@ -5447,7 +8163,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![funnel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel.svg)
+  /// The `funnel` icon in Bold style.
+  ///
+  /// [PT] O ícone `funnel` no estilo Bold.
+  ///
+  /// ![funnel](https://api.iconify.design/ph/funnel-bold.svg?height=32&color=%23888888)
   static const IconData funnel = IconData(
     0xe266,
     fontFamily: 'PhosphorBold',
@@ -5455,7 +8175,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![funnel-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple.svg)
+  /// The `funnelSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `funnelSimple` no estilo Bold.
+  ///
+  /// ![funnel-simple](https://api.iconify.design/ph/funnel-simple-bold.svg?height=32&color=%23888888)
   static const IconData funnelSimple = IconData(
     0xe268,
     fontFamily: 'PhosphorBold',
@@ -5463,7 +8187,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![funnel-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-simple-x.svg)
+  /// The `funnelSimpleX` icon in Bold style.
+  ///
+  /// [PT] O ícone `funnelSimpleX` no estilo Bold.
+  ///
+  /// ![funnel-simple-x](https://api.iconify.design/ph/funnel-simple-x-bold.svg?height=32&color=%23888888)
   static const IconData funnelSimpleX = IconData(
     0xe26a,
     fontFamily: 'PhosphorBold',
@@ -5471,7 +8199,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![funnel-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/funnel-x.svg)
+  /// The `funnelX` icon in Bold style.
+  ///
+  /// [PT] O ícone `funnelX` no estilo Bold.
+  ///
+  /// ![funnel-x](https://api.iconify.design/ph/funnel-x-bold.svg?height=32&color=%23888888)
   static const IconData funnelX = IconData(
     0xe26c,
     fontFamily: 'PhosphorBold',
@@ -5479,7 +8211,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![game-controller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/game-controller.svg)
+  /// The `gameController` icon in Bold style.
+  ///
+  /// [PT] O ícone `gameController` no estilo Bold.
+  ///
+  /// ![game-controller](https://api.iconify.design/ph/game-controller-bold.svg?height=32&color=%23888888)
   static const IconData gameController = IconData(
     0xe26e,
     fontFamily: 'PhosphorBold',
@@ -5487,7 +8223,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![garage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/garage.svg)
+  /// The `garage` icon in Bold style.
+  ///
+  /// [PT] O ícone `garage` no estilo Bold.
+  ///
+  /// ![garage](https://api.iconify.design/ph/garage-bold.svg?height=32&color=%23888888)
   static const IconData garage = IconData(
     0xecd6,
     fontFamily: 'PhosphorBold',
@@ -5495,7 +8235,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gas-can](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-can.svg)
+  /// The `gasCan` icon in Bold style.
+  ///
+  /// [PT] O ícone `gasCan` no estilo Bold.
+  ///
+  /// ![gas-can](https://api.iconify.design/ph/gas-can-bold.svg?height=32&color=%23888888)
   static const IconData gasCan = IconData(
     0xe8ce,
     fontFamily: 'PhosphorBold',
@@ -5503,7 +8247,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gas-pump](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gas-pump.svg)
+  /// The `gasPump` icon in Bold style.
+  ///
+  /// [PT] O ícone `gasPump` no estilo Bold.
+  ///
+  /// ![gas-pump](https://api.iconify.design/ph/gas-pump-bold.svg?height=32&color=%23888888)
   static const IconData gasPump = IconData(
     0xe768,
     fontFamily: 'PhosphorBold',
@@ -5511,7 +8259,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gauge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gauge.svg)
+  /// The `gauge` icon in Bold style.
+  ///
+  /// [PT] O ícone `gauge` no estilo Bold.
+  ///
+  /// ![gauge](https://api.iconify.design/ph/gauge-bold.svg?height=32&color=%23888888)
   static const IconData gauge = IconData(
     0xe628,
     fontFamily: 'PhosphorBold',
@@ -5519,7 +8271,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gavel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gavel.svg)
+  /// The `gavel` icon in Bold style.
+  ///
+  /// [PT] O ícone `gavel` no estilo Bold.
+  ///
+  /// ![gavel](https://api.iconify.design/ph/gavel-bold.svg?height=32&color=%23888888)
   static const IconData gavel = IconData(
     0xea32,
     fontFamily: 'PhosphorBold',
@@ -5527,7 +8283,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear.svg)
+  /// The `gear` icon in Bold style.
+  ///
+  /// [PT] O ícone `gear` no estilo Bold.
+  ///
+  /// ![gear](https://api.iconify.design/ph/gear-bold.svg?height=32&color=%23888888)
   static const IconData gear = IconData(
     0xe270,
     fontFamily: 'PhosphorBold',
@@ -5535,7 +8295,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gear-fine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-fine.svg)
+  /// The `gearFine` icon in Bold style.
+  ///
+  /// [PT] O ícone `gearFine` no estilo Bold.
+  ///
+  /// ![gear-fine](https://api.iconify.design/ph/gear-fine-bold.svg?height=32&color=%23888888)
   static const IconData gearFine = IconData(
     0xe87c,
     fontFamily: 'PhosphorBold',
@@ -5543,7 +8307,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gear-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gear-six.svg)
+  /// The `gearSix` icon in Bold style.
+  ///
+  /// [PT] O ícone `gearSix` no estilo Bold.
+  ///
+  /// ![gear-six](https://api.iconify.design/ph/gear-six-bold.svg?height=32&color=%23888888)
   static const IconData gearSix = IconData(
     0xe272,
     fontFamily: 'PhosphorBold',
@@ -5551,7 +8319,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gender-female](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-female.svg)
+  /// The `genderFemale` icon in Bold style.
+  ///
+  /// [PT] O ícone `genderFemale` no estilo Bold.
+  ///
+  /// ![gender-female](https://api.iconify.design/ph/gender-female-bold.svg?height=32&color=%23888888)
   static const IconData genderFemale = IconData(
     0xe6e0,
     fontFamily: 'PhosphorBold',
@@ -5559,7 +8331,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gender-intersex](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-intersex.svg)
+  /// The `genderIntersex` icon in Bold style.
+  ///
+  /// [PT] O ícone `genderIntersex` no estilo Bold.
+  ///
+  /// ![gender-intersex](https://api.iconify.design/ph/gender-intersex-bold.svg?height=32&color=%23888888)
   static const IconData genderIntersex = IconData(
     0xe6e6,
     fontFamily: 'PhosphorBold',
@@ -5567,7 +8343,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gender-male](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-male.svg)
+  /// The `genderMale` icon in Bold style.
+  ///
+  /// [PT] O ícone `genderMale` no estilo Bold.
+  ///
+  /// ![gender-male](https://api.iconify.design/ph/gender-male-bold.svg?height=32&color=%23888888)
   static const IconData genderMale = IconData(
     0xe6e2,
     fontFamily: 'PhosphorBold',
@@ -5575,7 +8355,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gender-neuter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-neuter.svg)
+  /// The `genderNeuter` icon in Bold style.
+  ///
+  /// [PT] O ícone `genderNeuter` no estilo Bold.
+  ///
+  /// ![gender-neuter](https://api.iconify.design/ph/gender-neuter-bold.svg?height=32&color=%23888888)
   static const IconData genderNeuter = IconData(
     0xe6ea,
     fontFamily: 'PhosphorBold',
@@ -5583,7 +8367,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gender-nonbinary](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-nonbinary.svg)
+  /// The `genderNonbinary` icon in Bold style.
+  ///
+  /// [PT] O ícone `genderNonbinary` no estilo Bold.
+  ///
+  /// ![gender-nonbinary](https://api.iconify.design/ph/gender-nonbinary-bold.svg?height=32&color=%23888888)
   static const IconData genderNonbinary = IconData(
     0xe6e4,
     fontFamily: 'PhosphorBold',
@@ -5591,7 +8379,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gender-transgender](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gender-transgender.svg)
+  /// The `genderTransgender` icon in Bold style.
+  ///
+  /// [PT] O ícone `genderTransgender` no estilo Bold.
+  ///
+  /// ![gender-transgender](https://api.iconify.design/ph/gender-transgender-bold.svg?height=32&color=%23888888)
   static const IconData genderTransgender = IconData(
     0xe6e8,
     fontFamily: 'PhosphorBold',
@@ -5599,7 +8391,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ghost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ghost.svg)
+  /// The `ghost` icon in Bold style.
+  ///
+  /// [PT] O ícone `ghost` no estilo Bold.
+  ///
+  /// ![ghost](https://api.iconify.design/ph/ghost-bold.svg?height=32&color=%23888888)
   static const IconData ghost = IconData(
     0xe62a,
     fontFamily: 'PhosphorBold',
@@ -5607,7 +8403,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gif](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gif.svg)
+  /// The `gif` icon in Bold style.
+  ///
+  /// [PT] O ícone `gif` no estilo Bold.
+  ///
+  /// ![gif](https://api.iconify.design/ph/gif-bold.svg?height=32&color=%23888888)
   static const IconData gif = IconData(
     0xe274,
     fontFamily: 'PhosphorBold',
@@ -5615,7 +8415,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gift](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gift.svg)
+  /// The `gift` icon in Bold style.
+  ///
+  /// [PT] O ícone `gift` no estilo Bold.
+  ///
+  /// ![gift](https://api.iconify.design/ph/gift-bold.svg?height=32&color=%23888888)
   static const IconData gift = IconData(
     0xe276,
     fontFamily: 'PhosphorBold',
@@ -5623,7 +8427,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![git-branch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-branch.svg)
+  /// The `gitBranch` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitBranch` no estilo Bold.
+  ///
+  /// ![git-branch](https://api.iconify.design/ph/git-branch-bold.svg?height=32&color=%23888888)
   static const IconData gitBranch = IconData(
     0xe278,
     fontFamily: 'PhosphorBold',
@@ -5631,7 +8439,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![git-commit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-commit.svg)
+  /// The `gitCommit` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitCommit` no estilo Bold.
+  ///
+  /// ![git-commit](https://api.iconify.design/ph/git-commit-bold.svg?height=32&color=%23888888)
   static const IconData gitCommit = IconData(
     0xe27a,
     fontFamily: 'PhosphorBold',
@@ -5639,7 +8451,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![git-diff](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-diff.svg)
+  /// The `gitDiff` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitDiff` no estilo Bold.
+  ///
+  /// ![git-diff](https://api.iconify.design/ph/git-diff-bold.svg?height=32&color=%23888888)
   static const IconData gitDiff = IconData(
     0xe27c,
     fontFamily: 'PhosphorBold',
@@ -5647,7 +8463,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![git-fork](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-fork.svg)
+  /// The `gitFork` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitFork` no estilo Bold.
+  ///
+  /// ![git-fork](https://api.iconify.design/ph/git-fork-bold.svg?height=32&color=%23888888)
   static const IconData gitFork = IconData(
     0xe27e,
     fontFamily: 'PhosphorBold',
@@ -5655,7 +8475,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![git-merge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-merge.svg)
+  /// The `gitMerge` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitMerge` no estilo Bold.
+  ///
+  /// ![git-merge](https://api.iconify.design/ph/git-merge-bold.svg?height=32&color=%23888888)
   static const IconData gitMerge = IconData(
     0xe280,
     fontFamily: 'PhosphorBold',
@@ -5663,7 +8487,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![git-pull-request](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/git-pull-request.svg)
+  /// The `gitPullRequest` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitPullRequest` no estilo Bold.
+  ///
+  /// ![git-pull-request](https://api.iconify.design/ph/git-pull-request-bold.svg?height=32&color=%23888888)
   static const IconData gitPullRequest = IconData(
     0xe282,
     fontFamily: 'PhosphorBold',
@@ -5671,7 +8499,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![github-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/github-logo.svg)
+  /// The `githubLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `githubLogo` no estilo Bold.
+  ///
+  /// ![github-logo](https://api.iconify.design/ph/github-logo-bold.svg?height=32&color=%23888888)
   static const IconData githubLogo = IconData(
     0xe576,
     fontFamily: 'PhosphorBold',
@@ -5679,7 +8511,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gitlab-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo.svg)
+  /// The `gitlabLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitlabLogo` no estilo Bold.
+  ///
+  /// ![gitlab-logo](https://api.iconify.design/ph/gitlab-logo-bold.svg?height=32&color=%23888888)
   static const IconData gitlabLogo = IconData(
     0xe694,
     fontFamily: 'PhosphorBold',
@@ -5687,7 +8523,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gitlab-logo-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gitlab-logo-simple.svg)
+  /// The `gitlabLogoSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `gitlabLogoSimple` no estilo Bold.
+  ///
+  /// ![gitlab-logo-simple](https://api.iconify.design/ph/gitlab-logo-simple-bold.svg?height=32&color=%23888888)
   static const IconData gitlabLogoSimple = IconData(
     0xe696,
     fontFamily: 'PhosphorBold',
@@ -5695,7 +8535,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![globe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe.svg)
+  /// The `globe` icon in Bold style.
+  ///
+  /// [PT] O ícone `globe` no estilo Bold.
+  ///
+  /// ![globe](https://api.iconify.design/ph/globe-bold.svg?height=32&color=%23888888)
   static const IconData globe = IconData(
     0xe288,
     fontFamily: 'PhosphorBold',
@@ -5703,7 +8547,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![globe-hemisphere-east](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-east.svg)
+  /// The `globeHemisphereEast` icon in Bold style.
+  ///
+  /// [PT] O ícone `globeHemisphereEast` no estilo Bold.
+  ///
+  /// ![globe-hemisphere-east](https://api.iconify.design/ph/globe-hemisphere-east-bold.svg?height=32&color=%23888888)
   static const IconData globeHemisphereEast = IconData(
     0xe28a,
     fontFamily: 'PhosphorBold',
@@ -5711,7 +8559,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![globe-hemisphere-west](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-hemisphere-west.svg)
+  /// The `globeHemisphereWest` icon in Bold style.
+  ///
+  /// [PT] O ícone `globeHemisphereWest` no estilo Bold.
+  ///
+  /// ![globe-hemisphere-west](https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?height=32&color=%23888888)
   static const IconData globeHemisphereWest = IconData(
     0xe28c,
     fontFamily: 'PhosphorBold',
@@ -5719,7 +8571,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![globe-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple.svg)
+  /// The `globeSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `globeSimple` no estilo Bold.
+  ///
+  /// ![globe-simple](https://api.iconify.design/ph/globe-simple-bold.svg?height=32&color=%23888888)
   static const IconData globeSimple = IconData(
     0xe28e,
     fontFamily: 'PhosphorBold',
@@ -5727,7 +8583,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![globe-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-simple-x.svg)
+  /// The `globeSimpleX` icon in Bold style.
+  ///
+  /// [PT] O ícone `globeSimpleX` no estilo Bold.
+  ///
+  /// ![globe-simple-x](https://api.iconify.design/ph/globe-simple-x-bold.svg?height=32&color=%23888888)
   static const IconData globeSimpleX = IconData(
     0xe284,
     fontFamily: 'PhosphorBold',
@@ -5735,7 +8595,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![globe-stand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-stand.svg)
+  /// The `globeStand` icon in Bold style.
+  ///
+  /// [PT] O ícone `globeStand` no estilo Bold.
+  ///
+  /// ![globe-stand](https://api.iconify.design/ph/globe-stand-bold.svg?height=32&color=%23888888)
   static const IconData globeStand = IconData(
     0xe290,
     fontFamily: 'PhosphorBold',
@@ -5743,7 +8607,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![globe-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/globe-x.svg)
+  /// The `globeX` icon in Bold style.
+  ///
+  /// [PT] O ícone `globeX` no estilo Bold.
+  ///
+  /// ![globe-x](https://api.iconify.design/ph/globe-x-bold.svg?height=32&color=%23888888)
   static const IconData globeX = IconData(
     0xe286,
     fontFamily: 'PhosphorBold',
@@ -5751,7 +8619,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![goggles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goggles.svg)
+  /// The `goggles` icon in Bold style.
+  ///
+  /// [PT] O ícone `goggles` no estilo Bold.
+  ///
+  /// ![goggles](https://api.iconify.design/ph/goggles-bold.svg?height=32&color=%23888888)
   static const IconData goggles = IconData(
     0xecb4,
     fontFamily: 'PhosphorBold',
@@ -5759,7 +8631,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![golf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/golf.svg)
+  /// The `golf` icon in Bold style.
+  ///
+  /// [PT] O ícone `golf` no estilo Bold.
+  ///
+  /// ![golf](https://api.iconify.design/ph/golf-bold.svg?height=32&color=%23888888)
   static const IconData golf = IconData(
     0xea3e,
     fontFamily: 'PhosphorBold',
@@ -5767,7 +8643,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![goodreads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/goodreads-logo.svg)
+  /// The `goodreadsLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `goodreadsLogo` no estilo Bold.
+  ///
+  /// ![goodreads-logo](https://api.iconify.design/ph/goodreads-logo-bold.svg?height=32&color=%23888888)
   static const IconData goodreadsLogo = IconData(
     0xed10,
     fontFamily: 'PhosphorBold',
@@ -5775,7 +8655,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![google-cardboard-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-cardboard-logo.svg)
+  /// The `googleCardboardLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `googleCardboardLogo` no estilo Bold.
+  ///
+  /// ![google-cardboard-logo](https://api.iconify.design/ph/google-cardboard-logo-bold.svg?height=32&color=%23888888)
   static const IconData googleCardboardLogo = IconData(
     0xe7b6,
     fontFamily: 'PhosphorBold',
@@ -5783,7 +8667,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![google-chrome-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-chrome-logo.svg)
+  /// The `googleChromeLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `googleChromeLogo` no estilo Bold.
+  ///
+  /// ![google-chrome-logo](https://api.iconify.design/ph/google-chrome-logo-bold.svg?height=32&color=%23888888)
   static const IconData googleChromeLogo = IconData(
     0xe976,
     fontFamily: 'PhosphorBold',
@@ -5791,7 +8679,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![google-drive-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-drive-logo.svg)
+  /// The `googleDriveLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `googleDriveLogo` no estilo Bold.
+  ///
+  /// ![google-drive-logo](https://api.iconify.design/ph/google-drive-logo-bold.svg?height=32&color=%23888888)
   static const IconData googleDriveLogo = IconData(
     0xe8f6,
     fontFamily: 'PhosphorBold',
@@ -5799,7 +8691,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![google-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-logo.svg)
+  /// The `googleLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `googleLogo` no estilo Bold.
+  ///
+  /// ![google-logo](https://api.iconify.design/ph/google-logo-bold.svg?height=32&color=%23888888)
   static const IconData googleLogo = IconData(
     0xe292,
     fontFamily: 'PhosphorBold',
@@ -5807,7 +8703,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![google-photos-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-photos-logo.svg)
+  /// The `googlePhotosLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `googlePhotosLogo` no estilo Bold.
+  ///
+  /// ![google-photos-logo](https://api.iconify.design/ph/google-photos-logo-bold.svg?height=32&color=%23888888)
   static const IconData googlePhotosLogo = IconData(
     0xeb92,
     fontFamily: 'PhosphorBold',
@@ -5815,7 +8715,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![google-play-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-play-logo.svg)
+  /// The `googlePlayLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `googlePlayLogo` no estilo Bold.
+  ///
+  /// ![google-play-logo](https://api.iconify.design/ph/google-play-logo-bold.svg?height=32&color=%23888888)
   static const IconData googlePlayLogo = IconData(
     0xe294,
     fontFamily: 'PhosphorBold',
@@ -5823,7 +8727,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![google-podcasts-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/google-podcasts-logo.svg)
+  /// The `googlePodcastsLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `googlePodcastsLogo` no estilo Bold.
+  ///
+  /// ![google-podcasts-logo](https://api.iconify.design/ph/google-podcasts-logo-bold.svg?height=32&color=%23888888)
   static const IconData googlePodcastsLogo = IconData(
     0xeb94,
     fontFamily: 'PhosphorBold',
@@ -5831,7 +8739,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps.svg)
+  /// The `gps` icon in Bold style.
+  ///
+  /// [PT] O ícone `gps` no estilo Bold.
+  ///
+  /// ![gps](https://api.iconify.design/ph/gps-bold.svg?height=32&color=%23888888)
   static const IconData gps = IconData(
     0xedd8,
     fontFamily: 'PhosphorBold',
@@ -5839,7 +8751,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gps-fix](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-fix.svg)
+  /// The `gpsFix` icon in Bold style.
+  ///
+  /// [PT] O ícone `gpsFix` no estilo Bold.
+  ///
+  /// ![gps-fix](https://api.iconify.design/ph/gps-fix-bold.svg?height=32&color=%23888888)
   static const IconData gpsFix = IconData(
     0xedd6,
     fontFamily: 'PhosphorBold',
@@ -5847,7 +8763,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gps-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gps-slash.svg)
+  /// The `gpsSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `gpsSlash` no estilo Bold.
+  ///
+  /// ![gps-slash](https://api.iconify.design/ph/gps-slash-bold.svg?height=32&color=%23888888)
   static const IconData gpsSlash = IconData(
     0xedd4,
     fontFamily: 'PhosphorBold',
@@ -5855,7 +8775,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![gradient](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/gradient.svg)
+  /// The `gradient` icon in Bold style.
+  ///
+  /// [PT] O ícone `gradient` no estilo Bold.
+  ///
+  /// ![gradient](https://api.iconify.design/ph/gradient-bold.svg?height=32&color=%23888888)
   static const IconData gradient = IconData(
     0xeb42,
     fontFamily: 'PhosphorBold',
@@ -5863,7 +8787,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![graduation-cap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graduation-cap.svg)
+  /// The `graduationCap` icon in Bold style.
+  ///
+  /// [PT] O ícone `graduationCap` no estilo Bold.
+  ///
+  /// ![graduation-cap](https://api.iconify.design/ph/graduation-cap-bold.svg?height=32&color=%23888888)
   static const IconData graduationCap = IconData(
     0xe62c,
     fontFamily: 'PhosphorBold',
@@ -5871,7 +8799,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![grains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains.svg)
+  /// The `grains` icon in Bold style.
+  ///
+  /// [PT] O ícone `grains` no estilo Bold.
+  ///
+  /// ![grains](https://api.iconify.design/ph/grains-bold.svg?height=32&color=%23888888)
   static const IconData grains = IconData(
     0xec68,
     fontFamily: 'PhosphorBold',
@@ -5879,7 +8811,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![grains-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grains-slash.svg)
+  /// The `grainsSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `grainsSlash` no estilo Bold.
+  ///
+  /// ![grains-slash](https://api.iconify.design/ph/grains-slash-bold.svg?height=32&color=%23888888)
   static const IconData grainsSlash = IconData(
     0xec6a,
     fontFamily: 'PhosphorBold',
@@ -5887,7 +8823,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![graph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graph.svg)
+  /// The `graph` icon in Bold style.
+  ///
+  /// [PT] O ícone `graph` no estilo Bold.
+  ///
+  /// ![graph](https://api.iconify.design/ph/graph-bold.svg?height=32&color=%23888888)
   static const IconData graph = IconData(
     0xeb58,
     fontFamily: 'PhosphorBold',
@@ -5895,7 +8835,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![graphics-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/graphics-card.svg)
+  /// The `graphicsCard` icon in Bold style.
+  ///
+  /// [PT] O ícone `graphicsCard` no estilo Bold.
+  ///
+  /// ![graphics-card](https://api.iconify.design/ph/graphics-card-bold.svg?height=32&color=%23888888)
   static const IconData graphicsCard = IconData(
     0xe612,
     fontFamily: 'PhosphorBold',
@@ -5903,7 +8847,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![greater-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than.svg)
+  /// The `greaterThan` icon in Bold style.
+  ///
+  /// [PT] O ícone `greaterThan` no estilo Bold.
+  ///
+  /// ![greater-than](https://api.iconify.design/ph/greater-than-bold.svg?height=32&color=%23888888)
   static const IconData greaterThan = IconData(
     0xedc4,
     fontFamily: 'PhosphorBold',
@@ -5911,7 +8859,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![greater-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/greater-than-or-equal.svg)
+  /// The `greaterThanOrEqual` icon in Bold style.
+  ///
+  /// [PT] O ícone `greaterThanOrEqual` no estilo Bold.
+  ///
+  /// ![greater-than-or-equal](https://api.iconify.design/ph/greater-than-or-equal-bold.svg?height=32&color=%23888888)
   static const IconData greaterThanOrEqual = IconData(
     0xeda2,
     fontFamily: 'PhosphorBold',
@@ -5919,7 +8871,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![grid-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-four.svg)
+  /// The `gridFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `gridFour` no estilo Bold.
+  ///
+  /// ![grid-four](https://api.iconify.design/ph/grid-four-bold.svg?height=32&color=%23888888)
   static const IconData gridFour = IconData(
     0xe296,
     fontFamily: 'PhosphorBold',
@@ -5927,7 +8883,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![grid-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/grid-nine.svg)
+  /// The `gridNine` icon in Bold style.
+  ///
+  /// [PT] O ícone `gridNine` no estilo Bold.
+  ///
+  /// ![grid-nine](https://api.iconify.design/ph/grid-nine-bold.svg?height=32&color=%23888888)
   static const IconData gridNine = IconData(
     0xec8c,
     fontFamily: 'PhosphorBold',
@@ -5935,7 +8895,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![guitar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/guitar.svg)
+  /// The `guitar` icon in Bold style.
+  ///
+  /// [PT] O ícone `guitar` no estilo Bold.
+  ///
+  /// ![guitar](https://api.iconify.design/ph/guitar-bold.svg?height=32&color=%23888888)
   static const IconData guitar = IconData(
     0xea8a,
     fontFamily: 'PhosphorBold',
@@ -5943,7 +8907,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hair-dryer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hair-dryer.svg)
+  /// The `hairDryer` icon in Bold style.
+  ///
+  /// [PT] O ícone `hairDryer` no estilo Bold.
+  ///
+  /// ![hair-dryer](https://api.iconify.design/ph/hair-dryer-bold.svg?height=32&color=%23888888)
   static const IconData hairDryer = IconData(
     0xea66,
     fontFamily: 'PhosphorBold',
@@ -5951,7 +8919,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hamburger](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hamburger.svg)
+  /// The `hamburger` icon in Bold style.
+  ///
+  /// [PT] O ícone `hamburger` no estilo Bold.
+  ///
+  /// ![hamburger](https://api.iconify.design/ph/hamburger-bold.svg?height=32&color=%23888888)
   static const IconData hamburger = IconData(
     0xe790,
     fontFamily: 'PhosphorBold',
@@ -5959,7 +8931,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hammer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hammer.svg)
+  /// The `hammer` icon in Bold style.
+  ///
+  /// [PT] O ícone `hammer` no estilo Bold.
+  ///
+  /// ![hammer](https://api.iconify.design/ph/hammer-bold.svg?height=32&color=%23888888)
   static const IconData hammer = IconData(
     0xe80e,
     fontFamily: 'PhosphorBold',
@@ -5967,7 +8943,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand.svg)
+  /// The `hand` icon in Bold style.
+  ///
+  /// [PT] O ícone `hand` no estilo Bold.
+  ///
+  /// ![hand](https://api.iconify.design/ph/hand-bold.svg?height=32&color=%23888888)
   static const IconData hand = IconData(
     0xe298,
     fontFamily: 'PhosphorBold',
@@ -5975,7 +8955,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-down.svg)
+  /// The `handArrowDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `handArrowDown` no estilo Bold.
+  ///
+  /// ![hand-arrow-down](https://api.iconify.design/ph/hand-arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData handArrowDown = IconData(
     0xea4e,
     fontFamily: 'PhosphorBold',
@@ -5983,7 +8967,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-arrow-up.svg)
+  /// The `handArrowUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `handArrowUp` no estilo Bold.
+  ///
+  /// ![hand-arrow-up](https://api.iconify.design/ph/hand-arrow-up-bold.svg?height=32&color=%23888888)
   static const IconData handArrowUp = IconData(
     0xee5a,
     fontFamily: 'PhosphorBold',
@@ -5991,7 +8979,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-coins](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-coins.svg)
+  /// The `handCoins` icon in Bold style.
+  ///
+  /// [PT] O ícone `handCoins` no estilo Bold.
+  ///
+  /// ![hand-coins](https://api.iconify.design/ph/hand-coins-bold.svg?height=32&color=%23888888)
   static const IconData handCoins = IconData(
     0xea8c,
     fontFamily: 'PhosphorBold',
@@ -5999,7 +8991,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-deposit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-deposit.svg)
+  /// The `handDeposit` icon in Bold style.
+  ///
+  /// [PT] O ícone `handDeposit` no estilo Bold.
+  ///
+  /// ![hand-deposit](https://api.iconify.design/ph/hand-deposit-bold.svg?height=32&color=%23888888)
   static const IconData handDeposit = IconData(
     0xee82,
     fontFamily: 'PhosphorBold',
@@ -6007,7 +9003,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-eye](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-eye.svg)
+  /// The `handEye` icon in Bold style.
+  ///
+  /// [PT] O ícone `handEye` no estilo Bold.
+  ///
+  /// ![hand-eye](https://api.iconify.design/ph/hand-eye-bold.svg?height=32&color=%23888888)
   static const IconData handEye = IconData(
     0xea4c,
     fontFamily: 'PhosphorBold',
@@ -6015,7 +9015,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-fist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-fist.svg)
+  /// The `handFist` icon in Bold style.
+  ///
+  /// [PT] O ícone `handFist` no estilo Bold.
+  ///
+  /// ![hand-fist](https://api.iconify.design/ph/hand-fist-bold.svg?height=32&color=%23888888)
   static const IconData handFist = IconData(
     0xe57a,
     fontFamily: 'PhosphorBold',
@@ -6023,7 +9027,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-grabbing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-grabbing.svg)
+  /// The `handGrabbing` icon in Bold style.
+  ///
+  /// [PT] O ícone `handGrabbing` no estilo Bold.
+  ///
+  /// ![hand-grabbing](https://api.iconify.design/ph/hand-grabbing-bold.svg?height=32&color=%23888888)
   static const IconData handGrabbing = IconData(
     0xe57c,
     fontFamily: 'PhosphorBold',
@@ -6031,7 +9039,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-heart.svg)
+  /// The `handHeart` icon in Bold style.
+  ///
+  /// [PT] O ícone `handHeart` no estilo Bold.
+  ///
+  /// ![hand-heart](https://api.iconify.design/ph/hand-heart-bold.svg?height=32&color=%23888888)
   static const IconData handHeart = IconData(
     0xe810,
     fontFamily: 'PhosphorBold',
@@ -6039,7 +9051,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-palm.svg)
+  /// The `handPalm` icon in Bold style.
+  ///
+  /// [PT] O ícone `handPalm` no estilo Bold.
+  ///
+  /// ![hand-palm](https://api.iconify.design/ph/hand-palm-bold.svg?height=32&color=%23888888)
   static const IconData handPalm = IconData(
     0xe57e,
     fontFamily: 'PhosphorBold',
@@ -6047,7 +9063,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-peace.svg)
+  /// The `handPeace` icon in Bold style.
+  ///
+  /// [PT] O ícone `handPeace` no estilo Bold.
+  ///
+  /// ![hand-peace](https://api.iconify.design/ph/hand-peace-bold.svg?height=32&color=%23888888)
   static const IconData handPeace = IconData(
     0xe7cc,
     fontFamily: 'PhosphorBold',
@@ -6055,7 +9075,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-pointing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-pointing.svg)
+  /// The `handPointing` icon in Bold style.
+  ///
+  /// [PT] O ícone `handPointing` no estilo Bold.
+  ///
+  /// ![hand-pointing](https://api.iconify.design/ph/hand-pointing-bold.svg?height=32&color=%23888888)
   static const IconData handPointing = IconData(
     0xe29a,
     fontFamily: 'PhosphorBold',
@@ -6063,7 +9087,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-soap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-soap.svg)
+  /// The `handSoap` icon in Bold style.
+  ///
+  /// [PT] O ícone `handSoap` no estilo Bold.
+  ///
+  /// ![hand-soap](https://api.iconify.design/ph/hand-soap-bold.svg?height=32&color=%23888888)
   static const IconData handSoap = IconData(
     0xe630,
     fontFamily: 'PhosphorBold',
@@ -6071,7 +9099,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-swipe-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-left.svg)
+  /// The `handSwipeLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `handSwipeLeft` no estilo Bold.
+  ///
+  /// ![hand-swipe-left](https://api.iconify.design/ph/hand-swipe-left-bold.svg?height=32&color=%23888888)
   static const IconData handSwipeLeft = IconData(
     0xec94,
     fontFamily: 'PhosphorBold',
@@ -6079,7 +9111,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-swipe-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-swipe-right.svg)
+  /// The `handSwipeRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `handSwipeRight` no estilo Bold.
+  ///
+  /// ![hand-swipe-right](https://api.iconify.design/ph/hand-swipe-right-bold.svg?height=32&color=%23888888)
   static const IconData handSwipeRight = IconData(
     0xec92,
     fontFamily: 'PhosphorBold',
@@ -6087,7 +9123,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-tap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-tap.svg)
+  /// The `handTap` icon in Bold style.
+  ///
+  /// [PT] O ícone `handTap` no estilo Bold.
+  ///
+  /// ![hand-tap](https://api.iconify.design/ph/hand-tap-bold.svg?height=32&color=%23888888)
   static const IconData handTap = IconData(
     0xec90,
     fontFamily: 'PhosphorBold',
@@ -6095,7 +9135,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-waving](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-waving.svg)
+  /// The `handWaving` icon in Bold style.
+  ///
+  /// [PT] O ícone `handWaving` no estilo Bold.
+  ///
+  /// ![hand-waving](https://api.iconify.design/ph/hand-waving-bold.svg?height=32&color=%23888888)
   static const IconData handWaving = IconData(
     0xe580,
     fontFamily: 'PhosphorBold',
@@ -6103,7 +9147,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hand-withdraw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hand-withdraw.svg)
+  /// The `handWithdraw` icon in Bold style.
+  ///
+  /// [PT] O ícone `handWithdraw` no estilo Bold.
+  ///
+  /// ![hand-withdraw](https://api.iconify.design/ph/hand-withdraw-bold.svg?height=32&color=%23888888)
   static const IconData handWithdraw = IconData(
     0xee80,
     fontFamily: 'PhosphorBold',
@@ -6111,7 +9159,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![handbag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag.svg)
+  /// The `handbag` icon in Bold style.
+  ///
+  /// [PT] O ícone `handbag` no estilo Bold.
+  ///
+  /// ![handbag](https://api.iconify.design/ph/handbag-bold.svg?height=32&color=%23888888)
   static const IconData handbag = IconData(
     0xe29c,
     fontFamily: 'PhosphorBold',
@@ -6119,7 +9171,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![handbag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handbag-simple.svg)
+  /// The `handbagSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `handbagSimple` no estilo Bold.
+  ///
+  /// ![handbag-simple](https://api.iconify.design/ph/handbag-simple-bold.svg?height=32&color=%23888888)
   static const IconData handbagSimple = IconData(
     0xe62e,
     fontFamily: 'PhosphorBold',
@@ -6127,7 +9183,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hands-clapping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-clapping.svg)
+  /// The `handsClapping` icon in Bold style.
+  ///
+  /// [PT] O ícone `handsClapping` no estilo Bold.
+  ///
+  /// ![hands-clapping](https://api.iconify.design/ph/hands-clapping-bold.svg?height=32&color=%23888888)
   static const IconData handsClapping = IconData(
     0xe6a0,
     fontFamily: 'PhosphorBold',
@@ -6135,7 +9195,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hands-praying](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hands-praying.svg)
+  /// The `handsPraying` icon in Bold style.
+  ///
+  /// [PT] O ícone `handsPraying` no estilo Bold.
+  ///
+  /// ![hands-praying](https://api.iconify.design/ph/hands-praying-bold.svg?height=32&color=%23888888)
   static const IconData handsPraying = IconData(
     0xecc8,
     fontFamily: 'PhosphorBold',
@@ -6143,7 +9207,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![handshake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/handshake.svg)
+  /// The `handshake` icon in Bold style.
+  ///
+  /// [PT] O ícone `handshake` no estilo Bold.
+  ///
+  /// ![handshake](https://api.iconify.design/ph/handshake-bold.svg?height=32&color=%23888888)
   static const IconData handshake = IconData(
     0xe582,
     fontFamily: 'PhosphorBold',
@@ -6151,7 +9219,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hard-drive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drive.svg)
+  /// The `hardDrive` icon in Bold style.
+  ///
+  /// [PT] O ícone `hardDrive` no estilo Bold.
+  ///
+  /// ![hard-drive](https://api.iconify.design/ph/hard-drive-bold.svg?height=32&color=%23888888)
   static const IconData hardDrive = IconData(
     0xe29e,
     fontFamily: 'PhosphorBold',
@@ -6159,7 +9231,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hard-drives](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-drives.svg)
+  /// The `hardDrives` icon in Bold style.
+  ///
+  /// [PT] O ícone `hardDrives` no estilo Bold.
+  ///
+  /// ![hard-drives](https://api.iconify.design/ph/hard-drives-bold.svg?height=32&color=%23888888)
   static const IconData hardDrives = IconData(
     0xe2a0,
     fontFamily: 'PhosphorBold',
@@ -6167,7 +9243,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hard-hat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hard-hat.svg)
+  /// The `hardHat` icon in Bold style.
+  ///
+  /// [PT] O ícone `hardHat` no estilo Bold.
+  ///
+  /// ![hard-hat](https://api.iconify.design/ph/hard-hat-bold.svg?height=32&color=%23888888)
   static const IconData hardHat = IconData(
     0xed46,
     fontFamily: 'PhosphorBold',
@@ -6175,7 +9255,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash.svg)
+  /// The `hash` icon in Bold style.
+  ///
+  /// [PT] O ícone `hash` no estilo Bold.
+  ///
+  /// ![hash](https://api.iconify.design/ph/hash-bold.svg?height=32&color=%23888888)
   static const IconData hash = IconData(
     0xe2a2,
     fontFamily: 'PhosphorBold',
@@ -6183,7 +9267,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hash-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hash-straight.svg)
+  /// The `hashStraight` icon in Bold style.
+  ///
+  /// [PT] O ícone `hashStraight` no estilo Bold.
+  ///
+  /// ![hash-straight](https://api.iconify.design/ph/hash-straight-bold.svg?height=32&color=%23888888)
   static const IconData hashStraight = IconData(
     0xe2a4,
     fontFamily: 'PhosphorBold',
@@ -6191,7 +9279,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![head-circuit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/head-circuit.svg)
+  /// The `headCircuit` icon in Bold style.
+  ///
+  /// [PT] O ícone `headCircuit` no estilo Bold.
+  ///
+  /// ![head-circuit](https://api.iconify.design/ph/head-circuit-bold.svg?height=32&color=%23888888)
   static const IconData headCircuit = IconData(
     0xe7d4,
     fontFamily: 'PhosphorBold',
@@ -6199,7 +9291,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![headlights](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headlights.svg)
+  /// The `headlights` icon in Bold style.
+  ///
+  /// [PT] O ícone `headlights` no estilo Bold.
+  ///
+  /// ![headlights](https://api.iconify.design/ph/headlights-bold.svg?height=32&color=%23888888)
   static const IconData headlights = IconData(
     0xe6fe,
     fontFamily: 'PhosphorBold',
@@ -6207,7 +9303,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![headphones](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headphones.svg)
+  /// The `headphones` icon in Bold style.
+  ///
+  /// [PT] O ícone `headphones` no estilo Bold.
+  ///
+  /// ![headphones](https://api.iconify.design/ph/headphones-bold.svg?height=32&color=%23888888)
   static const IconData headphones = IconData(
     0xe2a6,
     fontFamily: 'PhosphorBold',
@@ -6215,7 +9315,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![headset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/headset.svg)
+  /// The `headset` icon in Bold style.
+  ///
+  /// [PT] O ícone `headset` no estilo Bold.
+  ///
+  /// ![headset](https://api.iconify.design/ph/headset-bold.svg?height=32&color=%23888888)
   static const IconData headset = IconData(
     0xe584,
     fontFamily: 'PhosphorBold',
@@ -6223,7 +9327,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart.svg)
+  /// The `heart` icon in Bold style.
+  ///
+  /// [PT] O ícone `heart` no estilo Bold.
+  ///
+  /// ![heart](https://api.iconify.design/ph/heart-bold.svg?height=32&color=%23888888)
   static const IconData heart = IconData(
     0xe2a8,
     fontFamily: 'PhosphorBold',
@@ -6231,7 +9339,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![heart-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-break.svg)
+  /// The `heartBreak` icon in Bold style.
+  ///
+  /// [PT] O ícone `heartBreak` no estilo Bold.
+  ///
+  /// ![heart-break](https://api.iconify.design/ph/heart-break-bold.svg?height=32&color=%23888888)
   static const IconData heartBreak = IconData(
     0xebe8,
     fontFamily: 'PhosphorBold',
@@ -6239,7 +9351,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![heart-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-half.svg)
+  /// The `heartHalf` icon in Bold style.
+  ///
+  /// [PT] O ícone `heartHalf` no estilo Bold.
+  ///
+  /// ![heart-half](https://api.iconify.design/ph/heart-half-bold.svg?height=32&color=%23888888)
   static const IconData heartHalf = IconData(
     0xec48,
     fontFamily: 'PhosphorBold',
@@ -6247,7 +9363,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![heart-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight.svg)
+  /// The `heartStraight` icon in Bold style.
+  ///
+  /// [PT] O ícone `heartStraight` no estilo Bold.
+  ///
+  /// ![heart-straight](https://api.iconify.design/ph/heart-straight-bold.svg?height=32&color=%23888888)
   static const IconData heartStraight = IconData(
     0xe2aa,
     fontFamily: 'PhosphorBold',
@@ -6255,7 +9375,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![heart-straight-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heart-straight-break.svg)
+  /// The `heartStraightBreak` icon in Bold style.
+  ///
+  /// [PT] O ícone `heartStraightBreak` no estilo Bold.
+  ///
+  /// ![heart-straight-break](https://api.iconify.design/ph/heart-straight-break-bold.svg?height=32&color=%23888888)
   static const IconData heartStraightBreak = IconData(
     0xeb98,
     fontFamily: 'PhosphorBold',
@@ -6263,7 +9387,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![heartbeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/heartbeat.svg)
+  /// The `heartbeat` icon in Bold style.
+  ///
+  /// [PT] O ícone `heartbeat` no estilo Bold.
+  ///
+  /// ![heartbeat](https://api.iconify.design/ph/heartbeat-bold.svg?height=32&color=%23888888)
   static const IconData heartbeat = IconData(
     0xe2ac,
     fontFamily: 'PhosphorBold',
@@ -6271,7 +9399,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hexagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hexagon.svg)
+  /// The `hexagon` icon in Bold style.
+  ///
+  /// [PT] O ícone `hexagon` no estilo Bold.
+  ///
+  /// ![hexagon](https://api.iconify.design/ph/hexagon-bold.svg?height=32&color=%23888888)
   static const IconData hexagon = IconData(
     0xe2ae,
     fontFamily: 'PhosphorBold',
@@ -6279,7 +9411,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![high-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-definition.svg)
+  /// The `highDefinition` icon in Bold style.
+  ///
+  /// [PT] O ícone `highDefinition` no estilo Bold.
+  ///
+  /// ![high-definition](https://api.iconify.design/ph/high-definition-bold.svg?height=32&color=%23888888)
   static const IconData highDefinition = IconData(
     0xea8e,
     fontFamily: 'PhosphorBold',
@@ -6287,7 +9423,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![high-heel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/high-heel.svg)
+  /// The `highHeel` icon in Bold style.
+  ///
+  /// [PT] O ícone `highHeel` no estilo Bold.
+  ///
+  /// ![high-heel](https://api.iconify.design/ph/high-heel-bold.svg?height=32&color=%23888888)
   static const IconData highHeel = IconData(
     0xe8e8,
     fontFamily: 'PhosphorBold',
@@ -6295,7 +9435,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![highlighter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter.svg)
+  /// The `highlighter` icon in Bold style.
+  ///
+  /// [PT] O ícone `highlighter` no estilo Bold.
+  ///
+  /// ![highlighter](https://api.iconify.design/ph/highlighter-bold.svg?height=32&color=%23888888)
   static const IconData highlighter = IconData(
     0xec76,
     fontFamily: 'PhosphorBold',
@@ -6303,7 +9447,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![highlighter-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/highlighter-circle.svg)
+  /// The `highlighterCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `highlighterCircle` no estilo Bold.
+  ///
+  /// ![highlighter-circle](https://api.iconify.design/ph/highlighter-circle-bold.svg?height=32&color=%23888888)
   static const IconData highlighterCircle = IconData(
     0xe632,
     fontFamily: 'PhosphorBold',
@@ -6311,7 +9459,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hockey](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hockey.svg)
+  /// The `hockey` icon in Bold style.
+  ///
+  /// [PT] O ícone `hockey` no estilo Bold.
+  ///
+  /// ![hockey](https://api.iconify.design/ph/hockey-bold.svg?height=32&color=%23888888)
   static const IconData hockey = IconData(
     0xec86,
     fontFamily: 'PhosphorBold',
@@ -6319,7 +9471,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hoodie](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hoodie.svg)
+  /// The `hoodie` icon in Bold style.
+  ///
+  /// [PT] O ícone `hoodie` no estilo Bold.
+  ///
+  /// ![hoodie](https://api.iconify.design/ph/hoodie-bold.svg?height=32&color=%23888888)
   static const IconData hoodie = IconData(
     0xecd0,
     fontFamily: 'PhosphorBold',
@@ -6327,7 +9483,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![horse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/horse.svg)
+  /// The `horse` icon in Bold style.
+  ///
+  /// [PT] O ícone `horse` no estilo Bold.
+  ///
+  /// ![horse](https://api.iconify.design/ph/horse-bold.svg?height=32&color=%23888888)
   static const IconData horse = IconData(
     0xe2b0,
     fontFamily: 'PhosphorBold',
@@ -6335,7 +9495,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hospital](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hospital.svg)
+  /// The `hospital` icon in Bold style.
+  ///
+  /// [PT] O ícone `hospital` no estilo Bold.
+  ///
+  /// ![hospital](https://api.iconify.design/ph/hospital-bold.svg?height=32&color=%23888888)
   static const IconData hospital = IconData(
     0xe844,
     fontFamily: 'PhosphorBold',
@@ -6343,7 +9507,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass.svg)
+  /// The `hourglass` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglass` no estilo Bold.
+  ///
+  /// ![hourglass](https://api.iconify.design/ph/hourglass-bold.svg?height=32&color=%23888888)
   static const IconData hourglass = IconData(
     0xe2b2,
     fontFamily: 'PhosphorBold',
@@ -6351,7 +9519,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-high.svg)
+  /// The `hourglassHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglassHigh` no estilo Bold.
+  ///
+  /// ![hourglass-high](https://api.iconify.design/ph/hourglass-high-bold.svg?height=32&color=%23888888)
   static const IconData hourglassHigh = IconData(
     0xe2b4,
     fontFamily: 'PhosphorBold',
@@ -6359,7 +9531,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-low.svg)
+  /// The `hourglassLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglassLow` no estilo Bold.
+  ///
+  /// ![hourglass-low](https://api.iconify.design/ph/hourglass-low-bold.svg?height=32&color=%23888888)
   static const IconData hourglassLow = IconData(
     0xe2b6,
     fontFamily: 'PhosphorBold',
@@ -6367,7 +9543,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-medium.svg)
+  /// The `hourglassMedium` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglassMedium` no estilo Bold.
+  ///
+  /// ![hourglass-medium](https://api.iconify.design/ph/hourglass-medium-bold.svg?height=32&color=%23888888)
   static const IconData hourglassMedium = IconData(
     0xe2b8,
     fontFamily: 'PhosphorBold',
@@ -6375,7 +9555,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple.svg)
+  /// The `hourglassSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglassSimple` no estilo Bold.
+  ///
+  /// ![hourglass-simple](https://api.iconify.design/ph/hourglass-simple-bold.svg?height=32&color=%23888888)
   static const IconData hourglassSimple = IconData(
     0xe2ba,
     fontFamily: 'PhosphorBold',
@@ -6383,7 +9567,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-high.svg)
+  /// The `hourglassSimpleHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglassSimpleHigh` no estilo Bold.
+  ///
+  /// ![hourglass-simple-high](https://api.iconify.design/ph/hourglass-simple-high-bold.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleHigh = IconData(
     0xe2bc,
     fontFamily: 'PhosphorBold',
@@ -6391,7 +9579,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-low.svg)
+  /// The `hourglassSimpleLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglassSimpleLow` no estilo Bold.
+  ///
+  /// ![hourglass-simple-low](https://api.iconify.design/ph/hourglass-simple-low-bold.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleLow = IconData(
     0xe2be,
     fontFamily: 'PhosphorBold',
@@ -6399,7 +9591,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hourglass-simple-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hourglass-simple-medium.svg)
+  /// The `hourglassSimpleMedium` icon in Bold style.
+  ///
+  /// [PT] O ícone `hourglassSimpleMedium` no estilo Bold.
+  ///
+  /// ![hourglass-simple-medium](https://api.iconify.design/ph/hourglass-simple-medium-bold.svg?height=32&color=%23888888)
   static const IconData hourglassSimpleMedium = IconData(
     0xe2c0,
     fontFamily: 'PhosphorBold',
@@ -6407,7 +9603,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![house](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house.svg)
+  /// The `house` icon in Bold style.
+  ///
+  /// [PT] O ícone `house` no estilo Bold.
+  ///
+  /// ![house](https://api.iconify.design/ph/house-bold.svg?height=32&color=%23888888)
   static const IconData house = IconData(
     0xe2c2,
     fontFamily: 'PhosphorBold',
@@ -6415,7 +9615,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![house-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-line.svg)
+  /// The `houseLine` icon in Bold style.
+  ///
+  /// [PT] O ícone `houseLine` no estilo Bold.
+  ///
+  /// ![house-line](https://api.iconify.design/ph/house-line-bold.svg?height=32&color=%23888888)
   static const IconData houseLine = IconData(
     0xe2c4,
     fontFamily: 'PhosphorBold',
@@ -6423,7 +9627,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![house-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/house-simple.svg)
+  /// The `houseSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `houseSimple` no estilo Bold.
+  ///
+  /// ![house-simple](https://api.iconify.design/ph/house-simple-bold.svg?height=32&color=%23888888)
   static const IconData houseSimple = IconData(
     0xe2c6,
     fontFamily: 'PhosphorBold',
@@ -6431,7 +9639,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![hurricane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/hurricane.svg)
+  /// The `hurricane` icon in Bold style.
+  ///
+  /// [PT] O ícone `hurricane` no estilo Bold.
+  ///
+  /// ![hurricane](https://api.iconify.design/ph/hurricane-bold.svg?height=32&color=%23888888)
   static const IconData hurricane = IconData(
     0xe88e,
     fontFamily: 'PhosphorBold',
@@ -6439,7 +9651,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ice-cream](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ice-cream.svg)
+  /// The `iceCream` icon in Bold style.
+  ///
+  /// [PT] O ícone `iceCream` no estilo Bold.
+  ///
+  /// ![ice-cream](https://api.iconify.design/ph/ice-cream-bold.svg?height=32&color=%23888888)
   static const IconData iceCream = IconData(
     0xe804,
     fontFamily: 'PhosphorBold',
@@ -6447,7 +9663,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![identification-badge](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-badge.svg)
+  /// The `identificationBadge` icon in Bold style.
+  ///
+  /// [PT] O ícone `identificationBadge` no estilo Bold.
+  ///
+  /// ![identification-badge](https://api.iconify.design/ph/identification-badge-bold.svg?height=32&color=%23888888)
   static const IconData identificationBadge = IconData(
     0xe6f6,
     fontFamily: 'PhosphorBold',
@@ -6455,7 +9675,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![identification-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/identification-card.svg)
+  /// The `identificationCard` icon in Bold style.
+  ///
+  /// [PT] O ícone `identificationCard` no estilo Bold.
+  ///
+  /// ![identification-card](https://api.iconify.design/ph/identification-card-bold.svg?height=32&color=%23888888)
   static const IconData identificationCard = IconData(
     0xe2c8,
     fontFamily: 'PhosphorBold',
@@ -6463,7 +9687,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![image](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image.svg)
+  /// The `image` icon in Bold style.
+  ///
+  /// [PT] O ícone `image` no estilo Bold.
+  ///
+  /// ![image](https://api.iconify.design/ph/image-bold.svg?height=32&color=%23888888)
   static const IconData image = IconData(
     0xe2ca,
     fontFamily: 'PhosphorBold',
@@ -6471,7 +9699,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![image-broken](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-broken.svg)
+  /// The `imageBroken` icon in Bold style.
+  ///
+  /// [PT] O ícone `imageBroken` no estilo Bold.
+  ///
+  /// ![image-broken](https://api.iconify.design/ph/image-broken-bold.svg?height=32&color=%23888888)
   static const IconData imageBroken = IconData(
     0xe7a8,
     fontFamily: 'PhosphorBold',
@@ -6479,7 +9711,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![image-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/image-square.svg)
+  /// The `imageSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `imageSquare` no estilo Bold.
+  ///
+  /// ![image-square](https://api.iconify.design/ph/image-square-bold.svg?height=32&color=%23888888)
   static const IconData imageSquare = IconData(
     0xe2cc,
     fontFamily: 'PhosphorBold',
@@ -6487,7 +9723,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![images](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images.svg)
+  /// The `images` icon in Bold style.
+  ///
+  /// [PT] O ícone `images` no estilo Bold.
+  ///
+  /// ![images](https://api.iconify.design/ph/images-bold.svg?height=32&color=%23888888)
   static const IconData images = IconData(
     0xe836,
     fontFamily: 'PhosphorBold',
@@ -6495,7 +9735,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![images-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/images-square.svg)
+  /// The `imagesSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `imagesSquare` no estilo Bold.
+  ///
+  /// ![images-square](https://api.iconify.design/ph/images-square-bold.svg?height=32&color=%23888888)
   static const IconData imagesSquare = IconData(
     0xe834,
     fontFamily: 'PhosphorBold',
@@ -6503,7 +9747,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![infinity](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/infinity.svg)
+  /// The `infinity` icon in Bold style.
+  ///
+  /// [PT] O ícone `infinity` no estilo Bold.
+  ///
+  /// ![infinity](https://api.iconify.design/ph/infinity-bold.svg?height=32&color=%23888888)
   static const IconData infinity = IconData(
     0xe634,
     fontFamily: 'PhosphorBold',
@@ -6511,7 +9759,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![info](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/info.svg)
+  /// The `info` icon in Bold style.
+  ///
+  /// [PT] O ícone `info` no estilo Bold.
+  ///
+  /// ![info](https://api.iconify.design/ph/info-bold.svg?height=32&color=%23888888)
   static const IconData info = IconData(
     0xe2ce,
     fontFamily: 'PhosphorBold',
@@ -6519,7 +9771,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![instagram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/instagram-logo.svg)
+  /// The `instagramLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `instagramLogo` no estilo Bold.
+  ///
+  /// ![instagram-logo](https://api.iconify.design/ph/instagram-logo-bold.svg?height=32&color=%23888888)
   static const IconData instagramLogo = IconData(
     0xe2d0,
     fontFamily: 'PhosphorBold',
@@ -6527,7 +9783,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![intersect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect.svg)
+  /// The `intersect` icon in Bold style.
+  ///
+  /// [PT] O ícone `intersect` no estilo Bold.
+  ///
+  /// ![intersect](https://api.iconify.design/ph/intersect-bold.svg?height=32&color=%23888888)
   static const IconData intersect = IconData(
     0xe2d2,
     fontFamily: 'PhosphorBold',
@@ -6535,7 +9795,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![intersect-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-square.svg)
+  /// The `intersectSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `intersectSquare` no estilo Bold.
+  ///
+  /// ![intersect-square](https://api.iconify.design/ph/intersect-square-bold.svg?height=32&color=%23888888)
   static const IconData intersectSquare = IconData(
     0xe87a,
     fontFamily: 'PhosphorBold',
@@ -6543,7 +9807,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![intersect-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersect-three.svg)
+  /// The `intersectThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `intersectThree` no estilo Bold.
+  ///
+  /// ![intersect-three](https://api.iconify.design/ph/intersect-three-bold.svg?height=32&color=%23888888)
   static const IconData intersectThree = IconData(
     0xecc4,
     fontFamily: 'PhosphorBold',
@@ -6551,7 +9819,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![intersection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/intersection.svg)
+  /// The `intersection` icon in Bold style.
+  ///
+  /// [PT] O ícone `intersection` no estilo Bold.
+  ///
+  /// ![intersection](https://api.iconify.design/ph/intersection-bold.svg?height=32&color=%23888888)
   static const IconData intersection = IconData(
     0xedba,
     fontFamily: 'PhosphorBold',
@@ -6559,7 +9831,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![invoice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/invoice.svg)
+  /// The `invoice` icon in Bold style.
+  ///
+  /// [PT] O ícone `invoice` no estilo Bold.
+  ///
+  /// ![invoice](https://api.iconify.design/ph/invoice-bold.svg?height=32&color=%23888888)
   static const IconData invoice = IconData(
     0xee42,
     fontFamily: 'PhosphorBold',
@@ -6567,7 +9843,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![island](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/island.svg)
+  /// The `island` icon in Bold style.
+  ///
+  /// [PT] O ícone `island` no estilo Bold.
+  ///
+  /// ![island](https://api.iconify.design/ph/island-bold.svg?height=32&color=%23888888)
   static const IconData island = IconData(
     0xee06,
     fontFamily: 'PhosphorBold',
@@ -6575,7 +9855,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar.svg)
+  /// The `jar` icon in Bold style.
+  ///
+  /// [PT] O ícone `jar` no estilo Bold.
+  ///
+  /// ![jar](https://api.iconify.design/ph/jar-bold.svg?height=32&color=%23888888)
   static const IconData jar = IconData(
     0xe7e0,
     fontFamily: 'PhosphorBold',
@@ -6583,7 +9867,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![jar-label](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jar-label.svg)
+  /// The `jarLabel` icon in Bold style.
+  ///
+  /// [PT] O ícone `jarLabel` no estilo Bold.
+  ///
+  /// ![jar-label](https://api.iconify.design/ph/jar-label-bold.svg?height=32&color=%23888888)
   static const IconData jarLabel = IconData(
     0xe7e1,
     fontFamily: 'PhosphorBold',
@@ -6591,7 +9879,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![jeep](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/jeep.svg)
+  /// The `jeep` icon in Bold style.
+  ///
+  /// [PT] O ícone `jeep` no estilo Bold.
+  ///
+  /// ![jeep](https://api.iconify.design/ph/jeep-bold.svg?height=32&color=%23888888)
   static const IconData jeep = IconData(
     0xe2d4,
     fontFamily: 'PhosphorBold',
@@ -6599,7 +9891,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![joystick](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/joystick.svg)
+  /// The `joystick` icon in Bold style.
+  ///
+  /// [PT] O ícone `joystick` no estilo Bold.
+  ///
+  /// ![joystick](https://api.iconify.design/ph/joystick-bold.svg?height=32&color=%23888888)
   static const IconData joystick = IconData(
     0xea5e,
     fontFamily: 'PhosphorBold',
@@ -6607,7 +9903,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![kanban](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/kanban.svg)
+  /// The `kanban` icon in Bold style.
+  ///
+  /// [PT] O ícone `kanban` no estilo Bold.
+  ///
+  /// ![kanban](https://api.iconify.design/ph/kanban-bold.svg?height=32&color=%23888888)
   static const IconData kanban = IconData(
     0xeb54,
     fontFamily: 'PhosphorBold',
@@ -6615,7 +9915,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key.svg)
+  /// The `key` icon in Bold style.
+  ///
+  /// [PT] O ícone `key` no estilo Bold.
+  ///
+  /// ![key](https://api.iconify.design/ph/key-bold.svg?height=32&color=%23888888)
   static const IconData key = IconData(
     0xe2d6,
     fontFamily: 'PhosphorBold',
@@ -6623,7 +9927,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![key-return](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/key-return.svg)
+  /// The `keyReturn` icon in Bold style.
+  ///
+  /// [PT] O ícone `keyReturn` no estilo Bold.
+  ///
+  /// ![key-return](https://api.iconify.design/ph/key-return-bold.svg?height=32&color=%23888888)
   static const IconData keyReturn = IconData(
     0xe782,
     fontFamily: 'PhosphorBold',
@@ -6631,7 +9939,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![keyboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyboard.svg)
+  /// The `keyboard` icon in Bold style.
+  ///
+  /// [PT] O ícone `keyboard` no estilo Bold.
+  ///
+  /// ![keyboard](https://api.iconify.design/ph/keyboard-bold.svg?height=32&color=%23888888)
   static const IconData keyboard = IconData(
     0xe2d8,
     fontFamily: 'PhosphorBold',
@@ -6639,7 +9951,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![keyhole](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/keyhole.svg)
+  /// The `keyhole` icon in Bold style.
+  ///
+  /// [PT] O ícone `keyhole` no estilo Bold.
+  ///
+  /// ![keyhole](https://api.iconify.design/ph/keyhole-bold.svg?height=32&color=%23888888)
   static const IconData keyhole = IconData(
     0xea78,
     fontFamily: 'PhosphorBold',
@@ -6647,7 +9963,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![knife](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/knife.svg)
+  /// The `knife` icon in Bold style.
+  ///
+  /// [PT] O ícone `knife` no estilo Bold.
+  ///
+  /// ![knife](https://api.iconify.design/ph/knife-bold.svg?height=32&color=%23888888)
   static const IconData knife = IconData(
     0xe636,
     fontFamily: 'PhosphorBold',
@@ -6655,7 +9975,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ladder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder.svg)
+  /// The `ladder` icon in Bold style.
+  ///
+  /// [PT] O ícone `ladder` no estilo Bold.
+  ///
+  /// ![ladder](https://api.iconify.design/ph/ladder-bold.svg?height=32&color=%23888888)
   static const IconData ladder = IconData(
     0xe9e4,
     fontFamily: 'PhosphorBold',
@@ -6663,7 +9987,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ladder-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ladder-simple.svg)
+  /// The `ladderSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `ladderSimple` no estilo Bold.
+  ///
+  /// ![ladder-simple](https://api.iconify.design/ph/ladder-simple-bold.svg?height=32&color=%23888888)
   static const IconData ladderSimple = IconData(
     0xec26,
     fontFamily: 'PhosphorBold',
@@ -6671,7 +9999,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp.svg)
+  /// The `lamp` icon in Bold style.
+  ///
+  /// [PT] O ícone `lamp` no estilo Bold.
+  ///
+  /// ![lamp](https://api.iconify.design/ph/lamp-bold.svg?height=32&color=%23888888)
   static const IconData lamp = IconData(
     0xe638,
     fontFamily: 'PhosphorBold',
@@ -6679,7 +10011,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lamp-pendant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lamp-pendant.svg)
+  /// The `lampPendant` icon in Bold style.
+  ///
+  /// [PT] O ícone `lampPendant` no estilo Bold.
+  ///
+  /// ![lamp-pendant](https://api.iconify.design/ph/lamp-pendant-bold.svg?height=32&color=%23888888)
   static const IconData lampPendant = IconData(
     0xee2e,
     fontFamily: 'PhosphorBold',
@@ -6687,7 +10023,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![laptop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/laptop.svg)
+  /// The `laptop` icon in Bold style.
+  ///
+  /// [PT] O ícone `laptop` no estilo Bold.
+  ///
+  /// ![laptop](https://api.iconify.design/ph/laptop-bold.svg?height=32&color=%23888888)
   static const IconData laptop = IconData(
     0xe586,
     fontFamily: 'PhosphorBold',
@@ -6695,7 +10035,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lasso](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lasso.svg)
+  /// The `lasso` icon in Bold style.
+  ///
+  /// [PT] O ícone `lasso` no estilo Bold.
+  ///
+  /// ![lasso](https://api.iconify.design/ph/lasso-bold.svg?height=32&color=%23888888)
   static const IconData lasso = IconData(
     0xedc6,
     fontFamily: 'PhosphorBold',
@@ -6703,7 +10047,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lastfm-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lastfm-logo.svg)
+  /// The `lastfmLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `lastfmLogo` no estilo Bold.
+  ///
+  /// ![lastfm-logo](https://api.iconify.design/ph/lastfm-logo-bold.svg?height=32&color=%23888888)
   static const IconData lastfmLogo = IconData(
     0xe842,
     fontFamily: 'PhosphorBold',
@@ -6711,7 +10059,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![layout](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/layout.svg)
+  /// The `layout` icon in Bold style.
+  ///
+  /// [PT] O ícone `layout` no estilo Bold.
+  ///
+  /// ![layout](https://api.iconify.design/ph/layout-bold.svg?height=32&color=%23888888)
   static const IconData layout = IconData(
     0xe6d6,
     fontFamily: 'PhosphorBold',
@@ -6719,7 +10071,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![leaf](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/leaf.svg)
+  /// The `leaf` icon in Bold style.
+  ///
+  /// [PT] O ícone `leaf` no estilo Bold.
+  ///
+  /// ![leaf](https://api.iconify.design/ph/leaf-bold.svg?height=32&color=%23888888)
   static const IconData leaf = IconData(
     0xe2da,
     fontFamily: 'PhosphorBold',
@@ -6727,7 +10083,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lectern](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lectern.svg)
+  /// The `lectern` icon in Bold style.
+  ///
+  /// [PT] O ícone `lectern` no estilo Bold.
+  ///
+  /// ![lectern](https://api.iconify.design/ph/lectern-bold.svg?height=32&color=%23888888)
   static const IconData lectern = IconData(
     0xe95a,
     fontFamily: 'PhosphorBold',
@@ -6735,7 +10095,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lego](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego.svg)
+  /// The `lego` icon in Bold style.
+  ///
+  /// [PT] O ícone `lego` no estilo Bold.
+  ///
+  /// ![lego](https://api.iconify.design/ph/lego-bold.svg?height=32&color=%23888888)
   static const IconData lego = IconData(
     0xe8c6,
     fontFamily: 'PhosphorBold',
@@ -6743,7 +10107,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lego-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lego-smiley.svg)
+  /// The `legoSmiley` icon in Bold style.
+  ///
+  /// [PT] O ícone `legoSmiley` no estilo Bold.
+  ///
+  /// ![lego-smiley](https://api.iconify.design/ph/lego-smiley-bold.svg?height=32&color=%23888888)
   static const IconData legoSmiley = IconData(
     0xe8c7,
     fontFamily: 'PhosphorBold',
@@ -6751,7 +10119,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lemniscate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lemniscate.svg)
+  /// The `lemniscate` icon in Bold style.
+  ///
+  /// [PT] O ícone `lemniscate` no estilo Bold.
+  ///
+  /// ![lemniscate](https://api.iconify.design/ph/infinity-bold.svg?height=32&color=%23888888)
   static const IconData lemniscate = IconData(
     0xe634,
     fontFamily: 'PhosphorBold',
@@ -6759,7 +10131,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![less-than](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than.svg)
+  /// The `lessThan` icon in Bold style.
+  ///
+  /// [PT] O ícone `lessThan` no estilo Bold.
+  ///
+  /// ![less-than](https://api.iconify.design/ph/less-than-bold.svg?height=32&color=%23888888)
   static const IconData lessThan = IconData(
     0xedac,
     fontFamily: 'PhosphorBold',
@@ -6767,7 +10143,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![less-than-or-equal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/less-than-or-equal.svg)
+  /// The `lessThanOrEqual` icon in Bold style.
+  ///
+  /// [PT] O ícone `lessThanOrEqual` no estilo Bold.
+  ///
+  /// ![less-than-or-equal](https://api.iconify.design/ph/less-than-or-equal-bold.svg?height=32&color=%23888888)
   static const IconData lessThanOrEqual = IconData(
     0xeda4,
     fontFamily: 'PhosphorBold',
@@ -6775,7 +10155,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![letter-circle-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-h.svg)
+  /// The `letterCircleH` icon in Bold style.
+  ///
+  /// [PT] O ícone `letterCircleH` no estilo Bold.
+  ///
+  /// ![letter-circle-h](https://api.iconify.design/ph/letter-circle-h-bold.svg?height=32&color=%23888888)
   static const IconData letterCircleH = IconData(
     0xebf8,
     fontFamily: 'PhosphorBold',
@@ -6783,7 +10167,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![letter-circle-p](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-p.svg)
+  /// The `letterCircleP` icon in Bold style.
+  ///
+  /// [PT] O ícone `letterCircleP` no estilo Bold.
+  ///
+  /// ![letter-circle-p](https://api.iconify.design/ph/letter-circle-p-bold.svg?height=32&color=%23888888)
   static const IconData letterCircleP = IconData(
     0xec08,
     fontFamily: 'PhosphorBold',
@@ -6791,7 +10179,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![letter-circle-v](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/letter-circle-v.svg)
+  /// The `letterCircleV` icon in Bold style.
+  ///
+  /// [PT] O ícone `letterCircleV` no estilo Bold.
+  ///
+  /// ![letter-circle-v](https://api.iconify.design/ph/letter-circle-v-bold.svg?height=32&color=%23888888)
   static const IconData letterCircleV = IconData(
     0xec14,
     fontFamily: 'PhosphorBold',
@@ -6799,7 +10191,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lifebuoy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lifebuoy.svg)
+  /// The `lifebuoy` icon in Bold style.
+  ///
+  /// [PT] O ícone `lifebuoy` no estilo Bold.
+  ///
+  /// ![lifebuoy](https://api.iconify.design/ph/lifebuoy-bold.svg?height=32&color=%23888888)
   static const IconData lifebuoy = IconData(
     0xe63a,
     fontFamily: 'PhosphorBold',
@@ -6807,7 +10203,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lightbulb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb.svg)
+  /// The `lightbulb` icon in Bold style.
+  ///
+  /// [PT] O ícone `lightbulb` no estilo Bold.
+  ///
+  /// ![lightbulb](https://api.iconify.design/ph/lightbulb-bold.svg?height=32&color=%23888888)
   static const IconData lightbulb = IconData(
     0xe2dc,
     fontFamily: 'PhosphorBold',
@@ -6815,7 +10215,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lightbulb-filament](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightbulb-filament.svg)
+  /// The `lightbulbFilament` icon in Bold style.
+  ///
+  /// [PT] O ícone `lightbulbFilament` no estilo Bold.
+  ///
+  /// ![lightbulb-filament](https://api.iconify.design/ph/lightbulb-filament-bold.svg?height=32&color=%23888888)
   static const IconData lightbulbFilament = IconData(
     0xe63c,
     fontFamily: 'PhosphorBold',
@@ -6823,7 +10227,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lighthouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lighthouse.svg)
+  /// The `lighthouse` icon in Bold style.
+  ///
+  /// [PT] O ícone `lighthouse` no estilo Bold.
+  ///
+  /// ![lighthouse](https://api.iconify.design/ph/lighthouse-bold.svg?height=32&color=%23888888)
   static const IconData lighthouse = IconData(
     0xe9f6,
     fontFamily: 'PhosphorBold',
@@ -6831,7 +10239,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lightning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning.svg)
+  /// The `lightning` icon in Bold style.
+  ///
+  /// [PT] O ícone `lightning` no estilo Bold.
+  ///
+  /// ![lightning](https://api.iconify.design/ph/lightning-bold.svg?height=32&color=%23888888)
   static const IconData lightning = IconData(
     0xe2de,
     fontFamily: 'PhosphorBold',
@@ -6839,7 +10251,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lightning-a](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-a.svg)
+  /// The `lightningA` icon in Bold style.
+  ///
+  /// [PT] O ícone `lightningA` no estilo Bold.
+  ///
+  /// ![lightning-a](https://api.iconify.design/ph/lightning-a-bold.svg?height=32&color=%23888888)
   static const IconData lightningA = IconData(
     0xea84,
     fontFamily: 'PhosphorBold',
@@ -6847,7 +10263,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lightning-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lightning-slash.svg)
+  /// The `lightningSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `lightningSlash` no estilo Bold.
+  ///
+  /// ![lightning-slash](https://api.iconify.design/ph/lightning-slash-bold.svg?height=32&color=%23888888)
   static const IconData lightningSlash = IconData(
     0xe2e0,
     fontFamily: 'PhosphorBold',
@@ -6855,7 +10275,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![line-segment](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segment.svg)
+  /// The `lineSegment` icon in Bold style.
+  ///
+  /// [PT] O ícone `lineSegment` no estilo Bold.
+  ///
+  /// ![line-segment](https://api.iconify.design/ph/line-segment-bold.svg?height=32&color=%23888888)
   static const IconData lineSegment = IconData(
     0xe6d2,
     fontFamily: 'PhosphorBold',
@@ -6863,7 +10287,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![line-segments](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-segments.svg)
+  /// The `lineSegments` icon in Bold style.
+  ///
+  /// [PT] O ícone `lineSegments` no estilo Bold.
+  ///
+  /// ![line-segments](https://api.iconify.design/ph/line-segments-bold.svg?height=32&color=%23888888)
   static const IconData lineSegments = IconData(
     0xe6d4,
     fontFamily: 'PhosphorBold',
@@ -6871,7 +10299,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![line-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/line-vertical.svg)
+  /// The `lineVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `lineVertical` no estilo Bold.
+  ///
+  /// ![line-vertical](https://api.iconify.design/ph/line-vertical-bold.svg?height=32&color=%23888888)
   static const IconData lineVertical = IconData(
     0xed70,
     fontFamily: 'PhosphorBold',
@@ -6879,7 +10311,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![link](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link.svg)
+  /// The `link` icon in Bold style.
+  ///
+  /// [PT] O ícone `link` no estilo Bold.
+  ///
+  /// ![link](https://api.iconify.design/ph/link-bold.svg?height=32&color=%23888888)
   static const IconData link = IconData(
     0xe2e2,
     fontFamily: 'PhosphorBold',
@@ -6887,7 +10323,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![link-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-break.svg)
+  /// The `linkBreak` icon in Bold style.
+  ///
+  /// [PT] O ícone `linkBreak` no estilo Bold.
+  ///
+  /// ![link-break](https://api.iconify.design/ph/link-break-bold.svg?height=32&color=%23888888)
   static const IconData linkBreak = IconData(
     0xe2e4,
     fontFamily: 'PhosphorBold',
@@ -6895,7 +10335,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![link-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple.svg)
+  /// The `linkSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `linkSimple` no estilo Bold.
+  ///
+  /// ![link-simple](https://api.iconify.design/ph/link-simple-bold.svg?height=32&color=%23888888)
   static const IconData linkSimple = IconData(
     0xe2e6,
     fontFamily: 'PhosphorBold',
@@ -6903,7 +10347,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![link-simple-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-break.svg)
+  /// The `linkSimpleBreak` icon in Bold style.
+  ///
+  /// [PT] O ícone `linkSimpleBreak` no estilo Bold.
+  ///
+  /// ![link-simple-break](https://api.iconify.design/ph/link-simple-break-bold.svg?height=32&color=%23888888)
   static const IconData linkSimpleBreak = IconData(
     0xe2e8,
     fontFamily: 'PhosphorBold',
@@ -6911,7 +10359,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![link-simple-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal.svg)
+  /// The `linkSimpleHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `linkSimpleHorizontal` no estilo Bold.
+  ///
+  /// ![link-simple-horizontal](https://api.iconify.design/ph/link-simple-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData linkSimpleHorizontal = IconData(
     0xe2ea,
     fontFamily: 'PhosphorBold',
@@ -6919,7 +10371,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![link-simple-horizontal-break](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/link-simple-horizontal-break.svg)
+  /// The `linkSimpleHorizontalBreak` icon in Bold style.
+  ///
+  /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Bold.
+  ///
+  /// ![link-simple-horizontal-break](https://api.iconify.design/ph/link-simple-horizontal-break-bold.svg?height=32&color=%23888888)
   static const IconData linkSimpleHorizontalBreak = IconData(
     0xe2ec,
     fontFamily: 'PhosphorBold',
@@ -6927,7 +10383,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![linkedin-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linkedin-logo.svg)
+  /// The `linkedinLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `linkedinLogo` no estilo Bold.
+  ///
+  /// ![linkedin-logo](https://api.iconify.design/ph/linkedin-logo-bold.svg?height=32&color=%23888888)
   static const IconData linkedinLogo = IconData(
     0xe2ee,
     fontFamily: 'PhosphorBold',
@@ -6935,7 +10395,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![linktree-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linktree-logo.svg)
+  /// The `linktreeLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `linktreeLogo` no estilo Bold.
+  ///
+  /// ![linktree-logo](https://api.iconify.design/ph/linktree-logo-bold.svg?height=32&color=%23888888)
   static const IconData linktreeLogo = IconData(
     0xedee,
     fontFamily: 'PhosphorBold',
@@ -6943,7 +10407,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![linux-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/linux-logo.svg)
+  /// The `linuxLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `linuxLogo` no estilo Bold.
+  ///
+  /// ![linux-logo](https://api.iconify.design/ph/linux-logo-bold.svg?height=32&color=%23888888)
   static const IconData linuxLogo = IconData(
     0xeb02,
     fontFamily: 'PhosphorBold',
@@ -6951,7 +10419,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list.svg)
+  /// The `list` icon in Bold style.
+  ///
+  /// [PT] O ícone `list` no estilo Bold.
+  ///
+  /// ![list](https://api.iconify.design/ph/list-bold.svg?height=32&color=%23888888)
   static const IconData list = IconData(
     0xe2f0,
     fontFamily: 'PhosphorBold',
@@ -6959,7 +10431,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-bullets](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-bullets.svg)
+  /// The `listBullets` icon in Bold style.
+  ///
+  /// [PT] O ícone `listBullets` no estilo Bold.
+  ///
+  /// ![list-bullets](https://api.iconify.design/ph/list-bullets-bold.svg?height=32&color=%23888888)
   static const IconData listBullets = IconData(
     0xe2f2,
     fontFamily: 'PhosphorBold',
@@ -6967,7 +10443,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-checks](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-checks.svg)
+  /// The `listChecks` icon in Bold style.
+  ///
+  /// [PT] O ícone `listChecks` no estilo Bold.
+  ///
+  /// ![list-checks](https://api.iconify.design/ph/list-checks-bold.svg?height=32&color=%23888888)
   static const IconData listChecks = IconData(
     0xeadc,
     fontFamily: 'PhosphorBold',
@@ -6975,7 +10455,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-dashes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-dashes.svg)
+  /// The `listDashes` icon in Bold style.
+  ///
+  /// [PT] O ícone `listDashes` no estilo Bold.
+  ///
+  /// ![list-dashes](https://api.iconify.design/ph/list-dashes-bold.svg?height=32&color=%23888888)
   static const IconData listDashes = IconData(
     0xe2f4,
     fontFamily: 'PhosphorBold',
@@ -6983,7 +10467,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-heart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-heart.svg)
+  /// The `listHeart` icon in Bold style.
+  ///
+  /// [PT] O ícone `listHeart` no estilo Bold.
+  ///
+  /// ![list-heart](https://api.iconify.design/ph/list-heart-bold.svg?height=32&color=%23888888)
   static const IconData listHeart = IconData(
     0xebde,
     fontFamily: 'PhosphorBold',
@@ -6991,7 +10479,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-magnifying-glass.svg)
+  /// The `listMagnifyingGlass` icon in Bold style.
+  ///
+  /// [PT] O ícone `listMagnifyingGlass` no estilo Bold.
+  ///
+  /// ![list-magnifying-glass](https://api.iconify.design/ph/list-magnifying-glass-bold.svg?height=32&color=%23888888)
   static const IconData listMagnifyingGlass = IconData(
     0xebe0,
     fontFamily: 'PhosphorBold',
@@ -6999,7 +10491,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-numbers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-numbers.svg)
+  /// The `listNumbers` icon in Bold style.
+  ///
+  /// [PT] O ícone `listNumbers` no estilo Bold.
+  ///
+  /// ![list-numbers](https://api.iconify.design/ph/list-numbers-bold.svg?height=32&color=%23888888)
   static const IconData listNumbers = IconData(
     0xe2f6,
     fontFamily: 'PhosphorBold',
@@ -7007,7 +10503,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-plus.svg)
+  /// The `listPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `listPlus` no estilo Bold.
+  ///
+  /// ![list-plus](https://api.iconify.design/ph/list-plus-bold.svg?height=32&color=%23888888)
   static const IconData listPlus = IconData(
     0xe2f8,
     fontFamily: 'PhosphorBold',
@@ -7015,7 +10515,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![list-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/list-star.svg)
+  /// The `listStar` icon in Bold style.
+  ///
+  /// [PT] O ícone `listStar` no estilo Bold.
+  ///
+  /// ![list-star](https://api.iconify.design/ph/list-star-bold.svg?height=32&color=%23888888)
   static const IconData listStar = IconData(
     0xebdc,
     fontFamily: 'PhosphorBold',
@@ -7023,7 +10527,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock.svg)
+  /// The `lock` icon in Bold style.
+  ///
+  /// [PT] O ícone `lock` no estilo Bold.
+  ///
+  /// ![lock](https://api.iconify.design/ph/lock-bold.svg?height=32&color=%23888888)
   static const IconData lock = IconData(
     0xe2fa,
     fontFamily: 'PhosphorBold',
@@ -7031,7 +10539,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock-key](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key.svg)
+  /// The `lockKey` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockKey` no estilo Bold.
+  ///
+  /// ![lock-key](https://api.iconify.design/ph/lock-key-bold.svg?height=32&color=%23888888)
   static const IconData lockKey = IconData(
     0xe2fe,
     fontFamily: 'PhosphorBold',
@@ -7039,7 +10551,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock-key-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-key-open.svg)
+  /// The `lockKeyOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockKeyOpen` no estilo Bold.
+  ///
+  /// ![lock-key-open](https://api.iconify.design/ph/lock-key-open-bold.svg?height=32&color=%23888888)
   static const IconData lockKeyOpen = IconData(
     0xe300,
     fontFamily: 'PhosphorBold',
@@ -7047,7 +10563,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock-laminated](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated.svg)
+  /// The `lockLaminated` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockLaminated` no estilo Bold.
+  ///
+  /// ![lock-laminated](https://api.iconify.design/ph/lock-laminated-bold.svg?height=32&color=%23888888)
   static const IconData lockLaminated = IconData(
     0xe302,
     fontFamily: 'PhosphorBold',
@@ -7055,7 +10575,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock-laminated-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-laminated-open.svg)
+  /// The `lockLaminatedOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockLaminatedOpen` no estilo Bold.
+  ///
+  /// ![lock-laminated-open](https://api.iconify.design/ph/lock-laminated-open-bold.svg?height=32&color=%23888888)
   static const IconData lockLaminatedOpen = IconData(
     0xe304,
     fontFamily: 'PhosphorBold',
@@ -7063,7 +10587,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-open.svg)
+  /// The `lockOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockOpen` no estilo Bold.
+  ///
+  /// ![lock-open](https://api.iconify.design/ph/lock-open-bold.svg?height=32&color=%23888888)
   static const IconData lockOpen = IconData(
     0xe306,
     fontFamily: 'PhosphorBold',
@@ -7071,7 +10599,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple.svg)
+  /// The `lockSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockSimple` no estilo Bold.
+  ///
+  /// ![lock-simple](https://api.iconify.design/ph/lock-simple-bold.svg?height=32&color=%23888888)
   static const IconData lockSimple = IconData(
     0xe308,
     fontFamily: 'PhosphorBold',
@@ -7079,7 +10611,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lock-simple-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lock-simple-open.svg)
+  /// The `lockSimpleOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockSimpleOpen` no estilo Bold.
+  ///
+  /// ![lock-simple-open](https://api.iconify.design/ph/lock-simple-open-bold.svg?height=32&color=%23888888)
   static const IconData lockSimpleOpen = IconData(
     0xe30a,
     fontFamily: 'PhosphorBold',
@@ -7087,7 +10623,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![lockers](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/lockers.svg)
+  /// The `lockers` icon in Bold style.
+  ///
+  /// [PT] O ícone `lockers` no estilo Bold.
+  ///
+  /// ![lockers](https://api.iconify.design/ph/lockers-bold.svg?height=32&color=%23888888)
   static const IconData lockers = IconData(
     0xecb8,
     fontFamily: 'PhosphorBold',
@@ -7095,7 +10635,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![log](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/log.svg)
+  /// The `log` icon in Bold style.
+  ///
+  /// [PT] O ícone `log` no estilo Bold.
+  ///
+  /// ![log](https://api.iconify.design/ph/log-bold.svg?height=32&color=%23888888)
   static const IconData log = IconData(
     0xed82,
     fontFamily: 'PhosphorBold',
@@ -7103,7 +10647,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![magic-wand](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magic-wand.svg)
+  /// The `magicWand` icon in Bold style.
+  ///
+  /// [PT] O ícone `magicWand` no estilo Bold.
+  ///
+  /// ![magic-wand](https://api.iconify.design/ph/magic-wand-bold.svg?height=32&color=%23888888)
   static const IconData magicWand = IconData(
     0xe6b6,
     fontFamily: 'PhosphorBold',
@@ -7111,7 +10659,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![magnet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet.svg)
+  /// The `magnet` icon in Bold style.
+  ///
+  /// [PT] O ícone `magnet` no estilo Bold.
+  ///
+  /// ![magnet](https://api.iconify.design/ph/magnet-bold.svg?height=32&color=%23888888)
   static const IconData magnet = IconData(
     0xe680,
     fontFamily: 'PhosphorBold',
@@ -7119,7 +10671,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![magnet-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnet-straight.svg)
+  /// The `magnetStraight` icon in Bold style.
+  ///
+  /// [PT] O ícone `magnetStraight` no estilo Bold.
+  ///
+  /// ![magnet-straight](https://api.iconify.design/ph/magnet-straight-bold.svg?height=32&color=%23888888)
   static const IconData magnetStraight = IconData(
     0xe682,
     fontFamily: 'PhosphorBold',
@@ -7127,7 +10683,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![magnifying-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass.svg)
+  /// The `magnifyingGlass` icon in Bold style.
+  ///
+  /// [PT] O ícone `magnifyingGlass` no estilo Bold.
+  ///
+  /// ![magnifying-glass](https://api.iconify.design/ph/magnifying-glass-bold.svg?height=32&color=%23888888)
   static const IconData magnifyingGlass = IconData(
     0xe30c,
     fontFamily: 'PhosphorBold',
@@ -7135,7 +10695,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![magnifying-glass-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-minus.svg)
+  /// The `magnifyingGlassMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `magnifyingGlassMinus` no estilo Bold.
+  ///
+  /// ![magnifying-glass-minus](https://api.iconify.design/ph/magnifying-glass-minus-bold.svg?height=32&color=%23888888)
   static const IconData magnifyingGlassMinus = IconData(
     0xe30e,
     fontFamily: 'PhosphorBold',
@@ -7143,7 +10707,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![magnifying-glass-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/magnifying-glass-plus.svg)
+  /// The `magnifyingGlassPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `magnifyingGlassPlus` no estilo Bold.
+  ///
+  /// ![magnifying-glass-plus](https://api.iconify.design/ph/magnifying-glass-plus-bold.svg?height=32&color=%23888888)
   static const IconData magnifyingGlassPlus = IconData(
     0xe310,
     fontFamily: 'PhosphorBold',
@@ -7151,7 +10719,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mailbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mailbox.svg)
+  /// The `mailbox` icon in Bold style.
+  ///
+  /// [PT] O ícone `mailbox` no estilo Bold.
+  ///
+  /// ![mailbox](https://api.iconify.design/ph/mailbox-bold.svg?height=32&color=%23888888)
   static const IconData mailbox = IconData(
     0xec1e,
     fontFamily: 'PhosphorBold',
@@ -7159,7 +10731,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin.svg)
+  /// The `mapPin` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapPin` no estilo Bold.
+  ///
+  /// ![map-pin](https://api.iconify.design/ph/map-pin-bold.svg?height=32&color=%23888888)
   static const IconData mapPin = IconData(
     0xe316,
     fontFamily: 'PhosphorBold',
@@ -7167,7 +10743,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-pin-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-area.svg)
+  /// The `mapPinArea` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapPinArea` no estilo Bold.
+  ///
+  /// ![map-pin-area](https://api.iconify.design/ph/map-pin-area-bold.svg?height=32&color=%23888888)
   static const IconData mapPinArea = IconData(
     0xee3a,
     fontFamily: 'PhosphorBold',
@@ -7175,7 +10755,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-pin-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-line.svg)
+  /// The `mapPinLine` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapPinLine` no estilo Bold.
+  ///
+  /// ![map-pin-line](https://api.iconify.design/ph/map-pin-line-bold.svg?height=32&color=%23888888)
   static const IconData mapPinLine = IconData(
     0xe318,
     fontFamily: 'PhosphorBold',
@@ -7183,7 +10767,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-pin-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-plus.svg)
+  /// The `mapPinPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapPinPlus` no estilo Bold.
+  ///
+  /// ![map-pin-plus](https://api.iconify.design/ph/map-pin-plus-bold.svg?height=32&color=%23888888)
   static const IconData mapPinPlus = IconData(
     0xe314,
     fontFamily: 'PhosphorBold',
@@ -7191,7 +10779,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple.svg)
+  /// The `mapPinSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapPinSimple` no estilo Bold.
+  ///
+  /// ![map-pin-simple](https://api.iconify.design/ph/map-pin-simple-bold.svg?height=32&color=%23888888)
   static const IconData mapPinSimple = IconData(
     0xee3e,
     fontFamily: 'PhosphorBold',
@@ -7199,7 +10791,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-pin-simple-area](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-area.svg)
+  /// The `mapPinSimpleArea` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapPinSimpleArea` no estilo Bold.
+  ///
+  /// ![map-pin-simple-area](https://api.iconify.design/ph/map-pin-simple-area-bold.svg?height=32&color=%23888888)
   static const IconData mapPinSimpleArea = IconData(
     0xee3c,
     fontFamily: 'PhosphorBold',
@@ -7207,7 +10803,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-pin-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-pin-simple-line.svg)
+  /// The `mapPinSimpleLine` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapPinSimpleLine` no estilo Bold.
+  ///
+  /// ![map-pin-simple-line](https://api.iconify.design/ph/map-pin-simple-line-bold.svg?height=32&color=%23888888)
   static const IconData mapPinSimpleLine = IconData(
     0xee38,
     fontFamily: 'PhosphorBold',
@@ -7215,7 +10815,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![map-trifold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/map-trifold.svg)
+  /// The `mapTrifold` icon in Bold style.
+  ///
+  /// [PT] O ícone `mapTrifold` no estilo Bold.
+  ///
+  /// ![map-trifold](https://api.iconify.design/ph/map-trifold-bold.svg?height=32&color=%23888888)
   static const IconData mapTrifold = IconData(
     0xe31a,
     fontFamily: 'PhosphorBold',
@@ -7223,7 +10827,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![markdown-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/markdown-logo.svg)
+  /// The `markdownLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `markdownLogo` no estilo Bold.
+  ///
+  /// ![markdown-logo](https://api.iconify.design/ph/markdown-logo-bold.svg?height=32&color=%23888888)
   static const IconData markdownLogo = IconData(
     0xe508,
     fontFamily: 'PhosphorBold',
@@ -7231,7 +10839,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![marker-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/marker-circle.svg)
+  /// The `markerCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `markerCircle` no estilo Bold.
+  ///
+  /// ![marker-circle](https://api.iconify.design/ph/marker-circle-bold.svg?height=32&color=%23888888)
   static const IconData markerCircle = IconData(
     0xe640,
     fontFamily: 'PhosphorBold',
@@ -7239,7 +10851,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![martini](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/martini.svg)
+  /// The `martini` icon in Bold style.
+  ///
+  /// [PT] O ícone `martini` no estilo Bold.
+  ///
+  /// ![martini](https://api.iconify.design/ph/martini-bold.svg?height=32&color=%23888888)
   static const IconData martini = IconData(
     0xe31c,
     fontFamily: 'PhosphorBold',
@@ -7247,7 +10863,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mask-happy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-happy.svg)
+  /// The `maskHappy` icon in Bold style.
+  ///
+  /// [PT] O ícone `maskHappy` no estilo Bold.
+  ///
+  /// ![mask-happy](https://api.iconify.design/ph/mask-happy-bold.svg?height=32&color=%23888888)
   static const IconData maskHappy = IconData(
     0xe9f4,
     fontFamily: 'PhosphorBold',
@@ -7255,7 +10875,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mask-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mask-sad.svg)
+  /// The `maskSad` icon in Bold style.
+  ///
+  /// [PT] O ícone `maskSad` no estilo Bold.
+  ///
+  /// ![mask-sad](https://api.iconify.design/ph/mask-sad-bold.svg?height=32&color=%23888888)
   static const IconData maskSad = IconData(
     0xeb9e,
     fontFamily: 'PhosphorBold',
@@ -7263,7 +10887,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mastodon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mastodon-logo.svg)
+  /// The `mastodonLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `mastodonLogo` no estilo Bold.
+  ///
+  /// ![mastodon-logo](https://api.iconify.design/ph/mastodon-logo-bold.svg?height=32&color=%23888888)
   static const IconData mastodonLogo = IconData(
     0xed68,
     fontFamily: 'PhosphorBold',
@@ -7271,7 +10899,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![math-operations](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/math-operations.svg)
+  /// The `mathOperations` icon in Bold style.
+  ///
+  /// [PT] O ícone `mathOperations` no estilo Bold.
+  ///
+  /// ![math-operations](https://api.iconify.design/ph/math-operations-bold.svg?height=32&color=%23888888)
   static const IconData mathOperations = IconData(
     0xe31e,
     fontFamily: 'PhosphorBold',
@@ -7279,7 +10911,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![matrix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/matrix-logo.svg)
+  /// The `matrixLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `matrixLogo` no estilo Bold.
+  ///
+  /// ![matrix-logo](https://api.iconify.design/ph/matrix-logo-bold.svg?height=32&color=%23888888)
   static const IconData matrixLogo = IconData(
     0xed64,
     fontFamily: 'PhosphorBold',
@@ -7287,7 +10923,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![medal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal.svg)
+  /// The `medal` icon in Bold style.
+  ///
+  /// [PT] O ícone `medal` no estilo Bold.
+  ///
+  /// ![medal](https://api.iconify.design/ph/medal-bold.svg?height=32&color=%23888888)
   static const IconData medal = IconData(
     0xe320,
     fontFamily: 'PhosphorBold',
@@ -7295,7 +10935,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![medal-military](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medal-military.svg)
+  /// The `medalMilitary` icon in Bold style.
+  ///
+  /// [PT] O ícone `medalMilitary` no estilo Bold.
+  ///
+  /// ![medal-military](https://api.iconify.design/ph/medal-military-bold.svg?height=32&color=%23888888)
   static const IconData medalMilitary = IconData(
     0xecfc,
     fontFamily: 'PhosphorBold',
@@ -7303,7 +10947,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![medium-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/medium-logo.svg)
+  /// The `mediumLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `mediumLogo` no estilo Bold.
+  ///
+  /// ![medium-logo](https://api.iconify.design/ph/medium-logo-bold.svg?height=32&color=%23888888)
   static const IconData mediumLogo = IconData(
     0xe322,
     fontFamily: 'PhosphorBold',
@@ -7311,7 +10959,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![megaphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone.svg)
+  /// The `megaphone` icon in Bold style.
+  ///
+  /// [PT] O ícone `megaphone` no estilo Bold.
+  ///
+  /// ![megaphone](https://api.iconify.design/ph/megaphone-bold.svg?height=32&color=%23888888)
   static const IconData megaphone = IconData(
     0xe324,
     fontFamily: 'PhosphorBold',
@@ -7319,7 +10971,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![megaphone-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/megaphone-simple.svg)
+  /// The `megaphoneSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `megaphoneSimple` no estilo Bold.
+  ///
+  /// ![megaphone-simple](https://api.iconify.design/ph/megaphone-simple-bold.svg?height=32&color=%23888888)
   static const IconData megaphoneSimple = IconData(
     0xe642,
     fontFamily: 'PhosphorBold',
@@ -7327,7 +10983,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/member-of.svg)
+  /// The `memberOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `memberOf` no estilo Bold.
+  ///
+  /// ![member-of](https://api.iconify.design/ph/member-of-bold.svg?height=32&color=%23888888)
   static const IconData memberOf = IconData(
     0xedc2,
     fontFamily: 'PhosphorBold',
@@ -7335,7 +10995,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![memory](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/memory.svg)
+  /// The `memory` icon in Bold style.
+  ///
+  /// [PT] O ícone `memory` no estilo Bold.
+  ///
+  /// ![memory](https://api.iconify.design/ph/memory-bold.svg?height=32&color=%23888888)
   static const IconData memory = IconData(
     0xe9c4,
     fontFamily: 'PhosphorBold',
@@ -7343,7 +11007,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![messenger-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/messenger-logo.svg)
+  /// The `messengerLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `messengerLogo` no estilo Bold.
+  ///
+  /// ![messenger-logo](https://api.iconify.design/ph/messenger-logo-bold.svg?height=32&color=%23888888)
   static const IconData messengerLogo = IconData(
     0xe6d8,
     fontFamily: 'PhosphorBold',
@@ -7351,7 +11019,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![meta-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meta-logo.svg)
+  /// The `metaLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `metaLogo` no estilo Bold.
+  ///
+  /// ![meta-logo](https://api.iconify.design/ph/meta-logo-bold.svg?height=32&color=%23888888)
   static const IconData metaLogo = IconData(
     0xed02,
     fontFamily: 'PhosphorBold',
@@ -7359,7 +11031,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![meteor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/meteor.svg)
+  /// The `meteor` icon in Bold style.
+  ///
+  /// [PT] O ícone `meteor` no estilo Bold.
+  ///
+  /// ![meteor](https://api.iconify.design/ph/meteor-bold.svg?height=32&color=%23888888)
   static const IconData meteor = IconData(
     0xe9ba,
     fontFamily: 'PhosphorBold',
@@ -7367,7 +11043,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![metronome](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/metronome.svg)
+  /// The `metronome` icon in Bold style.
+  ///
+  /// [PT] O ícone `metronome` no estilo Bold.
+  ///
+  /// ![metronome](https://api.iconify.design/ph/metronome-bold.svg?height=32&color=%23888888)
   static const IconData metronome = IconData(
     0xec8e,
     fontFamily: 'PhosphorBold',
@@ -7375,7 +11055,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microphone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone.svg)
+  /// The `microphone` icon in Bold style.
+  ///
+  /// [PT] O ícone `microphone` no estilo Bold.
+  ///
+  /// ![microphone](https://api.iconify.design/ph/microphone-bold.svg?height=32&color=%23888888)
   static const IconData microphone = IconData(
     0xe326,
     fontFamily: 'PhosphorBold',
@@ -7383,7 +11067,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microphone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-slash.svg)
+  /// The `microphoneSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `microphoneSlash` no estilo Bold.
+  ///
+  /// ![microphone-slash](https://api.iconify.design/ph/microphone-slash-bold.svg?height=32&color=%23888888)
   static const IconData microphoneSlash = IconData(
     0xe328,
     fontFamily: 'PhosphorBold',
@@ -7391,7 +11079,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microphone-stage](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microphone-stage.svg)
+  /// The `microphoneStage` icon in Bold style.
+  ///
+  /// [PT] O ícone `microphoneStage` no estilo Bold.
+  ///
+  /// ![microphone-stage](https://api.iconify.design/ph/microphone-stage-bold.svg?height=32&color=%23888888)
   static const IconData microphoneStage = IconData(
     0xe75c,
     fontFamily: 'PhosphorBold',
@@ -7399,7 +11091,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microscope.svg)
+  /// The `microscope` icon in Bold style.
+  ///
+  /// [PT] O ícone `microscope` no estilo Bold.
+  ///
+  /// ![microscope](https://api.iconify.design/ph/microscope-bold.svg?height=32&color=%23888888)
   static const IconData microscope = IconData(
     0xec7a,
     fontFamily: 'PhosphorBold',
@@ -7407,7 +11103,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microsoft-excel-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-excel-logo.svg)
+  /// The `microsoftExcelLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `microsoftExcelLogo` no estilo Bold.
+  ///
+  /// ![microsoft-excel-logo](https://api.iconify.design/ph/microsoft-excel-logo-bold.svg?height=32&color=%23888888)
   static const IconData microsoftExcelLogo = IconData(
     0xeb6c,
     fontFamily: 'PhosphorBold',
@@ -7415,7 +11115,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microsoft-outlook-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-outlook-logo.svg)
+  /// The `microsoftOutlookLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `microsoftOutlookLogo` no estilo Bold.
+  ///
+  /// ![microsoft-outlook-logo](https://api.iconify.design/ph/microsoft-outlook-logo-bold.svg?height=32&color=%23888888)
   static const IconData microsoftOutlookLogo = IconData(
     0xeb70,
     fontFamily: 'PhosphorBold',
@@ -7423,7 +11127,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microsoft-powerpoint-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-powerpoint-logo.svg)
+  /// The `microsoftPowerpointLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `microsoftPowerpointLogo` no estilo Bold.
+  ///
+  /// ![microsoft-powerpoint-logo](https://api.iconify.design/ph/microsoft-powerpoint-logo-bold.svg?height=32&color=%23888888)
   static const IconData microsoftPowerpointLogo = IconData(
     0xeace,
     fontFamily: 'PhosphorBold',
@@ -7431,7 +11139,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microsoft-teams-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-teams-logo.svg)
+  /// The `microsoftTeamsLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `microsoftTeamsLogo` no estilo Bold.
+  ///
+  /// ![microsoft-teams-logo](https://api.iconify.design/ph/microsoft-teams-logo-bold.svg?height=32&color=%23888888)
   static const IconData microsoftTeamsLogo = IconData(
     0xeb66,
     fontFamily: 'PhosphorBold',
@@ -7439,7 +11151,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![microsoft-word-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/microsoft-word-logo.svg)
+  /// The `microsoftWordLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `microsoftWordLogo` no estilo Bold.
+  ///
+  /// ![microsoft-word-logo](https://api.iconify.design/ph/microsoft-word-logo-bold.svg?height=32&color=%23888888)
   static const IconData microsoftWordLogo = IconData(
     0xeb6a,
     fontFamily: 'PhosphorBold',
@@ -7447,7 +11163,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus.svg)
+  /// The `minus` icon in Bold style.
+  ///
+  /// [PT] O ícone `minus` no estilo Bold.
+  ///
+  /// ![minus](https://api.iconify.design/ph/minus-bold.svg?height=32&color=%23888888)
   static const IconData minus = IconData(
     0xe32a,
     fontFamily: 'PhosphorBold',
@@ -7455,7 +11175,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![minus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-circle.svg)
+  /// The `minusCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `minusCircle` no estilo Bold.
+  ///
+  /// ![minus-circle](https://api.iconify.design/ph/minus-circle-bold.svg?height=32&color=%23888888)
   static const IconData minusCircle = IconData(
     0xe32c,
     fontFamily: 'PhosphorBold',
@@ -7463,7 +11187,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![minus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/minus-square.svg)
+  /// The `minusSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `minusSquare` no estilo Bold.
+  ///
+  /// ![minus-square](https://api.iconify.design/ph/minus-square-bold.svg?height=32&color=%23888888)
   static const IconData minusSquare = IconData(
     0xed4c,
     fontFamily: 'PhosphorBold',
@@ -7471,7 +11199,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![money](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money.svg)
+  /// The `money` icon in Bold style.
+  ///
+  /// [PT] O ícone `money` no estilo Bold.
+  ///
+  /// ![money](https://api.iconify.design/ph/money-bold.svg?height=32&color=%23888888)
   static const IconData money = IconData(
     0xe588,
     fontFamily: 'PhosphorBold',
@@ -7479,7 +11211,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![money-wavy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/money-wavy.svg)
+  /// The `moneyWavy` icon in Bold style.
+  ///
+  /// [PT] O ícone `moneyWavy` no estilo Bold.
+  ///
+  /// ![money-wavy](https://api.iconify.design/ph/money-wavy-bold.svg?height=32&color=%23888888)
   static const IconData moneyWavy = IconData(
     0xee68,
     fontFamily: 'PhosphorBold',
@@ -7487,7 +11223,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![monitor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor.svg)
+  /// The `monitor` icon in Bold style.
+  ///
+  /// [PT] O ícone `monitor` no estilo Bold.
+  ///
+  /// ![monitor](https://api.iconify.design/ph/monitor-bold.svg?height=32&color=%23888888)
   static const IconData monitor = IconData(
     0xe32e,
     fontFamily: 'PhosphorBold',
@@ -7495,7 +11235,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![monitor-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-arrow-up.svg)
+  /// The `monitorArrowUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `monitorArrowUp` no estilo Bold.
+  ///
+  /// ![monitor-arrow-up](https://api.iconify.design/ph/monitor-arrow-up-bold.svg?height=32&color=%23888888)
   static const IconData monitorArrowUp = IconData(
     0xe58a,
     fontFamily: 'PhosphorBold',
@@ -7503,7 +11247,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![monitor-play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/monitor-play.svg)
+  /// The `monitorPlay` icon in Bold style.
+  ///
+  /// [PT] O ícone `monitorPlay` no estilo Bold.
+  ///
+  /// ![monitor-play](https://api.iconify.design/ph/monitor-play-bold.svg?height=32&color=%23888888)
   static const IconData monitorPlay = IconData(
     0xe58c,
     fontFamily: 'PhosphorBold',
@@ -7511,7 +11259,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![moon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon.svg)
+  /// The `moon` icon in Bold style.
+  ///
+  /// [PT] O ícone `moon` no estilo Bold.
+  ///
+  /// ![moon](https://api.iconify.design/ph/moon-bold.svg?height=32&color=%23888888)
   static const IconData moon = IconData(
     0xe330,
     fontFamily: 'PhosphorBold',
@@ -7519,7 +11271,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![moon-stars](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moon-stars.svg)
+  /// The `moonStars` icon in Bold style.
+  ///
+  /// [PT] O ícone `moonStars` no estilo Bold.
+  ///
+  /// ![moon-stars](https://api.iconify.design/ph/moon-stars-bold.svg?height=32&color=%23888888)
   static const IconData moonStars = IconData(
     0xe58e,
     fontFamily: 'PhosphorBold',
@@ -7527,7 +11283,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![moped](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped.svg)
+  /// The `moped` icon in Bold style.
+  ///
+  /// [PT] O ícone `moped` no estilo Bold.
+  ///
+  /// ![moped](https://api.iconify.design/ph/moped-bold.svg?height=32&color=%23888888)
   static const IconData moped = IconData(
     0xe824,
     fontFamily: 'PhosphorBold',
@@ -7535,7 +11295,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![moped-front](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/moped-front.svg)
+  /// The `mopedFront` icon in Bold style.
+  ///
+  /// [PT] O ícone `mopedFront` no estilo Bold.
+  ///
+  /// ![moped-front](https://api.iconify.design/ph/moped-front-bold.svg?height=32&color=%23888888)
   static const IconData mopedFront = IconData(
     0xe822,
     fontFamily: 'PhosphorBold',
@@ -7543,7 +11307,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mosque](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mosque.svg)
+  /// The `mosque` icon in Bold style.
+  ///
+  /// [PT] O ícone `mosque` no estilo Bold.
+  ///
+  /// ![mosque](https://api.iconify.design/ph/mosque-bold.svg?height=32&color=%23888888)
   static const IconData mosque = IconData(
     0xecee,
     fontFamily: 'PhosphorBold',
@@ -7551,7 +11319,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![motorcycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/motorcycle.svg)
+  /// The `motorcycle` icon in Bold style.
+  ///
+  /// [PT] O ícone `motorcycle` no estilo Bold.
+  ///
+  /// ![motorcycle](https://api.iconify.design/ph/motorcycle-bold.svg?height=32&color=%23888888)
   static const IconData motorcycle = IconData(
     0xe80a,
     fontFamily: 'PhosphorBold',
@@ -7559,7 +11331,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mountains](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mountains.svg)
+  /// The `mountains` icon in Bold style.
+  ///
+  /// [PT] O ícone `mountains` no estilo Bold.
+  ///
+  /// ![mountains](https://api.iconify.design/ph/mountains-bold.svg?height=32&color=%23888888)
   static const IconData mountains = IconData(
     0xe7ae,
     fontFamily: 'PhosphorBold',
@@ -7567,7 +11343,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse.svg)
+  /// The `mouse` icon in Bold style.
+  ///
+  /// [PT] O ícone `mouse` no estilo Bold.
+  ///
+  /// ![mouse](https://api.iconify.design/ph/mouse-bold.svg?height=32&color=%23888888)
   static const IconData mouse = IconData(
     0xe33a,
     fontFamily: 'PhosphorBold',
@@ -7575,7 +11355,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mouse-left-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-left-click.svg)
+  /// The `mouseLeftClick` icon in Bold style.
+  ///
+  /// [PT] O ícone `mouseLeftClick` no estilo Bold.
+  ///
+  /// ![mouse-left-click](https://api.iconify.design/ph/mouse-left-click-bold.svg?height=32&color=%23888888)
   static const IconData mouseLeftClick = IconData(
     0xe334,
     fontFamily: 'PhosphorBold',
@@ -7583,7 +11367,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mouse-middle-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-middle-click.svg)
+  /// The `mouseMiddleClick` icon in Bold style.
+  ///
+  /// [PT] O ícone `mouseMiddleClick` no estilo Bold.
+  ///
+  /// ![mouse-middle-click](https://api.iconify.design/ph/mouse-middle-click-bold.svg?height=32&color=%23888888)
   static const IconData mouseMiddleClick = IconData(
     0xe338,
     fontFamily: 'PhosphorBold',
@@ -7591,7 +11379,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mouse-right-click](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-right-click.svg)
+  /// The `mouseRightClick` icon in Bold style.
+  ///
+  /// [PT] O ícone `mouseRightClick` no estilo Bold.
+  ///
+  /// ![mouse-right-click](https://api.iconify.design/ph/mouse-right-click-bold.svg?height=32&color=%23888888)
   static const IconData mouseRightClick = IconData(
     0xe336,
     fontFamily: 'PhosphorBold',
@@ -7599,7 +11391,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mouse-scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-scroll.svg)
+  /// The `mouseScroll` icon in Bold style.
+  ///
+  /// [PT] O ícone `mouseScroll` no estilo Bold.
+  ///
+  /// ![mouse-scroll](https://api.iconify.design/ph/mouse-scroll-bold.svg?height=32&color=%23888888)
   static const IconData mouseScroll = IconData(
     0xe332,
     fontFamily: 'PhosphorBold',
@@ -7607,7 +11403,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![mouse-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/mouse-simple.svg)
+  /// The `mouseSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `mouseSimple` no estilo Bold.
+  ///
+  /// ![mouse-simple](https://api.iconify.design/ph/mouse-simple-bold.svg?height=32&color=%23888888)
   static const IconData mouseSimple = IconData(
     0xe644,
     fontFamily: 'PhosphorBold',
@@ -7615,7 +11415,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![music-note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note.svg)
+  /// The `musicNote` icon in Bold style.
+  ///
+  /// [PT] O ícone `musicNote` no estilo Bold.
+  ///
+  /// ![music-note](https://api.iconify.design/ph/music-note-bold.svg?height=32&color=%23888888)
   static const IconData musicNote = IconData(
     0xe33c,
     fontFamily: 'PhosphorBold',
@@ -7623,7 +11427,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![music-note-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-note-simple.svg)
+  /// The `musicNoteSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `musicNoteSimple` no estilo Bold.
+  ///
+  /// ![music-note-simple](https://api.iconify.design/ph/music-note-simple-bold.svg?height=32&color=%23888888)
   static const IconData musicNoteSimple = IconData(
     0xe33e,
     fontFamily: 'PhosphorBold',
@@ -7631,7 +11439,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![music-notes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes.svg)
+  /// The `musicNotes` icon in Bold style.
+  ///
+  /// [PT] O ícone `musicNotes` no estilo Bold.
+  ///
+  /// ![music-notes](https://api.iconify.design/ph/music-notes-bold.svg?height=32&color=%23888888)
   static const IconData musicNotes = IconData(
     0xe340,
     fontFamily: 'PhosphorBold',
@@ -7639,7 +11451,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![music-notes-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-minus.svg)
+  /// The `musicNotesMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `musicNotesMinus` no estilo Bold.
+  ///
+  /// ![music-notes-minus](https://api.iconify.design/ph/music-notes-minus-bold.svg?height=32&color=%23888888)
   static const IconData musicNotesMinus = IconData(
     0xee0c,
     fontFamily: 'PhosphorBold',
@@ -7647,7 +11463,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![music-notes-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-plus.svg)
+  /// The `musicNotesPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `musicNotesPlus` no estilo Bold.
+  ///
+  /// ![music-notes-plus](https://api.iconify.design/ph/music-notes-plus-bold.svg?height=32&color=%23888888)
   static const IconData musicNotesPlus = IconData(
     0xeb7c,
     fontFamily: 'PhosphorBold',
@@ -7655,7 +11475,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![music-notes-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/music-notes-simple.svg)
+  /// The `musicNotesSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `musicNotesSimple` no estilo Bold.
+  ///
+  /// ![music-notes-simple](https://api.iconify.design/ph/music-notes-simple-bold.svg?height=32&color=%23888888)
   static const IconData musicNotesSimple = IconData(
     0xe342,
     fontFamily: 'PhosphorBold',
@@ -7663,7 +11487,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![navigation-arrow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/navigation-arrow.svg)
+  /// The `navigationArrow` icon in Bold style.
+  ///
+  /// [PT] O ícone `navigationArrow` no estilo Bold.
+  ///
+  /// ![navigation-arrow](https://api.iconify.design/ph/navigation-arrow-bold.svg?height=32&color=%23888888)
   static const IconData navigationArrow = IconData(
     0xeade,
     fontFamily: 'PhosphorBold',
@@ -7671,7 +11499,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![needle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/needle.svg)
+  /// The `needle` icon in Bold style.
+  ///
+  /// [PT] O ícone `needle` no estilo Bold.
+  ///
+  /// ![needle](https://api.iconify.design/ph/needle-bold.svg?height=32&color=%23888888)
   static const IconData needle = IconData(
     0xe82e,
     fontFamily: 'PhosphorBold',
@@ -7679,7 +11511,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network.svg)
+  /// The `network` icon in Bold style.
+  ///
+  /// [PT] O ícone `network` no estilo Bold.
+  ///
+  /// ![network](https://api.iconify.design/ph/network-bold.svg?height=32&color=%23888888)
   static const IconData network = IconData(
     0xedde,
     fontFamily: 'PhosphorBold',
@@ -7687,7 +11523,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![network-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-slash.svg)
+  /// The `networkSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `networkSlash` no estilo Bold.
+  ///
+  /// ![network-slash](https://api.iconify.design/ph/network-slash-bold.svg?height=32&color=%23888888)
   static const IconData networkSlash = IconData(
     0xeddc,
     fontFamily: 'PhosphorBold',
@@ -7695,7 +11535,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![network-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/network-x.svg)
+  /// The `networkX` icon in Bold style.
+  ///
+  /// [PT] O ícone `networkX` no estilo Bold.
+  ///
+  /// ![network-x](https://api.iconify.design/ph/network-x-bold.svg?height=32&color=%23888888)
   static const IconData networkX = IconData(
     0xedda,
     fontFamily: 'PhosphorBold',
@@ -7703,7 +11547,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![newspaper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper.svg)
+  /// The `newspaper` icon in Bold style.
+  ///
+  /// [PT] O ícone `newspaper` no estilo Bold.
+  ///
+  /// ![newspaper](https://api.iconify.design/ph/newspaper-bold.svg?height=32&color=%23888888)
   static const IconData newspaper = IconData(
     0xe344,
     fontFamily: 'PhosphorBold',
@@ -7711,7 +11559,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![newspaper-clipping](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/newspaper-clipping.svg)
+  /// The `newspaperClipping` icon in Bold style.
+  ///
+  /// [PT] O ícone `newspaperClipping` no estilo Bold.
+  ///
+  /// ![newspaper-clipping](https://api.iconify.design/ph/newspaper-clipping-bold.svg?height=32&color=%23888888)
   static const IconData newspaperClipping = IconData(
     0xe346,
     fontFamily: 'PhosphorBold',
@@ -7719,7 +11571,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![not-equals](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-equals.svg)
+  /// The `notEquals` icon in Bold style.
+  ///
+  /// [PT] O ícone `notEquals` no estilo Bold.
+  ///
+  /// ![not-equals](https://api.iconify.design/ph/not-equals-bold.svg?height=32&color=%23888888)
   static const IconData notEquals = IconData(
     0xeda6,
     fontFamily: 'PhosphorBold',
@@ -7727,7 +11583,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![not-member-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-member-of.svg)
+  /// The `notMemberOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `notMemberOf` no estilo Bold.
+  ///
+  /// ![not-member-of](https://api.iconify.design/ph/not-member-of-bold.svg?height=32&color=%23888888)
   static const IconData notMemberOf = IconData(
     0xedae,
     fontFamily: 'PhosphorBold',
@@ -7735,7 +11595,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![not-subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-subset-of.svg)
+  /// The `notSubsetOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `notSubsetOf` no estilo Bold.
+  ///
+  /// ![not-subset-of](https://api.iconify.design/ph/not-subset-of-bold.svg?height=32&color=%23888888)
   static const IconData notSubsetOf = IconData(
     0xedb0,
     fontFamily: 'PhosphorBold',
@@ -7743,7 +11607,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![not-superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/not-superset-of.svg)
+  /// The `notSupersetOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `notSupersetOf` no estilo Bold.
+  ///
+  /// ![not-superset-of](https://api.iconify.design/ph/not-superset-of-bold.svg?height=32&color=%23888888)
   static const IconData notSupersetOf = IconData(
     0xedb2,
     fontFamily: 'PhosphorBold',
@@ -7751,7 +11619,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![notches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notches.svg)
+  /// The `notches` icon in Bold style.
+  ///
+  /// [PT] O ícone `notches` no estilo Bold.
+  ///
+  /// ![notches](https://api.iconify.design/ph/notches-bold.svg?height=32&color=%23888888)
   static const IconData notches = IconData(
     0xed3a,
     fontFamily: 'PhosphorBold',
@@ -7759,7 +11631,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![note](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note.svg)
+  /// The `note` icon in Bold style.
+  ///
+  /// [PT] O ícone `note` no estilo Bold.
+  ///
+  /// ![note](https://api.iconify.design/ph/note-bold.svg?height=32&color=%23888888)
   static const IconData note = IconData(
     0xe348,
     fontFamily: 'PhosphorBold',
@@ -7767,7 +11643,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![note-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-blank.svg)
+  /// The `noteBlank` icon in Bold style.
+  ///
+  /// [PT] O ícone `noteBlank` no estilo Bold.
+  ///
+  /// ![note-blank](https://api.iconify.design/ph/note-blank-bold.svg?height=32&color=%23888888)
   static const IconData noteBlank = IconData(
     0xe34a,
     fontFamily: 'PhosphorBold',
@@ -7775,7 +11655,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![note-pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/note-pencil.svg)
+  /// The `notePencil` icon in Bold style.
+  ///
+  /// [PT] O ícone `notePencil` no estilo Bold.
+  ///
+  /// ![note-pencil](https://api.iconify.design/ph/note-pencil-bold.svg?height=32&color=%23888888)
   static const IconData notePencil = IconData(
     0xe34c,
     fontFamily: 'PhosphorBold',
@@ -7783,7 +11667,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![notebook](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notebook.svg)
+  /// The `notebook` icon in Bold style.
+  ///
+  /// [PT] O ícone `notebook` no estilo Bold.
+  ///
+  /// ![notebook](https://api.iconify.design/ph/notebook-bold.svg?height=32&color=%23888888)
   static const IconData notebook = IconData(
     0xe34e,
     fontFamily: 'PhosphorBold',
@@ -7791,7 +11679,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![notepad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notepad.svg)
+  /// The `notepad` icon in Bold style.
+  ///
+  /// [PT] O ícone `notepad` no estilo Bold.
+  ///
+  /// ![notepad](https://api.iconify.design/ph/notepad-bold.svg?height=32&color=%23888888)
   static const IconData notepad = IconData(
     0xe63e,
     fontFamily: 'PhosphorBold',
@@ -7799,7 +11691,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![notification](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notification.svg)
+  /// The `notification` icon in Bold style.
+  ///
+  /// [PT] O ícone `notification` no estilo Bold.
+  ///
+  /// ![notification](https://api.iconify.design/ph/notification-bold.svg?height=32&color=%23888888)
   static const IconData notification = IconData(
     0xe6fa,
     fontFamily: 'PhosphorBold',
@@ -7807,7 +11703,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![notion-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/notion-logo.svg)
+  /// The `notionLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `notionLogo` no estilo Bold.
+  ///
+  /// ![notion-logo](https://api.iconify.design/ph/notion-logo-bold.svg?height=32&color=%23888888)
   static const IconData notionLogo = IconData(
     0xe9a0,
     fontFamily: 'PhosphorBold',
@@ -7815,7 +11715,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![nuclear-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nuclear-plant.svg)
+  /// The `nuclearPlant` icon in Bold style.
+  ///
+  /// [PT] O ícone `nuclearPlant` no estilo Bold.
+  ///
+  /// ![nuclear-plant](https://api.iconify.design/ph/nuclear-plant-bold.svg?height=32&color=%23888888)
   static const IconData nuclearPlant = IconData(
     0xed7c,
     fontFamily: 'PhosphorBold',
@@ -7823,7 +11727,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-eight.svg)
+  /// The `numberCircleEight` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleEight` no estilo Bold.
+  ///
+  /// ![number-circle-eight](https://api.iconify.design/ph/number-circle-eight-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleEight = IconData(
     0xe352,
     fontFamily: 'PhosphorBold',
@@ -7831,7 +11739,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-five.svg)
+  /// The `numberCircleFive` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleFive` no estilo Bold.
+  ///
+  /// ![number-circle-five](https://api.iconify.design/ph/number-circle-five-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleFive = IconData(
     0xe358,
     fontFamily: 'PhosphorBold',
@@ -7839,7 +11751,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-four.svg)
+  /// The `numberCircleFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleFour` no estilo Bold.
+  ///
+  /// ![number-circle-four](https://api.iconify.design/ph/number-circle-four-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleFour = IconData(
     0xe35e,
     fontFamily: 'PhosphorBold',
@@ -7847,7 +11763,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-nine.svg)
+  /// The `numberCircleNine` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleNine` no estilo Bold.
+  ///
+  /// ![number-circle-nine](https://api.iconify.design/ph/number-circle-nine-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleNine = IconData(
     0xe364,
     fontFamily: 'PhosphorBold',
@@ -7855,7 +11775,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-one.svg)
+  /// The `numberCircleOne` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleOne` no estilo Bold.
+  ///
+  /// ![number-circle-one](https://api.iconify.design/ph/number-circle-one-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleOne = IconData(
     0xe36a,
     fontFamily: 'PhosphorBold',
@@ -7863,7 +11787,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-seven.svg)
+  /// The `numberCircleSeven` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleSeven` no estilo Bold.
+  ///
+  /// ![number-circle-seven](https://api.iconify.design/ph/number-circle-seven-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleSeven = IconData(
     0xe370,
     fontFamily: 'PhosphorBold',
@@ -7871,7 +11799,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-six.svg)
+  /// The `numberCircleSix` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleSix` no estilo Bold.
+  ///
+  /// ![number-circle-six](https://api.iconify.design/ph/number-circle-six-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleSix = IconData(
     0xe376,
     fontFamily: 'PhosphorBold',
@@ -7879,7 +11811,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-three.svg)
+  /// The `numberCircleThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleThree` no estilo Bold.
+  ///
+  /// ![number-circle-three](https://api.iconify.design/ph/number-circle-three-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleThree = IconData(
     0xe37c,
     fontFamily: 'PhosphorBold',
@@ -7887,7 +11823,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-two.svg)
+  /// The `numberCircleTwo` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleTwo` no estilo Bold.
+  ///
+  /// ![number-circle-two](https://api.iconify.design/ph/number-circle-two-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleTwo = IconData(
     0xe382,
     fontFamily: 'PhosphorBold',
@@ -7895,7 +11835,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-circle-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-circle-zero.svg)
+  /// The `numberCircleZero` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberCircleZero` no estilo Bold.
+  ///
+  /// ![number-circle-zero](https://api.iconify.design/ph/number-circle-zero-bold.svg?height=32&color=%23888888)
   static const IconData numberCircleZero = IconData(
     0xe388,
     fontFamily: 'PhosphorBold',
@@ -7903,7 +11847,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-eight.svg)
+  /// The `numberEight` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberEight` no estilo Bold.
+  ///
+  /// ![number-eight](https://api.iconify.design/ph/number-eight-bold.svg?height=32&color=%23888888)
   static const IconData numberEight = IconData(
     0xe350,
     fontFamily: 'PhosphorBold',
@@ -7911,7 +11859,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-five.svg)
+  /// The `numberFive` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberFive` no estilo Bold.
+  ///
+  /// ![number-five](https://api.iconify.design/ph/number-five-bold.svg?height=32&color=%23888888)
   static const IconData numberFive = IconData(
     0xe356,
     fontFamily: 'PhosphorBold',
@@ -7919,7 +11871,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-four.svg)
+  /// The `numberFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberFour` no estilo Bold.
+  ///
+  /// ![number-four](https://api.iconify.design/ph/number-four-bold.svg?height=32&color=%23888888)
   static const IconData numberFour = IconData(
     0xe35c,
     fontFamily: 'PhosphorBold',
@@ -7927,7 +11883,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-nine.svg)
+  /// The `numberNine` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberNine` no estilo Bold.
+  ///
+  /// ![number-nine](https://api.iconify.design/ph/number-nine-bold.svg?height=32&color=%23888888)
   static const IconData numberNine = IconData(
     0xe362,
     fontFamily: 'PhosphorBold',
@@ -7935,7 +11895,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-one.svg)
+  /// The `numberOne` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberOne` no estilo Bold.
+  ///
+  /// ![number-one](https://api.iconify.design/ph/number-one-bold.svg?height=32&color=%23888888)
   static const IconData numberOne = IconData(
     0xe368,
     fontFamily: 'PhosphorBold',
@@ -7943,7 +11907,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-seven.svg)
+  /// The `numberSeven` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSeven` no estilo Bold.
+  ///
+  /// ![number-seven](https://api.iconify.design/ph/number-seven-bold.svg?height=32&color=%23888888)
   static const IconData numberSeven = IconData(
     0xe36e,
     fontFamily: 'PhosphorBold',
@@ -7951,7 +11919,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-six.svg)
+  /// The `numberSix` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSix` no estilo Bold.
+  ///
+  /// ![number-six](https://api.iconify.design/ph/number-six-bold.svg?height=32&color=%23888888)
   static const IconData numberSix = IconData(
     0xe374,
     fontFamily: 'PhosphorBold',
@@ -7959,7 +11931,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-eight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-eight.svg)
+  /// The `numberSquareEight` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareEight` no estilo Bold.
+  ///
+  /// ![number-square-eight](https://api.iconify.design/ph/number-square-eight-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareEight = IconData(
     0xe354,
     fontFamily: 'PhosphorBold',
@@ -7967,7 +11943,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-five.svg)
+  /// The `numberSquareFive` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareFive` no estilo Bold.
+  ///
+  /// ![number-square-five](https://api.iconify.design/ph/number-square-five-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareFive = IconData(
     0xe35a,
     fontFamily: 'PhosphorBold',
@@ -7975,7 +11955,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-four.svg)
+  /// The `numberSquareFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareFour` no estilo Bold.
+  ///
+  /// ![number-square-four](https://api.iconify.design/ph/number-square-four-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareFour = IconData(
     0xe360,
     fontFamily: 'PhosphorBold',
@@ -7983,7 +11967,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-nine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-nine.svg)
+  /// The `numberSquareNine` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareNine` no estilo Bold.
+  ///
+  /// ![number-square-nine](https://api.iconify.design/ph/number-square-nine-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareNine = IconData(
     0xe366,
     fontFamily: 'PhosphorBold',
@@ -7991,7 +11979,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-one.svg)
+  /// The `numberSquareOne` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareOne` no estilo Bold.
+  ///
+  /// ![number-square-one](https://api.iconify.design/ph/number-square-one-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareOne = IconData(
     0xe36c,
     fontFamily: 'PhosphorBold',
@@ -7999,7 +11991,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-seven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-seven.svg)
+  /// The `numberSquareSeven` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareSeven` no estilo Bold.
+  ///
+  /// ![number-square-seven](https://api.iconify.design/ph/number-square-seven-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareSeven = IconData(
     0xe372,
     fontFamily: 'PhosphorBold',
@@ -8007,7 +12003,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-six.svg)
+  /// The `numberSquareSix` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareSix` no estilo Bold.
+  ///
+  /// ![number-square-six](https://api.iconify.design/ph/number-square-six-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareSix = IconData(
     0xe378,
     fontFamily: 'PhosphorBold',
@@ -8015,7 +12015,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-three.svg)
+  /// The `numberSquareThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareThree` no estilo Bold.
+  ///
+  /// ![number-square-three](https://api.iconify.design/ph/number-square-three-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareThree = IconData(
     0xe37e,
     fontFamily: 'PhosphorBold',
@@ -8023,7 +12027,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-two.svg)
+  /// The `numberSquareTwo` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareTwo` no estilo Bold.
+  ///
+  /// ![number-square-two](https://api.iconify.design/ph/number-square-two-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareTwo = IconData(
     0xe384,
     fontFamily: 'PhosphorBold',
@@ -8031,7 +12039,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-square-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-square-zero.svg)
+  /// The `numberSquareZero` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberSquareZero` no estilo Bold.
+  ///
+  /// ![number-square-zero](https://api.iconify.design/ph/number-square-zero-bold.svg?height=32&color=%23888888)
   static const IconData numberSquareZero = IconData(
     0xe38a,
     fontFamily: 'PhosphorBold',
@@ -8039,7 +12051,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-three.svg)
+  /// The `numberThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberThree` no estilo Bold.
+  ///
+  /// ![number-three](https://api.iconify.design/ph/number-three-bold.svg?height=32&color=%23888888)
   static const IconData numberThree = IconData(
     0xe37a,
     fontFamily: 'PhosphorBold',
@@ -8047,7 +12063,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-two.svg)
+  /// The `numberTwo` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberTwo` no estilo Bold.
+  ///
+  /// ![number-two](https://api.iconify.design/ph/number-two-bold.svg?height=32&color=%23888888)
   static const IconData numberTwo = IconData(
     0xe380,
     fontFamily: 'PhosphorBold',
@@ -8055,7 +12075,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![number-zero](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/number-zero.svg)
+  /// The `numberZero` icon in Bold style.
+  ///
+  /// [PT] O ícone `numberZero` no estilo Bold.
+  ///
+  /// ![number-zero](https://api.iconify.design/ph/number-zero-bold.svg?height=32&color=%23888888)
   static const IconData numberZero = IconData(
     0xe386,
     fontFamily: 'PhosphorBold',
@@ -8063,7 +12087,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![numpad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/numpad.svg)
+  /// The `numpad` icon in Bold style.
+  ///
+  /// [PT] O ícone `numpad` no estilo Bold.
+  ///
+  /// ![numpad](https://api.iconify.design/ph/numpad-bold.svg?height=32&color=%23888888)
   static const IconData numpad = IconData(
     0xe3c8,
     fontFamily: 'PhosphorBold',
@@ -8071,7 +12099,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![nut](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/nut.svg)
+  /// The `nut` icon in Bold style.
+  ///
+  /// [PT] O ícone `nut` no estilo Bold.
+  ///
+  /// ![nut](https://api.iconify.design/ph/nut-bold.svg?height=32&color=%23888888)
   static const IconData nut = IconData(
     0xe38c,
     fontFamily: 'PhosphorBold',
@@ -8079,7 +12111,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ny-times-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ny-times-logo.svg)
+  /// The `nyTimesLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `nyTimesLogo` no estilo Bold.
+  ///
+  /// ![ny-times-logo](https://api.iconify.design/ph/ny-times-logo-bold.svg?height=32&color=%23888888)
   static const IconData nyTimesLogo = IconData(
     0xe646,
     fontFamily: 'PhosphorBold',
@@ -8087,7 +12123,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/octagon.svg)
+  /// The `octagon` icon in Bold style.
+  ///
+  /// [PT] O ícone `octagon` no estilo Bold.
+  ///
+  /// ![octagon](https://api.iconify.design/ph/octagon-bold.svg?height=32&color=%23888888)
   static const IconData octagon = IconData(
     0xe38e,
     fontFamily: 'PhosphorBold',
@@ -8095,7 +12135,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![office-chair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/office-chair.svg)
+  /// The `officeChair` icon in Bold style.
+  ///
+  /// [PT] O ícone `officeChair` no estilo Bold.
+  ///
+  /// ![office-chair](https://api.iconify.design/ph/office-chair-bold.svg?height=32&color=%23888888)
   static const IconData officeChair = IconData(
     0xea46,
     fontFamily: 'PhosphorBold',
@@ -8103,7 +12147,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![onigiri](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/onigiri.svg)
+  /// The `onigiri` icon in Bold style.
+  ///
+  /// [PT] O ícone `onigiri` no estilo Bold.
+  ///
+  /// ![onigiri](https://api.iconify.design/ph/onigiri-bold.svg?height=32&color=%23888888)
   static const IconData onigiri = IconData(
     0xee2c,
     fontFamily: 'PhosphorBold',
@@ -8111,7 +12159,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![open-ai-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/open-ai-logo.svg)
+  /// The `openAiLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `openAiLogo` no estilo Bold.
+  ///
+  /// ![open-ai-logo](https://api.iconify.design/ph/open-ai-logo-bold.svg?height=32&color=%23888888)
   static const IconData openAiLogo = IconData(
     0xe7d2,
     fontFamily: 'PhosphorBold',
@@ -8119,7 +12171,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![option](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/option.svg)
+  /// The `option` icon in Bold style.
+  ///
+  /// [PT] O ícone `option` no estilo Bold.
+  ///
+  /// ![option](https://api.iconify.design/ph/option-bold.svg?height=32&color=%23888888)
   static const IconData option = IconData(
     0xe8a8,
     fontFamily: 'PhosphorBold',
@@ -8127,7 +12183,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![orange](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange.svg)
+  /// The `orange` icon in Bold style.
+  ///
+  /// [PT] O ícone `orange` no estilo Bold.
+  ///
+  /// ![orange](https://api.iconify.design/ph/orange-bold.svg?height=32&color=%23888888)
   static const IconData orange = IconData(
     0xee40,
     fontFamily: 'PhosphorBold',
@@ -8135,7 +12195,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![orange-slice](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/orange-slice.svg)
+  /// The `orangeSlice` icon in Bold style.
+  ///
+  /// [PT] O ícone `orangeSlice` no estilo Bold.
+  ///
+  /// ![orange-slice](https://api.iconify.design/ph/orange-slice-bold.svg?height=32&color=%23888888)
   static const IconData orangeSlice = IconData(
     0xed36,
     fontFamily: 'PhosphorBold',
@@ -8143,7 +12207,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![oven](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/oven.svg)
+  /// The `oven` icon in Bold style.
+  ///
+  /// [PT] O ícone `oven` no estilo Bold.
+  ///
+  /// ![oven](https://api.iconify.design/ph/oven-bold.svg?height=32&color=%23888888)
   static const IconData oven = IconData(
     0xed8c,
     fontFamily: 'PhosphorBold',
@@ -8151,7 +12219,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![package](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/package.svg)
+  /// The `package` icon in Bold style.
+  ///
+  /// [PT] O ícone `package` no estilo Bold.
+  ///
+  /// ![package](https://api.iconify.design/ph/package-bold.svg?height=32&color=%23888888)
   static const IconData package = IconData(
     0xe390,
     fontFamily: 'PhosphorBold',
@@ -8159,7 +12231,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paint-brush](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush.svg)
+  /// The `paintBrush` icon in Bold style.
+  ///
+  /// [PT] O ícone `paintBrush` no estilo Bold.
+  ///
+  /// ![paint-brush](https://api.iconify.design/ph/paint-brush-bold.svg?height=32&color=%23888888)
   static const IconData paintBrush = IconData(
     0xe6f0,
     fontFamily: 'PhosphorBold',
@@ -8167,7 +12243,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paint-brush-broad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-broad.svg)
+  /// The `paintBrushBroad` icon in Bold style.
+  ///
+  /// [PT] O ícone `paintBrushBroad` no estilo Bold.
+  ///
+  /// ![paint-brush-broad](https://api.iconify.design/ph/paint-brush-broad-bold.svg?height=32&color=%23888888)
   static const IconData paintBrushBroad = IconData(
     0xe590,
     fontFamily: 'PhosphorBold',
@@ -8175,7 +12255,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paint-brush-household](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-brush-household.svg)
+  /// The `paintBrushHousehold` icon in Bold style.
+  ///
+  /// [PT] O ícone `paintBrushHousehold` no estilo Bold.
+  ///
+  /// ![paint-brush-household](https://api.iconify.design/ph/paint-brush-household-bold.svg?height=32&color=%23888888)
   static const IconData paintBrushHousehold = IconData(
     0xe6f2,
     fontFamily: 'PhosphorBold',
@@ -8183,7 +12267,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paint-bucket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-bucket.svg)
+  /// The `paintBucket` icon in Bold style.
+  ///
+  /// [PT] O ícone `paintBucket` no estilo Bold.
+  ///
+  /// ![paint-bucket](https://api.iconify.design/ph/paint-bucket-bold.svg?height=32&color=%23888888)
   static const IconData paintBucket = IconData(
     0xe392,
     fontFamily: 'PhosphorBold',
@@ -8191,7 +12279,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paint-roller](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paint-roller.svg)
+  /// The `paintRoller` icon in Bold style.
+  ///
+  /// [PT] O ícone `paintRoller` no estilo Bold.
+  ///
+  /// ![paint-roller](https://api.iconify.design/ph/paint-roller-bold.svg?height=32&color=%23888888)
   static const IconData paintRoller = IconData(
     0xe6f4,
     fontFamily: 'PhosphorBold',
@@ -8199,7 +12291,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![palette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/palette.svg)
+  /// The `palette` icon in Bold style.
+  ///
+  /// [PT] O ícone `palette` no estilo Bold.
+  ///
+  /// ![palette](https://api.iconify.design/ph/palette-bold.svg?height=32&color=%23888888)
   static const IconData palette = IconData(
     0xe6c8,
     fontFamily: 'PhosphorBold',
@@ -8207,7 +12303,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![panorama](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/panorama.svg)
+  /// The `panorama` icon in Bold style.
+  ///
+  /// [PT] O ícone `panorama` no estilo Bold.
+  ///
+  /// ![panorama](https://api.iconify.design/ph/panorama-bold.svg?height=32&color=%23888888)
   static const IconData panorama = IconData(
     0xeaa2,
     fontFamily: 'PhosphorBold',
@@ -8215,7 +12315,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pants](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pants.svg)
+  /// The `pants` icon in Bold style.
+  ///
+  /// [PT] O ícone `pants` no estilo Bold.
+  ///
+  /// ![pants](https://api.iconify.design/ph/pants-bold.svg?height=32&color=%23888888)
   static const IconData pants = IconData(
     0xec88,
     fontFamily: 'PhosphorBold',
@@ -8223,7 +12327,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paper-plane](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane.svg)
+  /// The `paperPlane` icon in Bold style.
+  ///
+  /// [PT] O ícone `paperPlane` no estilo Bold.
+  ///
+  /// ![paper-plane](https://api.iconify.design/ph/paper-plane-bold.svg?height=32&color=%23888888)
   static const IconData paperPlane = IconData(
     0xe394,
     fontFamily: 'PhosphorBold',
@@ -8231,7 +12339,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paper-plane-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-right.svg)
+  /// The `paperPlaneRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `paperPlaneRight` no estilo Bold.
+  ///
+  /// ![paper-plane-right](https://api.iconify.design/ph/paper-plane-right-bold.svg?height=32&color=%23888888)
   static const IconData paperPlaneRight = IconData(
     0xe396,
     fontFamily: 'PhosphorBold',
@@ -8239,7 +12351,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paper-plane-tilt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paper-plane-tilt.svg)
+  /// The `paperPlaneTilt` icon in Bold style.
+  ///
+  /// [PT] O ícone `paperPlaneTilt` no estilo Bold.
+  ///
+  /// ![paper-plane-tilt](https://api.iconify.design/ph/paper-plane-tilt-bold.svg?height=32&color=%23888888)
   static const IconData paperPlaneTilt = IconData(
     0xe398,
     fontFamily: 'PhosphorBold',
@@ -8247,7 +12363,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paperclip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip.svg)
+  /// The `paperclip` icon in Bold style.
+  ///
+  /// [PT] O ícone `paperclip` no estilo Bold.
+  ///
+  /// ![paperclip](https://api.iconify.design/ph/paperclip-bold.svg?height=32&color=%23888888)
   static const IconData paperclip = IconData(
     0xe39a,
     fontFamily: 'PhosphorBold',
@@ -8255,7 +12375,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paperclip-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paperclip-horizontal.svg)
+  /// The `paperclipHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `paperclipHorizontal` no estilo Bold.
+  ///
+  /// ![paperclip-horizontal](https://api.iconify.design/ph/paperclip-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData paperclipHorizontal = IconData(
     0xe592,
     fontFamily: 'PhosphorBold',
@@ -8263,7 +12387,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![parachute](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parachute.svg)
+  /// The `parachute` icon in Bold style.
+  ///
+  /// [PT] O ícone `parachute` no estilo Bold.
+  ///
+  /// ![parachute](https://api.iconify.design/ph/parachute-bold.svg?height=32&color=%23888888)
   static const IconData parachute = IconData(
     0xea7c,
     fontFamily: 'PhosphorBold',
@@ -8271,7 +12399,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paragraph](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paragraph.svg)
+  /// The `paragraph` icon in Bold style.
+  ///
+  /// [PT] O ícone `paragraph` no estilo Bold.
+  ///
+  /// ![paragraph](https://api.iconify.design/ph/paragraph-bold.svg?height=32&color=%23888888)
   static const IconData paragraph = IconData(
     0xe960,
     fontFamily: 'PhosphorBold',
@@ -8279,7 +12411,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![parallelogram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/parallelogram.svg)
+  /// The `parallelogram` icon in Bold style.
+  ///
+  /// [PT] O ícone `parallelogram` no estilo Bold.
+  ///
+  /// ![parallelogram](https://api.iconify.design/ph/parallelogram-bold.svg?height=32&color=%23888888)
   static const IconData parallelogram = IconData(
     0xecc6,
     fontFamily: 'PhosphorBold',
@@ -8287,7 +12423,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![park](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/park.svg)
+  /// The `park` icon in Bold style.
+  ///
+  /// [PT] O ícone `park` no estilo Bold.
+  ///
+  /// ![park](https://api.iconify.design/ph/park-bold.svg?height=32&color=%23888888)
   static const IconData park = IconData(
     0xecb2,
     fontFamily: 'PhosphorBold',
@@ -8295,7 +12435,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![password](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/password.svg)
+  /// The `password` icon in Bold style.
+  ///
+  /// [PT] O ícone `password` no estilo Bold.
+  ///
+  /// ![password](https://api.iconify.design/ph/password-bold.svg?height=32&color=%23888888)
   static const IconData password = IconData(
     0xe752,
     fontFamily: 'PhosphorBold',
@@ -8303,7 +12447,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![path](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/path.svg)
+  /// The `path` icon in Bold style.
+  ///
+  /// [PT] O ícone `path` no estilo Bold.
+  ///
+  /// ![path](https://api.iconify.design/ph/path-bold.svg?height=32&color=%23888888)
   static const IconData path = IconData(
     0xe39c,
     fontFamily: 'PhosphorBold',
@@ -8311,7 +12459,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![patreon-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/patreon-logo.svg)
+  /// The `patreonLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `patreonLogo` no estilo Bold.
+  ///
+  /// ![patreon-logo](https://api.iconify.design/ph/patreon-logo-bold.svg?height=32&color=%23888888)
   static const IconData patreonLogo = IconData(
     0xe98a,
     fontFamily: 'PhosphorBold',
@@ -8319,7 +12471,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause.svg)
+  /// The `pause` icon in Bold style.
+  ///
+  /// [PT] O ícone `pause` no estilo Bold.
+  ///
+  /// ![pause](https://api.iconify.design/ph/pause-bold.svg?height=32&color=%23888888)
   static const IconData pause = IconData(
     0xe39e,
     fontFamily: 'PhosphorBold',
@@ -8327,7 +12483,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pause-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pause-circle.svg)
+  /// The `pauseCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `pauseCircle` no estilo Bold.
+  ///
+  /// ![pause-circle](https://api.iconify.design/ph/pause-circle-bold.svg?height=32&color=%23888888)
   static const IconData pauseCircle = IconData(
     0xe3a0,
     fontFamily: 'PhosphorBold',
@@ -8335,7 +12495,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paw-print](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paw-print.svg)
+  /// The `pawPrint` icon in Bold style.
+  ///
+  /// [PT] O ícone `pawPrint` no estilo Bold.
+  ///
+  /// ![paw-print](https://api.iconify.design/ph/paw-print-bold.svg?height=32&color=%23888888)
   static const IconData pawPrint = IconData(
     0xe648,
     fontFamily: 'PhosphorBold',
@@ -8343,7 +12507,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![paypal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/paypal-logo.svg)
+  /// The `paypalLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `paypalLogo` no estilo Bold.
+  ///
+  /// ![paypal-logo](https://api.iconify.design/ph/paypal-logo-bold.svg?height=32&color=%23888888)
   static const IconData paypalLogo = IconData(
     0xe98c,
     fontFamily: 'PhosphorBold',
@@ -8351,7 +12519,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![peace](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/peace.svg)
+  /// The `peace` icon in Bold style.
+  ///
+  /// [PT] O ícone `peace` no estilo Bold.
+  ///
+  /// ![peace](https://api.iconify.design/ph/peace-bold.svg?height=32&color=%23888888)
   static const IconData peace = IconData(
     0xe3a2,
     fontFamily: 'PhosphorBold',
@@ -8359,7 +12531,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen.svg)
+  /// The `pen` icon in Bold style.
+  ///
+  /// [PT] O ícone `pen` no estilo Bold.
+  ///
+  /// ![pen](https://api.iconify.design/ph/pen-bold.svg?height=32&color=%23888888)
   static const IconData pen = IconData(
     0xe3aa,
     fontFamily: 'PhosphorBold',
@@ -8367,7 +12543,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pen-nib](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib.svg)
+  /// The `penNib` icon in Bold style.
+  ///
+  /// [PT] O ícone `penNib` no estilo Bold.
+  ///
+  /// ![pen-nib](https://api.iconify.design/ph/pen-nib-bold.svg?height=32&color=%23888888)
   static const IconData penNib = IconData(
     0xe3ac,
     fontFamily: 'PhosphorBold',
@@ -8375,7 +12555,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pen-nib-straight](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pen-nib-straight.svg)
+  /// The `penNibStraight` icon in Bold style.
+  ///
+  /// [PT] O ícone `penNibStraight` no estilo Bold.
+  ///
+  /// ![pen-nib-straight](https://api.iconify.design/ph/pen-nib-straight-bold.svg?height=32&color=%23888888)
   static const IconData penNibStraight = IconData(
     0xe64a,
     fontFamily: 'PhosphorBold',
@@ -8383,7 +12567,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil.svg)
+  /// The `pencil` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencil` no estilo Bold.
+  ///
+  /// ![pencil](https://api.iconify.design/ph/pencil-bold.svg?height=32&color=%23888888)
   static const IconData pencil = IconData(
     0xe3ae,
     fontFamily: 'PhosphorBold',
@@ -8391,7 +12579,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-circle.svg)
+  /// The `pencilCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencilCircle` no estilo Bold.
+  ///
+  /// ![pencil-circle](https://api.iconify.design/ph/pencil-circle-bold.svg?height=32&color=%23888888)
   static const IconData pencilCircle = IconData(
     0xe3b0,
     fontFamily: 'PhosphorBold',
@@ -8399,7 +12591,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-line.svg)
+  /// The `pencilLine` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencilLine` no estilo Bold.
+  ///
+  /// ![pencil-line](https://api.iconify.design/ph/pencil-line-bold.svg?height=32&color=%23888888)
   static const IconData pencilLine = IconData(
     0xe3b2,
     fontFamily: 'PhosphorBold',
@@ -8407,7 +12603,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil-ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-ruler.svg)
+  /// The `pencilRuler` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencilRuler` no estilo Bold.
+  ///
+  /// ![pencil-ruler](https://api.iconify.design/ph/pencil-ruler-bold.svg?height=32&color=%23888888)
   static const IconData pencilRuler = IconData(
     0xe906,
     fontFamily: 'PhosphorBold',
@@ -8415,7 +12615,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple.svg)
+  /// The `pencilSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencilSimple` no estilo Bold.
+  ///
+  /// ![pencil-simple](https://api.iconify.design/ph/pencil-simple-bold.svg?height=32&color=%23888888)
   static const IconData pencilSimple = IconData(
     0xe3b4,
     fontFamily: 'PhosphorBold',
@@ -8423,7 +12627,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil-simple-line](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-line.svg)
+  /// The `pencilSimpleLine` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencilSimpleLine` no estilo Bold.
+  ///
+  /// ![pencil-simple-line](https://api.iconify.design/ph/pencil-simple-line-bold.svg?height=32&color=%23888888)
   static const IconData pencilSimpleLine = IconData(
     0xebc6,
     fontFamily: 'PhosphorBold',
@@ -8431,7 +12639,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-simple-slash.svg)
+  /// The `pencilSimpleSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencilSimpleSlash` no estilo Bold.
+  ///
+  /// ![pencil-simple-slash](https://api.iconify.design/ph/pencil-simple-slash-bold.svg?height=32&color=%23888888)
   static const IconData pencilSimpleSlash = IconData(
     0xecf6,
     fontFamily: 'PhosphorBold',
@@ -8439,7 +12651,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pencil-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pencil-slash.svg)
+  /// The `pencilSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `pencilSlash` no estilo Bold.
+  ///
+  /// ![pencil-slash](https://api.iconify.design/ph/pencil-slash-bold.svg?height=32&color=%23888888)
   static const IconData pencilSlash = IconData(
     0xecf8,
     fontFamily: 'PhosphorBold',
@@ -8447,7 +12663,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pentagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagon.svg)
+  /// The `pentagon` icon in Bold style.
+  ///
+  /// [PT] O ícone `pentagon` no estilo Bold.
+  ///
+  /// ![pentagon](https://api.iconify.design/ph/pentagon-bold.svg?height=32&color=%23888888)
   static const IconData pentagon = IconData(
     0xec7e,
     fontFamily: 'PhosphorBold',
@@ -8455,7 +12675,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pentagram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pentagram.svg)
+  /// The `pentagram` icon in Bold style.
+  ///
+  /// [PT] O ícone `pentagram` no estilo Bold.
+  ///
+  /// ![pentagram](https://api.iconify.design/ph/pentagram-bold.svg?height=32&color=%23888888)
   static const IconData pentagram = IconData(
     0xec5c,
     fontFamily: 'PhosphorBold',
@@ -8463,7 +12687,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pepper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pepper.svg)
+  /// The `pepper` icon in Bold style.
+  ///
+  /// [PT] O ícone `pepper` no estilo Bold.
+  ///
+  /// ![pepper](https://api.iconify.design/ph/pepper-bold.svg?height=32&color=%23888888)
   static const IconData pepper = IconData(
     0xe94a,
     fontFamily: 'PhosphorBold',
@@ -8471,7 +12699,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/percent.svg)
+  /// The `percent` icon in Bold style.
+  ///
+  /// [PT] O ícone `percent` no estilo Bold.
+  ///
+  /// ![percent](https://api.iconify.design/ph/percent-bold.svg?height=32&color=%23888888)
   static const IconData percent = IconData(
     0xe3b6,
     fontFamily: 'PhosphorBold',
@@ -8479,7 +12711,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person.svg)
+  /// The `person` icon in Bold style.
+  ///
+  /// [PT] O ícone `person` no estilo Bold.
+  ///
+  /// ![person](https://api.iconify.design/ph/person-bold.svg?height=32&color=%23888888)
   static const IconData person = IconData(
     0xe3a8,
     fontFamily: 'PhosphorBold',
@@ -8487,7 +12723,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-arms-spread](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-arms-spread.svg)
+  /// The `personArmsSpread` icon in Bold style.
+  ///
+  /// [PT] O ícone `personArmsSpread` no estilo Bold.
+  ///
+  /// ![person-arms-spread](https://api.iconify.design/ph/person-arms-spread-bold.svg?height=32&color=%23888888)
   static const IconData personArmsSpread = IconData(
     0xecfe,
     fontFamily: 'PhosphorBold',
@@ -8495,7 +12735,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple.svg)
+  /// The `personSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimple` no estilo Bold.
+  ///
+  /// ![person-simple](https://api.iconify.design/ph/person-simple-bold.svg?height=32&color=%23888888)
   static const IconData personSimple = IconData(
     0xe72e,
     fontFamily: 'PhosphorBold',
@@ -8503,7 +12747,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-bike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-bike.svg)
+  /// The `personSimpleBike` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleBike` no estilo Bold.
+  ///
+  /// ![person-simple-bike](https://api.iconify.design/ph/person-simple-bike-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleBike = IconData(
     0xe734,
     fontFamily: 'PhosphorBold',
@@ -8511,7 +12759,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-circle.svg)
+  /// The `personSimpleCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleCircle` no estilo Bold.
+  ///
+  /// ![person-simple-circle](https://api.iconify.design/ph/person-simple-circle-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleCircle = IconData(
     0xee58,
     fontFamily: 'PhosphorBold',
@@ -8519,7 +12771,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-hike](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-hike.svg)
+  /// The `personSimpleHike` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleHike` no estilo Bold.
+  ///
+  /// ![person-simple-hike](https://api.iconify.design/ph/person-simple-hike-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleHike = IconData(
     0xed54,
     fontFamily: 'PhosphorBold',
@@ -8527,7 +12783,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-run](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-run.svg)
+  /// The `personSimpleRun` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleRun` no estilo Bold.
+  ///
+  /// ![person-simple-run](https://api.iconify.design/ph/person-simple-run-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleRun = IconData(
     0xe730,
     fontFamily: 'PhosphorBold',
@@ -8535,7 +12795,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-ski](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-ski.svg)
+  /// The `personSimpleSki` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleSki` no estilo Bold.
+  ///
+  /// ![person-simple-ski](https://api.iconify.design/ph/person-simple-ski-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleSki = IconData(
     0xe71c,
     fontFamily: 'PhosphorBold',
@@ -8543,7 +12807,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-snowboard](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-snowboard.svg)
+  /// The `personSimpleSnowboard` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleSnowboard` no estilo Bold.
+  ///
+  /// ![person-simple-snowboard](https://api.iconify.design/ph/person-simple-snowboard-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleSnowboard = IconData(
     0xe71e,
     fontFamily: 'PhosphorBold',
@@ -8551,7 +12819,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-swim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-swim.svg)
+  /// The `personSimpleSwim` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleSwim` no estilo Bold.
+  ///
+  /// ![person-simple-swim](https://api.iconify.design/ph/person-simple-swim-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleSwim = IconData(
     0xe736,
     fontFamily: 'PhosphorBold',
@@ -8559,7 +12831,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-tai-chi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-tai-chi.svg)
+  /// The `personSimpleTaiChi` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleTaiChi` no estilo Bold.
+  ///
+  /// ![person-simple-tai-chi](https://api.iconify.design/ph/person-simple-tai-chi-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleTaiChi = IconData(
     0xed5c,
     fontFamily: 'PhosphorBold',
@@ -8567,7 +12843,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-throw](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-throw.svg)
+  /// The `personSimpleThrow` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleThrow` no estilo Bold.
+  ///
+  /// ![person-simple-throw](https://api.iconify.design/ph/person-simple-throw-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleThrow = IconData(
     0xe732,
     fontFamily: 'PhosphorBold',
@@ -8575,7 +12855,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![person-simple-walk](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/person-simple-walk.svg)
+  /// The `personSimpleWalk` icon in Bold style.
+  ///
+  /// [PT] O ícone `personSimpleWalk` no estilo Bold.
+  ///
+  /// ![person-simple-walk](https://api.iconify.design/ph/person-simple-walk-bold.svg?height=32&color=%23888888)
   static const IconData personSimpleWalk = IconData(
     0xe73a,
     fontFamily: 'PhosphorBold',
@@ -8583,7 +12867,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![perspective](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/perspective.svg)
+  /// The `perspective` icon in Bold style.
+  ///
+  /// [PT] O ícone `perspective` no estilo Bold.
+  ///
+  /// ![perspective](https://api.iconify.design/ph/perspective-bold.svg?height=32&color=%23888888)
   static const IconData perspective = IconData(
     0xebe6,
     fontFamily: 'PhosphorBold',
@@ -8591,7 +12879,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone.svg)
+  /// The `phone` icon in Bold style.
+  ///
+  /// [PT] O ícone `phone` no estilo Bold.
+  ///
+  /// ![phone](https://api.iconify.design/ph/phone-bold.svg?height=32&color=%23888888)
   static const IconData phone = IconData(
     0xe3b8,
     fontFamily: 'PhosphorBold',
@@ -8599,7 +12891,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-call](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-call.svg)
+  /// The `phoneCall` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneCall` no estilo Bold.
+  ///
+  /// ![phone-call](https://api.iconify.design/ph/phone-call-bold.svg?height=32&color=%23888888)
   static const IconData phoneCall = IconData(
     0xe3ba,
     fontFamily: 'PhosphorBold',
@@ -8607,7 +12903,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-disconnect](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-disconnect.svg)
+  /// The `phoneDisconnect` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneDisconnect` no estilo Bold.
+  ///
+  /// ![phone-disconnect](https://api.iconify.design/ph/phone-disconnect-bold.svg?height=32&color=%23888888)
   static const IconData phoneDisconnect = IconData(
     0xe3bc,
     fontFamily: 'PhosphorBold',
@@ -8615,7 +12915,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-incoming](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-incoming.svg)
+  /// The `phoneIncoming` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneIncoming` no estilo Bold.
+  ///
+  /// ![phone-incoming](https://api.iconify.design/ph/phone-incoming-bold.svg?height=32&color=%23888888)
   static const IconData phoneIncoming = IconData(
     0xe3be,
     fontFamily: 'PhosphorBold',
@@ -8623,7 +12927,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-list.svg)
+  /// The `phoneList` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneList` no estilo Bold.
+  ///
+  /// ![phone-list](https://api.iconify.design/ph/phone-list-bold.svg?height=32&color=%23888888)
   static const IconData phoneList = IconData(
     0xe3cc,
     fontFamily: 'PhosphorBold',
@@ -8631,7 +12939,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-outgoing](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-outgoing.svg)
+  /// The `phoneOutgoing` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneOutgoing` no estilo Bold.
+  ///
+  /// ![phone-outgoing](https://api.iconify.design/ph/phone-outgoing-bold.svg?height=32&color=%23888888)
   static const IconData phoneOutgoing = IconData(
     0xe3c0,
     fontFamily: 'PhosphorBold',
@@ -8639,7 +12951,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-pause.svg)
+  /// The `phonePause` icon in Bold style.
+  ///
+  /// [PT] O ícone `phonePause` no estilo Bold.
+  ///
+  /// ![phone-pause](https://api.iconify.design/ph/phone-pause-bold.svg?height=32&color=%23888888)
   static const IconData phonePause = IconData(
     0xe3ca,
     fontFamily: 'PhosphorBold',
@@ -8647,7 +12963,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-plus.svg)
+  /// The `phonePlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `phonePlus` no estilo Bold.
+  ///
+  /// ![phone-plus](https://api.iconify.design/ph/phone-plus-bold.svg?height=32&color=%23888888)
   static const IconData phonePlus = IconData(
     0xec56,
     fontFamily: 'PhosphorBold',
@@ -8655,7 +12975,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-slash.svg)
+  /// The `phoneSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneSlash` no estilo Bold.
+  ///
+  /// ![phone-slash](https://api.iconify.design/ph/phone-slash-bold.svg?height=32&color=%23888888)
   static const IconData phoneSlash = IconData(
     0xe3c2,
     fontFamily: 'PhosphorBold',
@@ -8663,7 +12987,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-transfer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-transfer.svg)
+  /// The `phoneTransfer` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneTransfer` no estilo Bold.
+  ///
+  /// ![phone-transfer](https://api.iconify.design/ph/phone-transfer-bold.svg?height=32&color=%23888888)
   static const IconData phoneTransfer = IconData(
     0xe3c6,
     fontFamily: 'PhosphorBold',
@@ -8671,7 +12999,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phone-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phone-x.svg)
+  /// The `phoneX` icon in Bold style.
+  ///
+  /// [PT] O ícone `phoneX` no estilo Bold.
+  ///
+  /// ![phone-x](https://api.iconify.design/ph/phone-x-bold.svg?height=32&color=%23888888)
   static const IconData phoneX = IconData(
     0xe3c4,
     fontFamily: 'PhosphorBold',
@@ -8679,7 +13011,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![phosphor-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/phosphor-logo.svg)
+  /// The `phosphorLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `phosphorLogo` no estilo Bold.
+  ///
+  /// ![phosphor-logo](https://api.iconify.design/ph/phosphor-logo-bold.svg?height=32&color=%23888888)
   static const IconData phosphorLogo = IconData(
     0xe3ce,
     fontFamily: 'PhosphorBold',
@@ -8687,7 +13023,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pi.svg)
+  /// The `pi` icon in Bold style.
+  ///
+  /// [PT] O ícone `pi` no estilo Bold.
+  ///
+  /// ![pi](https://api.iconify.design/ph/pi-bold.svg?height=32&color=%23888888)
   static const IconData pi = IconData(
     0xec80,
     fontFamily: 'PhosphorBold',
@@ -8695,7 +13035,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![piano-keys](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piano-keys.svg)
+  /// The `pianoKeys` icon in Bold style.
+  ///
+  /// [PT] O ícone `pianoKeys` no estilo Bold.
+  ///
+  /// ![piano-keys](https://api.iconify.design/ph/piano-keys-bold.svg?height=32&color=%23888888)
   static const IconData pianoKeys = IconData(
     0xe9c8,
     fontFamily: 'PhosphorBold',
@@ -8703,7 +13047,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![picnic-table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picnic-table.svg)
+  /// The `picnicTable` icon in Bold style.
+  ///
+  /// [PT] O ícone `picnicTable` no estilo Bold.
+  ///
+  /// ![picnic-table](https://api.iconify.design/ph/picnic-table-bold.svg?height=32&color=%23888888)
   static const IconData picnicTable = IconData(
     0xee26,
     fontFamily: 'PhosphorBold',
@@ -8711,7 +13059,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![picture-in-picture](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/picture-in-picture.svg)
+  /// The `pictureInPicture` icon in Bold style.
+  ///
+  /// [PT] O ícone `pictureInPicture` no estilo Bold.
+  ///
+  /// ![picture-in-picture](https://api.iconify.design/ph/picture-in-picture-bold.svg?height=32&color=%23888888)
   static const IconData pictureInPicture = IconData(
     0xe64c,
     fontFamily: 'PhosphorBold',
@@ -8719,7 +13071,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![piggy-bank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/piggy-bank.svg)
+  /// The `piggyBank` icon in Bold style.
+  ///
+  /// [PT] O ícone `piggyBank` no estilo Bold.
+  ///
+  /// ![piggy-bank](https://api.iconify.design/ph/piggy-bank-bold.svg?height=32&color=%23888888)
   static const IconData piggyBank = IconData(
     0xea04,
     fontFamily: 'PhosphorBold',
@@ -8727,7 +13083,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pill.svg)
+  /// The `pill` icon in Bold style.
+  ///
+  /// [PT] O ícone `pill` no estilo Bold.
+  ///
+  /// ![pill](https://api.iconify.design/ph/pill-bold.svg?height=32&color=%23888888)
   static const IconData pill = IconData(
     0xe700,
     fontFamily: 'PhosphorBold',
@@ -8735,7 +13095,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ping-pong](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ping-pong.svg)
+  /// The `pingPong` icon in Bold style.
+  ///
+  /// [PT] O ícone `pingPong` no estilo Bold.
+  ///
+  /// ![ping-pong](https://api.iconify.design/ph/ping-pong-bold.svg?height=32&color=%23888888)
   static const IconData pingPong = IconData(
     0xea42,
     fontFamily: 'PhosphorBold',
@@ -8743,7 +13107,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pint-glass](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pint-glass.svg)
+  /// The `pintGlass` icon in Bold style.
+  ///
+  /// [PT] O ícone `pintGlass` no estilo Bold.
+  ///
+  /// ![pint-glass](https://api.iconify.design/ph/pint-glass-bold.svg?height=32&color=%23888888)
   static const IconData pintGlass = IconData(
     0xedd0,
     fontFamily: 'PhosphorBold',
@@ -8751,7 +13119,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pinterest-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinterest-logo.svg)
+  /// The `pinterestLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `pinterestLogo` no estilo Bold.
+  ///
+  /// ![pinterest-logo](https://api.iconify.design/ph/pinterest-logo-bold.svg?height=32&color=%23888888)
   static const IconData pinterestLogo = IconData(
     0xe64e,
     fontFamily: 'PhosphorBold',
@@ -8759,7 +13131,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pinwheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pinwheel.svg)
+  /// The `pinwheel` icon in Bold style.
+  ///
+  /// [PT] O ícone `pinwheel` no estilo Bold.
+  ///
+  /// ![pinwheel](https://api.iconify.design/ph/pinwheel-bold.svg?height=32&color=%23888888)
   static const IconData pinwheel = IconData(
     0xeb9c,
     fontFamily: 'PhosphorBold',
@@ -8767,7 +13143,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pipe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe.svg)
+  /// The `pipe` icon in Bold style.
+  ///
+  /// [PT] O ícone `pipe` no estilo Bold.
+  ///
+  /// ![pipe](https://api.iconify.design/ph/pipe-bold.svg?height=32&color=%23888888)
   static const IconData pipe = IconData(
     0xed86,
     fontFamily: 'PhosphorBold',
@@ -8775,7 +13155,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pipe-wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pipe-wrench.svg)
+  /// The `pipeWrench` icon in Bold style.
+  ///
+  /// [PT] O ícone `pipeWrench` no estilo Bold.
+  ///
+  /// ![pipe-wrench](https://api.iconify.design/ph/pipe-wrench-bold.svg?height=32&color=%23888888)
   static const IconData pipeWrench = IconData(
     0xed88,
     fontFamily: 'PhosphorBold',
@@ -8783,7 +13167,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pix-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pix-logo.svg)
+  /// The `pixLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `pixLogo` no estilo Bold.
+  ///
+  /// ![pix-logo](https://api.iconify.design/ph/pix-logo-bold.svg?height=32&color=%23888888)
   static const IconData pixLogo = IconData(
     0xecc2,
     fontFamily: 'PhosphorBold',
@@ -8791,7 +13179,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pizza](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pizza.svg)
+  /// The `pizza` icon in Bold style.
+  ///
+  /// [PT] O ícone `pizza` no estilo Bold.
+  ///
+  /// ![pizza](https://api.iconify.design/ph/pizza-bold.svg?height=32&color=%23888888)
   static const IconData pizza = IconData(
     0xe796,
     fontFamily: 'PhosphorBold',
@@ -8799,7 +13191,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![placeholder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/placeholder.svg)
+  /// The `placeholder` icon in Bold style.
+  ///
+  /// [PT] O ícone `placeholder` no estilo Bold.
+  ///
+  /// ![placeholder](https://api.iconify.design/ph/placeholder-bold.svg?height=32&color=%23888888)
   static const IconData placeholder = IconData(
     0xe650,
     fontFamily: 'PhosphorBold',
@@ -8807,7 +13203,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![planet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/planet.svg)
+  /// The `planet` icon in Bold style.
+  ///
+  /// [PT] O ícone `planet` no estilo Bold.
+  ///
+  /// ![planet](https://api.iconify.design/ph/planet-bold.svg?height=32&color=%23888888)
   static const IconData planet = IconData(
     0xe652,
     fontFamily: 'PhosphorBold',
@@ -8815,7 +13215,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plant.svg)
+  /// The `plant` icon in Bold style.
+  ///
+  /// [PT] O ícone `plant` no estilo Bold.
+  ///
+  /// ![plant](https://api.iconify.design/ph/plant-bold.svg?height=32&color=%23888888)
   static const IconData plant = IconData(
     0xebae,
     fontFamily: 'PhosphorBold',
@@ -8823,7 +13227,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![play](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play.svg)
+  /// The `play` icon in Bold style.
+  ///
+  /// [PT] O ícone `play` no estilo Bold.
+  ///
+  /// ![play](https://api.iconify.design/ph/play-bold.svg?height=32&color=%23888888)
   static const IconData play = IconData(
     0xe3d0,
     fontFamily: 'PhosphorBold',
@@ -8831,7 +13239,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![play-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-circle.svg)
+  /// The `playCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `playCircle` no estilo Bold.
+  ///
+  /// ![play-circle](https://api.iconify.design/ph/play-circle-bold.svg?height=32&color=%23888888)
   static const IconData playCircle = IconData(
     0xe3d2,
     fontFamily: 'PhosphorBold',
@@ -8839,7 +13251,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![play-pause](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/play-pause.svg)
+  /// The `playPause` icon in Bold style.
+  ///
+  /// [PT] O ícone `playPause` no estilo Bold.
+  ///
+  /// ![play-pause](https://api.iconify.design/ph/play-pause-bold.svg?height=32&color=%23888888)
   static const IconData playPause = IconData(
     0xe8be,
     fontFamily: 'PhosphorBold',
@@ -8847,7 +13263,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![playlist](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/playlist.svg)
+  /// The `playlist` icon in Bold style.
+  ///
+  /// [PT] O ícone `playlist` no estilo Bold.
+  ///
+  /// ![playlist](https://api.iconify.design/ph/playlist-bold.svg?height=32&color=%23888888)
   static const IconData playlist = IconData(
     0xe6aa,
     fontFamily: 'PhosphorBold',
@@ -8855,7 +13275,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug.svg)
+  /// The `plug` icon in Bold style.
+  ///
+  /// [PT] O ícone `plug` no estilo Bold.
+  ///
+  /// ![plug](https://api.iconify.design/ph/plug-bold.svg?height=32&color=%23888888)
   static const IconData plug = IconData(
     0xe946,
     fontFamily: 'PhosphorBold',
@@ -8863,7 +13287,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plug-charging](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plug-charging.svg)
+  /// The `plugCharging` icon in Bold style.
+  ///
+  /// [PT] O ícone `plugCharging` no estilo Bold.
+  ///
+  /// ![plug-charging](https://api.iconify.design/ph/plug-charging-bold.svg?height=32&color=%23888888)
   static const IconData plugCharging = IconData(
     0xeb5c,
     fontFamily: 'PhosphorBold',
@@ -8871,7 +13299,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plugs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs.svg)
+  /// The `plugs` icon in Bold style.
+  ///
+  /// [PT] O ícone `plugs` no estilo Bold.
+  ///
+  /// ![plugs](https://api.iconify.design/ph/plugs-bold.svg?height=32&color=%23888888)
   static const IconData plugs = IconData(
     0xeb56,
     fontFamily: 'PhosphorBold',
@@ -8879,7 +13311,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plugs-connected](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plugs-connected.svg)
+  /// The `plugsConnected` icon in Bold style.
+  ///
+  /// [PT] O ícone `plugsConnected` no estilo Bold.
+  ///
+  /// ![plugs-connected](https://api.iconify.design/ph/plugs-connected-bold.svg?height=32&color=%23888888)
   static const IconData plugsConnected = IconData(
     0xeb5a,
     fontFamily: 'PhosphorBold',
@@ -8887,7 +13323,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus.svg)
+  /// The `plus` icon in Bold style.
+  ///
+  /// [PT] O ícone `plus` no estilo Bold.
+  ///
+  /// ![plus](https://api.iconify.design/ph/plus-bold.svg?height=32&color=%23888888)
   static const IconData plus = IconData(
     0xe3d4,
     fontFamily: 'PhosphorBold',
@@ -8895,7 +13335,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plus-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-circle.svg)
+  /// The `plusCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `plusCircle` no estilo Bold.
+  ///
+  /// ![plus-circle](https://api.iconify.design/ph/plus-circle-bold.svg?height=32&color=%23888888)
   static const IconData plusCircle = IconData(
     0xe3d6,
     fontFamily: 'PhosphorBold',
@@ -8903,7 +13347,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plus-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-minus.svg)
+  /// The `plusMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `plusMinus` no estilo Bold.
+  ///
+  /// ![plus-minus](https://api.iconify.design/ph/plus-minus-bold.svg?height=32&color=%23888888)
   static const IconData plusMinus = IconData(
     0xe3d8,
     fontFamily: 'PhosphorBold',
@@ -8911,7 +13359,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![plus-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/plus-square.svg)
+  /// The `plusSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `plusSquare` no estilo Bold.
+  ///
+  /// ![plus-square](https://api.iconify.design/ph/plus-square-bold.svg?height=32&color=%23888888)
   static const IconData plusSquare = IconData(
     0xed4a,
     fontFamily: 'PhosphorBold',
@@ -8919,7 +13371,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![poker-chip](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/poker-chip.svg)
+  /// The `pokerChip` icon in Bold style.
+  ///
+  /// [PT] O ícone `pokerChip` no estilo Bold.
+  ///
+  /// ![poker-chip](https://api.iconify.design/ph/poker-chip-bold.svg?height=32&color=%23888888)
   static const IconData pokerChip = IconData(
     0xe594,
     fontFamily: 'PhosphorBold',
@@ -8927,7 +13383,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![police-car](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/police-car.svg)
+  /// The `policeCar` icon in Bold style.
+  ///
+  /// [PT] O ícone `policeCar` no estilo Bold.
+  ///
+  /// ![police-car](https://api.iconify.design/ph/police-car-bold.svg?height=32&color=%23888888)
   static const IconData policeCar = IconData(
     0xec4a,
     fontFamily: 'PhosphorBold',
@@ -8935,7 +13395,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![polygon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/polygon.svg)
+  /// The `polygon` icon in Bold style.
+  ///
+  /// [PT] O ícone `polygon` no estilo Bold.
+  ///
+  /// ![polygon](https://api.iconify.design/ph/polygon-bold.svg?height=32&color=%23888888)
   static const IconData polygon = IconData(
     0xe6d0,
     fontFamily: 'PhosphorBold',
@@ -8943,7 +13407,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![popcorn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popcorn.svg)
+  /// The `popcorn` icon in Bold style.
+  ///
+  /// [PT] O ícone `popcorn` no estilo Bold.
+  ///
+  /// ![popcorn](https://api.iconify.design/ph/popcorn-bold.svg?height=32&color=%23888888)
   static const IconData popcorn = IconData(
     0xeb4e,
     fontFamily: 'PhosphorBold',
@@ -8951,7 +13419,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![popsicle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/popsicle.svg)
+  /// The `popsicle` icon in Bold style.
+  ///
+  /// [PT] O ícone `popsicle` no estilo Bold.
+  ///
+  /// ![popsicle](https://api.iconify.design/ph/popsicle-bold.svg?height=32&color=%23888888)
   static const IconData popsicle = IconData(
     0xebbe,
     fontFamily: 'PhosphorBold',
@@ -8959,7 +13431,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![potted-plant](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/potted-plant.svg)
+  /// The `pottedPlant` icon in Bold style.
+  ///
+  /// [PT] O ícone `pottedPlant` no estilo Bold.
+  ///
+  /// ![potted-plant](https://api.iconify.design/ph/potted-plant-bold.svg?height=32&color=%23888888)
   static const IconData pottedPlant = IconData(
     0xec22,
     fontFamily: 'PhosphorBold',
@@ -8967,7 +13443,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![power](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/power.svg)
+  /// The `power` icon in Bold style.
+  ///
+  /// [PT] O ícone `power` no estilo Bold.
+  ///
+  /// ![power](https://api.iconify.design/ph/power-bold.svg?height=32&color=%23888888)
   static const IconData power = IconData(
     0xe3da,
     fontFamily: 'PhosphorBold',
@@ -8975,7 +13455,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![prescription](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prescription.svg)
+  /// The `prescription` icon in Bold style.
+  ///
+  /// [PT] O ícone `prescription` no estilo Bold.
+  ///
+  /// ![prescription](https://api.iconify.design/ph/prescription-bold.svg?height=32&color=%23888888)
   static const IconData prescription = IconData(
     0xe7a2,
     fontFamily: 'PhosphorBold',
@@ -8983,7 +13467,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![presentation](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation.svg)
+  /// The `presentation` icon in Bold style.
+  ///
+  /// [PT] O ícone `presentation` no estilo Bold.
+  ///
+  /// ![presentation](https://api.iconify.design/ph/presentation-bold.svg?height=32&color=%23888888)
   static const IconData presentation = IconData(
     0xe654,
     fontFamily: 'PhosphorBold',
@@ -8991,7 +13479,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![presentation-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/presentation-chart.svg)
+  /// The `presentationChart` icon in Bold style.
+  ///
+  /// [PT] O ícone `presentationChart` no estilo Bold.
+  ///
+  /// ![presentation-chart](https://api.iconify.design/ph/presentation-chart-bold.svg?height=32&color=%23888888)
   static const IconData presentationChart = IconData(
     0xe656,
     fontFamily: 'PhosphorBold',
@@ -8999,7 +13491,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![printer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/printer.svg)
+  /// The `printer` icon in Bold style.
+  ///
+  /// [PT] O ícone `printer` no estilo Bold.
+  ///
+  /// ![printer](https://api.iconify.design/ph/printer-bold.svg?height=32&color=%23888888)
   static const IconData printer = IconData(
     0xe3dc,
     fontFamily: 'PhosphorBold',
@@ -9007,7 +13503,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![prohibit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit.svg)
+  /// The `prohibit` icon in Bold style.
+  ///
+  /// [PT] O ícone `prohibit` no estilo Bold.
+  ///
+  /// ![prohibit](https://api.iconify.design/ph/prohibit-bold.svg?height=32&color=%23888888)
   static const IconData prohibit = IconData(
     0xe3de,
     fontFamily: 'PhosphorBold',
@@ -9015,7 +13515,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![prohibit-inset](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/prohibit-inset.svg)
+  /// The `prohibitInset` icon in Bold style.
+  ///
+  /// [PT] O ícone `prohibitInset` no estilo Bold.
+  ///
+  /// ![prohibit-inset](https://api.iconify.design/ph/prohibit-inset-bold.svg?height=32&color=%23888888)
   static const IconData prohibitInset = IconData(
     0xe3e0,
     fontFamily: 'PhosphorBold',
@@ -9023,7 +13527,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![projector-screen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen.svg)
+  /// The `projectorScreen` icon in Bold style.
+  ///
+  /// [PT] O ícone `projectorScreen` no estilo Bold.
+  ///
+  /// ![projector-screen](https://api.iconify.design/ph/projector-screen-bold.svg?height=32&color=%23888888)
   static const IconData projectorScreen = IconData(
     0xe658,
     fontFamily: 'PhosphorBold',
@@ -9031,7 +13539,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![projector-screen-chart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/projector-screen-chart.svg)
+  /// The `projectorScreenChart` icon in Bold style.
+  ///
+  /// [PT] O ícone `projectorScreenChart` no estilo Bold.
+  ///
+  /// ![projector-screen-chart](https://api.iconify.design/ph/projector-screen-chart-bold.svg?height=32&color=%23888888)
   static const IconData projectorScreenChart = IconData(
     0xe65a,
     fontFamily: 'PhosphorBold',
@@ -9039,7 +13551,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![pulse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/pulse.svg)
+  /// The `pulse` icon in Bold style.
+  ///
+  /// [PT] O ícone `pulse` no estilo Bold.
+  ///
+  /// ![pulse](https://api.iconify.design/ph/pulse-bold.svg?height=32&color=%23888888)
   static const IconData pulse = IconData(
     0xe000,
     fontFamily: 'PhosphorBold',
@@ -9047,7 +13563,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![push-pin](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin.svg)
+  /// The `pushPin` icon in Bold style.
+  ///
+  /// [PT] O ícone `pushPin` no estilo Bold.
+  ///
+  /// ![push-pin](https://api.iconify.design/ph/push-pin-bold.svg?height=32&color=%23888888)
   static const IconData pushPin = IconData(
     0xe3e2,
     fontFamily: 'PhosphorBold',
@@ -9055,7 +13575,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![push-pin-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple.svg)
+  /// The `pushPinSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `pushPinSimple` no estilo Bold.
+  ///
+  /// ![push-pin-simple](https://api.iconify.design/ph/push-pin-simple-bold.svg?height=32&color=%23888888)
   static const IconData pushPinSimple = IconData(
     0xe65c,
     fontFamily: 'PhosphorBold',
@@ -9063,7 +13587,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![push-pin-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-simple-slash.svg)
+  /// The `pushPinSimpleSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `pushPinSimpleSlash` no estilo Bold.
+  ///
+  /// ![push-pin-simple-slash](https://api.iconify.design/ph/push-pin-simple-slash-bold.svg?height=32&color=%23888888)
   static const IconData pushPinSimpleSlash = IconData(
     0xe65e,
     fontFamily: 'PhosphorBold',
@@ -9071,7 +13599,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![push-pin-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/push-pin-slash.svg)
+  /// The `pushPinSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `pushPinSlash` no estilo Bold.
+  ///
+  /// ![push-pin-slash](https://api.iconify.design/ph/push-pin-slash-bold.svg?height=32&color=%23888888)
   static const IconData pushPinSlash = IconData(
     0xe3e4,
     fontFamily: 'PhosphorBold',
@@ -9079,7 +13611,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![puzzle-piece](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/puzzle-piece.svg)
+  /// The `puzzlePiece` icon in Bold style.
+  ///
+  /// [PT] O ícone `puzzlePiece` no estilo Bold.
+  ///
+  /// ![puzzle-piece](https://api.iconify.design/ph/puzzle-piece-bold.svg?height=32&color=%23888888)
   static const IconData puzzlePiece = IconData(
     0xe596,
     fontFamily: 'PhosphorBold',
@@ -9087,7 +13623,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![qr-code](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/qr-code.svg)
+  /// The `qrCode` icon in Bold style.
+  ///
+  /// [PT] O ícone `qrCode` no estilo Bold.
+  ///
+  /// ![qr-code](https://api.iconify.design/ph/qr-code-bold.svg?height=32&color=%23888888)
   static const IconData qrCode = IconData(
     0xe3e6,
     fontFamily: 'PhosphorBold',
@@ -9095,7 +13635,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question.svg)
+  /// The `question` icon in Bold style.
+  ///
+  /// [PT] O ícone `question` no estilo Bold.
+  ///
+  /// ![question](https://api.iconify.design/ph/question-bold.svg?height=32&color=%23888888)
   static const IconData question = IconData(
     0xe3e8,
     fontFamily: 'PhosphorBold',
@@ -9103,7 +13647,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![question-mark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/question-mark.svg)
+  /// The `questionMark` icon in Bold style.
+  ///
+  /// [PT] O ícone `questionMark` no estilo Bold.
+  ///
+  /// ![question-mark](https://api.iconify.design/ph/question-mark-bold.svg?height=32&color=%23888888)
   static const IconData questionMark = IconData(
     0xe3e9,
     fontFamily: 'PhosphorBold',
@@ -9111,7 +13659,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![queue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/queue.svg)
+  /// The `queue` icon in Bold style.
+  ///
+  /// [PT] O ícone `queue` no estilo Bold.
+  ///
+  /// ![queue](https://api.iconify.design/ph/queue-bold.svg?height=32&color=%23888888)
   static const IconData queue = IconData(
     0xe6ac,
     fontFamily: 'PhosphorBold',
@@ -9119,7 +13671,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![quotes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/quotes.svg)
+  /// The `quotes` icon in Bold style.
+  ///
+  /// [PT] O ícone `quotes` no estilo Bold.
+  ///
+  /// ![quotes](https://api.iconify.design/ph/quotes-bold.svg?height=32&color=%23888888)
   static const IconData quotes = IconData(
     0xe660,
     fontFamily: 'PhosphorBold',
@@ -9127,7 +13683,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rabbit](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rabbit.svg)
+  /// The `rabbit` icon in Bold style.
+  ///
+  /// [PT] O ícone `rabbit` no estilo Bold.
+  ///
+  /// ![rabbit](https://api.iconify.design/ph/rabbit-bold.svg?height=32&color=%23888888)
   static const IconData rabbit = IconData(
     0xeac2,
     fontFamily: 'PhosphorBold',
@@ -9135,7 +13695,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![racquet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/racquet.svg)
+  /// The `racquet` icon in Bold style.
+  ///
+  /// [PT] O ícone `racquet` no estilo Bold.
+  ///
+  /// ![racquet](https://api.iconify.design/ph/racquet-bold.svg?height=32&color=%23888888)
   static const IconData racquet = IconData(
     0xee02,
     fontFamily: 'PhosphorBold',
@@ -9143,7 +13707,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![radical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radical.svg)
+  /// The `radical` icon in Bold style.
+  ///
+  /// [PT] O ícone `radical` no estilo Bold.
+  ///
+  /// ![radical](https://api.iconify.design/ph/radical-bold.svg?height=32&color=%23888888)
   static const IconData radical = IconData(
     0xe3ea,
     fontFamily: 'PhosphorBold',
@@ -9151,7 +13719,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![radio](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio.svg)
+  /// The `radio` icon in Bold style.
+  ///
+  /// [PT] O ícone `radio` no estilo Bold.
+  ///
+  /// ![radio](https://api.iconify.design/ph/radio-bold.svg?height=32&color=%23888888)
   static const IconData radio = IconData(
     0xe77e,
     fontFamily: 'PhosphorBold',
@@ -9159,7 +13731,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![radio-button](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radio-button.svg)
+  /// The `radioButton` icon in Bold style.
+  ///
+  /// [PT] O ícone `radioButton` no estilo Bold.
+  ///
+  /// ![radio-button](https://api.iconify.design/ph/radio-button-bold.svg?height=32&color=%23888888)
   static const IconData radioButton = IconData(
     0xeb08,
     fontFamily: 'PhosphorBold',
@@ -9167,7 +13743,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![radioactive](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/radioactive.svg)
+  /// The `radioactive` icon in Bold style.
+  ///
+  /// [PT] O ícone `radioactive` no estilo Bold.
+  ///
+  /// ![radioactive](https://api.iconify.design/ph/radioactive-bold.svg?height=32&color=%23888888)
   static const IconData radioactive = IconData(
     0xe9dc,
     fontFamily: 'PhosphorBold',
@@ -9175,7 +13755,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rainbow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow.svg)
+  /// The `rainbow` icon in Bold style.
+  ///
+  /// [PT] O ícone `rainbow` no estilo Bold.
+  ///
+  /// ![rainbow](https://api.iconify.design/ph/rainbow-bold.svg?height=32&color=%23888888)
   static const IconData rainbow = IconData(
     0xe598,
     fontFamily: 'PhosphorBold',
@@ -9183,7 +13767,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rainbow-cloud](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rainbow-cloud.svg)
+  /// The `rainbowCloud` icon in Bold style.
+  ///
+  /// [PT] O ícone `rainbowCloud` no estilo Bold.
+  ///
+  /// ![rainbow-cloud](https://api.iconify.design/ph/rainbow-cloud-bold.svg?height=32&color=%23888888)
   static const IconData rainbowCloud = IconData(
     0xe59a,
     fontFamily: 'PhosphorBold',
@@ -9191,7 +13779,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ranking](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ranking.svg)
+  /// The `ranking` icon in Bold style.
+  ///
+  /// [PT] O ícone `ranking` no estilo Bold.
+  ///
+  /// ![ranking](https://api.iconify.design/ph/ranking-bold.svg?height=32&color=%23888888)
   static const IconData ranking = IconData(
     0xed62,
     fontFamily: 'PhosphorBold',
@@ -9199,7 +13791,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![read-cv-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/read-cv-logo.svg)
+  /// The `readCvLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `readCvLogo` no estilo Bold.
+  ///
+  /// ![read-cv-logo](https://api.iconify.design/ph/read-cv-logo-bold.svg?height=32&color=%23888888)
   static const IconData readCvLogo = IconData(
     0xed0c,
     fontFamily: 'PhosphorBold',
@@ -9207,7 +13803,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![receipt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt.svg)
+  /// The `receipt` icon in Bold style.
+  ///
+  /// [PT] O ícone `receipt` no estilo Bold.
+  ///
+  /// ![receipt](https://api.iconify.design/ph/receipt-bold.svg?height=32&color=%23888888)
   static const IconData receipt = IconData(
     0xe3ec,
     fontFamily: 'PhosphorBold',
@@ -9215,7 +13815,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![receipt-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/receipt-x.svg)
+  /// The `receiptX` icon in Bold style.
+  ///
+  /// [PT] O ícone `receiptX` no estilo Bold.
+  ///
+  /// ![receipt-x](https://api.iconify.design/ph/receipt-x-bold.svg?height=32&color=%23888888)
   static const IconData receiptX = IconData(
     0xed40,
     fontFamily: 'PhosphorBold',
@@ -9223,7 +13827,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/record.svg)
+  /// The `record` icon in Bold style.
+  ///
+  /// [PT] O ícone `record` no estilo Bold.
+  ///
+  /// ![record](https://api.iconify.design/ph/record-bold.svg?height=32&color=%23888888)
   static const IconData record = IconData(
     0xe3ee,
     fontFamily: 'PhosphorBold',
@@ -9231,7 +13839,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle.svg)
+  /// The `rectangle` icon in Bold style.
+  ///
+  /// [PT] O ícone `rectangle` no estilo Bold.
+  ///
+  /// ![rectangle](https://api.iconify.design/ph/rectangle-bold.svg?height=32&color=%23888888)
   static const IconData rectangle = IconData(
     0xe3f0,
     fontFamily: 'PhosphorBold',
@@ -9239,7 +13851,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rectangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rectangle-dashed.svg)
+  /// The `rectangleDashed` icon in Bold style.
+  ///
+  /// [PT] O ícone `rectangleDashed` no estilo Bold.
+  ///
+  /// ![rectangle-dashed](https://api.iconify.design/ph/rectangle-dashed-bold.svg?height=32&color=%23888888)
   static const IconData rectangleDashed = IconData(
     0xe3f2,
     fontFamily: 'PhosphorBold',
@@ -9247,7 +13863,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![recycle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/recycle.svg)
+  /// The `recycle` icon in Bold style.
+  ///
+  /// [PT] O ícone `recycle` no estilo Bold.
+  ///
+  /// ![recycle](https://api.iconify.design/ph/recycle-bold.svg?height=32&color=%23888888)
   static const IconData recycle = IconData(
     0xe75a,
     fontFamily: 'PhosphorBold',
@@ -9255,7 +13875,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![reddit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/reddit-logo.svg)
+  /// The `redditLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `redditLogo` no estilo Bold.
+  ///
+  /// ![reddit-logo](https://api.iconify.design/ph/reddit-logo-bold.svg?height=32&color=%23888888)
   static const IconData redditLogo = IconData(
     0xe59c,
     fontFamily: 'PhosphorBold',
@@ -9263,7 +13887,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![repeat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat.svg)
+  /// The `repeat` icon in Bold style.
+  ///
+  /// [PT] O ícone `repeat` no estilo Bold.
+  ///
+  /// ![repeat](https://api.iconify.design/ph/repeat-bold.svg?height=32&color=%23888888)
   static const IconData repeat = IconData(
     0xe3f6,
     fontFamily: 'PhosphorBold',
@@ -9271,7 +13899,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![repeat-once](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/repeat-once.svg)
+  /// The `repeatOnce` icon in Bold style.
+  ///
+  /// [PT] O ícone `repeatOnce` no estilo Bold.
+  ///
+  /// ![repeat-once](https://api.iconify.design/ph/repeat-once-bold.svg?height=32&color=%23888888)
   static const IconData repeatOnce = IconData(
     0xe3f8,
     fontFamily: 'PhosphorBold',
@@ -9279,7 +13911,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![replit-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/replit-logo.svg)
+  /// The `replitLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `replitLogo` no estilo Bold.
+  ///
+  /// ![replit-logo](https://api.iconify.design/ph/replit-logo-bold.svg?height=32&color=%23888888)
   static const IconData replitLogo = IconData(
     0xeb8a,
     fontFamily: 'PhosphorBold',
@@ -9287,7 +13923,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![resize](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/resize.svg)
+  /// The `resize` icon in Bold style.
+  ///
+  /// [PT] O ícone `resize` no estilo Bold.
+  ///
+  /// ![resize](https://api.iconify.design/ph/resize-bold.svg?height=32&color=%23888888)
   static const IconData resize = IconData(
     0xed6e,
     fontFamily: 'PhosphorBold',
@@ -9295,7 +13935,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rewind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind.svg)
+  /// The `rewind` icon in Bold style.
+  ///
+  /// [PT] O ícone `rewind` no estilo Bold.
+  ///
+  /// ![rewind](https://api.iconify.design/ph/rewind-bold.svg?height=32&color=%23888888)
   static const IconData rewind = IconData(
     0xe6a8,
     fontFamily: 'PhosphorBold',
@@ -9303,7 +13947,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rewind-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rewind-circle.svg)
+  /// The `rewindCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `rewindCircle` no estilo Bold.
+  ///
+  /// ![rewind-circle](https://api.iconify.design/ph/rewind-circle-bold.svg?height=32&color=%23888888)
   static const IconData rewindCircle = IconData(
     0xe3fa,
     fontFamily: 'PhosphorBold',
@@ -9311,7 +13959,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![road-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/road-horizon.svg)
+  /// The `roadHorizon` icon in Bold style.
+  ///
+  /// [PT] O ícone `roadHorizon` no estilo Bold.
+  ///
+  /// ![road-horizon](https://api.iconify.design/ph/road-horizon-bold.svg?height=32&color=%23888888)
   static const IconData roadHorizon = IconData(
     0xe838,
     fontFamily: 'PhosphorBold',
@@ -9319,7 +13971,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![robot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/robot.svg)
+  /// The `robot` icon in Bold style.
+  ///
+  /// [PT] O ícone `robot` no estilo Bold.
+  ///
+  /// ![robot](https://api.iconify.design/ph/robot-bold.svg?height=32&color=%23888888)
   static const IconData robot = IconData(
     0xe762,
     fontFamily: 'PhosphorBold',
@@ -9327,7 +13983,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rocket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket.svg)
+  /// The `rocket` icon in Bold style.
+  ///
+  /// [PT] O ícone `rocket` no estilo Bold.
+  ///
+  /// ![rocket](https://api.iconify.design/ph/rocket-bold.svg?height=32&color=%23888888)
   static const IconData rocket = IconData(
     0xe3fc,
     fontFamily: 'PhosphorBold',
@@ -9335,7 +13995,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rocket-launch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rocket-launch.svg)
+  /// The `rocketLaunch` icon in Bold style.
+  ///
+  /// [PT] O ícone `rocketLaunch` no estilo Bold.
+  ///
+  /// ![rocket-launch](https://api.iconify.design/ph/rocket-launch-bold.svg?height=32&color=%23888888)
   static const IconData rocketLaunch = IconData(
     0xe3fe,
     fontFamily: 'PhosphorBold',
@@ -9343,7 +14007,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rows](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows.svg)
+  /// The `rows` icon in Bold style.
+  ///
+  /// [PT] O ícone `rows` no estilo Bold.
+  ///
+  /// ![rows](https://api.iconify.design/ph/rows-bold.svg?height=32&color=%23888888)
   static const IconData rows = IconData(
     0xe5a2,
     fontFamily: 'PhosphorBold',
@@ -9351,7 +14019,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rows-plus-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-bottom.svg)
+  /// The `rowsPlusBottom` icon in Bold style.
+  ///
+  /// [PT] O ícone `rowsPlusBottom` no estilo Bold.
+  ///
+  /// ![rows-plus-bottom](https://api.iconify.design/ph/rows-plus-bottom-bold.svg?height=32&color=%23888888)
   static const IconData rowsPlusBottom = IconData(
     0xe59e,
     fontFamily: 'PhosphorBold',
@@ -9359,7 +14031,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rows-plus-top](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rows-plus-top.svg)
+  /// The `rowsPlusTop` icon in Bold style.
+  ///
+  /// [PT] O ícone `rowsPlusTop` no estilo Bold.
+  ///
+  /// ![rows-plus-top](https://api.iconify.design/ph/rows-plus-top-bold.svg?height=32&color=%23888888)
   static const IconData rowsPlusTop = IconData(
     0xe5a0,
     fontFamily: 'PhosphorBold',
@@ -9367,7 +14043,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rss](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss.svg)
+  /// The `rss` icon in Bold style.
+  ///
+  /// [PT] O ícone `rss` no estilo Bold.
+  ///
+  /// ![rss](https://api.iconify.design/ph/rss-bold.svg?height=32&color=%23888888)
   static const IconData rss = IconData(
     0xe400,
     fontFamily: 'PhosphorBold',
@@ -9375,7 +14055,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rss-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rss-simple.svg)
+  /// The `rssSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `rssSimple` no estilo Bold.
+  ///
+  /// ![rss-simple](https://api.iconify.design/ph/rss-simple-bold.svg?height=32&color=%23888888)
   static const IconData rssSimple = IconData(
     0xe402,
     fontFamily: 'PhosphorBold',
@@ -9383,7 +14067,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![rug](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/rug.svg)
+  /// The `rug` icon in Bold style.
+  ///
+  /// [PT] O ícone `rug` no estilo Bold.
+  ///
+  /// ![rug](https://api.iconify.design/ph/rug-bold.svg?height=32&color=%23888888)
   static const IconData rug = IconData(
     0xea1a,
     fontFamily: 'PhosphorBold',
@@ -9391,7 +14079,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ruler](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ruler.svg)
+  /// The `ruler` icon in Bold style.
+  ///
+  /// [PT] O ícone `ruler` no estilo Bold.
+  ///
+  /// ![ruler](https://api.iconify.design/ph/ruler-bold.svg?height=32&color=%23888888)
   static const IconData ruler = IconData(
     0xe6b8,
     fontFamily: 'PhosphorBold',
@@ -9399,7 +14091,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sailboat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sailboat.svg)
+  /// The `sailboat` icon in Bold style.
+  ///
+  /// [PT] O ícone `sailboat` no estilo Bold.
+  ///
+  /// ![sailboat](https://api.iconify.design/ph/sailboat-bold.svg?height=32&color=%23888888)
   static const IconData sailboat = IconData(
     0xe78a,
     fontFamily: 'PhosphorBold',
@@ -9407,7 +14103,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scales](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scales.svg)
+  /// The `scales` icon in Bold style.
+  ///
+  /// [PT] O ícone `scales` no estilo Bold.
+  ///
+  /// ![scales](https://api.iconify.design/ph/scales-bold.svg?height=32&color=%23888888)
   static const IconData scales = IconData(
     0xe750,
     fontFamily: 'PhosphorBold',
@@ -9415,7 +14115,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scan](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan.svg)
+  /// The `scan` icon in Bold style.
+  ///
+  /// [PT] O ícone `scan` no estilo Bold.
+  ///
+  /// ![scan](https://api.iconify.design/ph/scan-bold.svg?height=32&color=%23888888)
   static const IconData scan = IconData(
     0xebb6,
     fontFamily: 'PhosphorBold',
@@ -9423,7 +14127,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scan-smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scan-smiley.svg)
+  /// The `scanSmiley` icon in Bold style.
+  ///
+  /// [PT] O ícone `scanSmiley` no estilo Bold.
+  ///
+  /// ![scan-smiley](https://api.iconify.design/ph/scan-smiley-bold.svg?height=32&color=%23888888)
   static const IconData scanSmiley = IconData(
     0xebb4,
     fontFamily: 'PhosphorBold',
@@ -9431,7 +14139,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scissors](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scissors.svg)
+  /// The `scissors` icon in Bold style.
+  ///
+  /// [PT] O ícone `scissors` no estilo Bold.
+  ///
+  /// ![scissors](https://api.iconify.design/ph/scissors-bold.svg?height=32&color=%23888888)
   static const IconData scissors = IconData(
     0xeae0,
     fontFamily: 'PhosphorBold',
@@ -9439,7 +14151,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scooter](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scooter.svg)
+  /// The `scooter` icon in Bold style.
+  ///
+  /// [PT] O ícone `scooter` no estilo Bold.
+  ///
+  /// ![scooter](https://api.iconify.design/ph/scooter-bold.svg?height=32&color=%23888888)
   static const IconData scooter = IconData(
     0xe820,
     fontFamily: 'PhosphorBold',
@@ -9447,7 +14163,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![screencast](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screencast.svg)
+  /// The `screencast` icon in Bold style.
+  ///
+  /// [PT] O ícone `screencast` no estilo Bold.
+  ///
+  /// ![screencast](https://api.iconify.design/ph/screencast-bold.svg?height=32&color=%23888888)
   static const IconData screencast = IconData(
     0xe404,
     fontFamily: 'PhosphorBold',
@@ -9455,7 +14175,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![screwdriver](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/screwdriver.svg)
+  /// The `screwdriver` icon in Bold style.
+  ///
+  /// [PT] O ícone `screwdriver` no estilo Bold.
+  ///
+  /// ![screwdriver](https://api.iconify.design/ph/screwdriver-bold.svg?height=32&color=%23888888)
   static const IconData screwdriver = IconData(
     0xe86e,
     fontFamily: 'PhosphorBold',
@@ -9463,7 +14187,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scribble](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble.svg)
+  /// The `scribble` icon in Bold style.
+  ///
+  /// [PT] O ícone `scribble` no estilo Bold.
+  ///
+  /// ![scribble](https://api.iconify.design/ph/scribble-bold.svg?height=32&color=%23888888)
   static const IconData scribble = IconData(
     0xe806,
     fontFamily: 'PhosphorBold',
@@ -9471,7 +14199,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scribble-loop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scribble-loop.svg)
+  /// The `scribbleLoop` icon in Bold style.
+  ///
+  /// [PT] O ícone `scribbleLoop` no estilo Bold.
+  ///
+  /// ![scribble-loop](https://api.iconify.design/ph/scribble-loop-bold.svg?height=32&color=%23888888)
   static const IconData scribbleLoop = IconData(
     0xe662,
     fontFamily: 'PhosphorBold',
@@ -9479,7 +14211,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![scroll](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/scroll.svg)
+  /// The `scroll` icon in Bold style.
+  ///
+  /// [PT] O ícone `scroll` no estilo Bold.
+  ///
+  /// ![scroll](https://api.iconify.design/ph/scroll-bold.svg?height=32&color=%23888888)
   static const IconData scroll = IconData(
     0xeb7a,
     fontFamily: 'PhosphorBold',
@@ -9487,7 +14223,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![seal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal.svg)
+  /// The `seal` icon in Bold style.
+  ///
+  /// [PT] O ícone `seal` no estilo Bold.
+  ///
+  /// ![seal](https://api.iconify.design/ph/seal-bold.svg?height=32&color=%23888888)
   static const IconData seal = IconData(
     0xe604,
     fontFamily: 'PhosphorBold',
@@ -9495,7 +14235,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![seal-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-check.svg)
+  /// The `sealCheck` icon in Bold style.
+  ///
+  /// [PT] O ícone `sealCheck` no estilo Bold.
+  ///
+  /// ![seal-check](https://api.iconify.design/ph/seal-check-bold.svg?height=32&color=%23888888)
   static const IconData sealCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorBold',
@@ -9503,7 +14247,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![seal-percent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-percent.svg)
+  /// The `sealPercent` icon in Bold style.
+  ///
+  /// [PT] O ícone `sealPercent` no estilo Bold.
+  ///
+  /// ![seal-percent](https://api.iconify.design/ph/seal-percent-bold.svg?height=32&color=%23888888)
   static const IconData sealPercent = IconData(
     0xe60a,
     fontFamily: 'PhosphorBold',
@@ -9511,7 +14259,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![seal-question](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-question.svg)
+  /// The `sealQuestion` icon in Bold style.
+  ///
+  /// [PT] O ícone `sealQuestion` no estilo Bold.
+  ///
+  /// ![seal-question](https://api.iconify.design/ph/seal-question-bold.svg?height=32&color=%23888888)
   static const IconData sealQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorBold',
@@ -9519,7 +14271,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![seal-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seal-warning.svg)
+  /// The `sealWarning` icon in Bold style.
+  ///
+  /// [PT] O ícone `sealWarning` no estilo Bold.
+  ///
+  /// ![seal-warning](https://api.iconify.design/ph/seal-warning-bold.svg?height=32&color=%23888888)
   static const IconData sealWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorBold',
@@ -9527,7 +14283,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![seat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seat.svg)
+  /// The `seat` icon in Bold style.
+  ///
+  /// [PT] O ícone `seat` no estilo Bold.
+  ///
+  /// ![seat](https://api.iconify.design/ph/seat-bold.svg?height=32&color=%23888888)
   static const IconData seat = IconData(
     0xeb8e,
     fontFamily: 'PhosphorBold',
@@ -9535,7 +14295,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![seatbelt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/seatbelt.svg)
+  /// The `seatbelt` icon in Bold style.
+  ///
+  /// [PT] O ícone `seatbelt` no estilo Bold.
+  ///
+  /// ![seatbelt](https://api.iconify.design/ph/seatbelt-bold.svg?height=32&color=%23888888)
   static const IconData seatbelt = IconData(
     0xedfe,
     fontFamily: 'PhosphorBold',
@@ -9543,7 +14307,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![security-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/security-camera.svg)
+  /// The `securityCamera` icon in Bold style.
+  ///
+  /// [PT] O ícone `securityCamera` no estilo Bold.
+  ///
+  /// ![security-camera](https://api.iconify.design/ph/security-camera-bold.svg?height=32&color=%23888888)
   static const IconData securityCamera = IconData(
     0xeca4,
     fontFamily: 'PhosphorBold',
@@ -9551,7 +14319,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![selection](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection.svg)
+  /// The `selection` icon in Bold style.
+  ///
+  /// [PT] O ícone `selection` no estilo Bold.
+  ///
+  /// ![selection](https://api.iconify.design/ph/selection-bold.svg?height=32&color=%23888888)
   static const IconData selection = IconData(
     0xe69a,
     fontFamily: 'PhosphorBold',
@@ -9559,7 +14331,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![selection-all](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-all.svg)
+  /// The `selectionAll` icon in Bold style.
+  ///
+  /// [PT] O ícone `selectionAll` no estilo Bold.
+  ///
+  /// ![selection-all](https://api.iconify.design/ph/selection-all-bold.svg?height=32&color=%23888888)
   static const IconData selectionAll = IconData(
     0xe746,
     fontFamily: 'PhosphorBold',
@@ -9567,7 +14343,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![selection-background](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-background.svg)
+  /// The `selectionBackground` icon in Bold style.
+  ///
+  /// [PT] O ícone `selectionBackground` no estilo Bold.
+  ///
+  /// ![selection-background](https://api.iconify.design/ph/selection-background-bold.svg?height=32&color=%23888888)
   static const IconData selectionBackground = IconData(
     0xeaf8,
     fontFamily: 'PhosphorBold',
@@ -9575,7 +14355,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![selection-foreground](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-foreground.svg)
+  /// The `selectionForeground` icon in Bold style.
+  ///
+  /// [PT] O ícone `selectionForeground` no estilo Bold.
+  ///
+  /// ![selection-foreground](https://api.iconify.design/ph/selection-foreground-bold.svg?height=32&color=%23888888)
   static const IconData selectionForeground = IconData(
     0xeaf6,
     fontFamily: 'PhosphorBold',
@@ -9583,7 +14367,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![selection-inverse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-inverse.svg)
+  /// The `selectionInverse` icon in Bold style.
+  ///
+  /// [PT] O ícone `selectionInverse` no estilo Bold.
+  ///
+  /// ![selection-inverse](https://api.iconify.design/ph/selection-inverse-bold.svg?height=32&color=%23888888)
   static const IconData selectionInverse = IconData(
     0xe744,
     fontFamily: 'PhosphorBold',
@@ -9591,7 +14379,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![selection-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-plus.svg)
+  /// The `selectionPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `selectionPlus` no estilo Bold.
+  ///
+  /// ![selection-plus](https://api.iconify.design/ph/selection-plus-bold.svg?height=32&color=%23888888)
   static const IconData selectionPlus = IconData(
     0xe69c,
     fontFamily: 'PhosphorBold',
@@ -9599,7 +14391,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![selection-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/selection-slash.svg)
+  /// The `selectionSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `selectionSlash` no estilo Bold.
+  ///
+  /// ![selection-slash](https://api.iconify.design/ph/selection-slash-bold.svg?height=32&color=%23888888)
   static const IconData selectionSlash = IconData(
     0xe69e,
     fontFamily: 'PhosphorBold',
@@ -9607,7 +14403,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shapes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shapes.svg)
+  /// The `shapes` icon in Bold style.
+  ///
+  /// [PT] O ícone `shapes` no estilo Bold.
+  ///
+  /// ![shapes](https://api.iconify.design/ph/shapes-bold.svg?height=32&color=%23888888)
   static const IconData shapes = IconData(
     0xec5e,
     fontFamily: 'PhosphorBold',
@@ -9615,7 +14415,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![share](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share.svg)
+  /// The `share` icon in Bold style.
+  ///
+  /// [PT] O ícone `share` no estilo Bold.
+  ///
+  /// ![share](https://api.iconify.design/ph/share-bold.svg?height=32&color=%23888888)
   static const IconData share = IconData(
     0xe406,
     fontFamily: 'PhosphorBold',
@@ -9623,7 +14427,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![share-fat](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-fat.svg)
+  /// The `shareFat` icon in Bold style.
+  ///
+  /// [PT] O ícone `shareFat` no estilo Bold.
+  ///
+  /// ![share-fat](https://api.iconify.design/ph/share-fat-bold.svg?height=32&color=%23888888)
   static const IconData shareFat = IconData(
     0xed52,
     fontFamily: 'PhosphorBold',
@@ -9631,7 +14439,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![share-network](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/share-network.svg)
+  /// The `shareNetwork` icon in Bold style.
+  ///
+  /// [PT] O ícone `shareNetwork` no estilo Bold.
+  ///
+  /// ![share-network](https://api.iconify.design/ph/share-network-bold.svg?height=32&color=%23888888)
   static const IconData shareNetwork = IconData(
     0xe408,
     fontFamily: 'PhosphorBold',
@@ -9639,7 +14451,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield.svg)
+  /// The `shield` icon in Bold style.
+  ///
+  /// [PT] O ícone `shield` no estilo Bold.
+  ///
+  /// ![shield](https://api.iconify.design/ph/shield-bold.svg?height=32&color=%23888888)
   static const IconData shield = IconData(
     0xe40a,
     fontFamily: 'PhosphorBold',
@@ -9647,7 +14463,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-check.svg)
+  /// The `shieldCheck` icon in Bold style.
+  ///
+  /// [PT] O ícone `shieldCheck` no estilo Bold.
+  ///
+  /// ![shield-check](https://api.iconify.design/ph/shield-check-bold.svg?height=32&color=%23888888)
   static const IconData shieldCheck = IconData(
     0xe40c,
     fontFamily: 'PhosphorBold',
@@ -9655,7 +14475,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield-checkered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-checkered.svg)
+  /// The `shieldCheckered` icon in Bold style.
+  ///
+  /// [PT] O ícone `shieldCheckered` no estilo Bold.
+  ///
+  /// ![shield-checkered](https://api.iconify.design/ph/shield-checkered-bold.svg?height=32&color=%23888888)
   static const IconData shieldCheckered = IconData(
     0xe708,
     fontFamily: 'PhosphorBold',
@@ -9663,7 +14487,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-chevron.svg)
+  /// The `shieldChevron` icon in Bold style.
+  ///
+  /// [PT] O ícone `shieldChevron` no estilo Bold.
+  ///
+  /// ![shield-chevron](https://api.iconify.design/ph/shield-chevron-bold.svg?height=32&color=%23888888)
   static const IconData shieldChevron = IconData(
     0xe40e,
     fontFamily: 'PhosphorBold',
@@ -9671,7 +14499,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-plus.svg)
+  /// The `shieldPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `shieldPlus` no estilo Bold.
+  ///
+  /// ![shield-plus](https://api.iconify.design/ph/shield-plus-bold.svg?height=32&color=%23888888)
   static const IconData shieldPlus = IconData(
     0xe706,
     fontFamily: 'PhosphorBold',
@@ -9679,7 +14511,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-slash.svg)
+  /// The `shieldSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `shieldSlash` no estilo Bold.
+  ///
+  /// ![shield-slash](https://api.iconify.design/ph/shield-slash-bold.svg?height=32&color=%23888888)
   static const IconData shieldSlash = IconData(
     0xe410,
     fontFamily: 'PhosphorBold',
@@ -9687,7 +14523,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-star.svg)
+  /// The `shieldStar` icon in Bold style.
+  ///
+  /// [PT] O ícone `shieldStar` no estilo Bold.
+  ///
+  /// ![shield-star](https://api.iconify.design/ph/shield-star-bold.svg?height=32&color=%23888888)
   static const IconData shieldStar = IconData(
     0xec34,
     fontFamily: 'PhosphorBold',
@@ -9695,7 +14535,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shield-warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shield-warning.svg)
+  /// The `shieldWarning` icon in Bold style.
+  ///
+  /// [PT] O ícone `shieldWarning` no estilo Bold.
+  ///
+  /// ![shield-warning](https://api.iconify.design/ph/shield-warning-bold.svg?height=32&color=%23888888)
   static const IconData shieldWarning = IconData(
     0xe412,
     fontFamily: 'PhosphorBold',
@@ -9703,7 +14547,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shipping-container](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shipping-container.svg)
+  /// The `shippingContainer` icon in Bold style.
+  ///
+  /// [PT] O ícone `shippingContainer` no estilo Bold.
+  ///
+  /// ![shipping-container](https://api.iconify.design/ph/shipping-container-bold.svg?height=32&color=%23888888)
   static const IconData shippingContainer = IconData(
     0xe78c,
     fontFamily: 'PhosphorBold',
@@ -9711,7 +14559,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shirt-folded](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shirt-folded.svg)
+  /// The `shirtFolded` icon in Bold style.
+  ///
+  /// [PT] O ícone `shirtFolded` no estilo Bold.
+  ///
+  /// ![shirt-folded](https://api.iconify.design/ph/shirt-folded-bold.svg?height=32&color=%23888888)
   static const IconData shirtFolded = IconData(
     0xea92,
     fontFamily: 'PhosphorBold',
@@ -9719,7 +14571,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shooting-star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shooting-star.svg)
+  /// The `shootingStar` icon in Bold style.
+  ///
+  /// [PT] O ícone `shootingStar` no estilo Bold.
+  ///
+  /// ![shooting-star](https://api.iconify.design/ph/shooting-star-bold.svg?height=32&color=%23888888)
   static const IconData shootingStar = IconData(
     0xecfa,
     fontFamily: 'PhosphorBold',
@@ -9727,7 +14583,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shopping-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag.svg)
+  /// The `shoppingBag` icon in Bold style.
+  ///
+  /// [PT] O ícone `shoppingBag` no estilo Bold.
+  ///
+  /// ![shopping-bag](https://api.iconify.design/ph/shopping-bag-bold.svg?height=32&color=%23888888)
   static const IconData shoppingBag = IconData(
     0xe416,
     fontFamily: 'PhosphorBold',
@@ -9735,7 +14595,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shopping-bag-open](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-bag-open.svg)
+  /// The `shoppingBagOpen` icon in Bold style.
+  ///
+  /// [PT] O ícone `shoppingBagOpen` no estilo Bold.
+  ///
+  /// ![shopping-bag-open](https://api.iconify.design/ph/shopping-bag-open-bold.svg?height=32&color=%23888888)
   static const IconData shoppingBagOpen = IconData(
     0xe418,
     fontFamily: 'PhosphorBold',
@@ -9743,7 +14607,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shopping-cart](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart.svg)
+  /// The `shoppingCart` icon in Bold style.
+  ///
+  /// [PT] O ícone `shoppingCart` no estilo Bold.
+  ///
+  /// ![shopping-cart](https://api.iconify.design/ph/shopping-cart-bold.svg?height=32&color=%23888888)
   static const IconData shoppingCart = IconData(
     0xe41e,
     fontFamily: 'PhosphorBold',
@@ -9751,7 +14619,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shopping-cart-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shopping-cart-simple.svg)
+  /// The `shoppingCartSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `shoppingCartSimple` no estilo Bold.
+  ///
+  /// ![shopping-cart-simple](https://api.iconify.design/ph/shopping-cart-simple-bold.svg?height=32&color=%23888888)
   static const IconData shoppingCartSimple = IconData(
     0xe420,
     fontFamily: 'PhosphorBold',
@@ -9759,7 +14631,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shovel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shovel.svg)
+  /// The `shovel` icon in Bold style.
+  ///
+  /// [PT] O ícone `shovel` no estilo Bold.
+  ///
+  /// ![shovel](https://api.iconify.design/ph/shovel-bold.svg?height=32&color=%23888888)
   static const IconData shovel = IconData(
     0xe9e6,
     fontFamily: 'PhosphorBold',
@@ -9767,7 +14643,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shower](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shower.svg)
+  /// The `shower` icon in Bold style.
+  ///
+  /// [PT] O ícone `shower` no estilo Bold.
+  ///
+  /// ![shower](https://api.iconify.design/ph/shower-bold.svg?height=32&color=%23888888)
   static const IconData shower = IconData(
     0xe776,
     fontFamily: 'PhosphorBold',
@@ -9775,7 +14655,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shrimp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shrimp.svg)
+  /// The `shrimp` icon in Bold style.
+  ///
+  /// [PT] O ícone `shrimp` no estilo Bold.
+  ///
+  /// ![shrimp](https://api.iconify.design/ph/shrimp-bold.svg?height=32&color=%23888888)
   static const IconData shrimp = IconData(
     0xeab4,
     fontFamily: 'PhosphorBold',
@@ -9783,7 +14667,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shuffle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle.svg)
+  /// The `shuffle` icon in Bold style.
+  ///
+  /// [PT] O ícone `shuffle` no estilo Bold.
+  ///
+  /// ![shuffle](https://api.iconify.design/ph/shuffle-bold.svg?height=32&color=%23888888)
   static const IconData shuffle = IconData(
     0xe422,
     fontFamily: 'PhosphorBold',
@@ -9791,7 +14679,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shuffle-angular](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-angular.svg)
+  /// The `shuffleAngular` icon in Bold style.
+  ///
+  /// [PT] O ícone `shuffleAngular` no estilo Bold.
+  ///
+  /// ![shuffle-angular](https://api.iconify.design/ph/shuffle-angular-bold.svg?height=32&color=%23888888)
   static const IconData shuffleAngular = IconData(
     0xe424,
     fontFamily: 'PhosphorBold',
@@ -9799,7 +14691,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![shuffle-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/shuffle-simple.svg)
+  /// The `shuffleSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `shuffleSimple` no estilo Bold.
+  ///
+  /// ![shuffle-simple](https://api.iconify.design/ph/shuffle-simple-bold.svg?height=32&color=%23888888)
   static const IconData shuffleSimple = IconData(
     0xe426,
     fontFamily: 'PhosphorBold',
@@ -9807,7 +14703,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sidebar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar.svg)
+  /// The `sidebar` icon in Bold style.
+  ///
+  /// [PT] O ícone `sidebar` no estilo Bold.
+  ///
+  /// ![sidebar](https://api.iconify.design/ph/sidebar-bold.svg?height=32&color=%23888888)
   static const IconData sidebar = IconData(
     0xeab6,
     fontFamily: 'PhosphorBold',
@@ -9815,7 +14715,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sidebar-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sidebar-simple.svg)
+  /// The `sidebarSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `sidebarSimple` no estilo Bold.
+  ///
+  /// ![sidebar-simple](https://api.iconify.design/ph/sidebar-simple-bold.svg?height=32&color=%23888888)
   static const IconData sidebarSimple = IconData(
     0xec24,
     fontFamily: 'PhosphorBold',
@@ -9823,7 +14727,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sigma](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sigma.svg)
+  /// The `sigma` icon in Bold style.
+  ///
+  /// [PT] O ícone `sigma` no estilo Bold.
+  ///
+  /// ![sigma](https://api.iconify.design/ph/sigma-bold.svg?height=32&color=%23888888)
   static const IconData sigma = IconData(
     0xeab8,
     fontFamily: 'PhosphorBold',
@@ -9831,7 +14739,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sign-in](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-in.svg)
+  /// The `signIn` icon in Bold style.
+  ///
+  /// [PT] O ícone `signIn` no estilo Bold.
+  ///
+  /// ![sign-in](https://api.iconify.design/ph/sign-in-bold.svg?height=32&color=%23888888)
   static const IconData signIn = IconData(
     0xe428,
     fontFamily: 'PhosphorBold',
@@ -9839,7 +14751,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sign-out](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sign-out.svg)
+  /// The `signOut` icon in Bold style.
+  ///
+  /// [PT] O ícone `signOut` no estilo Bold.
+  ///
+  /// ![sign-out](https://api.iconify.design/ph/sign-out-bold.svg?height=32&color=%23888888)
   static const IconData signOut = IconData(
     0xe42a,
     fontFamily: 'PhosphorBold',
@@ -9847,7 +14763,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![signature](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signature.svg)
+  /// The `signature` icon in Bold style.
+  ///
+  /// [PT] O ícone `signature` no estilo Bold.
+  ///
+  /// ![signature](https://api.iconify.design/ph/signature-bold.svg?height=32&color=%23888888)
   static const IconData signature = IconData(
     0xebac,
     fontFamily: 'PhosphorBold',
@@ -9855,7 +14775,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![signpost](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/signpost.svg)
+  /// The `signpost` icon in Bold style.
+  ///
+  /// [PT] O ícone `signpost` no estilo Bold.
+  ///
+  /// ![signpost](https://api.iconify.design/ph/signpost-bold.svg?height=32&color=%23888888)
   static const IconData signpost = IconData(
     0xe89c,
     fontFamily: 'PhosphorBold',
@@ -9863,7 +14787,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sim-card](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sim-card.svg)
+  /// The `simCard` icon in Bold style.
+  ///
+  /// [PT] O ícone `simCard` no estilo Bold.
+  ///
+  /// ![sim-card](https://api.iconify.design/ph/sim-card-bold.svg?height=32&color=%23888888)
   static const IconData simCard = IconData(
     0xe664,
     fontFamily: 'PhosphorBold',
@@ -9871,7 +14799,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![siren](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/siren.svg)
+  /// The `siren` icon in Bold style.
+  ///
+  /// [PT] O ícone `siren` no estilo Bold.
+  ///
+  /// ![siren](https://api.iconify.design/ph/siren-bold.svg?height=32&color=%23888888)
   static const IconData siren = IconData(
     0xe9b8,
     fontFamily: 'PhosphorBold',
@@ -9879,7 +14811,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sketch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sketch-logo.svg)
+  /// The `sketchLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `sketchLogo` no estilo Bold.
+  ///
+  /// ![sketch-logo](https://api.iconify.design/ph/sketch-logo-bold.svg?height=32&color=%23888888)
   static const IconData sketchLogo = IconData(
     0xe42c,
     fontFamily: 'PhosphorBold',
@@ -9887,7 +14823,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![skip-back](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back.svg)
+  /// The `skipBack` icon in Bold style.
+  ///
+  /// [PT] O ícone `skipBack` no estilo Bold.
+  ///
+  /// ![skip-back](https://api.iconify.design/ph/skip-back-bold.svg?height=32&color=%23888888)
   static const IconData skipBack = IconData(
     0xe5a4,
     fontFamily: 'PhosphorBold',
@@ -9895,7 +14835,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![skip-back-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-back-circle.svg)
+  /// The `skipBackCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `skipBackCircle` no estilo Bold.
+  ///
+  /// ![skip-back-circle](https://api.iconify.design/ph/skip-back-circle-bold.svg?height=32&color=%23888888)
   static const IconData skipBackCircle = IconData(
     0xe42e,
     fontFamily: 'PhosphorBold',
@@ -9903,7 +14847,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![skip-forward](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward.svg)
+  /// The `skipForward` icon in Bold style.
+  ///
+  /// [PT] O ícone `skipForward` no estilo Bold.
+  ///
+  /// ![skip-forward](https://api.iconify.design/ph/skip-forward-bold.svg?height=32&color=%23888888)
   static const IconData skipForward = IconData(
     0xe5a6,
     fontFamily: 'PhosphorBold',
@@ -9911,7 +14859,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![skip-forward-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skip-forward-circle.svg)
+  /// The `skipForwardCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `skipForwardCircle` no estilo Bold.
+  ///
+  /// ![skip-forward-circle](https://api.iconify.design/ph/skip-forward-circle-bold.svg?height=32&color=%23888888)
   static const IconData skipForwardCircle = IconData(
     0xe430,
     fontFamily: 'PhosphorBold',
@@ -9919,7 +14871,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![skull](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skull.svg)
+  /// The `skull` icon in Bold style.
+  ///
+  /// [PT] O ícone `skull` no estilo Bold.
+  ///
+  /// ![skull](https://api.iconify.design/ph/skull-bold.svg?height=32&color=%23888888)
   static const IconData skull = IconData(
     0xe916,
     fontFamily: 'PhosphorBold',
@@ -9927,7 +14883,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![skype-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/skype-logo.svg)
+  /// The `skypeLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `skypeLogo` no estilo Bold.
+  ///
+  /// ![skype-logo](https://api.iconify.design/ph/skype-logo-bold.svg?height=32&color=%23888888)
   static const IconData skypeLogo = IconData(
     0xe8dc,
     fontFamily: 'PhosphorBold',
@@ -9935,7 +14895,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![slack-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slack-logo.svg)
+  /// The `slackLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `slackLogo` no estilo Bold.
+  ///
+  /// ![slack-logo](https://api.iconify.design/ph/slack-logo-bold.svg?height=32&color=%23888888)
   static const IconData slackLogo = IconData(
     0xe5a8,
     fontFamily: 'PhosphorBold',
@@ -9943,7 +14907,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sliders](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders.svg)
+  /// The `sliders` icon in Bold style.
+  ///
+  /// [PT] O ícone `sliders` no estilo Bold.
+  ///
+  /// ![sliders](https://api.iconify.design/ph/sliders-bold.svg?height=32&color=%23888888)
   static const IconData sliders = IconData(
     0xe432,
     fontFamily: 'PhosphorBold',
@@ -9951,7 +14919,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sliders-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sliders-horizontal.svg)
+  /// The `slidersHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `slidersHorizontal` no estilo Bold.
+  ///
+  /// ![sliders-horizontal](https://api.iconify.design/ph/sliders-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData slidersHorizontal = IconData(
     0xe434,
     fontFamily: 'PhosphorBold',
@@ -9959,7 +14931,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![slideshow](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/slideshow.svg)
+  /// The `slideshow` icon in Bold style.
+  ///
+  /// [PT] O ícone `slideshow` no estilo Bold.
+  ///
+  /// ![slideshow](https://api.iconify.design/ph/slideshow-bold.svg?height=32&color=%23888888)
   static const IconData slideshow = IconData(
     0xed32,
     fontFamily: 'PhosphorBold',
@@ -9967,7 +14943,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley.svg)
+  /// The `smiley` icon in Bold style.
+  ///
+  /// [PT] O ícone `smiley` no estilo Bold.
+  ///
+  /// ![smiley](https://api.iconify.design/ph/smiley-bold.svg?height=32&color=%23888888)
   static const IconData smiley = IconData(
     0xe436,
     fontFamily: 'PhosphorBold',
@@ -9975,7 +14955,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-angry](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-angry.svg)
+  /// The `smileyAngry` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileyAngry` no estilo Bold.
+  ///
+  /// ![smiley-angry](https://api.iconify.design/ph/smiley-angry-bold.svg?height=32&color=%23888888)
   static const IconData smileyAngry = IconData(
     0xec62,
     fontFamily: 'PhosphorBold',
@@ -9983,7 +14967,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-blank](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-blank.svg)
+  /// The `smileyBlank` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileyBlank` no estilo Bold.
+  ///
+  /// ![smiley-blank](https://api.iconify.design/ph/smiley-blank-bold.svg?height=32&color=%23888888)
   static const IconData smileyBlank = IconData(
     0xe438,
     fontFamily: 'PhosphorBold',
@@ -9991,7 +14979,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-meh](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-meh.svg)
+  /// The `smileyMeh` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileyMeh` no estilo Bold.
+  ///
+  /// ![smiley-meh](https://api.iconify.design/ph/smiley-meh-bold.svg?height=32&color=%23888888)
   static const IconData smileyMeh = IconData(
     0xe43a,
     fontFamily: 'PhosphorBold',
@@ -9999,7 +14991,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-melting](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-melting.svg)
+  /// The `smileyMelting` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileyMelting` no estilo Bold.
+  ///
+  /// ![smiley-melting](https://api.iconify.design/ph/smiley-melting-bold.svg?height=32&color=%23888888)
   static const IconData smileyMelting = IconData(
     0xee56,
     fontFamily: 'PhosphorBold',
@@ -10007,7 +15003,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-nervous](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-nervous.svg)
+  /// The `smileyNervous` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileyNervous` no estilo Bold.
+  ///
+  /// ![smiley-nervous](https://api.iconify.design/ph/smiley-nervous-bold.svg?height=32&color=%23888888)
   static const IconData smileyNervous = IconData(
     0xe43c,
     fontFamily: 'PhosphorBold',
@@ -10015,7 +15015,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-sad](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sad.svg)
+  /// The `smileySad` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileySad` no estilo Bold.
+  ///
+  /// ![smiley-sad](https://api.iconify.design/ph/smiley-sad-bold.svg?height=32&color=%23888888)
   static const IconData smileySad = IconData(
     0xe43e,
     fontFamily: 'PhosphorBold',
@@ -10023,7 +15027,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-sticker.svg)
+  /// The `smileySticker` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileySticker` no estilo Bold.
+  ///
+  /// ![smiley-sticker](https://api.iconify.design/ph/smiley-sticker-bold.svg?height=32&color=%23888888)
   static const IconData smileySticker = IconData(
     0xe440,
     fontFamily: 'PhosphorBold',
@@ -10031,7 +15039,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-wink](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-wink.svg)
+  /// The `smileyWink` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileyWink` no estilo Bold.
+  ///
+  /// ![smiley-wink](https://api.iconify.design/ph/smiley-wink-bold.svg?height=32&color=%23888888)
   static const IconData smileyWink = IconData(
     0xe666,
     fontFamily: 'PhosphorBold',
@@ -10039,7 +15051,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![smiley-x-eyes](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/smiley-x-eyes.svg)
+  /// The `smileyXEyes` icon in Bold style.
+  ///
+  /// [PT] O ícone `smileyXEyes` no estilo Bold.
+  ///
+  /// ![smiley-x-eyes](https://api.iconify.design/ph/smiley-x-eyes-bold.svg?height=32&color=%23888888)
   static const IconData smileyXEyes = IconData(
     0xe442,
     fontFamily: 'PhosphorBold',
@@ -10047,7 +15063,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![snapchat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snapchat-logo.svg)
+  /// The `snapchatLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `snapchatLogo` no estilo Bold.
+  ///
+  /// ![snapchat-logo](https://api.iconify.design/ph/snapchat-logo-bold.svg?height=32&color=%23888888)
   static const IconData snapchatLogo = IconData(
     0xe668,
     fontFamily: 'PhosphorBold',
@@ -10055,7 +15075,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sneaker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker.svg)
+  /// The `sneaker` icon in Bold style.
+  ///
+  /// [PT] O ícone `sneaker` no estilo Bold.
+  ///
+  /// ![sneaker](https://api.iconify.design/ph/sneaker-bold.svg?height=32&color=%23888888)
   static const IconData sneaker = IconData(
     0xe80c,
     fontFamily: 'PhosphorBold',
@@ -10063,7 +15087,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sneaker-move](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sneaker-move.svg)
+  /// The `sneakerMove` icon in Bold style.
+  ///
+  /// [PT] O ícone `sneakerMove` no estilo Bold.
+  ///
+  /// ![sneaker-move](https://api.iconify.design/ph/sneaker-move-bold.svg?height=32&color=%23888888)
   static const IconData sneakerMove = IconData(
     0xed60,
     fontFamily: 'PhosphorBold',
@@ -10071,7 +15099,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![snowflake](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/snowflake.svg)
+  /// The `snowflake` icon in Bold style.
+  ///
+  /// [PT] O ícone `snowflake` no estilo Bold.
+  ///
+  /// ![snowflake](https://api.iconify.design/ph/snowflake-bold.svg?height=32&color=%23888888)
   static const IconData snowflake = IconData(
     0xe5aa,
     fontFamily: 'PhosphorBold',
@@ -10079,7 +15111,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![soccer-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soccer-ball.svg)
+  /// The `soccerBall` icon in Bold style.
+  ///
+  /// [PT] O ícone `soccerBall` no estilo Bold.
+  ///
+  /// ![soccer-ball](https://api.iconify.design/ph/soccer-ball-bold.svg?height=32&color=%23888888)
   static const IconData soccerBall = IconData(
     0xe716,
     fontFamily: 'PhosphorBold',
@@ -10087,7 +15123,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sock](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sock.svg)
+  /// The `sock` icon in Bold style.
+  ///
+  /// [PT] O ícone `sock` no estilo Bold.
+  ///
+  /// ![sock](https://api.iconify.design/ph/sock-bold.svg?height=32&color=%23888888)
   static const IconData sock = IconData(
     0xecce,
     fontFamily: 'PhosphorBold',
@@ -10095,7 +15135,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![solar-panel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-panel.svg)
+  /// The `solarPanel` icon in Bold style.
+  ///
+  /// [PT] O ícone `solarPanel` no estilo Bold.
+  ///
+  /// ![solar-panel](https://api.iconify.design/ph/solar-panel-bold.svg?height=32&color=%23888888)
   static const IconData solarPanel = IconData(
     0xed7a,
     fontFamily: 'PhosphorBold',
@@ -10103,7 +15147,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![solar-roof](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/solar-roof.svg)
+  /// The `solarRoof` icon in Bold style.
+  ///
+  /// [PT] O ícone `solarRoof` no estilo Bold.
+  ///
+  /// ![solar-roof](https://api.iconify.design/ph/solar-roof-bold.svg?height=32&color=%23888888)
   static const IconData solarRoof = IconData(
     0xed7b,
     fontFamily: 'PhosphorBold',
@@ -10111,7 +15159,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sort-ascending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-ascending.svg)
+  /// The `sortAscending` icon in Bold style.
+  ///
+  /// [PT] O ícone `sortAscending` no estilo Bold.
+  ///
+  /// ![sort-ascending](https://api.iconify.design/ph/sort-ascending-bold.svg?height=32&color=%23888888)
   static const IconData sortAscending = IconData(
     0xe444,
     fontFamily: 'PhosphorBold',
@@ -10119,7 +15171,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sort-descending](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sort-descending.svg)
+  /// The `sortDescending` icon in Bold style.
+  ///
+  /// [PT] O ícone `sortDescending` no estilo Bold.
+  ///
+  /// ![sort-descending](https://api.iconify.design/ph/sort-descending-bold.svg?height=32&color=%23888888)
   static const IconData sortDescending = IconData(
     0xe446,
     fontFamily: 'PhosphorBold',
@@ -10127,7 +15183,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![soundcloud-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/soundcloud-logo.svg)
+  /// The `soundcloudLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `soundcloudLogo` no estilo Bold.
+  ///
+  /// ![soundcloud-logo](https://api.iconify.design/ph/soundcloud-logo-bold.svg?height=32&color=%23888888)
   static const IconData soundcloudLogo = IconData(
     0xe8de,
     fontFamily: 'PhosphorBold',
@@ -10135,7 +15195,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![spade](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spade.svg)
+  /// The `spade` icon in Bold style.
+  ///
+  /// [PT] O ícone `spade` no estilo Bold.
+  ///
+  /// ![spade](https://api.iconify.design/ph/spade-bold.svg?height=32&color=%23888888)
   static const IconData spade = IconData(
     0xe448,
     fontFamily: 'PhosphorBold',
@@ -10143,7 +15207,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sparkle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sparkle.svg)
+  /// The `sparkle` icon in Bold style.
+  ///
+  /// [PT] O ícone `sparkle` no estilo Bold.
+  ///
+  /// ![sparkle](https://api.iconify.design/ph/sparkle-bold.svg?height=32&color=%23888888)
   static const IconData sparkle = IconData(
     0xe6a2,
     fontFamily: 'PhosphorBold',
@@ -10151,7 +15219,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-hifi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-hifi.svg)
+  /// The `speakerHifi` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerHifi` no estilo Bold.
+  ///
+  /// ![speaker-hifi](https://api.iconify.design/ph/speaker-hifi-bold.svg?height=32&color=%23888888)
   static const IconData speakerHifi = IconData(
     0xea08,
     fontFamily: 'PhosphorBold',
@@ -10159,7 +15231,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-high.svg)
+  /// The `speakerHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerHigh` no estilo Bold.
+  ///
+  /// ![speaker-high](https://api.iconify.design/ph/speaker-high-bold.svg?height=32&color=%23888888)
   static const IconData speakerHigh = IconData(
     0xe44a,
     fontFamily: 'PhosphorBold',
@@ -10167,7 +15243,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-low.svg)
+  /// The `speakerLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerLow` no estilo Bold.
+  ///
+  /// ![speaker-low](https://api.iconify.design/ph/speaker-low-bold.svg?height=32&color=%23888888)
   static const IconData speakerLow = IconData(
     0xe44c,
     fontFamily: 'PhosphorBold',
@@ -10175,7 +15255,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-none.svg)
+  /// The `speakerNone` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerNone` no estilo Bold.
+  ///
+  /// ![speaker-none](https://api.iconify.design/ph/speaker-none-bold.svg?height=32&color=%23888888)
   static const IconData speakerNone = IconData(
     0xe44e,
     fontFamily: 'PhosphorBold',
@@ -10183,7 +15267,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-simple-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-high.svg)
+  /// The `speakerSimpleHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerSimpleHigh` no estilo Bold.
+  ///
+  /// ![speaker-simple-high](https://api.iconify.design/ph/speaker-simple-high-bold.svg?height=32&color=%23888888)
   static const IconData speakerSimpleHigh = IconData(
     0xe450,
     fontFamily: 'PhosphorBold',
@@ -10191,7 +15279,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-simple-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-low.svg)
+  /// The `speakerSimpleLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerSimpleLow` no estilo Bold.
+  ///
+  /// ![speaker-simple-low](https://api.iconify.design/ph/speaker-simple-low-bold.svg?height=32&color=%23888888)
   static const IconData speakerSimpleLow = IconData(
     0xe452,
     fontFamily: 'PhosphorBold',
@@ -10199,7 +15291,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-simple-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-none.svg)
+  /// The `speakerSimpleNone` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerSimpleNone` no estilo Bold.
+  ///
+  /// ![speaker-simple-none](https://api.iconify.design/ph/speaker-simple-none-bold.svg?height=32&color=%23888888)
   static const IconData speakerSimpleNone = IconData(
     0xe454,
     fontFamily: 'PhosphorBold',
@@ -10207,7 +15303,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-simple-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-slash.svg)
+  /// The `speakerSimpleSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerSimpleSlash` no estilo Bold.
+  ///
+  /// ![speaker-simple-slash](https://api.iconify.design/ph/speaker-simple-slash-bold.svg?height=32&color=%23888888)
   static const IconData speakerSimpleSlash = IconData(
     0xe456,
     fontFamily: 'PhosphorBold',
@@ -10215,7 +15315,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-simple-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-simple-x.svg)
+  /// The `speakerSimpleX` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerSimpleX` no estilo Bold.
+  ///
+  /// ![speaker-simple-x](https://api.iconify.design/ph/speaker-simple-x-bold.svg?height=32&color=%23888888)
   static const IconData speakerSimpleX = IconData(
     0xe458,
     fontFamily: 'PhosphorBold',
@@ -10223,7 +15327,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-slash.svg)
+  /// The `speakerSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerSlash` no estilo Bold.
+  ///
+  /// ![speaker-slash](https://api.iconify.design/ph/speaker-slash-bold.svg?height=32&color=%23888888)
   static const IconData speakerSlash = IconData(
     0xe45a,
     fontFamily: 'PhosphorBold',
@@ -10231,7 +15339,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speaker-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speaker-x.svg)
+  /// The `speakerX` icon in Bold style.
+  ///
+  /// [PT] O ícone `speakerX` no estilo Bold.
+  ///
+  /// ![speaker-x](https://api.iconify.design/ph/speaker-x-bold.svg?height=32&color=%23888888)
   static const IconData speakerX = IconData(
     0xe45c,
     fontFamily: 'PhosphorBold',
@@ -10239,7 +15351,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![speedometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/speedometer.svg)
+  /// The `speedometer` icon in Bold style.
+  ///
+  /// [PT] O ícone `speedometer` no estilo Bold.
+  ///
+  /// ![speedometer](https://api.iconify.design/ph/speedometer-bold.svg?height=32&color=%23888888)
   static const IconData speedometer = IconData(
     0xee74,
     fontFamily: 'PhosphorBold',
@@ -10247,7 +15363,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sphere](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sphere.svg)
+  /// The `sphere` icon in Bold style.
+  ///
+  /// [PT] O ícone `sphere` no estilo Bold.
+  ///
+  /// ![sphere](https://api.iconify.design/ph/sphere-bold.svg?height=32&color=%23888888)
   static const IconData sphere = IconData(
     0xee66,
     fontFamily: 'PhosphorBold',
@@ -10255,7 +15375,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![spinner](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner.svg)
+  /// The `spinner` icon in Bold style.
+  ///
+  /// [PT] O ícone `spinner` no estilo Bold.
+  ///
+  /// ![spinner](https://api.iconify.design/ph/spinner-bold.svg?height=32&color=%23888888)
   static const IconData spinner = IconData(
     0xe66a,
     fontFamily: 'PhosphorBold',
@@ -10263,7 +15387,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![spinner-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-ball.svg)
+  /// The `spinnerBall` icon in Bold style.
+  ///
+  /// [PT] O ícone `spinnerBall` no estilo Bold.
+  ///
+  /// ![spinner-ball](https://api.iconify.design/ph/spinner-ball-bold.svg?height=32&color=%23888888)
   static const IconData spinnerBall = IconData(
     0xee28,
     fontFamily: 'PhosphorBold',
@@ -10271,7 +15399,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![spinner-gap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spinner-gap.svg)
+  /// The `spinnerGap` icon in Bold style.
+  ///
+  /// [PT] O ícone `spinnerGap` no estilo Bold.
+  ///
+  /// ![spinner-gap](https://api.iconify.design/ph/spinner-gap-bold.svg?height=32&color=%23888888)
   static const IconData spinnerGap = IconData(
     0xe66c,
     fontFamily: 'PhosphorBold',
@@ -10279,7 +15411,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![spiral](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spiral.svg)
+  /// The `spiral` icon in Bold style.
+  ///
+  /// [PT] O ícone `spiral` no estilo Bold.
+  ///
+  /// ![spiral](https://api.iconify.design/ph/spiral-bold.svg?height=32&color=%23888888)
   static const IconData spiral = IconData(
     0xe9fa,
     fontFamily: 'PhosphorBold',
@@ -10287,7 +15423,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-horizontal.svg)
+  /// The `splitHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `splitHorizontal` no estilo Bold.
+  ///
+  /// ![split-horizontal](https://api.iconify.design/ph/split-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData splitHorizontal = IconData(
     0xe872,
     fontFamily: 'PhosphorBold',
@@ -10295,7 +15435,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/split-vertical.svg)
+  /// The `splitVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `splitVertical` no estilo Bold.
+  ///
+  /// ![split-vertical](https://api.iconify.design/ph/split-vertical-bold.svg?height=32&color=%23888888)
   static const IconData splitVertical = IconData(
     0xe876,
     fontFamily: 'PhosphorBold',
@@ -10303,7 +15447,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![spotify-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spotify-logo.svg)
+  /// The `spotifyLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `spotifyLogo` no estilo Bold.
+  ///
+  /// ![spotify-logo](https://api.iconify.design/ph/spotify-logo-bold.svg?height=32&color=%23888888)
   static const IconData spotifyLogo = IconData(
     0xe66e,
     fontFamily: 'PhosphorBold',
@@ -10311,7 +15459,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![spray-bottle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/spray-bottle.svg)
+  /// The `sprayBottle` icon in Bold style.
+  ///
+  /// [PT] O ícone `sprayBottle` no estilo Bold.
+  ///
+  /// ![spray-bottle](https://api.iconify.design/ph/spray-bottle-bold.svg?height=32&color=%23888888)
   static const IconData sprayBottle = IconData(
     0xe7e4,
     fontFamily: 'PhosphorBold',
@@ -10319,7 +15471,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square.svg)
+  /// The `square` icon in Bold style.
+  ///
+  /// [PT] O ícone `square` no estilo Bold.
+  ///
+  /// ![square](https://api.iconify.design/ph/square-bold.svg?height=32&color=%23888888)
   static const IconData square = IconData(
     0xe45e,
     fontFamily: 'PhosphorBold',
@@ -10327,7 +15483,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![square-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half.svg)
+  /// The `squareHalf` icon in Bold style.
+  ///
+  /// [PT] O ícone `squareHalf` no estilo Bold.
+  ///
+  /// ![square-half](https://api.iconify.design/ph/square-half-bold.svg?height=32&color=%23888888)
   static const IconData squareHalf = IconData(
     0xe462,
     fontFamily: 'PhosphorBold',
@@ -10335,7 +15495,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![square-half-bottom](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-half-bottom.svg)
+  /// The `squareHalfBottom` icon in Bold style.
+  ///
+  /// [PT] O ícone `squareHalfBottom` no estilo Bold.
+  ///
+  /// ![square-half-bottom](https://api.iconify.design/ph/square-half-bottom-bold.svg?height=32&color=%23888888)
   static const IconData squareHalfBottom = IconData(
     0xeb16,
     fontFamily: 'PhosphorBold',
@@ -10343,7 +15507,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![square-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-logo.svg)
+  /// The `squareLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `squareLogo` no estilo Bold.
+  ///
+  /// ![square-logo](https://api.iconify.design/ph/square-logo-bold.svg?height=32&color=%23888888)
   static const IconData squareLogo = IconData(
     0xe690,
     fontFamily: 'PhosphorBold',
@@ -10351,7 +15519,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![square-split-horizontal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-horizontal.svg)
+  /// The `squareSplitHorizontal` icon in Bold style.
+  ///
+  /// [PT] O ícone `squareSplitHorizontal` no estilo Bold.
+  ///
+  /// ![square-split-horizontal](https://api.iconify.design/ph/square-split-horizontal-bold.svg?height=32&color=%23888888)
   static const IconData squareSplitHorizontal = IconData(
     0xe870,
     fontFamily: 'PhosphorBold',
@@ -10359,7 +15531,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![square-split-vertical](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/square-split-vertical.svg)
+  /// The `squareSplitVertical` icon in Bold style.
+  ///
+  /// [PT] O ícone `squareSplitVertical` no estilo Bold.
+  ///
+  /// ![square-split-vertical](https://api.iconify.design/ph/square-split-vertical-bold.svg?height=32&color=%23888888)
   static const IconData squareSplitVertical = IconData(
     0xe874,
     fontFamily: 'PhosphorBold',
@@ -10367,7 +15543,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![squares-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/squares-four.svg)
+  /// The `squaresFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `squaresFour` no estilo Bold.
+  ///
+  /// ![squares-four](https://api.iconify.design/ph/squares-four-bold.svg?height=32&color=%23888888)
   static const IconData squaresFour = IconData(
     0xe464,
     fontFamily: 'PhosphorBold',
@@ -10375,7 +15555,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stack](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack.svg)
+  /// The `stack` icon in Bold style.
+  ///
+  /// [PT] O ícone `stack` no estilo Bold.
+  ///
+  /// ![stack](https://api.iconify.design/ph/stack-bold.svg?height=32&color=%23888888)
   static const IconData stack = IconData(
     0xe466,
     fontFamily: 'PhosphorBold',
@@ -10383,7 +15567,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stack-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-minus.svg)
+  /// The `stackMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `stackMinus` no estilo Bold.
+  ///
+  /// ![stack-minus](https://api.iconify.design/ph/stack-minus-bold.svg?height=32&color=%23888888)
   static const IconData stackMinus = IconData(
     0xedf4,
     fontFamily: 'PhosphorBold',
@@ -10391,7 +15579,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stack-overflow-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-overflow-logo.svg)
+  /// The `stackOverflowLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `stackOverflowLogo` no estilo Bold.
+  ///
+  /// ![stack-overflow-logo](https://api.iconify.design/ph/stack-overflow-logo-bold.svg?height=32&color=%23888888)
   static const IconData stackOverflowLogo = IconData(
     0xeb78,
     fontFamily: 'PhosphorBold',
@@ -10399,7 +15591,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stack-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-plus.svg)
+  /// The `stackPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `stackPlus` no estilo Bold.
+  ///
+  /// ![stack-plus](https://api.iconify.design/ph/stack-plus-bold.svg?height=32&color=%23888888)
   static const IconData stackPlus = IconData(
     0xedf6,
     fontFamily: 'PhosphorBold',
@@ -10407,7 +15603,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stack-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stack-simple.svg)
+  /// The `stackSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `stackSimple` no estilo Bold.
+  ///
+  /// ![stack-simple](https://api.iconify.design/ph/stack-simple-bold.svg?height=32&color=%23888888)
   static const IconData stackSimple = IconData(
     0xe468,
     fontFamily: 'PhosphorBold',
@@ -10415,7 +15615,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stairs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stairs.svg)
+  /// The `stairs` icon in Bold style.
+  ///
+  /// [PT] O ícone `stairs` no estilo Bold.
+  ///
+  /// ![stairs](https://api.iconify.design/ph/stairs-bold.svg?height=32&color=%23888888)
   static const IconData stairs = IconData(
     0xe8ec,
     fontFamily: 'PhosphorBold',
@@ -10423,7 +15627,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stamp](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stamp.svg)
+  /// The `stamp` icon in Bold style.
+  ///
+  /// [PT] O ícone `stamp` no estilo Bold.
+  ///
+  /// ![stamp](https://api.iconify.design/ph/stamp-bold.svg?height=32&color=%23888888)
   static const IconData stamp = IconData(
     0xea48,
     fontFamily: 'PhosphorBold',
@@ -10431,7 +15639,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![standard-definition](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/standard-definition.svg)
+  /// The `standardDefinition` icon in Bold style.
+  ///
+  /// [PT] O ícone `standardDefinition` no estilo Bold.
+  ///
+  /// ![standard-definition](https://api.iconify.design/ph/standard-definition-bold.svg?height=32&color=%23888888)
   static const IconData standardDefinition = IconData(
     0xea90,
     fontFamily: 'PhosphorBold',
@@ -10439,7 +15651,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![star](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star.svg)
+  /// The `star` icon in Bold style.
+  ///
+  /// [PT] O ícone `star` no estilo Bold.
+  ///
+  /// ![star](https://api.iconify.design/ph/star-bold.svg?height=32&color=%23888888)
   static const IconData star = IconData(
     0xe46a,
     fontFamily: 'PhosphorBold',
@@ -10447,7 +15663,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![star-and-crescent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-and-crescent.svg)
+  /// The `starAndCrescent` icon in Bold style.
+  ///
+  /// [PT] O ícone `starAndCrescent` no estilo Bold.
+  ///
+  /// ![star-and-crescent](https://api.iconify.design/ph/star-and-crescent-bold.svg?height=32&color=%23888888)
   static const IconData starAndCrescent = IconData(
     0xecf4,
     fontFamily: 'PhosphorBold',
@@ -10455,7 +15675,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![star-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-four.svg)
+  /// The `starFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `starFour` no estilo Bold.
+  ///
+  /// ![star-four](https://api.iconify.design/ph/star-four-bold.svg?height=32&color=%23888888)
   static const IconData starFour = IconData(
     0xe6a4,
     fontFamily: 'PhosphorBold',
@@ -10463,7 +15687,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![star-half](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-half.svg)
+  /// The `starHalf` icon in Bold style.
+  ///
+  /// [PT] O ícone `starHalf` no estilo Bold.
+  ///
+  /// ![star-half](https://api.iconify.design/ph/star-half-bold.svg?height=32&color=%23888888)
   static const IconData starHalf = IconData(
     0xe70a,
     fontFamily: 'PhosphorBold',
@@ -10471,7 +15699,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![star-of-david](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/star-of-david.svg)
+  /// The `starOfDavid` icon in Bold style.
+  ///
+  /// [PT] O ícone `starOfDavid` no estilo Bold.
+  ///
+  /// ![star-of-david](https://api.iconify.design/ph/star-of-david-bold.svg?height=32&color=%23888888)
   static const IconData starOfDavid = IconData(
     0xe89e,
     fontFamily: 'PhosphorBold',
@@ -10479,7 +15711,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![steam-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steam-logo.svg)
+  /// The `steamLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `steamLogo` no estilo Bold.
+  ///
+  /// ![steam-logo](https://api.iconify.design/ph/steam-logo-bold.svg?height=32&color=%23888888)
   static const IconData steamLogo = IconData(
     0xead4,
     fontFamily: 'PhosphorBold',
@@ -10487,7 +15723,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![steering-wheel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steering-wheel.svg)
+  /// The `steeringWheel` icon in Bold style.
+  ///
+  /// [PT] O ícone `steeringWheel` no estilo Bold.
+  ///
+  /// ![steering-wheel](https://api.iconify.design/ph/steering-wheel-bold.svg?height=32&color=%23888888)
   static const IconData steeringWheel = IconData(
     0xe9ac,
     fontFamily: 'PhosphorBold',
@@ -10495,7 +15735,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![steps](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/steps.svg)
+  /// The `steps` icon in Bold style.
+  ///
+  /// [PT] O ícone `steps` no estilo Bold.
+  ///
+  /// ![steps](https://api.iconify.design/ph/steps-bold.svg?height=32&color=%23888888)
   static const IconData steps = IconData(
     0xecbe,
     fontFamily: 'PhosphorBold',
@@ -10503,7 +15747,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stethoscope](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stethoscope.svg)
+  /// The `stethoscope` icon in Bold style.
+  ///
+  /// [PT] O ícone `stethoscope` no estilo Bold.
+  ///
+  /// ![stethoscope](https://api.iconify.design/ph/stethoscope-bold.svg?height=32&color=%23888888)
   static const IconData stethoscope = IconData(
     0xe7ea,
     fontFamily: 'PhosphorBold',
@@ -10511,7 +15759,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sticker](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sticker.svg)
+  /// The `sticker` icon in Bold style.
+  ///
+  /// [PT] O ícone `sticker` no estilo Bold.
+  ///
+  /// ![sticker](https://api.iconify.design/ph/sticker-bold.svg?height=32&color=%23888888)
   static const IconData sticker = IconData(
     0xe5ac,
     fontFamily: 'PhosphorBold',
@@ -10519,7 +15771,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stool.svg)
+  /// The `stool` icon in Bold style.
+  ///
+  /// [PT] O ícone `stool` no estilo Bold.
+  ///
+  /// ![stool](https://api.iconify.design/ph/stool-bold.svg?height=32&color=%23888888)
   static const IconData stool = IconData(
     0xea44,
     fontFamily: 'PhosphorBold',
@@ -10527,7 +15783,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stop](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop.svg)
+  /// The `stop` icon in Bold style.
+  ///
+  /// [PT] O ícone `stop` no estilo Bold.
+  ///
+  /// ![stop](https://api.iconify.design/ph/stop-bold.svg?height=32&color=%23888888)
   static const IconData stop = IconData(
     0xe46c,
     fontFamily: 'PhosphorBold',
@@ -10535,7 +15795,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stop-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stop-circle.svg)
+  /// The `stopCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `stopCircle` no estilo Bold.
+  ///
+  /// ![stop-circle](https://api.iconify.design/ph/stop-circle-bold.svg?height=32&color=%23888888)
   static const IconData stopCircle = IconData(
     0xe46e,
     fontFamily: 'PhosphorBold',
@@ -10543,7 +15807,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![storefront](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/storefront.svg)
+  /// The `storefront` icon in Bold style.
+  ///
+  /// [PT] O ícone `storefront` no estilo Bold.
+  ///
+  /// ![storefront](https://api.iconify.design/ph/storefront-bold.svg?height=32&color=%23888888)
   static const IconData storefront = IconData(
     0xe470,
     fontFamily: 'PhosphorBold',
@@ -10551,7 +15819,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![strategy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/strategy.svg)
+  /// The `strategy` icon in Bold style.
+  ///
+  /// [PT] O ícone `strategy` no estilo Bold.
+  ///
+  /// ![strategy](https://api.iconify.design/ph/strategy-bold.svg?height=32&color=%23888888)
   static const IconData strategy = IconData(
     0xea3a,
     fontFamily: 'PhosphorBold',
@@ -10559,7 +15831,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![stripe-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/stripe-logo.svg)
+  /// The `stripeLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `stripeLogo` no estilo Bold.
+  ///
+  /// ![stripe-logo](https://api.iconify.design/ph/stripe-logo-bold.svg?height=32&color=%23888888)
   static const IconData stripeLogo = IconData(
     0xe698,
     fontFamily: 'PhosphorBold',
@@ -10567,7 +15843,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![student](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/student.svg)
+  /// The `student` icon in Bold style.
+  ///
+  /// [PT] O ícone `student` no estilo Bold.
+  ///
+  /// ![student](https://api.iconify.design/ph/student-bold.svg?height=32&color=%23888888)
   static const IconData student = IconData(
     0xe73e,
     fontFamily: 'PhosphorBold',
@@ -10575,7 +15855,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![subset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-of.svg)
+  /// The `subsetOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `subsetOf` no estilo Bold.
+  ///
+  /// ![subset-of](https://api.iconify.design/ph/subset-of-bold.svg?height=32&color=%23888888)
   static const IconData subsetOf = IconData(
     0xedc0,
     fontFamily: 'PhosphorBold',
@@ -10583,7 +15867,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![subset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subset-proper-of.svg)
+  /// The `subsetProperOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `subsetProperOf` no estilo Bold.
+  ///
+  /// ![subset-proper-of](https://api.iconify.design/ph/subset-proper-of-bold.svg?height=32&color=%23888888)
   static const IconData subsetProperOf = IconData(
     0xedb6,
     fontFamily: 'PhosphorBold',
@@ -10591,7 +15879,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![subtitles](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles.svg)
+  /// The `subtitles` icon in Bold style.
+  ///
+  /// [PT] O ícone `subtitles` no estilo Bold.
+  ///
+  /// ![subtitles](https://api.iconify.design/ph/subtitles-bold.svg?height=32&color=%23888888)
   static const IconData subtitles = IconData(
     0xe1a8,
     fontFamily: 'PhosphorBold',
@@ -10599,7 +15891,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![subtitles-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtitles-slash.svg)
+  /// The `subtitlesSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `subtitlesSlash` no estilo Bold.
+  ///
+  /// ![subtitles-slash](https://api.iconify.design/ph/subtitles-slash-bold.svg?height=32&color=%23888888)
   static const IconData subtitlesSlash = IconData(
     0xe1a6,
     fontFamily: 'PhosphorBold',
@@ -10607,7 +15903,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![subtract](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract.svg)
+  /// The `subtract` icon in Bold style.
+  ///
+  /// [PT] O ícone `subtract` no estilo Bold.
+  ///
+  /// ![subtract](https://api.iconify.design/ph/subtract-bold.svg?height=32&color=%23888888)
   static const IconData subtract = IconData(
     0xebd6,
     fontFamily: 'PhosphorBold',
@@ -10615,7 +15915,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![subtract-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subtract-square.svg)
+  /// The `subtractSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `subtractSquare` no estilo Bold.
+  ///
+  /// ![subtract-square](https://api.iconify.design/ph/subtract-square-bold.svg?height=32&color=%23888888)
   static const IconData subtractSquare = IconData(
     0xebd4,
     fontFamily: 'PhosphorBold',
@@ -10623,7 +15927,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![subway](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/subway.svg)
+  /// The `subway` icon in Bold style.
+  ///
+  /// [PT] O ícone `subway` no estilo Bold.
+  ///
+  /// ![subway](https://api.iconify.design/ph/subway-bold.svg?height=32&color=%23888888)
   static const IconData subway = IconData(
     0xe498,
     fontFamily: 'PhosphorBold',
@@ -10631,7 +15939,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase.svg)
+  /// The `suitcase` icon in Bold style.
+  ///
+  /// [PT] O ícone `suitcase` no estilo Bold.
+  ///
+  /// ![suitcase](https://api.iconify.design/ph/suitcase-bold.svg?height=32&color=%23888888)
   static const IconData suitcase = IconData(
     0xe5ae,
     fontFamily: 'PhosphorBold',
@@ -10639,7 +15951,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![suitcase-rolling](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-rolling.svg)
+  /// The `suitcaseRolling` icon in Bold style.
+  ///
+  /// [PT] O ícone `suitcaseRolling` no estilo Bold.
+  ///
+  /// ![suitcase-rolling](https://api.iconify.design/ph/suitcase-rolling-bold.svg?height=32&color=%23888888)
   static const IconData suitcaseRolling = IconData(
     0xe9b0,
     fontFamily: 'PhosphorBold',
@@ -10647,7 +15963,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![suitcase-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/suitcase-simple.svg)
+  /// The `suitcaseSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `suitcaseSimple` no estilo Bold.
+  ///
+  /// ![suitcase-simple](https://api.iconify.design/ph/suitcase-simple-bold.svg?height=32&color=%23888888)
   static const IconData suitcaseSimple = IconData(
     0xe5b0,
     fontFamily: 'PhosphorBold',
@@ -10655,7 +15975,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sun](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun.svg)
+  /// The `sun` icon in Bold style.
+  ///
+  /// [PT] O ícone `sun` no estilo Bold.
+  ///
+  /// ![sun](https://api.iconify.design/ph/sun-bold.svg?height=32&color=%23888888)
   static const IconData sun = IconData(
     0xe472,
     fontFamily: 'PhosphorBold',
@@ -10663,7 +15987,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sun-dim](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-dim.svg)
+  /// The `sunDim` icon in Bold style.
+  ///
+  /// [PT] O ícone `sunDim` no estilo Bold.
+  ///
+  /// ![sun-dim](https://api.iconify.design/ph/sun-dim-bold.svg?height=32&color=%23888888)
   static const IconData sunDim = IconData(
     0xe474,
     fontFamily: 'PhosphorBold',
@@ -10671,7 +15999,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sun-horizon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sun-horizon.svg)
+  /// The `sunHorizon` icon in Bold style.
+  ///
+  /// [PT] O ícone `sunHorizon` no estilo Bold.
+  ///
+  /// ![sun-horizon](https://api.iconify.design/ph/sun-horizon-bold.svg?height=32&color=%23888888)
   static const IconData sunHorizon = IconData(
     0xe5b6,
     fontFamily: 'PhosphorBold',
@@ -10679,7 +16011,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sunglasses](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sunglasses.svg)
+  /// The `sunglasses` icon in Bold style.
+  ///
+  /// [PT] O ícone `sunglasses` no estilo Bold.
+  ///
+  /// ![sunglasses](https://api.iconify.design/ph/sunglasses-bold.svg?height=32&color=%23888888)
   static const IconData sunglasses = IconData(
     0xe816,
     fontFamily: 'PhosphorBold',
@@ -10687,7 +16023,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![superset-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-of.svg)
+  /// The `supersetOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `supersetOf` no estilo Bold.
+  ///
+  /// ![superset-of](https://api.iconify.design/ph/superset-of-bold.svg?height=32&color=%23888888)
   static const IconData supersetOf = IconData(
     0xedb8,
     fontFamily: 'PhosphorBold',
@@ -10695,7 +16035,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![superset-proper-of](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/superset-proper-of.svg)
+  /// The `supersetProperOf` icon in Bold style.
+  ///
+  /// [PT] O ícone `supersetProperOf` no estilo Bold.
+  ///
+  /// ![superset-proper-of](https://api.iconify.design/ph/superset-proper-of-bold.svg?height=32&color=%23888888)
   static const IconData supersetProperOf = IconData(
     0xedb4,
     fontFamily: 'PhosphorBold',
@@ -10703,7 +16047,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![swap](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swap.svg)
+  /// The `swap` icon in Bold style.
+  ///
+  /// [PT] O ícone `swap` no estilo Bold.
+  ///
+  /// ![swap](https://api.iconify.design/ph/swap-bold.svg?height=32&color=%23888888)
   static const IconData swap = IconData(
     0xe83c,
     fontFamily: 'PhosphorBold',
@@ -10711,7 +16059,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![swatches](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swatches.svg)
+  /// The `swatches` icon in Bold style.
+  ///
+  /// [PT] O ícone `swatches` no estilo Bold.
+  ///
+  /// ![swatches](https://api.iconify.design/ph/swatches-bold.svg?height=32&color=%23888888)
   static const IconData swatches = IconData(
     0xe5b8,
     fontFamily: 'PhosphorBold',
@@ -10719,7 +16071,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![swimming-pool](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/swimming-pool.svg)
+  /// The `swimmingPool` icon in Bold style.
+  ///
+  /// [PT] O ícone `swimmingPool` no estilo Bold.
+  ///
+  /// ![swimming-pool](https://api.iconify.design/ph/swimming-pool-bold.svg?height=32&color=%23888888)
   static const IconData swimmingPool = IconData(
     0xecb6,
     fontFamily: 'PhosphorBold',
@@ -10727,7 +16083,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![sword](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/sword.svg)
+  /// The `sword` icon in Bold style.
+  ///
+  /// [PT] O ícone `sword` no estilo Bold.
+  ///
+  /// ![sword](https://api.iconify.design/ph/sword-bold.svg?height=32&color=%23888888)
   static const IconData sword = IconData(
     0xe5ba,
     fontFamily: 'PhosphorBold',
@@ -10735,7 +16095,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![synagogue](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/synagogue.svg)
+  /// The `synagogue` icon in Bold style.
+  ///
+  /// [PT] O ícone `synagogue` no estilo Bold.
+  ///
+  /// ![synagogue](https://api.iconify.design/ph/synagogue-bold.svg?height=32&color=%23888888)
   static const IconData synagogue = IconData(
     0xecec,
     fontFamily: 'PhosphorBold',
@@ -10743,7 +16107,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![syringe](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/syringe.svg)
+  /// The `syringe` icon in Bold style.
+  ///
+  /// [PT] O ícone `syringe` no estilo Bold.
+  ///
+  /// ![syringe](https://api.iconify.design/ph/syringe-bold.svg?height=32&color=%23888888)
   static const IconData syringe = IconData(
     0xe968,
     fontFamily: 'PhosphorBold',
@@ -10751,7 +16119,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![t-shirt](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/t-shirt.svg)
+  /// The `tShirt` icon in Bold style.
+  ///
+  /// [PT] O ícone `tShirt` no estilo Bold.
+  ///
+  /// ![t-shirt](https://api.iconify.design/ph/t-shirt-bold.svg?height=32&color=%23888888)
   static const IconData tShirt = IconData(
     0xe670,
     fontFamily: 'PhosphorBold',
@@ -10759,7 +16131,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![table](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/table.svg)
+  /// The `table` icon in Bold style.
+  ///
+  /// [PT] O ícone `table` no estilo Bold.
+  ///
+  /// ![table](https://api.iconify.design/ph/table-bold.svg?height=32&color=%23888888)
   static const IconData table = IconData(
     0xe476,
     fontFamily: 'PhosphorBold',
@@ -10767,7 +16143,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tabs](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tabs.svg)
+  /// The `tabs` icon in Bold style.
+  ///
+  /// [PT] O ícone `tabs` no estilo Bold.
+  ///
+  /// ![tabs](https://api.iconify.design/ph/tabs-bold.svg?height=32&color=%23888888)
   static const IconData tabs = IconData(
     0xe778,
     fontFamily: 'PhosphorBold',
@@ -10775,7 +16155,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag.svg)
+  /// The `tag` icon in Bold style.
+  ///
+  /// [PT] O ícone `tag` no estilo Bold.
+  ///
+  /// ![tag](https://api.iconify.design/ph/tag-bold.svg?height=32&color=%23888888)
   static const IconData tag = IconData(
     0xe478,
     fontFamily: 'PhosphorBold',
@@ -10783,7 +16167,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tag-chevron](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-chevron.svg)
+  /// The `tagChevron` icon in Bold style.
+  ///
+  /// [PT] O ícone `tagChevron` no estilo Bold.
+  ///
+  /// ![tag-chevron](https://api.iconify.design/ph/tag-chevron-bold.svg?height=32&color=%23888888)
   static const IconData tagChevron = IconData(
     0xe672,
     fontFamily: 'PhosphorBold',
@@ -10791,7 +16179,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tag-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tag-simple.svg)
+  /// The `tagSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `tagSimple` no estilo Bold.
+  ///
+  /// ![tag-simple](https://api.iconify.design/ph/tag-simple-bold.svg?height=32&color=%23888888)
   static const IconData tagSimple = IconData(
     0xe47a,
     fontFamily: 'PhosphorBold',
@@ -10799,7 +16191,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![target](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/target.svg)
+  /// The `target` icon in Bold style.
+  ///
+  /// [PT] O ícone `target` no estilo Bold.
+  ///
+  /// ![target](https://api.iconify.design/ph/target-bold.svg?height=32&color=%23888888)
   static const IconData target = IconData(
     0xe47c,
     fontFamily: 'PhosphorBold',
@@ -10807,7 +16203,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![taxi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/taxi.svg)
+  /// The `taxi` icon in Bold style.
+  ///
+  /// [PT] O ícone `taxi` no estilo Bold.
+  ///
+  /// ![taxi](https://api.iconify.design/ph/taxi-bold.svg?height=32&color=%23888888)
   static const IconData taxi = IconData(
     0xe902,
     fontFamily: 'PhosphorBold',
@@ -10815,7 +16215,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tea-bag](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tea-bag.svg)
+  /// The `teaBag` icon in Bold style.
+  ///
+  /// [PT] O ícone `teaBag` no estilo Bold.
+  ///
+  /// ![tea-bag](https://api.iconify.design/ph/tea-bag-bold.svg?height=32&color=%23888888)
   static const IconData teaBag = IconData(
     0xe8e6,
     fontFamily: 'PhosphorBold',
@@ -10823,7 +16227,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![telegram-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/telegram-logo.svg)
+  /// The `telegramLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `telegramLogo` no estilo Bold.
+  ///
+  /// ![telegram-logo](https://api.iconify.design/ph/telegram-logo-bold.svg?height=32&color=%23888888)
   static const IconData telegramLogo = IconData(
     0xe5bc,
     fontFamily: 'PhosphorBold',
@@ -10831,7 +16239,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![television](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television.svg)
+  /// The `television` icon in Bold style.
+  ///
+  /// [PT] O ícone `television` no estilo Bold.
+  ///
+  /// ![television](https://api.iconify.design/ph/television-bold.svg?height=32&color=%23888888)
   static const IconData television = IconData(
     0xe754,
     fontFamily: 'PhosphorBold',
@@ -10839,7 +16251,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![television-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/television-simple.svg)
+  /// The `televisionSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `televisionSimple` no estilo Bold.
+  ///
+  /// ![television-simple](https://api.iconify.design/ph/television-simple-bold.svg?height=32&color=%23888888)
   static const IconData televisionSimple = IconData(
     0xeae6,
     fontFamily: 'PhosphorBold',
@@ -10847,7 +16263,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tennis-ball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tennis-ball.svg)
+  /// The `tennisBall` icon in Bold style.
+  ///
+  /// [PT] O ícone `tennisBall` no estilo Bold.
+  ///
+  /// ![tennis-ball](https://api.iconify.design/ph/tennis-ball-bold.svg?height=32&color=%23888888)
   static const IconData tennisBall = IconData(
     0xe720,
     fontFamily: 'PhosphorBold',
@@ -10855,7 +16275,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tent.svg)
+  /// The `tent` icon in Bold style.
+  ///
+  /// [PT] O ícone `tent` no estilo Bold.
+  ///
+  /// ![tent](https://api.iconify.design/ph/tent-bold.svg?height=32&color=%23888888)
   static const IconData tent = IconData(
     0xe8ba,
     fontFamily: 'PhosphorBold',
@@ -10863,7 +16287,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![terminal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal.svg)
+  /// The `terminal` icon in Bold style.
+  ///
+  /// [PT] O ícone `terminal` no estilo Bold.
+  ///
+  /// ![terminal](https://api.iconify.design/ph/terminal-bold.svg?height=32&color=%23888888)
   static const IconData terminal = IconData(
     0xe47e,
     fontFamily: 'PhosphorBold',
@@ -10871,7 +16299,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![terminal-window](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/terminal-window.svg)
+  /// The `terminalWindow` icon in Bold style.
+  ///
+  /// [PT] O ícone `terminalWindow` no estilo Bold.
+  ///
+  /// ![terminal-window](https://api.iconify.design/ph/terminal-window-bold.svg?height=32&color=%23888888)
   static const IconData terminalWindow = IconData(
     0xeae8,
     fontFamily: 'PhosphorBold',
@@ -10879,7 +16311,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![test-tube](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/test-tube.svg)
+  /// The `testTube` icon in Bold style.
+  ///
+  /// [PT] O ícone `testTube` no estilo Bold.
+  ///
+  /// ![test-tube](https://api.iconify.design/ph/test-tube-bold.svg?height=32&color=%23888888)
   static const IconData testTube = IconData(
     0xe7a0,
     fontFamily: 'PhosphorBold',
@@ -10887,7 +16323,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-a-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-a-underline.svg)
+  /// The `textAUnderline` icon in Bold style.
+  ///
+  /// [PT] O ícone `textAUnderline` no estilo Bold.
+  ///
+  /// ![text-a-underline](https://api.iconify.design/ph/text-a-underline-bold.svg?height=32&color=%23888888)
   static const IconData textAUnderline = IconData(
     0xed34,
     fontFamily: 'PhosphorBold',
@@ -10895,7 +16335,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-aa](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-aa.svg)
+  /// The `textAa` icon in Bold style.
+  ///
+  /// [PT] O ícone `textAa` no estilo Bold.
+  ///
+  /// ![text-aa](https://api.iconify.design/ph/text-aa-bold.svg?height=32&color=%23888888)
   static const IconData textAa = IconData(
     0xe6ee,
     fontFamily: 'PhosphorBold',
@@ -10903,7 +16347,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-align-center](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-center.svg)
+  /// The `textAlignCenter` icon in Bold style.
+  ///
+  /// [PT] O ícone `textAlignCenter` no estilo Bold.
+  ///
+  /// ![text-align-center](https://api.iconify.design/ph/text-align-center-bold.svg?height=32&color=%23888888)
   static const IconData textAlignCenter = IconData(
     0xe480,
     fontFamily: 'PhosphorBold',
@@ -10911,7 +16359,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-align-justify](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-justify.svg)
+  /// The `textAlignJustify` icon in Bold style.
+  ///
+  /// [PT] O ícone `textAlignJustify` no estilo Bold.
+  ///
+  /// ![text-align-justify](https://api.iconify.design/ph/text-align-justify-bold.svg?height=32&color=%23888888)
   static const IconData textAlignJustify = IconData(
     0xe482,
     fontFamily: 'PhosphorBold',
@@ -10919,7 +16371,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-align-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-left.svg)
+  /// The `textAlignLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `textAlignLeft` no estilo Bold.
+  ///
+  /// ![text-align-left](https://api.iconify.design/ph/text-align-left-bold.svg?height=32&color=%23888888)
   static const IconData textAlignLeft = IconData(
     0xe484,
     fontFamily: 'PhosphorBold',
@@ -10927,7 +16383,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-align-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-align-right.svg)
+  /// The `textAlignRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `textAlignRight` no estilo Bold.
+  ///
+  /// ![text-align-right](https://api.iconify.design/ph/text-align-right-bold.svg?height=32&color=%23888888)
   static const IconData textAlignRight = IconData(
     0xe486,
     fontFamily: 'PhosphorBold',
@@ -10935,7 +16395,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-b](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-b.svg)
+  /// The `textB` icon in Bold style.
+  ///
+  /// [PT] O ícone `textB` no estilo Bold.
+  ///
+  /// ![text-b](https://api.iconify.design/ph/text-b-bold.svg?height=32&color=%23888888)
   static const IconData textB = IconData(
     0xe5be,
     fontFamily: 'PhosphorBold',
@@ -10943,7 +16407,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-bolder](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-bolder.svg)
+  /// The `textBolder` icon in Bold style.
+  ///
+  /// [PT] O ícone `textBolder` no estilo Bold.
+  ///
+  /// ![text-bolder](https://api.iconify.design/ph/text-b-bold.svg?height=32&color=%23888888)
   static const IconData textBolder = IconData(
     0xe5be,
     fontFamily: 'PhosphorBold',
@@ -10951,7 +16419,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-columns](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-columns.svg)
+  /// The `textColumns` icon in Bold style.
+  ///
+  /// [PT] O ícone `textColumns` no estilo Bold.
+  ///
+  /// ![text-columns](https://api.iconify.design/ph/text-columns-bold.svg?height=32&color=%23888888)
   static const IconData textColumns = IconData(
     0xec96,
     fontFamily: 'PhosphorBold',
@@ -10959,7 +16431,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-h](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h.svg)
+  /// The `textH` icon in Bold style.
+  ///
+  /// [PT] O ícone `textH` no estilo Bold.
+  ///
+  /// ![text-h](https://api.iconify.design/ph/text-h-bold.svg?height=32&color=%23888888)
   static const IconData textH = IconData(
     0xe6ba,
     fontFamily: 'PhosphorBold',
@@ -10967,7 +16443,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-h-five](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-five.svg)
+  /// The `textHFive` icon in Bold style.
+  ///
+  /// [PT] O ícone `textHFive` no estilo Bold.
+  ///
+  /// ![text-h-five](https://api.iconify.design/ph/text-h-five-bold.svg?height=32&color=%23888888)
   static const IconData textHFive = IconData(
     0xe6c4,
     fontFamily: 'PhosphorBold',
@@ -10975,7 +16455,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-h-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-four.svg)
+  /// The `textHFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `textHFour` no estilo Bold.
+  ///
+  /// ![text-h-four](https://api.iconify.design/ph/text-h-four-bold.svg?height=32&color=%23888888)
   static const IconData textHFour = IconData(
     0xe6c2,
     fontFamily: 'PhosphorBold',
@@ -10983,7 +16467,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-h-one](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-one.svg)
+  /// The `textHOne` icon in Bold style.
+  ///
+  /// [PT] O ícone `textHOne` no estilo Bold.
+  ///
+  /// ![text-h-one](https://api.iconify.design/ph/text-h-one-bold.svg?height=32&color=%23888888)
   static const IconData textHOne = IconData(
     0xe6bc,
     fontFamily: 'PhosphorBold',
@@ -10991,7 +16479,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-h-six](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-six.svg)
+  /// The `textHSix` icon in Bold style.
+  ///
+  /// [PT] O ícone `textHSix` no estilo Bold.
+  ///
+  /// ![text-h-six](https://api.iconify.design/ph/text-h-six-bold.svg?height=32&color=%23888888)
   static const IconData textHSix = IconData(
     0xe6c6,
     fontFamily: 'PhosphorBold',
@@ -10999,7 +16491,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-h-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-three.svg)
+  /// The `textHThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `textHThree` no estilo Bold.
+  ///
+  /// ![text-h-three](https://api.iconify.design/ph/text-h-three-bold.svg?height=32&color=%23888888)
   static const IconData textHThree = IconData(
     0xe6c0,
     fontFamily: 'PhosphorBold',
@@ -11007,7 +16503,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-h-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-h-two.svg)
+  /// The `textHTwo` icon in Bold style.
+  ///
+  /// [PT] O ícone `textHTwo` no estilo Bold.
+  ///
+  /// ![text-h-two](https://api.iconify.design/ph/text-h-two-bold.svg?height=32&color=%23888888)
   static const IconData textHTwo = IconData(
     0xe6be,
     fontFamily: 'PhosphorBold',
@@ -11015,7 +16515,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-indent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-indent.svg)
+  /// The `textIndent` icon in Bold style.
+  ///
+  /// [PT] O ícone `textIndent` no estilo Bold.
+  ///
+  /// ![text-indent](https://api.iconify.design/ph/text-indent-bold.svg?height=32&color=%23888888)
   static const IconData textIndent = IconData(
     0xea1e,
     fontFamily: 'PhosphorBold',
@@ -11023,7 +16527,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-italic](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-italic.svg)
+  /// The `textItalic` icon in Bold style.
+  ///
+  /// [PT] O ícone `textItalic` no estilo Bold.
+  ///
+  /// ![text-italic](https://api.iconify.design/ph/text-italic-bold.svg?height=32&color=%23888888)
   static const IconData textItalic = IconData(
     0xe5c0,
     fontFamily: 'PhosphorBold',
@@ -11031,7 +16539,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-outdent](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-outdent.svg)
+  /// The `textOutdent` icon in Bold style.
+  ///
+  /// [PT] O ícone `textOutdent` no estilo Bold.
+  ///
+  /// ![text-outdent](https://api.iconify.design/ph/text-outdent-bold.svg?height=32&color=%23888888)
   static const IconData textOutdent = IconData(
     0xea1c,
     fontFamily: 'PhosphorBold',
@@ -11039,7 +16551,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-strikethrough](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-strikethrough.svg)
+  /// The `textStrikethrough` icon in Bold style.
+  ///
+  /// [PT] O ícone `textStrikethrough` no estilo Bold.
+  ///
+  /// ![text-strikethrough](https://api.iconify.design/ph/text-strikethrough-bold.svg?height=32&color=%23888888)
   static const IconData textStrikethrough = IconData(
     0xe5c2,
     fontFamily: 'PhosphorBold',
@@ -11047,7 +16563,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-subscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-subscript.svg)
+  /// The `textSubscript` icon in Bold style.
+  ///
+  /// [PT] O ícone `textSubscript` no estilo Bold.
+  ///
+  /// ![text-subscript](https://api.iconify.design/ph/text-subscript-bold.svg?height=32&color=%23888888)
   static const IconData textSubscript = IconData(
     0xec98,
     fontFamily: 'PhosphorBold',
@@ -11055,7 +16575,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-superscript](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-superscript.svg)
+  /// The `textSuperscript` icon in Bold style.
+  ///
+  /// [PT] O ícone `textSuperscript` no estilo Bold.
+  ///
+  /// ![text-superscript](https://api.iconify.design/ph/text-superscript-bold.svg?height=32&color=%23888888)
   static const IconData textSuperscript = IconData(
     0xec9a,
     fontFamily: 'PhosphorBold',
@@ -11063,7 +16587,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-t](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t.svg)
+  /// The `textT` icon in Bold style.
+  ///
+  /// [PT] O ícone `textT` no estilo Bold.
+  ///
+  /// ![text-t](https://api.iconify.design/ph/text-t-bold.svg?height=32&color=%23888888)
   static const IconData textT = IconData(
     0xe48a,
     fontFamily: 'PhosphorBold',
@@ -11071,7 +16599,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-t-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-t-slash.svg)
+  /// The `textTSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `textTSlash` no estilo Bold.
+  ///
+  /// ![text-t-slash](https://api.iconify.design/ph/text-t-slash-bold.svg?height=32&color=%23888888)
   static const IconData textTSlash = IconData(
     0xe488,
     fontFamily: 'PhosphorBold',
@@ -11079,7 +16611,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![text-underline](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/text-underline.svg)
+  /// The `textUnderline` icon in Bold style.
+  ///
+  /// [PT] O ícone `textUnderline` no estilo Bold.
+  ///
+  /// ![text-underline](https://api.iconify.design/ph/text-underline-bold.svg?height=32&color=%23888888)
   static const IconData textUnderline = IconData(
     0xe5c4,
     fontFamily: 'PhosphorBold',
@@ -11087,7 +16623,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![textbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/textbox.svg)
+  /// The `textbox` icon in Bold style.
+  ///
+  /// [PT] O ícone `textbox` no estilo Bold.
+  ///
+  /// ![textbox](https://api.iconify.design/ph/textbox-bold.svg?height=32&color=%23888888)
   static const IconData textbox = IconData(
     0xeb0a,
     fontFamily: 'PhosphorBold',
@@ -11095,7 +16635,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![thermometer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer.svg)
+  /// The `thermometer` icon in Bold style.
+  ///
+  /// [PT] O ícone `thermometer` no estilo Bold.
+  ///
+  /// ![thermometer](https://api.iconify.design/ph/thermometer-bold.svg?height=32&color=%23888888)
   static const IconData thermometer = IconData(
     0xe5c6,
     fontFamily: 'PhosphorBold',
@@ -11103,7 +16647,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![thermometer-cold](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-cold.svg)
+  /// The `thermometerCold` icon in Bold style.
+  ///
+  /// [PT] O ícone `thermometerCold` no estilo Bold.
+  ///
+  /// ![thermometer-cold](https://api.iconify.design/ph/thermometer-cold-bold.svg?height=32&color=%23888888)
   static const IconData thermometerCold = IconData(
     0xe5c8,
     fontFamily: 'PhosphorBold',
@@ -11111,7 +16659,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![thermometer-hot](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-hot.svg)
+  /// The `thermometerHot` icon in Bold style.
+  ///
+  /// [PT] O ícone `thermometerHot` no estilo Bold.
+  ///
+  /// ![thermometer-hot](https://api.iconify.design/ph/thermometer-hot-bold.svg?height=32&color=%23888888)
   static const IconData thermometerHot = IconData(
     0xe5ca,
     fontFamily: 'PhosphorBold',
@@ -11119,7 +16671,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![thermometer-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thermometer-simple.svg)
+  /// The `thermometerSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `thermometerSimple` no estilo Bold.
+  ///
+  /// ![thermometer-simple](https://api.iconify.design/ph/thermometer-simple-bold.svg?height=32&color=%23888888)
   static const IconData thermometerSimple = IconData(
     0xe5cc,
     fontFamily: 'PhosphorBold',
@@ -11127,7 +16683,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![threads-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/threads-logo.svg)
+  /// The `threadsLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `threadsLogo` no estilo Bold.
+  ///
+  /// ![threads-logo](https://api.iconify.design/ph/threads-logo-bold.svg?height=32&color=%23888888)
   static const IconData threadsLogo = IconData(
     0xed9e,
     fontFamily: 'PhosphorBold',
@@ -11135,7 +16695,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![three-d](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/three-d.svg)
+  /// The `threeD` icon in Bold style.
+  ///
+  /// [PT] O ícone `threeD` no estilo Bold.
+  ///
+  /// ![three-d](https://api.iconify.design/ph/three-d-bold.svg?height=32&color=%23888888)
   static const IconData threeD = IconData(
     0xea5a,
     fontFamily: 'PhosphorBold',
@@ -11143,7 +16707,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![thumbs-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-down.svg)
+  /// The `thumbsDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `thumbsDown` no estilo Bold.
+  ///
+  /// ![thumbs-down](https://api.iconify.design/ph/thumbs-down-bold.svg?height=32&color=%23888888)
   static const IconData thumbsDown = IconData(
     0xe48c,
     fontFamily: 'PhosphorBold',
@@ -11151,7 +16719,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![thumbs-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/thumbs-up.svg)
+  /// The `thumbsUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `thumbsUp` no estilo Bold.
+  ///
+  /// ![thumbs-up](https://api.iconify.design/ph/thumbs-up-bold.svg?height=32&color=%23888888)
   static const IconData thumbsUp = IconData(
     0xe48e,
     fontFamily: 'PhosphorBold',
@@ -11159,7 +16731,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![ticket](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/ticket.svg)
+  /// The `ticket` icon in Bold style.
+  ///
+  /// [PT] O ícone `ticket` no estilo Bold.
+  ///
+  /// ![ticket](https://api.iconify.design/ph/ticket-bold.svg?height=32&color=%23888888)
   static const IconData ticket = IconData(
     0xe490,
     fontFamily: 'PhosphorBold',
@@ -11167,7 +16743,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tidal-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tidal-logo.svg)
+  /// The `tidalLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `tidalLogo` no estilo Bold.
+  ///
+  /// ![tidal-logo](https://api.iconify.design/ph/tidal-logo-bold.svg?height=32&color=%23888888)
   static const IconData tidalLogo = IconData(
     0xed1c,
     fontFamily: 'PhosphorBold',
@@ -11175,7 +16755,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tiktok-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tiktok-logo.svg)
+  /// The `tiktokLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `tiktokLogo` no estilo Bold.
+  ///
+  /// ![tiktok-logo](https://api.iconify.design/ph/tiktok-logo-bold.svg?height=32&color=%23888888)
   static const IconData tiktokLogo = IconData(
     0xeaf2,
     fontFamily: 'PhosphorBold',
@@ -11183,7 +16767,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tilde](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tilde.svg)
+  /// The `tilde` icon in Bold style.
+  ///
+  /// [PT] O ícone `tilde` no estilo Bold.
+  ///
+  /// ![tilde](https://api.iconify.design/ph/tilde-bold.svg?height=32&color=%23888888)
   static const IconData tilde = IconData(
     0xeda8,
     fontFamily: 'PhosphorBold',
@@ -11191,7 +16779,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![timer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/timer.svg)
+  /// The `timer` icon in Bold style.
+  ///
+  /// [PT] O ícone `timer` no estilo Bold.
+  ///
+  /// ![timer](https://api.iconify.design/ph/timer-bold.svg?height=32&color=%23888888)
   static const IconData timer = IconData(
     0xe492,
     fontFamily: 'PhosphorBold',
@@ -11199,7 +16791,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tip-jar](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tip-jar.svg)
+  /// The `tipJar` icon in Bold style.
+  ///
+  /// [PT] O ícone `tipJar` no estilo Bold.
+  ///
+  /// ![tip-jar](https://api.iconify.design/ph/tip-jar-bold.svg?height=32&color=%23888888)
   static const IconData tipJar = IconData(
     0xe7e2,
     fontFamily: 'PhosphorBold',
@@ -11207,7 +16803,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tipi](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tipi.svg)
+  /// The `tipi` icon in Bold style.
+  ///
+  /// [PT] O ícone `tipi` no estilo Bold.
+  ///
+  /// ![tipi](https://api.iconify.design/ph/tipi-bold.svg?height=32&color=%23888888)
   static const IconData tipi = IconData(
     0xed30,
     fontFamily: 'PhosphorBold',
@@ -11215,7 +16815,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tire](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tire.svg)
+  /// The `tire` icon in Bold style.
+  ///
+  /// [PT] O ícone `tire` no estilo Bold.
+  ///
+  /// ![tire](https://api.iconify.design/ph/tire-bold.svg?height=32&color=%23888888)
   static const IconData tire = IconData(
     0xedd2,
     fontFamily: 'PhosphorBold',
@@ -11223,7 +16827,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![toggle-left](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-left.svg)
+  /// The `toggleLeft` icon in Bold style.
+  ///
+  /// [PT] O ícone `toggleLeft` no estilo Bold.
+  ///
+  /// ![toggle-left](https://api.iconify.design/ph/toggle-left-bold.svg?height=32&color=%23888888)
   static const IconData toggleLeft = IconData(
     0xe674,
     fontFamily: 'PhosphorBold',
@@ -11231,7 +16839,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![toggle-right](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toggle-right.svg)
+  /// The `toggleRight` icon in Bold style.
+  ///
+  /// [PT] O ícone `toggleRight` no estilo Bold.
+  ///
+  /// ![toggle-right](https://api.iconify.design/ph/toggle-right-bold.svg?height=32&color=%23888888)
   static const IconData toggleRight = IconData(
     0xe676,
     fontFamily: 'PhosphorBold',
@@ -11239,7 +16851,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![toilet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet.svg)
+  /// The `toilet` icon in Bold style.
+  ///
+  /// [PT] O ícone `toilet` no estilo Bold.
+  ///
+  /// ![toilet](https://api.iconify.design/ph/toilet-bold.svg?height=32&color=%23888888)
   static const IconData toilet = IconData(
     0xe79a,
     fontFamily: 'PhosphorBold',
@@ -11247,7 +16863,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![toilet-paper](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toilet-paper.svg)
+  /// The `toiletPaper` icon in Bold style.
+  ///
+  /// [PT] O ícone `toiletPaper` no estilo Bold.
+  ///
+  /// ![toilet-paper](https://api.iconify.design/ph/toilet-paper-bold.svg?height=32&color=%23888888)
   static const IconData toiletPaper = IconData(
     0xe79c,
     fontFamily: 'PhosphorBold',
@@ -11255,7 +16875,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![toolbox](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/toolbox.svg)
+  /// The `toolbox` icon in Bold style.
+  ///
+  /// [PT] O ícone `toolbox` no estilo Bold.
+  ///
+  /// ![toolbox](https://api.iconify.design/ph/toolbox-bold.svg?height=32&color=%23888888)
   static const IconData toolbox = IconData(
     0xeca0,
     fontFamily: 'PhosphorBold',
@@ -11263,7 +16887,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tooth.svg)
+  /// The `tooth` icon in Bold style.
+  ///
+  /// [PT] O ícone `tooth` no estilo Bold.
+  ///
+  /// ![tooth](https://api.iconify.design/ph/tooth-bold.svg?height=32&color=%23888888)
   static const IconData tooth = IconData(
     0xe9cc,
     fontFamily: 'PhosphorBold',
@@ -11271,7 +16899,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tornado](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tornado.svg)
+  /// The `tornado` icon in Bold style.
+  ///
+  /// [PT] O ícone `tornado` no estilo Bold.
+  ///
+  /// ![tornado](https://api.iconify.design/ph/tornado-bold.svg?height=32&color=%23888888)
   static const IconData tornado = IconData(
     0xe88c,
     fontFamily: 'PhosphorBold',
@@ -11279,7 +16911,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tote](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote.svg)
+  /// The `tote` icon in Bold style.
+  ///
+  /// [PT] O ícone `tote` no estilo Bold.
+  ///
+  /// ![tote](https://api.iconify.design/ph/tote-bold.svg?height=32&color=%23888888)
   static const IconData tote = IconData(
     0xe494,
     fontFamily: 'PhosphorBold',
@@ -11287,7 +16923,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tote-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tote-simple.svg)
+  /// The `toteSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `toteSimple` no estilo Bold.
+  ///
+  /// ![tote-simple](https://api.iconify.design/ph/tote-simple-bold.svg?height=32&color=%23888888)
   static const IconData toteSimple = IconData(
     0xe678,
     fontFamily: 'PhosphorBold',
@@ -11295,7 +16935,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![towel](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/towel.svg)
+  /// The `towel` icon in Bold style.
+  ///
+  /// [PT] O ícone `towel` no estilo Bold.
+  ///
+  /// ![towel](https://api.iconify.design/ph/towel-bold.svg?height=32&color=%23888888)
   static const IconData towel = IconData(
     0xede6,
     fontFamily: 'PhosphorBold',
@@ -11303,7 +16947,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tractor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tractor.svg)
+  /// The `tractor` icon in Bold style.
+  ///
+  /// [PT] O ícone `tractor` no estilo Bold.
+  ///
+  /// ![tractor](https://api.iconify.design/ph/tractor-bold.svg?height=32&color=%23888888)
   static const IconData tractor = IconData(
     0xec6e,
     fontFamily: 'PhosphorBold',
@@ -11311,7 +16959,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trademark](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark.svg)
+  /// The `trademark` icon in Bold style.
+  ///
+  /// [PT] O ícone `trademark` no estilo Bold.
+  ///
+  /// ![trademark](https://api.iconify.design/ph/trademark-bold.svg?height=32&color=%23888888)
   static const IconData trademark = IconData(
     0xe9f0,
     fontFamily: 'PhosphorBold',
@@ -11319,7 +16971,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trademark-registered](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trademark-registered.svg)
+  /// The `trademarkRegistered` icon in Bold style.
+  ///
+  /// [PT] O ícone `trademarkRegistered` no estilo Bold.
+  ///
+  /// ![trademark-registered](https://api.iconify.design/ph/trademark-registered-bold.svg?height=32&color=%23888888)
   static const IconData trademarkRegistered = IconData(
     0xe3f4,
     fontFamily: 'PhosphorBold',
@@ -11327,7 +16983,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![traffic-cone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-cone.svg)
+  /// The `trafficCone` icon in Bold style.
+  ///
+  /// [PT] O ícone `trafficCone` no estilo Bold.
+  ///
+  /// ![traffic-cone](https://api.iconify.design/ph/traffic-cone-bold.svg?height=32&color=%23888888)
   static const IconData trafficCone = IconData(
     0xe9a8,
     fontFamily: 'PhosphorBold',
@@ -11335,7 +16995,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![traffic-sign](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-sign.svg)
+  /// The `trafficSign` icon in Bold style.
+  ///
+  /// [PT] O ícone `trafficSign` no estilo Bold.
+  ///
+  /// ![traffic-sign](https://api.iconify.design/ph/traffic-sign-bold.svg?height=32&color=%23888888)
   static const IconData trafficSign = IconData(
     0xe67a,
     fontFamily: 'PhosphorBold',
@@ -11343,7 +17007,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![traffic-signal](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/traffic-signal.svg)
+  /// The `trafficSignal` icon in Bold style.
+  ///
+  /// [PT] O ícone `trafficSignal` no estilo Bold.
+  ///
+  /// ![traffic-signal](https://api.iconify.design/ph/traffic-signal-bold.svg?height=32&color=%23888888)
   static const IconData trafficSignal = IconData(
     0xe9aa,
     fontFamily: 'PhosphorBold',
@@ -11351,7 +17019,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![train](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train.svg)
+  /// The `train` icon in Bold style.
+  ///
+  /// [PT] O ícone `train` no estilo Bold.
+  ///
+  /// ![train](https://api.iconify.design/ph/train-bold.svg?height=32&color=%23888888)
   static const IconData train = IconData(
     0xe496,
     fontFamily: 'PhosphorBold',
@@ -11359,7 +17031,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![train-regional](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-regional.svg)
+  /// The `trainRegional` icon in Bold style.
+  ///
+  /// [PT] O ícone `trainRegional` no estilo Bold.
+  ///
+  /// ![train-regional](https://api.iconify.design/ph/train-regional-bold.svg?height=32&color=%23888888)
   static const IconData trainRegional = IconData(
     0xe49e,
     fontFamily: 'PhosphorBold',
@@ -11367,7 +17043,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![train-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/train-simple.svg)
+  /// The `trainSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `trainSimple` no estilo Bold.
+  ///
+  /// ![train-simple](https://api.iconify.design/ph/train-simple-bold.svg?height=32&color=%23888888)
   static const IconData trainSimple = IconData(
     0xe4a0,
     fontFamily: 'PhosphorBold',
@@ -11375,7 +17055,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tram](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tram.svg)
+  /// The `tram` icon in Bold style.
+  ///
+  /// [PT] O ícone `tram` no estilo Bold.
+  ///
+  /// ![tram](https://api.iconify.design/ph/tram-bold.svg?height=32&color=%23888888)
   static const IconData tram = IconData(
     0xe9ec,
     fontFamily: 'PhosphorBold',
@@ -11383,7 +17067,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![translate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/translate.svg)
+  /// The `translate` icon in Bold style.
+  ///
+  /// [PT] O ícone `translate` no estilo Bold.
+  ///
+  /// ![translate](https://api.iconify.design/ph/translate-bold.svg?height=32&color=%23888888)
   static const IconData translate = IconData(
     0xe4a2,
     fontFamily: 'PhosphorBold',
@@ -11391,7 +17079,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash.svg)
+  /// The `trash` icon in Bold style.
+  ///
+  /// [PT] O ícone `trash` no estilo Bold.
+  ///
+  /// ![trash](https://api.iconify.design/ph/trash-bold.svg?height=32&color=%23888888)
   static const IconData trash = IconData(
     0xe4a6,
     fontFamily: 'PhosphorBold',
@@ -11399,7 +17091,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trash-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trash-simple.svg)
+  /// The `trashSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `trashSimple` no estilo Bold.
+  ///
+  /// ![trash-simple](https://api.iconify.design/ph/trash-simple-bold.svg?height=32&color=%23888888)
   static const IconData trashSimple = IconData(
     0xe4a8,
     fontFamily: 'PhosphorBold',
@@ -11407,7 +17103,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tray](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray.svg)
+  /// The `tray` icon in Bold style.
+  ///
+  /// [PT] O ícone `tray` no estilo Bold.
+  ///
+  /// ![tray](https://api.iconify.design/ph/tray-bold.svg?height=32&color=%23888888)
   static const IconData tray = IconData(
     0xe4aa,
     fontFamily: 'PhosphorBold',
@@ -11415,7 +17115,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tray-arrow-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-down.svg)
+  /// The `trayArrowDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `trayArrowDown` no estilo Bold.
+  ///
+  /// ![tray-arrow-down](https://api.iconify.design/ph/tray-arrow-down-bold.svg?height=32&color=%23888888)
   static const IconData trayArrowDown = IconData(
     0xe010,
     fontFamily: 'PhosphorBold',
@@ -11423,7 +17127,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tray-arrow-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tray-arrow-up.svg)
+  /// The `trayArrowUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `trayArrowUp` no estilo Bold.
+  ///
+  /// ![tray-arrow-up](https://api.iconify.design/ph/tray-arrow-up-bold.svg?height=32&color=%23888888)
   static const IconData trayArrowUp = IconData(
     0xee52,
     fontFamily: 'PhosphorBold',
@@ -11431,7 +17139,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![treasure-chest](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/treasure-chest.svg)
+  /// The `treasureChest` icon in Bold style.
+  ///
+  /// [PT] O ícone `treasureChest` no estilo Bold.
+  ///
+  /// ![treasure-chest](https://api.iconify.design/ph/treasure-chest-bold.svg?height=32&color=%23888888)
   static const IconData treasureChest = IconData(
     0xede2,
     fontFamily: 'PhosphorBold',
@@ -11439,7 +17151,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tree](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree.svg)
+  /// The `tree` icon in Bold style.
+  ///
+  /// [PT] O ícone `tree` no estilo Bold.
+  ///
+  /// ![tree](https://api.iconify.design/ph/tree-bold.svg?height=32&color=%23888888)
   static const IconData tree = IconData(
     0xe6da,
     fontFamily: 'PhosphorBold',
@@ -11447,7 +17163,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tree-evergreen](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-evergreen.svg)
+  /// The `treeEvergreen` icon in Bold style.
+  ///
+  /// [PT] O ícone `treeEvergreen` no estilo Bold.
+  ///
+  /// ![tree-evergreen](https://api.iconify.design/ph/tree-evergreen-bold.svg?height=32&color=%23888888)
   static const IconData treeEvergreen = IconData(
     0xe6dc,
     fontFamily: 'PhosphorBold',
@@ -11455,7 +17175,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tree-palm](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-palm.svg)
+  /// The `treePalm` icon in Bold style.
+  ///
+  /// [PT] O ícone `treePalm` no estilo Bold.
+  ///
+  /// ![tree-palm](https://api.iconify.design/ph/tree-palm-bold.svg?height=32&color=%23888888)
   static const IconData treePalm = IconData(
     0xe91a,
     fontFamily: 'PhosphorBold',
@@ -11463,7 +17187,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tree-structure](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-structure.svg)
+  /// The `treeStructure` icon in Bold style.
+  ///
+  /// [PT] O ícone `treeStructure` no estilo Bold.
+  ///
+  /// ![tree-structure](https://api.iconify.design/ph/tree-structure-bold.svg?height=32&color=%23888888)
   static const IconData treeStructure = IconData(
     0xe67c,
     fontFamily: 'PhosphorBold',
@@ -11471,7 +17199,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tree-view](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tree-view.svg)
+  /// The `treeView` icon in Bold style.
+  ///
+  /// [PT] O ícone `treeView` no estilo Bold.
+  ///
+  /// ![tree-view](https://api.iconify.design/ph/tree-view-bold.svg?height=32&color=%23888888)
   static const IconData treeView = IconData(
     0xee48,
     fontFamily: 'PhosphorBold',
@@ -11479,7 +17211,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trend-down](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-down.svg)
+  /// The `trendDown` icon in Bold style.
+  ///
+  /// [PT] O ícone `trendDown` no estilo Bold.
+  ///
+  /// ![trend-down](https://api.iconify.design/ph/trend-down-bold.svg?height=32&color=%23888888)
   static const IconData trendDown = IconData(
     0xe4ac,
     fontFamily: 'PhosphorBold',
@@ -11487,7 +17223,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trend-up](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trend-up.svg)
+  /// The `trendUp` icon in Bold style.
+  ///
+  /// [PT] O ícone `trendUp` no estilo Bold.
+  ///
+  /// ![trend-up](https://api.iconify.design/ph/trend-up-bold.svg?height=32&color=%23888888)
   static const IconData trendUp = IconData(
     0xe4ae,
     fontFamily: 'PhosphorBold',
@@ -11495,7 +17235,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle.svg)
+  /// The `triangle` icon in Bold style.
+  ///
+  /// [PT] O ícone `triangle` no estilo Bold.
+  ///
+  /// ![triangle](https://api.iconify.design/ph/triangle-bold.svg?height=32&color=%23888888)
   static const IconData triangle = IconData(
     0xe4b0,
     fontFamily: 'PhosphorBold',
@@ -11503,7 +17247,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![triangle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/triangle-dashed.svg)
+  /// The `triangleDashed` icon in Bold style.
+  ///
+  /// [PT] O ícone `triangleDashed` no estilo Bold.
+  ///
+  /// ![triangle-dashed](https://api.iconify.design/ph/triangle-dashed-bold.svg?height=32&color=%23888888)
   static const IconData triangleDashed = IconData(
     0xe4b2,
     fontFamily: 'PhosphorBold',
@@ -11511,7 +17259,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trolley](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley.svg)
+  /// The `trolley` icon in Bold style.
+  ///
+  /// [PT] O ícone `trolley` no estilo Bold.
+  ///
+  /// ![trolley](https://api.iconify.design/ph/trolley-bold.svg?height=32&color=%23888888)
   static const IconData trolley = IconData(
     0xe5b2,
     fontFamily: 'PhosphorBold',
@@ -11519,7 +17271,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trolley-suitcase](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trolley-suitcase.svg)
+  /// The `trolleySuitcase` icon in Bold style.
+  ///
+  /// [PT] O ícone `trolleySuitcase` no estilo Bold.
+  ///
+  /// ![trolley-suitcase](https://api.iconify.design/ph/trolley-suitcase-bold.svg?height=32&color=%23888888)
   static const IconData trolleySuitcase = IconData(
     0xe5b4,
     fontFamily: 'PhosphorBold',
@@ -11527,7 +17283,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![trophy](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/trophy.svg)
+  /// The `trophy` icon in Bold style.
+  ///
+  /// [PT] O ícone `trophy` no estilo Bold.
+  ///
+  /// ![trophy](https://api.iconify.design/ph/trophy-bold.svg?height=32&color=%23888888)
   static const IconData trophy = IconData(
     0xe67e,
     fontFamily: 'PhosphorBold',
@@ -11535,7 +17295,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![truck](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck.svg)
+  /// The `truck` icon in Bold style.
+  ///
+  /// [PT] O ícone `truck` no estilo Bold.
+  ///
+  /// ![truck](https://api.iconify.design/ph/truck-bold.svg?height=32&color=%23888888)
   static const IconData truck = IconData(
     0xe4b4,
     fontFamily: 'PhosphorBold',
@@ -11543,7 +17307,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![truck-trailer](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/truck-trailer.svg)
+  /// The `truckTrailer` icon in Bold style.
+  ///
+  /// [PT] O ícone `truckTrailer` no estilo Bold.
+  ///
+  /// ![truck-trailer](https://api.iconify.design/ph/truck-trailer-bold.svg?height=32&color=%23888888)
   static const IconData truckTrailer = IconData(
     0xe4b6,
     fontFamily: 'PhosphorBold',
@@ -11551,7 +17319,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![tumblr-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/tumblr-logo.svg)
+  /// The `tumblrLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `tumblrLogo` no estilo Bold.
+  ///
+  /// ![tumblr-logo](https://api.iconify.design/ph/tumblr-logo-bold.svg?height=32&color=%23888888)
   static const IconData tumblrLogo = IconData(
     0xe8d4,
     fontFamily: 'PhosphorBold',
@@ -11559,7 +17331,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![twitch-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitch-logo.svg)
+  /// The `twitchLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `twitchLogo` no estilo Bold.
+  ///
+  /// ![twitch-logo](https://api.iconify.design/ph/twitch-logo-bold.svg?height=32&color=%23888888)
   static const IconData twitchLogo = IconData(
     0xe5ce,
     fontFamily: 'PhosphorBold',
@@ -11567,7 +17343,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![twitter-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/twitter-logo.svg)
+  /// The `twitterLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `twitterLogo` no estilo Bold.
+  ///
+  /// ![twitter-logo](https://api.iconify.design/ph/twitter-logo-bold.svg?height=32&color=%23888888)
   static const IconData twitterLogo = IconData(
     0xe4ba,
     fontFamily: 'PhosphorBold',
@@ -11575,7 +17355,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![umbrella](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella.svg)
+  /// The `umbrella` icon in Bold style.
+  ///
+  /// [PT] O ícone `umbrella` no estilo Bold.
+  ///
+  /// ![umbrella](https://api.iconify.design/ph/umbrella-bold.svg?height=32&color=%23888888)
   static const IconData umbrella = IconData(
     0xe684,
     fontFamily: 'PhosphorBold',
@@ -11583,7 +17367,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![umbrella-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/umbrella-simple.svg)
+  /// The `umbrellaSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `umbrellaSimple` no estilo Bold.
+  ///
+  /// ![umbrella-simple](https://api.iconify.design/ph/umbrella-simple-bold.svg?height=32&color=%23888888)
   static const IconData umbrellaSimple = IconData(
     0xe686,
     fontFamily: 'PhosphorBold',
@@ -11591,7 +17379,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![union](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/union.svg)
+  /// The `union` icon in Bold style.
+  ///
+  /// [PT] O ícone `union` no estilo Bold.
+  ///
+  /// ![union](https://api.iconify.design/ph/union-bold.svg?height=32&color=%23888888)
   static const IconData union = IconData(
     0xedbe,
     fontFamily: 'PhosphorBold',
@@ -11599,7 +17391,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![unite](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite.svg)
+  /// The `unite` icon in Bold style.
+  ///
+  /// [PT] O ícone `unite` no estilo Bold.
+  ///
+  /// ![unite](https://api.iconify.design/ph/unite-bold.svg?height=32&color=%23888888)
   static const IconData unite = IconData(
     0xe87e,
     fontFamily: 'PhosphorBold',
@@ -11607,7 +17403,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![unite-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/unite-square.svg)
+  /// The `uniteSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `uniteSquare` no estilo Bold.
+  ///
+  /// ![unite-square](https://api.iconify.design/ph/unite-square-bold.svg?height=32&color=%23888888)
   static const IconData uniteSquare = IconData(
     0xe878,
     fontFamily: 'PhosphorBold',
@@ -11615,7 +17415,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![upload](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload.svg)
+  /// The `upload` icon in Bold style.
+  ///
+  /// [PT] O ícone `upload` no estilo Bold.
+  ///
+  /// ![upload](https://api.iconify.design/ph/upload-bold.svg?height=32&color=%23888888)
   static const IconData upload = IconData(
     0xe4be,
     fontFamily: 'PhosphorBold',
@@ -11623,7 +17427,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![upload-simple](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/upload-simple.svg)
+  /// The `uploadSimple` icon in Bold style.
+  ///
+  /// [PT] O ícone `uploadSimple` no estilo Bold.
+  ///
+  /// ![upload-simple](https://api.iconify.design/ph/upload-simple-bold.svg?height=32&color=%23888888)
   static const IconData uploadSimple = IconData(
     0xe4c0,
     fontFamily: 'PhosphorBold',
@@ -11631,7 +17439,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![usb](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/usb.svg)
+  /// The `usb` icon in Bold style.
+  ///
+  /// [PT] O ícone `usb` no estilo Bold.
+  ///
+  /// ![usb](https://api.iconify.design/ph/usb-bold.svg?height=32&color=%23888888)
   static const IconData usb = IconData(
     0xe956,
     fontFamily: 'PhosphorBold',
@@ -11639,7 +17451,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user.svg)
+  /// The `user` icon in Bold style.
+  ///
+  /// [PT] O ícone `user` no estilo Bold.
+  ///
+  /// ![user](https://api.iconify.design/ph/user-bold.svg?height=32&color=%23888888)
   static const IconData user = IconData(
     0xe4c2,
     fontFamily: 'PhosphorBold',
@@ -11647,7 +17463,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-check.svg)
+  /// The `userCheck` icon in Bold style.
+  ///
+  /// [PT] O ícone `userCheck` no estilo Bold.
+  ///
+  /// ![user-check](https://api.iconify.design/ph/user-check-bold.svg?height=32&color=%23888888)
   static const IconData userCheck = IconData(
     0xeafa,
     fontFamily: 'PhosphorBold',
@@ -11655,7 +17475,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle.svg)
+  /// The `userCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `userCircle` no estilo Bold.
+  ///
+  /// ![user-circle](https://api.iconify.design/ph/user-circle-bold.svg?height=32&color=%23888888)
   static const IconData userCircle = IconData(
     0xe4c4,
     fontFamily: 'PhosphorBold',
@@ -11663,7 +17487,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-circle-check](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-check.svg)
+  /// The `userCircleCheck` icon in Bold style.
+  ///
+  /// [PT] O ícone `userCircleCheck` no estilo Bold.
+  ///
+  /// ![user-circle-check](https://api.iconify.design/ph/user-circle-check-bold.svg?height=32&color=%23888888)
   static const IconData userCircleCheck = IconData(
     0xec38,
     fontFamily: 'PhosphorBold',
@@ -11671,7 +17499,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-circle-dashed](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-dashed.svg)
+  /// The `userCircleDashed` icon in Bold style.
+  ///
+  /// [PT] O ícone `userCircleDashed` no estilo Bold.
+  ///
+  /// ![user-circle-dashed](https://api.iconify.design/ph/user-circle-dashed-bold.svg?height=32&color=%23888888)
   static const IconData userCircleDashed = IconData(
     0xec36,
     fontFamily: 'PhosphorBold',
@@ -11679,7 +17511,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-circle-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-gear.svg)
+  /// The `userCircleGear` icon in Bold style.
+  ///
+  /// [PT] O ícone `userCircleGear` no estilo Bold.
+  ///
+  /// ![user-circle-gear](https://api.iconify.design/ph/user-circle-gear-bold.svg?height=32&color=%23888888)
   static const IconData userCircleGear = IconData(
     0xe4c6,
     fontFamily: 'PhosphorBold',
@@ -11687,7 +17523,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-circle-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-minus.svg)
+  /// The `userCircleMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `userCircleMinus` no estilo Bold.
+  ///
+  /// ![user-circle-minus](https://api.iconify.design/ph/user-circle-minus-bold.svg?height=32&color=%23888888)
   static const IconData userCircleMinus = IconData(
     0xe4c8,
     fontFamily: 'PhosphorBold',
@@ -11695,7 +17535,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-circle-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-circle-plus.svg)
+  /// The `userCirclePlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `userCirclePlus` no estilo Bold.
+  ///
+  /// ![user-circle-plus](https://api.iconify.design/ph/user-circle-plus-bold.svg?height=32&color=%23888888)
   static const IconData userCirclePlus = IconData(
     0xe4ca,
     fontFamily: 'PhosphorBold',
@@ -11703,7 +17547,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-focus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-focus.svg)
+  /// The `userFocus` icon in Bold style.
+  ///
+  /// [PT] O ícone `userFocus` no estilo Bold.
+  ///
+  /// ![user-focus](https://api.iconify.design/ph/user-focus-bold.svg?height=32&color=%23888888)
   static const IconData userFocus = IconData(
     0xe6fc,
     fontFamily: 'PhosphorBold',
@@ -11711,7 +17559,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-gear](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-gear.svg)
+  /// The `userGear` icon in Bold style.
+  ///
+  /// [PT] O ícone `userGear` no estilo Bold.
+  ///
+  /// ![user-gear](https://api.iconify.design/ph/user-gear-bold.svg?height=32&color=%23888888)
   static const IconData userGear = IconData(
     0xe4cc,
     fontFamily: 'PhosphorBold',
@@ -11719,7 +17571,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-list](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-list.svg)
+  /// The `userList` icon in Bold style.
+  ///
+  /// [PT] O ícone `userList` no estilo Bold.
+  ///
+  /// ![user-list](https://api.iconify.design/ph/user-list-bold.svg?height=32&color=%23888888)
   static const IconData userList = IconData(
     0xe73c,
     fontFamily: 'PhosphorBold',
@@ -11727,7 +17583,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-minus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-minus.svg)
+  /// The `userMinus` icon in Bold style.
+  ///
+  /// [PT] O ícone `userMinus` no estilo Bold.
+  ///
+  /// ![user-minus](https://api.iconify.design/ph/user-minus-bold.svg?height=32&color=%23888888)
   static const IconData userMinus = IconData(
     0xe4ce,
     fontFamily: 'PhosphorBold',
@@ -11735,7 +17595,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-plus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-plus.svg)
+  /// The `userPlus` icon in Bold style.
+  ///
+  /// [PT] O ícone `userPlus` no estilo Bold.
+  ///
+  /// ![user-plus](https://api.iconify.design/ph/user-plus-bold.svg?height=32&color=%23888888)
   static const IconData userPlus = IconData(
     0xe4d0,
     fontFamily: 'PhosphorBold',
@@ -11743,7 +17607,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-rectangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-rectangle.svg)
+  /// The `userRectangle` icon in Bold style.
+  ///
+  /// [PT] O ícone `userRectangle` no estilo Bold.
+  ///
+  /// ![user-rectangle](https://api.iconify.design/ph/user-rectangle-bold.svg?height=32&color=%23888888)
   static const IconData userRectangle = IconData(
     0xe4d2,
     fontFamily: 'PhosphorBold',
@@ -11751,7 +17619,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-sound](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-sound.svg)
+  /// The `userSound` icon in Bold style.
+  ///
+  /// [PT] O ícone `userSound` no estilo Bold.
+  ///
+  /// ![user-sound](https://api.iconify.design/ph/user-sound-bold.svg?height=32&color=%23888888)
   static const IconData userSound = IconData(
     0xeca8,
     fontFamily: 'PhosphorBold',
@@ -11759,7 +17631,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-square.svg)
+  /// The `userSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `userSquare` no estilo Bold.
+  ///
+  /// ![user-square](https://api.iconify.design/ph/user-square-bold.svg?height=32&color=%23888888)
   static const IconData userSquare = IconData(
     0xe4d4,
     fontFamily: 'PhosphorBold',
@@ -11767,7 +17643,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![user-switch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/user-switch.svg)
+  /// The `userSwitch` icon in Bold style.
+  ///
+  /// [PT] O ícone `userSwitch` no estilo Bold.
+  ///
+  /// ![user-switch](https://api.iconify.design/ph/user-switch-bold.svg?height=32&color=%23888888)
   static const IconData userSwitch = IconData(
     0xe756,
     fontFamily: 'PhosphorBold',
@@ -11775,7 +17655,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![users](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users.svg)
+  /// The `users` icon in Bold style.
+  ///
+  /// [PT] O ícone `users` no estilo Bold.
+  ///
+  /// ![users](https://api.iconify.design/ph/users-bold.svg?height=32&color=%23888888)
   static const IconData users = IconData(
     0xe4d6,
     fontFamily: 'PhosphorBold',
@@ -11783,7 +17667,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![users-four](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-four.svg)
+  /// The `usersFour` icon in Bold style.
+  ///
+  /// [PT] O ícone `usersFour` no estilo Bold.
+  ///
+  /// ![users-four](https://api.iconify.design/ph/users-four-bold.svg?height=32&color=%23888888)
   static const IconData usersFour = IconData(
     0xe68c,
     fontFamily: 'PhosphorBold',
@@ -11791,7 +17679,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![users-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/users-three.svg)
+  /// The `usersThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `usersThree` no estilo Bold.
+  ///
+  /// ![users-three](https://api.iconify.design/ph/users-three-bold.svg?height=32&color=%23888888)
   static const IconData usersThree = IconData(
     0xe68e,
     fontFamily: 'PhosphorBold',
@@ -11799,7 +17691,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![van](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/van.svg)
+  /// The `van` icon in Bold style.
+  ///
+  /// [PT] O ícone `van` no estilo Bold.
+  ///
+  /// ![van](https://api.iconify.design/ph/van-bold.svg?height=32&color=%23888888)
   static const IconData van = IconData(
     0xe826,
     fontFamily: 'PhosphorBold',
@@ -11807,7 +17703,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![vault](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vault.svg)
+  /// The `vault` icon in Bold style.
+  ///
+  /// [PT] O ícone `vault` no estilo Bold.
+  ///
+  /// ![vault](https://api.iconify.design/ph/vault-bold.svg?height=32&color=%23888888)
   static const IconData vault = IconData(
     0xe76e,
     fontFamily: 'PhosphorBold',
@@ -11815,7 +17715,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![vector-three](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-three.svg)
+  /// The `vectorThree` icon in Bold style.
+  ///
+  /// [PT] O ícone `vectorThree` no estilo Bold.
+  ///
+  /// ![vector-three](https://api.iconify.design/ph/vector-three-bold.svg?height=32&color=%23888888)
   static const IconData vectorThree = IconData(
     0xee62,
     fontFamily: 'PhosphorBold',
@@ -11823,7 +17727,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![vector-two](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vector-two.svg)
+  /// The `vectorTwo` icon in Bold style.
+  ///
+  /// [PT] O ícone `vectorTwo` no estilo Bold.
+  ///
+  /// ![vector-two](https://api.iconify.design/ph/vector-two-bold.svg?height=32&color=%23888888)
   static const IconData vectorTwo = IconData(
     0xee64,
     fontFamily: 'PhosphorBold',
@@ -11831,7 +17739,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![vibrate](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vibrate.svg)
+  /// The `vibrate` icon in Bold style.
+  ///
+  /// [PT] O ícone `vibrate` no estilo Bold.
+  ///
+  /// ![vibrate](https://api.iconify.design/ph/vibrate-bold.svg?height=32&color=%23888888)
   static const IconData vibrate = IconData(
     0xe4d8,
     fontFamily: 'PhosphorBold',
@@ -11839,7 +17751,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![video](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video.svg)
+  /// The `video` icon in Bold style.
+  ///
+  /// [PT] O ícone `video` no estilo Bold.
+  ///
+  /// ![video](https://api.iconify.design/ph/video-bold.svg?height=32&color=%23888888)
   static const IconData video = IconData(
     0xe740,
     fontFamily: 'PhosphorBold',
@@ -11847,7 +17763,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![video-camera](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera.svg)
+  /// The `videoCamera` icon in Bold style.
+  ///
+  /// [PT] O ícone `videoCamera` no estilo Bold.
+  ///
+  /// ![video-camera](https://api.iconify.design/ph/video-camera-bold.svg?height=32&color=%23888888)
   static const IconData videoCamera = IconData(
     0xe4da,
     fontFamily: 'PhosphorBold',
@@ -11855,7 +17775,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![video-camera-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-camera-slash.svg)
+  /// The `videoCameraSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `videoCameraSlash` no estilo Bold.
+  ///
+  /// ![video-camera-slash](https://api.iconify.design/ph/video-camera-slash-bold.svg?height=32&color=%23888888)
   static const IconData videoCameraSlash = IconData(
     0xe4dc,
     fontFamily: 'PhosphorBold',
@@ -11863,7 +17787,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![video-conference](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/video-conference.svg)
+  /// The `videoConference` icon in Bold style.
+  ///
+  /// [PT] O ícone `videoConference` no estilo Bold.
+  ///
+  /// ![video-conference](https://api.iconify.design/ph/video-conference-bold.svg?height=32&color=%23888888)
   static const IconData videoConference = IconData(
     0xedce,
     fontFamily: 'PhosphorBold',
@@ -11871,7 +17799,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![vignette](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vignette.svg)
+  /// The `vignette` icon in Bold style.
+  ///
+  /// [PT] O ícone `vignette` no estilo Bold.
+  ///
+  /// ![vignette](https://api.iconify.design/ph/vignette-bold.svg?height=32&color=%23888888)
   static const IconData vignette = IconData(
     0xeba2,
     fontFamily: 'PhosphorBold',
@@ -11879,7 +17811,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![vinyl-record](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/vinyl-record.svg)
+  /// The `vinylRecord` icon in Bold style.
+  ///
+  /// [PT] O ícone `vinylRecord` no estilo Bold.
+  ///
+  /// ![vinyl-record](https://api.iconify.design/ph/vinyl-record-bold.svg?height=32&color=%23888888)
   static const IconData vinylRecord = IconData(
     0xecac,
     fontFamily: 'PhosphorBold',
@@ -11887,7 +17823,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![virtual-reality](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virtual-reality.svg)
+  /// The `virtualReality` icon in Bold style.
+  ///
+  /// [PT] O ícone `virtualReality` no estilo Bold.
+  ///
+  /// ![virtual-reality](https://api.iconify.design/ph/virtual-reality-bold.svg?height=32&color=%23888888)
   static const IconData virtualReality = IconData(
     0xe7b8,
     fontFamily: 'PhosphorBold',
@@ -11895,7 +17835,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![virus](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/virus.svg)
+  /// The `virus` icon in Bold style.
+  ///
+  /// [PT] O ícone `virus` no estilo Bold.
+  ///
+  /// ![virus](https://api.iconify.design/ph/virus-bold.svg?height=32&color=%23888888)
   static const IconData virus = IconData(
     0xe7d6,
     fontFamily: 'PhosphorBold',
@@ -11903,7 +17847,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![visor](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/visor.svg)
+  /// The `visor` icon in Bold style.
+  ///
+  /// [PT] O ícone `visor` no estilo Bold.
+  ///
+  /// ![visor](https://api.iconify.design/ph/visor-bold.svg?height=32&color=%23888888)
   static const IconData visor = IconData(
     0xee2a,
     fontFamily: 'PhosphorBold',
@@ -11911,7 +17859,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![voicemail](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/voicemail.svg)
+  /// The `voicemail` icon in Bold style.
+  ///
+  /// [PT] O ícone `voicemail` no estilo Bold.
+  ///
+  /// ![voicemail](https://api.iconify.design/ph/voicemail-bold.svg?height=32&color=%23888888)
   static const IconData voicemail = IconData(
     0xe4de,
     fontFamily: 'PhosphorBold',
@@ -11919,7 +17871,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![volleyball](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/volleyball.svg)
+  /// The `volleyball` icon in Bold style.
+  ///
+  /// [PT] O ícone `volleyball` no estilo Bold.
+  ///
+  /// ![volleyball](https://api.iconify.design/ph/volleyball-bold.svg?height=32&color=%23888888)
   static const IconData volleyball = IconData(
     0xe726,
     fontFamily: 'PhosphorBold',
@@ -11927,7 +17883,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wall](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wall.svg)
+  /// The `wall` icon in Bold style.
+  ///
+  /// [PT] O ícone `wall` no estilo Bold.
+  ///
+  /// ![wall](https://api.iconify.design/ph/wall-bold.svg?height=32&color=%23888888)
   static const IconData wall = IconData(
     0xe688,
     fontFamily: 'PhosphorBold',
@@ -11935,7 +17895,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wallet](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wallet.svg)
+  /// The `wallet` icon in Bold style.
+  ///
+  /// [PT] O ícone `wallet` no estilo Bold.
+  ///
+  /// ![wallet](https://api.iconify.design/ph/wallet-bold.svg?height=32&color=%23888888)
   static const IconData wallet = IconData(
     0xe68a,
     fontFamily: 'PhosphorBold',
@@ -11943,7 +17907,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![warehouse](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warehouse.svg)
+  /// The `warehouse` icon in Bold style.
+  ///
+  /// [PT] O ícone `warehouse` no estilo Bold.
+  ///
+  /// ![warehouse](https://api.iconify.design/ph/warehouse-bold.svg?height=32&color=%23888888)
   static const IconData warehouse = IconData(
     0xecd4,
     fontFamily: 'PhosphorBold',
@@ -11951,7 +17919,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![warning](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning.svg)
+  /// The `warning` icon in Bold style.
+  ///
+  /// [PT] O ícone `warning` no estilo Bold.
+  ///
+  /// ![warning](https://api.iconify.design/ph/warning-bold.svg?height=32&color=%23888888)
   static const IconData warning = IconData(
     0xe4e0,
     fontFamily: 'PhosphorBold',
@@ -11959,7 +17931,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![warning-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-circle.svg)
+  /// The `warningCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `warningCircle` no estilo Bold.
+  ///
+  /// ![warning-circle](https://api.iconify.design/ph/warning-circle-bold.svg?height=32&color=%23888888)
   static const IconData warningCircle = IconData(
     0xe4e2,
     fontFamily: 'PhosphorBold',
@@ -11967,7 +17943,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![warning-diamond](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-diamond.svg)
+  /// The `warningDiamond` icon in Bold style.
+  ///
+  /// [PT] O ícone `warningDiamond` no estilo Bold.
+  ///
+  /// ![warning-diamond](https://api.iconify.design/ph/warning-diamond-bold.svg?height=32&color=%23888888)
   static const IconData warningDiamond = IconData(
     0xe7fc,
     fontFamily: 'PhosphorBold',
@@ -11975,7 +17955,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![warning-octagon](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/warning-octagon.svg)
+  /// The `warningOctagon` icon in Bold style.
+  ///
+  /// [PT] O ícone `warningOctagon` no estilo Bold.
+  ///
+  /// ![warning-octagon](https://api.iconify.design/ph/warning-octagon-bold.svg?height=32&color=%23888888)
   static const IconData warningOctagon = IconData(
     0xe4e4,
     fontFamily: 'PhosphorBold',
@@ -11983,7 +17967,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![washing-machine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/washing-machine.svg)
+  /// The `washingMachine` icon in Bold style.
+  ///
+  /// [PT] O ícone `washingMachine` no estilo Bold.
+  ///
+  /// ![washing-machine](https://api.iconify.design/ph/washing-machine-bold.svg?height=32&color=%23888888)
   static const IconData washingMachine = IconData(
     0xede8,
     fontFamily: 'PhosphorBold',
@@ -11991,7 +17979,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![watch](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/watch.svg)
+  /// The `watch` icon in Bold style.
+  ///
+  /// [PT] O ícone `watch` no estilo Bold.
+  ///
+  /// ![watch](https://api.iconify.design/ph/watch-bold.svg?height=32&color=%23888888)
   static const IconData watch = IconData(
     0xe4e6,
     fontFamily: 'PhosphorBold',
@@ -11999,7 +17991,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wave-sawtooth](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sawtooth.svg)
+  /// The `waveSawtooth` icon in Bold style.
+  ///
+  /// [PT] O ícone `waveSawtooth` no estilo Bold.
+  ///
+  /// ![wave-sawtooth](https://api.iconify.design/ph/wave-sawtooth-bold.svg?height=32&color=%23888888)
   static const IconData waveSawtooth = IconData(
     0xea9c,
     fontFamily: 'PhosphorBold',
@@ -12007,7 +18003,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wave-sine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-sine.svg)
+  /// The `waveSine` icon in Bold style.
+  ///
+  /// [PT] O ícone `waveSine` no estilo Bold.
+  ///
+  /// ![wave-sine](https://api.iconify.design/ph/wave-sine-bold.svg?height=32&color=%23888888)
   static const IconData waveSine = IconData(
     0xea9a,
     fontFamily: 'PhosphorBold',
@@ -12015,7 +18015,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wave-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-square.svg)
+  /// The `waveSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `waveSquare` no estilo Bold.
+  ///
+  /// ![wave-square](https://api.iconify.design/ph/wave-square-bold.svg?height=32&color=%23888888)
   static const IconData waveSquare = IconData(
     0xea9e,
     fontFamily: 'PhosphorBold',
@@ -12023,7 +18027,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wave-triangle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wave-triangle.svg)
+  /// The `waveTriangle` icon in Bold style.
+  ///
+  /// [PT] O ícone `waveTriangle` no estilo Bold.
+  ///
+  /// ![wave-triangle](https://api.iconify.design/ph/wave-triangle-bold.svg?height=32&color=%23888888)
   static const IconData waveTriangle = IconData(
     0xeaa0,
     fontFamily: 'PhosphorBold',
@@ -12031,7 +18039,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![waveform](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform.svg)
+  /// The `waveform` icon in Bold style.
+  ///
+  /// [PT] O ícone `waveform` no estilo Bold.
+  ///
+  /// ![waveform](https://api.iconify.design/ph/waveform-bold.svg?height=32&color=%23888888)
   static const IconData waveform = IconData(
     0xe802,
     fontFamily: 'PhosphorBold',
@@ -12039,7 +18051,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![waveform-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waveform-slash.svg)
+  /// The `waveformSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `waveformSlash` no estilo Bold.
+  ///
+  /// ![waveform-slash](https://api.iconify.design/ph/waveform-slash-bold.svg?height=32&color=%23888888)
   static const IconData waveformSlash = IconData(
     0xe800,
     fontFamily: 'PhosphorBold',
@@ -12047,7 +18063,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![waves](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/waves.svg)
+  /// The `waves` icon in Bold style.
+  ///
+  /// [PT] O ícone `waves` no estilo Bold.
+  ///
+  /// ![waves](https://api.iconify.design/ph/waves-bold.svg?height=32&color=%23888888)
   static const IconData waves = IconData(
     0xe6de,
     fontFamily: 'PhosphorBold',
@@ -12055,7 +18075,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![webcam](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam.svg)
+  /// The `webcam` icon in Bold style.
+  ///
+  /// [PT] O ícone `webcam` no estilo Bold.
+  ///
+  /// ![webcam](https://api.iconify.design/ph/webcam-bold.svg?height=32&color=%23888888)
   static const IconData webcam = IconData(
     0xe9b2,
     fontFamily: 'PhosphorBold',
@@ -12063,7 +18087,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![webcam-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webcam-slash.svg)
+  /// The `webcamSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `webcamSlash` no estilo Bold.
+  ///
+  /// ![webcam-slash](https://api.iconify.design/ph/webcam-slash-bold.svg?height=32&color=%23888888)
   static const IconData webcamSlash = IconData(
     0xecdc,
     fontFamily: 'PhosphorBold',
@@ -12071,7 +18099,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![webhooks-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/webhooks-logo.svg)
+  /// The `webhooksLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `webhooksLogo` no estilo Bold.
+  ///
+  /// ![webhooks-logo](https://api.iconify.design/ph/webhooks-logo-bold.svg?height=32&color=%23888888)
   static const IconData webhooksLogo = IconData(
     0xecae,
     fontFamily: 'PhosphorBold',
@@ -12079,7 +18111,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wechat-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wechat-logo.svg)
+  /// The `wechatLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `wechatLogo` no estilo Bold.
+  ///
+  /// ![wechat-logo](https://api.iconify.design/ph/wechat-logo-bold.svg?height=32&color=%23888888)
   static const IconData wechatLogo = IconData(
     0xe8d2,
     fontFamily: 'PhosphorBold',
@@ -12087,7 +18123,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![whatsapp-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/whatsapp-logo.svg)
+  /// The `whatsappLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `whatsappLogo` no estilo Bold.
+  ///
+  /// ![whatsapp-logo](https://api.iconify.design/ph/whatsapp-logo-bold.svg?height=32&color=%23888888)
   static const IconData whatsappLogo = IconData(
     0xe5d0,
     fontFamily: 'PhosphorBold',
@@ -12095,7 +18135,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wheelchair](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair.svg)
+  /// The `wheelchair` icon in Bold style.
+  ///
+  /// [PT] O ícone `wheelchair` no estilo Bold.
+  ///
+  /// ![wheelchair](https://api.iconify.design/ph/wheelchair-bold.svg?height=32&color=%23888888)
   static const IconData wheelchair = IconData(
     0xe4e8,
     fontFamily: 'PhosphorBold',
@@ -12103,7 +18147,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wheelchair-motion](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wheelchair-motion.svg)
+  /// The `wheelchairMotion` icon in Bold style.
+  ///
+  /// [PT] O ícone `wheelchairMotion` no estilo Bold.
+  ///
+  /// ![wheelchair-motion](https://api.iconify.design/ph/wheelchair-motion-bold.svg?height=32&color=%23888888)
   static const IconData wheelchairMotion = IconData(
     0xe89a,
     fontFamily: 'PhosphorBold',
@@ -12111,7 +18159,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wifi-high](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-high.svg)
+  /// The `wifiHigh` icon in Bold style.
+  ///
+  /// [PT] O ícone `wifiHigh` no estilo Bold.
+  ///
+  /// ![wifi-high](https://api.iconify.design/ph/wifi-high-bold.svg?height=32&color=%23888888)
   static const IconData wifiHigh = IconData(
     0xe4ea,
     fontFamily: 'PhosphorBold',
@@ -12119,7 +18171,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wifi-low](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-low.svg)
+  /// The `wifiLow` icon in Bold style.
+  ///
+  /// [PT] O ícone `wifiLow` no estilo Bold.
+  ///
+  /// ![wifi-low](https://api.iconify.design/ph/wifi-low-bold.svg?height=32&color=%23888888)
   static const IconData wifiLow = IconData(
     0xe4ec,
     fontFamily: 'PhosphorBold',
@@ -12127,7 +18183,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wifi-medium](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-medium.svg)
+  /// The `wifiMedium` icon in Bold style.
+  ///
+  /// [PT] O ícone `wifiMedium` no estilo Bold.
+  ///
+  /// ![wifi-medium](https://api.iconify.design/ph/wifi-medium-bold.svg?height=32&color=%23888888)
   static const IconData wifiMedium = IconData(
     0xe4ee,
     fontFamily: 'PhosphorBold',
@@ -12135,7 +18195,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wifi-none](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-none.svg)
+  /// The `wifiNone` icon in Bold style.
+  ///
+  /// [PT] O ícone `wifiNone` no estilo Bold.
+  ///
+  /// ![wifi-none](https://api.iconify.design/ph/wifi-none-bold.svg?height=32&color=%23888888)
   static const IconData wifiNone = IconData(
     0xe4f0,
     fontFamily: 'PhosphorBold',
@@ -12143,7 +18207,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wifi-slash](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-slash.svg)
+  /// The `wifiSlash` icon in Bold style.
+  ///
+  /// [PT] O ícone `wifiSlash` no estilo Bold.
+  ///
+  /// ![wifi-slash](https://api.iconify.design/ph/wifi-slash-bold.svg?height=32&color=%23888888)
   static const IconData wifiSlash = IconData(
     0xe4f2,
     fontFamily: 'PhosphorBold',
@@ -12151,7 +18219,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wifi-x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wifi-x.svg)
+  /// The `wifiX` icon in Bold style.
+  ///
+  /// [PT] O ícone `wifiX` no estilo Bold.
+  ///
+  /// ![wifi-x](https://api.iconify.design/ph/wifi-x-bold.svg?height=32&color=%23888888)
   static const IconData wifiX = IconData(
     0xe4f4,
     fontFamily: 'PhosphorBold',
@@ -12159,7 +18231,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wind](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wind.svg)
+  /// The `wind` icon in Bold style.
+  ///
+  /// [PT] O ícone `wind` no estilo Bold.
+  ///
+  /// ![wind](https://api.iconify.design/ph/wind-bold.svg?height=32&color=%23888888)
   static const IconData wind = IconData(
     0xe5d2,
     fontFamily: 'PhosphorBold',
@@ -12167,7 +18243,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![windmill](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windmill.svg)
+  /// The `windmill` icon in Bold style.
+  ///
+  /// [PT] O ícone `windmill` no estilo Bold.
+  ///
+  /// ![windmill](https://api.iconify.design/ph/windmill-bold.svg?height=32&color=%23888888)
   static const IconData windmill = IconData(
     0xe9f8,
     fontFamily: 'PhosphorBold',
@@ -12175,7 +18255,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![windows-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/windows-logo.svg)
+  /// The `windowsLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `windowsLogo` no estilo Bold.
+  ///
+  /// ![windows-logo](https://api.iconify.design/ph/windows-logo-bold.svg?height=32&color=%23888888)
   static const IconData windowsLogo = IconData(
     0xe692,
     fontFamily: 'PhosphorBold',
@@ -12183,7 +18267,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wine](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wine.svg)
+  /// The `wine` icon in Bold style.
+  ///
+  /// [PT] O ícone `wine` no estilo Bold.
+  ///
+  /// ![wine](https://api.iconify.design/ph/wine-bold.svg?height=32&color=%23888888)
   static const IconData wine = IconData(
     0xe6b2,
     fontFamily: 'PhosphorBold',
@@ -12191,7 +18279,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![wrench](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/wrench.svg)
+  /// The `wrench` icon in Bold style.
+  ///
+  /// [PT] O ícone `wrench` no estilo Bold.
+  ///
+  /// ![wrench](https://api.iconify.design/ph/wrench-bold.svg?height=32&color=%23888888)
   static const IconData wrench = IconData(
     0xe5d4,
     fontFamily: 'PhosphorBold',
@@ -12199,7 +18291,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![x](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x.svg)
+  /// The `x` icon in Bold style.
+  ///
+  /// [PT] O ícone `x` no estilo Bold.
+  ///
+  /// ![x](https://api.iconify.design/ph/x-bold.svg?height=32&color=%23888888)
   static const IconData x = IconData(
     0xe4f6,
     fontFamily: 'PhosphorBold',
@@ -12207,7 +18303,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![x-circle](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-circle.svg)
+  /// The `xCircle` icon in Bold style.
+  ///
+  /// [PT] O ícone `xCircle` no estilo Bold.
+  ///
+  /// ![x-circle](https://api.iconify.design/ph/x-circle-bold.svg?height=32&color=%23888888)
   static const IconData xCircle = IconData(
     0xe4f8,
     fontFamily: 'PhosphorBold',
@@ -12215,7 +18315,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![x-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-logo.svg)
+  /// The `xLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `xLogo` no estilo Bold.
+  ///
+  /// ![x-logo](https://api.iconify.design/ph/x-logo-bold.svg?height=32&color=%23888888)
   static const IconData xLogo = IconData(
     0xe4bc,
     fontFamily: 'PhosphorBold',
@@ -12223,7 +18327,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![x-square](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/x-square.svg)
+  /// The `xSquare` icon in Bold style.
+  ///
+  /// [PT] O ícone `xSquare` no estilo Bold.
+  ///
+  /// ![x-square](https://api.iconify.design/ph/x-square-bold.svg?height=32&color=%23888888)
   static const IconData xSquare = IconData(
     0xe4fa,
     fontFamily: 'PhosphorBold',
@@ -12231,7 +18339,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![yarn](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yarn.svg)
+  /// The `yarn` icon in Bold style.
+  ///
+  /// [PT] O ícone `yarn` no estilo Bold.
+  ///
+  /// ![yarn](https://api.iconify.design/ph/yarn-bold.svg?height=32&color=%23888888)
   static const IconData yarn = IconData(
     0xed9a,
     fontFamily: 'PhosphorBold',
@@ -12239,7 +18351,11 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![yin-yang](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/yin-yang.svg)
+  /// The `yinYang` icon in Bold style.
+  ///
+  /// [PT] O ícone `yinYang` no estilo Bold.
+  ///
+  /// ![yin-yang](https://api.iconify.design/ph/yin-yang-bold.svg?height=32&color=%23888888)
   static const IconData yinYang = IconData(
     0xe92a,
     fontFamily: 'PhosphorBold',
@@ -12247,12 +18363,15 @@ class PhosphorIconsBold {
     matchTextDirection: true,
   );
 
-  /// ![youtube-logo](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/bold/youtube-logo.svg)
+  /// The `youtubeLogo` icon in Bold style.
+  ///
+  /// [PT] O ícone `youtubeLogo` no estilo Bold.
+  ///
+  /// ![youtube-logo](https://api.iconify.design/ph/youtube-logo-bold.svg?height=32&color=%23888888)
   static const IconData youtubeLogo = IconData(
     0xe4fc,
     fontFamily: 'PhosphorBold',
     fontPackage: 'phosphoricons_flutter',
     matchTextDirection: true,
   );
-
 }

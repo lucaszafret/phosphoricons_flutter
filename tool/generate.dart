@@ -9,7 +9,8 @@
 //   - Phosphor-<Estilo>.ttf → copiado para ../lib/fonts/
 //
 // Para atualizar com novos ícones:
-//   1. Baixar novo zip do site phosphoricons.com
+//   1. Baixar novo zip do site phosphoricons.com (ou o pacote npm
+//      @phosphor-icons/web, que traz src/<estilo>/selection.json e os TTFs)
 //   2. Substituir a pasta ../phosphor-icons/Fonts/
 //   3. Rodar este script novamente
 
@@ -20,6 +21,10 @@ const _package = 'phosphoricons_flutter';
 
 // Raiz dos assets baixados do site oficial
 const _sourceBase = '../phosphor-icons/Fonts';
+
+// alias → nome principal (ex: `caduceus` → `asclepius`). Só o nome principal
+// tem arquivo de imagem no Iconify/Phosphor; usado apenas nas docstrings.
+final _aliasToCanonical = <String, String>{};
 
 const _styles = [
   _StyleConfig('regular', 'Regular', 'Phosphor.ttf', 'PhosphorRegular'),
@@ -64,7 +69,8 @@ void main() {
       continue;
     }
 
-    final json = jsonDecode(selectionFile.readAsStringSync()) as Map<String, dynamic>;
+    final json =
+        jsonDecode(selectionFile.readAsStringSync()) as Map<String, dynamic>;
     final icons = json['icons'] as List<dynamic>;
 
     // 3. Extrair codepoints
@@ -80,12 +86,18 @@ void main() {
           .where((n) => n.isNotEmpty)
           .toList();
 
+      if (style.id == 'regular' && rawNames.length > 1) {
+        final canonical = _toCamelCase(rawNames.first);
+        for (final alias in rawNames.skip(1)) {
+          _aliasToCanonical[_toCamelCase(alias)] = canonical;
+        }
+      }
+
       if (style.id == 'duotone') {
         final codes = props['codes'] as List<dynamic>?;
         final primary = props['code'] as int;
-        final secondary = codes != null && codes.length > 1
-            ? codes[1] as int
-            : primary + 1;
+        final secondary =
+            codes != null && codes.length > 1 ? codes[1] as int : primary + 1;
 
         for (final rawName in rawNames) {
           final cleanName = rawName.replaceAll(RegExp(r'[-_]duotone$'), '');
@@ -95,8 +107,8 @@ void main() {
       } else {
         final code = props['code'] as int;
         for (final rawName in rawNames) {
-          final cleanName = rawName
-              .replaceAll(RegExp(r'[-_](regular|thin|light|bold|fill)$'), '');
+          final cleanName = rawName.replaceAll(
+              RegExp(r'[-_](regular|thin|light|bold|fill)$'), '');
           final camelName = _toCamelCase(cleanName);
           allIcons.putIfAbsent(camelName, () => {});
           allIcons[camelName]![style.id] = code;
@@ -111,7 +123,8 @@ void main() {
         ? _generateDuotoneFile(style, duotoneData)
         : _generateFlatFile(style, allIcons);
 
-    File('../lib/src/phosphor_icons_${style.id}.dart').writeAsStringSync(content);
+    File('../lib/src/phosphor_icons_${style.id}.dart')
+        .writeAsStringSync(content);
     print('  → lib/src/phosphor_icons_${style.id}.dart\n');
   }
 
@@ -121,10 +134,26 @@ void main() {
       .writeAsStringSync(_generateBaseFile(allIcons, duotoneData));
   print('  → lib/src/phosphor_icons.dart\n');
 
+  // 6. Formatar o código gerado com o formatter oficial do Dart. O pub.dev
+  // verifica isso (`dart format`), então a saída precisa sair sempre formatada.
+  print('Formatando lib/src...');
+  final format = Process.runSync(
+    'dart',
+    ['format', '../lib/src'],
+    runInShell: Platform.isWindows,
+  );
+  if (format.exitCode != 0) {
+    print('  AVISO: dart format falhou:\n${format.stderr}');
+  } else {
+    print('  → lib/src formatado\n');
+  }
+
   if (oldIcons.isNotEmpty) {
-    final added = allIcons.keys.where((k) => !oldIcons.contains(k)).toList()..sort();
-    final removed = oldIcons.where((k) => !allIcons.keys.contains(k)).toList()..sort();
-    
+    final added = allIcons.keys.where((k) => !oldIcons.contains(k)).toList()
+      ..sort();
+    final removed = oldIcons.where((k) => !allIcons.keys.contains(k)).toList()
+      ..sort();
+
     print('--- Relatório de Alterações (Diff) ---');
     if (added.isNotEmpty) {
       print('Novos ícones (${added.length}):');
@@ -132,7 +161,7 @@ void main() {
     } else {
       print('Nenhum ícone novo.');
     }
-    
+
     if (removed.isNotEmpty) {
       print('Ícones removidos (${removed.length}):');
       print('  ${removed.join(', ')}');
@@ -199,7 +228,11 @@ String _generateFlatFile(
 
   for (final name in names) {
     final cp = allIcons[name]![style.id]!;
-    buf.writeln('  /// ![${_toKebabCase(name)}](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/${style.id}/${_toKebabCase(name)}.svg)');
+    buf.writeln('  /// The `$name` icon in ${style.styleName} style.');
+    buf.writeln('  ///');
+    buf.writeln('  /// [PT] O ícone `$name` no estilo ${style.styleName}.');
+    buf.writeln('  ///');
+    buf.writeln('  /// ![${_toKebabCase(name)}](${_docImageUrl(name, style)})');
     buf.writeln('  static const IconData $name = IconData(');
     buf.writeln('    0x${cp.toRadixString(16)},');
     buf.writeln("    fontFamily: '${style.fontFamily}',");
@@ -231,9 +264,11 @@ String _generateDuotoneFile(
   buf.writeln('/// [PT] Ícones Phosphor — estilo Duotone.');
   buf.writeln('///');
   buf.writeln('/// Use with [PhosphorIcon] to render the two color layers:');
-  buf.writeln('/// [PT] Use com PhosphorIcon para renderizar as duas camadas de cor:');
+  buf.writeln(
+      '/// [PT] Use com PhosphorIcon para renderizar as duas camadas de cor:');
   buf.writeln('/// ```dart');
-  buf.writeln('/// PhosphorIcon(PhosphorIconsDuotone.storefront, color: Colors.blue)');
+  buf.writeln(
+      '/// PhosphorIcon(PhosphorIconsDuotone.storefront, color: Colors.blue)');
   buf.writeln('/// PhosphorIcon(');
   buf.writeln('///   PhosphorIconsDuotone.storefront,');
   buf.writeln('///   color: Colors.blue,');
@@ -250,7 +285,14 @@ String _generateDuotoneFile(
     final data = duotoneData[name]!;
     final primary = data['primary']!;
     final secondary = data['secondary']!;
-    buf.writeln('  /// ![${_toKebabCase(name)}-duotone](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/duotone/${_toKebabCase(name)}-duotone.svg)');
+    buf.writeln(
+        '  /// The `$name` icon in Duotone style. Render it with `PhosphorIcon`.');
+    buf.writeln('  ///');
+    buf.writeln(
+        '  /// [PT] O ícone `$name` no estilo Duotone. Renderize com `PhosphorIcon`.');
+    buf.writeln('  ///');
+    buf.writeln(
+        '  /// ![${_toKebabCase(name)}-duotone](${_docImageUrl(name, style)})');
     buf.writeln('  static const $name = PhosphorDuotoneIconData(');
     buf.writeln('    IconData(');
     buf.writeln('      0x${primary.toRadixString(16)},');
@@ -298,13 +340,16 @@ String _generateBaseFile(
   buf.writeln('/// [PT] Duas formas de uso:');
   buf.writeln('///');
   buf.writeln('/// ```dart');
-  buf.writeln('/// // 1. Via style class (classic way) / Via classe de estilo (forma clássica)');
+  buf.writeln(
+      '/// // 1. Via style class (classic way) / Via classe de estilo (forma clássica)');
   buf.writeln('/// Icon(PhosphorIconsRegular.storefront)');
   buf.writeln('/// Icon(PhosphorIconsBold.storefront)');
   buf.writeln('/// PhosphorIcon(PhosphorIconsDuotone.storefront)');
   buf.writeln('///');
-  buf.writeln('/// // 2. Direct constant with style suffix / Constante direta com sufixo de estilo');
-  buf.writeln('/// Icon(PhosphorIcons.storefront)          // regular (default/padrão)');
+  buf.writeln(
+      '/// // 2. Direct constant with style suffix / Constante direta com sufixo de estilo');
+  buf.writeln(
+      '/// Icon(PhosphorIcons.storefront)          // regular (default/padrão)');
   buf.writeln('/// Icon(PhosphorIcons.storefrontBold)      // bold');
   buf.writeln('/// Icon(PhosphorIcons.storefrontFill)      // fill');
   buf.writeln('/// Icon(PhosphorIcons.storefrontThin)      // thin');
@@ -317,24 +362,41 @@ String _generateBaseFile(
   for (final name in sortedNames) {
     final styles = allIcons[name]!;
     if (styles.containsKey('regular')) {
-      buf.writeln('  static const IconData $name = PhosphorIconsRegular.$name;');
+      _writeShortcutDoc(buf, 'Regular', name);
+      buf.writeln(
+          '  static const IconData $name = PhosphorIconsRegular.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('thin')) {
-      buf.writeln('  static const IconData ${name}Thin = PhosphorIconsThin.$name;');
+      _writeShortcutDoc(buf, 'Thin', name);
+      buf.writeln(
+          '  static const IconData ${name}Thin = PhosphorIconsThin.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('light')) {
-      buf.writeln('  static const IconData ${name}Light = PhosphorIconsLight.$name;');
+      _writeShortcutDoc(buf, 'Light', name);
+      buf.writeln(
+          '  static const IconData ${name}Light = PhosphorIconsLight.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('bold')) {
-      buf.writeln('  static const IconData ${name}Bold = PhosphorIconsBold.$name;');
+      _writeShortcutDoc(buf, 'Bold', name);
+      buf.writeln(
+          '  static const IconData ${name}Bold = PhosphorIconsBold.$name;');
+      buf.writeln();
     }
     if (styles.containsKey('fill')) {
-      buf.writeln('  static const IconData ${name}Fill = PhosphorIconsFill.$name;');
+      _writeShortcutDoc(buf, 'Fill', name);
+      buf.writeln(
+          '  static const IconData ${name}Fill = PhosphorIconsFill.$name;');
+      buf.writeln();
     }
     if (duotoneData.containsKey(name)) {
-      buf.writeln('  static const ${name}Duotone = PhosphorIconsDuotone.$name;');
+      _writeShortcutDoc(buf, 'Duotone', name);
+      buf.writeln(
+          '  static const ${name}Duotone = PhosphorIconsDuotone.$name;');
+      buf.writeln();
     }
-    buf.writeln();
   }
 
   buf.writeln('}');
@@ -347,8 +409,16 @@ Set<String> _getOldIcons() {
   final file = File('../lib/src/phosphor_icons_regular.dart');
   if (!file.existsSync()) return {};
   final content = file.readAsStringSync();
-  final regex = RegExp(r'static const IconData (\w+) = IconData');
+  // `\s*` porque o dart format pode quebrar a linha depois do `=`.
+  final regex = RegExp(r'static const IconData (\w+)\s*=\s*IconData');
   return regex.allMatches(content).map((m) => m.group(1)!).toSet();
+}
+
+// Documentação de uma constante de atalho de PhosphorIcons, apontando para a
+// constante original do estilo (ex: [PhosphorIconsBold.acorn]).
+void _writeShortcutDoc(StringBuffer buf, String styleName, String name) {
+  final target = 'PhosphorIcons$styleName.$name';
+  buf.writeln('  /// Shortcut for [$target]. [PT] Atalho para [$target].');
 }
 
 void _writeHeader(StringBuffer buf) {
@@ -367,6 +437,23 @@ String _toCamelCase(String name) {
           .join();
 }
 
+// Imagem de pré-visualização usada nas docstrings (hover/autocomplete da IDE e
+// documentação da API no pub.dev).
+//
+// Usamos a API do Iconify (coleção `ph` = Phosphor, mesmos ícones das fontes)
+// porque ela devolve o SVG já com tamanho fixo e cor visível em temas claro e
+// escuro. Os SVGs "crus" do Phosphor não têm width/height: aparecem gigantes e
+// pretos. Nos estilos que não são Regular o arquivo leva o sufixo do estilo
+// (`acorn-bold`), e o Regular não (`acorn`).
+const _docImageBase = 'https://api.iconify.design/ph';
+const _docImageQuery = 'height=32&color=%23888888';
+
+String _docImageUrl(String camelName, _StyleConfig style) {
+  final kebab = _toKebabCase(_aliasToCanonical[camelName] ?? camelName);
+  final file = style.id == 'regular' ? kebab : '$kebab-${style.id}';
+  return '$_docImageBase/$file.svg?$_docImageQuery';
+}
+
 String _toKebabCase(String camel) {
   return camel.replaceAllMapped(
     RegExp(r'[A-Z]'),
@@ -379,5 +466,6 @@ class _StyleConfig {
   final String styleName;
   final String fontFileName;
   final String fontFamily;
-  const _StyleConfig(this.id, this.styleName, this.fontFileName, this.fontFamily);
+  const _StyleConfig(
+      this.id, this.styleName, this.fontFileName, this.fontFamily);
 }
