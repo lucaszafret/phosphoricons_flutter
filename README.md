@@ -41,7 +41,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  phosphoricons_flutter: ^1.1.0
+  phosphoricons_flutter: ^1.1.1
 ```
 
 Then run:

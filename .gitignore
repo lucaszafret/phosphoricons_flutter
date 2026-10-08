@@ -37,5 +37,9 @@ phosphor-icons/
 # Tool internals
 tool/.dart_tool/
 tool/pubspec.lock
+example/pubspec.lock
+
+# Gerado a cada execução do tool/generate.dart (diff de ícones novos/removidos)
+NEW_ICONS.md
 .antigravitycli/  
  
