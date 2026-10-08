@@ -19,7 +19,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `acorn` no estilo Bold.
   ///
-  /// ![acorn](https://api.iconify.design/ph/acorn-bold.svg?height=32&color=%23888888)
+  /// ![acorn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/acorn.png)
   static const IconData acorn = IconData(
     0xeb9a,
     fontFamily: 'PhosphorBold',
@@ -31,7 +31,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `activity` no estilo Bold.
   ///
-  /// ![activity](https://api.iconify.design/ph/pulse-bold.svg?height=32&color=%23888888)
+  /// ![activity](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/activity.png)
   static const IconData activity = IconData(
     0xe000,
     fontFamily: 'PhosphorBold',
@@ -43,7 +43,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `addressBook` no estilo Bold.
   ///
-  /// ![address-book](https://api.iconify.design/ph/address-book-bold.svg?height=32&color=%23888888)
+  /// ![address-book](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/address-book.png)
   static const IconData addressBook = IconData(
     0xe6f8,
     fontFamily: 'PhosphorBold',
@@ -55,7 +55,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `addressBookTabs` no estilo Bold.
   ///
-  /// ![address-book-tabs](https://api.iconify.design/ph/address-book-tabs-bold.svg?height=32&color=%23888888)
+  /// ![address-book-tabs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/address-book-tabs.png)
   static const IconData addressBookTabs = IconData(
     0xee4e,
     fontFamily: 'PhosphorBold',
@@ -67,7 +67,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airTrafficControl` no estilo Bold.
   ///
-  /// ![air-traffic-control](https://api.iconify.design/ph/air-traffic-control-bold.svg?height=32&color=%23888888)
+  /// ![air-traffic-control](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/air-traffic-control.png)
   static const IconData airTrafficControl = IconData(
     0xecd8,
     fontFamily: 'PhosphorBold',
@@ -79,7 +79,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airplane` no estilo Bold.
   ///
-  /// ![airplane](https://api.iconify.design/ph/airplane-bold.svg?height=32&color=%23888888)
+  /// ![airplane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/airplane.png)
   static const IconData airplane = IconData(
     0xe002,
     fontFamily: 'PhosphorBold',
@@ -91,7 +91,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airplaneInFlight` no estilo Bold.
   ///
-  /// ![airplane-in-flight](https://api.iconify.design/ph/airplane-in-flight-bold.svg?height=32&color=%23888888)
+  /// ![airplane-in-flight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/airplane-in-flight.png)
   static const IconData airplaneInFlight = IconData(
     0xe4fe,
     fontFamily: 'PhosphorBold',
@@ -103,7 +103,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airplaneLanding` no estilo Bold.
   ///
-  /// ![airplane-landing](https://api.iconify.design/ph/airplane-landing-bold.svg?height=32&color=%23888888)
+  /// ![airplane-landing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/airplane-landing.png)
   static const IconData airplaneLanding = IconData(
     0xe502,
     fontFamily: 'PhosphorBold',
@@ -115,7 +115,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airplaneTakeoff` no estilo Bold.
   ///
-  /// ![airplane-takeoff](https://api.iconify.design/ph/airplane-takeoff-bold.svg?height=32&color=%23888888)
+  /// ![airplane-takeoff](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/airplane-takeoff.png)
   static const IconData airplaneTakeoff = IconData(
     0xe504,
     fontFamily: 'PhosphorBold',
@@ -127,7 +127,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airplaneTaxiing` no estilo Bold.
   ///
-  /// ![airplane-taxiing](https://api.iconify.design/ph/airplane-taxiing-bold.svg?height=32&color=%23888888)
+  /// ![airplane-taxiing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/airplane-taxiing.png)
   static const IconData airplaneTaxiing = IconData(
     0xe500,
     fontFamily: 'PhosphorBold',
@@ -139,7 +139,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airplaneTilt` no estilo Bold.
   ///
-  /// ![airplane-tilt](https://api.iconify.design/ph/airplane-tilt-bold.svg?height=32&color=%23888888)
+  /// ![airplane-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/airplane-tilt.png)
   static const IconData airplaneTilt = IconData(
     0xe5d6,
     fontFamily: 'PhosphorBold',
@@ -151,7 +151,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `airplay` no estilo Bold.
   ///
-  /// ![airplay](https://api.iconify.design/ph/airplay-bold.svg?height=32&color=%23888888)
+  /// ![airplay](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/airplay.png)
   static const IconData airplay = IconData(
     0xe004,
     fontFamily: 'PhosphorBold',
@@ -163,7 +163,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alarm` no estilo Bold.
   ///
-  /// ![alarm](https://api.iconify.design/ph/alarm-bold.svg?height=32&color=%23888888)
+  /// ![alarm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/alarm.png)
   static const IconData alarm = IconData(
     0xe006,
     fontFamily: 'PhosphorBold',
@@ -175,7 +175,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alien` no estilo Bold.
   ///
-  /// ![alien](https://api.iconify.design/ph/alien-bold.svg?height=32&color=%23888888)
+  /// ![alien](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/alien.png)
   static const IconData alien = IconData(
     0xe8a6,
     fontFamily: 'PhosphorBold',
@@ -187,7 +187,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignBottom` no estilo Bold.
   ///
-  /// ![align-bottom](https://api.iconify.design/ph/align-bottom-bold.svg?height=32&color=%23888888)
+  /// ![align-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-bottom.png)
   static const IconData alignBottom = IconData(
     0xe506,
     fontFamily: 'PhosphorBold',
@@ -199,7 +199,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignBottomSimple` no estilo Bold.
   ///
-  /// ![align-bottom-simple](https://api.iconify.design/ph/align-bottom-simple-bold.svg?height=32&color=%23888888)
+  /// ![align-bottom-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-bottom-simple.png)
   static const IconData alignBottomSimple = IconData(
     0xeb0c,
     fontFamily: 'PhosphorBold',
@@ -211,7 +211,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignCenterHorizontal` no estilo Bold.
   ///
-  /// ![align-center-horizontal](https://api.iconify.design/ph/align-center-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-center-horizontal.png)
   static const IconData alignCenterHorizontal = IconData(
     0xe50a,
     fontFamily: 'PhosphorBold',
@@ -223,7 +223,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Bold.
   ///
-  /// ![align-center-horizontal-simple](https://api.iconify.design/ph/align-center-horizontal-simple-bold.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-center-horizontal-simple.png)
   static const IconData alignCenterHorizontalSimple = IconData(
     0xeb0e,
     fontFamily: 'PhosphorBold',
@@ -235,7 +235,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignCenterVertical` no estilo Bold.
   ///
-  /// ![align-center-vertical](https://api.iconify.design/ph/align-center-vertical-bold.svg?height=32&color=%23888888)
+  /// ![align-center-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-center-vertical.png)
   static const IconData alignCenterVertical = IconData(
     0xe50c,
     fontFamily: 'PhosphorBold',
@@ -247,7 +247,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignCenterVerticalSimple` no estilo Bold.
   ///
-  /// ![align-center-vertical-simple](https://api.iconify.design/ph/align-center-vertical-simple-bold.svg?height=32&color=%23888888)
+  /// ![align-center-vertical-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-center-vertical-simple.png)
   static const IconData alignCenterVerticalSimple = IconData(
     0xeb10,
     fontFamily: 'PhosphorBold',
@@ -259,7 +259,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignLeft` no estilo Bold.
   ///
-  /// ![align-left](https://api.iconify.design/ph/align-left-bold.svg?height=32&color=%23888888)
+  /// ![align-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-left.png)
   static const IconData alignLeft = IconData(
     0xe50e,
     fontFamily: 'PhosphorBold',
@@ -271,7 +271,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignLeftSimple` no estilo Bold.
   ///
-  /// ![align-left-simple](https://api.iconify.design/ph/align-left-simple-bold.svg?height=32&color=%23888888)
+  /// ![align-left-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-left-simple.png)
   static const IconData alignLeftSimple = IconData(
     0xeaee,
     fontFamily: 'PhosphorBold',
@@ -283,7 +283,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignRight` no estilo Bold.
   ///
-  /// ![align-right](https://api.iconify.design/ph/align-right-bold.svg?height=32&color=%23888888)
+  /// ![align-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-right.png)
   static const IconData alignRight = IconData(
     0xe510,
     fontFamily: 'PhosphorBold',
@@ -295,7 +295,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignRightSimple` no estilo Bold.
   ///
-  /// ![align-right-simple](https://api.iconify.design/ph/align-right-simple-bold.svg?height=32&color=%23888888)
+  /// ![align-right-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-right-simple.png)
   static const IconData alignRightSimple = IconData(
     0xeb12,
     fontFamily: 'PhosphorBold',
@@ -307,7 +307,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignTop` no estilo Bold.
   ///
-  /// ![align-top](https://api.iconify.design/ph/align-top-bold.svg?height=32&color=%23888888)
+  /// ![align-top](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-top.png)
   static const IconData alignTop = IconData(
     0xe512,
     fontFamily: 'PhosphorBold',
@@ -319,7 +319,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `alignTopSimple` no estilo Bold.
   ///
-  /// ![align-top-simple](https://api.iconify.design/ph/align-top-simple-bold.svg?height=32&color=%23888888)
+  /// ![align-top-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/align-top-simple.png)
   static const IconData alignTopSimple = IconData(
     0xeb14,
     fontFamily: 'PhosphorBold',
@@ -331,7 +331,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `amazonLogo` no estilo Bold.
   ///
-  /// ![amazon-logo](https://api.iconify.design/ph/amazon-logo-bold.svg?height=32&color=%23888888)
+  /// ![amazon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/amazon-logo.png)
   static const IconData amazonLogo = IconData(
     0xe96c,
     fontFamily: 'PhosphorBold',
@@ -343,7 +343,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ambulance` no estilo Bold.
   ///
-  /// ![ambulance](https://api.iconify.design/ph/ambulance-bold.svg?height=32&color=%23888888)
+  /// ![ambulance](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ambulance.png)
   static const IconData ambulance = IconData(
     0xe572,
     fontFamily: 'PhosphorBold',
@@ -355,7 +355,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `anchor` no estilo Bold.
   ///
-  /// ![anchor](https://api.iconify.design/ph/anchor-bold.svg?height=32&color=%23888888)
+  /// ![anchor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/anchor.png)
   static const IconData anchor = IconData(
     0xe514,
     fontFamily: 'PhosphorBold',
@@ -367,7 +367,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `anchorSimple` no estilo Bold.
   ///
-  /// ![anchor-simple](https://api.iconify.design/ph/anchor-simple-bold.svg?height=32&color=%23888888)
+  /// ![anchor-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/anchor-simple.png)
   static const IconData anchorSimple = IconData(
     0xe5d8,
     fontFamily: 'PhosphorBold',
@@ -379,7 +379,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `androidLogo` no estilo Bold.
   ///
-  /// ![android-logo](https://api.iconify.design/ph/android-logo-bold.svg?height=32&color=%23888888)
+  /// ![android-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/android-logo.png)
   static const IconData androidLogo = IconData(
     0xe008,
     fontFamily: 'PhosphorBold',
@@ -391,7 +391,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `angle` no estilo Bold.
   ///
-  /// ![angle](https://api.iconify.design/ph/angle-bold.svg?height=32&color=%23888888)
+  /// ![angle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/angle.png)
   static const IconData angle = IconData(
     0xe7bc,
     fontFamily: 'PhosphorBold',
@@ -403,7 +403,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `angularLogo` no estilo Bold.
   ///
-  /// ![angular-logo](https://api.iconify.design/ph/angular-logo-bold.svg?height=32&color=%23888888)
+  /// ![angular-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/angular-logo.png)
   static const IconData angularLogo = IconData(
     0xeb80,
     fontFamily: 'PhosphorBold',
@@ -415,7 +415,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `aperture` no estilo Bold.
   ///
-  /// ![aperture](https://api.iconify.design/ph/aperture-bold.svg?height=32&color=%23888888)
+  /// ![aperture](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/aperture.png)
   static const IconData aperture = IconData(
     0xe00a,
     fontFamily: 'PhosphorBold',
@@ -427,7 +427,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `appStoreLogo` no estilo Bold.
   ///
-  /// ![app-store-logo](https://api.iconify.design/ph/app-store-logo-bold.svg?height=32&color=%23888888)
+  /// ![app-store-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/app-store-logo.png)
   static const IconData appStoreLogo = IconData(
     0xe974,
     fontFamily: 'PhosphorBold',
@@ -439,7 +439,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `appWindow` no estilo Bold.
   ///
-  /// ![app-window](https://api.iconify.design/ph/app-window-bold.svg?height=32&color=%23888888)
+  /// ![app-window](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/app-window.png)
   static const IconData appWindow = IconData(
     0xe5da,
     fontFamily: 'PhosphorBold',
@@ -451,7 +451,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `appleLogo` no estilo Bold.
   ///
-  /// ![apple-logo](https://api.iconify.design/ph/apple-logo-bold.svg?height=32&color=%23888888)
+  /// ![apple-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/apple-logo.png)
   static const IconData appleLogo = IconData(
     0xe516,
     fontFamily: 'PhosphorBold',
@@ -463,7 +463,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `applePodcastsLogo` no estilo Bold.
   ///
-  /// ![apple-podcasts-logo](https://api.iconify.design/ph/apple-podcasts-logo-bold.svg?height=32&color=%23888888)
+  /// ![apple-podcasts-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/apple-podcasts-logo.png)
   static const IconData applePodcastsLogo = IconData(
     0xeb96,
     fontFamily: 'PhosphorBold',
@@ -475,7 +475,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `approximateEquals` no estilo Bold.
   ///
-  /// ![approximate-equals](https://api.iconify.design/ph/approximate-equals-bold.svg?height=32&color=%23888888)
+  /// ![approximate-equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/approximate-equals.png)
   static const IconData approximateEquals = IconData(
     0xedaa,
     fontFamily: 'PhosphorBold',
@@ -487,7 +487,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `archive` no estilo Bold.
   ///
-  /// ![archive](https://api.iconify.design/ph/archive-bold.svg?height=32&color=%23888888)
+  /// ![archive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/archive.png)
   static const IconData archive = IconData(
     0xe00c,
     fontFamily: 'PhosphorBold',
@@ -499,7 +499,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `archiveBox` no estilo Bold.
   ///
-  /// ![archive-box](https://api.iconify.design/ph/box-arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![archive-box](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/archive-box.png)
   static const IconData archiveBox = IconData(
     0xe00e,
     fontFamily: 'PhosphorBold',
@@ -511,7 +511,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `archiveTray` no estilo Bold.
   ///
-  /// ![archive-tray](https://api.iconify.design/ph/tray-arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![archive-tray](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/archive-tray.png)
   static const IconData archiveTray = IconData(
     0xe010,
     fontFamily: 'PhosphorBold',
@@ -523,7 +523,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `armchair` no estilo Bold.
   ///
-  /// ![armchair](https://api.iconify.design/ph/armchair-bold.svg?height=32&color=%23888888)
+  /// ![armchair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/armchair.png)
   static const IconData armchair = IconData(
     0xe012,
     fontFamily: 'PhosphorBold',
@@ -535,7 +535,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowArcLeft` no estilo Bold.
   ///
-  /// ![arrow-arc-left](https://api.iconify.design/ph/arrow-arc-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-arc-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-arc-left.png)
   static const IconData arrowArcLeft = IconData(
     0xe014,
     fontFamily: 'PhosphorBold',
@@ -547,7 +547,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowArcRight` no estilo Bold.
   ///
-  /// ![arrow-arc-right](https://api.iconify.design/ph/arrow-arc-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-arc-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-arc-right.png)
   static const IconData arrowArcRight = IconData(
     0xe016,
     fontFamily: 'PhosphorBold',
@@ -559,7 +559,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Bold.
   ///
-  /// ![arrow-bend-double-up-left](https://api.iconify.design/ph/arrow-bend-double-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-double-up-left.png)
   static const IconData arrowBendDoubleUpLeft = IconData(
     0xe03a,
     fontFamily: 'PhosphorBold',
@@ -571,7 +571,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Bold.
   ///
-  /// ![arrow-bend-double-up-right](https://api.iconify.design/ph/arrow-bend-double-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-double-up-right.png)
   static const IconData arrowBendDoubleUpRight = IconData(
     0xe03c,
     fontFamily: 'PhosphorBold',
@@ -583,7 +583,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendDownLeft` no estilo Bold.
   ///
-  /// ![arrow-bend-down-left](https://api.iconify.design/ph/arrow-bend-down-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-down-left.png)
   static const IconData arrowBendDownLeft = IconData(
     0xe018,
     fontFamily: 'PhosphorBold',
@@ -595,7 +595,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendDownRight` no estilo Bold.
   ///
-  /// ![arrow-bend-down-right](https://api.iconify.design/ph/arrow-bend-down-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-down-right.png)
   static const IconData arrowBendDownRight = IconData(
     0xe01a,
     fontFamily: 'PhosphorBold',
@@ -607,7 +607,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendLeftDown` no estilo Bold.
   ///
-  /// ![arrow-bend-left-down](https://api.iconify.design/ph/arrow-bend-left-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-left-down.png)
   static const IconData arrowBendLeftDown = IconData(
     0xe01c,
     fontFamily: 'PhosphorBold',
@@ -619,7 +619,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendLeftUp` no estilo Bold.
   ///
-  /// ![arrow-bend-left-up](https://api.iconify.design/ph/arrow-bend-left-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-left-up.png)
   static const IconData arrowBendLeftUp = IconData(
     0xe01e,
     fontFamily: 'PhosphorBold',
@@ -631,7 +631,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendRightDown` no estilo Bold.
   ///
-  /// ![arrow-bend-right-down](https://api.iconify.design/ph/arrow-bend-right-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-right-down.png)
   static const IconData arrowBendRightDown = IconData(
     0xe020,
     fontFamily: 'PhosphorBold',
@@ -643,7 +643,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendRightUp` no estilo Bold.
   ///
-  /// ![arrow-bend-right-up](https://api.iconify.design/ph/arrow-bend-right-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-right-up.png)
   static const IconData arrowBendRightUp = IconData(
     0xe022,
     fontFamily: 'PhosphorBold',
@@ -655,7 +655,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendUpLeft` no estilo Bold.
   ///
-  /// ![arrow-bend-up-left](https://api.iconify.design/ph/arrow-bend-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-up-left.png)
   static const IconData arrowBendUpLeft = IconData(
     0xe024,
     fontFamily: 'PhosphorBold',
@@ -667,7 +667,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowBendUpRight` no estilo Bold.
   ///
-  /// ![arrow-bend-up-right](https://api.iconify.design/ph/arrow-bend-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-bend-up-right.png)
   static const IconData arrowBendUpRight = IconData(
     0xe026,
     fontFamily: 'PhosphorBold',
@@ -679,7 +679,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleDown` no estilo Bold.
   ///
-  /// ![arrow-circle-down](https://api.iconify.design/ph/arrow-circle-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-down.png)
   static const IconData arrowCircleDown = IconData(
     0xe028,
     fontFamily: 'PhosphorBold',
@@ -691,7 +691,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleDownLeft` no estilo Bold.
   ///
-  /// ![arrow-circle-down-left](https://api.iconify.design/ph/arrow-circle-down-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-down-left.png)
   static const IconData arrowCircleDownLeft = IconData(
     0xe02a,
     fontFamily: 'PhosphorBold',
@@ -703,7 +703,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleDownRight` no estilo Bold.
   ///
-  /// ![arrow-circle-down-right](https://api.iconify.design/ph/arrow-circle-down-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-down-right.png)
   static const IconData arrowCircleDownRight = IconData(
     0xe02c,
     fontFamily: 'PhosphorBold',
@@ -715,7 +715,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleLeft` no estilo Bold.
   ///
-  /// ![arrow-circle-left](https://api.iconify.design/ph/arrow-circle-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-left.png)
   static const IconData arrowCircleLeft = IconData(
     0xe05a,
     fontFamily: 'PhosphorBold',
@@ -727,7 +727,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleRight` no estilo Bold.
   ///
-  /// ![arrow-circle-right](https://api.iconify.design/ph/arrow-circle-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-right.png)
   static const IconData arrowCircleRight = IconData(
     0xe02e,
     fontFamily: 'PhosphorBold',
@@ -739,7 +739,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleUp` no estilo Bold.
   ///
-  /// ![arrow-circle-up](https://api.iconify.design/ph/arrow-circle-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-up.png)
   static const IconData arrowCircleUp = IconData(
     0xe030,
     fontFamily: 'PhosphorBold',
@@ -751,7 +751,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleUpLeft` no estilo Bold.
   ///
-  /// ![arrow-circle-up-left](https://api.iconify.design/ph/arrow-circle-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-up-left.png)
   static const IconData arrowCircleUpLeft = IconData(
     0xe032,
     fontFamily: 'PhosphorBold',
@@ -763,7 +763,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCircleUpRight` no estilo Bold.
   ///
-  /// ![arrow-circle-up-right](https://api.iconify.design/ph/arrow-circle-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-circle-up-right.png)
   static const IconData arrowCircleUpRight = IconData(
     0xe034,
     fontFamily: 'PhosphorBold',
@@ -775,7 +775,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowClockwise` no estilo Bold.
   ///
-  /// ![arrow-clockwise](https://api.iconify.design/ph/arrow-clockwise-bold.svg?height=32&color=%23888888)
+  /// ![arrow-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-clockwise.png)
   static const IconData arrowClockwise = IconData(
     0xe036,
     fontFamily: 'PhosphorBold',
@@ -787,7 +787,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowCounterClockwise` no estilo Bold.
   ///
-  /// ![arrow-counter-clockwise](https://api.iconify.design/ph/arrow-counter-clockwise-bold.svg?height=32&color=%23888888)
+  /// ![arrow-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-counter-clockwise.png)
   static const IconData arrowCounterClockwise = IconData(
     0xe038,
     fontFamily: 'PhosphorBold',
@@ -799,7 +799,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowDown` no estilo Bold.
   ///
-  /// ![arrow-down](https://api.iconify.design/ph/arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-down.png)
   static const IconData arrowDown = IconData(
     0xe03e,
     fontFamily: 'PhosphorBold',
@@ -811,7 +811,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowDownLeft` no estilo Bold.
   ///
-  /// ![arrow-down-left](https://api.iconify.design/ph/arrow-down-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-down-left.png)
   static const IconData arrowDownLeft = IconData(
     0xe040,
     fontFamily: 'PhosphorBold',
@@ -823,7 +823,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowDownRight` no estilo Bold.
   ///
-  /// ![arrow-down-right](https://api.iconify.design/ph/arrow-down-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-down-right.png)
   static const IconData arrowDownRight = IconData(
     0xe042,
     fontFamily: 'PhosphorBold',
@@ -835,7 +835,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowDownLeft` no estilo Bold.
   ///
-  /// ![arrow-elbow-down-left](https://api.iconify.design/ph/arrow-elbow-down-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-down-left.png)
   static const IconData arrowElbowDownLeft = IconData(
     0xe044,
     fontFamily: 'PhosphorBold',
@@ -847,7 +847,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowDownRight` no estilo Bold.
   ///
-  /// ![arrow-elbow-down-right](https://api.iconify.design/ph/arrow-elbow-down-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-down-right.png)
   static const IconData arrowElbowDownRight = IconData(
     0xe046,
     fontFamily: 'PhosphorBold',
@@ -859,7 +859,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowLeft` no estilo Bold.
   ///
-  /// ![arrow-elbow-left](https://api.iconify.design/ph/arrow-elbow-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-left.png)
   static const IconData arrowElbowLeft = IconData(
     0xe048,
     fontFamily: 'PhosphorBold',
@@ -871,7 +871,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowLeftDown` no estilo Bold.
   ///
-  /// ![arrow-elbow-left-down](https://api.iconify.design/ph/arrow-elbow-left-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-left-down.png)
   static const IconData arrowElbowLeftDown = IconData(
     0xe04a,
     fontFamily: 'PhosphorBold',
@@ -883,7 +883,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowLeftUp` no estilo Bold.
   ///
-  /// ![arrow-elbow-left-up](https://api.iconify.design/ph/arrow-elbow-left-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-left-up.png)
   static const IconData arrowElbowLeftUp = IconData(
     0xe04c,
     fontFamily: 'PhosphorBold',
@@ -895,7 +895,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowRight` no estilo Bold.
   ///
-  /// ![arrow-elbow-right](https://api.iconify.design/ph/arrow-elbow-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-right.png)
   static const IconData arrowElbowRight = IconData(
     0xe04e,
     fontFamily: 'PhosphorBold',
@@ -907,7 +907,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowRightDown` no estilo Bold.
   ///
-  /// ![arrow-elbow-right-down](https://api.iconify.design/ph/arrow-elbow-right-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-right-down.png)
   static const IconData arrowElbowRightDown = IconData(
     0xe050,
     fontFamily: 'PhosphorBold',
@@ -919,7 +919,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowRightUp` no estilo Bold.
   ///
-  /// ![arrow-elbow-right-up](https://api.iconify.design/ph/arrow-elbow-right-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-right-up.png)
   static const IconData arrowElbowRightUp = IconData(
     0xe052,
     fontFamily: 'PhosphorBold',
@@ -931,7 +931,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowUpLeft` no estilo Bold.
   ///
-  /// ![arrow-elbow-up-left](https://api.iconify.design/ph/arrow-elbow-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-up-left.png)
   static const IconData arrowElbowUpLeft = IconData(
     0xe054,
     fontFamily: 'PhosphorBold',
@@ -943,7 +943,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowElbowUpRight` no estilo Bold.
   ///
-  /// ![arrow-elbow-up-right](https://api.iconify.design/ph/arrow-elbow-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-elbow-up-right.png)
   static const IconData arrowElbowUpRight = IconData(
     0xe056,
     fontFamily: 'PhosphorBold',
@@ -955,7 +955,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatDown` no estilo Bold.
   ///
-  /// ![arrow-fat-down](https://api.iconify.design/ph/arrow-fat-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-down.png)
   static const IconData arrowFatDown = IconData(
     0xe518,
     fontFamily: 'PhosphorBold',
@@ -967,7 +967,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLeft` no estilo Bold.
   ///
-  /// ![arrow-fat-left](https://api.iconify.design/ph/arrow-fat-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-left.png)
   static const IconData arrowFatLeft = IconData(
     0xe51a,
     fontFamily: 'PhosphorBold',
@@ -979,7 +979,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLineDown` no estilo Bold.
   ///
-  /// ![arrow-fat-line-down](https://api.iconify.design/ph/arrow-fat-line-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-line-down.png)
   static const IconData arrowFatLineDown = IconData(
     0xe51c,
     fontFamily: 'PhosphorBold',
@@ -991,7 +991,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLineLeft` no estilo Bold.
   ///
-  /// ![arrow-fat-line-left](https://api.iconify.design/ph/arrow-fat-line-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-line-left.png)
   static const IconData arrowFatLineLeft = IconData(
     0xe51e,
     fontFamily: 'PhosphorBold',
@@ -1003,7 +1003,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLineRight` no estilo Bold.
   ///
-  /// ![arrow-fat-line-right](https://api.iconify.design/ph/arrow-fat-line-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-line-right.png)
   static const IconData arrowFatLineRight = IconData(
     0xe520,
     fontFamily: 'PhosphorBold',
@@ -1015,7 +1015,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLineUp` no estilo Bold.
   ///
-  /// ![arrow-fat-line-up](https://api.iconify.design/ph/arrow-fat-line-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-line-up.png)
   static const IconData arrowFatLineUp = IconData(
     0xe522,
     fontFamily: 'PhosphorBold',
@@ -1027,7 +1027,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLinesDown` no estilo Bold.
   ///
-  /// ![arrow-fat-lines-down](https://api.iconify.design/ph/arrow-fat-lines-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-lines-down.png)
   static const IconData arrowFatLinesDown = IconData(
     0xe524,
     fontFamily: 'PhosphorBold',
@@ -1039,7 +1039,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLinesLeft` no estilo Bold.
   ///
-  /// ![arrow-fat-lines-left](https://api.iconify.design/ph/arrow-fat-lines-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-lines-left.png)
   static const IconData arrowFatLinesLeft = IconData(
     0xe526,
     fontFamily: 'PhosphorBold',
@@ -1051,7 +1051,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLinesRight` no estilo Bold.
   ///
-  /// ![arrow-fat-lines-right](https://api.iconify.design/ph/arrow-fat-lines-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-lines-right.png)
   static const IconData arrowFatLinesRight = IconData(
     0xe528,
     fontFamily: 'PhosphorBold',
@@ -1063,7 +1063,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatLinesUp` no estilo Bold.
   ///
-  /// ![arrow-fat-lines-up](https://api.iconify.design/ph/arrow-fat-lines-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-lines-up.png)
   static const IconData arrowFatLinesUp = IconData(
     0xe52a,
     fontFamily: 'PhosphorBold',
@@ -1075,7 +1075,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatRight` no estilo Bold.
   ///
-  /// ![arrow-fat-right](https://api.iconify.design/ph/arrow-fat-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-right.png)
   static const IconData arrowFatRight = IconData(
     0xe52c,
     fontFamily: 'PhosphorBold',
@@ -1087,7 +1087,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowFatUp` no estilo Bold.
   ///
-  /// ![arrow-fat-up](https://api.iconify.design/ph/arrow-fat-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-fat-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-fat-up.png)
   static const IconData arrowFatUp = IconData(
     0xe52e,
     fontFamily: 'PhosphorBold',
@@ -1099,7 +1099,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLeft` no estilo Bold.
   ///
-  /// ![arrow-left](https://api.iconify.design/ph/arrow-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-left.png)
   static const IconData arrowLeft = IconData(
     0xe058,
     fontFamily: 'PhosphorBold',
@@ -1111,7 +1111,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineDown` no estilo Bold.
   ///
-  /// ![arrow-line-down](https://api.iconify.design/ph/arrow-line-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-down.png)
   static const IconData arrowLineDown = IconData(
     0xe05c,
     fontFamily: 'PhosphorBold',
@@ -1123,7 +1123,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineDownLeft` no estilo Bold.
   ///
-  /// ![arrow-line-down-left](https://api.iconify.design/ph/arrow-line-down-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-down-left.png)
   static const IconData arrowLineDownLeft = IconData(
     0xe05e,
     fontFamily: 'PhosphorBold',
@@ -1135,7 +1135,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineDownRight` no estilo Bold.
   ///
-  /// ![arrow-line-down-right](https://api.iconify.design/ph/arrow-line-down-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-down-right.png)
   static const IconData arrowLineDownRight = IconData(
     0xe060,
     fontFamily: 'PhosphorBold',
@@ -1147,7 +1147,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineLeft` no estilo Bold.
   ///
-  /// ![arrow-line-left](https://api.iconify.design/ph/arrow-line-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-left.png)
   static const IconData arrowLineLeft = IconData(
     0xe062,
     fontFamily: 'PhosphorBold',
@@ -1159,7 +1159,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineRight` no estilo Bold.
   ///
-  /// ![arrow-line-right](https://api.iconify.design/ph/arrow-line-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-right.png)
   static const IconData arrowLineRight = IconData(
     0xe064,
     fontFamily: 'PhosphorBold',
@@ -1171,7 +1171,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineUp` no estilo Bold.
   ///
-  /// ![arrow-line-up](https://api.iconify.design/ph/arrow-line-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-up.png)
   static const IconData arrowLineUp = IconData(
     0xe066,
     fontFamily: 'PhosphorBold',
@@ -1183,7 +1183,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineUpLeft` no estilo Bold.
   ///
-  /// ![arrow-line-up-left](https://api.iconify.design/ph/arrow-line-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-up-left.png)
   static const IconData arrowLineUpLeft = IconData(
     0xe068,
     fontFamily: 'PhosphorBold',
@@ -1195,7 +1195,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowLineUpRight` no estilo Bold.
   ///
-  /// ![arrow-line-up-right](https://api.iconify.design/ph/arrow-line-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-line-up-right.png)
   static const IconData arrowLineUpRight = IconData(
     0xe06a,
     fontFamily: 'PhosphorBold',
@@ -1207,7 +1207,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowRight` no estilo Bold.
   ///
-  /// ![arrow-right](https://api.iconify.design/ph/arrow-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-right.png)
   static const IconData arrowRight = IconData(
     0xe06c,
     fontFamily: 'PhosphorBold',
@@ -1219,7 +1219,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareDown` no estilo Bold.
   ///
-  /// ![arrow-square-down](https://api.iconify.design/ph/arrow-square-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-down.png)
   static const IconData arrowSquareDown = IconData(
     0xe06e,
     fontFamily: 'PhosphorBold',
@@ -1231,7 +1231,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareDownLeft` no estilo Bold.
   ///
-  /// ![arrow-square-down-left](https://api.iconify.design/ph/arrow-square-down-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-down-left.png)
   static const IconData arrowSquareDownLeft = IconData(
     0xe070,
     fontFamily: 'PhosphorBold',
@@ -1243,7 +1243,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareDownRight` no estilo Bold.
   ///
-  /// ![arrow-square-down-right](https://api.iconify.design/ph/arrow-square-down-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-down-right.png)
   static const IconData arrowSquareDownRight = IconData(
     0xe072,
     fontFamily: 'PhosphorBold',
@@ -1255,7 +1255,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareIn` no estilo Bold.
   ///
-  /// ![arrow-square-in](https://api.iconify.design/ph/arrow-square-in-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-in.png)
   static const IconData arrowSquareIn = IconData(
     0xe5dc,
     fontFamily: 'PhosphorBold',
@@ -1267,7 +1267,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareLeft` no estilo Bold.
   ///
-  /// ![arrow-square-left](https://api.iconify.design/ph/arrow-square-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-left.png)
   static const IconData arrowSquareLeft = IconData(
     0xe074,
     fontFamily: 'PhosphorBold',
@@ -1279,7 +1279,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareOut` no estilo Bold.
   ///
-  /// ![arrow-square-out](https://api.iconify.design/ph/arrow-square-out-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-out.png)
   static const IconData arrowSquareOut = IconData(
     0xe5de,
     fontFamily: 'PhosphorBold',
@@ -1291,7 +1291,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareRight` no estilo Bold.
   ///
-  /// ![arrow-square-right](https://api.iconify.design/ph/arrow-square-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-right.png)
   static const IconData arrowSquareRight = IconData(
     0xe076,
     fontFamily: 'PhosphorBold',
@@ -1303,7 +1303,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareUp` no estilo Bold.
   ///
-  /// ![arrow-square-up](https://api.iconify.design/ph/arrow-square-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-up.png)
   static const IconData arrowSquareUp = IconData(
     0xe078,
     fontFamily: 'PhosphorBold',
@@ -1315,7 +1315,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareUpLeft` no estilo Bold.
   ///
-  /// ![arrow-square-up-left](https://api.iconify.design/ph/arrow-square-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-up-left.png)
   static const IconData arrowSquareUpLeft = IconData(
     0xe07a,
     fontFamily: 'PhosphorBold',
@@ -1327,7 +1327,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowSquareUpRight` no estilo Bold.
   ///
-  /// ![arrow-square-up-right](https://api.iconify.design/ph/arrow-square-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-square-up-right.png)
   static const IconData arrowSquareUpRight = IconData(
     0xe07c,
     fontFamily: 'PhosphorBold',
@@ -1339,7 +1339,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowUDownLeft` no estilo Bold.
   ///
-  /// ![arrow-u-down-left](https://api.iconify.design/ph/arrow-u-down-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-down-left.png)
   static const IconData arrowUDownLeft = IconData(
     0xe07e,
     fontFamily: 'PhosphorBold',
@@ -1351,7 +1351,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowUDownRight` no estilo Bold.
   ///
-  /// ![arrow-u-down-right](https://api.iconify.design/ph/arrow-u-down-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-down-right.png)
   static const IconData arrowUDownRight = IconData(
     0xe080,
     fontFamily: 'PhosphorBold',
@@ -1363,7 +1363,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowULeftDown` no estilo Bold.
   ///
-  /// ![arrow-u-left-down](https://api.iconify.design/ph/arrow-u-left-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-left-down.png)
   static const IconData arrowULeftDown = IconData(
     0xe082,
     fontFamily: 'PhosphorBold',
@@ -1375,7 +1375,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowULeftUp` no estilo Bold.
   ///
-  /// ![arrow-u-left-up](https://api.iconify.design/ph/arrow-u-left-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-left-up.png)
   static const IconData arrowULeftUp = IconData(
     0xe084,
     fontFamily: 'PhosphorBold',
@@ -1387,7 +1387,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowURightDown` no estilo Bold.
   ///
-  /// ![arrow-u-right-down](https://api.iconify.design/ph/arrow-u-right-down-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-right-down.png)
   static const IconData arrowURightDown = IconData(
     0xe086,
     fontFamily: 'PhosphorBold',
@@ -1399,7 +1399,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowURightUp` no estilo Bold.
   ///
-  /// ![arrow-u-right-up](https://api.iconify.design/ph/arrow-u-right-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-right-up.png)
   static const IconData arrowURightUp = IconData(
     0xe088,
     fontFamily: 'PhosphorBold',
@@ -1411,7 +1411,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowUUpLeft` no estilo Bold.
   ///
-  /// ![arrow-u-up-left](https://api.iconify.design/ph/arrow-u-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-up-left.png)
   static const IconData arrowUUpLeft = IconData(
     0xe08a,
     fontFamily: 'PhosphorBold',
@@ -1423,7 +1423,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowUUpRight` no estilo Bold.
   ///
-  /// ![arrow-u-up-right](https://api.iconify.design/ph/arrow-u-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-u-up-right.png)
   static const IconData arrowUUpRight = IconData(
     0xe08c,
     fontFamily: 'PhosphorBold',
@@ -1435,7 +1435,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowUp` no estilo Bold.
   ///
-  /// ![arrow-up](https://api.iconify.design/ph/arrow-up-bold.svg?height=32&color=%23888888)
+  /// ![arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-up.png)
   static const IconData arrowUp = IconData(
     0xe08e,
     fontFamily: 'PhosphorBold',
@@ -1447,7 +1447,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowUpLeft` no estilo Bold.
   ///
-  /// ![arrow-up-left](https://api.iconify.design/ph/arrow-up-left-bold.svg?height=32&color=%23888888)
+  /// ![arrow-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-up-left.png)
   static const IconData arrowUpLeft = IconData(
     0xe090,
     fontFamily: 'PhosphorBold',
@@ -1459,7 +1459,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowUpRight` no estilo Bold.
   ///
-  /// ![arrow-up-right](https://api.iconify.design/ph/arrow-up-right-bold.svg?height=32&color=%23888888)
+  /// ![arrow-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrow-up-right.png)
   static const IconData arrowUpRight = IconData(
     0xe092,
     fontFamily: 'PhosphorBold',
@@ -1471,7 +1471,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsClockwise` no estilo Bold.
   ///
-  /// ![arrows-clockwise](https://api.iconify.design/ph/arrows-clockwise-bold.svg?height=32&color=%23888888)
+  /// ![arrows-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-clockwise.png)
   static const IconData arrowsClockwise = IconData(
     0xe094,
     fontFamily: 'PhosphorBold',
@@ -1483,7 +1483,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsCounterClockwise` no estilo Bold.
   ///
-  /// ![arrows-counter-clockwise](https://api.iconify.design/ph/arrows-counter-clockwise-bold.svg?height=32&color=%23888888)
+  /// ![arrows-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-counter-clockwise.png)
   static const IconData arrowsCounterClockwise = IconData(
     0xe096,
     fontFamily: 'PhosphorBold',
@@ -1495,7 +1495,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsDownUp` no estilo Bold.
   ///
-  /// ![arrows-down-up](https://api.iconify.design/ph/arrows-down-up-bold.svg?height=32&color=%23888888)
+  /// ![arrows-down-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-down-up.png)
   static const IconData arrowsDownUp = IconData(
     0xe098,
     fontFamily: 'PhosphorBold',
@@ -1507,7 +1507,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsHorizontal` no estilo Bold.
   ///
-  /// ![arrows-horizontal](https://api.iconify.design/ph/arrows-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![arrows-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-horizontal.png)
   static const IconData arrowsHorizontal = IconData(
     0xeb06,
     fontFamily: 'PhosphorBold',
@@ -1519,7 +1519,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsIn` no estilo Bold.
   ///
-  /// ![arrows-in](https://api.iconify.design/ph/arrows-in-bold.svg?height=32&color=%23888888)
+  /// ![arrows-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-in.png)
   static const IconData arrowsIn = IconData(
     0xe09a,
     fontFamily: 'PhosphorBold',
@@ -1531,7 +1531,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsInCardinal` no estilo Bold.
   ///
-  /// ![arrows-in-cardinal](https://api.iconify.design/ph/arrows-in-cardinal-bold.svg?height=32&color=%23888888)
+  /// ![arrows-in-cardinal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-in-cardinal.png)
   static const IconData arrowsInCardinal = IconData(
     0xe09c,
     fontFamily: 'PhosphorBold',
@@ -1543,7 +1543,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsInLineHorizontal` no estilo Bold.
   ///
-  /// ![arrows-in-line-horizontal](https://api.iconify.design/ph/arrows-in-line-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-in-line-horizontal.png)
   static const IconData arrowsInLineHorizontal = IconData(
     0xe530,
     fontFamily: 'PhosphorBold',
@@ -1555,7 +1555,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsInLineVertical` no estilo Bold.
   ///
-  /// ![arrows-in-line-vertical](https://api.iconify.design/ph/arrows-in-line-vertical-bold.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-in-line-vertical.png)
   static const IconData arrowsInLineVertical = IconData(
     0xe532,
     fontFamily: 'PhosphorBold',
@@ -1567,7 +1567,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsInSimple` no estilo Bold.
   ///
-  /// ![arrows-in-simple](https://api.iconify.design/ph/arrows-in-simple-bold.svg?height=32&color=%23888888)
+  /// ![arrows-in-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-in-simple.png)
   static const IconData arrowsInSimple = IconData(
     0xe09e,
     fontFamily: 'PhosphorBold',
@@ -1579,7 +1579,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsLeftRight` no estilo Bold.
   ///
-  /// ![arrows-left-right](https://api.iconify.design/ph/arrows-left-right-bold.svg?height=32&color=%23888888)
+  /// ![arrows-left-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-left-right.png)
   static const IconData arrowsLeftRight = IconData(
     0xe0a0,
     fontFamily: 'PhosphorBold',
@@ -1591,7 +1591,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsMerge` no estilo Bold.
   ///
-  /// ![arrows-merge](https://api.iconify.design/ph/arrows-merge-bold.svg?height=32&color=%23888888)
+  /// ![arrows-merge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-merge.png)
   static const IconData arrowsMerge = IconData(
     0xed3e,
     fontFamily: 'PhosphorBold',
@@ -1603,7 +1603,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsOut` no estilo Bold.
   ///
-  /// ![arrows-out](https://api.iconify.design/ph/arrows-out-bold.svg?height=32&color=%23888888)
+  /// ![arrows-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-out.png)
   static const IconData arrowsOut = IconData(
     0xe0a2,
     fontFamily: 'PhosphorBold',
@@ -1615,7 +1615,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsOutCardinal` no estilo Bold.
   ///
-  /// ![arrows-out-cardinal](https://api.iconify.design/ph/arrows-out-cardinal-bold.svg?height=32&color=%23888888)
+  /// ![arrows-out-cardinal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-out-cardinal.png)
   static const IconData arrowsOutCardinal = IconData(
     0xe0a4,
     fontFamily: 'PhosphorBold',
@@ -1627,7 +1627,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Bold.
   ///
-  /// ![arrows-out-line-horizontal](https://api.iconify.design/ph/arrows-out-line-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-out-line-horizontal.png)
   static const IconData arrowsOutLineHorizontal = IconData(
     0xe534,
     fontFamily: 'PhosphorBold',
@@ -1639,7 +1639,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsOutLineVertical` no estilo Bold.
   ///
-  /// ![arrows-out-line-vertical](https://api.iconify.design/ph/arrows-out-line-vertical-bold.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-out-line-vertical.png)
   static const IconData arrowsOutLineVertical = IconData(
     0xe536,
     fontFamily: 'PhosphorBold',
@@ -1651,7 +1651,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsOutSimple` no estilo Bold.
   ///
-  /// ![arrows-out-simple](https://api.iconify.design/ph/arrows-out-simple-bold.svg?height=32&color=%23888888)
+  /// ![arrows-out-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-out-simple.png)
   static const IconData arrowsOutSimple = IconData(
     0xe0a6,
     fontFamily: 'PhosphorBold',
@@ -1663,7 +1663,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsSplit` no estilo Bold.
   ///
-  /// ![arrows-split](https://api.iconify.design/ph/arrows-split-bold.svg?height=32&color=%23888888)
+  /// ![arrows-split](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-split.png)
   static const IconData arrowsSplit = IconData(
     0xed3c,
     fontFamily: 'PhosphorBold',
@@ -1675,7 +1675,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `arrowsVertical` no estilo Bold.
   ///
-  /// ![arrows-vertical](https://api.iconify.design/ph/arrows-vertical-bold.svg?height=32&color=%23888888)
+  /// ![arrows-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/arrows-vertical.png)
   static const IconData arrowsVertical = IconData(
     0xeb04,
     fontFamily: 'PhosphorBold',
@@ -1687,7 +1687,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `article` no estilo Bold.
   ///
-  /// ![article](https://api.iconify.design/ph/article-bold.svg?height=32&color=%23888888)
+  /// ![article](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/article.png)
   static const IconData article = IconData(
     0xe0a8,
     fontFamily: 'PhosphorBold',
@@ -1699,7 +1699,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `articleMedium` no estilo Bold.
   ///
-  /// ![article-medium](https://api.iconify.design/ph/article-medium-bold.svg?height=32&color=%23888888)
+  /// ![article-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/article-medium.png)
   static const IconData articleMedium = IconData(
     0xe5e0,
     fontFamily: 'PhosphorBold',
@@ -1711,7 +1711,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `articleNyTimes` no estilo Bold.
   ///
-  /// ![article-ny-times](https://api.iconify.design/ph/article-ny-times-bold.svg?height=32&color=%23888888)
+  /// ![article-ny-times](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/article-ny-times.png)
   static const IconData articleNyTimes = IconData(
     0xe5e2,
     fontFamily: 'PhosphorBold',
@@ -1723,7 +1723,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `asclepius` no estilo Bold.
   ///
-  /// ![asclepius](https://api.iconify.design/ph/asclepius-bold.svg?height=32&color=%23888888)
+  /// ![asclepius](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/asclepius.png)
   static const IconData asclepius = IconData(
     0xee34,
     fontFamily: 'PhosphorBold',
@@ -1735,7 +1735,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `asterisk` no estilo Bold.
   ///
-  /// ![asterisk](https://api.iconify.design/ph/asterisk-bold.svg?height=32&color=%23888888)
+  /// ![asterisk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/asterisk.png)
   static const IconData asterisk = IconData(
     0xe0aa,
     fontFamily: 'PhosphorBold',
@@ -1747,7 +1747,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `asteriskSimple` no estilo Bold.
   ///
-  /// ![asterisk-simple](https://api.iconify.design/ph/asterisk-simple-bold.svg?height=32&color=%23888888)
+  /// ![asterisk-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/asterisk-simple.png)
   static const IconData asteriskSimple = IconData(
     0xe832,
     fontFamily: 'PhosphorBold',
@@ -1759,7 +1759,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `at` no estilo Bold.
   ///
-  /// ![at](https://api.iconify.design/ph/at-bold.svg?height=32&color=%23888888)
+  /// ![at](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/at.png)
   static const IconData at = IconData(
     0xe0ac,
     fontFamily: 'PhosphorBold',
@@ -1771,7 +1771,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `atom` no estilo Bold.
   ///
-  /// ![atom](https://api.iconify.design/ph/atom-bold.svg?height=32&color=%23888888)
+  /// ![atom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/atom.png)
   static const IconData atom = IconData(
     0xe5e4,
     fontFamily: 'PhosphorBold',
@@ -1783,7 +1783,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `avocado` no estilo Bold.
   ///
-  /// ![avocado](https://api.iconify.design/ph/avocado-bold.svg?height=32&color=%23888888)
+  /// ![avocado](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/avocado.png)
   static const IconData avocado = IconData(
     0xee04,
     fontFamily: 'PhosphorBold',
@@ -1795,7 +1795,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `axe` no estilo Bold.
   ///
-  /// ![axe](https://api.iconify.design/ph/axe-bold.svg?height=32&color=%23888888)
+  /// ![axe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/axe.png)
   static const IconData axe = IconData(
     0xe9fc,
     fontFamily: 'PhosphorBold',
@@ -1807,7 +1807,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `baby` no estilo Bold.
   ///
-  /// ![baby](https://api.iconify.design/ph/baby-bold.svg?height=32&color=%23888888)
+  /// ![baby](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/baby.png)
   static const IconData baby = IconData(
     0xe774,
     fontFamily: 'PhosphorBold',
@@ -1819,7 +1819,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `babyCarriage` no estilo Bold.
   ///
-  /// ![baby-carriage](https://api.iconify.design/ph/baby-carriage-bold.svg?height=32&color=%23888888)
+  /// ![baby-carriage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/baby-carriage.png)
   static const IconData babyCarriage = IconData(
     0xe818,
     fontFamily: 'PhosphorBold',
@@ -1831,7 +1831,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `backpack` no estilo Bold.
   ///
-  /// ![backpack](https://api.iconify.design/ph/backpack-bold.svg?height=32&color=%23888888)
+  /// ![backpack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/backpack.png)
   static const IconData backpack = IconData(
     0xe922,
     fontFamily: 'PhosphorBold',
@@ -1843,7 +1843,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `backspace` no estilo Bold.
   ///
-  /// ![backspace](https://api.iconify.design/ph/backspace-bold.svg?height=32&color=%23888888)
+  /// ![backspace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/backspace.png)
   static const IconData backspace = IconData(
     0xe0ae,
     fontFamily: 'PhosphorBold',
@@ -1855,7 +1855,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bag` no estilo Bold.
   ///
-  /// ![bag](https://api.iconify.design/ph/bag-bold.svg?height=32&color=%23888888)
+  /// ![bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bag.png)
   static const IconData bag = IconData(
     0xe0b0,
     fontFamily: 'PhosphorBold',
@@ -1867,7 +1867,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bagSimple` no estilo Bold.
   ///
-  /// ![bag-simple](https://api.iconify.design/ph/bag-simple-bold.svg?height=32&color=%23888888)
+  /// ![bag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bag-simple.png)
   static const IconData bagSimple = IconData(
     0xe5e6,
     fontFamily: 'PhosphorBold',
@@ -1879,7 +1879,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `balloon` no estilo Bold.
   ///
-  /// ![balloon](https://api.iconify.design/ph/balloon-bold.svg?height=32&color=%23888888)
+  /// ![balloon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/balloon.png)
   static const IconData balloon = IconData(
     0xe76c,
     fontFamily: 'PhosphorBold',
@@ -1891,7 +1891,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bandaids` no estilo Bold.
   ///
-  /// ![bandaids](https://api.iconify.design/ph/bandaids-bold.svg?height=32&color=%23888888)
+  /// ![bandaids](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bandaids.png)
   static const IconData bandaids = IconData(
     0xe0b2,
     fontFamily: 'PhosphorBold',
@@ -1903,7 +1903,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bank` no estilo Bold.
   ///
-  /// ![bank](https://api.iconify.design/ph/bank-bold.svg?height=32&color=%23888888)
+  /// ![bank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bank.png)
   static const IconData bank = IconData(
     0xe0b4,
     fontFamily: 'PhosphorBold',
@@ -1915,7 +1915,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `barbell` no estilo Bold.
   ///
-  /// ![barbell](https://api.iconify.design/ph/barbell-bold.svg?height=32&color=%23888888)
+  /// ![barbell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/barbell.png)
   static const IconData barbell = IconData(
     0xe0b6,
     fontFamily: 'PhosphorBold',
@@ -1927,7 +1927,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `barcode` no estilo Bold.
   ///
-  /// ![barcode](https://api.iconify.design/ph/barcode-bold.svg?height=32&color=%23888888)
+  /// ![barcode](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/barcode.png)
   static const IconData barcode = IconData(
     0xe0b8,
     fontFamily: 'PhosphorBold',
@@ -1939,7 +1939,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `barn` no estilo Bold.
   ///
-  /// ![barn](https://api.iconify.design/ph/barn-bold.svg?height=32&color=%23888888)
+  /// ![barn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/barn.png)
   static const IconData barn = IconData(
     0xec72,
     fontFamily: 'PhosphorBold',
@@ -1951,7 +1951,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `barricade` no estilo Bold.
   ///
-  /// ![barricade](https://api.iconify.design/ph/barricade-bold.svg?height=32&color=%23888888)
+  /// ![barricade](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/barricade.png)
   static const IconData barricade = IconData(
     0xe948,
     fontFamily: 'PhosphorBold',
@@ -1963,7 +1963,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `baseball` no estilo Bold.
   ///
-  /// ![baseball](https://api.iconify.design/ph/baseball-bold.svg?height=32&color=%23888888)
+  /// ![baseball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/baseball.png)
   static const IconData baseball = IconData(
     0xe71a,
     fontFamily: 'PhosphorBold',
@@ -1975,7 +1975,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `baseballCap` no estilo Bold.
   ///
-  /// ![baseball-cap](https://api.iconify.design/ph/baseball-cap-bold.svg?height=32&color=%23888888)
+  /// ![baseball-cap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/baseball-cap.png)
   static const IconData baseballCap = IconData(
     0xea28,
     fontFamily: 'PhosphorBold',
@@ -1987,7 +1987,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `baseballHelmet` no estilo Bold.
   ///
-  /// ![baseball-helmet](https://api.iconify.design/ph/baseball-helmet-bold.svg?height=32&color=%23888888)
+  /// ![baseball-helmet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/baseball-helmet.png)
   static const IconData baseballHelmet = IconData(
     0xee4a,
     fontFamily: 'PhosphorBold',
@@ -1999,7 +1999,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `basket` no estilo Bold.
   ///
-  /// ![basket](https://api.iconify.design/ph/basket-bold.svg?height=32&color=%23888888)
+  /// ![basket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/basket.png)
   static const IconData basket = IconData(
     0xe964,
     fontFamily: 'PhosphorBold',
@@ -2011,7 +2011,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `basketball` no estilo Bold.
   ///
-  /// ![basketball](https://api.iconify.design/ph/basketball-bold.svg?height=32&color=%23888888)
+  /// ![basketball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/basketball.png)
   static const IconData basketball = IconData(
     0xe724,
     fontFamily: 'PhosphorBold',
@@ -2023,7 +2023,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bathtub` no estilo Bold.
   ///
-  /// ![bathtub](https://api.iconify.design/ph/bathtub-bold.svg?height=32&color=%23888888)
+  /// ![bathtub](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bathtub.png)
   static const IconData bathtub = IconData(
     0xe81e,
     fontFamily: 'PhosphorBold',
@@ -2035,7 +2035,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryCharging` no estilo Bold.
   ///
-  /// ![battery-charging](https://api.iconify.design/ph/battery-charging-bold.svg?height=32&color=%23888888)
+  /// ![battery-charging](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-charging.png)
   static const IconData batteryCharging = IconData(
     0xe0ba,
     fontFamily: 'PhosphorBold',
@@ -2047,7 +2047,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryChargingVertical` no estilo Bold.
   ///
-  /// ![battery-charging-vertical](https://api.iconify.design/ph/battery-charging-vertical-bold.svg?height=32&color=%23888888)
+  /// ![battery-charging-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-charging-vertical.png)
   static const IconData batteryChargingVertical = IconData(
     0xe0bc,
     fontFamily: 'PhosphorBold',
@@ -2059,7 +2059,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryEmpty` no estilo Bold.
   ///
-  /// ![battery-empty](https://api.iconify.design/ph/battery-empty-bold.svg?height=32&color=%23888888)
+  /// ![battery-empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-empty.png)
   static const IconData batteryEmpty = IconData(
     0xe0be,
     fontFamily: 'PhosphorBold',
@@ -2071,7 +2071,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryFull` no estilo Bold.
   ///
-  /// ![battery-full](https://api.iconify.design/ph/battery-full-bold.svg?height=32&color=%23888888)
+  /// ![battery-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-full.png)
   static const IconData batteryFull = IconData(
     0xe0c0,
     fontFamily: 'PhosphorBold',
@@ -2083,7 +2083,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryHigh` no estilo Bold.
   ///
-  /// ![battery-high](https://api.iconify.design/ph/battery-high-bold.svg?height=32&color=%23888888)
+  /// ![battery-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-high.png)
   static const IconData batteryHigh = IconData(
     0xe0c2,
     fontFamily: 'PhosphorBold',
@@ -2095,7 +2095,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryLow` no estilo Bold.
   ///
-  /// ![battery-low](https://api.iconify.design/ph/battery-low-bold.svg?height=32&color=%23888888)
+  /// ![battery-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-low.png)
   static const IconData batteryLow = IconData(
     0xe0c4,
     fontFamily: 'PhosphorBold',
@@ -2107,7 +2107,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryMedium` no estilo Bold.
   ///
-  /// ![battery-medium](https://api.iconify.design/ph/battery-medium-bold.svg?height=32&color=%23888888)
+  /// ![battery-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-medium.png)
   static const IconData batteryMedium = IconData(
     0xe0c6,
     fontFamily: 'PhosphorBold',
@@ -2119,7 +2119,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryPlus` no estilo Bold.
   ///
-  /// ![battery-plus](https://api.iconify.design/ph/battery-plus-bold.svg?height=32&color=%23888888)
+  /// ![battery-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-plus.png)
   static const IconData batteryPlus = IconData(
     0xe808,
     fontFamily: 'PhosphorBold',
@@ -2131,7 +2131,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryPlusVertical` no estilo Bold.
   ///
-  /// ![battery-plus-vertical](https://api.iconify.design/ph/battery-plus-vertical-bold.svg?height=32&color=%23888888)
+  /// ![battery-plus-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-plus-vertical.png)
   static const IconData batteryPlusVertical = IconData(
     0xec50,
     fontFamily: 'PhosphorBold',
@@ -2143,7 +2143,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryVerticalEmpty` no estilo Bold.
   ///
-  /// ![battery-vertical-empty](https://api.iconify.design/ph/battery-vertical-empty-bold.svg?height=32&color=%23888888)
+  /// ![battery-vertical-empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-vertical-empty.png)
   static const IconData batteryVerticalEmpty = IconData(
     0xe7c6,
     fontFamily: 'PhosphorBold',
@@ -2155,7 +2155,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryVerticalFull` no estilo Bold.
   ///
-  /// ![battery-vertical-full](https://api.iconify.design/ph/battery-vertical-full-bold.svg?height=32&color=%23888888)
+  /// ![battery-vertical-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-vertical-full.png)
   static const IconData batteryVerticalFull = IconData(
     0xe7c4,
     fontFamily: 'PhosphorBold',
@@ -2167,7 +2167,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryVerticalHigh` no estilo Bold.
   ///
-  /// ![battery-vertical-high](https://api.iconify.design/ph/battery-vertical-high-bold.svg?height=32&color=%23888888)
+  /// ![battery-vertical-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-vertical-high.png)
   static const IconData batteryVerticalHigh = IconData(
     0xe7c2,
     fontFamily: 'PhosphorBold',
@@ -2179,7 +2179,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryVerticalLow` no estilo Bold.
   ///
-  /// ![battery-vertical-low](https://api.iconify.design/ph/battery-vertical-low-bold.svg?height=32&color=%23888888)
+  /// ![battery-vertical-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-vertical-low.png)
   static const IconData batteryVerticalLow = IconData(
     0xe7be,
     fontFamily: 'PhosphorBold',
@@ -2191,7 +2191,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryVerticalMedium` no estilo Bold.
   ///
-  /// ![battery-vertical-medium](https://api.iconify.design/ph/battery-vertical-medium-bold.svg?height=32&color=%23888888)
+  /// ![battery-vertical-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-vertical-medium.png)
   static const IconData batteryVerticalMedium = IconData(
     0xe7c0,
     fontFamily: 'PhosphorBold',
@@ -2203,7 +2203,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryWarning` no estilo Bold.
   ///
-  /// ![battery-warning](https://api.iconify.design/ph/battery-warning-bold.svg?height=32&color=%23888888)
+  /// ![battery-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-warning.png)
   static const IconData batteryWarning = IconData(
     0xe0c8,
     fontFamily: 'PhosphorBold',
@@ -2215,7 +2215,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `batteryWarningVertical` no estilo Bold.
   ///
-  /// ![battery-warning-vertical](https://api.iconify.design/ph/battery-warning-vertical-bold.svg?height=32&color=%23888888)
+  /// ![battery-warning-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/battery-warning-vertical.png)
   static const IconData batteryWarningVertical = IconData(
     0xe0ca,
     fontFamily: 'PhosphorBold',
@@ -2227,7 +2227,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `beachBall` no estilo Bold.
   ///
-  /// ![beach-ball](https://api.iconify.design/ph/beach-ball-bold.svg?height=32&color=%23888888)
+  /// ![beach-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/beach-ball.png)
   static const IconData beachBall = IconData(
     0xed24,
     fontFamily: 'PhosphorBold',
@@ -2239,7 +2239,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `beanie` no estilo Bold.
   ///
-  /// ![beanie](https://api.iconify.design/ph/beanie-bold.svg?height=32&color=%23888888)
+  /// ![beanie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/beanie.png)
   static const IconData beanie = IconData(
     0xea2a,
     fontFamily: 'PhosphorBold',
@@ -2251,7 +2251,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bed` no estilo Bold.
   ///
-  /// ![bed](https://api.iconify.design/ph/bed-bold.svg?height=32&color=%23888888)
+  /// ![bed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bed.png)
   static const IconData bed = IconData(
     0xe0cc,
     fontFamily: 'PhosphorBold',
@@ -2263,7 +2263,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `beerBottle` no estilo Bold.
   ///
-  /// ![beer-bottle](https://api.iconify.design/ph/beer-bottle-bold.svg?height=32&color=%23888888)
+  /// ![beer-bottle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/beer-bottle.png)
   static const IconData beerBottle = IconData(
     0xe7b0,
     fontFamily: 'PhosphorBold',
@@ -2275,7 +2275,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `beerStein` no estilo Bold.
   ///
-  /// ![beer-stein](https://api.iconify.design/ph/beer-stein-bold.svg?height=32&color=%23888888)
+  /// ![beer-stein](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/beer-stein.png)
   static const IconData beerStein = IconData(
     0xeb62,
     fontFamily: 'PhosphorBold',
@@ -2287,7 +2287,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `behanceLogo` no estilo Bold.
   ///
-  /// ![behance-logo](https://api.iconify.design/ph/behance-logo-bold.svg?height=32&color=%23888888)
+  /// ![behance-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/behance-logo.png)
   static const IconData behanceLogo = IconData(
     0xe7f4,
     fontFamily: 'PhosphorBold',
@@ -2299,7 +2299,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bell` no estilo Bold.
   ///
-  /// ![bell](https://api.iconify.design/ph/bell-bold.svg?height=32&color=%23888888)
+  /// ![bell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell.png)
   static const IconData bell = IconData(
     0xe0ce,
     fontFamily: 'PhosphorBold',
@@ -2311,7 +2311,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bellRinging` no estilo Bold.
   ///
-  /// ![bell-ringing](https://api.iconify.design/ph/bell-ringing-bold.svg?height=32&color=%23888888)
+  /// ![bell-ringing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell-ringing.png)
   static const IconData bellRinging = IconData(
     0xe5e8,
     fontFamily: 'PhosphorBold',
@@ -2323,7 +2323,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bellSimple` no estilo Bold.
   ///
-  /// ![bell-simple](https://api.iconify.design/ph/bell-simple-bold.svg?height=32&color=%23888888)
+  /// ![bell-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell-simple.png)
   static const IconData bellSimple = IconData(
     0xe0d0,
     fontFamily: 'PhosphorBold',
@@ -2335,7 +2335,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bellSimpleRinging` no estilo Bold.
   ///
-  /// ![bell-simple-ringing](https://api.iconify.design/ph/bell-simple-ringing-bold.svg?height=32&color=%23888888)
+  /// ![bell-simple-ringing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell-simple-ringing.png)
   static const IconData bellSimpleRinging = IconData(
     0xe5ea,
     fontFamily: 'PhosphorBold',
@@ -2347,7 +2347,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bellSimpleSlash` no estilo Bold.
   ///
-  /// ![bell-simple-slash](https://api.iconify.design/ph/bell-simple-slash-bold.svg?height=32&color=%23888888)
+  /// ![bell-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell-simple-slash.png)
   static const IconData bellSimpleSlash = IconData(
     0xe0d2,
     fontFamily: 'PhosphorBold',
@@ -2359,7 +2359,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bellSimpleZ` no estilo Bold.
   ///
-  /// ![bell-simple-z](https://api.iconify.design/ph/bell-simple-z-bold.svg?height=32&color=%23888888)
+  /// ![bell-simple-z](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell-simple-z.png)
   static const IconData bellSimpleZ = IconData(
     0xe5ec,
     fontFamily: 'PhosphorBold',
@@ -2371,7 +2371,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bellSlash` no estilo Bold.
   ///
-  /// ![bell-slash](https://api.iconify.design/ph/bell-slash-bold.svg?height=32&color=%23888888)
+  /// ![bell-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell-slash.png)
   static const IconData bellSlash = IconData(
     0xe0d4,
     fontFamily: 'PhosphorBold',
@@ -2383,7 +2383,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bellZ` no estilo Bold.
   ///
-  /// ![bell-z](https://api.iconify.design/ph/bell-z-bold.svg?height=32&color=%23888888)
+  /// ![bell-z](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bell-z.png)
   static const IconData bellZ = IconData(
     0xe5ee,
     fontFamily: 'PhosphorBold',
@@ -2395,7 +2395,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `belt` no estilo Bold.
   ///
-  /// ![belt](https://api.iconify.design/ph/belt-bold.svg?height=32&color=%23888888)
+  /// ![belt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/belt.png)
   static const IconData belt = IconData(
     0xea2c,
     fontFamily: 'PhosphorBold',
@@ -2407,7 +2407,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bezierCurve` no estilo Bold.
   ///
-  /// ![bezier-curve](https://api.iconify.design/ph/bezier-curve-bold.svg?height=32&color=%23888888)
+  /// ![bezier-curve](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bezier-curve.png)
   static const IconData bezierCurve = IconData(
     0xeb00,
     fontFamily: 'PhosphorBold',
@@ -2419,7 +2419,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bicycle` no estilo Bold.
   ///
-  /// ![bicycle](https://api.iconify.design/ph/bicycle-bold.svg?height=32&color=%23888888)
+  /// ![bicycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bicycle.png)
   static const IconData bicycle = IconData(
     0xe0d6,
     fontFamily: 'PhosphorBold',
@@ -2431,7 +2431,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `binary` no estilo Bold.
   ///
-  /// ![binary](https://api.iconify.design/ph/binary-bold.svg?height=32&color=%23888888)
+  /// ![binary](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/binary.png)
   static const IconData binary = IconData(
     0xee60,
     fontFamily: 'PhosphorBold',
@@ -2443,7 +2443,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `binoculars` no estilo Bold.
   ///
-  /// ![binoculars](https://api.iconify.design/ph/binoculars-bold.svg?height=32&color=%23888888)
+  /// ![binoculars](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/binoculars.png)
   static const IconData binoculars = IconData(
     0xea64,
     fontFamily: 'PhosphorBold',
@@ -2455,7 +2455,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `biohazard` no estilo Bold.
   ///
-  /// ![biohazard](https://api.iconify.design/ph/biohazard-bold.svg?height=32&color=%23888888)
+  /// ![biohazard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/biohazard.png)
   static const IconData biohazard = IconData(
     0xe9e0,
     fontFamily: 'PhosphorBold',
@@ -2467,7 +2467,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bird` no estilo Bold.
   ///
-  /// ![bird](https://api.iconify.design/ph/bird-bold.svg?height=32&color=%23888888)
+  /// ![bird](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bird.png)
   static const IconData bird = IconData(
     0xe72c,
     fontFamily: 'PhosphorBold',
@@ -2479,7 +2479,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `blueprint` no estilo Bold.
   ///
-  /// ![blueprint](https://api.iconify.design/ph/blueprint-bold.svg?height=32&color=%23888888)
+  /// ![blueprint](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/blueprint.png)
   static const IconData blueprint = IconData(
     0xeda0,
     fontFamily: 'PhosphorBold',
@@ -2491,7 +2491,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bluetooth` no estilo Bold.
   ///
-  /// ![bluetooth](https://api.iconify.design/ph/bluetooth-bold.svg?height=32&color=%23888888)
+  /// ![bluetooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bluetooth.png)
   static const IconData bluetooth = IconData(
     0xe0da,
     fontFamily: 'PhosphorBold',
@@ -2503,7 +2503,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bluetoothConnected` no estilo Bold.
   ///
-  /// ![bluetooth-connected](https://api.iconify.design/ph/bluetooth-connected-bold.svg?height=32&color=%23888888)
+  /// ![bluetooth-connected](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bluetooth-connected.png)
   static const IconData bluetoothConnected = IconData(
     0xe0dc,
     fontFamily: 'PhosphorBold',
@@ -2515,7 +2515,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bluetoothSlash` no estilo Bold.
   ///
-  /// ![bluetooth-slash](https://api.iconify.design/ph/bluetooth-slash-bold.svg?height=32&color=%23888888)
+  /// ![bluetooth-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bluetooth-slash.png)
   static const IconData bluetoothSlash = IconData(
     0xe0de,
     fontFamily: 'PhosphorBold',
@@ -2527,7 +2527,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bluetoothX` no estilo Bold.
   ///
-  /// ![bluetooth-x](https://api.iconify.design/ph/bluetooth-x-bold.svg?height=32&color=%23888888)
+  /// ![bluetooth-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bluetooth-x.png)
   static const IconData bluetoothX = IconData(
     0xe0e0,
     fontFamily: 'PhosphorBold',
@@ -2539,7 +2539,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `boat` no estilo Bold.
   ///
-  /// ![boat](https://api.iconify.design/ph/boat-bold.svg?height=32&color=%23888888)
+  /// ![boat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/boat.png)
   static const IconData boat = IconData(
     0xe786,
     fontFamily: 'PhosphorBold',
@@ -2551,7 +2551,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bomb` no estilo Bold.
   ///
-  /// ![bomb](https://api.iconify.design/ph/bomb-bold.svg?height=32&color=%23888888)
+  /// ![bomb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bomb.png)
   static const IconData bomb = IconData(
     0xee0a,
     fontFamily: 'PhosphorBold',
@@ -2563,7 +2563,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bone` no estilo Bold.
   ///
-  /// ![bone](https://api.iconify.design/ph/bone-bold.svg?height=32&color=%23888888)
+  /// ![bone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bone.png)
   static const IconData bone = IconData(
     0xe7f2,
     fontFamily: 'PhosphorBold',
@@ -2575,7 +2575,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `book` no estilo Bold.
   ///
-  /// ![book](https://api.iconify.design/ph/book-bold.svg?height=32&color=%23888888)
+  /// ![book](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/book.png)
   static const IconData book = IconData(
     0xe0e2,
     fontFamily: 'PhosphorBold',
@@ -2587,7 +2587,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookBookmark` no estilo Bold.
   ///
-  /// ![book-bookmark](https://api.iconify.design/ph/book-bookmark-bold.svg?height=32&color=%23888888)
+  /// ![book-bookmark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/book-bookmark.png)
   static const IconData bookBookmark = IconData(
     0xe0e4,
     fontFamily: 'PhosphorBold',
@@ -2599,7 +2599,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookOpen` no estilo Bold.
   ///
-  /// ![book-open](https://api.iconify.design/ph/book-open-bold.svg?height=32&color=%23888888)
+  /// ![book-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/book-open.png)
   static const IconData bookOpen = IconData(
     0xe0e6,
     fontFamily: 'PhosphorBold',
@@ -2611,7 +2611,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookOpenText` no estilo Bold.
   ///
-  /// ![book-open-text](https://api.iconify.design/ph/book-open-text-bold.svg?height=32&color=%23888888)
+  /// ![book-open-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/book-open-text.png)
   static const IconData bookOpenText = IconData(
     0xe8f2,
     fontFamily: 'PhosphorBold',
@@ -2623,7 +2623,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookOpenUser` no estilo Bold.
   ///
-  /// ![book-open-user](https://api.iconify.design/ph/book-open-user-bold.svg?height=32&color=%23888888)
+  /// ![book-open-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/book-open-user.png)
   static const IconData bookOpenUser = IconData(
     0xede0,
     fontFamily: 'PhosphorBold',
@@ -2635,7 +2635,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookmark` no estilo Bold.
   ///
-  /// ![bookmark](https://api.iconify.design/ph/bookmark-bold.svg?height=32&color=%23888888)
+  /// ![bookmark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bookmark.png)
   static const IconData bookmark = IconData(
     0xe0e8,
     fontFamily: 'PhosphorBold',
@@ -2647,7 +2647,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookmarkSimple` no estilo Bold.
   ///
-  /// ![bookmark-simple](https://api.iconify.design/ph/bookmark-simple-bold.svg?height=32&color=%23888888)
+  /// ![bookmark-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bookmark-simple.png)
   static const IconData bookmarkSimple = IconData(
     0xe0ea,
     fontFamily: 'PhosphorBold',
@@ -2659,7 +2659,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookmarks` no estilo Bold.
   ///
-  /// ![bookmarks](https://api.iconify.design/ph/bookmarks-bold.svg?height=32&color=%23888888)
+  /// ![bookmarks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bookmarks.png)
   static const IconData bookmarks = IconData(
     0xe0ec,
     fontFamily: 'PhosphorBold',
@@ -2671,7 +2671,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bookmarksSimple` no estilo Bold.
   ///
-  /// ![bookmarks-simple](https://api.iconify.design/ph/bookmarks-simple-bold.svg?height=32&color=%23888888)
+  /// ![bookmarks-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bookmarks-simple.png)
   static const IconData bookmarksSimple = IconData(
     0xe5f0,
     fontFamily: 'PhosphorBold',
@@ -2683,7 +2683,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `books` no estilo Bold.
   ///
-  /// ![books](https://api.iconify.design/ph/books-bold.svg?height=32&color=%23888888)
+  /// ![books](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/books.png)
   static const IconData books = IconData(
     0xe758,
     fontFamily: 'PhosphorBold',
@@ -2695,7 +2695,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `boot` no estilo Bold.
   ///
-  /// ![boot](https://api.iconify.design/ph/boot-bold.svg?height=32&color=%23888888)
+  /// ![boot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/boot.png)
   static const IconData boot = IconData(
     0xecca,
     fontFamily: 'PhosphorBold',
@@ -2707,7 +2707,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `boules` no estilo Bold.
   ///
-  /// ![boules](https://api.iconify.design/ph/boules-bold.svg?height=32&color=%23888888)
+  /// ![boules](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/boules.png)
   static const IconData boules = IconData(
     0xe722,
     fontFamily: 'PhosphorBold',
@@ -2719,7 +2719,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `boundingBox` no estilo Bold.
   ///
-  /// ![bounding-box](https://api.iconify.design/ph/bounding-box-bold.svg?height=32&color=%23888888)
+  /// ![bounding-box](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bounding-box.png)
   static const IconData boundingBox = IconData(
     0xe6ce,
     fontFamily: 'PhosphorBold',
@@ -2731,7 +2731,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bowlFood` no estilo Bold.
   ///
-  /// ![bowl-food](https://api.iconify.design/ph/bowl-food-bold.svg?height=32&color=%23888888)
+  /// ![bowl-food](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bowl-food.png)
   static const IconData bowlFood = IconData(
     0xeaa4,
     fontFamily: 'PhosphorBold',
@@ -2743,7 +2743,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bowlSteam` no estilo Bold.
   ///
-  /// ![bowl-steam](https://api.iconify.design/ph/bowl-steam-bold.svg?height=32&color=%23888888)
+  /// ![bowl-steam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bowl-steam.png)
   static const IconData bowlSteam = IconData(
     0xe8e4,
     fontFamily: 'PhosphorBold',
@@ -2755,7 +2755,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bowlingBall` no estilo Bold.
   ///
-  /// ![bowling-ball](https://api.iconify.design/ph/bowling-ball-bold.svg?height=32&color=%23888888)
+  /// ![bowling-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bowling-ball.png)
   static const IconData bowlingBall = IconData(
     0xea34,
     fontFamily: 'PhosphorBold',
@@ -2767,7 +2767,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `boxArrowDown` no estilo Bold.
   ///
-  /// ![box-arrow-down](https://api.iconify.design/ph/box-arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![box-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/box-arrow-down.png)
   static const IconData boxArrowDown = IconData(
     0xe00e,
     fontFamily: 'PhosphorBold',
@@ -2779,7 +2779,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `boxArrowUp` no estilo Bold.
   ///
-  /// ![box-arrow-up](https://api.iconify.design/ph/box-arrow-up-bold.svg?height=32&color=%23888888)
+  /// ![box-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/box-arrow-up.png)
   static const IconData boxArrowUp = IconData(
     0xee54,
     fontFamily: 'PhosphorBold',
@@ -2791,7 +2791,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `boxingGlove` no estilo Bold.
   ///
-  /// ![boxing-glove](https://api.iconify.design/ph/boxing-glove-bold.svg?height=32&color=%23888888)
+  /// ![boxing-glove](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/boxing-glove.png)
   static const IconData boxingGlove = IconData(
     0xea36,
     fontFamily: 'PhosphorBold',
@@ -2803,7 +2803,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bracketsAngle` no estilo Bold.
   ///
-  /// ![brackets-angle](https://api.iconify.design/ph/brackets-angle-bold.svg?height=32&color=%23888888)
+  /// ![brackets-angle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/brackets-angle.png)
   static const IconData bracketsAngle = IconData(
     0xe862,
     fontFamily: 'PhosphorBold',
@@ -2815,7 +2815,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bracketsCurly` no estilo Bold.
   ///
-  /// ![brackets-curly](https://api.iconify.design/ph/brackets-curly-bold.svg?height=32&color=%23888888)
+  /// ![brackets-curly](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/brackets-curly.png)
   static const IconData bracketsCurly = IconData(
     0xe860,
     fontFamily: 'PhosphorBold',
@@ -2827,7 +2827,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bracketsRound` no estilo Bold.
   ///
-  /// ![brackets-round](https://api.iconify.design/ph/brackets-round-bold.svg?height=32&color=%23888888)
+  /// ![brackets-round](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/brackets-round.png)
   static const IconData bracketsRound = IconData(
     0xe864,
     fontFamily: 'PhosphorBold',
@@ -2839,7 +2839,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bracketsSquare` no estilo Bold.
   ///
-  /// ![brackets-square](https://api.iconify.design/ph/brackets-square-bold.svg?height=32&color=%23888888)
+  /// ![brackets-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/brackets-square.png)
   static const IconData bracketsSquare = IconData(
     0xe85e,
     fontFamily: 'PhosphorBold',
@@ -2851,7 +2851,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `brain` no estilo Bold.
   ///
-  /// ![brain](https://api.iconify.design/ph/brain-bold.svg?height=32&color=%23888888)
+  /// ![brain](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/brain.png)
   static const IconData brain = IconData(
     0xe74e,
     fontFamily: 'PhosphorBold',
@@ -2863,7 +2863,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `brandy` no estilo Bold.
   ///
-  /// ![brandy](https://api.iconify.design/ph/brandy-bold.svg?height=32&color=%23888888)
+  /// ![brandy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/brandy.png)
   static const IconData brandy = IconData(
     0xe6b4,
     fontFamily: 'PhosphorBold',
@@ -2875,7 +2875,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bread` no estilo Bold.
   ///
-  /// ![bread](https://api.iconify.design/ph/bread-bold.svg?height=32&color=%23888888)
+  /// ![bread](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bread.png)
   static const IconData bread = IconData(
     0xe81c,
     fontFamily: 'PhosphorBold',
@@ -2887,7 +2887,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bridge` no estilo Bold.
   ///
-  /// ![bridge](https://api.iconify.design/ph/bridge-bold.svg?height=32&color=%23888888)
+  /// ![bridge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bridge.png)
   static const IconData bridge = IconData(
     0xea68,
     fontFamily: 'PhosphorBold',
@@ -2899,7 +2899,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `briefcase` no estilo Bold.
   ///
-  /// ![briefcase](https://api.iconify.design/ph/briefcase-bold.svg?height=32&color=%23888888)
+  /// ![briefcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/briefcase.png)
   static const IconData briefcase = IconData(
     0xe0ee,
     fontFamily: 'PhosphorBold',
@@ -2911,7 +2911,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `briefcaseMetal` no estilo Bold.
   ///
-  /// ![briefcase-metal](https://api.iconify.design/ph/briefcase-metal-bold.svg?height=32&color=%23888888)
+  /// ![briefcase-metal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/briefcase-metal.png)
   static const IconData briefcaseMetal = IconData(
     0xe5f2,
     fontFamily: 'PhosphorBold',
@@ -2923,7 +2923,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `broadcast` no estilo Bold.
   ///
-  /// ![broadcast](https://api.iconify.design/ph/broadcast-bold.svg?height=32&color=%23888888)
+  /// ![broadcast](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/broadcast.png)
   static const IconData broadcast = IconData(
     0xe0f2,
     fontFamily: 'PhosphorBold',
@@ -2935,7 +2935,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `broom` no estilo Bold.
   ///
-  /// ![broom](https://api.iconify.design/ph/broom-bold.svg?height=32&color=%23888888)
+  /// ![broom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/broom.png)
   static const IconData broom = IconData(
     0xec54,
     fontFamily: 'PhosphorBold',
@@ -2947,7 +2947,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `browser` no estilo Bold.
   ///
-  /// ![browser](https://api.iconify.design/ph/browser-bold.svg?height=32&color=%23888888)
+  /// ![browser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/browser.png)
   static const IconData browser = IconData(
     0xe0f4,
     fontFamily: 'PhosphorBold',
@@ -2959,7 +2959,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `browsers` no estilo Bold.
   ///
-  /// ![browsers](https://api.iconify.design/ph/browsers-bold.svg?height=32&color=%23888888)
+  /// ![browsers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/browsers.png)
   static const IconData browsers = IconData(
     0xe0f6,
     fontFamily: 'PhosphorBold',
@@ -2971,7 +2971,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bug` no estilo Bold.
   ///
-  /// ![bug](https://api.iconify.design/ph/bug-bold.svg?height=32&color=%23888888)
+  /// ![bug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bug.png)
   static const IconData bug = IconData(
     0xe5f4,
     fontFamily: 'PhosphorBold',
@@ -2983,7 +2983,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bugBeetle` no estilo Bold.
   ///
-  /// ![bug-beetle](https://api.iconify.design/ph/bug-beetle-bold.svg?height=32&color=%23888888)
+  /// ![bug-beetle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bug-beetle.png)
   static const IconData bugBeetle = IconData(
     0xe5f6,
     fontFamily: 'PhosphorBold',
@@ -2995,7 +2995,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bugDroid` no estilo Bold.
   ///
-  /// ![bug-droid](https://api.iconify.design/ph/bug-droid-bold.svg?height=32&color=%23888888)
+  /// ![bug-droid](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bug-droid.png)
   static const IconData bugDroid = IconData(
     0xe5f8,
     fontFamily: 'PhosphorBold',
@@ -3007,7 +3007,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `building` no estilo Bold.
   ///
-  /// ![building](https://api.iconify.design/ph/building-bold.svg?height=32&color=%23888888)
+  /// ![building](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/building.png)
   static const IconData building = IconData(
     0xe100,
     fontFamily: 'PhosphorBold',
@@ -3019,7 +3019,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `buildingApartment` no estilo Bold.
   ///
-  /// ![building-apartment](https://api.iconify.design/ph/building-apartment-bold.svg?height=32&color=%23888888)
+  /// ![building-apartment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/building-apartment.png)
   static const IconData buildingApartment = IconData(
     0xe0fe,
     fontFamily: 'PhosphorBold',
@@ -3031,7 +3031,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `buildingOffice` no estilo Bold.
   ///
-  /// ![building-office](https://api.iconify.design/ph/building-office-bold.svg?height=32&color=%23888888)
+  /// ![building-office](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/building-office.png)
   static const IconData buildingOffice = IconData(
     0xe0ff,
     fontFamily: 'PhosphorBold',
@@ -3043,7 +3043,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `buildings` no estilo Bold.
   ///
-  /// ![buildings](https://api.iconify.design/ph/buildings-bold.svg?height=32&color=%23888888)
+  /// ![buildings](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/buildings.png)
   static const IconData buildings = IconData(
     0xe102,
     fontFamily: 'PhosphorBold',
@@ -3055,7 +3055,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bulldozer` no estilo Bold.
   ///
-  /// ![bulldozer](https://api.iconify.design/ph/bulldozer-bold.svg?height=32&color=%23888888)
+  /// ![bulldozer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bulldozer.png)
   static const IconData bulldozer = IconData(
     0xec6c,
     fontFamily: 'PhosphorBold',
@@ -3067,7 +3067,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `bus` no estilo Bold.
   ///
-  /// ![bus](https://api.iconify.design/ph/bus-bold.svg?height=32&color=%23888888)
+  /// ![bus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/bus.png)
   static const IconData bus = IconData(
     0xe106,
     fontFamily: 'PhosphorBold',
@@ -3079,7 +3079,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `butterfly` no estilo Bold.
   ///
-  /// ![butterfly](https://api.iconify.design/ph/butterfly-bold.svg?height=32&color=%23888888)
+  /// ![butterfly](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/butterfly.png)
   static const IconData butterfly = IconData(
     0xea6e,
     fontFamily: 'PhosphorBold',
@@ -3091,7 +3091,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cableCar` no estilo Bold.
   ///
-  /// ![cable-car](https://api.iconify.design/ph/cable-car-bold.svg?height=32&color=%23888888)
+  /// ![cable-car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cable-car.png)
   static const IconData cableCar = IconData(
     0xe49c,
     fontFamily: 'PhosphorBold',
@@ -3103,7 +3103,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cactus` no estilo Bold.
   ///
-  /// ![cactus](https://api.iconify.design/ph/cactus-bold.svg?height=32&color=%23888888)
+  /// ![cactus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cactus.png)
   static const IconData cactus = IconData(
     0xe918,
     fontFamily: 'PhosphorBold',
@@ -3115,7 +3115,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caduceus` no estilo Bold.
   ///
-  /// ![caduceus](https://api.iconify.design/ph/asclepius-bold.svg?height=32&color=%23888888)
+  /// ![caduceus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caduceus.png)
   static const IconData caduceus = IconData(
     0xee34,
     fontFamily: 'PhosphorBold',
@@ -3127,7 +3127,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cake` no estilo Bold.
   ///
-  /// ![cake](https://api.iconify.design/ph/cake-bold.svg?height=32&color=%23888888)
+  /// ![cake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cake.png)
   static const IconData cake = IconData(
     0xe780,
     fontFamily: 'PhosphorBold',
@@ -3139,7 +3139,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calculator` no estilo Bold.
   ///
-  /// ![calculator](https://api.iconify.design/ph/calculator-bold.svg?height=32&color=%23888888)
+  /// ![calculator](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calculator.png)
   static const IconData calculator = IconData(
     0xe538,
     fontFamily: 'PhosphorBold',
@@ -3151,7 +3151,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendar` no estilo Bold.
   ///
-  /// ![calendar](https://api.iconify.design/ph/calendar-bold.svg?height=32&color=%23888888)
+  /// ![calendar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar.png)
   static const IconData calendar = IconData(
     0xe108,
     fontFamily: 'PhosphorBold',
@@ -3163,7 +3163,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarBlank` no estilo Bold.
   ///
-  /// ![calendar-blank](https://api.iconify.design/ph/calendar-blank-bold.svg?height=32&color=%23888888)
+  /// ![calendar-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-blank.png)
   static const IconData calendarBlank = IconData(
     0xe10a,
     fontFamily: 'PhosphorBold',
@@ -3175,7 +3175,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarCheck` no estilo Bold.
   ///
-  /// ![calendar-check](https://api.iconify.design/ph/calendar-check-bold.svg?height=32&color=%23888888)
+  /// ![calendar-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-check.png)
   static const IconData calendarCheck = IconData(
     0xe712,
     fontFamily: 'PhosphorBold',
@@ -3187,7 +3187,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarDot` no estilo Bold.
   ///
-  /// ![calendar-dot](https://api.iconify.design/ph/calendar-dot-bold.svg?height=32&color=%23888888)
+  /// ![calendar-dot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-dot.png)
   static const IconData calendarDot = IconData(
     0xe7b2,
     fontFamily: 'PhosphorBold',
@@ -3199,7 +3199,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarDots` no estilo Bold.
   ///
-  /// ![calendar-dots](https://api.iconify.design/ph/calendar-dots-bold.svg?height=32&color=%23888888)
+  /// ![calendar-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-dots.png)
   static const IconData calendarDots = IconData(
     0xe7b4,
     fontFamily: 'PhosphorBold',
@@ -3211,7 +3211,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarHeart` no estilo Bold.
   ///
-  /// ![calendar-heart](https://api.iconify.design/ph/calendar-heart-bold.svg?height=32&color=%23888888)
+  /// ![calendar-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-heart.png)
   static const IconData calendarHeart = IconData(
     0xe8b0,
     fontFamily: 'PhosphorBold',
@@ -3223,7 +3223,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarMinus` no estilo Bold.
   ///
-  /// ![calendar-minus](https://api.iconify.design/ph/calendar-minus-bold.svg?height=32&color=%23888888)
+  /// ![calendar-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-minus.png)
   static const IconData calendarMinus = IconData(
     0xea14,
     fontFamily: 'PhosphorBold',
@@ -3235,7 +3235,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarPlus` no estilo Bold.
   ///
-  /// ![calendar-plus](https://api.iconify.design/ph/calendar-plus-bold.svg?height=32&color=%23888888)
+  /// ![calendar-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-plus.png)
   static const IconData calendarPlus = IconData(
     0xe714,
     fontFamily: 'PhosphorBold',
@@ -3247,7 +3247,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarSlash` no estilo Bold.
   ///
-  /// ![calendar-slash](https://api.iconify.design/ph/calendar-slash-bold.svg?height=32&color=%23888888)
+  /// ![calendar-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-slash.png)
   static const IconData calendarSlash = IconData(
     0xea12,
     fontFamily: 'PhosphorBold',
@@ -3259,7 +3259,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarStar` no estilo Bold.
   ///
-  /// ![calendar-star](https://api.iconify.design/ph/calendar-star-bold.svg?height=32&color=%23888888)
+  /// ![calendar-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-star.png)
   static const IconData calendarStar = IconData(
     0xe8b2,
     fontFamily: 'PhosphorBold',
@@ -3271,7 +3271,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `calendarX` no estilo Bold.
   ///
-  /// ![calendar-x](https://api.iconify.design/ph/calendar-x-bold.svg?height=32&color=%23888888)
+  /// ![calendar-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/calendar-x.png)
   static const IconData calendarX = IconData(
     0xe10c,
     fontFamily: 'PhosphorBold',
@@ -3283,7 +3283,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `callBell` no estilo Bold.
   ///
-  /// ![call-bell](https://api.iconify.design/ph/call-bell-bold.svg?height=32&color=%23888888)
+  /// ![call-bell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/call-bell.png)
   static const IconData callBell = IconData(
     0xe7de,
     fontFamily: 'PhosphorBold',
@@ -3295,7 +3295,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `camera` no estilo Bold.
   ///
-  /// ![camera](https://api.iconify.design/ph/camera-bold.svg?height=32&color=%23888888)
+  /// ![camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/camera.png)
   static const IconData camera = IconData(
     0xe10e,
     fontFamily: 'PhosphorBold',
@@ -3307,7 +3307,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cameraPlus` no estilo Bold.
   ///
-  /// ![camera-plus](https://api.iconify.design/ph/camera-plus-bold.svg?height=32&color=%23888888)
+  /// ![camera-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/camera-plus.png)
   static const IconData cameraPlus = IconData(
     0xec58,
     fontFamily: 'PhosphorBold',
@@ -3319,7 +3319,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cameraRotate` no estilo Bold.
   ///
-  /// ![camera-rotate](https://api.iconify.design/ph/camera-rotate-bold.svg?height=32&color=%23888888)
+  /// ![camera-rotate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/camera-rotate.png)
   static const IconData cameraRotate = IconData(
     0xe7a4,
     fontFamily: 'PhosphorBold',
@@ -3331,7 +3331,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cameraSlash` no estilo Bold.
   ///
-  /// ![camera-slash](https://api.iconify.design/ph/camera-slash-bold.svg?height=32&color=%23888888)
+  /// ![camera-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/camera-slash.png)
   static const IconData cameraSlash = IconData(
     0xe110,
     fontFamily: 'PhosphorBold',
@@ -3343,7 +3343,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `campfire` no estilo Bold.
   ///
-  /// ![campfire](https://api.iconify.design/ph/campfire-bold.svg?height=32&color=%23888888)
+  /// ![campfire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/campfire.png)
   static const IconData campfire = IconData(
     0xe9d8,
     fontFamily: 'PhosphorBold',
@@ -3355,7 +3355,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `car` no estilo Bold.
   ///
-  /// ![car](https://api.iconify.design/ph/car-bold.svg?height=32&color=%23888888)
+  /// ![car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/car.png)
   static const IconData car = IconData(
     0xe112,
     fontFamily: 'PhosphorBold',
@@ -3367,7 +3367,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `carBattery` no estilo Bold.
   ///
-  /// ![car-battery](https://api.iconify.design/ph/car-battery-bold.svg?height=32&color=%23888888)
+  /// ![car-battery](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/car-battery.png)
   static const IconData carBattery = IconData(
     0xee30,
     fontFamily: 'PhosphorBold',
@@ -3379,7 +3379,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `carProfile` no estilo Bold.
   ///
-  /// ![car-profile](https://api.iconify.design/ph/car-profile-bold.svg?height=32&color=%23888888)
+  /// ![car-profile](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/car-profile.png)
   static const IconData carProfile = IconData(
     0xe8cc,
     fontFamily: 'PhosphorBold',
@@ -3391,7 +3391,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `carSimple` no estilo Bold.
   ///
-  /// ![car-simple](https://api.iconify.design/ph/car-simple-bold.svg?height=32&color=%23888888)
+  /// ![car-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/car-simple.png)
   static const IconData carSimple = IconData(
     0xe114,
     fontFamily: 'PhosphorBold',
@@ -3403,7 +3403,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cardholder` no estilo Bold.
   ///
-  /// ![cardholder](https://api.iconify.design/ph/cardholder-bold.svg?height=32&color=%23888888)
+  /// ![cardholder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cardholder.png)
   static const IconData cardholder = IconData(
     0xe5fa,
     fontFamily: 'PhosphorBold',
@@ -3415,7 +3415,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cards` no estilo Bold.
   ///
-  /// ![cards](https://api.iconify.design/ph/cards-bold.svg?height=32&color=%23888888)
+  /// ![cards](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cards.png)
   static const IconData cards = IconData(
     0xe0f8,
     fontFamily: 'PhosphorBold',
@@ -3427,7 +3427,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cardsThree` no estilo Bold.
   ///
-  /// ![cards-three](https://api.iconify.design/ph/cards-three-bold.svg?height=32&color=%23888888)
+  /// ![cards-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cards-three.png)
   static const IconData cardsThree = IconData(
     0xee50,
     fontFamily: 'PhosphorBold',
@@ -3439,7 +3439,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleDoubleDown` no estilo Bold.
   ///
-  /// ![caret-circle-double-down](https://api.iconify.design/ph/caret-circle-double-down-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-double-down.png)
   static const IconData caretCircleDoubleDown = IconData(
     0xe116,
     fontFamily: 'PhosphorBold',
@@ -3451,7 +3451,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleDoubleLeft` no estilo Bold.
   ///
-  /// ![caret-circle-double-left](https://api.iconify.design/ph/caret-circle-double-left-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-double-left.png)
   static const IconData caretCircleDoubleLeft = IconData(
     0xe118,
     fontFamily: 'PhosphorBold',
@@ -3463,7 +3463,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleDoubleRight` no estilo Bold.
   ///
-  /// ![caret-circle-double-right](https://api.iconify.design/ph/caret-circle-double-right-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-double-right.png)
   static const IconData caretCircleDoubleRight = IconData(
     0xe11a,
     fontFamily: 'PhosphorBold',
@@ -3475,7 +3475,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleDoubleUp` no estilo Bold.
   ///
-  /// ![caret-circle-double-up](https://api.iconify.design/ph/caret-circle-double-up-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-double-up.png)
   static const IconData caretCircleDoubleUp = IconData(
     0xe11c,
     fontFamily: 'PhosphorBold',
@@ -3487,7 +3487,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleDown` no estilo Bold.
   ///
-  /// ![caret-circle-down](https://api.iconify.design/ph/caret-circle-down-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-down.png)
   static const IconData caretCircleDown = IconData(
     0xe11e,
     fontFamily: 'PhosphorBold',
@@ -3499,7 +3499,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleLeft` no estilo Bold.
   ///
-  /// ![caret-circle-left](https://api.iconify.design/ph/caret-circle-left-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-left.png)
   static const IconData caretCircleLeft = IconData(
     0xe120,
     fontFamily: 'PhosphorBold',
@@ -3511,7 +3511,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleRight` no estilo Bold.
   ///
-  /// ![caret-circle-right](https://api.iconify.design/ph/caret-circle-right-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-right.png)
   static const IconData caretCircleRight = IconData(
     0xe122,
     fontFamily: 'PhosphorBold',
@@ -3523,7 +3523,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleUp` no estilo Bold.
   ///
-  /// ![caret-circle-up](https://api.iconify.design/ph/caret-circle-up-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-up.png)
   static const IconData caretCircleUp = IconData(
     0xe124,
     fontFamily: 'PhosphorBold',
@@ -3535,7 +3535,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretCircleUpDown` no estilo Bold.
   ///
-  /// ![caret-circle-up-down](https://api.iconify.design/ph/caret-circle-up-down-bold.svg?height=32&color=%23888888)
+  /// ![caret-circle-up-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-circle-up-down.png)
   static const IconData caretCircleUpDown = IconData(
     0xe13e,
     fontFamily: 'PhosphorBold',
@@ -3547,7 +3547,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretDoubleDown` no estilo Bold.
   ///
-  /// ![caret-double-down](https://api.iconify.design/ph/caret-double-down-bold.svg?height=32&color=%23888888)
+  /// ![caret-double-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-double-down.png)
   static const IconData caretDoubleDown = IconData(
     0xe126,
     fontFamily: 'PhosphorBold',
@@ -3559,7 +3559,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretDoubleLeft` no estilo Bold.
   ///
-  /// ![caret-double-left](https://api.iconify.design/ph/caret-double-left-bold.svg?height=32&color=%23888888)
+  /// ![caret-double-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-double-left.png)
   static const IconData caretDoubleLeft = IconData(
     0xe128,
     fontFamily: 'PhosphorBold',
@@ -3571,7 +3571,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretDoubleRight` no estilo Bold.
   ///
-  /// ![caret-double-right](https://api.iconify.design/ph/caret-double-right-bold.svg?height=32&color=%23888888)
+  /// ![caret-double-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-double-right.png)
   static const IconData caretDoubleRight = IconData(
     0xe12a,
     fontFamily: 'PhosphorBold',
@@ -3583,7 +3583,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretDoubleUp` no estilo Bold.
   ///
-  /// ![caret-double-up](https://api.iconify.design/ph/caret-double-up-bold.svg?height=32&color=%23888888)
+  /// ![caret-double-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-double-up.png)
   static const IconData caretDoubleUp = IconData(
     0xe12c,
     fontFamily: 'PhosphorBold',
@@ -3595,7 +3595,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretDown` no estilo Bold.
   ///
-  /// ![caret-down](https://api.iconify.design/ph/caret-down-bold.svg?height=32&color=%23888888)
+  /// ![caret-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-down.png)
   static const IconData caretDown = IconData(
     0xe136,
     fontFamily: 'PhosphorBold',
@@ -3607,7 +3607,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretLeft` no estilo Bold.
   ///
-  /// ![caret-left](https://api.iconify.design/ph/caret-left-bold.svg?height=32&color=%23888888)
+  /// ![caret-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-left.png)
   static const IconData caretLeft = IconData(
     0xe138,
     fontFamily: 'PhosphorBold',
@@ -3619,7 +3619,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretLineDown` no estilo Bold.
   ///
-  /// ![caret-line-down](https://api.iconify.design/ph/caret-line-down-bold.svg?height=32&color=%23888888)
+  /// ![caret-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-line-down.png)
   static const IconData caretLineDown = IconData(
     0xe134,
     fontFamily: 'PhosphorBold',
@@ -3631,7 +3631,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretLineLeft` no estilo Bold.
   ///
-  /// ![caret-line-left](https://api.iconify.design/ph/caret-line-left-bold.svg?height=32&color=%23888888)
+  /// ![caret-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-line-left.png)
   static const IconData caretLineLeft = IconData(
     0xe132,
     fontFamily: 'PhosphorBold',
@@ -3643,7 +3643,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretLineRight` no estilo Bold.
   ///
-  /// ![caret-line-right](https://api.iconify.design/ph/caret-line-right-bold.svg?height=32&color=%23888888)
+  /// ![caret-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-line-right.png)
   static const IconData caretLineRight = IconData(
     0xe130,
     fontFamily: 'PhosphorBold',
@@ -3655,7 +3655,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretLineUp` no estilo Bold.
   ///
-  /// ![caret-line-up](https://api.iconify.design/ph/caret-line-up-bold.svg?height=32&color=%23888888)
+  /// ![caret-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-line-up.png)
   static const IconData caretLineUp = IconData(
     0xe12e,
     fontFamily: 'PhosphorBold',
@@ -3667,7 +3667,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretRight` no estilo Bold.
   ///
-  /// ![caret-right](https://api.iconify.design/ph/caret-right-bold.svg?height=32&color=%23888888)
+  /// ![caret-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-right.png)
   static const IconData caretRight = IconData(
     0xe13a,
     fontFamily: 'PhosphorBold',
@@ -3679,7 +3679,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretUp` no estilo Bold.
   ///
-  /// ![caret-up](https://api.iconify.design/ph/caret-up-bold.svg?height=32&color=%23888888)
+  /// ![caret-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-up.png)
   static const IconData caretUp = IconData(
     0xe13c,
     fontFamily: 'PhosphorBold',
@@ -3691,7 +3691,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `caretUpDown` no estilo Bold.
   ///
-  /// ![caret-up-down](https://api.iconify.design/ph/caret-up-down-bold.svg?height=32&color=%23888888)
+  /// ![caret-up-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/caret-up-down.png)
   static const IconData caretUpDown = IconData(
     0xe140,
     fontFamily: 'PhosphorBold',
@@ -3703,7 +3703,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `carrot` no estilo Bold.
   ///
-  /// ![carrot](https://api.iconify.design/ph/carrot-bold.svg?height=32&color=%23888888)
+  /// ![carrot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/carrot.png)
   static const IconData carrot = IconData(
     0xed38,
     fontFamily: 'PhosphorBold',
@@ -3715,7 +3715,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cashRegister` no estilo Bold.
   ///
-  /// ![cash-register](https://api.iconify.design/ph/cash-register-bold.svg?height=32&color=%23888888)
+  /// ![cash-register](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cash-register.png)
   static const IconData cashRegister = IconData(
     0xed80,
     fontFamily: 'PhosphorBold',
@@ -3727,7 +3727,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cassetteTape` no estilo Bold.
   ///
-  /// ![cassette-tape](https://api.iconify.design/ph/cassette-tape-bold.svg?height=32&color=%23888888)
+  /// ![cassette-tape](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cassette-tape.png)
   static const IconData cassetteTape = IconData(
     0xed2e,
     fontFamily: 'PhosphorBold',
@@ -3739,7 +3739,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `castleTurret` no estilo Bold.
   ///
-  /// ![castle-turret](https://api.iconify.design/ph/castle-turret-bold.svg?height=32&color=%23888888)
+  /// ![castle-turret](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/castle-turret.png)
   static const IconData castleTurret = IconData(
     0xe9d0,
     fontFamily: 'PhosphorBold',
@@ -3751,7 +3751,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cat` no estilo Bold.
   ///
-  /// ![cat](https://api.iconify.design/ph/cat-bold.svg?height=32&color=%23888888)
+  /// ![cat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cat.png)
   static const IconData cat = IconData(
     0xe748,
     fontFamily: 'PhosphorBold',
@@ -3763,7 +3763,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellSignalFull` no estilo Bold.
   ///
-  /// ![cell-signal-full](https://api.iconify.design/ph/cell-signal-full-bold.svg?height=32&color=%23888888)
+  /// ![cell-signal-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-signal-full.png)
   static const IconData cellSignalFull = IconData(
     0xe142,
     fontFamily: 'PhosphorBold',
@@ -3775,7 +3775,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellSignalHigh` no estilo Bold.
   ///
-  /// ![cell-signal-high](https://api.iconify.design/ph/cell-signal-high-bold.svg?height=32&color=%23888888)
+  /// ![cell-signal-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-signal-high.png)
   static const IconData cellSignalHigh = IconData(
     0xe144,
     fontFamily: 'PhosphorBold',
@@ -3787,7 +3787,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellSignalLow` no estilo Bold.
   ///
-  /// ![cell-signal-low](https://api.iconify.design/ph/cell-signal-low-bold.svg?height=32&color=%23888888)
+  /// ![cell-signal-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-signal-low.png)
   static const IconData cellSignalLow = IconData(
     0xe146,
     fontFamily: 'PhosphorBold',
@@ -3799,7 +3799,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellSignalMedium` no estilo Bold.
   ///
-  /// ![cell-signal-medium](https://api.iconify.design/ph/cell-signal-medium-bold.svg?height=32&color=%23888888)
+  /// ![cell-signal-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-signal-medium.png)
   static const IconData cellSignalMedium = IconData(
     0xe148,
     fontFamily: 'PhosphorBold',
@@ -3811,7 +3811,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellSignalNone` no estilo Bold.
   ///
-  /// ![cell-signal-none](https://api.iconify.design/ph/cell-signal-none-bold.svg?height=32&color=%23888888)
+  /// ![cell-signal-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-signal-none.png)
   static const IconData cellSignalNone = IconData(
     0xe14a,
     fontFamily: 'PhosphorBold',
@@ -3823,7 +3823,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellSignalSlash` no estilo Bold.
   ///
-  /// ![cell-signal-slash](https://api.iconify.design/ph/cell-signal-slash-bold.svg?height=32&color=%23888888)
+  /// ![cell-signal-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-signal-slash.png)
   static const IconData cellSignalSlash = IconData(
     0xe14c,
     fontFamily: 'PhosphorBold',
@@ -3835,7 +3835,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellSignalX` no estilo Bold.
   ///
-  /// ![cell-signal-x](https://api.iconify.design/ph/cell-signal-x-bold.svg?height=32&color=%23888888)
+  /// ![cell-signal-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-signal-x.png)
   static const IconData cellSignalX = IconData(
     0xe14e,
     fontFamily: 'PhosphorBold',
@@ -3847,7 +3847,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cellTower` no estilo Bold.
   ///
-  /// ![cell-tower](https://api.iconify.design/ph/cell-tower-bold.svg?height=32&color=%23888888)
+  /// ![cell-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cell-tower.png)
   static const IconData cellTower = IconData(
     0xebaa,
     fontFamily: 'PhosphorBold',
@@ -3859,7 +3859,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `certificate` no estilo Bold.
   ///
-  /// ![certificate](https://api.iconify.design/ph/certificate-bold.svg?height=32&color=%23888888)
+  /// ![certificate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/certificate.png)
   static const IconData certificate = IconData(
     0xe766,
     fontFamily: 'PhosphorBold',
@@ -3871,7 +3871,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chair` no estilo Bold.
   ///
-  /// ![chair](https://api.iconify.design/ph/chair-bold.svg?height=32&color=%23888888)
+  /// ![chair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chair.png)
   static const IconData chair = IconData(
     0xe950,
     fontFamily: 'PhosphorBold',
@@ -3883,7 +3883,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chalkboard` no estilo Bold.
   ///
-  /// ![chalkboard](https://api.iconify.design/ph/chalkboard-bold.svg?height=32&color=%23888888)
+  /// ![chalkboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chalkboard.png)
   static const IconData chalkboard = IconData(
     0xe5fc,
     fontFamily: 'PhosphorBold',
@@ -3895,7 +3895,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chalkboardSimple` no estilo Bold.
   ///
-  /// ![chalkboard-simple](https://api.iconify.design/ph/chalkboard-simple-bold.svg?height=32&color=%23888888)
+  /// ![chalkboard-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chalkboard-simple.png)
   static const IconData chalkboardSimple = IconData(
     0xe5fe,
     fontFamily: 'PhosphorBold',
@@ -3907,7 +3907,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chalkboardTeacher` no estilo Bold.
   ///
-  /// ![chalkboard-teacher](https://api.iconify.design/ph/chalkboard-teacher-bold.svg?height=32&color=%23888888)
+  /// ![chalkboard-teacher](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chalkboard-teacher.png)
   static const IconData chalkboardTeacher = IconData(
     0xe600,
     fontFamily: 'PhosphorBold',
@@ -3919,7 +3919,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `champagne` no estilo Bold.
   ///
-  /// ![champagne](https://api.iconify.design/ph/champagne-bold.svg?height=32&color=%23888888)
+  /// ![champagne](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/champagne.png)
   static const IconData champagne = IconData(
     0xeaca,
     fontFamily: 'PhosphorBold',
@@ -3931,7 +3931,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chargingStation` no estilo Bold.
   ///
-  /// ![charging-station](https://api.iconify.design/ph/charging-station-bold.svg?height=32&color=%23888888)
+  /// ![charging-station](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/charging-station.png)
   static const IconData chargingStation = IconData(
     0xe8d0,
     fontFamily: 'PhosphorBold',
@@ -3943,7 +3943,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartBar` no estilo Bold.
   ///
-  /// ![chart-bar](https://api.iconify.design/ph/chart-bar-bold.svg?height=32&color=%23888888)
+  /// ![chart-bar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-bar.png)
   static const IconData chartBar = IconData(
     0xe150,
     fontFamily: 'PhosphorBold',
@@ -3955,7 +3955,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartBarHorizontal` no estilo Bold.
   ///
-  /// ![chart-bar-horizontal](https://api.iconify.design/ph/chart-bar-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![chart-bar-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-bar-horizontal.png)
   static const IconData chartBarHorizontal = IconData(
     0xe152,
     fontFamily: 'PhosphorBold',
@@ -3967,7 +3967,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartDonut` no estilo Bold.
   ///
-  /// ![chart-donut](https://api.iconify.design/ph/chart-donut-bold.svg?height=32&color=%23888888)
+  /// ![chart-donut](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-donut.png)
   static const IconData chartDonut = IconData(
     0xeaa6,
     fontFamily: 'PhosphorBold',
@@ -3979,7 +3979,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartLine` no estilo Bold.
   ///
-  /// ![chart-line](https://api.iconify.design/ph/chart-line-bold.svg?height=32&color=%23888888)
+  /// ![chart-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-line.png)
   static const IconData chartLine = IconData(
     0xe154,
     fontFamily: 'PhosphorBold',
@@ -3991,7 +3991,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartLineDown` no estilo Bold.
   ///
-  /// ![chart-line-down](https://api.iconify.design/ph/chart-line-down-bold.svg?height=32&color=%23888888)
+  /// ![chart-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-line-down.png)
   static const IconData chartLineDown = IconData(
     0xe8b6,
     fontFamily: 'PhosphorBold',
@@ -4003,7 +4003,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartLineUp` no estilo Bold.
   ///
-  /// ![chart-line-up](https://api.iconify.design/ph/chart-line-up-bold.svg?height=32&color=%23888888)
+  /// ![chart-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-line-up.png)
   static const IconData chartLineUp = IconData(
     0xe156,
     fontFamily: 'PhosphorBold',
@@ -4015,7 +4015,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartPie` no estilo Bold.
   ///
-  /// ![chart-pie](https://api.iconify.design/ph/chart-pie-bold.svg?height=32&color=%23888888)
+  /// ![chart-pie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-pie.png)
   static const IconData chartPie = IconData(
     0xe158,
     fontFamily: 'PhosphorBold',
@@ -4027,7 +4027,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartPieSlice` no estilo Bold.
   ///
-  /// ![chart-pie-slice](https://api.iconify.design/ph/chart-pie-slice-bold.svg?height=32&color=%23888888)
+  /// ![chart-pie-slice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-pie-slice.png)
   static const IconData chartPieSlice = IconData(
     0xe15a,
     fontFamily: 'PhosphorBold',
@@ -4039,7 +4039,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartPolar` no estilo Bold.
   ///
-  /// ![chart-polar](https://api.iconify.design/ph/chart-polar-bold.svg?height=32&color=%23888888)
+  /// ![chart-polar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-polar.png)
   static const IconData chartPolar = IconData(
     0xeaa8,
     fontFamily: 'PhosphorBold',
@@ -4051,7 +4051,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chartScatter` no estilo Bold.
   ///
-  /// ![chart-scatter](https://api.iconify.design/ph/chart-scatter-bold.svg?height=32&color=%23888888)
+  /// ![chart-scatter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chart-scatter.png)
   static const IconData chartScatter = IconData(
     0xeaac,
     fontFamily: 'PhosphorBold',
@@ -4063,7 +4063,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chat` no estilo Bold.
   ///
-  /// ![chat](https://api.iconify.design/ph/chat-bold.svg?height=32&color=%23888888)
+  /// ![chat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat.png)
   static const IconData chat = IconData(
     0xe15c,
     fontFamily: 'PhosphorBold',
@@ -4075,7 +4075,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCentered` no estilo Bold.
   ///
-  /// ![chat-centered](https://api.iconify.design/ph/chat-centered-bold.svg?height=32&color=%23888888)
+  /// ![chat-centered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-centered.png)
   static const IconData chatCentered = IconData(
     0xe160,
     fontFamily: 'PhosphorBold',
@@ -4087,7 +4087,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCenteredDots` no estilo Bold.
   ///
-  /// ![chat-centered-dots](https://api.iconify.design/ph/chat-centered-dots-bold.svg?height=32&color=%23888888)
+  /// ![chat-centered-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-centered-dots.png)
   static const IconData chatCenteredDots = IconData(
     0xe164,
     fontFamily: 'PhosphorBold',
@@ -4099,7 +4099,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCenteredSlash` no estilo Bold.
   ///
-  /// ![chat-centered-slash](https://api.iconify.design/ph/chat-centered-slash-bold.svg?height=32&color=%23888888)
+  /// ![chat-centered-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-centered-slash.png)
   static const IconData chatCenteredSlash = IconData(
     0xe162,
     fontFamily: 'PhosphorBold',
@@ -4111,7 +4111,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCenteredText` no estilo Bold.
   ///
-  /// ![chat-centered-text](https://api.iconify.design/ph/chat-centered-text-bold.svg?height=32&color=%23888888)
+  /// ![chat-centered-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-centered-text.png)
   static const IconData chatCenteredText = IconData(
     0xe166,
     fontFamily: 'PhosphorBold',
@@ -4123,7 +4123,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCircle` no estilo Bold.
   ///
-  /// ![chat-circle](https://api.iconify.design/ph/chat-circle-bold.svg?height=32&color=%23888888)
+  /// ![chat-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-circle.png)
   static const IconData chatCircle = IconData(
     0xe168,
     fontFamily: 'PhosphorBold',
@@ -4135,7 +4135,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCircleDots` no estilo Bold.
   ///
-  /// ![chat-circle-dots](https://api.iconify.design/ph/chat-circle-dots-bold.svg?height=32&color=%23888888)
+  /// ![chat-circle-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-circle-dots.png)
   static const IconData chatCircleDots = IconData(
     0xe16c,
     fontFamily: 'PhosphorBold',
@@ -4147,7 +4147,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCircleSlash` no estilo Bold.
   ///
-  /// ![chat-circle-slash](https://api.iconify.design/ph/chat-circle-slash-bold.svg?height=32&color=%23888888)
+  /// ![chat-circle-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-circle-slash.png)
   static const IconData chatCircleSlash = IconData(
     0xe16a,
     fontFamily: 'PhosphorBold',
@@ -4159,7 +4159,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatCircleText` no estilo Bold.
   ///
-  /// ![chat-circle-text](https://api.iconify.design/ph/chat-circle-text-bold.svg?height=32&color=%23888888)
+  /// ![chat-circle-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-circle-text.png)
   static const IconData chatCircleText = IconData(
     0xe16e,
     fontFamily: 'PhosphorBold',
@@ -4171,7 +4171,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatDots` no estilo Bold.
   ///
-  /// ![chat-dots](https://api.iconify.design/ph/chat-dots-bold.svg?height=32&color=%23888888)
+  /// ![chat-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-dots.png)
   static const IconData chatDots = IconData(
     0xe170,
     fontFamily: 'PhosphorBold',
@@ -4183,7 +4183,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatSlash` no estilo Bold.
   ///
-  /// ![chat-slash](https://api.iconify.design/ph/chat-slash-bold.svg?height=32&color=%23888888)
+  /// ![chat-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-slash.png)
   static const IconData chatSlash = IconData(
     0xe15e,
     fontFamily: 'PhosphorBold',
@@ -4195,7 +4195,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatTeardrop` no estilo Bold.
   ///
-  /// ![chat-teardrop](https://api.iconify.design/ph/chat-teardrop-bold.svg?height=32&color=%23888888)
+  /// ![chat-teardrop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-teardrop.png)
   static const IconData chatTeardrop = IconData(
     0xe172,
     fontFamily: 'PhosphorBold',
@@ -4207,7 +4207,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatTeardropDots` no estilo Bold.
   ///
-  /// ![chat-teardrop-dots](https://api.iconify.design/ph/chat-teardrop-dots-bold.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-teardrop-dots.png)
   static const IconData chatTeardropDots = IconData(
     0xe176,
     fontFamily: 'PhosphorBold',
@@ -4219,7 +4219,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatTeardropSlash` no estilo Bold.
   ///
-  /// ![chat-teardrop-slash](https://api.iconify.design/ph/chat-teardrop-slash-bold.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-teardrop-slash.png)
   static const IconData chatTeardropSlash = IconData(
     0xe174,
     fontFamily: 'PhosphorBold',
@@ -4231,7 +4231,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatTeardropText` no estilo Bold.
   ///
-  /// ![chat-teardrop-text](https://api.iconify.design/ph/chat-teardrop-text-bold.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-teardrop-text.png)
   static const IconData chatTeardropText = IconData(
     0xe178,
     fontFamily: 'PhosphorBold',
@@ -4243,7 +4243,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatText` no estilo Bold.
   ///
-  /// ![chat-text](https://api.iconify.design/ph/chat-text-bold.svg?height=32&color=%23888888)
+  /// ![chat-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chat-text.png)
   static const IconData chatText = IconData(
     0xe17a,
     fontFamily: 'PhosphorBold',
@@ -4255,7 +4255,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chats` no estilo Bold.
   ///
-  /// ![chats](https://api.iconify.design/ph/chats-bold.svg?height=32&color=%23888888)
+  /// ![chats](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chats.png)
   static const IconData chats = IconData(
     0xe17c,
     fontFamily: 'PhosphorBold',
@@ -4267,7 +4267,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatsCircle` no estilo Bold.
   ///
-  /// ![chats-circle](https://api.iconify.design/ph/chats-circle-bold.svg?height=32&color=%23888888)
+  /// ![chats-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chats-circle.png)
   static const IconData chatsCircle = IconData(
     0xe17e,
     fontFamily: 'PhosphorBold',
@@ -4279,7 +4279,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chatsTeardrop` no estilo Bold.
   ///
-  /// ![chats-teardrop](https://api.iconify.design/ph/chats-teardrop-bold.svg?height=32&color=%23888888)
+  /// ![chats-teardrop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chats-teardrop.png)
   static const IconData chatsTeardrop = IconData(
     0xe180,
     fontFamily: 'PhosphorBold',
@@ -4291,7 +4291,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `check` no estilo Bold.
   ///
-  /// ![check](https://api.iconify.design/ph/check-bold.svg?height=32&color=%23888888)
+  /// ![check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/check.png)
   static const IconData check = IconData(
     0xe182,
     fontFamily: 'PhosphorBold',
@@ -4303,7 +4303,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `checkCircle` no estilo Bold.
   ///
-  /// ![check-circle](https://api.iconify.design/ph/check-circle-bold.svg?height=32&color=%23888888)
+  /// ![check-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/check-circle.png)
   static const IconData checkCircle = IconData(
     0xe184,
     fontFamily: 'PhosphorBold',
@@ -4315,7 +4315,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `checkFat` no estilo Bold.
   ///
-  /// ![check-fat](https://api.iconify.design/ph/check-fat-bold.svg?height=32&color=%23888888)
+  /// ![check-fat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/check-fat.png)
   static const IconData checkFat = IconData(
     0xeba6,
     fontFamily: 'PhosphorBold',
@@ -4327,7 +4327,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `checkSquare` no estilo Bold.
   ///
-  /// ![check-square](https://api.iconify.design/ph/check-square-bold.svg?height=32&color=%23888888)
+  /// ![check-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/check-square.png)
   static const IconData checkSquare = IconData(
     0xe186,
     fontFamily: 'PhosphorBold',
@@ -4339,7 +4339,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `checkSquareOffset` no estilo Bold.
   ///
-  /// ![check-square-offset](https://api.iconify.design/ph/check-square-offset-bold.svg?height=32&color=%23888888)
+  /// ![check-square-offset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/check-square-offset.png)
   static const IconData checkSquareOffset = IconData(
     0xe188,
     fontFamily: 'PhosphorBold',
@@ -4351,7 +4351,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `checkerboard` no estilo Bold.
   ///
-  /// ![checkerboard](https://api.iconify.design/ph/checkerboard-bold.svg?height=32&color=%23888888)
+  /// ![checkerboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/checkerboard.png)
   static const IconData checkerboard = IconData(
     0xe8c4,
     fontFamily: 'PhosphorBold',
@@ -4363,7 +4363,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `checks` no estilo Bold.
   ///
-  /// ![checks](https://api.iconify.design/ph/checks-bold.svg?height=32&color=%23888888)
+  /// ![checks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/checks.png)
   static const IconData checks = IconData(
     0xe53a,
     fontFamily: 'PhosphorBold',
@@ -4375,7 +4375,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cheers` no estilo Bold.
   ///
-  /// ![cheers](https://api.iconify.design/ph/cheers-bold.svg?height=32&color=%23888888)
+  /// ![cheers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cheers.png)
   static const IconData cheers = IconData(
     0xea4a,
     fontFamily: 'PhosphorBold',
@@ -4387,7 +4387,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cheese` no estilo Bold.
   ///
-  /// ![cheese](https://api.iconify.design/ph/cheese-bold.svg?height=32&color=%23888888)
+  /// ![cheese](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cheese.png)
   static const IconData cheese = IconData(
     0xe9fe,
     fontFamily: 'PhosphorBold',
@@ -4399,7 +4399,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `chefHat` no estilo Bold.
   ///
-  /// ![chef-hat](https://api.iconify.design/ph/chef-hat-bold.svg?height=32&color=%23888888)
+  /// ![chef-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/chef-hat.png)
   static const IconData chefHat = IconData(
     0xed8e,
     fontFamily: 'PhosphorBold',
@@ -4411,7 +4411,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cherries` no estilo Bold.
   ///
-  /// ![cherries](https://api.iconify.design/ph/cherries-bold.svg?height=32&color=%23888888)
+  /// ![cherries](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cherries.png)
   static const IconData cherries = IconData(
     0xe830,
     fontFamily: 'PhosphorBold',
@@ -4423,7 +4423,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `church` no estilo Bold.
   ///
-  /// ![church](https://api.iconify.design/ph/church-bold.svg?height=32&color=%23888888)
+  /// ![church](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/church.png)
   static const IconData church = IconData(
     0xecea,
     fontFamily: 'PhosphorBold',
@@ -4435,7 +4435,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cigarette` no estilo Bold.
   ///
-  /// ![cigarette](https://api.iconify.design/ph/cigarette-bold.svg?height=32&color=%23888888)
+  /// ![cigarette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cigarette.png)
   static const IconData cigarette = IconData(
     0xed90,
     fontFamily: 'PhosphorBold',
@@ -4447,7 +4447,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cigaretteSlash` no estilo Bold.
   ///
-  /// ![cigarette-slash](https://api.iconify.design/ph/cigarette-slash-bold.svg?height=32&color=%23888888)
+  /// ![cigarette-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cigarette-slash.png)
   static const IconData cigaretteSlash = IconData(
     0xed92,
     fontFamily: 'PhosphorBold',
@@ -4459,7 +4459,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circle` no estilo Bold.
   ///
-  /// ![circle](https://api.iconify.design/ph/circle-bold.svg?height=32&color=%23888888)
+  /// ![circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle.png)
   static const IconData circle = IconData(
     0xe18a,
     fontFamily: 'PhosphorBold',
@@ -4471,7 +4471,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleDashed` no estilo Bold.
   ///
-  /// ![circle-dashed](https://api.iconify.design/ph/circle-dashed-bold.svg?height=32&color=%23888888)
+  /// ![circle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-dashed.png)
   static const IconData circleDashed = IconData(
     0xe602,
     fontFamily: 'PhosphorBold',
@@ -4483,7 +4483,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleHalf` no estilo Bold.
   ///
-  /// ![circle-half](https://api.iconify.design/ph/circle-half-bold.svg?height=32&color=%23888888)
+  /// ![circle-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-half.png)
   static const IconData circleHalf = IconData(
     0xe18c,
     fontFamily: 'PhosphorBold',
@@ -4495,7 +4495,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleHalfTilt` no estilo Bold.
   ///
-  /// ![circle-half-tilt](https://api.iconify.design/ph/circle-half-tilt-bold.svg?height=32&color=%23888888)
+  /// ![circle-half-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-half-tilt.png)
   static const IconData circleHalfTilt = IconData(
     0xe18e,
     fontFamily: 'PhosphorBold',
@@ -4507,7 +4507,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleNotch` no estilo Bold.
   ///
-  /// ![circle-notch](https://api.iconify.design/ph/circle-notch-bold.svg?height=32&color=%23888888)
+  /// ![circle-notch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-notch.png)
   static const IconData circleNotch = IconData(
     0xeb44,
     fontFamily: 'PhosphorBold',
@@ -4519,7 +4519,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleWavy` no estilo Bold.
   ///
-  /// ![circle-wavy](https://api.iconify.design/ph/seal-bold.svg?height=32&color=%23888888)
+  /// ![circle-wavy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-wavy.png)
   static const IconData circleWavy = IconData(
     0xe604,
     fontFamily: 'PhosphorBold',
@@ -4531,7 +4531,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleWavyCheck` no estilo Bold.
   ///
-  /// ![circle-wavy-check](https://api.iconify.design/ph/seal-check-bold.svg?height=32&color=%23888888)
+  /// ![circle-wavy-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-wavy-check.png)
   static const IconData circleWavyCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorBold',
@@ -4543,7 +4543,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleWavyQuestion` no estilo Bold.
   ///
-  /// ![circle-wavy-question](https://api.iconify.design/ph/seal-question-bold.svg?height=32&color=%23888888)
+  /// ![circle-wavy-question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-wavy-question.png)
   static const IconData circleWavyQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorBold',
@@ -4555,7 +4555,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circleWavyWarning` no estilo Bold.
   ///
-  /// ![circle-wavy-warning](https://api.iconify.design/ph/seal-warning-bold.svg?height=32&color=%23888888)
+  /// ![circle-wavy-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circle-wavy-warning.png)
   static const IconData circleWavyWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorBold',
@@ -4567,7 +4567,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circlesFour` no estilo Bold.
   ///
-  /// ![circles-four](https://api.iconify.design/ph/circles-four-bold.svg?height=32&color=%23888888)
+  /// ![circles-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circles-four.png)
   static const IconData circlesFour = IconData(
     0xe190,
     fontFamily: 'PhosphorBold',
@@ -4579,7 +4579,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circlesThree` no estilo Bold.
   ///
-  /// ![circles-three](https://api.iconify.design/ph/circles-three-bold.svg?height=32&color=%23888888)
+  /// ![circles-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circles-three.png)
   static const IconData circlesThree = IconData(
     0xe192,
     fontFamily: 'PhosphorBold',
@@ -4591,7 +4591,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circlesThreePlus` no estilo Bold.
   ///
-  /// ![circles-three-plus](https://api.iconify.design/ph/circles-three-plus-bold.svg?height=32&color=%23888888)
+  /// ![circles-three-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circles-three-plus.png)
   static const IconData circlesThreePlus = IconData(
     0xe194,
     fontFamily: 'PhosphorBold',
@@ -4603,7 +4603,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `circuitry` no estilo Bold.
   ///
-  /// ![circuitry](https://api.iconify.design/ph/circuitry-bold.svg?height=32&color=%23888888)
+  /// ![circuitry](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/circuitry.png)
   static const IconData circuitry = IconData(
     0xe9c2,
     fontFamily: 'PhosphorBold',
@@ -4615,7 +4615,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `city` no estilo Bold.
   ///
-  /// ![city](https://api.iconify.design/ph/city-bold.svg?height=32&color=%23888888)
+  /// ![city](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/city.png)
   static const IconData city = IconData(
     0xea6a,
     fontFamily: 'PhosphorBold',
@@ -4627,7 +4627,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clipboard` no estilo Bold.
   ///
-  /// ![clipboard](https://api.iconify.design/ph/clipboard-bold.svg?height=32&color=%23888888)
+  /// ![clipboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clipboard.png)
   static const IconData clipboard = IconData(
     0xe196,
     fontFamily: 'PhosphorBold',
@@ -4639,7 +4639,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clipboardText` no estilo Bold.
   ///
-  /// ![clipboard-text](https://api.iconify.design/ph/clipboard-text-bold.svg?height=32&color=%23888888)
+  /// ![clipboard-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clipboard-text.png)
   static const IconData clipboardText = IconData(
     0xe198,
     fontFamily: 'PhosphorBold',
@@ -4651,7 +4651,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clock` no estilo Bold.
   ///
-  /// ![clock](https://api.iconify.design/ph/clock-bold.svg?height=32&color=%23888888)
+  /// ![clock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clock.png)
   static const IconData clock = IconData(
     0xe19a,
     fontFamily: 'PhosphorBold',
@@ -4663,7 +4663,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clockAfternoon` no estilo Bold.
   ///
-  /// ![clock-afternoon](https://api.iconify.design/ph/clock-afternoon-bold.svg?height=32&color=%23888888)
+  /// ![clock-afternoon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clock-afternoon.png)
   static const IconData clockAfternoon = IconData(
     0xe19c,
     fontFamily: 'PhosphorBold',
@@ -4675,7 +4675,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clockClockwise` no estilo Bold.
   ///
-  /// ![clock-clockwise](https://api.iconify.design/ph/clock-clockwise-bold.svg?height=32&color=%23888888)
+  /// ![clock-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clock-clockwise.png)
   static const IconData clockClockwise = IconData(
     0xe19e,
     fontFamily: 'PhosphorBold',
@@ -4687,7 +4687,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clockCountdown` no estilo Bold.
   ///
-  /// ![clock-countdown](https://api.iconify.design/ph/clock-countdown-bold.svg?height=32&color=%23888888)
+  /// ![clock-countdown](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clock-countdown.png)
   static const IconData clockCountdown = IconData(
     0xed2c,
     fontFamily: 'PhosphorBold',
@@ -4699,7 +4699,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clockCounterClockwise` no estilo Bold.
   ///
-  /// ![clock-counter-clockwise](https://api.iconify.design/ph/clock-counter-clockwise-bold.svg?height=32&color=%23888888)
+  /// ![clock-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clock-counter-clockwise.png)
   static const IconData clockCounterClockwise = IconData(
     0xe1a0,
     fontFamily: 'PhosphorBold',
@@ -4711,7 +4711,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clockUser` no estilo Bold.
   ///
-  /// ![clock-user](https://api.iconify.design/ph/clock-user-bold.svg?height=32&color=%23888888)
+  /// ![clock-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clock-user.png)
   static const IconData clockUser = IconData(
     0xedec,
     fontFamily: 'PhosphorBold',
@@ -4723,7 +4723,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `closedCaptioning` no estilo Bold.
   ///
-  /// ![closed-captioning](https://api.iconify.design/ph/closed-captioning-bold.svg?height=32&color=%23888888)
+  /// ![closed-captioning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/closed-captioning.png)
   static const IconData closedCaptioning = IconData(
     0xe1a4,
     fontFamily: 'PhosphorBold',
@@ -4735,7 +4735,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloud` no estilo Bold.
   ///
-  /// ![cloud](https://api.iconify.design/ph/cloud-bold.svg?height=32&color=%23888888)
+  /// ![cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud.png)
   static const IconData cloud = IconData(
     0xe1aa,
     fontFamily: 'PhosphorBold',
@@ -4747,7 +4747,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudArrowDown` no estilo Bold.
   ///
-  /// ![cloud-arrow-down](https://api.iconify.design/ph/cloud-arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-arrow-down.png)
   static const IconData cloudArrowDown = IconData(
     0xe1ac,
     fontFamily: 'PhosphorBold',
@@ -4759,7 +4759,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudArrowUp` no estilo Bold.
   ///
-  /// ![cloud-arrow-up](https://api.iconify.design/ph/cloud-arrow-up-bold.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-arrow-up.png)
   static const IconData cloudArrowUp = IconData(
     0xe1ae,
     fontFamily: 'PhosphorBold',
@@ -4771,7 +4771,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudCheck` no estilo Bold.
   ///
-  /// ![cloud-check](https://api.iconify.design/ph/cloud-check-bold.svg?height=32&color=%23888888)
+  /// ![cloud-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-check.png)
   static const IconData cloudCheck = IconData(
     0xe1b0,
     fontFamily: 'PhosphorBold',
@@ -4783,7 +4783,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudFog` no estilo Bold.
   ///
-  /// ![cloud-fog](https://api.iconify.design/ph/cloud-fog-bold.svg?height=32&color=%23888888)
+  /// ![cloud-fog](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-fog.png)
   static const IconData cloudFog = IconData(
     0xe53c,
     fontFamily: 'PhosphorBold',
@@ -4795,7 +4795,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudLightning` no estilo Bold.
   ///
-  /// ![cloud-lightning](https://api.iconify.design/ph/cloud-lightning-bold.svg?height=32&color=%23888888)
+  /// ![cloud-lightning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-lightning.png)
   static const IconData cloudLightning = IconData(
     0xe1b2,
     fontFamily: 'PhosphorBold',
@@ -4807,7 +4807,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudMoon` no estilo Bold.
   ///
-  /// ![cloud-moon](https://api.iconify.design/ph/cloud-moon-bold.svg?height=32&color=%23888888)
+  /// ![cloud-moon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-moon.png)
   static const IconData cloudMoon = IconData(
     0xe53e,
     fontFamily: 'PhosphorBold',
@@ -4819,7 +4819,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudRain` no estilo Bold.
   ///
-  /// ![cloud-rain](https://api.iconify.design/ph/cloud-rain-bold.svg?height=32&color=%23888888)
+  /// ![cloud-rain](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-rain.png)
   static const IconData cloudRain = IconData(
     0xe1b4,
     fontFamily: 'PhosphorBold',
@@ -4831,7 +4831,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudSlash` no estilo Bold.
   ///
-  /// ![cloud-slash](https://api.iconify.design/ph/cloud-slash-bold.svg?height=32&color=%23888888)
+  /// ![cloud-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-slash.png)
   static const IconData cloudSlash = IconData(
     0xe1b6,
     fontFamily: 'PhosphorBold',
@@ -4843,7 +4843,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudSnow` no estilo Bold.
   ///
-  /// ![cloud-snow](https://api.iconify.design/ph/cloud-snow-bold.svg?height=32&color=%23888888)
+  /// ![cloud-snow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-snow.png)
   static const IconData cloudSnow = IconData(
     0xe1b8,
     fontFamily: 'PhosphorBold',
@@ -4855,7 +4855,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudSun` no estilo Bold.
   ///
-  /// ![cloud-sun](https://api.iconify.design/ph/cloud-sun-bold.svg?height=32&color=%23888888)
+  /// ![cloud-sun](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-sun.png)
   static const IconData cloudSun = IconData(
     0xe540,
     fontFamily: 'PhosphorBold',
@@ -4867,7 +4867,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudWarning` no estilo Bold.
   ///
-  /// ![cloud-warning](https://api.iconify.design/ph/cloud-warning-bold.svg?height=32&color=%23888888)
+  /// ![cloud-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-warning.png)
   static const IconData cloudWarning = IconData(
     0xea98,
     fontFamily: 'PhosphorBold',
@@ -4879,7 +4879,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cloudX` no estilo Bold.
   ///
-  /// ![cloud-x](https://api.iconify.design/ph/cloud-x-bold.svg?height=32&color=%23888888)
+  /// ![cloud-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cloud-x.png)
   static const IconData cloudX = IconData(
     0xea96,
     fontFamily: 'PhosphorBold',
@@ -4891,7 +4891,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `clover` no estilo Bold.
   ///
-  /// ![clover](https://api.iconify.design/ph/clover-bold.svg?height=32&color=%23888888)
+  /// ![clover](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/clover.png)
   static const IconData clover = IconData(
     0xedc8,
     fontFamily: 'PhosphorBold',
@@ -4903,7 +4903,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `club` no estilo Bold.
   ///
-  /// ![club](https://api.iconify.design/ph/club-bold.svg?height=32&color=%23888888)
+  /// ![club](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/club.png)
   static const IconData club = IconData(
     0xe1ba,
     fontFamily: 'PhosphorBold',
@@ -4915,7 +4915,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `coatHanger` no estilo Bold.
   ///
-  /// ![coat-hanger](https://api.iconify.design/ph/coat-hanger-bold.svg?height=32&color=%23888888)
+  /// ![coat-hanger](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/coat-hanger.png)
   static const IconData coatHanger = IconData(
     0xe7fe,
     fontFamily: 'PhosphorBold',
@@ -4927,7 +4927,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `codaLogo` no estilo Bold.
   ///
-  /// ![coda-logo](https://api.iconify.design/ph/coda-logo-bold.svg?height=32&color=%23888888)
+  /// ![coda-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/coda-logo.png)
   static const IconData codaLogo = IconData(
     0xe7ce,
     fontFamily: 'PhosphorBold',
@@ -4939,7 +4939,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `code` no estilo Bold.
   ///
-  /// ![code](https://api.iconify.design/ph/code-bold.svg?height=32&color=%23888888)
+  /// ![code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/code.png)
   static const IconData code = IconData(
     0xe1bc,
     fontFamily: 'PhosphorBold',
@@ -4951,7 +4951,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `codeBlock` no estilo Bold.
   ///
-  /// ![code-block](https://api.iconify.design/ph/code-block-bold.svg?height=32&color=%23888888)
+  /// ![code-block](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/code-block.png)
   static const IconData codeBlock = IconData(
     0xeafe,
     fontFamily: 'PhosphorBold',
@@ -4963,7 +4963,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `codeSimple` no estilo Bold.
   ///
-  /// ![code-simple](https://api.iconify.design/ph/code-simple-bold.svg?height=32&color=%23888888)
+  /// ![code-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/code-simple.png)
   static const IconData codeSimple = IconData(
     0xe1be,
     fontFamily: 'PhosphorBold',
@@ -4975,7 +4975,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `codepenLogo` no estilo Bold.
   ///
-  /// ![codepen-logo](https://api.iconify.design/ph/codepen-logo-bold.svg?height=32&color=%23888888)
+  /// ![codepen-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/codepen-logo.png)
   static const IconData codepenLogo = IconData(
     0xe978,
     fontFamily: 'PhosphorBold',
@@ -4987,7 +4987,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `codesandboxLogo` no estilo Bold.
   ///
-  /// ![codesandbox-logo](https://api.iconify.design/ph/codesandbox-logo-bold.svg?height=32&color=%23888888)
+  /// ![codesandbox-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/codesandbox-logo.png)
   static const IconData codesandboxLogo = IconData(
     0xea06,
     fontFamily: 'PhosphorBold',
@@ -4999,7 +4999,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `coffee` no estilo Bold.
   ///
-  /// ![coffee](https://api.iconify.design/ph/coffee-bold.svg?height=32&color=%23888888)
+  /// ![coffee](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/coffee.png)
   static const IconData coffee = IconData(
     0xe1c2,
     fontFamily: 'PhosphorBold',
@@ -5011,7 +5011,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `coffeeBean` no estilo Bold.
   ///
-  /// ![coffee-bean](https://api.iconify.design/ph/coffee-bean-bold.svg?height=32&color=%23888888)
+  /// ![coffee-bean](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/coffee-bean.png)
   static const IconData coffeeBean = IconData(
     0xe1c0,
     fontFamily: 'PhosphorBold',
@@ -5023,7 +5023,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `coin` no estilo Bold.
   ///
-  /// ![coin](https://api.iconify.design/ph/coin-bold.svg?height=32&color=%23888888)
+  /// ![coin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/coin.png)
   static const IconData coin = IconData(
     0xe60e,
     fontFamily: 'PhosphorBold',
@@ -5035,7 +5035,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `coinVertical` no estilo Bold.
   ///
-  /// ![coin-vertical](https://api.iconify.design/ph/coin-vertical-bold.svg?height=32&color=%23888888)
+  /// ![coin-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/coin-vertical.png)
   static const IconData coinVertical = IconData(
     0xeb48,
     fontFamily: 'PhosphorBold',
@@ -5047,7 +5047,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `coins` no estilo Bold.
   ///
-  /// ![coins](https://api.iconify.design/ph/coins-bold.svg?height=32&color=%23888888)
+  /// ![coins](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/coins.png)
   static const IconData coins = IconData(
     0xe78e,
     fontFamily: 'PhosphorBold',
@@ -5059,7 +5059,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `columns` no estilo Bold.
   ///
-  /// ![columns](https://api.iconify.design/ph/columns-bold.svg?height=32&color=%23888888)
+  /// ![columns](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/columns.png)
   static const IconData columns = IconData(
     0xe546,
     fontFamily: 'PhosphorBold',
@@ -5071,7 +5071,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `columnsPlusLeft` no estilo Bold.
   ///
-  /// ![columns-plus-left](https://api.iconify.design/ph/columns-plus-left-bold.svg?height=32&color=%23888888)
+  /// ![columns-plus-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/columns-plus-left.png)
   static const IconData columnsPlusLeft = IconData(
     0xe544,
     fontFamily: 'PhosphorBold',
@@ -5083,7 +5083,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `columnsPlusRight` no estilo Bold.
   ///
-  /// ![columns-plus-right](https://api.iconify.design/ph/columns-plus-right-bold.svg?height=32&color=%23888888)
+  /// ![columns-plus-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/columns-plus-right.png)
   static const IconData columnsPlusRight = IconData(
     0xe542,
     fontFamily: 'PhosphorBold',
@@ -5095,7 +5095,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `command` no estilo Bold.
   ///
-  /// ![command](https://api.iconify.design/ph/command-bold.svg?height=32&color=%23888888)
+  /// ![command](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/command.png)
   static const IconData command = IconData(
     0xe1c4,
     fontFamily: 'PhosphorBold',
@@ -5107,7 +5107,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `compass` no estilo Bold.
   ///
-  /// ![compass](https://api.iconify.design/ph/compass-bold.svg?height=32&color=%23888888)
+  /// ![compass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/compass.png)
   static const IconData compass = IconData(
     0xe1c8,
     fontFamily: 'PhosphorBold',
@@ -5119,7 +5119,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `compassRose` no estilo Bold.
   ///
-  /// ![compass-rose](https://api.iconify.design/ph/compass-rose-bold.svg?height=32&color=%23888888)
+  /// ![compass-rose](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/compass-rose.png)
   static const IconData compassRose = IconData(
     0xe1c6,
     fontFamily: 'PhosphorBold',
@@ -5131,7 +5131,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `compassTool` no estilo Bold.
   ///
-  /// ![compass-tool](https://api.iconify.design/ph/compass-tool-bold.svg?height=32&color=%23888888)
+  /// ![compass-tool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/compass-tool.png)
   static const IconData compassTool = IconData(
     0xea0e,
     fontFamily: 'PhosphorBold',
@@ -5143,7 +5143,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `computerTower` no estilo Bold.
   ///
-  /// ![computer-tower](https://api.iconify.design/ph/computer-tower-bold.svg?height=32&color=%23888888)
+  /// ![computer-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/computer-tower.png)
   static const IconData computerTower = IconData(
     0xe548,
     fontFamily: 'PhosphorBold',
@@ -5155,7 +5155,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `confetti` no estilo Bold.
   ///
-  /// ![confetti](https://api.iconify.design/ph/confetti-bold.svg?height=32&color=%23888888)
+  /// ![confetti](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/confetti.png)
   static const IconData confetti = IconData(
     0xe81a,
     fontFamily: 'PhosphorBold',
@@ -5167,7 +5167,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `contactlessPayment` no estilo Bold.
   ///
-  /// ![contactless-payment](https://api.iconify.design/ph/contactless-payment-bold.svg?height=32&color=%23888888)
+  /// ![contactless-payment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/contactless-payment.png)
   static const IconData contactlessPayment = IconData(
     0xed42,
     fontFamily: 'PhosphorBold',
@@ -5179,7 +5179,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `control` no estilo Bold.
   ///
-  /// ![control](https://api.iconify.design/ph/control-bold.svg?height=32&color=%23888888)
+  /// ![control](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/control.png)
   static const IconData control = IconData(
     0xeca6,
     fontFamily: 'PhosphorBold',
@@ -5191,7 +5191,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cookie` no estilo Bold.
   ///
-  /// ![cookie](https://api.iconify.design/ph/cookie-bold.svg?height=32&color=%23888888)
+  /// ![cookie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cookie.png)
   static const IconData cookie = IconData(
     0xe6ca,
     fontFamily: 'PhosphorBold',
@@ -5203,7 +5203,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cookingPot` no estilo Bold.
   ///
-  /// ![cooking-pot](https://api.iconify.design/ph/cooking-pot-bold.svg?height=32&color=%23888888)
+  /// ![cooking-pot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cooking-pot.png)
   static const IconData cookingPot = IconData(
     0xe764,
     fontFamily: 'PhosphorBold',
@@ -5215,7 +5215,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `copy` no estilo Bold.
   ///
-  /// ![copy](https://api.iconify.design/ph/copy-bold.svg?height=32&color=%23888888)
+  /// ![copy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/copy.png)
   static const IconData copy = IconData(
     0xe1ca,
     fontFamily: 'PhosphorBold',
@@ -5227,7 +5227,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `copySimple` no estilo Bold.
   ///
-  /// ![copy-simple](https://api.iconify.design/ph/copy-simple-bold.svg?height=32&color=%23888888)
+  /// ![copy-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/copy-simple.png)
   static const IconData copySimple = IconData(
     0xe1cc,
     fontFamily: 'PhosphorBold',
@@ -5239,7 +5239,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `copyleft` no estilo Bold.
   ///
-  /// ![copyleft](https://api.iconify.design/ph/copyleft-bold.svg?height=32&color=%23888888)
+  /// ![copyleft](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/copyleft.png)
   static const IconData copyleft = IconData(
     0xe86a,
     fontFamily: 'PhosphorBold',
@@ -5251,7 +5251,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `copyright` no estilo Bold.
   ///
-  /// ![copyright](https://api.iconify.design/ph/copyright-bold.svg?height=32&color=%23888888)
+  /// ![copyright](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/copyright.png)
   static const IconData copyright = IconData(
     0xe54a,
     fontFamily: 'PhosphorBold',
@@ -5263,7 +5263,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cornersIn` no estilo Bold.
   ///
-  /// ![corners-in](https://api.iconify.design/ph/corners-in-bold.svg?height=32&color=%23888888)
+  /// ![corners-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/corners-in.png)
   static const IconData cornersIn = IconData(
     0xe1ce,
     fontFamily: 'PhosphorBold',
@@ -5275,7 +5275,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cornersOut` no estilo Bold.
   ///
-  /// ![corners-out](https://api.iconify.design/ph/corners-out-bold.svg?height=32&color=%23888888)
+  /// ![corners-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/corners-out.png)
   static const IconData cornersOut = IconData(
     0xe1d0,
     fontFamily: 'PhosphorBold',
@@ -5287,7 +5287,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `couch` no estilo Bold.
   ///
-  /// ![couch](https://api.iconify.design/ph/couch-bold.svg?height=32&color=%23888888)
+  /// ![couch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/couch.png)
   static const IconData couch = IconData(
     0xe7f6,
     fontFamily: 'PhosphorBold',
@@ -5299,7 +5299,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `courtBasketball` no estilo Bold.
   ///
-  /// ![court-basketball](https://api.iconify.design/ph/court-basketball-bold.svg?height=32&color=%23888888)
+  /// ![court-basketball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/court-basketball.png)
   static const IconData courtBasketball = IconData(
     0xee36,
     fontFamily: 'PhosphorBold',
@@ -5311,7 +5311,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cow` no estilo Bold.
   ///
-  /// ![cow](https://api.iconify.design/ph/cow-bold.svg?height=32&color=%23888888)
+  /// ![cow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cow.png)
   static const IconData cow = IconData(
     0xeabe,
     fontFamily: 'PhosphorBold',
@@ -5323,7 +5323,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cowboyHat` no estilo Bold.
   ///
-  /// ![cowboy-hat](https://api.iconify.design/ph/cowboy-hat-bold.svg?height=32&color=%23888888)
+  /// ![cowboy-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cowboy-hat.png)
   static const IconData cowboyHat = IconData(
     0xed12,
     fontFamily: 'PhosphorBold',
@@ -5335,7 +5335,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cpu` no estilo Bold.
   ///
-  /// ![cpu](https://api.iconify.design/ph/cpu-bold.svg?height=32&color=%23888888)
+  /// ![cpu](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cpu.png)
   static const IconData cpu = IconData(
     0xe610,
     fontFamily: 'PhosphorBold',
@@ -5347,7 +5347,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `crane` no estilo Bold.
   ///
-  /// ![crane](https://api.iconify.design/ph/crane-bold.svg?height=32&color=%23888888)
+  /// ![crane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crane.png)
   static const IconData crane = IconData(
     0xed48,
     fontFamily: 'PhosphorBold',
@@ -5359,7 +5359,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `craneTower` no estilo Bold.
   ///
-  /// ![crane-tower](https://api.iconify.design/ph/crane-tower-bold.svg?height=32&color=%23888888)
+  /// ![crane-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crane-tower.png)
   static const IconData craneTower = IconData(
     0xed49,
     fontFamily: 'PhosphorBold',
@@ -5371,7 +5371,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `creditCard` no estilo Bold.
   ///
-  /// ![credit-card](https://api.iconify.design/ph/credit-card-bold.svg?height=32&color=%23888888)
+  /// ![credit-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/credit-card.png)
   static const IconData creditCard = IconData(
     0xe1d2,
     fontFamily: 'PhosphorBold',
@@ -5383,7 +5383,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cricket` no estilo Bold.
   ///
-  /// ![cricket](https://api.iconify.design/ph/cricket-bold.svg?height=32&color=%23888888)
+  /// ![cricket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cricket.png)
   static const IconData cricket = IconData(
     0xee12,
     fontFamily: 'PhosphorBold',
@@ -5395,7 +5395,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `crop` no estilo Bold.
   ///
-  /// ![crop](https://api.iconify.design/ph/crop-bold.svg?height=32&color=%23888888)
+  /// ![crop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crop.png)
   static const IconData crop = IconData(
     0xe1d4,
     fontFamily: 'PhosphorBold',
@@ -5407,7 +5407,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cross` no estilo Bold.
   ///
-  /// ![cross](https://api.iconify.design/ph/cross-bold.svg?height=32&color=%23888888)
+  /// ![cross](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cross.png)
   static const IconData cross = IconData(
     0xe8a0,
     fontFamily: 'PhosphorBold',
@@ -5419,7 +5419,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `crosshair` no estilo Bold.
   ///
-  /// ![crosshair](https://api.iconify.design/ph/crosshair-bold.svg?height=32&color=%23888888)
+  /// ![crosshair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crosshair.png)
   static const IconData crosshair = IconData(
     0xe1d6,
     fontFamily: 'PhosphorBold',
@@ -5431,7 +5431,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `crosshairSimple` no estilo Bold.
   ///
-  /// ![crosshair-simple](https://api.iconify.design/ph/crosshair-simple-bold.svg?height=32&color=%23888888)
+  /// ![crosshair-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crosshair-simple.png)
   static const IconData crosshairSimple = IconData(
     0xe1d8,
     fontFamily: 'PhosphorBold',
@@ -5443,7 +5443,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `crown` no estilo Bold.
   ///
-  /// ![crown](https://api.iconify.design/ph/crown-bold.svg?height=32&color=%23888888)
+  /// ![crown](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crown.png)
   static const IconData crown = IconData(
     0xe614,
     fontFamily: 'PhosphorBold',
@@ -5455,7 +5455,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `crownCross` no estilo Bold.
   ///
-  /// ![crown-cross](https://api.iconify.design/ph/crown-cross-bold.svg?height=32&color=%23888888)
+  /// ![crown-cross](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crown-cross.png)
   static const IconData crownCross = IconData(
     0xee5e,
     fontFamily: 'PhosphorBold',
@@ -5467,7 +5467,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `crownSimple` no estilo Bold.
   ///
-  /// ![crown-simple](https://api.iconify.design/ph/crown-simple-bold.svg?height=32&color=%23888888)
+  /// ![crown-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/crown-simple.png)
   static const IconData crownSimple = IconData(
     0xe616,
     fontFamily: 'PhosphorBold',
@@ -5479,7 +5479,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cube` no estilo Bold.
   ///
-  /// ![cube](https://api.iconify.design/ph/cube-bold.svg?height=32&color=%23888888)
+  /// ![cube](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cube.png)
   static const IconData cube = IconData(
     0xe1da,
     fontFamily: 'PhosphorBold',
@@ -5491,7 +5491,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cubeFocus` no estilo Bold.
   ///
-  /// ![cube-focus](https://api.iconify.design/ph/cube-focus-bold.svg?height=32&color=%23888888)
+  /// ![cube-focus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cube-focus.png)
   static const IconData cubeFocus = IconData(
     0xed0a,
     fontFamily: 'PhosphorBold',
@@ -5503,7 +5503,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cubeTransparent` no estilo Bold.
   ///
-  /// ![cube-transparent](https://api.iconify.design/ph/cube-transparent-bold.svg?height=32&color=%23888888)
+  /// ![cube-transparent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cube-transparent.png)
   static const IconData cubeTransparent = IconData(
     0xec7c,
     fontFamily: 'PhosphorBold',
@@ -5515,7 +5515,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyBtc` no estilo Bold.
   ///
-  /// ![currency-btc](https://api.iconify.design/ph/currency-btc-bold.svg?height=32&color=%23888888)
+  /// ![currency-btc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-btc.png)
   static const IconData currencyBtc = IconData(
     0xe618,
     fontFamily: 'PhosphorBold',
@@ -5527,7 +5527,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyCircleDollar` no estilo Bold.
   ///
-  /// ![currency-circle-dollar](https://api.iconify.design/ph/currency-circle-dollar-bold.svg?height=32&color=%23888888)
+  /// ![currency-circle-dollar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-circle-dollar.png)
   static const IconData currencyCircleDollar = IconData(
     0xe54c,
     fontFamily: 'PhosphorBold',
@@ -5539,7 +5539,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyCny` no estilo Bold.
   ///
-  /// ![currency-cny](https://api.iconify.design/ph/currency-cny-bold.svg?height=32&color=%23888888)
+  /// ![currency-cny](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-cny.png)
   static const IconData currencyCny = IconData(
     0xe54e,
     fontFamily: 'PhosphorBold',
@@ -5551,7 +5551,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyDollar` no estilo Bold.
   ///
-  /// ![currency-dollar](https://api.iconify.design/ph/currency-dollar-bold.svg?height=32&color=%23888888)
+  /// ![currency-dollar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-dollar.png)
   static const IconData currencyDollar = IconData(
     0xe550,
     fontFamily: 'PhosphorBold',
@@ -5563,7 +5563,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyDollarSimple` no estilo Bold.
   ///
-  /// ![currency-dollar-simple](https://api.iconify.design/ph/currency-dollar-simple-bold.svg?height=32&color=%23888888)
+  /// ![currency-dollar-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-dollar-simple.png)
   static const IconData currencyDollarSimple = IconData(
     0xe552,
     fontFamily: 'PhosphorBold',
@@ -5575,7 +5575,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyEth` no estilo Bold.
   ///
-  /// ![currency-eth](https://api.iconify.design/ph/currency-eth-bold.svg?height=32&color=%23888888)
+  /// ![currency-eth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-eth.png)
   static const IconData currencyEth = IconData(
     0xeada,
     fontFamily: 'PhosphorBold',
@@ -5587,7 +5587,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyEur` no estilo Bold.
   ///
-  /// ![currency-eur](https://api.iconify.design/ph/currency-eur-bold.svg?height=32&color=%23888888)
+  /// ![currency-eur](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-eur.png)
   static const IconData currencyEur = IconData(
     0xe554,
     fontFamily: 'PhosphorBold',
@@ -5599,7 +5599,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyGbp` no estilo Bold.
   ///
-  /// ![currency-gbp](https://api.iconify.design/ph/currency-gbp-bold.svg?height=32&color=%23888888)
+  /// ![currency-gbp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-gbp.png)
   static const IconData currencyGbp = IconData(
     0xe556,
     fontFamily: 'PhosphorBold',
@@ -5611,7 +5611,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyInr` no estilo Bold.
   ///
-  /// ![currency-inr](https://api.iconify.design/ph/currency-inr-bold.svg?height=32&color=%23888888)
+  /// ![currency-inr](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-inr.png)
   static const IconData currencyInr = IconData(
     0xe558,
     fontFamily: 'PhosphorBold',
@@ -5623,7 +5623,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyJpy` no estilo Bold.
   ///
-  /// ![currency-jpy](https://api.iconify.design/ph/currency-jpy-bold.svg?height=32&color=%23888888)
+  /// ![currency-jpy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-jpy.png)
   static const IconData currencyJpy = IconData(
     0xe55a,
     fontFamily: 'PhosphorBold',
@@ -5635,7 +5635,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyKrw` no estilo Bold.
   ///
-  /// ![currency-krw](https://api.iconify.design/ph/currency-krw-bold.svg?height=32&color=%23888888)
+  /// ![currency-krw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-krw.png)
   static const IconData currencyKrw = IconData(
     0xe55c,
     fontFamily: 'PhosphorBold',
@@ -5647,7 +5647,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyKzt` no estilo Bold.
   ///
-  /// ![currency-kzt](https://api.iconify.design/ph/currency-kzt-bold.svg?height=32&color=%23888888)
+  /// ![currency-kzt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-kzt.png)
   static const IconData currencyKzt = IconData(
     0xec4c,
     fontFamily: 'PhosphorBold',
@@ -5659,7 +5659,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyNgn` no estilo Bold.
   ///
-  /// ![currency-ngn](https://api.iconify.design/ph/currency-ngn-bold.svg?height=32&color=%23888888)
+  /// ![currency-ngn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-ngn.png)
   static const IconData currencyNgn = IconData(
     0xeb52,
     fontFamily: 'PhosphorBold',
@@ -5671,7 +5671,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `currencyRub` no estilo Bold.
   ///
-  /// ![currency-rub](https://api.iconify.design/ph/currency-rub-bold.svg?height=32&color=%23888888)
+  /// ![currency-rub](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/currency-rub.png)
   static const IconData currencyRub = IconData(
     0xe55e,
     fontFamily: 'PhosphorBold',
@@ -5683,7 +5683,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cursor` no estilo Bold.
   ///
-  /// ![cursor](https://api.iconify.design/ph/cursor-bold.svg?height=32&color=%23888888)
+  /// ![cursor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cursor.png)
   static const IconData cursor = IconData(
     0xe1dc,
     fontFamily: 'PhosphorBold',
@@ -5695,7 +5695,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cursorClick` no estilo Bold.
   ///
-  /// ![cursor-click](https://api.iconify.design/ph/cursor-click-bold.svg?height=32&color=%23888888)
+  /// ![cursor-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cursor-click.png)
   static const IconData cursorClick = IconData(
     0xe7c8,
     fontFamily: 'PhosphorBold',
@@ -5707,7 +5707,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cursorText` no estilo Bold.
   ///
-  /// ![cursor-text](https://api.iconify.design/ph/cursor-text-bold.svg?height=32&color=%23888888)
+  /// ![cursor-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cursor-text.png)
   static const IconData cursorText = IconData(
     0xe7d8,
     fontFamily: 'PhosphorBold',
@@ -5719,7 +5719,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `cylinder` no estilo Bold.
   ///
-  /// ![cylinder](https://api.iconify.design/ph/cylinder-bold.svg?height=32&color=%23888888)
+  /// ![cylinder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/cylinder.png)
   static const IconData cylinder = IconData(
     0xe8fc,
     fontFamily: 'PhosphorBold',
@@ -5731,7 +5731,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `database` no estilo Bold.
   ///
-  /// ![database](https://api.iconify.design/ph/database-bold.svg?height=32&color=%23888888)
+  /// ![database](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/database.png)
   static const IconData database = IconData(
     0xe1de,
     fontFamily: 'PhosphorBold',
@@ -5743,7 +5743,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `desk` no estilo Bold.
   ///
-  /// ![desk](https://api.iconify.design/ph/desk-bold.svg?height=32&color=%23888888)
+  /// ![desk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/desk.png)
   static const IconData desk = IconData(
     0xed16,
     fontFamily: 'PhosphorBold',
@@ -5755,7 +5755,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `desktop` no estilo Bold.
   ///
-  /// ![desktop](https://api.iconify.design/ph/desktop-bold.svg?height=32&color=%23888888)
+  /// ![desktop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/desktop.png)
   static const IconData desktop = IconData(
     0xe560,
     fontFamily: 'PhosphorBold',
@@ -5767,7 +5767,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `desktopTower` no estilo Bold.
   ///
-  /// ![desktop-tower](https://api.iconify.design/ph/desktop-tower-bold.svg?height=32&color=%23888888)
+  /// ![desktop-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/desktop-tower.png)
   static const IconData desktopTower = IconData(
     0xe562,
     fontFamily: 'PhosphorBold',
@@ -5779,7 +5779,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `detective` no estilo Bold.
   ///
-  /// ![detective](https://api.iconify.design/ph/detective-bold.svg?height=32&color=%23888888)
+  /// ![detective](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/detective.png)
   static const IconData detective = IconData(
     0xe83e,
     fontFamily: 'PhosphorBold',
@@ -5791,7 +5791,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `devToLogo` no estilo Bold.
   ///
-  /// ![dev-to-logo](https://api.iconify.design/ph/dev-to-logo-bold.svg?height=32&color=%23888888)
+  /// ![dev-to-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dev-to-logo.png)
   static const IconData devToLogo = IconData(
     0xed0e,
     fontFamily: 'PhosphorBold',
@@ -5803,7 +5803,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceMobile` no estilo Bold.
   ///
-  /// ![device-mobile](https://api.iconify.design/ph/device-mobile-bold.svg?height=32&color=%23888888)
+  /// ![device-mobile](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-mobile.png)
   static const IconData deviceMobile = IconData(
     0xe1e0,
     fontFamily: 'PhosphorBold',
@@ -5815,7 +5815,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceMobileCamera` no estilo Bold.
   ///
-  /// ![device-mobile-camera](https://api.iconify.design/ph/device-mobile-camera-bold.svg?height=32&color=%23888888)
+  /// ![device-mobile-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-mobile-camera.png)
   static const IconData deviceMobileCamera = IconData(
     0xe1e2,
     fontFamily: 'PhosphorBold',
@@ -5827,7 +5827,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceMobileSlash` no estilo Bold.
   ///
-  /// ![device-mobile-slash](https://api.iconify.design/ph/device-mobile-slash-bold.svg?height=32&color=%23888888)
+  /// ![device-mobile-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-mobile-slash.png)
   static const IconData deviceMobileSlash = IconData(
     0xee46,
     fontFamily: 'PhosphorBold',
@@ -5839,7 +5839,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceMobileSpeaker` no estilo Bold.
   ///
-  /// ![device-mobile-speaker](https://api.iconify.design/ph/device-mobile-speaker-bold.svg?height=32&color=%23888888)
+  /// ![device-mobile-speaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-mobile-speaker.png)
   static const IconData deviceMobileSpeaker = IconData(
     0xe1e4,
     fontFamily: 'PhosphorBold',
@@ -5851,7 +5851,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceRotate` no estilo Bold.
   ///
-  /// ![device-rotate](https://api.iconify.design/ph/device-rotate-bold.svg?height=32&color=%23888888)
+  /// ![device-rotate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-rotate.png)
   static const IconData deviceRotate = IconData(
     0xedf2,
     fontFamily: 'PhosphorBold',
@@ -5863,7 +5863,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceTablet` no estilo Bold.
   ///
-  /// ![device-tablet](https://api.iconify.design/ph/device-tablet-bold.svg?height=32&color=%23888888)
+  /// ![device-tablet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-tablet.png)
   static const IconData deviceTablet = IconData(
     0xe1e6,
     fontFamily: 'PhosphorBold',
@@ -5875,7 +5875,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceTabletCamera` no estilo Bold.
   ///
-  /// ![device-tablet-camera](https://api.iconify.design/ph/device-tablet-camera-bold.svg?height=32&color=%23888888)
+  /// ![device-tablet-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-tablet-camera.png)
   static const IconData deviceTabletCamera = IconData(
     0xe1e8,
     fontFamily: 'PhosphorBold',
@@ -5887,7 +5887,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `deviceTabletSpeaker` no estilo Bold.
   ///
-  /// ![device-tablet-speaker](https://api.iconify.design/ph/device-tablet-speaker-bold.svg?height=32&color=%23888888)
+  /// ![device-tablet-speaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/device-tablet-speaker.png)
   static const IconData deviceTabletSpeaker = IconData(
     0xe1ea,
     fontFamily: 'PhosphorBold',
@@ -5899,7 +5899,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `devices` no estilo Bold.
   ///
-  /// ![devices](https://api.iconify.design/ph/devices-bold.svg?height=32&color=%23888888)
+  /// ![devices](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/devices.png)
   static const IconData devices = IconData(
     0xeba4,
     fontFamily: 'PhosphorBold',
@@ -5911,7 +5911,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diamond` no estilo Bold.
   ///
-  /// ![diamond](https://api.iconify.design/ph/diamond-bold.svg?height=32&color=%23888888)
+  /// ![diamond](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/diamond.png)
   static const IconData diamond = IconData(
     0xe1ec,
     fontFamily: 'PhosphorBold',
@@ -5923,7 +5923,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diamondsFour` no estilo Bold.
   ///
-  /// ![diamonds-four](https://api.iconify.design/ph/diamonds-four-bold.svg?height=32&color=%23888888)
+  /// ![diamonds-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/diamonds-four.png)
   static const IconData diamondsFour = IconData(
     0xe8f4,
     fontFamily: 'PhosphorBold',
@@ -5935,7 +5935,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diceFive` no estilo Bold.
   ///
-  /// ![dice-five](https://api.iconify.design/ph/dice-five-bold.svg?height=32&color=%23888888)
+  /// ![dice-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dice-five.png)
   static const IconData diceFive = IconData(
     0xe1ee,
     fontFamily: 'PhosphorBold',
@@ -5947,7 +5947,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diceFour` no estilo Bold.
   ///
-  /// ![dice-four](https://api.iconify.design/ph/dice-four-bold.svg?height=32&color=%23888888)
+  /// ![dice-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dice-four.png)
   static const IconData diceFour = IconData(
     0xe1f0,
     fontFamily: 'PhosphorBold',
@@ -5959,7 +5959,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diceOne` no estilo Bold.
   ///
-  /// ![dice-one](https://api.iconify.design/ph/dice-one-bold.svg?height=32&color=%23888888)
+  /// ![dice-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dice-one.png)
   static const IconData diceOne = IconData(
     0xe1f2,
     fontFamily: 'PhosphorBold',
@@ -5971,7 +5971,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diceSix` no estilo Bold.
   ///
-  /// ![dice-six](https://api.iconify.design/ph/dice-six-bold.svg?height=32&color=%23888888)
+  /// ![dice-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dice-six.png)
   static const IconData diceSix = IconData(
     0xe1f4,
     fontFamily: 'PhosphorBold',
@@ -5983,7 +5983,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diceThree` no estilo Bold.
   ///
-  /// ![dice-three](https://api.iconify.design/ph/dice-three-bold.svg?height=32&color=%23888888)
+  /// ![dice-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dice-three.png)
   static const IconData diceThree = IconData(
     0xe1f6,
     fontFamily: 'PhosphorBold',
@@ -5995,7 +5995,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `diceTwo` no estilo Bold.
   ///
-  /// ![dice-two](https://api.iconify.design/ph/dice-two-bold.svg?height=32&color=%23888888)
+  /// ![dice-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dice-two.png)
   static const IconData diceTwo = IconData(
     0xe1f8,
     fontFamily: 'PhosphorBold',
@@ -6007,7 +6007,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `disc` no estilo Bold.
   ///
-  /// ![disc](https://api.iconify.design/ph/disc-bold.svg?height=32&color=%23888888)
+  /// ![disc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/disc.png)
   static const IconData disc = IconData(
     0xe564,
     fontFamily: 'PhosphorBold',
@@ -6019,7 +6019,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `discoBall` no estilo Bold.
   ///
-  /// ![disco-ball](https://api.iconify.design/ph/disco-ball-bold.svg?height=32&color=%23888888)
+  /// ![disco-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/disco-ball.png)
   static const IconData discoBall = IconData(
     0xed98,
     fontFamily: 'PhosphorBold',
@@ -6031,7 +6031,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `discordLogo` no estilo Bold.
   ///
-  /// ![discord-logo](https://api.iconify.design/ph/discord-logo-bold.svg?height=32&color=%23888888)
+  /// ![discord-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/discord-logo.png)
   static const IconData discordLogo = IconData(
     0xe61a,
     fontFamily: 'PhosphorBold',
@@ -6043,7 +6043,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `divide` no estilo Bold.
   ///
-  /// ![divide](https://api.iconify.design/ph/divide-bold.svg?height=32&color=%23888888)
+  /// ![divide](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/divide.png)
   static const IconData divide = IconData(
     0xe1fa,
     fontFamily: 'PhosphorBold',
@@ -6055,7 +6055,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dna` no estilo Bold.
   ///
-  /// ![dna](https://api.iconify.design/ph/dna-bold.svg?height=32&color=%23888888)
+  /// ![dna](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dna.png)
   static const IconData dna = IconData(
     0xe924,
     fontFamily: 'PhosphorBold',
@@ -6067,7 +6067,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dog` no estilo Bold.
   ///
-  /// ![dog](https://api.iconify.design/ph/dog-bold.svg?height=32&color=%23888888)
+  /// ![dog](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dog.png)
   static const IconData dog = IconData(
     0xe74a,
     fontFamily: 'PhosphorBold',
@@ -6079,7 +6079,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `door` no estilo Bold.
   ///
-  /// ![door](https://api.iconify.design/ph/door-bold.svg?height=32&color=%23888888)
+  /// ![door](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/door.png)
   static const IconData door = IconData(
     0xe61c,
     fontFamily: 'PhosphorBold',
@@ -6091,7 +6091,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `doorOpen` no estilo Bold.
   ///
-  /// ![door-open](https://api.iconify.design/ph/door-open-bold.svg?height=32&color=%23888888)
+  /// ![door-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/door-open.png)
   static const IconData doorOpen = IconData(
     0xe7e6,
     fontFamily: 'PhosphorBold',
@@ -6103,7 +6103,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dot` no estilo Bold.
   ///
-  /// ![dot](https://api.iconify.design/ph/dot-bold.svg?height=32&color=%23888888)
+  /// ![dot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dot.png)
   static const IconData dot = IconData(
     0xecde,
     fontFamily: 'PhosphorBold',
@@ -6115,7 +6115,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotOutline` no estilo Bold.
   ///
-  /// ![dot-outline](https://api.iconify.design/ph/dot-outline-bold.svg?height=32&color=%23888888)
+  /// ![dot-outline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dot-outline.png)
   static const IconData dotOutline = IconData(
     0xece0,
     fontFamily: 'PhosphorBold',
@@ -6127,7 +6127,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsNine` no estilo Bold.
   ///
-  /// ![dots-nine](https://api.iconify.design/ph/dots-nine-bold.svg?height=32&color=%23888888)
+  /// ![dots-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-nine.png)
   static const IconData dotsNine = IconData(
     0xe1fc,
     fontFamily: 'PhosphorBold',
@@ -6139,7 +6139,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsSix` no estilo Bold.
   ///
-  /// ![dots-six](https://api.iconify.design/ph/dots-six-bold.svg?height=32&color=%23888888)
+  /// ![dots-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-six.png)
   static const IconData dotsSix = IconData(
     0xe794,
     fontFamily: 'PhosphorBold',
@@ -6151,7 +6151,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsSixVertical` no estilo Bold.
   ///
-  /// ![dots-six-vertical](https://api.iconify.design/ph/dots-six-vertical-bold.svg?height=32&color=%23888888)
+  /// ![dots-six-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-six-vertical.png)
   static const IconData dotsSixVertical = IconData(
     0xeae2,
     fontFamily: 'PhosphorBold',
@@ -6163,7 +6163,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsThree` no estilo Bold.
   ///
-  /// ![dots-three](https://api.iconify.design/ph/dots-three-bold.svg?height=32&color=%23888888)
+  /// ![dots-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-three.png)
   static const IconData dotsThree = IconData(
     0xe1fe,
     fontFamily: 'PhosphorBold',
@@ -6175,7 +6175,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsThreeCircle` no estilo Bold.
   ///
-  /// ![dots-three-circle](https://api.iconify.design/ph/dots-three-circle-bold.svg?height=32&color=%23888888)
+  /// ![dots-three-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-three-circle.png)
   static const IconData dotsThreeCircle = IconData(
     0xe200,
     fontFamily: 'PhosphorBold',
@@ -6187,7 +6187,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsThreeCircleVertical` no estilo Bold.
   ///
-  /// ![dots-three-circle-vertical](https://api.iconify.design/ph/dots-three-circle-vertical-bold.svg?height=32&color=%23888888)
+  /// ![dots-three-circle-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-three-circle-vertical.png)
   static const IconData dotsThreeCircleVertical = IconData(
     0xe202,
     fontFamily: 'PhosphorBold',
@@ -6199,7 +6199,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsThreeOutline` no estilo Bold.
   ///
-  /// ![dots-three-outline](https://api.iconify.design/ph/dots-three-outline-bold.svg?height=32&color=%23888888)
+  /// ![dots-three-outline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-three-outline.png)
   static const IconData dotsThreeOutline = IconData(
     0xe204,
     fontFamily: 'PhosphorBold',
@@ -6211,7 +6211,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Bold.
   ///
-  /// ![dots-three-outline-vertical](https://api.iconify.design/ph/dots-three-outline-vertical-bold.svg?height=32&color=%23888888)
+  /// ![dots-three-outline-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-three-outline-vertical.png)
   static const IconData dotsThreeOutlineVertical = IconData(
     0xe206,
     fontFamily: 'PhosphorBold',
@@ -6223,7 +6223,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dotsThreeVertical` no estilo Bold.
   ///
-  /// ![dots-three-vertical](https://api.iconify.design/ph/dots-three-vertical-bold.svg?height=32&color=%23888888)
+  /// ![dots-three-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dots-three-vertical.png)
   static const IconData dotsThreeVertical = IconData(
     0xe208,
     fontFamily: 'PhosphorBold',
@@ -6235,7 +6235,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `download` no estilo Bold.
   ///
-  /// ![download](https://api.iconify.design/ph/download-bold.svg?height=32&color=%23888888)
+  /// ![download](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/download.png)
   static const IconData download = IconData(
     0xe20a,
     fontFamily: 'PhosphorBold',
@@ -6247,7 +6247,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `downloadSimple` no estilo Bold.
   ///
-  /// ![download-simple](https://api.iconify.design/ph/download-simple-bold.svg?height=32&color=%23888888)
+  /// ![download-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/download-simple.png)
   static const IconData downloadSimple = IconData(
     0xe20c,
     fontFamily: 'PhosphorBold',
@@ -6259,7 +6259,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dress` no estilo Bold.
   ///
-  /// ![dress](https://api.iconify.design/ph/dress-bold.svg?height=32&color=%23888888)
+  /// ![dress](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dress.png)
   static const IconData dress = IconData(
     0xea7e,
     fontFamily: 'PhosphorBold',
@@ -6271,7 +6271,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dresser` no estilo Bold.
   ///
-  /// ![dresser](https://api.iconify.design/ph/dresser-bold.svg?height=32&color=%23888888)
+  /// ![dresser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dresser.png)
   static const IconData dresser = IconData(
     0xe94e,
     fontFamily: 'PhosphorBold',
@@ -6283,7 +6283,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dribbbleLogo` no estilo Bold.
   ///
-  /// ![dribbble-logo](https://api.iconify.design/ph/dribbble-logo-bold.svg?height=32&color=%23888888)
+  /// ![dribbble-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dribbble-logo.png)
   static const IconData dribbbleLogo = IconData(
     0xe20e,
     fontFamily: 'PhosphorBold',
@@ -6295,7 +6295,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `drone` no estilo Bold.
   ///
-  /// ![drone](https://api.iconify.design/ph/drone-bold.svg?height=32&color=%23888888)
+  /// ![drone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/drone.png)
   static const IconData drone = IconData(
     0xed74,
     fontFamily: 'PhosphorBold',
@@ -6307,7 +6307,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `drop` no estilo Bold.
   ///
-  /// ![drop](https://api.iconify.design/ph/drop-bold.svg?height=32&color=%23888888)
+  /// ![drop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/drop.png)
   static const IconData drop = IconData(
     0xe210,
     fontFamily: 'PhosphorBold',
@@ -6319,7 +6319,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dropHalf` no estilo Bold.
   ///
-  /// ![drop-half](https://api.iconify.design/ph/drop-half-bold.svg?height=32&color=%23888888)
+  /// ![drop-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/drop-half.png)
   static const IconData dropHalf = IconData(
     0xe566,
     fontFamily: 'PhosphorBold',
@@ -6331,7 +6331,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dropHalfBottom` no estilo Bold.
   ///
-  /// ![drop-half-bottom](https://api.iconify.design/ph/drop-half-bottom-bold.svg?height=32&color=%23888888)
+  /// ![drop-half-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/drop-half-bottom.png)
   static const IconData dropHalfBottom = IconData(
     0xeb40,
     fontFamily: 'PhosphorBold',
@@ -6343,7 +6343,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dropSimple` no estilo Bold.
   ///
-  /// ![drop-simple](https://api.iconify.design/ph/drop-simple-bold.svg?height=32&color=%23888888)
+  /// ![drop-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/drop-simple.png)
   static const IconData dropSimple = IconData(
     0xee32,
     fontFamily: 'PhosphorBold',
@@ -6355,7 +6355,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dropSlash` no estilo Bold.
   ///
-  /// ![drop-slash](https://api.iconify.design/ph/drop-slash-bold.svg?height=32&color=%23888888)
+  /// ![drop-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/drop-slash.png)
   static const IconData dropSlash = IconData(
     0xe954,
     fontFamily: 'PhosphorBold',
@@ -6367,7 +6367,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `dropboxLogo` no estilo Bold.
   ///
-  /// ![dropbox-logo](https://api.iconify.design/ph/dropbox-logo-bold.svg?height=32&color=%23888888)
+  /// ![dropbox-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/dropbox-logo.png)
   static const IconData dropboxLogo = IconData(
     0xe7d0,
     fontFamily: 'PhosphorBold',
@@ -6379,7 +6379,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ear` no estilo Bold.
   ///
-  /// ![ear](https://api.iconify.design/ph/ear-bold.svg?height=32&color=%23888888)
+  /// ![ear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ear.png)
   static const IconData ear = IconData(
     0xe70c,
     fontFamily: 'PhosphorBold',
@@ -6391,7 +6391,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `earSlash` no estilo Bold.
   ///
-  /// ![ear-slash](https://api.iconify.design/ph/ear-slash-bold.svg?height=32&color=%23888888)
+  /// ![ear-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ear-slash.png)
   static const IconData earSlash = IconData(
     0xe70e,
     fontFamily: 'PhosphorBold',
@@ -6403,7 +6403,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `egg` no estilo Bold.
   ///
-  /// ![egg](https://api.iconify.design/ph/egg-bold.svg?height=32&color=%23888888)
+  /// ![egg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/egg.png)
   static const IconData egg = IconData(
     0xe812,
     fontFamily: 'PhosphorBold',
@@ -6415,7 +6415,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eggCrack` no estilo Bold.
   ///
-  /// ![egg-crack](https://api.iconify.design/ph/egg-crack-bold.svg?height=32&color=%23888888)
+  /// ![egg-crack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/egg-crack.png)
   static const IconData eggCrack = IconData(
     0xeb64,
     fontFamily: 'PhosphorBold',
@@ -6427,7 +6427,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eject` no estilo Bold.
   ///
-  /// ![eject](https://api.iconify.design/ph/eject-bold.svg?height=32&color=%23888888)
+  /// ![eject](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eject.png)
   static const IconData eject = IconData(
     0xe212,
     fontFamily: 'PhosphorBold',
@@ -6439,7 +6439,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ejectSimple` no estilo Bold.
   ///
-  /// ![eject-simple](https://api.iconify.design/ph/eject-simple-bold.svg?height=32&color=%23888888)
+  /// ![eject-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eject-simple.png)
   static const IconData ejectSimple = IconData(
     0xe6ae,
     fontFamily: 'PhosphorBold',
@@ -6451,7 +6451,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `elevator` no estilo Bold.
   ///
-  /// ![elevator](https://api.iconify.design/ph/elevator-bold.svg?height=32&color=%23888888)
+  /// ![elevator](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/elevator.png)
   static const IconData elevator = IconData(
     0xecc0,
     fontFamily: 'PhosphorBold',
@@ -6463,7 +6463,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `empty` no estilo Bold.
   ///
-  /// ![empty](https://api.iconify.design/ph/empty-bold.svg?height=32&color=%23888888)
+  /// ![empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/empty.png)
   static const IconData empty = IconData(
     0xedbc,
     fontFamily: 'PhosphorBold',
@@ -6475,7 +6475,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `engine` no estilo Bold.
   ///
-  /// ![engine](https://api.iconify.design/ph/engine-bold.svg?height=32&color=%23888888)
+  /// ![engine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/engine.png)
   static const IconData engine = IconData(
     0xea80,
     fontFamily: 'PhosphorBold',
@@ -6487,7 +6487,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `envelope` no estilo Bold.
   ///
-  /// ![envelope](https://api.iconify.design/ph/envelope-bold.svg?height=32&color=%23888888)
+  /// ![envelope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/envelope.png)
   static const IconData envelope = IconData(
     0xe214,
     fontFamily: 'PhosphorBold',
@@ -6499,7 +6499,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `envelopeOpen` no estilo Bold.
   ///
-  /// ![envelope-open](https://api.iconify.design/ph/envelope-open-bold.svg?height=32&color=%23888888)
+  /// ![envelope-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/envelope-open.png)
   static const IconData envelopeOpen = IconData(
     0xe216,
     fontFamily: 'PhosphorBold',
@@ -6511,7 +6511,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `envelopeSimple` no estilo Bold.
   ///
-  /// ![envelope-simple](https://api.iconify.design/ph/envelope-simple-bold.svg?height=32&color=%23888888)
+  /// ![envelope-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/envelope-simple.png)
   static const IconData envelopeSimple = IconData(
     0xe218,
     fontFamily: 'PhosphorBold',
@@ -6523,7 +6523,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `envelopeSimpleOpen` no estilo Bold.
   ///
-  /// ![envelope-simple-open](https://api.iconify.design/ph/envelope-simple-open-bold.svg?height=32&color=%23888888)
+  /// ![envelope-simple-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/envelope-simple-open.png)
   static const IconData envelopeSimpleOpen = IconData(
     0xe21a,
     fontFamily: 'PhosphorBold',
@@ -6535,7 +6535,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `equalizer` no estilo Bold.
   ///
-  /// ![equalizer](https://api.iconify.design/ph/equalizer-bold.svg?height=32&color=%23888888)
+  /// ![equalizer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/equalizer.png)
   static const IconData equalizer = IconData(
     0xebbc,
     fontFamily: 'PhosphorBold',
@@ -6547,7 +6547,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `equals` no estilo Bold.
   ///
-  /// ![equals](https://api.iconify.design/ph/equals-bold.svg?height=32&color=%23888888)
+  /// ![equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/equals.png)
   static const IconData equals = IconData(
     0xe21c,
     fontFamily: 'PhosphorBold',
@@ -6559,7 +6559,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eraser` no estilo Bold.
   ///
-  /// ![eraser](https://api.iconify.design/ph/eraser-bold.svg?height=32&color=%23888888)
+  /// ![eraser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eraser.png)
   static const IconData eraser = IconData(
     0xe21e,
     fontFamily: 'PhosphorBold',
@@ -6571,7 +6571,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `escalatorDown` no estilo Bold.
   ///
-  /// ![escalator-down](https://api.iconify.design/ph/escalator-down-bold.svg?height=32&color=%23888888)
+  /// ![escalator-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/escalator-down.png)
   static const IconData escalatorDown = IconData(
     0xecba,
     fontFamily: 'PhosphorBold',
@@ -6583,7 +6583,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `escalatorUp` no estilo Bold.
   ///
-  /// ![escalator-up](https://api.iconify.design/ph/escalator-up-bold.svg?height=32&color=%23888888)
+  /// ![escalator-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/escalator-up.png)
   static const IconData escalatorUp = IconData(
     0xecbc,
     fontFamily: 'PhosphorBold',
@@ -6595,7 +6595,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `exam` no estilo Bold.
   ///
-  /// ![exam](https://api.iconify.design/ph/exam-bold.svg?height=32&color=%23888888)
+  /// ![exam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/exam.png)
   static const IconData exam = IconData(
     0xe742,
     fontFamily: 'PhosphorBold',
@@ -6607,7 +6607,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `exclamationMark` no estilo Bold.
   ///
-  /// ![exclamation-mark](https://api.iconify.design/ph/exclamation-mark-bold.svg?height=32&color=%23888888)
+  /// ![exclamation-mark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/exclamation-mark.png)
   static const IconData exclamationMark = IconData(
     0xee44,
     fontFamily: 'PhosphorBold',
@@ -6619,7 +6619,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `exclude` no estilo Bold.
   ///
-  /// ![exclude](https://api.iconify.design/ph/exclude-bold.svg?height=32&color=%23888888)
+  /// ![exclude](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/exclude.png)
   static const IconData exclude = IconData(
     0xe882,
     fontFamily: 'PhosphorBold',
@@ -6631,7 +6631,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `excludeSquare` no estilo Bold.
   ///
-  /// ![exclude-square](https://api.iconify.design/ph/exclude-square-bold.svg?height=32&color=%23888888)
+  /// ![exclude-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/exclude-square.png)
   static const IconData excludeSquare = IconData(
     0xe880,
     fontFamily: 'PhosphorBold',
@@ -6643,7 +6643,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `export` no estilo Bold.
   ///
-  /// ![export](https://api.iconify.design/ph/export-bold.svg?height=32&color=%23888888)
+  /// ![export](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/export.png)
   static const IconData export = IconData(
     0xeaf0,
     fontFamily: 'PhosphorBold',
@@ -6655,7 +6655,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eye` no estilo Bold.
   ///
-  /// ![eye](https://api.iconify.design/ph/eye-bold.svg?height=32&color=%23888888)
+  /// ![eye](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eye.png)
   static const IconData eye = IconData(
     0xe220,
     fontFamily: 'PhosphorBold',
@@ -6667,7 +6667,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eyeClosed` no estilo Bold.
   ///
-  /// ![eye-closed](https://api.iconify.design/ph/eye-closed-bold.svg?height=32&color=%23888888)
+  /// ![eye-closed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eye-closed.png)
   static const IconData eyeClosed = IconData(
     0xe222,
     fontFamily: 'PhosphorBold',
@@ -6679,7 +6679,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eyeSlash` no estilo Bold.
   ///
-  /// ![eye-slash](https://api.iconify.design/ph/eye-slash-bold.svg?height=32&color=%23888888)
+  /// ![eye-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eye-slash.png)
   static const IconData eyeSlash = IconData(
     0xe224,
     fontFamily: 'PhosphorBold',
@@ -6691,7 +6691,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eyedropper` no estilo Bold.
   ///
-  /// ![eyedropper](https://api.iconify.design/ph/eyedropper-bold.svg?height=32&color=%23888888)
+  /// ![eyedropper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eyedropper.png)
   static const IconData eyedropper = IconData(
     0xe568,
     fontFamily: 'PhosphorBold',
@@ -6703,7 +6703,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eyedropperSample` no estilo Bold.
   ///
-  /// ![eyedropper-sample](https://api.iconify.design/ph/eyedropper-sample-bold.svg?height=32&color=%23888888)
+  /// ![eyedropper-sample](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eyedropper-sample.png)
   static const IconData eyedropperSample = IconData(
     0xeac4,
     fontFamily: 'PhosphorBold',
@@ -6715,7 +6715,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eyeglasses` no estilo Bold.
   ///
-  /// ![eyeglasses](https://api.iconify.design/ph/eyeglasses-bold.svg?height=32&color=%23888888)
+  /// ![eyeglasses](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eyeglasses.png)
   static const IconData eyeglasses = IconData(
     0xe7ba,
     fontFamily: 'PhosphorBold',
@@ -6727,7 +6727,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `eyes` no estilo Bold.
   ///
-  /// ![eyes](https://api.iconify.design/ph/eyes-bold.svg?height=32&color=%23888888)
+  /// ![eyes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/eyes.png)
   static const IconData eyes = IconData(
     0xee5c,
     fontFamily: 'PhosphorBold',
@@ -6739,7 +6739,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `faceMask` no estilo Bold.
   ///
-  /// ![face-mask](https://api.iconify.design/ph/face-mask-bold.svg?height=32&color=%23888888)
+  /// ![face-mask](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/face-mask.png)
   static const IconData faceMask = IconData(
     0xe56a,
     fontFamily: 'PhosphorBold',
@@ -6751,7 +6751,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `facebookLogo` no estilo Bold.
   ///
-  /// ![facebook-logo](https://api.iconify.design/ph/facebook-logo-bold.svg?height=32&color=%23888888)
+  /// ![facebook-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/facebook-logo.png)
   static const IconData facebookLogo = IconData(
     0xe226,
     fontFamily: 'PhosphorBold',
@@ -6763,7 +6763,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `factory` no estilo Bold.
   ///
-  /// ![factory](https://api.iconify.design/ph/factory-bold.svg?height=32&color=%23888888)
+  /// ![factory](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/factory.png)
   static const IconData factory = IconData(
     0xe760,
     fontFamily: 'PhosphorBold',
@@ -6775,7 +6775,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `faders` no estilo Bold.
   ///
-  /// ![faders](https://api.iconify.design/ph/faders-bold.svg?height=32&color=%23888888)
+  /// ![faders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/faders.png)
   static const IconData faders = IconData(
     0xe228,
     fontFamily: 'PhosphorBold',
@@ -6787,7 +6787,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fadersHorizontal` no estilo Bold.
   ///
-  /// ![faders-horizontal](https://api.iconify.design/ph/faders-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![faders-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/faders-horizontal.png)
   static const IconData fadersHorizontal = IconData(
     0xe22a,
     fontFamily: 'PhosphorBold',
@@ -6799,7 +6799,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `falloutShelter` no estilo Bold.
   ///
-  /// ![fallout-shelter](https://api.iconify.design/ph/fallout-shelter-bold.svg?height=32&color=%23888888)
+  /// ![fallout-shelter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fallout-shelter.png)
   static const IconData falloutShelter = IconData(
     0xe9de,
     fontFamily: 'PhosphorBold',
@@ -6811,7 +6811,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fan` no estilo Bold.
   ///
-  /// ![fan](https://api.iconify.design/ph/fan-bold.svg?height=32&color=%23888888)
+  /// ![fan](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fan.png)
   static const IconData fan = IconData(
     0xe9f2,
     fontFamily: 'PhosphorBold',
@@ -6823,7 +6823,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `farm` no estilo Bold.
   ///
-  /// ![farm](https://api.iconify.design/ph/farm-bold.svg?height=32&color=%23888888)
+  /// ![farm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/farm.png)
   static const IconData farm = IconData(
     0xec70,
     fontFamily: 'PhosphorBold',
@@ -6835,7 +6835,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fastForward` no estilo Bold.
   ///
-  /// ![fast-forward](https://api.iconify.design/ph/fast-forward-bold.svg?height=32&color=%23888888)
+  /// ![fast-forward](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fast-forward.png)
   static const IconData fastForward = IconData(
     0xe6a6,
     fontFamily: 'PhosphorBold',
@@ -6847,7 +6847,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fastForwardCircle` no estilo Bold.
   ///
-  /// ![fast-forward-circle](https://api.iconify.design/ph/fast-forward-circle-bold.svg?height=32&color=%23888888)
+  /// ![fast-forward-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fast-forward-circle.png)
   static const IconData fastForwardCircle = IconData(
     0xe22c,
     fontFamily: 'PhosphorBold',
@@ -6859,7 +6859,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `feather` no estilo Bold.
   ///
-  /// ![feather](https://api.iconify.design/ph/feather-bold.svg?height=32&color=%23888888)
+  /// ![feather](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/feather.png)
   static const IconData feather = IconData(
     0xe9c0,
     fontFamily: 'PhosphorBold',
@@ -6871,7 +6871,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fediverseLogo` no estilo Bold.
   ///
-  /// ![fediverse-logo](https://api.iconify.design/ph/fediverse-logo-bold.svg?height=32&color=%23888888)
+  /// ![fediverse-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fediverse-logo.png)
   static const IconData fediverseLogo = IconData(
     0xed66,
     fontFamily: 'PhosphorBold',
@@ -6883,7 +6883,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `figmaLogo` no estilo Bold.
   ///
-  /// ![figma-logo](https://api.iconify.design/ph/figma-logo-bold.svg?height=32&color=%23888888)
+  /// ![figma-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/figma-logo.png)
   static const IconData figmaLogo = IconData(
     0xe22e,
     fontFamily: 'PhosphorBold',
@@ -6895,7 +6895,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `file` no estilo Bold.
   ///
-  /// ![file](https://api.iconify.design/ph/file-bold.svg?height=32&color=%23888888)
+  /// ![file](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file.png)
   static const IconData file = IconData(
     0xe230,
     fontFamily: 'PhosphorBold',
@@ -6907,7 +6907,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileArchive` no estilo Bold.
   ///
-  /// ![file-archive](https://api.iconify.design/ph/file-archive-bold.svg?height=32&color=%23888888)
+  /// ![file-archive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-archive.png)
   static const IconData fileArchive = IconData(
     0xeb2a,
     fontFamily: 'PhosphorBold',
@@ -6919,7 +6919,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileArrowDown` no estilo Bold.
   ///
-  /// ![file-arrow-down](https://api.iconify.design/ph/file-arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![file-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-arrow-down.png)
   static const IconData fileArrowDown = IconData(
     0xe232,
     fontFamily: 'PhosphorBold',
@@ -6931,7 +6931,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileArrowUp` no estilo Bold.
   ///
-  /// ![file-arrow-up](https://api.iconify.design/ph/file-arrow-up-bold.svg?height=32&color=%23888888)
+  /// ![file-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-arrow-up.png)
   static const IconData fileArrowUp = IconData(
     0xe61e,
     fontFamily: 'PhosphorBold',
@@ -6943,7 +6943,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileAudio` no estilo Bold.
   ///
-  /// ![file-audio](https://api.iconify.design/ph/file-audio-bold.svg?height=32&color=%23888888)
+  /// ![file-audio](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-audio.png)
   static const IconData fileAudio = IconData(
     0xea20,
     fontFamily: 'PhosphorBold',
@@ -6955,7 +6955,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileC` no estilo Bold.
   ///
-  /// ![file-c](https://api.iconify.design/ph/file-c-bold.svg?height=32&color=%23888888)
+  /// ![file-c](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-c.png)
   static const IconData fileC = IconData(
     0xeb32,
     fontFamily: 'PhosphorBold',
@@ -6967,7 +6967,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileCSharp` no estilo Bold.
   ///
-  /// ![file-c-sharp](https://api.iconify.design/ph/file-c-sharp-bold.svg?height=32&color=%23888888)
+  /// ![file-c-sharp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-c-sharp.png)
   static const IconData fileCSharp = IconData(
     0xeb30,
     fontFamily: 'PhosphorBold',
@@ -6979,7 +6979,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileCloud` no estilo Bold.
   ///
-  /// ![file-cloud](https://api.iconify.design/ph/file-cloud-bold.svg?height=32&color=%23888888)
+  /// ![file-cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-cloud.png)
   static const IconData fileCloud = IconData(
     0xe95e,
     fontFamily: 'PhosphorBold',
@@ -6991,7 +6991,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileCode` no estilo Bold.
   ///
-  /// ![file-code](https://api.iconify.design/ph/file-code-bold.svg?height=32&color=%23888888)
+  /// ![file-code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-code.png)
   static const IconData fileCode = IconData(
     0xe914,
     fontFamily: 'PhosphorBold',
@@ -7003,7 +7003,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileCpp` no estilo Bold.
   ///
-  /// ![file-cpp](https://api.iconify.design/ph/file-cpp-bold.svg?height=32&color=%23888888)
+  /// ![file-cpp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-cpp.png)
   static const IconData fileCpp = IconData(
     0xeb2e,
     fontFamily: 'PhosphorBold',
@@ -7015,7 +7015,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileCss` no estilo Bold.
   ///
-  /// ![file-css](https://api.iconify.design/ph/file-css-bold.svg?height=32&color=%23888888)
+  /// ![file-css](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-css.png)
   static const IconData fileCss = IconData(
     0xeb34,
     fontFamily: 'PhosphorBold',
@@ -7027,7 +7027,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileCsv` no estilo Bold.
   ///
-  /// ![file-csv](https://api.iconify.design/ph/file-csv-bold.svg?height=32&color=%23888888)
+  /// ![file-csv](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-csv.png)
   static const IconData fileCsv = IconData(
     0xeb1c,
     fontFamily: 'PhosphorBold',
@@ -7039,7 +7039,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileDashed` no estilo Bold.
   ///
-  /// ![file-dashed](https://api.iconify.design/ph/file-dashed-bold.svg?height=32&color=%23888888)
+  /// ![file-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-dashed.png)
   static const IconData fileDashed = IconData(
     0xe704,
     fontFamily: 'PhosphorBold',
@@ -7051,7 +7051,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileDoc` no estilo Bold.
   ///
-  /// ![file-doc](https://api.iconify.design/ph/file-doc-bold.svg?height=32&color=%23888888)
+  /// ![file-doc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-doc.png)
   static const IconData fileDoc = IconData(
     0xeb1e,
     fontFamily: 'PhosphorBold',
@@ -7063,7 +7063,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileDotted` no estilo Bold.
   ///
-  /// ![file-dotted](https://api.iconify.design/ph/file-dashed-bold.svg?height=32&color=%23888888)
+  /// ![file-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-dotted.png)
   static const IconData fileDotted = IconData(
     0xe704,
     fontFamily: 'PhosphorBold',
@@ -7075,7 +7075,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileHtml` no estilo Bold.
   ///
-  /// ![file-html](https://api.iconify.design/ph/file-html-bold.svg?height=32&color=%23888888)
+  /// ![file-html](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-html.png)
   static const IconData fileHtml = IconData(
     0xeb38,
     fontFamily: 'PhosphorBold',
@@ -7087,7 +7087,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileImage` no estilo Bold.
   ///
-  /// ![file-image](https://api.iconify.design/ph/file-image-bold.svg?height=32&color=%23888888)
+  /// ![file-image](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-image.png)
   static const IconData fileImage = IconData(
     0xea24,
     fontFamily: 'PhosphorBold',
@@ -7099,7 +7099,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileIni` no estilo Bold.
   ///
-  /// ![file-ini](https://api.iconify.design/ph/file-ini-bold.svg?height=32&color=%23888888)
+  /// ![file-ini](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-ini.png)
   static const IconData fileIni = IconData(
     0xeb33,
     fontFamily: 'PhosphorBold',
@@ -7111,7 +7111,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileJpg` no estilo Bold.
   ///
-  /// ![file-jpg](https://api.iconify.design/ph/file-jpg-bold.svg?height=32&color=%23888888)
+  /// ![file-jpg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-jpg.png)
   static const IconData fileJpg = IconData(
     0xeb1a,
     fontFamily: 'PhosphorBold',
@@ -7123,7 +7123,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileJs` no estilo Bold.
   ///
-  /// ![file-js](https://api.iconify.design/ph/file-js-bold.svg?height=32&color=%23888888)
+  /// ![file-js](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-js.png)
   static const IconData fileJs = IconData(
     0xeb24,
     fontFamily: 'PhosphorBold',
@@ -7135,7 +7135,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileJsx` no estilo Bold.
   ///
-  /// ![file-jsx](https://api.iconify.design/ph/file-jsx-bold.svg?height=32&color=%23888888)
+  /// ![file-jsx](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-jsx.png)
   static const IconData fileJsx = IconData(
     0xeb3a,
     fontFamily: 'PhosphorBold',
@@ -7147,7 +7147,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileLock` no estilo Bold.
   ///
-  /// ![file-lock](https://api.iconify.design/ph/file-lock-bold.svg?height=32&color=%23888888)
+  /// ![file-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-lock.png)
   static const IconData fileLock = IconData(
     0xe95c,
     fontFamily: 'PhosphorBold',
@@ -7159,7 +7159,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileMagnifyingGlass` no estilo Bold.
   ///
-  /// ![file-magnifying-glass](https://api.iconify.design/ph/file-magnifying-glass-bold.svg?height=32&color=%23888888)
+  /// ![file-magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-magnifying-glass.png)
   static const IconData fileMagnifyingGlass = IconData(
     0xe238,
     fontFamily: 'PhosphorBold',
@@ -7171,7 +7171,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileMd` no estilo Bold.
   ///
-  /// ![file-md](https://api.iconify.design/ph/file-md-bold.svg?height=32&color=%23888888)
+  /// ![file-md](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-md.png)
   static const IconData fileMd = IconData(
     0xed50,
     fontFamily: 'PhosphorBold',
@@ -7183,7 +7183,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileMinus` no estilo Bold.
   ///
-  /// ![file-minus](https://api.iconify.design/ph/file-minus-bold.svg?height=32&color=%23888888)
+  /// ![file-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-minus.png)
   static const IconData fileMinus = IconData(
     0xe234,
     fontFamily: 'PhosphorBold',
@@ -7195,7 +7195,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filePdf` no estilo Bold.
   ///
-  /// ![file-pdf](https://api.iconify.design/ph/file-pdf-bold.svg?height=32&color=%23888888)
+  /// ![file-pdf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-pdf.png)
   static const IconData filePdf = IconData(
     0xe702,
     fontFamily: 'PhosphorBold',
@@ -7207,7 +7207,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filePlus` no estilo Bold.
   ///
-  /// ![file-plus](https://api.iconify.design/ph/file-plus-bold.svg?height=32&color=%23888888)
+  /// ![file-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-plus.png)
   static const IconData filePlus = IconData(
     0xe236,
     fontFamily: 'PhosphorBold',
@@ -7219,7 +7219,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filePng` no estilo Bold.
   ///
-  /// ![file-png](https://api.iconify.design/ph/file-png-bold.svg?height=32&color=%23888888)
+  /// ![file-png](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-png.png)
   static const IconData filePng = IconData(
     0xeb18,
     fontFamily: 'PhosphorBold',
@@ -7231,7 +7231,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filePpt` no estilo Bold.
   ///
-  /// ![file-ppt](https://api.iconify.design/ph/file-ppt-bold.svg?height=32&color=%23888888)
+  /// ![file-ppt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-ppt.png)
   static const IconData filePpt = IconData(
     0xeb20,
     fontFamily: 'PhosphorBold',
@@ -7243,7 +7243,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filePy` no estilo Bold.
   ///
-  /// ![file-py](https://api.iconify.design/ph/file-py-bold.svg?height=32&color=%23888888)
+  /// ![file-py](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-py.png)
   static const IconData filePy = IconData(
     0xeb2c,
     fontFamily: 'PhosphorBold',
@@ -7255,7 +7255,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileRs` no estilo Bold.
   ///
-  /// ![file-rs](https://api.iconify.design/ph/file-rs-bold.svg?height=32&color=%23888888)
+  /// ![file-rs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-rs.png)
   static const IconData fileRs = IconData(
     0xeb28,
     fontFamily: 'PhosphorBold',
@@ -7267,7 +7267,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileSearch` no estilo Bold.
   ///
-  /// ![file-search](https://api.iconify.design/ph/file-magnifying-glass-bold.svg?height=32&color=%23888888)
+  /// ![file-search](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-search.png)
   static const IconData fileSearch = IconData(
     0xe238,
     fontFamily: 'PhosphorBold',
@@ -7279,7 +7279,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileSql` no estilo Bold.
   ///
-  /// ![file-sql](https://api.iconify.design/ph/file-sql-bold.svg?height=32&color=%23888888)
+  /// ![file-sql](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-sql.png)
   static const IconData fileSql = IconData(
     0xed4e,
     fontFamily: 'PhosphorBold',
@@ -7291,7 +7291,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileSvg` no estilo Bold.
   ///
-  /// ![file-svg](https://api.iconify.design/ph/file-svg-bold.svg?height=32&color=%23888888)
+  /// ![file-svg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-svg.png)
   static const IconData fileSvg = IconData(
     0xed08,
     fontFamily: 'PhosphorBold',
@@ -7303,7 +7303,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileText` no estilo Bold.
   ///
-  /// ![file-text](https://api.iconify.design/ph/file-text-bold.svg?height=32&color=%23888888)
+  /// ![file-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-text.png)
   static const IconData fileText = IconData(
     0xe23a,
     fontFamily: 'PhosphorBold',
@@ -7315,7 +7315,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileTs` no estilo Bold.
   ///
-  /// ![file-ts](https://api.iconify.design/ph/file-ts-bold.svg?height=32&color=%23888888)
+  /// ![file-ts](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-ts.png)
   static const IconData fileTs = IconData(
     0xeb26,
     fontFamily: 'PhosphorBold',
@@ -7327,7 +7327,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileTsx` no estilo Bold.
   ///
-  /// ![file-tsx](https://api.iconify.design/ph/file-tsx-bold.svg?height=32&color=%23888888)
+  /// ![file-tsx](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-tsx.png)
   static const IconData fileTsx = IconData(
     0xeb3c,
     fontFamily: 'PhosphorBold',
@@ -7339,7 +7339,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileTxt` no estilo Bold.
   ///
-  /// ![file-txt](https://api.iconify.design/ph/file-txt-bold.svg?height=32&color=%23888888)
+  /// ![file-txt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-txt.png)
   static const IconData fileTxt = IconData(
     0xeb35,
     fontFamily: 'PhosphorBold',
@@ -7351,7 +7351,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileVideo` no estilo Bold.
   ///
-  /// ![file-video](https://api.iconify.design/ph/file-video-bold.svg?height=32&color=%23888888)
+  /// ![file-video](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-video.png)
   static const IconData fileVideo = IconData(
     0xea22,
     fontFamily: 'PhosphorBold',
@@ -7363,7 +7363,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileVue` no estilo Bold.
   ///
-  /// ![file-vue](https://api.iconify.design/ph/file-vue-bold.svg?height=32&color=%23888888)
+  /// ![file-vue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-vue.png)
   static const IconData fileVue = IconData(
     0xeb3e,
     fontFamily: 'PhosphorBold',
@@ -7375,7 +7375,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileX` no estilo Bold.
   ///
-  /// ![file-x](https://api.iconify.design/ph/file-x-bold.svg?height=32&color=%23888888)
+  /// ![file-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-x.png)
   static const IconData fileX = IconData(
     0xe23c,
     fontFamily: 'PhosphorBold',
@@ -7387,7 +7387,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileXls` no estilo Bold.
   ///
-  /// ![file-xls](https://api.iconify.design/ph/file-xls-bold.svg?height=32&color=%23888888)
+  /// ![file-xls](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-xls.png)
   static const IconData fileXls = IconData(
     0xeb22,
     fontFamily: 'PhosphorBold',
@@ -7399,7 +7399,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fileZip` no estilo Bold.
   ///
-  /// ![file-zip](https://api.iconify.design/ph/file-zip-bold.svg?height=32&color=%23888888)
+  /// ![file-zip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/file-zip.png)
   static const IconData fileZip = IconData(
     0xe958,
     fontFamily: 'PhosphorBold',
@@ -7411,7 +7411,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `files` no estilo Bold.
   ///
-  /// ![files](https://api.iconify.design/ph/files-bold.svg?height=32&color=%23888888)
+  /// ![files](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/files.png)
   static const IconData files = IconData(
     0xe710,
     fontFamily: 'PhosphorBold',
@@ -7423,7 +7423,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filmReel` no estilo Bold.
   ///
-  /// ![film-reel](https://api.iconify.design/ph/film-reel-bold.svg?height=32&color=%23888888)
+  /// ![film-reel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/film-reel.png)
   static const IconData filmReel = IconData(
     0xe8c0,
     fontFamily: 'PhosphorBold',
@@ -7435,7 +7435,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filmScript` no estilo Bold.
   ///
-  /// ![film-script](https://api.iconify.design/ph/film-script-bold.svg?height=32&color=%23888888)
+  /// ![film-script](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/film-script.png)
   static const IconData filmScript = IconData(
     0xeb50,
     fontFamily: 'PhosphorBold',
@@ -7447,7 +7447,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filmSlate` no estilo Bold.
   ///
-  /// ![film-slate](https://api.iconify.design/ph/film-slate-bold.svg?height=32&color=%23888888)
+  /// ![film-slate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/film-slate.png)
   static const IconData filmSlate = IconData(
     0xe8c2,
     fontFamily: 'PhosphorBold',
@@ -7459,7 +7459,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `filmStrip` no estilo Bold.
   ///
-  /// ![film-strip](https://api.iconify.design/ph/film-strip-bold.svg?height=32&color=%23888888)
+  /// ![film-strip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/film-strip.png)
   static const IconData filmStrip = IconData(
     0xe792,
     fontFamily: 'PhosphorBold',
@@ -7471,7 +7471,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fingerprint` no estilo Bold.
   ///
-  /// ![fingerprint](https://api.iconify.design/ph/fingerprint-bold.svg?height=32&color=%23888888)
+  /// ![fingerprint](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fingerprint.png)
   static const IconData fingerprint = IconData(
     0xe23e,
     fontFamily: 'PhosphorBold',
@@ -7483,7 +7483,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fingerprintSimple` no estilo Bold.
   ///
-  /// ![fingerprint-simple](https://api.iconify.design/ph/fingerprint-simple-bold.svg?height=32&color=%23888888)
+  /// ![fingerprint-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fingerprint-simple.png)
   static const IconData fingerprintSimple = IconData(
     0xe240,
     fontFamily: 'PhosphorBold',
@@ -7495,7 +7495,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `finnTheHuman` no estilo Bold.
   ///
-  /// ![finn-the-human](https://api.iconify.design/ph/finn-the-human-bold.svg?height=32&color=%23888888)
+  /// ![finn-the-human](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/finn-the-human.png)
   static const IconData finnTheHuman = IconData(
     0xe56c,
     fontFamily: 'PhosphorBold',
@@ -7507,7 +7507,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fire` no estilo Bold.
   ///
-  /// ![fire](https://api.iconify.design/ph/fire-bold.svg?height=32&color=%23888888)
+  /// ![fire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fire.png)
   static const IconData fire = IconData(
     0xe242,
     fontFamily: 'PhosphorBold',
@@ -7519,7 +7519,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fireExtinguisher` no estilo Bold.
   ///
-  /// ![fire-extinguisher](https://api.iconify.design/ph/fire-extinguisher-bold.svg?height=32&color=%23888888)
+  /// ![fire-extinguisher](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fire-extinguisher.png)
   static const IconData fireExtinguisher = IconData(
     0xe9e8,
     fontFamily: 'PhosphorBold',
@@ -7531,7 +7531,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fireSimple` no estilo Bold.
   ///
-  /// ![fire-simple](https://api.iconify.design/ph/fire-simple-bold.svg?height=32&color=%23888888)
+  /// ![fire-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fire-simple.png)
   static const IconData fireSimple = IconData(
     0xe620,
     fontFamily: 'PhosphorBold',
@@ -7543,7 +7543,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fireTruck` no estilo Bold.
   ///
-  /// ![fire-truck](https://api.iconify.design/ph/fire-truck-bold.svg?height=32&color=%23888888)
+  /// ![fire-truck](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fire-truck.png)
   static const IconData fireTruck = IconData(
     0xe574,
     fontFamily: 'PhosphorBold',
@@ -7555,7 +7555,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `firstAid` no estilo Bold.
   ///
-  /// ![first-aid](https://api.iconify.design/ph/first-aid-bold.svg?height=32&color=%23888888)
+  /// ![first-aid](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/first-aid.png)
   static const IconData firstAid = IconData(
     0xe56e,
     fontFamily: 'PhosphorBold',
@@ -7567,7 +7567,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `firstAidKit` no estilo Bold.
   ///
-  /// ![first-aid-kit](https://api.iconify.design/ph/first-aid-kit-bold.svg?height=32&color=%23888888)
+  /// ![first-aid-kit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/first-aid-kit.png)
   static const IconData firstAidKit = IconData(
     0xe570,
     fontFamily: 'PhosphorBold',
@@ -7579,7 +7579,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fish` no estilo Bold.
   ///
-  /// ![fish](https://api.iconify.design/ph/fish-bold.svg?height=32&color=%23888888)
+  /// ![fish](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fish.png)
   static const IconData fish = IconData(
     0xe728,
     fontFamily: 'PhosphorBold',
@@ -7591,7 +7591,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fishSimple` no estilo Bold.
   ///
-  /// ![fish-simple](https://api.iconify.design/ph/fish-simple-bold.svg?height=32&color=%23888888)
+  /// ![fish-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fish-simple.png)
   static const IconData fishSimple = IconData(
     0xe72a,
     fontFamily: 'PhosphorBold',
@@ -7603,7 +7603,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flag` no estilo Bold.
   ///
-  /// ![flag](https://api.iconify.design/ph/flag-bold.svg?height=32&color=%23888888)
+  /// ![flag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flag.png)
   static const IconData flag = IconData(
     0xe244,
     fontFamily: 'PhosphorBold',
@@ -7615,7 +7615,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flagBanner` no estilo Bold.
   ///
-  /// ![flag-banner](https://api.iconify.design/ph/flag-banner-bold.svg?height=32&color=%23888888)
+  /// ![flag-banner](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flag-banner.png)
   static const IconData flagBanner = IconData(
     0xe622,
     fontFamily: 'PhosphorBold',
@@ -7627,7 +7627,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flagBannerFold` no estilo Bold.
   ///
-  /// ![flag-banner-fold](https://api.iconify.design/ph/flag-banner-fold-bold.svg?height=32&color=%23888888)
+  /// ![flag-banner-fold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flag-banner-fold.png)
   static const IconData flagBannerFold = IconData(
     0xecf2,
     fontFamily: 'PhosphorBold',
@@ -7639,7 +7639,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flagCheckered` no estilo Bold.
   ///
-  /// ![flag-checkered](https://api.iconify.design/ph/flag-checkered-bold.svg?height=32&color=%23888888)
+  /// ![flag-checkered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flag-checkered.png)
   static const IconData flagCheckered = IconData(
     0xea38,
     fontFamily: 'PhosphorBold',
@@ -7651,7 +7651,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flagPennant` no estilo Bold.
   ///
-  /// ![flag-pennant](https://api.iconify.design/ph/flag-pennant-bold.svg?height=32&color=%23888888)
+  /// ![flag-pennant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flag-pennant.png)
   static const IconData flagPennant = IconData(
     0xecf0,
     fontFamily: 'PhosphorBold',
@@ -7663,7 +7663,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flame` no estilo Bold.
   ///
-  /// ![flame](https://api.iconify.design/ph/flame-bold.svg?height=32&color=%23888888)
+  /// ![flame](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flame.png)
   static const IconData flame = IconData(
     0xe624,
     fontFamily: 'PhosphorBold',
@@ -7675,7 +7675,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flashlight` no estilo Bold.
   ///
-  /// ![flashlight](https://api.iconify.design/ph/flashlight-bold.svg?height=32&color=%23888888)
+  /// ![flashlight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flashlight.png)
   static const IconData flashlight = IconData(
     0xe246,
     fontFamily: 'PhosphorBold',
@@ -7687,7 +7687,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flask` no estilo Bold.
   ///
-  /// ![flask](https://api.iconify.design/ph/flask-bold.svg?height=32&color=%23888888)
+  /// ![flask](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flask.png)
   static const IconData flask = IconData(
     0xe79e,
     fontFamily: 'PhosphorBold',
@@ -7699,7 +7699,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flipHorizontal` no estilo Bold.
   ///
-  /// ![flip-horizontal](https://api.iconify.design/ph/flip-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![flip-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flip-horizontal.png)
   static const IconData flipHorizontal = IconData(
     0xed6a,
     fontFamily: 'PhosphorBold',
@@ -7711,7 +7711,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flipVertical` no estilo Bold.
   ///
-  /// ![flip-vertical](https://api.iconify.design/ph/flip-vertical-bold.svg?height=32&color=%23888888)
+  /// ![flip-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flip-vertical.png)
   static const IconData flipVertical = IconData(
     0xed6c,
     fontFamily: 'PhosphorBold',
@@ -7723,7 +7723,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `floppyDisk` no estilo Bold.
   ///
-  /// ![floppy-disk](https://api.iconify.design/ph/floppy-disk-bold.svg?height=32&color=%23888888)
+  /// ![floppy-disk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/floppy-disk.png)
   static const IconData floppyDisk = IconData(
     0xe248,
     fontFamily: 'PhosphorBold',
@@ -7735,7 +7735,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `floppyDiskBack` no estilo Bold.
   ///
-  /// ![floppy-disk-back](https://api.iconify.design/ph/floppy-disk-back-bold.svg?height=32&color=%23888888)
+  /// ![floppy-disk-back](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/floppy-disk-back.png)
   static const IconData floppyDiskBack = IconData(
     0xeaf4,
     fontFamily: 'PhosphorBold',
@@ -7747,7 +7747,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flowArrow` no estilo Bold.
   ///
-  /// ![flow-arrow](https://api.iconify.design/ph/flow-arrow-bold.svg?height=32&color=%23888888)
+  /// ![flow-arrow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flow-arrow.png)
   static const IconData flowArrow = IconData(
     0xe6ec,
     fontFamily: 'PhosphorBold',
@@ -7759,7 +7759,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flower` no estilo Bold.
   ///
-  /// ![flower](https://api.iconify.design/ph/flower-bold.svg?height=32&color=%23888888)
+  /// ![flower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flower.png)
   static const IconData flower = IconData(
     0xe75e,
     fontFamily: 'PhosphorBold',
@@ -7771,7 +7771,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flowerLotus` no estilo Bold.
   ///
-  /// ![flower-lotus](https://api.iconify.design/ph/flower-lotus-bold.svg?height=32&color=%23888888)
+  /// ![flower-lotus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flower-lotus.png)
   static const IconData flowerLotus = IconData(
     0xe6cc,
     fontFamily: 'PhosphorBold',
@@ -7783,7 +7783,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flowerTulip` no estilo Bold.
   ///
-  /// ![flower-tulip](https://api.iconify.design/ph/flower-tulip-bold.svg?height=32&color=%23888888)
+  /// ![flower-tulip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flower-tulip.png)
   static const IconData flowerTulip = IconData(
     0xeacc,
     fontFamily: 'PhosphorBold',
@@ -7795,7 +7795,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `flyingSaucer` no estilo Bold.
   ///
-  /// ![flying-saucer](https://api.iconify.design/ph/flying-saucer-bold.svg?height=32&color=%23888888)
+  /// ![flying-saucer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/flying-saucer.png)
   static const IconData flyingSaucer = IconData(
     0xeb4a,
     fontFamily: 'PhosphorBold',
@@ -7807,7 +7807,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folder` no estilo Bold.
   ///
-  /// ![folder](https://api.iconify.design/ph/folder-bold.svg?height=32&color=%23888888)
+  /// ![folder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder.png)
   static const IconData folder = IconData(
     0xe24a,
     fontFamily: 'PhosphorBold',
@@ -7819,7 +7819,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderDashed` no estilo Bold.
   ///
-  /// ![folder-dashed](https://api.iconify.design/ph/folder-dashed-bold.svg?height=32&color=%23888888)
+  /// ![folder-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-dashed.png)
   static const IconData folderDashed = IconData(
     0xe8f8,
     fontFamily: 'PhosphorBold',
@@ -7831,7 +7831,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderDotted` no estilo Bold.
   ///
-  /// ![folder-dotted](https://api.iconify.design/ph/folder-dashed-bold.svg?height=32&color=%23888888)
+  /// ![folder-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-dotted.png)
   static const IconData folderDotted = IconData(
     0xe8f8,
     fontFamily: 'PhosphorBold',
@@ -7843,7 +7843,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderLock` no estilo Bold.
   ///
-  /// ![folder-lock](https://api.iconify.design/ph/folder-lock-bold.svg?height=32&color=%23888888)
+  /// ![folder-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-lock.png)
   static const IconData folderLock = IconData(
     0xea3c,
     fontFamily: 'PhosphorBold',
@@ -7855,7 +7855,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderMinus` no estilo Bold.
   ///
-  /// ![folder-minus](https://api.iconify.design/ph/folder-minus-bold.svg?height=32&color=%23888888)
+  /// ![folder-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-minus.png)
   static const IconData folderMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorBold',
@@ -7867,7 +7867,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderNotch` no estilo Bold.
   ///
-  /// ![folder-notch](https://api.iconify.design/ph/folder-bold.svg?height=32&color=%23888888)
+  /// ![folder-notch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-notch.png)
   static const IconData folderNotch = IconData(
     0xe24a,
     fontFamily: 'PhosphorBold',
@@ -7879,7 +7879,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderNotchMinus` no estilo Bold.
   ///
-  /// ![folder-notch-minus](https://api.iconify.design/ph/folder-minus-bold.svg?height=32&color=%23888888)
+  /// ![folder-notch-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-notch-minus.png)
   static const IconData folderNotchMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorBold',
@@ -7891,7 +7891,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderNotchOpen` no estilo Bold.
   ///
-  /// ![folder-notch-open](https://api.iconify.design/ph/folder-open-bold.svg?height=32&color=%23888888)
+  /// ![folder-notch-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-notch-open.png)
   static const IconData folderNotchOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorBold',
@@ -7903,7 +7903,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderNotchPlus` no estilo Bold.
   ///
-  /// ![folder-notch-plus](https://api.iconify.design/ph/folder-plus-bold.svg?height=32&color=%23888888)
+  /// ![folder-notch-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-notch-plus.png)
   static const IconData folderNotchPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorBold',
@@ -7915,7 +7915,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderOpen` no estilo Bold.
   ///
-  /// ![folder-open](https://api.iconify.design/ph/folder-open-bold.svg?height=32&color=%23888888)
+  /// ![folder-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-open.png)
   static const IconData folderOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorBold',
@@ -7927,7 +7927,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderPlus` no estilo Bold.
   ///
-  /// ![folder-plus](https://api.iconify.design/ph/folder-plus-bold.svg?height=32&color=%23888888)
+  /// ![folder-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-plus.png)
   static const IconData folderPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorBold',
@@ -7939,7 +7939,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimple` no estilo Bold.
   ///
-  /// ![folder-simple](https://api.iconify.design/ph/folder-simple-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple.png)
   static const IconData folderSimple = IconData(
     0xe25a,
     fontFamily: 'PhosphorBold',
@@ -7951,7 +7951,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimpleDashed` no estilo Bold.
   ///
-  /// ![folder-simple-dashed](https://api.iconify.design/ph/folder-simple-dashed-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple-dashed.png)
   static const IconData folderSimpleDashed = IconData(
     0xec2a,
     fontFamily: 'PhosphorBold',
@@ -7963,7 +7963,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimpleDotted` no estilo Bold.
   ///
-  /// ![folder-simple-dotted](https://api.iconify.design/ph/folder-simple-dashed-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple-dotted.png)
   static const IconData folderSimpleDotted = IconData(
     0xec2a,
     fontFamily: 'PhosphorBold',
@@ -7975,7 +7975,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimpleLock` no estilo Bold.
   ///
-  /// ![folder-simple-lock](https://api.iconify.design/ph/folder-simple-lock-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple-lock.png)
   static const IconData folderSimpleLock = IconData(
     0xeb5e,
     fontFamily: 'PhosphorBold',
@@ -7987,7 +7987,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimpleMinus` no estilo Bold.
   ///
-  /// ![folder-simple-minus](https://api.iconify.design/ph/folder-simple-minus-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple-minus.png)
   static const IconData folderSimpleMinus = IconData(
     0xe25c,
     fontFamily: 'PhosphorBold',
@@ -7999,7 +7999,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimplePlus` no estilo Bold.
   ///
-  /// ![folder-simple-plus](https://api.iconify.design/ph/folder-simple-plus-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple-plus.png)
   static const IconData folderSimplePlus = IconData(
     0xe25e,
     fontFamily: 'PhosphorBold',
@@ -8011,7 +8011,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimpleStar` no estilo Bold.
   ///
-  /// ![folder-simple-star](https://api.iconify.design/ph/folder-simple-star-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple-star.png)
   static const IconData folderSimpleStar = IconData(
     0xec2e,
     fontFamily: 'PhosphorBold',
@@ -8023,7 +8023,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderSimpleUser` no estilo Bold.
   ///
-  /// ![folder-simple-user](https://api.iconify.design/ph/folder-simple-user-bold.svg?height=32&color=%23888888)
+  /// ![folder-simple-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-simple-user.png)
   static const IconData folderSimpleUser = IconData(
     0xeb60,
     fontFamily: 'PhosphorBold',
@@ -8035,7 +8035,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderStar` no estilo Bold.
   ///
-  /// ![folder-star](https://api.iconify.design/ph/folder-star-bold.svg?height=32&color=%23888888)
+  /// ![folder-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-star.png)
   static const IconData folderStar = IconData(
     0xea86,
     fontFamily: 'PhosphorBold',
@@ -8047,7 +8047,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folderUser` no estilo Bold.
   ///
-  /// ![folder-user](https://api.iconify.design/ph/folder-user-bold.svg?height=32&color=%23888888)
+  /// ![folder-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folder-user.png)
   static const IconData folderUser = IconData(
     0xeb46,
     fontFamily: 'PhosphorBold',
@@ -8059,7 +8059,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `folders` no estilo Bold.
   ///
-  /// ![folders](https://api.iconify.design/ph/folders-bold.svg?height=32&color=%23888888)
+  /// ![folders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/folders.png)
   static const IconData folders = IconData(
     0xe260,
     fontFamily: 'PhosphorBold',
@@ -8071,7 +8071,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `football` no estilo Bold.
   ///
-  /// ![football](https://api.iconify.design/ph/football-bold.svg?height=32&color=%23888888)
+  /// ![football](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/football.png)
   static const IconData football = IconData(
     0xe718,
     fontFamily: 'PhosphorBold',
@@ -8083,7 +8083,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `footballHelmet` no estilo Bold.
   ///
-  /// ![football-helmet](https://api.iconify.design/ph/football-helmet-bold.svg?height=32&color=%23888888)
+  /// ![football-helmet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/football-helmet.png)
   static const IconData footballHelmet = IconData(
     0xee4c,
     fontFamily: 'PhosphorBold',
@@ -8095,7 +8095,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `footprints` no estilo Bold.
   ///
-  /// ![footprints](https://api.iconify.design/ph/footprints-bold.svg?height=32&color=%23888888)
+  /// ![footprints](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/footprints.png)
   static const IconData footprints = IconData(
     0xea88,
     fontFamily: 'PhosphorBold',
@@ -8107,7 +8107,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `forkKnife` no estilo Bold.
   ///
-  /// ![fork-knife](https://api.iconify.design/ph/fork-knife-bold.svg?height=32&color=%23888888)
+  /// ![fork-knife](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/fork-knife.png)
   static const IconData forkKnife = IconData(
     0xe262,
     fontFamily: 'PhosphorBold',
@@ -8119,7 +8119,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `fourK` no estilo Bold.
   ///
-  /// ![four-k](https://api.iconify.design/ph/four-k-bold.svg?height=32&color=%23888888)
+  /// ![four-k](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/four-k.png)
   static const IconData fourK = IconData(
     0xea5c,
     fontFamily: 'PhosphorBold',
@@ -8131,7 +8131,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `frameCorners` no estilo Bold.
   ///
-  /// ![frame-corners](https://api.iconify.design/ph/frame-corners-bold.svg?height=32&color=%23888888)
+  /// ![frame-corners](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/frame-corners.png)
   static const IconData frameCorners = IconData(
     0xe626,
     fontFamily: 'PhosphorBold',
@@ -8143,7 +8143,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `framerLogo` no estilo Bold.
   ///
-  /// ![framer-logo](https://api.iconify.design/ph/framer-logo-bold.svg?height=32&color=%23888888)
+  /// ![framer-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/framer-logo.png)
   static const IconData framerLogo = IconData(
     0xe264,
     fontFamily: 'PhosphorBold',
@@ -8155,7 +8155,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `function` no estilo Bold.
   ///
-  /// ![function](https://api.iconify.design/ph/function-bold.svg?height=32&color=%23888888)
+  /// ![function](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/function.png)
   static const IconData function = IconData(
     0xebe4,
     fontFamily: 'PhosphorBold',
@@ -8167,7 +8167,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `funnel` no estilo Bold.
   ///
-  /// ![funnel](https://api.iconify.design/ph/funnel-bold.svg?height=32&color=%23888888)
+  /// ![funnel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/funnel.png)
   static const IconData funnel = IconData(
     0xe266,
     fontFamily: 'PhosphorBold',
@@ -8179,7 +8179,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `funnelSimple` no estilo Bold.
   ///
-  /// ![funnel-simple](https://api.iconify.design/ph/funnel-simple-bold.svg?height=32&color=%23888888)
+  /// ![funnel-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/funnel-simple.png)
   static const IconData funnelSimple = IconData(
     0xe268,
     fontFamily: 'PhosphorBold',
@@ -8191,7 +8191,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `funnelSimpleX` no estilo Bold.
   ///
-  /// ![funnel-simple-x](https://api.iconify.design/ph/funnel-simple-x-bold.svg?height=32&color=%23888888)
+  /// ![funnel-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/funnel-simple-x.png)
   static const IconData funnelSimpleX = IconData(
     0xe26a,
     fontFamily: 'PhosphorBold',
@@ -8203,7 +8203,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `funnelX` no estilo Bold.
   ///
-  /// ![funnel-x](https://api.iconify.design/ph/funnel-x-bold.svg?height=32&color=%23888888)
+  /// ![funnel-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/funnel-x.png)
   static const IconData funnelX = IconData(
     0xe26c,
     fontFamily: 'PhosphorBold',
@@ -8215,7 +8215,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gameController` no estilo Bold.
   ///
-  /// ![game-controller](https://api.iconify.design/ph/game-controller-bold.svg?height=32&color=%23888888)
+  /// ![game-controller](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/game-controller.png)
   static const IconData gameController = IconData(
     0xe26e,
     fontFamily: 'PhosphorBold',
@@ -8227,7 +8227,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `garage` no estilo Bold.
   ///
-  /// ![garage](https://api.iconify.design/ph/garage-bold.svg?height=32&color=%23888888)
+  /// ![garage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/garage.png)
   static const IconData garage = IconData(
     0xecd6,
     fontFamily: 'PhosphorBold',
@@ -8239,7 +8239,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gasCan` no estilo Bold.
   ///
-  /// ![gas-can](https://api.iconify.design/ph/gas-can-bold.svg?height=32&color=%23888888)
+  /// ![gas-can](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gas-can.png)
   static const IconData gasCan = IconData(
     0xe8ce,
     fontFamily: 'PhosphorBold',
@@ -8251,7 +8251,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gasPump` no estilo Bold.
   ///
-  /// ![gas-pump](https://api.iconify.design/ph/gas-pump-bold.svg?height=32&color=%23888888)
+  /// ![gas-pump](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gas-pump.png)
   static const IconData gasPump = IconData(
     0xe768,
     fontFamily: 'PhosphorBold',
@@ -8263,7 +8263,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gauge` no estilo Bold.
   ///
-  /// ![gauge](https://api.iconify.design/ph/gauge-bold.svg?height=32&color=%23888888)
+  /// ![gauge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gauge.png)
   static const IconData gauge = IconData(
     0xe628,
     fontFamily: 'PhosphorBold',
@@ -8275,7 +8275,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gavel` no estilo Bold.
   ///
-  /// ![gavel](https://api.iconify.design/ph/gavel-bold.svg?height=32&color=%23888888)
+  /// ![gavel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gavel.png)
   static const IconData gavel = IconData(
     0xea32,
     fontFamily: 'PhosphorBold',
@@ -8287,7 +8287,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gear` no estilo Bold.
   ///
-  /// ![gear](https://api.iconify.design/ph/gear-bold.svg?height=32&color=%23888888)
+  /// ![gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gear.png)
   static const IconData gear = IconData(
     0xe270,
     fontFamily: 'PhosphorBold',
@@ -8299,7 +8299,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gearFine` no estilo Bold.
   ///
-  /// ![gear-fine](https://api.iconify.design/ph/gear-fine-bold.svg?height=32&color=%23888888)
+  /// ![gear-fine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gear-fine.png)
   static const IconData gearFine = IconData(
     0xe87c,
     fontFamily: 'PhosphorBold',
@@ -8311,7 +8311,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gearSix` no estilo Bold.
   ///
-  /// ![gear-six](https://api.iconify.design/ph/gear-six-bold.svg?height=32&color=%23888888)
+  /// ![gear-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gear-six.png)
   static const IconData gearSix = IconData(
     0xe272,
     fontFamily: 'PhosphorBold',
@@ -8323,7 +8323,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `genderFemale` no estilo Bold.
   ///
-  /// ![gender-female](https://api.iconify.design/ph/gender-female-bold.svg?height=32&color=%23888888)
+  /// ![gender-female](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gender-female.png)
   static const IconData genderFemale = IconData(
     0xe6e0,
     fontFamily: 'PhosphorBold',
@@ -8335,7 +8335,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `genderIntersex` no estilo Bold.
   ///
-  /// ![gender-intersex](https://api.iconify.design/ph/gender-intersex-bold.svg?height=32&color=%23888888)
+  /// ![gender-intersex](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gender-intersex.png)
   static const IconData genderIntersex = IconData(
     0xe6e6,
     fontFamily: 'PhosphorBold',
@@ -8347,7 +8347,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `genderMale` no estilo Bold.
   ///
-  /// ![gender-male](https://api.iconify.design/ph/gender-male-bold.svg?height=32&color=%23888888)
+  /// ![gender-male](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gender-male.png)
   static const IconData genderMale = IconData(
     0xe6e2,
     fontFamily: 'PhosphorBold',
@@ -8359,7 +8359,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `genderNeuter` no estilo Bold.
   ///
-  /// ![gender-neuter](https://api.iconify.design/ph/gender-neuter-bold.svg?height=32&color=%23888888)
+  /// ![gender-neuter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gender-neuter.png)
   static const IconData genderNeuter = IconData(
     0xe6ea,
     fontFamily: 'PhosphorBold',
@@ -8371,7 +8371,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `genderNonbinary` no estilo Bold.
   ///
-  /// ![gender-nonbinary](https://api.iconify.design/ph/gender-nonbinary-bold.svg?height=32&color=%23888888)
+  /// ![gender-nonbinary](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gender-nonbinary.png)
   static const IconData genderNonbinary = IconData(
     0xe6e4,
     fontFamily: 'PhosphorBold',
@@ -8383,7 +8383,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `genderTransgender` no estilo Bold.
   ///
-  /// ![gender-transgender](https://api.iconify.design/ph/gender-transgender-bold.svg?height=32&color=%23888888)
+  /// ![gender-transgender](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gender-transgender.png)
   static const IconData genderTransgender = IconData(
     0xe6e8,
     fontFamily: 'PhosphorBold',
@@ -8395,7 +8395,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ghost` no estilo Bold.
   ///
-  /// ![ghost](https://api.iconify.design/ph/ghost-bold.svg?height=32&color=%23888888)
+  /// ![ghost](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ghost.png)
   static const IconData ghost = IconData(
     0xe62a,
     fontFamily: 'PhosphorBold',
@@ -8407,7 +8407,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gif` no estilo Bold.
   ///
-  /// ![gif](https://api.iconify.design/ph/gif-bold.svg?height=32&color=%23888888)
+  /// ![gif](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gif.png)
   static const IconData gif = IconData(
     0xe274,
     fontFamily: 'PhosphorBold',
@@ -8419,7 +8419,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gift` no estilo Bold.
   ///
-  /// ![gift](https://api.iconify.design/ph/gift-bold.svg?height=32&color=%23888888)
+  /// ![gift](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gift.png)
   static const IconData gift = IconData(
     0xe276,
     fontFamily: 'PhosphorBold',
@@ -8431,7 +8431,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitBranch` no estilo Bold.
   ///
-  /// ![git-branch](https://api.iconify.design/ph/git-branch-bold.svg?height=32&color=%23888888)
+  /// ![git-branch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/git-branch.png)
   static const IconData gitBranch = IconData(
     0xe278,
     fontFamily: 'PhosphorBold',
@@ -8443,7 +8443,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitCommit` no estilo Bold.
   ///
-  /// ![git-commit](https://api.iconify.design/ph/git-commit-bold.svg?height=32&color=%23888888)
+  /// ![git-commit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/git-commit.png)
   static const IconData gitCommit = IconData(
     0xe27a,
     fontFamily: 'PhosphorBold',
@@ -8455,7 +8455,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitDiff` no estilo Bold.
   ///
-  /// ![git-diff](https://api.iconify.design/ph/git-diff-bold.svg?height=32&color=%23888888)
+  /// ![git-diff](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/git-diff.png)
   static const IconData gitDiff = IconData(
     0xe27c,
     fontFamily: 'PhosphorBold',
@@ -8467,7 +8467,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitFork` no estilo Bold.
   ///
-  /// ![git-fork](https://api.iconify.design/ph/git-fork-bold.svg?height=32&color=%23888888)
+  /// ![git-fork](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/git-fork.png)
   static const IconData gitFork = IconData(
     0xe27e,
     fontFamily: 'PhosphorBold',
@@ -8479,7 +8479,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitMerge` no estilo Bold.
   ///
-  /// ![git-merge](https://api.iconify.design/ph/git-merge-bold.svg?height=32&color=%23888888)
+  /// ![git-merge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/git-merge.png)
   static const IconData gitMerge = IconData(
     0xe280,
     fontFamily: 'PhosphorBold',
@@ -8491,7 +8491,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitPullRequest` no estilo Bold.
   ///
-  /// ![git-pull-request](https://api.iconify.design/ph/git-pull-request-bold.svg?height=32&color=%23888888)
+  /// ![git-pull-request](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/git-pull-request.png)
   static const IconData gitPullRequest = IconData(
     0xe282,
     fontFamily: 'PhosphorBold',
@@ -8503,7 +8503,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `githubLogo` no estilo Bold.
   ///
-  /// ![github-logo](https://api.iconify.design/ph/github-logo-bold.svg?height=32&color=%23888888)
+  /// ![github-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/github-logo.png)
   static const IconData githubLogo = IconData(
     0xe576,
     fontFamily: 'PhosphorBold',
@@ -8515,7 +8515,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitlabLogo` no estilo Bold.
   ///
-  /// ![gitlab-logo](https://api.iconify.design/ph/gitlab-logo-bold.svg?height=32&color=%23888888)
+  /// ![gitlab-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gitlab-logo.png)
   static const IconData gitlabLogo = IconData(
     0xe694,
     fontFamily: 'PhosphorBold',
@@ -8527,7 +8527,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gitlabLogoSimple` no estilo Bold.
   ///
-  /// ![gitlab-logo-simple](https://api.iconify.design/ph/gitlab-logo-simple-bold.svg?height=32&color=%23888888)
+  /// ![gitlab-logo-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gitlab-logo-simple.png)
   static const IconData gitlabLogoSimple = IconData(
     0xe696,
     fontFamily: 'PhosphorBold',
@@ -8539,7 +8539,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `globe` no estilo Bold.
   ///
-  /// ![globe](https://api.iconify.design/ph/globe-bold.svg?height=32&color=%23888888)
+  /// ![globe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/globe.png)
   static const IconData globe = IconData(
     0xe288,
     fontFamily: 'PhosphorBold',
@@ -8551,7 +8551,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `globeHemisphereEast` no estilo Bold.
   ///
-  /// ![globe-hemisphere-east](https://api.iconify.design/ph/globe-hemisphere-east-bold.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-east](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/globe-hemisphere-east.png)
   static const IconData globeHemisphereEast = IconData(
     0xe28a,
     fontFamily: 'PhosphorBold',
@@ -8563,7 +8563,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `globeHemisphereWest` no estilo Bold.
   ///
-  /// ![globe-hemisphere-west](https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-west](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/globe-hemisphere-west.png)
   static const IconData globeHemisphereWest = IconData(
     0xe28c,
     fontFamily: 'PhosphorBold',
@@ -8575,7 +8575,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `globeSimple` no estilo Bold.
   ///
-  /// ![globe-simple](https://api.iconify.design/ph/globe-simple-bold.svg?height=32&color=%23888888)
+  /// ![globe-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/globe-simple.png)
   static const IconData globeSimple = IconData(
     0xe28e,
     fontFamily: 'PhosphorBold',
@@ -8587,7 +8587,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `globeSimpleX` no estilo Bold.
   ///
-  /// ![globe-simple-x](https://api.iconify.design/ph/globe-simple-x-bold.svg?height=32&color=%23888888)
+  /// ![globe-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/globe-simple-x.png)
   static const IconData globeSimpleX = IconData(
     0xe284,
     fontFamily: 'PhosphorBold',
@@ -8599,7 +8599,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `globeStand` no estilo Bold.
   ///
-  /// ![globe-stand](https://api.iconify.design/ph/globe-stand-bold.svg?height=32&color=%23888888)
+  /// ![globe-stand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/globe-stand.png)
   static const IconData globeStand = IconData(
     0xe290,
     fontFamily: 'PhosphorBold',
@@ -8611,7 +8611,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `globeX` no estilo Bold.
   ///
-  /// ![globe-x](https://api.iconify.design/ph/globe-x-bold.svg?height=32&color=%23888888)
+  /// ![globe-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/globe-x.png)
   static const IconData globeX = IconData(
     0xe286,
     fontFamily: 'PhosphorBold',
@@ -8623,7 +8623,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `goggles` no estilo Bold.
   ///
-  /// ![goggles](https://api.iconify.design/ph/goggles-bold.svg?height=32&color=%23888888)
+  /// ![goggles](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/goggles.png)
   static const IconData goggles = IconData(
     0xecb4,
     fontFamily: 'PhosphorBold',
@@ -8635,7 +8635,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `golf` no estilo Bold.
   ///
-  /// ![golf](https://api.iconify.design/ph/golf-bold.svg?height=32&color=%23888888)
+  /// ![golf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/golf.png)
   static const IconData golf = IconData(
     0xea3e,
     fontFamily: 'PhosphorBold',
@@ -8647,7 +8647,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `goodreadsLogo` no estilo Bold.
   ///
-  /// ![goodreads-logo](https://api.iconify.design/ph/goodreads-logo-bold.svg?height=32&color=%23888888)
+  /// ![goodreads-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/goodreads-logo.png)
   static const IconData goodreadsLogo = IconData(
     0xed10,
     fontFamily: 'PhosphorBold',
@@ -8659,7 +8659,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `googleCardboardLogo` no estilo Bold.
   ///
-  /// ![google-cardboard-logo](https://api.iconify.design/ph/google-cardboard-logo-bold.svg?height=32&color=%23888888)
+  /// ![google-cardboard-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/google-cardboard-logo.png)
   static const IconData googleCardboardLogo = IconData(
     0xe7b6,
     fontFamily: 'PhosphorBold',
@@ -8671,7 +8671,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `googleChromeLogo` no estilo Bold.
   ///
-  /// ![google-chrome-logo](https://api.iconify.design/ph/google-chrome-logo-bold.svg?height=32&color=%23888888)
+  /// ![google-chrome-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/google-chrome-logo.png)
   static const IconData googleChromeLogo = IconData(
     0xe976,
     fontFamily: 'PhosphorBold',
@@ -8683,7 +8683,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `googleDriveLogo` no estilo Bold.
   ///
-  /// ![google-drive-logo](https://api.iconify.design/ph/google-drive-logo-bold.svg?height=32&color=%23888888)
+  /// ![google-drive-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/google-drive-logo.png)
   static const IconData googleDriveLogo = IconData(
     0xe8f6,
     fontFamily: 'PhosphorBold',
@@ -8695,7 +8695,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `googleLogo` no estilo Bold.
   ///
-  /// ![google-logo](https://api.iconify.design/ph/google-logo-bold.svg?height=32&color=%23888888)
+  /// ![google-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/google-logo.png)
   static const IconData googleLogo = IconData(
     0xe292,
     fontFamily: 'PhosphorBold',
@@ -8707,7 +8707,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `googlePhotosLogo` no estilo Bold.
   ///
-  /// ![google-photos-logo](https://api.iconify.design/ph/google-photos-logo-bold.svg?height=32&color=%23888888)
+  /// ![google-photos-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/google-photos-logo.png)
   static const IconData googlePhotosLogo = IconData(
     0xeb92,
     fontFamily: 'PhosphorBold',
@@ -8719,7 +8719,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `googlePlayLogo` no estilo Bold.
   ///
-  /// ![google-play-logo](https://api.iconify.design/ph/google-play-logo-bold.svg?height=32&color=%23888888)
+  /// ![google-play-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/google-play-logo.png)
   static const IconData googlePlayLogo = IconData(
     0xe294,
     fontFamily: 'PhosphorBold',
@@ -8731,7 +8731,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `googlePodcastsLogo` no estilo Bold.
   ///
-  /// ![google-podcasts-logo](https://api.iconify.design/ph/google-podcasts-logo-bold.svg?height=32&color=%23888888)
+  /// ![google-podcasts-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/google-podcasts-logo.png)
   static const IconData googlePodcastsLogo = IconData(
     0xeb94,
     fontFamily: 'PhosphorBold',
@@ -8743,7 +8743,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gps` no estilo Bold.
   ///
-  /// ![gps](https://api.iconify.design/ph/gps-bold.svg?height=32&color=%23888888)
+  /// ![gps](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gps.png)
   static const IconData gps = IconData(
     0xedd8,
     fontFamily: 'PhosphorBold',
@@ -8755,7 +8755,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gpsFix` no estilo Bold.
   ///
-  /// ![gps-fix](https://api.iconify.design/ph/gps-fix-bold.svg?height=32&color=%23888888)
+  /// ![gps-fix](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gps-fix.png)
   static const IconData gpsFix = IconData(
     0xedd6,
     fontFamily: 'PhosphorBold',
@@ -8767,7 +8767,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gpsSlash` no estilo Bold.
   ///
-  /// ![gps-slash](https://api.iconify.design/ph/gps-slash-bold.svg?height=32&color=%23888888)
+  /// ![gps-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gps-slash.png)
   static const IconData gpsSlash = IconData(
     0xedd4,
     fontFamily: 'PhosphorBold',
@@ -8779,7 +8779,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gradient` no estilo Bold.
   ///
-  /// ![gradient](https://api.iconify.design/ph/gradient-bold.svg?height=32&color=%23888888)
+  /// ![gradient](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/gradient.png)
   static const IconData gradient = IconData(
     0xeb42,
     fontFamily: 'PhosphorBold',
@@ -8791,7 +8791,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `graduationCap` no estilo Bold.
   ///
-  /// ![graduation-cap](https://api.iconify.design/ph/graduation-cap-bold.svg?height=32&color=%23888888)
+  /// ![graduation-cap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/graduation-cap.png)
   static const IconData graduationCap = IconData(
     0xe62c,
     fontFamily: 'PhosphorBold',
@@ -8803,7 +8803,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `grains` no estilo Bold.
   ///
-  /// ![grains](https://api.iconify.design/ph/grains-bold.svg?height=32&color=%23888888)
+  /// ![grains](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/grains.png)
   static const IconData grains = IconData(
     0xec68,
     fontFamily: 'PhosphorBold',
@@ -8815,7 +8815,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `grainsSlash` no estilo Bold.
   ///
-  /// ![grains-slash](https://api.iconify.design/ph/grains-slash-bold.svg?height=32&color=%23888888)
+  /// ![grains-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/grains-slash.png)
   static const IconData grainsSlash = IconData(
     0xec6a,
     fontFamily: 'PhosphorBold',
@@ -8827,7 +8827,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `graph` no estilo Bold.
   ///
-  /// ![graph](https://api.iconify.design/ph/graph-bold.svg?height=32&color=%23888888)
+  /// ![graph](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/graph.png)
   static const IconData graph = IconData(
     0xeb58,
     fontFamily: 'PhosphorBold',
@@ -8839,7 +8839,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `graphicsCard` no estilo Bold.
   ///
-  /// ![graphics-card](https://api.iconify.design/ph/graphics-card-bold.svg?height=32&color=%23888888)
+  /// ![graphics-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/graphics-card.png)
   static const IconData graphicsCard = IconData(
     0xe612,
     fontFamily: 'PhosphorBold',
@@ -8851,7 +8851,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `greaterThan` no estilo Bold.
   ///
-  /// ![greater-than](https://api.iconify.design/ph/greater-than-bold.svg?height=32&color=%23888888)
+  /// ![greater-than](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/greater-than.png)
   static const IconData greaterThan = IconData(
     0xedc4,
     fontFamily: 'PhosphorBold',
@@ -8863,7 +8863,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `greaterThanOrEqual` no estilo Bold.
   ///
-  /// ![greater-than-or-equal](https://api.iconify.design/ph/greater-than-or-equal-bold.svg?height=32&color=%23888888)
+  /// ![greater-than-or-equal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/greater-than-or-equal.png)
   static const IconData greaterThanOrEqual = IconData(
     0xeda2,
     fontFamily: 'PhosphorBold',
@@ -8875,7 +8875,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gridFour` no estilo Bold.
   ///
-  /// ![grid-four](https://api.iconify.design/ph/grid-four-bold.svg?height=32&color=%23888888)
+  /// ![grid-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/grid-four.png)
   static const IconData gridFour = IconData(
     0xe296,
     fontFamily: 'PhosphorBold',
@@ -8887,7 +8887,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `gridNine` no estilo Bold.
   ///
-  /// ![grid-nine](https://api.iconify.design/ph/grid-nine-bold.svg?height=32&color=%23888888)
+  /// ![grid-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/grid-nine.png)
   static const IconData gridNine = IconData(
     0xec8c,
     fontFamily: 'PhosphorBold',
@@ -8899,7 +8899,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `guitar` no estilo Bold.
   ///
-  /// ![guitar](https://api.iconify.design/ph/guitar-bold.svg?height=32&color=%23888888)
+  /// ![guitar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/guitar.png)
   static const IconData guitar = IconData(
     0xea8a,
     fontFamily: 'PhosphorBold',
@@ -8911,7 +8911,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hairDryer` no estilo Bold.
   ///
-  /// ![hair-dryer](https://api.iconify.design/ph/hair-dryer-bold.svg?height=32&color=%23888888)
+  /// ![hair-dryer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hair-dryer.png)
   static const IconData hairDryer = IconData(
     0xea66,
     fontFamily: 'PhosphorBold',
@@ -8923,7 +8923,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hamburger` no estilo Bold.
   ///
-  /// ![hamburger](https://api.iconify.design/ph/hamburger-bold.svg?height=32&color=%23888888)
+  /// ![hamburger](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hamburger.png)
   static const IconData hamburger = IconData(
     0xe790,
     fontFamily: 'PhosphorBold',
@@ -8935,7 +8935,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hammer` no estilo Bold.
   ///
-  /// ![hammer](https://api.iconify.design/ph/hammer-bold.svg?height=32&color=%23888888)
+  /// ![hammer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hammer.png)
   static const IconData hammer = IconData(
     0xe80e,
     fontFamily: 'PhosphorBold',
@@ -8947,7 +8947,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hand` no estilo Bold.
   ///
-  /// ![hand](https://api.iconify.design/ph/hand-bold.svg?height=32&color=%23888888)
+  /// ![hand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand.png)
   static const IconData hand = IconData(
     0xe298,
     fontFamily: 'PhosphorBold',
@@ -8959,7 +8959,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handArrowDown` no estilo Bold.
   ///
-  /// ![hand-arrow-down](https://api.iconify.design/ph/hand-arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![hand-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-arrow-down.png)
   static const IconData handArrowDown = IconData(
     0xea4e,
     fontFamily: 'PhosphorBold',
@@ -8971,7 +8971,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handArrowUp` no estilo Bold.
   ///
-  /// ![hand-arrow-up](https://api.iconify.design/ph/hand-arrow-up-bold.svg?height=32&color=%23888888)
+  /// ![hand-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-arrow-up.png)
   static const IconData handArrowUp = IconData(
     0xee5a,
     fontFamily: 'PhosphorBold',
@@ -8983,7 +8983,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handCoins` no estilo Bold.
   ///
-  /// ![hand-coins](https://api.iconify.design/ph/hand-coins-bold.svg?height=32&color=%23888888)
+  /// ![hand-coins](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-coins.png)
   static const IconData handCoins = IconData(
     0xea8c,
     fontFamily: 'PhosphorBold',
@@ -8995,7 +8995,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handDeposit` no estilo Bold.
   ///
-  /// ![hand-deposit](https://api.iconify.design/ph/hand-deposit-bold.svg?height=32&color=%23888888)
+  /// ![hand-deposit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-deposit.png)
   static const IconData handDeposit = IconData(
     0xee82,
     fontFamily: 'PhosphorBold',
@@ -9007,7 +9007,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handEye` no estilo Bold.
   ///
-  /// ![hand-eye](https://api.iconify.design/ph/hand-eye-bold.svg?height=32&color=%23888888)
+  /// ![hand-eye](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-eye.png)
   static const IconData handEye = IconData(
     0xea4c,
     fontFamily: 'PhosphorBold',
@@ -9019,7 +9019,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handFist` no estilo Bold.
   ///
-  /// ![hand-fist](https://api.iconify.design/ph/hand-fist-bold.svg?height=32&color=%23888888)
+  /// ![hand-fist](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-fist.png)
   static const IconData handFist = IconData(
     0xe57a,
     fontFamily: 'PhosphorBold',
@@ -9031,7 +9031,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handGrabbing` no estilo Bold.
   ///
-  /// ![hand-grabbing](https://api.iconify.design/ph/hand-grabbing-bold.svg?height=32&color=%23888888)
+  /// ![hand-grabbing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-grabbing.png)
   static const IconData handGrabbing = IconData(
     0xe57c,
     fontFamily: 'PhosphorBold',
@@ -9043,7 +9043,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handHeart` no estilo Bold.
   ///
-  /// ![hand-heart](https://api.iconify.design/ph/hand-heart-bold.svg?height=32&color=%23888888)
+  /// ![hand-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-heart.png)
   static const IconData handHeart = IconData(
     0xe810,
     fontFamily: 'PhosphorBold',
@@ -9055,7 +9055,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handPalm` no estilo Bold.
   ///
-  /// ![hand-palm](https://api.iconify.design/ph/hand-palm-bold.svg?height=32&color=%23888888)
+  /// ![hand-palm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-palm.png)
   static const IconData handPalm = IconData(
     0xe57e,
     fontFamily: 'PhosphorBold',
@@ -9067,7 +9067,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handPeace` no estilo Bold.
   ///
-  /// ![hand-peace](https://api.iconify.design/ph/hand-peace-bold.svg?height=32&color=%23888888)
+  /// ![hand-peace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-peace.png)
   static const IconData handPeace = IconData(
     0xe7cc,
     fontFamily: 'PhosphorBold',
@@ -9079,7 +9079,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handPointing` no estilo Bold.
   ///
-  /// ![hand-pointing](https://api.iconify.design/ph/hand-pointing-bold.svg?height=32&color=%23888888)
+  /// ![hand-pointing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-pointing.png)
   static const IconData handPointing = IconData(
     0xe29a,
     fontFamily: 'PhosphorBold',
@@ -9091,7 +9091,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handSoap` no estilo Bold.
   ///
-  /// ![hand-soap](https://api.iconify.design/ph/hand-soap-bold.svg?height=32&color=%23888888)
+  /// ![hand-soap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-soap.png)
   static const IconData handSoap = IconData(
     0xe630,
     fontFamily: 'PhosphorBold',
@@ -9103,7 +9103,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handSwipeLeft` no estilo Bold.
   ///
-  /// ![hand-swipe-left](https://api.iconify.design/ph/hand-swipe-left-bold.svg?height=32&color=%23888888)
+  /// ![hand-swipe-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-swipe-left.png)
   static const IconData handSwipeLeft = IconData(
     0xec94,
     fontFamily: 'PhosphorBold',
@@ -9115,7 +9115,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handSwipeRight` no estilo Bold.
   ///
-  /// ![hand-swipe-right](https://api.iconify.design/ph/hand-swipe-right-bold.svg?height=32&color=%23888888)
+  /// ![hand-swipe-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-swipe-right.png)
   static const IconData handSwipeRight = IconData(
     0xec92,
     fontFamily: 'PhosphorBold',
@@ -9127,7 +9127,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handTap` no estilo Bold.
   ///
-  /// ![hand-tap](https://api.iconify.design/ph/hand-tap-bold.svg?height=32&color=%23888888)
+  /// ![hand-tap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-tap.png)
   static const IconData handTap = IconData(
     0xec90,
     fontFamily: 'PhosphorBold',
@@ -9139,7 +9139,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handWaving` no estilo Bold.
   ///
-  /// ![hand-waving](https://api.iconify.design/ph/hand-waving-bold.svg?height=32&color=%23888888)
+  /// ![hand-waving](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-waving.png)
   static const IconData handWaving = IconData(
     0xe580,
     fontFamily: 'PhosphorBold',
@@ -9151,7 +9151,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handWithdraw` no estilo Bold.
   ///
-  /// ![hand-withdraw](https://api.iconify.design/ph/hand-withdraw-bold.svg?height=32&color=%23888888)
+  /// ![hand-withdraw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hand-withdraw.png)
   static const IconData handWithdraw = IconData(
     0xee80,
     fontFamily: 'PhosphorBold',
@@ -9163,7 +9163,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handbag` no estilo Bold.
   ///
-  /// ![handbag](https://api.iconify.design/ph/handbag-bold.svg?height=32&color=%23888888)
+  /// ![handbag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/handbag.png)
   static const IconData handbag = IconData(
     0xe29c,
     fontFamily: 'PhosphorBold',
@@ -9175,7 +9175,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handbagSimple` no estilo Bold.
   ///
-  /// ![handbag-simple](https://api.iconify.design/ph/handbag-simple-bold.svg?height=32&color=%23888888)
+  /// ![handbag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/handbag-simple.png)
   static const IconData handbagSimple = IconData(
     0xe62e,
     fontFamily: 'PhosphorBold',
@@ -9187,7 +9187,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handsClapping` no estilo Bold.
   ///
-  /// ![hands-clapping](https://api.iconify.design/ph/hands-clapping-bold.svg?height=32&color=%23888888)
+  /// ![hands-clapping](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hands-clapping.png)
   static const IconData handsClapping = IconData(
     0xe6a0,
     fontFamily: 'PhosphorBold',
@@ -9199,7 +9199,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handsPraying` no estilo Bold.
   ///
-  /// ![hands-praying](https://api.iconify.design/ph/hands-praying-bold.svg?height=32&color=%23888888)
+  /// ![hands-praying](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hands-praying.png)
   static const IconData handsPraying = IconData(
     0xecc8,
     fontFamily: 'PhosphorBold',
@@ -9211,7 +9211,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `handshake` no estilo Bold.
   ///
-  /// ![handshake](https://api.iconify.design/ph/handshake-bold.svg?height=32&color=%23888888)
+  /// ![handshake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/handshake.png)
   static const IconData handshake = IconData(
     0xe582,
     fontFamily: 'PhosphorBold',
@@ -9223,7 +9223,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hardDrive` no estilo Bold.
   ///
-  /// ![hard-drive](https://api.iconify.design/ph/hard-drive-bold.svg?height=32&color=%23888888)
+  /// ![hard-drive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hard-drive.png)
   static const IconData hardDrive = IconData(
     0xe29e,
     fontFamily: 'PhosphorBold',
@@ -9235,7 +9235,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hardDrives` no estilo Bold.
   ///
-  /// ![hard-drives](https://api.iconify.design/ph/hard-drives-bold.svg?height=32&color=%23888888)
+  /// ![hard-drives](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hard-drives.png)
   static const IconData hardDrives = IconData(
     0xe2a0,
     fontFamily: 'PhosphorBold',
@@ -9247,7 +9247,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hardHat` no estilo Bold.
   ///
-  /// ![hard-hat](https://api.iconify.design/ph/hard-hat-bold.svg?height=32&color=%23888888)
+  /// ![hard-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hard-hat.png)
   static const IconData hardHat = IconData(
     0xed46,
     fontFamily: 'PhosphorBold',
@@ -9259,7 +9259,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hash` no estilo Bold.
   ///
-  /// ![hash](https://api.iconify.design/ph/hash-bold.svg?height=32&color=%23888888)
+  /// ![hash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hash.png)
   static const IconData hash = IconData(
     0xe2a2,
     fontFamily: 'PhosphorBold',
@@ -9271,7 +9271,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hashStraight` no estilo Bold.
   ///
-  /// ![hash-straight](https://api.iconify.design/ph/hash-straight-bold.svg?height=32&color=%23888888)
+  /// ![hash-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hash-straight.png)
   static const IconData hashStraight = IconData(
     0xe2a4,
     fontFamily: 'PhosphorBold',
@@ -9283,7 +9283,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `headCircuit` no estilo Bold.
   ///
-  /// ![head-circuit](https://api.iconify.design/ph/head-circuit-bold.svg?height=32&color=%23888888)
+  /// ![head-circuit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/head-circuit.png)
   static const IconData headCircuit = IconData(
     0xe7d4,
     fontFamily: 'PhosphorBold',
@@ -9295,7 +9295,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `headlights` no estilo Bold.
   ///
-  /// ![headlights](https://api.iconify.design/ph/headlights-bold.svg?height=32&color=%23888888)
+  /// ![headlights](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/headlights.png)
   static const IconData headlights = IconData(
     0xe6fe,
     fontFamily: 'PhosphorBold',
@@ -9307,7 +9307,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `headphones` no estilo Bold.
   ///
-  /// ![headphones](https://api.iconify.design/ph/headphones-bold.svg?height=32&color=%23888888)
+  /// ![headphones](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/headphones.png)
   static const IconData headphones = IconData(
     0xe2a6,
     fontFamily: 'PhosphorBold',
@@ -9319,7 +9319,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `headset` no estilo Bold.
   ///
-  /// ![headset](https://api.iconify.design/ph/headset-bold.svg?height=32&color=%23888888)
+  /// ![headset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/headset.png)
   static const IconData headset = IconData(
     0xe584,
     fontFamily: 'PhosphorBold',
@@ -9331,7 +9331,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `heart` no estilo Bold.
   ///
-  /// ![heart](https://api.iconify.design/ph/heart-bold.svg?height=32&color=%23888888)
+  /// ![heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/heart.png)
   static const IconData heart = IconData(
     0xe2a8,
     fontFamily: 'PhosphorBold',
@@ -9343,7 +9343,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `heartBreak` no estilo Bold.
   ///
-  /// ![heart-break](https://api.iconify.design/ph/heart-break-bold.svg?height=32&color=%23888888)
+  /// ![heart-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/heart-break.png)
   static const IconData heartBreak = IconData(
     0xebe8,
     fontFamily: 'PhosphorBold',
@@ -9355,7 +9355,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `heartHalf` no estilo Bold.
   ///
-  /// ![heart-half](https://api.iconify.design/ph/heart-half-bold.svg?height=32&color=%23888888)
+  /// ![heart-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/heart-half.png)
   static const IconData heartHalf = IconData(
     0xec48,
     fontFamily: 'PhosphorBold',
@@ -9367,7 +9367,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `heartStraight` no estilo Bold.
   ///
-  /// ![heart-straight](https://api.iconify.design/ph/heart-straight-bold.svg?height=32&color=%23888888)
+  /// ![heart-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/heart-straight.png)
   static const IconData heartStraight = IconData(
     0xe2aa,
     fontFamily: 'PhosphorBold',
@@ -9379,7 +9379,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `heartStraightBreak` no estilo Bold.
   ///
-  /// ![heart-straight-break](https://api.iconify.design/ph/heart-straight-break-bold.svg?height=32&color=%23888888)
+  /// ![heart-straight-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/heart-straight-break.png)
   static const IconData heartStraightBreak = IconData(
     0xeb98,
     fontFamily: 'PhosphorBold',
@@ -9391,7 +9391,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `heartbeat` no estilo Bold.
   ///
-  /// ![heartbeat](https://api.iconify.design/ph/heartbeat-bold.svg?height=32&color=%23888888)
+  /// ![heartbeat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/heartbeat.png)
   static const IconData heartbeat = IconData(
     0xe2ac,
     fontFamily: 'PhosphorBold',
@@ -9403,7 +9403,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hexagon` no estilo Bold.
   ///
-  /// ![hexagon](https://api.iconify.design/ph/hexagon-bold.svg?height=32&color=%23888888)
+  /// ![hexagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hexagon.png)
   static const IconData hexagon = IconData(
     0xe2ae,
     fontFamily: 'PhosphorBold',
@@ -9415,7 +9415,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `highDefinition` no estilo Bold.
   ///
-  /// ![high-definition](https://api.iconify.design/ph/high-definition-bold.svg?height=32&color=%23888888)
+  /// ![high-definition](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/high-definition.png)
   static const IconData highDefinition = IconData(
     0xea8e,
     fontFamily: 'PhosphorBold',
@@ -9427,7 +9427,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `highHeel` no estilo Bold.
   ///
-  /// ![high-heel](https://api.iconify.design/ph/high-heel-bold.svg?height=32&color=%23888888)
+  /// ![high-heel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/high-heel.png)
   static const IconData highHeel = IconData(
     0xe8e8,
     fontFamily: 'PhosphorBold',
@@ -9439,7 +9439,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `highlighter` no estilo Bold.
   ///
-  /// ![highlighter](https://api.iconify.design/ph/highlighter-bold.svg?height=32&color=%23888888)
+  /// ![highlighter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/highlighter.png)
   static const IconData highlighter = IconData(
     0xec76,
     fontFamily: 'PhosphorBold',
@@ -9451,7 +9451,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `highlighterCircle` no estilo Bold.
   ///
-  /// ![highlighter-circle](https://api.iconify.design/ph/highlighter-circle-bold.svg?height=32&color=%23888888)
+  /// ![highlighter-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/highlighter-circle.png)
   static const IconData highlighterCircle = IconData(
     0xe632,
     fontFamily: 'PhosphorBold',
@@ -9463,7 +9463,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hockey` no estilo Bold.
   ///
-  /// ![hockey](https://api.iconify.design/ph/hockey-bold.svg?height=32&color=%23888888)
+  /// ![hockey](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hockey.png)
   static const IconData hockey = IconData(
     0xec86,
     fontFamily: 'PhosphorBold',
@@ -9475,7 +9475,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hoodie` no estilo Bold.
   ///
-  /// ![hoodie](https://api.iconify.design/ph/hoodie-bold.svg?height=32&color=%23888888)
+  /// ![hoodie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hoodie.png)
   static const IconData hoodie = IconData(
     0xecd0,
     fontFamily: 'PhosphorBold',
@@ -9487,7 +9487,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `horse` no estilo Bold.
   ///
-  /// ![horse](https://api.iconify.design/ph/horse-bold.svg?height=32&color=%23888888)
+  /// ![horse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/horse.png)
   static const IconData horse = IconData(
     0xe2b0,
     fontFamily: 'PhosphorBold',
@@ -9499,7 +9499,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hospital` no estilo Bold.
   ///
-  /// ![hospital](https://api.iconify.design/ph/hospital-bold.svg?height=32&color=%23888888)
+  /// ![hospital](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hospital.png)
   static const IconData hospital = IconData(
     0xe844,
     fontFamily: 'PhosphorBold',
@@ -9511,7 +9511,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglass` no estilo Bold.
   ///
-  /// ![hourglass](https://api.iconify.design/ph/hourglass-bold.svg?height=32&color=%23888888)
+  /// ![hourglass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass.png)
   static const IconData hourglass = IconData(
     0xe2b2,
     fontFamily: 'PhosphorBold',
@@ -9523,7 +9523,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglassHigh` no estilo Bold.
   ///
-  /// ![hourglass-high](https://api.iconify.design/ph/hourglass-high-bold.svg?height=32&color=%23888888)
+  /// ![hourglass-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass-high.png)
   static const IconData hourglassHigh = IconData(
     0xe2b4,
     fontFamily: 'PhosphorBold',
@@ -9535,7 +9535,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglassLow` no estilo Bold.
   ///
-  /// ![hourglass-low](https://api.iconify.design/ph/hourglass-low-bold.svg?height=32&color=%23888888)
+  /// ![hourglass-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass-low.png)
   static const IconData hourglassLow = IconData(
     0xe2b6,
     fontFamily: 'PhosphorBold',
@@ -9547,7 +9547,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglassMedium` no estilo Bold.
   ///
-  /// ![hourglass-medium](https://api.iconify.design/ph/hourglass-medium-bold.svg?height=32&color=%23888888)
+  /// ![hourglass-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass-medium.png)
   static const IconData hourglassMedium = IconData(
     0xe2b8,
     fontFamily: 'PhosphorBold',
@@ -9559,7 +9559,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglassSimple` no estilo Bold.
   ///
-  /// ![hourglass-simple](https://api.iconify.design/ph/hourglass-simple-bold.svg?height=32&color=%23888888)
+  /// ![hourglass-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass-simple.png)
   static const IconData hourglassSimple = IconData(
     0xe2ba,
     fontFamily: 'PhosphorBold',
@@ -9571,7 +9571,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglassSimpleHigh` no estilo Bold.
   ///
-  /// ![hourglass-simple-high](https://api.iconify.design/ph/hourglass-simple-high-bold.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass-simple-high.png)
   static const IconData hourglassSimpleHigh = IconData(
     0xe2bc,
     fontFamily: 'PhosphorBold',
@@ -9583,7 +9583,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglassSimpleLow` no estilo Bold.
   ///
-  /// ![hourglass-simple-low](https://api.iconify.design/ph/hourglass-simple-low-bold.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass-simple-low.png)
   static const IconData hourglassSimpleLow = IconData(
     0xe2be,
     fontFamily: 'PhosphorBold',
@@ -9595,7 +9595,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hourglassSimpleMedium` no estilo Bold.
   ///
-  /// ![hourglass-simple-medium](https://api.iconify.design/ph/hourglass-simple-medium-bold.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hourglass-simple-medium.png)
   static const IconData hourglassSimpleMedium = IconData(
     0xe2c0,
     fontFamily: 'PhosphorBold',
@@ -9607,7 +9607,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `house` no estilo Bold.
   ///
-  /// ![house](https://api.iconify.design/ph/house-bold.svg?height=32&color=%23888888)
+  /// ![house](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/house.png)
   static const IconData house = IconData(
     0xe2c2,
     fontFamily: 'PhosphorBold',
@@ -9619,7 +9619,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `houseLine` no estilo Bold.
   ///
-  /// ![house-line](https://api.iconify.design/ph/house-line-bold.svg?height=32&color=%23888888)
+  /// ![house-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/house-line.png)
   static const IconData houseLine = IconData(
     0xe2c4,
     fontFamily: 'PhosphorBold',
@@ -9631,7 +9631,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `houseSimple` no estilo Bold.
   ///
-  /// ![house-simple](https://api.iconify.design/ph/house-simple-bold.svg?height=32&color=%23888888)
+  /// ![house-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/house-simple.png)
   static const IconData houseSimple = IconData(
     0xe2c6,
     fontFamily: 'PhosphorBold',
@@ -9643,7 +9643,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `hurricane` no estilo Bold.
   ///
-  /// ![hurricane](https://api.iconify.design/ph/hurricane-bold.svg?height=32&color=%23888888)
+  /// ![hurricane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/hurricane.png)
   static const IconData hurricane = IconData(
     0xe88e,
     fontFamily: 'PhosphorBold',
@@ -9655,7 +9655,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `iceCream` no estilo Bold.
   ///
-  /// ![ice-cream](https://api.iconify.design/ph/ice-cream-bold.svg?height=32&color=%23888888)
+  /// ![ice-cream](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ice-cream.png)
   static const IconData iceCream = IconData(
     0xe804,
     fontFamily: 'PhosphorBold',
@@ -9667,7 +9667,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `identificationBadge` no estilo Bold.
   ///
-  /// ![identification-badge](https://api.iconify.design/ph/identification-badge-bold.svg?height=32&color=%23888888)
+  /// ![identification-badge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/identification-badge.png)
   static const IconData identificationBadge = IconData(
     0xe6f6,
     fontFamily: 'PhosphorBold',
@@ -9679,7 +9679,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `identificationCard` no estilo Bold.
   ///
-  /// ![identification-card](https://api.iconify.design/ph/identification-card-bold.svg?height=32&color=%23888888)
+  /// ![identification-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/identification-card.png)
   static const IconData identificationCard = IconData(
     0xe2c8,
     fontFamily: 'PhosphorBold',
@@ -9691,7 +9691,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `image` no estilo Bold.
   ///
-  /// ![image](https://api.iconify.design/ph/image-bold.svg?height=32&color=%23888888)
+  /// ![image](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/image.png)
   static const IconData image = IconData(
     0xe2ca,
     fontFamily: 'PhosphorBold',
@@ -9703,7 +9703,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `imageBroken` no estilo Bold.
   ///
-  /// ![image-broken](https://api.iconify.design/ph/image-broken-bold.svg?height=32&color=%23888888)
+  /// ![image-broken](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/image-broken.png)
   static const IconData imageBroken = IconData(
     0xe7a8,
     fontFamily: 'PhosphorBold',
@@ -9715,7 +9715,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `imageSquare` no estilo Bold.
   ///
-  /// ![image-square](https://api.iconify.design/ph/image-square-bold.svg?height=32&color=%23888888)
+  /// ![image-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/image-square.png)
   static const IconData imageSquare = IconData(
     0xe2cc,
     fontFamily: 'PhosphorBold',
@@ -9727,7 +9727,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `images` no estilo Bold.
   ///
-  /// ![images](https://api.iconify.design/ph/images-bold.svg?height=32&color=%23888888)
+  /// ![images](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/images.png)
   static const IconData images = IconData(
     0xe836,
     fontFamily: 'PhosphorBold',
@@ -9739,7 +9739,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `imagesSquare` no estilo Bold.
   ///
-  /// ![images-square](https://api.iconify.design/ph/images-square-bold.svg?height=32&color=%23888888)
+  /// ![images-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/images-square.png)
   static const IconData imagesSquare = IconData(
     0xe834,
     fontFamily: 'PhosphorBold',
@@ -9751,7 +9751,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `infinity` no estilo Bold.
   ///
-  /// ![infinity](https://api.iconify.design/ph/infinity-bold.svg?height=32&color=%23888888)
+  /// ![infinity](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/infinity.png)
   static const IconData infinity = IconData(
     0xe634,
     fontFamily: 'PhosphorBold',
@@ -9763,7 +9763,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `info` no estilo Bold.
   ///
-  /// ![info](https://api.iconify.design/ph/info-bold.svg?height=32&color=%23888888)
+  /// ![info](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/info.png)
   static const IconData info = IconData(
     0xe2ce,
     fontFamily: 'PhosphorBold',
@@ -9775,7 +9775,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `instagramLogo` no estilo Bold.
   ///
-  /// ![instagram-logo](https://api.iconify.design/ph/instagram-logo-bold.svg?height=32&color=%23888888)
+  /// ![instagram-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/instagram-logo.png)
   static const IconData instagramLogo = IconData(
     0xe2d0,
     fontFamily: 'PhosphorBold',
@@ -9787,7 +9787,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `intersect` no estilo Bold.
   ///
-  /// ![intersect](https://api.iconify.design/ph/intersect-bold.svg?height=32&color=%23888888)
+  /// ![intersect](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/intersect.png)
   static const IconData intersect = IconData(
     0xe2d2,
     fontFamily: 'PhosphorBold',
@@ -9799,7 +9799,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `intersectSquare` no estilo Bold.
   ///
-  /// ![intersect-square](https://api.iconify.design/ph/intersect-square-bold.svg?height=32&color=%23888888)
+  /// ![intersect-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/intersect-square.png)
   static const IconData intersectSquare = IconData(
     0xe87a,
     fontFamily: 'PhosphorBold',
@@ -9811,7 +9811,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `intersectThree` no estilo Bold.
   ///
-  /// ![intersect-three](https://api.iconify.design/ph/intersect-three-bold.svg?height=32&color=%23888888)
+  /// ![intersect-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/intersect-three.png)
   static const IconData intersectThree = IconData(
     0xecc4,
     fontFamily: 'PhosphorBold',
@@ -9823,7 +9823,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `intersection` no estilo Bold.
   ///
-  /// ![intersection](https://api.iconify.design/ph/intersection-bold.svg?height=32&color=%23888888)
+  /// ![intersection](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/intersection.png)
   static const IconData intersection = IconData(
     0xedba,
     fontFamily: 'PhosphorBold',
@@ -9835,7 +9835,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `invoice` no estilo Bold.
   ///
-  /// ![invoice](https://api.iconify.design/ph/invoice-bold.svg?height=32&color=%23888888)
+  /// ![invoice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/invoice.png)
   static const IconData invoice = IconData(
     0xee42,
     fontFamily: 'PhosphorBold',
@@ -9847,7 +9847,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `island` no estilo Bold.
   ///
-  /// ![island](https://api.iconify.design/ph/island-bold.svg?height=32&color=%23888888)
+  /// ![island](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/island.png)
   static const IconData island = IconData(
     0xee06,
     fontFamily: 'PhosphorBold',
@@ -9859,7 +9859,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `jar` no estilo Bold.
   ///
-  /// ![jar](https://api.iconify.design/ph/jar-bold.svg?height=32&color=%23888888)
+  /// ![jar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/jar.png)
   static const IconData jar = IconData(
     0xe7e0,
     fontFamily: 'PhosphorBold',
@@ -9871,7 +9871,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `jarLabel` no estilo Bold.
   ///
-  /// ![jar-label](https://api.iconify.design/ph/jar-label-bold.svg?height=32&color=%23888888)
+  /// ![jar-label](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/jar-label.png)
   static const IconData jarLabel = IconData(
     0xe7e1,
     fontFamily: 'PhosphorBold',
@@ -9883,7 +9883,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `jeep` no estilo Bold.
   ///
-  /// ![jeep](https://api.iconify.design/ph/jeep-bold.svg?height=32&color=%23888888)
+  /// ![jeep](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/jeep.png)
   static const IconData jeep = IconData(
     0xe2d4,
     fontFamily: 'PhosphorBold',
@@ -9895,7 +9895,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `joystick` no estilo Bold.
   ///
-  /// ![joystick](https://api.iconify.design/ph/joystick-bold.svg?height=32&color=%23888888)
+  /// ![joystick](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/joystick.png)
   static const IconData joystick = IconData(
     0xea5e,
     fontFamily: 'PhosphorBold',
@@ -9907,7 +9907,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `kanban` no estilo Bold.
   ///
-  /// ![kanban](https://api.iconify.design/ph/kanban-bold.svg?height=32&color=%23888888)
+  /// ![kanban](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/kanban.png)
   static const IconData kanban = IconData(
     0xeb54,
     fontFamily: 'PhosphorBold',
@@ -9919,7 +9919,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `key` no estilo Bold.
   ///
-  /// ![key](https://api.iconify.design/ph/key-bold.svg?height=32&color=%23888888)
+  /// ![key](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/key.png)
   static const IconData key = IconData(
     0xe2d6,
     fontFamily: 'PhosphorBold',
@@ -9931,7 +9931,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `keyReturn` no estilo Bold.
   ///
-  /// ![key-return](https://api.iconify.design/ph/key-return-bold.svg?height=32&color=%23888888)
+  /// ![key-return](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/key-return.png)
   static const IconData keyReturn = IconData(
     0xe782,
     fontFamily: 'PhosphorBold',
@@ -9943,7 +9943,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `keyboard` no estilo Bold.
   ///
-  /// ![keyboard](https://api.iconify.design/ph/keyboard-bold.svg?height=32&color=%23888888)
+  /// ![keyboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/keyboard.png)
   static const IconData keyboard = IconData(
     0xe2d8,
     fontFamily: 'PhosphorBold',
@@ -9955,7 +9955,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `keyhole` no estilo Bold.
   ///
-  /// ![keyhole](https://api.iconify.design/ph/keyhole-bold.svg?height=32&color=%23888888)
+  /// ![keyhole](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/keyhole.png)
   static const IconData keyhole = IconData(
     0xea78,
     fontFamily: 'PhosphorBold',
@@ -9967,7 +9967,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `knife` no estilo Bold.
   ///
-  /// ![knife](https://api.iconify.design/ph/knife-bold.svg?height=32&color=%23888888)
+  /// ![knife](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/knife.png)
   static const IconData knife = IconData(
     0xe636,
     fontFamily: 'PhosphorBold',
@@ -9979,7 +9979,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ladder` no estilo Bold.
   ///
-  /// ![ladder](https://api.iconify.design/ph/ladder-bold.svg?height=32&color=%23888888)
+  /// ![ladder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ladder.png)
   static const IconData ladder = IconData(
     0xe9e4,
     fontFamily: 'PhosphorBold',
@@ -9991,7 +9991,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ladderSimple` no estilo Bold.
   ///
-  /// ![ladder-simple](https://api.iconify.design/ph/ladder-simple-bold.svg?height=32&color=%23888888)
+  /// ![ladder-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ladder-simple.png)
   static const IconData ladderSimple = IconData(
     0xec26,
     fontFamily: 'PhosphorBold',
@@ -10003,7 +10003,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lamp` no estilo Bold.
   ///
-  /// ![lamp](https://api.iconify.design/ph/lamp-bold.svg?height=32&color=%23888888)
+  /// ![lamp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lamp.png)
   static const IconData lamp = IconData(
     0xe638,
     fontFamily: 'PhosphorBold',
@@ -10015,7 +10015,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lampPendant` no estilo Bold.
   ///
-  /// ![lamp-pendant](https://api.iconify.design/ph/lamp-pendant-bold.svg?height=32&color=%23888888)
+  /// ![lamp-pendant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lamp-pendant.png)
   static const IconData lampPendant = IconData(
     0xee2e,
     fontFamily: 'PhosphorBold',
@@ -10027,7 +10027,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `laptop` no estilo Bold.
   ///
-  /// ![laptop](https://api.iconify.design/ph/laptop-bold.svg?height=32&color=%23888888)
+  /// ![laptop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/laptop.png)
   static const IconData laptop = IconData(
     0xe586,
     fontFamily: 'PhosphorBold',
@@ -10039,7 +10039,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lasso` no estilo Bold.
   ///
-  /// ![lasso](https://api.iconify.design/ph/lasso-bold.svg?height=32&color=%23888888)
+  /// ![lasso](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lasso.png)
   static const IconData lasso = IconData(
     0xedc6,
     fontFamily: 'PhosphorBold',
@@ -10051,7 +10051,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lastfmLogo` no estilo Bold.
   ///
-  /// ![lastfm-logo](https://api.iconify.design/ph/lastfm-logo-bold.svg?height=32&color=%23888888)
+  /// ![lastfm-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lastfm-logo.png)
   static const IconData lastfmLogo = IconData(
     0xe842,
     fontFamily: 'PhosphorBold',
@@ -10063,7 +10063,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `layout` no estilo Bold.
   ///
-  /// ![layout](https://api.iconify.design/ph/layout-bold.svg?height=32&color=%23888888)
+  /// ![layout](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/layout.png)
   static const IconData layout = IconData(
     0xe6d6,
     fontFamily: 'PhosphorBold',
@@ -10075,7 +10075,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `leaf` no estilo Bold.
   ///
-  /// ![leaf](https://api.iconify.design/ph/leaf-bold.svg?height=32&color=%23888888)
+  /// ![leaf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/leaf.png)
   static const IconData leaf = IconData(
     0xe2da,
     fontFamily: 'PhosphorBold',
@@ -10087,7 +10087,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lectern` no estilo Bold.
   ///
-  /// ![lectern](https://api.iconify.design/ph/lectern-bold.svg?height=32&color=%23888888)
+  /// ![lectern](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lectern.png)
   static const IconData lectern = IconData(
     0xe95a,
     fontFamily: 'PhosphorBold',
@@ -10099,7 +10099,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lego` no estilo Bold.
   ///
-  /// ![lego](https://api.iconify.design/ph/lego-bold.svg?height=32&color=%23888888)
+  /// ![lego](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lego.png)
   static const IconData lego = IconData(
     0xe8c6,
     fontFamily: 'PhosphorBold',
@@ -10111,7 +10111,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `legoSmiley` no estilo Bold.
   ///
-  /// ![lego-smiley](https://api.iconify.design/ph/lego-smiley-bold.svg?height=32&color=%23888888)
+  /// ![lego-smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lego-smiley.png)
   static const IconData legoSmiley = IconData(
     0xe8c7,
     fontFamily: 'PhosphorBold',
@@ -10123,7 +10123,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lemniscate` no estilo Bold.
   ///
-  /// ![lemniscate](https://api.iconify.design/ph/infinity-bold.svg?height=32&color=%23888888)
+  /// ![lemniscate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lemniscate.png)
   static const IconData lemniscate = IconData(
     0xe634,
     fontFamily: 'PhosphorBold',
@@ -10135,7 +10135,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lessThan` no estilo Bold.
   ///
-  /// ![less-than](https://api.iconify.design/ph/less-than-bold.svg?height=32&color=%23888888)
+  /// ![less-than](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/less-than.png)
   static const IconData lessThan = IconData(
     0xedac,
     fontFamily: 'PhosphorBold',
@@ -10147,7 +10147,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lessThanOrEqual` no estilo Bold.
   ///
-  /// ![less-than-or-equal](https://api.iconify.design/ph/less-than-or-equal-bold.svg?height=32&color=%23888888)
+  /// ![less-than-or-equal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/less-than-or-equal.png)
   static const IconData lessThanOrEqual = IconData(
     0xeda4,
     fontFamily: 'PhosphorBold',
@@ -10159,7 +10159,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `letterCircleH` no estilo Bold.
   ///
-  /// ![letter-circle-h](https://api.iconify.design/ph/letter-circle-h-bold.svg?height=32&color=%23888888)
+  /// ![letter-circle-h](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/letter-circle-h.png)
   static const IconData letterCircleH = IconData(
     0xebf8,
     fontFamily: 'PhosphorBold',
@@ -10171,7 +10171,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `letterCircleP` no estilo Bold.
   ///
-  /// ![letter-circle-p](https://api.iconify.design/ph/letter-circle-p-bold.svg?height=32&color=%23888888)
+  /// ![letter-circle-p](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/letter-circle-p.png)
   static const IconData letterCircleP = IconData(
     0xec08,
     fontFamily: 'PhosphorBold',
@@ -10183,7 +10183,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `letterCircleV` no estilo Bold.
   ///
-  /// ![letter-circle-v](https://api.iconify.design/ph/letter-circle-v-bold.svg?height=32&color=%23888888)
+  /// ![letter-circle-v](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/letter-circle-v.png)
   static const IconData letterCircleV = IconData(
     0xec14,
     fontFamily: 'PhosphorBold',
@@ -10195,7 +10195,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lifebuoy` no estilo Bold.
   ///
-  /// ![lifebuoy](https://api.iconify.design/ph/lifebuoy-bold.svg?height=32&color=%23888888)
+  /// ![lifebuoy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lifebuoy.png)
   static const IconData lifebuoy = IconData(
     0xe63a,
     fontFamily: 'PhosphorBold',
@@ -10207,7 +10207,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lightbulb` no estilo Bold.
   ///
-  /// ![lightbulb](https://api.iconify.design/ph/lightbulb-bold.svg?height=32&color=%23888888)
+  /// ![lightbulb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lightbulb.png)
   static const IconData lightbulb = IconData(
     0xe2dc,
     fontFamily: 'PhosphorBold',
@@ -10219,7 +10219,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lightbulbFilament` no estilo Bold.
   ///
-  /// ![lightbulb-filament](https://api.iconify.design/ph/lightbulb-filament-bold.svg?height=32&color=%23888888)
+  /// ![lightbulb-filament](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lightbulb-filament.png)
   static const IconData lightbulbFilament = IconData(
     0xe63c,
     fontFamily: 'PhosphorBold',
@@ -10231,7 +10231,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lighthouse` no estilo Bold.
   ///
-  /// ![lighthouse](https://api.iconify.design/ph/lighthouse-bold.svg?height=32&color=%23888888)
+  /// ![lighthouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lighthouse.png)
   static const IconData lighthouse = IconData(
     0xe9f6,
     fontFamily: 'PhosphorBold',
@@ -10243,7 +10243,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lightning` no estilo Bold.
   ///
-  /// ![lightning](https://api.iconify.design/ph/lightning-bold.svg?height=32&color=%23888888)
+  /// ![lightning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lightning.png)
   static const IconData lightning = IconData(
     0xe2de,
     fontFamily: 'PhosphorBold',
@@ -10255,7 +10255,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lightningA` no estilo Bold.
   ///
-  /// ![lightning-a](https://api.iconify.design/ph/lightning-a-bold.svg?height=32&color=%23888888)
+  /// ![lightning-a](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lightning-a.png)
   static const IconData lightningA = IconData(
     0xea84,
     fontFamily: 'PhosphorBold',
@@ -10267,7 +10267,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lightningSlash` no estilo Bold.
   ///
-  /// ![lightning-slash](https://api.iconify.design/ph/lightning-slash-bold.svg?height=32&color=%23888888)
+  /// ![lightning-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lightning-slash.png)
   static const IconData lightningSlash = IconData(
     0xe2e0,
     fontFamily: 'PhosphorBold',
@@ -10279,7 +10279,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lineSegment` no estilo Bold.
   ///
-  /// ![line-segment](https://api.iconify.design/ph/line-segment-bold.svg?height=32&color=%23888888)
+  /// ![line-segment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/line-segment.png)
   static const IconData lineSegment = IconData(
     0xe6d2,
     fontFamily: 'PhosphorBold',
@@ -10291,7 +10291,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lineSegments` no estilo Bold.
   ///
-  /// ![line-segments](https://api.iconify.design/ph/line-segments-bold.svg?height=32&color=%23888888)
+  /// ![line-segments](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/line-segments.png)
   static const IconData lineSegments = IconData(
     0xe6d4,
     fontFamily: 'PhosphorBold',
@@ -10303,7 +10303,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lineVertical` no estilo Bold.
   ///
-  /// ![line-vertical](https://api.iconify.design/ph/line-vertical-bold.svg?height=32&color=%23888888)
+  /// ![line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/line-vertical.png)
   static const IconData lineVertical = IconData(
     0xed70,
     fontFamily: 'PhosphorBold',
@@ -10315,7 +10315,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `link` no estilo Bold.
   ///
-  /// ![link](https://api.iconify.design/ph/link-bold.svg?height=32&color=%23888888)
+  /// ![link](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/link.png)
   static const IconData link = IconData(
     0xe2e2,
     fontFamily: 'PhosphorBold',
@@ -10327,7 +10327,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linkBreak` no estilo Bold.
   ///
-  /// ![link-break](https://api.iconify.design/ph/link-break-bold.svg?height=32&color=%23888888)
+  /// ![link-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/link-break.png)
   static const IconData linkBreak = IconData(
     0xe2e4,
     fontFamily: 'PhosphorBold',
@@ -10339,7 +10339,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linkSimple` no estilo Bold.
   ///
-  /// ![link-simple](https://api.iconify.design/ph/link-simple-bold.svg?height=32&color=%23888888)
+  /// ![link-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/link-simple.png)
   static const IconData linkSimple = IconData(
     0xe2e6,
     fontFamily: 'PhosphorBold',
@@ -10351,7 +10351,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linkSimpleBreak` no estilo Bold.
   ///
-  /// ![link-simple-break](https://api.iconify.design/ph/link-simple-break-bold.svg?height=32&color=%23888888)
+  /// ![link-simple-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/link-simple-break.png)
   static const IconData linkSimpleBreak = IconData(
     0xe2e8,
     fontFamily: 'PhosphorBold',
@@ -10363,7 +10363,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linkSimpleHorizontal` no estilo Bold.
   ///
-  /// ![link-simple-horizontal](https://api.iconify.design/ph/link-simple-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/link-simple-horizontal.png)
   static const IconData linkSimpleHorizontal = IconData(
     0xe2ea,
     fontFamily: 'PhosphorBold',
@@ -10375,7 +10375,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Bold.
   ///
-  /// ![link-simple-horizontal-break](https://api.iconify.design/ph/link-simple-horizontal-break-bold.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/link-simple-horizontal-break.png)
   static const IconData linkSimpleHorizontalBreak = IconData(
     0xe2ec,
     fontFamily: 'PhosphorBold',
@@ -10387,7 +10387,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linkedinLogo` no estilo Bold.
   ///
-  /// ![linkedin-logo](https://api.iconify.design/ph/linkedin-logo-bold.svg?height=32&color=%23888888)
+  /// ![linkedin-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/linkedin-logo.png)
   static const IconData linkedinLogo = IconData(
     0xe2ee,
     fontFamily: 'PhosphorBold',
@@ -10399,7 +10399,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linktreeLogo` no estilo Bold.
   ///
-  /// ![linktree-logo](https://api.iconify.design/ph/linktree-logo-bold.svg?height=32&color=%23888888)
+  /// ![linktree-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/linktree-logo.png)
   static const IconData linktreeLogo = IconData(
     0xedee,
     fontFamily: 'PhosphorBold',
@@ -10411,7 +10411,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `linuxLogo` no estilo Bold.
   ///
-  /// ![linux-logo](https://api.iconify.design/ph/linux-logo-bold.svg?height=32&color=%23888888)
+  /// ![linux-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/linux-logo.png)
   static const IconData linuxLogo = IconData(
     0xeb02,
     fontFamily: 'PhosphorBold',
@@ -10423,7 +10423,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `list` no estilo Bold.
   ///
-  /// ![list](https://api.iconify.design/ph/list-bold.svg?height=32&color=%23888888)
+  /// ![list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list.png)
   static const IconData list = IconData(
     0xe2f0,
     fontFamily: 'PhosphorBold',
@@ -10435,7 +10435,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listBullets` no estilo Bold.
   ///
-  /// ![list-bullets](https://api.iconify.design/ph/list-bullets-bold.svg?height=32&color=%23888888)
+  /// ![list-bullets](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-bullets.png)
   static const IconData listBullets = IconData(
     0xe2f2,
     fontFamily: 'PhosphorBold',
@@ -10447,7 +10447,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listChecks` no estilo Bold.
   ///
-  /// ![list-checks](https://api.iconify.design/ph/list-checks-bold.svg?height=32&color=%23888888)
+  /// ![list-checks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-checks.png)
   static const IconData listChecks = IconData(
     0xeadc,
     fontFamily: 'PhosphorBold',
@@ -10459,7 +10459,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listDashes` no estilo Bold.
   ///
-  /// ![list-dashes](https://api.iconify.design/ph/list-dashes-bold.svg?height=32&color=%23888888)
+  /// ![list-dashes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-dashes.png)
   static const IconData listDashes = IconData(
     0xe2f4,
     fontFamily: 'PhosphorBold',
@@ -10471,7 +10471,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listHeart` no estilo Bold.
   ///
-  /// ![list-heart](https://api.iconify.design/ph/list-heart-bold.svg?height=32&color=%23888888)
+  /// ![list-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-heart.png)
   static const IconData listHeart = IconData(
     0xebde,
     fontFamily: 'PhosphorBold',
@@ -10483,7 +10483,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listMagnifyingGlass` no estilo Bold.
   ///
-  /// ![list-magnifying-glass](https://api.iconify.design/ph/list-magnifying-glass-bold.svg?height=32&color=%23888888)
+  /// ![list-magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-magnifying-glass.png)
   static const IconData listMagnifyingGlass = IconData(
     0xebe0,
     fontFamily: 'PhosphorBold',
@@ -10495,7 +10495,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listNumbers` no estilo Bold.
   ///
-  /// ![list-numbers](https://api.iconify.design/ph/list-numbers-bold.svg?height=32&color=%23888888)
+  /// ![list-numbers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-numbers.png)
   static const IconData listNumbers = IconData(
     0xe2f6,
     fontFamily: 'PhosphorBold',
@@ -10507,7 +10507,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listPlus` no estilo Bold.
   ///
-  /// ![list-plus](https://api.iconify.design/ph/list-plus-bold.svg?height=32&color=%23888888)
+  /// ![list-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-plus.png)
   static const IconData listPlus = IconData(
     0xe2f8,
     fontFamily: 'PhosphorBold',
@@ -10519,7 +10519,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `listStar` no estilo Bold.
   ///
-  /// ![list-star](https://api.iconify.design/ph/list-star-bold.svg?height=32&color=%23888888)
+  /// ![list-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/list-star.png)
   static const IconData listStar = IconData(
     0xebdc,
     fontFamily: 'PhosphorBold',
@@ -10531,7 +10531,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lock` no estilo Bold.
   ///
-  /// ![lock](https://api.iconify.design/ph/lock-bold.svg?height=32&color=%23888888)
+  /// ![lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock.png)
   static const IconData lock = IconData(
     0xe2fa,
     fontFamily: 'PhosphorBold',
@@ -10543,7 +10543,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockKey` no estilo Bold.
   ///
-  /// ![lock-key](https://api.iconify.design/ph/lock-key-bold.svg?height=32&color=%23888888)
+  /// ![lock-key](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock-key.png)
   static const IconData lockKey = IconData(
     0xe2fe,
     fontFamily: 'PhosphorBold',
@@ -10555,7 +10555,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockKeyOpen` no estilo Bold.
   ///
-  /// ![lock-key-open](https://api.iconify.design/ph/lock-key-open-bold.svg?height=32&color=%23888888)
+  /// ![lock-key-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock-key-open.png)
   static const IconData lockKeyOpen = IconData(
     0xe300,
     fontFamily: 'PhosphorBold',
@@ -10567,7 +10567,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockLaminated` no estilo Bold.
   ///
-  /// ![lock-laminated](https://api.iconify.design/ph/lock-laminated-bold.svg?height=32&color=%23888888)
+  /// ![lock-laminated](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock-laminated.png)
   static const IconData lockLaminated = IconData(
     0xe302,
     fontFamily: 'PhosphorBold',
@@ -10579,7 +10579,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockLaminatedOpen` no estilo Bold.
   ///
-  /// ![lock-laminated-open](https://api.iconify.design/ph/lock-laminated-open-bold.svg?height=32&color=%23888888)
+  /// ![lock-laminated-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock-laminated-open.png)
   static const IconData lockLaminatedOpen = IconData(
     0xe304,
     fontFamily: 'PhosphorBold',
@@ -10591,7 +10591,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockOpen` no estilo Bold.
   ///
-  /// ![lock-open](https://api.iconify.design/ph/lock-open-bold.svg?height=32&color=%23888888)
+  /// ![lock-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock-open.png)
   static const IconData lockOpen = IconData(
     0xe306,
     fontFamily: 'PhosphorBold',
@@ -10603,7 +10603,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockSimple` no estilo Bold.
   ///
-  /// ![lock-simple](https://api.iconify.design/ph/lock-simple-bold.svg?height=32&color=%23888888)
+  /// ![lock-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock-simple.png)
   static const IconData lockSimple = IconData(
     0xe308,
     fontFamily: 'PhosphorBold',
@@ -10615,7 +10615,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockSimpleOpen` no estilo Bold.
   ///
-  /// ![lock-simple-open](https://api.iconify.design/ph/lock-simple-open-bold.svg?height=32&color=%23888888)
+  /// ![lock-simple-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lock-simple-open.png)
   static const IconData lockSimpleOpen = IconData(
     0xe30a,
     fontFamily: 'PhosphorBold',
@@ -10627,7 +10627,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `lockers` no estilo Bold.
   ///
-  /// ![lockers](https://api.iconify.design/ph/lockers-bold.svg?height=32&color=%23888888)
+  /// ![lockers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/lockers.png)
   static const IconData lockers = IconData(
     0xecb8,
     fontFamily: 'PhosphorBold',
@@ -10639,7 +10639,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `log` no estilo Bold.
   ///
-  /// ![log](https://api.iconify.design/ph/log-bold.svg?height=32&color=%23888888)
+  /// ![log](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/log.png)
   static const IconData log = IconData(
     0xed82,
     fontFamily: 'PhosphorBold',
@@ -10651,7 +10651,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `magicWand` no estilo Bold.
   ///
-  /// ![magic-wand](https://api.iconify.design/ph/magic-wand-bold.svg?height=32&color=%23888888)
+  /// ![magic-wand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/magic-wand.png)
   static const IconData magicWand = IconData(
     0xe6b6,
     fontFamily: 'PhosphorBold',
@@ -10663,7 +10663,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `magnet` no estilo Bold.
   ///
-  /// ![magnet](https://api.iconify.design/ph/magnet-bold.svg?height=32&color=%23888888)
+  /// ![magnet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/magnet.png)
   static const IconData magnet = IconData(
     0xe680,
     fontFamily: 'PhosphorBold',
@@ -10675,7 +10675,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `magnetStraight` no estilo Bold.
   ///
-  /// ![magnet-straight](https://api.iconify.design/ph/magnet-straight-bold.svg?height=32&color=%23888888)
+  /// ![magnet-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/magnet-straight.png)
   static const IconData magnetStraight = IconData(
     0xe682,
     fontFamily: 'PhosphorBold',
@@ -10687,7 +10687,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `magnifyingGlass` no estilo Bold.
   ///
-  /// ![magnifying-glass](https://api.iconify.design/ph/magnifying-glass-bold.svg?height=32&color=%23888888)
+  /// ![magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/magnifying-glass.png)
   static const IconData magnifyingGlass = IconData(
     0xe30c,
     fontFamily: 'PhosphorBold',
@@ -10699,7 +10699,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `magnifyingGlassMinus` no estilo Bold.
   ///
-  /// ![magnifying-glass-minus](https://api.iconify.design/ph/magnifying-glass-minus-bold.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/magnifying-glass-minus.png)
   static const IconData magnifyingGlassMinus = IconData(
     0xe30e,
     fontFamily: 'PhosphorBold',
@@ -10711,7 +10711,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `magnifyingGlassPlus` no estilo Bold.
   ///
-  /// ![magnifying-glass-plus](https://api.iconify.design/ph/magnifying-glass-plus-bold.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/magnifying-glass-plus.png)
   static const IconData magnifyingGlassPlus = IconData(
     0xe310,
     fontFamily: 'PhosphorBold',
@@ -10723,7 +10723,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mailbox` no estilo Bold.
   ///
-  /// ![mailbox](https://api.iconify.design/ph/mailbox-bold.svg?height=32&color=%23888888)
+  /// ![mailbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mailbox.png)
   static const IconData mailbox = IconData(
     0xec1e,
     fontFamily: 'PhosphorBold',
@@ -10735,7 +10735,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapPin` no estilo Bold.
   ///
-  /// ![map-pin](https://api.iconify.design/ph/map-pin-bold.svg?height=32&color=%23888888)
+  /// ![map-pin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-pin.png)
   static const IconData mapPin = IconData(
     0xe316,
     fontFamily: 'PhosphorBold',
@@ -10747,7 +10747,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapPinArea` no estilo Bold.
   ///
-  /// ![map-pin-area](https://api.iconify.design/ph/map-pin-area-bold.svg?height=32&color=%23888888)
+  /// ![map-pin-area](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-pin-area.png)
   static const IconData mapPinArea = IconData(
     0xee3a,
     fontFamily: 'PhosphorBold',
@@ -10759,7 +10759,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapPinLine` no estilo Bold.
   ///
-  /// ![map-pin-line](https://api.iconify.design/ph/map-pin-line-bold.svg?height=32&color=%23888888)
+  /// ![map-pin-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-pin-line.png)
   static const IconData mapPinLine = IconData(
     0xe318,
     fontFamily: 'PhosphorBold',
@@ -10771,7 +10771,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapPinPlus` no estilo Bold.
   ///
-  /// ![map-pin-plus](https://api.iconify.design/ph/map-pin-plus-bold.svg?height=32&color=%23888888)
+  /// ![map-pin-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-pin-plus.png)
   static const IconData mapPinPlus = IconData(
     0xe314,
     fontFamily: 'PhosphorBold',
@@ -10783,7 +10783,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapPinSimple` no estilo Bold.
   ///
-  /// ![map-pin-simple](https://api.iconify.design/ph/map-pin-simple-bold.svg?height=32&color=%23888888)
+  /// ![map-pin-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-pin-simple.png)
   static const IconData mapPinSimple = IconData(
     0xee3e,
     fontFamily: 'PhosphorBold',
@@ -10795,7 +10795,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapPinSimpleArea` no estilo Bold.
   ///
-  /// ![map-pin-simple-area](https://api.iconify.design/ph/map-pin-simple-area-bold.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-area](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-pin-simple-area.png)
   static const IconData mapPinSimpleArea = IconData(
     0xee3c,
     fontFamily: 'PhosphorBold',
@@ -10807,7 +10807,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapPinSimpleLine` no estilo Bold.
   ///
-  /// ![map-pin-simple-line](https://api.iconify.design/ph/map-pin-simple-line-bold.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-pin-simple-line.png)
   static const IconData mapPinSimpleLine = IconData(
     0xee38,
     fontFamily: 'PhosphorBold',
@@ -10819,7 +10819,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mapTrifold` no estilo Bold.
   ///
-  /// ![map-trifold](https://api.iconify.design/ph/map-trifold-bold.svg?height=32&color=%23888888)
+  /// ![map-trifold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/map-trifold.png)
   static const IconData mapTrifold = IconData(
     0xe31a,
     fontFamily: 'PhosphorBold',
@@ -10831,7 +10831,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `markdownLogo` no estilo Bold.
   ///
-  /// ![markdown-logo](https://api.iconify.design/ph/markdown-logo-bold.svg?height=32&color=%23888888)
+  /// ![markdown-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/markdown-logo.png)
   static const IconData markdownLogo = IconData(
     0xe508,
     fontFamily: 'PhosphorBold',
@@ -10843,7 +10843,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `markerCircle` no estilo Bold.
   ///
-  /// ![marker-circle](https://api.iconify.design/ph/marker-circle-bold.svg?height=32&color=%23888888)
+  /// ![marker-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/marker-circle.png)
   static const IconData markerCircle = IconData(
     0xe640,
     fontFamily: 'PhosphorBold',
@@ -10855,7 +10855,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `martini` no estilo Bold.
   ///
-  /// ![martini](https://api.iconify.design/ph/martini-bold.svg?height=32&color=%23888888)
+  /// ![martini](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/martini.png)
   static const IconData martini = IconData(
     0xe31c,
     fontFamily: 'PhosphorBold',
@@ -10867,7 +10867,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `maskHappy` no estilo Bold.
   ///
-  /// ![mask-happy](https://api.iconify.design/ph/mask-happy-bold.svg?height=32&color=%23888888)
+  /// ![mask-happy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mask-happy.png)
   static const IconData maskHappy = IconData(
     0xe9f4,
     fontFamily: 'PhosphorBold',
@@ -10879,7 +10879,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `maskSad` no estilo Bold.
   ///
-  /// ![mask-sad](https://api.iconify.design/ph/mask-sad-bold.svg?height=32&color=%23888888)
+  /// ![mask-sad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mask-sad.png)
   static const IconData maskSad = IconData(
     0xeb9e,
     fontFamily: 'PhosphorBold',
@@ -10891,7 +10891,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mastodonLogo` no estilo Bold.
   ///
-  /// ![mastodon-logo](https://api.iconify.design/ph/mastodon-logo-bold.svg?height=32&color=%23888888)
+  /// ![mastodon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mastodon-logo.png)
   static const IconData mastodonLogo = IconData(
     0xed68,
     fontFamily: 'PhosphorBold',
@@ -10903,7 +10903,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mathOperations` no estilo Bold.
   ///
-  /// ![math-operations](https://api.iconify.design/ph/math-operations-bold.svg?height=32&color=%23888888)
+  /// ![math-operations](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/math-operations.png)
   static const IconData mathOperations = IconData(
     0xe31e,
     fontFamily: 'PhosphorBold',
@@ -10915,7 +10915,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `matrixLogo` no estilo Bold.
   ///
-  /// ![matrix-logo](https://api.iconify.design/ph/matrix-logo-bold.svg?height=32&color=%23888888)
+  /// ![matrix-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/matrix-logo.png)
   static const IconData matrixLogo = IconData(
     0xed64,
     fontFamily: 'PhosphorBold',
@@ -10927,7 +10927,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `medal` no estilo Bold.
   ///
-  /// ![medal](https://api.iconify.design/ph/medal-bold.svg?height=32&color=%23888888)
+  /// ![medal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/medal.png)
   static const IconData medal = IconData(
     0xe320,
     fontFamily: 'PhosphorBold',
@@ -10939,7 +10939,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `medalMilitary` no estilo Bold.
   ///
-  /// ![medal-military](https://api.iconify.design/ph/medal-military-bold.svg?height=32&color=%23888888)
+  /// ![medal-military](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/medal-military.png)
   static const IconData medalMilitary = IconData(
     0xecfc,
     fontFamily: 'PhosphorBold',
@@ -10951,7 +10951,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mediumLogo` no estilo Bold.
   ///
-  /// ![medium-logo](https://api.iconify.design/ph/medium-logo-bold.svg?height=32&color=%23888888)
+  /// ![medium-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/medium-logo.png)
   static const IconData mediumLogo = IconData(
     0xe322,
     fontFamily: 'PhosphorBold',
@@ -10963,7 +10963,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `megaphone` no estilo Bold.
   ///
-  /// ![megaphone](https://api.iconify.design/ph/megaphone-bold.svg?height=32&color=%23888888)
+  /// ![megaphone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/megaphone.png)
   static const IconData megaphone = IconData(
     0xe324,
     fontFamily: 'PhosphorBold',
@@ -10975,7 +10975,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `megaphoneSimple` no estilo Bold.
   ///
-  /// ![megaphone-simple](https://api.iconify.design/ph/megaphone-simple-bold.svg?height=32&color=%23888888)
+  /// ![megaphone-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/megaphone-simple.png)
   static const IconData megaphoneSimple = IconData(
     0xe642,
     fontFamily: 'PhosphorBold',
@@ -10987,7 +10987,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `memberOf` no estilo Bold.
   ///
-  /// ![member-of](https://api.iconify.design/ph/member-of-bold.svg?height=32&color=%23888888)
+  /// ![member-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/member-of.png)
   static const IconData memberOf = IconData(
     0xedc2,
     fontFamily: 'PhosphorBold',
@@ -10999,7 +10999,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `memory` no estilo Bold.
   ///
-  /// ![memory](https://api.iconify.design/ph/memory-bold.svg?height=32&color=%23888888)
+  /// ![memory](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/memory.png)
   static const IconData memory = IconData(
     0xe9c4,
     fontFamily: 'PhosphorBold',
@@ -11011,7 +11011,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `messengerLogo` no estilo Bold.
   ///
-  /// ![messenger-logo](https://api.iconify.design/ph/messenger-logo-bold.svg?height=32&color=%23888888)
+  /// ![messenger-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/messenger-logo.png)
   static const IconData messengerLogo = IconData(
     0xe6d8,
     fontFamily: 'PhosphorBold',
@@ -11023,7 +11023,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `metaLogo` no estilo Bold.
   ///
-  /// ![meta-logo](https://api.iconify.design/ph/meta-logo-bold.svg?height=32&color=%23888888)
+  /// ![meta-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/meta-logo.png)
   static const IconData metaLogo = IconData(
     0xed02,
     fontFamily: 'PhosphorBold',
@@ -11035,7 +11035,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `meteor` no estilo Bold.
   ///
-  /// ![meteor](https://api.iconify.design/ph/meteor-bold.svg?height=32&color=%23888888)
+  /// ![meteor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/meteor.png)
   static const IconData meteor = IconData(
     0xe9ba,
     fontFamily: 'PhosphorBold',
@@ -11047,7 +11047,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `metronome` no estilo Bold.
   ///
-  /// ![metronome](https://api.iconify.design/ph/metronome-bold.svg?height=32&color=%23888888)
+  /// ![metronome](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/metronome.png)
   static const IconData metronome = IconData(
     0xec8e,
     fontFamily: 'PhosphorBold',
@@ -11059,7 +11059,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microphone` no estilo Bold.
   ///
-  /// ![microphone](https://api.iconify.design/ph/microphone-bold.svg?height=32&color=%23888888)
+  /// ![microphone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microphone.png)
   static const IconData microphone = IconData(
     0xe326,
     fontFamily: 'PhosphorBold',
@@ -11071,7 +11071,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microphoneSlash` no estilo Bold.
   ///
-  /// ![microphone-slash](https://api.iconify.design/ph/microphone-slash-bold.svg?height=32&color=%23888888)
+  /// ![microphone-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microphone-slash.png)
   static const IconData microphoneSlash = IconData(
     0xe328,
     fontFamily: 'PhosphorBold',
@@ -11083,7 +11083,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microphoneStage` no estilo Bold.
   ///
-  /// ![microphone-stage](https://api.iconify.design/ph/microphone-stage-bold.svg?height=32&color=%23888888)
+  /// ![microphone-stage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microphone-stage.png)
   static const IconData microphoneStage = IconData(
     0xe75c,
     fontFamily: 'PhosphorBold',
@@ -11095,7 +11095,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microscope` no estilo Bold.
   ///
-  /// ![microscope](https://api.iconify.design/ph/microscope-bold.svg?height=32&color=%23888888)
+  /// ![microscope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microscope.png)
   static const IconData microscope = IconData(
     0xec7a,
     fontFamily: 'PhosphorBold',
@@ -11107,7 +11107,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microsoftExcelLogo` no estilo Bold.
   ///
-  /// ![microsoft-excel-logo](https://api.iconify.design/ph/microsoft-excel-logo-bold.svg?height=32&color=%23888888)
+  /// ![microsoft-excel-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microsoft-excel-logo.png)
   static const IconData microsoftExcelLogo = IconData(
     0xeb6c,
     fontFamily: 'PhosphorBold',
@@ -11119,7 +11119,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microsoftOutlookLogo` no estilo Bold.
   ///
-  /// ![microsoft-outlook-logo](https://api.iconify.design/ph/microsoft-outlook-logo-bold.svg?height=32&color=%23888888)
+  /// ![microsoft-outlook-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microsoft-outlook-logo.png)
   static const IconData microsoftOutlookLogo = IconData(
     0xeb70,
     fontFamily: 'PhosphorBold',
@@ -11131,7 +11131,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microsoftPowerpointLogo` no estilo Bold.
   ///
-  /// ![microsoft-powerpoint-logo](https://api.iconify.design/ph/microsoft-powerpoint-logo-bold.svg?height=32&color=%23888888)
+  /// ![microsoft-powerpoint-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microsoft-powerpoint-logo.png)
   static const IconData microsoftPowerpointLogo = IconData(
     0xeace,
     fontFamily: 'PhosphorBold',
@@ -11143,7 +11143,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microsoftTeamsLogo` no estilo Bold.
   ///
-  /// ![microsoft-teams-logo](https://api.iconify.design/ph/microsoft-teams-logo-bold.svg?height=32&color=%23888888)
+  /// ![microsoft-teams-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microsoft-teams-logo.png)
   static const IconData microsoftTeamsLogo = IconData(
     0xeb66,
     fontFamily: 'PhosphorBold',
@@ -11155,7 +11155,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `microsoftWordLogo` no estilo Bold.
   ///
-  /// ![microsoft-word-logo](https://api.iconify.design/ph/microsoft-word-logo-bold.svg?height=32&color=%23888888)
+  /// ![microsoft-word-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/microsoft-word-logo.png)
   static const IconData microsoftWordLogo = IconData(
     0xeb6a,
     fontFamily: 'PhosphorBold',
@@ -11167,7 +11167,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `minus` no estilo Bold.
   ///
-  /// ![minus](https://api.iconify.design/ph/minus-bold.svg?height=32&color=%23888888)
+  /// ![minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/minus.png)
   static const IconData minus = IconData(
     0xe32a,
     fontFamily: 'PhosphorBold',
@@ -11179,7 +11179,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `minusCircle` no estilo Bold.
   ///
-  /// ![minus-circle](https://api.iconify.design/ph/minus-circle-bold.svg?height=32&color=%23888888)
+  /// ![minus-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/minus-circle.png)
   static const IconData minusCircle = IconData(
     0xe32c,
     fontFamily: 'PhosphorBold',
@@ -11191,7 +11191,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `minusSquare` no estilo Bold.
   ///
-  /// ![minus-square](https://api.iconify.design/ph/minus-square-bold.svg?height=32&color=%23888888)
+  /// ![minus-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/minus-square.png)
   static const IconData minusSquare = IconData(
     0xed4c,
     fontFamily: 'PhosphorBold',
@@ -11203,7 +11203,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `money` no estilo Bold.
   ///
-  /// ![money](https://api.iconify.design/ph/money-bold.svg?height=32&color=%23888888)
+  /// ![money](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/money.png)
   static const IconData money = IconData(
     0xe588,
     fontFamily: 'PhosphorBold',
@@ -11215,7 +11215,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `moneyWavy` no estilo Bold.
   ///
-  /// ![money-wavy](https://api.iconify.design/ph/money-wavy-bold.svg?height=32&color=%23888888)
+  /// ![money-wavy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/money-wavy.png)
   static const IconData moneyWavy = IconData(
     0xee68,
     fontFamily: 'PhosphorBold',
@@ -11227,7 +11227,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `monitor` no estilo Bold.
   ///
-  /// ![monitor](https://api.iconify.design/ph/monitor-bold.svg?height=32&color=%23888888)
+  /// ![monitor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/monitor.png)
   static const IconData monitor = IconData(
     0xe32e,
     fontFamily: 'PhosphorBold',
@@ -11239,7 +11239,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `monitorArrowUp` no estilo Bold.
   ///
-  /// ![monitor-arrow-up](https://api.iconify.design/ph/monitor-arrow-up-bold.svg?height=32&color=%23888888)
+  /// ![monitor-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/monitor-arrow-up.png)
   static const IconData monitorArrowUp = IconData(
     0xe58a,
     fontFamily: 'PhosphorBold',
@@ -11251,7 +11251,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `monitorPlay` no estilo Bold.
   ///
-  /// ![monitor-play](https://api.iconify.design/ph/monitor-play-bold.svg?height=32&color=%23888888)
+  /// ![monitor-play](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/monitor-play.png)
   static const IconData monitorPlay = IconData(
     0xe58c,
     fontFamily: 'PhosphorBold',
@@ -11263,7 +11263,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `moon` no estilo Bold.
   ///
-  /// ![moon](https://api.iconify.design/ph/moon-bold.svg?height=32&color=%23888888)
+  /// ![moon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/moon.png)
   static const IconData moon = IconData(
     0xe330,
     fontFamily: 'PhosphorBold',
@@ -11275,7 +11275,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `moonStars` no estilo Bold.
   ///
-  /// ![moon-stars](https://api.iconify.design/ph/moon-stars-bold.svg?height=32&color=%23888888)
+  /// ![moon-stars](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/moon-stars.png)
   static const IconData moonStars = IconData(
     0xe58e,
     fontFamily: 'PhosphorBold',
@@ -11287,7 +11287,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `moped` no estilo Bold.
   ///
-  /// ![moped](https://api.iconify.design/ph/moped-bold.svg?height=32&color=%23888888)
+  /// ![moped](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/moped.png)
   static const IconData moped = IconData(
     0xe824,
     fontFamily: 'PhosphorBold',
@@ -11299,7 +11299,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mopedFront` no estilo Bold.
   ///
-  /// ![moped-front](https://api.iconify.design/ph/moped-front-bold.svg?height=32&color=%23888888)
+  /// ![moped-front](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/moped-front.png)
   static const IconData mopedFront = IconData(
     0xe822,
     fontFamily: 'PhosphorBold',
@@ -11311,7 +11311,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mosque` no estilo Bold.
   ///
-  /// ![mosque](https://api.iconify.design/ph/mosque-bold.svg?height=32&color=%23888888)
+  /// ![mosque](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mosque.png)
   static const IconData mosque = IconData(
     0xecee,
     fontFamily: 'PhosphorBold',
@@ -11323,7 +11323,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `motorcycle` no estilo Bold.
   ///
-  /// ![motorcycle](https://api.iconify.design/ph/motorcycle-bold.svg?height=32&color=%23888888)
+  /// ![motorcycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/motorcycle.png)
   static const IconData motorcycle = IconData(
     0xe80a,
     fontFamily: 'PhosphorBold',
@@ -11335,7 +11335,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mountains` no estilo Bold.
   ///
-  /// ![mountains](https://api.iconify.design/ph/mountains-bold.svg?height=32&color=%23888888)
+  /// ![mountains](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mountains.png)
   static const IconData mountains = IconData(
     0xe7ae,
     fontFamily: 'PhosphorBold',
@@ -11347,7 +11347,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mouse` no estilo Bold.
   ///
-  /// ![mouse](https://api.iconify.design/ph/mouse-bold.svg?height=32&color=%23888888)
+  /// ![mouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mouse.png)
   static const IconData mouse = IconData(
     0xe33a,
     fontFamily: 'PhosphorBold',
@@ -11359,7 +11359,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mouseLeftClick` no estilo Bold.
   ///
-  /// ![mouse-left-click](https://api.iconify.design/ph/mouse-left-click-bold.svg?height=32&color=%23888888)
+  /// ![mouse-left-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mouse-left-click.png)
   static const IconData mouseLeftClick = IconData(
     0xe334,
     fontFamily: 'PhosphorBold',
@@ -11371,7 +11371,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mouseMiddleClick` no estilo Bold.
   ///
-  /// ![mouse-middle-click](https://api.iconify.design/ph/mouse-middle-click-bold.svg?height=32&color=%23888888)
+  /// ![mouse-middle-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mouse-middle-click.png)
   static const IconData mouseMiddleClick = IconData(
     0xe338,
     fontFamily: 'PhosphorBold',
@@ -11383,7 +11383,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mouseRightClick` no estilo Bold.
   ///
-  /// ![mouse-right-click](https://api.iconify.design/ph/mouse-right-click-bold.svg?height=32&color=%23888888)
+  /// ![mouse-right-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mouse-right-click.png)
   static const IconData mouseRightClick = IconData(
     0xe336,
     fontFamily: 'PhosphorBold',
@@ -11395,7 +11395,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mouseScroll` no estilo Bold.
   ///
-  /// ![mouse-scroll](https://api.iconify.design/ph/mouse-scroll-bold.svg?height=32&color=%23888888)
+  /// ![mouse-scroll](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mouse-scroll.png)
   static const IconData mouseScroll = IconData(
     0xe332,
     fontFamily: 'PhosphorBold',
@@ -11407,7 +11407,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `mouseSimple` no estilo Bold.
   ///
-  /// ![mouse-simple](https://api.iconify.design/ph/mouse-simple-bold.svg?height=32&color=%23888888)
+  /// ![mouse-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/mouse-simple.png)
   static const IconData mouseSimple = IconData(
     0xe644,
     fontFamily: 'PhosphorBold',
@@ -11419,7 +11419,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `musicNote` no estilo Bold.
   ///
-  /// ![music-note](https://api.iconify.design/ph/music-note-bold.svg?height=32&color=%23888888)
+  /// ![music-note](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/music-note.png)
   static const IconData musicNote = IconData(
     0xe33c,
     fontFamily: 'PhosphorBold',
@@ -11431,7 +11431,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `musicNoteSimple` no estilo Bold.
   ///
-  /// ![music-note-simple](https://api.iconify.design/ph/music-note-simple-bold.svg?height=32&color=%23888888)
+  /// ![music-note-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/music-note-simple.png)
   static const IconData musicNoteSimple = IconData(
     0xe33e,
     fontFamily: 'PhosphorBold',
@@ -11443,7 +11443,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `musicNotes` no estilo Bold.
   ///
-  /// ![music-notes](https://api.iconify.design/ph/music-notes-bold.svg?height=32&color=%23888888)
+  /// ![music-notes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/music-notes.png)
   static const IconData musicNotes = IconData(
     0xe340,
     fontFamily: 'PhosphorBold',
@@ -11455,7 +11455,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `musicNotesMinus` no estilo Bold.
   ///
-  /// ![music-notes-minus](https://api.iconify.design/ph/music-notes-minus-bold.svg?height=32&color=%23888888)
+  /// ![music-notes-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/music-notes-minus.png)
   static const IconData musicNotesMinus = IconData(
     0xee0c,
     fontFamily: 'PhosphorBold',
@@ -11467,7 +11467,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `musicNotesPlus` no estilo Bold.
   ///
-  /// ![music-notes-plus](https://api.iconify.design/ph/music-notes-plus-bold.svg?height=32&color=%23888888)
+  /// ![music-notes-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/music-notes-plus.png)
   static const IconData musicNotesPlus = IconData(
     0xeb7c,
     fontFamily: 'PhosphorBold',
@@ -11479,7 +11479,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `musicNotesSimple` no estilo Bold.
   ///
-  /// ![music-notes-simple](https://api.iconify.design/ph/music-notes-simple-bold.svg?height=32&color=%23888888)
+  /// ![music-notes-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/music-notes-simple.png)
   static const IconData musicNotesSimple = IconData(
     0xe342,
     fontFamily: 'PhosphorBold',
@@ -11491,7 +11491,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `navigationArrow` no estilo Bold.
   ///
-  /// ![navigation-arrow](https://api.iconify.design/ph/navigation-arrow-bold.svg?height=32&color=%23888888)
+  /// ![navigation-arrow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/navigation-arrow.png)
   static const IconData navigationArrow = IconData(
     0xeade,
     fontFamily: 'PhosphorBold',
@@ -11503,7 +11503,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `needle` no estilo Bold.
   ///
-  /// ![needle](https://api.iconify.design/ph/needle-bold.svg?height=32&color=%23888888)
+  /// ![needle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/needle.png)
   static const IconData needle = IconData(
     0xe82e,
     fontFamily: 'PhosphorBold',
@@ -11515,7 +11515,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `network` no estilo Bold.
   ///
-  /// ![network](https://api.iconify.design/ph/network-bold.svg?height=32&color=%23888888)
+  /// ![network](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/network.png)
   static const IconData network = IconData(
     0xedde,
     fontFamily: 'PhosphorBold',
@@ -11527,7 +11527,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `networkSlash` no estilo Bold.
   ///
-  /// ![network-slash](https://api.iconify.design/ph/network-slash-bold.svg?height=32&color=%23888888)
+  /// ![network-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/network-slash.png)
   static const IconData networkSlash = IconData(
     0xeddc,
     fontFamily: 'PhosphorBold',
@@ -11539,7 +11539,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `networkX` no estilo Bold.
   ///
-  /// ![network-x](https://api.iconify.design/ph/network-x-bold.svg?height=32&color=%23888888)
+  /// ![network-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/network-x.png)
   static const IconData networkX = IconData(
     0xedda,
     fontFamily: 'PhosphorBold',
@@ -11551,7 +11551,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `newspaper` no estilo Bold.
   ///
-  /// ![newspaper](https://api.iconify.design/ph/newspaper-bold.svg?height=32&color=%23888888)
+  /// ![newspaper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/newspaper.png)
   static const IconData newspaper = IconData(
     0xe344,
     fontFamily: 'PhosphorBold',
@@ -11563,7 +11563,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `newspaperClipping` no estilo Bold.
   ///
-  /// ![newspaper-clipping](https://api.iconify.design/ph/newspaper-clipping-bold.svg?height=32&color=%23888888)
+  /// ![newspaper-clipping](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/newspaper-clipping.png)
   static const IconData newspaperClipping = IconData(
     0xe346,
     fontFamily: 'PhosphorBold',
@@ -11575,7 +11575,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notEquals` no estilo Bold.
   ///
-  /// ![not-equals](https://api.iconify.design/ph/not-equals-bold.svg?height=32&color=%23888888)
+  /// ![not-equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/not-equals.png)
   static const IconData notEquals = IconData(
     0xeda6,
     fontFamily: 'PhosphorBold',
@@ -11587,7 +11587,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notMemberOf` no estilo Bold.
   ///
-  /// ![not-member-of](https://api.iconify.design/ph/not-member-of-bold.svg?height=32&color=%23888888)
+  /// ![not-member-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/not-member-of.png)
   static const IconData notMemberOf = IconData(
     0xedae,
     fontFamily: 'PhosphorBold',
@@ -11599,7 +11599,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notSubsetOf` no estilo Bold.
   ///
-  /// ![not-subset-of](https://api.iconify.design/ph/not-subset-of-bold.svg?height=32&color=%23888888)
+  /// ![not-subset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/not-subset-of.png)
   static const IconData notSubsetOf = IconData(
     0xedb0,
     fontFamily: 'PhosphorBold',
@@ -11611,7 +11611,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notSupersetOf` no estilo Bold.
   ///
-  /// ![not-superset-of](https://api.iconify.design/ph/not-superset-of-bold.svg?height=32&color=%23888888)
+  /// ![not-superset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/not-superset-of.png)
   static const IconData notSupersetOf = IconData(
     0xedb2,
     fontFamily: 'PhosphorBold',
@@ -11623,7 +11623,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notches` no estilo Bold.
   ///
-  /// ![notches](https://api.iconify.design/ph/notches-bold.svg?height=32&color=%23888888)
+  /// ![notches](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/notches.png)
   static const IconData notches = IconData(
     0xed3a,
     fontFamily: 'PhosphorBold',
@@ -11635,7 +11635,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `note` no estilo Bold.
   ///
-  /// ![note](https://api.iconify.design/ph/note-bold.svg?height=32&color=%23888888)
+  /// ![note](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/note.png)
   static const IconData note = IconData(
     0xe348,
     fontFamily: 'PhosphorBold',
@@ -11647,7 +11647,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `noteBlank` no estilo Bold.
   ///
-  /// ![note-blank](https://api.iconify.design/ph/note-blank-bold.svg?height=32&color=%23888888)
+  /// ![note-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/note-blank.png)
   static const IconData noteBlank = IconData(
     0xe34a,
     fontFamily: 'PhosphorBold',
@@ -11659,7 +11659,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notePencil` no estilo Bold.
   ///
-  /// ![note-pencil](https://api.iconify.design/ph/note-pencil-bold.svg?height=32&color=%23888888)
+  /// ![note-pencil](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/note-pencil.png)
   static const IconData notePencil = IconData(
     0xe34c,
     fontFamily: 'PhosphorBold',
@@ -11671,7 +11671,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notebook` no estilo Bold.
   ///
-  /// ![notebook](https://api.iconify.design/ph/notebook-bold.svg?height=32&color=%23888888)
+  /// ![notebook](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/notebook.png)
   static const IconData notebook = IconData(
     0xe34e,
     fontFamily: 'PhosphorBold',
@@ -11683,7 +11683,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notepad` no estilo Bold.
   ///
-  /// ![notepad](https://api.iconify.design/ph/notepad-bold.svg?height=32&color=%23888888)
+  /// ![notepad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/notepad.png)
   static const IconData notepad = IconData(
     0xe63e,
     fontFamily: 'PhosphorBold',
@@ -11695,7 +11695,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notification` no estilo Bold.
   ///
-  /// ![notification](https://api.iconify.design/ph/notification-bold.svg?height=32&color=%23888888)
+  /// ![notification](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/notification.png)
   static const IconData notification = IconData(
     0xe6fa,
     fontFamily: 'PhosphorBold',
@@ -11707,7 +11707,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `notionLogo` no estilo Bold.
   ///
-  /// ![notion-logo](https://api.iconify.design/ph/notion-logo-bold.svg?height=32&color=%23888888)
+  /// ![notion-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/notion-logo.png)
   static const IconData notionLogo = IconData(
     0xe9a0,
     fontFamily: 'PhosphorBold',
@@ -11719,7 +11719,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `nuclearPlant` no estilo Bold.
   ///
-  /// ![nuclear-plant](https://api.iconify.design/ph/nuclear-plant-bold.svg?height=32&color=%23888888)
+  /// ![nuclear-plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/nuclear-plant.png)
   static const IconData nuclearPlant = IconData(
     0xed7c,
     fontFamily: 'PhosphorBold',
@@ -11731,7 +11731,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleEight` no estilo Bold.
   ///
-  /// ![number-circle-eight](https://api.iconify.design/ph/number-circle-eight-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-eight.png)
   static const IconData numberCircleEight = IconData(
     0xe352,
     fontFamily: 'PhosphorBold',
@@ -11743,7 +11743,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleFive` no estilo Bold.
   ///
-  /// ![number-circle-five](https://api.iconify.design/ph/number-circle-five-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-five.png)
   static const IconData numberCircleFive = IconData(
     0xe358,
     fontFamily: 'PhosphorBold',
@@ -11755,7 +11755,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleFour` no estilo Bold.
   ///
-  /// ![number-circle-four](https://api.iconify.design/ph/number-circle-four-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-four.png)
   static const IconData numberCircleFour = IconData(
     0xe35e,
     fontFamily: 'PhosphorBold',
@@ -11767,7 +11767,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleNine` no estilo Bold.
   ///
-  /// ![number-circle-nine](https://api.iconify.design/ph/number-circle-nine-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-nine.png)
   static const IconData numberCircleNine = IconData(
     0xe364,
     fontFamily: 'PhosphorBold',
@@ -11779,7 +11779,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleOne` no estilo Bold.
   ///
-  /// ![number-circle-one](https://api.iconify.design/ph/number-circle-one-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-one.png)
   static const IconData numberCircleOne = IconData(
     0xe36a,
     fontFamily: 'PhosphorBold',
@@ -11791,7 +11791,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleSeven` no estilo Bold.
   ///
-  /// ![number-circle-seven](https://api.iconify.design/ph/number-circle-seven-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-seven.png)
   static const IconData numberCircleSeven = IconData(
     0xe370,
     fontFamily: 'PhosphorBold',
@@ -11803,7 +11803,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleSix` no estilo Bold.
   ///
-  /// ![number-circle-six](https://api.iconify.design/ph/number-circle-six-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-six.png)
   static const IconData numberCircleSix = IconData(
     0xe376,
     fontFamily: 'PhosphorBold',
@@ -11815,7 +11815,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleThree` no estilo Bold.
   ///
-  /// ![number-circle-three](https://api.iconify.design/ph/number-circle-three-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-three.png)
   static const IconData numberCircleThree = IconData(
     0xe37c,
     fontFamily: 'PhosphorBold',
@@ -11827,7 +11827,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleTwo` no estilo Bold.
   ///
-  /// ![number-circle-two](https://api.iconify.design/ph/number-circle-two-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-two.png)
   static const IconData numberCircleTwo = IconData(
     0xe382,
     fontFamily: 'PhosphorBold',
@@ -11839,7 +11839,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberCircleZero` no estilo Bold.
   ///
-  /// ![number-circle-zero](https://api.iconify.design/ph/number-circle-zero-bold.svg?height=32&color=%23888888)
+  /// ![number-circle-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-circle-zero.png)
   static const IconData numberCircleZero = IconData(
     0xe388,
     fontFamily: 'PhosphorBold',
@@ -11851,7 +11851,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberEight` no estilo Bold.
   ///
-  /// ![number-eight](https://api.iconify.design/ph/number-eight-bold.svg?height=32&color=%23888888)
+  /// ![number-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-eight.png)
   static const IconData numberEight = IconData(
     0xe350,
     fontFamily: 'PhosphorBold',
@@ -11863,7 +11863,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberFive` no estilo Bold.
   ///
-  /// ![number-five](https://api.iconify.design/ph/number-five-bold.svg?height=32&color=%23888888)
+  /// ![number-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-five.png)
   static const IconData numberFive = IconData(
     0xe356,
     fontFamily: 'PhosphorBold',
@@ -11875,7 +11875,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberFour` no estilo Bold.
   ///
-  /// ![number-four](https://api.iconify.design/ph/number-four-bold.svg?height=32&color=%23888888)
+  /// ![number-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-four.png)
   static const IconData numberFour = IconData(
     0xe35c,
     fontFamily: 'PhosphorBold',
@@ -11887,7 +11887,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberNine` no estilo Bold.
   ///
-  /// ![number-nine](https://api.iconify.design/ph/number-nine-bold.svg?height=32&color=%23888888)
+  /// ![number-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-nine.png)
   static const IconData numberNine = IconData(
     0xe362,
     fontFamily: 'PhosphorBold',
@@ -11899,7 +11899,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberOne` no estilo Bold.
   ///
-  /// ![number-one](https://api.iconify.design/ph/number-one-bold.svg?height=32&color=%23888888)
+  /// ![number-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-one.png)
   static const IconData numberOne = IconData(
     0xe368,
     fontFamily: 'PhosphorBold',
@@ -11911,7 +11911,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSeven` no estilo Bold.
   ///
-  /// ![number-seven](https://api.iconify.design/ph/number-seven-bold.svg?height=32&color=%23888888)
+  /// ![number-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-seven.png)
   static const IconData numberSeven = IconData(
     0xe36e,
     fontFamily: 'PhosphorBold',
@@ -11923,7 +11923,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSix` no estilo Bold.
   ///
-  /// ![number-six](https://api.iconify.design/ph/number-six-bold.svg?height=32&color=%23888888)
+  /// ![number-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-six.png)
   static const IconData numberSix = IconData(
     0xe374,
     fontFamily: 'PhosphorBold',
@@ -11935,7 +11935,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareEight` no estilo Bold.
   ///
-  /// ![number-square-eight](https://api.iconify.design/ph/number-square-eight-bold.svg?height=32&color=%23888888)
+  /// ![number-square-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-eight.png)
   static const IconData numberSquareEight = IconData(
     0xe354,
     fontFamily: 'PhosphorBold',
@@ -11947,7 +11947,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareFive` no estilo Bold.
   ///
-  /// ![number-square-five](https://api.iconify.design/ph/number-square-five-bold.svg?height=32&color=%23888888)
+  /// ![number-square-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-five.png)
   static const IconData numberSquareFive = IconData(
     0xe35a,
     fontFamily: 'PhosphorBold',
@@ -11959,7 +11959,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareFour` no estilo Bold.
   ///
-  /// ![number-square-four](https://api.iconify.design/ph/number-square-four-bold.svg?height=32&color=%23888888)
+  /// ![number-square-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-four.png)
   static const IconData numberSquareFour = IconData(
     0xe360,
     fontFamily: 'PhosphorBold',
@@ -11971,7 +11971,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareNine` no estilo Bold.
   ///
-  /// ![number-square-nine](https://api.iconify.design/ph/number-square-nine-bold.svg?height=32&color=%23888888)
+  /// ![number-square-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-nine.png)
   static const IconData numberSquareNine = IconData(
     0xe366,
     fontFamily: 'PhosphorBold',
@@ -11983,7 +11983,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareOne` no estilo Bold.
   ///
-  /// ![number-square-one](https://api.iconify.design/ph/number-square-one-bold.svg?height=32&color=%23888888)
+  /// ![number-square-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-one.png)
   static const IconData numberSquareOne = IconData(
     0xe36c,
     fontFamily: 'PhosphorBold',
@@ -11995,7 +11995,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareSeven` no estilo Bold.
   ///
-  /// ![number-square-seven](https://api.iconify.design/ph/number-square-seven-bold.svg?height=32&color=%23888888)
+  /// ![number-square-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-seven.png)
   static const IconData numberSquareSeven = IconData(
     0xe372,
     fontFamily: 'PhosphorBold',
@@ -12007,7 +12007,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareSix` no estilo Bold.
   ///
-  /// ![number-square-six](https://api.iconify.design/ph/number-square-six-bold.svg?height=32&color=%23888888)
+  /// ![number-square-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-six.png)
   static const IconData numberSquareSix = IconData(
     0xe378,
     fontFamily: 'PhosphorBold',
@@ -12019,7 +12019,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareThree` no estilo Bold.
   ///
-  /// ![number-square-three](https://api.iconify.design/ph/number-square-three-bold.svg?height=32&color=%23888888)
+  /// ![number-square-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-three.png)
   static const IconData numberSquareThree = IconData(
     0xe37e,
     fontFamily: 'PhosphorBold',
@@ -12031,7 +12031,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareTwo` no estilo Bold.
   ///
-  /// ![number-square-two](https://api.iconify.design/ph/number-square-two-bold.svg?height=32&color=%23888888)
+  /// ![number-square-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-two.png)
   static const IconData numberSquareTwo = IconData(
     0xe384,
     fontFamily: 'PhosphorBold',
@@ -12043,7 +12043,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberSquareZero` no estilo Bold.
   ///
-  /// ![number-square-zero](https://api.iconify.design/ph/number-square-zero-bold.svg?height=32&color=%23888888)
+  /// ![number-square-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-square-zero.png)
   static const IconData numberSquareZero = IconData(
     0xe38a,
     fontFamily: 'PhosphorBold',
@@ -12055,7 +12055,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberThree` no estilo Bold.
   ///
-  /// ![number-three](https://api.iconify.design/ph/number-three-bold.svg?height=32&color=%23888888)
+  /// ![number-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-three.png)
   static const IconData numberThree = IconData(
     0xe37a,
     fontFamily: 'PhosphorBold',
@@ -12067,7 +12067,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberTwo` no estilo Bold.
   ///
-  /// ![number-two](https://api.iconify.design/ph/number-two-bold.svg?height=32&color=%23888888)
+  /// ![number-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-two.png)
   static const IconData numberTwo = IconData(
     0xe380,
     fontFamily: 'PhosphorBold',
@@ -12079,7 +12079,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numberZero` no estilo Bold.
   ///
-  /// ![number-zero](https://api.iconify.design/ph/number-zero-bold.svg?height=32&color=%23888888)
+  /// ![number-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/number-zero.png)
   static const IconData numberZero = IconData(
     0xe386,
     fontFamily: 'PhosphorBold',
@@ -12091,7 +12091,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `numpad` no estilo Bold.
   ///
-  /// ![numpad](https://api.iconify.design/ph/numpad-bold.svg?height=32&color=%23888888)
+  /// ![numpad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/numpad.png)
   static const IconData numpad = IconData(
     0xe3c8,
     fontFamily: 'PhosphorBold',
@@ -12103,7 +12103,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `nut` no estilo Bold.
   ///
-  /// ![nut](https://api.iconify.design/ph/nut-bold.svg?height=32&color=%23888888)
+  /// ![nut](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/nut.png)
   static const IconData nut = IconData(
     0xe38c,
     fontFamily: 'PhosphorBold',
@@ -12115,7 +12115,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `nyTimesLogo` no estilo Bold.
   ///
-  /// ![ny-times-logo](https://api.iconify.design/ph/ny-times-logo-bold.svg?height=32&color=%23888888)
+  /// ![ny-times-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ny-times-logo.png)
   static const IconData nyTimesLogo = IconData(
     0xe646,
     fontFamily: 'PhosphorBold',
@@ -12127,7 +12127,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `octagon` no estilo Bold.
   ///
-  /// ![octagon](https://api.iconify.design/ph/octagon-bold.svg?height=32&color=%23888888)
+  /// ![octagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/octagon.png)
   static const IconData octagon = IconData(
     0xe38e,
     fontFamily: 'PhosphorBold',
@@ -12139,7 +12139,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `officeChair` no estilo Bold.
   ///
-  /// ![office-chair](https://api.iconify.design/ph/office-chair-bold.svg?height=32&color=%23888888)
+  /// ![office-chair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/office-chair.png)
   static const IconData officeChair = IconData(
     0xea46,
     fontFamily: 'PhosphorBold',
@@ -12151,7 +12151,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `onigiri` no estilo Bold.
   ///
-  /// ![onigiri](https://api.iconify.design/ph/onigiri-bold.svg?height=32&color=%23888888)
+  /// ![onigiri](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/onigiri.png)
   static const IconData onigiri = IconData(
     0xee2c,
     fontFamily: 'PhosphorBold',
@@ -12163,7 +12163,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `openAiLogo` no estilo Bold.
   ///
-  /// ![open-ai-logo](https://api.iconify.design/ph/open-ai-logo-bold.svg?height=32&color=%23888888)
+  /// ![open-ai-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/open-ai-logo.png)
   static const IconData openAiLogo = IconData(
     0xe7d2,
     fontFamily: 'PhosphorBold',
@@ -12175,7 +12175,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `option` no estilo Bold.
   ///
-  /// ![option](https://api.iconify.design/ph/option-bold.svg?height=32&color=%23888888)
+  /// ![option](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/option.png)
   static const IconData option = IconData(
     0xe8a8,
     fontFamily: 'PhosphorBold',
@@ -12187,7 +12187,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `orange` no estilo Bold.
   ///
-  /// ![orange](https://api.iconify.design/ph/orange-bold.svg?height=32&color=%23888888)
+  /// ![orange](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/orange.png)
   static const IconData orange = IconData(
     0xee40,
     fontFamily: 'PhosphorBold',
@@ -12199,7 +12199,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `orangeSlice` no estilo Bold.
   ///
-  /// ![orange-slice](https://api.iconify.design/ph/orange-slice-bold.svg?height=32&color=%23888888)
+  /// ![orange-slice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/orange-slice.png)
   static const IconData orangeSlice = IconData(
     0xed36,
     fontFamily: 'PhosphorBold',
@@ -12211,7 +12211,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `oven` no estilo Bold.
   ///
-  /// ![oven](https://api.iconify.design/ph/oven-bold.svg?height=32&color=%23888888)
+  /// ![oven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/oven.png)
   static const IconData oven = IconData(
     0xed8c,
     fontFamily: 'PhosphorBold',
@@ -12223,7 +12223,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `package` no estilo Bold.
   ///
-  /// ![package](https://api.iconify.design/ph/package-bold.svg?height=32&color=%23888888)
+  /// ![package](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/package.png)
   static const IconData package = IconData(
     0xe390,
     fontFamily: 'PhosphorBold',
@@ -12235,7 +12235,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paintBrush` no estilo Bold.
   ///
-  /// ![paint-brush](https://api.iconify.design/ph/paint-brush-bold.svg?height=32&color=%23888888)
+  /// ![paint-brush](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paint-brush.png)
   static const IconData paintBrush = IconData(
     0xe6f0,
     fontFamily: 'PhosphorBold',
@@ -12247,7 +12247,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paintBrushBroad` no estilo Bold.
   ///
-  /// ![paint-brush-broad](https://api.iconify.design/ph/paint-brush-broad-bold.svg?height=32&color=%23888888)
+  /// ![paint-brush-broad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paint-brush-broad.png)
   static const IconData paintBrushBroad = IconData(
     0xe590,
     fontFamily: 'PhosphorBold',
@@ -12259,7 +12259,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paintBrushHousehold` no estilo Bold.
   ///
-  /// ![paint-brush-household](https://api.iconify.design/ph/paint-brush-household-bold.svg?height=32&color=%23888888)
+  /// ![paint-brush-household](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paint-brush-household.png)
   static const IconData paintBrushHousehold = IconData(
     0xe6f2,
     fontFamily: 'PhosphorBold',
@@ -12271,7 +12271,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paintBucket` no estilo Bold.
   ///
-  /// ![paint-bucket](https://api.iconify.design/ph/paint-bucket-bold.svg?height=32&color=%23888888)
+  /// ![paint-bucket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paint-bucket.png)
   static const IconData paintBucket = IconData(
     0xe392,
     fontFamily: 'PhosphorBold',
@@ -12283,7 +12283,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paintRoller` no estilo Bold.
   ///
-  /// ![paint-roller](https://api.iconify.design/ph/paint-roller-bold.svg?height=32&color=%23888888)
+  /// ![paint-roller](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paint-roller.png)
   static const IconData paintRoller = IconData(
     0xe6f4,
     fontFamily: 'PhosphorBold',
@@ -12295,7 +12295,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `palette` no estilo Bold.
   ///
-  /// ![palette](https://api.iconify.design/ph/palette-bold.svg?height=32&color=%23888888)
+  /// ![palette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/palette.png)
   static const IconData palette = IconData(
     0xe6c8,
     fontFamily: 'PhosphorBold',
@@ -12307,7 +12307,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `panorama` no estilo Bold.
   ///
-  /// ![panorama](https://api.iconify.design/ph/panorama-bold.svg?height=32&color=%23888888)
+  /// ![panorama](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/panorama.png)
   static const IconData panorama = IconData(
     0xeaa2,
     fontFamily: 'PhosphorBold',
@@ -12319,7 +12319,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pants` no estilo Bold.
   ///
-  /// ![pants](https://api.iconify.design/ph/pants-bold.svg?height=32&color=%23888888)
+  /// ![pants](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pants.png)
   static const IconData pants = IconData(
     0xec88,
     fontFamily: 'PhosphorBold',
@@ -12331,7 +12331,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paperPlane` no estilo Bold.
   ///
-  /// ![paper-plane](https://api.iconify.design/ph/paper-plane-bold.svg?height=32&color=%23888888)
+  /// ![paper-plane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paper-plane.png)
   static const IconData paperPlane = IconData(
     0xe394,
     fontFamily: 'PhosphorBold',
@@ -12343,7 +12343,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paperPlaneRight` no estilo Bold.
   ///
-  /// ![paper-plane-right](https://api.iconify.design/ph/paper-plane-right-bold.svg?height=32&color=%23888888)
+  /// ![paper-plane-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paper-plane-right.png)
   static const IconData paperPlaneRight = IconData(
     0xe396,
     fontFamily: 'PhosphorBold',
@@ -12355,7 +12355,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paperPlaneTilt` no estilo Bold.
   ///
-  /// ![paper-plane-tilt](https://api.iconify.design/ph/paper-plane-tilt-bold.svg?height=32&color=%23888888)
+  /// ![paper-plane-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paper-plane-tilt.png)
   static const IconData paperPlaneTilt = IconData(
     0xe398,
     fontFamily: 'PhosphorBold',
@@ -12367,7 +12367,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paperclip` no estilo Bold.
   ///
-  /// ![paperclip](https://api.iconify.design/ph/paperclip-bold.svg?height=32&color=%23888888)
+  /// ![paperclip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paperclip.png)
   static const IconData paperclip = IconData(
     0xe39a,
     fontFamily: 'PhosphorBold',
@@ -12379,7 +12379,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paperclipHorizontal` no estilo Bold.
   ///
-  /// ![paperclip-horizontal](https://api.iconify.design/ph/paperclip-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![paperclip-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paperclip-horizontal.png)
   static const IconData paperclipHorizontal = IconData(
     0xe592,
     fontFamily: 'PhosphorBold',
@@ -12391,7 +12391,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `parachute` no estilo Bold.
   ///
-  /// ![parachute](https://api.iconify.design/ph/parachute-bold.svg?height=32&color=%23888888)
+  /// ![parachute](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/parachute.png)
   static const IconData parachute = IconData(
     0xea7c,
     fontFamily: 'PhosphorBold',
@@ -12403,7 +12403,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paragraph` no estilo Bold.
   ///
-  /// ![paragraph](https://api.iconify.design/ph/paragraph-bold.svg?height=32&color=%23888888)
+  /// ![paragraph](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paragraph.png)
   static const IconData paragraph = IconData(
     0xe960,
     fontFamily: 'PhosphorBold',
@@ -12415,7 +12415,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `parallelogram` no estilo Bold.
   ///
-  /// ![parallelogram](https://api.iconify.design/ph/parallelogram-bold.svg?height=32&color=%23888888)
+  /// ![parallelogram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/parallelogram.png)
   static const IconData parallelogram = IconData(
     0xecc6,
     fontFamily: 'PhosphorBold',
@@ -12427,7 +12427,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `park` no estilo Bold.
   ///
-  /// ![park](https://api.iconify.design/ph/park-bold.svg?height=32&color=%23888888)
+  /// ![park](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/park.png)
   static const IconData park = IconData(
     0xecb2,
     fontFamily: 'PhosphorBold',
@@ -12439,7 +12439,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `password` no estilo Bold.
   ///
-  /// ![password](https://api.iconify.design/ph/password-bold.svg?height=32&color=%23888888)
+  /// ![password](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/password.png)
   static const IconData password = IconData(
     0xe752,
     fontFamily: 'PhosphorBold',
@@ -12451,7 +12451,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `path` no estilo Bold.
   ///
-  /// ![path](https://api.iconify.design/ph/path-bold.svg?height=32&color=%23888888)
+  /// ![path](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/path.png)
   static const IconData path = IconData(
     0xe39c,
     fontFamily: 'PhosphorBold',
@@ -12463,7 +12463,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `patreonLogo` no estilo Bold.
   ///
-  /// ![patreon-logo](https://api.iconify.design/ph/patreon-logo-bold.svg?height=32&color=%23888888)
+  /// ![patreon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/patreon-logo.png)
   static const IconData patreonLogo = IconData(
     0xe98a,
     fontFamily: 'PhosphorBold',
@@ -12475,7 +12475,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pause` no estilo Bold.
   ///
-  /// ![pause](https://api.iconify.design/ph/pause-bold.svg?height=32&color=%23888888)
+  /// ![pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pause.png)
   static const IconData pause = IconData(
     0xe39e,
     fontFamily: 'PhosphorBold',
@@ -12487,7 +12487,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pauseCircle` no estilo Bold.
   ///
-  /// ![pause-circle](https://api.iconify.design/ph/pause-circle-bold.svg?height=32&color=%23888888)
+  /// ![pause-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pause-circle.png)
   static const IconData pauseCircle = IconData(
     0xe3a0,
     fontFamily: 'PhosphorBold',
@@ -12499,7 +12499,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pawPrint` no estilo Bold.
   ///
-  /// ![paw-print](https://api.iconify.design/ph/paw-print-bold.svg?height=32&color=%23888888)
+  /// ![paw-print](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paw-print.png)
   static const IconData pawPrint = IconData(
     0xe648,
     fontFamily: 'PhosphorBold',
@@ -12511,7 +12511,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `paypalLogo` no estilo Bold.
   ///
-  /// ![paypal-logo](https://api.iconify.design/ph/paypal-logo-bold.svg?height=32&color=%23888888)
+  /// ![paypal-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/paypal-logo.png)
   static const IconData paypalLogo = IconData(
     0xe98c,
     fontFamily: 'PhosphorBold',
@@ -12523,7 +12523,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `peace` no estilo Bold.
   ///
-  /// ![peace](https://api.iconify.design/ph/peace-bold.svg?height=32&color=%23888888)
+  /// ![peace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/peace.png)
   static const IconData peace = IconData(
     0xe3a2,
     fontFamily: 'PhosphorBold',
@@ -12535,7 +12535,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pen` no estilo Bold.
   ///
-  /// ![pen](https://api.iconify.design/ph/pen-bold.svg?height=32&color=%23888888)
+  /// ![pen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pen.png)
   static const IconData pen = IconData(
     0xe3aa,
     fontFamily: 'PhosphorBold',
@@ -12547,7 +12547,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `penNib` no estilo Bold.
   ///
-  /// ![pen-nib](https://api.iconify.design/ph/pen-nib-bold.svg?height=32&color=%23888888)
+  /// ![pen-nib](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pen-nib.png)
   static const IconData penNib = IconData(
     0xe3ac,
     fontFamily: 'PhosphorBold',
@@ -12559,7 +12559,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `penNibStraight` no estilo Bold.
   ///
-  /// ![pen-nib-straight](https://api.iconify.design/ph/pen-nib-straight-bold.svg?height=32&color=%23888888)
+  /// ![pen-nib-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pen-nib-straight.png)
   static const IconData penNibStraight = IconData(
     0xe64a,
     fontFamily: 'PhosphorBold',
@@ -12571,7 +12571,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencil` no estilo Bold.
   ///
-  /// ![pencil](https://api.iconify.design/ph/pencil-bold.svg?height=32&color=%23888888)
+  /// ![pencil](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil.png)
   static const IconData pencil = IconData(
     0xe3ae,
     fontFamily: 'PhosphorBold',
@@ -12583,7 +12583,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencilCircle` no estilo Bold.
   ///
-  /// ![pencil-circle](https://api.iconify.design/ph/pencil-circle-bold.svg?height=32&color=%23888888)
+  /// ![pencil-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil-circle.png)
   static const IconData pencilCircle = IconData(
     0xe3b0,
     fontFamily: 'PhosphorBold',
@@ -12595,7 +12595,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencilLine` no estilo Bold.
   ///
-  /// ![pencil-line](https://api.iconify.design/ph/pencil-line-bold.svg?height=32&color=%23888888)
+  /// ![pencil-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil-line.png)
   static const IconData pencilLine = IconData(
     0xe3b2,
     fontFamily: 'PhosphorBold',
@@ -12607,7 +12607,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencilRuler` no estilo Bold.
   ///
-  /// ![pencil-ruler](https://api.iconify.design/ph/pencil-ruler-bold.svg?height=32&color=%23888888)
+  /// ![pencil-ruler](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil-ruler.png)
   static const IconData pencilRuler = IconData(
     0xe906,
     fontFamily: 'PhosphorBold',
@@ -12619,7 +12619,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencilSimple` no estilo Bold.
   ///
-  /// ![pencil-simple](https://api.iconify.design/ph/pencil-simple-bold.svg?height=32&color=%23888888)
+  /// ![pencil-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil-simple.png)
   static const IconData pencilSimple = IconData(
     0xe3b4,
     fontFamily: 'PhosphorBold',
@@ -12631,7 +12631,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencilSimpleLine` no estilo Bold.
   ///
-  /// ![pencil-simple-line](https://api.iconify.design/ph/pencil-simple-line-bold.svg?height=32&color=%23888888)
+  /// ![pencil-simple-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil-simple-line.png)
   static const IconData pencilSimpleLine = IconData(
     0xebc6,
     fontFamily: 'PhosphorBold',
@@ -12643,7 +12643,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencilSimpleSlash` no estilo Bold.
   ///
-  /// ![pencil-simple-slash](https://api.iconify.design/ph/pencil-simple-slash-bold.svg?height=32&color=%23888888)
+  /// ![pencil-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil-simple-slash.png)
   static const IconData pencilSimpleSlash = IconData(
     0xecf6,
     fontFamily: 'PhosphorBold',
@@ -12655,7 +12655,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pencilSlash` no estilo Bold.
   ///
-  /// ![pencil-slash](https://api.iconify.design/ph/pencil-slash-bold.svg?height=32&color=%23888888)
+  /// ![pencil-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pencil-slash.png)
   static const IconData pencilSlash = IconData(
     0xecf8,
     fontFamily: 'PhosphorBold',
@@ -12667,7 +12667,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pentagon` no estilo Bold.
   ///
-  /// ![pentagon](https://api.iconify.design/ph/pentagon-bold.svg?height=32&color=%23888888)
+  /// ![pentagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pentagon.png)
   static const IconData pentagon = IconData(
     0xec7e,
     fontFamily: 'PhosphorBold',
@@ -12679,7 +12679,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pentagram` no estilo Bold.
   ///
-  /// ![pentagram](https://api.iconify.design/ph/pentagram-bold.svg?height=32&color=%23888888)
+  /// ![pentagram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pentagram.png)
   static const IconData pentagram = IconData(
     0xec5c,
     fontFamily: 'PhosphorBold',
@@ -12691,7 +12691,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pepper` no estilo Bold.
   ///
-  /// ![pepper](https://api.iconify.design/ph/pepper-bold.svg?height=32&color=%23888888)
+  /// ![pepper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pepper.png)
   static const IconData pepper = IconData(
     0xe94a,
     fontFamily: 'PhosphorBold',
@@ -12703,7 +12703,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `percent` no estilo Bold.
   ///
-  /// ![percent](https://api.iconify.design/ph/percent-bold.svg?height=32&color=%23888888)
+  /// ![percent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/percent.png)
   static const IconData percent = IconData(
     0xe3b6,
     fontFamily: 'PhosphorBold',
@@ -12715,7 +12715,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `person` no estilo Bold.
   ///
-  /// ![person](https://api.iconify.design/ph/person-bold.svg?height=32&color=%23888888)
+  /// ![person](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person.png)
   static const IconData person = IconData(
     0xe3a8,
     fontFamily: 'PhosphorBold',
@@ -12727,7 +12727,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personArmsSpread` no estilo Bold.
   ///
-  /// ![person-arms-spread](https://api.iconify.design/ph/person-arms-spread-bold.svg?height=32&color=%23888888)
+  /// ![person-arms-spread](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-arms-spread.png)
   static const IconData personArmsSpread = IconData(
     0xecfe,
     fontFamily: 'PhosphorBold',
@@ -12739,7 +12739,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimple` no estilo Bold.
   ///
-  /// ![person-simple](https://api.iconify.design/ph/person-simple-bold.svg?height=32&color=%23888888)
+  /// ![person-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple.png)
   static const IconData personSimple = IconData(
     0xe72e,
     fontFamily: 'PhosphorBold',
@@ -12751,7 +12751,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleBike` no estilo Bold.
   ///
-  /// ![person-simple-bike](https://api.iconify.design/ph/person-simple-bike-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-bike](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-bike.png)
   static const IconData personSimpleBike = IconData(
     0xe734,
     fontFamily: 'PhosphorBold',
@@ -12763,7 +12763,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleCircle` no estilo Bold.
   ///
-  /// ![person-simple-circle](https://api.iconify.design/ph/person-simple-circle-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-circle.png)
   static const IconData personSimpleCircle = IconData(
     0xee58,
     fontFamily: 'PhosphorBold',
@@ -12775,7 +12775,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleHike` no estilo Bold.
   ///
-  /// ![person-simple-hike](https://api.iconify.design/ph/person-simple-hike-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-hike](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-hike.png)
   static const IconData personSimpleHike = IconData(
     0xed54,
     fontFamily: 'PhosphorBold',
@@ -12787,7 +12787,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleRun` no estilo Bold.
   ///
-  /// ![person-simple-run](https://api.iconify.design/ph/person-simple-run-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-run](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-run.png)
   static const IconData personSimpleRun = IconData(
     0xe730,
     fontFamily: 'PhosphorBold',
@@ -12799,7 +12799,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleSki` no estilo Bold.
   ///
-  /// ![person-simple-ski](https://api.iconify.design/ph/person-simple-ski-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-ski](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-ski.png)
   static const IconData personSimpleSki = IconData(
     0xe71c,
     fontFamily: 'PhosphorBold',
@@ -12811,7 +12811,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleSnowboard` no estilo Bold.
   ///
-  /// ![person-simple-snowboard](https://api.iconify.design/ph/person-simple-snowboard-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-snowboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-snowboard.png)
   static const IconData personSimpleSnowboard = IconData(
     0xe71e,
     fontFamily: 'PhosphorBold',
@@ -12823,7 +12823,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleSwim` no estilo Bold.
   ///
-  /// ![person-simple-swim](https://api.iconify.design/ph/person-simple-swim-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-swim](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-swim.png)
   static const IconData personSimpleSwim = IconData(
     0xe736,
     fontFamily: 'PhosphorBold',
@@ -12835,7 +12835,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleTaiChi` no estilo Bold.
   ///
-  /// ![person-simple-tai-chi](https://api.iconify.design/ph/person-simple-tai-chi-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-tai-chi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-tai-chi.png)
   static const IconData personSimpleTaiChi = IconData(
     0xed5c,
     fontFamily: 'PhosphorBold',
@@ -12847,7 +12847,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleThrow` no estilo Bold.
   ///
-  /// ![person-simple-throw](https://api.iconify.design/ph/person-simple-throw-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-throw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-throw.png)
   static const IconData personSimpleThrow = IconData(
     0xe732,
     fontFamily: 'PhosphorBold',
@@ -12859,7 +12859,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `personSimpleWalk` no estilo Bold.
   ///
-  /// ![person-simple-walk](https://api.iconify.design/ph/person-simple-walk-bold.svg?height=32&color=%23888888)
+  /// ![person-simple-walk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/person-simple-walk.png)
   static const IconData personSimpleWalk = IconData(
     0xe73a,
     fontFamily: 'PhosphorBold',
@@ -12871,7 +12871,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `perspective` no estilo Bold.
   ///
-  /// ![perspective](https://api.iconify.design/ph/perspective-bold.svg?height=32&color=%23888888)
+  /// ![perspective](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/perspective.png)
   static const IconData perspective = IconData(
     0xebe6,
     fontFamily: 'PhosphorBold',
@@ -12883,7 +12883,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phone` no estilo Bold.
   ///
-  /// ![phone](https://api.iconify.design/ph/phone-bold.svg?height=32&color=%23888888)
+  /// ![phone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone.png)
   static const IconData phone = IconData(
     0xe3b8,
     fontFamily: 'PhosphorBold',
@@ -12895,7 +12895,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneCall` no estilo Bold.
   ///
-  /// ![phone-call](https://api.iconify.design/ph/phone-call-bold.svg?height=32&color=%23888888)
+  /// ![phone-call](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-call.png)
   static const IconData phoneCall = IconData(
     0xe3ba,
     fontFamily: 'PhosphorBold',
@@ -12907,7 +12907,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneDisconnect` no estilo Bold.
   ///
-  /// ![phone-disconnect](https://api.iconify.design/ph/phone-disconnect-bold.svg?height=32&color=%23888888)
+  /// ![phone-disconnect](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-disconnect.png)
   static const IconData phoneDisconnect = IconData(
     0xe3bc,
     fontFamily: 'PhosphorBold',
@@ -12919,7 +12919,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneIncoming` no estilo Bold.
   ///
-  /// ![phone-incoming](https://api.iconify.design/ph/phone-incoming-bold.svg?height=32&color=%23888888)
+  /// ![phone-incoming](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-incoming.png)
   static const IconData phoneIncoming = IconData(
     0xe3be,
     fontFamily: 'PhosphorBold',
@@ -12931,7 +12931,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneList` no estilo Bold.
   ///
-  /// ![phone-list](https://api.iconify.design/ph/phone-list-bold.svg?height=32&color=%23888888)
+  /// ![phone-list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-list.png)
   static const IconData phoneList = IconData(
     0xe3cc,
     fontFamily: 'PhosphorBold',
@@ -12943,7 +12943,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneOutgoing` no estilo Bold.
   ///
-  /// ![phone-outgoing](https://api.iconify.design/ph/phone-outgoing-bold.svg?height=32&color=%23888888)
+  /// ![phone-outgoing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-outgoing.png)
   static const IconData phoneOutgoing = IconData(
     0xe3c0,
     fontFamily: 'PhosphorBold',
@@ -12955,7 +12955,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phonePause` no estilo Bold.
   ///
-  /// ![phone-pause](https://api.iconify.design/ph/phone-pause-bold.svg?height=32&color=%23888888)
+  /// ![phone-pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-pause.png)
   static const IconData phonePause = IconData(
     0xe3ca,
     fontFamily: 'PhosphorBold',
@@ -12967,7 +12967,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phonePlus` no estilo Bold.
   ///
-  /// ![phone-plus](https://api.iconify.design/ph/phone-plus-bold.svg?height=32&color=%23888888)
+  /// ![phone-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-plus.png)
   static const IconData phonePlus = IconData(
     0xec56,
     fontFamily: 'PhosphorBold',
@@ -12979,7 +12979,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneSlash` no estilo Bold.
   ///
-  /// ![phone-slash](https://api.iconify.design/ph/phone-slash-bold.svg?height=32&color=%23888888)
+  /// ![phone-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-slash.png)
   static const IconData phoneSlash = IconData(
     0xe3c2,
     fontFamily: 'PhosphorBold',
@@ -12991,7 +12991,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneTransfer` no estilo Bold.
   ///
-  /// ![phone-transfer](https://api.iconify.design/ph/phone-transfer-bold.svg?height=32&color=%23888888)
+  /// ![phone-transfer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-transfer.png)
   static const IconData phoneTransfer = IconData(
     0xe3c6,
     fontFamily: 'PhosphorBold',
@@ -13003,7 +13003,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phoneX` no estilo Bold.
   ///
-  /// ![phone-x](https://api.iconify.design/ph/phone-x-bold.svg?height=32&color=%23888888)
+  /// ![phone-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phone-x.png)
   static const IconData phoneX = IconData(
     0xe3c4,
     fontFamily: 'PhosphorBold',
@@ -13015,7 +13015,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `phosphorLogo` no estilo Bold.
   ///
-  /// ![phosphor-logo](https://api.iconify.design/ph/phosphor-logo-bold.svg?height=32&color=%23888888)
+  /// ![phosphor-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/phosphor-logo.png)
   static const IconData phosphorLogo = IconData(
     0xe3ce,
     fontFamily: 'PhosphorBold',
@@ -13027,7 +13027,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pi` no estilo Bold.
   ///
-  /// ![pi](https://api.iconify.design/ph/pi-bold.svg?height=32&color=%23888888)
+  /// ![pi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pi.png)
   static const IconData pi = IconData(
     0xec80,
     fontFamily: 'PhosphorBold',
@@ -13039,7 +13039,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pianoKeys` no estilo Bold.
   ///
-  /// ![piano-keys](https://api.iconify.design/ph/piano-keys-bold.svg?height=32&color=%23888888)
+  /// ![piano-keys](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/piano-keys.png)
   static const IconData pianoKeys = IconData(
     0xe9c8,
     fontFamily: 'PhosphorBold',
@@ -13051,7 +13051,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `picnicTable` no estilo Bold.
   ///
-  /// ![picnic-table](https://api.iconify.design/ph/picnic-table-bold.svg?height=32&color=%23888888)
+  /// ![picnic-table](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/picnic-table.png)
   static const IconData picnicTable = IconData(
     0xee26,
     fontFamily: 'PhosphorBold',
@@ -13063,7 +13063,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pictureInPicture` no estilo Bold.
   ///
-  /// ![picture-in-picture](https://api.iconify.design/ph/picture-in-picture-bold.svg?height=32&color=%23888888)
+  /// ![picture-in-picture](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/picture-in-picture.png)
   static const IconData pictureInPicture = IconData(
     0xe64c,
     fontFamily: 'PhosphorBold',
@@ -13075,7 +13075,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `piggyBank` no estilo Bold.
   ///
-  /// ![piggy-bank](https://api.iconify.design/ph/piggy-bank-bold.svg?height=32&color=%23888888)
+  /// ![piggy-bank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/piggy-bank.png)
   static const IconData piggyBank = IconData(
     0xea04,
     fontFamily: 'PhosphorBold',
@@ -13087,7 +13087,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pill` no estilo Bold.
   ///
-  /// ![pill](https://api.iconify.design/ph/pill-bold.svg?height=32&color=%23888888)
+  /// ![pill](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pill.png)
   static const IconData pill = IconData(
     0xe700,
     fontFamily: 'PhosphorBold',
@@ -13099,7 +13099,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pingPong` no estilo Bold.
   ///
-  /// ![ping-pong](https://api.iconify.design/ph/ping-pong-bold.svg?height=32&color=%23888888)
+  /// ![ping-pong](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ping-pong.png)
   static const IconData pingPong = IconData(
     0xea42,
     fontFamily: 'PhosphorBold',
@@ -13111,7 +13111,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pintGlass` no estilo Bold.
   ///
-  /// ![pint-glass](https://api.iconify.design/ph/pint-glass-bold.svg?height=32&color=%23888888)
+  /// ![pint-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pint-glass.png)
   static const IconData pintGlass = IconData(
     0xedd0,
     fontFamily: 'PhosphorBold',
@@ -13123,7 +13123,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pinterestLogo` no estilo Bold.
   ///
-  /// ![pinterest-logo](https://api.iconify.design/ph/pinterest-logo-bold.svg?height=32&color=%23888888)
+  /// ![pinterest-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pinterest-logo.png)
   static const IconData pinterestLogo = IconData(
     0xe64e,
     fontFamily: 'PhosphorBold',
@@ -13135,7 +13135,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pinwheel` no estilo Bold.
   ///
-  /// ![pinwheel](https://api.iconify.design/ph/pinwheel-bold.svg?height=32&color=%23888888)
+  /// ![pinwheel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pinwheel.png)
   static const IconData pinwheel = IconData(
     0xeb9c,
     fontFamily: 'PhosphorBold',
@@ -13147,7 +13147,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pipe` no estilo Bold.
   ///
-  /// ![pipe](https://api.iconify.design/ph/pipe-bold.svg?height=32&color=%23888888)
+  /// ![pipe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pipe.png)
   static const IconData pipe = IconData(
     0xed86,
     fontFamily: 'PhosphorBold',
@@ -13159,7 +13159,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pipeWrench` no estilo Bold.
   ///
-  /// ![pipe-wrench](https://api.iconify.design/ph/pipe-wrench-bold.svg?height=32&color=%23888888)
+  /// ![pipe-wrench](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pipe-wrench.png)
   static const IconData pipeWrench = IconData(
     0xed88,
     fontFamily: 'PhosphorBold',
@@ -13171,7 +13171,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pixLogo` no estilo Bold.
   ///
-  /// ![pix-logo](https://api.iconify.design/ph/pix-logo-bold.svg?height=32&color=%23888888)
+  /// ![pix-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pix-logo.png)
   static const IconData pixLogo = IconData(
     0xecc2,
     fontFamily: 'PhosphorBold',
@@ -13183,7 +13183,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pizza` no estilo Bold.
   ///
-  /// ![pizza](https://api.iconify.design/ph/pizza-bold.svg?height=32&color=%23888888)
+  /// ![pizza](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pizza.png)
   static const IconData pizza = IconData(
     0xe796,
     fontFamily: 'PhosphorBold',
@@ -13195,7 +13195,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `placeholder` no estilo Bold.
   ///
-  /// ![placeholder](https://api.iconify.design/ph/placeholder-bold.svg?height=32&color=%23888888)
+  /// ![placeholder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/placeholder.png)
   static const IconData placeholder = IconData(
     0xe650,
     fontFamily: 'PhosphorBold',
@@ -13207,7 +13207,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `planet` no estilo Bold.
   ///
-  /// ![planet](https://api.iconify.design/ph/planet-bold.svg?height=32&color=%23888888)
+  /// ![planet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/planet.png)
   static const IconData planet = IconData(
     0xe652,
     fontFamily: 'PhosphorBold',
@@ -13219,7 +13219,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plant` no estilo Bold.
   ///
-  /// ![plant](https://api.iconify.design/ph/plant-bold.svg?height=32&color=%23888888)
+  /// ![plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plant.png)
   static const IconData plant = IconData(
     0xebae,
     fontFamily: 'PhosphorBold',
@@ -13231,7 +13231,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `play` no estilo Bold.
   ///
-  /// ![play](https://api.iconify.design/ph/play-bold.svg?height=32&color=%23888888)
+  /// ![play](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/play.png)
   static const IconData play = IconData(
     0xe3d0,
     fontFamily: 'PhosphorBold',
@@ -13243,7 +13243,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `playCircle` no estilo Bold.
   ///
-  /// ![play-circle](https://api.iconify.design/ph/play-circle-bold.svg?height=32&color=%23888888)
+  /// ![play-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/play-circle.png)
   static const IconData playCircle = IconData(
     0xe3d2,
     fontFamily: 'PhosphorBold',
@@ -13255,7 +13255,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `playPause` no estilo Bold.
   ///
-  /// ![play-pause](https://api.iconify.design/ph/play-pause-bold.svg?height=32&color=%23888888)
+  /// ![play-pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/play-pause.png)
   static const IconData playPause = IconData(
     0xe8be,
     fontFamily: 'PhosphorBold',
@@ -13267,7 +13267,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `playlist` no estilo Bold.
   ///
-  /// ![playlist](https://api.iconify.design/ph/playlist-bold.svg?height=32&color=%23888888)
+  /// ![playlist](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/playlist.png)
   static const IconData playlist = IconData(
     0xe6aa,
     fontFamily: 'PhosphorBold',
@@ -13279,7 +13279,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plug` no estilo Bold.
   ///
-  /// ![plug](https://api.iconify.design/ph/plug-bold.svg?height=32&color=%23888888)
+  /// ![plug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plug.png)
   static const IconData plug = IconData(
     0xe946,
     fontFamily: 'PhosphorBold',
@@ -13291,7 +13291,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plugCharging` no estilo Bold.
   ///
-  /// ![plug-charging](https://api.iconify.design/ph/plug-charging-bold.svg?height=32&color=%23888888)
+  /// ![plug-charging](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plug-charging.png)
   static const IconData plugCharging = IconData(
     0xeb5c,
     fontFamily: 'PhosphorBold',
@@ -13303,7 +13303,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plugs` no estilo Bold.
   ///
-  /// ![plugs](https://api.iconify.design/ph/plugs-bold.svg?height=32&color=%23888888)
+  /// ![plugs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plugs.png)
   static const IconData plugs = IconData(
     0xeb56,
     fontFamily: 'PhosphorBold',
@@ -13315,7 +13315,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plugsConnected` no estilo Bold.
   ///
-  /// ![plugs-connected](https://api.iconify.design/ph/plugs-connected-bold.svg?height=32&color=%23888888)
+  /// ![plugs-connected](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plugs-connected.png)
   static const IconData plugsConnected = IconData(
     0xeb5a,
     fontFamily: 'PhosphorBold',
@@ -13327,7 +13327,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plus` no estilo Bold.
   ///
-  /// ![plus](https://api.iconify.design/ph/plus-bold.svg?height=32&color=%23888888)
+  /// ![plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plus.png)
   static const IconData plus = IconData(
     0xe3d4,
     fontFamily: 'PhosphorBold',
@@ -13339,7 +13339,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plusCircle` no estilo Bold.
   ///
-  /// ![plus-circle](https://api.iconify.design/ph/plus-circle-bold.svg?height=32&color=%23888888)
+  /// ![plus-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plus-circle.png)
   static const IconData plusCircle = IconData(
     0xe3d6,
     fontFamily: 'PhosphorBold',
@@ -13351,7 +13351,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plusMinus` no estilo Bold.
   ///
-  /// ![plus-minus](https://api.iconify.design/ph/plus-minus-bold.svg?height=32&color=%23888888)
+  /// ![plus-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plus-minus.png)
   static const IconData plusMinus = IconData(
     0xe3d8,
     fontFamily: 'PhosphorBold',
@@ -13363,7 +13363,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `plusSquare` no estilo Bold.
   ///
-  /// ![plus-square](https://api.iconify.design/ph/plus-square-bold.svg?height=32&color=%23888888)
+  /// ![plus-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/plus-square.png)
   static const IconData plusSquare = IconData(
     0xed4a,
     fontFamily: 'PhosphorBold',
@@ -13375,7 +13375,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pokerChip` no estilo Bold.
   ///
-  /// ![poker-chip](https://api.iconify.design/ph/poker-chip-bold.svg?height=32&color=%23888888)
+  /// ![poker-chip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/poker-chip.png)
   static const IconData pokerChip = IconData(
     0xe594,
     fontFamily: 'PhosphorBold',
@@ -13387,7 +13387,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `policeCar` no estilo Bold.
   ///
-  /// ![police-car](https://api.iconify.design/ph/police-car-bold.svg?height=32&color=%23888888)
+  /// ![police-car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/police-car.png)
   static const IconData policeCar = IconData(
     0xec4a,
     fontFamily: 'PhosphorBold',
@@ -13399,7 +13399,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `polygon` no estilo Bold.
   ///
-  /// ![polygon](https://api.iconify.design/ph/polygon-bold.svg?height=32&color=%23888888)
+  /// ![polygon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/polygon.png)
   static const IconData polygon = IconData(
     0xe6d0,
     fontFamily: 'PhosphorBold',
@@ -13411,7 +13411,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `popcorn` no estilo Bold.
   ///
-  /// ![popcorn](https://api.iconify.design/ph/popcorn-bold.svg?height=32&color=%23888888)
+  /// ![popcorn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/popcorn.png)
   static const IconData popcorn = IconData(
     0xeb4e,
     fontFamily: 'PhosphorBold',
@@ -13423,7 +13423,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `popsicle` no estilo Bold.
   ///
-  /// ![popsicle](https://api.iconify.design/ph/popsicle-bold.svg?height=32&color=%23888888)
+  /// ![popsicle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/popsicle.png)
   static const IconData popsicle = IconData(
     0xebbe,
     fontFamily: 'PhosphorBold',
@@ -13435,7 +13435,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pottedPlant` no estilo Bold.
   ///
-  /// ![potted-plant](https://api.iconify.design/ph/potted-plant-bold.svg?height=32&color=%23888888)
+  /// ![potted-plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/potted-plant.png)
   static const IconData pottedPlant = IconData(
     0xec22,
     fontFamily: 'PhosphorBold',
@@ -13447,7 +13447,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `power` no estilo Bold.
   ///
-  /// ![power](https://api.iconify.design/ph/power-bold.svg?height=32&color=%23888888)
+  /// ![power](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/power.png)
   static const IconData power = IconData(
     0xe3da,
     fontFamily: 'PhosphorBold',
@@ -13459,7 +13459,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `prescription` no estilo Bold.
   ///
-  /// ![prescription](https://api.iconify.design/ph/prescription-bold.svg?height=32&color=%23888888)
+  /// ![prescription](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/prescription.png)
   static const IconData prescription = IconData(
     0xe7a2,
     fontFamily: 'PhosphorBold',
@@ -13471,7 +13471,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `presentation` no estilo Bold.
   ///
-  /// ![presentation](https://api.iconify.design/ph/presentation-bold.svg?height=32&color=%23888888)
+  /// ![presentation](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/presentation.png)
   static const IconData presentation = IconData(
     0xe654,
     fontFamily: 'PhosphorBold',
@@ -13483,7 +13483,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `presentationChart` no estilo Bold.
   ///
-  /// ![presentation-chart](https://api.iconify.design/ph/presentation-chart-bold.svg?height=32&color=%23888888)
+  /// ![presentation-chart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/presentation-chart.png)
   static const IconData presentationChart = IconData(
     0xe656,
     fontFamily: 'PhosphorBold',
@@ -13495,7 +13495,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `printer` no estilo Bold.
   ///
-  /// ![printer](https://api.iconify.design/ph/printer-bold.svg?height=32&color=%23888888)
+  /// ![printer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/printer.png)
   static const IconData printer = IconData(
     0xe3dc,
     fontFamily: 'PhosphorBold',
@@ -13507,7 +13507,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `prohibit` no estilo Bold.
   ///
-  /// ![prohibit](https://api.iconify.design/ph/prohibit-bold.svg?height=32&color=%23888888)
+  /// ![prohibit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/prohibit.png)
   static const IconData prohibit = IconData(
     0xe3de,
     fontFamily: 'PhosphorBold',
@@ -13519,7 +13519,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `prohibitInset` no estilo Bold.
   ///
-  /// ![prohibit-inset](https://api.iconify.design/ph/prohibit-inset-bold.svg?height=32&color=%23888888)
+  /// ![prohibit-inset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/prohibit-inset.png)
   static const IconData prohibitInset = IconData(
     0xe3e0,
     fontFamily: 'PhosphorBold',
@@ -13531,7 +13531,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `projectorScreen` no estilo Bold.
   ///
-  /// ![projector-screen](https://api.iconify.design/ph/projector-screen-bold.svg?height=32&color=%23888888)
+  /// ![projector-screen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/projector-screen.png)
   static const IconData projectorScreen = IconData(
     0xe658,
     fontFamily: 'PhosphorBold',
@@ -13543,7 +13543,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `projectorScreenChart` no estilo Bold.
   ///
-  /// ![projector-screen-chart](https://api.iconify.design/ph/projector-screen-chart-bold.svg?height=32&color=%23888888)
+  /// ![projector-screen-chart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/projector-screen-chart.png)
   static const IconData projectorScreenChart = IconData(
     0xe65a,
     fontFamily: 'PhosphorBold',
@@ -13555,7 +13555,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pulse` no estilo Bold.
   ///
-  /// ![pulse](https://api.iconify.design/ph/pulse-bold.svg?height=32&color=%23888888)
+  /// ![pulse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/pulse.png)
   static const IconData pulse = IconData(
     0xe000,
     fontFamily: 'PhosphorBold',
@@ -13567,7 +13567,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pushPin` no estilo Bold.
   ///
-  /// ![push-pin](https://api.iconify.design/ph/push-pin-bold.svg?height=32&color=%23888888)
+  /// ![push-pin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/push-pin.png)
   static const IconData pushPin = IconData(
     0xe3e2,
     fontFamily: 'PhosphorBold',
@@ -13579,7 +13579,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pushPinSimple` no estilo Bold.
   ///
-  /// ![push-pin-simple](https://api.iconify.design/ph/push-pin-simple-bold.svg?height=32&color=%23888888)
+  /// ![push-pin-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/push-pin-simple.png)
   static const IconData pushPinSimple = IconData(
     0xe65c,
     fontFamily: 'PhosphorBold',
@@ -13591,7 +13591,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pushPinSimpleSlash` no estilo Bold.
   ///
-  /// ![push-pin-simple-slash](https://api.iconify.design/ph/push-pin-simple-slash-bold.svg?height=32&color=%23888888)
+  /// ![push-pin-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/push-pin-simple-slash.png)
   static const IconData pushPinSimpleSlash = IconData(
     0xe65e,
     fontFamily: 'PhosphorBold',
@@ -13603,7 +13603,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `pushPinSlash` no estilo Bold.
   ///
-  /// ![push-pin-slash](https://api.iconify.design/ph/push-pin-slash-bold.svg?height=32&color=%23888888)
+  /// ![push-pin-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/push-pin-slash.png)
   static const IconData pushPinSlash = IconData(
     0xe3e4,
     fontFamily: 'PhosphorBold',
@@ -13615,7 +13615,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `puzzlePiece` no estilo Bold.
   ///
-  /// ![puzzle-piece](https://api.iconify.design/ph/puzzle-piece-bold.svg?height=32&color=%23888888)
+  /// ![puzzle-piece](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/puzzle-piece.png)
   static const IconData puzzlePiece = IconData(
     0xe596,
     fontFamily: 'PhosphorBold',
@@ -13627,7 +13627,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `qrCode` no estilo Bold.
   ///
-  /// ![qr-code](https://api.iconify.design/ph/qr-code-bold.svg?height=32&color=%23888888)
+  /// ![qr-code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/qr-code.png)
   static const IconData qrCode = IconData(
     0xe3e6,
     fontFamily: 'PhosphorBold',
@@ -13639,7 +13639,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `question` no estilo Bold.
   ///
-  /// ![question](https://api.iconify.design/ph/question-bold.svg?height=32&color=%23888888)
+  /// ![question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/question.png)
   static const IconData question = IconData(
     0xe3e8,
     fontFamily: 'PhosphorBold',
@@ -13651,7 +13651,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `questionMark` no estilo Bold.
   ///
-  /// ![question-mark](https://api.iconify.design/ph/question-mark-bold.svg?height=32&color=%23888888)
+  /// ![question-mark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/question-mark.png)
   static const IconData questionMark = IconData(
     0xe3e9,
     fontFamily: 'PhosphorBold',
@@ -13663,7 +13663,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `queue` no estilo Bold.
   ///
-  /// ![queue](https://api.iconify.design/ph/queue-bold.svg?height=32&color=%23888888)
+  /// ![queue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/queue.png)
   static const IconData queue = IconData(
     0xe6ac,
     fontFamily: 'PhosphorBold',
@@ -13675,7 +13675,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `quotes` no estilo Bold.
   ///
-  /// ![quotes](https://api.iconify.design/ph/quotes-bold.svg?height=32&color=%23888888)
+  /// ![quotes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/quotes.png)
   static const IconData quotes = IconData(
     0xe660,
     fontFamily: 'PhosphorBold',
@@ -13687,7 +13687,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rabbit` no estilo Bold.
   ///
-  /// ![rabbit](https://api.iconify.design/ph/rabbit-bold.svg?height=32&color=%23888888)
+  /// ![rabbit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rabbit.png)
   static const IconData rabbit = IconData(
     0xeac2,
     fontFamily: 'PhosphorBold',
@@ -13699,7 +13699,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `racquet` no estilo Bold.
   ///
-  /// ![racquet](https://api.iconify.design/ph/racquet-bold.svg?height=32&color=%23888888)
+  /// ![racquet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/racquet.png)
   static const IconData racquet = IconData(
     0xee02,
     fontFamily: 'PhosphorBold',
@@ -13711,7 +13711,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `radical` no estilo Bold.
   ///
-  /// ![radical](https://api.iconify.design/ph/radical-bold.svg?height=32&color=%23888888)
+  /// ![radical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/radical.png)
   static const IconData radical = IconData(
     0xe3ea,
     fontFamily: 'PhosphorBold',
@@ -13723,7 +13723,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `radio` no estilo Bold.
   ///
-  /// ![radio](https://api.iconify.design/ph/radio-bold.svg?height=32&color=%23888888)
+  /// ![radio](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/radio.png)
   static const IconData radio = IconData(
     0xe77e,
     fontFamily: 'PhosphorBold',
@@ -13735,7 +13735,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `radioButton` no estilo Bold.
   ///
-  /// ![radio-button](https://api.iconify.design/ph/radio-button-bold.svg?height=32&color=%23888888)
+  /// ![radio-button](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/radio-button.png)
   static const IconData radioButton = IconData(
     0xeb08,
     fontFamily: 'PhosphorBold',
@@ -13747,7 +13747,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `radioactive` no estilo Bold.
   ///
-  /// ![radioactive](https://api.iconify.design/ph/radioactive-bold.svg?height=32&color=%23888888)
+  /// ![radioactive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/radioactive.png)
   static const IconData radioactive = IconData(
     0xe9dc,
     fontFamily: 'PhosphorBold',
@@ -13759,7 +13759,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rainbow` no estilo Bold.
   ///
-  /// ![rainbow](https://api.iconify.design/ph/rainbow-bold.svg?height=32&color=%23888888)
+  /// ![rainbow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rainbow.png)
   static const IconData rainbow = IconData(
     0xe598,
     fontFamily: 'PhosphorBold',
@@ -13771,7 +13771,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rainbowCloud` no estilo Bold.
   ///
-  /// ![rainbow-cloud](https://api.iconify.design/ph/rainbow-cloud-bold.svg?height=32&color=%23888888)
+  /// ![rainbow-cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rainbow-cloud.png)
   static const IconData rainbowCloud = IconData(
     0xe59a,
     fontFamily: 'PhosphorBold',
@@ -13783,7 +13783,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ranking` no estilo Bold.
   ///
-  /// ![ranking](https://api.iconify.design/ph/ranking-bold.svg?height=32&color=%23888888)
+  /// ![ranking](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ranking.png)
   static const IconData ranking = IconData(
     0xed62,
     fontFamily: 'PhosphorBold',
@@ -13795,7 +13795,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `readCvLogo` no estilo Bold.
   ///
-  /// ![read-cv-logo](https://api.iconify.design/ph/read-cv-logo-bold.svg?height=32&color=%23888888)
+  /// ![read-cv-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/read-cv-logo.png)
   static const IconData readCvLogo = IconData(
     0xed0c,
     fontFamily: 'PhosphorBold',
@@ -13807,7 +13807,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `receipt` no estilo Bold.
   ///
-  /// ![receipt](https://api.iconify.design/ph/receipt-bold.svg?height=32&color=%23888888)
+  /// ![receipt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/receipt.png)
   static const IconData receipt = IconData(
     0xe3ec,
     fontFamily: 'PhosphorBold',
@@ -13819,7 +13819,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `receiptX` no estilo Bold.
   ///
-  /// ![receipt-x](https://api.iconify.design/ph/receipt-x-bold.svg?height=32&color=%23888888)
+  /// ![receipt-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/receipt-x.png)
   static const IconData receiptX = IconData(
     0xed40,
     fontFamily: 'PhosphorBold',
@@ -13831,7 +13831,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `record` no estilo Bold.
   ///
-  /// ![record](https://api.iconify.design/ph/record-bold.svg?height=32&color=%23888888)
+  /// ![record](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/record.png)
   static const IconData record = IconData(
     0xe3ee,
     fontFamily: 'PhosphorBold',
@@ -13843,7 +13843,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rectangle` no estilo Bold.
   ///
-  /// ![rectangle](https://api.iconify.design/ph/rectangle-bold.svg?height=32&color=%23888888)
+  /// ![rectangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rectangle.png)
   static const IconData rectangle = IconData(
     0xe3f0,
     fontFamily: 'PhosphorBold',
@@ -13855,7 +13855,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rectangleDashed` no estilo Bold.
   ///
-  /// ![rectangle-dashed](https://api.iconify.design/ph/rectangle-dashed-bold.svg?height=32&color=%23888888)
+  /// ![rectangle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rectangle-dashed.png)
   static const IconData rectangleDashed = IconData(
     0xe3f2,
     fontFamily: 'PhosphorBold',
@@ -13867,7 +13867,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `recycle` no estilo Bold.
   ///
-  /// ![recycle](https://api.iconify.design/ph/recycle-bold.svg?height=32&color=%23888888)
+  /// ![recycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/recycle.png)
   static const IconData recycle = IconData(
     0xe75a,
     fontFamily: 'PhosphorBold',
@@ -13879,7 +13879,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `redditLogo` no estilo Bold.
   ///
-  /// ![reddit-logo](https://api.iconify.design/ph/reddit-logo-bold.svg?height=32&color=%23888888)
+  /// ![reddit-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/reddit-logo.png)
   static const IconData redditLogo = IconData(
     0xe59c,
     fontFamily: 'PhosphorBold',
@@ -13891,7 +13891,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `repeat` no estilo Bold.
   ///
-  /// ![repeat](https://api.iconify.design/ph/repeat-bold.svg?height=32&color=%23888888)
+  /// ![repeat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/repeat.png)
   static const IconData repeat = IconData(
     0xe3f6,
     fontFamily: 'PhosphorBold',
@@ -13903,7 +13903,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `repeatOnce` no estilo Bold.
   ///
-  /// ![repeat-once](https://api.iconify.design/ph/repeat-once-bold.svg?height=32&color=%23888888)
+  /// ![repeat-once](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/repeat-once.png)
   static const IconData repeatOnce = IconData(
     0xe3f8,
     fontFamily: 'PhosphorBold',
@@ -13915,7 +13915,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `replitLogo` no estilo Bold.
   ///
-  /// ![replit-logo](https://api.iconify.design/ph/replit-logo-bold.svg?height=32&color=%23888888)
+  /// ![replit-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/replit-logo.png)
   static const IconData replitLogo = IconData(
     0xeb8a,
     fontFamily: 'PhosphorBold',
@@ -13927,7 +13927,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `resize` no estilo Bold.
   ///
-  /// ![resize](https://api.iconify.design/ph/resize-bold.svg?height=32&color=%23888888)
+  /// ![resize](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/resize.png)
   static const IconData resize = IconData(
     0xed6e,
     fontFamily: 'PhosphorBold',
@@ -13939,7 +13939,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rewind` no estilo Bold.
   ///
-  /// ![rewind](https://api.iconify.design/ph/rewind-bold.svg?height=32&color=%23888888)
+  /// ![rewind](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rewind.png)
   static const IconData rewind = IconData(
     0xe6a8,
     fontFamily: 'PhosphorBold',
@@ -13951,7 +13951,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rewindCircle` no estilo Bold.
   ///
-  /// ![rewind-circle](https://api.iconify.design/ph/rewind-circle-bold.svg?height=32&color=%23888888)
+  /// ![rewind-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rewind-circle.png)
   static const IconData rewindCircle = IconData(
     0xe3fa,
     fontFamily: 'PhosphorBold',
@@ -13963,7 +13963,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `roadHorizon` no estilo Bold.
   ///
-  /// ![road-horizon](https://api.iconify.design/ph/road-horizon-bold.svg?height=32&color=%23888888)
+  /// ![road-horizon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/road-horizon.png)
   static const IconData roadHorizon = IconData(
     0xe838,
     fontFamily: 'PhosphorBold',
@@ -13975,7 +13975,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `robot` no estilo Bold.
   ///
-  /// ![robot](https://api.iconify.design/ph/robot-bold.svg?height=32&color=%23888888)
+  /// ![robot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/robot.png)
   static const IconData robot = IconData(
     0xe762,
     fontFamily: 'PhosphorBold',
@@ -13987,7 +13987,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rocket` no estilo Bold.
   ///
-  /// ![rocket](https://api.iconify.design/ph/rocket-bold.svg?height=32&color=%23888888)
+  /// ![rocket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rocket.png)
   static const IconData rocket = IconData(
     0xe3fc,
     fontFamily: 'PhosphorBold',
@@ -13999,7 +13999,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rocketLaunch` no estilo Bold.
   ///
-  /// ![rocket-launch](https://api.iconify.design/ph/rocket-launch-bold.svg?height=32&color=%23888888)
+  /// ![rocket-launch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rocket-launch.png)
   static const IconData rocketLaunch = IconData(
     0xe3fe,
     fontFamily: 'PhosphorBold',
@@ -14011,7 +14011,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rows` no estilo Bold.
   ///
-  /// ![rows](https://api.iconify.design/ph/rows-bold.svg?height=32&color=%23888888)
+  /// ![rows](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rows.png)
   static const IconData rows = IconData(
     0xe5a2,
     fontFamily: 'PhosphorBold',
@@ -14023,7 +14023,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rowsPlusBottom` no estilo Bold.
   ///
-  /// ![rows-plus-bottom](https://api.iconify.design/ph/rows-plus-bottom-bold.svg?height=32&color=%23888888)
+  /// ![rows-plus-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rows-plus-bottom.png)
   static const IconData rowsPlusBottom = IconData(
     0xe59e,
     fontFamily: 'PhosphorBold',
@@ -14035,7 +14035,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rowsPlusTop` no estilo Bold.
   ///
-  /// ![rows-plus-top](https://api.iconify.design/ph/rows-plus-top-bold.svg?height=32&color=%23888888)
+  /// ![rows-plus-top](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rows-plus-top.png)
   static const IconData rowsPlusTop = IconData(
     0xe5a0,
     fontFamily: 'PhosphorBold',
@@ -14047,7 +14047,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rss` no estilo Bold.
   ///
-  /// ![rss](https://api.iconify.design/ph/rss-bold.svg?height=32&color=%23888888)
+  /// ![rss](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rss.png)
   static const IconData rss = IconData(
     0xe400,
     fontFamily: 'PhosphorBold',
@@ -14059,7 +14059,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rssSimple` no estilo Bold.
   ///
-  /// ![rss-simple](https://api.iconify.design/ph/rss-simple-bold.svg?height=32&color=%23888888)
+  /// ![rss-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rss-simple.png)
   static const IconData rssSimple = IconData(
     0xe402,
     fontFamily: 'PhosphorBold',
@@ -14071,7 +14071,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `rug` no estilo Bold.
   ///
-  /// ![rug](https://api.iconify.design/ph/rug-bold.svg?height=32&color=%23888888)
+  /// ![rug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/rug.png)
   static const IconData rug = IconData(
     0xea1a,
     fontFamily: 'PhosphorBold',
@@ -14083,7 +14083,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ruler` no estilo Bold.
   ///
-  /// ![ruler](https://api.iconify.design/ph/ruler-bold.svg?height=32&color=%23888888)
+  /// ![ruler](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ruler.png)
   static const IconData ruler = IconData(
     0xe6b8,
     fontFamily: 'PhosphorBold',
@@ -14095,7 +14095,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sailboat` no estilo Bold.
   ///
-  /// ![sailboat](https://api.iconify.design/ph/sailboat-bold.svg?height=32&color=%23888888)
+  /// ![sailboat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sailboat.png)
   static const IconData sailboat = IconData(
     0xe78a,
     fontFamily: 'PhosphorBold',
@@ -14107,7 +14107,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scales` no estilo Bold.
   ///
-  /// ![scales](https://api.iconify.design/ph/scales-bold.svg?height=32&color=%23888888)
+  /// ![scales](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scales.png)
   static const IconData scales = IconData(
     0xe750,
     fontFamily: 'PhosphorBold',
@@ -14119,7 +14119,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scan` no estilo Bold.
   ///
-  /// ![scan](https://api.iconify.design/ph/scan-bold.svg?height=32&color=%23888888)
+  /// ![scan](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scan.png)
   static const IconData scan = IconData(
     0xebb6,
     fontFamily: 'PhosphorBold',
@@ -14131,7 +14131,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scanSmiley` no estilo Bold.
   ///
-  /// ![scan-smiley](https://api.iconify.design/ph/scan-smiley-bold.svg?height=32&color=%23888888)
+  /// ![scan-smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scan-smiley.png)
   static const IconData scanSmiley = IconData(
     0xebb4,
     fontFamily: 'PhosphorBold',
@@ -14143,7 +14143,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scissors` no estilo Bold.
   ///
-  /// ![scissors](https://api.iconify.design/ph/scissors-bold.svg?height=32&color=%23888888)
+  /// ![scissors](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scissors.png)
   static const IconData scissors = IconData(
     0xeae0,
     fontFamily: 'PhosphorBold',
@@ -14155,7 +14155,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scooter` no estilo Bold.
   ///
-  /// ![scooter](https://api.iconify.design/ph/scooter-bold.svg?height=32&color=%23888888)
+  /// ![scooter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scooter.png)
   static const IconData scooter = IconData(
     0xe820,
     fontFamily: 'PhosphorBold',
@@ -14167,7 +14167,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `screencast` no estilo Bold.
   ///
-  /// ![screencast](https://api.iconify.design/ph/screencast-bold.svg?height=32&color=%23888888)
+  /// ![screencast](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/screencast.png)
   static const IconData screencast = IconData(
     0xe404,
     fontFamily: 'PhosphorBold',
@@ -14179,7 +14179,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `screwdriver` no estilo Bold.
   ///
-  /// ![screwdriver](https://api.iconify.design/ph/screwdriver-bold.svg?height=32&color=%23888888)
+  /// ![screwdriver](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/screwdriver.png)
   static const IconData screwdriver = IconData(
     0xe86e,
     fontFamily: 'PhosphorBold',
@@ -14191,7 +14191,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scribble` no estilo Bold.
   ///
-  /// ![scribble](https://api.iconify.design/ph/scribble-bold.svg?height=32&color=%23888888)
+  /// ![scribble](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scribble.png)
   static const IconData scribble = IconData(
     0xe806,
     fontFamily: 'PhosphorBold',
@@ -14203,7 +14203,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scribbleLoop` no estilo Bold.
   ///
-  /// ![scribble-loop](https://api.iconify.design/ph/scribble-loop-bold.svg?height=32&color=%23888888)
+  /// ![scribble-loop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scribble-loop.png)
   static const IconData scribbleLoop = IconData(
     0xe662,
     fontFamily: 'PhosphorBold',
@@ -14215,7 +14215,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `scroll` no estilo Bold.
   ///
-  /// ![scroll](https://api.iconify.design/ph/scroll-bold.svg?height=32&color=%23888888)
+  /// ![scroll](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/scroll.png)
   static const IconData scroll = IconData(
     0xeb7a,
     fontFamily: 'PhosphorBold',
@@ -14227,7 +14227,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `seal` no estilo Bold.
   ///
-  /// ![seal](https://api.iconify.design/ph/seal-bold.svg?height=32&color=%23888888)
+  /// ![seal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/seal.png)
   static const IconData seal = IconData(
     0xe604,
     fontFamily: 'PhosphorBold',
@@ -14239,7 +14239,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sealCheck` no estilo Bold.
   ///
-  /// ![seal-check](https://api.iconify.design/ph/seal-check-bold.svg?height=32&color=%23888888)
+  /// ![seal-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/seal-check.png)
   static const IconData sealCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorBold',
@@ -14251,7 +14251,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sealPercent` no estilo Bold.
   ///
-  /// ![seal-percent](https://api.iconify.design/ph/seal-percent-bold.svg?height=32&color=%23888888)
+  /// ![seal-percent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/seal-percent.png)
   static const IconData sealPercent = IconData(
     0xe60a,
     fontFamily: 'PhosphorBold',
@@ -14263,7 +14263,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sealQuestion` no estilo Bold.
   ///
-  /// ![seal-question](https://api.iconify.design/ph/seal-question-bold.svg?height=32&color=%23888888)
+  /// ![seal-question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/seal-question.png)
   static const IconData sealQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorBold',
@@ -14275,7 +14275,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sealWarning` no estilo Bold.
   ///
-  /// ![seal-warning](https://api.iconify.design/ph/seal-warning-bold.svg?height=32&color=%23888888)
+  /// ![seal-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/seal-warning.png)
   static const IconData sealWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorBold',
@@ -14287,7 +14287,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `seat` no estilo Bold.
   ///
-  /// ![seat](https://api.iconify.design/ph/seat-bold.svg?height=32&color=%23888888)
+  /// ![seat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/seat.png)
   static const IconData seat = IconData(
     0xeb8e,
     fontFamily: 'PhosphorBold',
@@ -14299,7 +14299,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `seatbelt` no estilo Bold.
   ///
-  /// ![seatbelt](https://api.iconify.design/ph/seatbelt-bold.svg?height=32&color=%23888888)
+  /// ![seatbelt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/seatbelt.png)
   static const IconData seatbelt = IconData(
     0xedfe,
     fontFamily: 'PhosphorBold',
@@ -14311,7 +14311,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `securityCamera` no estilo Bold.
   ///
-  /// ![security-camera](https://api.iconify.design/ph/security-camera-bold.svg?height=32&color=%23888888)
+  /// ![security-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/security-camera.png)
   static const IconData securityCamera = IconData(
     0xeca4,
     fontFamily: 'PhosphorBold',
@@ -14323,7 +14323,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `selection` no estilo Bold.
   ///
-  /// ![selection](https://api.iconify.design/ph/selection-bold.svg?height=32&color=%23888888)
+  /// ![selection](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/selection.png)
   static const IconData selection = IconData(
     0xe69a,
     fontFamily: 'PhosphorBold',
@@ -14335,7 +14335,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `selectionAll` no estilo Bold.
   ///
-  /// ![selection-all](https://api.iconify.design/ph/selection-all-bold.svg?height=32&color=%23888888)
+  /// ![selection-all](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/selection-all.png)
   static const IconData selectionAll = IconData(
     0xe746,
     fontFamily: 'PhosphorBold',
@@ -14347,7 +14347,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `selectionBackground` no estilo Bold.
   ///
-  /// ![selection-background](https://api.iconify.design/ph/selection-background-bold.svg?height=32&color=%23888888)
+  /// ![selection-background](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/selection-background.png)
   static const IconData selectionBackground = IconData(
     0xeaf8,
     fontFamily: 'PhosphorBold',
@@ -14359,7 +14359,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `selectionForeground` no estilo Bold.
   ///
-  /// ![selection-foreground](https://api.iconify.design/ph/selection-foreground-bold.svg?height=32&color=%23888888)
+  /// ![selection-foreground](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/selection-foreground.png)
   static const IconData selectionForeground = IconData(
     0xeaf6,
     fontFamily: 'PhosphorBold',
@@ -14371,7 +14371,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `selectionInverse` no estilo Bold.
   ///
-  /// ![selection-inverse](https://api.iconify.design/ph/selection-inverse-bold.svg?height=32&color=%23888888)
+  /// ![selection-inverse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/selection-inverse.png)
   static const IconData selectionInverse = IconData(
     0xe744,
     fontFamily: 'PhosphorBold',
@@ -14383,7 +14383,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `selectionPlus` no estilo Bold.
   ///
-  /// ![selection-plus](https://api.iconify.design/ph/selection-plus-bold.svg?height=32&color=%23888888)
+  /// ![selection-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/selection-plus.png)
   static const IconData selectionPlus = IconData(
     0xe69c,
     fontFamily: 'PhosphorBold',
@@ -14395,7 +14395,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `selectionSlash` no estilo Bold.
   ///
-  /// ![selection-slash](https://api.iconify.design/ph/selection-slash-bold.svg?height=32&color=%23888888)
+  /// ![selection-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/selection-slash.png)
   static const IconData selectionSlash = IconData(
     0xe69e,
     fontFamily: 'PhosphorBold',
@@ -14407,7 +14407,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shapes` no estilo Bold.
   ///
-  /// ![shapes](https://api.iconify.design/ph/shapes-bold.svg?height=32&color=%23888888)
+  /// ![shapes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shapes.png)
   static const IconData shapes = IconData(
     0xec5e,
     fontFamily: 'PhosphorBold',
@@ -14419,7 +14419,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `share` no estilo Bold.
   ///
-  /// ![share](https://api.iconify.design/ph/share-bold.svg?height=32&color=%23888888)
+  /// ![share](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/share.png)
   static const IconData share = IconData(
     0xe406,
     fontFamily: 'PhosphorBold',
@@ -14431,7 +14431,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shareFat` no estilo Bold.
   ///
-  /// ![share-fat](https://api.iconify.design/ph/share-fat-bold.svg?height=32&color=%23888888)
+  /// ![share-fat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/share-fat.png)
   static const IconData shareFat = IconData(
     0xed52,
     fontFamily: 'PhosphorBold',
@@ -14443,7 +14443,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shareNetwork` no estilo Bold.
   ///
-  /// ![share-network](https://api.iconify.design/ph/share-network-bold.svg?height=32&color=%23888888)
+  /// ![share-network](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/share-network.png)
   static const IconData shareNetwork = IconData(
     0xe408,
     fontFamily: 'PhosphorBold',
@@ -14455,7 +14455,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shield` no estilo Bold.
   ///
-  /// ![shield](https://api.iconify.design/ph/shield-bold.svg?height=32&color=%23888888)
+  /// ![shield](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield.png)
   static const IconData shield = IconData(
     0xe40a,
     fontFamily: 'PhosphorBold',
@@ -14467,7 +14467,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shieldCheck` no estilo Bold.
   ///
-  /// ![shield-check](https://api.iconify.design/ph/shield-check-bold.svg?height=32&color=%23888888)
+  /// ![shield-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield-check.png)
   static const IconData shieldCheck = IconData(
     0xe40c,
     fontFamily: 'PhosphorBold',
@@ -14479,7 +14479,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shieldCheckered` no estilo Bold.
   ///
-  /// ![shield-checkered](https://api.iconify.design/ph/shield-checkered-bold.svg?height=32&color=%23888888)
+  /// ![shield-checkered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield-checkered.png)
   static const IconData shieldCheckered = IconData(
     0xe708,
     fontFamily: 'PhosphorBold',
@@ -14491,7 +14491,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shieldChevron` no estilo Bold.
   ///
-  /// ![shield-chevron](https://api.iconify.design/ph/shield-chevron-bold.svg?height=32&color=%23888888)
+  /// ![shield-chevron](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield-chevron.png)
   static const IconData shieldChevron = IconData(
     0xe40e,
     fontFamily: 'PhosphorBold',
@@ -14503,7 +14503,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shieldPlus` no estilo Bold.
   ///
-  /// ![shield-plus](https://api.iconify.design/ph/shield-plus-bold.svg?height=32&color=%23888888)
+  /// ![shield-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield-plus.png)
   static const IconData shieldPlus = IconData(
     0xe706,
     fontFamily: 'PhosphorBold',
@@ -14515,7 +14515,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shieldSlash` no estilo Bold.
   ///
-  /// ![shield-slash](https://api.iconify.design/ph/shield-slash-bold.svg?height=32&color=%23888888)
+  /// ![shield-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield-slash.png)
   static const IconData shieldSlash = IconData(
     0xe410,
     fontFamily: 'PhosphorBold',
@@ -14527,7 +14527,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shieldStar` no estilo Bold.
   ///
-  /// ![shield-star](https://api.iconify.design/ph/shield-star-bold.svg?height=32&color=%23888888)
+  /// ![shield-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield-star.png)
   static const IconData shieldStar = IconData(
     0xec34,
     fontFamily: 'PhosphorBold',
@@ -14539,7 +14539,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shieldWarning` no estilo Bold.
   ///
-  /// ![shield-warning](https://api.iconify.design/ph/shield-warning-bold.svg?height=32&color=%23888888)
+  /// ![shield-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shield-warning.png)
   static const IconData shieldWarning = IconData(
     0xe412,
     fontFamily: 'PhosphorBold',
@@ -14551,7 +14551,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shippingContainer` no estilo Bold.
   ///
-  /// ![shipping-container](https://api.iconify.design/ph/shipping-container-bold.svg?height=32&color=%23888888)
+  /// ![shipping-container](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shipping-container.png)
   static const IconData shippingContainer = IconData(
     0xe78c,
     fontFamily: 'PhosphorBold',
@@ -14563,7 +14563,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shirtFolded` no estilo Bold.
   ///
-  /// ![shirt-folded](https://api.iconify.design/ph/shirt-folded-bold.svg?height=32&color=%23888888)
+  /// ![shirt-folded](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shirt-folded.png)
   static const IconData shirtFolded = IconData(
     0xea92,
     fontFamily: 'PhosphorBold',
@@ -14575,7 +14575,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shootingStar` no estilo Bold.
   ///
-  /// ![shooting-star](https://api.iconify.design/ph/shooting-star-bold.svg?height=32&color=%23888888)
+  /// ![shooting-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shooting-star.png)
   static const IconData shootingStar = IconData(
     0xecfa,
     fontFamily: 'PhosphorBold',
@@ -14587,7 +14587,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shoppingBag` no estilo Bold.
   ///
-  /// ![shopping-bag](https://api.iconify.design/ph/shopping-bag-bold.svg?height=32&color=%23888888)
+  /// ![shopping-bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shopping-bag.png)
   static const IconData shoppingBag = IconData(
     0xe416,
     fontFamily: 'PhosphorBold',
@@ -14599,7 +14599,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shoppingBagOpen` no estilo Bold.
   ///
-  /// ![shopping-bag-open](https://api.iconify.design/ph/shopping-bag-open-bold.svg?height=32&color=%23888888)
+  /// ![shopping-bag-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shopping-bag-open.png)
   static const IconData shoppingBagOpen = IconData(
     0xe418,
     fontFamily: 'PhosphorBold',
@@ -14611,7 +14611,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shoppingCart` no estilo Bold.
   ///
-  /// ![shopping-cart](https://api.iconify.design/ph/shopping-cart-bold.svg?height=32&color=%23888888)
+  /// ![shopping-cart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shopping-cart.png)
   static const IconData shoppingCart = IconData(
     0xe41e,
     fontFamily: 'PhosphorBold',
@@ -14623,7 +14623,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shoppingCartSimple` no estilo Bold.
   ///
-  /// ![shopping-cart-simple](https://api.iconify.design/ph/shopping-cart-simple-bold.svg?height=32&color=%23888888)
+  /// ![shopping-cart-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shopping-cart-simple.png)
   static const IconData shoppingCartSimple = IconData(
     0xe420,
     fontFamily: 'PhosphorBold',
@@ -14635,7 +14635,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shovel` no estilo Bold.
   ///
-  /// ![shovel](https://api.iconify.design/ph/shovel-bold.svg?height=32&color=%23888888)
+  /// ![shovel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shovel.png)
   static const IconData shovel = IconData(
     0xe9e6,
     fontFamily: 'PhosphorBold',
@@ -14647,7 +14647,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shower` no estilo Bold.
   ///
-  /// ![shower](https://api.iconify.design/ph/shower-bold.svg?height=32&color=%23888888)
+  /// ![shower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shower.png)
   static const IconData shower = IconData(
     0xe776,
     fontFamily: 'PhosphorBold',
@@ -14659,7 +14659,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shrimp` no estilo Bold.
   ///
-  /// ![shrimp](https://api.iconify.design/ph/shrimp-bold.svg?height=32&color=%23888888)
+  /// ![shrimp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shrimp.png)
   static const IconData shrimp = IconData(
     0xeab4,
     fontFamily: 'PhosphorBold',
@@ -14671,7 +14671,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shuffle` no estilo Bold.
   ///
-  /// ![shuffle](https://api.iconify.design/ph/shuffle-bold.svg?height=32&color=%23888888)
+  /// ![shuffle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shuffle.png)
   static const IconData shuffle = IconData(
     0xe422,
     fontFamily: 'PhosphorBold',
@@ -14683,7 +14683,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shuffleAngular` no estilo Bold.
   ///
-  /// ![shuffle-angular](https://api.iconify.design/ph/shuffle-angular-bold.svg?height=32&color=%23888888)
+  /// ![shuffle-angular](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shuffle-angular.png)
   static const IconData shuffleAngular = IconData(
     0xe424,
     fontFamily: 'PhosphorBold',
@@ -14695,7 +14695,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `shuffleSimple` no estilo Bold.
   ///
-  /// ![shuffle-simple](https://api.iconify.design/ph/shuffle-simple-bold.svg?height=32&color=%23888888)
+  /// ![shuffle-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/shuffle-simple.png)
   static const IconData shuffleSimple = IconData(
     0xe426,
     fontFamily: 'PhosphorBold',
@@ -14707,7 +14707,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sidebar` no estilo Bold.
   ///
-  /// ![sidebar](https://api.iconify.design/ph/sidebar-bold.svg?height=32&color=%23888888)
+  /// ![sidebar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sidebar.png)
   static const IconData sidebar = IconData(
     0xeab6,
     fontFamily: 'PhosphorBold',
@@ -14719,7 +14719,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sidebarSimple` no estilo Bold.
   ///
-  /// ![sidebar-simple](https://api.iconify.design/ph/sidebar-simple-bold.svg?height=32&color=%23888888)
+  /// ![sidebar-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sidebar-simple.png)
   static const IconData sidebarSimple = IconData(
     0xec24,
     fontFamily: 'PhosphorBold',
@@ -14731,7 +14731,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sigma` no estilo Bold.
   ///
-  /// ![sigma](https://api.iconify.design/ph/sigma-bold.svg?height=32&color=%23888888)
+  /// ![sigma](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sigma.png)
   static const IconData sigma = IconData(
     0xeab8,
     fontFamily: 'PhosphorBold',
@@ -14743,7 +14743,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `signIn` no estilo Bold.
   ///
-  /// ![sign-in](https://api.iconify.design/ph/sign-in-bold.svg?height=32&color=%23888888)
+  /// ![sign-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sign-in.png)
   static const IconData signIn = IconData(
     0xe428,
     fontFamily: 'PhosphorBold',
@@ -14755,7 +14755,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `signOut` no estilo Bold.
   ///
-  /// ![sign-out](https://api.iconify.design/ph/sign-out-bold.svg?height=32&color=%23888888)
+  /// ![sign-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sign-out.png)
   static const IconData signOut = IconData(
     0xe42a,
     fontFamily: 'PhosphorBold',
@@ -14767,7 +14767,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `signature` no estilo Bold.
   ///
-  /// ![signature](https://api.iconify.design/ph/signature-bold.svg?height=32&color=%23888888)
+  /// ![signature](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/signature.png)
   static const IconData signature = IconData(
     0xebac,
     fontFamily: 'PhosphorBold',
@@ -14779,7 +14779,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `signpost` no estilo Bold.
   ///
-  /// ![signpost](https://api.iconify.design/ph/signpost-bold.svg?height=32&color=%23888888)
+  /// ![signpost](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/signpost.png)
   static const IconData signpost = IconData(
     0xe89c,
     fontFamily: 'PhosphorBold',
@@ -14791,7 +14791,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `simCard` no estilo Bold.
   ///
-  /// ![sim-card](https://api.iconify.design/ph/sim-card-bold.svg?height=32&color=%23888888)
+  /// ![sim-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sim-card.png)
   static const IconData simCard = IconData(
     0xe664,
     fontFamily: 'PhosphorBold',
@@ -14803,7 +14803,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `siren` no estilo Bold.
   ///
-  /// ![siren](https://api.iconify.design/ph/siren-bold.svg?height=32&color=%23888888)
+  /// ![siren](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/siren.png)
   static const IconData siren = IconData(
     0xe9b8,
     fontFamily: 'PhosphorBold',
@@ -14815,7 +14815,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sketchLogo` no estilo Bold.
   ///
-  /// ![sketch-logo](https://api.iconify.design/ph/sketch-logo-bold.svg?height=32&color=%23888888)
+  /// ![sketch-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sketch-logo.png)
   static const IconData sketchLogo = IconData(
     0xe42c,
     fontFamily: 'PhosphorBold',
@@ -14827,7 +14827,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `skipBack` no estilo Bold.
   ///
-  /// ![skip-back](https://api.iconify.design/ph/skip-back-bold.svg?height=32&color=%23888888)
+  /// ![skip-back](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/skip-back.png)
   static const IconData skipBack = IconData(
     0xe5a4,
     fontFamily: 'PhosphorBold',
@@ -14839,7 +14839,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `skipBackCircle` no estilo Bold.
   ///
-  /// ![skip-back-circle](https://api.iconify.design/ph/skip-back-circle-bold.svg?height=32&color=%23888888)
+  /// ![skip-back-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/skip-back-circle.png)
   static const IconData skipBackCircle = IconData(
     0xe42e,
     fontFamily: 'PhosphorBold',
@@ -14851,7 +14851,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `skipForward` no estilo Bold.
   ///
-  /// ![skip-forward](https://api.iconify.design/ph/skip-forward-bold.svg?height=32&color=%23888888)
+  /// ![skip-forward](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/skip-forward.png)
   static const IconData skipForward = IconData(
     0xe5a6,
     fontFamily: 'PhosphorBold',
@@ -14863,7 +14863,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `skipForwardCircle` no estilo Bold.
   ///
-  /// ![skip-forward-circle](https://api.iconify.design/ph/skip-forward-circle-bold.svg?height=32&color=%23888888)
+  /// ![skip-forward-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/skip-forward-circle.png)
   static const IconData skipForwardCircle = IconData(
     0xe430,
     fontFamily: 'PhosphorBold',
@@ -14875,7 +14875,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `skull` no estilo Bold.
   ///
-  /// ![skull](https://api.iconify.design/ph/skull-bold.svg?height=32&color=%23888888)
+  /// ![skull](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/skull.png)
   static const IconData skull = IconData(
     0xe916,
     fontFamily: 'PhosphorBold',
@@ -14887,7 +14887,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `skypeLogo` no estilo Bold.
   ///
-  /// ![skype-logo](https://api.iconify.design/ph/skype-logo-bold.svg?height=32&color=%23888888)
+  /// ![skype-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/skype-logo.png)
   static const IconData skypeLogo = IconData(
     0xe8dc,
     fontFamily: 'PhosphorBold',
@@ -14899,7 +14899,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `slackLogo` no estilo Bold.
   ///
-  /// ![slack-logo](https://api.iconify.design/ph/slack-logo-bold.svg?height=32&color=%23888888)
+  /// ![slack-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/slack-logo.png)
   static const IconData slackLogo = IconData(
     0xe5a8,
     fontFamily: 'PhosphorBold',
@@ -14911,7 +14911,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sliders` no estilo Bold.
   ///
-  /// ![sliders](https://api.iconify.design/ph/sliders-bold.svg?height=32&color=%23888888)
+  /// ![sliders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sliders.png)
   static const IconData sliders = IconData(
     0xe432,
     fontFamily: 'PhosphorBold',
@@ -14923,7 +14923,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `slidersHorizontal` no estilo Bold.
   ///
-  /// ![sliders-horizontal](https://api.iconify.design/ph/sliders-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![sliders-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sliders-horizontal.png)
   static const IconData slidersHorizontal = IconData(
     0xe434,
     fontFamily: 'PhosphorBold',
@@ -14935,7 +14935,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `slideshow` no estilo Bold.
   ///
-  /// ![slideshow](https://api.iconify.design/ph/slideshow-bold.svg?height=32&color=%23888888)
+  /// ![slideshow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/slideshow.png)
   static const IconData slideshow = IconData(
     0xed32,
     fontFamily: 'PhosphorBold',
@@ -14947,7 +14947,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smiley` no estilo Bold.
   ///
-  /// ![smiley](https://api.iconify.design/ph/smiley-bold.svg?height=32&color=%23888888)
+  /// ![smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley.png)
   static const IconData smiley = IconData(
     0xe436,
     fontFamily: 'PhosphorBold',
@@ -14959,7 +14959,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileyAngry` no estilo Bold.
   ///
-  /// ![smiley-angry](https://api.iconify.design/ph/smiley-angry-bold.svg?height=32&color=%23888888)
+  /// ![smiley-angry](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-angry.png)
   static const IconData smileyAngry = IconData(
     0xec62,
     fontFamily: 'PhosphorBold',
@@ -14971,7 +14971,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileyBlank` no estilo Bold.
   ///
-  /// ![smiley-blank](https://api.iconify.design/ph/smiley-blank-bold.svg?height=32&color=%23888888)
+  /// ![smiley-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-blank.png)
   static const IconData smileyBlank = IconData(
     0xe438,
     fontFamily: 'PhosphorBold',
@@ -14983,7 +14983,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileyMeh` no estilo Bold.
   ///
-  /// ![smiley-meh](https://api.iconify.design/ph/smiley-meh-bold.svg?height=32&color=%23888888)
+  /// ![smiley-meh](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-meh.png)
   static const IconData smileyMeh = IconData(
     0xe43a,
     fontFamily: 'PhosphorBold',
@@ -14995,7 +14995,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileyMelting` no estilo Bold.
   ///
-  /// ![smiley-melting](https://api.iconify.design/ph/smiley-melting-bold.svg?height=32&color=%23888888)
+  /// ![smiley-melting](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-melting.png)
   static const IconData smileyMelting = IconData(
     0xee56,
     fontFamily: 'PhosphorBold',
@@ -15007,7 +15007,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileyNervous` no estilo Bold.
   ///
-  /// ![smiley-nervous](https://api.iconify.design/ph/smiley-nervous-bold.svg?height=32&color=%23888888)
+  /// ![smiley-nervous](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-nervous.png)
   static const IconData smileyNervous = IconData(
     0xe43c,
     fontFamily: 'PhosphorBold',
@@ -15019,7 +15019,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileySad` no estilo Bold.
   ///
-  /// ![smiley-sad](https://api.iconify.design/ph/smiley-sad-bold.svg?height=32&color=%23888888)
+  /// ![smiley-sad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-sad.png)
   static const IconData smileySad = IconData(
     0xe43e,
     fontFamily: 'PhosphorBold',
@@ -15031,7 +15031,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileySticker` no estilo Bold.
   ///
-  /// ![smiley-sticker](https://api.iconify.design/ph/smiley-sticker-bold.svg?height=32&color=%23888888)
+  /// ![smiley-sticker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-sticker.png)
   static const IconData smileySticker = IconData(
     0xe440,
     fontFamily: 'PhosphorBold',
@@ -15043,7 +15043,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileyWink` no estilo Bold.
   ///
-  /// ![smiley-wink](https://api.iconify.design/ph/smiley-wink-bold.svg?height=32&color=%23888888)
+  /// ![smiley-wink](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-wink.png)
   static const IconData smileyWink = IconData(
     0xe666,
     fontFamily: 'PhosphorBold',
@@ -15055,7 +15055,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `smileyXEyes` no estilo Bold.
   ///
-  /// ![smiley-x-eyes](https://api.iconify.design/ph/smiley-x-eyes-bold.svg?height=32&color=%23888888)
+  /// ![smiley-x-eyes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/smiley-x-eyes.png)
   static const IconData smileyXEyes = IconData(
     0xe442,
     fontFamily: 'PhosphorBold',
@@ -15067,7 +15067,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `snapchatLogo` no estilo Bold.
   ///
-  /// ![snapchat-logo](https://api.iconify.design/ph/snapchat-logo-bold.svg?height=32&color=%23888888)
+  /// ![snapchat-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/snapchat-logo.png)
   static const IconData snapchatLogo = IconData(
     0xe668,
     fontFamily: 'PhosphorBold',
@@ -15079,7 +15079,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sneaker` no estilo Bold.
   ///
-  /// ![sneaker](https://api.iconify.design/ph/sneaker-bold.svg?height=32&color=%23888888)
+  /// ![sneaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sneaker.png)
   static const IconData sneaker = IconData(
     0xe80c,
     fontFamily: 'PhosphorBold',
@@ -15091,7 +15091,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sneakerMove` no estilo Bold.
   ///
-  /// ![sneaker-move](https://api.iconify.design/ph/sneaker-move-bold.svg?height=32&color=%23888888)
+  /// ![sneaker-move](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sneaker-move.png)
   static const IconData sneakerMove = IconData(
     0xed60,
     fontFamily: 'PhosphorBold',
@@ -15103,7 +15103,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `snowflake` no estilo Bold.
   ///
-  /// ![snowflake](https://api.iconify.design/ph/snowflake-bold.svg?height=32&color=%23888888)
+  /// ![snowflake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/snowflake.png)
   static const IconData snowflake = IconData(
     0xe5aa,
     fontFamily: 'PhosphorBold',
@@ -15115,7 +15115,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `soccerBall` no estilo Bold.
   ///
-  /// ![soccer-ball](https://api.iconify.design/ph/soccer-ball-bold.svg?height=32&color=%23888888)
+  /// ![soccer-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/soccer-ball.png)
   static const IconData soccerBall = IconData(
     0xe716,
     fontFamily: 'PhosphorBold',
@@ -15127,7 +15127,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sock` no estilo Bold.
   ///
-  /// ![sock](https://api.iconify.design/ph/sock-bold.svg?height=32&color=%23888888)
+  /// ![sock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sock.png)
   static const IconData sock = IconData(
     0xecce,
     fontFamily: 'PhosphorBold',
@@ -15139,7 +15139,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `solarPanel` no estilo Bold.
   ///
-  /// ![solar-panel](https://api.iconify.design/ph/solar-panel-bold.svg?height=32&color=%23888888)
+  /// ![solar-panel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/solar-panel.png)
   static const IconData solarPanel = IconData(
     0xed7a,
     fontFamily: 'PhosphorBold',
@@ -15151,7 +15151,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `solarRoof` no estilo Bold.
   ///
-  /// ![solar-roof](https://api.iconify.design/ph/solar-roof-bold.svg?height=32&color=%23888888)
+  /// ![solar-roof](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/solar-roof.png)
   static const IconData solarRoof = IconData(
     0xed7b,
     fontFamily: 'PhosphorBold',
@@ -15163,7 +15163,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sortAscending` no estilo Bold.
   ///
-  /// ![sort-ascending](https://api.iconify.design/ph/sort-ascending-bold.svg?height=32&color=%23888888)
+  /// ![sort-ascending](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sort-ascending.png)
   static const IconData sortAscending = IconData(
     0xe444,
     fontFamily: 'PhosphorBold',
@@ -15175,7 +15175,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sortDescending` no estilo Bold.
   ///
-  /// ![sort-descending](https://api.iconify.design/ph/sort-descending-bold.svg?height=32&color=%23888888)
+  /// ![sort-descending](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sort-descending.png)
   static const IconData sortDescending = IconData(
     0xe446,
     fontFamily: 'PhosphorBold',
@@ -15187,7 +15187,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `soundcloudLogo` no estilo Bold.
   ///
-  /// ![soundcloud-logo](https://api.iconify.design/ph/soundcloud-logo-bold.svg?height=32&color=%23888888)
+  /// ![soundcloud-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/soundcloud-logo.png)
   static const IconData soundcloudLogo = IconData(
     0xe8de,
     fontFamily: 'PhosphorBold',
@@ -15199,7 +15199,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `spade` no estilo Bold.
   ///
-  /// ![spade](https://api.iconify.design/ph/spade-bold.svg?height=32&color=%23888888)
+  /// ![spade](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/spade.png)
   static const IconData spade = IconData(
     0xe448,
     fontFamily: 'PhosphorBold',
@@ -15211,7 +15211,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sparkle` no estilo Bold.
   ///
-  /// ![sparkle](https://api.iconify.design/ph/sparkle-bold.svg?height=32&color=%23888888)
+  /// ![sparkle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sparkle.png)
   static const IconData sparkle = IconData(
     0xe6a2,
     fontFamily: 'PhosphorBold',
@@ -15223,7 +15223,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerHifi` no estilo Bold.
   ///
-  /// ![speaker-hifi](https://api.iconify.design/ph/speaker-hifi-bold.svg?height=32&color=%23888888)
+  /// ![speaker-hifi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-hifi.png)
   static const IconData speakerHifi = IconData(
     0xea08,
     fontFamily: 'PhosphorBold',
@@ -15235,7 +15235,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerHigh` no estilo Bold.
   ///
-  /// ![speaker-high](https://api.iconify.design/ph/speaker-high-bold.svg?height=32&color=%23888888)
+  /// ![speaker-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-high.png)
   static const IconData speakerHigh = IconData(
     0xe44a,
     fontFamily: 'PhosphorBold',
@@ -15247,7 +15247,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerLow` no estilo Bold.
   ///
-  /// ![speaker-low](https://api.iconify.design/ph/speaker-low-bold.svg?height=32&color=%23888888)
+  /// ![speaker-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-low.png)
   static const IconData speakerLow = IconData(
     0xe44c,
     fontFamily: 'PhosphorBold',
@@ -15259,7 +15259,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerNone` no estilo Bold.
   ///
-  /// ![speaker-none](https://api.iconify.design/ph/speaker-none-bold.svg?height=32&color=%23888888)
+  /// ![speaker-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-none.png)
   static const IconData speakerNone = IconData(
     0xe44e,
     fontFamily: 'PhosphorBold',
@@ -15271,7 +15271,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerSimpleHigh` no estilo Bold.
   ///
-  /// ![speaker-simple-high](https://api.iconify.design/ph/speaker-simple-high-bold.svg?height=32&color=%23888888)
+  /// ![speaker-simple-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-simple-high.png)
   static const IconData speakerSimpleHigh = IconData(
     0xe450,
     fontFamily: 'PhosphorBold',
@@ -15283,7 +15283,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerSimpleLow` no estilo Bold.
   ///
-  /// ![speaker-simple-low](https://api.iconify.design/ph/speaker-simple-low-bold.svg?height=32&color=%23888888)
+  /// ![speaker-simple-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-simple-low.png)
   static const IconData speakerSimpleLow = IconData(
     0xe452,
     fontFamily: 'PhosphorBold',
@@ -15295,7 +15295,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerSimpleNone` no estilo Bold.
   ///
-  /// ![speaker-simple-none](https://api.iconify.design/ph/speaker-simple-none-bold.svg?height=32&color=%23888888)
+  /// ![speaker-simple-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-simple-none.png)
   static const IconData speakerSimpleNone = IconData(
     0xe454,
     fontFamily: 'PhosphorBold',
@@ -15307,7 +15307,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerSimpleSlash` no estilo Bold.
   ///
-  /// ![speaker-simple-slash](https://api.iconify.design/ph/speaker-simple-slash-bold.svg?height=32&color=%23888888)
+  /// ![speaker-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-simple-slash.png)
   static const IconData speakerSimpleSlash = IconData(
     0xe456,
     fontFamily: 'PhosphorBold',
@@ -15319,7 +15319,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerSimpleX` no estilo Bold.
   ///
-  /// ![speaker-simple-x](https://api.iconify.design/ph/speaker-simple-x-bold.svg?height=32&color=%23888888)
+  /// ![speaker-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-simple-x.png)
   static const IconData speakerSimpleX = IconData(
     0xe458,
     fontFamily: 'PhosphorBold',
@@ -15331,7 +15331,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerSlash` no estilo Bold.
   ///
-  /// ![speaker-slash](https://api.iconify.design/ph/speaker-slash-bold.svg?height=32&color=%23888888)
+  /// ![speaker-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-slash.png)
   static const IconData speakerSlash = IconData(
     0xe45a,
     fontFamily: 'PhosphorBold',
@@ -15343,7 +15343,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speakerX` no estilo Bold.
   ///
-  /// ![speaker-x](https://api.iconify.design/ph/speaker-x-bold.svg?height=32&color=%23888888)
+  /// ![speaker-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speaker-x.png)
   static const IconData speakerX = IconData(
     0xe45c,
     fontFamily: 'PhosphorBold',
@@ -15355,7 +15355,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `speedometer` no estilo Bold.
   ///
-  /// ![speedometer](https://api.iconify.design/ph/speedometer-bold.svg?height=32&color=%23888888)
+  /// ![speedometer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/speedometer.png)
   static const IconData speedometer = IconData(
     0xee74,
     fontFamily: 'PhosphorBold',
@@ -15367,7 +15367,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sphere` no estilo Bold.
   ///
-  /// ![sphere](https://api.iconify.design/ph/sphere-bold.svg?height=32&color=%23888888)
+  /// ![sphere](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sphere.png)
   static const IconData sphere = IconData(
     0xee66,
     fontFamily: 'PhosphorBold',
@@ -15379,7 +15379,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `spinner` no estilo Bold.
   ///
-  /// ![spinner](https://api.iconify.design/ph/spinner-bold.svg?height=32&color=%23888888)
+  /// ![spinner](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/spinner.png)
   static const IconData spinner = IconData(
     0xe66a,
     fontFamily: 'PhosphorBold',
@@ -15391,7 +15391,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `spinnerBall` no estilo Bold.
   ///
-  /// ![spinner-ball](https://api.iconify.design/ph/spinner-ball-bold.svg?height=32&color=%23888888)
+  /// ![spinner-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/spinner-ball.png)
   static const IconData spinnerBall = IconData(
     0xee28,
     fontFamily: 'PhosphorBold',
@@ -15403,7 +15403,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `spinnerGap` no estilo Bold.
   ///
-  /// ![spinner-gap](https://api.iconify.design/ph/spinner-gap-bold.svg?height=32&color=%23888888)
+  /// ![spinner-gap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/spinner-gap.png)
   static const IconData spinnerGap = IconData(
     0xe66c,
     fontFamily: 'PhosphorBold',
@@ -15415,7 +15415,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `spiral` no estilo Bold.
   ///
-  /// ![spiral](https://api.iconify.design/ph/spiral-bold.svg?height=32&color=%23888888)
+  /// ![spiral](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/spiral.png)
   static const IconData spiral = IconData(
     0xe9fa,
     fontFamily: 'PhosphorBold',
@@ -15427,7 +15427,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `splitHorizontal` no estilo Bold.
   ///
-  /// ![split-horizontal](https://api.iconify.design/ph/split-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![split-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/split-horizontal.png)
   static const IconData splitHorizontal = IconData(
     0xe872,
     fontFamily: 'PhosphorBold',
@@ -15439,7 +15439,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `splitVertical` no estilo Bold.
   ///
-  /// ![split-vertical](https://api.iconify.design/ph/split-vertical-bold.svg?height=32&color=%23888888)
+  /// ![split-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/split-vertical.png)
   static const IconData splitVertical = IconData(
     0xe876,
     fontFamily: 'PhosphorBold',
@@ -15451,7 +15451,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `spotifyLogo` no estilo Bold.
   ///
-  /// ![spotify-logo](https://api.iconify.design/ph/spotify-logo-bold.svg?height=32&color=%23888888)
+  /// ![spotify-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/spotify-logo.png)
   static const IconData spotifyLogo = IconData(
     0xe66e,
     fontFamily: 'PhosphorBold',
@@ -15463,7 +15463,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sprayBottle` no estilo Bold.
   ///
-  /// ![spray-bottle](https://api.iconify.design/ph/spray-bottle-bold.svg?height=32&color=%23888888)
+  /// ![spray-bottle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/spray-bottle.png)
   static const IconData sprayBottle = IconData(
     0xe7e4,
     fontFamily: 'PhosphorBold',
@@ -15475,7 +15475,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `square` no estilo Bold.
   ///
-  /// ![square](https://api.iconify.design/ph/square-bold.svg?height=32&color=%23888888)
+  /// ![square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/square.png)
   static const IconData square = IconData(
     0xe45e,
     fontFamily: 'PhosphorBold',
@@ -15487,7 +15487,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `squareHalf` no estilo Bold.
   ///
-  /// ![square-half](https://api.iconify.design/ph/square-half-bold.svg?height=32&color=%23888888)
+  /// ![square-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/square-half.png)
   static const IconData squareHalf = IconData(
     0xe462,
     fontFamily: 'PhosphorBold',
@@ -15499,7 +15499,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `squareHalfBottom` no estilo Bold.
   ///
-  /// ![square-half-bottom](https://api.iconify.design/ph/square-half-bottom-bold.svg?height=32&color=%23888888)
+  /// ![square-half-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/square-half-bottom.png)
   static const IconData squareHalfBottom = IconData(
     0xeb16,
     fontFamily: 'PhosphorBold',
@@ -15511,7 +15511,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `squareLogo` no estilo Bold.
   ///
-  /// ![square-logo](https://api.iconify.design/ph/square-logo-bold.svg?height=32&color=%23888888)
+  /// ![square-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/square-logo.png)
   static const IconData squareLogo = IconData(
     0xe690,
     fontFamily: 'PhosphorBold',
@@ -15523,7 +15523,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `squareSplitHorizontal` no estilo Bold.
   ///
-  /// ![square-split-horizontal](https://api.iconify.design/ph/square-split-horizontal-bold.svg?height=32&color=%23888888)
+  /// ![square-split-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/square-split-horizontal.png)
   static const IconData squareSplitHorizontal = IconData(
     0xe870,
     fontFamily: 'PhosphorBold',
@@ -15535,7 +15535,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `squareSplitVertical` no estilo Bold.
   ///
-  /// ![square-split-vertical](https://api.iconify.design/ph/square-split-vertical-bold.svg?height=32&color=%23888888)
+  /// ![square-split-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/square-split-vertical.png)
   static const IconData squareSplitVertical = IconData(
     0xe874,
     fontFamily: 'PhosphorBold',
@@ -15547,7 +15547,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `squaresFour` no estilo Bold.
   ///
-  /// ![squares-four](https://api.iconify.design/ph/squares-four-bold.svg?height=32&color=%23888888)
+  /// ![squares-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/squares-four.png)
   static const IconData squaresFour = IconData(
     0xe464,
     fontFamily: 'PhosphorBold',
@@ -15559,7 +15559,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stack` no estilo Bold.
   ///
-  /// ![stack](https://api.iconify.design/ph/stack-bold.svg?height=32&color=%23888888)
+  /// ![stack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stack.png)
   static const IconData stack = IconData(
     0xe466,
     fontFamily: 'PhosphorBold',
@@ -15571,7 +15571,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stackMinus` no estilo Bold.
   ///
-  /// ![stack-minus](https://api.iconify.design/ph/stack-minus-bold.svg?height=32&color=%23888888)
+  /// ![stack-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stack-minus.png)
   static const IconData stackMinus = IconData(
     0xedf4,
     fontFamily: 'PhosphorBold',
@@ -15583,7 +15583,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stackOverflowLogo` no estilo Bold.
   ///
-  /// ![stack-overflow-logo](https://api.iconify.design/ph/stack-overflow-logo-bold.svg?height=32&color=%23888888)
+  /// ![stack-overflow-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stack-overflow-logo.png)
   static const IconData stackOverflowLogo = IconData(
     0xeb78,
     fontFamily: 'PhosphorBold',
@@ -15595,7 +15595,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stackPlus` no estilo Bold.
   ///
-  /// ![stack-plus](https://api.iconify.design/ph/stack-plus-bold.svg?height=32&color=%23888888)
+  /// ![stack-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stack-plus.png)
   static const IconData stackPlus = IconData(
     0xedf6,
     fontFamily: 'PhosphorBold',
@@ -15607,7 +15607,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stackSimple` no estilo Bold.
   ///
-  /// ![stack-simple](https://api.iconify.design/ph/stack-simple-bold.svg?height=32&color=%23888888)
+  /// ![stack-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stack-simple.png)
   static const IconData stackSimple = IconData(
     0xe468,
     fontFamily: 'PhosphorBold',
@@ -15619,7 +15619,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stairs` no estilo Bold.
   ///
-  /// ![stairs](https://api.iconify.design/ph/stairs-bold.svg?height=32&color=%23888888)
+  /// ![stairs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stairs.png)
   static const IconData stairs = IconData(
     0xe8ec,
     fontFamily: 'PhosphorBold',
@@ -15631,7 +15631,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stamp` no estilo Bold.
   ///
-  /// ![stamp](https://api.iconify.design/ph/stamp-bold.svg?height=32&color=%23888888)
+  /// ![stamp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stamp.png)
   static const IconData stamp = IconData(
     0xea48,
     fontFamily: 'PhosphorBold',
@@ -15643,7 +15643,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `standardDefinition` no estilo Bold.
   ///
-  /// ![standard-definition](https://api.iconify.design/ph/standard-definition-bold.svg?height=32&color=%23888888)
+  /// ![standard-definition](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/standard-definition.png)
   static const IconData standardDefinition = IconData(
     0xea90,
     fontFamily: 'PhosphorBold',
@@ -15655,7 +15655,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `star` no estilo Bold.
   ///
-  /// ![star](https://api.iconify.design/ph/star-bold.svg?height=32&color=%23888888)
+  /// ![star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/star.png)
   static const IconData star = IconData(
     0xe46a,
     fontFamily: 'PhosphorBold',
@@ -15667,7 +15667,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `starAndCrescent` no estilo Bold.
   ///
-  /// ![star-and-crescent](https://api.iconify.design/ph/star-and-crescent-bold.svg?height=32&color=%23888888)
+  /// ![star-and-crescent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/star-and-crescent.png)
   static const IconData starAndCrescent = IconData(
     0xecf4,
     fontFamily: 'PhosphorBold',
@@ -15679,7 +15679,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `starFour` no estilo Bold.
   ///
-  /// ![star-four](https://api.iconify.design/ph/star-four-bold.svg?height=32&color=%23888888)
+  /// ![star-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/star-four.png)
   static const IconData starFour = IconData(
     0xe6a4,
     fontFamily: 'PhosphorBold',
@@ -15691,7 +15691,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `starHalf` no estilo Bold.
   ///
-  /// ![star-half](https://api.iconify.design/ph/star-half-bold.svg?height=32&color=%23888888)
+  /// ![star-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/star-half.png)
   static const IconData starHalf = IconData(
     0xe70a,
     fontFamily: 'PhosphorBold',
@@ -15703,7 +15703,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `starOfDavid` no estilo Bold.
   ///
-  /// ![star-of-david](https://api.iconify.design/ph/star-of-david-bold.svg?height=32&color=%23888888)
+  /// ![star-of-david](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/star-of-david.png)
   static const IconData starOfDavid = IconData(
     0xe89e,
     fontFamily: 'PhosphorBold',
@@ -15715,7 +15715,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `steamLogo` no estilo Bold.
   ///
-  /// ![steam-logo](https://api.iconify.design/ph/steam-logo-bold.svg?height=32&color=%23888888)
+  /// ![steam-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/steam-logo.png)
   static const IconData steamLogo = IconData(
     0xead4,
     fontFamily: 'PhosphorBold',
@@ -15727,7 +15727,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `steeringWheel` no estilo Bold.
   ///
-  /// ![steering-wheel](https://api.iconify.design/ph/steering-wheel-bold.svg?height=32&color=%23888888)
+  /// ![steering-wheel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/steering-wheel.png)
   static const IconData steeringWheel = IconData(
     0xe9ac,
     fontFamily: 'PhosphorBold',
@@ -15739,7 +15739,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `steps` no estilo Bold.
   ///
-  /// ![steps](https://api.iconify.design/ph/steps-bold.svg?height=32&color=%23888888)
+  /// ![steps](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/steps.png)
   static const IconData steps = IconData(
     0xecbe,
     fontFamily: 'PhosphorBold',
@@ -15751,7 +15751,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stethoscope` no estilo Bold.
   ///
-  /// ![stethoscope](https://api.iconify.design/ph/stethoscope-bold.svg?height=32&color=%23888888)
+  /// ![stethoscope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stethoscope.png)
   static const IconData stethoscope = IconData(
     0xe7ea,
     fontFamily: 'PhosphorBold',
@@ -15763,7 +15763,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sticker` no estilo Bold.
   ///
-  /// ![sticker](https://api.iconify.design/ph/sticker-bold.svg?height=32&color=%23888888)
+  /// ![sticker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sticker.png)
   static const IconData sticker = IconData(
     0xe5ac,
     fontFamily: 'PhosphorBold',
@@ -15775,7 +15775,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stool` no estilo Bold.
   ///
-  /// ![stool](https://api.iconify.design/ph/stool-bold.svg?height=32&color=%23888888)
+  /// ![stool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stool.png)
   static const IconData stool = IconData(
     0xea44,
     fontFamily: 'PhosphorBold',
@@ -15787,7 +15787,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stop` no estilo Bold.
   ///
-  /// ![stop](https://api.iconify.design/ph/stop-bold.svg?height=32&color=%23888888)
+  /// ![stop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stop.png)
   static const IconData stop = IconData(
     0xe46c,
     fontFamily: 'PhosphorBold',
@@ -15799,7 +15799,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stopCircle` no estilo Bold.
   ///
-  /// ![stop-circle](https://api.iconify.design/ph/stop-circle-bold.svg?height=32&color=%23888888)
+  /// ![stop-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stop-circle.png)
   static const IconData stopCircle = IconData(
     0xe46e,
     fontFamily: 'PhosphorBold',
@@ -15811,7 +15811,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `storefront` no estilo Bold.
   ///
-  /// ![storefront](https://api.iconify.design/ph/storefront-bold.svg?height=32&color=%23888888)
+  /// ![storefront](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/storefront.png)
   static const IconData storefront = IconData(
     0xe470,
     fontFamily: 'PhosphorBold',
@@ -15823,7 +15823,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `strategy` no estilo Bold.
   ///
-  /// ![strategy](https://api.iconify.design/ph/strategy-bold.svg?height=32&color=%23888888)
+  /// ![strategy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/strategy.png)
   static const IconData strategy = IconData(
     0xea3a,
     fontFamily: 'PhosphorBold',
@@ -15835,7 +15835,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `stripeLogo` no estilo Bold.
   ///
-  /// ![stripe-logo](https://api.iconify.design/ph/stripe-logo-bold.svg?height=32&color=%23888888)
+  /// ![stripe-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/stripe-logo.png)
   static const IconData stripeLogo = IconData(
     0xe698,
     fontFamily: 'PhosphorBold',
@@ -15847,7 +15847,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `student` no estilo Bold.
   ///
-  /// ![student](https://api.iconify.design/ph/student-bold.svg?height=32&color=%23888888)
+  /// ![student](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/student.png)
   static const IconData student = IconData(
     0xe73e,
     fontFamily: 'PhosphorBold',
@@ -15859,7 +15859,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `subsetOf` no estilo Bold.
   ///
-  /// ![subset-of](https://api.iconify.design/ph/subset-of-bold.svg?height=32&color=%23888888)
+  /// ![subset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/subset-of.png)
   static const IconData subsetOf = IconData(
     0xedc0,
     fontFamily: 'PhosphorBold',
@@ -15871,7 +15871,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `subsetProperOf` no estilo Bold.
   ///
-  /// ![subset-proper-of](https://api.iconify.design/ph/subset-proper-of-bold.svg?height=32&color=%23888888)
+  /// ![subset-proper-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/subset-proper-of.png)
   static const IconData subsetProperOf = IconData(
     0xedb6,
     fontFamily: 'PhosphorBold',
@@ -15883,7 +15883,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `subtitles` no estilo Bold.
   ///
-  /// ![subtitles](https://api.iconify.design/ph/subtitles-bold.svg?height=32&color=%23888888)
+  /// ![subtitles](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/subtitles.png)
   static const IconData subtitles = IconData(
     0xe1a8,
     fontFamily: 'PhosphorBold',
@@ -15895,7 +15895,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `subtitlesSlash` no estilo Bold.
   ///
-  /// ![subtitles-slash](https://api.iconify.design/ph/subtitles-slash-bold.svg?height=32&color=%23888888)
+  /// ![subtitles-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/subtitles-slash.png)
   static const IconData subtitlesSlash = IconData(
     0xe1a6,
     fontFamily: 'PhosphorBold',
@@ -15907,7 +15907,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `subtract` no estilo Bold.
   ///
-  /// ![subtract](https://api.iconify.design/ph/subtract-bold.svg?height=32&color=%23888888)
+  /// ![subtract](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/subtract.png)
   static const IconData subtract = IconData(
     0xebd6,
     fontFamily: 'PhosphorBold',
@@ -15919,7 +15919,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `subtractSquare` no estilo Bold.
   ///
-  /// ![subtract-square](https://api.iconify.design/ph/subtract-square-bold.svg?height=32&color=%23888888)
+  /// ![subtract-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/subtract-square.png)
   static const IconData subtractSquare = IconData(
     0xebd4,
     fontFamily: 'PhosphorBold',
@@ -15931,7 +15931,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `subway` no estilo Bold.
   ///
-  /// ![subway](https://api.iconify.design/ph/subway-bold.svg?height=32&color=%23888888)
+  /// ![subway](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/subway.png)
   static const IconData subway = IconData(
     0xe498,
     fontFamily: 'PhosphorBold',
@@ -15943,7 +15943,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `suitcase` no estilo Bold.
   ///
-  /// ![suitcase](https://api.iconify.design/ph/suitcase-bold.svg?height=32&color=%23888888)
+  /// ![suitcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/suitcase.png)
   static const IconData suitcase = IconData(
     0xe5ae,
     fontFamily: 'PhosphorBold',
@@ -15955,7 +15955,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `suitcaseRolling` no estilo Bold.
   ///
-  /// ![suitcase-rolling](https://api.iconify.design/ph/suitcase-rolling-bold.svg?height=32&color=%23888888)
+  /// ![suitcase-rolling](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/suitcase-rolling.png)
   static const IconData suitcaseRolling = IconData(
     0xe9b0,
     fontFamily: 'PhosphorBold',
@@ -15967,7 +15967,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `suitcaseSimple` no estilo Bold.
   ///
-  /// ![suitcase-simple](https://api.iconify.design/ph/suitcase-simple-bold.svg?height=32&color=%23888888)
+  /// ![suitcase-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/suitcase-simple.png)
   static const IconData suitcaseSimple = IconData(
     0xe5b0,
     fontFamily: 'PhosphorBold',
@@ -15979,7 +15979,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sun` no estilo Bold.
   ///
-  /// ![sun](https://api.iconify.design/ph/sun-bold.svg?height=32&color=%23888888)
+  /// ![sun](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sun.png)
   static const IconData sun = IconData(
     0xe472,
     fontFamily: 'PhosphorBold',
@@ -15991,7 +15991,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sunDim` no estilo Bold.
   ///
-  /// ![sun-dim](https://api.iconify.design/ph/sun-dim-bold.svg?height=32&color=%23888888)
+  /// ![sun-dim](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sun-dim.png)
   static const IconData sunDim = IconData(
     0xe474,
     fontFamily: 'PhosphorBold',
@@ -16003,7 +16003,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sunHorizon` no estilo Bold.
   ///
-  /// ![sun-horizon](https://api.iconify.design/ph/sun-horizon-bold.svg?height=32&color=%23888888)
+  /// ![sun-horizon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sun-horizon.png)
   static const IconData sunHorizon = IconData(
     0xe5b6,
     fontFamily: 'PhosphorBold',
@@ -16015,7 +16015,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sunglasses` no estilo Bold.
   ///
-  /// ![sunglasses](https://api.iconify.design/ph/sunglasses-bold.svg?height=32&color=%23888888)
+  /// ![sunglasses](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sunglasses.png)
   static const IconData sunglasses = IconData(
     0xe816,
     fontFamily: 'PhosphorBold',
@@ -16027,7 +16027,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `supersetOf` no estilo Bold.
   ///
-  /// ![superset-of](https://api.iconify.design/ph/superset-of-bold.svg?height=32&color=%23888888)
+  /// ![superset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/superset-of.png)
   static const IconData supersetOf = IconData(
     0xedb8,
     fontFamily: 'PhosphorBold',
@@ -16039,7 +16039,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `supersetProperOf` no estilo Bold.
   ///
-  /// ![superset-proper-of](https://api.iconify.design/ph/superset-proper-of-bold.svg?height=32&color=%23888888)
+  /// ![superset-proper-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/superset-proper-of.png)
   static const IconData supersetProperOf = IconData(
     0xedb4,
     fontFamily: 'PhosphorBold',
@@ -16051,7 +16051,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `swap` no estilo Bold.
   ///
-  /// ![swap](https://api.iconify.design/ph/swap-bold.svg?height=32&color=%23888888)
+  /// ![swap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/swap.png)
   static const IconData swap = IconData(
     0xe83c,
     fontFamily: 'PhosphorBold',
@@ -16063,7 +16063,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `swatches` no estilo Bold.
   ///
-  /// ![swatches](https://api.iconify.design/ph/swatches-bold.svg?height=32&color=%23888888)
+  /// ![swatches](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/swatches.png)
   static const IconData swatches = IconData(
     0xe5b8,
     fontFamily: 'PhosphorBold',
@@ -16075,7 +16075,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `swimmingPool` no estilo Bold.
   ///
-  /// ![swimming-pool](https://api.iconify.design/ph/swimming-pool-bold.svg?height=32&color=%23888888)
+  /// ![swimming-pool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/swimming-pool.png)
   static const IconData swimmingPool = IconData(
     0xecb6,
     fontFamily: 'PhosphorBold',
@@ -16087,7 +16087,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `sword` no estilo Bold.
   ///
-  /// ![sword](https://api.iconify.design/ph/sword-bold.svg?height=32&color=%23888888)
+  /// ![sword](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/sword.png)
   static const IconData sword = IconData(
     0xe5ba,
     fontFamily: 'PhosphorBold',
@@ -16099,7 +16099,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `synagogue` no estilo Bold.
   ///
-  /// ![synagogue](https://api.iconify.design/ph/synagogue-bold.svg?height=32&color=%23888888)
+  /// ![synagogue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/synagogue.png)
   static const IconData synagogue = IconData(
     0xecec,
     fontFamily: 'PhosphorBold',
@@ -16111,7 +16111,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `syringe` no estilo Bold.
   ///
-  /// ![syringe](https://api.iconify.design/ph/syringe-bold.svg?height=32&color=%23888888)
+  /// ![syringe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/syringe.png)
   static const IconData syringe = IconData(
     0xe968,
     fontFamily: 'PhosphorBold',
@@ -16123,7 +16123,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tShirt` no estilo Bold.
   ///
-  /// ![t-shirt](https://api.iconify.design/ph/t-shirt-bold.svg?height=32&color=%23888888)
+  /// ![t-shirt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/t-shirt.png)
   static const IconData tShirt = IconData(
     0xe670,
     fontFamily: 'PhosphorBold',
@@ -16135,7 +16135,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `table` no estilo Bold.
   ///
-  /// ![table](https://api.iconify.design/ph/table-bold.svg?height=32&color=%23888888)
+  /// ![table](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/table.png)
   static const IconData table = IconData(
     0xe476,
     fontFamily: 'PhosphorBold',
@@ -16147,7 +16147,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tabs` no estilo Bold.
   ///
-  /// ![tabs](https://api.iconify.design/ph/tabs-bold.svg?height=32&color=%23888888)
+  /// ![tabs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tabs.png)
   static const IconData tabs = IconData(
     0xe778,
     fontFamily: 'PhosphorBold',
@@ -16159,7 +16159,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tag` no estilo Bold.
   ///
-  /// ![tag](https://api.iconify.design/ph/tag-bold.svg?height=32&color=%23888888)
+  /// ![tag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tag.png)
   static const IconData tag = IconData(
     0xe478,
     fontFamily: 'PhosphorBold',
@@ -16171,7 +16171,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tagChevron` no estilo Bold.
   ///
-  /// ![tag-chevron](https://api.iconify.design/ph/tag-chevron-bold.svg?height=32&color=%23888888)
+  /// ![tag-chevron](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tag-chevron.png)
   static const IconData tagChevron = IconData(
     0xe672,
     fontFamily: 'PhosphorBold',
@@ -16183,7 +16183,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tagSimple` no estilo Bold.
   ///
-  /// ![tag-simple](https://api.iconify.design/ph/tag-simple-bold.svg?height=32&color=%23888888)
+  /// ![tag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tag-simple.png)
   static const IconData tagSimple = IconData(
     0xe47a,
     fontFamily: 'PhosphorBold',
@@ -16195,7 +16195,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `target` no estilo Bold.
   ///
-  /// ![target](https://api.iconify.design/ph/target-bold.svg?height=32&color=%23888888)
+  /// ![target](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/target.png)
   static const IconData target = IconData(
     0xe47c,
     fontFamily: 'PhosphorBold',
@@ -16207,7 +16207,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `taxi` no estilo Bold.
   ///
-  /// ![taxi](https://api.iconify.design/ph/taxi-bold.svg?height=32&color=%23888888)
+  /// ![taxi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/taxi.png)
   static const IconData taxi = IconData(
     0xe902,
     fontFamily: 'PhosphorBold',
@@ -16219,7 +16219,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `teaBag` no estilo Bold.
   ///
-  /// ![tea-bag](https://api.iconify.design/ph/tea-bag-bold.svg?height=32&color=%23888888)
+  /// ![tea-bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tea-bag.png)
   static const IconData teaBag = IconData(
     0xe8e6,
     fontFamily: 'PhosphorBold',
@@ -16231,7 +16231,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `telegramLogo` no estilo Bold.
   ///
-  /// ![telegram-logo](https://api.iconify.design/ph/telegram-logo-bold.svg?height=32&color=%23888888)
+  /// ![telegram-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/telegram-logo.png)
   static const IconData telegramLogo = IconData(
     0xe5bc,
     fontFamily: 'PhosphorBold',
@@ -16243,7 +16243,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `television` no estilo Bold.
   ///
-  /// ![television](https://api.iconify.design/ph/television-bold.svg?height=32&color=%23888888)
+  /// ![television](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/television.png)
   static const IconData television = IconData(
     0xe754,
     fontFamily: 'PhosphorBold',
@@ -16255,7 +16255,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `televisionSimple` no estilo Bold.
   ///
-  /// ![television-simple](https://api.iconify.design/ph/television-simple-bold.svg?height=32&color=%23888888)
+  /// ![television-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/television-simple.png)
   static const IconData televisionSimple = IconData(
     0xeae6,
     fontFamily: 'PhosphorBold',
@@ -16267,7 +16267,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tennisBall` no estilo Bold.
   ///
-  /// ![tennis-ball](https://api.iconify.design/ph/tennis-ball-bold.svg?height=32&color=%23888888)
+  /// ![tennis-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tennis-ball.png)
   static const IconData tennisBall = IconData(
     0xe720,
     fontFamily: 'PhosphorBold',
@@ -16279,7 +16279,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tent` no estilo Bold.
   ///
-  /// ![tent](https://api.iconify.design/ph/tent-bold.svg?height=32&color=%23888888)
+  /// ![tent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tent.png)
   static const IconData tent = IconData(
     0xe8ba,
     fontFamily: 'PhosphorBold',
@@ -16291,7 +16291,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `terminal` no estilo Bold.
   ///
-  /// ![terminal](https://api.iconify.design/ph/terminal-bold.svg?height=32&color=%23888888)
+  /// ![terminal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/terminal.png)
   static const IconData terminal = IconData(
     0xe47e,
     fontFamily: 'PhosphorBold',
@@ -16303,7 +16303,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `terminalWindow` no estilo Bold.
   ///
-  /// ![terminal-window](https://api.iconify.design/ph/terminal-window-bold.svg?height=32&color=%23888888)
+  /// ![terminal-window](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/terminal-window.png)
   static const IconData terminalWindow = IconData(
     0xeae8,
     fontFamily: 'PhosphorBold',
@@ -16315,7 +16315,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `testTube` no estilo Bold.
   ///
-  /// ![test-tube](https://api.iconify.design/ph/test-tube-bold.svg?height=32&color=%23888888)
+  /// ![test-tube](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/test-tube.png)
   static const IconData testTube = IconData(
     0xe7a0,
     fontFamily: 'PhosphorBold',
@@ -16327,7 +16327,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textAUnderline` no estilo Bold.
   ///
-  /// ![text-a-underline](https://api.iconify.design/ph/text-a-underline-bold.svg?height=32&color=%23888888)
+  /// ![text-a-underline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-a-underline.png)
   static const IconData textAUnderline = IconData(
     0xed34,
     fontFamily: 'PhosphorBold',
@@ -16339,7 +16339,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textAa` no estilo Bold.
   ///
-  /// ![text-aa](https://api.iconify.design/ph/text-aa-bold.svg?height=32&color=%23888888)
+  /// ![text-aa](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-aa.png)
   static const IconData textAa = IconData(
     0xe6ee,
     fontFamily: 'PhosphorBold',
@@ -16351,7 +16351,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textAlignCenter` no estilo Bold.
   ///
-  /// ![text-align-center](https://api.iconify.design/ph/text-align-center-bold.svg?height=32&color=%23888888)
+  /// ![text-align-center](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-align-center.png)
   static const IconData textAlignCenter = IconData(
     0xe480,
     fontFamily: 'PhosphorBold',
@@ -16363,7 +16363,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textAlignJustify` no estilo Bold.
   ///
-  /// ![text-align-justify](https://api.iconify.design/ph/text-align-justify-bold.svg?height=32&color=%23888888)
+  /// ![text-align-justify](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-align-justify.png)
   static const IconData textAlignJustify = IconData(
     0xe482,
     fontFamily: 'PhosphorBold',
@@ -16375,7 +16375,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textAlignLeft` no estilo Bold.
   ///
-  /// ![text-align-left](https://api.iconify.design/ph/text-align-left-bold.svg?height=32&color=%23888888)
+  /// ![text-align-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-align-left.png)
   static const IconData textAlignLeft = IconData(
     0xe484,
     fontFamily: 'PhosphorBold',
@@ -16387,7 +16387,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textAlignRight` no estilo Bold.
   ///
-  /// ![text-align-right](https://api.iconify.design/ph/text-align-right-bold.svg?height=32&color=%23888888)
+  /// ![text-align-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-align-right.png)
   static const IconData textAlignRight = IconData(
     0xe486,
     fontFamily: 'PhosphorBold',
@@ -16399,7 +16399,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textB` no estilo Bold.
   ///
-  /// ![text-b](https://api.iconify.design/ph/text-b-bold.svg?height=32&color=%23888888)
+  /// ![text-b](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-b.png)
   static const IconData textB = IconData(
     0xe5be,
     fontFamily: 'PhosphorBold',
@@ -16411,7 +16411,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textBolder` no estilo Bold.
   ///
-  /// ![text-bolder](https://api.iconify.design/ph/text-b-bold.svg?height=32&color=%23888888)
+  /// ![text-bolder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-bolder.png)
   static const IconData textBolder = IconData(
     0xe5be,
     fontFamily: 'PhosphorBold',
@@ -16423,7 +16423,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textColumns` no estilo Bold.
   ///
-  /// ![text-columns](https://api.iconify.design/ph/text-columns-bold.svg?height=32&color=%23888888)
+  /// ![text-columns](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-columns.png)
   static const IconData textColumns = IconData(
     0xec96,
     fontFamily: 'PhosphorBold',
@@ -16435,7 +16435,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textH` no estilo Bold.
   ///
-  /// ![text-h](https://api.iconify.design/ph/text-h-bold.svg?height=32&color=%23888888)
+  /// ![text-h](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-h.png)
   static const IconData textH = IconData(
     0xe6ba,
     fontFamily: 'PhosphorBold',
@@ -16447,7 +16447,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textHFive` no estilo Bold.
   ///
-  /// ![text-h-five](https://api.iconify.design/ph/text-h-five-bold.svg?height=32&color=%23888888)
+  /// ![text-h-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-h-five.png)
   static const IconData textHFive = IconData(
     0xe6c4,
     fontFamily: 'PhosphorBold',
@@ -16459,7 +16459,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textHFour` no estilo Bold.
   ///
-  /// ![text-h-four](https://api.iconify.design/ph/text-h-four-bold.svg?height=32&color=%23888888)
+  /// ![text-h-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-h-four.png)
   static const IconData textHFour = IconData(
     0xe6c2,
     fontFamily: 'PhosphorBold',
@@ -16471,7 +16471,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textHOne` no estilo Bold.
   ///
-  /// ![text-h-one](https://api.iconify.design/ph/text-h-one-bold.svg?height=32&color=%23888888)
+  /// ![text-h-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-h-one.png)
   static const IconData textHOne = IconData(
     0xe6bc,
     fontFamily: 'PhosphorBold',
@@ -16483,7 +16483,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textHSix` no estilo Bold.
   ///
-  /// ![text-h-six](https://api.iconify.design/ph/text-h-six-bold.svg?height=32&color=%23888888)
+  /// ![text-h-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-h-six.png)
   static const IconData textHSix = IconData(
     0xe6c6,
     fontFamily: 'PhosphorBold',
@@ -16495,7 +16495,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textHThree` no estilo Bold.
   ///
-  /// ![text-h-three](https://api.iconify.design/ph/text-h-three-bold.svg?height=32&color=%23888888)
+  /// ![text-h-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-h-three.png)
   static const IconData textHThree = IconData(
     0xe6c0,
     fontFamily: 'PhosphorBold',
@@ -16507,7 +16507,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textHTwo` no estilo Bold.
   ///
-  /// ![text-h-two](https://api.iconify.design/ph/text-h-two-bold.svg?height=32&color=%23888888)
+  /// ![text-h-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-h-two.png)
   static const IconData textHTwo = IconData(
     0xe6be,
     fontFamily: 'PhosphorBold',
@@ -16519,7 +16519,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textIndent` no estilo Bold.
   ///
-  /// ![text-indent](https://api.iconify.design/ph/text-indent-bold.svg?height=32&color=%23888888)
+  /// ![text-indent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-indent.png)
   static const IconData textIndent = IconData(
     0xea1e,
     fontFamily: 'PhosphorBold',
@@ -16531,7 +16531,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textItalic` no estilo Bold.
   ///
-  /// ![text-italic](https://api.iconify.design/ph/text-italic-bold.svg?height=32&color=%23888888)
+  /// ![text-italic](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-italic.png)
   static const IconData textItalic = IconData(
     0xe5c0,
     fontFamily: 'PhosphorBold',
@@ -16543,7 +16543,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textOutdent` no estilo Bold.
   ///
-  /// ![text-outdent](https://api.iconify.design/ph/text-outdent-bold.svg?height=32&color=%23888888)
+  /// ![text-outdent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-outdent.png)
   static const IconData textOutdent = IconData(
     0xea1c,
     fontFamily: 'PhosphorBold',
@@ -16555,7 +16555,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textStrikethrough` no estilo Bold.
   ///
-  /// ![text-strikethrough](https://api.iconify.design/ph/text-strikethrough-bold.svg?height=32&color=%23888888)
+  /// ![text-strikethrough](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-strikethrough.png)
   static const IconData textStrikethrough = IconData(
     0xe5c2,
     fontFamily: 'PhosphorBold',
@@ -16567,7 +16567,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textSubscript` no estilo Bold.
   ///
-  /// ![text-subscript](https://api.iconify.design/ph/text-subscript-bold.svg?height=32&color=%23888888)
+  /// ![text-subscript](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-subscript.png)
   static const IconData textSubscript = IconData(
     0xec98,
     fontFamily: 'PhosphorBold',
@@ -16579,7 +16579,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textSuperscript` no estilo Bold.
   ///
-  /// ![text-superscript](https://api.iconify.design/ph/text-superscript-bold.svg?height=32&color=%23888888)
+  /// ![text-superscript](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-superscript.png)
   static const IconData textSuperscript = IconData(
     0xec9a,
     fontFamily: 'PhosphorBold',
@@ -16591,7 +16591,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textT` no estilo Bold.
   ///
-  /// ![text-t](https://api.iconify.design/ph/text-t-bold.svg?height=32&color=%23888888)
+  /// ![text-t](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-t.png)
   static const IconData textT = IconData(
     0xe48a,
     fontFamily: 'PhosphorBold',
@@ -16603,7 +16603,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textTSlash` no estilo Bold.
   ///
-  /// ![text-t-slash](https://api.iconify.design/ph/text-t-slash-bold.svg?height=32&color=%23888888)
+  /// ![text-t-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-t-slash.png)
   static const IconData textTSlash = IconData(
     0xe488,
     fontFamily: 'PhosphorBold',
@@ -16615,7 +16615,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textUnderline` no estilo Bold.
   ///
-  /// ![text-underline](https://api.iconify.design/ph/text-underline-bold.svg?height=32&color=%23888888)
+  /// ![text-underline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/text-underline.png)
   static const IconData textUnderline = IconData(
     0xe5c4,
     fontFamily: 'PhosphorBold',
@@ -16627,7 +16627,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `textbox` no estilo Bold.
   ///
-  /// ![textbox](https://api.iconify.design/ph/textbox-bold.svg?height=32&color=%23888888)
+  /// ![textbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/textbox.png)
   static const IconData textbox = IconData(
     0xeb0a,
     fontFamily: 'PhosphorBold',
@@ -16639,7 +16639,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `thermometer` no estilo Bold.
   ///
-  /// ![thermometer](https://api.iconify.design/ph/thermometer-bold.svg?height=32&color=%23888888)
+  /// ![thermometer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/thermometer.png)
   static const IconData thermometer = IconData(
     0xe5c6,
     fontFamily: 'PhosphorBold',
@@ -16651,7 +16651,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `thermometerCold` no estilo Bold.
   ///
-  /// ![thermometer-cold](https://api.iconify.design/ph/thermometer-cold-bold.svg?height=32&color=%23888888)
+  /// ![thermometer-cold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/thermometer-cold.png)
   static const IconData thermometerCold = IconData(
     0xe5c8,
     fontFamily: 'PhosphorBold',
@@ -16663,7 +16663,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `thermometerHot` no estilo Bold.
   ///
-  /// ![thermometer-hot](https://api.iconify.design/ph/thermometer-hot-bold.svg?height=32&color=%23888888)
+  /// ![thermometer-hot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/thermometer-hot.png)
   static const IconData thermometerHot = IconData(
     0xe5ca,
     fontFamily: 'PhosphorBold',
@@ -16675,7 +16675,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `thermometerSimple` no estilo Bold.
   ///
-  /// ![thermometer-simple](https://api.iconify.design/ph/thermometer-simple-bold.svg?height=32&color=%23888888)
+  /// ![thermometer-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/thermometer-simple.png)
   static const IconData thermometerSimple = IconData(
     0xe5cc,
     fontFamily: 'PhosphorBold',
@@ -16687,7 +16687,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `threadsLogo` no estilo Bold.
   ///
-  /// ![threads-logo](https://api.iconify.design/ph/threads-logo-bold.svg?height=32&color=%23888888)
+  /// ![threads-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/threads-logo.png)
   static const IconData threadsLogo = IconData(
     0xed9e,
     fontFamily: 'PhosphorBold',
@@ -16699,7 +16699,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `threeD` no estilo Bold.
   ///
-  /// ![three-d](https://api.iconify.design/ph/three-d-bold.svg?height=32&color=%23888888)
+  /// ![three-d](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/three-d.png)
   static const IconData threeD = IconData(
     0xea5a,
     fontFamily: 'PhosphorBold',
@@ -16711,7 +16711,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `thumbsDown` no estilo Bold.
   ///
-  /// ![thumbs-down](https://api.iconify.design/ph/thumbs-down-bold.svg?height=32&color=%23888888)
+  /// ![thumbs-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/thumbs-down.png)
   static const IconData thumbsDown = IconData(
     0xe48c,
     fontFamily: 'PhosphorBold',
@@ -16723,7 +16723,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `thumbsUp` no estilo Bold.
   ///
-  /// ![thumbs-up](https://api.iconify.design/ph/thumbs-up-bold.svg?height=32&color=%23888888)
+  /// ![thumbs-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/thumbs-up.png)
   static const IconData thumbsUp = IconData(
     0xe48e,
     fontFamily: 'PhosphorBold',
@@ -16735,7 +16735,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `ticket` no estilo Bold.
   ///
-  /// ![ticket](https://api.iconify.design/ph/ticket-bold.svg?height=32&color=%23888888)
+  /// ![ticket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/ticket.png)
   static const IconData ticket = IconData(
     0xe490,
     fontFamily: 'PhosphorBold',
@@ -16747,7 +16747,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tidalLogo` no estilo Bold.
   ///
-  /// ![tidal-logo](https://api.iconify.design/ph/tidal-logo-bold.svg?height=32&color=%23888888)
+  /// ![tidal-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tidal-logo.png)
   static const IconData tidalLogo = IconData(
     0xed1c,
     fontFamily: 'PhosphorBold',
@@ -16759,7 +16759,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tiktokLogo` no estilo Bold.
   ///
-  /// ![tiktok-logo](https://api.iconify.design/ph/tiktok-logo-bold.svg?height=32&color=%23888888)
+  /// ![tiktok-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tiktok-logo.png)
   static const IconData tiktokLogo = IconData(
     0xeaf2,
     fontFamily: 'PhosphorBold',
@@ -16771,7 +16771,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tilde` no estilo Bold.
   ///
-  /// ![tilde](https://api.iconify.design/ph/tilde-bold.svg?height=32&color=%23888888)
+  /// ![tilde](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tilde.png)
   static const IconData tilde = IconData(
     0xeda8,
     fontFamily: 'PhosphorBold',
@@ -16783,7 +16783,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `timer` no estilo Bold.
   ///
-  /// ![timer](https://api.iconify.design/ph/timer-bold.svg?height=32&color=%23888888)
+  /// ![timer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/timer.png)
   static const IconData timer = IconData(
     0xe492,
     fontFamily: 'PhosphorBold',
@@ -16795,7 +16795,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tipJar` no estilo Bold.
   ///
-  /// ![tip-jar](https://api.iconify.design/ph/tip-jar-bold.svg?height=32&color=%23888888)
+  /// ![tip-jar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tip-jar.png)
   static const IconData tipJar = IconData(
     0xe7e2,
     fontFamily: 'PhosphorBold',
@@ -16807,7 +16807,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tipi` no estilo Bold.
   ///
-  /// ![tipi](https://api.iconify.design/ph/tipi-bold.svg?height=32&color=%23888888)
+  /// ![tipi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tipi.png)
   static const IconData tipi = IconData(
     0xed30,
     fontFamily: 'PhosphorBold',
@@ -16819,7 +16819,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tire` no estilo Bold.
   ///
-  /// ![tire](https://api.iconify.design/ph/tire-bold.svg?height=32&color=%23888888)
+  /// ![tire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tire.png)
   static const IconData tire = IconData(
     0xedd2,
     fontFamily: 'PhosphorBold',
@@ -16831,7 +16831,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `toggleLeft` no estilo Bold.
   ///
-  /// ![toggle-left](https://api.iconify.design/ph/toggle-left-bold.svg?height=32&color=%23888888)
+  /// ![toggle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/toggle-left.png)
   static const IconData toggleLeft = IconData(
     0xe674,
     fontFamily: 'PhosphorBold',
@@ -16843,7 +16843,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `toggleRight` no estilo Bold.
   ///
-  /// ![toggle-right](https://api.iconify.design/ph/toggle-right-bold.svg?height=32&color=%23888888)
+  /// ![toggle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/toggle-right.png)
   static const IconData toggleRight = IconData(
     0xe676,
     fontFamily: 'PhosphorBold',
@@ -16855,7 +16855,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `toilet` no estilo Bold.
   ///
-  /// ![toilet](https://api.iconify.design/ph/toilet-bold.svg?height=32&color=%23888888)
+  /// ![toilet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/toilet.png)
   static const IconData toilet = IconData(
     0xe79a,
     fontFamily: 'PhosphorBold',
@@ -16867,7 +16867,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `toiletPaper` no estilo Bold.
   ///
-  /// ![toilet-paper](https://api.iconify.design/ph/toilet-paper-bold.svg?height=32&color=%23888888)
+  /// ![toilet-paper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/toilet-paper.png)
   static const IconData toiletPaper = IconData(
     0xe79c,
     fontFamily: 'PhosphorBold',
@@ -16879,7 +16879,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `toolbox` no estilo Bold.
   ///
-  /// ![toolbox](https://api.iconify.design/ph/toolbox-bold.svg?height=32&color=%23888888)
+  /// ![toolbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/toolbox.png)
   static const IconData toolbox = IconData(
     0xeca0,
     fontFamily: 'PhosphorBold',
@@ -16891,7 +16891,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tooth` no estilo Bold.
   ///
-  /// ![tooth](https://api.iconify.design/ph/tooth-bold.svg?height=32&color=%23888888)
+  /// ![tooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tooth.png)
   static const IconData tooth = IconData(
     0xe9cc,
     fontFamily: 'PhosphorBold',
@@ -16903,7 +16903,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tornado` no estilo Bold.
   ///
-  /// ![tornado](https://api.iconify.design/ph/tornado-bold.svg?height=32&color=%23888888)
+  /// ![tornado](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tornado.png)
   static const IconData tornado = IconData(
     0xe88c,
     fontFamily: 'PhosphorBold',
@@ -16915,7 +16915,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tote` no estilo Bold.
   ///
-  /// ![tote](https://api.iconify.design/ph/tote-bold.svg?height=32&color=%23888888)
+  /// ![tote](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tote.png)
   static const IconData tote = IconData(
     0xe494,
     fontFamily: 'PhosphorBold',
@@ -16927,7 +16927,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `toteSimple` no estilo Bold.
   ///
-  /// ![tote-simple](https://api.iconify.design/ph/tote-simple-bold.svg?height=32&color=%23888888)
+  /// ![tote-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tote-simple.png)
   static const IconData toteSimple = IconData(
     0xe678,
     fontFamily: 'PhosphorBold',
@@ -16939,7 +16939,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `towel` no estilo Bold.
   ///
-  /// ![towel](https://api.iconify.design/ph/towel-bold.svg?height=32&color=%23888888)
+  /// ![towel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/towel.png)
   static const IconData towel = IconData(
     0xede6,
     fontFamily: 'PhosphorBold',
@@ -16951,7 +16951,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tractor` no estilo Bold.
   ///
-  /// ![tractor](https://api.iconify.design/ph/tractor-bold.svg?height=32&color=%23888888)
+  /// ![tractor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tractor.png)
   static const IconData tractor = IconData(
     0xec6e,
     fontFamily: 'PhosphorBold',
@@ -16963,7 +16963,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trademark` no estilo Bold.
   ///
-  /// ![trademark](https://api.iconify.design/ph/trademark-bold.svg?height=32&color=%23888888)
+  /// ![trademark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trademark.png)
   static const IconData trademark = IconData(
     0xe9f0,
     fontFamily: 'PhosphorBold',
@@ -16975,7 +16975,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trademarkRegistered` no estilo Bold.
   ///
-  /// ![trademark-registered](https://api.iconify.design/ph/trademark-registered-bold.svg?height=32&color=%23888888)
+  /// ![trademark-registered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trademark-registered.png)
   static const IconData trademarkRegistered = IconData(
     0xe3f4,
     fontFamily: 'PhosphorBold',
@@ -16987,7 +16987,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trafficCone` no estilo Bold.
   ///
-  /// ![traffic-cone](https://api.iconify.design/ph/traffic-cone-bold.svg?height=32&color=%23888888)
+  /// ![traffic-cone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/traffic-cone.png)
   static const IconData trafficCone = IconData(
     0xe9a8,
     fontFamily: 'PhosphorBold',
@@ -16999,7 +16999,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trafficSign` no estilo Bold.
   ///
-  /// ![traffic-sign](https://api.iconify.design/ph/traffic-sign-bold.svg?height=32&color=%23888888)
+  /// ![traffic-sign](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/traffic-sign.png)
   static const IconData trafficSign = IconData(
     0xe67a,
     fontFamily: 'PhosphorBold',
@@ -17011,7 +17011,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trafficSignal` no estilo Bold.
   ///
-  /// ![traffic-signal](https://api.iconify.design/ph/traffic-signal-bold.svg?height=32&color=%23888888)
+  /// ![traffic-signal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/traffic-signal.png)
   static const IconData trafficSignal = IconData(
     0xe9aa,
     fontFamily: 'PhosphorBold',
@@ -17023,7 +17023,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `train` no estilo Bold.
   ///
-  /// ![train](https://api.iconify.design/ph/train-bold.svg?height=32&color=%23888888)
+  /// ![train](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/train.png)
   static const IconData train = IconData(
     0xe496,
     fontFamily: 'PhosphorBold',
@@ -17035,7 +17035,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trainRegional` no estilo Bold.
   ///
-  /// ![train-regional](https://api.iconify.design/ph/train-regional-bold.svg?height=32&color=%23888888)
+  /// ![train-regional](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/train-regional.png)
   static const IconData trainRegional = IconData(
     0xe49e,
     fontFamily: 'PhosphorBold',
@@ -17047,7 +17047,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trainSimple` no estilo Bold.
   ///
-  /// ![train-simple](https://api.iconify.design/ph/train-simple-bold.svg?height=32&color=%23888888)
+  /// ![train-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/train-simple.png)
   static const IconData trainSimple = IconData(
     0xe4a0,
     fontFamily: 'PhosphorBold',
@@ -17059,7 +17059,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tram` no estilo Bold.
   ///
-  /// ![tram](https://api.iconify.design/ph/tram-bold.svg?height=32&color=%23888888)
+  /// ![tram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tram.png)
   static const IconData tram = IconData(
     0xe9ec,
     fontFamily: 'PhosphorBold',
@@ -17071,7 +17071,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `translate` no estilo Bold.
   ///
-  /// ![translate](https://api.iconify.design/ph/translate-bold.svg?height=32&color=%23888888)
+  /// ![translate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/translate.png)
   static const IconData translate = IconData(
     0xe4a2,
     fontFamily: 'PhosphorBold',
@@ -17083,7 +17083,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trash` no estilo Bold.
   ///
-  /// ![trash](https://api.iconify.design/ph/trash-bold.svg?height=32&color=%23888888)
+  /// ![trash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trash.png)
   static const IconData trash = IconData(
     0xe4a6,
     fontFamily: 'PhosphorBold',
@@ -17095,7 +17095,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trashSimple` no estilo Bold.
   ///
-  /// ![trash-simple](https://api.iconify.design/ph/trash-simple-bold.svg?height=32&color=%23888888)
+  /// ![trash-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trash-simple.png)
   static const IconData trashSimple = IconData(
     0xe4a8,
     fontFamily: 'PhosphorBold',
@@ -17107,7 +17107,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tray` no estilo Bold.
   ///
-  /// ![tray](https://api.iconify.design/ph/tray-bold.svg?height=32&color=%23888888)
+  /// ![tray](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tray.png)
   static const IconData tray = IconData(
     0xe4aa,
     fontFamily: 'PhosphorBold',
@@ -17119,7 +17119,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trayArrowDown` no estilo Bold.
   ///
-  /// ![tray-arrow-down](https://api.iconify.design/ph/tray-arrow-down-bold.svg?height=32&color=%23888888)
+  /// ![tray-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tray-arrow-down.png)
   static const IconData trayArrowDown = IconData(
     0xe010,
     fontFamily: 'PhosphorBold',
@@ -17131,7 +17131,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trayArrowUp` no estilo Bold.
   ///
-  /// ![tray-arrow-up](https://api.iconify.design/ph/tray-arrow-up-bold.svg?height=32&color=%23888888)
+  /// ![tray-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tray-arrow-up.png)
   static const IconData trayArrowUp = IconData(
     0xee52,
     fontFamily: 'PhosphorBold',
@@ -17143,7 +17143,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `treasureChest` no estilo Bold.
   ///
-  /// ![treasure-chest](https://api.iconify.design/ph/treasure-chest-bold.svg?height=32&color=%23888888)
+  /// ![treasure-chest](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/treasure-chest.png)
   static const IconData treasureChest = IconData(
     0xede2,
     fontFamily: 'PhosphorBold',
@@ -17155,7 +17155,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tree` no estilo Bold.
   ///
-  /// ![tree](https://api.iconify.design/ph/tree-bold.svg?height=32&color=%23888888)
+  /// ![tree](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tree.png)
   static const IconData tree = IconData(
     0xe6da,
     fontFamily: 'PhosphorBold',
@@ -17167,7 +17167,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `treeEvergreen` no estilo Bold.
   ///
-  /// ![tree-evergreen](https://api.iconify.design/ph/tree-evergreen-bold.svg?height=32&color=%23888888)
+  /// ![tree-evergreen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tree-evergreen.png)
   static const IconData treeEvergreen = IconData(
     0xe6dc,
     fontFamily: 'PhosphorBold',
@@ -17179,7 +17179,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `treePalm` no estilo Bold.
   ///
-  /// ![tree-palm](https://api.iconify.design/ph/tree-palm-bold.svg?height=32&color=%23888888)
+  /// ![tree-palm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tree-palm.png)
   static const IconData treePalm = IconData(
     0xe91a,
     fontFamily: 'PhosphorBold',
@@ -17191,7 +17191,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `treeStructure` no estilo Bold.
   ///
-  /// ![tree-structure](https://api.iconify.design/ph/tree-structure-bold.svg?height=32&color=%23888888)
+  /// ![tree-structure](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tree-structure.png)
   static const IconData treeStructure = IconData(
     0xe67c,
     fontFamily: 'PhosphorBold',
@@ -17203,7 +17203,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `treeView` no estilo Bold.
   ///
-  /// ![tree-view](https://api.iconify.design/ph/tree-view-bold.svg?height=32&color=%23888888)
+  /// ![tree-view](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tree-view.png)
   static const IconData treeView = IconData(
     0xee48,
     fontFamily: 'PhosphorBold',
@@ -17215,7 +17215,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trendDown` no estilo Bold.
   ///
-  /// ![trend-down](https://api.iconify.design/ph/trend-down-bold.svg?height=32&color=%23888888)
+  /// ![trend-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trend-down.png)
   static const IconData trendDown = IconData(
     0xe4ac,
     fontFamily: 'PhosphorBold',
@@ -17227,7 +17227,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trendUp` no estilo Bold.
   ///
-  /// ![trend-up](https://api.iconify.design/ph/trend-up-bold.svg?height=32&color=%23888888)
+  /// ![trend-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trend-up.png)
   static const IconData trendUp = IconData(
     0xe4ae,
     fontFamily: 'PhosphorBold',
@@ -17239,7 +17239,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `triangle` no estilo Bold.
   ///
-  /// ![triangle](https://api.iconify.design/ph/triangle-bold.svg?height=32&color=%23888888)
+  /// ![triangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/triangle.png)
   static const IconData triangle = IconData(
     0xe4b0,
     fontFamily: 'PhosphorBold',
@@ -17251,7 +17251,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `triangleDashed` no estilo Bold.
   ///
-  /// ![triangle-dashed](https://api.iconify.design/ph/triangle-dashed-bold.svg?height=32&color=%23888888)
+  /// ![triangle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/triangle-dashed.png)
   static const IconData triangleDashed = IconData(
     0xe4b2,
     fontFamily: 'PhosphorBold',
@@ -17263,7 +17263,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trolley` no estilo Bold.
   ///
-  /// ![trolley](https://api.iconify.design/ph/trolley-bold.svg?height=32&color=%23888888)
+  /// ![trolley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trolley.png)
   static const IconData trolley = IconData(
     0xe5b2,
     fontFamily: 'PhosphorBold',
@@ -17275,7 +17275,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trolleySuitcase` no estilo Bold.
   ///
-  /// ![trolley-suitcase](https://api.iconify.design/ph/trolley-suitcase-bold.svg?height=32&color=%23888888)
+  /// ![trolley-suitcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trolley-suitcase.png)
   static const IconData trolleySuitcase = IconData(
     0xe5b4,
     fontFamily: 'PhosphorBold',
@@ -17287,7 +17287,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `trophy` no estilo Bold.
   ///
-  /// ![trophy](https://api.iconify.design/ph/trophy-bold.svg?height=32&color=%23888888)
+  /// ![trophy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/trophy.png)
   static const IconData trophy = IconData(
     0xe67e,
     fontFamily: 'PhosphorBold',
@@ -17299,7 +17299,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `truck` no estilo Bold.
   ///
-  /// ![truck](https://api.iconify.design/ph/truck-bold.svg?height=32&color=%23888888)
+  /// ![truck](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/truck.png)
   static const IconData truck = IconData(
     0xe4b4,
     fontFamily: 'PhosphorBold',
@@ -17311,7 +17311,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `truckTrailer` no estilo Bold.
   ///
-  /// ![truck-trailer](https://api.iconify.design/ph/truck-trailer-bold.svg?height=32&color=%23888888)
+  /// ![truck-trailer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/truck-trailer.png)
   static const IconData truckTrailer = IconData(
     0xe4b6,
     fontFamily: 'PhosphorBold',
@@ -17323,7 +17323,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `tumblrLogo` no estilo Bold.
   ///
-  /// ![tumblr-logo](https://api.iconify.design/ph/tumblr-logo-bold.svg?height=32&color=%23888888)
+  /// ![tumblr-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/tumblr-logo.png)
   static const IconData tumblrLogo = IconData(
     0xe8d4,
     fontFamily: 'PhosphorBold',
@@ -17335,7 +17335,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `twitchLogo` no estilo Bold.
   ///
-  /// ![twitch-logo](https://api.iconify.design/ph/twitch-logo-bold.svg?height=32&color=%23888888)
+  /// ![twitch-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/twitch-logo.png)
   static const IconData twitchLogo = IconData(
     0xe5ce,
     fontFamily: 'PhosphorBold',
@@ -17347,7 +17347,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `twitterLogo` no estilo Bold.
   ///
-  /// ![twitter-logo](https://api.iconify.design/ph/twitter-logo-bold.svg?height=32&color=%23888888)
+  /// ![twitter-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/twitter-logo.png)
   static const IconData twitterLogo = IconData(
     0xe4ba,
     fontFamily: 'PhosphorBold',
@@ -17359,7 +17359,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `umbrella` no estilo Bold.
   ///
-  /// ![umbrella](https://api.iconify.design/ph/umbrella-bold.svg?height=32&color=%23888888)
+  /// ![umbrella](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/umbrella.png)
   static const IconData umbrella = IconData(
     0xe684,
     fontFamily: 'PhosphorBold',
@@ -17371,7 +17371,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `umbrellaSimple` no estilo Bold.
   ///
-  /// ![umbrella-simple](https://api.iconify.design/ph/umbrella-simple-bold.svg?height=32&color=%23888888)
+  /// ![umbrella-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/umbrella-simple.png)
   static const IconData umbrellaSimple = IconData(
     0xe686,
     fontFamily: 'PhosphorBold',
@@ -17383,7 +17383,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `union` no estilo Bold.
   ///
-  /// ![union](https://api.iconify.design/ph/union-bold.svg?height=32&color=%23888888)
+  /// ![union](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/union.png)
   static const IconData union = IconData(
     0xedbe,
     fontFamily: 'PhosphorBold',
@@ -17395,7 +17395,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `unite` no estilo Bold.
   ///
-  /// ![unite](https://api.iconify.design/ph/unite-bold.svg?height=32&color=%23888888)
+  /// ![unite](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/unite.png)
   static const IconData unite = IconData(
     0xe87e,
     fontFamily: 'PhosphorBold',
@@ -17407,7 +17407,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `uniteSquare` no estilo Bold.
   ///
-  /// ![unite-square](https://api.iconify.design/ph/unite-square-bold.svg?height=32&color=%23888888)
+  /// ![unite-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/unite-square.png)
   static const IconData uniteSquare = IconData(
     0xe878,
     fontFamily: 'PhosphorBold',
@@ -17419,7 +17419,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `upload` no estilo Bold.
   ///
-  /// ![upload](https://api.iconify.design/ph/upload-bold.svg?height=32&color=%23888888)
+  /// ![upload](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/upload.png)
   static const IconData upload = IconData(
     0xe4be,
     fontFamily: 'PhosphorBold',
@@ -17431,7 +17431,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `uploadSimple` no estilo Bold.
   ///
-  /// ![upload-simple](https://api.iconify.design/ph/upload-simple-bold.svg?height=32&color=%23888888)
+  /// ![upload-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/upload-simple.png)
   static const IconData uploadSimple = IconData(
     0xe4c0,
     fontFamily: 'PhosphorBold',
@@ -17443,7 +17443,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `usb` no estilo Bold.
   ///
-  /// ![usb](https://api.iconify.design/ph/usb-bold.svg?height=32&color=%23888888)
+  /// ![usb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/usb.png)
   static const IconData usb = IconData(
     0xe956,
     fontFamily: 'PhosphorBold',
@@ -17455,7 +17455,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `user` no estilo Bold.
   ///
-  /// ![user](https://api.iconify.design/ph/user-bold.svg?height=32&color=%23888888)
+  /// ![user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user.png)
   static const IconData user = IconData(
     0xe4c2,
     fontFamily: 'PhosphorBold',
@@ -17467,7 +17467,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userCheck` no estilo Bold.
   ///
-  /// ![user-check](https://api.iconify.design/ph/user-check-bold.svg?height=32&color=%23888888)
+  /// ![user-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-check.png)
   static const IconData userCheck = IconData(
     0xeafa,
     fontFamily: 'PhosphorBold',
@@ -17479,7 +17479,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userCircle` no estilo Bold.
   ///
-  /// ![user-circle](https://api.iconify.design/ph/user-circle-bold.svg?height=32&color=%23888888)
+  /// ![user-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-circle.png)
   static const IconData userCircle = IconData(
     0xe4c4,
     fontFamily: 'PhosphorBold',
@@ -17491,7 +17491,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userCircleCheck` no estilo Bold.
   ///
-  /// ![user-circle-check](https://api.iconify.design/ph/user-circle-check-bold.svg?height=32&color=%23888888)
+  /// ![user-circle-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-circle-check.png)
   static const IconData userCircleCheck = IconData(
     0xec38,
     fontFamily: 'PhosphorBold',
@@ -17503,7 +17503,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userCircleDashed` no estilo Bold.
   ///
-  /// ![user-circle-dashed](https://api.iconify.design/ph/user-circle-dashed-bold.svg?height=32&color=%23888888)
+  /// ![user-circle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-circle-dashed.png)
   static const IconData userCircleDashed = IconData(
     0xec36,
     fontFamily: 'PhosphorBold',
@@ -17515,7 +17515,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userCircleGear` no estilo Bold.
   ///
-  /// ![user-circle-gear](https://api.iconify.design/ph/user-circle-gear-bold.svg?height=32&color=%23888888)
+  /// ![user-circle-gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-circle-gear.png)
   static const IconData userCircleGear = IconData(
     0xe4c6,
     fontFamily: 'PhosphorBold',
@@ -17527,7 +17527,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userCircleMinus` no estilo Bold.
   ///
-  /// ![user-circle-minus](https://api.iconify.design/ph/user-circle-minus-bold.svg?height=32&color=%23888888)
+  /// ![user-circle-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-circle-minus.png)
   static const IconData userCircleMinus = IconData(
     0xe4c8,
     fontFamily: 'PhosphorBold',
@@ -17539,7 +17539,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userCirclePlus` no estilo Bold.
   ///
-  /// ![user-circle-plus](https://api.iconify.design/ph/user-circle-plus-bold.svg?height=32&color=%23888888)
+  /// ![user-circle-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-circle-plus.png)
   static const IconData userCirclePlus = IconData(
     0xe4ca,
     fontFamily: 'PhosphorBold',
@@ -17551,7 +17551,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userFocus` no estilo Bold.
   ///
-  /// ![user-focus](https://api.iconify.design/ph/user-focus-bold.svg?height=32&color=%23888888)
+  /// ![user-focus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-focus.png)
   static const IconData userFocus = IconData(
     0xe6fc,
     fontFamily: 'PhosphorBold',
@@ -17563,7 +17563,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userGear` no estilo Bold.
   ///
-  /// ![user-gear](https://api.iconify.design/ph/user-gear-bold.svg?height=32&color=%23888888)
+  /// ![user-gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-gear.png)
   static const IconData userGear = IconData(
     0xe4cc,
     fontFamily: 'PhosphorBold',
@@ -17575,7 +17575,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userList` no estilo Bold.
   ///
-  /// ![user-list](https://api.iconify.design/ph/user-list-bold.svg?height=32&color=%23888888)
+  /// ![user-list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-list.png)
   static const IconData userList = IconData(
     0xe73c,
     fontFamily: 'PhosphorBold',
@@ -17587,7 +17587,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userMinus` no estilo Bold.
   ///
-  /// ![user-minus](https://api.iconify.design/ph/user-minus-bold.svg?height=32&color=%23888888)
+  /// ![user-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-minus.png)
   static const IconData userMinus = IconData(
     0xe4ce,
     fontFamily: 'PhosphorBold',
@@ -17599,7 +17599,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userPlus` no estilo Bold.
   ///
-  /// ![user-plus](https://api.iconify.design/ph/user-plus-bold.svg?height=32&color=%23888888)
+  /// ![user-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-plus.png)
   static const IconData userPlus = IconData(
     0xe4d0,
     fontFamily: 'PhosphorBold',
@@ -17611,7 +17611,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userRectangle` no estilo Bold.
   ///
-  /// ![user-rectangle](https://api.iconify.design/ph/user-rectangle-bold.svg?height=32&color=%23888888)
+  /// ![user-rectangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-rectangle.png)
   static const IconData userRectangle = IconData(
     0xe4d2,
     fontFamily: 'PhosphorBold',
@@ -17623,7 +17623,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userSound` no estilo Bold.
   ///
-  /// ![user-sound](https://api.iconify.design/ph/user-sound-bold.svg?height=32&color=%23888888)
+  /// ![user-sound](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-sound.png)
   static const IconData userSound = IconData(
     0xeca8,
     fontFamily: 'PhosphorBold',
@@ -17635,7 +17635,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userSquare` no estilo Bold.
   ///
-  /// ![user-square](https://api.iconify.design/ph/user-square-bold.svg?height=32&color=%23888888)
+  /// ![user-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-square.png)
   static const IconData userSquare = IconData(
     0xe4d4,
     fontFamily: 'PhosphorBold',
@@ -17647,7 +17647,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `userSwitch` no estilo Bold.
   ///
-  /// ![user-switch](https://api.iconify.design/ph/user-switch-bold.svg?height=32&color=%23888888)
+  /// ![user-switch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/user-switch.png)
   static const IconData userSwitch = IconData(
     0xe756,
     fontFamily: 'PhosphorBold',
@@ -17659,7 +17659,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `users` no estilo Bold.
   ///
-  /// ![users](https://api.iconify.design/ph/users-bold.svg?height=32&color=%23888888)
+  /// ![users](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/users.png)
   static const IconData users = IconData(
     0xe4d6,
     fontFamily: 'PhosphorBold',
@@ -17671,7 +17671,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `usersFour` no estilo Bold.
   ///
-  /// ![users-four](https://api.iconify.design/ph/users-four-bold.svg?height=32&color=%23888888)
+  /// ![users-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/users-four.png)
   static const IconData usersFour = IconData(
     0xe68c,
     fontFamily: 'PhosphorBold',
@@ -17683,7 +17683,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `usersThree` no estilo Bold.
   ///
-  /// ![users-three](https://api.iconify.design/ph/users-three-bold.svg?height=32&color=%23888888)
+  /// ![users-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/users-three.png)
   static const IconData usersThree = IconData(
     0xe68e,
     fontFamily: 'PhosphorBold',
@@ -17695,7 +17695,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `van` no estilo Bold.
   ///
-  /// ![van](https://api.iconify.design/ph/van-bold.svg?height=32&color=%23888888)
+  /// ![van](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/van.png)
   static const IconData van = IconData(
     0xe826,
     fontFamily: 'PhosphorBold',
@@ -17707,7 +17707,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `vault` no estilo Bold.
   ///
-  /// ![vault](https://api.iconify.design/ph/vault-bold.svg?height=32&color=%23888888)
+  /// ![vault](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/vault.png)
   static const IconData vault = IconData(
     0xe76e,
     fontFamily: 'PhosphorBold',
@@ -17719,7 +17719,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `vectorThree` no estilo Bold.
   ///
-  /// ![vector-three](https://api.iconify.design/ph/vector-three-bold.svg?height=32&color=%23888888)
+  /// ![vector-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/vector-three.png)
   static const IconData vectorThree = IconData(
     0xee62,
     fontFamily: 'PhosphorBold',
@@ -17731,7 +17731,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `vectorTwo` no estilo Bold.
   ///
-  /// ![vector-two](https://api.iconify.design/ph/vector-two-bold.svg?height=32&color=%23888888)
+  /// ![vector-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/vector-two.png)
   static const IconData vectorTwo = IconData(
     0xee64,
     fontFamily: 'PhosphorBold',
@@ -17743,7 +17743,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `vibrate` no estilo Bold.
   ///
-  /// ![vibrate](https://api.iconify.design/ph/vibrate-bold.svg?height=32&color=%23888888)
+  /// ![vibrate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/vibrate.png)
   static const IconData vibrate = IconData(
     0xe4d8,
     fontFamily: 'PhosphorBold',
@@ -17755,7 +17755,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `video` no estilo Bold.
   ///
-  /// ![video](https://api.iconify.design/ph/video-bold.svg?height=32&color=%23888888)
+  /// ![video](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/video.png)
   static const IconData video = IconData(
     0xe740,
     fontFamily: 'PhosphorBold',
@@ -17767,7 +17767,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `videoCamera` no estilo Bold.
   ///
-  /// ![video-camera](https://api.iconify.design/ph/video-camera-bold.svg?height=32&color=%23888888)
+  /// ![video-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/video-camera.png)
   static const IconData videoCamera = IconData(
     0xe4da,
     fontFamily: 'PhosphorBold',
@@ -17779,7 +17779,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `videoCameraSlash` no estilo Bold.
   ///
-  /// ![video-camera-slash](https://api.iconify.design/ph/video-camera-slash-bold.svg?height=32&color=%23888888)
+  /// ![video-camera-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/video-camera-slash.png)
   static const IconData videoCameraSlash = IconData(
     0xe4dc,
     fontFamily: 'PhosphorBold',
@@ -17791,7 +17791,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `videoConference` no estilo Bold.
   ///
-  /// ![video-conference](https://api.iconify.design/ph/video-conference-bold.svg?height=32&color=%23888888)
+  /// ![video-conference](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/video-conference.png)
   static const IconData videoConference = IconData(
     0xedce,
     fontFamily: 'PhosphorBold',
@@ -17803,7 +17803,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `vignette` no estilo Bold.
   ///
-  /// ![vignette](https://api.iconify.design/ph/vignette-bold.svg?height=32&color=%23888888)
+  /// ![vignette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/vignette.png)
   static const IconData vignette = IconData(
     0xeba2,
     fontFamily: 'PhosphorBold',
@@ -17815,7 +17815,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `vinylRecord` no estilo Bold.
   ///
-  /// ![vinyl-record](https://api.iconify.design/ph/vinyl-record-bold.svg?height=32&color=%23888888)
+  /// ![vinyl-record](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/vinyl-record.png)
   static const IconData vinylRecord = IconData(
     0xecac,
     fontFamily: 'PhosphorBold',
@@ -17827,7 +17827,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `virtualReality` no estilo Bold.
   ///
-  /// ![virtual-reality](https://api.iconify.design/ph/virtual-reality-bold.svg?height=32&color=%23888888)
+  /// ![virtual-reality](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/virtual-reality.png)
   static const IconData virtualReality = IconData(
     0xe7b8,
     fontFamily: 'PhosphorBold',
@@ -17839,7 +17839,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `virus` no estilo Bold.
   ///
-  /// ![virus](https://api.iconify.design/ph/virus-bold.svg?height=32&color=%23888888)
+  /// ![virus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/virus.png)
   static const IconData virus = IconData(
     0xe7d6,
     fontFamily: 'PhosphorBold',
@@ -17851,7 +17851,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `visor` no estilo Bold.
   ///
-  /// ![visor](https://api.iconify.design/ph/visor-bold.svg?height=32&color=%23888888)
+  /// ![visor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/visor.png)
   static const IconData visor = IconData(
     0xee2a,
     fontFamily: 'PhosphorBold',
@@ -17863,7 +17863,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `voicemail` no estilo Bold.
   ///
-  /// ![voicemail](https://api.iconify.design/ph/voicemail-bold.svg?height=32&color=%23888888)
+  /// ![voicemail](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/voicemail.png)
   static const IconData voicemail = IconData(
     0xe4de,
     fontFamily: 'PhosphorBold',
@@ -17875,7 +17875,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `volleyball` no estilo Bold.
   ///
-  /// ![volleyball](https://api.iconify.design/ph/volleyball-bold.svg?height=32&color=%23888888)
+  /// ![volleyball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/volleyball.png)
   static const IconData volleyball = IconData(
     0xe726,
     fontFamily: 'PhosphorBold',
@@ -17887,7 +17887,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wall` no estilo Bold.
   ///
-  /// ![wall](https://api.iconify.design/ph/wall-bold.svg?height=32&color=%23888888)
+  /// ![wall](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wall.png)
   static const IconData wall = IconData(
     0xe688,
     fontFamily: 'PhosphorBold',
@@ -17899,7 +17899,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wallet` no estilo Bold.
   ///
-  /// ![wallet](https://api.iconify.design/ph/wallet-bold.svg?height=32&color=%23888888)
+  /// ![wallet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wallet.png)
   static const IconData wallet = IconData(
     0xe68a,
     fontFamily: 'PhosphorBold',
@@ -17911,7 +17911,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `warehouse` no estilo Bold.
   ///
-  /// ![warehouse](https://api.iconify.design/ph/warehouse-bold.svg?height=32&color=%23888888)
+  /// ![warehouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/warehouse.png)
   static const IconData warehouse = IconData(
     0xecd4,
     fontFamily: 'PhosphorBold',
@@ -17923,7 +17923,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `warning` no estilo Bold.
   ///
-  /// ![warning](https://api.iconify.design/ph/warning-bold.svg?height=32&color=%23888888)
+  /// ![warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/warning.png)
   static const IconData warning = IconData(
     0xe4e0,
     fontFamily: 'PhosphorBold',
@@ -17935,7 +17935,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `warningCircle` no estilo Bold.
   ///
-  /// ![warning-circle](https://api.iconify.design/ph/warning-circle-bold.svg?height=32&color=%23888888)
+  /// ![warning-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/warning-circle.png)
   static const IconData warningCircle = IconData(
     0xe4e2,
     fontFamily: 'PhosphorBold',
@@ -17947,7 +17947,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `warningDiamond` no estilo Bold.
   ///
-  /// ![warning-diamond](https://api.iconify.design/ph/warning-diamond-bold.svg?height=32&color=%23888888)
+  /// ![warning-diamond](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/warning-diamond.png)
   static const IconData warningDiamond = IconData(
     0xe7fc,
     fontFamily: 'PhosphorBold',
@@ -17959,7 +17959,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `warningOctagon` no estilo Bold.
   ///
-  /// ![warning-octagon](https://api.iconify.design/ph/warning-octagon-bold.svg?height=32&color=%23888888)
+  /// ![warning-octagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/warning-octagon.png)
   static const IconData warningOctagon = IconData(
     0xe4e4,
     fontFamily: 'PhosphorBold',
@@ -17971,7 +17971,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `washingMachine` no estilo Bold.
   ///
-  /// ![washing-machine](https://api.iconify.design/ph/washing-machine-bold.svg?height=32&color=%23888888)
+  /// ![washing-machine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/washing-machine.png)
   static const IconData washingMachine = IconData(
     0xede8,
     fontFamily: 'PhosphorBold',
@@ -17983,7 +17983,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `watch` no estilo Bold.
   ///
-  /// ![watch](https://api.iconify.design/ph/watch-bold.svg?height=32&color=%23888888)
+  /// ![watch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/watch.png)
   static const IconData watch = IconData(
     0xe4e6,
     fontFamily: 'PhosphorBold',
@@ -17995,7 +17995,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `waveSawtooth` no estilo Bold.
   ///
-  /// ![wave-sawtooth](https://api.iconify.design/ph/wave-sawtooth-bold.svg?height=32&color=%23888888)
+  /// ![wave-sawtooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wave-sawtooth.png)
   static const IconData waveSawtooth = IconData(
     0xea9c,
     fontFamily: 'PhosphorBold',
@@ -18007,7 +18007,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `waveSine` no estilo Bold.
   ///
-  /// ![wave-sine](https://api.iconify.design/ph/wave-sine-bold.svg?height=32&color=%23888888)
+  /// ![wave-sine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wave-sine.png)
   static const IconData waveSine = IconData(
     0xea9a,
     fontFamily: 'PhosphorBold',
@@ -18019,7 +18019,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `waveSquare` no estilo Bold.
   ///
-  /// ![wave-square](https://api.iconify.design/ph/wave-square-bold.svg?height=32&color=%23888888)
+  /// ![wave-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wave-square.png)
   static const IconData waveSquare = IconData(
     0xea9e,
     fontFamily: 'PhosphorBold',
@@ -18031,7 +18031,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `waveTriangle` no estilo Bold.
   ///
-  /// ![wave-triangle](https://api.iconify.design/ph/wave-triangle-bold.svg?height=32&color=%23888888)
+  /// ![wave-triangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wave-triangle.png)
   static const IconData waveTriangle = IconData(
     0xeaa0,
     fontFamily: 'PhosphorBold',
@@ -18043,7 +18043,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `waveform` no estilo Bold.
   ///
-  /// ![waveform](https://api.iconify.design/ph/waveform-bold.svg?height=32&color=%23888888)
+  /// ![waveform](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/waveform.png)
   static const IconData waveform = IconData(
     0xe802,
     fontFamily: 'PhosphorBold',
@@ -18055,7 +18055,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `waveformSlash` no estilo Bold.
   ///
-  /// ![waveform-slash](https://api.iconify.design/ph/waveform-slash-bold.svg?height=32&color=%23888888)
+  /// ![waveform-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/waveform-slash.png)
   static const IconData waveformSlash = IconData(
     0xe800,
     fontFamily: 'PhosphorBold',
@@ -18067,7 +18067,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `waves` no estilo Bold.
   ///
-  /// ![waves](https://api.iconify.design/ph/waves-bold.svg?height=32&color=%23888888)
+  /// ![waves](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/waves.png)
   static const IconData waves = IconData(
     0xe6de,
     fontFamily: 'PhosphorBold',
@@ -18079,7 +18079,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `webcam` no estilo Bold.
   ///
-  /// ![webcam](https://api.iconify.design/ph/webcam-bold.svg?height=32&color=%23888888)
+  /// ![webcam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/webcam.png)
   static const IconData webcam = IconData(
     0xe9b2,
     fontFamily: 'PhosphorBold',
@@ -18091,7 +18091,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `webcamSlash` no estilo Bold.
   ///
-  /// ![webcam-slash](https://api.iconify.design/ph/webcam-slash-bold.svg?height=32&color=%23888888)
+  /// ![webcam-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/webcam-slash.png)
   static const IconData webcamSlash = IconData(
     0xecdc,
     fontFamily: 'PhosphorBold',
@@ -18103,7 +18103,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `webhooksLogo` no estilo Bold.
   ///
-  /// ![webhooks-logo](https://api.iconify.design/ph/webhooks-logo-bold.svg?height=32&color=%23888888)
+  /// ![webhooks-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/webhooks-logo.png)
   static const IconData webhooksLogo = IconData(
     0xecae,
     fontFamily: 'PhosphorBold',
@@ -18115,7 +18115,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wechatLogo` no estilo Bold.
   ///
-  /// ![wechat-logo](https://api.iconify.design/ph/wechat-logo-bold.svg?height=32&color=%23888888)
+  /// ![wechat-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wechat-logo.png)
   static const IconData wechatLogo = IconData(
     0xe8d2,
     fontFamily: 'PhosphorBold',
@@ -18127,7 +18127,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `whatsappLogo` no estilo Bold.
   ///
-  /// ![whatsapp-logo](https://api.iconify.design/ph/whatsapp-logo-bold.svg?height=32&color=%23888888)
+  /// ![whatsapp-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/whatsapp-logo.png)
   static const IconData whatsappLogo = IconData(
     0xe5d0,
     fontFamily: 'PhosphorBold',
@@ -18139,7 +18139,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wheelchair` no estilo Bold.
   ///
-  /// ![wheelchair](https://api.iconify.design/ph/wheelchair-bold.svg?height=32&color=%23888888)
+  /// ![wheelchair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wheelchair.png)
   static const IconData wheelchair = IconData(
     0xe4e8,
     fontFamily: 'PhosphorBold',
@@ -18151,7 +18151,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wheelchairMotion` no estilo Bold.
   ///
-  /// ![wheelchair-motion](https://api.iconify.design/ph/wheelchair-motion-bold.svg?height=32&color=%23888888)
+  /// ![wheelchair-motion](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wheelchair-motion.png)
   static const IconData wheelchairMotion = IconData(
     0xe89a,
     fontFamily: 'PhosphorBold',
@@ -18163,7 +18163,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wifiHigh` no estilo Bold.
   ///
-  /// ![wifi-high](https://api.iconify.design/ph/wifi-high-bold.svg?height=32&color=%23888888)
+  /// ![wifi-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wifi-high.png)
   static const IconData wifiHigh = IconData(
     0xe4ea,
     fontFamily: 'PhosphorBold',
@@ -18175,7 +18175,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wifiLow` no estilo Bold.
   ///
-  /// ![wifi-low](https://api.iconify.design/ph/wifi-low-bold.svg?height=32&color=%23888888)
+  /// ![wifi-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wifi-low.png)
   static const IconData wifiLow = IconData(
     0xe4ec,
     fontFamily: 'PhosphorBold',
@@ -18187,7 +18187,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wifiMedium` no estilo Bold.
   ///
-  /// ![wifi-medium](https://api.iconify.design/ph/wifi-medium-bold.svg?height=32&color=%23888888)
+  /// ![wifi-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wifi-medium.png)
   static const IconData wifiMedium = IconData(
     0xe4ee,
     fontFamily: 'PhosphorBold',
@@ -18199,7 +18199,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wifiNone` no estilo Bold.
   ///
-  /// ![wifi-none](https://api.iconify.design/ph/wifi-none-bold.svg?height=32&color=%23888888)
+  /// ![wifi-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wifi-none.png)
   static const IconData wifiNone = IconData(
     0xe4f0,
     fontFamily: 'PhosphorBold',
@@ -18211,7 +18211,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wifiSlash` no estilo Bold.
   ///
-  /// ![wifi-slash](https://api.iconify.design/ph/wifi-slash-bold.svg?height=32&color=%23888888)
+  /// ![wifi-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wifi-slash.png)
   static const IconData wifiSlash = IconData(
     0xe4f2,
     fontFamily: 'PhosphorBold',
@@ -18223,7 +18223,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wifiX` no estilo Bold.
   ///
-  /// ![wifi-x](https://api.iconify.design/ph/wifi-x-bold.svg?height=32&color=%23888888)
+  /// ![wifi-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wifi-x.png)
   static const IconData wifiX = IconData(
     0xe4f4,
     fontFamily: 'PhosphorBold',
@@ -18235,7 +18235,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wind` no estilo Bold.
   ///
-  /// ![wind](https://api.iconify.design/ph/wind-bold.svg?height=32&color=%23888888)
+  /// ![wind](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wind.png)
   static const IconData wind = IconData(
     0xe5d2,
     fontFamily: 'PhosphorBold',
@@ -18247,7 +18247,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `windmill` no estilo Bold.
   ///
-  /// ![windmill](https://api.iconify.design/ph/windmill-bold.svg?height=32&color=%23888888)
+  /// ![windmill](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/windmill.png)
   static const IconData windmill = IconData(
     0xe9f8,
     fontFamily: 'PhosphorBold',
@@ -18259,7 +18259,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `windowsLogo` no estilo Bold.
   ///
-  /// ![windows-logo](https://api.iconify.design/ph/windows-logo-bold.svg?height=32&color=%23888888)
+  /// ![windows-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/windows-logo.png)
   static const IconData windowsLogo = IconData(
     0xe692,
     fontFamily: 'PhosphorBold',
@@ -18271,7 +18271,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wine` no estilo Bold.
   ///
-  /// ![wine](https://api.iconify.design/ph/wine-bold.svg?height=32&color=%23888888)
+  /// ![wine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wine.png)
   static const IconData wine = IconData(
     0xe6b2,
     fontFamily: 'PhosphorBold',
@@ -18283,7 +18283,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `wrench` no estilo Bold.
   ///
-  /// ![wrench](https://api.iconify.design/ph/wrench-bold.svg?height=32&color=%23888888)
+  /// ![wrench](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/wrench.png)
   static const IconData wrench = IconData(
     0xe5d4,
     fontFamily: 'PhosphorBold',
@@ -18295,7 +18295,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `x` no estilo Bold.
   ///
-  /// ![x](https://api.iconify.design/ph/x-bold.svg?height=32&color=%23888888)
+  /// ![x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/x.png)
   static const IconData x = IconData(
     0xe4f6,
     fontFamily: 'PhosphorBold',
@@ -18307,7 +18307,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `xCircle` no estilo Bold.
   ///
-  /// ![x-circle](https://api.iconify.design/ph/x-circle-bold.svg?height=32&color=%23888888)
+  /// ![x-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/x-circle.png)
   static const IconData xCircle = IconData(
     0xe4f8,
     fontFamily: 'PhosphorBold',
@@ -18319,7 +18319,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `xLogo` no estilo Bold.
   ///
-  /// ![x-logo](https://api.iconify.design/ph/x-logo-bold.svg?height=32&color=%23888888)
+  /// ![x-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/x-logo.png)
   static const IconData xLogo = IconData(
     0xe4bc,
     fontFamily: 'PhosphorBold',
@@ -18331,7 +18331,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `xSquare` no estilo Bold.
   ///
-  /// ![x-square](https://api.iconify.design/ph/x-square-bold.svg?height=32&color=%23888888)
+  /// ![x-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/x-square.png)
   static const IconData xSquare = IconData(
     0xe4fa,
     fontFamily: 'PhosphorBold',
@@ -18343,7 +18343,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `yarn` no estilo Bold.
   ///
-  /// ![yarn](https://api.iconify.design/ph/yarn-bold.svg?height=32&color=%23888888)
+  /// ![yarn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/yarn.png)
   static const IconData yarn = IconData(
     0xed9a,
     fontFamily: 'PhosphorBold',
@@ -18355,7 +18355,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `yinYang` no estilo Bold.
   ///
-  /// ![yin-yang](https://api.iconify.design/ph/yin-yang-bold.svg?height=32&color=%23888888)
+  /// ![yin-yang](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/yin-yang.png)
   static const IconData yinYang = IconData(
     0xe92a,
     fontFamily: 'PhosphorBold',
@@ -18367,7 +18367,7 @@ class PhosphorIconsBold {
   ///
   /// [PT] O ícone `youtubeLogo` no estilo Bold.
   ///
-  /// ![youtube-logo](https://api.iconify.design/ph/youtube-logo-bold.svg?height=32&color=%23888888)
+  /// ![youtube-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/bold/youtube-logo.png)
   static const IconData youtubeLogo = IconData(
     0xe4fc,
     fontFamily: 'PhosphorBold',

@@ -1,3 +1,8 @@
+## 1.1.1
+
+* **Icon previews now show in VS Code.** The preview images added to the docs in 1.1.0 were SVGs, and VS Code does not render remote SVGs in hovers (it showed a broken image). They are now small PNGs (48 px, one per constant, 9180 in total) served by jsDelivr and pinned to the release tag. They also work in the pub.dev API docs and in IntelliJ. The PNGs live in `doc/icons/` in the repository and are not part of the published package, so the package size does not change.
+* Code, icons and fonts are identical to 1.1.0.
+
 ## 1.1.0
 
 * **`shadows` is back** on `PhosphorIcon` (fixes [#1](https://github.com/lucaszafret/phosphoricons_flutter/issues/1)). It works in every style; in Duotone the shadows are applied to both layers, like the original `phosphor_flutter`.

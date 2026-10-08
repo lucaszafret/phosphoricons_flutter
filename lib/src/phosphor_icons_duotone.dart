@@ -27,7 +27,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `acorn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![acorn-duotone](https://api.iconify.design/ph/acorn-duotone.svg?height=32&color=%23888888)
+  /// ![acorn-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/acorn.png)
   static const acorn = PhosphorDuotoneIconData(
     IconData(
       0xeb9a,
@@ -47,7 +47,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `activity` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![activity-duotone](https://api.iconify.design/ph/pulse-duotone.svg?height=32&color=%23888888)
+  /// ![activity-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/activity.png)
   static const activity = PhosphorDuotoneIconData(
     IconData(
       0xe000,
@@ -67,7 +67,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `addressBook` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![address-book-duotone](https://api.iconify.design/ph/address-book-duotone.svg?height=32&color=%23888888)
+  /// ![address-book-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/address-book.png)
   static const addressBook = PhosphorDuotoneIconData(
     IconData(
       0xe6f8,
@@ -87,7 +87,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `addressBookTabs` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![address-book-tabs-duotone](https://api.iconify.design/ph/address-book-tabs-duotone.svg?height=32&color=%23888888)
+  /// ![address-book-tabs-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/address-book-tabs.png)
   static const addressBookTabs = PhosphorDuotoneIconData(
     IconData(
       0xee4e,
@@ -107,7 +107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airTrafficControl` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![air-traffic-control-duotone](https://api.iconify.design/ph/air-traffic-control-duotone.svg?height=32&color=%23888888)
+  /// ![air-traffic-control-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/air-traffic-control.png)
   static const airTrafficControl = PhosphorDuotoneIconData(
     IconData(
       0xecd8,
@@ -127,7 +127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airplane` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![airplane-duotone](https://api.iconify.design/ph/airplane-duotone.svg?height=32&color=%23888888)
+  /// ![airplane-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/airplane.png)
   static const airplane = PhosphorDuotoneIconData(
     IconData(
       0xe002,
@@ -147,7 +147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airplaneInFlight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![airplane-in-flight-duotone](https://api.iconify.design/ph/airplane-in-flight-duotone.svg?height=32&color=%23888888)
+  /// ![airplane-in-flight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/airplane-in-flight.png)
   static const airplaneInFlight = PhosphorDuotoneIconData(
     IconData(
       0xe4fe,
@@ -167,7 +167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airplaneLanding` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![airplane-landing-duotone](https://api.iconify.design/ph/airplane-landing-duotone.svg?height=32&color=%23888888)
+  /// ![airplane-landing-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/airplane-landing.png)
   static const airplaneLanding = PhosphorDuotoneIconData(
     IconData(
       0xe502,
@@ -187,7 +187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airplaneTakeoff` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![airplane-takeoff-duotone](https://api.iconify.design/ph/airplane-takeoff-duotone.svg?height=32&color=%23888888)
+  /// ![airplane-takeoff-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/airplane-takeoff.png)
   static const airplaneTakeoff = PhosphorDuotoneIconData(
     IconData(
       0xe504,
@@ -207,7 +207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airplaneTaxiing` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![airplane-taxiing-duotone](https://api.iconify.design/ph/airplane-taxiing-duotone.svg?height=32&color=%23888888)
+  /// ![airplane-taxiing-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/airplane-taxiing.png)
   static const airplaneTaxiing = PhosphorDuotoneIconData(
     IconData(
       0xe500,
@@ -227,7 +227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airplaneTilt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![airplane-tilt-duotone](https://api.iconify.design/ph/airplane-tilt-duotone.svg?height=32&color=%23888888)
+  /// ![airplane-tilt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/airplane-tilt.png)
   static const airplaneTilt = PhosphorDuotoneIconData(
     IconData(
       0xe5d6,
@@ -247,7 +247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `airplay` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![airplay-duotone](https://api.iconify.design/ph/airplay-duotone.svg?height=32&color=%23888888)
+  /// ![airplay-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/airplay.png)
   static const airplay = PhosphorDuotoneIconData(
     IconData(
       0xe004,
@@ -267,7 +267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alarm` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![alarm-duotone](https://api.iconify.design/ph/alarm-duotone.svg?height=32&color=%23888888)
+  /// ![alarm-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/alarm.png)
   static const alarm = PhosphorDuotoneIconData(
     IconData(
       0xe006,
@@ -287,7 +287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alien` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![alien-duotone](https://api.iconify.design/ph/alien-duotone.svg?height=32&color=%23888888)
+  /// ![alien-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/alien.png)
   static const alien = PhosphorDuotoneIconData(
     IconData(
       0xe8a6,
@@ -307,7 +307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-bottom-duotone](https://api.iconify.design/ph/align-bottom-duotone.svg?height=32&color=%23888888)
+  /// ![align-bottom-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-bottom.png)
   static const alignBottom = PhosphorDuotoneIconData(
     IconData(
       0xe506,
@@ -327,7 +327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignBottomSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-bottom-simple-duotone](https://api.iconify.design/ph/align-bottom-simple-duotone.svg?height=32&color=%23888888)
+  /// ![align-bottom-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-bottom-simple.png)
   static const alignBottomSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb0c,
@@ -347,7 +347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignCenterHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-center-horizontal-duotone](https://api.iconify.design/ph/align-center-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-center-horizontal.png)
   static const alignCenterHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe50a,
@@ -367,7 +367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-center-horizontal-simple-duotone](https://api.iconify.design/ph/align-center-horizontal-simple-duotone.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-center-horizontal-simple.png)
   static const alignCenterHorizontalSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb0e,
@@ -387,7 +387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignCenterVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-center-vertical-duotone](https://api.iconify.design/ph/align-center-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![align-center-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-center-vertical.png)
   static const alignCenterVertical = PhosphorDuotoneIconData(
     IconData(
       0xe50c,
@@ -407,7 +407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignCenterVerticalSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-center-vertical-simple-duotone](https://api.iconify.design/ph/align-center-vertical-simple-duotone.svg?height=32&color=%23888888)
+  /// ![align-center-vertical-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-center-vertical-simple.png)
   static const alignCenterVerticalSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb10,
@@ -427,7 +427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-left-duotone](https://api.iconify.design/ph/align-left-duotone.svg?height=32&color=%23888888)
+  /// ![align-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-left.png)
   static const alignLeft = PhosphorDuotoneIconData(
     IconData(
       0xe50e,
@@ -447,7 +447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignLeftSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-left-simple-duotone](https://api.iconify.design/ph/align-left-simple-duotone.svg?height=32&color=%23888888)
+  /// ![align-left-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-left-simple.png)
   static const alignLeftSimple = PhosphorDuotoneIconData(
     IconData(
       0xeaee,
@@ -467,7 +467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-right-duotone](https://api.iconify.design/ph/align-right-duotone.svg?height=32&color=%23888888)
+  /// ![align-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-right.png)
   static const alignRight = PhosphorDuotoneIconData(
     IconData(
       0xe510,
@@ -487,7 +487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignRightSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-right-simple-duotone](https://api.iconify.design/ph/align-right-simple-duotone.svg?height=32&color=%23888888)
+  /// ![align-right-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-right-simple.png)
   static const alignRightSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb12,
@@ -507,7 +507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignTop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-top-duotone](https://api.iconify.design/ph/align-top-duotone.svg?height=32&color=%23888888)
+  /// ![align-top-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-top.png)
   static const alignTop = PhosphorDuotoneIconData(
     IconData(
       0xe512,
@@ -527,7 +527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `alignTopSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![align-top-simple-duotone](https://api.iconify.design/ph/align-top-simple-duotone.svg?height=32&color=%23888888)
+  /// ![align-top-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/align-top-simple.png)
   static const alignTopSimple = PhosphorDuotoneIconData(
     IconData(
       0xeb14,
@@ -547,7 +547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `amazonLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![amazon-logo-duotone](https://api.iconify.design/ph/amazon-logo-duotone.svg?height=32&color=%23888888)
+  /// ![amazon-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/amazon-logo.png)
   static const amazonLogo = PhosphorDuotoneIconData(
     IconData(
       0xe96c,
@@ -567,7 +567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ambulance` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ambulance-duotone](https://api.iconify.design/ph/ambulance-duotone.svg?height=32&color=%23888888)
+  /// ![ambulance-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ambulance.png)
   static const ambulance = PhosphorDuotoneIconData(
     IconData(
       0xe572,
@@ -587,7 +587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `anchor` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![anchor-duotone](https://api.iconify.design/ph/anchor-duotone.svg?height=32&color=%23888888)
+  /// ![anchor-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/anchor.png)
   static const anchor = PhosphorDuotoneIconData(
     IconData(
       0xe514,
@@ -607,7 +607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `anchorSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![anchor-simple-duotone](https://api.iconify.design/ph/anchor-simple-duotone.svg?height=32&color=%23888888)
+  /// ![anchor-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/anchor-simple.png)
   static const anchorSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5d8,
@@ -627,7 +627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `androidLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![android-logo-duotone](https://api.iconify.design/ph/android-logo-duotone.svg?height=32&color=%23888888)
+  /// ![android-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/android-logo.png)
   static const androidLogo = PhosphorDuotoneIconData(
     IconData(
       0xe008,
@@ -647,7 +647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `angle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![angle-duotone](https://api.iconify.design/ph/angle-duotone.svg?height=32&color=%23888888)
+  /// ![angle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/angle.png)
   static const angle = PhosphorDuotoneIconData(
     IconData(
       0xe7bc,
@@ -667,7 +667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `angularLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![angular-logo-duotone](https://api.iconify.design/ph/angular-logo-duotone.svg?height=32&color=%23888888)
+  /// ![angular-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/angular-logo.png)
   static const angularLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb80,
@@ -687,7 +687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `aperture` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![aperture-duotone](https://api.iconify.design/ph/aperture-duotone.svg?height=32&color=%23888888)
+  /// ![aperture-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/aperture.png)
   static const aperture = PhosphorDuotoneIconData(
     IconData(
       0xe00a,
@@ -707,7 +707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `appStoreLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![app-store-logo-duotone](https://api.iconify.design/ph/app-store-logo-duotone.svg?height=32&color=%23888888)
+  /// ![app-store-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/app-store-logo.png)
   static const appStoreLogo = PhosphorDuotoneIconData(
     IconData(
       0xe974,
@@ -727,7 +727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `appWindow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![app-window-duotone](https://api.iconify.design/ph/app-window-duotone.svg?height=32&color=%23888888)
+  /// ![app-window-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/app-window.png)
   static const appWindow = PhosphorDuotoneIconData(
     IconData(
       0xe5da,
@@ -747,7 +747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `appleLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![apple-logo-duotone](https://api.iconify.design/ph/apple-logo-duotone.svg?height=32&color=%23888888)
+  /// ![apple-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/apple-logo.png)
   static const appleLogo = PhosphorDuotoneIconData(
     IconData(
       0xe516,
@@ -767,7 +767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `applePodcastsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![apple-podcasts-logo-duotone](https://api.iconify.design/ph/apple-podcasts-logo-duotone.svg?height=32&color=%23888888)
+  /// ![apple-podcasts-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/apple-podcasts-logo.png)
   static const applePodcastsLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb96,
@@ -787,7 +787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `approximateEquals` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![approximate-equals-duotone](https://api.iconify.design/ph/approximate-equals-duotone.svg?height=32&color=%23888888)
+  /// ![approximate-equals-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/approximate-equals.png)
   static const approximateEquals = PhosphorDuotoneIconData(
     IconData(
       0xedaa,
@@ -807,7 +807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `archive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![archive-duotone](https://api.iconify.design/ph/archive-duotone.svg?height=32&color=%23888888)
+  /// ![archive-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/archive.png)
   static const archive = PhosphorDuotoneIconData(
     IconData(
       0xe00c,
@@ -827,7 +827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `archiveBox` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![archive-box-duotone](https://api.iconify.design/ph/box-arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![archive-box-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/archive-box.png)
   static const archiveBox = PhosphorDuotoneIconData(
     IconData(
       0xe00e,
@@ -847,7 +847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `archiveTray` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![archive-tray-duotone](https://api.iconify.design/ph/tray-arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![archive-tray-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/archive-tray.png)
   static const archiveTray = PhosphorDuotoneIconData(
     IconData(
       0xe010,
@@ -867,7 +867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `armchair` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![armchair-duotone](https://api.iconify.design/ph/armchair-duotone.svg?height=32&color=%23888888)
+  /// ![armchair-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/armchair.png)
   static const armchair = PhosphorDuotoneIconData(
     IconData(
       0xe012,
@@ -887,7 +887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowArcLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-arc-left-duotone](https://api.iconify.design/ph/arrow-arc-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-arc-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-arc-left.png)
   static const arrowArcLeft = PhosphorDuotoneIconData(
     IconData(
       0xe014,
@@ -907,7 +907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowArcRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-arc-right-duotone](https://api.iconify.design/ph/arrow-arc-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-arc-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-arc-right.png)
   static const arrowArcRight = PhosphorDuotoneIconData(
     IconData(
       0xe016,
@@ -927,7 +927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-double-up-left-duotone](https://api.iconify.design/ph/arrow-bend-double-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-double-up-left.png)
   static const arrowBendDoubleUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe03a,
@@ -947,7 +947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-double-up-right-duotone](https://api.iconify.design/ph/arrow-bend-double-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-double-up-right.png)
   static const arrowBendDoubleUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe03c,
@@ -967,7 +967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-down-left-duotone](https://api.iconify.design/ph/arrow-bend-down-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-down-left.png)
   static const arrowBendDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe018,
@@ -987,7 +987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-down-right-duotone](https://api.iconify.design/ph/arrow-bend-down-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-down-right.png)
   static const arrowBendDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe01a,
@@ -1007,7 +1007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendLeftDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-left-down-duotone](https://api.iconify.design/ph/arrow-bend-left-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-left-down.png)
   static const arrowBendLeftDown = PhosphorDuotoneIconData(
     IconData(
       0xe01c,
@@ -1027,7 +1027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendLeftUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-left-up-duotone](https://api.iconify.design/ph/arrow-bend-left-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-left-up.png)
   static const arrowBendLeftUp = PhosphorDuotoneIconData(
     IconData(
       0xe01e,
@@ -1047,7 +1047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendRightDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-right-down-duotone](https://api.iconify.design/ph/arrow-bend-right-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-right-down.png)
   static const arrowBendRightDown = PhosphorDuotoneIconData(
     IconData(
       0xe020,
@@ -1067,7 +1067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendRightUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-right-up-duotone](https://api.iconify.design/ph/arrow-bend-right-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-right-up.png)
   static const arrowBendRightUp = PhosphorDuotoneIconData(
     IconData(
       0xe022,
@@ -1087,7 +1087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-up-left-duotone](https://api.iconify.design/ph/arrow-bend-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-up-left.png)
   static const arrowBendUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe024,
@@ -1107,7 +1107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowBendUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-bend-up-right-duotone](https://api.iconify.design/ph/arrow-bend-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-bend-up-right.png)
   static const arrowBendUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe026,
@@ -1127,7 +1127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-down-duotone](https://api.iconify.design/ph/arrow-circle-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-down.png)
   static const arrowCircleDown = PhosphorDuotoneIconData(
     IconData(
       0xe028,
@@ -1147,7 +1147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-down-left-duotone](https://api.iconify.design/ph/arrow-circle-down-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-down-left.png)
   static const arrowCircleDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe02a,
@@ -1167,7 +1167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-down-right-duotone](https://api.iconify.design/ph/arrow-circle-down-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-down-right.png)
   static const arrowCircleDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe02c,
@@ -1187,7 +1187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-left-duotone](https://api.iconify.design/ph/arrow-circle-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-left.png)
   static const arrowCircleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe05a,
@@ -1207,7 +1207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-right-duotone](https://api.iconify.design/ph/arrow-circle-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-right.png)
   static const arrowCircleRight = PhosphorDuotoneIconData(
     IconData(
       0xe02e,
@@ -1227,7 +1227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-up-duotone](https://api.iconify.design/ph/arrow-circle-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-up.png)
   static const arrowCircleUp = PhosphorDuotoneIconData(
     IconData(
       0xe030,
@@ -1247,7 +1247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-up-left-duotone](https://api.iconify.design/ph/arrow-circle-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-up-left.png)
   static const arrowCircleUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe032,
@@ -1267,7 +1267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCircleUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-circle-up-right-duotone](https://api.iconify.design/ph/arrow-circle-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-circle-up-right.png)
   static const arrowCircleUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe034,
@@ -1287,7 +1287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-clockwise-duotone](https://api.iconify.design/ph/arrow-clockwise-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-clockwise-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-clockwise.png)
   static const arrowClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe036,
@@ -1307,7 +1307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowCounterClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-counter-clockwise-duotone](https://api.iconify.design/ph/arrow-counter-clockwise-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-counter-clockwise-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-counter-clockwise.png)
   static const arrowCounterClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe038,
@@ -1327,7 +1327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-down-duotone](https://api.iconify.design/ph/arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-down.png)
   static const arrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe03e,
@@ -1347,7 +1347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-down-left-duotone](https://api.iconify.design/ph/arrow-down-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-down-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-down-left.png)
   static const arrowDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe040,
@@ -1367,7 +1367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-down-right-duotone](https://api.iconify.design/ph/arrow-down-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-down-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-down-right.png)
   static const arrowDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe042,
@@ -1387,7 +1387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-down-left-duotone](https://api.iconify.design/ph/arrow-elbow-down-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-down-left.png)
   static const arrowElbowDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe044,
@@ -1407,7 +1407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-down-right-duotone](https://api.iconify.design/ph/arrow-elbow-down-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-down-right.png)
   static const arrowElbowDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe046,
@@ -1427,7 +1427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-left-duotone](https://api.iconify.design/ph/arrow-elbow-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-left.png)
   static const arrowElbowLeft = PhosphorDuotoneIconData(
     IconData(
       0xe048,
@@ -1447,7 +1447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowLeftDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-left-down-duotone](https://api.iconify.design/ph/arrow-elbow-left-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-left-down.png)
   static const arrowElbowLeftDown = PhosphorDuotoneIconData(
     IconData(
       0xe04a,
@@ -1467,7 +1467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowLeftUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-left-up-duotone](https://api.iconify.design/ph/arrow-elbow-left-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-left-up.png)
   static const arrowElbowLeftUp = PhosphorDuotoneIconData(
     IconData(
       0xe04c,
@@ -1487,7 +1487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-right-duotone](https://api.iconify.design/ph/arrow-elbow-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-right.png)
   static const arrowElbowRight = PhosphorDuotoneIconData(
     IconData(
       0xe04e,
@@ -1507,7 +1507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowRightDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-right-down-duotone](https://api.iconify.design/ph/arrow-elbow-right-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-right-down.png)
   static const arrowElbowRightDown = PhosphorDuotoneIconData(
     IconData(
       0xe050,
@@ -1527,7 +1527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowRightUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-right-up-duotone](https://api.iconify.design/ph/arrow-elbow-right-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-right-up.png)
   static const arrowElbowRightUp = PhosphorDuotoneIconData(
     IconData(
       0xe052,
@@ -1547,7 +1547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-up-left-duotone](https://api.iconify.design/ph/arrow-elbow-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-up-left.png)
   static const arrowElbowUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe054,
@@ -1567,7 +1567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowElbowUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-elbow-up-right-duotone](https://api.iconify.design/ph/arrow-elbow-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-elbow-up-right.png)
   static const arrowElbowUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe056,
@@ -1587,7 +1587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-down-duotone](https://api.iconify.design/ph/arrow-fat-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-down.png)
   static const arrowFatDown = PhosphorDuotoneIconData(
     IconData(
       0xe518,
@@ -1607,7 +1607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-left-duotone](https://api.iconify.design/ph/arrow-fat-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-left.png)
   static const arrowFatLeft = PhosphorDuotoneIconData(
     IconData(
       0xe51a,
@@ -1627,7 +1627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-line-down-duotone](https://api.iconify.design/ph/arrow-fat-line-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-line-down.png)
   static const arrowFatLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe51c,
@@ -1647,7 +1647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLineLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-line-left-duotone](https://api.iconify.design/ph/arrow-fat-line-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-line-left.png)
   static const arrowFatLineLeft = PhosphorDuotoneIconData(
     IconData(
       0xe51e,
@@ -1667,7 +1667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLineRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-line-right-duotone](https://api.iconify.design/ph/arrow-fat-line-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-line-right.png)
   static const arrowFatLineRight = PhosphorDuotoneIconData(
     IconData(
       0xe520,
@@ -1687,7 +1687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-line-up-duotone](https://api.iconify.design/ph/arrow-fat-line-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-line-up.png)
   static const arrowFatLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe522,
@@ -1707,7 +1707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLinesDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-lines-down-duotone](https://api.iconify.design/ph/arrow-fat-lines-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-lines-down.png)
   static const arrowFatLinesDown = PhosphorDuotoneIconData(
     IconData(
       0xe524,
@@ -1727,7 +1727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLinesLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-lines-left-duotone](https://api.iconify.design/ph/arrow-fat-lines-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-lines-left.png)
   static const arrowFatLinesLeft = PhosphorDuotoneIconData(
     IconData(
       0xe526,
@@ -1747,7 +1747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLinesRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-lines-right-duotone](https://api.iconify.design/ph/arrow-fat-lines-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-lines-right.png)
   static const arrowFatLinesRight = PhosphorDuotoneIconData(
     IconData(
       0xe528,
@@ -1767,7 +1767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatLinesUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-lines-up-duotone](https://api.iconify.design/ph/arrow-fat-lines-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-lines-up.png)
   static const arrowFatLinesUp = PhosphorDuotoneIconData(
     IconData(
       0xe52a,
@@ -1787,7 +1787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-right-duotone](https://api.iconify.design/ph/arrow-fat-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-right.png)
   static const arrowFatRight = PhosphorDuotoneIconData(
     IconData(
       0xe52c,
@@ -1807,7 +1807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowFatUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-fat-up-duotone](https://api.iconify.design/ph/arrow-fat-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-fat-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-fat-up.png)
   static const arrowFatUp = PhosphorDuotoneIconData(
     IconData(
       0xe52e,
@@ -1827,7 +1827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-left-duotone](https://api.iconify.design/ph/arrow-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-left.png)
   static const arrowLeft = PhosphorDuotoneIconData(
     IconData(
       0xe058,
@@ -1847,7 +1847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-down-duotone](https://api.iconify.design/ph/arrow-line-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-down.png)
   static const arrowLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe05c,
@@ -1867,7 +1867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-down-left-duotone](https://api.iconify.design/ph/arrow-line-down-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-down-left.png)
   static const arrowLineDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe05e,
@@ -1887,7 +1887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-down-right-duotone](https://api.iconify.design/ph/arrow-line-down-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-down-right.png)
   static const arrowLineDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe060,
@@ -1907,7 +1907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-left-duotone](https://api.iconify.design/ph/arrow-line-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-left.png)
   static const arrowLineLeft = PhosphorDuotoneIconData(
     IconData(
       0xe062,
@@ -1927,7 +1927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-right-duotone](https://api.iconify.design/ph/arrow-line-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-right.png)
   static const arrowLineRight = PhosphorDuotoneIconData(
     IconData(
       0xe064,
@@ -1947,7 +1947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-up-duotone](https://api.iconify.design/ph/arrow-line-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-up.png)
   static const arrowLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe066,
@@ -1967,7 +1967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-up-left-duotone](https://api.iconify.design/ph/arrow-line-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-up-left.png)
   static const arrowLineUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe068,
@@ -1987,7 +1987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowLineUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-line-up-right-duotone](https://api.iconify.design/ph/arrow-line-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-line-up-right.png)
   static const arrowLineUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe06a,
@@ -2007,7 +2007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-right-duotone](https://api.iconify.design/ph/arrow-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-right.png)
   static const arrowRight = PhosphorDuotoneIconData(
     IconData(
       0xe06c,
@@ -2027,7 +2027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-down-duotone](https://api.iconify.design/ph/arrow-square-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-down.png)
   static const arrowSquareDown = PhosphorDuotoneIconData(
     IconData(
       0xe06e,
@@ -2047,7 +2047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-down-left-duotone](https://api.iconify.design/ph/arrow-square-down-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-down-left.png)
   static const arrowSquareDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe070,
@@ -2067,7 +2067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-down-right-duotone](https://api.iconify.design/ph/arrow-square-down-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-down-right.png)
   static const arrowSquareDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe072,
@@ -2087,7 +2087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareIn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-in-duotone](https://api.iconify.design/ph/arrow-square-in-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-in-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-in.png)
   static const arrowSquareIn = PhosphorDuotoneIconData(
     IconData(
       0xe5dc,
@@ -2107,7 +2107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-left-duotone](https://api.iconify.design/ph/arrow-square-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-left.png)
   static const arrowSquareLeft = PhosphorDuotoneIconData(
     IconData(
       0xe074,
@@ -2127,7 +2127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareOut` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-out-duotone](https://api.iconify.design/ph/arrow-square-out-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-out-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-out.png)
   static const arrowSquareOut = PhosphorDuotoneIconData(
     IconData(
       0xe5de,
@@ -2147,7 +2147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-right-duotone](https://api.iconify.design/ph/arrow-square-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-right.png)
   static const arrowSquareRight = PhosphorDuotoneIconData(
     IconData(
       0xe076,
@@ -2167,7 +2167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-up-duotone](https://api.iconify.design/ph/arrow-square-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-up.png)
   static const arrowSquareUp = PhosphorDuotoneIconData(
     IconData(
       0xe078,
@@ -2187,7 +2187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-up-left-duotone](https://api.iconify.design/ph/arrow-square-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-up-left.png)
   static const arrowSquareUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe07a,
@@ -2207,7 +2207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowSquareUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-square-up-right-duotone](https://api.iconify.design/ph/arrow-square-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-square-up-right.png)
   static const arrowSquareUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe07c,
@@ -2227,7 +2227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowUDownLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-down-left-duotone](https://api.iconify.design/ph/arrow-u-down-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-down-left.png)
   static const arrowUDownLeft = PhosphorDuotoneIconData(
     IconData(
       0xe07e,
@@ -2247,7 +2247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowUDownRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-down-right-duotone](https://api.iconify.design/ph/arrow-u-down-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-down-right.png)
   static const arrowUDownRight = PhosphorDuotoneIconData(
     IconData(
       0xe080,
@@ -2267,7 +2267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowULeftDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-left-down-duotone](https://api.iconify.design/ph/arrow-u-left-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-left-down.png)
   static const arrowULeftDown = PhosphorDuotoneIconData(
     IconData(
       0xe082,
@@ -2287,7 +2287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowULeftUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-left-up-duotone](https://api.iconify.design/ph/arrow-u-left-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-left-up.png)
   static const arrowULeftUp = PhosphorDuotoneIconData(
     IconData(
       0xe084,
@@ -2307,7 +2307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowURightDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-right-down-duotone](https://api.iconify.design/ph/arrow-u-right-down-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-right-down.png)
   static const arrowURightDown = PhosphorDuotoneIconData(
     IconData(
       0xe086,
@@ -2327,7 +2327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowURightUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-right-up-duotone](https://api.iconify.design/ph/arrow-u-right-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-right-up.png)
   static const arrowURightUp = PhosphorDuotoneIconData(
     IconData(
       0xe088,
@@ -2347,7 +2347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowUUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-up-left-duotone](https://api.iconify.design/ph/arrow-u-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-up-left.png)
   static const arrowUUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe08a,
@@ -2367,7 +2367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowUUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-u-up-right-duotone](https://api.iconify.design/ph/arrow-u-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-u-up-right.png)
   static const arrowUUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe08c,
@@ -2387,7 +2387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-up-duotone](https://api.iconify.design/ph/arrow-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-up.png)
   static const arrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe08e,
@@ -2407,7 +2407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowUpLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-up-left-duotone](https://api.iconify.design/ph/arrow-up-left-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-up-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-up-left.png)
   static const arrowUpLeft = PhosphorDuotoneIconData(
     IconData(
       0xe090,
@@ -2427,7 +2427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowUpRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrow-up-right-duotone](https://api.iconify.design/ph/arrow-up-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrow-up-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrow-up-right.png)
   static const arrowUpRight = PhosphorDuotoneIconData(
     IconData(
       0xe092,
@@ -2447,7 +2447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-clockwise-duotone](https://api.iconify.design/ph/arrows-clockwise-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-clockwise-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-clockwise.png)
   static const arrowsClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe094,
@@ -2467,7 +2467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsCounterClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-counter-clockwise-duotone](https://api.iconify.design/ph/arrows-counter-clockwise-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-counter-clockwise-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-counter-clockwise.png)
   static const arrowsCounterClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe096,
@@ -2487,7 +2487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsDownUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-down-up-duotone](https://api.iconify.design/ph/arrows-down-up-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-down-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-down-up.png)
   static const arrowsDownUp = PhosphorDuotoneIconData(
     IconData(
       0xe098,
@@ -2507,7 +2507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-horizontal-duotone](https://api.iconify.design/ph/arrows-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-horizontal.png)
   static const arrowsHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xeb06,
@@ -2527,7 +2527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsIn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-in-duotone](https://api.iconify.design/ph/arrows-in-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-in-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-in.png)
   static const arrowsIn = PhosphorDuotoneIconData(
     IconData(
       0xe09a,
@@ -2547,7 +2547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsInCardinal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-in-cardinal-duotone](https://api.iconify.design/ph/arrows-in-cardinal-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-in-cardinal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-in-cardinal.png)
   static const arrowsInCardinal = PhosphorDuotoneIconData(
     IconData(
       0xe09c,
@@ -2567,7 +2567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsInLineHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-in-line-horizontal-duotone](https://api.iconify.design/ph/arrows-in-line-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-in-line-horizontal.png)
   static const arrowsInLineHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe530,
@@ -2587,7 +2587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsInLineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-in-line-vertical-duotone](https://api.iconify.design/ph/arrows-in-line-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-in-line-vertical.png)
   static const arrowsInLineVertical = PhosphorDuotoneIconData(
     IconData(
       0xe532,
@@ -2607,7 +2607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsInSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-in-simple-duotone](https://api.iconify.design/ph/arrows-in-simple-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-in-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-in-simple.png)
   static const arrowsInSimple = PhosphorDuotoneIconData(
     IconData(
       0xe09e,
@@ -2627,7 +2627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsLeftRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-left-right-duotone](https://api.iconify.design/ph/arrows-left-right-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-left-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-left-right.png)
   static const arrowsLeftRight = PhosphorDuotoneIconData(
     IconData(
       0xe0a0,
@@ -2647,7 +2647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsMerge` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-merge-duotone](https://api.iconify.design/ph/arrows-merge-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-merge-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-merge.png)
   static const arrowsMerge = PhosphorDuotoneIconData(
     IconData(
       0xed3e,
@@ -2667,7 +2667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsOut` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-out-duotone](https://api.iconify.design/ph/arrows-out-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-out-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-out.png)
   static const arrowsOut = PhosphorDuotoneIconData(
     IconData(
       0xe0a2,
@@ -2687,7 +2687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsOutCardinal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-out-cardinal-duotone](https://api.iconify.design/ph/arrows-out-cardinal-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-out-cardinal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-out-cardinal.png)
   static const arrowsOutCardinal = PhosphorDuotoneIconData(
     IconData(
       0xe0a4,
@@ -2707,7 +2707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-out-line-horizontal-duotone](https://api.iconify.design/ph/arrows-out-line-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-out-line-horizontal.png)
   static const arrowsOutLineHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe534,
@@ -2727,7 +2727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsOutLineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-out-line-vertical-duotone](https://api.iconify.design/ph/arrows-out-line-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-out-line-vertical.png)
   static const arrowsOutLineVertical = PhosphorDuotoneIconData(
     IconData(
       0xe536,
@@ -2747,7 +2747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsOutSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-out-simple-duotone](https://api.iconify.design/ph/arrows-out-simple-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-out-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-out-simple.png)
   static const arrowsOutSimple = PhosphorDuotoneIconData(
     IconData(
       0xe0a6,
@@ -2767,7 +2767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsSplit` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-split-duotone](https://api.iconify.design/ph/arrows-split-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-split-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-split.png)
   static const arrowsSplit = PhosphorDuotoneIconData(
     IconData(
       0xed3c,
@@ -2787,7 +2787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `arrowsVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![arrows-vertical-duotone](https://api.iconify.design/ph/arrows-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![arrows-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/arrows-vertical.png)
   static const arrowsVertical = PhosphorDuotoneIconData(
     IconData(
       0xeb04,
@@ -2807,7 +2807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `article` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![article-duotone](https://api.iconify.design/ph/article-duotone.svg?height=32&color=%23888888)
+  /// ![article-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/article.png)
   static const article = PhosphorDuotoneIconData(
     IconData(
       0xe0a8,
@@ -2827,7 +2827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `articleMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![article-medium-duotone](https://api.iconify.design/ph/article-medium-duotone.svg?height=32&color=%23888888)
+  /// ![article-medium-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/article-medium.png)
   static const articleMedium = PhosphorDuotoneIconData(
     IconData(
       0xe5e0,
@@ -2847,7 +2847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `articleNyTimes` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![article-ny-times-duotone](https://api.iconify.design/ph/article-ny-times-duotone.svg?height=32&color=%23888888)
+  /// ![article-ny-times-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/article-ny-times.png)
   static const articleNyTimes = PhosphorDuotoneIconData(
     IconData(
       0xe5e2,
@@ -2867,7 +2867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `asclepius` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![asclepius-duotone](https://api.iconify.design/ph/asclepius-duotone.svg?height=32&color=%23888888)
+  /// ![asclepius-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/asclepius.png)
   static const asclepius = PhosphorDuotoneIconData(
     IconData(
       0xee34,
@@ -2887,7 +2887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `asterisk` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![asterisk-duotone](https://api.iconify.design/ph/asterisk-duotone.svg?height=32&color=%23888888)
+  /// ![asterisk-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/asterisk.png)
   static const asterisk = PhosphorDuotoneIconData(
     IconData(
       0xe0aa,
@@ -2907,7 +2907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `asteriskSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![asterisk-simple-duotone](https://api.iconify.design/ph/asterisk-simple-duotone.svg?height=32&color=%23888888)
+  /// ![asterisk-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/asterisk-simple.png)
   static const asteriskSimple = PhosphorDuotoneIconData(
     IconData(
       0xe832,
@@ -2927,7 +2927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `at` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![at-duotone](https://api.iconify.design/ph/at-duotone.svg?height=32&color=%23888888)
+  /// ![at-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/at.png)
   static const at = PhosphorDuotoneIconData(
     IconData(
       0xe0ac,
@@ -2947,7 +2947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `atom` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![atom-duotone](https://api.iconify.design/ph/atom-duotone.svg?height=32&color=%23888888)
+  /// ![atom-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/atom.png)
   static const atom = PhosphorDuotoneIconData(
     IconData(
       0xe5e4,
@@ -2967,7 +2967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `avocado` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![avocado-duotone](https://api.iconify.design/ph/avocado-duotone.svg?height=32&color=%23888888)
+  /// ![avocado-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/avocado.png)
   static const avocado = PhosphorDuotoneIconData(
     IconData(
       0xee04,
@@ -2987,7 +2987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `axe` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![axe-duotone](https://api.iconify.design/ph/axe-duotone.svg?height=32&color=%23888888)
+  /// ![axe-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/axe.png)
   static const axe = PhosphorDuotoneIconData(
     IconData(
       0xe9fc,
@@ -3007,7 +3007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `baby` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![baby-duotone](https://api.iconify.design/ph/baby-duotone.svg?height=32&color=%23888888)
+  /// ![baby-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/baby.png)
   static const baby = PhosphorDuotoneIconData(
     IconData(
       0xe774,
@@ -3027,7 +3027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `babyCarriage` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![baby-carriage-duotone](https://api.iconify.design/ph/baby-carriage-duotone.svg?height=32&color=%23888888)
+  /// ![baby-carriage-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/baby-carriage.png)
   static const babyCarriage = PhosphorDuotoneIconData(
     IconData(
       0xe818,
@@ -3047,7 +3047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `backpack` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![backpack-duotone](https://api.iconify.design/ph/backpack-duotone.svg?height=32&color=%23888888)
+  /// ![backpack-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/backpack.png)
   static const backpack = PhosphorDuotoneIconData(
     IconData(
       0xe922,
@@ -3067,7 +3067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `backspace` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![backspace-duotone](https://api.iconify.design/ph/backspace-duotone.svg?height=32&color=%23888888)
+  /// ![backspace-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/backspace.png)
   static const backspace = PhosphorDuotoneIconData(
     IconData(
       0xe0ae,
@@ -3087,7 +3087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bag` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bag-duotone](https://api.iconify.design/ph/bag-duotone.svg?height=32&color=%23888888)
+  /// ![bag-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bag.png)
   static const bag = PhosphorDuotoneIconData(
     IconData(
       0xe0b0,
@@ -3107,7 +3107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bagSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bag-simple-duotone](https://api.iconify.design/ph/bag-simple-duotone.svg?height=32&color=%23888888)
+  /// ![bag-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bag-simple.png)
   static const bagSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5e6,
@@ -3127,7 +3127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `balloon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![balloon-duotone](https://api.iconify.design/ph/balloon-duotone.svg?height=32&color=%23888888)
+  /// ![balloon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/balloon.png)
   static const balloon = PhosphorDuotoneIconData(
     IconData(
       0xe76c,
@@ -3147,7 +3147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bandaids` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bandaids-duotone](https://api.iconify.design/ph/bandaids-duotone.svg?height=32&color=%23888888)
+  /// ![bandaids-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bandaids.png)
   static const bandaids = PhosphorDuotoneIconData(
     IconData(
       0xe0b2,
@@ -3167,7 +3167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bank` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bank-duotone](https://api.iconify.design/ph/bank-duotone.svg?height=32&color=%23888888)
+  /// ![bank-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bank.png)
   static const bank = PhosphorDuotoneIconData(
     IconData(
       0xe0b4,
@@ -3187,7 +3187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `barbell` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![barbell-duotone](https://api.iconify.design/ph/barbell-duotone.svg?height=32&color=%23888888)
+  /// ![barbell-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/barbell.png)
   static const barbell = PhosphorDuotoneIconData(
     IconData(
       0xe0b6,
@@ -3207,7 +3207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `barcode` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![barcode-duotone](https://api.iconify.design/ph/barcode-duotone.svg?height=32&color=%23888888)
+  /// ![barcode-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/barcode.png)
   static const barcode = PhosphorDuotoneIconData(
     IconData(
       0xe0b8,
@@ -3227,7 +3227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `barn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![barn-duotone](https://api.iconify.design/ph/barn-duotone.svg?height=32&color=%23888888)
+  /// ![barn-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/barn.png)
   static const barn = PhosphorDuotoneIconData(
     IconData(
       0xec72,
@@ -3247,7 +3247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `barricade` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![barricade-duotone](https://api.iconify.design/ph/barricade-duotone.svg?height=32&color=%23888888)
+  /// ![barricade-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/barricade.png)
   static const barricade = PhosphorDuotoneIconData(
     IconData(
       0xe948,
@@ -3267,7 +3267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `baseball` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![baseball-duotone](https://api.iconify.design/ph/baseball-duotone.svg?height=32&color=%23888888)
+  /// ![baseball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/baseball.png)
   static const baseball = PhosphorDuotoneIconData(
     IconData(
       0xe71a,
@@ -3287,7 +3287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `baseballCap` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![baseball-cap-duotone](https://api.iconify.design/ph/baseball-cap-duotone.svg?height=32&color=%23888888)
+  /// ![baseball-cap-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/baseball-cap.png)
   static const baseballCap = PhosphorDuotoneIconData(
     IconData(
       0xea28,
@@ -3307,7 +3307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `baseballHelmet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![baseball-helmet-duotone](https://api.iconify.design/ph/baseball-helmet-duotone.svg?height=32&color=%23888888)
+  /// ![baseball-helmet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/baseball-helmet.png)
   static const baseballHelmet = PhosphorDuotoneIconData(
     IconData(
       0xee4a,
@@ -3327,7 +3327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `basket` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![basket-duotone](https://api.iconify.design/ph/basket-duotone.svg?height=32&color=%23888888)
+  /// ![basket-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/basket.png)
   static const basket = PhosphorDuotoneIconData(
     IconData(
       0xe964,
@@ -3347,7 +3347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `basketball` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![basketball-duotone](https://api.iconify.design/ph/basketball-duotone.svg?height=32&color=%23888888)
+  /// ![basketball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/basketball.png)
   static const basketball = PhosphorDuotoneIconData(
     IconData(
       0xe724,
@@ -3367,7 +3367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bathtub` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bathtub-duotone](https://api.iconify.design/ph/bathtub-duotone.svg?height=32&color=%23888888)
+  /// ![bathtub-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bathtub.png)
   static const bathtub = PhosphorDuotoneIconData(
     IconData(
       0xe81e,
@@ -3387,7 +3387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryCharging` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-charging-duotone](https://api.iconify.design/ph/battery-charging-duotone.svg?height=32&color=%23888888)
+  /// ![battery-charging-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-charging.png)
   static const batteryCharging = PhosphorDuotoneIconData(
     IconData(
       0xe0ba,
@@ -3407,7 +3407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryChargingVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-charging-vertical-duotone](https://api.iconify.design/ph/battery-charging-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![battery-charging-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-charging-vertical.png)
   static const batteryChargingVertical = PhosphorDuotoneIconData(
     IconData(
       0xe0bc,
@@ -3427,7 +3427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryEmpty` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-empty-duotone](https://api.iconify.design/ph/battery-empty-duotone.svg?height=32&color=%23888888)
+  /// ![battery-empty-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-empty.png)
   static const batteryEmpty = PhosphorDuotoneIconData(
     IconData(
       0xe0be,
@@ -3447,7 +3447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryFull` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-full-duotone](https://api.iconify.design/ph/battery-full-duotone.svg?height=32&color=%23888888)
+  /// ![battery-full-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-full.png)
   static const batteryFull = PhosphorDuotoneIconData(
     IconData(
       0xe0c0,
@@ -3467,7 +3467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-high-duotone](https://api.iconify.design/ph/battery-high-duotone.svg?height=32&color=%23888888)
+  /// ![battery-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-high.png)
   static const batteryHigh = PhosphorDuotoneIconData(
     IconData(
       0xe0c2,
@@ -3487,7 +3487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-low-duotone](https://api.iconify.design/ph/battery-low-duotone.svg?height=32&color=%23888888)
+  /// ![battery-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-low.png)
   static const batteryLow = PhosphorDuotoneIconData(
     IconData(
       0xe0c4,
@@ -3507,7 +3507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-medium-duotone](https://api.iconify.design/ph/battery-medium-duotone.svg?height=32&color=%23888888)
+  /// ![battery-medium-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-medium.png)
   static const batteryMedium = PhosphorDuotoneIconData(
     IconData(
       0xe0c6,
@@ -3527,7 +3527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-plus-duotone](https://api.iconify.design/ph/battery-plus-duotone.svg?height=32&color=%23888888)
+  /// ![battery-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-plus.png)
   static const batteryPlus = PhosphorDuotoneIconData(
     IconData(
       0xe808,
@@ -3547,7 +3547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryPlusVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-plus-vertical-duotone](https://api.iconify.design/ph/battery-plus-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![battery-plus-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-plus-vertical.png)
   static const batteryPlusVertical = PhosphorDuotoneIconData(
     IconData(
       0xec50,
@@ -3567,7 +3567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryVerticalEmpty` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-vertical-empty-duotone](https://api.iconify.design/ph/battery-vertical-empty-duotone.svg?height=32&color=%23888888)
+  /// ![battery-vertical-empty-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-vertical-empty.png)
   static const batteryVerticalEmpty = PhosphorDuotoneIconData(
     IconData(
       0xe7c6,
@@ -3587,7 +3587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryVerticalFull` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-vertical-full-duotone](https://api.iconify.design/ph/battery-vertical-full-duotone.svg?height=32&color=%23888888)
+  /// ![battery-vertical-full-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-vertical-full.png)
   static const batteryVerticalFull = PhosphorDuotoneIconData(
     IconData(
       0xe7c4,
@@ -3607,7 +3607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryVerticalHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-vertical-high-duotone](https://api.iconify.design/ph/battery-vertical-high-duotone.svg?height=32&color=%23888888)
+  /// ![battery-vertical-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-vertical-high.png)
   static const batteryVerticalHigh = PhosphorDuotoneIconData(
     IconData(
       0xe7c2,
@@ -3627,7 +3627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryVerticalLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-vertical-low-duotone](https://api.iconify.design/ph/battery-vertical-low-duotone.svg?height=32&color=%23888888)
+  /// ![battery-vertical-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-vertical-low.png)
   static const batteryVerticalLow = PhosphorDuotoneIconData(
     IconData(
       0xe7be,
@@ -3647,7 +3647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryVerticalMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-vertical-medium-duotone](https://api.iconify.design/ph/battery-vertical-medium-duotone.svg?height=32&color=%23888888)
+  /// ![battery-vertical-medium-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-vertical-medium.png)
   static const batteryVerticalMedium = PhosphorDuotoneIconData(
     IconData(
       0xe7c0,
@@ -3667,7 +3667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-warning-duotone](https://api.iconify.design/ph/battery-warning-duotone.svg?height=32&color=%23888888)
+  /// ![battery-warning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-warning.png)
   static const batteryWarning = PhosphorDuotoneIconData(
     IconData(
       0xe0c8,
@@ -3687,7 +3687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `batteryWarningVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![battery-warning-vertical-duotone](https://api.iconify.design/ph/battery-warning-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![battery-warning-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/battery-warning-vertical.png)
   static const batteryWarningVertical = PhosphorDuotoneIconData(
     IconData(
       0xe0ca,
@@ -3707,7 +3707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `beachBall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![beach-ball-duotone](https://api.iconify.design/ph/beach-ball-duotone.svg?height=32&color=%23888888)
+  /// ![beach-ball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/beach-ball.png)
   static const beachBall = PhosphorDuotoneIconData(
     IconData(
       0xed24,
@@ -3727,7 +3727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `beanie` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![beanie-duotone](https://api.iconify.design/ph/beanie-duotone.svg?height=32&color=%23888888)
+  /// ![beanie-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/beanie.png)
   static const beanie = PhosphorDuotoneIconData(
     IconData(
       0xea2a,
@@ -3747,7 +3747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bed-duotone](https://api.iconify.design/ph/bed-duotone.svg?height=32&color=%23888888)
+  /// ![bed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bed.png)
   static const bed = PhosphorDuotoneIconData(
     IconData(
       0xe0cc,
@@ -3767,7 +3767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `beerBottle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![beer-bottle-duotone](https://api.iconify.design/ph/beer-bottle-duotone.svg?height=32&color=%23888888)
+  /// ![beer-bottle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/beer-bottle.png)
   static const beerBottle = PhosphorDuotoneIconData(
     IconData(
       0xe7b0,
@@ -3787,7 +3787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `beerStein` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![beer-stein-duotone](https://api.iconify.design/ph/beer-stein-duotone.svg?height=32&color=%23888888)
+  /// ![beer-stein-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/beer-stein.png)
   static const beerStein = PhosphorDuotoneIconData(
     IconData(
       0xeb62,
@@ -3807,7 +3807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `behanceLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![behance-logo-duotone](https://api.iconify.design/ph/behance-logo-duotone.svg?height=32&color=%23888888)
+  /// ![behance-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/behance-logo.png)
   static const behanceLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7f4,
@@ -3827,7 +3827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bell` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-duotone](https://api.iconify.design/ph/bell-duotone.svg?height=32&color=%23888888)
+  /// ![bell-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell.png)
   static const bell = PhosphorDuotoneIconData(
     IconData(
       0xe0ce,
@@ -3847,7 +3847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bellRinging` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-ringing-duotone](https://api.iconify.design/ph/bell-ringing-duotone.svg?height=32&color=%23888888)
+  /// ![bell-ringing-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell-ringing.png)
   static const bellRinging = PhosphorDuotoneIconData(
     IconData(
       0xe5e8,
@@ -3867,7 +3867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bellSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-simple-duotone](https://api.iconify.design/ph/bell-simple-duotone.svg?height=32&color=%23888888)
+  /// ![bell-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell-simple.png)
   static const bellSimple = PhosphorDuotoneIconData(
     IconData(
       0xe0d0,
@@ -3887,7 +3887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bellSimpleRinging` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-simple-ringing-duotone](https://api.iconify.design/ph/bell-simple-ringing-duotone.svg?height=32&color=%23888888)
+  /// ![bell-simple-ringing-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell-simple-ringing.png)
   static const bellSimpleRinging = PhosphorDuotoneIconData(
     IconData(
       0xe5ea,
@@ -3907,7 +3907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bellSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-simple-slash-duotone](https://api.iconify.design/ph/bell-simple-slash-duotone.svg?height=32&color=%23888888)
+  /// ![bell-simple-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell-simple-slash.png)
   static const bellSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe0d2,
@@ -3927,7 +3927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bellSimpleZ` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-simple-z-duotone](https://api.iconify.design/ph/bell-simple-z-duotone.svg?height=32&color=%23888888)
+  /// ![bell-simple-z-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell-simple-z.png)
   static const bellSimpleZ = PhosphorDuotoneIconData(
     IconData(
       0xe5ec,
@@ -3947,7 +3947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bellSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-slash-duotone](https://api.iconify.design/ph/bell-slash-duotone.svg?height=32&color=%23888888)
+  /// ![bell-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell-slash.png)
   static const bellSlash = PhosphorDuotoneIconData(
     IconData(
       0xe0d4,
@@ -3967,7 +3967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bellZ` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bell-z-duotone](https://api.iconify.design/ph/bell-z-duotone.svg?height=32&color=%23888888)
+  /// ![bell-z-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bell-z.png)
   static const bellZ = PhosphorDuotoneIconData(
     IconData(
       0xe5ee,
@@ -3987,7 +3987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `belt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![belt-duotone](https://api.iconify.design/ph/belt-duotone.svg?height=32&color=%23888888)
+  /// ![belt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/belt.png)
   static const belt = PhosphorDuotoneIconData(
     IconData(
       0xea2c,
@@ -4007,7 +4007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bezierCurve` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bezier-curve-duotone](https://api.iconify.design/ph/bezier-curve-duotone.svg?height=32&color=%23888888)
+  /// ![bezier-curve-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bezier-curve.png)
   static const bezierCurve = PhosphorDuotoneIconData(
     IconData(
       0xeb00,
@@ -4027,7 +4027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bicycle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bicycle-duotone](https://api.iconify.design/ph/bicycle-duotone.svg?height=32&color=%23888888)
+  /// ![bicycle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bicycle.png)
   static const bicycle = PhosphorDuotoneIconData(
     IconData(
       0xe0d6,
@@ -4047,7 +4047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `binary` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![binary-duotone](https://api.iconify.design/ph/binary-duotone.svg?height=32&color=%23888888)
+  /// ![binary-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/binary.png)
   static const binary = PhosphorDuotoneIconData(
     IconData(
       0xee60,
@@ -4067,7 +4067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `binoculars` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![binoculars-duotone](https://api.iconify.design/ph/binoculars-duotone.svg?height=32&color=%23888888)
+  /// ![binoculars-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/binoculars.png)
   static const binoculars = PhosphorDuotoneIconData(
     IconData(
       0xea64,
@@ -4087,7 +4087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `biohazard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![biohazard-duotone](https://api.iconify.design/ph/biohazard-duotone.svg?height=32&color=%23888888)
+  /// ![biohazard-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/biohazard.png)
   static const biohazard = PhosphorDuotoneIconData(
     IconData(
       0xe9e0,
@@ -4107,7 +4107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bird` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bird-duotone](https://api.iconify.design/ph/bird-duotone.svg?height=32&color=%23888888)
+  /// ![bird-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bird.png)
   static const bird = PhosphorDuotoneIconData(
     IconData(
       0xe72c,
@@ -4127,7 +4127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `blueprint` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![blueprint-duotone](https://api.iconify.design/ph/blueprint-duotone.svg?height=32&color=%23888888)
+  /// ![blueprint-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/blueprint.png)
   static const blueprint = PhosphorDuotoneIconData(
     IconData(
       0xeda0,
@@ -4147,7 +4147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bluetooth` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bluetooth-duotone](https://api.iconify.design/ph/bluetooth-duotone.svg?height=32&color=%23888888)
+  /// ![bluetooth-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bluetooth.png)
   static const bluetooth = PhosphorDuotoneIconData(
     IconData(
       0xe0da,
@@ -4167,7 +4167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bluetoothConnected` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bluetooth-connected-duotone](https://api.iconify.design/ph/bluetooth-connected-duotone.svg?height=32&color=%23888888)
+  /// ![bluetooth-connected-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bluetooth-connected.png)
   static const bluetoothConnected = PhosphorDuotoneIconData(
     IconData(
       0xe0dc,
@@ -4187,7 +4187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bluetoothSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bluetooth-slash-duotone](https://api.iconify.design/ph/bluetooth-slash-duotone.svg?height=32&color=%23888888)
+  /// ![bluetooth-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bluetooth-slash.png)
   static const bluetoothSlash = PhosphorDuotoneIconData(
     IconData(
       0xe0de,
@@ -4207,7 +4207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bluetoothX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bluetooth-x-duotone](https://api.iconify.design/ph/bluetooth-x-duotone.svg?height=32&color=%23888888)
+  /// ![bluetooth-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bluetooth-x.png)
   static const bluetoothX = PhosphorDuotoneIconData(
     IconData(
       0xe0e0,
@@ -4227,7 +4227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `boat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![boat-duotone](https://api.iconify.design/ph/boat-duotone.svg?height=32&color=%23888888)
+  /// ![boat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/boat.png)
   static const boat = PhosphorDuotoneIconData(
     IconData(
       0xe786,
@@ -4247,7 +4247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bomb` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bomb-duotone](https://api.iconify.design/ph/bomb-duotone.svg?height=32&color=%23888888)
+  /// ![bomb-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bomb.png)
   static const bomb = PhosphorDuotoneIconData(
     IconData(
       0xee0a,
@@ -4267,7 +4267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bone-duotone](https://api.iconify.design/ph/bone-duotone.svg?height=32&color=%23888888)
+  /// ![bone-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bone.png)
   static const bone = PhosphorDuotoneIconData(
     IconData(
       0xe7f2,
@@ -4287,7 +4287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `book` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![book-duotone](https://api.iconify.design/ph/book-duotone.svg?height=32&color=%23888888)
+  /// ![book-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/book.png)
   static const book = PhosphorDuotoneIconData(
     IconData(
       0xe0e2,
@@ -4307,7 +4307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookBookmark` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![book-bookmark-duotone](https://api.iconify.design/ph/book-bookmark-duotone.svg?height=32&color=%23888888)
+  /// ![book-bookmark-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/book-bookmark.png)
   static const bookBookmark = PhosphorDuotoneIconData(
     IconData(
       0xe0e4,
@@ -4327,7 +4327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![book-open-duotone](https://api.iconify.design/ph/book-open-duotone.svg?height=32&color=%23888888)
+  /// ![book-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/book-open.png)
   static const bookOpen = PhosphorDuotoneIconData(
     IconData(
       0xe0e6,
@@ -4347,7 +4347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookOpenText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![book-open-text-duotone](https://api.iconify.design/ph/book-open-text-duotone.svg?height=32&color=%23888888)
+  /// ![book-open-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/book-open-text.png)
   static const bookOpenText = PhosphorDuotoneIconData(
     IconData(
       0xe8f2,
@@ -4367,7 +4367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookOpenUser` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![book-open-user-duotone](https://api.iconify.design/ph/book-open-user-duotone.svg?height=32&color=%23888888)
+  /// ![book-open-user-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/book-open-user.png)
   static const bookOpenUser = PhosphorDuotoneIconData(
     IconData(
       0xede0,
@@ -4387,7 +4387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookmark` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bookmark-duotone](https://api.iconify.design/ph/bookmark-duotone.svg?height=32&color=%23888888)
+  /// ![bookmark-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bookmark.png)
   static const bookmark = PhosphorDuotoneIconData(
     IconData(
       0xe0e8,
@@ -4407,7 +4407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookmarkSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bookmark-simple-duotone](https://api.iconify.design/ph/bookmark-simple-duotone.svg?height=32&color=%23888888)
+  /// ![bookmark-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bookmark-simple.png)
   static const bookmarkSimple = PhosphorDuotoneIconData(
     IconData(
       0xe0ea,
@@ -4427,7 +4427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookmarks` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bookmarks-duotone](https://api.iconify.design/ph/bookmarks-duotone.svg?height=32&color=%23888888)
+  /// ![bookmarks-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bookmarks.png)
   static const bookmarks = PhosphorDuotoneIconData(
     IconData(
       0xe0ec,
@@ -4447,7 +4447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bookmarksSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bookmarks-simple-duotone](https://api.iconify.design/ph/bookmarks-simple-duotone.svg?height=32&color=%23888888)
+  /// ![bookmarks-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bookmarks-simple.png)
   static const bookmarksSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5f0,
@@ -4467,7 +4467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `books` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![books-duotone](https://api.iconify.design/ph/books-duotone.svg?height=32&color=%23888888)
+  /// ![books-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/books.png)
   static const books = PhosphorDuotoneIconData(
     IconData(
       0xe758,
@@ -4487,7 +4487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `boot` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![boot-duotone](https://api.iconify.design/ph/boot-duotone.svg?height=32&color=%23888888)
+  /// ![boot-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/boot.png)
   static const boot = PhosphorDuotoneIconData(
     IconData(
       0xecca,
@@ -4507,7 +4507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `boules` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![boules-duotone](https://api.iconify.design/ph/boules-duotone.svg?height=32&color=%23888888)
+  /// ![boules-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/boules.png)
   static const boules = PhosphorDuotoneIconData(
     IconData(
       0xe722,
@@ -4527,7 +4527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `boundingBox` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bounding-box-duotone](https://api.iconify.design/ph/bounding-box-duotone.svg?height=32&color=%23888888)
+  /// ![bounding-box-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bounding-box.png)
   static const boundingBox = PhosphorDuotoneIconData(
     IconData(
       0xe6ce,
@@ -4547,7 +4547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bowlFood` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bowl-food-duotone](https://api.iconify.design/ph/bowl-food-duotone.svg?height=32&color=%23888888)
+  /// ![bowl-food-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bowl-food.png)
   static const bowlFood = PhosphorDuotoneIconData(
     IconData(
       0xeaa4,
@@ -4567,7 +4567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bowlSteam` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bowl-steam-duotone](https://api.iconify.design/ph/bowl-steam-duotone.svg?height=32&color=%23888888)
+  /// ![bowl-steam-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bowl-steam.png)
   static const bowlSteam = PhosphorDuotoneIconData(
     IconData(
       0xe8e4,
@@ -4587,7 +4587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bowlingBall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bowling-ball-duotone](https://api.iconify.design/ph/bowling-ball-duotone.svg?height=32&color=%23888888)
+  /// ![bowling-ball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bowling-ball.png)
   static const bowlingBall = PhosphorDuotoneIconData(
     IconData(
       0xea34,
@@ -4607,7 +4607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `boxArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![box-arrow-down-duotone](https://api.iconify.design/ph/box-arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![box-arrow-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/box-arrow-down.png)
   static const boxArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe00e,
@@ -4627,7 +4627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `boxArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![box-arrow-up-duotone](https://api.iconify.design/ph/box-arrow-up-duotone.svg?height=32&color=%23888888)
+  /// ![box-arrow-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/box-arrow-up.png)
   static const boxArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xee54,
@@ -4647,7 +4647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `boxingGlove` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![boxing-glove-duotone](https://api.iconify.design/ph/boxing-glove-duotone.svg?height=32&color=%23888888)
+  /// ![boxing-glove-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/boxing-glove.png)
   static const boxingGlove = PhosphorDuotoneIconData(
     IconData(
       0xea36,
@@ -4667,7 +4667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bracketsAngle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![brackets-angle-duotone](https://api.iconify.design/ph/brackets-angle-duotone.svg?height=32&color=%23888888)
+  /// ![brackets-angle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/brackets-angle.png)
   static const bracketsAngle = PhosphorDuotoneIconData(
     IconData(
       0xe862,
@@ -4687,7 +4687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bracketsCurly` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![brackets-curly-duotone](https://api.iconify.design/ph/brackets-curly-duotone.svg?height=32&color=%23888888)
+  /// ![brackets-curly-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/brackets-curly.png)
   static const bracketsCurly = PhosphorDuotoneIconData(
     IconData(
       0xe860,
@@ -4707,7 +4707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bracketsRound` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![brackets-round-duotone](https://api.iconify.design/ph/brackets-round-duotone.svg?height=32&color=%23888888)
+  /// ![brackets-round-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/brackets-round.png)
   static const bracketsRound = PhosphorDuotoneIconData(
     IconData(
       0xe864,
@@ -4727,7 +4727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bracketsSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![brackets-square-duotone](https://api.iconify.design/ph/brackets-square-duotone.svg?height=32&color=%23888888)
+  /// ![brackets-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/brackets-square.png)
   static const bracketsSquare = PhosphorDuotoneIconData(
     IconData(
       0xe85e,
@@ -4747,7 +4747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `brain` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![brain-duotone](https://api.iconify.design/ph/brain-duotone.svg?height=32&color=%23888888)
+  /// ![brain-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/brain.png)
   static const brain = PhosphorDuotoneIconData(
     IconData(
       0xe74e,
@@ -4767,7 +4767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `brandy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![brandy-duotone](https://api.iconify.design/ph/brandy-duotone.svg?height=32&color=%23888888)
+  /// ![brandy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/brandy.png)
   static const brandy = PhosphorDuotoneIconData(
     IconData(
       0xe6b4,
@@ -4787,7 +4787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bread` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bread-duotone](https://api.iconify.design/ph/bread-duotone.svg?height=32&color=%23888888)
+  /// ![bread-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bread.png)
   static const bread = PhosphorDuotoneIconData(
     IconData(
       0xe81c,
@@ -4807,7 +4807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bridge` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bridge-duotone](https://api.iconify.design/ph/bridge-duotone.svg?height=32&color=%23888888)
+  /// ![bridge-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bridge.png)
   static const bridge = PhosphorDuotoneIconData(
     IconData(
       0xea68,
@@ -4827,7 +4827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `briefcase` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![briefcase-duotone](https://api.iconify.design/ph/briefcase-duotone.svg?height=32&color=%23888888)
+  /// ![briefcase-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/briefcase.png)
   static const briefcase = PhosphorDuotoneIconData(
     IconData(
       0xe0ee,
@@ -4847,7 +4847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `briefcaseMetal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![briefcase-metal-duotone](https://api.iconify.design/ph/briefcase-metal-duotone.svg?height=32&color=%23888888)
+  /// ![briefcase-metal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/briefcase-metal.png)
   static const briefcaseMetal = PhosphorDuotoneIconData(
     IconData(
       0xe5f2,
@@ -4867,7 +4867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `broadcast` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![broadcast-duotone](https://api.iconify.design/ph/broadcast-duotone.svg?height=32&color=%23888888)
+  /// ![broadcast-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/broadcast.png)
   static const broadcast = PhosphorDuotoneIconData(
     IconData(
       0xe0f2,
@@ -4887,7 +4887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `broom` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![broom-duotone](https://api.iconify.design/ph/broom-duotone.svg?height=32&color=%23888888)
+  /// ![broom-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/broom.png)
   static const broom = PhosphorDuotoneIconData(
     IconData(
       0xec54,
@@ -4907,7 +4907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `browser` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![browser-duotone](https://api.iconify.design/ph/browser-duotone.svg?height=32&color=%23888888)
+  /// ![browser-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/browser.png)
   static const browser = PhosphorDuotoneIconData(
     IconData(
       0xe0f4,
@@ -4927,7 +4927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `browsers` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![browsers-duotone](https://api.iconify.design/ph/browsers-duotone.svg?height=32&color=%23888888)
+  /// ![browsers-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/browsers.png)
   static const browsers = PhosphorDuotoneIconData(
     IconData(
       0xe0f6,
@@ -4947,7 +4947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bug` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bug-duotone](https://api.iconify.design/ph/bug-duotone.svg?height=32&color=%23888888)
+  /// ![bug-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bug.png)
   static const bug = PhosphorDuotoneIconData(
     IconData(
       0xe5f4,
@@ -4967,7 +4967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bugBeetle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bug-beetle-duotone](https://api.iconify.design/ph/bug-beetle-duotone.svg?height=32&color=%23888888)
+  /// ![bug-beetle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bug-beetle.png)
   static const bugBeetle = PhosphorDuotoneIconData(
     IconData(
       0xe5f6,
@@ -4987,7 +4987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bugDroid` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bug-droid-duotone](https://api.iconify.design/ph/bug-droid-duotone.svg?height=32&color=%23888888)
+  /// ![bug-droid-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bug-droid.png)
   static const bugDroid = PhosphorDuotoneIconData(
     IconData(
       0xe5f8,
@@ -5007,7 +5007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `building` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![building-duotone](https://api.iconify.design/ph/building-duotone.svg?height=32&color=%23888888)
+  /// ![building-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/building.png)
   static const building = PhosphorDuotoneIconData(
     IconData(
       0xe100,
@@ -5027,7 +5027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `buildingApartment` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![building-apartment-duotone](https://api.iconify.design/ph/building-apartment-duotone.svg?height=32&color=%23888888)
+  /// ![building-apartment-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/building-apartment.png)
   static const buildingApartment = PhosphorDuotoneIconData(
     IconData(
       0xe0fe,
@@ -5047,7 +5047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `buildingOffice` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![building-office-duotone](https://api.iconify.design/ph/building-office-duotone.svg?height=32&color=%23888888)
+  /// ![building-office-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/building-office.png)
   static const buildingOffice = PhosphorDuotoneIconData(
     IconData(
       0xe0ff,
@@ -5067,7 +5067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `buildings` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![buildings-duotone](https://api.iconify.design/ph/buildings-duotone.svg?height=32&color=%23888888)
+  /// ![buildings-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/buildings.png)
   static const buildings = PhosphorDuotoneIconData(
     IconData(
       0xe102,
@@ -5087,7 +5087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bulldozer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bulldozer-duotone](https://api.iconify.design/ph/bulldozer-duotone.svg?height=32&color=%23888888)
+  /// ![bulldozer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bulldozer.png)
   static const bulldozer = PhosphorDuotoneIconData(
     IconData(
       0xec6c,
@@ -5107,7 +5107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `bus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![bus-duotone](https://api.iconify.design/ph/bus-duotone.svg?height=32&color=%23888888)
+  /// ![bus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/bus.png)
   static const bus = PhosphorDuotoneIconData(
     IconData(
       0xe106,
@@ -5127,7 +5127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `butterfly` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![butterfly-duotone](https://api.iconify.design/ph/butterfly-duotone.svg?height=32&color=%23888888)
+  /// ![butterfly-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/butterfly.png)
   static const butterfly = PhosphorDuotoneIconData(
     IconData(
       0xea6e,
@@ -5147,7 +5147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cableCar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cable-car-duotone](https://api.iconify.design/ph/cable-car-duotone.svg?height=32&color=%23888888)
+  /// ![cable-car-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cable-car.png)
   static const cableCar = PhosphorDuotoneIconData(
     IconData(
       0xe49c,
@@ -5167,7 +5167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cactus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cactus-duotone](https://api.iconify.design/ph/cactus-duotone.svg?height=32&color=%23888888)
+  /// ![cactus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cactus.png)
   static const cactus = PhosphorDuotoneIconData(
     IconData(
       0xe918,
@@ -5187,7 +5187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caduceus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caduceus-duotone](https://api.iconify.design/ph/asclepius-duotone.svg?height=32&color=%23888888)
+  /// ![caduceus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caduceus.png)
   static const caduceus = PhosphorDuotoneIconData(
     IconData(
       0xee34,
@@ -5207,7 +5207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cake` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cake-duotone](https://api.iconify.design/ph/cake-duotone.svg?height=32&color=%23888888)
+  /// ![cake-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cake.png)
   static const cake = PhosphorDuotoneIconData(
     IconData(
       0xe780,
@@ -5227,7 +5227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calculator` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calculator-duotone](https://api.iconify.design/ph/calculator-duotone.svg?height=32&color=%23888888)
+  /// ![calculator-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calculator.png)
   static const calculator = PhosphorDuotoneIconData(
     IconData(
       0xe538,
@@ -5247,7 +5247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-duotone](https://api.iconify.design/ph/calendar-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar.png)
   static const calendar = PhosphorDuotoneIconData(
     IconData(
       0xe108,
@@ -5267,7 +5267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarBlank` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-blank-duotone](https://api.iconify.design/ph/calendar-blank-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-blank-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-blank.png)
   static const calendarBlank = PhosphorDuotoneIconData(
     IconData(
       0xe10a,
@@ -5287,7 +5287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-check-duotone](https://api.iconify.design/ph/calendar-check-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-check.png)
   static const calendarCheck = PhosphorDuotoneIconData(
     IconData(
       0xe712,
@@ -5307,7 +5307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarDot` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-dot-duotone](https://api.iconify.design/ph/calendar-dot-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-dot-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-dot.png)
   static const calendarDot = PhosphorDuotoneIconData(
     IconData(
       0xe7b2,
@@ -5327,7 +5327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarDots` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-dots-duotone](https://api.iconify.design/ph/calendar-dots-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-dots-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-dots.png)
   static const calendarDots = PhosphorDuotoneIconData(
     IconData(
       0xe7b4,
@@ -5347,7 +5347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarHeart` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-heart-duotone](https://api.iconify.design/ph/calendar-heart-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-heart-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-heart.png)
   static const calendarHeart = PhosphorDuotoneIconData(
     IconData(
       0xe8b0,
@@ -5367,7 +5367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-minus-duotone](https://api.iconify.design/ph/calendar-minus-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-minus.png)
   static const calendarMinus = PhosphorDuotoneIconData(
     IconData(
       0xea14,
@@ -5387,7 +5387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-plus-duotone](https://api.iconify.design/ph/calendar-plus-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-plus.png)
   static const calendarPlus = PhosphorDuotoneIconData(
     IconData(
       0xe714,
@@ -5407,7 +5407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-slash-duotone](https://api.iconify.design/ph/calendar-slash-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-slash.png)
   static const calendarSlash = PhosphorDuotoneIconData(
     IconData(
       0xea12,
@@ -5427,7 +5427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarStar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-star-duotone](https://api.iconify.design/ph/calendar-star-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-star-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-star.png)
   static const calendarStar = PhosphorDuotoneIconData(
     IconData(
       0xe8b2,
@@ -5447,7 +5447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `calendarX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![calendar-x-duotone](https://api.iconify.design/ph/calendar-x-duotone.svg?height=32&color=%23888888)
+  /// ![calendar-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/calendar-x.png)
   static const calendarX = PhosphorDuotoneIconData(
     IconData(
       0xe10c,
@@ -5467,7 +5467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `callBell` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![call-bell-duotone](https://api.iconify.design/ph/call-bell-duotone.svg?height=32&color=%23888888)
+  /// ![call-bell-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/call-bell.png)
   static const callBell = PhosphorDuotoneIconData(
     IconData(
       0xe7de,
@@ -5487,7 +5487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `camera` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![camera-duotone](https://api.iconify.design/ph/camera-duotone.svg?height=32&color=%23888888)
+  /// ![camera-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/camera.png)
   static const camera = PhosphorDuotoneIconData(
     IconData(
       0xe10e,
@@ -5507,7 +5507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cameraPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![camera-plus-duotone](https://api.iconify.design/ph/camera-plus-duotone.svg?height=32&color=%23888888)
+  /// ![camera-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/camera-plus.png)
   static const cameraPlus = PhosphorDuotoneIconData(
     IconData(
       0xec58,
@@ -5527,7 +5527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cameraRotate` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![camera-rotate-duotone](https://api.iconify.design/ph/camera-rotate-duotone.svg?height=32&color=%23888888)
+  /// ![camera-rotate-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/camera-rotate.png)
   static const cameraRotate = PhosphorDuotoneIconData(
     IconData(
       0xe7a4,
@@ -5547,7 +5547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cameraSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![camera-slash-duotone](https://api.iconify.design/ph/camera-slash-duotone.svg?height=32&color=%23888888)
+  /// ![camera-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/camera-slash.png)
   static const cameraSlash = PhosphorDuotoneIconData(
     IconData(
       0xe110,
@@ -5567,7 +5567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `campfire` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![campfire-duotone](https://api.iconify.design/ph/campfire-duotone.svg?height=32&color=%23888888)
+  /// ![campfire-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/campfire.png)
   static const campfire = PhosphorDuotoneIconData(
     IconData(
       0xe9d8,
@@ -5587,7 +5587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `car` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![car-duotone](https://api.iconify.design/ph/car-duotone.svg?height=32&color=%23888888)
+  /// ![car-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/car.png)
   static const car = PhosphorDuotoneIconData(
     IconData(
       0xe112,
@@ -5607,7 +5607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `carBattery` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![car-battery-duotone](https://api.iconify.design/ph/car-battery-duotone.svg?height=32&color=%23888888)
+  /// ![car-battery-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/car-battery.png)
   static const carBattery = PhosphorDuotoneIconData(
     IconData(
       0xee30,
@@ -5627,7 +5627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `carProfile` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![car-profile-duotone](https://api.iconify.design/ph/car-profile-duotone.svg?height=32&color=%23888888)
+  /// ![car-profile-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/car-profile.png)
   static const carProfile = PhosphorDuotoneIconData(
     IconData(
       0xe8cc,
@@ -5647,7 +5647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `carSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![car-simple-duotone](https://api.iconify.design/ph/car-simple-duotone.svg?height=32&color=%23888888)
+  /// ![car-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/car-simple.png)
   static const carSimple = PhosphorDuotoneIconData(
     IconData(
       0xe114,
@@ -5667,7 +5667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cardholder` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cardholder-duotone](https://api.iconify.design/ph/cardholder-duotone.svg?height=32&color=%23888888)
+  /// ![cardholder-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cardholder.png)
   static const cardholder = PhosphorDuotoneIconData(
     IconData(
       0xe5fa,
@@ -5687,7 +5687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cards` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cards-duotone](https://api.iconify.design/ph/cards-duotone.svg?height=32&color=%23888888)
+  /// ![cards-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cards.png)
   static const cards = PhosphorDuotoneIconData(
     IconData(
       0xe0f8,
@@ -5707,7 +5707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cardsThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cards-three-duotone](https://api.iconify.design/ph/cards-three-duotone.svg?height=32&color=%23888888)
+  /// ![cards-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cards-three.png)
   static const cardsThree = PhosphorDuotoneIconData(
     IconData(
       0xee50,
@@ -5727,7 +5727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleDoubleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-double-down-duotone](https://api.iconify.design/ph/caret-circle-double-down-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-double-down.png)
   static const caretCircleDoubleDown = PhosphorDuotoneIconData(
     IconData(
       0xe116,
@@ -5747,7 +5747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleDoubleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-double-left-duotone](https://api.iconify.design/ph/caret-circle-double-left-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-double-left.png)
   static const caretCircleDoubleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe118,
@@ -5767,7 +5767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleDoubleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-double-right-duotone](https://api.iconify.design/ph/caret-circle-double-right-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-double-right.png)
   static const caretCircleDoubleRight = PhosphorDuotoneIconData(
     IconData(
       0xe11a,
@@ -5787,7 +5787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleDoubleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-double-up-duotone](https://api.iconify.design/ph/caret-circle-double-up-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-double-up.png)
   static const caretCircleDoubleUp = PhosphorDuotoneIconData(
     IconData(
       0xe11c,
@@ -5807,7 +5807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-down-duotone](https://api.iconify.design/ph/caret-circle-down-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-down.png)
   static const caretCircleDown = PhosphorDuotoneIconData(
     IconData(
       0xe11e,
@@ -5827,7 +5827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-left-duotone](https://api.iconify.design/ph/caret-circle-left-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-left.png)
   static const caretCircleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe120,
@@ -5847,7 +5847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-right-duotone](https://api.iconify.design/ph/caret-circle-right-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-right.png)
   static const caretCircleRight = PhosphorDuotoneIconData(
     IconData(
       0xe122,
@@ -5867,7 +5867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-up-duotone](https://api.iconify.design/ph/caret-circle-up-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-up.png)
   static const caretCircleUp = PhosphorDuotoneIconData(
     IconData(
       0xe124,
@@ -5887,7 +5887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretCircleUpDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-circle-up-down-duotone](https://api.iconify.design/ph/caret-circle-up-down-duotone.svg?height=32&color=%23888888)
+  /// ![caret-circle-up-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-circle-up-down.png)
   static const caretCircleUpDown = PhosphorDuotoneIconData(
     IconData(
       0xe13e,
@@ -5907,7 +5907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretDoubleDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-double-down-duotone](https://api.iconify.design/ph/caret-double-down-duotone.svg?height=32&color=%23888888)
+  /// ![caret-double-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-double-down.png)
   static const caretDoubleDown = PhosphorDuotoneIconData(
     IconData(
       0xe126,
@@ -5927,7 +5927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretDoubleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-double-left-duotone](https://api.iconify.design/ph/caret-double-left-duotone.svg?height=32&color=%23888888)
+  /// ![caret-double-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-double-left.png)
   static const caretDoubleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe128,
@@ -5947,7 +5947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretDoubleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-double-right-duotone](https://api.iconify.design/ph/caret-double-right-duotone.svg?height=32&color=%23888888)
+  /// ![caret-double-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-double-right.png)
   static const caretDoubleRight = PhosphorDuotoneIconData(
     IconData(
       0xe12a,
@@ -5967,7 +5967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretDoubleUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-double-up-duotone](https://api.iconify.design/ph/caret-double-up-duotone.svg?height=32&color=%23888888)
+  /// ![caret-double-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-double-up.png)
   static const caretDoubleUp = PhosphorDuotoneIconData(
     IconData(
       0xe12c,
@@ -5987,7 +5987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-down-duotone](https://api.iconify.design/ph/caret-down-duotone.svg?height=32&color=%23888888)
+  /// ![caret-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-down.png)
   static const caretDown = PhosphorDuotoneIconData(
     IconData(
       0xe136,
@@ -6007,7 +6007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-left-duotone](https://api.iconify.design/ph/caret-left-duotone.svg?height=32&color=%23888888)
+  /// ![caret-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-left.png)
   static const caretLeft = PhosphorDuotoneIconData(
     IconData(
       0xe138,
@@ -6027,7 +6027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-line-down-duotone](https://api.iconify.design/ph/caret-line-down-duotone.svg?height=32&color=%23888888)
+  /// ![caret-line-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-line-down.png)
   static const caretLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe134,
@@ -6047,7 +6047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretLineLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-line-left-duotone](https://api.iconify.design/ph/caret-line-left-duotone.svg?height=32&color=%23888888)
+  /// ![caret-line-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-line-left.png)
   static const caretLineLeft = PhosphorDuotoneIconData(
     IconData(
       0xe132,
@@ -6067,7 +6067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretLineRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-line-right-duotone](https://api.iconify.design/ph/caret-line-right-duotone.svg?height=32&color=%23888888)
+  /// ![caret-line-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-line-right.png)
   static const caretLineRight = PhosphorDuotoneIconData(
     IconData(
       0xe130,
@@ -6087,7 +6087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-line-up-duotone](https://api.iconify.design/ph/caret-line-up-duotone.svg?height=32&color=%23888888)
+  /// ![caret-line-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-line-up.png)
   static const caretLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe12e,
@@ -6107,7 +6107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-right-duotone](https://api.iconify.design/ph/caret-right-duotone.svg?height=32&color=%23888888)
+  /// ![caret-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-right.png)
   static const caretRight = PhosphorDuotoneIconData(
     IconData(
       0xe13a,
@@ -6127,7 +6127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-up-duotone](https://api.iconify.design/ph/caret-up-duotone.svg?height=32&color=%23888888)
+  /// ![caret-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-up.png)
   static const caretUp = PhosphorDuotoneIconData(
     IconData(
       0xe13c,
@@ -6147,7 +6147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `caretUpDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![caret-up-down-duotone](https://api.iconify.design/ph/caret-up-down-duotone.svg?height=32&color=%23888888)
+  /// ![caret-up-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/caret-up-down.png)
   static const caretUpDown = PhosphorDuotoneIconData(
     IconData(
       0xe140,
@@ -6167,7 +6167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `carrot` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![carrot-duotone](https://api.iconify.design/ph/carrot-duotone.svg?height=32&color=%23888888)
+  /// ![carrot-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/carrot.png)
   static const carrot = PhosphorDuotoneIconData(
     IconData(
       0xed38,
@@ -6187,7 +6187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cashRegister` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cash-register-duotone](https://api.iconify.design/ph/cash-register-duotone.svg?height=32&color=%23888888)
+  /// ![cash-register-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cash-register.png)
   static const cashRegister = PhosphorDuotoneIconData(
     IconData(
       0xed80,
@@ -6207,7 +6207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cassetteTape` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cassette-tape-duotone](https://api.iconify.design/ph/cassette-tape-duotone.svg?height=32&color=%23888888)
+  /// ![cassette-tape-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cassette-tape.png)
   static const cassetteTape = PhosphorDuotoneIconData(
     IconData(
       0xed2e,
@@ -6227,7 +6227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `castleTurret` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![castle-turret-duotone](https://api.iconify.design/ph/castle-turret-duotone.svg?height=32&color=%23888888)
+  /// ![castle-turret-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/castle-turret.png)
   static const castleTurret = PhosphorDuotoneIconData(
     IconData(
       0xe9d0,
@@ -6247,7 +6247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cat-duotone](https://api.iconify.design/ph/cat-duotone.svg?height=32&color=%23888888)
+  /// ![cat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cat.png)
   static const cat = PhosphorDuotoneIconData(
     IconData(
       0xe748,
@@ -6267,7 +6267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellSignalFull` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-signal-full-duotone](https://api.iconify.design/ph/cell-signal-full-duotone.svg?height=32&color=%23888888)
+  /// ![cell-signal-full-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-signal-full.png)
   static const cellSignalFull = PhosphorDuotoneIconData(
     IconData(
       0xe142,
@@ -6287,7 +6287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellSignalHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-signal-high-duotone](https://api.iconify.design/ph/cell-signal-high-duotone.svg?height=32&color=%23888888)
+  /// ![cell-signal-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-signal-high.png)
   static const cellSignalHigh = PhosphorDuotoneIconData(
     IconData(
       0xe144,
@@ -6307,7 +6307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellSignalLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-signal-low-duotone](https://api.iconify.design/ph/cell-signal-low-duotone.svg?height=32&color=%23888888)
+  /// ![cell-signal-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-signal-low.png)
   static const cellSignalLow = PhosphorDuotoneIconData(
     IconData(
       0xe146,
@@ -6327,7 +6327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellSignalMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-signal-medium-duotone](https://api.iconify.design/ph/cell-signal-medium-duotone.svg?height=32&color=%23888888)
+  /// ![cell-signal-medium-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-signal-medium.png)
   static const cellSignalMedium = PhosphorDuotoneIconData(
     IconData(
       0xe148,
@@ -6347,7 +6347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellSignalNone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-signal-none-duotone](https://api.iconify.design/ph/cell-signal-none-duotone.svg?height=32&color=%23888888)
+  /// ![cell-signal-none-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-signal-none.png)
   static const cellSignalNone = PhosphorDuotoneIconData(
     IconData(
       0xe14a,
@@ -6367,7 +6367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellSignalSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-signal-slash-duotone](https://api.iconify.design/ph/cell-signal-slash-duotone.svg?height=32&color=%23888888)
+  /// ![cell-signal-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-signal-slash.png)
   static const cellSignalSlash = PhosphorDuotoneIconData(
     IconData(
       0xe14c,
@@ -6387,7 +6387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellSignalX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-signal-x-duotone](https://api.iconify.design/ph/cell-signal-x-duotone.svg?height=32&color=%23888888)
+  /// ![cell-signal-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-signal-x.png)
   static const cellSignalX = PhosphorDuotoneIconData(
     IconData(
       0xe14e,
@@ -6407,7 +6407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cellTower` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cell-tower-duotone](https://api.iconify.design/ph/cell-tower-duotone.svg?height=32&color=%23888888)
+  /// ![cell-tower-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cell-tower.png)
   static const cellTower = PhosphorDuotoneIconData(
     IconData(
       0xebaa,
@@ -6427,7 +6427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `certificate` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![certificate-duotone](https://api.iconify.design/ph/certificate-duotone.svg?height=32&color=%23888888)
+  /// ![certificate-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/certificate.png)
   static const certificate = PhosphorDuotoneIconData(
     IconData(
       0xe766,
@@ -6447,7 +6447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chair` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chair-duotone](https://api.iconify.design/ph/chair-duotone.svg?height=32&color=%23888888)
+  /// ![chair-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chair.png)
   static const chair = PhosphorDuotoneIconData(
     IconData(
       0xe950,
@@ -6467,7 +6467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chalkboard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chalkboard-duotone](https://api.iconify.design/ph/chalkboard-duotone.svg?height=32&color=%23888888)
+  /// ![chalkboard-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chalkboard.png)
   static const chalkboard = PhosphorDuotoneIconData(
     IconData(
       0xe5fc,
@@ -6487,7 +6487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chalkboardSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chalkboard-simple-duotone](https://api.iconify.design/ph/chalkboard-simple-duotone.svg?height=32&color=%23888888)
+  /// ![chalkboard-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chalkboard-simple.png)
   static const chalkboardSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5fe,
@@ -6507,7 +6507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chalkboardTeacher` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chalkboard-teacher-duotone](https://api.iconify.design/ph/chalkboard-teacher-duotone.svg?height=32&color=%23888888)
+  /// ![chalkboard-teacher-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chalkboard-teacher.png)
   static const chalkboardTeacher = PhosphorDuotoneIconData(
     IconData(
       0xe600,
@@ -6527,7 +6527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `champagne` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![champagne-duotone](https://api.iconify.design/ph/champagne-duotone.svg?height=32&color=%23888888)
+  /// ![champagne-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/champagne.png)
   static const champagne = PhosphorDuotoneIconData(
     IconData(
       0xeaca,
@@ -6547,7 +6547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chargingStation` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![charging-station-duotone](https://api.iconify.design/ph/charging-station-duotone.svg?height=32&color=%23888888)
+  /// ![charging-station-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/charging-station.png)
   static const chargingStation = PhosphorDuotoneIconData(
     IconData(
       0xe8d0,
@@ -6567,7 +6567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartBar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-bar-duotone](https://api.iconify.design/ph/chart-bar-duotone.svg?height=32&color=%23888888)
+  /// ![chart-bar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-bar.png)
   static const chartBar = PhosphorDuotoneIconData(
     IconData(
       0xe150,
@@ -6587,7 +6587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartBarHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-bar-horizontal-duotone](https://api.iconify.design/ph/chart-bar-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![chart-bar-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-bar-horizontal.png)
   static const chartBarHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe152,
@@ -6607,7 +6607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartDonut` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-donut-duotone](https://api.iconify.design/ph/chart-donut-duotone.svg?height=32&color=%23888888)
+  /// ![chart-donut-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-donut.png)
   static const chartDonut = PhosphorDuotoneIconData(
     IconData(
       0xeaa6,
@@ -6627,7 +6627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartLine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-line-duotone](https://api.iconify.design/ph/chart-line-duotone.svg?height=32&color=%23888888)
+  /// ![chart-line-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-line.png)
   static const chartLine = PhosphorDuotoneIconData(
     IconData(
       0xe154,
@@ -6647,7 +6647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartLineDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-line-down-duotone](https://api.iconify.design/ph/chart-line-down-duotone.svg?height=32&color=%23888888)
+  /// ![chart-line-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-line-down.png)
   static const chartLineDown = PhosphorDuotoneIconData(
     IconData(
       0xe8b6,
@@ -6667,7 +6667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartLineUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-line-up-duotone](https://api.iconify.design/ph/chart-line-up-duotone.svg?height=32&color=%23888888)
+  /// ![chart-line-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-line-up.png)
   static const chartLineUp = PhosphorDuotoneIconData(
     IconData(
       0xe156,
@@ -6687,7 +6687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartPie` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-pie-duotone](https://api.iconify.design/ph/chart-pie-duotone.svg?height=32&color=%23888888)
+  /// ![chart-pie-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-pie.png)
   static const chartPie = PhosphorDuotoneIconData(
     IconData(
       0xe158,
@@ -6707,7 +6707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartPieSlice` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-pie-slice-duotone](https://api.iconify.design/ph/chart-pie-slice-duotone.svg?height=32&color=%23888888)
+  /// ![chart-pie-slice-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-pie-slice.png)
   static const chartPieSlice = PhosphorDuotoneIconData(
     IconData(
       0xe15a,
@@ -6727,7 +6727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartPolar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-polar-duotone](https://api.iconify.design/ph/chart-polar-duotone.svg?height=32&color=%23888888)
+  /// ![chart-polar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-polar.png)
   static const chartPolar = PhosphorDuotoneIconData(
     IconData(
       0xeaa8,
@@ -6747,7 +6747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chartScatter` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chart-scatter-duotone](https://api.iconify.design/ph/chart-scatter-duotone.svg?height=32&color=%23888888)
+  /// ![chart-scatter-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chart-scatter.png)
   static const chartScatter = PhosphorDuotoneIconData(
     IconData(
       0xeaac,
@@ -6767,7 +6767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-duotone](https://api.iconify.design/ph/chat-duotone.svg?height=32&color=%23888888)
+  /// ![chat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat.png)
   static const chat = PhosphorDuotoneIconData(
     IconData(
       0xe15c,
@@ -6787,7 +6787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCentered` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-centered-duotone](https://api.iconify.design/ph/chat-centered-duotone.svg?height=32&color=%23888888)
+  /// ![chat-centered-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-centered.png)
   static const chatCentered = PhosphorDuotoneIconData(
     IconData(
       0xe160,
@@ -6807,7 +6807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCenteredDots` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-centered-dots-duotone](https://api.iconify.design/ph/chat-centered-dots-duotone.svg?height=32&color=%23888888)
+  /// ![chat-centered-dots-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-centered-dots.png)
   static const chatCenteredDots = PhosphorDuotoneIconData(
     IconData(
       0xe164,
@@ -6827,7 +6827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCenteredSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-centered-slash-duotone](https://api.iconify.design/ph/chat-centered-slash-duotone.svg?height=32&color=%23888888)
+  /// ![chat-centered-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-centered-slash.png)
   static const chatCenteredSlash = PhosphorDuotoneIconData(
     IconData(
       0xe162,
@@ -6847,7 +6847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCenteredText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-centered-text-duotone](https://api.iconify.design/ph/chat-centered-text-duotone.svg?height=32&color=%23888888)
+  /// ![chat-centered-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-centered-text.png)
   static const chatCenteredText = PhosphorDuotoneIconData(
     IconData(
       0xe166,
@@ -6867,7 +6867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-circle-duotone](https://api.iconify.design/ph/chat-circle-duotone.svg?height=32&color=%23888888)
+  /// ![chat-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-circle.png)
   static const chatCircle = PhosphorDuotoneIconData(
     IconData(
       0xe168,
@@ -6887,7 +6887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCircleDots` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-circle-dots-duotone](https://api.iconify.design/ph/chat-circle-dots-duotone.svg?height=32&color=%23888888)
+  /// ![chat-circle-dots-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-circle-dots.png)
   static const chatCircleDots = PhosphorDuotoneIconData(
     IconData(
       0xe16c,
@@ -6907,7 +6907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCircleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-circle-slash-duotone](https://api.iconify.design/ph/chat-circle-slash-duotone.svg?height=32&color=%23888888)
+  /// ![chat-circle-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-circle-slash.png)
   static const chatCircleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe16a,
@@ -6927,7 +6927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatCircleText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-circle-text-duotone](https://api.iconify.design/ph/chat-circle-text-duotone.svg?height=32&color=%23888888)
+  /// ![chat-circle-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-circle-text.png)
   static const chatCircleText = PhosphorDuotoneIconData(
     IconData(
       0xe16e,
@@ -6947,7 +6947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatDots` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-dots-duotone](https://api.iconify.design/ph/chat-dots-duotone.svg?height=32&color=%23888888)
+  /// ![chat-dots-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-dots.png)
   static const chatDots = PhosphorDuotoneIconData(
     IconData(
       0xe170,
@@ -6967,7 +6967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-slash-duotone](https://api.iconify.design/ph/chat-slash-duotone.svg?height=32&color=%23888888)
+  /// ![chat-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-slash.png)
   static const chatSlash = PhosphorDuotoneIconData(
     IconData(
       0xe15e,
@@ -6987,7 +6987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatTeardrop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-teardrop-duotone](https://api.iconify.design/ph/chat-teardrop-duotone.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-teardrop.png)
   static const chatTeardrop = PhosphorDuotoneIconData(
     IconData(
       0xe172,
@@ -7007,7 +7007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatTeardropDots` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-teardrop-dots-duotone](https://api.iconify.design/ph/chat-teardrop-dots-duotone.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-dots-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-teardrop-dots.png)
   static const chatTeardropDots = PhosphorDuotoneIconData(
     IconData(
       0xe176,
@@ -7027,7 +7027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatTeardropSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-teardrop-slash-duotone](https://api.iconify.design/ph/chat-teardrop-slash-duotone.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-teardrop-slash.png)
   static const chatTeardropSlash = PhosphorDuotoneIconData(
     IconData(
       0xe174,
@@ -7047,7 +7047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatTeardropText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-teardrop-text-duotone](https://api.iconify.design/ph/chat-teardrop-text-duotone.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-teardrop-text.png)
   static const chatTeardropText = PhosphorDuotoneIconData(
     IconData(
       0xe178,
@@ -7067,7 +7067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chat-text-duotone](https://api.iconify.design/ph/chat-text-duotone.svg?height=32&color=%23888888)
+  /// ![chat-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chat-text.png)
   static const chatText = PhosphorDuotoneIconData(
     IconData(
       0xe17a,
@@ -7087,7 +7087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chats` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chats-duotone](https://api.iconify.design/ph/chats-duotone.svg?height=32&color=%23888888)
+  /// ![chats-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chats.png)
   static const chats = PhosphorDuotoneIconData(
     IconData(
       0xe17c,
@@ -7107,7 +7107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatsCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chats-circle-duotone](https://api.iconify.design/ph/chats-circle-duotone.svg?height=32&color=%23888888)
+  /// ![chats-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chats-circle.png)
   static const chatsCircle = PhosphorDuotoneIconData(
     IconData(
       0xe17e,
@@ -7127,7 +7127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chatsTeardrop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chats-teardrop-duotone](https://api.iconify.design/ph/chats-teardrop-duotone.svg?height=32&color=%23888888)
+  /// ![chats-teardrop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chats-teardrop.png)
   static const chatsTeardrop = PhosphorDuotoneIconData(
     IconData(
       0xe180,
@@ -7147,7 +7147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `check` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![check-duotone](https://api.iconify.design/ph/check-duotone.svg?height=32&color=%23888888)
+  /// ![check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/check.png)
   static const check = PhosphorDuotoneIconData(
     IconData(
       0xe182,
@@ -7167,7 +7167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `checkCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![check-circle-duotone](https://api.iconify.design/ph/check-circle-duotone.svg?height=32&color=%23888888)
+  /// ![check-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/check-circle.png)
   static const checkCircle = PhosphorDuotoneIconData(
     IconData(
       0xe184,
@@ -7187,7 +7187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `checkFat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![check-fat-duotone](https://api.iconify.design/ph/check-fat-duotone.svg?height=32&color=%23888888)
+  /// ![check-fat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/check-fat.png)
   static const checkFat = PhosphorDuotoneIconData(
     IconData(
       0xeba6,
@@ -7207,7 +7207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `checkSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![check-square-duotone](https://api.iconify.design/ph/check-square-duotone.svg?height=32&color=%23888888)
+  /// ![check-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/check-square.png)
   static const checkSquare = PhosphorDuotoneIconData(
     IconData(
       0xe186,
@@ -7227,7 +7227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `checkSquareOffset` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![check-square-offset-duotone](https://api.iconify.design/ph/check-square-offset-duotone.svg?height=32&color=%23888888)
+  /// ![check-square-offset-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/check-square-offset.png)
   static const checkSquareOffset = PhosphorDuotoneIconData(
     IconData(
       0xe188,
@@ -7247,7 +7247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `checkerboard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![checkerboard-duotone](https://api.iconify.design/ph/checkerboard-duotone.svg?height=32&color=%23888888)
+  /// ![checkerboard-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/checkerboard.png)
   static const checkerboard = PhosphorDuotoneIconData(
     IconData(
       0xe8c4,
@@ -7267,7 +7267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `checks` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![checks-duotone](https://api.iconify.design/ph/checks-duotone.svg?height=32&color=%23888888)
+  /// ![checks-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/checks.png)
   static const checks = PhosphorDuotoneIconData(
     IconData(
       0xe53a,
@@ -7287,7 +7287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cheers` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cheers-duotone](https://api.iconify.design/ph/cheers-duotone.svg?height=32&color=%23888888)
+  /// ![cheers-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cheers.png)
   static const cheers = PhosphorDuotoneIconData(
     IconData(
       0xea4a,
@@ -7307,7 +7307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cheese` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cheese-duotone](https://api.iconify.design/ph/cheese-duotone.svg?height=32&color=%23888888)
+  /// ![cheese-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cheese.png)
   static const cheese = PhosphorDuotoneIconData(
     IconData(
       0xe9fe,
@@ -7327,7 +7327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `chefHat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![chef-hat-duotone](https://api.iconify.design/ph/chef-hat-duotone.svg?height=32&color=%23888888)
+  /// ![chef-hat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/chef-hat.png)
   static const chefHat = PhosphorDuotoneIconData(
     IconData(
       0xed8e,
@@ -7347,7 +7347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cherries` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cherries-duotone](https://api.iconify.design/ph/cherries-duotone.svg?height=32&color=%23888888)
+  /// ![cherries-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cherries.png)
   static const cherries = PhosphorDuotoneIconData(
     IconData(
       0xe830,
@@ -7367,7 +7367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `church` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![church-duotone](https://api.iconify.design/ph/church-duotone.svg?height=32&color=%23888888)
+  /// ![church-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/church.png)
   static const church = PhosphorDuotoneIconData(
     IconData(
       0xecea,
@@ -7387,7 +7387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cigarette` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cigarette-duotone](https://api.iconify.design/ph/cigarette-duotone.svg?height=32&color=%23888888)
+  /// ![cigarette-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cigarette.png)
   static const cigarette = PhosphorDuotoneIconData(
     IconData(
       0xed90,
@@ -7407,7 +7407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cigaretteSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cigarette-slash-duotone](https://api.iconify.design/ph/cigarette-slash-duotone.svg?height=32&color=%23888888)
+  /// ![cigarette-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cigarette-slash.png)
   static const cigaretteSlash = PhosphorDuotoneIconData(
     IconData(
       0xed92,
@@ -7427,7 +7427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-duotone](https://api.iconify.design/ph/circle-duotone.svg?height=32&color=%23888888)
+  /// ![circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle.png)
   static const circle = PhosphorDuotoneIconData(
     IconData(
       0xe18a,
@@ -7447,7 +7447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-dashed-duotone](https://api.iconify.design/ph/circle-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![circle-dashed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-dashed.png)
   static const circleDashed = PhosphorDuotoneIconData(
     IconData(
       0xe602,
@@ -7467,7 +7467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-half-duotone](https://api.iconify.design/ph/circle-half-duotone.svg?height=32&color=%23888888)
+  /// ![circle-half-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-half.png)
   static const circleHalf = PhosphorDuotoneIconData(
     IconData(
       0xe18c,
@@ -7487,7 +7487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleHalfTilt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-half-tilt-duotone](https://api.iconify.design/ph/circle-half-tilt-duotone.svg?height=32&color=%23888888)
+  /// ![circle-half-tilt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-half-tilt.png)
   static const circleHalfTilt = PhosphorDuotoneIconData(
     IconData(
       0xe18e,
@@ -7507,7 +7507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleNotch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-notch-duotone](https://api.iconify.design/ph/circle-notch-duotone.svg?height=32&color=%23888888)
+  /// ![circle-notch-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-notch.png)
   static const circleNotch = PhosphorDuotoneIconData(
     IconData(
       0xeb44,
@@ -7527,7 +7527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleWavy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-wavy-duotone](https://api.iconify.design/ph/seal-duotone.svg?height=32&color=%23888888)
+  /// ![circle-wavy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-wavy.png)
   static const circleWavy = PhosphorDuotoneIconData(
     IconData(
       0xe604,
@@ -7547,7 +7547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleWavyCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-wavy-check-duotone](https://api.iconify.design/ph/seal-check-duotone.svg?height=32&color=%23888888)
+  /// ![circle-wavy-check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-wavy-check.png)
   static const circleWavyCheck = PhosphorDuotoneIconData(
     IconData(
       0xe606,
@@ -7567,7 +7567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleWavyQuestion` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-wavy-question-duotone](https://api.iconify.design/ph/seal-question-duotone.svg?height=32&color=%23888888)
+  /// ![circle-wavy-question-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-wavy-question.png)
   static const circleWavyQuestion = PhosphorDuotoneIconData(
     IconData(
       0xe608,
@@ -7587,7 +7587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circleWavyWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circle-wavy-warning-duotone](https://api.iconify.design/ph/seal-warning-duotone.svg?height=32&color=%23888888)
+  /// ![circle-wavy-warning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circle-wavy-warning.png)
   static const circleWavyWarning = PhosphorDuotoneIconData(
     IconData(
       0xe60c,
@@ -7607,7 +7607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circlesFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circles-four-duotone](https://api.iconify.design/ph/circles-four-duotone.svg?height=32&color=%23888888)
+  /// ![circles-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circles-four.png)
   static const circlesFour = PhosphorDuotoneIconData(
     IconData(
       0xe190,
@@ -7627,7 +7627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circlesThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circles-three-duotone](https://api.iconify.design/ph/circles-three-duotone.svg?height=32&color=%23888888)
+  /// ![circles-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circles-three.png)
   static const circlesThree = PhosphorDuotoneIconData(
     IconData(
       0xe192,
@@ -7647,7 +7647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circlesThreePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circles-three-plus-duotone](https://api.iconify.design/ph/circles-three-plus-duotone.svg?height=32&color=%23888888)
+  /// ![circles-three-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circles-three-plus.png)
   static const circlesThreePlus = PhosphorDuotoneIconData(
     IconData(
       0xe194,
@@ -7667,7 +7667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `circuitry` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![circuitry-duotone](https://api.iconify.design/ph/circuitry-duotone.svg?height=32&color=%23888888)
+  /// ![circuitry-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/circuitry.png)
   static const circuitry = PhosphorDuotoneIconData(
     IconData(
       0xe9c2,
@@ -7687,7 +7687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `city` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![city-duotone](https://api.iconify.design/ph/city-duotone.svg?height=32&color=%23888888)
+  /// ![city-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/city.png)
   static const city = PhosphorDuotoneIconData(
     IconData(
       0xea6a,
@@ -7707,7 +7707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clipboard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clipboard-duotone](https://api.iconify.design/ph/clipboard-duotone.svg?height=32&color=%23888888)
+  /// ![clipboard-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clipboard.png)
   static const clipboard = PhosphorDuotoneIconData(
     IconData(
       0xe196,
@@ -7727,7 +7727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clipboardText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clipboard-text-duotone](https://api.iconify.design/ph/clipboard-text-duotone.svg?height=32&color=%23888888)
+  /// ![clipboard-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clipboard-text.png)
   static const clipboardText = PhosphorDuotoneIconData(
     IconData(
       0xe198,
@@ -7747,7 +7747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clock` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clock-duotone](https://api.iconify.design/ph/clock-duotone.svg?height=32&color=%23888888)
+  /// ![clock-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clock.png)
   static const clock = PhosphorDuotoneIconData(
     IconData(
       0xe19a,
@@ -7767,7 +7767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clockAfternoon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clock-afternoon-duotone](https://api.iconify.design/ph/clock-afternoon-duotone.svg?height=32&color=%23888888)
+  /// ![clock-afternoon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clock-afternoon.png)
   static const clockAfternoon = PhosphorDuotoneIconData(
     IconData(
       0xe19c,
@@ -7787,7 +7787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clockClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clock-clockwise-duotone](https://api.iconify.design/ph/clock-clockwise-duotone.svg?height=32&color=%23888888)
+  /// ![clock-clockwise-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clock-clockwise.png)
   static const clockClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe19e,
@@ -7807,7 +7807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clockCountdown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clock-countdown-duotone](https://api.iconify.design/ph/clock-countdown-duotone.svg?height=32&color=%23888888)
+  /// ![clock-countdown-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clock-countdown.png)
   static const clockCountdown = PhosphorDuotoneIconData(
     IconData(
       0xed2c,
@@ -7827,7 +7827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clockCounterClockwise` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clock-counter-clockwise-duotone](https://api.iconify.design/ph/clock-counter-clockwise-duotone.svg?height=32&color=%23888888)
+  /// ![clock-counter-clockwise-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clock-counter-clockwise.png)
   static const clockCounterClockwise = PhosphorDuotoneIconData(
     IconData(
       0xe1a0,
@@ -7847,7 +7847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clockUser` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clock-user-duotone](https://api.iconify.design/ph/clock-user-duotone.svg?height=32&color=%23888888)
+  /// ![clock-user-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clock-user.png)
   static const clockUser = PhosphorDuotoneIconData(
     IconData(
       0xedec,
@@ -7867,7 +7867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `closedCaptioning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![closed-captioning-duotone](https://api.iconify.design/ph/closed-captioning-duotone.svg?height=32&color=%23888888)
+  /// ![closed-captioning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/closed-captioning.png)
   static const closedCaptioning = PhosphorDuotoneIconData(
     IconData(
       0xe1a4,
@@ -7887,7 +7887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloud` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-duotone](https://api.iconify.design/ph/cloud-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud.png)
   static const cloud = PhosphorDuotoneIconData(
     IconData(
       0xe1aa,
@@ -7907,7 +7907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-arrow-down-duotone](https://api.iconify.design/ph/cloud-arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-arrow-down.png)
   static const cloudArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe1ac,
@@ -7927,7 +7927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-arrow-up-duotone](https://api.iconify.design/ph/cloud-arrow-up-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-arrow-up.png)
   static const cloudArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe1ae,
@@ -7947,7 +7947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-check-duotone](https://api.iconify.design/ph/cloud-check-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-check.png)
   static const cloudCheck = PhosphorDuotoneIconData(
     IconData(
       0xe1b0,
@@ -7967,7 +7967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudFog` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-fog-duotone](https://api.iconify.design/ph/cloud-fog-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-fog-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-fog.png)
   static const cloudFog = PhosphorDuotoneIconData(
     IconData(
       0xe53c,
@@ -7987,7 +7987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudLightning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-lightning-duotone](https://api.iconify.design/ph/cloud-lightning-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-lightning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-lightning.png)
   static const cloudLightning = PhosphorDuotoneIconData(
     IconData(
       0xe1b2,
@@ -8007,7 +8007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudMoon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-moon-duotone](https://api.iconify.design/ph/cloud-moon-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-moon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-moon.png)
   static const cloudMoon = PhosphorDuotoneIconData(
     IconData(
       0xe53e,
@@ -8027,7 +8027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudRain` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-rain-duotone](https://api.iconify.design/ph/cloud-rain-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-rain-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-rain.png)
   static const cloudRain = PhosphorDuotoneIconData(
     IconData(
       0xe1b4,
@@ -8047,7 +8047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-slash-duotone](https://api.iconify.design/ph/cloud-slash-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-slash.png)
   static const cloudSlash = PhosphorDuotoneIconData(
     IconData(
       0xe1b6,
@@ -8067,7 +8067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudSnow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-snow-duotone](https://api.iconify.design/ph/cloud-snow-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-snow-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-snow.png)
   static const cloudSnow = PhosphorDuotoneIconData(
     IconData(
       0xe1b8,
@@ -8087,7 +8087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudSun` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-sun-duotone](https://api.iconify.design/ph/cloud-sun-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-sun-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-sun.png)
   static const cloudSun = PhosphorDuotoneIconData(
     IconData(
       0xe540,
@@ -8107,7 +8107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-warning-duotone](https://api.iconify.design/ph/cloud-warning-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-warning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-warning.png)
   static const cloudWarning = PhosphorDuotoneIconData(
     IconData(
       0xea98,
@@ -8127,7 +8127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cloudX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cloud-x-duotone](https://api.iconify.design/ph/cloud-x-duotone.svg?height=32&color=%23888888)
+  /// ![cloud-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cloud-x.png)
   static const cloudX = PhosphorDuotoneIconData(
     IconData(
       0xea96,
@@ -8147,7 +8147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `clover` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![clover-duotone](https://api.iconify.design/ph/clover-duotone.svg?height=32&color=%23888888)
+  /// ![clover-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/clover.png)
   static const clover = PhosphorDuotoneIconData(
     IconData(
       0xedc8,
@@ -8167,7 +8167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `club` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![club-duotone](https://api.iconify.design/ph/club-duotone.svg?height=32&color=%23888888)
+  /// ![club-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/club.png)
   static const club = PhosphorDuotoneIconData(
     IconData(
       0xe1ba,
@@ -8187,7 +8187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `coatHanger` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![coat-hanger-duotone](https://api.iconify.design/ph/coat-hanger-duotone.svg?height=32&color=%23888888)
+  /// ![coat-hanger-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/coat-hanger.png)
   static const coatHanger = PhosphorDuotoneIconData(
     IconData(
       0xe7fe,
@@ -8207,7 +8207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `codaLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![coda-logo-duotone](https://api.iconify.design/ph/coda-logo-duotone.svg?height=32&color=%23888888)
+  /// ![coda-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/coda-logo.png)
   static const codaLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7ce,
@@ -8227,7 +8227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `code` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![code-duotone](https://api.iconify.design/ph/code-duotone.svg?height=32&color=%23888888)
+  /// ![code-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/code.png)
   static const code = PhosphorDuotoneIconData(
     IconData(
       0xe1bc,
@@ -8247,7 +8247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `codeBlock` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![code-block-duotone](https://api.iconify.design/ph/code-block-duotone.svg?height=32&color=%23888888)
+  /// ![code-block-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/code-block.png)
   static const codeBlock = PhosphorDuotoneIconData(
     IconData(
       0xeafe,
@@ -8267,7 +8267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `codeSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![code-simple-duotone](https://api.iconify.design/ph/code-simple-duotone.svg?height=32&color=%23888888)
+  /// ![code-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/code-simple.png)
   static const codeSimple = PhosphorDuotoneIconData(
     IconData(
       0xe1be,
@@ -8287,7 +8287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `codepenLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![codepen-logo-duotone](https://api.iconify.design/ph/codepen-logo-duotone.svg?height=32&color=%23888888)
+  /// ![codepen-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/codepen-logo.png)
   static const codepenLogo = PhosphorDuotoneIconData(
     IconData(
       0xe978,
@@ -8307,7 +8307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `codesandboxLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![codesandbox-logo-duotone](https://api.iconify.design/ph/codesandbox-logo-duotone.svg?height=32&color=%23888888)
+  /// ![codesandbox-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/codesandbox-logo.png)
   static const codesandboxLogo = PhosphorDuotoneIconData(
     IconData(
       0xea06,
@@ -8327,7 +8327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `coffee` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![coffee-duotone](https://api.iconify.design/ph/coffee-duotone.svg?height=32&color=%23888888)
+  /// ![coffee-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/coffee.png)
   static const coffee = PhosphorDuotoneIconData(
     IconData(
       0xe1c2,
@@ -8347,7 +8347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `coffeeBean` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![coffee-bean-duotone](https://api.iconify.design/ph/coffee-bean-duotone.svg?height=32&color=%23888888)
+  /// ![coffee-bean-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/coffee-bean.png)
   static const coffeeBean = PhosphorDuotoneIconData(
     IconData(
       0xe1c0,
@@ -8367,7 +8367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `coin` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![coin-duotone](https://api.iconify.design/ph/coin-duotone.svg?height=32&color=%23888888)
+  /// ![coin-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/coin.png)
   static const coin = PhosphorDuotoneIconData(
     IconData(
       0xe60e,
@@ -8387,7 +8387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `coinVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![coin-vertical-duotone](https://api.iconify.design/ph/coin-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![coin-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/coin-vertical.png)
   static const coinVertical = PhosphorDuotoneIconData(
     IconData(
       0xeb48,
@@ -8407,7 +8407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `coins` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![coins-duotone](https://api.iconify.design/ph/coins-duotone.svg?height=32&color=%23888888)
+  /// ![coins-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/coins.png)
   static const coins = PhosphorDuotoneIconData(
     IconData(
       0xe78e,
@@ -8427,7 +8427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `columns` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![columns-duotone](https://api.iconify.design/ph/columns-duotone.svg?height=32&color=%23888888)
+  /// ![columns-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/columns.png)
   static const columns = PhosphorDuotoneIconData(
     IconData(
       0xe546,
@@ -8447,7 +8447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `columnsPlusLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![columns-plus-left-duotone](https://api.iconify.design/ph/columns-plus-left-duotone.svg?height=32&color=%23888888)
+  /// ![columns-plus-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/columns-plus-left.png)
   static const columnsPlusLeft = PhosphorDuotoneIconData(
     IconData(
       0xe544,
@@ -8467,7 +8467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `columnsPlusRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![columns-plus-right-duotone](https://api.iconify.design/ph/columns-plus-right-duotone.svg?height=32&color=%23888888)
+  /// ![columns-plus-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/columns-plus-right.png)
   static const columnsPlusRight = PhosphorDuotoneIconData(
     IconData(
       0xe542,
@@ -8487,7 +8487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `command` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![command-duotone](https://api.iconify.design/ph/command-duotone.svg?height=32&color=%23888888)
+  /// ![command-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/command.png)
   static const command = PhosphorDuotoneIconData(
     IconData(
       0xe1c4,
@@ -8507,7 +8507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `compass` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![compass-duotone](https://api.iconify.design/ph/compass-duotone.svg?height=32&color=%23888888)
+  /// ![compass-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/compass.png)
   static const compass = PhosphorDuotoneIconData(
     IconData(
       0xe1c8,
@@ -8527,7 +8527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `compassRose` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![compass-rose-duotone](https://api.iconify.design/ph/compass-rose-duotone.svg?height=32&color=%23888888)
+  /// ![compass-rose-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/compass-rose.png)
   static const compassRose = PhosphorDuotoneIconData(
     IconData(
       0xe1c6,
@@ -8547,7 +8547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `compassTool` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![compass-tool-duotone](https://api.iconify.design/ph/compass-tool-duotone.svg?height=32&color=%23888888)
+  /// ![compass-tool-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/compass-tool.png)
   static const compassTool = PhosphorDuotoneIconData(
     IconData(
       0xea0e,
@@ -8567,7 +8567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `computerTower` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![computer-tower-duotone](https://api.iconify.design/ph/computer-tower-duotone.svg?height=32&color=%23888888)
+  /// ![computer-tower-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/computer-tower.png)
   static const computerTower = PhosphorDuotoneIconData(
     IconData(
       0xe548,
@@ -8587,7 +8587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `confetti` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![confetti-duotone](https://api.iconify.design/ph/confetti-duotone.svg?height=32&color=%23888888)
+  /// ![confetti-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/confetti.png)
   static const confetti = PhosphorDuotoneIconData(
     IconData(
       0xe81a,
@@ -8607,7 +8607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `contactlessPayment` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![contactless-payment-duotone](https://api.iconify.design/ph/contactless-payment-duotone.svg?height=32&color=%23888888)
+  /// ![contactless-payment-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/contactless-payment.png)
   static const contactlessPayment = PhosphorDuotoneIconData(
     IconData(
       0xed42,
@@ -8627,7 +8627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `control` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![control-duotone](https://api.iconify.design/ph/control-duotone.svg?height=32&color=%23888888)
+  /// ![control-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/control.png)
   static const control = PhosphorDuotoneIconData(
     IconData(
       0xeca6,
@@ -8647,7 +8647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cookie` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cookie-duotone](https://api.iconify.design/ph/cookie-duotone.svg?height=32&color=%23888888)
+  /// ![cookie-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cookie.png)
   static const cookie = PhosphorDuotoneIconData(
     IconData(
       0xe6ca,
@@ -8667,7 +8667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cookingPot` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cooking-pot-duotone](https://api.iconify.design/ph/cooking-pot-duotone.svg?height=32&color=%23888888)
+  /// ![cooking-pot-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cooking-pot.png)
   static const cookingPot = PhosphorDuotoneIconData(
     IconData(
       0xe764,
@@ -8687,7 +8687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `copy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![copy-duotone](https://api.iconify.design/ph/copy-duotone.svg?height=32&color=%23888888)
+  /// ![copy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/copy.png)
   static const copy = PhosphorDuotoneIconData(
     IconData(
       0xe1ca,
@@ -8707,7 +8707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `copySimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![copy-simple-duotone](https://api.iconify.design/ph/copy-simple-duotone.svg?height=32&color=%23888888)
+  /// ![copy-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/copy-simple.png)
   static const copySimple = PhosphorDuotoneIconData(
     IconData(
       0xe1cc,
@@ -8727,7 +8727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `copyleft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![copyleft-duotone](https://api.iconify.design/ph/copyleft-duotone.svg?height=32&color=%23888888)
+  /// ![copyleft-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/copyleft.png)
   static const copyleft = PhosphorDuotoneIconData(
     IconData(
       0xe86a,
@@ -8747,7 +8747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `copyright` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![copyright-duotone](https://api.iconify.design/ph/copyright-duotone.svg?height=32&color=%23888888)
+  /// ![copyright-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/copyright.png)
   static const copyright = PhosphorDuotoneIconData(
     IconData(
       0xe54a,
@@ -8767,7 +8767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cornersIn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![corners-in-duotone](https://api.iconify.design/ph/corners-in-duotone.svg?height=32&color=%23888888)
+  /// ![corners-in-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/corners-in.png)
   static const cornersIn = PhosphorDuotoneIconData(
     IconData(
       0xe1ce,
@@ -8787,7 +8787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cornersOut` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![corners-out-duotone](https://api.iconify.design/ph/corners-out-duotone.svg?height=32&color=%23888888)
+  /// ![corners-out-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/corners-out.png)
   static const cornersOut = PhosphorDuotoneIconData(
     IconData(
       0xe1d0,
@@ -8807,7 +8807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `couch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![couch-duotone](https://api.iconify.design/ph/couch-duotone.svg?height=32&color=%23888888)
+  /// ![couch-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/couch.png)
   static const couch = PhosphorDuotoneIconData(
     IconData(
       0xe7f6,
@@ -8827,7 +8827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `courtBasketball` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![court-basketball-duotone](https://api.iconify.design/ph/court-basketball-duotone.svg?height=32&color=%23888888)
+  /// ![court-basketball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/court-basketball.png)
   static const courtBasketball = PhosphorDuotoneIconData(
     IconData(
       0xee36,
@@ -8847,7 +8847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cow-duotone](https://api.iconify.design/ph/cow-duotone.svg?height=32&color=%23888888)
+  /// ![cow-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cow.png)
   static const cow = PhosphorDuotoneIconData(
     IconData(
       0xeabe,
@@ -8867,7 +8867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cowboyHat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cowboy-hat-duotone](https://api.iconify.design/ph/cowboy-hat-duotone.svg?height=32&color=%23888888)
+  /// ![cowboy-hat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cowboy-hat.png)
   static const cowboyHat = PhosphorDuotoneIconData(
     IconData(
       0xed12,
@@ -8887,7 +8887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cpu` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cpu-duotone](https://api.iconify.design/ph/cpu-duotone.svg?height=32&color=%23888888)
+  /// ![cpu-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cpu.png)
   static const cpu = PhosphorDuotoneIconData(
     IconData(
       0xe610,
@@ -8907,7 +8907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `crane` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crane-duotone](https://api.iconify.design/ph/crane-duotone.svg?height=32&color=%23888888)
+  /// ![crane-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crane.png)
   static const crane = PhosphorDuotoneIconData(
     IconData(
       0xed48,
@@ -8927,7 +8927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `craneTower` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crane-tower-duotone](https://api.iconify.design/ph/crane-tower-duotone.svg?height=32&color=%23888888)
+  /// ![crane-tower-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crane-tower.png)
   static const craneTower = PhosphorDuotoneIconData(
     IconData(
       0xed49,
@@ -8947,7 +8947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `creditCard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![credit-card-duotone](https://api.iconify.design/ph/credit-card-duotone.svg?height=32&color=%23888888)
+  /// ![credit-card-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/credit-card.png)
   static const creditCard = PhosphorDuotoneIconData(
     IconData(
       0xe1d2,
@@ -8967,7 +8967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cricket` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cricket-duotone](https://api.iconify.design/ph/cricket-duotone.svg?height=32&color=%23888888)
+  /// ![cricket-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cricket.png)
   static const cricket = PhosphorDuotoneIconData(
     IconData(
       0xee12,
@@ -8987,7 +8987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `crop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crop-duotone](https://api.iconify.design/ph/crop-duotone.svg?height=32&color=%23888888)
+  /// ![crop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crop.png)
   static const crop = PhosphorDuotoneIconData(
     IconData(
       0xe1d4,
@@ -9007,7 +9007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cross` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cross-duotone](https://api.iconify.design/ph/cross-duotone.svg?height=32&color=%23888888)
+  /// ![cross-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cross.png)
   static const cross = PhosphorDuotoneIconData(
     IconData(
       0xe8a0,
@@ -9027,7 +9027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `crosshair` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crosshair-duotone](https://api.iconify.design/ph/crosshair-duotone.svg?height=32&color=%23888888)
+  /// ![crosshair-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crosshair.png)
   static const crosshair = PhosphorDuotoneIconData(
     IconData(
       0xe1d6,
@@ -9047,7 +9047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `crosshairSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crosshair-simple-duotone](https://api.iconify.design/ph/crosshair-simple-duotone.svg?height=32&color=%23888888)
+  /// ![crosshair-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crosshair-simple.png)
   static const crosshairSimple = PhosphorDuotoneIconData(
     IconData(
       0xe1d8,
@@ -9067,7 +9067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `crown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crown-duotone](https://api.iconify.design/ph/crown-duotone.svg?height=32&color=%23888888)
+  /// ![crown-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crown.png)
   static const crown = PhosphorDuotoneIconData(
     IconData(
       0xe614,
@@ -9087,7 +9087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `crownCross` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crown-cross-duotone](https://api.iconify.design/ph/crown-cross-duotone.svg?height=32&color=%23888888)
+  /// ![crown-cross-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crown-cross.png)
   static const crownCross = PhosphorDuotoneIconData(
     IconData(
       0xee5e,
@@ -9107,7 +9107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `crownSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![crown-simple-duotone](https://api.iconify.design/ph/crown-simple-duotone.svg?height=32&color=%23888888)
+  /// ![crown-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/crown-simple.png)
   static const crownSimple = PhosphorDuotoneIconData(
     IconData(
       0xe616,
@@ -9127,7 +9127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cube` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cube-duotone](https://api.iconify.design/ph/cube-duotone.svg?height=32&color=%23888888)
+  /// ![cube-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cube.png)
   static const cube = PhosphorDuotoneIconData(
     IconData(
       0xe1da,
@@ -9147,7 +9147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cubeFocus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cube-focus-duotone](https://api.iconify.design/ph/cube-focus-duotone.svg?height=32&color=%23888888)
+  /// ![cube-focus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cube-focus.png)
   static const cubeFocus = PhosphorDuotoneIconData(
     IconData(
       0xed0a,
@@ -9167,7 +9167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cubeTransparent` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cube-transparent-duotone](https://api.iconify.design/ph/cube-transparent-duotone.svg?height=32&color=%23888888)
+  /// ![cube-transparent-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cube-transparent.png)
   static const cubeTransparent = PhosphorDuotoneIconData(
     IconData(
       0xec7c,
@@ -9187,7 +9187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyBtc` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-btc-duotone](https://api.iconify.design/ph/currency-btc-duotone.svg?height=32&color=%23888888)
+  /// ![currency-btc-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-btc.png)
   static const currencyBtc = PhosphorDuotoneIconData(
     IconData(
       0xe618,
@@ -9207,7 +9207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyCircleDollar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-circle-dollar-duotone](https://api.iconify.design/ph/currency-circle-dollar-duotone.svg?height=32&color=%23888888)
+  /// ![currency-circle-dollar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-circle-dollar.png)
   static const currencyCircleDollar = PhosphorDuotoneIconData(
     IconData(
       0xe54c,
@@ -9227,7 +9227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyCny` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-cny-duotone](https://api.iconify.design/ph/currency-cny-duotone.svg?height=32&color=%23888888)
+  /// ![currency-cny-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-cny.png)
   static const currencyCny = PhosphorDuotoneIconData(
     IconData(
       0xe54e,
@@ -9247,7 +9247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyDollar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-dollar-duotone](https://api.iconify.design/ph/currency-dollar-duotone.svg?height=32&color=%23888888)
+  /// ![currency-dollar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-dollar.png)
   static const currencyDollar = PhosphorDuotoneIconData(
     IconData(
       0xe550,
@@ -9267,7 +9267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyDollarSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-dollar-simple-duotone](https://api.iconify.design/ph/currency-dollar-simple-duotone.svg?height=32&color=%23888888)
+  /// ![currency-dollar-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-dollar-simple.png)
   static const currencyDollarSimple = PhosphorDuotoneIconData(
     IconData(
       0xe552,
@@ -9287,7 +9287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyEth` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-eth-duotone](https://api.iconify.design/ph/currency-eth-duotone.svg?height=32&color=%23888888)
+  /// ![currency-eth-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-eth.png)
   static const currencyEth = PhosphorDuotoneIconData(
     IconData(
       0xeada,
@@ -9307,7 +9307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyEur` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-eur-duotone](https://api.iconify.design/ph/currency-eur-duotone.svg?height=32&color=%23888888)
+  /// ![currency-eur-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-eur.png)
   static const currencyEur = PhosphorDuotoneIconData(
     IconData(
       0xe554,
@@ -9327,7 +9327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyGbp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-gbp-duotone](https://api.iconify.design/ph/currency-gbp-duotone.svg?height=32&color=%23888888)
+  /// ![currency-gbp-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-gbp.png)
   static const currencyGbp = PhosphorDuotoneIconData(
     IconData(
       0xe556,
@@ -9347,7 +9347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyInr` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-inr-duotone](https://api.iconify.design/ph/currency-inr-duotone.svg?height=32&color=%23888888)
+  /// ![currency-inr-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-inr.png)
   static const currencyInr = PhosphorDuotoneIconData(
     IconData(
       0xe558,
@@ -9367,7 +9367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyJpy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-jpy-duotone](https://api.iconify.design/ph/currency-jpy-duotone.svg?height=32&color=%23888888)
+  /// ![currency-jpy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-jpy.png)
   static const currencyJpy = PhosphorDuotoneIconData(
     IconData(
       0xe55a,
@@ -9387,7 +9387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyKrw` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-krw-duotone](https://api.iconify.design/ph/currency-krw-duotone.svg?height=32&color=%23888888)
+  /// ![currency-krw-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-krw.png)
   static const currencyKrw = PhosphorDuotoneIconData(
     IconData(
       0xe55c,
@@ -9407,7 +9407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyKzt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-kzt-duotone](https://api.iconify.design/ph/currency-kzt-duotone.svg?height=32&color=%23888888)
+  /// ![currency-kzt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-kzt.png)
   static const currencyKzt = PhosphorDuotoneIconData(
     IconData(
       0xec4c,
@@ -9427,7 +9427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyNgn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-ngn-duotone](https://api.iconify.design/ph/currency-ngn-duotone.svg?height=32&color=%23888888)
+  /// ![currency-ngn-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-ngn.png)
   static const currencyNgn = PhosphorDuotoneIconData(
     IconData(
       0xeb52,
@@ -9447,7 +9447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `currencyRub` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![currency-rub-duotone](https://api.iconify.design/ph/currency-rub-duotone.svg?height=32&color=%23888888)
+  /// ![currency-rub-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/currency-rub.png)
   static const currencyRub = PhosphorDuotoneIconData(
     IconData(
       0xe55e,
@@ -9467,7 +9467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cursor` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cursor-duotone](https://api.iconify.design/ph/cursor-duotone.svg?height=32&color=%23888888)
+  /// ![cursor-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cursor.png)
   static const cursor = PhosphorDuotoneIconData(
     IconData(
       0xe1dc,
@@ -9487,7 +9487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cursorClick` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cursor-click-duotone](https://api.iconify.design/ph/cursor-click-duotone.svg?height=32&color=%23888888)
+  /// ![cursor-click-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cursor-click.png)
   static const cursorClick = PhosphorDuotoneIconData(
     IconData(
       0xe7c8,
@@ -9507,7 +9507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cursorText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cursor-text-duotone](https://api.iconify.design/ph/cursor-text-duotone.svg?height=32&color=%23888888)
+  /// ![cursor-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cursor-text.png)
   static const cursorText = PhosphorDuotoneIconData(
     IconData(
       0xe7d8,
@@ -9527,7 +9527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `cylinder` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![cylinder-duotone](https://api.iconify.design/ph/cylinder-duotone.svg?height=32&color=%23888888)
+  /// ![cylinder-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/cylinder.png)
   static const cylinder = PhosphorDuotoneIconData(
     IconData(
       0xe8fc,
@@ -9547,7 +9547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `database` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![database-duotone](https://api.iconify.design/ph/database-duotone.svg?height=32&color=%23888888)
+  /// ![database-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/database.png)
   static const database = PhosphorDuotoneIconData(
     IconData(
       0xe1de,
@@ -9567,7 +9567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `desk` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![desk-duotone](https://api.iconify.design/ph/desk-duotone.svg?height=32&color=%23888888)
+  /// ![desk-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/desk.png)
   static const desk = PhosphorDuotoneIconData(
     IconData(
       0xed16,
@@ -9587,7 +9587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `desktop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![desktop-duotone](https://api.iconify.design/ph/desktop-duotone.svg?height=32&color=%23888888)
+  /// ![desktop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/desktop.png)
   static const desktop = PhosphorDuotoneIconData(
     IconData(
       0xe560,
@@ -9607,7 +9607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `desktopTower` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![desktop-tower-duotone](https://api.iconify.design/ph/desktop-tower-duotone.svg?height=32&color=%23888888)
+  /// ![desktop-tower-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/desktop-tower.png)
   static const desktopTower = PhosphorDuotoneIconData(
     IconData(
       0xe562,
@@ -9627,7 +9627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `detective` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![detective-duotone](https://api.iconify.design/ph/detective-duotone.svg?height=32&color=%23888888)
+  /// ![detective-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/detective.png)
   static const detective = PhosphorDuotoneIconData(
     IconData(
       0xe83e,
@@ -9647,7 +9647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `devToLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dev-to-logo-duotone](https://api.iconify.design/ph/dev-to-logo-duotone.svg?height=32&color=%23888888)
+  /// ![dev-to-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dev-to-logo.png)
   static const devToLogo = PhosphorDuotoneIconData(
     IconData(
       0xed0e,
@@ -9667,7 +9667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceMobile` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-mobile-duotone](https://api.iconify.design/ph/device-mobile-duotone.svg?height=32&color=%23888888)
+  /// ![device-mobile-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-mobile.png)
   static const deviceMobile = PhosphorDuotoneIconData(
     IconData(
       0xe1e0,
@@ -9687,7 +9687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceMobileCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-mobile-camera-duotone](https://api.iconify.design/ph/device-mobile-camera-duotone.svg?height=32&color=%23888888)
+  /// ![device-mobile-camera-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-mobile-camera.png)
   static const deviceMobileCamera = PhosphorDuotoneIconData(
     IconData(
       0xe1e2,
@@ -9707,7 +9707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceMobileSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-mobile-slash-duotone](https://api.iconify.design/ph/device-mobile-slash-duotone.svg?height=32&color=%23888888)
+  /// ![device-mobile-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-mobile-slash.png)
   static const deviceMobileSlash = PhosphorDuotoneIconData(
     IconData(
       0xee46,
@@ -9727,7 +9727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceMobileSpeaker` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-mobile-speaker-duotone](https://api.iconify.design/ph/device-mobile-speaker-duotone.svg?height=32&color=%23888888)
+  /// ![device-mobile-speaker-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-mobile-speaker.png)
   static const deviceMobileSpeaker = PhosphorDuotoneIconData(
     IconData(
       0xe1e4,
@@ -9747,7 +9747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceRotate` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-rotate-duotone](https://api.iconify.design/ph/device-rotate-duotone.svg?height=32&color=%23888888)
+  /// ![device-rotate-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-rotate.png)
   static const deviceRotate = PhosphorDuotoneIconData(
     IconData(
       0xedf2,
@@ -9767,7 +9767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceTablet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-tablet-duotone](https://api.iconify.design/ph/device-tablet-duotone.svg?height=32&color=%23888888)
+  /// ![device-tablet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-tablet.png)
   static const deviceTablet = PhosphorDuotoneIconData(
     IconData(
       0xe1e6,
@@ -9787,7 +9787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceTabletCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-tablet-camera-duotone](https://api.iconify.design/ph/device-tablet-camera-duotone.svg?height=32&color=%23888888)
+  /// ![device-tablet-camera-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-tablet-camera.png)
   static const deviceTabletCamera = PhosphorDuotoneIconData(
     IconData(
       0xe1e8,
@@ -9807,7 +9807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `deviceTabletSpeaker` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![device-tablet-speaker-duotone](https://api.iconify.design/ph/device-tablet-speaker-duotone.svg?height=32&color=%23888888)
+  /// ![device-tablet-speaker-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/device-tablet-speaker.png)
   static const deviceTabletSpeaker = PhosphorDuotoneIconData(
     IconData(
       0xe1ea,
@@ -9827,7 +9827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `devices` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![devices-duotone](https://api.iconify.design/ph/devices-duotone.svg?height=32&color=%23888888)
+  /// ![devices-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/devices.png)
   static const devices = PhosphorDuotoneIconData(
     IconData(
       0xeba4,
@@ -9847,7 +9847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diamond` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![diamond-duotone](https://api.iconify.design/ph/diamond-duotone.svg?height=32&color=%23888888)
+  /// ![diamond-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/diamond.png)
   static const diamond = PhosphorDuotoneIconData(
     IconData(
       0xe1ec,
@@ -9867,7 +9867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diamondsFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![diamonds-four-duotone](https://api.iconify.design/ph/diamonds-four-duotone.svg?height=32&color=%23888888)
+  /// ![diamonds-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/diamonds-four.png)
   static const diamondsFour = PhosphorDuotoneIconData(
     IconData(
       0xe8f4,
@@ -9887,7 +9887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diceFive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dice-five-duotone](https://api.iconify.design/ph/dice-five-duotone.svg?height=32&color=%23888888)
+  /// ![dice-five-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dice-five.png)
   static const diceFive = PhosphorDuotoneIconData(
     IconData(
       0xe1ee,
@@ -9907,7 +9907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diceFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dice-four-duotone](https://api.iconify.design/ph/dice-four-duotone.svg?height=32&color=%23888888)
+  /// ![dice-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dice-four.png)
   static const diceFour = PhosphorDuotoneIconData(
     IconData(
       0xe1f0,
@@ -9927,7 +9927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diceOne` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dice-one-duotone](https://api.iconify.design/ph/dice-one-duotone.svg?height=32&color=%23888888)
+  /// ![dice-one-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dice-one.png)
   static const diceOne = PhosphorDuotoneIconData(
     IconData(
       0xe1f2,
@@ -9947,7 +9947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diceSix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dice-six-duotone](https://api.iconify.design/ph/dice-six-duotone.svg?height=32&color=%23888888)
+  /// ![dice-six-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dice-six.png)
   static const diceSix = PhosphorDuotoneIconData(
     IconData(
       0xe1f4,
@@ -9967,7 +9967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diceThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dice-three-duotone](https://api.iconify.design/ph/dice-three-duotone.svg?height=32&color=%23888888)
+  /// ![dice-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dice-three.png)
   static const diceThree = PhosphorDuotoneIconData(
     IconData(
       0xe1f6,
@@ -9987,7 +9987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `diceTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dice-two-duotone](https://api.iconify.design/ph/dice-two-duotone.svg?height=32&color=%23888888)
+  /// ![dice-two-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dice-two.png)
   static const diceTwo = PhosphorDuotoneIconData(
     IconData(
       0xe1f8,
@@ -10007,7 +10007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `disc` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![disc-duotone](https://api.iconify.design/ph/disc-duotone.svg?height=32&color=%23888888)
+  /// ![disc-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/disc.png)
   static const disc = PhosphorDuotoneIconData(
     IconData(
       0xe564,
@@ -10027,7 +10027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `discoBall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![disco-ball-duotone](https://api.iconify.design/ph/disco-ball-duotone.svg?height=32&color=%23888888)
+  /// ![disco-ball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/disco-ball.png)
   static const discoBall = PhosphorDuotoneIconData(
     IconData(
       0xed98,
@@ -10047,7 +10047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `discordLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![discord-logo-duotone](https://api.iconify.design/ph/discord-logo-duotone.svg?height=32&color=%23888888)
+  /// ![discord-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/discord-logo.png)
   static const discordLogo = PhosphorDuotoneIconData(
     IconData(
       0xe61a,
@@ -10067,7 +10067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `divide` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![divide-duotone](https://api.iconify.design/ph/divide-duotone.svg?height=32&color=%23888888)
+  /// ![divide-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/divide.png)
   static const divide = PhosphorDuotoneIconData(
     IconData(
       0xe1fa,
@@ -10087,7 +10087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dna` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dna-duotone](https://api.iconify.design/ph/dna-duotone.svg?height=32&color=%23888888)
+  /// ![dna-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dna.png)
   static const dna = PhosphorDuotoneIconData(
     IconData(
       0xe924,
@@ -10107,7 +10107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dog` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dog-duotone](https://api.iconify.design/ph/dog-duotone.svg?height=32&color=%23888888)
+  /// ![dog-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dog.png)
   static const dog = PhosphorDuotoneIconData(
     IconData(
       0xe74a,
@@ -10127,7 +10127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `door` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![door-duotone](https://api.iconify.design/ph/door-duotone.svg?height=32&color=%23888888)
+  /// ![door-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/door.png)
   static const door = PhosphorDuotoneIconData(
     IconData(
       0xe61c,
@@ -10147,7 +10147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `doorOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![door-open-duotone](https://api.iconify.design/ph/door-open-duotone.svg?height=32&color=%23888888)
+  /// ![door-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/door-open.png)
   static const doorOpen = PhosphorDuotoneIconData(
     IconData(
       0xe7e6,
@@ -10167,7 +10167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dot` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dot-duotone](https://api.iconify.design/ph/dot-duotone.svg?height=32&color=%23888888)
+  /// ![dot-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dot.png)
   static const dot = PhosphorDuotoneIconData(
     IconData(
       0xecde,
@@ -10187,7 +10187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotOutline` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dot-outline-duotone](https://api.iconify.design/ph/dot-outline-duotone.svg?height=32&color=%23888888)
+  /// ![dot-outline-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dot-outline.png)
   static const dotOutline = PhosphorDuotoneIconData(
     IconData(
       0xece0,
@@ -10207,7 +10207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsNine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-nine-duotone](https://api.iconify.design/ph/dots-nine-duotone.svg?height=32&color=%23888888)
+  /// ![dots-nine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-nine.png)
   static const dotsNine = PhosphorDuotoneIconData(
     IconData(
       0xe1fc,
@@ -10227,7 +10227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsSix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-six-duotone](https://api.iconify.design/ph/dots-six-duotone.svg?height=32&color=%23888888)
+  /// ![dots-six-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-six.png)
   static const dotsSix = PhosphorDuotoneIconData(
     IconData(
       0xe794,
@@ -10247,7 +10247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsSixVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-six-vertical-duotone](https://api.iconify.design/ph/dots-six-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![dots-six-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-six-vertical.png)
   static const dotsSixVertical = PhosphorDuotoneIconData(
     IconData(
       0xeae2,
@@ -10267,7 +10267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-three-duotone](https://api.iconify.design/ph/dots-three-duotone.svg?height=32&color=%23888888)
+  /// ![dots-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-three.png)
   static const dotsThree = PhosphorDuotoneIconData(
     IconData(
       0xe1fe,
@@ -10287,7 +10287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsThreeCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-three-circle-duotone](https://api.iconify.design/ph/dots-three-circle-duotone.svg?height=32&color=%23888888)
+  /// ![dots-three-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-three-circle.png)
   static const dotsThreeCircle = PhosphorDuotoneIconData(
     IconData(
       0xe200,
@@ -10307,7 +10307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsThreeCircleVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-three-circle-vertical-duotone](https://api.iconify.design/ph/dots-three-circle-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![dots-three-circle-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-three-circle-vertical.png)
   static const dotsThreeCircleVertical = PhosphorDuotoneIconData(
     IconData(
       0xe202,
@@ -10327,7 +10327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsThreeOutline` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-three-outline-duotone](https://api.iconify.design/ph/dots-three-outline-duotone.svg?height=32&color=%23888888)
+  /// ![dots-three-outline-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-three-outline.png)
   static const dotsThreeOutline = PhosphorDuotoneIconData(
     IconData(
       0xe204,
@@ -10347,7 +10347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-three-outline-vertical-duotone](https://api.iconify.design/ph/dots-three-outline-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![dots-three-outline-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-three-outline-vertical.png)
   static const dotsThreeOutlineVertical = PhosphorDuotoneIconData(
     IconData(
       0xe206,
@@ -10367,7 +10367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dotsThreeVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dots-three-vertical-duotone](https://api.iconify.design/ph/dots-three-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![dots-three-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dots-three-vertical.png)
   static const dotsThreeVertical = PhosphorDuotoneIconData(
     IconData(
       0xe208,
@@ -10387,7 +10387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `download` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![download-duotone](https://api.iconify.design/ph/download-duotone.svg?height=32&color=%23888888)
+  /// ![download-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/download.png)
   static const download = PhosphorDuotoneIconData(
     IconData(
       0xe20a,
@@ -10407,7 +10407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `downloadSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![download-simple-duotone](https://api.iconify.design/ph/download-simple-duotone.svg?height=32&color=%23888888)
+  /// ![download-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/download-simple.png)
   static const downloadSimple = PhosphorDuotoneIconData(
     IconData(
       0xe20c,
@@ -10427,7 +10427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dress` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dress-duotone](https://api.iconify.design/ph/dress-duotone.svg?height=32&color=%23888888)
+  /// ![dress-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dress.png)
   static const dress = PhosphorDuotoneIconData(
     IconData(
       0xea7e,
@@ -10447,7 +10447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dresser` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dresser-duotone](https://api.iconify.design/ph/dresser-duotone.svg?height=32&color=%23888888)
+  /// ![dresser-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dresser.png)
   static const dresser = PhosphorDuotoneIconData(
     IconData(
       0xe94e,
@@ -10467,7 +10467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dribbbleLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dribbble-logo-duotone](https://api.iconify.design/ph/dribbble-logo-duotone.svg?height=32&color=%23888888)
+  /// ![dribbble-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dribbble-logo.png)
   static const dribbbleLogo = PhosphorDuotoneIconData(
     IconData(
       0xe20e,
@@ -10487,7 +10487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `drone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![drone-duotone](https://api.iconify.design/ph/drone-duotone.svg?height=32&color=%23888888)
+  /// ![drone-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/drone.png)
   static const drone = PhosphorDuotoneIconData(
     IconData(
       0xed74,
@@ -10507,7 +10507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `drop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![drop-duotone](https://api.iconify.design/ph/drop-duotone.svg?height=32&color=%23888888)
+  /// ![drop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/drop.png)
   static const drop = PhosphorDuotoneIconData(
     IconData(
       0xe210,
@@ -10527,7 +10527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dropHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![drop-half-duotone](https://api.iconify.design/ph/drop-half-duotone.svg?height=32&color=%23888888)
+  /// ![drop-half-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/drop-half.png)
   static const dropHalf = PhosphorDuotoneIconData(
     IconData(
       0xe566,
@@ -10547,7 +10547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dropHalfBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![drop-half-bottom-duotone](https://api.iconify.design/ph/drop-half-bottom-duotone.svg?height=32&color=%23888888)
+  /// ![drop-half-bottom-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/drop-half-bottom.png)
   static const dropHalfBottom = PhosphorDuotoneIconData(
     IconData(
       0xeb40,
@@ -10567,7 +10567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dropSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![drop-simple-duotone](https://api.iconify.design/ph/drop-simple-duotone.svg?height=32&color=%23888888)
+  /// ![drop-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/drop-simple.png)
   static const dropSimple = PhosphorDuotoneIconData(
     IconData(
       0xee32,
@@ -10587,7 +10587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dropSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![drop-slash-duotone](https://api.iconify.design/ph/drop-slash-duotone.svg?height=32&color=%23888888)
+  /// ![drop-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/drop-slash.png)
   static const dropSlash = PhosphorDuotoneIconData(
     IconData(
       0xe954,
@@ -10607,7 +10607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `dropboxLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![dropbox-logo-duotone](https://api.iconify.design/ph/dropbox-logo-duotone.svg?height=32&color=%23888888)
+  /// ![dropbox-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/dropbox-logo.png)
   static const dropboxLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7d0,
@@ -10627,7 +10627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ear` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ear-duotone](https://api.iconify.design/ph/ear-duotone.svg?height=32&color=%23888888)
+  /// ![ear-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ear.png)
   static const ear = PhosphorDuotoneIconData(
     IconData(
       0xe70c,
@@ -10647,7 +10647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `earSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ear-slash-duotone](https://api.iconify.design/ph/ear-slash-duotone.svg?height=32&color=%23888888)
+  /// ![ear-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ear-slash.png)
   static const earSlash = PhosphorDuotoneIconData(
     IconData(
       0xe70e,
@@ -10667,7 +10667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `egg` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![egg-duotone](https://api.iconify.design/ph/egg-duotone.svg?height=32&color=%23888888)
+  /// ![egg-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/egg.png)
   static const egg = PhosphorDuotoneIconData(
     IconData(
       0xe812,
@@ -10687,7 +10687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eggCrack` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![egg-crack-duotone](https://api.iconify.design/ph/egg-crack-duotone.svg?height=32&color=%23888888)
+  /// ![egg-crack-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/egg-crack.png)
   static const eggCrack = PhosphorDuotoneIconData(
     IconData(
       0xeb64,
@@ -10707,7 +10707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eject` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eject-duotone](https://api.iconify.design/ph/eject-duotone.svg?height=32&color=%23888888)
+  /// ![eject-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eject.png)
   static const eject = PhosphorDuotoneIconData(
     IconData(
       0xe212,
@@ -10727,7 +10727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ejectSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eject-simple-duotone](https://api.iconify.design/ph/eject-simple-duotone.svg?height=32&color=%23888888)
+  /// ![eject-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eject-simple.png)
   static const ejectSimple = PhosphorDuotoneIconData(
     IconData(
       0xe6ae,
@@ -10747,7 +10747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `elevator` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![elevator-duotone](https://api.iconify.design/ph/elevator-duotone.svg?height=32&color=%23888888)
+  /// ![elevator-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/elevator.png)
   static const elevator = PhosphorDuotoneIconData(
     IconData(
       0xecc0,
@@ -10767,7 +10767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `empty` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![empty-duotone](https://api.iconify.design/ph/empty-duotone.svg?height=32&color=%23888888)
+  /// ![empty-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/empty.png)
   static const empty = PhosphorDuotoneIconData(
     IconData(
       0xedbc,
@@ -10787,7 +10787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `engine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![engine-duotone](https://api.iconify.design/ph/engine-duotone.svg?height=32&color=%23888888)
+  /// ![engine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/engine.png)
   static const engine = PhosphorDuotoneIconData(
     IconData(
       0xea80,
@@ -10807,7 +10807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `envelope` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![envelope-duotone](https://api.iconify.design/ph/envelope-duotone.svg?height=32&color=%23888888)
+  /// ![envelope-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/envelope.png)
   static const envelope = PhosphorDuotoneIconData(
     IconData(
       0xe214,
@@ -10827,7 +10827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `envelopeOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![envelope-open-duotone](https://api.iconify.design/ph/envelope-open-duotone.svg?height=32&color=%23888888)
+  /// ![envelope-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/envelope-open.png)
   static const envelopeOpen = PhosphorDuotoneIconData(
     IconData(
       0xe216,
@@ -10847,7 +10847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `envelopeSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![envelope-simple-duotone](https://api.iconify.design/ph/envelope-simple-duotone.svg?height=32&color=%23888888)
+  /// ![envelope-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/envelope-simple.png)
   static const envelopeSimple = PhosphorDuotoneIconData(
     IconData(
       0xe218,
@@ -10867,7 +10867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `envelopeSimpleOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![envelope-simple-open-duotone](https://api.iconify.design/ph/envelope-simple-open-duotone.svg?height=32&color=%23888888)
+  /// ![envelope-simple-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/envelope-simple-open.png)
   static const envelopeSimpleOpen = PhosphorDuotoneIconData(
     IconData(
       0xe21a,
@@ -10887,7 +10887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `equalizer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![equalizer-duotone](https://api.iconify.design/ph/equalizer-duotone.svg?height=32&color=%23888888)
+  /// ![equalizer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/equalizer.png)
   static const equalizer = PhosphorDuotoneIconData(
     IconData(
       0xebbc,
@@ -10907,7 +10907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `equals` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![equals-duotone](https://api.iconify.design/ph/equals-duotone.svg?height=32&color=%23888888)
+  /// ![equals-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/equals.png)
   static const equals = PhosphorDuotoneIconData(
     IconData(
       0xe21c,
@@ -10927,7 +10927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eraser` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eraser-duotone](https://api.iconify.design/ph/eraser-duotone.svg?height=32&color=%23888888)
+  /// ![eraser-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eraser.png)
   static const eraser = PhosphorDuotoneIconData(
     IconData(
       0xe21e,
@@ -10947,7 +10947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `escalatorDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![escalator-down-duotone](https://api.iconify.design/ph/escalator-down-duotone.svg?height=32&color=%23888888)
+  /// ![escalator-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/escalator-down.png)
   static const escalatorDown = PhosphorDuotoneIconData(
     IconData(
       0xecba,
@@ -10967,7 +10967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `escalatorUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![escalator-up-duotone](https://api.iconify.design/ph/escalator-up-duotone.svg?height=32&color=%23888888)
+  /// ![escalator-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/escalator-up.png)
   static const escalatorUp = PhosphorDuotoneIconData(
     IconData(
       0xecbc,
@@ -10987,7 +10987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `exam` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![exam-duotone](https://api.iconify.design/ph/exam-duotone.svg?height=32&color=%23888888)
+  /// ![exam-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/exam.png)
   static const exam = PhosphorDuotoneIconData(
     IconData(
       0xe742,
@@ -11007,7 +11007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `exclamationMark` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![exclamation-mark-duotone](https://api.iconify.design/ph/exclamation-mark-duotone.svg?height=32&color=%23888888)
+  /// ![exclamation-mark-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/exclamation-mark.png)
   static const exclamationMark = PhosphorDuotoneIconData(
     IconData(
       0xee44,
@@ -11027,7 +11027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `exclude` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![exclude-duotone](https://api.iconify.design/ph/exclude-duotone.svg?height=32&color=%23888888)
+  /// ![exclude-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/exclude.png)
   static const exclude = PhosphorDuotoneIconData(
     IconData(
       0xe882,
@@ -11047,7 +11047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `excludeSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![exclude-square-duotone](https://api.iconify.design/ph/exclude-square-duotone.svg?height=32&color=%23888888)
+  /// ![exclude-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/exclude-square.png)
   static const excludeSquare = PhosphorDuotoneIconData(
     IconData(
       0xe880,
@@ -11067,7 +11067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `export` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![export-duotone](https://api.iconify.design/ph/export-duotone.svg?height=32&color=%23888888)
+  /// ![export-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/export.png)
   static const export = PhosphorDuotoneIconData(
     IconData(
       0xeaf0,
@@ -11087,7 +11087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eye` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eye-duotone](https://api.iconify.design/ph/eye-duotone.svg?height=32&color=%23888888)
+  /// ![eye-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eye.png)
   static const eye = PhosphorDuotoneIconData(
     IconData(
       0xe220,
@@ -11107,7 +11107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eyeClosed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eye-closed-duotone](https://api.iconify.design/ph/eye-closed-duotone.svg?height=32&color=%23888888)
+  /// ![eye-closed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eye-closed.png)
   static const eyeClosed = PhosphorDuotoneIconData(
     IconData(
       0xe222,
@@ -11127,7 +11127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eyeSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eye-slash-duotone](https://api.iconify.design/ph/eye-slash-duotone.svg?height=32&color=%23888888)
+  /// ![eye-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eye-slash.png)
   static const eyeSlash = PhosphorDuotoneIconData(
     IconData(
       0xe224,
@@ -11147,7 +11147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eyedropper` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eyedropper-duotone](https://api.iconify.design/ph/eyedropper-duotone.svg?height=32&color=%23888888)
+  /// ![eyedropper-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eyedropper.png)
   static const eyedropper = PhosphorDuotoneIconData(
     IconData(
       0xe568,
@@ -11167,7 +11167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eyedropperSample` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eyedropper-sample-duotone](https://api.iconify.design/ph/eyedropper-sample-duotone.svg?height=32&color=%23888888)
+  /// ![eyedropper-sample-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eyedropper-sample.png)
   static const eyedropperSample = PhosphorDuotoneIconData(
     IconData(
       0xeac4,
@@ -11187,7 +11187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eyeglasses` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eyeglasses-duotone](https://api.iconify.design/ph/eyeglasses-duotone.svg?height=32&color=%23888888)
+  /// ![eyeglasses-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eyeglasses.png)
   static const eyeglasses = PhosphorDuotoneIconData(
     IconData(
       0xe7ba,
@@ -11207,7 +11207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `eyes` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![eyes-duotone](https://api.iconify.design/ph/eyes-duotone.svg?height=32&color=%23888888)
+  /// ![eyes-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/eyes.png)
   static const eyes = PhosphorDuotoneIconData(
     IconData(
       0xee5c,
@@ -11227,7 +11227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `faceMask` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![face-mask-duotone](https://api.iconify.design/ph/face-mask-duotone.svg?height=32&color=%23888888)
+  /// ![face-mask-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/face-mask.png)
   static const faceMask = PhosphorDuotoneIconData(
     IconData(
       0xe56a,
@@ -11247,7 +11247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `facebookLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![facebook-logo-duotone](https://api.iconify.design/ph/facebook-logo-duotone.svg?height=32&color=%23888888)
+  /// ![facebook-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/facebook-logo.png)
   static const facebookLogo = PhosphorDuotoneIconData(
     IconData(
       0xe226,
@@ -11267,7 +11267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `factory` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![factory-duotone](https://api.iconify.design/ph/factory-duotone.svg?height=32&color=%23888888)
+  /// ![factory-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/factory.png)
   static const factory = PhosphorDuotoneIconData(
     IconData(
       0xe760,
@@ -11287,7 +11287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `faders` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![faders-duotone](https://api.iconify.design/ph/faders-duotone.svg?height=32&color=%23888888)
+  /// ![faders-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/faders.png)
   static const faders = PhosphorDuotoneIconData(
     IconData(
       0xe228,
@@ -11307,7 +11307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fadersHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![faders-horizontal-duotone](https://api.iconify.design/ph/faders-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![faders-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/faders-horizontal.png)
   static const fadersHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe22a,
@@ -11327,7 +11327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `falloutShelter` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fallout-shelter-duotone](https://api.iconify.design/ph/fallout-shelter-duotone.svg?height=32&color=%23888888)
+  /// ![fallout-shelter-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fallout-shelter.png)
   static const falloutShelter = PhosphorDuotoneIconData(
     IconData(
       0xe9de,
@@ -11347,7 +11347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fan` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fan-duotone](https://api.iconify.design/ph/fan-duotone.svg?height=32&color=%23888888)
+  /// ![fan-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fan.png)
   static const fan = PhosphorDuotoneIconData(
     IconData(
       0xe9f2,
@@ -11367,7 +11367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `farm` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![farm-duotone](https://api.iconify.design/ph/farm-duotone.svg?height=32&color=%23888888)
+  /// ![farm-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/farm.png)
   static const farm = PhosphorDuotoneIconData(
     IconData(
       0xec70,
@@ -11387,7 +11387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fastForward` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fast-forward-duotone](https://api.iconify.design/ph/fast-forward-duotone.svg?height=32&color=%23888888)
+  /// ![fast-forward-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fast-forward.png)
   static const fastForward = PhosphorDuotoneIconData(
     IconData(
       0xe6a6,
@@ -11407,7 +11407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fastForwardCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fast-forward-circle-duotone](https://api.iconify.design/ph/fast-forward-circle-duotone.svg?height=32&color=%23888888)
+  /// ![fast-forward-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fast-forward-circle.png)
   static const fastForwardCircle = PhosphorDuotoneIconData(
     IconData(
       0xe22c,
@@ -11427,7 +11427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `feather` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![feather-duotone](https://api.iconify.design/ph/feather-duotone.svg?height=32&color=%23888888)
+  /// ![feather-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/feather.png)
   static const feather = PhosphorDuotoneIconData(
     IconData(
       0xe9c0,
@@ -11447,7 +11447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fediverseLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fediverse-logo-duotone](https://api.iconify.design/ph/fediverse-logo-duotone.svg?height=32&color=%23888888)
+  /// ![fediverse-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fediverse-logo.png)
   static const fediverseLogo = PhosphorDuotoneIconData(
     IconData(
       0xed66,
@@ -11467,7 +11467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `figmaLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![figma-logo-duotone](https://api.iconify.design/ph/figma-logo-duotone.svg?height=32&color=%23888888)
+  /// ![figma-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/figma-logo.png)
   static const figmaLogo = PhosphorDuotoneIconData(
     IconData(
       0xe22e,
@@ -11487,7 +11487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `file` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-duotone](https://api.iconify.design/ph/file-duotone.svg?height=32&color=%23888888)
+  /// ![file-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file.png)
   static const file = PhosphorDuotoneIconData(
     IconData(
       0xe230,
@@ -11507,7 +11507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileArchive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-archive-duotone](https://api.iconify.design/ph/file-archive-duotone.svg?height=32&color=%23888888)
+  /// ![file-archive-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-archive.png)
   static const fileArchive = PhosphorDuotoneIconData(
     IconData(
       0xeb2a,
@@ -11527,7 +11527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-arrow-down-duotone](https://api.iconify.design/ph/file-arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![file-arrow-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-arrow-down.png)
   static const fileArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe232,
@@ -11547,7 +11547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-arrow-up-duotone](https://api.iconify.design/ph/file-arrow-up-duotone.svg?height=32&color=%23888888)
+  /// ![file-arrow-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-arrow-up.png)
   static const fileArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe61e,
@@ -11567,7 +11567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileAudio` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-audio-duotone](https://api.iconify.design/ph/file-audio-duotone.svg?height=32&color=%23888888)
+  /// ![file-audio-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-audio.png)
   static const fileAudio = PhosphorDuotoneIconData(
     IconData(
       0xea20,
@@ -11587,7 +11587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileC` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-c-duotone](https://api.iconify.design/ph/file-c-duotone.svg?height=32&color=%23888888)
+  /// ![file-c-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-c.png)
   static const fileC = PhosphorDuotoneIconData(
     IconData(
       0xeb32,
@@ -11607,7 +11607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileCSharp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-c-sharp-duotone](https://api.iconify.design/ph/file-c-sharp-duotone.svg?height=32&color=%23888888)
+  /// ![file-c-sharp-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-c-sharp.png)
   static const fileCSharp = PhosphorDuotoneIconData(
     IconData(
       0xeb30,
@@ -11627,7 +11627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileCloud` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-cloud-duotone](https://api.iconify.design/ph/file-cloud-duotone.svg?height=32&color=%23888888)
+  /// ![file-cloud-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-cloud.png)
   static const fileCloud = PhosphorDuotoneIconData(
     IconData(
       0xe95e,
@@ -11647,7 +11647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileCode` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-code-duotone](https://api.iconify.design/ph/file-code-duotone.svg?height=32&color=%23888888)
+  /// ![file-code-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-code.png)
   static const fileCode = PhosphorDuotoneIconData(
     IconData(
       0xe914,
@@ -11667,7 +11667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileCpp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-cpp-duotone](https://api.iconify.design/ph/file-cpp-duotone.svg?height=32&color=%23888888)
+  /// ![file-cpp-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-cpp.png)
   static const fileCpp = PhosphorDuotoneIconData(
     IconData(
       0xeb2e,
@@ -11687,7 +11687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileCss` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-css-duotone](https://api.iconify.design/ph/file-css-duotone.svg?height=32&color=%23888888)
+  /// ![file-css-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-css.png)
   static const fileCss = PhosphorDuotoneIconData(
     IconData(
       0xeb34,
@@ -11707,7 +11707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileCsv` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-csv-duotone](https://api.iconify.design/ph/file-csv-duotone.svg?height=32&color=%23888888)
+  /// ![file-csv-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-csv.png)
   static const fileCsv = PhosphorDuotoneIconData(
     IconData(
       0xeb1c,
@@ -11727,7 +11727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-dashed-duotone](https://api.iconify.design/ph/file-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![file-dashed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-dashed.png)
   static const fileDashed = PhosphorDuotoneIconData(
     IconData(
       0xe704,
@@ -11747,7 +11747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileDoc` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-doc-duotone](https://api.iconify.design/ph/file-doc-duotone.svg?height=32&color=%23888888)
+  /// ![file-doc-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-doc.png)
   static const fileDoc = PhosphorDuotoneIconData(
     IconData(
       0xeb1e,
@@ -11767,7 +11767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileDotted` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-dotted-duotone](https://api.iconify.design/ph/file-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![file-dotted-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-dotted.png)
   static const fileDotted = PhosphorDuotoneIconData(
     IconData(
       0xe704,
@@ -11787,7 +11787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileHtml` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-html-duotone](https://api.iconify.design/ph/file-html-duotone.svg?height=32&color=%23888888)
+  /// ![file-html-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-html.png)
   static const fileHtml = PhosphorDuotoneIconData(
     IconData(
       0xeb38,
@@ -11807,7 +11807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileImage` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-image-duotone](https://api.iconify.design/ph/file-image-duotone.svg?height=32&color=%23888888)
+  /// ![file-image-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-image.png)
   static const fileImage = PhosphorDuotoneIconData(
     IconData(
       0xea24,
@@ -11827,7 +11827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileIni` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-ini-duotone](https://api.iconify.design/ph/file-ini-duotone.svg?height=32&color=%23888888)
+  /// ![file-ini-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-ini.png)
   static const fileIni = PhosphorDuotoneIconData(
     IconData(
       0xeb33,
@@ -11847,7 +11847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileJpg` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-jpg-duotone](https://api.iconify.design/ph/file-jpg-duotone.svg?height=32&color=%23888888)
+  /// ![file-jpg-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-jpg.png)
   static const fileJpg = PhosphorDuotoneIconData(
     IconData(
       0xeb1a,
@@ -11867,7 +11867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileJs` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-js-duotone](https://api.iconify.design/ph/file-js-duotone.svg?height=32&color=%23888888)
+  /// ![file-js-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-js.png)
   static const fileJs = PhosphorDuotoneIconData(
     IconData(
       0xeb24,
@@ -11887,7 +11887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileJsx` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-jsx-duotone](https://api.iconify.design/ph/file-jsx-duotone.svg?height=32&color=%23888888)
+  /// ![file-jsx-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-jsx.png)
   static const fileJsx = PhosphorDuotoneIconData(
     IconData(
       0xeb3a,
@@ -11907,7 +11907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileLock` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-lock-duotone](https://api.iconify.design/ph/file-lock-duotone.svg?height=32&color=%23888888)
+  /// ![file-lock-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-lock.png)
   static const fileLock = PhosphorDuotoneIconData(
     IconData(
       0xe95c,
@@ -11927,7 +11927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileMagnifyingGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-magnifying-glass-duotone](https://api.iconify.design/ph/file-magnifying-glass-duotone.svg?height=32&color=%23888888)
+  /// ![file-magnifying-glass-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-magnifying-glass.png)
   static const fileMagnifyingGlass = PhosphorDuotoneIconData(
     IconData(
       0xe238,
@@ -11947,7 +11947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileMd` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-md-duotone](https://api.iconify.design/ph/file-md-duotone.svg?height=32&color=%23888888)
+  /// ![file-md-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-md.png)
   static const fileMd = PhosphorDuotoneIconData(
     IconData(
       0xed50,
@@ -11967,7 +11967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-minus-duotone](https://api.iconify.design/ph/file-minus-duotone.svg?height=32&color=%23888888)
+  /// ![file-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-minus.png)
   static const fileMinus = PhosphorDuotoneIconData(
     IconData(
       0xe234,
@@ -11987,7 +11987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filePdf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-pdf-duotone](https://api.iconify.design/ph/file-pdf-duotone.svg?height=32&color=%23888888)
+  /// ![file-pdf-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-pdf.png)
   static const filePdf = PhosphorDuotoneIconData(
     IconData(
       0xe702,
@@ -12007,7 +12007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-plus-duotone](https://api.iconify.design/ph/file-plus-duotone.svg?height=32&color=%23888888)
+  /// ![file-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-plus.png)
   static const filePlus = PhosphorDuotoneIconData(
     IconData(
       0xe236,
@@ -12027,7 +12027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filePng` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-png-duotone](https://api.iconify.design/ph/file-png-duotone.svg?height=32&color=%23888888)
+  /// ![file-png-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-png.png)
   static const filePng = PhosphorDuotoneIconData(
     IconData(
       0xeb18,
@@ -12047,7 +12047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filePpt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-ppt-duotone](https://api.iconify.design/ph/file-ppt-duotone.svg?height=32&color=%23888888)
+  /// ![file-ppt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-ppt.png)
   static const filePpt = PhosphorDuotoneIconData(
     IconData(
       0xeb20,
@@ -12067,7 +12067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filePy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-py-duotone](https://api.iconify.design/ph/file-py-duotone.svg?height=32&color=%23888888)
+  /// ![file-py-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-py.png)
   static const filePy = PhosphorDuotoneIconData(
     IconData(
       0xeb2c,
@@ -12087,7 +12087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileRs` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-rs-duotone](https://api.iconify.design/ph/file-rs-duotone.svg?height=32&color=%23888888)
+  /// ![file-rs-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-rs.png)
   static const fileRs = PhosphorDuotoneIconData(
     IconData(
       0xeb28,
@@ -12107,7 +12107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileSearch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-search-duotone](https://api.iconify.design/ph/file-magnifying-glass-duotone.svg?height=32&color=%23888888)
+  /// ![file-search-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-search.png)
   static const fileSearch = PhosphorDuotoneIconData(
     IconData(
       0xe238,
@@ -12127,7 +12127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileSql` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-sql-duotone](https://api.iconify.design/ph/file-sql-duotone.svg?height=32&color=%23888888)
+  /// ![file-sql-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-sql.png)
   static const fileSql = PhosphorDuotoneIconData(
     IconData(
       0xed4e,
@@ -12147,7 +12147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileSvg` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-svg-duotone](https://api.iconify.design/ph/file-svg-duotone.svg?height=32&color=%23888888)
+  /// ![file-svg-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-svg.png)
   static const fileSvg = PhosphorDuotoneIconData(
     IconData(
       0xed08,
@@ -12167,7 +12167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileText` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-text-duotone](https://api.iconify.design/ph/file-text-duotone.svg?height=32&color=%23888888)
+  /// ![file-text-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-text.png)
   static const fileText = PhosphorDuotoneIconData(
     IconData(
       0xe23a,
@@ -12187,7 +12187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileTs` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-ts-duotone](https://api.iconify.design/ph/file-ts-duotone.svg?height=32&color=%23888888)
+  /// ![file-ts-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-ts.png)
   static const fileTs = PhosphorDuotoneIconData(
     IconData(
       0xeb26,
@@ -12207,7 +12207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileTsx` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-tsx-duotone](https://api.iconify.design/ph/file-tsx-duotone.svg?height=32&color=%23888888)
+  /// ![file-tsx-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-tsx.png)
   static const fileTsx = PhosphorDuotoneIconData(
     IconData(
       0xeb3c,
@@ -12227,7 +12227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileTxt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-txt-duotone](https://api.iconify.design/ph/file-txt-duotone.svg?height=32&color=%23888888)
+  /// ![file-txt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-txt.png)
   static const fileTxt = PhosphorDuotoneIconData(
     IconData(
       0xeb35,
@@ -12247,7 +12247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileVideo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-video-duotone](https://api.iconify.design/ph/file-video-duotone.svg?height=32&color=%23888888)
+  /// ![file-video-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-video.png)
   static const fileVideo = PhosphorDuotoneIconData(
     IconData(
       0xea22,
@@ -12267,7 +12267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileVue` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-vue-duotone](https://api.iconify.design/ph/file-vue-duotone.svg?height=32&color=%23888888)
+  /// ![file-vue-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-vue.png)
   static const fileVue = PhosphorDuotoneIconData(
     IconData(
       0xeb3e,
@@ -12287,7 +12287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-x-duotone](https://api.iconify.design/ph/file-x-duotone.svg?height=32&color=%23888888)
+  /// ![file-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-x.png)
   static const fileX = PhosphorDuotoneIconData(
     IconData(
       0xe23c,
@@ -12307,7 +12307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileXls` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-xls-duotone](https://api.iconify.design/ph/file-xls-duotone.svg?height=32&color=%23888888)
+  /// ![file-xls-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-xls.png)
   static const fileXls = PhosphorDuotoneIconData(
     IconData(
       0xeb22,
@@ -12327,7 +12327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fileZip` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![file-zip-duotone](https://api.iconify.design/ph/file-zip-duotone.svg?height=32&color=%23888888)
+  /// ![file-zip-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/file-zip.png)
   static const fileZip = PhosphorDuotoneIconData(
     IconData(
       0xe958,
@@ -12347,7 +12347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `files` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![files-duotone](https://api.iconify.design/ph/files-duotone.svg?height=32&color=%23888888)
+  /// ![files-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/files.png)
   static const files = PhosphorDuotoneIconData(
     IconData(
       0xe710,
@@ -12367,7 +12367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filmReel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![film-reel-duotone](https://api.iconify.design/ph/film-reel-duotone.svg?height=32&color=%23888888)
+  /// ![film-reel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/film-reel.png)
   static const filmReel = PhosphorDuotoneIconData(
     IconData(
       0xe8c0,
@@ -12387,7 +12387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filmScript` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![film-script-duotone](https://api.iconify.design/ph/film-script-duotone.svg?height=32&color=%23888888)
+  /// ![film-script-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/film-script.png)
   static const filmScript = PhosphorDuotoneIconData(
     IconData(
       0xeb50,
@@ -12407,7 +12407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filmSlate` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![film-slate-duotone](https://api.iconify.design/ph/film-slate-duotone.svg?height=32&color=%23888888)
+  /// ![film-slate-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/film-slate.png)
   static const filmSlate = PhosphorDuotoneIconData(
     IconData(
       0xe8c2,
@@ -12427,7 +12427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `filmStrip` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![film-strip-duotone](https://api.iconify.design/ph/film-strip-duotone.svg?height=32&color=%23888888)
+  /// ![film-strip-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/film-strip.png)
   static const filmStrip = PhosphorDuotoneIconData(
     IconData(
       0xe792,
@@ -12447,7 +12447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fingerprint` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fingerprint-duotone](https://api.iconify.design/ph/fingerprint-duotone.svg?height=32&color=%23888888)
+  /// ![fingerprint-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fingerprint.png)
   static const fingerprint = PhosphorDuotoneIconData(
     IconData(
       0xe23e,
@@ -12467,7 +12467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fingerprintSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fingerprint-simple-duotone](https://api.iconify.design/ph/fingerprint-simple-duotone.svg?height=32&color=%23888888)
+  /// ![fingerprint-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fingerprint-simple.png)
   static const fingerprintSimple = PhosphorDuotoneIconData(
     IconData(
       0xe240,
@@ -12487,7 +12487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `finnTheHuman` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![finn-the-human-duotone](https://api.iconify.design/ph/finn-the-human-duotone.svg?height=32&color=%23888888)
+  /// ![finn-the-human-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/finn-the-human.png)
   static const finnTheHuman = PhosphorDuotoneIconData(
     IconData(
       0xe56c,
@@ -12507,7 +12507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fire` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fire-duotone](https://api.iconify.design/ph/fire-duotone.svg?height=32&color=%23888888)
+  /// ![fire-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fire.png)
   static const fire = PhosphorDuotoneIconData(
     IconData(
       0xe242,
@@ -12527,7 +12527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fireExtinguisher` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fire-extinguisher-duotone](https://api.iconify.design/ph/fire-extinguisher-duotone.svg?height=32&color=%23888888)
+  /// ![fire-extinguisher-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fire-extinguisher.png)
   static const fireExtinguisher = PhosphorDuotoneIconData(
     IconData(
       0xe9e8,
@@ -12547,7 +12547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fireSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fire-simple-duotone](https://api.iconify.design/ph/fire-simple-duotone.svg?height=32&color=%23888888)
+  /// ![fire-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fire-simple.png)
   static const fireSimple = PhosphorDuotoneIconData(
     IconData(
       0xe620,
@@ -12567,7 +12567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fireTruck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fire-truck-duotone](https://api.iconify.design/ph/fire-truck-duotone.svg?height=32&color=%23888888)
+  /// ![fire-truck-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fire-truck.png)
   static const fireTruck = PhosphorDuotoneIconData(
     IconData(
       0xe574,
@@ -12587,7 +12587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `firstAid` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![first-aid-duotone](https://api.iconify.design/ph/first-aid-duotone.svg?height=32&color=%23888888)
+  /// ![first-aid-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/first-aid.png)
   static const firstAid = PhosphorDuotoneIconData(
     IconData(
       0xe56e,
@@ -12607,7 +12607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `firstAidKit` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![first-aid-kit-duotone](https://api.iconify.design/ph/first-aid-kit-duotone.svg?height=32&color=%23888888)
+  /// ![first-aid-kit-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/first-aid-kit.png)
   static const firstAidKit = PhosphorDuotoneIconData(
     IconData(
       0xe570,
@@ -12627,7 +12627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fish` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fish-duotone](https://api.iconify.design/ph/fish-duotone.svg?height=32&color=%23888888)
+  /// ![fish-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fish.png)
   static const fish = PhosphorDuotoneIconData(
     IconData(
       0xe728,
@@ -12647,7 +12647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fishSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fish-simple-duotone](https://api.iconify.design/ph/fish-simple-duotone.svg?height=32&color=%23888888)
+  /// ![fish-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fish-simple.png)
   static const fishSimple = PhosphorDuotoneIconData(
     IconData(
       0xe72a,
@@ -12667,7 +12667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flag` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flag-duotone](https://api.iconify.design/ph/flag-duotone.svg?height=32&color=%23888888)
+  /// ![flag-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flag.png)
   static const flag = PhosphorDuotoneIconData(
     IconData(
       0xe244,
@@ -12687,7 +12687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flagBanner` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flag-banner-duotone](https://api.iconify.design/ph/flag-banner-duotone.svg?height=32&color=%23888888)
+  /// ![flag-banner-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flag-banner.png)
   static const flagBanner = PhosphorDuotoneIconData(
     IconData(
       0xe622,
@@ -12707,7 +12707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flagBannerFold` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flag-banner-fold-duotone](https://api.iconify.design/ph/flag-banner-fold-duotone.svg?height=32&color=%23888888)
+  /// ![flag-banner-fold-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flag-banner-fold.png)
   static const flagBannerFold = PhosphorDuotoneIconData(
     IconData(
       0xecf2,
@@ -12727,7 +12727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flagCheckered` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flag-checkered-duotone](https://api.iconify.design/ph/flag-checkered-duotone.svg?height=32&color=%23888888)
+  /// ![flag-checkered-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flag-checkered.png)
   static const flagCheckered = PhosphorDuotoneIconData(
     IconData(
       0xea38,
@@ -12747,7 +12747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flagPennant` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flag-pennant-duotone](https://api.iconify.design/ph/flag-pennant-duotone.svg?height=32&color=%23888888)
+  /// ![flag-pennant-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flag-pennant.png)
   static const flagPennant = PhosphorDuotoneIconData(
     IconData(
       0xecf0,
@@ -12767,7 +12767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flame` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flame-duotone](https://api.iconify.design/ph/flame-duotone.svg?height=32&color=%23888888)
+  /// ![flame-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flame.png)
   static const flame = PhosphorDuotoneIconData(
     IconData(
       0xe624,
@@ -12787,7 +12787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flashlight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flashlight-duotone](https://api.iconify.design/ph/flashlight-duotone.svg?height=32&color=%23888888)
+  /// ![flashlight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flashlight.png)
   static const flashlight = PhosphorDuotoneIconData(
     IconData(
       0xe246,
@@ -12807,7 +12807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flask` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flask-duotone](https://api.iconify.design/ph/flask-duotone.svg?height=32&color=%23888888)
+  /// ![flask-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flask.png)
   static const flask = PhosphorDuotoneIconData(
     IconData(
       0xe79e,
@@ -12827,7 +12827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flipHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flip-horizontal-duotone](https://api.iconify.design/ph/flip-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![flip-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flip-horizontal.png)
   static const flipHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xed6a,
@@ -12847,7 +12847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flipVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flip-vertical-duotone](https://api.iconify.design/ph/flip-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![flip-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flip-vertical.png)
   static const flipVertical = PhosphorDuotoneIconData(
     IconData(
       0xed6c,
@@ -12867,7 +12867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `floppyDisk` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![floppy-disk-duotone](https://api.iconify.design/ph/floppy-disk-duotone.svg?height=32&color=%23888888)
+  /// ![floppy-disk-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/floppy-disk.png)
   static const floppyDisk = PhosphorDuotoneIconData(
     IconData(
       0xe248,
@@ -12887,7 +12887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `floppyDiskBack` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![floppy-disk-back-duotone](https://api.iconify.design/ph/floppy-disk-back-duotone.svg?height=32&color=%23888888)
+  /// ![floppy-disk-back-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/floppy-disk-back.png)
   static const floppyDiskBack = PhosphorDuotoneIconData(
     IconData(
       0xeaf4,
@@ -12907,7 +12907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flowArrow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flow-arrow-duotone](https://api.iconify.design/ph/flow-arrow-duotone.svg?height=32&color=%23888888)
+  /// ![flow-arrow-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flow-arrow.png)
   static const flowArrow = PhosphorDuotoneIconData(
     IconData(
       0xe6ec,
@@ -12927,7 +12927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flower` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flower-duotone](https://api.iconify.design/ph/flower-duotone.svg?height=32&color=%23888888)
+  /// ![flower-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flower.png)
   static const flower = PhosphorDuotoneIconData(
     IconData(
       0xe75e,
@@ -12947,7 +12947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flowerLotus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flower-lotus-duotone](https://api.iconify.design/ph/flower-lotus-duotone.svg?height=32&color=%23888888)
+  /// ![flower-lotus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flower-lotus.png)
   static const flowerLotus = PhosphorDuotoneIconData(
     IconData(
       0xe6cc,
@@ -12967,7 +12967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flowerTulip` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flower-tulip-duotone](https://api.iconify.design/ph/flower-tulip-duotone.svg?height=32&color=%23888888)
+  /// ![flower-tulip-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flower-tulip.png)
   static const flowerTulip = PhosphorDuotoneIconData(
     IconData(
       0xeacc,
@@ -12987,7 +12987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `flyingSaucer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![flying-saucer-duotone](https://api.iconify.design/ph/flying-saucer-duotone.svg?height=32&color=%23888888)
+  /// ![flying-saucer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/flying-saucer.png)
   static const flyingSaucer = PhosphorDuotoneIconData(
     IconData(
       0xeb4a,
@@ -13007,7 +13007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folder` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-duotone](https://api.iconify.design/ph/folder-duotone.svg?height=32&color=%23888888)
+  /// ![folder-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder.png)
   static const folder = PhosphorDuotoneIconData(
     IconData(
       0xe24a,
@@ -13027,7 +13027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-dashed-duotone](https://api.iconify.design/ph/folder-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![folder-dashed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-dashed.png)
   static const folderDashed = PhosphorDuotoneIconData(
     IconData(
       0xe8f8,
@@ -13047,7 +13047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderDotted` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-dotted-duotone](https://api.iconify.design/ph/folder-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![folder-dotted-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-dotted.png)
   static const folderDotted = PhosphorDuotoneIconData(
     IconData(
       0xe8f8,
@@ -13067,7 +13067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderLock` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-lock-duotone](https://api.iconify.design/ph/folder-lock-duotone.svg?height=32&color=%23888888)
+  /// ![folder-lock-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-lock.png)
   static const folderLock = PhosphorDuotoneIconData(
     IconData(
       0xea3c,
@@ -13087,7 +13087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-minus-duotone](https://api.iconify.design/ph/folder-minus-duotone.svg?height=32&color=%23888888)
+  /// ![folder-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-minus.png)
   static const folderMinus = PhosphorDuotoneIconData(
     IconData(
       0xe254,
@@ -13107,7 +13107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderNotch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-notch-duotone](https://api.iconify.design/ph/folder-duotone.svg?height=32&color=%23888888)
+  /// ![folder-notch-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-notch.png)
   static const folderNotch = PhosphorDuotoneIconData(
     IconData(
       0xe24a,
@@ -13127,7 +13127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderNotchMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-notch-minus-duotone](https://api.iconify.design/ph/folder-minus-duotone.svg?height=32&color=%23888888)
+  /// ![folder-notch-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-notch-minus.png)
   static const folderNotchMinus = PhosphorDuotoneIconData(
     IconData(
       0xe254,
@@ -13147,7 +13147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderNotchOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-notch-open-duotone](https://api.iconify.design/ph/folder-open-duotone.svg?height=32&color=%23888888)
+  /// ![folder-notch-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-notch-open.png)
   static const folderNotchOpen = PhosphorDuotoneIconData(
     IconData(
       0xe256,
@@ -13167,7 +13167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderNotchPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-notch-plus-duotone](https://api.iconify.design/ph/folder-plus-duotone.svg?height=32&color=%23888888)
+  /// ![folder-notch-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-notch-plus.png)
   static const folderNotchPlus = PhosphorDuotoneIconData(
     IconData(
       0xe258,
@@ -13187,7 +13187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-open-duotone](https://api.iconify.design/ph/folder-open-duotone.svg?height=32&color=%23888888)
+  /// ![folder-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-open.png)
   static const folderOpen = PhosphorDuotoneIconData(
     IconData(
       0xe256,
@@ -13207,7 +13207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-plus-duotone](https://api.iconify.design/ph/folder-plus-duotone.svg?height=32&color=%23888888)
+  /// ![folder-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-plus.png)
   static const folderPlus = PhosphorDuotoneIconData(
     IconData(
       0xe258,
@@ -13227,7 +13227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-duotone](https://api.iconify.design/ph/folder-simple-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple.png)
   static const folderSimple = PhosphorDuotoneIconData(
     IconData(
       0xe25a,
@@ -13247,7 +13247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimpleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-dashed-duotone](https://api.iconify.design/ph/folder-simple-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-dashed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple-dashed.png)
   static const folderSimpleDashed = PhosphorDuotoneIconData(
     IconData(
       0xec2a,
@@ -13267,7 +13267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimpleDotted` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-dotted-duotone](https://api.iconify.design/ph/folder-simple-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-dotted-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple-dotted.png)
   static const folderSimpleDotted = PhosphorDuotoneIconData(
     IconData(
       0xec2a,
@@ -13287,7 +13287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimpleLock` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-lock-duotone](https://api.iconify.design/ph/folder-simple-lock-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-lock-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple-lock.png)
   static const folderSimpleLock = PhosphorDuotoneIconData(
     IconData(
       0xeb5e,
@@ -13307,7 +13307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimpleMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-minus-duotone](https://api.iconify.design/ph/folder-simple-minus-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple-minus.png)
   static const folderSimpleMinus = PhosphorDuotoneIconData(
     IconData(
       0xe25c,
@@ -13327,7 +13327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimplePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-plus-duotone](https://api.iconify.design/ph/folder-simple-plus-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple-plus.png)
   static const folderSimplePlus = PhosphorDuotoneIconData(
     IconData(
       0xe25e,
@@ -13347,7 +13347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimpleStar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-star-duotone](https://api.iconify.design/ph/folder-simple-star-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-star-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple-star.png)
   static const folderSimpleStar = PhosphorDuotoneIconData(
     IconData(
       0xec2e,
@@ -13367,7 +13367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderSimpleUser` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-simple-user-duotone](https://api.iconify.design/ph/folder-simple-user-duotone.svg?height=32&color=%23888888)
+  /// ![folder-simple-user-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-simple-user.png)
   static const folderSimpleUser = PhosphorDuotoneIconData(
     IconData(
       0xeb60,
@@ -13387,7 +13387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderStar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-star-duotone](https://api.iconify.design/ph/folder-star-duotone.svg?height=32&color=%23888888)
+  /// ![folder-star-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-star.png)
   static const folderStar = PhosphorDuotoneIconData(
     IconData(
       0xea86,
@@ -13407,7 +13407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folderUser` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folder-user-duotone](https://api.iconify.design/ph/folder-user-duotone.svg?height=32&color=%23888888)
+  /// ![folder-user-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folder-user.png)
   static const folderUser = PhosphorDuotoneIconData(
     IconData(
       0xeb46,
@@ -13427,7 +13427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `folders` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![folders-duotone](https://api.iconify.design/ph/folders-duotone.svg?height=32&color=%23888888)
+  /// ![folders-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/folders.png)
   static const folders = PhosphorDuotoneIconData(
     IconData(
       0xe260,
@@ -13447,7 +13447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `football` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![football-duotone](https://api.iconify.design/ph/football-duotone.svg?height=32&color=%23888888)
+  /// ![football-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/football.png)
   static const football = PhosphorDuotoneIconData(
     IconData(
       0xe718,
@@ -13467,7 +13467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `footballHelmet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![football-helmet-duotone](https://api.iconify.design/ph/football-helmet-duotone.svg?height=32&color=%23888888)
+  /// ![football-helmet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/football-helmet.png)
   static const footballHelmet = PhosphorDuotoneIconData(
     IconData(
       0xee4c,
@@ -13487,7 +13487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `footprints` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![footprints-duotone](https://api.iconify.design/ph/footprints-duotone.svg?height=32&color=%23888888)
+  /// ![footprints-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/footprints.png)
   static const footprints = PhosphorDuotoneIconData(
     IconData(
       0xea88,
@@ -13507,7 +13507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `forkKnife` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![fork-knife-duotone](https://api.iconify.design/ph/fork-knife-duotone.svg?height=32&color=%23888888)
+  /// ![fork-knife-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/fork-knife.png)
   static const forkKnife = PhosphorDuotoneIconData(
     IconData(
       0xe262,
@@ -13527,7 +13527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `fourK` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![four-k-duotone](https://api.iconify.design/ph/four-k-duotone.svg?height=32&color=%23888888)
+  /// ![four-k-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/four-k.png)
   static const fourK = PhosphorDuotoneIconData(
     IconData(
       0xea5c,
@@ -13547,7 +13547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `frameCorners` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![frame-corners-duotone](https://api.iconify.design/ph/frame-corners-duotone.svg?height=32&color=%23888888)
+  /// ![frame-corners-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/frame-corners.png)
   static const frameCorners = PhosphorDuotoneIconData(
     IconData(
       0xe626,
@@ -13567,7 +13567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `framerLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![framer-logo-duotone](https://api.iconify.design/ph/framer-logo-duotone.svg?height=32&color=%23888888)
+  /// ![framer-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/framer-logo.png)
   static const framerLogo = PhosphorDuotoneIconData(
     IconData(
       0xe264,
@@ -13587,7 +13587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `function` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![function-duotone](https://api.iconify.design/ph/function-duotone.svg?height=32&color=%23888888)
+  /// ![function-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/function.png)
   static const function = PhosphorDuotoneIconData(
     IconData(
       0xebe4,
@@ -13607,7 +13607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `funnel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![funnel-duotone](https://api.iconify.design/ph/funnel-duotone.svg?height=32&color=%23888888)
+  /// ![funnel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/funnel.png)
   static const funnel = PhosphorDuotoneIconData(
     IconData(
       0xe266,
@@ -13627,7 +13627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `funnelSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![funnel-simple-duotone](https://api.iconify.design/ph/funnel-simple-duotone.svg?height=32&color=%23888888)
+  /// ![funnel-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/funnel-simple.png)
   static const funnelSimple = PhosphorDuotoneIconData(
     IconData(
       0xe268,
@@ -13647,7 +13647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `funnelSimpleX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![funnel-simple-x-duotone](https://api.iconify.design/ph/funnel-simple-x-duotone.svg?height=32&color=%23888888)
+  /// ![funnel-simple-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/funnel-simple-x.png)
   static const funnelSimpleX = PhosphorDuotoneIconData(
     IconData(
       0xe26a,
@@ -13667,7 +13667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `funnelX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![funnel-x-duotone](https://api.iconify.design/ph/funnel-x-duotone.svg?height=32&color=%23888888)
+  /// ![funnel-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/funnel-x.png)
   static const funnelX = PhosphorDuotoneIconData(
     IconData(
       0xe26c,
@@ -13687,7 +13687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gameController` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![game-controller-duotone](https://api.iconify.design/ph/game-controller-duotone.svg?height=32&color=%23888888)
+  /// ![game-controller-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/game-controller.png)
   static const gameController = PhosphorDuotoneIconData(
     IconData(
       0xe26e,
@@ -13707,7 +13707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `garage` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![garage-duotone](https://api.iconify.design/ph/garage-duotone.svg?height=32&color=%23888888)
+  /// ![garage-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/garage.png)
   static const garage = PhosphorDuotoneIconData(
     IconData(
       0xecd6,
@@ -13727,7 +13727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gasCan` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gas-can-duotone](https://api.iconify.design/ph/gas-can-duotone.svg?height=32&color=%23888888)
+  /// ![gas-can-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gas-can.png)
   static const gasCan = PhosphorDuotoneIconData(
     IconData(
       0xe8ce,
@@ -13747,7 +13747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gasPump` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gas-pump-duotone](https://api.iconify.design/ph/gas-pump-duotone.svg?height=32&color=%23888888)
+  /// ![gas-pump-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gas-pump.png)
   static const gasPump = PhosphorDuotoneIconData(
     IconData(
       0xe768,
@@ -13767,7 +13767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gauge` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gauge-duotone](https://api.iconify.design/ph/gauge-duotone.svg?height=32&color=%23888888)
+  /// ![gauge-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gauge.png)
   static const gauge = PhosphorDuotoneIconData(
     IconData(
       0xe628,
@@ -13787,7 +13787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gavel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gavel-duotone](https://api.iconify.design/ph/gavel-duotone.svg?height=32&color=%23888888)
+  /// ![gavel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gavel.png)
   static const gavel = PhosphorDuotoneIconData(
     IconData(
       0xea32,
@@ -13807,7 +13807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gear` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gear-duotone](https://api.iconify.design/ph/gear-duotone.svg?height=32&color=%23888888)
+  /// ![gear-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gear.png)
   static const gear = PhosphorDuotoneIconData(
     IconData(
       0xe270,
@@ -13827,7 +13827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gearFine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gear-fine-duotone](https://api.iconify.design/ph/gear-fine-duotone.svg?height=32&color=%23888888)
+  /// ![gear-fine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gear-fine.png)
   static const gearFine = PhosphorDuotoneIconData(
     IconData(
       0xe87c,
@@ -13847,7 +13847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gearSix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gear-six-duotone](https://api.iconify.design/ph/gear-six-duotone.svg?height=32&color=%23888888)
+  /// ![gear-six-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gear-six.png)
   static const gearSix = PhosphorDuotoneIconData(
     IconData(
       0xe272,
@@ -13867,7 +13867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `genderFemale` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gender-female-duotone](https://api.iconify.design/ph/gender-female-duotone.svg?height=32&color=%23888888)
+  /// ![gender-female-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gender-female.png)
   static const genderFemale = PhosphorDuotoneIconData(
     IconData(
       0xe6e0,
@@ -13887,7 +13887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `genderIntersex` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gender-intersex-duotone](https://api.iconify.design/ph/gender-intersex-duotone.svg?height=32&color=%23888888)
+  /// ![gender-intersex-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gender-intersex.png)
   static const genderIntersex = PhosphorDuotoneIconData(
     IconData(
       0xe6e6,
@@ -13907,7 +13907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `genderMale` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gender-male-duotone](https://api.iconify.design/ph/gender-male-duotone.svg?height=32&color=%23888888)
+  /// ![gender-male-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gender-male.png)
   static const genderMale = PhosphorDuotoneIconData(
     IconData(
       0xe6e2,
@@ -13927,7 +13927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `genderNeuter` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gender-neuter-duotone](https://api.iconify.design/ph/gender-neuter-duotone.svg?height=32&color=%23888888)
+  /// ![gender-neuter-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gender-neuter.png)
   static const genderNeuter = PhosphorDuotoneIconData(
     IconData(
       0xe6ea,
@@ -13947,7 +13947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `genderNonbinary` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gender-nonbinary-duotone](https://api.iconify.design/ph/gender-nonbinary-duotone.svg?height=32&color=%23888888)
+  /// ![gender-nonbinary-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gender-nonbinary.png)
   static const genderNonbinary = PhosphorDuotoneIconData(
     IconData(
       0xe6e4,
@@ -13967,7 +13967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `genderTransgender` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gender-transgender-duotone](https://api.iconify.design/ph/gender-transgender-duotone.svg?height=32&color=%23888888)
+  /// ![gender-transgender-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gender-transgender.png)
   static const genderTransgender = PhosphorDuotoneIconData(
     IconData(
       0xe6e8,
@@ -13987,7 +13987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ghost` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ghost-duotone](https://api.iconify.design/ph/ghost-duotone.svg?height=32&color=%23888888)
+  /// ![ghost-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ghost.png)
   static const ghost = PhosphorDuotoneIconData(
     IconData(
       0xe62a,
@@ -14007,7 +14007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gif` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gif-duotone](https://api.iconify.design/ph/gif-duotone.svg?height=32&color=%23888888)
+  /// ![gif-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gif.png)
   static const gif = PhosphorDuotoneIconData(
     IconData(
       0xe274,
@@ -14027,7 +14027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gift` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gift-duotone](https://api.iconify.design/ph/gift-duotone.svg?height=32&color=%23888888)
+  /// ![gift-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gift.png)
   static const gift = PhosphorDuotoneIconData(
     IconData(
       0xe276,
@@ -14047,7 +14047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitBranch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![git-branch-duotone](https://api.iconify.design/ph/git-branch-duotone.svg?height=32&color=%23888888)
+  /// ![git-branch-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/git-branch.png)
   static const gitBranch = PhosphorDuotoneIconData(
     IconData(
       0xe278,
@@ -14067,7 +14067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitCommit` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![git-commit-duotone](https://api.iconify.design/ph/git-commit-duotone.svg?height=32&color=%23888888)
+  /// ![git-commit-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/git-commit.png)
   static const gitCommit = PhosphorDuotoneIconData(
     IconData(
       0xe27a,
@@ -14087,7 +14087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitDiff` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![git-diff-duotone](https://api.iconify.design/ph/git-diff-duotone.svg?height=32&color=%23888888)
+  /// ![git-diff-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/git-diff.png)
   static const gitDiff = PhosphorDuotoneIconData(
     IconData(
       0xe27c,
@@ -14107,7 +14107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitFork` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![git-fork-duotone](https://api.iconify.design/ph/git-fork-duotone.svg?height=32&color=%23888888)
+  /// ![git-fork-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/git-fork.png)
   static const gitFork = PhosphorDuotoneIconData(
     IconData(
       0xe27e,
@@ -14127,7 +14127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitMerge` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![git-merge-duotone](https://api.iconify.design/ph/git-merge-duotone.svg?height=32&color=%23888888)
+  /// ![git-merge-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/git-merge.png)
   static const gitMerge = PhosphorDuotoneIconData(
     IconData(
       0xe280,
@@ -14147,7 +14147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitPullRequest` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![git-pull-request-duotone](https://api.iconify.design/ph/git-pull-request-duotone.svg?height=32&color=%23888888)
+  /// ![git-pull-request-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/git-pull-request.png)
   static const gitPullRequest = PhosphorDuotoneIconData(
     IconData(
       0xe282,
@@ -14167,7 +14167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `githubLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![github-logo-duotone](https://api.iconify.design/ph/github-logo-duotone.svg?height=32&color=%23888888)
+  /// ![github-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/github-logo.png)
   static const githubLogo = PhosphorDuotoneIconData(
     IconData(
       0xe576,
@@ -14187,7 +14187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitlabLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gitlab-logo-duotone](https://api.iconify.design/ph/gitlab-logo-duotone.svg?height=32&color=%23888888)
+  /// ![gitlab-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gitlab-logo.png)
   static const gitlabLogo = PhosphorDuotoneIconData(
     IconData(
       0xe694,
@@ -14207,7 +14207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gitlabLogoSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gitlab-logo-simple-duotone](https://api.iconify.design/ph/gitlab-logo-simple-duotone.svg?height=32&color=%23888888)
+  /// ![gitlab-logo-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gitlab-logo-simple.png)
   static const gitlabLogoSimple = PhosphorDuotoneIconData(
     IconData(
       0xe696,
@@ -14227,7 +14227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `globe` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![globe-duotone](https://api.iconify.design/ph/globe-duotone.svg?height=32&color=%23888888)
+  /// ![globe-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/globe.png)
   static const globe = PhosphorDuotoneIconData(
     IconData(
       0xe288,
@@ -14247,7 +14247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `globeHemisphereEast` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![globe-hemisphere-east-duotone](https://api.iconify.design/ph/globe-hemisphere-east-duotone.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-east-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/globe-hemisphere-east.png)
   static const globeHemisphereEast = PhosphorDuotoneIconData(
     IconData(
       0xe28a,
@@ -14267,7 +14267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `globeHemisphereWest` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![globe-hemisphere-west-duotone](https://api.iconify.design/ph/globe-hemisphere-west-duotone.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-west-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/globe-hemisphere-west.png)
   static const globeHemisphereWest = PhosphorDuotoneIconData(
     IconData(
       0xe28c,
@@ -14287,7 +14287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `globeSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![globe-simple-duotone](https://api.iconify.design/ph/globe-simple-duotone.svg?height=32&color=%23888888)
+  /// ![globe-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/globe-simple.png)
   static const globeSimple = PhosphorDuotoneIconData(
     IconData(
       0xe28e,
@@ -14307,7 +14307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `globeSimpleX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![globe-simple-x-duotone](https://api.iconify.design/ph/globe-simple-x-duotone.svg?height=32&color=%23888888)
+  /// ![globe-simple-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/globe-simple-x.png)
   static const globeSimpleX = PhosphorDuotoneIconData(
     IconData(
       0xe284,
@@ -14327,7 +14327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `globeStand` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![globe-stand-duotone](https://api.iconify.design/ph/globe-stand-duotone.svg?height=32&color=%23888888)
+  /// ![globe-stand-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/globe-stand.png)
   static const globeStand = PhosphorDuotoneIconData(
     IconData(
       0xe290,
@@ -14347,7 +14347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `globeX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![globe-x-duotone](https://api.iconify.design/ph/globe-x-duotone.svg?height=32&color=%23888888)
+  /// ![globe-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/globe-x.png)
   static const globeX = PhosphorDuotoneIconData(
     IconData(
       0xe286,
@@ -14367,7 +14367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `goggles` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![goggles-duotone](https://api.iconify.design/ph/goggles-duotone.svg?height=32&color=%23888888)
+  /// ![goggles-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/goggles.png)
   static const goggles = PhosphorDuotoneIconData(
     IconData(
       0xecb4,
@@ -14387,7 +14387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `golf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![golf-duotone](https://api.iconify.design/ph/golf-duotone.svg?height=32&color=%23888888)
+  /// ![golf-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/golf.png)
   static const golf = PhosphorDuotoneIconData(
     IconData(
       0xea3e,
@@ -14407,7 +14407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `goodreadsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![goodreads-logo-duotone](https://api.iconify.design/ph/goodreads-logo-duotone.svg?height=32&color=%23888888)
+  /// ![goodreads-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/goodreads-logo.png)
   static const goodreadsLogo = PhosphorDuotoneIconData(
     IconData(
       0xed10,
@@ -14427,7 +14427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `googleCardboardLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![google-cardboard-logo-duotone](https://api.iconify.design/ph/google-cardboard-logo-duotone.svg?height=32&color=%23888888)
+  /// ![google-cardboard-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/google-cardboard-logo.png)
   static const googleCardboardLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7b6,
@@ -14447,7 +14447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `googleChromeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![google-chrome-logo-duotone](https://api.iconify.design/ph/google-chrome-logo-duotone.svg?height=32&color=%23888888)
+  /// ![google-chrome-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/google-chrome-logo.png)
   static const googleChromeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe976,
@@ -14467,7 +14467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `googleDriveLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![google-drive-logo-duotone](https://api.iconify.design/ph/google-drive-logo-duotone.svg?height=32&color=%23888888)
+  /// ![google-drive-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/google-drive-logo.png)
   static const googleDriveLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8f6,
@@ -14487,7 +14487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `googleLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![google-logo-duotone](https://api.iconify.design/ph/google-logo-duotone.svg?height=32&color=%23888888)
+  /// ![google-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/google-logo.png)
   static const googleLogo = PhosphorDuotoneIconData(
     IconData(
       0xe292,
@@ -14507,7 +14507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `googlePhotosLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![google-photos-logo-duotone](https://api.iconify.design/ph/google-photos-logo-duotone.svg?height=32&color=%23888888)
+  /// ![google-photos-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/google-photos-logo.png)
   static const googlePhotosLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb92,
@@ -14527,7 +14527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `googlePlayLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![google-play-logo-duotone](https://api.iconify.design/ph/google-play-logo-duotone.svg?height=32&color=%23888888)
+  /// ![google-play-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/google-play-logo.png)
   static const googlePlayLogo = PhosphorDuotoneIconData(
     IconData(
       0xe294,
@@ -14547,7 +14547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `googlePodcastsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![google-podcasts-logo-duotone](https://api.iconify.design/ph/google-podcasts-logo-duotone.svg?height=32&color=%23888888)
+  /// ![google-podcasts-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/google-podcasts-logo.png)
   static const googlePodcastsLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb94,
@@ -14567,7 +14567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gps` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gps-duotone](https://api.iconify.design/ph/gps-duotone.svg?height=32&color=%23888888)
+  /// ![gps-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gps.png)
   static const gps = PhosphorDuotoneIconData(
     IconData(
       0xedd8,
@@ -14587,7 +14587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gpsFix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gps-fix-duotone](https://api.iconify.design/ph/gps-fix-duotone.svg?height=32&color=%23888888)
+  /// ![gps-fix-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gps-fix.png)
   static const gpsFix = PhosphorDuotoneIconData(
     IconData(
       0xedd6,
@@ -14607,7 +14607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gpsSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gps-slash-duotone](https://api.iconify.design/ph/gps-slash-duotone.svg?height=32&color=%23888888)
+  /// ![gps-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gps-slash.png)
   static const gpsSlash = PhosphorDuotoneIconData(
     IconData(
       0xedd4,
@@ -14627,7 +14627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gradient` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![gradient-duotone](https://api.iconify.design/ph/gradient-duotone.svg?height=32&color=%23888888)
+  /// ![gradient-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/gradient.png)
   static const gradient = PhosphorDuotoneIconData(
     IconData(
       0xeb42,
@@ -14647,7 +14647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `graduationCap` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![graduation-cap-duotone](https://api.iconify.design/ph/graduation-cap-duotone.svg?height=32&color=%23888888)
+  /// ![graduation-cap-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/graduation-cap.png)
   static const graduationCap = PhosphorDuotoneIconData(
     IconData(
       0xe62c,
@@ -14667,7 +14667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `grains` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![grains-duotone](https://api.iconify.design/ph/grains-duotone.svg?height=32&color=%23888888)
+  /// ![grains-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/grains.png)
   static const grains = PhosphorDuotoneIconData(
     IconData(
       0xec68,
@@ -14687,7 +14687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `grainsSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![grains-slash-duotone](https://api.iconify.design/ph/grains-slash-duotone.svg?height=32&color=%23888888)
+  /// ![grains-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/grains-slash.png)
   static const grainsSlash = PhosphorDuotoneIconData(
     IconData(
       0xec6a,
@@ -14707,7 +14707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `graph` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![graph-duotone](https://api.iconify.design/ph/graph-duotone.svg?height=32&color=%23888888)
+  /// ![graph-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/graph.png)
   static const graph = PhosphorDuotoneIconData(
     IconData(
       0xeb58,
@@ -14727,7 +14727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `graphicsCard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![graphics-card-duotone](https://api.iconify.design/ph/graphics-card-duotone.svg?height=32&color=%23888888)
+  /// ![graphics-card-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/graphics-card.png)
   static const graphicsCard = PhosphorDuotoneIconData(
     IconData(
       0xe612,
@@ -14747,7 +14747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `greaterThan` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![greater-than-duotone](https://api.iconify.design/ph/greater-than-duotone.svg?height=32&color=%23888888)
+  /// ![greater-than-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/greater-than.png)
   static const greaterThan = PhosphorDuotoneIconData(
     IconData(
       0xedc4,
@@ -14767,7 +14767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `greaterThanOrEqual` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![greater-than-or-equal-duotone](https://api.iconify.design/ph/greater-than-or-equal-duotone.svg?height=32&color=%23888888)
+  /// ![greater-than-or-equal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/greater-than-or-equal.png)
   static const greaterThanOrEqual = PhosphorDuotoneIconData(
     IconData(
       0xeda2,
@@ -14787,7 +14787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gridFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![grid-four-duotone](https://api.iconify.design/ph/grid-four-duotone.svg?height=32&color=%23888888)
+  /// ![grid-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/grid-four.png)
   static const gridFour = PhosphorDuotoneIconData(
     IconData(
       0xe296,
@@ -14807,7 +14807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `gridNine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![grid-nine-duotone](https://api.iconify.design/ph/grid-nine-duotone.svg?height=32&color=%23888888)
+  /// ![grid-nine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/grid-nine.png)
   static const gridNine = PhosphorDuotoneIconData(
     IconData(
       0xec8c,
@@ -14827,7 +14827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `guitar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![guitar-duotone](https://api.iconify.design/ph/guitar-duotone.svg?height=32&color=%23888888)
+  /// ![guitar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/guitar.png)
   static const guitar = PhosphorDuotoneIconData(
     IconData(
       0xea8a,
@@ -14847,7 +14847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hairDryer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hair-dryer-duotone](https://api.iconify.design/ph/hair-dryer-duotone.svg?height=32&color=%23888888)
+  /// ![hair-dryer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hair-dryer.png)
   static const hairDryer = PhosphorDuotoneIconData(
     IconData(
       0xea66,
@@ -14867,7 +14867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hamburger` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hamburger-duotone](https://api.iconify.design/ph/hamburger-duotone.svg?height=32&color=%23888888)
+  /// ![hamburger-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hamburger.png)
   static const hamburger = PhosphorDuotoneIconData(
     IconData(
       0xe790,
@@ -14887,7 +14887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hammer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hammer-duotone](https://api.iconify.design/ph/hammer-duotone.svg?height=32&color=%23888888)
+  /// ![hammer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hammer.png)
   static const hammer = PhosphorDuotoneIconData(
     IconData(
       0xe80e,
@@ -14907,7 +14907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hand` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-duotone](https://api.iconify.design/ph/hand-duotone.svg?height=32&color=%23888888)
+  /// ![hand-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand.png)
   static const hand = PhosphorDuotoneIconData(
     IconData(
       0xe298,
@@ -14927,7 +14927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-arrow-down-duotone](https://api.iconify.design/ph/hand-arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![hand-arrow-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-arrow-down.png)
   static const handArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xea4e,
@@ -14947,7 +14947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-arrow-up-duotone](https://api.iconify.design/ph/hand-arrow-up-duotone.svg?height=32&color=%23888888)
+  /// ![hand-arrow-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-arrow-up.png)
   static const handArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xee5a,
@@ -14967,7 +14967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handCoins` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-coins-duotone](https://api.iconify.design/ph/hand-coins-duotone.svg?height=32&color=%23888888)
+  /// ![hand-coins-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-coins.png)
   static const handCoins = PhosphorDuotoneIconData(
     IconData(
       0xea8c,
@@ -14987,7 +14987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handDeposit` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-deposit-duotone](https://api.iconify.design/ph/hand-deposit-duotone.svg?height=32&color=%23888888)
+  /// ![hand-deposit-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-deposit.png)
   static const handDeposit = PhosphorDuotoneIconData(
     IconData(
       0xee82,
@@ -15007,7 +15007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handEye` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-eye-duotone](https://api.iconify.design/ph/hand-eye-duotone.svg?height=32&color=%23888888)
+  /// ![hand-eye-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-eye.png)
   static const handEye = PhosphorDuotoneIconData(
     IconData(
       0xea4c,
@@ -15027,7 +15027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handFist` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-fist-duotone](https://api.iconify.design/ph/hand-fist-duotone.svg?height=32&color=%23888888)
+  /// ![hand-fist-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-fist.png)
   static const handFist = PhosphorDuotoneIconData(
     IconData(
       0xe57a,
@@ -15047,7 +15047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handGrabbing` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-grabbing-duotone](https://api.iconify.design/ph/hand-grabbing-duotone.svg?height=32&color=%23888888)
+  /// ![hand-grabbing-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-grabbing.png)
   static const handGrabbing = PhosphorDuotoneIconData(
     IconData(
       0xe57c,
@@ -15067,7 +15067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handHeart` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-heart-duotone](https://api.iconify.design/ph/hand-heart-duotone.svg?height=32&color=%23888888)
+  /// ![hand-heart-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-heart.png)
   static const handHeart = PhosphorDuotoneIconData(
     IconData(
       0xe810,
@@ -15087,7 +15087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handPalm` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-palm-duotone](https://api.iconify.design/ph/hand-palm-duotone.svg?height=32&color=%23888888)
+  /// ![hand-palm-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-palm.png)
   static const handPalm = PhosphorDuotoneIconData(
     IconData(
       0xe57e,
@@ -15107,7 +15107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handPeace` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-peace-duotone](https://api.iconify.design/ph/hand-peace-duotone.svg?height=32&color=%23888888)
+  /// ![hand-peace-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-peace.png)
   static const handPeace = PhosphorDuotoneIconData(
     IconData(
       0xe7cc,
@@ -15127,7 +15127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handPointing` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-pointing-duotone](https://api.iconify.design/ph/hand-pointing-duotone.svg?height=32&color=%23888888)
+  /// ![hand-pointing-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-pointing.png)
   static const handPointing = PhosphorDuotoneIconData(
     IconData(
       0xe29a,
@@ -15147,7 +15147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handSoap` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-soap-duotone](https://api.iconify.design/ph/hand-soap-duotone.svg?height=32&color=%23888888)
+  /// ![hand-soap-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-soap.png)
   static const handSoap = PhosphorDuotoneIconData(
     IconData(
       0xe630,
@@ -15167,7 +15167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handSwipeLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-swipe-left-duotone](https://api.iconify.design/ph/hand-swipe-left-duotone.svg?height=32&color=%23888888)
+  /// ![hand-swipe-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-swipe-left.png)
   static const handSwipeLeft = PhosphorDuotoneIconData(
     IconData(
       0xec94,
@@ -15187,7 +15187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handSwipeRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-swipe-right-duotone](https://api.iconify.design/ph/hand-swipe-right-duotone.svg?height=32&color=%23888888)
+  /// ![hand-swipe-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-swipe-right.png)
   static const handSwipeRight = PhosphorDuotoneIconData(
     IconData(
       0xec92,
@@ -15207,7 +15207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handTap` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-tap-duotone](https://api.iconify.design/ph/hand-tap-duotone.svg?height=32&color=%23888888)
+  /// ![hand-tap-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-tap.png)
   static const handTap = PhosphorDuotoneIconData(
     IconData(
       0xec90,
@@ -15227,7 +15227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handWaving` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-waving-duotone](https://api.iconify.design/ph/hand-waving-duotone.svg?height=32&color=%23888888)
+  /// ![hand-waving-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-waving.png)
   static const handWaving = PhosphorDuotoneIconData(
     IconData(
       0xe580,
@@ -15247,7 +15247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handWithdraw` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hand-withdraw-duotone](https://api.iconify.design/ph/hand-withdraw-duotone.svg?height=32&color=%23888888)
+  /// ![hand-withdraw-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hand-withdraw.png)
   static const handWithdraw = PhosphorDuotoneIconData(
     IconData(
       0xee80,
@@ -15267,7 +15267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handbag` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![handbag-duotone](https://api.iconify.design/ph/handbag-duotone.svg?height=32&color=%23888888)
+  /// ![handbag-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/handbag.png)
   static const handbag = PhosphorDuotoneIconData(
     IconData(
       0xe29c,
@@ -15287,7 +15287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handbagSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![handbag-simple-duotone](https://api.iconify.design/ph/handbag-simple-duotone.svg?height=32&color=%23888888)
+  /// ![handbag-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/handbag-simple.png)
   static const handbagSimple = PhosphorDuotoneIconData(
     IconData(
       0xe62e,
@@ -15307,7 +15307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handsClapping` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hands-clapping-duotone](https://api.iconify.design/ph/hands-clapping-duotone.svg?height=32&color=%23888888)
+  /// ![hands-clapping-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hands-clapping.png)
   static const handsClapping = PhosphorDuotoneIconData(
     IconData(
       0xe6a0,
@@ -15327,7 +15327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handsPraying` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hands-praying-duotone](https://api.iconify.design/ph/hands-praying-duotone.svg?height=32&color=%23888888)
+  /// ![hands-praying-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hands-praying.png)
   static const handsPraying = PhosphorDuotoneIconData(
     IconData(
       0xecc8,
@@ -15347,7 +15347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `handshake` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![handshake-duotone](https://api.iconify.design/ph/handshake-duotone.svg?height=32&color=%23888888)
+  /// ![handshake-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/handshake.png)
   static const handshake = PhosphorDuotoneIconData(
     IconData(
       0xe582,
@@ -15367,7 +15367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hardDrive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hard-drive-duotone](https://api.iconify.design/ph/hard-drive-duotone.svg?height=32&color=%23888888)
+  /// ![hard-drive-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hard-drive.png)
   static const hardDrive = PhosphorDuotoneIconData(
     IconData(
       0xe29e,
@@ -15387,7 +15387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hardDrives` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hard-drives-duotone](https://api.iconify.design/ph/hard-drives-duotone.svg?height=32&color=%23888888)
+  /// ![hard-drives-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hard-drives.png)
   static const hardDrives = PhosphorDuotoneIconData(
     IconData(
       0xe2a0,
@@ -15407,7 +15407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hardHat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hard-hat-duotone](https://api.iconify.design/ph/hard-hat-duotone.svg?height=32&color=%23888888)
+  /// ![hard-hat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hard-hat.png)
   static const hardHat = PhosphorDuotoneIconData(
     IconData(
       0xed46,
@@ -15427,7 +15427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hash-duotone](https://api.iconify.design/ph/hash-duotone.svg?height=32&color=%23888888)
+  /// ![hash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hash.png)
   static const hash = PhosphorDuotoneIconData(
     IconData(
       0xe2a2,
@@ -15447,7 +15447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hashStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hash-straight-duotone](https://api.iconify.design/ph/hash-straight-duotone.svg?height=32&color=%23888888)
+  /// ![hash-straight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hash-straight.png)
   static const hashStraight = PhosphorDuotoneIconData(
     IconData(
       0xe2a4,
@@ -15467,7 +15467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `headCircuit` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![head-circuit-duotone](https://api.iconify.design/ph/head-circuit-duotone.svg?height=32&color=%23888888)
+  /// ![head-circuit-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/head-circuit.png)
   static const headCircuit = PhosphorDuotoneIconData(
     IconData(
       0xe7d4,
@@ -15487,7 +15487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `headlights` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![headlights-duotone](https://api.iconify.design/ph/headlights-duotone.svg?height=32&color=%23888888)
+  /// ![headlights-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/headlights.png)
   static const headlights = PhosphorDuotoneIconData(
     IconData(
       0xe6fe,
@@ -15507,7 +15507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `headphones` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![headphones-duotone](https://api.iconify.design/ph/headphones-duotone.svg?height=32&color=%23888888)
+  /// ![headphones-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/headphones.png)
   static const headphones = PhosphorDuotoneIconData(
     IconData(
       0xe2a6,
@@ -15527,7 +15527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `headset` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![headset-duotone](https://api.iconify.design/ph/headset-duotone.svg?height=32&color=%23888888)
+  /// ![headset-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/headset.png)
   static const headset = PhosphorDuotoneIconData(
     IconData(
       0xe584,
@@ -15547,7 +15547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `heart` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![heart-duotone](https://api.iconify.design/ph/heart-duotone.svg?height=32&color=%23888888)
+  /// ![heart-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/heart.png)
   static const heart = PhosphorDuotoneIconData(
     IconData(
       0xe2a8,
@@ -15567,7 +15567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `heartBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![heart-break-duotone](https://api.iconify.design/ph/heart-break-duotone.svg?height=32&color=%23888888)
+  /// ![heart-break-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/heart-break.png)
   static const heartBreak = PhosphorDuotoneIconData(
     IconData(
       0xebe8,
@@ -15587,7 +15587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `heartHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![heart-half-duotone](https://api.iconify.design/ph/heart-half-duotone.svg?height=32&color=%23888888)
+  /// ![heart-half-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/heart-half.png)
   static const heartHalf = PhosphorDuotoneIconData(
     IconData(
       0xec48,
@@ -15607,7 +15607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `heartStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![heart-straight-duotone](https://api.iconify.design/ph/heart-straight-duotone.svg?height=32&color=%23888888)
+  /// ![heart-straight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/heart-straight.png)
   static const heartStraight = PhosphorDuotoneIconData(
     IconData(
       0xe2aa,
@@ -15627,7 +15627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `heartStraightBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![heart-straight-break-duotone](https://api.iconify.design/ph/heart-straight-break-duotone.svg?height=32&color=%23888888)
+  /// ![heart-straight-break-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/heart-straight-break.png)
   static const heartStraightBreak = PhosphorDuotoneIconData(
     IconData(
       0xeb98,
@@ -15647,7 +15647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `heartbeat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![heartbeat-duotone](https://api.iconify.design/ph/heartbeat-duotone.svg?height=32&color=%23888888)
+  /// ![heartbeat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/heartbeat.png)
   static const heartbeat = PhosphorDuotoneIconData(
     IconData(
       0xe2ac,
@@ -15667,7 +15667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hexagon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hexagon-duotone](https://api.iconify.design/ph/hexagon-duotone.svg?height=32&color=%23888888)
+  /// ![hexagon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hexagon.png)
   static const hexagon = PhosphorDuotoneIconData(
     IconData(
       0xe2ae,
@@ -15687,7 +15687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `highDefinition` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![high-definition-duotone](https://api.iconify.design/ph/high-definition-duotone.svg?height=32&color=%23888888)
+  /// ![high-definition-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/high-definition.png)
   static const highDefinition = PhosphorDuotoneIconData(
     IconData(
       0xea8e,
@@ -15707,7 +15707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `highHeel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![high-heel-duotone](https://api.iconify.design/ph/high-heel-duotone.svg?height=32&color=%23888888)
+  /// ![high-heel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/high-heel.png)
   static const highHeel = PhosphorDuotoneIconData(
     IconData(
       0xe8e8,
@@ -15727,7 +15727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `highlighter` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![highlighter-duotone](https://api.iconify.design/ph/highlighter-duotone.svg?height=32&color=%23888888)
+  /// ![highlighter-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/highlighter.png)
   static const highlighter = PhosphorDuotoneIconData(
     IconData(
       0xec76,
@@ -15747,7 +15747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `highlighterCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![highlighter-circle-duotone](https://api.iconify.design/ph/highlighter-circle-duotone.svg?height=32&color=%23888888)
+  /// ![highlighter-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/highlighter-circle.png)
   static const highlighterCircle = PhosphorDuotoneIconData(
     IconData(
       0xe632,
@@ -15767,7 +15767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hockey` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hockey-duotone](https://api.iconify.design/ph/hockey-duotone.svg?height=32&color=%23888888)
+  /// ![hockey-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hockey.png)
   static const hockey = PhosphorDuotoneIconData(
     IconData(
       0xec86,
@@ -15787,7 +15787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hoodie` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hoodie-duotone](https://api.iconify.design/ph/hoodie-duotone.svg?height=32&color=%23888888)
+  /// ![hoodie-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hoodie.png)
   static const hoodie = PhosphorDuotoneIconData(
     IconData(
       0xecd0,
@@ -15807,7 +15807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `horse` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![horse-duotone](https://api.iconify.design/ph/horse-duotone.svg?height=32&color=%23888888)
+  /// ![horse-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/horse.png)
   static const horse = PhosphorDuotoneIconData(
     IconData(
       0xe2b0,
@@ -15827,7 +15827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hospital` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hospital-duotone](https://api.iconify.design/ph/hospital-duotone.svg?height=32&color=%23888888)
+  /// ![hospital-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hospital.png)
   static const hospital = PhosphorDuotoneIconData(
     IconData(
       0xe844,
@@ -15847,7 +15847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglass` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-duotone](https://api.iconify.design/ph/hourglass-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass.png)
   static const hourglass = PhosphorDuotoneIconData(
     IconData(
       0xe2b2,
@@ -15867,7 +15867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglassHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-high-duotone](https://api.iconify.design/ph/hourglass-high-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass-high.png)
   static const hourglassHigh = PhosphorDuotoneIconData(
     IconData(
       0xe2b4,
@@ -15887,7 +15887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglassLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-low-duotone](https://api.iconify.design/ph/hourglass-low-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass-low.png)
   static const hourglassLow = PhosphorDuotoneIconData(
     IconData(
       0xe2b6,
@@ -15907,7 +15907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglassMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-medium-duotone](https://api.iconify.design/ph/hourglass-medium-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-medium-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass-medium.png)
   static const hourglassMedium = PhosphorDuotoneIconData(
     IconData(
       0xe2b8,
@@ -15927,7 +15927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglassSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-simple-duotone](https://api.iconify.design/ph/hourglass-simple-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass-simple.png)
   static const hourglassSimple = PhosphorDuotoneIconData(
     IconData(
       0xe2ba,
@@ -15947,7 +15947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglassSimpleHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-simple-high-duotone](https://api.iconify.design/ph/hourglass-simple-high-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass-simple-high.png)
   static const hourglassSimpleHigh = PhosphorDuotoneIconData(
     IconData(
       0xe2bc,
@@ -15967,7 +15967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglassSimpleLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-simple-low-duotone](https://api.iconify.design/ph/hourglass-simple-low-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass-simple-low.png)
   static const hourglassSimpleLow = PhosphorDuotoneIconData(
     IconData(
       0xe2be,
@@ -15987,7 +15987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hourglassSimpleMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hourglass-simple-medium-duotone](https://api.iconify.design/ph/hourglass-simple-medium-duotone.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-medium-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hourglass-simple-medium.png)
   static const hourglassSimpleMedium = PhosphorDuotoneIconData(
     IconData(
       0xe2c0,
@@ -16007,7 +16007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `house` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![house-duotone](https://api.iconify.design/ph/house-duotone.svg?height=32&color=%23888888)
+  /// ![house-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/house.png)
   static const house = PhosphorDuotoneIconData(
     IconData(
       0xe2c2,
@@ -16027,7 +16027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `houseLine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![house-line-duotone](https://api.iconify.design/ph/house-line-duotone.svg?height=32&color=%23888888)
+  /// ![house-line-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/house-line.png)
   static const houseLine = PhosphorDuotoneIconData(
     IconData(
       0xe2c4,
@@ -16047,7 +16047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `houseSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![house-simple-duotone](https://api.iconify.design/ph/house-simple-duotone.svg?height=32&color=%23888888)
+  /// ![house-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/house-simple.png)
   static const houseSimple = PhosphorDuotoneIconData(
     IconData(
       0xe2c6,
@@ -16067,7 +16067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `hurricane` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![hurricane-duotone](https://api.iconify.design/ph/hurricane-duotone.svg?height=32&color=%23888888)
+  /// ![hurricane-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/hurricane.png)
   static const hurricane = PhosphorDuotoneIconData(
     IconData(
       0xe88e,
@@ -16087,7 +16087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `iceCream` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ice-cream-duotone](https://api.iconify.design/ph/ice-cream-duotone.svg?height=32&color=%23888888)
+  /// ![ice-cream-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ice-cream.png)
   static const iceCream = PhosphorDuotoneIconData(
     IconData(
       0xe804,
@@ -16107,7 +16107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `identificationBadge` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![identification-badge-duotone](https://api.iconify.design/ph/identification-badge-duotone.svg?height=32&color=%23888888)
+  /// ![identification-badge-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/identification-badge.png)
   static const identificationBadge = PhosphorDuotoneIconData(
     IconData(
       0xe6f6,
@@ -16127,7 +16127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `identificationCard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![identification-card-duotone](https://api.iconify.design/ph/identification-card-duotone.svg?height=32&color=%23888888)
+  /// ![identification-card-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/identification-card.png)
   static const identificationCard = PhosphorDuotoneIconData(
     IconData(
       0xe2c8,
@@ -16147,7 +16147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `image` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![image-duotone](https://api.iconify.design/ph/image-duotone.svg?height=32&color=%23888888)
+  /// ![image-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/image.png)
   static const image = PhosphorDuotoneIconData(
     IconData(
       0xe2ca,
@@ -16167,7 +16167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `imageBroken` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![image-broken-duotone](https://api.iconify.design/ph/image-broken-duotone.svg?height=32&color=%23888888)
+  /// ![image-broken-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/image-broken.png)
   static const imageBroken = PhosphorDuotoneIconData(
     IconData(
       0xe7a8,
@@ -16187,7 +16187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `imageSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![image-square-duotone](https://api.iconify.design/ph/image-square-duotone.svg?height=32&color=%23888888)
+  /// ![image-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/image-square.png)
   static const imageSquare = PhosphorDuotoneIconData(
     IconData(
       0xe2cc,
@@ -16207,7 +16207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `images` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![images-duotone](https://api.iconify.design/ph/images-duotone.svg?height=32&color=%23888888)
+  /// ![images-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/images.png)
   static const images = PhosphorDuotoneIconData(
     IconData(
       0xe836,
@@ -16227,7 +16227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `imagesSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![images-square-duotone](https://api.iconify.design/ph/images-square-duotone.svg?height=32&color=%23888888)
+  /// ![images-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/images-square.png)
   static const imagesSquare = PhosphorDuotoneIconData(
     IconData(
       0xe834,
@@ -16247,7 +16247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `infinity` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![infinity-duotone](https://api.iconify.design/ph/infinity-duotone.svg?height=32&color=%23888888)
+  /// ![infinity-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/infinity.png)
   static const infinity = PhosphorDuotoneIconData(
     IconData(
       0xe634,
@@ -16267,7 +16267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `info` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![info-duotone](https://api.iconify.design/ph/info-duotone.svg?height=32&color=%23888888)
+  /// ![info-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/info.png)
   static const info = PhosphorDuotoneIconData(
     IconData(
       0xe2ce,
@@ -16287,7 +16287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `instagramLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![instagram-logo-duotone](https://api.iconify.design/ph/instagram-logo-duotone.svg?height=32&color=%23888888)
+  /// ![instagram-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/instagram-logo.png)
   static const instagramLogo = PhosphorDuotoneIconData(
     IconData(
       0xe2d0,
@@ -16307,7 +16307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `intersect` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![intersect-duotone](https://api.iconify.design/ph/intersect-duotone.svg?height=32&color=%23888888)
+  /// ![intersect-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/intersect.png)
   static const intersect = PhosphorDuotoneIconData(
     IconData(
       0xe2d2,
@@ -16327,7 +16327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `intersectSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![intersect-square-duotone](https://api.iconify.design/ph/intersect-square-duotone.svg?height=32&color=%23888888)
+  /// ![intersect-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/intersect-square.png)
   static const intersectSquare = PhosphorDuotoneIconData(
     IconData(
       0xe87a,
@@ -16347,7 +16347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `intersectThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![intersect-three-duotone](https://api.iconify.design/ph/intersect-three-duotone.svg?height=32&color=%23888888)
+  /// ![intersect-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/intersect-three.png)
   static const intersectThree = PhosphorDuotoneIconData(
     IconData(
       0xecc4,
@@ -16367,7 +16367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `intersection` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![intersection-duotone](https://api.iconify.design/ph/intersection-duotone.svg?height=32&color=%23888888)
+  /// ![intersection-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/intersection.png)
   static const intersection = PhosphorDuotoneIconData(
     IconData(
       0xedba,
@@ -16387,7 +16387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `invoice` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![invoice-duotone](https://api.iconify.design/ph/invoice-duotone.svg?height=32&color=%23888888)
+  /// ![invoice-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/invoice.png)
   static const invoice = PhosphorDuotoneIconData(
     IconData(
       0xee42,
@@ -16407,7 +16407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `island` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![island-duotone](https://api.iconify.design/ph/island-duotone.svg?height=32&color=%23888888)
+  /// ![island-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/island.png)
   static const island = PhosphorDuotoneIconData(
     IconData(
       0xee06,
@@ -16427,7 +16427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `jar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![jar-duotone](https://api.iconify.design/ph/jar-duotone.svg?height=32&color=%23888888)
+  /// ![jar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/jar.png)
   static const jar = PhosphorDuotoneIconData(
     IconData(
       0xe7e0,
@@ -16447,7 +16447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `jarLabel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![jar-label-duotone](https://api.iconify.design/ph/jar-label-duotone.svg?height=32&color=%23888888)
+  /// ![jar-label-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/jar-label.png)
   static const jarLabel = PhosphorDuotoneIconData(
     IconData(
       0xe7e1,
@@ -16467,7 +16467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `jeep` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![jeep-duotone](https://api.iconify.design/ph/jeep-duotone.svg?height=32&color=%23888888)
+  /// ![jeep-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/jeep.png)
   static const jeep = PhosphorDuotoneIconData(
     IconData(
       0xe2d4,
@@ -16487,7 +16487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `joystick` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![joystick-duotone](https://api.iconify.design/ph/joystick-duotone.svg?height=32&color=%23888888)
+  /// ![joystick-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/joystick.png)
   static const joystick = PhosphorDuotoneIconData(
     IconData(
       0xea5e,
@@ -16507,7 +16507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `kanban` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![kanban-duotone](https://api.iconify.design/ph/kanban-duotone.svg?height=32&color=%23888888)
+  /// ![kanban-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/kanban.png)
   static const kanban = PhosphorDuotoneIconData(
     IconData(
       0xeb54,
@@ -16527,7 +16527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `key` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![key-duotone](https://api.iconify.design/ph/key-duotone.svg?height=32&color=%23888888)
+  /// ![key-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/key.png)
   static const key = PhosphorDuotoneIconData(
     IconData(
       0xe2d6,
@@ -16547,7 +16547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `keyReturn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![key-return-duotone](https://api.iconify.design/ph/key-return-duotone.svg?height=32&color=%23888888)
+  /// ![key-return-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/key-return.png)
   static const keyReturn = PhosphorDuotoneIconData(
     IconData(
       0xe782,
@@ -16567,7 +16567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `keyboard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![keyboard-duotone](https://api.iconify.design/ph/keyboard-duotone.svg?height=32&color=%23888888)
+  /// ![keyboard-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/keyboard.png)
   static const keyboard = PhosphorDuotoneIconData(
     IconData(
       0xe2d8,
@@ -16587,7 +16587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `keyhole` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![keyhole-duotone](https://api.iconify.design/ph/keyhole-duotone.svg?height=32&color=%23888888)
+  /// ![keyhole-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/keyhole.png)
   static const keyhole = PhosphorDuotoneIconData(
     IconData(
       0xea78,
@@ -16607,7 +16607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `knife` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![knife-duotone](https://api.iconify.design/ph/knife-duotone.svg?height=32&color=%23888888)
+  /// ![knife-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/knife.png)
   static const knife = PhosphorDuotoneIconData(
     IconData(
       0xe636,
@@ -16627,7 +16627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ladder` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ladder-duotone](https://api.iconify.design/ph/ladder-duotone.svg?height=32&color=%23888888)
+  /// ![ladder-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ladder.png)
   static const ladder = PhosphorDuotoneIconData(
     IconData(
       0xe9e4,
@@ -16647,7 +16647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ladderSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ladder-simple-duotone](https://api.iconify.design/ph/ladder-simple-duotone.svg?height=32&color=%23888888)
+  /// ![ladder-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ladder-simple.png)
   static const ladderSimple = PhosphorDuotoneIconData(
     IconData(
       0xec26,
@@ -16667,7 +16667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lamp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lamp-duotone](https://api.iconify.design/ph/lamp-duotone.svg?height=32&color=%23888888)
+  /// ![lamp-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lamp.png)
   static const lamp = PhosphorDuotoneIconData(
     IconData(
       0xe638,
@@ -16687,7 +16687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lampPendant` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lamp-pendant-duotone](https://api.iconify.design/ph/lamp-pendant-duotone.svg?height=32&color=%23888888)
+  /// ![lamp-pendant-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lamp-pendant.png)
   static const lampPendant = PhosphorDuotoneIconData(
     IconData(
       0xee2e,
@@ -16707,7 +16707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `laptop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![laptop-duotone](https://api.iconify.design/ph/laptop-duotone.svg?height=32&color=%23888888)
+  /// ![laptop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/laptop.png)
   static const laptop = PhosphorDuotoneIconData(
     IconData(
       0xe586,
@@ -16727,7 +16727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lasso` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lasso-duotone](https://api.iconify.design/ph/lasso-duotone.svg?height=32&color=%23888888)
+  /// ![lasso-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lasso.png)
   static const lasso = PhosphorDuotoneIconData(
     IconData(
       0xedc6,
@@ -16747,7 +16747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lastfmLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lastfm-logo-duotone](https://api.iconify.design/ph/lastfm-logo-duotone.svg?height=32&color=%23888888)
+  /// ![lastfm-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lastfm-logo.png)
   static const lastfmLogo = PhosphorDuotoneIconData(
     IconData(
       0xe842,
@@ -16767,7 +16767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `layout` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![layout-duotone](https://api.iconify.design/ph/layout-duotone.svg?height=32&color=%23888888)
+  /// ![layout-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/layout.png)
   static const layout = PhosphorDuotoneIconData(
     IconData(
       0xe6d6,
@@ -16787,7 +16787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `leaf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![leaf-duotone](https://api.iconify.design/ph/leaf-duotone.svg?height=32&color=%23888888)
+  /// ![leaf-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/leaf.png)
   static const leaf = PhosphorDuotoneIconData(
     IconData(
       0xe2da,
@@ -16807,7 +16807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lectern` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lectern-duotone](https://api.iconify.design/ph/lectern-duotone.svg?height=32&color=%23888888)
+  /// ![lectern-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lectern.png)
   static const lectern = PhosphorDuotoneIconData(
     IconData(
       0xe95a,
@@ -16827,7 +16827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lego` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lego-duotone](https://api.iconify.design/ph/lego-duotone.svg?height=32&color=%23888888)
+  /// ![lego-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lego.png)
   static const lego = PhosphorDuotoneIconData(
     IconData(
       0xe8c6,
@@ -16847,7 +16847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `legoSmiley` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lego-smiley-duotone](https://api.iconify.design/ph/lego-smiley-duotone.svg?height=32&color=%23888888)
+  /// ![lego-smiley-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lego-smiley.png)
   static const legoSmiley = PhosphorDuotoneIconData(
     IconData(
       0xe8c7,
@@ -16867,7 +16867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lemniscate` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lemniscate-duotone](https://api.iconify.design/ph/infinity-duotone.svg?height=32&color=%23888888)
+  /// ![lemniscate-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lemniscate.png)
   static const lemniscate = PhosphorDuotoneIconData(
     IconData(
       0xe634,
@@ -16887,7 +16887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lessThan` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![less-than-duotone](https://api.iconify.design/ph/less-than-duotone.svg?height=32&color=%23888888)
+  /// ![less-than-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/less-than.png)
   static const lessThan = PhosphorDuotoneIconData(
     IconData(
       0xedac,
@@ -16907,7 +16907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lessThanOrEqual` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![less-than-or-equal-duotone](https://api.iconify.design/ph/less-than-or-equal-duotone.svg?height=32&color=%23888888)
+  /// ![less-than-or-equal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/less-than-or-equal.png)
   static const lessThanOrEqual = PhosphorDuotoneIconData(
     IconData(
       0xeda4,
@@ -16927,7 +16927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `letterCircleH` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![letter-circle-h-duotone](https://api.iconify.design/ph/letter-circle-h-duotone.svg?height=32&color=%23888888)
+  /// ![letter-circle-h-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/letter-circle-h.png)
   static const letterCircleH = PhosphorDuotoneIconData(
     IconData(
       0xebf8,
@@ -16947,7 +16947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `letterCircleP` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![letter-circle-p-duotone](https://api.iconify.design/ph/letter-circle-p-duotone.svg?height=32&color=%23888888)
+  /// ![letter-circle-p-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/letter-circle-p.png)
   static const letterCircleP = PhosphorDuotoneIconData(
     IconData(
       0xec08,
@@ -16967,7 +16967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `letterCircleV` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![letter-circle-v-duotone](https://api.iconify.design/ph/letter-circle-v-duotone.svg?height=32&color=%23888888)
+  /// ![letter-circle-v-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/letter-circle-v.png)
   static const letterCircleV = PhosphorDuotoneIconData(
     IconData(
       0xec14,
@@ -16987,7 +16987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lifebuoy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lifebuoy-duotone](https://api.iconify.design/ph/lifebuoy-duotone.svg?height=32&color=%23888888)
+  /// ![lifebuoy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lifebuoy.png)
   static const lifebuoy = PhosphorDuotoneIconData(
     IconData(
       0xe63a,
@@ -17007,7 +17007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lightbulb` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lightbulb-duotone](https://api.iconify.design/ph/lightbulb-duotone.svg?height=32&color=%23888888)
+  /// ![lightbulb-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lightbulb.png)
   static const lightbulb = PhosphorDuotoneIconData(
     IconData(
       0xe2dc,
@@ -17027,7 +17027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lightbulbFilament` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lightbulb-filament-duotone](https://api.iconify.design/ph/lightbulb-filament-duotone.svg?height=32&color=%23888888)
+  /// ![lightbulb-filament-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lightbulb-filament.png)
   static const lightbulbFilament = PhosphorDuotoneIconData(
     IconData(
       0xe63c,
@@ -17047,7 +17047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lighthouse` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lighthouse-duotone](https://api.iconify.design/ph/lighthouse-duotone.svg?height=32&color=%23888888)
+  /// ![lighthouse-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lighthouse.png)
   static const lighthouse = PhosphorDuotoneIconData(
     IconData(
       0xe9f6,
@@ -17067,7 +17067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lightning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lightning-duotone](https://api.iconify.design/ph/lightning-duotone.svg?height=32&color=%23888888)
+  /// ![lightning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lightning.png)
   static const lightning = PhosphorDuotoneIconData(
     IconData(
       0xe2de,
@@ -17087,7 +17087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lightningA` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lightning-a-duotone](https://api.iconify.design/ph/lightning-a-duotone.svg?height=32&color=%23888888)
+  /// ![lightning-a-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lightning-a.png)
   static const lightningA = PhosphorDuotoneIconData(
     IconData(
       0xea84,
@@ -17107,7 +17107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lightningSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lightning-slash-duotone](https://api.iconify.design/ph/lightning-slash-duotone.svg?height=32&color=%23888888)
+  /// ![lightning-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lightning-slash.png)
   static const lightningSlash = PhosphorDuotoneIconData(
     IconData(
       0xe2e0,
@@ -17127,7 +17127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lineSegment` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![line-segment-duotone](https://api.iconify.design/ph/line-segment-duotone.svg?height=32&color=%23888888)
+  /// ![line-segment-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/line-segment.png)
   static const lineSegment = PhosphorDuotoneIconData(
     IconData(
       0xe6d2,
@@ -17147,7 +17147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lineSegments` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![line-segments-duotone](https://api.iconify.design/ph/line-segments-duotone.svg?height=32&color=%23888888)
+  /// ![line-segments-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/line-segments.png)
   static const lineSegments = PhosphorDuotoneIconData(
     IconData(
       0xe6d4,
@@ -17167,7 +17167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lineVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![line-vertical-duotone](https://api.iconify.design/ph/line-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![line-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/line-vertical.png)
   static const lineVertical = PhosphorDuotoneIconData(
     IconData(
       0xed70,
@@ -17187,7 +17187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `link` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![link-duotone](https://api.iconify.design/ph/link-duotone.svg?height=32&color=%23888888)
+  /// ![link-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/link.png)
   static const link = PhosphorDuotoneIconData(
     IconData(
       0xe2e2,
@@ -17207,7 +17207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linkBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![link-break-duotone](https://api.iconify.design/ph/link-break-duotone.svg?height=32&color=%23888888)
+  /// ![link-break-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/link-break.png)
   static const linkBreak = PhosphorDuotoneIconData(
     IconData(
       0xe2e4,
@@ -17227,7 +17227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linkSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![link-simple-duotone](https://api.iconify.design/ph/link-simple-duotone.svg?height=32&color=%23888888)
+  /// ![link-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/link-simple.png)
   static const linkSimple = PhosphorDuotoneIconData(
     IconData(
       0xe2e6,
@@ -17247,7 +17247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linkSimpleBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![link-simple-break-duotone](https://api.iconify.design/ph/link-simple-break-duotone.svg?height=32&color=%23888888)
+  /// ![link-simple-break-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/link-simple-break.png)
   static const linkSimpleBreak = PhosphorDuotoneIconData(
     IconData(
       0xe2e8,
@@ -17267,7 +17267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linkSimpleHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![link-simple-horizontal-duotone](https://api.iconify.design/ph/link-simple-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/link-simple-horizontal.png)
   static const linkSimpleHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe2ea,
@@ -17287,7 +17287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![link-simple-horizontal-break-duotone](https://api.iconify.design/ph/link-simple-horizontal-break-duotone.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal-break-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/link-simple-horizontal-break.png)
   static const linkSimpleHorizontalBreak = PhosphorDuotoneIconData(
     IconData(
       0xe2ec,
@@ -17307,7 +17307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linkedinLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![linkedin-logo-duotone](https://api.iconify.design/ph/linkedin-logo-duotone.svg?height=32&color=%23888888)
+  /// ![linkedin-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/linkedin-logo.png)
   static const linkedinLogo = PhosphorDuotoneIconData(
     IconData(
       0xe2ee,
@@ -17327,7 +17327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linktreeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![linktree-logo-duotone](https://api.iconify.design/ph/linktree-logo-duotone.svg?height=32&color=%23888888)
+  /// ![linktree-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/linktree-logo.png)
   static const linktreeLogo = PhosphorDuotoneIconData(
     IconData(
       0xedee,
@@ -17347,7 +17347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `linuxLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![linux-logo-duotone](https://api.iconify.design/ph/linux-logo-duotone.svg?height=32&color=%23888888)
+  /// ![linux-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/linux-logo.png)
   static const linuxLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb02,
@@ -17367,7 +17367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `list` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-duotone](https://api.iconify.design/ph/list-duotone.svg?height=32&color=%23888888)
+  /// ![list-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list.png)
   static const list = PhosphorDuotoneIconData(
     IconData(
       0xe2f0,
@@ -17387,7 +17387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listBullets` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-bullets-duotone](https://api.iconify.design/ph/list-bullets-duotone.svg?height=32&color=%23888888)
+  /// ![list-bullets-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-bullets.png)
   static const listBullets = PhosphorDuotoneIconData(
     IconData(
       0xe2f2,
@@ -17407,7 +17407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listChecks` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-checks-duotone](https://api.iconify.design/ph/list-checks-duotone.svg?height=32&color=%23888888)
+  /// ![list-checks-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-checks.png)
   static const listChecks = PhosphorDuotoneIconData(
     IconData(
       0xeadc,
@@ -17427,7 +17427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listDashes` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-dashes-duotone](https://api.iconify.design/ph/list-dashes-duotone.svg?height=32&color=%23888888)
+  /// ![list-dashes-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-dashes.png)
   static const listDashes = PhosphorDuotoneIconData(
     IconData(
       0xe2f4,
@@ -17447,7 +17447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listHeart` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-heart-duotone](https://api.iconify.design/ph/list-heart-duotone.svg?height=32&color=%23888888)
+  /// ![list-heart-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-heart.png)
   static const listHeart = PhosphorDuotoneIconData(
     IconData(
       0xebde,
@@ -17467,7 +17467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listMagnifyingGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-magnifying-glass-duotone](https://api.iconify.design/ph/list-magnifying-glass-duotone.svg?height=32&color=%23888888)
+  /// ![list-magnifying-glass-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-magnifying-glass.png)
   static const listMagnifyingGlass = PhosphorDuotoneIconData(
     IconData(
       0xebe0,
@@ -17487,7 +17487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listNumbers` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-numbers-duotone](https://api.iconify.design/ph/list-numbers-duotone.svg?height=32&color=%23888888)
+  /// ![list-numbers-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-numbers.png)
   static const listNumbers = PhosphorDuotoneIconData(
     IconData(
       0xe2f6,
@@ -17507,7 +17507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-plus-duotone](https://api.iconify.design/ph/list-plus-duotone.svg?height=32&color=%23888888)
+  /// ![list-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-plus.png)
   static const listPlus = PhosphorDuotoneIconData(
     IconData(
       0xe2f8,
@@ -17527,7 +17527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `listStar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![list-star-duotone](https://api.iconify.design/ph/list-star-duotone.svg?height=32&color=%23888888)
+  /// ![list-star-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/list-star.png)
   static const listStar = PhosphorDuotoneIconData(
     IconData(
       0xebdc,
@@ -17547,7 +17547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lock` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-duotone](https://api.iconify.design/ph/lock-duotone.svg?height=32&color=%23888888)
+  /// ![lock-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock.png)
   static const lock = PhosphorDuotoneIconData(
     IconData(
       0xe2fa,
@@ -17567,7 +17567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockKey` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-key-duotone](https://api.iconify.design/ph/lock-key-duotone.svg?height=32&color=%23888888)
+  /// ![lock-key-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock-key.png)
   static const lockKey = PhosphorDuotoneIconData(
     IconData(
       0xe2fe,
@@ -17587,7 +17587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockKeyOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-key-open-duotone](https://api.iconify.design/ph/lock-key-open-duotone.svg?height=32&color=%23888888)
+  /// ![lock-key-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock-key-open.png)
   static const lockKeyOpen = PhosphorDuotoneIconData(
     IconData(
       0xe300,
@@ -17607,7 +17607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockLaminated` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-laminated-duotone](https://api.iconify.design/ph/lock-laminated-duotone.svg?height=32&color=%23888888)
+  /// ![lock-laminated-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock-laminated.png)
   static const lockLaminated = PhosphorDuotoneIconData(
     IconData(
       0xe302,
@@ -17627,7 +17627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockLaminatedOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-laminated-open-duotone](https://api.iconify.design/ph/lock-laminated-open-duotone.svg?height=32&color=%23888888)
+  /// ![lock-laminated-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock-laminated-open.png)
   static const lockLaminatedOpen = PhosphorDuotoneIconData(
     IconData(
       0xe304,
@@ -17647,7 +17647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-open-duotone](https://api.iconify.design/ph/lock-open-duotone.svg?height=32&color=%23888888)
+  /// ![lock-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock-open.png)
   static const lockOpen = PhosphorDuotoneIconData(
     IconData(
       0xe306,
@@ -17667,7 +17667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-simple-duotone](https://api.iconify.design/ph/lock-simple-duotone.svg?height=32&color=%23888888)
+  /// ![lock-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock-simple.png)
   static const lockSimple = PhosphorDuotoneIconData(
     IconData(
       0xe308,
@@ -17687,7 +17687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockSimpleOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lock-simple-open-duotone](https://api.iconify.design/ph/lock-simple-open-duotone.svg?height=32&color=%23888888)
+  /// ![lock-simple-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lock-simple-open.png)
   static const lockSimpleOpen = PhosphorDuotoneIconData(
     IconData(
       0xe30a,
@@ -17707,7 +17707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `lockers` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![lockers-duotone](https://api.iconify.design/ph/lockers-duotone.svg?height=32&color=%23888888)
+  /// ![lockers-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/lockers.png)
   static const lockers = PhosphorDuotoneIconData(
     IconData(
       0xecb8,
@@ -17727,7 +17727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `log` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![log-duotone](https://api.iconify.design/ph/log-duotone.svg?height=32&color=%23888888)
+  /// ![log-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/log.png)
   static const log = PhosphorDuotoneIconData(
     IconData(
       0xed82,
@@ -17747,7 +17747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `magicWand` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![magic-wand-duotone](https://api.iconify.design/ph/magic-wand-duotone.svg?height=32&color=%23888888)
+  /// ![magic-wand-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/magic-wand.png)
   static const magicWand = PhosphorDuotoneIconData(
     IconData(
       0xe6b6,
@@ -17767,7 +17767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `magnet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![magnet-duotone](https://api.iconify.design/ph/magnet-duotone.svg?height=32&color=%23888888)
+  /// ![magnet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/magnet.png)
   static const magnet = PhosphorDuotoneIconData(
     IconData(
       0xe680,
@@ -17787,7 +17787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `magnetStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![magnet-straight-duotone](https://api.iconify.design/ph/magnet-straight-duotone.svg?height=32&color=%23888888)
+  /// ![magnet-straight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/magnet-straight.png)
   static const magnetStraight = PhosphorDuotoneIconData(
     IconData(
       0xe682,
@@ -17807,7 +17807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `magnifyingGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![magnifying-glass-duotone](https://api.iconify.design/ph/magnifying-glass-duotone.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/magnifying-glass.png)
   static const magnifyingGlass = PhosphorDuotoneIconData(
     IconData(
       0xe30c,
@@ -17827,7 +17827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `magnifyingGlassMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![magnifying-glass-minus-duotone](https://api.iconify.design/ph/magnifying-glass-minus-duotone.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/magnifying-glass-minus.png)
   static const magnifyingGlassMinus = PhosphorDuotoneIconData(
     IconData(
       0xe30e,
@@ -17847,7 +17847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `magnifyingGlassPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![magnifying-glass-plus-duotone](https://api.iconify.design/ph/magnifying-glass-plus-duotone.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/magnifying-glass-plus.png)
   static const magnifyingGlassPlus = PhosphorDuotoneIconData(
     IconData(
       0xe310,
@@ -17867,7 +17867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mailbox` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mailbox-duotone](https://api.iconify.design/ph/mailbox-duotone.svg?height=32&color=%23888888)
+  /// ![mailbox-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mailbox.png)
   static const mailbox = PhosphorDuotoneIconData(
     IconData(
       0xec1e,
@@ -17887,7 +17887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapPin` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-pin-duotone](https://api.iconify.design/ph/map-pin-duotone.svg?height=32&color=%23888888)
+  /// ![map-pin-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-pin.png)
   static const mapPin = PhosphorDuotoneIconData(
     IconData(
       0xe316,
@@ -17907,7 +17907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapPinArea` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-pin-area-duotone](https://api.iconify.design/ph/map-pin-area-duotone.svg?height=32&color=%23888888)
+  /// ![map-pin-area-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-pin-area.png)
   static const mapPinArea = PhosphorDuotoneIconData(
     IconData(
       0xee3a,
@@ -17927,7 +17927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapPinLine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-pin-line-duotone](https://api.iconify.design/ph/map-pin-line-duotone.svg?height=32&color=%23888888)
+  /// ![map-pin-line-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-pin-line.png)
   static const mapPinLine = PhosphorDuotoneIconData(
     IconData(
       0xe318,
@@ -17947,7 +17947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapPinPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-pin-plus-duotone](https://api.iconify.design/ph/map-pin-plus-duotone.svg?height=32&color=%23888888)
+  /// ![map-pin-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-pin-plus.png)
   static const mapPinPlus = PhosphorDuotoneIconData(
     IconData(
       0xe314,
@@ -17967,7 +17967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapPinSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-pin-simple-duotone](https://api.iconify.design/ph/map-pin-simple-duotone.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-pin-simple.png)
   static const mapPinSimple = PhosphorDuotoneIconData(
     IconData(
       0xee3e,
@@ -17987,7 +17987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapPinSimpleArea` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-pin-simple-area-duotone](https://api.iconify.design/ph/map-pin-simple-area-duotone.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-area-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-pin-simple-area.png)
   static const mapPinSimpleArea = PhosphorDuotoneIconData(
     IconData(
       0xee3c,
@@ -18007,7 +18007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapPinSimpleLine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-pin-simple-line-duotone](https://api.iconify.design/ph/map-pin-simple-line-duotone.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-line-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-pin-simple-line.png)
   static const mapPinSimpleLine = PhosphorDuotoneIconData(
     IconData(
       0xee38,
@@ -18027,7 +18027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mapTrifold` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![map-trifold-duotone](https://api.iconify.design/ph/map-trifold-duotone.svg?height=32&color=%23888888)
+  /// ![map-trifold-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/map-trifold.png)
   static const mapTrifold = PhosphorDuotoneIconData(
     IconData(
       0xe31a,
@@ -18047,7 +18047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `markdownLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![markdown-logo-duotone](https://api.iconify.design/ph/markdown-logo-duotone.svg?height=32&color=%23888888)
+  /// ![markdown-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/markdown-logo.png)
   static const markdownLogo = PhosphorDuotoneIconData(
     IconData(
       0xe508,
@@ -18067,7 +18067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `markerCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![marker-circle-duotone](https://api.iconify.design/ph/marker-circle-duotone.svg?height=32&color=%23888888)
+  /// ![marker-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/marker-circle.png)
   static const markerCircle = PhosphorDuotoneIconData(
     IconData(
       0xe640,
@@ -18087,7 +18087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `martini` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![martini-duotone](https://api.iconify.design/ph/martini-duotone.svg?height=32&color=%23888888)
+  /// ![martini-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/martini.png)
   static const martini = PhosphorDuotoneIconData(
     IconData(
       0xe31c,
@@ -18107,7 +18107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `maskHappy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mask-happy-duotone](https://api.iconify.design/ph/mask-happy-duotone.svg?height=32&color=%23888888)
+  /// ![mask-happy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mask-happy.png)
   static const maskHappy = PhosphorDuotoneIconData(
     IconData(
       0xe9f4,
@@ -18127,7 +18127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `maskSad` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mask-sad-duotone](https://api.iconify.design/ph/mask-sad-duotone.svg?height=32&color=%23888888)
+  /// ![mask-sad-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mask-sad.png)
   static const maskSad = PhosphorDuotoneIconData(
     IconData(
       0xeb9e,
@@ -18147,7 +18147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mastodonLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mastodon-logo-duotone](https://api.iconify.design/ph/mastodon-logo-duotone.svg?height=32&color=%23888888)
+  /// ![mastodon-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mastodon-logo.png)
   static const mastodonLogo = PhosphorDuotoneIconData(
     IconData(
       0xed68,
@@ -18167,7 +18167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mathOperations` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![math-operations-duotone](https://api.iconify.design/ph/math-operations-duotone.svg?height=32&color=%23888888)
+  /// ![math-operations-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/math-operations.png)
   static const mathOperations = PhosphorDuotoneIconData(
     IconData(
       0xe31e,
@@ -18187,7 +18187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `matrixLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![matrix-logo-duotone](https://api.iconify.design/ph/matrix-logo-duotone.svg?height=32&color=%23888888)
+  /// ![matrix-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/matrix-logo.png)
   static const matrixLogo = PhosphorDuotoneIconData(
     IconData(
       0xed64,
@@ -18207,7 +18207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `medal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![medal-duotone](https://api.iconify.design/ph/medal-duotone.svg?height=32&color=%23888888)
+  /// ![medal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/medal.png)
   static const medal = PhosphorDuotoneIconData(
     IconData(
       0xe320,
@@ -18227,7 +18227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `medalMilitary` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![medal-military-duotone](https://api.iconify.design/ph/medal-military-duotone.svg?height=32&color=%23888888)
+  /// ![medal-military-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/medal-military.png)
   static const medalMilitary = PhosphorDuotoneIconData(
     IconData(
       0xecfc,
@@ -18247,7 +18247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mediumLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![medium-logo-duotone](https://api.iconify.design/ph/medium-logo-duotone.svg?height=32&color=%23888888)
+  /// ![medium-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/medium-logo.png)
   static const mediumLogo = PhosphorDuotoneIconData(
     IconData(
       0xe322,
@@ -18267,7 +18267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `megaphone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![megaphone-duotone](https://api.iconify.design/ph/megaphone-duotone.svg?height=32&color=%23888888)
+  /// ![megaphone-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/megaphone.png)
   static const megaphone = PhosphorDuotoneIconData(
     IconData(
       0xe324,
@@ -18287,7 +18287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `megaphoneSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![megaphone-simple-duotone](https://api.iconify.design/ph/megaphone-simple-duotone.svg?height=32&color=%23888888)
+  /// ![megaphone-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/megaphone-simple.png)
   static const megaphoneSimple = PhosphorDuotoneIconData(
     IconData(
       0xe642,
@@ -18307,7 +18307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `memberOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![member-of-duotone](https://api.iconify.design/ph/member-of-duotone.svg?height=32&color=%23888888)
+  /// ![member-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/member-of.png)
   static const memberOf = PhosphorDuotoneIconData(
     IconData(
       0xedc2,
@@ -18327,7 +18327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `memory` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![memory-duotone](https://api.iconify.design/ph/memory-duotone.svg?height=32&color=%23888888)
+  /// ![memory-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/memory.png)
   static const memory = PhosphorDuotoneIconData(
     IconData(
       0xe9c4,
@@ -18347,7 +18347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `messengerLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![messenger-logo-duotone](https://api.iconify.design/ph/messenger-logo-duotone.svg?height=32&color=%23888888)
+  /// ![messenger-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/messenger-logo.png)
   static const messengerLogo = PhosphorDuotoneIconData(
     IconData(
       0xe6d8,
@@ -18367,7 +18367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `metaLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![meta-logo-duotone](https://api.iconify.design/ph/meta-logo-duotone.svg?height=32&color=%23888888)
+  /// ![meta-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/meta-logo.png)
   static const metaLogo = PhosphorDuotoneIconData(
     IconData(
       0xed02,
@@ -18387,7 +18387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `meteor` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![meteor-duotone](https://api.iconify.design/ph/meteor-duotone.svg?height=32&color=%23888888)
+  /// ![meteor-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/meteor.png)
   static const meteor = PhosphorDuotoneIconData(
     IconData(
       0xe9ba,
@@ -18407,7 +18407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `metronome` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![metronome-duotone](https://api.iconify.design/ph/metronome-duotone.svg?height=32&color=%23888888)
+  /// ![metronome-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/metronome.png)
   static const metronome = PhosphorDuotoneIconData(
     IconData(
       0xec8e,
@@ -18427,7 +18427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microphone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microphone-duotone](https://api.iconify.design/ph/microphone-duotone.svg?height=32&color=%23888888)
+  /// ![microphone-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microphone.png)
   static const microphone = PhosphorDuotoneIconData(
     IconData(
       0xe326,
@@ -18447,7 +18447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microphoneSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microphone-slash-duotone](https://api.iconify.design/ph/microphone-slash-duotone.svg?height=32&color=%23888888)
+  /// ![microphone-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microphone-slash.png)
   static const microphoneSlash = PhosphorDuotoneIconData(
     IconData(
       0xe328,
@@ -18467,7 +18467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microphoneStage` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microphone-stage-duotone](https://api.iconify.design/ph/microphone-stage-duotone.svg?height=32&color=%23888888)
+  /// ![microphone-stage-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microphone-stage.png)
   static const microphoneStage = PhosphorDuotoneIconData(
     IconData(
       0xe75c,
@@ -18487,7 +18487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microscope` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microscope-duotone](https://api.iconify.design/ph/microscope-duotone.svg?height=32&color=%23888888)
+  /// ![microscope-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microscope.png)
   static const microscope = PhosphorDuotoneIconData(
     IconData(
       0xec7a,
@@ -18507,7 +18507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microsoftExcelLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microsoft-excel-logo-duotone](https://api.iconify.design/ph/microsoft-excel-logo-duotone.svg?height=32&color=%23888888)
+  /// ![microsoft-excel-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microsoft-excel-logo.png)
   static const microsoftExcelLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb6c,
@@ -18527,7 +18527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microsoftOutlookLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microsoft-outlook-logo-duotone](https://api.iconify.design/ph/microsoft-outlook-logo-duotone.svg?height=32&color=%23888888)
+  /// ![microsoft-outlook-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microsoft-outlook-logo.png)
   static const microsoftOutlookLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb70,
@@ -18547,7 +18547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microsoftPowerpointLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microsoft-powerpoint-logo-duotone](https://api.iconify.design/ph/microsoft-powerpoint-logo-duotone.svg?height=32&color=%23888888)
+  /// ![microsoft-powerpoint-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microsoft-powerpoint-logo.png)
   static const microsoftPowerpointLogo = PhosphorDuotoneIconData(
     IconData(
       0xeace,
@@ -18567,7 +18567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microsoftTeamsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microsoft-teams-logo-duotone](https://api.iconify.design/ph/microsoft-teams-logo-duotone.svg?height=32&color=%23888888)
+  /// ![microsoft-teams-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microsoft-teams-logo.png)
   static const microsoftTeamsLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb66,
@@ -18587,7 +18587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `microsoftWordLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![microsoft-word-logo-duotone](https://api.iconify.design/ph/microsoft-word-logo-duotone.svg?height=32&color=%23888888)
+  /// ![microsoft-word-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/microsoft-word-logo.png)
   static const microsoftWordLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb6a,
@@ -18607,7 +18607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `minus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![minus-duotone](https://api.iconify.design/ph/minus-duotone.svg?height=32&color=%23888888)
+  /// ![minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/minus.png)
   static const minus = PhosphorDuotoneIconData(
     IconData(
       0xe32a,
@@ -18627,7 +18627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `minusCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![minus-circle-duotone](https://api.iconify.design/ph/minus-circle-duotone.svg?height=32&color=%23888888)
+  /// ![minus-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/minus-circle.png)
   static const minusCircle = PhosphorDuotoneIconData(
     IconData(
       0xe32c,
@@ -18647,7 +18647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `minusSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![minus-square-duotone](https://api.iconify.design/ph/minus-square-duotone.svg?height=32&color=%23888888)
+  /// ![minus-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/minus-square.png)
   static const minusSquare = PhosphorDuotoneIconData(
     IconData(
       0xed4c,
@@ -18667,7 +18667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `money` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![money-duotone](https://api.iconify.design/ph/money-duotone.svg?height=32&color=%23888888)
+  /// ![money-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/money.png)
   static const money = PhosphorDuotoneIconData(
     IconData(
       0xe588,
@@ -18687,7 +18687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `moneyWavy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![money-wavy-duotone](https://api.iconify.design/ph/money-wavy-duotone.svg?height=32&color=%23888888)
+  /// ![money-wavy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/money-wavy.png)
   static const moneyWavy = PhosphorDuotoneIconData(
     IconData(
       0xee68,
@@ -18707,7 +18707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `monitor` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![monitor-duotone](https://api.iconify.design/ph/monitor-duotone.svg?height=32&color=%23888888)
+  /// ![monitor-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/monitor.png)
   static const monitor = PhosphorDuotoneIconData(
     IconData(
       0xe32e,
@@ -18727,7 +18727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `monitorArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![monitor-arrow-up-duotone](https://api.iconify.design/ph/monitor-arrow-up-duotone.svg?height=32&color=%23888888)
+  /// ![monitor-arrow-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/monitor-arrow-up.png)
   static const monitorArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xe58a,
@@ -18747,7 +18747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `monitorPlay` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![monitor-play-duotone](https://api.iconify.design/ph/monitor-play-duotone.svg?height=32&color=%23888888)
+  /// ![monitor-play-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/monitor-play.png)
   static const monitorPlay = PhosphorDuotoneIconData(
     IconData(
       0xe58c,
@@ -18767,7 +18767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `moon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![moon-duotone](https://api.iconify.design/ph/moon-duotone.svg?height=32&color=%23888888)
+  /// ![moon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/moon.png)
   static const moon = PhosphorDuotoneIconData(
     IconData(
       0xe330,
@@ -18787,7 +18787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `moonStars` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![moon-stars-duotone](https://api.iconify.design/ph/moon-stars-duotone.svg?height=32&color=%23888888)
+  /// ![moon-stars-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/moon-stars.png)
   static const moonStars = PhosphorDuotoneIconData(
     IconData(
       0xe58e,
@@ -18807,7 +18807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `moped` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![moped-duotone](https://api.iconify.design/ph/moped-duotone.svg?height=32&color=%23888888)
+  /// ![moped-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/moped.png)
   static const moped = PhosphorDuotoneIconData(
     IconData(
       0xe824,
@@ -18827,7 +18827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mopedFront` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![moped-front-duotone](https://api.iconify.design/ph/moped-front-duotone.svg?height=32&color=%23888888)
+  /// ![moped-front-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/moped-front.png)
   static const mopedFront = PhosphorDuotoneIconData(
     IconData(
       0xe822,
@@ -18847,7 +18847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mosque` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mosque-duotone](https://api.iconify.design/ph/mosque-duotone.svg?height=32&color=%23888888)
+  /// ![mosque-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mosque.png)
   static const mosque = PhosphorDuotoneIconData(
     IconData(
       0xecee,
@@ -18867,7 +18867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `motorcycle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![motorcycle-duotone](https://api.iconify.design/ph/motorcycle-duotone.svg?height=32&color=%23888888)
+  /// ![motorcycle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/motorcycle.png)
   static const motorcycle = PhosphorDuotoneIconData(
     IconData(
       0xe80a,
@@ -18887,7 +18887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mountains` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mountains-duotone](https://api.iconify.design/ph/mountains-duotone.svg?height=32&color=%23888888)
+  /// ![mountains-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mountains.png)
   static const mountains = PhosphorDuotoneIconData(
     IconData(
       0xe7ae,
@@ -18907,7 +18907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mouse` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mouse-duotone](https://api.iconify.design/ph/mouse-duotone.svg?height=32&color=%23888888)
+  /// ![mouse-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mouse.png)
   static const mouse = PhosphorDuotoneIconData(
     IconData(
       0xe33a,
@@ -18927,7 +18927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mouseLeftClick` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mouse-left-click-duotone](https://api.iconify.design/ph/mouse-left-click-duotone.svg?height=32&color=%23888888)
+  /// ![mouse-left-click-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mouse-left-click.png)
   static const mouseLeftClick = PhosphorDuotoneIconData(
     IconData(
       0xe334,
@@ -18947,7 +18947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mouseMiddleClick` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mouse-middle-click-duotone](https://api.iconify.design/ph/mouse-middle-click-duotone.svg?height=32&color=%23888888)
+  /// ![mouse-middle-click-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mouse-middle-click.png)
   static const mouseMiddleClick = PhosphorDuotoneIconData(
     IconData(
       0xe338,
@@ -18967,7 +18967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mouseRightClick` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mouse-right-click-duotone](https://api.iconify.design/ph/mouse-right-click-duotone.svg?height=32&color=%23888888)
+  /// ![mouse-right-click-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mouse-right-click.png)
   static const mouseRightClick = PhosphorDuotoneIconData(
     IconData(
       0xe336,
@@ -18987,7 +18987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mouseScroll` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mouse-scroll-duotone](https://api.iconify.design/ph/mouse-scroll-duotone.svg?height=32&color=%23888888)
+  /// ![mouse-scroll-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mouse-scroll.png)
   static const mouseScroll = PhosphorDuotoneIconData(
     IconData(
       0xe332,
@@ -19007,7 +19007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `mouseSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![mouse-simple-duotone](https://api.iconify.design/ph/mouse-simple-duotone.svg?height=32&color=%23888888)
+  /// ![mouse-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/mouse-simple.png)
   static const mouseSimple = PhosphorDuotoneIconData(
     IconData(
       0xe644,
@@ -19027,7 +19027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `musicNote` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![music-note-duotone](https://api.iconify.design/ph/music-note-duotone.svg?height=32&color=%23888888)
+  /// ![music-note-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/music-note.png)
   static const musicNote = PhosphorDuotoneIconData(
     IconData(
       0xe33c,
@@ -19047,7 +19047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `musicNoteSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![music-note-simple-duotone](https://api.iconify.design/ph/music-note-simple-duotone.svg?height=32&color=%23888888)
+  /// ![music-note-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/music-note-simple.png)
   static const musicNoteSimple = PhosphorDuotoneIconData(
     IconData(
       0xe33e,
@@ -19067,7 +19067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `musicNotes` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![music-notes-duotone](https://api.iconify.design/ph/music-notes-duotone.svg?height=32&color=%23888888)
+  /// ![music-notes-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/music-notes.png)
   static const musicNotes = PhosphorDuotoneIconData(
     IconData(
       0xe340,
@@ -19087,7 +19087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `musicNotesMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![music-notes-minus-duotone](https://api.iconify.design/ph/music-notes-minus-duotone.svg?height=32&color=%23888888)
+  /// ![music-notes-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/music-notes-minus.png)
   static const musicNotesMinus = PhosphorDuotoneIconData(
     IconData(
       0xee0c,
@@ -19107,7 +19107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `musicNotesPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![music-notes-plus-duotone](https://api.iconify.design/ph/music-notes-plus-duotone.svg?height=32&color=%23888888)
+  /// ![music-notes-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/music-notes-plus.png)
   static const musicNotesPlus = PhosphorDuotoneIconData(
     IconData(
       0xeb7c,
@@ -19127,7 +19127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `musicNotesSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![music-notes-simple-duotone](https://api.iconify.design/ph/music-notes-simple-duotone.svg?height=32&color=%23888888)
+  /// ![music-notes-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/music-notes-simple.png)
   static const musicNotesSimple = PhosphorDuotoneIconData(
     IconData(
       0xe342,
@@ -19147,7 +19147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `navigationArrow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![navigation-arrow-duotone](https://api.iconify.design/ph/navigation-arrow-duotone.svg?height=32&color=%23888888)
+  /// ![navigation-arrow-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/navigation-arrow.png)
   static const navigationArrow = PhosphorDuotoneIconData(
     IconData(
       0xeade,
@@ -19167,7 +19167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `needle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![needle-duotone](https://api.iconify.design/ph/needle-duotone.svg?height=32&color=%23888888)
+  /// ![needle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/needle.png)
   static const needle = PhosphorDuotoneIconData(
     IconData(
       0xe82e,
@@ -19187,7 +19187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `network` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![network-duotone](https://api.iconify.design/ph/network-duotone.svg?height=32&color=%23888888)
+  /// ![network-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/network.png)
   static const network = PhosphorDuotoneIconData(
     IconData(
       0xedde,
@@ -19207,7 +19207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `networkSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![network-slash-duotone](https://api.iconify.design/ph/network-slash-duotone.svg?height=32&color=%23888888)
+  /// ![network-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/network-slash.png)
   static const networkSlash = PhosphorDuotoneIconData(
     IconData(
       0xeddc,
@@ -19227,7 +19227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `networkX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![network-x-duotone](https://api.iconify.design/ph/network-x-duotone.svg?height=32&color=%23888888)
+  /// ![network-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/network-x.png)
   static const networkX = PhosphorDuotoneIconData(
     IconData(
       0xedda,
@@ -19247,7 +19247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `newspaper` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![newspaper-duotone](https://api.iconify.design/ph/newspaper-duotone.svg?height=32&color=%23888888)
+  /// ![newspaper-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/newspaper.png)
   static const newspaper = PhosphorDuotoneIconData(
     IconData(
       0xe344,
@@ -19267,7 +19267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `newspaperClipping` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![newspaper-clipping-duotone](https://api.iconify.design/ph/newspaper-clipping-duotone.svg?height=32&color=%23888888)
+  /// ![newspaper-clipping-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/newspaper-clipping.png)
   static const newspaperClipping = PhosphorDuotoneIconData(
     IconData(
       0xe346,
@@ -19287,7 +19287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notEquals` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![not-equals-duotone](https://api.iconify.design/ph/not-equals-duotone.svg?height=32&color=%23888888)
+  /// ![not-equals-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/not-equals.png)
   static const notEquals = PhosphorDuotoneIconData(
     IconData(
       0xeda6,
@@ -19307,7 +19307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notMemberOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![not-member-of-duotone](https://api.iconify.design/ph/not-member-of-duotone.svg?height=32&color=%23888888)
+  /// ![not-member-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/not-member-of.png)
   static const notMemberOf = PhosphorDuotoneIconData(
     IconData(
       0xedae,
@@ -19327,7 +19327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notSubsetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![not-subset-of-duotone](https://api.iconify.design/ph/not-subset-of-duotone.svg?height=32&color=%23888888)
+  /// ![not-subset-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/not-subset-of.png)
   static const notSubsetOf = PhosphorDuotoneIconData(
     IconData(
       0xedb0,
@@ -19347,7 +19347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notSupersetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![not-superset-of-duotone](https://api.iconify.design/ph/not-superset-of-duotone.svg?height=32&color=%23888888)
+  /// ![not-superset-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/not-superset-of.png)
   static const notSupersetOf = PhosphorDuotoneIconData(
     IconData(
       0xedb2,
@@ -19367,7 +19367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notches` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![notches-duotone](https://api.iconify.design/ph/notches-duotone.svg?height=32&color=%23888888)
+  /// ![notches-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/notches.png)
   static const notches = PhosphorDuotoneIconData(
     IconData(
       0xed3a,
@@ -19387,7 +19387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `note` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![note-duotone](https://api.iconify.design/ph/note-duotone.svg?height=32&color=%23888888)
+  /// ![note-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/note.png)
   static const note = PhosphorDuotoneIconData(
     IconData(
       0xe348,
@@ -19407,7 +19407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `noteBlank` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![note-blank-duotone](https://api.iconify.design/ph/note-blank-duotone.svg?height=32&color=%23888888)
+  /// ![note-blank-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/note-blank.png)
   static const noteBlank = PhosphorDuotoneIconData(
     IconData(
       0xe34a,
@@ -19427,7 +19427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notePencil` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![note-pencil-duotone](https://api.iconify.design/ph/note-pencil-duotone.svg?height=32&color=%23888888)
+  /// ![note-pencil-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/note-pencil.png)
   static const notePencil = PhosphorDuotoneIconData(
     IconData(
       0xe34c,
@@ -19447,7 +19447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notebook` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![notebook-duotone](https://api.iconify.design/ph/notebook-duotone.svg?height=32&color=%23888888)
+  /// ![notebook-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/notebook.png)
   static const notebook = PhosphorDuotoneIconData(
     IconData(
       0xe34e,
@@ -19467,7 +19467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notepad` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![notepad-duotone](https://api.iconify.design/ph/notepad-duotone.svg?height=32&color=%23888888)
+  /// ![notepad-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/notepad.png)
   static const notepad = PhosphorDuotoneIconData(
     IconData(
       0xe63e,
@@ -19487,7 +19487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notification` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![notification-duotone](https://api.iconify.design/ph/notification-duotone.svg?height=32&color=%23888888)
+  /// ![notification-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/notification.png)
   static const notification = PhosphorDuotoneIconData(
     IconData(
       0xe6fa,
@@ -19507,7 +19507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `notionLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![notion-logo-duotone](https://api.iconify.design/ph/notion-logo-duotone.svg?height=32&color=%23888888)
+  /// ![notion-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/notion-logo.png)
   static const notionLogo = PhosphorDuotoneIconData(
     IconData(
       0xe9a0,
@@ -19527,7 +19527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `nuclearPlant` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![nuclear-plant-duotone](https://api.iconify.design/ph/nuclear-plant-duotone.svg?height=32&color=%23888888)
+  /// ![nuclear-plant-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/nuclear-plant.png)
   static const nuclearPlant = PhosphorDuotoneIconData(
     IconData(
       0xed7c,
@@ -19547,7 +19547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleEight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-eight-duotone](https://api.iconify.design/ph/number-circle-eight-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-eight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-eight.png)
   static const numberCircleEight = PhosphorDuotoneIconData(
     IconData(
       0xe352,
@@ -19567,7 +19567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleFive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-five-duotone](https://api.iconify.design/ph/number-circle-five-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-five-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-five.png)
   static const numberCircleFive = PhosphorDuotoneIconData(
     IconData(
       0xe358,
@@ -19587,7 +19587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-four-duotone](https://api.iconify.design/ph/number-circle-four-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-four.png)
   static const numberCircleFour = PhosphorDuotoneIconData(
     IconData(
       0xe35e,
@@ -19607,7 +19607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleNine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-nine-duotone](https://api.iconify.design/ph/number-circle-nine-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-nine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-nine.png)
   static const numberCircleNine = PhosphorDuotoneIconData(
     IconData(
       0xe364,
@@ -19627,7 +19627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleOne` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-one-duotone](https://api.iconify.design/ph/number-circle-one-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-one-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-one.png)
   static const numberCircleOne = PhosphorDuotoneIconData(
     IconData(
       0xe36a,
@@ -19647,7 +19647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleSeven` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-seven-duotone](https://api.iconify.design/ph/number-circle-seven-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-seven-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-seven.png)
   static const numberCircleSeven = PhosphorDuotoneIconData(
     IconData(
       0xe370,
@@ -19667,7 +19667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleSix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-six-duotone](https://api.iconify.design/ph/number-circle-six-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-six-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-six.png)
   static const numberCircleSix = PhosphorDuotoneIconData(
     IconData(
       0xe376,
@@ -19687,7 +19687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-three-duotone](https://api.iconify.design/ph/number-circle-three-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-three.png)
   static const numberCircleThree = PhosphorDuotoneIconData(
     IconData(
       0xe37c,
@@ -19707,7 +19707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-two-duotone](https://api.iconify.design/ph/number-circle-two-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-two-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-two.png)
   static const numberCircleTwo = PhosphorDuotoneIconData(
     IconData(
       0xe382,
@@ -19727,7 +19727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberCircleZero` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-circle-zero-duotone](https://api.iconify.design/ph/number-circle-zero-duotone.svg?height=32&color=%23888888)
+  /// ![number-circle-zero-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-circle-zero.png)
   static const numberCircleZero = PhosphorDuotoneIconData(
     IconData(
       0xe388,
@@ -19747,7 +19747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberEight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-eight-duotone](https://api.iconify.design/ph/number-eight-duotone.svg?height=32&color=%23888888)
+  /// ![number-eight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-eight.png)
   static const numberEight = PhosphorDuotoneIconData(
     IconData(
       0xe350,
@@ -19767,7 +19767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberFive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-five-duotone](https://api.iconify.design/ph/number-five-duotone.svg?height=32&color=%23888888)
+  /// ![number-five-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-five.png)
   static const numberFive = PhosphorDuotoneIconData(
     IconData(
       0xe356,
@@ -19787,7 +19787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-four-duotone](https://api.iconify.design/ph/number-four-duotone.svg?height=32&color=%23888888)
+  /// ![number-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-four.png)
   static const numberFour = PhosphorDuotoneIconData(
     IconData(
       0xe35c,
@@ -19807,7 +19807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberNine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-nine-duotone](https://api.iconify.design/ph/number-nine-duotone.svg?height=32&color=%23888888)
+  /// ![number-nine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-nine.png)
   static const numberNine = PhosphorDuotoneIconData(
     IconData(
       0xe362,
@@ -19827,7 +19827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberOne` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-one-duotone](https://api.iconify.design/ph/number-one-duotone.svg?height=32&color=%23888888)
+  /// ![number-one-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-one.png)
   static const numberOne = PhosphorDuotoneIconData(
     IconData(
       0xe368,
@@ -19847,7 +19847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSeven` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-seven-duotone](https://api.iconify.design/ph/number-seven-duotone.svg?height=32&color=%23888888)
+  /// ![number-seven-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-seven.png)
   static const numberSeven = PhosphorDuotoneIconData(
     IconData(
       0xe36e,
@@ -19867,7 +19867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-six-duotone](https://api.iconify.design/ph/number-six-duotone.svg?height=32&color=%23888888)
+  /// ![number-six-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-six.png)
   static const numberSix = PhosphorDuotoneIconData(
     IconData(
       0xe374,
@@ -19887,7 +19887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareEight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-eight-duotone](https://api.iconify.design/ph/number-square-eight-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-eight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-eight.png)
   static const numberSquareEight = PhosphorDuotoneIconData(
     IconData(
       0xe354,
@@ -19907,7 +19907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareFive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-five-duotone](https://api.iconify.design/ph/number-square-five-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-five-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-five.png)
   static const numberSquareFive = PhosphorDuotoneIconData(
     IconData(
       0xe35a,
@@ -19927,7 +19927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-four-duotone](https://api.iconify.design/ph/number-square-four-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-four.png)
   static const numberSquareFour = PhosphorDuotoneIconData(
     IconData(
       0xe360,
@@ -19947,7 +19947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareNine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-nine-duotone](https://api.iconify.design/ph/number-square-nine-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-nine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-nine.png)
   static const numberSquareNine = PhosphorDuotoneIconData(
     IconData(
       0xe366,
@@ -19967,7 +19967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareOne` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-one-duotone](https://api.iconify.design/ph/number-square-one-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-one-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-one.png)
   static const numberSquareOne = PhosphorDuotoneIconData(
     IconData(
       0xe36c,
@@ -19987,7 +19987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareSeven` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-seven-duotone](https://api.iconify.design/ph/number-square-seven-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-seven-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-seven.png)
   static const numberSquareSeven = PhosphorDuotoneIconData(
     IconData(
       0xe372,
@@ -20007,7 +20007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareSix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-six-duotone](https://api.iconify.design/ph/number-square-six-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-six-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-six.png)
   static const numberSquareSix = PhosphorDuotoneIconData(
     IconData(
       0xe378,
@@ -20027,7 +20027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-three-duotone](https://api.iconify.design/ph/number-square-three-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-three.png)
   static const numberSquareThree = PhosphorDuotoneIconData(
     IconData(
       0xe37e,
@@ -20047,7 +20047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-two-duotone](https://api.iconify.design/ph/number-square-two-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-two-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-two.png)
   static const numberSquareTwo = PhosphorDuotoneIconData(
     IconData(
       0xe384,
@@ -20067,7 +20067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberSquareZero` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-square-zero-duotone](https://api.iconify.design/ph/number-square-zero-duotone.svg?height=32&color=%23888888)
+  /// ![number-square-zero-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-square-zero.png)
   static const numberSquareZero = PhosphorDuotoneIconData(
     IconData(
       0xe38a,
@@ -20087,7 +20087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-three-duotone](https://api.iconify.design/ph/number-three-duotone.svg?height=32&color=%23888888)
+  /// ![number-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-three.png)
   static const numberThree = PhosphorDuotoneIconData(
     IconData(
       0xe37a,
@@ -20107,7 +20107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-two-duotone](https://api.iconify.design/ph/number-two-duotone.svg?height=32&color=%23888888)
+  /// ![number-two-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-two.png)
   static const numberTwo = PhosphorDuotoneIconData(
     IconData(
       0xe380,
@@ -20127,7 +20127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numberZero` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![number-zero-duotone](https://api.iconify.design/ph/number-zero-duotone.svg?height=32&color=%23888888)
+  /// ![number-zero-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/number-zero.png)
   static const numberZero = PhosphorDuotoneIconData(
     IconData(
       0xe386,
@@ -20147,7 +20147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `numpad` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![numpad-duotone](https://api.iconify.design/ph/numpad-duotone.svg?height=32&color=%23888888)
+  /// ![numpad-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/numpad.png)
   static const numpad = PhosphorDuotoneIconData(
     IconData(
       0xe3c8,
@@ -20167,7 +20167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `nut` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![nut-duotone](https://api.iconify.design/ph/nut-duotone.svg?height=32&color=%23888888)
+  /// ![nut-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/nut.png)
   static const nut = PhosphorDuotoneIconData(
     IconData(
       0xe38c,
@@ -20187,7 +20187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `nyTimesLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ny-times-logo-duotone](https://api.iconify.design/ph/ny-times-logo-duotone.svg?height=32&color=%23888888)
+  /// ![ny-times-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ny-times-logo.png)
   static const nyTimesLogo = PhosphorDuotoneIconData(
     IconData(
       0xe646,
@@ -20207,7 +20207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `octagon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![octagon-duotone](https://api.iconify.design/ph/octagon-duotone.svg?height=32&color=%23888888)
+  /// ![octagon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/octagon.png)
   static const octagon = PhosphorDuotoneIconData(
     IconData(
       0xe38e,
@@ -20227,7 +20227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `officeChair` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![office-chair-duotone](https://api.iconify.design/ph/office-chair-duotone.svg?height=32&color=%23888888)
+  /// ![office-chair-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/office-chair.png)
   static const officeChair = PhosphorDuotoneIconData(
     IconData(
       0xea46,
@@ -20247,7 +20247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `onigiri` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![onigiri-duotone](https://api.iconify.design/ph/onigiri-duotone.svg?height=32&color=%23888888)
+  /// ![onigiri-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/onigiri.png)
   static const onigiri = PhosphorDuotoneIconData(
     IconData(
       0xee2c,
@@ -20267,7 +20267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `openAiLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![open-ai-logo-duotone](https://api.iconify.design/ph/open-ai-logo-duotone.svg?height=32&color=%23888888)
+  /// ![open-ai-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/open-ai-logo.png)
   static const openAiLogo = PhosphorDuotoneIconData(
     IconData(
       0xe7d2,
@@ -20287,7 +20287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `option` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![option-duotone](https://api.iconify.design/ph/option-duotone.svg?height=32&color=%23888888)
+  /// ![option-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/option.png)
   static const option = PhosphorDuotoneIconData(
     IconData(
       0xe8a8,
@@ -20307,7 +20307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `orange` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![orange-duotone](https://api.iconify.design/ph/orange-duotone.svg?height=32&color=%23888888)
+  /// ![orange-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/orange.png)
   static const orange = PhosphorDuotoneIconData(
     IconData(
       0xee40,
@@ -20327,7 +20327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `orangeSlice` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![orange-slice-duotone](https://api.iconify.design/ph/orange-slice-duotone.svg?height=32&color=%23888888)
+  /// ![orange-slice-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/orange-slice.png)
   static const orangeSlice = PhosphorDuotoneIconData(
     IconData(
       0xed36,
@@ -20347,7 +20347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `oven` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![oven-duotone](https://api.iconify.design/ph/oven-duotone.svg?height=32&color=%23888888)
+  /// ![oven-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/oven.png)
   static const oven = PhosphorDuotoneIconData(
     IconData(
       0xed8c,
@@ -20367,7 +20367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `package` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![package-duotone](https://api.iconify.design/ph/package-duotone.svg?height=32&color=%23888888)
+  /// ![package-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/package.png)
   static const package = PhosphorDuotoneIconData(
     IconData(
       0xe390,
@@ -20387,7 +20387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paintBrush` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paint-brush-duotone](https://api.iconify.design/ph/paint-brush-duotone.svg?height=32&color=%23888888)
+  /// ![paint-brush-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paint-brush.png)
   static const paintBrush = PhosphorDuotoneIconData(
     IconData(
       0xe6f0,
@@ -20407,7 +20407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paintBrushBroad` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paint-brush-broad-duotone](https://api.iconify.design/ph/paint-brush-broad-duotone.svg?height=32&color=%23888888)
+  /// ![paint-brush-broad-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paint-brush-broad.png)
   static const paintBrushBroad = PhosphorDuotoneIconData(
     IconData(
       0xe590,
@@ -20427,7 +20427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paintBrushHousehold` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paint-brush-household-duotone](https://api.iconify.design/ph/paint-brush-household-duotone.svg?height=32&color=%23888888)
+  /// ![paint-brush-household-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paint-brush-household.png)
   static const paintBrushHousehold = PhosphorDuotoneIconData(
     IconData(
       0xe6f2,
@@ -20447,7 +20447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paintBucket` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paint-bucket-duotone](https://api.iconify.design/ph/paint-bucket-duotone.svg?height=32&color=%23888888)
+  /// ![paint-bucket-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paint-bucket.png)
   static const paintBucket = PhosphorDuotoneIconData(
     IconData(
       0xe392,
@@ -20467,7 +20467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paintRoller` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paint-roller-duotone](https://api.iconify.design/ph/paint-roller-duotone.svg?height=32&color=%23888888)
+  /// ![paint-roller-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paint-roller.png)
   static const paintRoller = PhosphorDuotoneIconData(
     IconData(
       0xe6f4,
@@ -20487,7 +20487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `palette` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![palette-duotone](https://api.iconify.design/ph/palette-duotone.svg?height=32&color=%23888888)
+  /// ![palette-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/palette.png)
   static const palette = PhosphorDuotoneIconData(
     IconData(
       0xe6c8,
@@ -20507,7 +20507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `panorama` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![panorama-duotone](https://api.iconify.design/ph/panorama-duotone.svg?height=32&color=%23888888)
+  /// ![panorama-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/panorama.png)
   static const panorama = PhosphorDuotoneIconData(
     IconData(
       0xeaa2,
@@ -20527,7 +20527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pants` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pants-duotone](https://api.iconify.design/ph/pants-duotone.svg?height=32&color=%23888888)
+  /// ![pants-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pants.png)
   static const pants = PhosphorDuotoneIconData(
     IconData(
       0xec88,
@@ -20547,7 +20547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paperPlane` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paper-plane-duotone](https://api.iconify.design/ph/paper-plane-duotone.svg?height=32&color=%23888888)
+  /// ![paper-plane-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paper-plane.png)
   static const paperPlane = PhosphorDuotoneIconData(
     IconData(
       0xe394,
@@ -20567,7 +20567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paperPlaneRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paper-plane-right-duotone](https://api.iconify.design/ph/paper-plane-right-duotone.svg?height=32&color=%23888888)
+  /// ![paper-plane-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paper-plane-right.png)
   static const paperPlaneRight = PhosphorDuotoneIconData(
     IconData(
       0xe396,
@@ -20587,7 +20587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paperPlaneTilt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paper-plane-tilt-duotone](https://api.iconify.design/ph/paper-plane-tilt-duotone.svg?height=32&color=%23888888)
+  /// ![paper-plane-tilt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paper-plane-tilt.png)
   static const paperPlaneTilt = PhosphorDuotoneIconData(
     IconData(
       0xe398,
@@ -20607,7 +20607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paperclip` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paperclip-duotone](https://api.iconify.design/ph/paperclip-duotone.svg?height=32&color=%23888888)
+  /// ![paperclip-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paperclip.png)
   static const paperclip = PhosphorDuotoneIconData(
     IconData(
       0xe39a,
@@ -20627,7 +20627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paperclipHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paperclip-horizontal-duotone](https://api.iconify.design/ph/paperclip-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![paperclip-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paperclip-horizontal.png)
   static const paperclipHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe592,
@@ -20647,7 +20647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `parachute` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![parachute-duotone](https://api.iconify.design/ph/parachute-duotone.svg?height=32&color=%23888888)
+  /// ![parachute-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/parachute.png)
   static const parachute = PhosphorDuotoneIconData(
     IconData(
       0xea7c,
@@ -20667,7 +20667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paragraph` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paragraph-duotone](https://api.iconify.design/ph/paragraph-duotone.svg?height=32&color=%23888888)
+  /// ![paragraph-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paragraph.png)
   static const paragraph = PhosphorDuotoneIconData(
     IconData(
       0xe960,
@@ -20687,7 +20687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `parallelogram` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![parallelogram-duotone](https://api.iconify.design/ph/parallelogram-duotone.svg?height=32&color=%23888888)
+  /// ![parallelogram-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/parallelogram.png)
   static const parallelogram = PhosphorDuotoneIconData(
     IconData(
       0xecc6,
@@ -20707,7 +20707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `park` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![park-duotone](https://api.iconify.design/ph/park-duotone.svg?height=32&color=%23888888)
+  /// ![park-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/park.png)
   static const park = PhosphorDuotoneIconData(
     IconData(
       0xecb2,
@@ -20727,7 +20727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `password` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![password-duotone](https://api.iconify.design/ph/password-duotone.svg?height=32&color=%23888888)
+  /// ![password-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/password.png)
   static const password = PhosphorDuotoneIconData(
     IconData(
       0xe752,
@@ -20747,7 +20747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `path` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![path-duotone](https://api.iconify.design/ph/path-duotone.svg?height=32&color=%23888888)
+  /// ![path-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/path.png)
   static const path = PhosphorDuotoneIconData(
     IconData(
       0xe39c,
@@ -20767,7 +20767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `patreonLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![patreon-logo-duotone](https://api.iconify.design/ph/patreon-logo-duotone.svg?height=32&color=%23888888)
+  /// ![patreon-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/patreon-logo.png)
   static const patreonLogo = PhosphorDuotoneIconData(
     IconData(
       0xe98a,
@@ -20787,7 +20787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pause` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pause-duotone](https://api.iconify.design/ph/pause-duotone.svg?height=32&color=%23888888)
+  /// ![pause-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pause.png)
   static const pause = PhosphorDuotoneIconData(
     IconData(
       0xe39e,
@@ -20807,7 +20807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pauseCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pause-circle-duotone](https://api.iconify.design/ph/pause-circle-duotone.svg?height=32&color=%23888888)
+  /// ![pause-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pause-circle.png)
   static const pauseCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3a0,
@@ -20827,7 +20827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pawPrint` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paw-print-duotone](https://api.iconify.design/ph/paw-print-duotone.svg?height=32&color=%23888888)
+  /// ![paw-print-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paw-print.png)
   static const pawPrint = PhosphorDuotoneIconData(
     IconData(
       0xe648,
@@ -20847,7 +20847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `paypalLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![paypal-logo-duotone](https://api.iconify.design/ph/paypal-logo-duotone.svg?height=32&color=%23888888)
+  /// ![paypal-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/paypal-logo.png)
   static const paypalLogo = PhosphorDuotoneIconData(
     IconData(
       0xe98c,
@@ -20867,7 +20867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `peace` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![peace-duotone](https://api.iconify.design/ph/peace-duotone.svg?height=32&color=%23888888)
+  /// ![peace-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/peace.png)
   static const peace = PhosphorDuotoneIconData(
     IconData(
       0xe3a2,
@@ -20887,7 +20887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pen-duotone](https://api.iconify.design/ph/pen-duotone.svg?height=32&color=%23888888)
+  /// ![pen-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pen.png)
   static const pen = PhosphorDuotoneIconData(
     IconData(
       0xe3aa,
@@ -20907,7 +20907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `penNib` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pen-nib-duotone](https://api.iconify.design/ph/pen-nib-duotone.svg?height=32&color=%23888888)
+  /// ![pen-nib-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pen-nib.png)
   static const penNib = PhosphorDuotoneIconData(
     IconData(
       0xe3ac,
@@ -20927,7 +20927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `penNibStraight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pen-nib-straight-duotone](https://api.iconify.design/ph/pen-nib-straight-duotone.svg?height=32&color=%23888888)
+  /// ![pen-nib-straight-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pen-nib-straight.png)
   static const penNibStraight = PhosphorDuotoneIconData(
     IconData(
       0xe64a,
@@ -20947,7 +20947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencil` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-duotone](https://api.iconify.design/ph/pencil-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil.png)
   static const pencil = PhosphorDuotoneIconData(
     IconData(
       0xe3ae,
@@ -20967,7 +20967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencilCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-circle-duotone](https://api.iconify.design/ph/pencil-circle-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil-circle.png)
   static const pencilCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3b0,
@@ -20987,7 +20987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencilLine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-line-duotone](https://api.iconify.design/ph/pencil-line-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-line-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil-line.png)
   static const pencilLine = PhosphorDuotoneIconData(
     IconData(
       0xe3b2,
@@ -21007,7 +21007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencilRuler` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-ruler-duotone](https://api.iconify.design/ph/pencil-ruler-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-ruler-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil-ruler.png)
   static const pencilRuler = PhosphorDuotoneIconData(
     IconData(
       0xe906,
@@ -21027,7 +21027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencilSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-simple-duotone](https://api.iconify.design/ph/pencil-simple-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil-simple.png)
   static const pencilSimple = PhosphorDuotoneIconData(
     IconData(
       0xe3b4,
@@ -21047,7 +21047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencilSimpleLine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-simple-line-duotone](https://api.iconify.design/ph/pencil-simple-line-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-simple-line-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil-simple-line.png)
   static const pencilSimpleLine = PhosphorDuotoneIconData(
     IconData(
       0xebc6,
@@ -21067,7 +21067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencilSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-simple-slash-duotone](https://api.iconify.design/ph/pencil-simple-slash-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-simple-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil-simple-slash.png)
   static const pencilSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xecf6,
@@ -21087,7 +21087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pencilSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pencil-slash-duotone](https://api.iconify.design/ph/pencil-slash-duotone.svg?height=32&color=%23888888)
+  /// ![pencil-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pencil-slash.png)
   static const pencilSlash = PhosphorDuotoneIconData(
     IconData(
       0xecf8,
@@ -21107,7 +21107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pentagon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pentagon-duotone](https://api.iconify.design/ph/pentagon-duotone.svg?height=32&color=%23888888)
+  /// ![pentagon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pentagon.png)
   static const pentagon = PhosphorDuotoneIconData(
     IconData(
       0xec7e,
@@ -21127,7 +21127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pentagram` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pentagram-duotone](https://api.iconify.design/ph/pentagram-duotone.svg?height=32&color=%23888888)
+  /// ![pentagram-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pentagram.png)
   static const pentagram = PhosphorDuotoneIconData(
     IconData(
       0xec5c,
@@ -21147,7 +21147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pepper` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pepper-duotone](https://api.iconify.design/ph/pepper-duotone.svg?height=32&color=%23888888)
+  /// ![pepper-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pepper.png)
   static const pepper = PhosphorDuotoneIconData(
     IconData(
       0xe94a,
@@ -21167,7 +21167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `percent` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![percent-duotone](https://api.iconify.design/ph/percent-duotone.svg?height=32&color=%23888888)
+  /// ![percent-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/percent.png)
   static const percent = PhosphorDuotoneIconData(
     IconData(
       0xe3b6,
@@ -21187,7 +21187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `person` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-duotone](https://api.iconify.design/ph/person-duotone.svg?height=32&color=%23888888)
+  /// ![person-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person.png)
   static const person = PhosphorDuotoneIconData(
     IconData(
       0xe3a8,
@@ -21207,7 +21207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personArmsSpread` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-arms-spread-duotone](https://api.iconify.design/ph/person-arms-spread-duotone.svg?height=32&color=%23888888)
+  /// ![person-arms-spread-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-arms-spread.png)
   static const personArmsSpread = PhosphorDuotoneIconData(
     IconData(
       0xecfe,
@@ -21227,7 +21227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-duotone](https://api.iconify.design/ph/person-simple-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple.png)
   static const personSimple = PhosphorDuotoneIconData(
     IconData(
       0xe72e,
@@ -21247,7 +21247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleBike` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-bike-duotone](https://api.iconify.design/ph/person-simple-bike-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-bike-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-bike.png)
   static const personSimpleBike = PhosphorDuotoneIconData(
     IconData(
       0xe734,
@@ -21267,7 +21267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-circle-duotone](https://api.iconify.design/ph/person-simple-circle-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-circle.png)
   static const personSimpleCircle = PhosphorDuotoneIconData(
     IconData(
       0xee58,
@@ -21287,7 +21287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleHike` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-hike-duotone](https://api.iconify.design/ph/person-simple-hike-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-hike-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-hike.png)
   static const personSimpleHike = PhosphorDuotoneIconData(
     IconData(
       0xed54,
@@ -21307,7 +21307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleRun` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-run-duotone](https://api.iconify.design/ph/person-simple-run-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-run-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-run.png)
   static const personSimpleRun = PhosphorDuotoneIconData(
     IconData(
       0xe730,
@@ -21327,7 +21327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleSki` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-ski-duotone](https://api.iconify.design/ph/person-simple-ski-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-ski-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-ski.png)
   static const personSimpleSki = PhosphorDuotoneIconData(
     IconData(
       0xe71c,
@@ -21347,7 +21347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleSnowboard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-snowboard-duotone](https://api.iconify.design/ph/person-simple-snowboard-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-snowboard-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-snowboard.png)
   static const personSimpleSnowboard = PhosphorDuotoneIconData(
     IconData(
       0xe71e,
@@ -21367,7 +21367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleSwim` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-swim-duotone](https://api.iconify.design/ph/person-simple-swim-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-swim-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-swim.png)
   static const personSimpleSwim = PhosphorDuotoneIconData(
     IconData(
       0xe736,
@@ -21387,7 +21387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleTaiChi` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-tai-chi-duotone](https://api.iconify.design/ph/person-simple-tai-chi-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-tai-chi-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-tai-chi.png)
   static const personSimpleTaiChi = PhosphorDuotoneIconData(
     IconData(
       0xed5c,
@@ -21407,7 +21407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleThrow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-throw-duotone](https://api.iconify.design/ph/person-simple-throw-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-throw-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-throw.png)
   static const personSimpleThrow = PhosphorDuotoneIconData(
     IconData(
       0xe732,
@@ -21427,7 +21427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `personSimpleWalk` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![person-simple-walk-duotone](https://api.iconify.design/ph/person-simple-walk-duotone.svg?height=32&color=%23888888)
+  /// ![person-simple-walk-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/person-simple-walk.png)
   static const personSimpleWalk = PhosphorDuotoneIconData(
     IconData(
       0xe73a,
@@ -21447,7 +21447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `perspective` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![perspective-duotone](https://api.iconify.design/ph/perspective-duotone.svg?height=32&color=%23888888)
+  /// ![perspective-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/perspective.png)
   static const perspective = PhosphorDuotoneIconData(
     IconData(
       0xebe6,
@@ -21467,7 +21467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-duotone](https://api.iconify.design/ph/phone-duotone.svg?height=32&color=%23888888)
+  /// ![phone-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone.png)
   static const phone = PhosphorDuotoneIconData(
     IconData(
       0xe3b8,
@@ -21487,7 +21487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneCall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-call-duotone](https://api.iconify.design/ph/phone-call-duotone.svg?height=32&color=%23888888)
+  /// ![phone-call-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-call.png)
   static const phoneCall = PhosphorDuotoneIconData(
     IconData(
       0xe3ba,
@@ -21507,7 +21507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneDisconnect` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-disconnect-duotone](https://api.iconify.design/ph/phone-disconnect-duotone.svg?height=32&color=%23888888)
+  /// ![phone-disconnect-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-disconnect.png)
   static const phoneDisconnect = PhosphorDuotoneIconData(
     IconData(
       0xe3bc,
@@ -21527,7 +21527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneIncoming` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-incoming-duotone](https://api.iconify.design/ph/phone-incoming-duotone.svg?height=32&color=%23888888)
+  /// ![phone-incoming-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-incoming.png)
   static const phoneIncoming = PhosphorDuotoneIconData(
     IconData(
       0xe3be,
@@ -21547,7 +21547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneList` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-list-duotone](https://api.iconify.design/ph/phone-list-duotone.svg?height=32&color=%23888888)
+  /// ![phone-list-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-list.png)
   static const phoneList = PhosphorDuotoneIconData(
     IconData(
       0xe3cc,
@@ -21567,7 +21567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneOutgoing` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-outgoing-duotone](https://api.iconify.design/ph/phone-outgoing-duotone.svg?height=32&color=%23888888)
+  /// ![phone-outgoing-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-outgoing.png)
   static const phoneOutgoing = PhosphorDuotoneIconData(
     IconData(
       0xe3c0,
@@ -21587,7 +21587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phonePause` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-pause-duotone](https://api.iconify.design/ph/phone-pause-duotone.svg?height=32&color=%23888888)
+  /// ![phone-pause-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-pause.png)
   static const phonePause = PhosphorDuotoneIconData(
     IconData(
       0xe3ca,
@@ -21607,7 +21607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phonePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-plus-duotone](https://api.iconify.design/ph/phone-plus-duotone.svg?height=32&color=%23888888)
+  /// ![phone-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-plus.png)
   static const phonePlus = PhosphorDuotoneIconData(
     IconData(
       0xec56,
@@ -21627,7 +21627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-slash-duotone](https://api.iconify.design/ph/phone-slash-duotone.svg?height=32&color=%23888888)
+  /// ![phone-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-slash.png)
   static const phoneSlash = PhosphorDuotoneIconData(
     IconData(
       0xe3c2,
@@ -21647,7 +21647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneTransfer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-transfer-duotone](https://api.iconify.design/ph/phone-transfer-duotone.svg?height=32&color=%23888888)
+  /// ![phone-transfer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-transfer.png)
   static const phoneTransfer = PhosphorDuotoneIconData(
     IconData(
       0xe3c6,
@@ -21667,7 +21667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phoneX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phone-x-duotone](https://api.iconify.design/ph/phone-x-duotone.svg?height=32&color=%23888888)
+  /// ![phone-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phone-x.png)
   static const phoneX = PhosphorDuotoneIconData(
     IconData(
       0xe3c4,
@@ -21687,7 +21687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `phosphorLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![phosphor-logo-duotone](https://api.iconify.design/ph/phosphor-logo-duotone.svg?height=32&color=%23888888)
+  /// ![phosphor-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/phosphor-logo.png)
   static const phosphorLogo = PhosphorDuotoneIconData(
     IconData(
       0xe3ce,
@@ -21707,7 +21707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pi` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pi-duotone](https://api.iconify.design/ph/pi-duotone.svg?height=32&color=%23888888)
+  /// ![pi-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pi.png)
   static const pi = PhosphorDuotoneIconData(
     IconData(
       0xec80,
@@ -21727,7 +21727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pianoKeys` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![piano-keys-duotone](https://api.iconify.design/ph/piano-keys-duotone.svg?height=32&color=%23888888)
+  /// ![piano-keys-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/piano-keys.png)
   static const pianoKeys = PhosphorDuotoneIconData(
     IconData(
       0xe9c8,
@@ -21747,7 +21747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `picnicTable` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![picnic-table-duotone](https://api.iconify.design/ph/picnic-table-duotone.svg?height=32&color=%23888888)
+  /// ![picnic-table-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/picnic-table.png)
   static const picnicTable = PhosphorDuotoneIconData(
     IconData(
       0xee26,
@@ -21767,7 +21767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pictureInPicture` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![picture-in-picture-duotone](https://api.iconify.design/ph/picture-in-picture-duotone.svg?height=32&color=%23888888)
+  /// ![picture-in-picture-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/picture-in-picture.png)
   static const pictureInPicture = PhosphorDuotoneIconData(
     IconData(
       0xe64c,
@@ -21787,7 +21787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `piggyBank` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![piggy-bank-duotone](https://api.iconify.design/ph/piggy-bank-duotone.svg?height=32&color=%23888888)
+  /// ![piggy-bank-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/piggy-bank.png)
   static const piggyBank = PhosphorDuotoneIconData(
     IconData(
       0xea04,
@@ -21807,7 +21807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pill` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pill-duotone](https://api.iconify.design/ph/pill-duotone.svg?height=32&color=%23888888)
+  /// ![pill-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pill.png)
   static const pill = PhosphorDuotoneIconData(
     IconData(
       0xe700,
@@ -21827,7 +21827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pingPong` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ping-pong-duotone](https://api.iconify.design/ph/ping-pong-duotone.svg?height=32&color=%23888888)
+  /// ![ping-pong-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ping-pong.png)
   static const pingPong = PhosphorDuotoneIconData(
     IconData(
       0xea42,
@@ -21847,7 +21847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pintGlass` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pint-glass-duotone](https://api.iconify.design/ph/pint-glass-duotone.svg?height=32&color=%23888888)
+  /// ![pint-glass-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pint-glass.png)
   static const pintGlass = PhosphorDuotoneIconData(
     IconData(
       0xedd0,
@@ -21867,7 +21867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pinterestLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pinterest-logo-duotone](https://api.iconify.design/ph/pinterest-logo-duotone.svg?height=32&color=%23888888)
+  /// ![pinterest-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pinterest-logo.png)
   static const pinterestLogo = PhosphorDuotoneIconData(
     IconData(
       0xe64e,
@@ -21887,7 +21887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pinwheel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pinwheel-duotone](https://api.iconify.design/ph/pinwheel-duotone.svg?height=32&color=%23888888)
+  /// ![pinwheel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pinwheel.png)
   static const pinwheel = PhosphorDuotoneIconData(
     IconData(
       0xeb9c,
@@ -21907,7 +21907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pipe` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pipe-duotone](https://api.iconify.design/ph/pipe-duotone.svg?height=32&color=%23888888)
+  /// ![pipe-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pipe.png)
   static const pipe = PhosphorDuotoneIconData(
     IconData(
       0xed86,
@@ -21927,7 +21927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pipeWrench` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pipe-wrench-duotone](https://api.iconify.design/ph/pipe-wrench-duotone.svg?height=32&color=%23888888)
+  /// ![pipe-wrench-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pipe-wrench.png)
   static const pipeWrench = PhosphorDuotoneIconData(
     IconData(
       0xed88,
@@ -21947,7 +21947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pixLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pix-logo-duotone](https://api.iconify.design/ph/pix-logo-duotone.svg?height=32&color=%23888888)
+  /// ![pix-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pix-logo.png)
   static const pixLogo = PhosphorDuotoneIconData(
     IconData(
       0xecc2,
@@ -21967,7 +21967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pizza` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pizza-duotone](https://api.iconify.design/ph/pizza-duotone.svg?height=32&color=%23888888)
+  /// ![pizza-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pizza.png)
   static const pizza = PhosphorDuotoneIconData(
     IconData(
       0xe796,
@@ -21987,7 +21987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `placeholder` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![placeholder-duotone](https://api.iconify.design/ph/placeholder-duotone.svg?height=32&color=%23888888)
+  /// ![placeholder-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/placeholder.png)
   static const placeholder = PhosphorDuotoneIconData(
     IconData(
       0xe650,
@@ -22007,7 +22007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `planet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![planet-duotone](https://api.iconify.design/ph/planet-duotone.svg?height=32&color=%23888888)
+  /// ![planet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/planet.png)
   static const planet = PhosphorDuotoneIconData(
     IconData(
       0xe652,
@@ -22027,7 +22027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plant` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plant-duotone](https://api.iconify.design/ph/plant-duotone.svg?height=32&color=%23888888)
+  /// ![plant-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plant.png)
   static const plant = PhosphorDuotoneIconData(
     IconData(
       0xebae,
@@ -22047,7 +22047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `play` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![play-duotone](https://api.iconify.design/ph/play-duotone.svg?height=32&color=%23888888)
+  /// ![play-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/play.png)
   static const play = PhosphorDuotoneIconData(
     IconData(
       0xe3d0,
@@ -22067,7 +22067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `playCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![play-circle-duotone](https://api.iconify.design/ph/play-circle-duotone.svg?height=32&color=%23888888)
+  /// ![play-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/play-circle.png)
   static const playCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3d2,
@@ -22087,7 +22087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `playPause` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![play-pause-duotone](https://api.iconify.design/ph/play-pause-duotone.svg?height=32&color=%23888888)
+  /// ![play-pause-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/play-pause.png)
   static const playPause = PhosphorDuotoneIconData(
     IconData(
       0xe8be,
@@ -22107,7 +22107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `playlist` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![playlist-duotone](https://api.iconify.design/ph/playlist-duotone.svg?height=32&color=%23888888)
+  /// ![playlist-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/playlist.png)
   static const playlist = PhosphorDuotoneIconData(
     IconData(
       0xe6aa,
@@ -22127,7 +22127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plug` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plug-duotone](https://api.iconify.design/ph/plug-duotone.svg?height=32&color=%23888888)
+  /// ![plug-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plug.png)
   static const plug = PhosphorDuotoneIconData(
     IconData(
       0xe946,
@@ -22147,7 +22147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plugCharging` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plug-charging-duotone](https://api.iconify.design/ph/plug-charging-duotone.svg?height=32&color=%23888888)
+  /// ![plug-charging-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plug-charging.png)
   static const plugCharging = PhosphorDuotoneIconData(
     IconData(
       0xeb5c,
@@ -22167,7 +22167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plugs` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plugs-duotone](https://api.iconify.design/ph/plugs-duotone.svg?height=32&color=%23888888)
+  /// ![plugs-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plugs.png)
   static const plugs = PhosphorDuotoneIconData(
     IconData(
       0xeb56,
@@ -22187,7 +22187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plugsConnected` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plugs-connected-duotone](https://api.iconify.design/ph/plugs-connected-duotone.svg?height=32&color=%23888888)
+  /// ![plugs-connected-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plugs-connected.png)
   static const plugsConnected = PhosphorDuotoneIconData(
     IconData(
       0xeb5a,
@@ -22207,7 +22207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plus-duotone](https://api.iconify.design/ph/plus-duotone.svg?height=32&color=%23888888)
+  /// ![plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plus.png)
   static const plus = PhosphorDuotoneIconData(
     IconData(
       0xe3d4,
@@ -22227,7 +22227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plusCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plus-circle-duotone](https://api.iconify.design/ph/plus-circle-duotone.svg?height=32&color=%23888888)
+  /// ![plus-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plus-circle.png)
   static const plusCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3d6,
@@ -22247,7 +22247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plusMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plus-minus-duotone](https://api.iconify.design/ph/plus-minus-duotone.svg?height=32&color=%23888888)
+  /// ![plus-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plus-minus.png)
   static const plusMinus = PhosphorDuotoneIconData(
     IconData(
       0xe3d8,
@@ -22267,7 +22267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `plusSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![plus-square-duotone](https://api.iconify.design/ph/plus-square-duotone.svg?height=32&color=%23888888)
+  /// ![plus-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/plus-square.png)
   static const plusSquare = PhosphorDuotoneIconData(
     IconData(
       0xed4a,
@@ -22287,7 +22287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pokerChip` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![poker-chip-duotone](https://api.iconify.design/ph/poker-chip-duotone.svg?height=32&color=%23888888)
+  /// ![poker-chip-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/poker-chip.png)
   static const pokerChip = PhosphorDuotoneIconData(
     IconData(
       0xe594,
@@ -22307,7 +22307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `policeCar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![police-car-duotone](https://api.iconify.design/ph/police-car-duotone.svg?height=32&color=%23888888)
+  /// ![police-car-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/police-car.png)
   static const policeCar = PhosphorDuotoneIconData(
     IconData(
       0xec4a,
@@ -22327,7 +22327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `polygon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![polygon-duotone](https://api.iconify.design/ph/polygon-duotone.svg?height=32&color=%23888888)
+  /// ![polygon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/polygon.png)
   static const polygon = PhosphorDuotoneIconData(
     IconData(
       0xe6d0,
@@ -22347,7 +22347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `popcorn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![popcorn-duotone](https://api.iconify.design/ph/popcorn-duotone.svg?height=32&color=%23888888)
+  /// ![popcorn-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/popcorn.png)
   static const popcorn = PhosphorDuotoneIconData(
     IconData(
       0xeb4e,
@@ -22367,7 +22367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `popsicle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![popsicle-duotone](https://api.iconify.design/ph/popsicle-duotone.svg?height=32&color=%23888888)
+  /// ![popsicle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/popsicle.png)
   static const popsicle = PhosphorDuotoneIconData(
     IconData(
       0xebbe,
@@ -22387,7 +22387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pottedPlant` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![potted-plant-duotone](https://api.iconify.design/ph/potted-plant-duotone.svg?height=32&color=%23888888)
+  /// ![potted-plant-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/potted-plant.png)
   static const pottedPlant = PhosphorDuotoneIconData(
     IconData(
       0xec22,
@@ -22407,7 +22407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `power` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![power-duotone](https://api.iconify.design/ph/power-duotone.svg?height=32&color=%23888888)
+  /// ![power-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/power.png)
   static const power = PhosphorDuotoneIconData(
     IconData(
       0xe3da,
@@ -22427,7 +22427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `prescription` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![prescription-duotone](https://api.iconify.design/ph/prescription-duotone.svg?height=32&color=%23888888)
+  /// ![prescription-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/prescription.png)
   static const prescription = PhosphorDuotoneIconData(
     IconData(
       0xe7a2,
@@ -22447,7 +22447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `presentation` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![presentation-duotone](https://api.iconify.design/ph/presentation-duotone.svg?height=32&color=%23888888)
+  /// ![presentation-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/presentation.png)
   static const presentation = PhosphorDuotoneIconData(
     IconData(
       0xe654,
@@ -22467,7 +22467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `presentationChart` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![presentation-chart-duotone](https://api.iconify.design/ph/presentation-chart-duotone.svg?height=32&color=%23888888)
+  /// ![presentation-chart-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/presentation-chart.png)
   static const presentationChart = PhosphorDuotoneIconData(
     IconData(
       0xe656,
@@ -22487,7 +22487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `printer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![printer-duotone](https://api.iconify.design/ph/printer-duotone.svg?height=32&color=%23888888)
+  /// ![printer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/printer.png)
   static const printer = PhosphorDuotoneIconData(
     IconData(
       0xe3dc,
@@ -22507,7 +22507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `prohibit` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![prohibit-duotone](https://api.iconify.design/ph/prohibit-duotone.svg?height=32&color=%23888888)
+  /// ![prohibit-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/prohibit.png)
   static const prohibit = PhosphorDuotoneIconData(
     IconData(
       0xe3de,
@@ -22527,7 +22527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `prohibitInset` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![prohibit-inset-duotone](https://api.iconify.design/ph/prohibit-inset-duotone.svg?height=32&color=%23888888)
+  /// ![prohibit-inset-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/prohibit-inset.png)
   static const prohibitInset = PhosphorDuotoneIconData(
     IconData(
       0xe3e0,
@@ -22547,7 +22547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `projectorScreen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![projector-screen-duotone](https://api.iconify.design/ph/projector-screen-duotone.svg?height=32&color=%23888888)
+  /// ![projector-screen-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/projector-screen.png)
   static const projectorScreen = PhosphorDuotoneIconData(
     IconData(
       0xe658,
@@ -22567,7 +22567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `projectorScreenChart` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![projector-screen-chart-duotone](https://api.iconify.design/ph/projector-screen-chart-duotone.svg?height=32&color=%23888888)
+  /// ![projector-screen-chart-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/projector-screen-chart.png)
   static const projectorScreenChart = PhosphorDuotoneIconData(
     IconData(
       0xe65a,
@@ -22587,7 +22587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pulse` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![pulse-duotone](https://api.iconify.design/ph/pulse-duotone.svg?height=32&color=%23888888)
+  /// ![pulse-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/pulse.png)
   static const pulse = PhosphorDuotoneIconData(
     IconData(
       0xe000,
@@ -22607,7 +22607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pushPin` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![push-pin-duotone](https://api.iconify.design/ph/push-pin-duotone.svg?height=32&color=%23888888)
+  /// ![push-pin-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/push-pin.png)
   static const pushPin = PhosphorDuotoneIconData(
     IconData(
       0xe3e2,
@@ -22627,7 +22627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pushPinSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![push-pin-simple-duotone](https://api.iconify.design/ph/push-pin-simple-duotone.svg?height=32&color=%23888888)
+  /// ![push-pin-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/push-pin-simple.png)
   static const pushPinSimple = PhosphorDuotoneIconData(
     IconData(
       0xe65c,
@@ -22647,7 +22647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pushPinSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![push-pin-simple-slash-duotone](https://api.iconify.design/ph/push-pin-simple-slash-duotone.svg?height=32&color=%23888888)
+  /// ![push-pin-simple-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/push-pin-simple-slash.png)
   static const pushPinSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe65e,
@@ -22667,7 +22667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `pushPinSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![push-pin-slash-duotone](https://api.iconify.design/ph/push-pin-slash-duotone.svg?height=32&color=%23888888)
+  /// ![push-pin-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/push-pin-slash.png)
   static const pushPinSlash = PhosphorDuotoneIconData(
     IconData(
       0xe3e4,
@@ -22687,7 +22687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `puzzlePiece` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![puzzle-piece-duotone](https://api.iconify.design/ph/puzzle-piece-duotone.svg?height=32&color=%23888888)
+  /// ![puzzle-piece-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/puzzle-piece.png)
   static const puzzlePiece = PhosphorDuotoneIconData(
     IconData(
       0xe596,
@@ -22707,7 +22707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `qrCode` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![qr-code-duotone](https://api.iconify.design/ph/qr-code-duotone.svg?height=32&color=%23888888)
+  /// ![qr-code-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/qr-code.png)
   static const qrCode = PhosphorDuotoneIconData(
     IconData(
       0xe3e6,
@@ -22727,7 +22727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `question` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![question-duotone](https://api.iconify.design/ph/question-duotone.svg?height=32&color=%23888888)
+  /// ![question-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/question.png)
   static const question = PhosphorDuotoneIconData(
     IconData(
       0xe3e8,
@@ -22747,7 +22747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `questionMark` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![question-mark-duotone](https://api.iconify.design/ph/question-mark-duotone.svg?height=32&color=%23888888)
+  /// ![question-mark-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/question-mark.png)
   static const questionMark = PhosphorDuotoneIconData(
     IconData(
       0xe3e9,
@@ -22767,7 +22767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `queue` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![queue-duotone](https://api.iconify.design/ph/queue-duotone.svg?height=32&color=%23888888)
+  /// ![queue-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/queue.png)
   static const queue = PhosphorDuotoneIconData(
     IconData(
       0xe6ac,
@@ -22787,7 +22787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `quotes` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![quotes-duotone](https://api.iconify.design/ph/quotes-duotone.svg?height=32&color=%23888888)
+  /// ![quotes-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/quotes.png)
   static const quotes = PhosphorDuotoneIconData(
     IconData(
       0xe660,
@@ -22807,7 +22807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rabbit` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rabbit-duotone](https://api.iconify.design/ph/rabbit-duotone.svg?height=32&color=%23888888)
+  /// ![rabbit-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rabbit.png)
   static const rabbit = PhosphorDuotoneIconData(
     IconData(
       0xeac2,
@@ -22827,7 +22827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `racquet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![racquet-duotone](https://api.iconify.design/ph/racquet-duotone.svg?height=32&color=%23888888)
+  /// ![racquet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/racquet.png)
   static const racquet = PhosphorDuotoneIconData(
     IconData(
       0xee02,
@@ -22847,7 +22847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `radical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![radical-duotone](https://api.iconify.design/ph/radical-duotone.svg?height=32&color=%23888888)
+  /// ![radical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/radical.png)
   static const radical = PhosphorDuotoneIconData(
     IconData(
       0xe3ea,
@@ -22867,7 +22867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `radio` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![radio-duotone](https://api.iconify.design/ph/radio-duotone.svg?height=32&color=%23888888)
+  /// ![radio-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/radio.png)
   static const radio = PhosphorDuotoneIconData(
     IconData(
       0xe77e,
@@ -22887,7 +22887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `radioButton` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![radio-button-duotone](https://api.iconify.design/ph/radio-button-duotone.svg?height=32&color=%23888888)
+  /// ![radio-button-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/radio-button.png)
   static const radioButton = PhosphorDuotoneIconData(
     IconData(
       0xeb08,
@@ -22907,7 +22907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `radioactive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![radioactive-duotone](https://api.iconify.design/ph/radioactive-duotone.svg?height=32&color=%23888888)
+  /// ![radioactive-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/radioactive.png)
   static const radioactive = PhosphorDuotoneIconData(
     IconData(
       0xe9dc,
@@ -22927,7 +22927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rainbow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rainbow-duotone](https://api.iconify.design/ph/rainbow-duotone.svg?height=32&color=%23888888)
+  /// ![rainbow-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rainbow.png)
   static const rainbow = PhosphorDuotoneIconData(
     IconData(
       0xe598,
@@ -22947,7 +22947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rainbowCloud` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rainbow-cloud-duotone](https://api.iconify.design/ph/rainbow-cloud-duotone.svg?height=32&color=%23888888)
+  /// ![rainbow-cloud-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rainbow-cloud.png)
   static const rainbowCloud = PhosphorDuotoneIconData(
     IconData(
       0xe59a,
@@ -22967,7 +22967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ranking` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ranking-duotone](https://api.iconify.design/ph/ranking-duotone.svg?height=32&color=%23888888)
+  /// ![ranking-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ranking.png)
   static const ranking = PhosphorDuotoneIconData(
     IconData(
       0xed62,
@@ -22987,7 +22987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `readCvLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![read-cv-logo-duotone](https://api.iconify.design/ph/read-cv-logo-duotone.svg?height=32&color=%23888888)
+  /// ![read-cv-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/read-cv-logo.png)
   static const readCvLogo = PhosphorDuotoneIconData(
     IconData(
       0xed0c,
@@ -23007,7 +23007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `receipt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![receipt-duotone](https://api.iconify.design/ph/receipt-duotone.svg?height=32&color=%23888888)
+  /// ![receipt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/receipt.png)
   static const receipt = PhosphorDuotoneIconData(
     IconData(
       0xe3ec,
@@ -23027,7 +23027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `receiptX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![receipt-x-duotone](https://api.iconify.design/ph/receipt-x-duotone.svg?height=32&color=%23888888)
+  /// ![receipt-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/receipt-x.png)
   static const receiptX = PhosphorDuotoneIconData(
     IconData(
       0xed40,
@@ -23047,7 +23047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `record` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![record-duotone](https://api.iconify.design/ph/record-duotone.svg?height=32&color=%23888888)
+  /// ![record-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/record.png)
   static const record = PhosphorDuotoneIconData(
     IconData(
       0xe3ee,
@@ -23067,7 +23067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rectangle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rectangle-duotone](https://api.iconify.design/ph/rectangle-duotone.svg?height=32&color=%23888888)
+  /// ![rectangle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rectangle.png)
   static const rectangle = PhosphorDuotoneIconData(
     IconData(
       0xe3f0,
@@ -23087,7 +23087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rectangleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rectangle-dashed-duotone](https://api.iconify.design/ph/rectangle-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![rectangle-dashed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rectangle-dashed.png)
   static const rectangleDashed = PhosphorDuotoneIconData(
     IconData(
       0xe3f2,
@@ -23107,7 +23107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `recycle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![recycle-duotone](https://api.iconify.design/ph/recycle-duotone.svg?height=32&color=%23888888)
+  /// ![recycle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/recycle.png)
   static const recycle = PhosphorDuotoneIconData(
     IconData(
       0xe75a,
@@ -23127,7 +23127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `redditLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![reddit-logo-duotone](https://api.iconify.design/ph/reddit-logo-duotone.svg?height=32&color=%23888888)
+  /// ![reddit-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/reddit-logo.png)
   static const redditLogo = PhosphorDuotoneIconData(
     IconData(
       0xe59c,
@@ -23147,7 +23147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `repeat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![repeat-duotone](https://api.iconify.design/ph/repeat-duotone.svg?height=32&color=%23888888)
+  /// ![repeat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/repeat.png)
   static const repeat = PhosphorDuotoneIconData(
     IconData(
       0xe3f6,
@@ -23167,7 +23167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `repeatOnce` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![repeat-once-duotone](https://api.iconify.design/ph/repeat-once-duotone.svg?height=32&color=%23888888)
+  /// ![repeat-once-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/repeat-once.png)
   static const repeatOnce = PhosphorDuotoneIconData(
     IconData(
       0xe3f8,
@@ -23187,7 +23187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `replitLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![replit-logo-duotone](https://api.iconify.design/ph/replit-logo-duotone.svg?height=32&color=%23888888)
+  /// ![replit-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/replit-logo.png)
   static const replitLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb8a,
@@ -23207,7 +23207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `resize` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![resize-duotone](https://api.iconify.design/ph/resize-duotone.svg?height=32&color=%23888888)
+  /// ![resize-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/resize.png)
   static const resize = PhosphorDuotoneIconData(
     IconData(
       0xed6e,
@@ -23227,7 +23227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rewind` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rewind-duotone](https://api.iconify.design/ph/rewind-duotone.svg?height=32&color=%23888888)
+  /// ![rewind-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rewind.png)
   static const rewind = PhosphorDuotoneIconData(
     IconData(
       0xe6a8,
@@ -23247,7 +23247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rewindCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rewind-circle-duotone](https://api.iconify.design/ph/rewind-circle-duotone.svg?height=32&color=%23888888)
+  /// ![rewind-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rewind-circle.png)
   static const rewindCircle = PhosphorDuotoneIconData(
     IconData(
       0xe3fa,
@@ -23267,7 +23267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `roadHorizon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![road-horizon-duotone](https://api.iconify.design/ph/road-horizon-duotone.svg?height=32&color=%23888888)
+  /// ![road-horizon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/road-horizon.png)
   static const roadHorizon = PhosphorDuotoneIconData(
     IconData(
       0xe838,
@@ -23287,7 +23287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `robot` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![robot-duotone](https://api.iconify.design/ph/robot-duotone.svg?height=32&color=%23888888)
+  /// ![robot-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/robot.png)
   static const robot = PhosphorDuotoneIconData(
     IconData(
       0xe762,
@@ -23307,7 +23307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rocket` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rocket-duotone](https://api.iconify.design/ph/rocket-duotone.svg?height=32&color=%23888888)
+  /// ![rocket-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rocket.png)
   static const rocket = PhosphorDuotoneIconData(
     IconData(
       0xe3fc,
@@ -23327,7 +23327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rocketLaunch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rocket-launch-duotone](https://api.iconify.design/ph/rocket-launch-duotone.svg?height=32&color=%23888888)
+  /// ![rocket-launch-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rocket-launch.png)
   static const rocketLaunch = PhosphorDuotoneIconData(
     IconData(
       0xe3fe,
@@ -23347,7 +23347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rows` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rows-duotone](https://api.iconify.design/ph/rows-duotone.svg?height=32&color=%23888888)
+  /// ![rows-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rows.png)
   static const rows = PhosphorDuotoneIconData(
     IconData(
       0xe5a2,
@@ -23367,7 +23367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rowsPlusBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rows-plus-bottom-duotone](https://api.iconify.design/ph/rows-plus-bottom-duotone.svg?height=32&color=%23888888)
+  /// ![rows-plus-bottom-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rows-plus-bottom.png)
   static const rowsPlusBottom = PhosphorDuotoneIconData(
     IconData(
       0xe59e,
@@ -23387,7 +23387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rowsPlusTop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rows-plus-top-duotone](https://api.iconify.design/ph/rows-plus-top-duotone.svg?height=32&color=%23888888)
+  /// ![rows-plus-top-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rows-plus-top.png)
   static const rowsPlusTop = PhosphorDuotoneIconData(
     IconData(
       0xe5a0,
@@ -23407,7 +23407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rss` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rss-duotone](https://api.iconify.design/ph/rss-duotone.svg?height=32&color=%23888888)
+  /// ![rss-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rss.png)
   static const rss = PhosphorDuotoneIconData(
     IconData(
       0xe400,
@@ -23427,7 +23427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rssSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rss-simple-duotone](https://api.iconify.design/ph/rss-simple-duotone.svg?height=32&color=%23888888)
+  /// ![rss-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rss-simple.png)
   static const rssSimple = PhosphorDuotoneIconData(
     IconData(
       0xe402,
@@ -23447,7 +23447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `rug` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![rug-duotone](https://api.iconify.design/ph/rug-duotone.svg?height=32&color=%23888888)
+  /// ![rug-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/rug.png)
   static const rug = PhosphorDuotoneIconData(
     IconData(
       0xea1a,
@@ -23467,7 +23467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ruler` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ruler-duotone](https://api.iconify.design/ph/ruler-duotone.svg?height=32&color=%23888888)
+  /// ![ruler-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ruler.png)
   static const ruler = PhosphorDuotoneIconData(
     IconData(
       0xe6b8,
@@ -23487,7 +23487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sailboat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sailboat-duotone](https://api.iconify.design/ph/sailboat-duotone.svg?height=32&color=%23888888)
+  /// ![sailboat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sailboat.png)
   static const sailboat = PhosphorDuotoneIconData(
     IconData(
       0xe78a,
@@ -23507,7 +23507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scales` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scales-duotone](https://api.iconify.design/ph/scales-duotone.svg?height=32&color=%23888888)
+  /// ![scales-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scales.png)
   static const scales = PhosphorDuotoneIconData(
     IconData(
       0xe750,
@@ -23527,7 +23527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scan` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scan-duotone](https://api.iconify.design/ph/scan-duotone.svg?height=32&color=%23888888)
+  /// ![scan-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scan.png)
   static const scan = PhosphorDuotoneIconData(
     IconData(
       0xebb6,
@@ -23547,7 +23547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scanSmiley` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scan-smiley-duotone](https://api.iconify.design/ph/scan-smiley-duotone.svg?height=32&color=%23888888)
+  /// ![scan-smiley-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scan-smiley.png)
   static const scanSmiley = PhosphorDuotoneIconData(
     IconData(
       0xebb4,
@@ -23567,7 +23567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scissors` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scissors-duotone](https://api.iconify.design/ph/scissors-duotone.svg?height=32&color=%23888888)
+  /// ![scissors-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scissors.png)
   static const scissors = PhosphorDuotoneIconData(
     IconData(
       0xeae0,
@@ -23587,7 +23587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scooter` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scooter-duotone](https://api.iconify.design/ph/scooter-duotone.svg?height=32&color=%23888888)
+  /// ![scooter-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scooter.png)
   static const scooter = PhosphorDuotoneIconData(
     IconData(
       0xe820,
@@ -23607,7 +23607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `screencast` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![screencast-duotone](https://api.iconify.design/ph/screencast-duotone.svg?height=32&color=%23888888)
+  /// ![screencast-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/screencast.png)
   static const screencast = PhosphorDuotoneIconData(
     IconData(
       0xe404,
@@ -23627,7 +23627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `screwdriver` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![screwdriver-duotone](https://api.iconify.design/ph/screwdriver-duotone.svg?height=32&color=%23888888)
+  /// ![screwdriver-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/screwdriver.png)
   static const screwdriver = PhosphorDuotoneIconData(
     IconData(
       0xe86e,
@@ -23647,7 +23647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scribble` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scribble-duotone](https://api.iconify.design/ph/scribble-duotone.svg?height=32&color=%23888888)
+  /// ![scribble-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scribble.png)
   static const scribble = PhosphorDuotoneIconData(
     IconData(
       0xe806,
@@ -23667,7 +23667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scribbleLoop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scribble-loop-duotone](https://api.iconify.design/ph/scribble-loop-duotone.svg?height=32&color=%23888888)
+  /// ![scribble-loop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scribble-loop.png)
   static const scribbleLoop = PhosphorDuotoneIconData(
     IconData(
       0xe662,
@@ -23687,7 +23687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `scroll` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![scroll-duotone](https://api.iconify.design/ph/scroll-duotone.svg?height=32&color=%23888888)
+  /// ![scroll-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/scroll.png)
   static const scroll = PhosphorDuotoneIconData(
     IconData(
       0xeb7a,
@@ -23707,7 +23707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `seal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![seal-duotone](https://api.iconify.design/ph/seal-duotone.svg?height=32&color=%23888888)
+  /// ![seal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/seal.png)
   static const seal = PhosphorDuotoneIconData(
     IconData(
       0xe604,
@@ -23727,7 +23727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sealCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![seal-check-duotone](https://api.iconify.design/ph/seal-check-duotone.svg?height=32&color=%23888888)
+  /// ![seal-check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/seal-check.png)
   static const sealCheck = PhosphorDuotoneIconData(
     IconData(
       0xe606,
@@ -23747,7 +23747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sealPercent` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![seal-percent-duotone](https://api.iconify.design/ph/seal-percent-duotone.svg?height=32&color=%23888888)
+  /// ![seal-percent-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/seal-percent.png)
   static const sealPercent = PhosphorDuotoneIconData(
     IconData(
       0xe60a,
@@ -23767,7 +23767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sealQuestion` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![seal-question-duotone](https://api.iconify.design/ph/seal-question-duotone.svg?height=32&color=%23888888)
+  /// ![seal-question-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/seal-question.png)
   static const sealQuestion = PhosphorDuotoneIconData(
     IconData(
       0xe608,
@@ -23787,7 +23787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sealWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![seal-warning-duotone](https://api.iconify.design/ph/seal-warning-duotone.svg?height=32&color=%23888888)
+  /// ![seal-warning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/seal-warning.png)
   static const sealWarning = PhosphorDuotoneIconData(
     IconData(
       0xe60c,
@@ -23807,7 +23807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `seat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![seat-duotone](https://api.iconify.design/ph/seat-duotone.svg?height=32&color=%23888888)
+  /// ![seat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/seat.png)
   static const seat = PhosphorDuotoneIconData(
     IconData(
       0xeb8e,
@@ -23827,7 +23827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `seatbelt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![seatbelt-duotone](https://api.iconify.design/ph/seatbelt-duotone.svg?height=32&color=%23888888)
+  /// ![seatbelt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/seatbelt.png)
   static const seatbelt = PhosphorDuotoneIconData(
     IconData(
       0xedfe,
@@ -23847,7 +23847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `securityCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![security-camera-duotone](https://api.iconify.design/ph/security-camera-duotone.svg?height=32&color=%23888888)
+  /// ![security-camera-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/security-camera.png)
   static const securityCamera = PhosphorDuotoneIconData(
     IconData(
       0xeca4,
@@ -23867,7 +23867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `selection` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![selection-duotone](https://api.iconify.design/ph/selection-duotone.svg?height=32&color=%23888888)
+  /// ![selection-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/selection.png)
   static const selection = PhosphorDuotoneIconData(
     IconData(
       0xe69a,
@@ -23887,7 +23887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `selectionAll` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![selection-all-duotone](https://api.iconify.design/ph/selection-all-duotone.svg?height=32&color=%23888888)
+  /// ![selection-all-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/selection-all.png)
   static const selectionAll = PhosphorDuotoneIconData(
     IconData(
       0xe746,
@@ -23907,7 +23907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `selectionBackground` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![selection-background-duotone](https://api.iconify.design/ph/selection-background-duotone.svg?height=32&color=%23888888)
+  /// ![selection-background-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/selection-background.png)
   static const selectionBackground = PhosphorDuotoneIconData(
     IconData(
       0xeaf8,
@@ -23927,7 +23927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `selectionForeground` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![selection-foreground-duotone](https://api.iconify.design/ph/selection-foreground-duotone.svg?height=32&color=%23888888)
+  /// ![selection-foreground-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/selection-foreground.png)
   static const selectionForeground = PhosphorDuotoneIconData(
     IconData(
       0xeaf6,
@@ -23947,7 +23947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `selectionInverse` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![selection-inverse-duotone](https://api.iconify.design/ph/selection-inverse-duotone.svg?height=32&color=%23888888)
+  /// ![selection-inverse-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/selection-inverse.png)
   static const selectionInverse = PhosphorDuotoneIconData(
     IconData(
       0xe744,
@@ -23967,7 +23967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `selectionPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![selection-plus-duotone](https://api.iconify.design/ph/selection-plus-duotone.svg?height=32&color=%23888888)
+  /// ![selection-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/selection-plus.png)
   static const selectionPlus = PhosphorDuotoneIconData(
     IconData(
       0xe69c,
@@ -23987,7 +23987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `selectionSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![selection-slash-duotone](https://api.iconify.design/ph/selection-slash-duotone.svg?height=32&color=%23888888)
+  /// ![selection-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/selection-slash.png)
   static const selectionSlash = PhosphorDuotoneIconData(
     IconData(
       0xe69e,
@@ -24007,7 +24007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shapes` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shapes-duotone](https://api.iconify.design/ph/shapes-duotone.svg?height=32&color=%23888888)
+  /// ![shapes-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shapes.png)
   static const shapes = PhosphorDuotoneIconData(
     IconData(
       0xec5e,
@@ -24027,7 +24027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `share` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![share-duotone](https://api.iconify.design/ph/share-duotone.svg?height=32&color=%23888888)
+  /// ![share-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/share.png)
   static const share = PhosphorDuotoneIconData(
     IconData(
       0xe406,
@@ -24047,7 +24047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shareFat` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![share-fat-duotone](https://api.iconify.design/ph/share-fat-duotone.svg?height=32&color=%23888888)
+  /// ![share-fat-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/share-fat.png)
   static const shareFat = PhosphorDuotoneIconData(
     IconData(
       0xed52,
@@ -24067,7 +24067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shareNetwork` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![share-network-duotone](https://api.iconify.design/ph/share-network-duotone.svg?height=32&color=%23888888)
+  /// ![share-network-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/share-network.png)
   static const shareNetwork = PhosphorDuotoneIconData(
     IconData(
       0xe408,
@@ -24087,7 +24087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shield` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-duotone](https://api.iconify.design/ph/shield-duotone.svg?height=32&color=%23888888)
+  /// ![shield-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield.png)
   static const shield = PhosphorDuotoneIconData(
     IconData(
       0xe40a,
@@ -24107,7 +24107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shieldCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-check-duotone](https://api.iconify.design/ph/shield-check-duotone.svg?height=32&color=%23888888)
+  /// ![shield-check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield-check.png)
   static const shieldCheck = PhosphorDuotoneIconData(
     IconData(
       0xe40c,
@@ -24127,7 +24127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shieldCheckered` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-checkered-duotone](https://api.iconify.design/ph/shield-checkered-duotone.svg?height=32&color=%23888888)
+  /// ![shield-checkered-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield-checkered.png)
   static const shieldCheckered = PhosphorDuotoneIconData(
     IconData(
       0xe708,
@@ -24147,7 +24147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shieldChevron` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-chevron-duotone](https://api.iconify.design/ph/shield-chevron-duotone.svg?height=32&color=%23888888)
+  /// ![shield-chevron-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield-chevron.png)
   static const shieldChevron = PhosphorDuotoneIconData(
     IconData(
       0xe40e,
@@ -24167,7 +24167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shieldPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-plus-duotone](https://api.iconify.design/ph/shield-plus-duotone.svg?height=32&color=%23888888)
+  /// ![shield-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield-plus.png)
   static const shieldPlus = PhosphorDuotoneIconData(
     IconData(
       0xe706,
@@ -24187,7 +24187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shieldSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-slash-duotone](https://api.iconify.design/ph/shield-slash-duotone.svg?height=32&color=%23888888)
+  /// ![shield-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield-slash.png)
   static const shieldSlash = PhosphorDuotoneIconData(
     IconData(
       0xe410,
@@ -24207,7 +24207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shieldStar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-star-duotone](https://api.iconify.design/ph/shield-star-duotone.svg?height=32&color=%23888888)
+  /// ![shield-star-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield-star.png)
   static const shieldStar = PhosphorDuotoneIconData(
     IconData(
       0xec34,
@@ -24227,7 +24227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shieldWarning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shield-warning-duotone](https://api.iconify.design/ph/shield-warning-duotone.svg?height=32&color=%23888888)
+  /// ![shield-warning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shield-warning.png)
   static const shieldWarning = PhosphorDuotoneIconData(
     IconData(
       0xe412,
@@ -24247,7 +24247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shippingContainer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shipping-container-duotone](https://api.iconify.design/ph/shipping-container-duotone.svg?height=32&color=%23888888)
+  /// ![shipping-container-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shipping-container.png)
   static const shippingContainer = PhosphorDuotoneIconData(
     IconData(
       0xe78c,
@@ -24267,7 +24267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shirtFolded` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shirt-folded-duotone](https://api.iconify.design/ph/shirt-folded-duotone.svg?height=32&color=%23888888)
+  /// ![shirt-folded-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shirt-folded.png)
   static const shirtFolded = PhosphorDuotoneIconData(
     IconData(
       0xea92,
@@ -24287,7 +24287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shootingStar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shooting-star-duotone](https://api.iconify.design/ph/shooting-star-duotone.svg?height=32&color=%23888888)
+  /// ![shooting-star-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shooting-star.png)
   static const shootingStar = PhosphorDuotoneIconData(
     IconData(
       0xecfa,
@@ -24307,7 +24307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shoppingBag` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shopping-bag-duotone](https://api.iconify.design/ph/shopping-bag-duotone.svg?height=32&color=%23888888)
+  /// ![shopping-bag-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shopping-bag.png)
   static const shoppingBag = PhosphorDuotoneIconData(
     IconData(
       0xe416,
@@ -24327,7 +24327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shoppingBagOpen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shopping-bag-open-duotone](https://api.iconify.design/ph/shopping-bag-open-duotone.svg?height=32&color=%23888888)
+  /// ![shopping-bag-open-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shopping-bag-open.png)
   static const shoppingBagOpen = PhosphorDuotoneIconData(
     IconData(
       0xe418,
@@ -24347,7 +24347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shoppingCart` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shopping-cart-duotone](https://api.iconify.design/ph/shopping-cart-duotone.svg?height=32&color=%23888888)
+  /// ![shopping-cart-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shopping-cart.png)
   static const shoppingCart = PhosphorDuotoneIconData(
     IconData(
       0xe41e,
@@ -24367,7 +24367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shoppingCartSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shopping-cart-simple-duotone](https://api.iconify.design/ph/shopping-cart-simple-duotone.svg?height=32&color=%23888888)
+  /// ![shopping-cart-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shopping-cart-simple.png)
   static const shoppingCartSimple = PhosphorDuotoneIconData(
     IconData(
       0xe420,
@@ -24387,7 +24387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shovel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shovel-duotone](https://api.iconify.design/ph/shovel-duotone.svg?height=32&color=%23888888)
+  /// ![shovel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shovel.png)
   static const shovel = PhosphorDuotoneIconData(
     IconData(
       0xe9e6,
@@ -24407,7 +24407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shower` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shower-duotone](https://api.iconify.design/ph/shower-duotone.svg?height=32&color=%23888888)
+  /// ![shower-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shower.png)
   static const shower = PhosphorDuotoneIconData(
     IconData(
       0xe776,
@@ -24427,7 +24427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shrimp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shrimp-duotone](https://api.iconify.design/ph/shrimp-duotone.svg?height=32&color=%23888888)
+  /// ![shrimp-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shrimp.png)
   static const shrimp = PhosphorDuotoneIconData(
     IconData(
       0xeab4,
@@ -24447,7 +24447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shuffle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shuffle-duotone](https://api.iconify.design/ph/shuffle-duotone.svg?height=32&color=%23888888)
+  /// ![shuffle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shuffle.png)
   static const shuffle = PhosphorDuotoneIconData(
     IconData(
       0xe422,
@@ -24467,7 +24467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shuffleAngular` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shuffle-angular-duotone](https://api.iconify.design/ph/shuffle-angular-duotone.svg?height=32&color=%23888888)
+  /// ![shuffle-angular-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shuffle-angular.png)
   static const shuffleAngular = PhosphorDuotoneIconData(
     IconData(
       0xe424,
@@ -24487,7 +24487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `shuffleSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![shuffle-simple-duotone](https://api.iconify.design/ph/shuffle-simple-duotone.svg?height=32&color=%23888888)
+  /// ![shuffle-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/shuffle-simple.png)
   static const shuffleSimple = PhosphorDuotoneIconData(
     IconData(
       0xe426,
@@ -24507,7 +24507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sidebar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sidebar-duotone](https://api.iconify.design/ph/sidebar-duotone.svg?height=32&color=%23888888)
+  /// ![sidebar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sidebar.png)
   static const sidebar = PhosphorDuotoneIconData(
     IconData(
       0xeab6,
@@ -24527,7 +24527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sidebarSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sidebar-simple-duotone](https://api.iconify.design/ph/sidebar-simple-duotone.svg?height=32&color=%23888888)
+  /// ![sidebar-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sidebar-simple.png)
   static const sidebarSimple = PhosphorDuotoneIconData(
     IconData(
       0xec24,
@@ -24547,7 +24547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sigma` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sigma-duotone](https://api.iconify.design/ph/sigma-duotone.svg?height=32&color=%23888888)
+  /// ![sigma-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sigma.png)
   static const sigma = PhosphorDuotoneIconData(
     IconData(
       0xeab8,
@@ -24567,7 +24567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `signIn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sign-in-duotone](https://api.iconify.design/ph/sign-in-duotone.svg?height=32&color=%23888888)
+  /// ![sign-in-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sign-in.png)
   static const signIn = PhosphorDuotoneIconData(
     IconData(
       0xe428,
@@ -24587,7 +24587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `signOut` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sign-out-duotone](https://api.iconify.design/ph/sign-out-duotone.svg?height=32&color=%23888888)
+  /// ![sign-out-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sign-out.png)
   static const signOut = PhosphorDuotoneIconData(
     IconData(
       0xe42a,
@@ -24607,7 +24607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `signature` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![signature-duotone](https://api.iconify.design/ph/signature-duotone.svg?height=32&color=%23888888)
+  /// ![signature-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/signature.png)
   static const signature = PhosphorDuotoneIconData(
     IconData(
       0xebac,
@@ -24627,7 +24627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `signpost` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![signpost-duotone](https://api.iconify.design/ph/signpost-duotone.svg?height=32&color=%23888888)
+  /// ![signpost-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/signpost.png)
   static const signpost = PhosphorDuotoneIconData(
     IconData(
       0xe89c,
@@ -24647,7 +24647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `simCard` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sim-card-duotone](https://api.iconify.design/ph/sim-card-duotone.svg?height=32&color=%23888888)
+  /// ![sim-card-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sim-card.png)
   static const simCard = PhosphorDuotoneIconData(
     IconData(
       0xe664,
@@ -24667,7 +24667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `siren` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![siren-duotone](https://api.iconify.design/ph/siren-duotone.svg?height=32&color=%23888888)
+  /// ![siren-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/siren.png)
   static const siren = PhosphorDuotoneIconData(
     IconData(
       0xe9b8,
@@ -24687,7 +24687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sketchLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sketch-logo-duotone](https://api.iconify.design/ph/sketch-logo-duotone.svg?height=32&color=%23888888)
+  /// ![sketch-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sketch-logo.png)
   static const sketchLogo = PhosphorDuotoneIconData(
     IconData(
       0xe42c,
@@ -24707,7 +24707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `skipBack` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![skip-back-duotone](https://api.iconify.design/ph/skip-back-duotone.svg?height=32&color=%23888888)
+  /// ![skip-back-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/skip-back.png)
   static const skipBack = PhosphorDuotoneIconData(
     IconData(
       0xe5a4,
@@ -24727,7 +24727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `skipBackCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![skip-back-circle-duotone](https://api.iconify.design/ph/skip-back-circle-duotone.svg?height=32&color=%23888888)
+  /// ![skip-back-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/skip-back-circle.png)
   static const skipBackCircle = PhosphorDuotoneIconData(
     IconData(
       0xe42e,
@@ -24747,7 +24747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `skipForward` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![skip-forward-duotone](https://api.iconify.design/ph/skip-forward-duotone.svg?height=32&color=%23888888)
+  /// ![skip-forward-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/skip-forward.png)
   static const skipForward = PhosphorDuotoneIconData(
     IconData(
       0xe5a6,
@@ -24767,7 +24767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `skipForwardCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![skip-forward-circle-duotone](https://api.iconify.design/ph/skip-forward-circle-duotone.svg?height=32&color=%23888888)
+  /// ![skip-forward-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/skip-forward-circle.png)
   static const skipForwardCircle = PhosphorDuotoneIconData(
     IconData(
       0xe430,
@@ -24787,7 +24787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `skull` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![skull-duotone](https://api.iconify.design/ph/skull-duotone.svg?height=32&color=%23888888)
+  /// ![skull-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/skull.png)
   static const skull = PhosphorDuotoneIconData(
     IconData(
       0xe916,
@@ -24807,7 +24807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `skypeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![skype-logo-duotone](https://api.iconify.design/ph/skype-logo-duotone.svg?height=32&color=%23888888)
+  /// ![skype-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/skype-logo.png)
   static const skypeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8dc,
@@ -24827,7 +24827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `slackLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![slack-logo-duotone](https://api.iconify.design/ph/slack-logo-duotone.svg?height=32&color=%23888888)
+  /// ![slack-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/slack-logo.png)
   static const slackLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5a8,
@@ -24847,7 +24847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sliders` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sliders-duotone](https://api.iconify.design/ph/sliders-duotone.svg?height=32&color=%23888888)
+  /// ![sliders-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sliders.png)
   static const sliders = PhosphorDuotoneIconData(
     IconData(
       0xe432,
@@ -24867,7 +24867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `slidersHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sliders-horizontal-duotone](https://api.iconify.design/ph/sliders-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![sliders-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sliders-horizontal.png)
   static const slidersHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe434,
@@ -24887,7 +24887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `slideshow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![slideshow-duotone](https://api.iconify.design/ph/slideshow-duotone.svg?height=32&color=%23888888)
+  /// ![slideshow-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/slideshow.png)
   static const slideshow = PhosphorDuotoneIconData(
     IconData(
       0xed32,
@@ -24907,7 +24907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smiley` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-duotone](https://api.iconify.design/ph/smiley-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley.png)
   static const smiley = PhosphorDuotoneIconData(
     IconData(
       0xe436,
@@ -24927,7 +24927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileyAngry` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-angry-duotone](https://api.iconify.design/ph/smiley-angry-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-angry-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-angry.png)
   static const smileyAngry = PhosphorDuotoneIconData(
     IconData(
       0xec62,
@@ -24947,7 +24947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileyBlank` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-blank-duotone](https://api.iconify.design/ph/smiley-blank-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-blank-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-blank.png)
   static const smileyBlank = PhosphorDuotoneIconData(
     IconData(
       0xe438,
@@ -24967,7 +24967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileyMeh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-meh-duotone](https://api.iconify.design/ph/smiley-meh-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-meh-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-meh.png)
   static const smileyMeh = PhosphorDuotoneIconData(
     IconData(
       0xe43a,
@@ -24987,7 +24987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileyMelting` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-melting-duotone](https://api.iconify.design/ph/smiley-melting-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-melting-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-melting.png)
   static const smileyMelting = PhosphorDuotoneIconData(
     IconData(
       0xee56,
@@ -25007,7 +25007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileyNervous` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-nervous-duotone](https://api.iconify.design/ph/smiley-nervous-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-nervous-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-nervous.png)
   static const smileyNervous = PhosphorDuotoneIconData(
     IconData(
       0xe43c,
@@ -25027,7 +25027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileySad` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-sad-duotone](https://api.iconify.design/ph/smiley-sad-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-sad-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-sad.png)
   static const smileySad = PhosphorDuotoneIconData(
     IconData(
       0xe43e,
@@ -25047,7 +25047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileySticker` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-sticker-duotone](https://api.iconify.design/ph/smiley-sticker-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-sticker-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-sticker.png)
   static const smileySticker = PhosphorDuotoneIconData(
     IconData(
       0xe440,
@@ -25067,7 +25067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileyWink` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-wink-duotone](https://api.iconify.design/ph/smiley-wink-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-wink-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-wink.png)
   static const smileyWink = PhosphorDuotoneIconData(
     IconData(
       0xe666,
@@ -25087,7 +25087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `smileyXEyes` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![smiley-x-eyes-duotone](https://api.iconify.design/ph/smiley-x-eyes-duotone.svg?height=32&color=%23888888)
+  /// ![smiley-x-eyes-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/smiley-x-eyes.png)
   static const smileyXEyes = PhosphorDuotoneIconData(
     IconData(
       0xe442,
@@ -25107,7 +25107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `snapchatLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![snapchat-logo-duotone](https://api.iconify.design/ph/snapchat-logo-duotone.svg?height=32&color=%23888888)
+  /// ![snapchat-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/snapchat-logo.png)
   static const snapchatLogo = PhosphorDuotoneIconData(
     IconData(
       0xe668,
@@ -25127,7 +25127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sneaker` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sneaker-duotone](https://api.iconify.design/ph/sneaker-duotone.svg?height=32&color=%23888888)
+  /// ![sneaker-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sneaker.png)
   static const sneaker = PhosphorDuotoneIconData(
     IconData(
       0xe80c,
@@ -25147,7 +25147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sneakerMove` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sneaker-move-duotone](https://api.iconify.design/ph/sneaker-move-duotone.svg?height=32&color=%23888888)
+  /// ![sneaker-move-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sneaker-move.png)
   static const sneakerMove = PhosphorDuotoneIconData(
     IconData(
       0xed60,
@@ -25167,7 +25167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `snowflake` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![snowflake-duotone](https://api.iconify.design/ph/snowflake-duotone.svg?height=32&color=%23888888)
+  /// ![snowflake-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/snowflake.png)
   static const snowflake = PhosphorDuotoneIconData(
     IconData(
       0xe5aa,
@@ -25187,7 +25187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `soccerBall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![soccer-ball-duotone](https://api.iconify.design/ph/soccer-ball-duotone.svg?height=32&color=%23888888)
+  /// ![soccer-ball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/soccer-ball.png)
   static const soccerBall = PhosphorDuotoneIconData(
     IconData(
       0xe716,
@@ -25207,7 +25207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sock` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sock-duotone](https://api.iconify.design/ph/sock-duotone.svg?height=32&color=%23888888)
+  /// ![sock-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sock.png)
   static const sock = PhosphorDuotoneIconData(
     IconData(
       0xecce,
@@ -25227,7 +25227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `solarPanel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![solar-panel-duotone](https://api.iconify.design/ph/solar-panel-duotone.svg?height=32&color=%23888888)
+  /// ![solar-panel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/solar-panel.png)
   static const solarPanel = PhosphorDuotoneIconData(
     IconData(
       0xed7a,
@@ -25247,7 +25247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `solarRoof` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![solar-roof-duotone](https://api.iconify.design/ph/solar-roof-duotone.svg?height=32&color=%23888888)
+  /// ![solar-roof-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/solar-roof.png)
   static const solarRoof = PhosphorDuotoneIconData(
     IconData(
       0xed7b,
@@ -25267,7 +25267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sortAscending` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sort-ascending-duotone](https://api.iconify.design/ph/sort-ascending-duotone.svg?height=32&color=%23888888)
+  /// ![sort-ascending-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sort-ascending.png)
   static const sortAscending = PhosphorDuotoneIconData(
     IconData(
       0xe444,
@@ -25287,7 +25287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sortDescending` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sort-descending-duotone](https://api.iconify.design/ph/sort-descending-duotone.svg?height=32&color=%23888888)
+  /// ![sort-descending-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sort-descending.png)
   static const sortDescending = PhosphorDuotoneIconData(
     IconData(
       0xe446,
@@ -25307,7 +25307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `soundcloudLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![soundcloud-logo-duotone](https://api.iconify.design/ph/soundcloud-logo-duotone.svg?height=32&color=%23888888)
+  /// ![soundcloud-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/soundcloud-logo.png)
   static const soundcloudLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8de,
@@ -25327,7 +25327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `spade` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![spade-duotone](https://api.iconify.design/ph/spade-duotone.svg?height=32&color=%23888888)
+  /// ![spade-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/spade.png)
   static const spade = PhosphorDuotoneIconData(
     IconData(
       0xe448,
@@ -25347,7 +25347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sparkle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sparkle-duotone](https://api.iconify.design/ph/sparkle-duotone.svg?height=32&color=%23888888)
+  /// ![sparkle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sparkle.png)
   static const sparkle = PhosphorDuotoneIconData(
     IconData(
       0xe6a2,
@@ -25367,7 +25367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerHifi` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-hifi-duotone](https://api.iconify.design/ph/speaker-hifi-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-hifi-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-hifi.png)
   static const speakerHifi = PhosphorDuotoneIconData(
     IconData(
       0xea08,
@@ -25387,7 +25387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-high-duotone](https://api.iconify.design/ph/speaker-high-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-high.png)
   static const speakerHigh = PhosphorDuotoneIconData(
     IconData(
       0xe44a,
@@ -25407,7 +25407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-low-duotone](https://api.iconify.design/ph/speaker-low-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-low.png)
   static const speakerLow = PhosphorDuotoneIconData(
     IconData(
       0xe44c,
@@ -25427,7 +25427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerNone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-none-duotone](https://api.iconify.design/ph/speaker-none-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-none-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-none.png)
   static const speakerNone = PhosphorDuotoneIconData(
     IconData(
       0xe44e,
@@ -25447,7 +25447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerSimpleHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-simple-high-duotone](https://api.iconify.design/ph/speaker-simple-high-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-simple-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-simple-high.png)
   static const speakerSimpleHigh = PhosphorDuotoneIconData(
     IconData(
       0xe450,
@@ -25467,7 +25467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerSimpleLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-simple-low-duotone](https://api.iconify.design/ph/speaker-simple-low-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-simple-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-simple-low.png)
   static const speakerSimpleLow = PhosphorDuotoneIconData(
     IconData(
       0xe452,
@@ -25487,7 +25487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerSimpleNone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-simple-none-duotone](https://api.iconify.design/ph/speaker-simple-none-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-simple-none-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-simple-none.png)
   static const speakerSimpleNone = PhosphorDuotoneIconData(
     IconData(
       0xe454,
@@ -25507,7 +25507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerSimpleSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-simple-slash-duotone](https://api.iconify.design/ph/speaker-simple-slash-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-simple-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-simple-slash.png)
   static const speakerSimpleSlash = PhosphorDuotoneIconData(
     IconData(
       0xe456,
@@ -25527,7 +25527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerSimpleX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-simple-x-duotone](https://api.iconify.design/ph/speaker-simple-x-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-simple-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-simple-x.png)
   static const speakerSimpleX = PhosphorDuotoneIconData(
     IconData(
       0xe458,
@@ -25547,7 +25547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-slash-duotone](https://api.iconify.design/ph/speaker-slash-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-slash.png)
   static const speakerSlash = PhosphorDuotoneIconData(
     IconData(
       0xe45a,
@@ -25567,7 +25567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speakerX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speaker-x-duotone](https://api.iconify.design/ph/speaker-x-duotone.svg?height=32&color=%23888888)
+  /// ![speaker-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speaker-x.png)
   static const speakerX = PhosphorDuotoneIconData(
     IconData(
       0xe45c,
@@ -25587,7 +25587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `speedometer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![speedometer-duotone](https://api.iconify.design/ph/speedometer-duotone.svg?height=32&color=%23888888)
+  /// ![speedometer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/speedometer.png)
   static const speedometer = PhosphorDuotoneIconData(
     IconData(
       0xee74,
@@ -25607,7 +25607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sphere` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sphere-duotone](https://api.iconify.design/ph/sphere-duotone.svg?height=32&color=%23888888)
+  /// ![sphere-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sphere.png)
   static const sphere = PhosphorDuotoneIconData(
     IconData(
       0xee66,
@@ -25627,7 +25627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `spinner` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![spinner-duotone](https://api.iconify.design/ph/spinner-duotone.svg?height=32&color=%23888888)
+  /// ![spinner-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/spinner.png)
   static const spinner = PhosphorDuotoneIconData(
     IconData(
       0xe66a,
@@ -25647,7 +25647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `spinnerBall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![spinner-ball-duotone](https://api.iconify.design/ph/spinner-ball-duotone.svg?height=32&color=%23888888)
+  /// ![spinner-ball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/spinner-ball.png)
   static const spinnerBall = PhosphorDuotoneIconData(
     IconData(
       0xee28,
@@ -25667,7 +25667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `spinnerGap` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![spinner-gap-duotone](https://api.iconify.design/ph/spinner-gap-duotone.svg?height=32&color=%23888888)
+  /// ![spinner-gap-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/spinner-gap.png)
   static const spinnerGap = PhosphorDuotoneIconData(
     IconData(
       0xe66c,
@@ -25687,7 +25687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `spiral` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![spiral-duotone](https://api.iconify.design/ph/spiral-duotone.svg?height=32&color=%23888888)
+  /// ![spiral-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/spiral.png)
   static const spiral = PhosphorDuotoneIconData(
     IconData(
       0xe9fa,
@@ -25707,7 +25707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `splitHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![split-horizontal-duotone](https://api.iconify.design/ph/split-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![split-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/split-horizontal.png)
   static const splitHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe872,
@@ -25727,7 +25727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `splitVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![split-vertical-duotone](https://api.iconify.design/ph/split-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![split-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/split-vertical.png)
   static const splitVertical = PhosphorDuotoneIconData(
     IconData(
       0xe876,
@@ -25747,7 +25747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `spotifyLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![spotify-logo-duotone](https://api.iconify.design/ph/spotify-logo-duotone.svg?height=32&color=%23888888)
+  /// ![spotify-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/spotify-logo.png)
   static const spotifyLogo = PhosphorDuotoneIconData(
     IconData(
       0xe66e,
@@ -25767,7 +25767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sprayBottle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![spray-bottle-duotone](https://api.iconify.design/ph/spray-bottle-duotone.svg?height=32&color=%23888888)
+  /// ![spray-bottle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/spray-bottle.png)
   static const sprayBottle = PhosphorDuotoneIconData(
     IconData(
       0xe7e4,
@@ -25787,7 +25787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `square` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![square-duotone](https://api.iconify.design/ph/square-duotone.svg?height=32&color=%23888888)
+  /// ![square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/square.png)
   static const square = PhosphorDuotoneIconData(
     IconData(
       0xe45e,
@@ -25807,7 +25807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `squareHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![square-half-duotone](https://api.iconify.design/ph/square-half-duotone.svg?height=32&color=%23888888)
+  /// ![square-half-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/square-half.png)
   static const squareHalf = PhosphorDuotoneIconData(
     IconData(
       0xe462,
@@ -25827,7 +25827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `squareHalfBottom` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![square-half-bottom-duotone](https://api.iconify.design/ph/square-half-bottom-duotone.svg?height=32&color=%23888888)
+  /// ![square-half-bottom-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/square-half-bottom.png)
   static const squareHalfBottom = PhosphorDuotoneIconData(
     IconData(
       0xeb16,
@@ -25847,7 +25847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `squareLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![square-logo-duotone](https://api.iconify.design/ph/square-logo-duotone.svg?height=32&color=%23888888)
+  /// ![square-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/square-logo.png)
   static const squareLogo = PhosphorDuotoneIconData(
     IconData(
       0xe690,
@@ -25867,7 +25867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `squareSplitHorizontal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![square-split-horizontal-duotone](https://api.iconify.design/ph/square-split-horizontal-duotone.svg?height=32&color=%23888888)
+  /// ![square-split-horizontal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/square-split-horizontal.png)
   static const squareSplitHorizontal = PhosphorDuotoneIconData(
     IconData(
       0xe870,
@@ -25887,7 +25887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `squareSplitVertical` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![square-split-vertical-duotone](https://api.iconify.design/ph/square-split-vertical-duotone.svg?height=32&color=%23888888)
+  /// ![square-split-vertical-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/square-split-vertical.png)
   static const squareSplitVertical = PhosphorDuotoneIconData(
     IconData(
       0xe874,
@@ -25907,7 +25907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `squaresFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![squares-four-duotone](https://api.iconify.design/ph/squares-four-duotone.svg?height=32&color=%23888888)
+  /// ![squares-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/squares-four.png)
   static const squaresFour = PhosphorDuotoneIconData(
     IconData(
       0xe464,
@@ -25927,7 +25927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stack` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stack-duotone](https://api.iconify.design/ph/stack-duotone.svg?height=32&color=%23888888)
+  /// ![stack-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stack.png)
   static const stack = PhosphorDuotoneIconData(
     IconData(
       0xe466,
@@ -25947,7 +25947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stackMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stack-minus-duotone](https://api.iconify.design/ph/stack-minus-duotone.svg?height=32&color=%23888888)
+  /// ![stack-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stack-minus.png)
   static const stackMinus = PhosphorDuotoneIconData(
     IconData(
       0xedf4,
@@ -25967,7 +25967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stackOverflowLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stack-overflow-logo-duotone](https://api.iconify.design/ph/stack-overflow-logo-duotone.svg?height=32&color=%23888888)
+  /// ![stack-overflow-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stack-overflow-logo.png)
   static const stackOverflowLogo = PhosphorDuotoneIconData(
     IconData(
       0xeb78,
@@ -25987,7 +25987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stackPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stack-plus-duotone](https://api.iconify.design/ph/stack-plus-duotone.svg?height=32&color=%23888888)
+  /// ![stack-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stack-plus.png)
   static const stackPlus = PhosphorDuotoneIconData(
     IconData(
       0xedf6,
@@ -26007,7 +26007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stackSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stack-simple-duotone](https://api.iconify.design/ph/stack-simple-duotone.svg?height=32&color=%23888888)
+  /// ![stack-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stack-simple.png)
   static const stackSimple = PhosphorDuotoneIconData(
     IconData(
       0xe468,
@@ -26027,7 +26027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stairs` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stairs-duotone](https://api.iconify.design/ph/stairs-duotone.svg?height=32&color=%23888888)
+  /// ![stairs-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stairs.png)
   static const stairs = PhosphorDuotoneIconData(
     IconData(
       0xe8ec,
@@ -26047,7 +26047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stamp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stamp-duotone](https://api.iconify.design/ph/stamp-duotone.svg?height=32&color=%23888888)
+  /// ![stamp-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stamp.png)
   static const stamp = PhosphorDuotoneIconData(
     IconData(
       0xea48,
@@ -26067,7 +26067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `standardDefinition` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![standard-definition-duotone](https://api.iconify.design/ph/standard-definition-duotone.svg?height=32&color=%23888888)
+  /// ![standard-definition-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/standard-definition.png)
   static const standardDefinition = PhosphorDuotoneIconData(
     IconData(
       0xea90,
@@ -26087,7 +26087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `star` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![star-duotone](https://api.iconify.design/ph/star-duotone.svg?height=32&color=%23888888)
+  /// ![star-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/star.png)
   static const star = PhosphorDuotoneIconData(
     IconData(
       0xe46a,
@@ -26107,7 +26107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `starAndCrescent` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![star-and-crescent-duotone](https://api.iconify.design/ph/star-and-crescent-duotone.svg?height=32&color=%23888888)
+  /// ![star-and-crescent-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/star-and-crescent.png)
   static const starAndCrescent = PhosphorDuotoneIconData(
     IconData(
       0xecf4,
@@ -26127,7 +26127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `starFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![star-four-duotone](https://api.iconify.design/ph/star-four-duotone.svg?height=32&color=%23888888)
+  /// ![star-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/star-four.png)
   static const starFour = PhosphorDuotoneIconData(
     IconData(
       0xe6a4,
@@ -26147,7 +26147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `starHalf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![star-half-duotone](https://api.iconify.design/ph/star-half-duotone.svg?height=32&color=%23888888)
+  /// ![star-half-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/star-half.png)
   static const starHalf = PhosphorDuotoneIconData(
     IconData(
       0xe70a,
@@ -26167,7 +26167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `starOfDavid` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![star-of-david-duotone](https://api.iconify.design/ph/star-of-david-duotone.svg?height=32&color=%23888888)
+  /// ![star-of-david-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/star-of-david.png)
   static const starOfDavid = PhosphorDuotoneIconData(
     IconData(
       0xe89e,
@@ -26187,7 +26187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `steamLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![steam-logo-duotone](https://api.iconify.design/ph/steam-logo-duotone.svg?height=32&color=%23888888)
+  /// ![steam-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/steam-logo.png)
   static const steamLogo = PhosphorDuotoneIconData(
     IconData(
       0xead4,
@@ -26207,7 +26207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `steeringWheel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![steering-wheel-duotone](https://api.iconify.design/ph/steering-wheel-duotone.svg?height=32&color=%23888888)
+  /// ![steering-wheel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/steering-wheel.png)
   static const steeringWheel = PhosphorDuotoneIconData(
     IconData(
       0xe9ac,
@@ -26227,7 +26227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `steps` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![steps-duotone](https://api.iconify.design/ph/steps-duotone.svg?height=32&color=%23888888)
+  /// ![steps-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/steps.png)
   static const steps = PhosphorDuotoneIconData(
     IconData(
       0xecbe,
@@ -26247,7 +26247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stethoscope` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stethoscope-duotone](https://api.iconify.design/ph/stethoscope-duotone.svg?height=32&color=%23888888)
+  /// ![stethoscope-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stethoscope.png)
   static const stethoscope = PhosphorDuotoneIconData(
     IconData(
       0xe7ea,
@@ -26267,7 +26267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sticker` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sticker-duotone](https://api.iconify.design/ph/sticker-duotone.svg?height=32&color=%23888888)
+  /// ![sticker-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sticker.png)
   static const sticker = PhosphorDuotoneIconData(
     IconData(
       0xe5ac,
@@ -26287,7 +26287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stool` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stool-duotone](https://api.iconify.design/ph/stool-duotone.svg?height=32&color=%23888888)
+  /// ![stool-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stool.png)
   static const stool = PhosphorDuotoneIconData(
     IconData(
       0xea44,
@@ -26307,7 +26307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stop` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stop-duotone](https://api.iconify.design/ph/stop-duotone.svg?height=32&color=%23888888)
+  /// ![stop-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stop.png)
   static const stop = PhosphorDuotoneIconData(
     IconData(
       0xe46c,
@@ -26327,7 +26327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stopCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stop-circle-duotone](https://api.iconify.design/ph/stop-circle-duotone.svg?height=32&color=%23888888)
+  /// ![stop-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stop-circle.png)
   static const stopCircle = PhosphorDuotoneIconData(
     IconData(
       0xe46e,
@@ -26347,7 +26347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `storefront` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![storefront-duotone](https://api.iconify.design/ph/storefront-duotone.svg?height=32&color=%23888888)
+  /// ![storefront-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/storefront.png)
   static const storefront = PhosphorDuotoneIconData(
     IconData(
       0xe470,
@@ -26367,7 +26367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `strategy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![strategy-duotone](https://api.iconify.design/ph/strategy-duotone.svg?height=32&color=%23888888)
+  /// ![strategy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/strategy.png)
   static const strategy = PhosphorDuotoneIconData(
     IconData(
       0xea3a,
@@ -26387,7 +26387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `stripeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![stripe-logo-duotone](https://api.iconify.design/ph/stripe-logo-duotone.svg?height=32&color=%23888888)
+  /// ![stripe-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/stripe-logo.png)
   static const stripeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe698,
@@ -26407,7 +26407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `student` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![student-duotone](https://api.iconify.design/ph/student-duotone.svg?height=32&color=%23888888)
+  /// ![student-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/student.png)
   static const student = PhosphorDuotoneIconData(
     IconData(
       0xe73e,
@@ -26427,7 +26427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `subsetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![subset-of-duotone](https://api.iconify.design/ph/subset-of-duotone.svg?height=32&color=%23888888)
+  /// ![subset-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/subset-of.png)
   static const subsetOf = PhosphorDuotoneIconData(
     IconData(
       0xedc0,
@@ -26447,7 +26447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `subsetProperOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![subset-proper-of-duotone](https://api.iconify.design/ph/subset-proper-of-duotone.svg?height=32&color=%23888888)
+  /// ![subset-proper-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/subset-proper-of.png)
   static const subsetProperOf = PhosphorDuotoneIconData(
     IconData(
       0xedb6,
@@ -26467,7 +26467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `subtitles` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![subtitles-duotone](https://api.iconify.design/ph/subtitles-duotone.svg?height=32&color=%23888888)
+  /// ![subtitles-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/subtitles.png)
   static const subtitles = PhosphorDuotoneIconData(
     IconData(
       0xe1a8,
@@ -26487,7 +26487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `subtitlesSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![subtitles-slash-duotone](https://api.iconify.design/ph/subtitles-slash-duotone.svg?height=32&color=%23888888)
+  /// ![subtitles-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/subtitles-slash.png)
   static const subtitlesSlash = PhosphorDuotoneIconData(
     IconData(
       0xe1a6,
@@ -26507,7 +26507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `subtract` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![subtract-duotone](https://api.iconify.design/ph/subtract-duotone.svg?height=32&color=%23888888)
+  /// ![subtract-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/subtract.png)
   static const subtract = PhosphorDuotoneIconData(
     IconData(
       0xebd6,
@@ -26527,7 +26527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `subtractSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![subtract-square-duotone](https://api.iconify.design/ph/subtract-square-duotone.svg?height=32&color=%23888888)
+  /// ![subtract-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/subtract-square.png)
   static const subtractSquare = PhosphorDuotoneIconData(
     IconData(
       0xebd4,
@@ -26547,7 +26547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `subway` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![subway-duotone](https://api.iconify.design/ph/subway-duotone.svg?height=32&color=%23888888)
+  /// ![subway-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/subway.png)
   static const subway = PhosphorDuotoneIconData(
     IconData(
       0xe498,
@@ -26567,7 +26567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `suitcase` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![suitcase-duotone](https://api.iconify.design/ph/suitcase-duotone.svg?height=32&color=%23888888)
+  /// ![suitcase-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/suitcase.png)
   static const suitcase = PhosphorDuotoneIconData(
     IconData(
       0xe5ae,
@@ -26587,7 +26587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `suitcaseRolling` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![suitcase-rolling-duotone](https://api.iconify.design/ph/suitcase-rolling-duotone.svg?height=32&color=%23888888)
+  /// ![suitcase-rolling-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/suitcase-rolling.png)
   static const suitcaseRolling = PhosphorDuotoneIconData(
     IconData(
       0xe9b0,
@@ -26607,7 +26607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `suitcaseSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![suitcase-simple-duotone](https://api.iconify.design/ph/suitcase-simple-duotone.svg?height=32&color=%23888888)
+  /// ![suitcase-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/suitcase-simple.png)
   static const suitcaseSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5b0,
@@ -26627,7 +26627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sun` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sun-duotone](https://api.iconify.design/ph/sun-duotone.svg?height=32&color=%23888888)
+  /// ![sun-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sun.png)
   static const sun = PhosphorDuotoneIconData(
     IconData(
       0xe472,
@@ -26647,7 +26647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sunDim` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sun-dim-duotone](https://api.iconify.design/ph/sun-dim-duotone.svg?height=32&color=%23888888)
+  /// ![sun-dim-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sun-dim.png)
   static const sunDim = PhosphorDuotoneIconData(
     IconData(
       0xe474,
@@ -26667,7 +26667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sunHorizon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sun-horizon-duotone](https://api.iconify.design/ph/sun-horizon-duotone.svg?height=32&color=%23888888)
+  /// ![sun-horizon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sun-horizon.png)
   static const sunHorizon = PhosphorDuotoneIconData(
     IconData(
       0xe5b6,
@@ -26687,7 +26687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sunglasses` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sunglasses-duotone](https://api.iconify.design/ph/sunglasses-duotone.svg?height=32&color=%23888888)
+  /// ![sunglasses-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sunglasses.png)
   static const sunglasses = PhosphorDuotoneIconData(
     IconData(
       0xe816,
@@ -26707,7 +26707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `supersetOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![superset-of-duotone](https://api.iconify.design/ph/superset-of-duotone.svg?height=32&color=%23888888)
+  /// ![superset-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/superset-of.png)
   static const supersetOf = PhosphorDuotoneIconData(
     IconData(
       0xedb8,
@@ -26727,7 +26727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `supersetProperOf` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![superset-proper-of-duotone](https://api.iconify.design/ph/superset-proper-of-duotone.svg?height=32&color=%23888888)
+  /// ![superset-proper-of-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/superset-proper-of.png)
   static const supersetProperOf = PhosphorDuotoneIconData(
     IconData(
       0xedb4,
@@ -26747,7 +26747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `swap` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![swap-duotone](https://api.iconify.design/ph/swap-duotone.svg?height=32&color=%23888888)
+  /// ![swap-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/swap.png)
   static const swap = PhosphorDuotoneIconData(
     IconData(
       0xe83c,
@@ -26767,7 +26767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `swatches` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![swatches-duotone](https://api.iconify.design/ph/swatches-duotone.svg?height=32&color=%23888888)
+  /// ![swatches-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/swatches.png)
   static const swatches = PhosphorDuotoneIconData(
     IconData(
       0xe5b8,
@@ -26787,7 +26787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `swimmingPool` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![swimming-pool-duotone](https://api.iconify.design/ph/swimming-pool-duotone.svg?height=32&color=%23888888)
+  /// ![swimming-pool-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/swimming-pool.png)
   static const swimmingPool = PhosphorDuotoneIconData(
     IconData(
       0xecb6,
@@ -26807,7 +26807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `sword` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![sword-duotone](https://api.iconify.design/ph/sword-duotone.svg?height=32&color=%23888888)
+  /// ![sword-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/sword.png)
   static const sword = PhosphorDuotoneIconData(
     IconData(
       0xe5ba,
@@ -26827,7 +26827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `synagogue` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![synagogue-duotone](https://api.iconify.design/ph/synagogue-duotone.svg?height=32&color=%23888888)
+  /// ![synagogue-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/synagogue.png)
   static const synagogue = PhosphorDuotoneIconData(
     IconData(
       0xecec,
@@ -26847,7 +26847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `syringe` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![syringe-duotone](https://api.iconify.design/ph/syringe-duotone.svg?height=32&color=%23888888)
+  /// ![syringe-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/syringe.png)
   static const syringe = PhosphorDuotoneIconData(
     IconData(
       0xe968,
@@ -26867,7 +26867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tShirt` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![t-shirt-duotone](https://api.iconify.design/ph/t-shirt-duotone.svg?height=32&color=%23888888)
+  /// ![t-shirt-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/t-shirt.png)
   static const tShirt = PhosphorDuotoneIconData(
     IconData(
       0xe670,
@@ -26887,7 +26887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `table` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![table-duotone](https://api.iconify.design/ph/table-duotone.svg?height=32&color=%23888888)
+  /// ![table-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/table.png)
   static const table = PhosphorDuotoneIconData(
     IconData(
       0xe476,
@@ -26907,7 +26907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tabs` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tabs-duotone](https://api.iconify.design/ph/tabs-duotone.svg?height=32&color=%23888888)
+  /// ![tabs-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tabs.png)
   static const tabs = PhosphorDuotoneIconData(
     IconData(
       0xe778,
@@ -26927,7 +26927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tag` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tag-duotone](https://api.iconify.design/ph/tag-duotone.svg?height=32&color=%23888888)
+  /// ![tag-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tag.png)
   static const tag = PhosphorDuotoneIconData(
     IconData(
       0xe478,
@@ -26947,7 +26947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tagChevron` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tag-chevron-duotone](https://api.iconify.design/ph/tag-chevron-duotone.svg?height=32&color=%23888888)
+  /// ![tag-chevron-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tag-chevron.png)
   static const tagChevron = PhosphorDuotoneIconData(
     IconData(
       0xe672,
@@ -26967,7 +26967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tagSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tag-simple-duotone](https://api.iconify.design/ph/tag-simple-duotone.svg?height=32&color=%23888888)
+  /// ![tag-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tag-simple.png)
   static const tagSimple = PhosphorDuotoneIconData(
     IconData(
       0xe47a,
@@ -26987,7 +26987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `target` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![target-duotone](https://api.iconify.design/ph/target-duotone.svg?height=32&color=%23888888)
+  /// ![target-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/target.png)
   static const target = PhosphorDuotoneIconData(
     IconData(
       0xe47c,
@@ -27007,7 +27007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `taxi` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![taxi-duotone](https://api.iconify.design/ph/taxi-duotone.svg?height=32&color=%23888888)
+  /// ![taxi-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/taxi.png)
   static const taxi = PhosphorDuotoneIconData(
     IconData(
       0xe902,
@@ -27027,7 +27027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `teaBag` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tea-bag-duotone](https://api.iconify.design/ph/tea-bag-duotone.svg?height=32&color=%23888888)
+  /// ![tea-bag-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tea-bag.png)
   static const teaBag = PhosphorDuotoneIconData(
     IconData(
       0xe8e6,
@@ -27047,7 +27047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `telegramLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![telegram-logo-duotone](https://api.iconify.design/ph/telegram-logo-duotone.svg?height=32&color=%23888888)
+  /// ![telegram-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/telegram-logo.png)
   static const telegramLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5bc,
@@ -27067,7 +27067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `television` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![television-duotone](https://api.iconify.design/ph/television-duotone.svg?height=32&color=%23888888)
+  /// ![television-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/television.png)
   static const television = PhosphorDuotoneIconData(
     IconData(
       0xe754,
@@ -27087,7 +27087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `televisionSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![television-simple-duotone](https://api.iconify.design/ph/television-simple-duotone.svg?height=32&color=%23888888)
+  /// ![television-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/television-simple.png)
   static const televisionSimple = PhosphorDuotoneIconData(
     IconData(
       0xeae6,
@@ -27107,7 +27107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tennisBall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tennis-ball-duotone](https://api.iconify.design/ph/tennis-ball-duotone.svg?height=32&color=%23888888)
+  /// ![tennis-ball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tennis-ball.png)
   static const tennisBall = PhosphorDuotoneIconData(
     IconData(
       0xe720,
@@ -27127,7 +27127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tent` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tent-duotone](https://api.iconify.design/ph/tent-duotone.svg?height=32&color=%23888888)
+  /// ![tent-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tent.png)
   static const tent = PhosphorDuotoneIconData(
     IconData(
       0xe8ba,
@@ -27147,7 +27147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `terminal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![terminal-duotone](https://api.iconify.design/ph/terminal-duotone.svg?height=32&color=%23888888)
+  /// ![terminal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/terminal.png)
   static const terminal = PhosphorDuotoneIconData(
     IconData(
       0xe47e,
@@ -27167,7 +27167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `terminalWindow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![terminal-window-duotone](https://api.iconify.design/ph/terminal-window-duotone.svg?height=32&color=%23888888)
+  /// ![terminal-window-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/terminal-window.png)
   static const terminalWindow = PhosphorDuotoneIconData(
     IconData(
       0xeae8,
@@ -27187,7 +27187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `testTube` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![test-tube-duotone](https://api.iconify.design/ph/test-tube-duotone.svg?height=32&color=%23888888)
+  /// ![test-tube-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/test-tube.png)
   static const testTube = PhosphorDuotoneIconData(
     IconData(
       0xe7a0,
@@ -27207,7 +27207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textAUnderline` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-a-underline-duotone](https://api.iconify.design/ph/text-a-underline-duotone.svg?height=32&color=%23888888)
+  /// ![text-a-underline-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-a-underline.png)
   static const textAUnderline = PhosphorDuotoneIconData(
     IconData(
       0xed34,
@@ -27227,7 +27227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textAa` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-aa-duotone](https://api.iconify.design/ph/text-aa-duotone.svg?height=32&color=%23888888)
+  /// ![text-aa-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-aa.png)
   static const textAa = PhosphorDuotoneIconData(
     IconData(
       0xe6ee,
@@ -27247,7 +27247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textAlignCenter` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-align-center-duotone](https://api.iconify.design/ph/text-align-center-duotone.svg?height=32&color=%23888888)
+  /// ![text-align-center-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-align-center.png)
   static const textAlignCenter = PhosphorDuotoneIconData(
     IconData(
       0xe480,
@@ -27267,7 +27267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textAlignJustify` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-align-justify-duotone](https://api.iconify.design/ph/text-align-justify-duotone.svg?height=32&color=%23888888)
+  /// ![text-align-justify-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-align-justify.png)
   static const textAlignJustify = PhosphorDuotoneIconData(
     IconData(
       0xe482,
@@ -27287,7 +27287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textAlignLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-align-left-duotone](https://api.iconify.design/ph/text-align-left-duotone.svg?height=32&color=%23888888)
+  /// ![text-align-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-align-left.png)
   static const textAlignLeft = PhosphorDuotoneIconData(
     IconData(
       0xe484,
@@ -27307,7 +27307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textAlignRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-align-right-duotone](https://api.iconify.design/ph/text-align-right-duotone.svg?height=32&color=%23888888)
+  /// ![text-align-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-align-right.png)
   static const textAlignRight = PhosphorDuotoneIconData(
     IconData(
       0xe486,
@@ -27327,7 +27327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textB` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-b-duotone](https://api.iconify.design/ph/text-b-duotone.svg?height=32&color=%23888888)
+  /// ![text-b-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-b.png)
   static const textB = PhosphorDuotoneIconData(
     IconData(
       0xe5be,
@@ -27347,7 +27347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textBolder` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-bolder-duotone](https://api.iconify.design/ph/text-b-duotone.svg?height=32&color=%23888888)
+  /// ![text-bolder-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-bolder.png)
   static const textBolder = PhosphorDuotoneIconData(
     IconData(
       0xe5be,
@@ -27367,7 +27367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textColumns` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-columns-duotone](https://api.iconify.design/ph/text-columns-duotone.svg?height=32&color=%23888888)
+  /// ![text-columns-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-columns.png)
   static const textColumns = PhosphorDuotoneIconData(
     IconData(
       0xec96,
@@ -27387,7 +27387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textH` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-h-duotone](https://api.iconify.design/ph/text-h-duotone.svg?height=32&color=%23888888)
+  /// ![text-h-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-h.png)
   static const textH = PhosphorDuotoneIconData(
     IconData(
       0xe6ba,
@@ -27407,7 +27407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textHFive` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-h-five-duotone](https://api.iconify.design/ph/text-h-five-duotone.svg?height=32&color=%23888888)
+  /// ![text-h-five-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-h-five.png)
   static const textHFive = PhosphorDuotoneIconData(
     IconData(
       0xe6c4,
@@ -27427,7 +27427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textHFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-h-four-duotone](https://api.iconify.design/ph/text-h-four-duotone.svg?height=32&color=%23888888)
+  /// ![text-h-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-h-four.png)
   static const textHFour = PhosphorDuotoneIconData(
     IconData(
       0xe6c2,
@@ -27447,7 +27447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textHOne` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-h-one-duotone](https://api.iconify.design/ph/text-h-one-duotone.svg?height=32&color=%23888888)
+  /// ![text-h-one-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-h-one.png)
   static const textHOne = PhosphorDuotoneIconData(
     IconData(
       0xe6bc,
@@ -27467,7 +27467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textHSix` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-h-six-duotone](https://api.iconify.design/ph/text-h-six-duotone.svg?height=32&color=%23888888)
+  /// ![text-h-six-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-h-six.png)
   static const textHSix = PhosphorDuotoneIconData(
     IconData(
       0xe6c6,
@@ -27487,7 +27487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textHThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-h-three-duotone](https://api.iconify.design/ph/text-h-three-duotone.svg?height=32&color=%23888888)
+  /// ![text-h-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-h-three.png)
   static const textHThree = PhosphorDuotoneIconData(
     IconData(
       0xe6c0,
@@ -27507,7 +27507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textHTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-h-two-duotone](https://api.iconify.design/ph/text-h-two-duotone.svg?height=32&color=%23888888)
+  /// ![text-h-two-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-h-two.png)
   static const textHTwo = PhosphorDuotoneIconData(
     IconData(
       0xe6be,
@@ -27527,7 +27527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textIndent` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-indent-duotone](https://api.iconify.design/ph/text-indent-duotone.svg?height=32&color=%23888888)
+  /// ![text-indent-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-indent.png)
   static const textIndent = PhosphorDuotoneIconData(
     IconData(
       0xea1e,
@@ -27547,7 +27547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textItalic` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-italic-duotone](https://api.iconify.design/ph/text-italic-duotone.svg?height=32&color=%23888888)
+  /// ![text-italic-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-italic.png)
   static const textItalic = PhosphorDuotoneIconData(
     IconData(
       0xe5c0,
@@ -27567,7 +27567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textOutdent` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-outdent-duotone](https://api.iconify.design/ph/text-outdent-duotone.svg?height=32&color=%23888888)
+  /// ![text-outdent-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-outdent.png)
   static const textOutdent = PhosphorDuotoneIconData(
     IconData(
       0xea1c,
@@ -27587,7 +27587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textStrikethrough` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-strikethrough-duotone](https://api.iconify.design/ph/text-strikethrough-duotone.svg?height=32&color=%23888888)
+  /// ![text-strikethrough-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-strikethrough.png)
   static const textStrikethrough = PhosphorDuotoneIconData(
     IconData(
       0xe5c2,
@@ -27607,7 +27607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textSubscript` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-subscript-duotone](https://api.iconify.design/ph/text-subscript-duotone.svg?height=32&color=%23888888)
+  /// ![text-subscript-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-subscript.png)
   static const textSubscript = PhosphorDuotoneIconData(
     IconData(
       0xec98,
@@ -27627,7 +27627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textSuperscript` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-superscript-duotone](https://api.iconify.design/ph/text-superscript-duotone.svg?height=32&color=%23888888)
+  /// ![text-superscript-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-superscript.png)
   static const textSuperscript = PhosphorDuotoneIconData(
     IconData(
       0xec9a,
@@ -27647,7 +27647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textT` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-t-duotone](https://api.iconify.design/ph/text-t-duotone.svg?height=32&color=%23888888)
+  /// ![text-t-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-t.png)
   static const textT = PhosphorDuotoneIconData(
     IconData(
       0xe48a,
@@ -27667,7 +27667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textTSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-t-slash-duotone](https://api.iconify.design/ph/text-t-slash-duotone.svg?height=32&color=%23888888)
+  /// ![text-t-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-t-slash.png)
   static const textTSlash = PhosphorDuotoneIconData(
     IconData(
       0xe488,
@@ -27687,7 +27687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textUnderline` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![text-underline-duotone](https://api.iconify.design/ph/text-underline-duotone.svg?height=32&color=%23888888)
+  /// ![text-underline-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/text-underline.png)
   static const textUnderline = PhosphorDuotoneIconData(
     IconData(
       0xe5c4,
@@ -27707,7 +27707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `textbox` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![textbox-duotone](https://api.iconify.design/ph/textbox-duotone.svg?height=32&color=%23888888)
+  /// ![textbox-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/textbox.png)
   static const textbox = PhosphorDuotoneIconData(
     IconData(
       0xeb0a,
@@ -27727,7 +27727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `thermometer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![thermometer-duotone](https://api.iconify.design/ph/thermometer-duotone.svg?height=32&color=%23888888)
+  /// ![thermometer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/thermometer.png)
   static const thermometer = PhosphorDuotoneIconData(
     IconData(
       0xe5c6,
@@ -27747,7 +27747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `thermometerCold` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![thermometer-cold-duotone](https://api.iconify.design/ph/thermometer-cold-duotone.svg?height=32&color=%23888888)
+  /// ![thermometer-cold-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/thermometer-cold.png)
   static const thermometerCold = PhosphorDuotoneIconData(
     IconData(
       0xe5c8,
@@ -27767,7 +27767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `thermometerHot` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![thermometer-hot-duotone](https://api.iconify.design/ph/thermometer-hot-duotone.svg?height=32&color=%23888888)
+  /// ![thermometer-hot-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/thermometer-hot.png)
   static const thermometerHot = PhosphorDuotoneIconData(
     IconData(
       0xe5ca,
@@ -27787,7 +27787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `thermometerSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![thermometer-simple-duotone](https://api.iconify.design/ph/thermometer-simple-duotone.svg?height=32&color=%23888888)
+  /// ![thermometer-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/thermometer-simple.png)
   static const thermometerSimple = PhosphorDuotoneIconData(
     IconData(
       0xe5cc,
@@ -27807,7 +27807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `threadsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![threads-logo-duotone](https://api.iconify.design/ph/threads-logo-duotone.svg?height=32&color=%23888888)
+  /// ![threads-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/threads-logo.png)
   static const threadsLogo = PhosphorDuotoneIconData(
     IconData(
       0xed9e,
@@ -27827,7 +27827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `threeD` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![three-d-duotone](https://api.iconify.design/ph/three-d-duotone.svg?height=32&color=%23888888)
+  /// ![three-d-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/three-d.png)
   static const threeD = PhosphorDuotoneIconData(
     IconData(
       0xea5a,
@@ -27847,7 +27847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `thumbsDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![thumbs-down-duotone](https://api.iconify.design/ph/thumbs-down-duotone.svg?height=32&color=%23888888)
+  /// ![thumbs-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/thumbs-down.png)
   static const thumbsDown = PhosphorDuotoneIconData(
     IconData(
       0xe48c,
@@ -27867,7 +27867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `thumbsUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![thumbs-up-duotone](https://api.iconify.design/ph/thumbs-up-duotone.svg?height=32&color=%23888888)
+  /// ![thumbs-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/thumbs-up.png)
   static const thumbsUp = PhosphorDuotoneIconData(
     IconData(
       0xe48e,
@@ -27887,7 +27887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `ticket` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![ticket-duotone](https://api.iconify.design/ph/ticket-duotone.svg?height=32&color=%23888888)
+  /// ![ticket-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/ticket.png)
   static const ticket = PhosphorDuotoneIconData(
     IconData(
       0xe490,
@@ -27907,7 +27907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tidalLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tidal-logo-duotone](https://api.iconify.design/ph/tidal-logo-duotone.svg?height=32&color=%23888888)
+  /// ![tidal-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tidal-logo.png)
   static const tidalLogo = PhosphorDuotoneIconData(
     IconData(
       0xed1c,
@@ -27927,7 +27927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tiktokLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tiktok-logo-duotone](https://api.iconify.design/ph/tiktok-logo-duotone.svg?height=32&color=%23888888)
+  /// ![tiktok-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tiktok-logo.png)
   static const tiktokLogo = PhosphorDuotoneIconData(
     IconData(
       0xeaf2,
@@ -27947,7 +27947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tilde` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tilde-duotone](https://api.iconify.design/ph/tilde-duotone.svg?height=32&color=%23888888)
+  /// ![tilde-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tilde.png)
   static const tilde = PhosphorDuotoneIconData(
     IconData(
       0xeda8,
@@ -27967,7 +27967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `timer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![timer-duotone](https://api.iconify.design/ph/timer-duotone.svg?height=32&color=%23888888)
+  /// ![timer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/timer.png)
   static const timer = PhosphorDuotoneIconData(
     IconData(
       0xe492,
@@ -27987,7 +27987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tipJar` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tip-jar-duotone](https://api.iconify.design/ph/tip-jar-duotone.svg?height=32&color=%23888888)
+  /// ![tip-jar-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tip-jar.png)
   static const tipJar = PhosphorDuotoneIconData(
     IconData(
       0xe7e2,
@@ -28007,7 +28007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tipi` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tipi-duotone](https://api.iconify.design/ph/tipi-duotone.svg?height=32&color=%23888888)
+  /// ![tipi-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tipi.png)
   static const tipi = PhosphorDuotoneIconData(
     IconData(
       0xed30,
@@ -28027,7 +28027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tire` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tire-duotone](https://api.iconify.design/ph/tire-duotone.svg?height=32&color=%23888888)
+  /// ![tire-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tire.png)
   static const tire = PhosphorDuotoneIconData(
     IconData(
       0xedd2,
@@ -28047,7 +28047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `toggleLeft` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![toggle-left-duotone](https://api.iconify.design/ph/toggle-left-duotone.svg?height=32&color=%23888888)
+  /// ![toggle-left-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/toggle-left.png)
   static const toggleLeft = PhosphorDuotoneIconData(
     IconData(
       0xe674,
@@ -28067,7 +28067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `toggleRight` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![toggle-right-duotone](https://api.iconify.design/ph/toggle-right-duotone.svg?height=32&color=%23888888)
+  /// ![toggle-right-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/toggle-right.png)
   static const toggleRight = PhosphorDuotoneIconData(
     IconData(
       0xe676,
@@ -28087,7 +28087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `toilet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![toilet-duotone](https://api.iconify.design/ph/toilet-duotone.svg?height=32&color=%23888888)
+  /// ![toilet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/toilet.png)
   static const toilet = PhosphorDuotoneIconData(
     IconData(
       0xe79a,
@@ -28107,7 +28107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `toiletPaper` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![toilet-paper-duotone](https://api.iconify.design/ph/toilet-paper-duotone.svg?height=32&color=%23888888)
+  /// ![toilet-paper-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/toilet-paper.png)
   static const toiletPaper = PhosphorDuotoneIconData(
     IconData(
       0xe79c,
@@ -28127,7 +28127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `toolbox` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![toolbox-duotone](https://api.iconify.design/ph/toolbox-duotone.svg?height=32&color=%23888888)
+  /// ![toolbox-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/toolbox.png)
   static const toolbox = PhosphorDuotoneIconData(
     IconData(
       0xeca0,
@@ -28147,7 +28147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tooth` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tooth-duotone](https://api.iconify.design/ph/tooth-duotone.svg?height=32&color=%23888888)
+  /// ![tooth-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tooth.png)
   static const tooth = PhosphorDuotoneIconData(
     IconData(
       0xe9cc,
@@ -28167,7 +28167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tornado` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tornado-duotone](https://api.iconify.design/ph/tornado-duotone.svg?height=32&color=%23888888)
+  /// ![tornado-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tornado.png)
   static const tornado = PhosphorDuotoneIconData(
     IconData(
       0xe88c,
@@ -28187,7 +28187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tote` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tote-duotone](https://api.iconify.design/ph/tote-duotone.svg?height=32&color=%23888888)
+  /// ![tote-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tote.png)
   static const tote = PhosphorDuotoneIconData(
     IconData(
       0xe494,
@@ -28207,7 +28207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `toteSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tote-simple-duotone](https://api.iconify.design/ph/tote-simple-duotone.svg?height=32&color=%23888888)
+  /// ![tote-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tote-simple.png)
   static const toteSimple = PhosphorDuotoneIconData(
     IconData(
       0xe678,
@@ -28227,7 +28227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `towel` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![towel-duotone](https://api.iconify.design/ph/towel-duotone.svg?height=32&color=%23888888)
+  /// ![towel-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/towel.png)
   static const towel = PhosphorDuotoneIconData(
     IconData(
       0xede6,
@@ -28247,7 +28247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tractor` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tractor-duotone](https://api.iconify.design/ph/tractor-duotone.svg?height=32&color=%23888888)
+  /// ![tractor-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tractor.png)
   static const tractor = PhosphorDuotoneIconData(
     IconData(
       0xec6e,
@@ -28267,7 +28267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trademark` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trademark-duotone](https://api.iconify.design/ph/trademark-duotone.svg?height=32&color=%23888888)
+  /// ![trademark-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trademark.png)
   static const trademark = PhosphorDuotoneIconData(
     IconData(
       0xe9f0,
@@ -28287,7 +28287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trademarkRegistered` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trademark-registered-duotone](https://api.iconify.design/ph/trademark-registered-duotone.svg?height=32&color=%23888888)
+  /// ![trademark-registered-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trademark-registered.png)
   static const trademarkRegistered = PhosphorDuotoneIconData(
     IconData(
       0xe3f4,
@@ -28307,7 +28307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trafficCone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![traffic-cone-duotone](https://api.iconify.design/ph/traffic-cone-duotone.svg?height=32&color=%23888888)
+  /// ![traffic-cone-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/traffic-cone.png)
   static const trafficCone = PhosphorDuotoneIconData(
     IconData(
       0xe9a8,
@@ -28327,7 +28327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trafficSign` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![traffic-sign-duotone](https://api.iconify.design/ph/traffic-sign-duotone.svg?height=32&color=%23888888)
+  /// ![traffic-sign-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/traffic-sign.png)
   static const trafficSign = PhosphorDuotoneIconData(
     IconData(
       0xe67a,
@@ -28347,7 +28347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trafficSignal` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![traffic-signal-duotone](https://api.iconify.design/ph/traffic-signal-duotone.svg?height=32&color=%23888888)
+  /// ![traffic-signal-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/traffic-signal.png)
   static const trafficSignal = PhosphorDuotoneIconData(
     IconData(
       0xe9aa,
@@ -28367,7 +28367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `train` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![train-duotone](https://api.iconify.design/ph/train-duotone.svg?height=32&color=%23888888)
+  /// ![train-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/train.png)
   static const train = PhosphorDuotoneIconData(
     IconData(
       0xe496,
@@ -28387,7 +28387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trainRegional` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![train-regional-duotone](https://api.iconify.design/ph/train-regional-duotone.svg?height=32&color=%23888888)
+  /// ![train-regional-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/train-regional.png)
   static const trainRegional = PhosphorDuotoneIconData(
     IconData(
       0xe49e,
@@ -28407,7 +28407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trainSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![train-simple-duotone](https://api.iconify.design/ph/train-simple-duotone.svg?height=32&color=%23888888)
+  /// ![train-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/train-simple.png)
   static const trainSimple = PhosphorDuotoneIconData(
     IconData(
       0xe4a0,
@@ -28427,7 +28427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tram` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tram-duotone](https://api.iconify.design/ph/tram-duotone.svg?height=32&color=%23888888)
+  /// ![tram-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tram.png)
   static const tram = PhosphorDuotoneIconData(
     IconData(
       0xe9ec,
@@ -28447,7 +28447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `translate` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![translate-duotone](https://api.iconify.design/ph/translate-duotone.svg?height=32&color=%23888888)
+  /// ![translate-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/translate.png)
   static const translate = PhosphorDuotoneIconData(
     IconData(
       0xe4a2,
@@ -28467,7 +28467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trash-duotone](https://api.iconify.design/ph/trash-duotone.svg?height=32&color=%23888888)
+  /// ![trash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trash.png)
   static const trash = PhosphorDuotoneIconData(
     IconData(
       0xe4a6,
@@ -28487,7 +28487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trashSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trash-simple-duotone](https://api.iconify.design/ph/trash-simple-duotone.svg?height=32&color=%23888888)
+  /// ![trash-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trash-simple.png)
   static const trashSimple = PhosphorDuotoneIconData(
     IconData(
       0xe4a8,
@@ -28507,7 +28507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tray` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tray-duotone](https://api.iconify.design/ph/tray-duotone.svg?height=32&color=%23888888)
+  /// ![tray-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tray.png)
   static const tray = PhosphorDuotoneIconData(
     IconData(
       0xe4aa,
@@ -28527,7 +28527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trayArrowDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tray-arrow-down-duotone](https://api.iconify.design/ph/tray-arrow-down-duotone.svg?height=32&color=%23888888)
+  /// ![tray-arrow-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tray-arrow-down.png)
   static const trayArrowDown = PhosphorDuotoneIconData(
     IconData(
       0xe010,
@@ -28547,7 +28547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trayArrowUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tray-arrow-up-duotone](https://api.iconify.design/ph/tray-arrow-up-duotone.svg?height=32&color=%23888888)
+  /// ![tray-arrow-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tray-arrow-up.png)
   static const trayArrowUp = PhosphorDuotoneIconData(
     IconData(
       0xee52,
@@ -28567,7 +28567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `treasureChest` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![treasure-chest-duotone](https://api.iconify.design/ph/treasure-chest-duotone.svg?height=32&color=%23888888)
+  /// ![treasure-chest-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/treasure-chest.png)
   static const treasureChest = PhosphorDuotoneIconData(
     IconData(
       0xede2,
@@ -28587,7 +28587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tree-duotone](https://api.iconify.design/ph/tree-duotone.svg?height=32&color=%23888888)
+  /// ![tree-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tree.png)
   static const tree = PhosphorDuotoneIconData(
     IconData(
       0xe6da,
@@ -28607,7 +28607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `treeEvergreen` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tree-evergreen-duotone](https://api.iconify.design/ph/tree-evergreen-duotone.svg?height=32&color=%23888888)
+  /// ![tree-evergreen-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tree-evergreen.png)
   static const treeEvergreen = PhosphorDuotoneIconData(
     IconData(
       0xe6dc,
@@ -28627,7 +28627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `treePalm` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tree-palm-duotone](https://api.iconify.design/ph/tree-palm-duotone.svg?height=32&color=%23888888)
+  /// ![tree-palm-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tree-palm.png)
   static const treePalm = PhosphorDuotoneIconData(
     IconData(
       0xe91a,
@@ -28647,7 +28647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `treeStructure` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tree-structure-duotone](https://api.iconify.design/ph/tree-structure-duotone.svg?height=32&color=%23888888)
+  /// ![tree-structure-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tree-structure.png)
   static const treeStructure = PhosphorDuotoneIconData(
     IconData(
       0xe67c,
@@ -28667,7 +28667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `treeView` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tree-view-duotone](https://api.iconify.design/ph/tree-view-duotone.svg?height=32&color=%23888888)
+  /// ![tree-view-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tree-view.png)
   static const treeView = PhosphorDuotoneIconData(
     IconData(
       0xee48,
@@ -28687,7 +28687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trendDown` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trend-down-duotone](https://api.iconify.design/ph/trend-down-duotone.svg?height=32&color=%23888888)
+  /// ![trend-down-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trend-down.png)
   static const trendDown = PhosphorDuotoneIconData(
     IconData(
       0xe4ac,
@@ -28707,7 +28707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trendUp` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trend-up-duotone](https://api.iconify.design/ph/trend-up-duotone.svg?height=32&color=%23888888)
+  /// ![trend-up-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trend-up.png)
   static const trendUp = PhosphorDuotoneIconData(
     IconData(
       0xe4ae,
@@ -28727,7 +28727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `triangle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![triangle-duotone](https://api.iconify.design/ph/triangle-duotone.svg?height=32&color=%23888888)
+  /// ![triangle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/triangle.png)
   static const triangle = PhosphorDuotoneIconData(
     IconData(
       0xe4b0,
@@ -28747,7 +28747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `triangleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![triangle-dashed-duotone](https://api.iconify.design/ph/triangle-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![triangle-dashed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/triangle-dashed.png)
   static const triangleDashed = PhosphorDuotoneIconData(
     IconData(
       0xe4b2,
@@ -28767,7 +28767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trolley` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trolley-duotone](https://api.iconify.design/ph/trolley-duotone.svg?height=32&color=%23888888)
+  /// ![trolley-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trolley.png)
   static const trolley = PhosphorDuotoneIconData(
     IconData(
       0xe5b2,
@@ -28787,7 +28787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trolleySuitcase` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trolley-suitcase-duotone](https://api.iconify.design/ph/trolley-suitcase-duotone.svg?height=32&color=%23888888)
+  /// ![trolley-suitcase-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trolley-suitcase.png)
   static const trolleySuitcase = PhosphorDuotoneIconData(
     IconData(
       0xe5b4,
@@ -28807,7 +28807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `trophy` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![trophy-duotone](https://api.iconify.design/ph/trophy-duotone.svg?height=32&color=%23888888)
+  /// ![trophy-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/trophy.png)
   static const trophy = PhosphorDuotoneIconData(
     IconData(
       0xe67e,
@@ -28827,7 +28827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `truck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![truck-duotone](https://api.iconify.design/ph/truck-duotone.svg?height=32&color=%23888888)
+  /// ![truck-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/truck.png)
   static const truck = PhosphorDuotoneIconData(
     IconData(
       0xe4b4,
@@ -28847,7 +28847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `truckTrailer` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![truck-trailer-duotone](https://api.iconify.design/ph/truck-trailer-duotone.svg?height=32&color=%23888888)
+  /// ![truck-trailer-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/truck-trailer.png)
   static const truckTrailer = PhosphorDuotoneIconData(
     IconData(
       0xe4b6,
@@ -28867,7 +28867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `tumblrLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![tumblr-logo-duotone](https://api.iconify.design/ph/tumblr-logo-duotone.svg?height=32&color=%23888888)
+  /// ![tumblr-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/tumblr-logo.png)
   static const tumblrLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8d4,
@@ -28887,7 +28887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `twitchLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![twitch-logo-duotone](https://api.iconify.design/ph/twitch-logo-duotone.svg?height=32&color=%23888888)
+  /// ![twitch-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/twitch-logo.png)
   static const twitchLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5ce,
@@ -28907,7 +28907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `twitterLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![twitter-logo-duotone](https://api.iconify.design/ph/twitter-logo-duotone.svg?height=32&color=%23888888)
+  /// ![twitter-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/twitter-logo.png)
   static const twitterLogo = PhosphorDuotoneIconData(
     IconData(
       0xe4ba,
@@ -28927,7 +28927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `umbrella` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![umbrella-duotone](https://api.iconify.design/ph/umbrella-duotone.svg?height=32&color=%23888888)
+  /// ![umbrella-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/umbrella.png)
   static const umbrella = PhosphorDuotoneIconData(
     IconData(
       0xe684,
@@ -28947,7 +28947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `umbrellaSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![umbrella-simple-duotone](https://api.iconify.design/ph/umbrella-simple-duotone.svg?height=32&color=%23888888)
+  /// ![umbrella-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/umbrella-simple.png)
   static const umbrellaSimple = PhosphorDuotoneIconData(
     IconData(
       0xe686,
@@ -28967,7 +28967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `union` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![union-duotone](https://api.iconify.design/ph/union-duotone.svg?height=32&color=%23888888)
+  /// ![union-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/union.png)
   static const union = PhosphorDuotoneIconData(
     IconData(
       0xedbe,
@@ -28987,7 +28987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `unite` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![unite-duotone](https://api.iconify.design/ph/unite-duotone.svg?height=32&color=%23888888)
+  /// ![unite-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/unite.png)
   static const unite = PhosphorDuotoneIconData(
     IconData(
       0xe87e,
@@ -29007,7 +29007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `uniteSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![unite-square-duotone](https://api.iconify.design/ph/unite-square-duotone.svg?height=32&color=%23888888)
+  /// ![unite-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/unite-square.png)
   static const uniteSquare = PhosphorDuotoneIconData(
     IconData(
       0xe878,
@@ -29027,7 +29027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `upload` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![upload-duotone](https://api.iconify.design/ph/upload-duotone.svg?height=32&color=%23888888)
+  /// ![upload-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/upload.png)
   static const upload = PhosphorDuotoneIconData(
     IconData(
       0xe4be,
@@ -29047,7 +29047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `uploadSimple` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![upload-simple-duotone](https://api.iconify.design/ph/upload-simple-duotone.svg?height=32&color=%23888888)
+  /// ![upload-simple-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/upload-simple.png)
   static const uploadSimple = PhosphorDuotoneIconData(
     IconData(
       0xe4c0,
@@ -29067,7 +29067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `usb` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![usb-duotone](https://api.iconify.design/ph/usb-duotone.svg?height=32&color=%23888888)
+  /// ![usb-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/usb.png)
   static const usb = PhosphorDuotoneIconData(
     IconData(
       0xe956,
@@ -29087,7 +29087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `user` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-duotone](https://api.iconify.design/ph/user-duotone.svg?height=32&color=%23888888)
+  /// ![user-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user.png)
   static const user = PhosphorDuotoneIconData(
     IconData(
       0xe4c2,
@@ -29107,7 +29107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-check-duotone](https://api.iconify.design/ph/user-check-duotone.svg?height=32&color=%23888888)
+  /// ![user-check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-check.png)
   static const userCheck = PhosphorDuotoneIconData(
     IconData(
       0xeafa,
@@ -29127,7 +29127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-circle-duotone](https://api.iconify.design/ph/user-circle-duotone.svg?height=32&color=%23888888)
+  /// ![user-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-circle.png)
   static const userCircle = PhosphorDuotoneIconData(
     IconData(
       0xe4c4,
@@ -29147,7 +29147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userCircleCheck` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-circle-check-duotone](https://api.iconify.design/ph/user-circle-check-duotone.svg?height=32&color=%23888888)
+  /// ![user-circle-check-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-circle-check.png)
   static const userCircleCheck = PhosphorDuotoneIconData(
     IconData(
       0xec38,
@@ -29167,7 +29167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userCircleDashed` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-circle-dashed-duotone](https://api.iconify.design/ph/user-circle-dashed-duotone.svg?height=32&color=%23888888)
+  /// ![user-circle-dashed-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-circle-dashed.png)
   static const userCircleDashed = PhosphorDuotoneIconData(
     IconData(
       0xec36,
@@ -29187,7 +29187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userCircleGear` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-circle-gear-duotone](https://api.iconify.design/ph/user-circle-gear-duotone.svg?height=32&color=%23888888)
+  /// ![user-circle-gear-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-circle-gear.png)
   static const userCircleGear = PhosphorDuotoneIconData(
     IconData(
       0xe4c6,
@@ -29207,7 +29207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userCircleMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-circle-minus-duotone](https://api.iconify.design/ph/user-circle-minus-duotone.svg?height=32&color=%23888888)
+  /// ![user-circle-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-circle-minus.png)
   static const userCircleMinus = PhosphorDuotoneIconData(
     IconData(
       0xe4c8,
@@ -29227,7 +29227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userCirclePlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-circle-plus-duotone](https://api.iconify.design/ph/user-circle-plus-duotone.svg?height=32&color=%23888888)
+  /// ![user-circle-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-circle-plus.png)
   static const userCirclePlus = PhosphorDuotoneIconData(
     IconData(
       0xe4ca,
@@ -29247,7 +29247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userFocus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-focus-duotone](https://api.iconify.design/ph/user-focus-duotone.svg?height=32&color=%23888888)
+  /// ![user-focus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-focus.png)
   static const userFocus = PhosphorDuotoneIconData(
     IconData(
       0xe6fc,
@@ -29267,7 +29267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userGear` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-gear-duotone](https://api.iconify.design/ph/user-gear-duotone.svg?height=32&color=%23888888)
+  /// ![user-gear-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-gear.png)
   static const userGear = PhosphorDuotoneIconData(
     IconData(
       0xe4cc,
@@ -29287,7 +29287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userList` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-list-duotone](https://api.iconify.design/ph/user-list-duotone.svg?height=32&color=%23888888)
+  /// ![user-list-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-list.png)
   static const userList = PhosphorDuotoneIconData(
     IconData(
       0xe73c,
@@ -29307,7 +29307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userMinus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-minus-duotone](https://api.iconify.design/ph/user-minus-duotone.svg?height=32&color=%23888888)
+  /// ![user-minus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-minus.png)
   static const userMinus = PhosphorDuotoneIconData(
     IconData(
       0xe4ce,
@@ -29327,7 +29327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userPlus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-plus-duotone](https://api.iconify.design/ph/user-plus-duotone.svg?height=32&color=%23888888)
+  /// ![user-plus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-plus.png)
   static const userPlus = PhosphorDuotoneIconData(
     IconData(
       0xe4d0,
@@ -29347,7 +29347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userRectangle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-rectangle-duotone](https://api.iconify.design/ph/user-rectangle-duotone.svg?height=32&color=%23888888)
+  /// ![user-rectangle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-rectangle.png)
   static const userRectangle = PhosphorDuotoneIconData(
     IconData(
       0xe4d2,
@@ -29367,7 +29367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userSound` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-sound-duotone](https://api.iconify.design/ph/user-sound-duotone.svg?height=32&color=%23888888)
+  /// ![user-sound-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-sound.png)
   static const userSound = PhosphorDuotoneIconData(
     IconData(
       0xeca8,
@@ -29387,7 +29387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-square-duotone](https://api.iconify.design/ph/user-square-duotone.svg?height=32&color=%23888888)
+  /// ![user-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-square.png)
   static const userSquare = PhosphorDuotoneIconData(
     IconData(
       0xe4d4,
@@ -29407,7 +29407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `userSwitch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![user-switch-duotone](https://api.iconify.design/ph/user-switch-duotone.svg?height=32&color=%23888888)
+  /// ![user-switch-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/user-switch.png)
   static const userSwitch = PhosphorDuotoneIconData(
     IconData(
       0xe756,
@@ -29427,7 +29427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `users` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![users-duotone](https://api.iconify.design/ph/users-duotone.svg?height=32&color=%23888888)
+  /// ![users-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/users.png)
   static const users = PhosphorDuotoneIconData(
     IconData(
       0xe4d6,
@@ -29447,7 +29447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `usersFour` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![users-four-duotone](https://api.iconify.design/ph/users-four-duotone.svg?height=32&color=%23888888)
+  /// ![users-four-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/users-four.png)
   static const usersFour = PhosphorDuotoneIconData(
     IconData(
       0xe68c,
@@ -29467,7 +29467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `usersThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![users-three-duotone](https://api.iconify.design/ph/users-three-duotone.svg?height=32&color=%23888888)
+  /// ![users-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/users-three.png)
   static const usersThree = PhosphorDuotoneIconData(
     IconData(
       0xe68e,
@@ -29487,7 +29487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `van` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![van-duotone](https://api.iconify.design/ph/van-duotone.svg?height=32&color=%23888888)
+  /// ![van-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/van.png)
   static const van = PhosphorDuotoneIconData(
     IconData(
       0xe826,
@@ -29507,7 +29507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `vault` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![vault-duotone](https://api.iconify.design/ph/vault-duotone.svg?height=32&color=%23888888)
+  /// ![vault-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/vault.png)
   static const vault = PhosphorDuotoneIconData(
     IconData(
       0xe76e,
@@ -29527,7 +29527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `vectorThree` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![vector-three-duotone](https://api.iconify.design/ph/vector-three-duotone.svg?height=32&color=%23888888)
+  /// ![vector-three-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/vector-three.png)
   static const vectorThree = PhosphorDuotoneIconData(
     IconData(
       0xee62,
@@ -29547,7 +29547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `vectorTwo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![vector-two-duotone](https://api.iconify.design/ph/vector-two-duotone.svg?height=32&color=%23888888)
+  /// ![vector-two-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/vector-two.png)
   static const vectorTwo = PhosphorDuotoneIconData(
     IconData(
       0xee64,
@@ -29567,7 +29567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `vibrate` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![vibrate-duotone](https://api.iconify.design/ph/vibrate-duotone.svg?height=32&color=%23888888)
+  /// ![vibrate-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/vibrate.png)
   static const vibrate = PhosphorDuotoneIconData(
     IconData(
       0xe4d8,
@@ -29587,7 +29587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `video` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![video-duotone](https://api.iconify.design/ph/video-duotone.svg?height=32&color=%23888888)
+  /// ![video-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/video.png)
   static const video = PhosphorDuotoneIconData(
     IconData(
       0xe740,
@@ -29607,7 +29607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `videoCamera` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![video-camera-duotone](https://api.iconify.design/ph/video-camera-duotone.svg?height=32&color=%23888888)
+  /// ![video-camera-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/video-camera.png)
   static const videoCamera = PhosphorDuotoneIconData(
     IconData(
       0xe4da,
@@ -29627,7 +29627,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `videoCameraSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![video-camera-slash-duotone](https://api.iconify.design/ph/video-camera-slash-duotone.svg?height=32&color=%23888888)
+  /// ![video-camera-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/video-camera-slash.png)
   static const videoCameraSlash = PhosphorDuotoneIconData(
     IconData(
       0xe4dc,
@@ -29647,7 +29647,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `videoConference` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![video-conference-duotone](https://api.iconify.design/ph/video-conference-duotone.svg?height=32&color=%23888888)
+  /// ![video-conference-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/video-conference.png)
   static const videoConference = PhosphorDuotoneIconData(
     IconData(
       0xedce,
@@ -29667,7 +29667,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `vignette` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![vignette-duotone](https://api.iconify.design/ph/vignette-duotone.svg?height=32&color=%23888888)
+  /// ![vignette-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/vignette.png)
   static const vignette = PhosphorDuotoneIconData(
     IconData(
       0xeba2,
@@ -29687,7 +29687,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `vinylRecord` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![vinyl-record-duotone](https://api.iconify.design/ph/vinyl-record-duotone.svg?height=32&color=%23888888)
+  /// ![vinyl-record-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/vinyl-record.png)
   static const vinylRecord = PhosphorDuotoneIconData(
     IconData(
       0xecac,
@@ -29707,7 +29707,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `virtualReality` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![virtual-reality-duotone](https://api.iconify.design/ph/virtual-reality-duotone.svg?height=32&color=%23888888)
+  /// ![virtual-reality-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/virtual-reality.png)
   static const virtualReality = PhosphorDuotoneIconData(
     IconData(
       0xe7b8,
@@ -29727,7 +29727,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `virus` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![virus-duotone](https://api.iconify.design/ph/virus-duotone.svg?height=32&color=%23888888)
+  /// ![virus-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/virus.png)
   static const virus = PhosphorDuotoneIconData(
     IconData(
       0xe7d6,
@@ -29747,7 +29747,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `visor` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![visor-duotone](https://api.iconify.design/ph/visor-duotone.svg?height=32&color=%23888888)
+  /// ![visor-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/visor.png)
   static const visor = PhosphorDuotoneIconData(
     IconData(
       0xee2a,
@@ -29767,7 +29767,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `voicemail` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![voicemail-duotone](https://api.iconify.design/ph/voicemail-duotone.svg?height=32&color=%23888888)
+  /// ![voicemail-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/voicemail.png)
   static const voicemail = PhosphorDuotoneIconData(
     IconData(
       0xe4de,
@@ -29787,7 +29787,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `volleyball` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![volleyball-duotone](https://api.iconify.design/ph/volleyball-duotone.svg?height=32&color=%23888888)
+  /// ![volleyball-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/volleyball.png)
   static const volleyball = PhosphorDuotoneIconData(
     IconData(
       0xe726,
@@ -29807,7 +29807,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wall` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wall-duotone](https://api.iconify.design/ph/wall-duotone.svg?height=32&color=%23888888)
+  /// ![wall-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wall.png)
   static const wall = PhosphorDuotoneIconData(
     IconData(
       0xe688,
@@ -29827,7 +29827,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wallet` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wallet-duotone](https://api.iconify.design/ph/wallet-duotone.svg?height=32&color=%23888888)
+  /// ![wallet-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wallet.png)
   static const wallet = PhosphorDuotoneIconData(
     IconData(
       0xe68a,
@@ -29847,7 +29847,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `warehouse` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![warehouse-duotone](https://api.iconify.design/ph/warehouse-duotone.svg?height=32&color=%23888888)
+  /// ![warehouse-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/warehouse.png)
   static const warehouse = PhosphorDuotoneIconData(
     IconData(
       0xecd4,
@@ -29867,7 +29867,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `warning` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![warning-duotone](https://api.iconify.design/ph/warning-duotone.svg?height=32&color=%23888888)
+  /// ![warning-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/warning.png)
   static const warning = PhosphorDuotoneIconData(
     IconData(
       0xe4e0,
@@ -29887,7 +29887,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `warningCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![warning-circle-duotone](https://api.iconify.design/ph/warning-circle-duotone.svg?height=32&color=%23888888)
+  /// ![warning-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/warning-circle.png)
   static const warningCircle = PhosphorDuotoneIconData(
     IconData(
       0xe4e2,
@@ -29907,7 +29907,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `warningDiamond` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![warning-diamond-duotone](https://api.iconify.design/ph/warning-diamond-duotone.svg?height=32&color=%23888888)
+  /// ![warning-diamond-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/warning-diamond.png)
   static const warningDiamond = PhosphorDuotoneIconData(
     IconData(
       0xe7fc,
@@ -29927,7 +29927,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `warningOctagon` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![warning-octagon-duotone](https://api.iconify.design/ph/warning-octagon-duotone.svg?height=32&color=%23888888)
+  /// ![warning-octagon-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/warning-octagon.png)
   static const warningOctagon = PhosphorDuotoneIconData(
     IconData(
       0xe4e4,
@@ -29947,7 +29947,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `washingMachine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![washing-machine-duotone](https://api.iconify.design/ph/washing-machine-duotone.svg?height=32&color=%23888888)
+  /// ![washing-machine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/washing-machine.png)
   static const washingMachine = PhosphorDuotoneIconData(
     IconData(
       0xede8,
@@ -29967,7 +29967,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `watch` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![watch-duotone](https://api.iconify.design/ph/watch-duotone.svg?height=32&color=%23888888)
+  /// ![watch-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/watch.png)
   static const watch = PhosphorDuotoneIconData(
     IconData(
       0xe4e6,
@@ -29987,7 +29987,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `waveSawtooth` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wave-sawtooth-duotone](https://api.iconify.design/ph/wave-sawtooth-duotone.svg?height=32&color=%23888888)
+  /// ![wave-sawtooth-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wave-sawtooth.png)
   static const waveSawtooth = PhosphorDuotoneIconData(
     IconData(
       0xea9c,
@@ -30007,7 +30007,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `waveSine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wave-sine-duotone](https://api.iconify.design/ph/wave-sine-duotone.svg?height=32&color=%23888888)
+  /// ![wave-sine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wave-sine.png)
   static const waveSine = PhosphorDuotoneIconData(
     IconData(
       0xea9a,
@@ -30027,7 +30027,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `waveSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wave-square-duotone](https://api.iconify.design/ph/wave-square-duotone.svg?height=32&color=%23888888)
+  /// ![wave-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wave-square.png)
   static const waveSquare = PhosphorDuotoneIconData(
     IconData(
       0xea9e,
@@ -30047,7 +30047,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `waveTriangle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wave-triangle-duotone](https://api.iconify.design/ph/wave-triangle-duotone.svg?height=32&color=%23888888)
+  /// ![wave-triangle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wave-triangle.png)
   static const waveTriangle = PhosphorDuotoneIconData(
     IconData(
       0xeaa0,
@@ -30067,7 +30067,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `waveform` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![waveform-duotone](https://api.iconify.design/ph/waveform-duotone.svg?height=32&color=%23888888)
+  /// ![waveform-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/waveform.png)
   static const waveform = PhosphorDuotoneIconData(
     IconData(
       0xe802,
@@ -30087,7 +30087,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `waveformSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![waveform-slash-duotone](https://api.iconify.design/ph/waveform-slash-duotone.svg?height=32&color=%23888888)
+  /// ![waveform-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/waveform-slash.png)
   static const waveformSlash = PhosphorDuotoneIconData(
     IconData(
       0xe800,
@@ -30107,7 +30107,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `waves` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![waves-duotone](https://api.iconify.design/ph/waves-duotone.svg?height=32&color=%23888888)
+  /// ![waves-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/waves.png)
   static const waves = PhosphorDuotoneIconData(
     IconData(
       0xe6de,
@@ -30127,7 +30127,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `webcam` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![webcam-duotone](https://api.iconify.design/ph/webcam-duotone.svg?height=32&color=%23888888)
+  /// ![webcam-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/webcam.png)
   static const webcam = PhosphorDuotoneIconData(
     IconData(
       0xe9b2,
@@ -30147,7 +30147,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `webcamSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![webcam-slash-duotone](https://api.iconify.design/ph/webcam-slash-duotone.svg?height=32&color=%23888888)
+  /// ![webcam-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/webcam-slash.png)
   static const webcamSlash = PhosphorDuotoneIconData(
     IconData(
       0xecdc,
@@ -30167,7 +30167,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `webhooksLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![webhooks-logo-duotone](https://api.iconify.design/ph/webhooks-logo-duotone.svg?height=32&color=%23888888)
+  /// ![webhooks-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/webhooks-logo.png)
   static const webhooksLogo = PhosphorDuotoneIconData(
     IconData(
       0xecae,
@@ -30187,7 +30187,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wechatLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wechat-logo-duotone](https://api.iconify.design/ph/wechat-logo-duotone.svg?height=32&color=%23888888)
+  /// ![wechat-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wechat-logo.png)
   static const wechatLogo = PhosphorDuotoneIconData(
     IconData(
       0xe8d2,
@@ -30207,7 +30207,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `whatsappLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![whatsapp-logo-duotone](https://api.iconify.design/ph/whatsapp-logo-duotone.svg?height=32&color=%23888888)
+  /// ![whatsapp-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/whatsapp-logo.png)
   static const whatsappLogo = PhosphorDuotoneIconData(
     IconData(
       0xe5d0,
@@ -30227,7 +30227,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wheelchair` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wheelchair-duotone](https://api.iconify.design/ph/wheelchair-duotone.svg?height=32&color=%23888888)
+  /// ![wheelchair-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wheelchair.png)
   static const wheelchair = PhosphorDuotoneIconData(
     IconData(
       0xe4e8,
@@ -30247,7 +30247,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wheelchairMotion` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wheelchair-motion-duotone](https://api.iconify.design/ph/wheelchair-motion-duotone.svg?height=32&color=%23888888)
+  /// ![wheelchair-motion-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wheelchair-motion.png)
   static const wheelchairMotion = PhosphorDuotoneIconData(
     IconData(
       0xe89a,
@@ -30267,7 +30267,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wifiHigh` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wifi-high-duotone](https://api.iconify.design/ph/wifi-high-duotone.svg?height=32&color=%23888888)
+  /// ![wifi-high-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wifi-high.png)
   static const wifiHigh = PhosphorDuotoneIconData(
     IconData(
       0xe4ea,
@@ -30287,7 +30287,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wifiLow` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wifi-low-duotone](https://api.iconify.design/ph/wifi-low-duotone.svg?height=32&color=%23888888)
+  /// ![wifi-low-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wifi-low.png)
   static const wifiLow = PhosphorDuotoneIconData(
     IconData(
       0xe4ec,
@@ -30307,7 +30307,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wifiMedium` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wifi-medium-duotone](https://api.iconify.design/ph/wifi-medium-duotone.svg?height=32&color=%23888888)
+  /// ![wifi-medium-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wifi-medium.png)
   static const wifiMedium = PhosphorDuotoneIconData(
     IconData(
       0xe4ee,
@@ -30327,7 +30327,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wifiNone` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wifi-none-duotone](https://api.iconify.design/ph/wifi-none-duotone.svg?height=32&color=%23888888)
+  /// ![wifi-none-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wifi-none.png)
   static const wifiNone = PhosphorDuotoneIconData(
     IconData(
       0xe4f0,
@@ -30347,7 +30347,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wifiSlash` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wifi-slash-duotone](https://api.iconify.design/ph/wifi-slash-duotone.svg?height=32&color=%23888888)
+  /// ![wifi-slash-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wifi-slash.png)
   static const wifiSlash = PhosphorDuotoneIconData(
     IconData(
       0xe4f2,
@@ -30367,7 +30367,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wifiX` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wifi-x-duotone](https://api.iconify.design/ph/wifi-x-duotone.svg?height=32&color=%23888888)
+  /// ![wifi-x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wifi-x.png)
   static const wifiX = PhosphorDuotoneIconData(
     IconData(
       0xe4f4,
@@ -30387,7 +30387,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wind` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wind-duotone](https://api.iconify.design/ph/wind-duotone.svg?height=32&color=%23888888)
+  /// ![wind-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wind.png)
   static const wind = PhosphorDuotoneIconData(
     IconData(
       0xe5d2,
@@ -30407,7 +30407,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `windmill` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![windmill-duotone](https://api.iconify.design/ph/windmill-duotone.svg?height=32&color=%23888888)
+  /// ![windmill-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/windmill.png)
   static const windmill = PhosphorDuotoneIconData(
     IconData(
       0xe9f8,
@@ -30427,7 +30427,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `windowsLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![windows-logo-duotone](https://api.iconify.design/ph/windows-logo-duotone.svg?height=32&color=%23888888)
+  /// ![windows-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/windows-logo.png)
   static const windowsLogo = PhosphorDuotoneIconData(
     IconData(
       0xe692,
@@ -30447,7 +30447,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wine` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wine-duotone](https://api.iconify.design/ph/wine-duotone.svg?height=32&color=%23888888)
+  /// ![wine-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wine.png)
   static const wine = PhosphorDuotoneIconData(
     IconData(
       0xe6b2,
@@ -30467,7 +30467,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `wrench` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![wrench-duotone](https://api.iconify.design/ph/wrench-duotone.svg?height=32&color=%23888888)
+  /// ![wrench-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/wrench.png)
   static const wrench = PhosphorDuotoneIconData(
     IconData(
       0xe5d4,
@@ -30487,7 +30487,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `x` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![x-duotone](https://api.iconify.design/ph/x-duotone.svg?height=32&color=%23888888)
+  /// ![x-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/x.png)
   static const x = PhosphorDuotoneIconData(
     IconData(
       0xe4f6,
@@ -30507,7 +30507,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `xCircle` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![x-circle-duotone](https://api.iconify.design/ph/x-circle-duotone.svg?height=32&color=%23888888)
+  /// ![x-circle-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/x-circle.png)
   static const xCircle = PhosphorDuotoneIconData(
     IconData(
       0xe4f8,
@@ -30527,7 +30527,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `xLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![x-logo-duotone](https://api.iconify.design/ph/x-logo-duotone.svg?height=32&color=%23888888)
+  /// ![x-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/x-logo.png)
   static const xLogo = PhosphorDuotoneIconData(
     IconData(
       0xe4bc,
@@ -30547,7 +30547,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `xSquare` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![x-square-duotone](https://api.iconify.design/ph/x-square-duotone.svg?height=32&color=%23888888)
+  /// ![x-square-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/x-square.png)
   static const xSquare = PhosphorDuotoneIconData(
     IconData(
       0xe4fa,
@@ -30567,7 +30567,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `yarn` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![yarn-duotone](https://api.iconify.design/ph/yarn-duotone.svg?height=32&color=%23888888)
+  /// ![yarn-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/yarn.png)
   static const yarn = PhosphorDuotoneIconData(
     IconData(
       0xed9a,
@@ -30587,7 +30587,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `yinYang` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![yin-yang-duotone](https://api.iconify.design/ph/yin-yang-duotone.svg?height=32&color=%23888888)
+  /// ![yin-yang-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/yin-yang.png)
   static const yinYang = PhosphorDuotoneIconData(
     IconData(
       0xe92a,
@@ -30607,7 +30607,7 @@ class PhosphorIconsDuotone {
   ///
   /// [PT] O ícone `youtubeLogo` no estilo Duotone. Renderize com `PhosphorIcon`.
   ///
-  /// ![youtube-logo-duotone](https://api.iconify.design/ph/youtube-logo-duotone.svg?height=32&color=%23888888)
+  /// ![youtube-logo-duotone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/duotone/youtube-logo.png)
   static const youtubeLogo = PhosphorDuotoneIconData(
     IconData(
       0xe4fc,

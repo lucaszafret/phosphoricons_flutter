@@ -19,7 +19,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `acorn` no estilo Regular.
   ///
-  /// ![acorn](https://api.iconify.design/ph/acorn.svg?height=32&color=%23888888)
+  /// ![acorn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/acorn.png)
   static const IconData acorn = IconData(
     0xeb9a,
     fontFamily: 'PhosphorRegular',
@@ -31,7 +31,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `activity` no estilo Regular.
   ///
-  /// ![activity](https://api.iconify.design/ph/pulse.svg?height=32&color=%23888888)
+  /// ![activity](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/activity.png)
   static const IconData activity = IconData(
     0xe000,
     fontFamily: 'PhosphorRegular',
@@ -43,7 +43,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `addressBook` no estilo Regular.
   ///
-  /// ![address-book](https://api.iconify.design/ph/address-book.svg?height=32&color=%23888888)
+  /// ![address-book](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/address-book.png)
   static const IconData addressBook = IconData(
     0xe6f8,
     fontFamily: 'PhosphorRegular',
@@ -55,7 +55,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `addressBookTabs` no estilo Regular.
   ///
-  /// ![address-book-tabs](https://api.iconify.design/ph/address-book-tabs.svg?height=32&color=%23888888)
+  /// ![address-book-tabs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/address-book-tabs.png)
   static const IconData addressBookTabs = IconData(
     0xee4e,
     fontFamily: 'PhosphorRegular',
@@ -67,7 +67,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airTrafficControl` no estilo Regular.
   ///
-  /// ![air-traffic-control](https://api.iconify.design/ph/air-traffic-control.svg?height=32&color=%23888888)
+  /// ![air-traffic-control](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/air-traffic-control.png)
   static const IconData airTrafficControl = IconData(
     0xecd8,
     fontFamily: 'PhosphorRegular',
@@ -79,7 +79,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplane` no estilo Regular.
   ///
-  /// ![airplane](https://api.iconify.design/ph/airplane.svg?height=32&color=%23888888)
+  /// ![airplane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/airplane.png)
   static const IconData airplane = IconData(
     0xe002,
     fontFamily: 'PhosphorRegular',
@@ -91,7 +91,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneInFlight` no estilo Regular.
   ///
-  /// ![airplane-in-flight](https://api.iconify.design/ph/airplane-in-flight.svg?height=32&color=%23888888)
+  /// ![airplane-in-flight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/airplane-in-flight.png)
   static const IconData airplaneInFlight = IconData(
     0xe4fe,
     fontFamily: 'PhosphorRegular',
@@ -103,7 +103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneLanding` no estilo Regular.
   ///
-  /// ![airplane-landing](https://api.iconify.design/ph/airplane-landing.svg?height=32&color=%23888888)
+  /// ![airplane-landing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/airplane-landing.png)
   static const IconData airplaneLanding = IconData(
     0xe502,
     fontFamily: 'PhosphorRegular',
@@ -115,7 +115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneTakeoff` no estilo Regular.
   ///
-  /// ![airplane-takeoff](https://api.iconify.design/ph/airplane-takeoff.svg?height=32&color=%23888888)
+  /// ![airplane-takeoff](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/airplane-takeoff.png)
   static const IconData airplaneTakeoff = IconData(
     0xe504,
     fontFamily: 'PhosphorRegular',
@@ -127,7 +127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneTaxiing` no estilo Regular.
   ///
-  /// ![airplane-taxiing](https://api.iconify.design/ph/airplane-taxiing.svg?height=32&color=%23888888)
+  /// ![airplane-taxiing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/airplane-taxiing.png)
   static const IconData airplaneTaxiing = IconData(
     0xe500,
     fontFamily: 'PhosphorRegular',
@@ -139,7 +139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplaneTilt` no estilo Regular.
   ///
-  /// ![airplane-tilt](https://api.iconify.design/ph/airplane-tilt.svg?height=32&color=%23888888)
+  /// ![airplane-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/airplane-tilt.png)
   static const IconData airplaneTilt = IconData(
     0xe5d6,
     fontFamily: 'PhosphorRegular',
@@ -151,7 +151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `airplay` no estilo Regular.
   ///
-  /// ![airplay](https://api.iconify.design/ph/airplay.svg?height=32&color=%23888888)
+  /// ![airplay](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/airplay.png)
   static const IconData airplay = IconData(
     0xe004,
     fontFamily: 'PhosphorRegular',
@@ -163,7 +163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alarm` no estilo Regular.
   ///
-  /// ![alarm](https://api.iconify.design/ph/alarm.svg?height=32&color=%23888888)
+  /// ![alarm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/alarm.png)
   static const IconData alarm = IconData(
     0xe006,
     fontFamily: 'PhosphorRegular',
@@ -175,7 +175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alien` no estilo Regular.
   ///
-  /// ![alien](https://api.iconify.design/ph/alien.svg?height=32&color=%23888888)
+  /// ![alien](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/alien.png)
   static const IconData alien = IconData(
     0xe8a6,
     fontFamily: 'PhosphorRegular',
@@ -187,7 +187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignBottom` no estilo Regular.
   ///
-  /// ![align-bottom](https://api.iconify.design/ph/align-bottom.svg?height=32&color=%23888888)
+  /// ![align-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-bottom.png)
   static const IconData alignBottom = IconData(
     0xe506,
     fontFamily: 'PhosphorRegular',
@@ -199,7 +199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignBottomSimple` no estilo Regular.
   ///
-  /// ![align-bottom-simple](https://api.iconify.design/ph/align-bottom-simple.svg?height=32&color=%23888888)
+  /// ![align-bottom-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-bottom-simple.png)
   static const IconData alignBottomSimple = IconData(
     0xeb0c,
     fontFamily: 'PhosphorRegular',
@@ -211,7 +211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterHorizontal` no estilo Regular.
   ///
-  /// ![align-center-horizontal](https://api.iconify.design/ph/align-center-horizontal.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-center-horizontal.png)
   static const IconData alignCenterHorizontal = IconData(
     0xe50a,
     fontFamily: 'PhosphorRegular',
@@ -223,7 +223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Regular.
   ///
-  /// ![align-center-horizontal-simple](https://api.iconify.design/ph/align-center-horizontal-simple.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-center-horizontal-simple.png)
   static const IconData alignCenterHorizontalSimple = IconData(
     0xeb0e,
     fontFamily: 'PhosphorRegular',
@@ -235,7 +235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterVertical` no estilo Regular.
   ///
-  /// ![align-center-vertical](https://api.iconify.design/ph/align-center-vertical.svg?height=32&color=%23888888)
+  /// ![align-center-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-center-vertical.png)
   static const IconData alignCenterVertical = IconData(
     0xe50c,
     fontFamily: 'PhosphorRegular',
@@ -247,7 +247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignCenterVerticalSimple` no estilo Regular.
   ///
-  /// ![align-center-vertical-simple](https://api.iconify.design/ph/align-center-vertical-simple.svg?height=32&color=%23888888)
+  /// ![align-center-vertical-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-center-vertical-simple.png)
   static const IconData alignCenterVerticalSimple = IconData(
     0xeb10,
     fontFamily: 'PhosphorRegular',
@@ -259,7 +259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignLeft` no estilo Regular.
   ///
-  /// ![align-left](https://api.iconify.design/ph/align-left.svg?height=32&color=%23888888)
+  /// ![align-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-left.png)
   static const IconData alignLeft = IconData(
     0xe50e,
     fontFamily: 'PhosphorRegular',
@@ -271,7 +271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignLeftSimple` no estilo Regular.
   ///
-  /// ![align-left-simple](https://api.iconify.design/ph/align-left-simple.svg?height=32&color=%23888888)
+  /// ![align-left-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-left-simple.png)
   static const IconData alignLeftSimple = IconData(
     0xeaee,
     fontFamily: 'PhosphorRegular',
@@ -283,7 +283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignRight` no estilo Regular.
   ///
-  /// ![align-right](https://api.iconify.design/ph/align-right.svg?height=32&color=%23888888)
+  /// ![align-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-right.png)
   static const IconData alignRight = IconData(
     0xe510,
     fontFamily: 'PhosphorRegular',
@@ -295,7 +295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignRightSimple` no estilo Regular.
   ///
-  /// ![align-right-simple](https://api.iconify.design/ph/align-right-simple.svg?height=32&color=%23888888)
+  /// ![align-right-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-right-simple.png)
   static const IconData alignRightSimple = IconData(
     0xeb12,
     fontFamily: 'PhosphorRegular',
@@ -307,7 +307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignTop` no estilo Regular.
   ///
-  /// ![align-top](https://api.iconify.design/ph/align-top.svg?height=32&color=%23888888)
+  /// ![align-top](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-top.png)
   static const IconData alignTop = IconData(
     0xe512,
     fontFamily: 'PhosphorRegular',
@@ -319,7 +319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `alignTopSimple` no estilo Regular.
   ///
-  /// ![align-top-simple](https://api.iconify.design/ph/align-top-simple.svg?height=32&color=%23888888)
+  /// ![align-top-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/align-top-simple.png)
   static const IconData alignTopSimple = IconData(
     0xeb14,
     fontFamily: 'PhosphorRegular',
@@ -331,7 +331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `amazonLogo` no estilo Regular.
   ///
-  /// ![amazon-logo](https://api.iconify.design/ph/amazon-logo.svg?height=32&color=%23888888)
+  /// ![amazon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/amazon-logo.png)
   static const IconData amazonLogo = IconData(
     0xe96c,
     fontFamily: 'PhosphorRegular',
@@ -343,7 +343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ambulance` no estilo Regular.
   ///
-  /// ![ambulance](https://api.iconify.design/ph/ambulance.svg?height=32&color=%23888888)
+  /// ![ambulance](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ambulance.png)
   static const IconData ambulance = IconData(
     0xe572,
     fontFamily: 'PhosphorRegular',
@@ -355,7 +355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `anchor` no estilo Regular.
   ///
-  /// ![anchor](https://api.iconify.design/ph/anchor.svg?height=32&color=%23888888)
+  /// ![anchor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/anchor.png)
   static const IconData anchor = IconData(
     0xe514,
     fontFamily: 'PhosphorRegular',
@@ -367,7 +367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `anchorSimple` no estilo Regular.
   ///
-  /// ![anchor-simple](https://api.iconify.design/ph/anchor-simple.svg?height=32&color=%23888888)
+  /// ![anchor-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/anchor-simple.png)
   static const IconData anchorSimple = IconData(
     0xe5d8,
     fontFamily: 'PhosphorRegular',
@@ -379,7 +379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `androidLogo` no estilo Regular.
   ///
-  /// ![android-logo](https://api.iconify.design/ph/android-logo.svg?height=32&color=%23888888)
+  /// ![android-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/android-logo.png)
   static const IconData androidLogo = IconData(
     0xe008,
     fontFamily: 'PhosphorRegular',
@@ -391,7 +391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `angle` no estilo Regular.
   ///
-  /// ![angle](https://api.iconify.design/ph/angle.svg?height=32&color=%23888888)
+  /// ![angle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/angle.png)
   static const IconData angle = IconData(
     0xe7bc,
     fontFamily: 'PhosphorRegular',
@@ -403,7 +403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `angularLogo` no estilo Regular.
   ///
-  /// ![angular-logo](https://api.iconify.design/ph/angular-logo.svg?height=32&color=%23888888)
+  /// ![angular-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/angular-logo.png)
   static const IconData angularLogo = IconData(
     0xeb80,
     fontFamily: 'PhosphorRegular',
@@ -415,7 +415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `aperture` no estilo Regular.
   ///
-  /// ![aperture](https://api.iconify.design/ph/aperture.svg?height=32&color=%23888888)
+  /// ![aperture](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/aperture.png)
   static const IconData aperture = IconData(
     0xe00a,
     fontFamily: 'PhosphorRegular',
@@ -427,7 +427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `appStoreLogo` no estilo Regular.
   ///
-  /// ![app-store-logo](https://api.iconify.design/ph/app-store-logo.svg?height=32&color=%23888888)
+  /// ![app-store-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/app-store-logo.png)
   static const IconData appStoreLogo = IconData(
     0xe974,
     fontFamily: 'PhosphorRegular',
@@ -439,7 +439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `appWindow` no estilo Regular.
   ///
-  /// ![app-window](https://api.iconify.design/ph/app-window.svg?height=32&color=%23888888)
+  /// ![app-window](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/app-window.png)
   static const IconData appWindow = IconData(
     0xe5da,
     fontFamily: 'PhosphorRegular',
@@ -451,7 +451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `appleLogo` no estilo Regular.
   ///
-  /// ![apple-logo](https://api.iconify.design/ph/apple-logo.svg?height=32&color=%23888888)
+  /// ![apple-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/apple-logo.png)
   static const IconData appleLogo = IconData(
     0xe516,
     fontFamily: 'PhosphorRegular',
@@ -463,7 +463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `applePodcastsLogo` no estilo Regular.
   ///
-  /// ![apple-podcasts-logo](https://api.iconify.design/ph/apple-podcasts-logo.svg?height=32&color=%23888888)
+  /// ![apple-podcasts-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/apple-podcasts-logo.png)
   static const IconData applePodcastsLogo = IconData(
     0xeb96,
     fontFamily: 'PhosphorRegular',
@@ -475,7 +475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `approximateEquals` no estilo Regular.
   ///
-  /// ![approximate-equals](https://api.iconify.design/ph/approximate-equals.svg?height=32&color=%23888888)
+  /// ![approximate-equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/approximate-equals.png)
   static const IconData approximateEquals = IconData(
     0xedaa,
     fontFamily: 'PhosphorRegular',
@@ -487,7 +487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `archive` no estilo Regular.
   ///
-  /// ![archive](https://api.iconify.design/ph/archive.svg?height=32&color=%23888888)
+  /// ![archive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/archive.png)
   static const IconData archive = IconData(
     0xe00c,
     fontFamily: 'PhosphorRegular',
@@ -499,7 +499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `archiveBox` no estilo Regular.
   ///
-  /// ![archive-box](https://api.iconify.design/ph/box-arrow-down.svg?height=32&color=%23888888)
+  /// ![archive-box](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/archive-box.png)
   static const IconData archiveBox = IconData(
     0xe00e,
     fontFamily: 'PhosphorRegular',
@@ -511,7 +511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `archiveTray` no estilo Regular.
   ///
-  /// ![archive-tray](https://api.iconify.design/ph/tray-arrow-down.svg?height=32&color=%23888888)
+  /// ![archive-tray](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/archive-tray.png)
   static const IconData archiveTray = IconData(
     0xe010,
     fontFamily: 'PhosphorRegular',
@@ -523,7 +523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `armchair` no estilo Regular.
   ///
-  /// ![armchair](https://api.iconify.design/ph/armchair.svg?height=32&color=%23888888)
+  /// ![armchair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/armchair.png)
   static const IconData armchair = IconData(
     0xe012,
     fontFamily: 'PhosphorRegular',
@@ -535,7 +535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowArcLeft` no estilo Regular.
   ///
-  /// ![arrow-arc-left](https://api.iconify.design/ph/arrow-arc-left.svg?height=32&color=%23888888)
+  /// ![arrow-arc-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-arc-left.png)
   static const IconData arrowArcLeft = IconData(
     0xe014,
     fontFamily: 'PhosphorRegular',
@@ -547,7 +547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowArcRight` no estilo Regular.
   ///
-  /// ![arrow-arc-right](https://api.iconify.design/ph/arrow-arc-right.svg?height=32&color=%23888888)
+  /// ![arrow-arc-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-arc-right.png)
   static const IconData arrowArcRight = IconData(
     0xe016,
     fontFamily: 'PhosphorRegular',
@@ -559,7 +559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Regular.
   ///
-  /// ![arrow-bend-double-up-left](https://api.iconify.design/ph/arrow-bend-double-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-double-up-left.png)
   static const IconData arrowBendDoubleUpLeft = IconData(
     0xe03a,
     fontFamily: 'PhosphorRegular',
@@ -571,7 +571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Regular.
   ///
-  /// ![arrow-bend-double-up-right](https://api.iconify.design/ph/arrow-bend-double-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-double-up-right.png)
   static const IconData arrowBendDoubleUpRight = IconData(
     0xe03c,
     fontFamily: 'PhosphorRegular',
@@ -583,7 +583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDownLeft` no estilo Regular.
   ///
-  /// ![arrow-bend-down-left](https://api.iconify.design/ph/arrow-bend-down-left.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-down-left.png)
   static const IconData arrowBendDownLeft = IconData(
     0xe018,
     fontFamily: 'PhosphorRegular',
@@ -595,7 +595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendDownRight` no estilo Regular.
   ///
-  /// ![arrow-bend-down-right](https://api.iconify.design/ph/arrow-bend-down-right.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-down-right.png)
   static const IconData arrowBendDownRight = IconData(
     0xe01a,
     fontFamily: 'PhosphorRegular',
@@ -607,7 +607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendLeftDown` no estilo Regular.
   ///
-  /// ![arrow-bend-left-down](https://api.iconify.design/ph/arrow-bend-left-down.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-left-down.png)
   static const IconData arrowBendLeftDown = IconData(
     0xe01c,
     fontFamily: 'PhosphorRegular',
@@ -619,7 +619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendLeftUp` no estilo Regular.
   ///
-  /// ![arrow-bend-left-up](https://api.iconify.design/ph/arrow-bend-left-up.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-left-up.png)
   static const IconData arrowBendLeftUp = IconData(
     0xe01e,
     fontFamily: 'PhosphorRegular',
@@ -631,7 +631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendRightDown` no estilo Regular.
   ///
-  /// ![arrow-bend-right-down](https://api.iconify.design/ph/arrow-bend-right-down.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-right-down.png)
   static const IconData arrowBendRightDown = IconData(
     0xe020,
     fontFamily: 'PhosphorRegular',
@@ -643,7 +643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendRightUp` no estilo Regular.
   ///
-  /// ![arrow-bend-right-up](https://api.iconify.design/ph/arrow-bend-right-up.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-right-up.png)
   static const IconData arrowBendRightUp = IconData(
     0xe022,
     fontFamily: 'PhosphorRegular',
@@ -655,7 +655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendUpLeft` no estilo Regular.
   ///
-  /// ![arrow-bend-up-left](https://api.iconify.design/ph/arrow-bend-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-up-left.png)
   static const IconData arrowBendUpLeft = IconData(
     0xe024,
     fontFamily: 'PhosphorRegular',
@@ -667,7 +667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowBendUpRight` no estilo Regular.
   ///
-  /// ![arrow-bend-up-right](https://api.iconify.design/ph/arrow-bend-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-bend-up-right.png)
   static const IconData arrowBendUpRight = IconData(
     0xe026,
     fontFamily: 'PhosphorRegular',
@@ -679,7 +679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleDown` no estilo Regular.
   ///
-  /// ![arrow-circle-down](https://api.iconify.design/ph/arrow-circle-down.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-down.png)
   static const IconData arrowCircleDown = IconData(
     0xe028,
     fontFamily: 'PhosphorRegular',
@@ -691,7 +691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleDownLeft` no estilo Regular.
   ///
-  /// ![arrow-circle-down-left](https://api.iconify.design/ph/arrow-circle-down-left.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-down-left.png)
   static const IconData arrowCircleDownLeft = IconData(
     0xe02a,
     fontFamily: 'PhosphorRegular',
@@ -703,7 +703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleDownRight` no estilo Regular.
   ///
-  /// ![arrow-circle-down-right](https://api.iconify.design/ph/arrow-circle-down-right.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-down-right.png)
   static const IconData arrowCircleDownRight = IconData(
     0xe02c,
     fontFamily: 'PhosphorRegular',
@@ -715,7 +715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleLeft` no estilo Regular.
   ///
-  /// ![arrow-circle-left](https://api.iconify.design/ph/arrow-circle-left.svg?height=32&color=%23888888)
+  /// ![arrow-circle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-left.png)
   static const IconData arrowCircleLeft = IconData(
     0xe05a,
     fontFamily: 'PhosphorRegular',
@@ -727,7 +727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleRight` no estilo Regular.
   ///
-  /// ![arrow-circle-right](https://api.iconify.design/ph/arrow-circle-right.svg?height=32&color=%23888888)
+  /// ![arrow-circle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-right.png)
   static const IconData arrowCircleRight = IconData(
     0xe02e,
     fontFamily: 'PhosphorRegular',
@@ -739,7 +739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleUp` no estilo Regular.
   ///
-  /// ![arrow-circle-up](https://api.iconify.design/ph/arrow-circle-up.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-up.png)
   static const IconData arrowCircleUp = IconData(
     0xe030,
     fontFamily: 'PhosphorRegular',
@@ -751,7 +751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleUpLeft` no estilo Regular.
   ///
-  /// ![arrow-circle-up-left](https://api.iconify.design/ph/arrow-circle-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-up-left.png)
   static const IconData arrowCircleUpLeft = IconData(
     0xe032,
     fontFamily: 'PhosphorRegular',
@@ -763,7 +763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCircleUpRight` no estilo Regular.
   ///
-  /// ![arrow-circle-up-right](https://api.iconify.design/ph/arrow-circle-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-circle-up-right.png)
   static const IconData arrowCircleUpRight = IconData(
     0xe034,
     fontFamily: 'PhosphorRegular',
@@ -775,7 +775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowClockwise` no estilo Regular.
   ///
-  /// ![arrow-clockwise](https://api.iconify.design/ph/arrow-clockwise.svg?height=32&color=%23888888)
+  /// ![arrow-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-clockwise.png)
   static const IconData arrowClockwise = IconData(
     0xe036,
     fontFamily: 'PhosphorRegular',
@@ -787,7 +787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowCounterClockwise` no estilo Regular.
   ///
-  /// ![arrow-counter-clockwise](https://api.iconify.design/ph/arrow-counter-clockwise.svg?height=32&color=%23888888)
+  /// ![arrow-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-counter-clockwise.png)
   static const IconData arrowCounterClockwise = IconData(
     0xe038,
     fontFamily: 'PhosphorRegular',
@@ -799,7 +799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowDown` no estilo Regular.
   ///
-  /// ![arrow-down](https://api.iconify.design/ph/arrow-down.svg?height=32&color=%23888888)
+  /// ![arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-down.png)
   static const IconData arrowDown = IconData(
     0xe03e,
     fontFamily: 'PhosphorRegular',
@@ -811,7 +811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowDownLeft` no estilo Regular.
   ///
-  /// ![arrow-down-left](https://api.iconify.design/ph/arrow-down-left.svg?height=32&color=%23888888)
+  /// ![arrow-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-down-left.png)
   static const IconData arrowDownLeft = IconData(
     0xe040,
     fontFamily: 'PhosphorRegular',
@@ -823,7 +823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowDownRight` no estilo Regular.
   ///
-  /// ![arrow-down-right](https://api.iconify.design/ph/arrow-down-right.svg?height=32&color=%23888888)
+  /// ![arrow-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-down-right.png)
   static const IconData arrowDownRight = IconData(
     0xe042,
     fontFamily: 'PhosphorRegular',
@@ -835,7 +835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowDownLeft` no estilo Regular.
   ///
-  /// ![arrow-elbow-down-left](https://api.iconify.design/ph/arrow-elbow-down-left.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-down-left.png)
   static const IconData arrowElbowDownLeft = IconData(
     0xe044,
     fontFamily: 'PhosphorRegular',
@@ -847,7 +847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowDownRight` no estilo Regular.
   ///
-  /// ![arrow-elbow-down-right](https://api.iconify.design/ph/arrow-elbow-down-right.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-down-right.png)
   static const IconData arrowElbowDownRight = IconData(
     0xe046,
     fontFamily: 'PhosphorRegular',
@@ -859,7 +859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowLeft` no estilo Regular.
   ///
-  /// ![arrow-elbow-left](https://api.iconify.design/ph/arrow-elbow-left.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-left.png)
   static const IconData arrowElbowLeft = IconData(
     0xe048,
     fontFamily: 'PhosphorRegular',
@@ -871,7 +871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowLeftDown` no estilo Regular.
   ///
-  /// ![arrow-elbow-left-down](https://api.iconify.design/ph/arrow-elbow-left-down.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-left-down.png)
   static const IconData arrowElbowLeftDown = IconData(
     0xe04a,
     fontFamily: 'PhosphorRegular',
@@ -883,7 +883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowLeftUp` no estilo Regular.
   ///
-  /// ![arrow-elbow-left-up](https://api.iconify.design/ph/arrow-elbow-left-up.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-left-up.png)
   static const IconData arrowElbowLeftUp = IconData(
     0xe04c,
     fontFamily: 'PhosphorRegular',
@@ -895,7 +895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowRight` no estilo Regular.
   ///
-  /// ![arrow-elbow-right](https://api.iconify.design/ph/arrow-elbow-right.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-right.png)
   static const IconData arrowElbowRight = IconData(
     0xe04e,
     fontFamily: 'PhosphorRegular',
@@ -907,7 +907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowRightDown` no estilo Regular.
   ///
-  /// ![arrow-elbow-right-down](https://api.iconify.design/ph/arrow-elbow-right-down.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-right-down.png)
   static const IconData arrowElbowRightDown = IconData(
     0xe050,
     fontFamily: 'PhosphorRegular',
@@ -919,7 +919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowRightUp` no estilo Regular.
   ///
-  /// ![arrow-elbow-right-up](https://api.iconify.design/ph/arrow-elbow-right-up.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-right-up.png)
   static const IconData arrowElbowRightUp = IconData(
     0xe052,
     fontFamily: 'PhosphorRegular',
@@ -931,7 +931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowUpLeft` no estilo Regular.
   ///
-  /// ![arrow-elbow-up-left](https://api.iconify.design/ph/arrow-elbow-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-up-left.png)
   static const IconData arrowElbowUpLeft = IconData(
     0xe054,
     fontFamily: 'PhosphorRegular',
@@ -943,7 +943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowElbowUpRight` no estilo Regular.
   ///
-  /// ![arrow-elbow-up-right](https://api.iconify.design/ph/arrow-elbow-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-elbow-up-right.png)
   static const IconData arrowElbowUpRight = IconData(
     0xe056,
     fontFamily: 'PhosphorRegular',
@@ -955,7 +955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatDown` no estilo Regular.
   ///
-  /// ![arrow-fat-down](https://api.iconify.design/ph/arrow-fat-down.svg?height=32&color=%23888888)
+  /// ![arrow-fat-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-down.png)
   static const IconData arrowFatDown = IconData(
     0xe518,
     fontFamily: 'PhosphorRegular',
@@ -967,7 +967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLeft` no estilo Regular.
   ///
-  /// ![arrow-fat-left](https://api.iconify.design/ph/arrow-fat-left.svg?height=32&color=%23888888)
+  /// ![arrow-fat-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-left.png)
   static const IconData arrowFatLeft = IconData(
     0xe51a,
     fontFamily: 'PhosphorRegular',
@@ -979,7 +979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineDown` no estilo Regular.
   ///
-  /// ![arrow-fat-line-down](https://api.iconify.design/ph/arrow-fat-line-down.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-line-down.png)
   static const IconData arrowFatLineDown = IconData(
     0xe51c,
     fontFamily: 'PhosphorRegular',
@@ -991,7 +991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineLeft` no estilo Regular.
   ///
-  /// ![arrow-fat-line-left](https://api.iconify.design/ph/arrow-fat-line-left.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-line-left.png)
   static const IconData arrowFatLineLeft = IconData(
     0xe51e,
     fontFamily: 'PhosphorRegular',
@@ -1003,7 +1003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineRight` no estilo Regular.
   ///
-  /// ![arrow-fat-line-right](https://api.iconify.design/ph/arrow-fat-line-right.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-line-right.png)
   static const IconData arrowFatLineRight = IconData(
     0xe520,
     fontFamily: 'PhosphorRegular',
@@ -1015,7 +1015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLineUp` no estilo Regular.
   ///
-  /// ![arrow-fat-line-up](https://api.iconify.design/ph/arrow-fat-line-up.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-line-up.png)
   static const IconData arrowFatLineUp = IconData(
     0xe522,
     fontFamily: 'PhosphorRegular',
@@ -1027,7 +1027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesDown` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-down](https://api.iconify.design/ph/arrow-fat-lines-down.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-lines-down.png)
   static const IconData arrowFatLinesDown = IconData(
     0xe524,
     fontFamily: 'PhosphorRegular',
@@ -1039,7 +1039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesLeft` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-left](https://api.iconify.design/ph/arrow-fat-lines-left.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-lines-left.png)
   static const IconData arrowFatLinesLeft = IconData(
     0xe526,
     fontFamily: 'PhosphorRegular',
@@ -1051,7 +1051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesRight` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-right](https://api.iconify.design/ph/arrow-fat-lines-right.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-lines-right.png)
   static const IconData arrowFatLinesRight = IconData(
     0xe528,
     fontFamily: 'PhosphorRegular',
@@ -1063,7 +1063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatLinesUp` no estilo Regular.
   ///
-  /// ![arrow-fat-lines-up](https://api.iconify.design/ph/arrow-fat-lines-up.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-lines-up.png)
   static const IconData arrowFatLinesUp = IconData(
     0xe52a,
     fontFamily: 'PhosphorRegular',
@@ -1075,7 +1075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatRight` no estilo Regular.
   ///
-  /// ![arrow-fat-right](https://api.iconify.design/ph/arrow-fat-right.svg?height=32&color=%23888888)
+  /// ![arrow-fat-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-right.png)
   static const IconData arrowFatRight = IconData(
     0xe52c,
     fontFamily: 'PhosphorRegular',
@@ -1087,7 +1087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowFatUp` no estilo Regular.
   ///
-  /// ![arrow-fat-up](https://api.iconify.design/ph/arrow-fat-up.svg?height=32&color=%23888888)
+  /// ![arrow-fat-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-fat-up.png)
   static const IconData arrowFatUp = IconData(
     0xe52e,
     fontFamily: 'PhosphorRegular',
@@ -1099,7 +1099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLeft` no estilo Regular.
   ///
-  /// ![arrow-left](https://api.iconify.design/ph/arrow-left.svg?height=32&color=%23888888)
+  /// ![arrow-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-left.png)
   static const IconData arrowLeft = IconData(
     0xe058,
     fontFamily: 'PhosphorRegular',
@@ -1111,7 +1111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineDown` no estilo Regular.
   ///
-  /// ![arrow-line-down](https://api.iconify.design/ph/arrow-line-down.svg?height=32&color=%23888888)
+  /// ![arrow-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-down.png)
   static const IconData arrowLineDown = IconData(
     0xe05c,
     fontFamily: 'PhosphorRegular',
@@ -1123,7 +1123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineDownLeft` no estilo Regular.
   ///
-  /// ![arrow-line-down-left](https://api.iconify.design/ph/arrow-line-down-left.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-down-left.png)
   static const IconData arrowLineDownLeft = IconData(
     0xe05e,
     fontFamily: 'PhosphorRegular',
@@ -1135,7 +1135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineDownRight` no estilo Regular.
   ///
-  /// ![arrow-line-down-right](https://api.iconify.design/ph/arrow-line-down-right.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-down-right.png)
   static const IconData arrowLineDownRight = IconData(
     0xe060,
     fontFamily: 'PhosphorRegular',
@@ -1147,7 +1147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineLeft` no estilo Regular.
   ///
-  /// ![arrow-line-left](https://api.iconify.design/ph/arrow-line-left.svg?height=32&color=%23888888)
+  /// ![arrow-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-left.png)
   static const IconData arrowLineLeft = IconData(
     0xe062,
     fontFamily: 'PhosphorRegular',
@@ -1159,7 +1159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineRight` no estilo Regular.
   ///
-  /// ![arrow-line-right](https://api.iconify.design/ph/arrow-line-right.svg?height=32&color=%23888888)
+  /// ![arrow-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-right.png)
   static const IconData arrowLineRight = IconData(
     0xe064,
     fontFamily: 'PhosphorRegular',
@@ -1171,7 +1171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineUp` no estilo Regular.
   ///
-  /// ![arrow-line-up](https://api.iconify.design/ph/arrow-line-up.svg?height=32&color=%23888888)
+  /// ![arrow-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-up.png)
   static const IconData arrowLineUp = IconData(
     0xe066,
     fontFamily: 'PhosphorRegular',
@@ -1183,7 +1183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineUpLeft` no estilo Regular.
   ///
-  /// ![arrow-line-up-left](https://api.iconify.design/ph/arrow-line-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-up-left.png)
   static const IconData arrowLineUpLeft = IconData(
     0xe068,
     fontFamily: 'PhosphorRegular',
@@ -1195,7 +1195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowLineUpRight` no estilo Regular.
   ///
-  /// ![arrow-line-up-right](https://api.iconify.design/ph/arrow-line-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-line-up-right.png)
   static const IconData arrowLineUpRight = IconData(
     0xe06a,
     fontFamily: 'PhosphorRegular',
@@ -1207,7 +1207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowRight` no estilo Regular.
   ///
-  /// ![arrow-right](https://api.iconify.design/ph/arrow-right.svg?height=32&color=%23888888)
+  /// ![arrow-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-right.png)
   static const IconData arrowRight = IconData(
     0xe06c,
     fontFamily: 'PhosphorRegular',
@@ -1219,7 +1219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareDown` no estilo Regular.
   ///
-  /// ![arrow-square-down](https://api.iconify.design/ph/arrow-square-down.svg?height=32&color=%23888888)
+  /// ![arrow-square-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-down.png)
   static const IconData arrowSquareDown = IconData(
     0xe06e,
     fontFamily: 'PhosphorRegular',
@@ -1231,7 +1231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareDownLeft` no estilo Regular.
   ///
-  /// ![arrow-square-down-left](https://api.iconify.design/ph/arrow-square-down-left.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-down-left.png)
   static const IconData arrowSquareDownLeft = IconData(
     0xe070,
     fontFamily: 'PhosphorRegular',
@@ -1243,7 +1243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareDownRight` no estilo Regular.
   ///
-  /// ![arrow-square-down-right](https://api.iconify.design/ph/arrow-square-down-right.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-down-right.png)
   static const IconData arrowSquareDownRight = IconData(
     0xe072,
     fontFamily: 'PhosphorRegular',
@@ -1255,7 +1255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareIn` no estilo Regular.
   ///
-  /// ![arrow-square-in](https://api.iconify.design/ph/arrow-square-in.svg?height=32&color=%23888888)
+  /// ![arrow-square-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-in.png)
   static const IconData arrowSquareIn = IconData(
     0xe5dc,
     fontFamily: 'PhosphorRegular',
@@ -1267,7 +1267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareLeft` no estilo Regular.
   ///
-  /// ![arrow-square-left](https://api.iconify.design/ph/arrow-square-left.svg?height=32&color=%23888888)
+  /// ![arrow-square-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-left.png)
   static const IconData arrowSquareLeft = IconData(
     0xe074,
     fontFamily: 'PhosphorRegular',
@@ -1279,7 +1279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareOut` no estilo Regular.
   ///
-  /// ![arrow-square-out](https://api.iconify.design/ph/arrow-square-out.svg?height=32&color=%23888888)
+  /// ![arrow-square-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-out.png)
   static const IconData arrowSquareOut = IconData(
     0xe5de,
     fontFamily: 'PhosphorRegular',
@@ -1291,7 +1291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareRight` no estilo Regular.
   ///
-  /// ![arrow-square-right](https://api.iconify.design/ph/arrow-square-right.svg?height=32&color=%23888888)
+  /// ![arrow-square-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-right.png)
   static const IconData arrowSquareRight = IconData(
     0xe076,
     fontFamily: 'PhosphorRegular',
@@ -1303,7 +1303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareUp` no estilo Regular.
   ///
-  /// ![arrow-square-up](https://api.iconify.design/ph/arrow-square-up.svg?height=32&color=%23888888)
+  /// ![arrow-square-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-up.png)
   static const IconData arrowSquareUp = IconData(
     0xe078,
     fontFamily: 'PhosphorRegular',
@@ -1315,7 +1315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareUpLeft` no estilo Regular.
   ///
-  /// ![arrow-square-up-left](https://api.iconify.design/ph/arrow-square-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-up-left.png)
   static const IconData arrowSquareUpLeft = IconData(
     0xe07a,
     fontFamily: 'PhosphorRegular',
@@ -1327,7 +1327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowSquareUpRight` no estilo Regular.
   ///
-  /// ![arrow-square-up-right](https://api.iconify.design/ph/arrow-square-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-square-up-right.png)
   static const IconData arrowSquareUpRight = IconData(
     0xe07c,
     fontFamily: 'PhosphorRegular',
@@ -1339,7 +1339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUDownLeft` no estilo Regular.
   ///
-  /// ![arrow-u-down-left](https://api.iconify.design/ph/arrow-u-down-left.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-down-left.png)
   static const IconData arrowUDownLeft = IconData(
     0xe07e,
     fontFamily: 'PhosphorRegular',
@@ -1351,7 +1351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUDownRight` no estilo Regular.
   ///
-  /// ![arrow-u-down-right](https://api.iconify.design/ph/arrow-u-down-right.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-down-right.png)
   static const IconData arrowUDownRight = IconData(
     0xe080,
     fontFamily: 'PhosphorRegular',
@@ -1363,7 +1363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowULeftDown` no estilo Regular.
   ///
-  /// ![arrow-u-left-down](https://api.iconify.design/ph/arrow-u-left-down.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-left-down.png)
   static const IconData arrowULeftDown = IconData(
     0xe082,
     fontFamily: 'PhosphorRegular',
@@ -1375,7 +1375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowULeftUp` no estilo Regular.
   ///
-  /// ![arrow-u-left-up](https://api.iconify.design/ph/arrow-u-left-up.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-left-up.png)
   static const IconData arrowULeftUp = IconData(
     0xe084,
     fontFamily: 'PhosphorRegular',
@@ -1387,7 +1387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowURightDown` no estilo Regular.
   ///
-  /// ![arrow-u-right-down](https://api.iconify.design/ph/arrow-u-right-down.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-right-down.png)
   static const IconData arrowURightDown = IconData(
     0xe086,
     fontFamily: 'PhosphorRegular',
@@ -1399,7 +1399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowURightUp` no estilo Regular.
   ///
-  /// ![arrow-u-right-up](https://api.iconify.design/ph/arrow-u-right-up.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-right-up.png)
   static const IconData arrowURightUp = IconData(
     0xe088,
     fontFamily: 'PhosphorRegular',
@@ -1411,7 +1411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUUpLeft` no estilo Regular.
   ///
-  /// ![arrow-u-up-left](https://api.iconify.design/ph/arrow-u-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-up-left.png)
   static const IconData arrowUUpLeft = IconData(
     0xe08a,
     fontFamily: 'PhosphorRegular',
@@ -1423,7 +1423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUUpRight` no estilo Regular.
   ///
-  /// ![arrow-u-up-right](https://api.iconify.design/ph/arrow-u-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-u-up-right.png)
   static const IconData arrowUUpRight = IconData(
     0xe08c,
     fontFamily: 'PhosphorRegular',
@@ -1435,7 +1435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUp` no estilo Regular.
   ///
-  /// ![arrow-up](https://api.iconify.design/ph/arrow-up.svg?height=32&color=%23888888)
+  /// ![arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-up.png)
   static const IconData arrowUp = IconData(
     0xe08e,
     fontFamily: 'PhosphorRegular',
@@ -1447,7 +1447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUpLeft` no estilo Regular.
   ///
-  /// ![arrow-up-left](https://api.iconify.design/ph/arrow-up-left.svg?height=32&color=%23888888)
+  /// ![arrow-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-up-left.png)
   static const IconData arrowUpLeft = IconData(
     0xe090,
     fontFamily: 'PhosphorRegular',
@@ -1459,7 +1459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowUpRight` no estilo Regular.
   ///
-  /// ![arrow-up-right](https://api.iconify.design/ph/arrow-up-right.svg?height=32&color=%23888888)
+  /// ![arrow-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrow-up-right.png)
   static const IconData arrowUpRight = IconData(
     0xe092,
     fontFamily: 'PhosphorRegular',
@@ -1471,7 +1471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsClockwise` no estilo Regular.
   ///
-  /// ![arrows-clockwise](https://api.iconify.design/ph/arrows-clockwise.svg?height=32&color=%23888888)
+  /// ![arrows-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-clockwise.png)
   static const IconData arrowsClockwise = IconData(
     0xe094,
     fontFamily: 'PhosphorRegular',
@@ -1483,7 +1483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsCounterClockwise` no estilo Regular.
   ///
-  /// ![arrows-counter-clockwise](https://api.iconify.design/ph/arrows-counter-clockwise.svg?height=32&color=%23888888)
+  /// ![arrows-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-counter-clockwise.png)
   static const IconData arrowsCounterClockwise = IconData(
     0xe096,
     fontFamily: 'PhosphorRegular',
@@ -1495,7 +1495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsDownUp` no estilo Regular.
   ///
-  /// ![arrows-down-up](https://api.iconify.design/ph/arrows-down-up.svg?height=32&color=%23888888)
+  /// ![arrows-down-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-down-up.png)
   static const IconData arrowsDownUp = IconData(
     0xe098,
     fontFamily: 'PhosphorRegular',
@@ -1507,7 +1507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsHorizontal` no estilo Regular.
   ///
-  /// ![arrows-horizontal](https://api.iconify.design/ph/arrows-horizontal.svg?height=32&color=%23888888)
+  /// ![arrows-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-horizontal.png)
   static const IconData arrowsHorizontal = IconData(
     0xeb06,
     fontFamily: 'PhosphorRegular',
@@ -1519,7 +1519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsIn` no estilo Regular.
   ///
-  /// ![arrows-in](https://api.iconify.design/ph/arrows-in.svg?height=32&color=%23888888)
+  /// ![arrows-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-in.png)
   static const IconData arrowsIn = IconData(
     0xe09a,
     fontFamily: 'PhosphorRegular',
@@ -1531,7 +1531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInCardinal` no estilo Regular.
   ///
-  /// ![arrows-in-cardinal](https://api.iconify.design/ph/arrows-in-cardinal.svg?height=32&color=%23888888)
+  /// ![arrows-in-cardinal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-in-cardinal.png)
   static const IconData arrowsInCardinal = IconData(
     0xe09c,
     fontFamily: 'PhosphorRegular',
@@ -1543,7 +1543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInLineHorizontal` no estilo Regular.
   ///
-  /// ![arrows-in-line-horizontal](https://api.iconify.design/ph/arrows-in-line-horizontal.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-in-line-horizontal.png)
   static const IconData arrowsInLineHorizontal = IconData(
     0xe530,
     fontFamily: 'PhosphorRegular',
@@ -1555,7 +1555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInLineVertical` no estilo Regular.
   ///
-  /// ![arrows-in-line-vertical](https://api.iconify.design/ph/arrows-in-line-vertical.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-in-line-vertical.png)
   static const IconData arrowsInLineVertical = IconData(
     0xe532,
     fontFamily: 'PhosphorRegular',
@@ -1567,7 +1567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsInSimple` no estilo Regular.
   ///
-  /// ![arrows-in-simple](https://api.iconify.design/ph/arrows-in-simple.svg?height=32&color=%23888888)
+  /// ![arrows-in-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-in-simple.png)
   static const IconData arrowsInSimple = IconData(
     0xe09e,
     fontFamily: 'PhosphorRegular',
@@ -1579,7 +1579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsLeftRight` no estilo Regular.
   ///
-  /// ![arrows-left-right](https://api.iconify.design/ph/arrows-left-right.svg?height=32&color=%23888888)
+  /// ![arrows-left-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-left-right.png)
   static const IconData arrowsLeftRight = IconData(
     0xe0a0,
     fontFamily: 'PhosphorRegular',
@@ -1591,7 +1591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsMerge` no estilo Regular.
   ///
-  /// ![arrows-merge](https://api.iconify.design/ph/arrows-merge.svg?height=32&color=%23888888)
+  /// ![arrows-merge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-merge.png)
   static const IconData arrowsMerge = IconData(
     0xed3e,
     fontFamily: 'PhosphorRegular',
@@ -1603,7 +1603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOut` no estilo Regular.
   ///
-  /// ![arrows-out](https://api.iconify.design/ph/arrows-out.svg?height=32&color=%23888888)
+  /// ![arrows-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-out.png)
   static const IconData arrowsOut = IconData(
     0xe0a2,
     fontFamily: 'PhosphorRegular',
@@ -1615,7 +1615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutCardinal` no estilo Regular.
   ///
-  /// ![arrows-out-cardinal](https://api.iconify.design/ph/arrows-out-cardinal.svg?height=32&color=%23888888)
+  /// ![arrows-out-cardinal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-out-cardinal.png)
   static const IconData arrowsOutCardinal = IconData(
     0xe0a4,
     fontFamily: 'PhosphorRegular',
@@ -1627,7 +1627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Regular.
   ///
-  /// ![arrows-out-line-horizontal](https://api.iconify.design/ph/arrows-out-line-horizontal.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-out-line-horizontal.png)
   static const IconData arrowsOutLineHorizontal = IconData(
     0xe534,
     fontFamily: 'PhosphorRegular',
@@ -1639,7 +1639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutLineVertical` no estilo Regular.
   ///
-  /// ![arrows-out-line-vertical](https://api.iconify.design/ph/arrows-out-line-vertical.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-out-line-vertical.png)
   static const IconData arrowsOutLineVertical = IconData(
     0xe536,
     fontFamily: 'PhosphorRegular',
@@ -1651,7 +1651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsOutSimple` no estilo Regular.
   ///
-  /// ![arrows-out-simple](https://api.iconify.design/ph/arrows-out-simple.svg?height=32&color=%23888888)
+  /// ![arrows-out-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-out-simple.png)
   static const IconData arrowsOutSimple = IconData(
     0xe0a6,
     fontFamily: 'PhosphorRegular',
@@ -1663,7 +1663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsSplit` no estilo Regular.
   ///
-  /// ![arrows-split](https://api.iconify.design/ph/arrows-split.svg?height=32&color=%23888888)
+  /// ![arrows-split](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-split.png)
   static const IconData arrowsSplit = IconData(
     0xed3c,
     fontFamily: 'PhosphorRegular',
@@ -1675,7 +1675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `arrowsVertical` no estilo Regular.
   ///
-  /// ![arrows-vertical](https://api.iconify.design/ph/arrows-vertical.svg?height=32&color=%23888888)
+  /// ![arrows-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/arrows-vertical.png)
   static const IconData arrowsVertical = IconData(
     0xeb04,
     fontFamily: 'PhosphorRegular',
@@ -1687,7 +1687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `article` no estilo Regular.
   ///
-  /// ![article](https://api.iconify.design/ph/article.svg?height=32&color=%23888888)
+  /// ![article](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/article.png)
   static const IconData article = IconData(
     0xe0a8,
     fontFamily: 'PhosphorRegular',
@@ -1699,7 +1699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `articleMedium` no estilo Regular.
   ///
-  /// ![article-medium](https://api.iconify.design/ph/article-medium.svg?height=32&color=%23888888)
+  /// ![article-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/article-medium.png)
   static const IconData articleMedium = IconData(
     0xe5e0,
     fontFamily: 'PhosphorRegular',
@@ -1711,7 +1711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `articleNyTimes` no estilo Regular.
   ///
-  /// ![article-ny-times](https://api.iconify.design/ph/article-ny-times.svg?height=32&color=%23888888)
+  /// ![article-ny-times](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/article-ny-times.png)
   static const IconData articleNyTimes = IconData(
     0xe5e2,
     fontFamily: 'PhosphorRegular',
@@ -1723,7 +1723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `asclepius` no estilo Regular.
   ///
-  /// ![asclepius](https://api.iconify.design/ph/asclepius.svg?height=32&color=%23888888)
+  /// ![asclepius](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/asclepius.png)
   static const IconData asclepius = IconData(
     0xee34,
     fontFamily: 'PhosphorRegular',
@@ -1735,7 +1735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `asterisk` no estilo Regular.
   ///
-  /// ![asterisk](https://api.iconify.design/ph/asterisk.svg?height=32&color=%23888888)
+  /// ![asterisk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/asterisk.png)
   static const IconData asterisk = IconData(
     0xe0aa,
     fontFamily: 'PhosphorRegular',
@@ -1747,7 +1747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `asteriskSimple` no estilo Regular.
   ///
-  /// ![asterisk-simple](https://api.iconify.design/ph/asterisk-simple.svg?height=32&color=%23888888)
+  /// ![asterisk-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/asterisk-simple.png)
   static const IconData asteriskSimple = IconData(
     0xe832,
     fontFamily: 'PhosphorRegular',
@@ -1759,7 +1759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `at` no estilo Regular.
   ///
-  /// ![at](https://api.iconify.design/ph/at.svg?height=32&color=%23888888)
+  /// ![at](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/at.png)
   static const IconData at = IconData(
     0xe0ac,
     fontFamily: 'PhosphorRegular',
@@ -1771,7 +1771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `atom` no estilo Regular.
   ///
-  /// ![atom](https://api.iconify.design/ph/atom.svg?height=32&color=%23888888)
+  /// ![atom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/atom.png)
   static const IconData atom = IconData(
     0xe5e4,
     fontFamily: 'PhosphorRegular',
@@ -1783,7 +1783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `avocado` no estilo Regular.
   ///
-  /// ![avocado](https://api.iconify.design/ph/avocado.svg?height=32&color=%23888888)
+  /// ![avocado](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/avocado.png)
   static const IconData avocado = IconData(
     0xee04,
     fontFamily: 'PhosphorRegular',
@@ -1795,7 +1795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `axe` no estilo Regular.
   ///
-  /// ![axe](https://api.iconify.design/ph/axe.svg?height=32&color=%23888888)
+  /// ![axe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/axe.png)
   static const IconData axe = IconData(
     0xe9fc,
     fontFamily: 'PhosphorRegular',
@@ -1807,7 +1807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baby` no estilo Regular.
   ///
-  /// ![baby](https://api.iconify.design/ph/baby.svg?height=32&color=%23888888)
+  /// ![baby](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/baby.png)
   static const IconData baby = IconData(
     0xe774,
     fontFamily: 'PhosphorRegular',
@@ -1819,7 +1819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `babyCarriage` no estilo Regular.
   ///
-  /// ![baby-carriage](https://api.iconify.design/ph/baby-carriage.svg?height=32&color=%23888888)
+  /// ![baby-carriage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/baby-carriage.png)
   static const IconData babyCarriage = IconData(
     0xe818,
     fontFamily: 'PhosphorRegular',
@@ -1831,7 +1831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `backpack` no estilo Regular.
   ///
-  /// ![backpack](https://api.iconify.design/ph/backpack.svg?height=32&color=%23888888)
+  /// ![backpack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/backpack.png)
   static const IconData backpack = IconData(
     0xe922,
     fontFamily: 'PhosphorRegular',
@@ -1843,7 +1843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `backspace` no estilo Regular.
   ///
-  /// ![backspace](https://api.iconify.design/ph/backspace.svg?height=32&color=%23888888)
+  /// ![backspace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/backspace.png)
   static const IconData backspace = IconData(
     0xe0ae,
     fontFamily: 'PhosphorRegular',
@@ -1855,7 +1855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bag` no estilo Regular.
   ///
-  /// ![bag](https://api.iconify.design/ph/bag.svg?height=32&color=%23888888)
+  /// ![bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bag.png)
   static const IconData bag = IconData(
     0xe0b0,
     fontFamily: 'PhosphorRegular',
@@ -1867,7 +1867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bagSimple` no estilo Regular.
   ///
-  /// ![bag-simple](https://api.iconify.design/ph/bag-simple.svg?height=32&color=%23888888)
+  /// ![bag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bag-simple.png)
   static const IconData bagSimple = IconData(
     0xe5e6,
     fontFamily: 'PhosphorRegular',
@@ -1879,7 +1879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `balloon` no estilo Regular.
   ///
-  /// ![balloon](https://api.iconify.design/ph/balloon.svg?height=32&color=%23888888)
+  /// ![balloon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/balloon.png)
   static const IconData balloon = IconData(
     0xe76c,
     fontFamily: 'PhosphorRegular',
@@ -1891,7 +1891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bandaids` no estilo Regular.
   ///
-  /// ![bandaids](https://api.iconify.design/ph/bandaids.svg?height=32&color=%23888888)
+  /// ![bandaids](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bandaids.png)
   static const IconData bandaids = IconData(
     0xe0b2,
     fontFamily: 'PhosphorRegular',
@@ -1903,7 +1903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bank` no estilo Regular.
   ///
-  /// ![bank](https://api.iconify.design/ph/bank.svg?height=32&color=%23888888)
+  /// ![bank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bank.png)
   static const IconData bank = IconData(
     0xe0b4,
     fontFamily: 'PhosphorRegular',
@@ -1915,7 +1915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barbell` no estilo Regular.
   ///
-  /// ![barbell](https://api.iconify.design/ph/barbell.svg?height=32&color=%23888888)
+  /// ![barbell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/barbell.png)
   static const IconData barbell = IconData(
     0xe0b6,
     fontFamily: 'PhosphorRegular',
@@ -1927,7 +1927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barcode` no estilo Regular.
   ///
-  /// ![barcode](https://api.iconify.design/ph/barcode.svg?height=32&color=%23888888)
+  /// ![barcode](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/barcode.png)
   static const IconData barcode = IconData(
     0xe0b8,
     fontFamily: 'PhosphorRegular',
@@ -1939,7 +1939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barn` no estilo Regular.
   ///
-  /// ![barn](https://api.iconify.design/ph/barn.svg?height=32&color=%23888888)
+  /// ![barn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/barn.png)
   static const IconData barn = IconData(
     0xec72,
     fontFamily: 'PhosphorRegular',
@@ -1951,7 +1951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `barricade` no estilo Regular.
   ///
-  /// ![barricade](https://api.iconify.design/ph/barricade.svg?height=32&color=%23888888)
+  /// ![barricade](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/barricade.png)
   static const IconData barricade = IconData(
     0xe948,
     fontFamily: 'PhosphorRegular',
@@ -1963,7 +1963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baseball` no estilo Regular.
   ///
-  /// ![baseball](https://api.iconify.design/ph/baseball.svg?height=32&color=%23888888)
+  /// ![baseball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/baseball.png)
   static const IconData baseball = IconData(
     0xe71a,
     fontFamily: 'PhosphorRegular',
@@ -1975,7 +1975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baseballCap` no estilo Regular.
   ///
-  /// ![baseball-cap](https://api.iconify.design/ph/baseball-cap.svg?height=32&color=%23888888)
+  /// ![baseball-cap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/baseball-cap.png)
   static const IconData baseballCap = IconData(
     0xea28,
     fontFamily: 'PhosphorRegular',
@@ -1987,7 +1987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `baseballHelmet` no estilo Regular.
   ///
-  /// ![baseball-helmet](https://api.iconify.design/ph/baseball-helmet.svg?height=32&color=%23888888)
+  /// ![baseball-helmet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/baseball-helmet.png)
   static const IconData baseballHelmet = IconData(
     0xee4a,
     fontFamily: 'PhosphorRegular',
@@ -1999,7 +1999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `basket` no estilo Regular.
   ///
-  /// ![basket](https://api.iconify.design/ph/basket.svg?height=32&color=%23888888)
+  /// ![basket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/basket.png)
   static const IconData basket = IconData(
     0xe964,
     fontFamily: 'PhosphorRegular',
@@ -2011,7 +2011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `basketball` no estilo Regular.
   ///
-  /// ![basketball](https://api.iconify.design/ph/basketball.svg?height=32&color=%23888888)
+  /// ![basketball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/basketball.png)
   static const IconData basketball = IconData(
     0xe724,
     fontFamily: 'PhosphorRegular',
@@ -2023,7 +2023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bathtub` no estilo Regular.
   ///
-  /// ![bathtub](https://api.iconify.design/ph/bathtub.svg?height=32&color=%23888888)
+  /// ![bathtub](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bathtub.png)
   static const IconData bathtub = IconData(
     0xe81e,
     fontFamily: 'PhosphorRegular',
@@ -2035,7 +2035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryCharging` no estilo Regular.
   ///
-  /// ![battery-charging](https://api.iconify.design/ph/battery-charging.svg?height=32&color=%23888888)
+  /// ![battery-charging](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-charging.png)
   static const IconData batteryCharging = IconData(
     0xe0ba,
     fontFamily: 'PhosphorRegular',
@@ -2047,7 +2047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryChargingVertical` no estilo Regular.
   ///
-  /// ![battery-charging-vertical](https://api.iconify.design/ph/battery-charging-vertical.svg?height=32&color=%23888888)
+  /// ![battery-charging-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-charging-vertical.png)
   static const IconData batteryChargingVertical = IconData(
     0xe0bc,
     fontFamily: 'PhosphorRegular',
@@ -2059,7 +2059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryEmpty` no estilo Regular.
   ///
-  /// ![battery-empty](https://api.iconify.design/ph/battery-empty.svg?height=32&color=%23888888)
+  /// ![battery-empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-empty.png)
   static const IconData batteryEmpty = IconData(
     0xe0be,
     fontFamily: 'PhosphorRegular',
@@ -2071,7 +2071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryFull` no estilo Regular.
   ///
-  /// ![battery-full](https://api.iconify.design/ph/battery-full.svg?height=32&color=%23888888)
+  /// ![battery-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-full.png)
   static const IconData batteryFull = IconData(
     0xe0c0,
     fontFamily: 'PhosphorRegular',
@@ -2083,7 +2083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryHigh` no estilo Regular.
   ///
-  /// ![battery-high](https://api.iconify.design/ph/battery-high.svg?height=32&color=%23888888)
+  /// ![battery-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-high.png)
   static const IconData batteryHigh = IconData(
     0xe0c2,
     fontFamily: 'PhosphorRegular',
@@ -2095,7 +2095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryLow` no estilo Regular.
   ///
-  /// ![battery-low](https://api.iconify.design/ph/battery-low.svg?height=32&color=%23888888)
+  /// ![battery-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-low.png)
   static const IconData batteryLow = IconData(
     0xe0c4,
     fontFamily: 'PhosphorRegular',
@@ -2107,7 +2107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryMedium` no estilo Regular.
   ///
-  /// ![battery-medium](https://api.iconify.design/ph/battery-medium.svg?height=32&color=%23888888)
+  /// ![battery-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-medium.png)
   static const IconData batteryMedium = IconData(
     0xe0c6,
     fontFamily: 'PhosphorRegular',
@@ -2119,7 +2119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryPlus` no estilo Regular.
   ///
-  /// ![battery-plus](https://api.iconify.design/ph/battery-plus.svg?height=32&color=%23888888)
+  /// ![battery-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-plus.png)
   static const IconData batteryPlus = IconData(
     0xe808,
     fontFamily: 'PhosphorRegular',
@@ -2131,7 +2131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryPlusVertical` no estilo Regular.
   ///
-  /// ![battery-plus-vertical](https://api.iconify.design/ph/battery-plus-vertical.svg?height=32&color=%23888888)
+  /// ![battery-plus-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-plus-vertical.png)
   static const IconData batteryPlusVertical = IconData(
     0xec50,
     fontFamily: 'PhosphorRegular',
@@ -2143,7 +2143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalEmpty` no estilo Regular.
   ///
-  /// ![battery-vertical-empty](https://api.iconify.design/ph/battery-vertical-empty.svg?height=32&color=%23888888)
+  /// ![battery-vertical-empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-vertical-empty.png)
   static const IconData batteryVerticalEmpty = IconData(
     0xe7c6,
     fontFamily: 'PhosphorRegular',
@@ -2155,7 +2155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalFull` no estilo Regular.
   ///
-  /// ![battery-vertical-full](https://api.iconify.design/ph/battery-vertical-full.svg?height=32&color=%23888888)
+  /// ![battery-vertical-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-vertical-full.png)
   static const IconData batteryVerticalFull = IconData(
     0xe7c4,
     fontFamily: 'PhosphorRegular',
@@ -2167,7 +2167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalHigh` no estilo Regular.
   ///
-  /// ![battery-vertical-high](https://api.iconify.design/ph/battery-vertical-high.svg?height=32&color=%23888888)
+  /// ![battery-vertical-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-vertical-high.png)
   static const IconData batteryVerticalHigh = IconData(
     0xe7c2,
     fontFamily: 'PhosphorRegular',
@@ -2179,7 +2179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalLow` no estilo Regular.
   ///
-  /// ![battery-vertical-low](https://api.iconify.design/ph/battery-vertical-low.svg?height=32&color=%23888888)
+  /// ![battery-vertical-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-vertical-low.png)
   static const IconData batteryVerticalLow = IconData(
     0xe7be,
     fontFamily: 'PhosphorRegular',
@@ -2191,7 +2191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryVerticalMedium` no estilo Regular.
   ///
-  /// ![battery-vertical-medium](https://api.iconify.design/ph/battery-vertical-medium.svg?height=32&color=%23888888)
+  /// ![battery-vertical-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-vertical-medium.png)
   static const IconData batteryVerticalMedium = IconData(
     0xe7c0,
     fontFamily: 'PhosphorRegular',
@@ -2203,7 +2203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryWarning` no estilo Regular.
   ///
-  /// ![battery-warning](https://api.iconify.design/ph/battery-warning.svg?height=32&color=%23888888)
+  /// ![battery-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-warning.png)
   static const IconData batteryWarning = IconData(
     0xe0c8,
     fontFamily: 'PhosphorRegular',
@@ -2215,7 +2215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `batteryWarningVertical` no estilo Regular.
   ///
-  /// ![battery-warning-vertical](https://api.iconify.design/ph/battery-warning-vertical.svg?height=32&color=%23888888)
+  /// ![battery-warning-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/battery-warning-vertical.png)
   static const IconData batteryWarningVertical = IconData(
     0xe0ca,
     fontFamily: 'PhosphorRegular',
@@ -2227,7 +2227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beachBall` no estilo Regular.
   ///
-  /// ![beach-ball](https://api.iconify.design/ph/beach-ball.svg?height=32&color=%23888888)
+  /// ![beach-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/beach-ball.png)
   static const IconData beachBall = IconData(
     0xed24,
     fontFamily: 'PhosphorRegular',
@@ -2239,7 +2239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beanie` no estilo Regular.
   ///
-  /// ![beanie](https://api.iconify.design/ph/beanie.svg?height=32&color=%23888888)
+  /// ![beanie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/beanie.png)
   static const IconData beanie = IconData(
     0xea2a,
     fontFamily: 'PhosphorRegular',
@@ -2251,7 +2251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bed` no estilo Regular.
   ///
-  /// ![bed](https://api.iconify.design/ph/bed.svg?height=32&color=%23888888)
+  /// ![bed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bed.png)
   static const IconData bed = IconData(
     0xe0cc,
     fontFamily: 'PhosphorRegular',
@@ -2263,7 +2263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beerBottle` no estilo Regular.
   ///
-  /// ![beer-bottle](https://api.iconify.design/ph/beer-bottle.svg?height=32&color=%23888888)
+  /// ![beer-bottle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/beer-bottle.png)
   static const IconData beerBottle = IconData(
     0xe7b0,
     fontFamily: 'PhosphorRegular',
@@ -2275,7 +2275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `beerStein` no estilo Regular.
   ///
-  /// ![beer-stein](https://api.iconify.design/ph/beer-stein.svg?height=32&color=%23888888)
+  /// ![beer-stein](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/beer-stein.png)
   static const IconData beerStein = IconData(
     0xeb62,
     fontFamily: 'PhosphorRegular',
@@ -2287,7 +2287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `behanceLogo` no estilo Regular.
   ///
-  /// ![behance-logo](https://api.iconify.design/ph/behance-logo.svg?height=32&color=%23888888)
+  /// ![behance-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/behance-logo.png)
   static const IconData behanceLogo = IconData(
     0xe7f4,
     fontFamily: 'PhosphorRegular',
@@ -2299,7 +2299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bell` no estilo Regular.
   ///
-  /// ![bell](https://api.iconify.design/ph/bell.svg?height=32&color=%23888888)
+  /// ![bell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell.png)
   static const IconData bell = IconData(
     0xe0ce,
     fontFamily: 'PhosphorRegular',
@@ -2311,7 +2311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellRinging` no estilo Regular.
   ///
-  /// ![bell-ringing](https://api.iconify.design/ph/bell-ringing.svg?height=32&color=%23888888)
+  /// ![bell-ringing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell-ringing.png)
   static const IconData bellRinging = IconData(
     0xe5e8,
     fontFamily: 'PhosphorRegular',
@@ -2323,7 +2323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimple` no estilo Regular.
   ///
-  /// ![bell-simple](https://api.iconify.design/ph/bell-simple.svg?height=32&color=%23888888)
+  /// ![bell-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell-simple.png)
   static const IconData bellSimple = IconData(
     0xe0d0,
     fontFamily: 'PhosphorRegular',
@@ -2335,7 +2335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimpleRinging` no estilo Regular.
   ///
-  /// ![bell-simple-ringing](https://api.iconify.design/ph/bell-simple-ringing.svg?height=32&color=%23888888)
+  /// ![bell-simple-ringing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell-simple-ringing.png)
   static const IconData bellSimpleRinging = IconData(
     0xe5ea,
     fontFamily: 'PhosphorRegular',
@@ -2347,7 +2347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimpleSlash` no estilo Regular.
   ///
-  /// ![bell-simple-slash](https://api.iconify.design/ph/bell-simple-slash.svg?height=32&color=%23888888)
+  /// ![bell-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell-simple-slash.png)
   static const IconData bellSimpleSlash = IconData(
     0xe0d2,
     fontFamily: 'PhosphorRegular',
@@ -2359,7 +2359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSimpleZ` no estilo Regular.
   ///
-  /// ![bell-simple-z](https://api.iconify.design/ph/bell-simple-z.svg?height=32&color=%23888888)
+  /// ![bell-simple-z](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell-simple-z.png)
   static const IconData bellSimpleZ = IconData(
     0xe5ec,
     fontFamily: 'PhosphorRegular',
@@ -2371,7 +2371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellSlash` no estilo Regular.
   ///
-  /// ![bell-slash](https://api.iconify.design/ph/bell-slash.svg?height=32&color=%23888888)
+  /// ![bell-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell-slash.png)
   static const IconData bellSlash = IconData(
     0xe0d4,
     fontFamily: 'PhosphorRegular',
@@ -2383,7 +2383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bellZ` no estilo Regular.
   ///
-  /// ![bell-z](https://api.iconify.design/ph/bell-z.svg?height=32&color=%23888888)
+  /// ![bell-z](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bell-z.png)
   static const IconData bellZ = IconData(
     0xe5ee,
     fontFamily: 'PhosphorRegular',
@@ -2395,7 +2395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `belt` no estilo Regular.
   ///
-  /// ![belt](https://api.iconify.design/ph/belt.svg?height=32&color=%23888888)
+  /// ![belt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/belt.png)
   static const IconData belt = IconData(
     0xea2c,
     fontFamily: 'PhosphorRegular',
@@ -2407,7 +2407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bezierCurve` no estilo Regular.
   ///
-  /// ![bezier-curve](https://api.iconify.design/ph/bezier-curve.svg?height=32&color=%23888888)
+  /// ![bezier-curve](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bezier-curve.png)
   static const IconData bezierCurve = IconData(
     0xeb00,
     fontFamily: 'PhosphorRegular',
@@ -2419,7 +2419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bicycle` no estilo Regular.
   ///
-  /// ![bicycle](https://api.iconify.design/ph/bicycle.svg?height=32&color=%23888888)
+  /// ![bicycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bicycle.png)
   static const IconData bicycle = IconData(
     0xe0d6,
     fontFamily: 'PhosphorRegular',
@@ -2431,7 +2431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `binary` no estilo Regular.
   ///
-  /// ![binary](https://api.iconify.design/ph/binary.svg?height=32&color=%23888888)
+  /// ![binary](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/binary.png)
   static const IconData binary = IconData(
     0xee60,
     fontFamily: 'PhosphorRegular',
@@ -2443,7 +2443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `binoculars` no estilo Regular.
   ///
-  /// ![binoculars](https://api.iconify.design/ph/binoculars.svg?height=32&color=%23888888)
+  /// ![binoculars](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/binoculars.png)
   static const IconData binoculars = IconData(
     0xea64,
     fontFamily: 'PhosphorRegular',
@@ -2455,7 +2455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `biohazard` no estilo Regular.
   ///
-  /// ![biohazard](https://api.iconify.design/ph/biohazard.svg?height=32&color=%23888888)
+  /// ![biohazard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/biohazard.png)
   static const IconData biohazard = IconData(
     0xe9e0,
     fontFamily: 'PhosphorRegular',
@@ -2467,7 +2467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bird` no estilo Regular.
   ///
-  /// ![bird](https://api.iconify.design/ph/bird.svg?height=32&color=%23888888)
+  /// ![bird](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bird.png)
   static const IconData bird = IconData(
     0xe72c,
     fontFamily: 'PhosphorRegular',
@@ -2479,7 +2479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `blueprint` no estilo Regular.
   ///
-  /// ![blueprint](https://api.iconify.design/ph/blueprint.svg?height=32&color=%23888888)
+  /// ![blueprint](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/blueprint.png)
   static const IconData blueprint = IconData(
     0xeda0,
     fontFamily: 'PhosphorRegular',
@@ -2491,7 +2491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetooth` no estilo Regular.
   ///
-  /// ![bluetooth](https://api.iconify.design/ph/bluetooth.svg?height=32&color=%23888888)
+  /// ![bluetooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bluetooth.png)
   static const IconData bluetooth = IconData(
     0xe0da,
     fontFamily: 'PhosphorRegular',
@@ -2503,7 +2503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetoothConnected` no estilo Regular.
   ///
-  /// ![bluetooth-connected](https://api.iconify.design/ph/bluetooth-connected.svg?height=32&color=%23888888)
+  /// ![bluetooth-connected](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bluetooth-connected.png)
   static const IconData bluetoothConnected = IconData(
     0xe0dc,
     fontFamily: 'PhosphorRegular',
@@ -2515,7 +2515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetoothSlash` no estilo Regular.
   ///
-  /// ![bluetooth-slash](https://api.iconify.design/ph/bluetooth-slash.svg?height=32&color=%23888888)
+  /// ![bluetooth-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bluetooth-slash.png)
   static const IconData bluetoothSlash = IconData(
     0xe0de,
     fontFamily: 'PhosphorRegular',
@@ -2527,7 +2527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bluetoothX` no estilo Regular.
   ///
-  /// ![bluetooth-x](https://api.iconify.design/ph/bluetooth-x.svg?height=32&color=%23888888)
+  /// ![bluetooth-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bluetooth-x.png)
   static const IconData bluetoothX = IconData(
     0xe0e0,
     fontFamily: 'PhosphorRegular',
@@ -2539,7 +2539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boat` no estilo Regular.
   ///
-  /// ![boat](https://api.iconify.design/ph/boat.svg?height=32&color=%23888888)
+  /// ![boat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/boat.png)
   static const IconData boat = IconData(
     0xe786,
     fontFamily: 'PhosphorRegular',
@@ -2551,7 +2551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bomb` no estilo Regular.
   ///
-  /// ![bomb](https://api.iconify.design/ph/bomb.svg?height=32&color=%23888888)
+  /// ![bomb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bomb.png)
   static const IconData bomb = IconData(
     0xee0a,
     fontFamily: 'PhosphorRegular',
@@ -2563,7 +2563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bone` no estilo Regular.
   ///
-  /// ![bone](https://api.iconify.design/ph/bone.svg?height=32&color=%23888888)
+  /// ![bone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bone.png)
   static const IconData bone = IconData(
     0xe7f2,
     fontFamily: 'PhosphorRegular',
@@ -2575,7 +2575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `book` no estilo Regular.
   ///
-  /// ![book](https://api.iconify.design/ph/book.svg?height=32&color=%23888888)
+  /// ![book](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/book.png)
   static const IconData book = IconData(
     0xe0e2,
     fontFamily: 'PhosphorRegular',
@@ -2587,7 +2587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookBookmark` no estilo Regular.
   ///
-  /// ![book-bookmark](https://api.iconify.design/ph/book-bookmark.svg?height=32&color=%23888888)
+  /// ![book-bookmark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/book-bookmark.png)
   static const IconData bookBookmark = IconData(
     0xe0e4,
     fontFamily: 'PhosphorRegular',
@@ -2599,7 +2599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookOpen` no estilo Regular.
   ///
-  /// ![book-open](https://api.iconify.design/ph/book-open.svg?height=32&color=%23888888)
+  /// ![book-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/book-open.png)
   static const IconData bookOpen = IconData(
     0xe0e6,
     fontFamily: 'PhosphorRegular',
@@ -2611,7 +2611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookOpenText` no estilo Regular.
   ///
-  /// ![book-open-text](https://api.iconify.design/ph/book-open-text.svg?height=32&color=%23888888)
+  /// ![book-open-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/book-open-text.png)
   static const IconData bookOpenText = IconData(
     0xe8f2,
     fontFamily: 'PhosphorRegular',
@@ -2623,7 +2623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookOpenUser` no estilo Regular.
   ///
-  /// ![book-open-user](https://api.iconify.design/ph/book-open-user.svg?height=32&color=%23888888)
+  /// ![book-open-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/book-open-user.png)
   static const IconData bookOpenUser = IconData(
     0xede0,
     fontFamily: 'PhosphorRegular',
@@ -2635,7 +2635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmark` no estilo Regular.
   ///
-  /// ![bookmark](https://api.iconify.design/ph/bookmark.svg?height=32&color=%23888888)
+  /// ![bookmark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bookmark.png)
   static const IconData bookmark = IconData(
     0xe0e8,
     fontFamily: 'PhosphorRegular',
@@ -2647,7 +2647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmarkSimple` no estilo Regular.
   ///
-  /// ![bookmark-simple](https://api.iconify.design/ph/bookmark-simple.svg?height=32&color=%23888888)
+  /// ![bookmark-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bookmark-simple.png)
   static const IconData bookmarkSimple = IconData(
     0xe0ea,
     fontFamily: 'PhosphorRegular',
@@ -2659,7 +2659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmarks` no estilo Regular.
   ///
-  /// ![bookmarks](https://api.iconify.design/ph/bookmarks.svg?height=32&color=%23888888)
+  /// ![bookmarks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bookmarks.png)
   static const IconData bookmarks = IconData(
     0xe0ec,
     fontFamily: 'PhosphorRegular',
@@ -2671,7 +2671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bookmarksSimple` no estilo Regular.
   ///
-  /// ![bookmarks-simple](https://api.iconify.design/ph/bookmarks-simple.svg?height=32&color=%23888888)
+  /// ![bookmarks-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bookmarks-simple.png)
   static const IconData bookmarksSimple = IconData(
     0xe5f0,
     fontFamily: 'PhosphorRegular',
@@ -2683,7 +2683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `books` no estilo Regular.
   ///
-  /// ![books](https://api.iconify.design/ph/books.svg?height=32&color=%23888888)
+  /// ![books](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/books.png)
   static const IconData books = IconData(
     0xe758,
     fontFamily: 'PhosphorRegular',
@@ -2695,7 +2695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boot` no estilo Regular.
   ///
-  /// ![boot](https://api.iconify.design/ph/boot.svg?height=32&color=%23888888)
+  /// ![boot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/boot.png)
   static const IconData boot = IconData(
     0xecca,
     fontFamily: 'PhosphorRegular',
@@ -2707,7 +2707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boules` no estilo Regular.
   ///
-  /// ![boules](https://api.iconify.design/ph/boules.svg?height=32&color=%23888888)
+  /// ![boules](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/boules.png)
   static const IconData boules = IconData(
     0xe722,
     fontFamily: 'PhosphorRegular',
@@ -2719,7 +2719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boundingBox` no estilo Regular.
   ///
-  /// ![bounding-box](https://api.iconify.design/ph/bounding-box.svg?height=32&color=%23888888)
+  /// ![bounding-box](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bounding-box.png)
   static const IconData boundingBox = IconData(
     0xe6ce,
     fontFamily: 'PhosphorRegular',
@@ -2731,7 +2731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bowlFood` no estilo Regular.
   ///
-  /// ![bowl-food](https://api.iconify.design/ph/bowl-food.svg?height=32&color=%23888888)
+  /// ![bowl-food](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bowl-food.png)
   static const IconData bowlFood = IconData(
     0xeaa4,
     fontFamily: 'PhosphorRegular',
@@ -2743,7 +2743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bowlSteam` no estilo Regular.
   ///
-  /// ![bowl-steam](https://api.iconify.design/ph/bowl-steam.svg?height=32&color=%23888888)
+  /// ![bowl-steam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bowl-steam.png)
   static const IconData bowlSteam = IconData(
     0xe8e4,
     fontFamily: 'PhosphorRegular',
@@ -2755,7 +2755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bowlingBall` no estilo Regular.
   ///
-  /// ![bowling-ball](https://api.iconify.design/ph/bowling-ball.svg?height=32&color=%23888888)
+  /// ![bowling-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bowling-ball.png)
   static const IconData bowlingBall = IconData(
     0xea34,
     fontFamily: 'PhosphorRegular',
@@ -2767,7 +2767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boxArrowDown` no estilo Regular.
   ///
-  /// ![box-arrow-down](https://api.iconify.design/ph/box-arrow-down.svg?height=32&color=%23888888)
+  /// ![box-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/box-arrow-down.png)
   static const IconData boxArrowDown = IconData(
     0xe00e,
     fontFamily: 'PhosphorRegular',
@@ -2779,7 +2779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boxArrowUp` no estilo Regular.
   ///
-  /// ![box-arrow-up](https://api.iconify.design/ph/box-arrow-up.svg?height=32&color=%23888888)
+  /// ![box-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/box-arrow-up.png)
   static const IconData boxArrowUp = IconData(
     0xee54,
     fontFamily: 'PhosphorRegular',
@@ -2791,7 +2791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `boxingGlove` no estilo Regular.
   ///
-  /// ![boxing-glove](https://api.iconify.design/ph/boxing-glove.svg?height=32&color=%23888888)
+  /// ![boxing-glove](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/boxing-glove.png)
   static const IconData boxingGlove = IconData(
     0xea36,
     fontFamily: 'PhosphorRegular',
@@ -2803,7 +2803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsAngle` no estilo Regular.
   ///
-  /// ![brackets-angle](https://api.iconify.design/ph/brackets-angle.svg?height=32&color=%23888888)
+  /// ![brackets-angle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/brackets-angle.png)
   static const IconData bracketsAngle = IconData(
     0xe862,
     fontFamily: 'PhosphorRegular',
@@ -2815,7 +2815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsCurly` no estilo Regular.
   ///
-  /// ![brackets-curly](https://api.iconify.design/ph/brackets-curly.svg?height=32&color=%23888888)
+  /// ![brackets-curly](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/brackets-curly.png)
   static const IconData bracketsCurly = IconData(
     0xe860,
     fontFamily: 'PhosphorRegular',
@@ -2827,7 +2827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsRound` no estilo Regular.
   ///
-  /// ![brackets-round](https://api.iconify.design/ph/brackets-round.svg?height=32&color=%23888888)
+  /// ![brackets-round](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/brackets-round.png)
   static const IconData bracketsRound = IconData(
     0xe864,
     fontFamily: 'PhosphorRegular',
@@ -2839,7 +2839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bracketsSquare` no estilo Regular.
   ///
-  /// ![brackets-square](https://api.iconify.design/ph/brackets-square.svg?height=32&color=%23888888)
+  /// ![brackets-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/brackets-square.png)
   static const IconData bracketsSquare = IconData(
     0xe85e,
     fontFamily: 'PhosphorRegular',
@@ -2851,7 +2851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `brain` no estilo Regular.
   ///
-  /// ![brain](https://api.iconify.design/ph/brain.svg?height=32&color=%23888888)
+  /// ![brain](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/brain.png)
   static const IconData brain = IconData(
     0xe74e,
     fontFamily: 'PhosphorRegular',
@@ -2863,7 +2863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `brandy` no estilo Regular.
   ///
-  /// ![brandy](https://api.iconify.design/ph/brandy.svg?height=32&color=%23888888)
+  /// ![brandy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/brandy.png)
   static const IconData brandy = IconData(
     0xe6b4,
     fontFamily: 'PhosphorRegular',
@@ -2875,7 +2875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bread` no estilo Regular.
   ///
-  /// ![bread](https://api.iconify.design/ph/bread.svg?height=32&color=%23888888)
+  /// ![bread](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bread.png)
   static const IconData bread = IconData(
     0xe81c,
     fontFamily: 'PhosphorRegular',
@@ -2887,7 +2887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bridge` no estilo Regular.
   ///
-  /// ![bridge](https://api.iconify.design/ph/bridge.svg?height=32&color=%23888888)
+  /// ![bridge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bridge.png)
   static const IconData bridge = IconData(
     0xea68,
     fontFamily: 'PhosphorRegular',
@@ -2899,7 +2899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `briefcase` no estilo Regular.
   ///
-  /// ![briefcase](https://api.iconify.design/ph/briefcase.svg?height=32&color=%23888888)
+  /// ![briefcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/briefcase.png)
   static const IconData briefcase = IconData(
     0xe0ee,
     fontFamily: 'PhosphorRegular',
@@ -2911,7 +2911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `briefcaseMetal` no estilo Regular.
   ///
-  /// ![briefcase-metal](https://api.iconify.design/ph/briefcase-metal.svg?height=32&color=%23888888)
+  /// ![briefcase-metal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/briefcase-metal.png)
   static const IconData briefcaseMetal = IconData(
     0xe5f2,
     fontFamily: 'PhosphorRegular',
@@ -2923,7 +2923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `broadcast` no estilo Regular.
   ///
-  /// ![broadcast](https://api.iconify.design/ph/broadcast.svg?height=32&color=%23888888)
+  /// ![broadcast](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/broadcast.png)
   static const IconData broadcast = IconData(
     0xe0f2,
     fontFamily: 'PhosphorRegular',
@@ -2935,7 +2935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `broom` no estilo Regular.
   ///
-  /// ![broom](https://api.iconify.design/ph/broom.svg?height=32&color=%23888888)
+  /// ![broom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/broom.png)
   static const IconData broom = IconData(
     0xec54,
     fontFamily: 'PhosphorRegular',
@@ -2947,7 +2947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `browser` no estilo Regular.
   ///
-  /// ![browser](https://api.iconify.design/ph/browser.svg?height=32&color=%23888888)
+  /// ![browser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/browser.png)
   static const IconData browser = IconData(
     0xe0f4,
     fontFamily: 'PhosphorRegular',
@@ -2959,7 +2959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `browsers` no estilo Regular.
   ///
-  /// ![browsers](https://api.iconify.design/ph/browsers.svg?height=32&color=%23888888)
+  /// ![browsers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/browsers.png)
   static const IconData browsers = IconData(
     0xe0f6,
     fontFamily: 'PhosphorRegular',
@@ -2971,7 +2971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bug` no estilo Regular.
   ///
-  /// ![bug](https://api.iconify.design/ph/bug.svg?height=32&color=%23888888)
+  /// ![bug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bug.png)
   static const IconData bug = IconData(
     0xe5f4,
     fontFamily: 'PhosphorRegular',
@@ -2983,7 +2983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bugBeetle` no estilo Regular.
   ///
-  /// ![bug-beetle](https://api.iconify.design/ph/bug-beetle.svg?height=32&color=%23888888)
+  /// ![bug-beetle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bug-beetle.png)
   static const IconData bugBeetle = IconData(
     0xe5f6,
     fontFamily: 'PhosphorRegular',
@@ -2995,7 +2995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bugDroid` no estilo Regular.
   ///
-  /// ![bug-droid](https://api.iconify.design/ph/bug-droid.svg?height=32&color=%23888888)
+  /// ![bug-droid](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bug-droid.png)
   static const IconData bugDroid = IconData(
     0xe5f8,
     fontFamily: 'PhosphorRegular',
@@ -3007,7 +3007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `building` no estilo Regular.
   ///
-  /// ![building](https://api.iconify.design/ph/building.svg?height=32&color=%23888888)
+  /// ![building](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/building.png)
   static const IconData building = IconData(
     0xe100,
     fontFamily: 'PhosphorRegular',
@@ -3019,7 +3019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `buildingApartment` no estilo Regular.
   ///
-  /// ![building-apartment](https://api.iconify.design/ph/building-apartment.svg?height=32&color=%23888888)
+  /// ![building-apartment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/building-apartment.png)
   static const IconData buildingApartment = IconData(
     0xe0fe,
     fontFamily: 'PhosphorRegular',
@@ -3031,7 +3031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `buildingOffice` no estilo Regular.
   ///
-  /// ![building-office](https://api.iconify.design/ph/building-office.svg?height=32&color=%23888888)
+  /// ![building-office](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/building-office.png)
   static const IconData buildingOffice = IconData(
     0xe0ff,
     fontFamily: 'PhosphorRegular',
@@ -3043,7 +3043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `buildings` no estilo Regular.
   ///
-  /// ![buildings](https://api.iconify.design/ph/buildings.svg?height=32&color=%23888888)
+  /// ![buildings](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/buildings.png)
   static const IconData buildings = IconData(
     0xe102,
     fontFamily: 'PhosphorRegular',
@@ -3055,7 +3055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bulldozer` no estilo Regular.
   ///
-  /// ![bulldozer](https://api.iconify.design/ph/bulldozer.svg?height=32&color=%23888888)
+  /// ![bulldozer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bulldozer.png)
   static const IconData bulldozer = IconData(
     0xec6c,
     fontFamily: 'PhosphorRegular',
@@ -3067,7 +3067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `bus` no estilo Regular.
   ///
-  /// ![bus](https://api.iconify.design/ph/bus.svg?height=32&color=%23888888)
+  /// ![bus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/bus.png)
   static const IconData bus = IconData(
     0xe106,
     fontFamily: 'PhosphorRegular',
@@ -3079,7 +3079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `butterfly` no estilo Regular.
   ///
-  /// ![butterfly](https://api.iconify.design/ph/butterfly.svg?height=32&color=%23888888)
+  /// ![butterfly](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/butterfly.png)
   static const IconData butterfly = IconData(
     0xea6e,
     fontFamily: 'PhosphorRegular',
@@ -3091,7 +3091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cableCar` no estilo Regular.
   ///
-  /// ![cable-car](https://api.iconify.design/ph/cable-car.svg?height=32&color=%23888888)
+  /// ![cable-car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cable-car.png)
   static const IconData cableCar = IconData(
     0xe49c,
     fontFamily: 'PhosphorRegular',
@@ -3103,7 +3103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cactus` no estilo Regular.
   ///
-  /// ![cactus](https://api.iconify.design/ph/cactus.svg?height=32&color=%23888888)
+  /// ![cactus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cactus.png)
   static const IconData cactus = IconData(
     0xe918,
     fontFamily: 'PhosphorRegular',
@@ -3115,7 +3115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caduceus` no estilo Regular.
   ///
-  /// ![caduceus](https://api.iconify.design/ph/asclepius.svg?height=32&color=%23888888)
+  /// ![caduceus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caduceus.png)
   static const IconData caduceus = IconData(
     0xee34,
     fontFamily: 'PhosphorRegular',
@@ -3127,7 +3127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cake` no estilo Regular.
   ///
-  /// ![cake](https://api.iconify.design/ph/cake.svg?height=32&color=%23888888)
+  /// ![cake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cake.png)
   static const IconData cake = IconData(
     0xe780,
     fontFamily: 'PhosphorRegular',
@@ -3139,7 +3139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calculator` no estilo Regular.
   ///
-  /// ![calculator](https://api.iconify.design/ph/calculator.svg?height=32&color=%23888888)
+  /// ![calculator](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calculator.png)
   static const IconData calculator = IconData(
     0xe538,
     fontFamily: 'PhosphorRegular',
@@ -3151,7 +3151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendar` no estilo Regular.
   ///
-  /// ![calendar](https://api.iconify.design/ph/calendar.svg?height=32&color=%23888888)
+  /// ![calendar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar.png)
   static const IconData calendar = IconData(
     0xe108,
     fontFamily: 'PhosphorRegular',
@@ -3163,7 +3163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarBlank` no estilo Regular.
   ///
-  /// ![calendar-blank](https://api.iconify.design/ph/calendar-blank.svg?height=32&color=%23888888)
+  /// ![calendar-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-blank.png)
   static const IconData calendarBlank = IconData(
     0xe10a,
     fontFamily: 'PhosphorRegular',
@@ -3175,7 +3175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarCheck` no estilo Regular.
   ///
-  /// ![calendar-check](https://api.iconify.design/ph/calendar-check.svg?height=32&color=%23888888)
+  /// ![calendar-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-check.png)
   static const IconData calendarCheck = IconData(
     0xe712,
     fontFamily: 'PhosphorRegular',
@@ -3187,7 +3187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarDot` no estilo Regular.
   ///
-  /// ![calendar-dot](https://api.iconify.design/ph/calendar-dot.svg?height=32&color=%23888888)
+  /// ![calendar-dot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-dot.png)
   static const IconData calendarDot = IconData(
     0xe7b2,
     fontFamily: 'PhosphorRegular',
@@ -3199,7 +3199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarDots` no estilo Regular.
   ///
-  /// ![calendar-dots](https://api.iconify.design/ph/calendar-dots.svg?height=32&color=%23888888)
+  /// ![calendar-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-dots.png)
   static const IconData calendarDots = IconData(
     0xe7b4,
     fontFamily: 'PhosphorRegular',
@@ -3211,7 +3211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarHeart` no estilo Regular.
   ///
-  /// ![calendar-heart](https://api.iconify.design/ph/calendar-heart.svg?height=32&color=%23888888)
+  /// ![calendar-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-heart.png)
   static const IconData calendarHeart = IconData(
     0xe8b0,
     fontFamily: 'PhosphorRegular',
@@ -3223,7 +3223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarMinus` no estilo Regular.
   ///
-  /// ![calendar-minus](https://api.iconify.design/ph/calendar-minus.svg?height=32&color=%23888888)
+  /// ![calendar-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-minus.png)
   static const IconData calendarMinus = IconData(
     0xea14,
     fontFamily: 'PhosphorRegular',
@@ -3235,7 +3235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarPlus` no estilo Regular.
   ///
-  /// ![calendar-plus](https://api.iconify.design/ph/calendar-plus.svg?height=32&color=%23888888)
+  /// ![calendar-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-plus.png)
   static const IconData calendarPlus = IconData(
     0xe714,
     fontFamily: 'PhosphorRegular',
@@ -3247,7 +3247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarSlash` no estilo Regular.
   ///
-  /// ![calendar-slash](https://api.iconify.design/ph/calendar-slash.svg?height=32&color=%23888888)
+  /// ![calendar-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-slash.png)
   static const IconData calendarSlash = IconData(
     0xea12,
     fontFamily: 'PhosphorRegular',
@@ -3259,7 +3259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarStar` no estilo Regular.
   ///
-  /// ![calendar-star](https://api.iconify.design/ph/calendar-star.svg?height=32&color=%23888888)
+  /// ![calendar-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-star.png)
   static const IconData calendarStar = IconData(
     0xe8b2,
     fontFamily: 'PhosphorRegular',
@@ -3271,7 +3271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `calendarX` no estilo Regular.
   ///
-  /// ![calendar-x](https://api.iconify.design/ph/calendar-x.svg?height=32&color=%23888888)
+  /// ![calendar-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/calendar-x.png)
   static const IconData calendarX = IconData(
     0xe10c,
     fontFamily: 'PhosphorRegular',
@@ -3283,7 +3283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `callBell` no estilo Regular.
   ///
-  /// ![call-bell](https://api.iconify.design/ph/call-bell.svg?height=32&color=%23888888)
+  /// ![call-bell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/call-bell.png)
   static const IconData callBell = IconData(
     0xe7de,
     fontFamily: 'PhosphorRegular',
@@ -3295,7 +3295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `camera` no estilo Regular.
   ///
-  /// ![camera](https://api.iconify.design/ph/camera.svg?height=32&color=%23888888)
+  /// ![camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/camera.png)
   static const IconData camera = IconData(
     0xe10e,
     fontFamily: 'PhosphorRegular',
@@ -3307,7 +3307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cameraPlus` no estilo Regular.
   ///
-  /// ![camera-plus](https://api.iconify.design/ph/camera-plus.svg?height=32&color=%23888888)
+  /// ![camera-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/camera-plus.png)
   static const IconData cameraPlus = IconData(
     0xec58,
     fontFamily: 'PhosphorRegular',
@@ -3319,7 +3319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cameraRotate` no estilo Regular.
   ///
-  /// ![camera-rotate](https://api.iconify.design/ph/camera-rotate.svg?height=32&color=%23888888)
+  /// ![camera-rotate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/camera-rotate.png)
   static const IconData cameraRotate = IconData(
     0xe7a4,
     fontFamily: 'PhosphorRegular',
@@ -3331,7 +3331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cameraSlash` no estilo Regular.
   ///
-  /// ![camera-slash](https://api.iconify.design/ph/camera-slash.svg?height=32&color=%23888888)
+  /// ![camera-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/camera-slash.png)
   static const IconData cameraSlash = IconData(
     0xe110,
     fontFamily: 'PhosphorRegular',
@@ -3343,7 +3343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `campfire` no estilo Regular.
   ///
-  /// ![campfire](https://api.iconify.design/ph/campfire.svg?height=32&color=%23888888)
+  /// ![campfire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/campfire.png)
   static const IconData campfire = IconData(
     0xe9d8,
     fontFamily: 'PhosphorRegular',
@@ -3355,7 +3355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `car` no estilo Regular.
   ///
-  /// ![car](https://api.iconify.design/ph/car.svg?height=32&color=%23888888)
+  /// ![car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/car.png)
   static const IconData car = IconData(
     0xe112,
     fontFamily: 'PhosphorRegular',
@@ -3367,7 +3367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carBattery` no estilo Regular.
   ///
-  /// ![car-battery](https://api.iconify.design/ph/car-battery.svg?height=32&color=%23888888)
+  /// ![car-battery](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/car-battery.png)
   static const IconData carBattery = IconData(
     0xee30,
     fontFamily: 'PhosphorRegular',
@@ -3379,7 +3379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carProfile` no estilo Regular.
   ///
-  /// ![car-profile](https://api.iconify.design/ph/car-profile.svg?height=32&color=%23888888)
+  /// ![car-profile](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/car-profile.png)
   static const IconData carProfile = IconData(
     0xe8cc,
     fontFamily: 'PhosphorRegular',
@@ -3391,7 +3391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carSimple` no estilo Regular.
   ///
-  /// ![car-simple](https://api.iconify.design/ph/car-simple.svg?height=32&color=%23888888)
+  /// ![car-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/car-simple.png)
   static const IconData carSimple = IconData(
     0xe114,
     fontFamily: 'PhosphorRegular',
@@ -3403,7 +3403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cardholder` no estilo Regular.
   ///
-  /// ![cardholder](https://api.iconify.design/ph/cardholder.svg?height=32&color=%23888888)
+  /// ![cardholder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cardholder.png)
   static const IconData cardholder = IconData(
     0xe5fa,
     fontFamily: 'PhosphorRegular',
@@ -3415,7 +3415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cards` no estilo Regular.
   ///
-  /// ![cards](https://api.iconify.design/ph/cards.svg?height=32&color=%23888888)
+  /// ![cards](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cards.png)
   static const IconData cards = IconData(
     0xe0f8,
     fontFamily: 'PhosphorRegular',
@@ -3427,7 +3427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cardsThree` no estilo Regular.
   ///
-  /// ![cards-three](https://api.iconify.design/ph/cards-three.svg?height=32&color=%23888888)
+  /// ![cards-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cards-three.png)
   static const IconData cardsThree = IconData(
     0xee50,
     fontFamily: 'PhosphorRegular',
@@ -3439,7 +3439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleDown` no estilo Regular.
   ///
-  /// ![caret-circle-double-down](https://api.iconify.design/ph/caret-circle-double-down.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-double-down.png)
   static const IconData caretCircleDoubleDown = IconData(
     0xe116,
     fontFamily: 'PhosphorRegular',
@@ -3451,7 +3451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleLeft` no estilo Regular.
   ///
-  /// ![caret-circle-double-left](https://api.iconify.design/ph/caret-circle-double-left.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-double-left.png)
   static const IconData caretCircleDoubleLeft = IconData(
     0xe118,
     fontFamily: 'PhosphorRegular',
@@ -3463,7 +3463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleRight` no estilo Regular.
   ///
-  /// ![caret-circle-double-right](https://api.iconify.design/ph/caret-circle-double-right.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-double-right.png)
   static const IconData caretCircleDoubleRight = IconData(
     0xe11a,
     fontFamily: 'PhosphorRegular',
@@ -3475,7 +3475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDoubleUp` no estilo Regular.
   ///
-  /// ![caret-circle-double-up](https://api.iconify.design/ph/caret-circle-double-up.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-double-up.png)
   static const IconData caretCircleDoubleUp = IconData(
     0xe11c,
     fontFamily: 'PhosphorRegular',
@@ -3487,7 +3487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleDown` no estilo Regular.
   ///
-  /// ![caret-circle-down](https://api.iconify.design/ph/caret-circle-down.svg?height=32&color=%23888888)
+  /// ![caret-circle-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-down.png)
   static const IconData caretCircleDown = IconData(
     0xe11e,
     fontFamily: 'PhosphorRegular',
@@ -3499,7 +3499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleLeft` no estilo Regular.
   ///
-  /// ![caret-circle-left](https://api.iconify.design/ph/caret-circle-left.svg?height=32&color=%23888888)
+  /// ![caret-circle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-left.png)
   static const IconData caretCircleLeft = IconData(
     0xe120,
     fontFamily: 'PhosphorRegular',
@@ -3511,7 +3511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleRight` no estilo Regular.
   ///
-  /// ![caret-circle-right](https://api.iconify.design/ph/caret-circle-right.svg?height=32&color=%23888888)
+  /// ![caret-circle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-right.png)
   static const IconData caretCircleRight = IconData(
     0xe122,
     fontFamily: 'PhosphorRegular',
@@ -3523,7 +3523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleUp` no estilo Regular.
   ///
-  /// ![caret-circle-up](https://api.iconify.design/ph/caret-circle-up.svg?height=32&color=%23888888)
+  /// ![caret-circle-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-up.png)
   static const IconData caretCircleUp = IconData(
     0xe124,
     fontFamily: 'PhosphorRegular',
@@ -3535,7 +3535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretCircleUpDown` no estilo Regular.
   ///
-  /// ![caret-circle-up-down](https://api.iconify.design/ph/caret-circle-up-down.svg?height=32&color=%23888888)
+  /// ![caret-circle-up-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-circle-up-down.png)
   static const IconData caretCircleUpDown = IconData(
     0xe13e,
     fontFamily: 'PhosphorRegular',
@@ -3547,7 +3547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleDown` no estilo Regular.
   ///
-  /// ![caret-double-down](https://api.iconify.design/ph/caret-double-down.svg?height=32&color=%23888888)
+  /// ![caret-double-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-double-down.png)
   static const IconData caretDoubleDown = IconData(
     0xe126,
     fontFamily: 'PhosphorRegular',
@@ -3559,7 +3559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleLeft` no estilo Regular.
   ///
-  /// ![caret-double-left](https://api.iconify.design/ph/caret-double-left.svg?height=32&color=%23888888)
+  /// ![caret-double-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-double-left.png)
   static const IconData caretDoubleLeft = IconData(
     0xe128,
     fontFamily: 'PhosphorRegular',
@@ -3571,7 +3571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleRight` no estilo Regular.
   ///
-  /// ![caret-double-right](https://api.iconify.design/ph/caret-double-right.svg?height=32&color=%23888888)
+  /// ![caret-double-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-double-right.png)
   static const IconData caretDoubleRight = IconData(
     0xe12a,
     fontFamily: 'PhosphorRegular',
@@ -3583,7 +3583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDoubleUp` no estilo Regular.
   ///
-  /// ![caret-double-up](https://api.iconify.design/ph/caret-double-up.svg?height=32&color=%23888888)
+  /// ![caret-double-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-double-up.png)
   static const IconData caretDoubleUp = IconData(
     0xe12c,
     fontFamily: 'PhosphorRegular',
@@ -3595,7 +3595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretDown` no estilo Regular.
   ///
-  /// ![caret-down](https://api.iconify.design/ph/caret-down.svg?height=32&color=%23888888)
+  /// ![caret-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-down.png)
   static const IconData caretDown = IconData(
     0xe136,
     fontFamily: 'PhosphorRegular',
@@ -3607,7 +3607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLeft` no estilo Regular.
   ///
-  /// ![caret-left](https://api.iconify.design/ph/caret-left.svg?height=32&color=%23888888)
+  /// ![caret-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-left.png)
   static const IconData caretLeft = IconData(
     0xe138,
     fontFamily: 'PhosphorRegular',
@@ -3619,7 +3619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineDown` no estilo Regular.
   ///
-  /// ![caret-line-down](https://api.iconify.design/ph/caret-line-down.svg?height=32&color=%23888888)
+  /// ![caret-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-line-down.png)
   static const IconData caretLineDown = IconData(
     0xe134,
     fontFamily: 'PhosphorRegular',
@@ -3631,7 +3631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineLeft` no estilo Regular.
   ///
-  /// ![caret-line-left](https://api.iconify.design/ph/caret-line-left.svg?height=32&color=%23888888)
+  /// ![caret-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-line-left.png)
   static const IconData caretLineLeft = IconData(
     0xe132,
     fontFamily: 'PhosphorRegular',
@@ -3643,7 +3643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineRight` no estilo Regular.
   ///
-  /// ![caret-line-right](https://api.iconify.design/ph/caret-line-right.svg?height=32&color=%23888888)
+  /// ![caret-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-line-right.png)
   static const IconData caretLineRight = IconData(
     0xe130,
     fontFamily: 'PhosphorRegular',
@@ -3655,7 +3655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretLineUp` no estilo Regular.
   ///
-  /// ![caret-line-up](https://api.iconify.design/ph/caret-line-up.svg?height=32&color=%23888888)
+  /// ![caret-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-line-up.png)
   static const IconData caretLineUp = IconData(
     0xe12e,
     fontFamily: 'PhosphorRegular',
@@ -3667,7 +3667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretRight` no estilo Regular.
   ///
-  /// ![caret-right](https://api.iconify.design/ph/caret-right.svg?height=32&color=%23888888)
+  /// ![caret-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-right.png)
   static const IconData caretRight = IconData(
     0xe13a,
     fontFamily: 'PhosphorRegular',
@@ -3679,7 +3679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretUp` no estilo Regular.
   ///
-  /// ![caret-up](https://api.iconify.design/ph/caret-up.svg?height=32&color=%23888888)
+  /// ![caret-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-up.png)
   static const IconData caretUp = IconData(
     0xe13c,
     fontFamily: 'PhosphorRegular',
@@ -3691,7 +3691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `caretUpDown` no estilo Regular.
   ///
-  /// ![caret-up-down](https://api.iconify.design/ph/caret-up-down.svg?height=32&color=%23888888)
+  /// ![caret-up-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/caret-up-down.png)
   static const IconData caretUpDown = IconData(
     0xe140,
     fontFamily: 'PhosphorRegular',
@@ -3703,7 +3703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `carrot` no estilo Regular.
   ///
-  /// ![carrot](https://api.iconify.design/ph/carrot.svg?height=32&color=%23888888)
+  /// ![carrot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/carrot.png)
   static const IconData carrot = IconData(
     0xed38,
     fontFamily: 'PhosphorRegular',
@@ -3715,7 +3715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cashRegister` no estilo Regular.
   ///
-  /// ![cash-register](https://api.iconify.design/ph/cash-register.svg?height=32&color=%23888888)
+  /// ![cash-register](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cash-register.png)
   static const IconData cashRegister = IconData(
     0xed80,
     fontFamily: 'PhosphorRegular',
@@ -3727,7 +3727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cassetteTape` no estilo Regular.
   ///
-  /// ![cassette-tape](https://api.iconify.design/ph/cassette-tape.svg?height=32&color=%23888888)
+  /// ![cassette-tape](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cassette-tape.png)
   static const IconData cassetteTape = IconData(
     0xed2e,
     fontFamily: 'PhosphorRegular',
@@ -3739,7 +3739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `castleTurret` no estilo Regular.
   ///
-  /// ![castle-turret](https://api.iconify.design/ph/castle-turret.svg?height=32&color=%23888888)
+  /// ![castle-turret](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/castle-turret.png)
   static const IconData castleTurret = IconData(
     0xe9d0,
     fontFamily: 'PhosphorRegular',
@@ -3751,7 +3751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cat` no estilo Regular.
   ///
-  /// ![cat](https://api.iconify.design/ph/cat.svg?height=32&color=%23888888)
+  /// ![cat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cat.png)
   static const IconData cat = IconData(
     0xe748,
     fontFamily: 'PhosphorRegular',
@@ -3763,7 +3763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalFull` no estilo Regular.
   ///
-  /// ![cell-signal-full](https://api.iconify.design/ph/cell-signal-full.svg?height=32&color=%23888888)
+  /// ![cell-signal-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-signal-full.png)
   static const IconData cellSignalFull = IconData(
     0xe142,
     fontFamily: 'PhosphorRegular',
@@ -3775,7 +3775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalHigh` no estilo Regular.
   ///
-  /// ![cell-signal-high](https://api.iconify.design/ph/cell-signal-high.svg?height=32&color=%23888888)
+  /// ![cell-signal-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-signal-high.png)
   static const IconData cellSignalHigh = IconData(
     0xe144,
     fontFamily: 'PhosphorRegular',
@@ -3787,7 +3787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalLow` no estilo Regular.
   ///
-  /// ![cell-signal-low](https://api.iconify.design/ph/cell-signal-low.svg?height=32&color=%23888888)
+  /// ![cell-signal-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-signal-low.png)
   static const IconData cellSignalLow = IconData(
     0xe146,
     fontFamily: 'PhosphorRegular',
@@ -3799,7 +3799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalMedium` no estilo Regular.
   ///
-  /// ![cell-signal-medium](https://api.iconify.design/ph/cell-signal-medium.svg?height=32&color=%23888888)
+  /// ![cell-signal-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-signal-medium.png)
   static const IconData cellSignalMedium = IconData(
     0xe148,
     fontFamily: 'PhosphorRegular',
@@ -3811,7 +3811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalNone` no estilo Regular.
   ///
-  /// ![cell-signal-none](https://api.iconify.design/ph/cell-signal-none.svg?height=32&color=%23888888)
+  /// ![cell-signal-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-signal-none.png)
   static const IconData cellSignalNone = IconData(
     0xe14a,
     fontFamily: 'PhosphorRegular',
@@ -3823,7 +3823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalSlash` no estilo Regular.
   ///
-  /// ![cell-signal-slash](https://api.iconify.design/ph/cell-signal-slash.svg?height=32&color=%23888888)
+  /// ![cell-signal-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-signal-slash.png)
   static const IconData cellSignalSlash = IconData(
     0xe14c,
     fontFamily: 'PhosphorRegular',
@@ -3835,7 +3835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellSignalX` no estilo Regular.
   ///
-  /// ![cell-signal-x](https://api.iconify.design/ph/cell-signal-x.svg?height=32&color=%23888888)
+  /// ![cell-signal-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-signal-x.png)
   static const IconData cellSignalX = IconData(
     0xe14e,
     fontFamily: 'PhosphorRegular',
@@ -3847,7 +3847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cellTower` no estilo Regular.
   ///
-  /// ![cell-tower](https://api.iconify.design/ph/cell-tower.svg?height=32&color=%23888888)
+  /// ![cell-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cell-tower.png)
   static const IconData cellTower = IconData(
     0xebaa,
     fontFamily: 'PhosphorRegular',
@@ -3859,7 +3859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `certificate` no estilo Regular.
   ///
-  /// ![certificate](https://api.iconify.design/ph/certificate.svg?height=32&color=%23888888)
+  /// ![certificate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/certificate.png)
   static const IconData certificate = IconData(
     0xe766,
     fontFamily: 'PhosphorRegular',
@@ -3871,7 +3871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chair` no estilo Regular.
   ///
-  /// ![chair](https://api.iconify.design/ph/chair.svg?height=32&color=%23888888)
+  /// ![chair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chair.png)
   static const IconData chair = IconData(
     0xe950,
     fontFamily: 'PhosphorRegular',
@@ -3883,7 +3883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chalkboard` no estilo Regular.
   ///
-  /// ![chalkboard](https://api.iconify.design/ph/chalkboard.svg?height=32&color=%23888888)
+  /// ![chalkboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chalkboard.png)
   static const IconData chalkboard = IconData(
     0xe5fc,
     fontFamily: 'PhosphorRegular',
@@ -3895,7 +3895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chalkboardSimple` no estilo Regular.
   ///
-  /// ![chalkboard-simple](https://api.iconify.design/ph/chalkboard-simple.svg?height=32&color=%23888888)
+  /// ![chalkboard-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chalkboard-simple.png)
   static const IconData chalkboardSimple = IconData(
     0xe5fe,
     fontFamily: 'PhosphorRegular',
@@ -3907,7 +3907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chalkboardTeacher` no estilo Regular.
   ///
-  /// ![chalkboard-teacher](https://api.iconify.design/ph/chalkboard-teacher.svg?height=32&color=%23888888)
+  /// ![chalkboard-teacher](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chalkboard-teacher.png)
   static const IconData chalkboardTeacher = IconData(
     0xe600,
     fontFamily: 'PhosphorRegular',
@@ -3919,7 +3919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `champagne` no estilo Regular.
   ///
-  /// ![champagne](https://api.iconify.design/ph/champagne.svg?height=32&color=%23888888)
+  /// ![champagne](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/champagne.png)
   static const IconData champagne = IconData(
     0xeaca,
     fontFamily: 'PhosphorRegular',
@@ -3931,7 +3931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chargingStation` no estilo Regular.
   ///
-  /// ![charging-station](https://api.iconify.design/ph/charging-station.svg?height=32&color=%23888888)
+  /// ![charging-station](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/charging-station.png)
   static const IconData chargingStation = IconData(
     0xe8d0,
     fontFamily: 'PhosphorRegular',
@@ -3943,7 +3943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartBar` no estilo Regular.
   ///
-  /// ![chart-bar](https://api.iconify.design/ph/chart-bar.svg?height=32&color=%23888888)
+  /// ![chart-bar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-bar.png)
   static const IconData chartBar = IconData(
     0xe150,
     fontFamily: 'PhosphorRegular',
@@ -3955,7 +3955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartBarHorizontal` no estilo Regular.
   ///
-  /// ![chart-bar-horizontal](https://api.iconify.design/ph/chart-bar-horizontal.svg?height=32&color=%23888888)
+  /// ![chart-bar-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-bar-horizontal.png)
   static const IconData chartBarHorizontal = IconData(
     0xe152,
     fontFamily: 'PhosphorRegular',
@@ -3967,7 +3967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartDonut` no estilo Regular.
   ///
-  /// ![chart-donut](https://api.iconify.design/ph/chart-donut.svg?height=32&color=%23888888)
+  /// ![chart-donut](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-donut.png)
   static const IconData chartDonut = IconData(
     0xeaa6,
     fontFamily: 'PhosphorRegular',
@@ -3979,7 +3979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartLine` no estilo Regular.
   ///
-  /// ![chart-line](https://api.iconify.design/ph/chart-line.svg?height=32&color=%23888888)
+  /// ![chart-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-line.png)
   static const IconData chartLine = IconData(
     0xe154,
     fontFamily: 'PhosphorRegular',
@@ -3991,7 +3991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartLineDown` no estilo Regular.
   ///
-  /// ![chart-line-down](https://api.iconify.design/ph/chart-line-down.svg?height=32&color=%23888888)
+  /// ![chart-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-line-down.png)
   static const IconData chartLineDown = IconData(
     0xe8b6,
     fontFamily: 'PhosphorRegular',
@@ -4003,7 +4003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartLineUp` no estilo Regular.
   ///
-  /// ![chart-line-up](https://api.iconify.design/ph/chart-line-up.svg?height=32&color=%23888888)
+  /// ![chart-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-line-up.png)
   static const IconData chartLineUp = IconData(
     0xe156,
     fontFamily: 'PhosphorRegular',
@@ -4015,7 +4015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartPie` no estilo Regular.
   ///
-  /// ![chart-pie](https://api.iconify.design/ph/chart-pie.svg?height=32&color=%23888888)
+  /// ![chart-pie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-pie.png)
   static const IconData chartPie = IconData(
     0xe158,
     fontFamily: 'PhosphorRegular',
@@ -4027,7 +4027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartPieSlice` no estilo Regular.
   ///
-  /// ![chart-pie-slice](https://api.iconify.design/ph/chart-pie-slice.svg?height=32&color=%23888888)
+  /// ![chart-pie-slice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-pie-slice.png)
   static const IconData chartPieSlice = IconData(
     0xe15a,
     fontFamily: 'PhosphorRegular',
@@ -4039,7 +4039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartPolar` no estilo Regular.
   ///
-  /// ![chart-polar](https://api.iconify.design/ph/chart-polar.svg?height=32&color=%23888888)
+  /// ![chart-polar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-polar.png)
   static const IconData chartPolar = IconData(
     0xeaa8,
     fontFamily: 'PhosphorRegular',
@@ -4051,7 +4051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chartScatter` no estilo Regular.
   ///
-  /// ![chart-scatter](https://api.iconify.design/ph/chart-scatter.svg?height=32&color=%23888888)
+  /// ![chart-scatter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chart-scatter.png)
   static const IconData chartScatter = IconData(
     0xeaac,
     fontFamily: 'PhosphorRegular',
@@ -4063,7 +4063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chat` no estilo Regular.
   ///
-  /// ![chat](https://api.iconify.design/ph/chat.svg?height=32&color=%23888888)
+  /// ![chat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat.png)
   static const IconData chat = IconData(
     0xe15c,
     fontFamily: 'PhosphorRegular',
@@ -4075,7 +4075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCentered` no estilo Regular.
   ///
-  /// ![chat-centered](https://api.iconify.design/ph/chat-centered.svg?height=32&color=%23888888)
+  /// ![chat-centered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-centered.png)
   static const IconData chatCentered = IconData(
     0xe160,
     fontFamily: 'PhosphorRegular',
@@ -4087,7 +4087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCenteredDots` no estilo Regular.
   ///
-  /// ![chat-centered-dots](https://api.iconify.design/ph/chat-centered-dots.svg?height=32&color=%23888888)
+  /// ![chat-centered-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-centered-dots.png)
   static const IconData chatCenteredDots = IconData(
     0xe164,
     fontFamily: 'PhosphorRegular',
@@ -4099,7 +4099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCenteredSlash` no estilo Regular.
   ///
-  /// ![chat-centered-slash](https://api.iconify.design/ph/chat-centered-slash.svg?height=32&color=%23888888)
+  /// ![chat-centered-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-centered-slash.png)
   static const IconData chatCenteredSlash = IconData(
     0xe162,
     fontFamily: 'PhosphorRegular',
@@ -4111,7 +4111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCenteredText` no estilo Regular.
   ///
-  /// ![chat-centered-text](https://api.iconify.design/ph/chat-centered-text.svg?height=32&color=%23888888)
+  /// ![chat-centered-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-centered-text.png)
   static const IconData chatCenteredText = IconData(
     0xe166,
     fontFamily: 'PhosphorRegular',
@@ -4123,7 +4123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircle` no estilo Regular.
   ///
-  /// ![chat-circle](https://api.iconify.design/ph/chat-circle.svg?height=32&color=%23888888)
+  /// ![chat-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-circle.png)
   static const IconData chatCircle = IconData(
     0xe168,
     fontFamily: 'PhosphorRegular',
@@ -4135,7 +4135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircleDots` no estilo Regular.
   ///
-  /// ![chat-circle-dots](https://api.iconify.design/ph/chat-circle-dots.svg?height=32&color=%23888888)
+  /// ![chat-circle-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-circle-dots.png)
   static const IconData chatCircleDots = IconData(
     0xe16c,
     fontFamily: 'PhosphorRegular',
@@ -4147,7 +4147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircleSlash` no estilo Regular.
   ///
-  /// ![chat-circle-slash](https://api.iconify.design/ph/chat-circle-slash.svg?height=32&color=%23888888)
+  /// ![chat-circle-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-circle-slash.png)
   static const IconData chatCircleSlash = IconData(
     0xe16a,
     fontFamily: 'PhosphorRegular',
@@ -4159,7 +4159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatCircleText` no estilo Regular.
   ///
-  /// ![chat-circle-text](https://api.iconify.design/ph/chat-circle-text.svg?height=32&color=%23888888)
+  /// ![chat-circle-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-circle-text.png)
   static const IconData chatCircleText = IconData(
     0xe16e,
     fontFamily: 'PhosphorRegular',
@@ -4171,7 +4171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatDots` no estilo Regular.
   ///
-  /// ![chat-dots](https://api.iconify.design/ph/chat-dots.svg?height=32&color=%23888888)
+  /// ![chat-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-dots.png)
   static const IconData chatDots = IconData(
     0xe170,
     fontFamily: 'PhosphorRegular',
@@ -4183,7 +4183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatSlash` no estilo Regular.
   ///
-  /// ![chat-slash](https://api.iconify.design/ph/chat-slash.svg?height=32&color=%23888888)
+  /// ![chat-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-slash.png)
   static const IconData chatSlash = IconData(
     0xe15e,
     fontFamily: 'PhosphorRegular',
@@ -4195,7 +4195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardrop` no estilo Regular.
   ///
-  /// ![chat-teardrop](https://api.iconify.design/ph/chat-teardrop.svg?height=32&color=%23888888)
+  /// ![chat-teardrop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-teardrop.png)
   static const IconData chatTeardrop = IconData(
     0xe172,
     fontFamily: 'PhosphorRegular',
@@ -4207,7 +4207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardropDots` no estilo Regular.
   ///
-  /// ![chat-teardrop-dots](https://api.iconify.design/ph/chat-teardrop-dots.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-teardrop-dots.png)
   static const IconData chatTeardropDots = IconData(
     0xe176,
     fontFamily: 'PhosphorRegular',
@@ -4219,7 +4219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardropSlash` no estilo Regular.
   ///
-  /// ![chat-teardrop-slash](https://api.iconify.design/ph/chat-teardrop-slash.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-teardrop-slash.png)
   static const IconData chatTeardropSlash = IconData(
     0xe174,
     fontFamily: 'PhosphorRegular',
@@ -4231,7 +4231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatTeardropText` no estilo Regular.
   ///
-  /// ![chat-teardrop-text](https://api.iconify.design/ph/chat-teardrop-text.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-teardrop-text.png)
   static const IconData chatTeardropText = IconData(
     0xe178,
     fontFamily: 'PhosphorRegular',
@@ -4243,7 +4243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatText` no estilo Regular.
   ///
-  /// ![chat-text](https://api.iconify.design/ph/chat-text.svg?height=32&color=%23888888)
+  /// ![chat-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chat-text.png)
   static const IconData chatText = IconData(
     0xe17a,
     fontFamily: 'PhosphorRegular',
@@ -4255,7 +4255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chats` no estilo Regular.
   ///
-  /// ![chats](https://api.iconify.design/ph/chats.svg?height=32&color=%23888888)
+  /// ![chats](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chats.png)
   static const IconData chats = IconData(
     0xe17c,
     fontFamily: 'PhosphorRegular',
@@ -4267,7 +4267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatsCircle` no estilo Regular.
   ///
-  /// ![chats-circle](https://api.iconify.design/ph/chats-circle.svg?height=32&color=%23888888)
+  /// ![chats-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chats-circle.png)
   static const IconData chatsCircle = IconData(
     0xe17e,
     fontFamily: 'PhosphorRegular',
@@ -4279,7 +4279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chatsTeardrop` no estilo Regular.
   ///
-  /// ![chats-teardrop](https://api.iconify.design/ph/chats-teardrop.svg?height=32&color=%23888888)
+  /// ![chats-teardrop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chats-teardrop.png)
   static const IconData chatsTeardrop = IconData(
     0xe180,
     fontFamily: 'PhosphorRegular',
@@ -4291,7 +4291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `check` no estilo Regular.
   ///
-  /// ![check](https://api.iconify.design/ph/check.svg?height=32&color=%23888888)
+  /// ![check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/check.png)
   static const IconData check = IconData(
     0xe182,
     fontFamily: 'PhosphorRegular',
@@ -4303,7 +4303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkCircle` no estilo Regular.
   ///
-  /// ![check-circle](https://api.iconify.design/ph/check-circle.svg?height=32&color=%23888888)
+  /// ![check-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/check-circle.png)
   static const IconData checkCircle = IconData(
     0xe184,
     fontFamily: 'PhosphorRegular',
@@ -4315,7 +4315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkFat` no estilo Regular.
   ///
-  /// ![check-fat](https://api.iconify.design/ph/check-fat.svg?height=32&color=%23888888)
+  /// ![check-fat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/check-fat.png)
   static const IconData checkFat = IconData(
     0xeba6,
     fontFamily: 'PhosphorRegular',
@@ -4327,7 +4327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkSquare` no estilo Regular.
   ///
-  /// ![check-square](https://api.iconify.design/ph/check-square.svg?height=32&color=%23888888)
+  /// ![check-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/check-square.png)
   static const IconData checkSquare = IconData(
     0xe186,
     fontFamily: 'PhosphorRegular',
@@ -4339,7 +4339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkSquareOffset` no estilo Regular.
   ///
-  /// ![check-square-offset](https://api.iconify.design/ph/check-square-offset.svg?height=32&color=%23888888)
+  /// ![check-square-offset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/check-square-offset.png)
   static const IconData checkSquareOffset = IconData(
     0xe188,
     fontFamily: 'PhosphorRegular',
@@ -4351,7 +4351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checkerboard` no estilo Regular.
   ///
-  /// ![checkerboard](https://api.iconify.design/ph/checkerboard.svg?height=32&color=%23888888)
+  /// ![checkerboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/checkerboard.png)
   static const IconData checkerboard = IconData(
     0xe8c4,
     fontFamily: 'PhosphorRegular',
@@ -4363,7 +4363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `checks` no estilo Regular.
   ///
-  /// ![checks](https://api.iconify.design/ph/checks.svg?height=32&color=%23888888)
+  /// ![checks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/checks.png)
   static const IconData checks = IconData(
     0xe53a,
     fontFamily: 'PhosphorRegular',
@@ -4375,7 +4375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cheers` no estilo Regular.
   ///
-  /// ![cheers](https://api.iconify.design/ph/cheers.svg?height=32&color=%23888888)
+  /// ![cheers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cheers.png)
   static const IconData cheers = IconData(
     0xea4a,
     fontFamily: 'PhosphorRegular',
@@ -4387,7 +4387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cheese` no estilo Regular.
   ///
-  /// ![cheese](https://api.iconify.design/ph/cheese.svg?height=32&color=%23888888)
+  /// ![cheese](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cheese.png)
   static const IconData cheese = IconData(
     0xe9fe,
     fontFamily: 'PhosphorRegular',
@@ -4399,7 +4399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `chefHat` no estilo Regular.
   ///
-  /// ![chef-hat](https://api.iconify.design/ph/chef-hat.svg?height=32&color=%23888888)
+  /// ![chef-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/chef-hat.png)
   static const IconData chefHat = IconData(
     0xed8e,
     fontFamily: 'PhosphorRegular',
@@ -4411,7 +4411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cherries` no estilo Regular.
   ///
-  /// ![cherries](https://api.iconify.design/ph/cherries.svg?height=32&color=%23888888)
+  /// ![cherries](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cherries.png)
   static const IconData cherries = IconData(
     0xe830,
     fontFamily: 'PhosphorRegular',
@@ -4423,7 +4423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `church` no estilo Regular.
   ///
-  /// ![church](https://api.iconify.design/ph/church.svg?height=32&color=%23888888)
+  /// ![church](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/church.png)
   static const IconData church = IconData(
     0xecea,
     fontFamily: 'PhosphorRegular',
@@ -4435,7 +4435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cigarette` no estilo Regular.
   ///
-  /// ![cigarette](https://api.iconify.design/ph/cigarette.svg?height=32&color=%23888888)
+  /// ![cigarette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cigarette.png)
   static const IconData cigarette = IconData(
     0xed90,
     fontFamily: 'PhosphorRegular',
@@ -4447,7 +4447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cigaretteSlash` no estilo Regular.
   ///
-  /// ![cigarette-slash](https://api.iconify.design/ph/cigarette-slash.svg?height=32&color=%23888888)
+  /// ![cigarette-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cigarette-slash.png)
   static const IconData cigaretteSlash = IconData(
     0xed92,
     fontFamily: 'PhosphorRegular',
@@ -4459,7 +4459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circle` no estilo Regular.
   ///
-  /// ![circle](https://api.iconify.design/ph/circle.svg?height=32&color=%23888888)
+  /// ![circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle.png)
   static const IconData circle = IconData(
     0xe18a,
     fontFamily: 'PhosphorRegular',
@@ -4471,7 +4471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleDashed` no estilo Regular.
   ///
-  /// ![circle-dashed](https://api.iconify.design/ph/circle-dashed.svg?height=32&color=%23888888)
+  /// ![circle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-dashed.png)
   static const IconData circleDashed = IconData(
     0xe602,
     fontFamily: 'PhosphorRegular',
@@ -4483,7 +4483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleHalf` no estilo Regular.
   ///
-  /// ![circle-half](https://api.iconify.design/ph/circle-half.svg?height=32&color=%23888888)
+  /// ![circle-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-half.png)
   static const IconData circleHalf = IconData(
     0xe18c,
     fontFamily: 'PhosphorRegular',
@@ -4495,7 +4495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleHalfTilt` no estilo Regular.
   ///
-  /// ![circle-half-tilt](https://api.iconify.design/ph/circle-half-tilt.svg?height=32&color=%23888888)
+  /// ![circle-half-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-half-tilt.png)
   static const IconData circleHalfTilt = IconData(
     0xe18e,
     fontFamily: 'PhosphorRegular',
@@ -4507,7 +4507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleNotch` no estilo Regular.
   ///
-  /// ![circle-notch](https://api.iconify.design/ph/circle-notch.svg?height=32&color=%23888888)
+  /// ![circle-notch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-notch.png)
   static const IconData circleNotch = IconData(
     0xeb44,
     fontFamily: 'PhosphorRegular',
@@ -4519,7 +4519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavy` no estilo Regular.
   ///
-  /// ![circle-wavy](https://api.iconify.design/ph/seal.svg?height=32&color=%23888888)
+  /// ![circle-wavy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-wavy.png)
   static const IconData circleWavy = IconData(
     0xe604,
     fontFamily: 'PhosphorRegular',
@@ -4531,7 +4531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavyCheck` no estilo Regular.
   ///
-  /// ![circle-wavy-check](https://api.iconify.design/ph/seal-check.svg?height=32&color=%23888888)
+  /// ![circle-wavy-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-wavy-check.png)
   static const IconData circleWavyCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorRegular',
@@ -4543,7 +4543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavyQuestion` no estilo Regular.
   ///
-  /// ![circle-wavy-question](https://api.iconify.design/ph/seal-question.svg?height=32&color=%23888888)
+  /// ![circle-wavy-question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-wavy-question.png)
   static const IconData circleWavyQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorRegular',
@@ -4555,7 +4555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circleWavyWarning` no estilo Regular.
   ///
-  /// ![circle-wavy-warning](https://api.iconify.design/ph/seal-warning.svg?height=32&color=%23888888)
+  /// ![circle-wavy-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circle-wavy-warning.png)
   static const IconData circleWavyWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorRegular',
@@ -4567,7 +4567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circlesFour` no estilo Regular.
   ///
-  /// ![circles-four](https://api.iconify.design/ph/circles-four.svg?height=32&color=%23888888)
+  /// ![circles-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circles-four.png)
   static const IconData circlesFour = IconData(
     0xe190,
     fontFamily: 'PhosphorRegular',
@@ -4579,7 +4579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circlesThree` no estilo Regular.
   ///
-  /// ![circles-three](https://api.iconify.design/ph/circles-three.svg?height=32&color=%23888888)
+  /// ![circles-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circles-three.png)
   static const IconData circlesThree = IconData(
     0xe192,
     fontFamily: 'PhosphorRegular',
@@ -4591,7 +4591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circlesThreePlus` no estilo Regular.
   ///
-  /// ![circles-three-plus](https://api.iconify.design/ph/circles-three-plus.svg?height=32&color=%23888888)
+  /// ![circles-three-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circles-three-plus.png)
   static const IconData circlesThreePlus = IconData(
     0xe194,
     fontFamily: 'PhosphorRegular',
@@ -4603,7 +4603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `circuitry` no estilo Regular.
   ///
-  /// ![circuitry](https://api.iconify.design/ph/circuitry.svg?height=32&color=%23888888)
+  /// ![circuitry](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/circuitry.png)
   static const IconData circuitry = IconData(
     0xe9c2,
     fontFamily: 'PhosphorRegular',
@@ -4615,7 +4615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `city` no estilo Regular.
   ///
-  /// ![city](https://api.iconify.design/ph/city.svg?height=32&color=%23888888)
+  /// ![city](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/city.png)
   static const IconData city = IconData(
     0xea6a,
     fontFamily: 'PhosphorRegular',
@@ -4627,7 +4627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clipboard` no estilo Regular.
   ///
-  /// ![clipboard](https://api.iconify.design/ph/clipboard.svg?height=32&color=%23888888)
+  /// ![clipboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clipboard.png)
   static const IconData clipboard = IconData(
     0xe196,
     fontFamily: 'PhosphorRegular',
@@ -4639,7 +4639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clipboardText` no estilo Regular.
   ///
-  /// ![clipboard-text](https://api.iconify.design/ph/clipboard-text.svg?height=32&color=%23888888)
+  /// ![clipboard-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clipboard-text.png)
   static const IconData clipboardText = IconData(
     0xe198,
     fontFamily: 'PhosphorRegular',
@@ -4651,7 +4651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clock` no estilo Regular.
   ///
-  /// ![clock](https://api.iconify.design/ph/clock.svg?height=32&color=%23888888)
+  /// ![clock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clock.png)
   static const IconData clock = IconData(
     0xe19a,
     fontFamily: 'PhosphorRegular',
@@ -4663,7 +4663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockAfternoon` no estilo Regular.
   ///
-  /// ![clock-afternoon](https://api.iconify.design/ph/clock-afternoon.svg?height=32&color=%23888888)
+  /// ![clock-afternoon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clock-afternoon.png)
   static const IconData clockAfternoon = IconData(
     0xe19c,
     fontFamily: 'PhosphorRegular',
@@ -4675,7 +4675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockClockwise` no estilo Regular.
   ///
-  /// ![clock-clockwise](https://api.iconify.design/ph/clock-clockwise.svg?height=32&color=%23888888)
+  /// ![clock-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clock-clockwise.png)
   static const IconData clockClockwise = IconData(
     0xe19e,
     fontFamily: 'PhosphorRegular',
@@ -4687,7 +4687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockCountdown` no estilo Regular.
   ///
-  /// ![clock-countdown](https://api.iconify.design/ph/clock-countdown.svg?height=32&color=%23888888)
+  /// ![clock-countdown](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clock-countdown.png)
   static const IconData clockCountdown = IconData(
     0xed2c,
     fontFamily: 'PhosphorRegular',
@@ -4699,7 +4699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockCounterClockwise` no estilo Regular.
   ///
-  /// ![clock-counter-clockwise](https://api.iconify.design/ph/clock-counter-clockwise.svg?height=32&color=%23888888)
+  /// ![clock-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clock-counter-clockwise.png)
   static const IconData clockCounterClockwise = IconData(
     0xe1a0,
     fontFamily: 'PhosphorRegular',
@@ -4711,7 +4711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clockUser` no estilo Regular.
   ///
-  /// ![clock-user](https://api.iconify.design/ph/clock-user.svg?height=32&color=%23888888)
+  /// ![clock-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clock-user.png)
   static const IconData clockUser = IconData(
     0xedec,
     fontFamily: 'PhosphorRegular',
@@ -4723,7 +4723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `closedCaptioning` no estilo Regular.
   ///
-  /// ![closed-captioning](https://api.iconify.design/ph/closed-captioning.svg?height=32&color=%23888888)
+  /// ![closed-captioning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/closed-captioning.png)
   static const IconData closedCaptioning = IconData(
     0xe1a4,
     fontFamily: 'PhosphorRegular',
@@ -4735,7 +4735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloud` no estilo Regular.
   ///
-  /// ![cloud](https://api.iconify.design/ph/cloud.svg?height=32&color=%23888888)
+  /// ![cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud.png)
   static const IconData cloud = IconData(
     0xe1aa,
     fontFamily: 'PhosphorRegular',
@@ -4747,7 +4747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudArrowDown` no estilo Regular.
   ///
-  /// ![cloud-arrow-down](https://api.iconify.design/ph/cloud-arrow-down.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-arrow-down.png)
   static const IconData cloudArrowDown = IconData(
     0xe1ac,
     fontFamily: 'PhosphorRegular',
@@ -4759,7 +4759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudArrowUp` no estilo Regular.
   ///
-  /// ![cloud-arrow-up](https://api.iconify.design/ph/cloud-arrow-up.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-arrow-up.png)
   static const IconData cloudArrowUp = IconData(
     0xe1ae,
     fontFamily: 'PhosphorRegular',
@@ -4771,7 +4771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudCheck` no estilo Regular.
   ///
-  /// ![cloud-check](https://api.iconify.design/ph/cloud-check.svg?height=32&color=%23888888)
+  /// ![cloud-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-check.png)
   static const IconData cloudCheck = IconData(
     0xe1b0,
     fontFamily: 'PhosphorRegular',
@@ -4783,7 +4783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudFog` no estilo Regular.
   ///
-  /// ![cloud-fog](https://api.iconify.design/ph/cloud-fog.svg?height=32&color=%23888888)
+  /// ![cloud-fog](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-fog.png)
   static const IconData cloudFog = IconData(
     0xe53c,
     fontFamily: 'PhosphorRegular',
@@ -4795,7 +4795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudLightning` no estilo Regular.
   ///
-  /// ![cloud-lightning](https://api.iconify.design/ph/cloud-lightning.svg?height=32&color=%23888888)
+  /// ![cloud-lightning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-lightning.png)
   static const IconData cloudLightning = IconData(
     0xe1b2,
     fontFamily: 'PhosphorRegular',
@@ -4807,7 +4807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudMoon` no estilo Regular.
   ///
-  /// ![cloud-moon](https://api.iconify.design/ph/cloud-moon.svg?height=32&color=%23888888)
+  /// ![cloud-moon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-moon.png)
   static const IconData cloudMoon = IconData(
     0xe53e,
     fontFamily: 'PhosphorRegular',
@@ -4819,7 +4819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudRain` no estilo Regular.
   ///
-  /// ![cloud-rain](https://api.iconify.design/ph/cloud-rain.svg?height=32&color=%23888888)
+  /// ![cloud-rain](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-rain.png)
   static const IconData cloudRain = IconData(
     0xe1b4,
     fontFamily: 'PhosphorRegular',
@@ -4831,7 +4831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudSlash` no estilo Regular.
   ///
-  /// ![cloud-slash](https://api.iconify.design/ph/cloud-slash.svg?height=32&color=%23888888)
+  /// ![cloud-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-slash.png)
   static const IconData cloudSlash = IconData(
     0xe1b6,
     fontFamily: 'PhosphorRegular',
@@ -4843,7 +4843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudSnow` no estilo Regular.
   ///
-  /// ![cloud-snow](https://api.iconify.design/ph/cloud-snow.svg?height=32&color=%23888888)
+  /// ![cloud-snow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-snow.png)
   static const IconData cloudSnow = IconData(
     0xe1b8,
     fontFamily: 'PhosphorRegular',
@@ -4855,7 +4855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudSun` no estilo Regular.
   ///
-  /// ![cloud-sun](https://api.iconify.design/ph/cloud-sun.svg?height=32&color=%23888888)
+  /// ![cloud-sun](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-sun.png)
   static const IconData cloudSun = IconData(
     0xe540,
     fontFamily: 'PhosphorRegular',
@@ -4867,7 +4867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudWarning` no estilo Regular.
   ///
-  /// ![cloud-warning](https://api.iconify.design/ph/cloud-warning.svg?height=32&color=%23888888)
+  /// ![cloud-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-warning.png)
   static const IconData cloudWarning = IconData(
     0xea98,
     fontFamily: 'PhosphorRegular',
@@ -4879,7 +4879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cloudX` no estilo Regular.
   ///
-  /// ![cloud-x](https://api.iconify.design/ph/cloud-x.svg?height=32&color=%23888888)
+  /// ![cloud-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cloud-x.png)
   static const IconData cloudX = IconData(
     0xea96,
     fontFamily: 'PhosphorRegular',
@@ -4891,7 +4891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `clover` no estilo Regular.
   ///
-  /// ![clover](https://api.iconify.design/ph/clover.svg?height=32&color=%23888888)
+  /// ![clover](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/clover.png)
   static const IconData clover = IconData(
     0xedc8,
     fontFamily: 'PhosphorRegular',
@@ -4903,7 +4903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `club` no estilo Regular.
   ///
-  /// ![club](https://api.iconify.design/ph/club.svg?height=32&color=%23888888)
+  /// ![club](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/club.png)
   static const IconData club = IconData(
     0xe1ba,
     fontFamily: 'PhosphorRegular',
@@ -4915,7 +4915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coatHanger` no estilo Regular.
   ///
-  /// ![coat-hanger](https://api.iconify.design/ph/coat-hanger.svg?height=32&color=%23888888)
+  /// ![coat-hanger](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/coat-hanger.png)
   static const IconData coatHanger = IconData(
     0xe7fe,
     fontFamily: 'PhosphorRegular',
@@ -4927,7 +4927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codaLogo` no estilo Regular.
   ///
-  /// ![coda-logo](https://api.iconify.design/ph/coda-logo.svg?height=32&color=%23888888)
+  /// ![coda-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/coda-logo.png)
   static const IconData codaLogo = IconData(
     0xe7ce,
     fontFamily: 'PhosphorRegular',
@@ -4939,7 +4939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `code` no estilo Regular.
   ///
-  /// ![code](https://api.iconify.design/ph/code.svg?height=32&color=%23888888)
+  /// ![code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/code.png)
   static const IconData code = IconData(
     0xe1bc,
     fontFamily: 'PhosphorRegular',
@@ -4951,7 +4951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codeBlock` no estilo Regular.
   ///
-  /// ![code-block](https://api.iconify.design/ph/code-block.svg?height=32&color=%23888888)
+  /// ![code-block](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/code-block.png)
   static const IconData codeBlock = IconData(
     0xeafe,
     fontFamily: 'PhosphorRegular',
@@ -4963,7 +4963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codeSimple` no estilo Regular.
   ///
-  /// ![code-simple](https://api.iconify.design/ph/code-simple.svg?height=32&color=%23888888)
+  /// ![code-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/code-simple.png)
   static const IconData codeSimple = IconData(
     0xe1be,
     fontFamily: 'PhosphorRegular',
@@ -4975,7 +4975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codepenLogo` no estilo Regular.
   ///
-  /// ![codepen-logo](https://api.iconify.design/ph/codepen-logo.svg?height=32&color=%23888888)
+  /// ![codepen-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/codepen-logo.png)
   static const IconData codepenLogo = IconData(
     0xe978,
     fontFamily: 'PhosphorRegular',
@@ -4987,7 +4987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `codesandboxLogo` no estilo Regular.
   ///
-  /// ![codesandbox-logo](https://api.iconify.design/ph/codesandbox-logo.svg?height=32&color=%23888888)
+  /// ![codesandbox-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/codesandbox-logo.png)
   static const IconData codesandboxLogo = IconData(
     0xea06,
     fontFamily: 'PhosphorRegular',
@@ -4999,7 +4999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coffee` no estilo Regular.
   ///
-  /// ![coffee](https://api.iconify.design/ph/coffee.svg?height=32&color=%23888888)
+  /// ![coffee](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/coffee.png)
   static const IconData coffee = IconData(
     0xe1c2,
     fontFamily: 'PhosphorRegular',
@@ -5011,7 +5011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coffeeBean` no estilo Regular.
   ///
-  /// ![coffee-bean](https://api.iconify.design/ph/coffee-bean.svg?height=32&color=%23888888)
+  /// ![coffee-bean](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/coffee-bean.png)
   static const IconData coffeeBean = IconData(
     0xe1c0,
     fontFamily: 'PhosphorRegular',
@@ -5023,7 +5023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coin` no estilo Regular.
   ///
-  /// ![coin](https://api.iconify.design/ph/coin.svg?height=32&color=%23888888)
+  /// ![coin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/coin.png)
   static const IconData coin = IconData(
     0xe60e,
     fontFamily: 'PhosphorRegular',
@@ -5035,7 +5035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coinVertical` no estilo Regular.
   ///
-  /// ![coin-vertical](https://api.iconify.design/ph/coin-vertical.svg?height=32&color=%23888888)
+  /// ![coin-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/coin-vertical.png)
   static const IconData coinVertical = IconData(
     0xeb48,
     fontFamily: 'PhosphorRegular',
@@ -5047,7 +5047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `coins` no estilo Regular.
   ///
-  /// ![coins](https://api.iconify.design/ph/coins.svg?height=32&color=%23888888)
+  /// ![coins](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/coins.png)
   static const IconData coins = IconData(
     0xe78e,
     fontFamily: 'PhosphorRegular',
@@ -5059,7 +5059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `columns` no estilo Regular.
   ///
-  /// ![columns](https://api.iconify.design/ph/columns.svg?height=32&color=%23888888)
+  /// ![columns](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/columns.png)
   static const IconData columns = IconData(
     0xe546,
     fontFamily: 'PhosphorRegular',
@@ -5071,7 +5071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `columnsPlusLeft` no estilo Regular.
   ///
-  /// ![columns-plus-left](https://api.iconify.design/ph/columns-plus-left.svg?height=32&color=%23888888)
+  /// ![columns-plus-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/columns-plus-left.png)
   static const IconData columnsPlusLeft = IconData(
     0xe544,
     fontFamily: 'PhosphorRegular',
@@ -5083,7 +5083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `columnsPlusRight` no estilo Regular.
   ///
-  /// ![columns-plus-right](https://api.iconify.design/ph/columns-plus-right.svg?height=32&color=%23888888)
+  /// ![columns-plus-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/columns-plus-right.png)
   static const IconData columnsPlusRight = IconData(
     0xe542,
     fontFamily: 'PhosphorRegular',
@@ -5095,7 +5095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `command` no estilo Regular.
   ///
-  /// ![command](https://api.iconify.design/ph/command.svg?height=32&color=%23888888)
+  /// ![command](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/command.png)
   static const IconData command = IconData(
     0xe1c4,
     fontFamily: 'PhosphorRegular',
@@ -5107,7 +5107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `compass` no estilo Regular.
   ///
-  /// ![compass](https://api.iconify.design/ph/compass.svg?height=32&color=%23888888)
+  /// ![compass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/compass.png)
   static const IconData compass = IconData(
     0xe1c8,
     fontFamily: 'PhosphorRegular',
@@ -5119,7 +5119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `compassRose` no estilo Regular.
   ///
-  /// ![compass-rose](https://api.iconify.design/ph/compass-rose.svg?height=32&color=%23888888)
+  /// ![compass-rose](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/compass-rose.png)
   static const IconData compassRose = IconData(
     0xe1c6,
     fontFamily: 'PhosphorRegular',
@@ -5131,7 +5131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `compassTool` no estilo Regular.
   ///
-  /// ![compass-tool](https://api.iconify.design/ph/compass-tool.svg?height=32&color=%23888888)
+  /// ![compass-tool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/compass-tool.png)
   static const IconData compassTool = IconData(
     0xea0e,
     fontFamily: 'PhosphorRegular',
@@ -5143,7 +5143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `computerTower` no estilo Regular.
   ///
-  /// ![computer-tower](https://api.iconify.design/ph/computer-tower.svg?height=32&color=%23888888)
+  /// ![computer-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/computer-tower.png)
   static const IconData computerTower = IconData(
     0xe548,
     fontFamily: 'PhosphorRegular',
@@ -5155,7 +5155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `confetti` no estilo Regular.
   ///
-  /// ![confetti](https://api.iconify.design/ph/confetti.svg?height=32&color=%23888888)
+  /// ![confetti](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/confetti.png)
   static const IconData confetti = IconData(
     0xe81a,
     fontFamily: 'PhosphorRegular',
@@ -5167,7 +5167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `contactlessPayment` no estilo Regular.
   ///
-  /// ![contactless-payment](https://api.iconify.design/ph/contactless-payment.svg?height=32&color=%23888888)
+  /// ![contactless-payment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/contactless-payment.png)
   static const IconData contactlessPayment = IconData(
     0xed42,
     fontFamily: 'PhosphorRegular',
@@ -5179,7 +5179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `control` no estilo Regular.
   ///
-  /// ![control](https://api.iconify.design/ph/control.svg?height=32&color=%23888888)
+  /// ![control](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/control.png)
   static const IconData control = IconData(
     0xeca6,
     fontFamily: 'PhosphorRegular',
@@ -5191,7 +5191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cookie` no estilo Regular.
   ///
-  /// ![cookie](https://api.iconify.design/ph/cookie.svg?height=32&color=%23888888)
+  /// ![cookie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cookie.png)
   static const IconData cookie = IconData(
     0xe6ca,
     fontFamily: 'PhosphorRegular',
@@ -5203,7 +5203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cookingPot` no estilo Regular.
   ///
-  /// ![cooking-pot](https://api.iconify.design/ph/cooking-pot.svg?height=32&color=%23888888)
+  /// ![cooking-pot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cooking-pot.png)
   static const IconData cookingPot = IconData(
     0xe764,
     fontFamily: 'PhosphorRegular',
@@ -5215,7 +5215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copy` no estilo Regular.
   ///
-  /// ![copy](https://api.iconify.design/ph/copy.svg?height=32&color=%23888888)
+  /// ![copy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/copy.png)
   static const IconData copy = IconData(
     0xe1ca,
     fontFamily: 'PhosphorRegular',
@@ -5227,7 +5227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copySimple` no estilo Regular.
   ///
-  /// ![copy-simple](https://api.iconify.design/ph/copy-simple.svg?height=32&color=%23888888)
+  /// ![copy-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/copy-simple.png)
   static const IconData copySimple = IconData(
     0xe1cc,
     fontFamily: 'PhosphorRegular',
@@ -5239,7 +5239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copyleft` no estilo Regular.
   ///
-  /// ![copyleft](https://api.iconify.design/ph/copyleft.svg?height=32&color=%23888888)
+  /// ![copyleft](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/copyleft.png)
   static const IconData copyleft = IconData(
     0xe86a,
     fontFamily: 'PhosphorRegular',
@@ -5251,7 +5251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `copyright` no estilo Regular.
   ///
-  /// ![copyright](https://api.iconify.design/ph/copyright.svg?height=32&color=%23888888)
+  /// ![copyright](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/copyright.png)
   static const IconData copyright = IconData(
     0xe54a,
     fontFamily: 'PhosphorRegular',
@@ -5263,7 +5263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cornersIn` no estilo Regular.
   ///
-  /// ![corners-in](https://api.iconify.design/ph/corners-in.svg?height=32&color=%23888888)
+  /// ![corners-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/corners-in.png)
   static const IconData cornersIn = IconData(
     0xe1ce,
     fontFamily: 'PhosphorRegular',
@@ -5275,7 +5275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cornersOut` no estilo Regular.
   ///
-  /// ![corners-out](https://api.iconify.design/ph/corners-out.svg?height=32&color=%23888888)
+  /// ![corners-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/corners-out.png)
   static const IconData cornersOut = IconData(
     0xe1d0,
     fontFamily: 'PhosphorRegular',
@@ -5287,7 +5287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `couch` no estilo Regular.
   ///
-  /// ![couch](https://api.iconify.design/ph/couch.svg?height=32&color=%23888888)
+  /// ![couch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/couch.png)
   static const IconData couch = IconData(
     0xe7f6,
     fontFamily: 'PhosphorRegular',
@@ -5299,7 +5299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `courtBasketball` no estilo Regular.
   ///
-  /// ![court-basketball](https://api.iconify.design/ph/court-basketball.svg?height=32&color=%23888888)
+  /// ![court-basketball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/court-basketball.png)
   static const IconData courtBasketball = IconData(
     0xee36,
     fontFamily: 'PhosphorRegular',
@@ -5311,7 +5311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cow` no estilo Regular.
   ///
-  /// ![cow](https://api.iconify.design/ph/cow.svg?height=32&color=%23888888)
+  /// ![cow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cow.png)
   static const IconData cow = IconData(
     0xeabe,
     fontFamily: 'PhosphorRegular',
@@ -5323,7 +5323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cowboyHat` no estilo Regular.
   ///
-  /// ![cowboy-hat](https://api.iconify.design/ph/cowboy-hat.svg?height=32&color=%23888888)
+  /// ![cowboy-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cowboy-hat.png)
   static const IconData cowboyHat = IconData(
     0xed12,
     fontFamily: 'PhosphorRegular',
@@ -5335,7 +5335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cpu` no estilo Regular.
   ///
-  /// ![cpu](https://api.iconify.design/ph/cpu.svg?height=32&color=%23888888)
+  /// ![cpu](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cpu.png)
   static const IconData cpu = IconData(
     0xe610,
     fontFamily: 'PhosphorRegular',
@@ -5347,7 +5347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crane` no estilo Regular.
   ///
-  /// ![crane](https://api.iconify.design/ph/crane.svg?height=32&color=%23888888)
+  /// ![crane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crane.png)
   static const IconData crane = IconData(
     0xed48,
     fontFamily: 'PhosphorRegular',
@@ -5359,7 +5359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `craneTower` no estilo Regular.
   ///
-  /// ![crane-tower](https://api.iconify.design/ph/crane-tower.svg?height=32&color=%23888888)
+  /// ![crane-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crane-tower.png)
   static const IconData craneTower = IconData(
     0xed49,
     fontFamily: 'PhosphorRegular',
@@ -5371,7 +5371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `creditCard` no estilo Regular.
   ///
-  /// ![credit-card](https://api.iconify.design/ph/credit-card.svg?height=32&color=%23888888)
+  /// ![credit-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/credit-card.png)
   static const IconData creditCard = IconData(
     0xe1d2,
     fontFamily: 'PhosphorRegular',
@@ -5383,7 +5383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cricket` no estilo Regular.
   ///
-  /// ![cricket](https://api.iconify.design/ph/cricket.svg?height=32&color=%23888888)
+  /// ![cricket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cricket.png)
   static const IconData cricket = IconData(
     0xee12,
     fontFamily: 'PhosphorRegular',
@@ -5395,7 +5395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crop` no estilo Regular.
   ///
-  /// ![crop](https://api.iconify.design/ph/crop.svg?height=32&color=%23888888)
+  /// ![crop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crop.png)
   static const IconData crop = IconData(
     0xe1d4,
     fontFamily: 'PhosphorRegular',
@@ -5407,7 +5407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cross` no estilo Regular.
   ///
-  /// ![cross](https://api.iconify.design/ph/cross.svg?height=32&color=%23888888)
+  /// ![cross](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cross.png)
   static const IconData cross = IconData(
     0xe8a0,
     fontFamily: 'PhosphorRegular',
@@ -5419,7 +5419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crosshair` no estilo Regular.
   ///
-  /// ![crosshair](https://api.iconify.design/ph/crosshair.svg?height=32&color=%23888888)
+  /// ![crosshair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crosshair.png)
   static const IconData crosshair = IconData(
     0xe1d6,
     fontFamily: 'PhosphorRegular',
@@ -5431,7 +5431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crosshairSimple` no estilo Regular.
   ///
-  /// ![crosshair-simple](https://api.iconify.design/ph/crosshair-simple.svg?height=32&color=%23888888)
+  /// ![crosshair-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crosshair-simple.png)
   static const IconData crosshairSimple = IconData(
     0xe1d8,
     fontFamily: 'PhosphorRegular',
@@ -5443,7 +5443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crown` no estilo Regular.
   ///
-  /// ![crown](https://api.iconify.design/ph/crown.svg?height=32&color=%23888888)
+  /// ![crown](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crown.png)
   static const IconData crown = IconData(
     0xe614,
     fontFamily: 'PhosphorRegular',
@@ -5455,7 +5455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crownCross` no estilo Regular.
   ///
-  /// ![crown-cross](https://api.iconify.design/ph/crown-cross.svg?height=32&color=%23888888)
+  /// ![crown-cross](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crown-cross.png)
   static const IconData crownCross = IconData(
     0xee5e,
     fontFamily: 'PhosphorRegular',
@@ -5467,7 +5467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `crownSimple` no estilo Regular.
   ///
-  /// ![crown-simple](https://api.iconify.design/ph/crown-simple.svg?height=32&color=%23888888)
+  /// ![crown-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/crown-simple.png)
   static const IconData crownSimple = IconData(
     0xe616,
     fontFamily: 'PhosphorRegular',
@@ -5479,7 +5479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cube` no estilo Regular.
   ///
-  /// ![cube](https://api.iconify.design/ph/cube.svg?height=32&color=%23888888)
+  /// ![cube](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cube.png)
   static const IconData cube = IconData(
     0xe1da,
     fontFamily: 'PhosphorRegular',
@@ -5491,7 +5491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cubeFocus` no estilo Regular.
   ///
-  /// ![cube-focus](https://api.iconify.design/ph/cube-focus.svg?height=32&color=%23888888)
+  /// ![cube-focus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cube-focus.png)
   static const IconData cubeFocus = IconData(
     0xed0a,
     fontFamily: 'PhosphorRegular',
@@ -5503,7 +5503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cubeTransparent` no estilo Regular.
   ///
-  /// ![cube-transparent](https://api.iconify.design/ph/cube-transparent.svg?height=32&color=%23888888)
+  /// ![cube-transparent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cube-transparent.png)
   static const IconData cubeTransparent = IconData(
     0xec7c,
     fontFamily: 'PhosphorRegular',
@@ -5515,7 +5515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyBtc` no estilo Regular.
   ///
-  /// ![currency-btc](https://api.iconify.design/ph/currency-btc.svg?height=32&color=%23888888)
+  /// ![currency-btc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-btc.png)
   static const IconData currencyBtc = IconData(
     0xe618,
     fontFamily: 'PhosphorRegular',
@@ -5527,7 +5527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyCircleDollar` no estilo Regular.
   ///
-  /// ![currency-circle-dollar](https://api.iconify.design/ph/currency-circle-dollar.svg?height=32&color=%23888888)
+  /// ![currency-circle-dollar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-circle-dollar.png)
   static const IconData currencyCircleDollar = IconData(
     0xe54c,
     fontFamily: 'PhosphorRegular',
@@ -5539,7 +5539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyCny` no estilo Regular.
   ///
-  /// ![currency-cny](https://api.iconify.design/ph/currency-cny.svg?height=32&color=%23888888)
+  /// ![currency-cny](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-cny.png)
   static const IconData currencyCny = IconData(
     0xe54e,
     fontFamily: 'PhosphorRegular',
@@ -5551,7 +5551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyDollar` no estilo Regular.
   ///
-  /// ![currency-dollar](https://api.iconify.design/ph/currency-dollar.svg?height=32&color=%23888888)
+  /// ![currency-dollar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-dollar.png)
   static const IconData currencyDollar = IconData(
     0xe550,
     fontFamily: 'PhosphorRegular',
@@ -5563,7 +5563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyDollarSimple` no estilo Regular.
   ///
-  /// ![currency-dollar-simple](https://api.iconify.design/ph/currency-dollar-simple.svg?height=32&color=%23888888)
+  /// ![currency-dollar-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-dollar-simple.png)
   static const IconData currencyDollarSimple = IconData(
     0xe552,
     fontFamily: 'PhosphorRegular',
@@ -5575,7 +5575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyEth` no estilo Regular.
   ///
-  /// ![currency-eth](https://api.iconify.design/ph/currency-eth.svg?height=32&color=%23888888)
+  /// ![currency-eth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-eth.png)
   static const IconData currencyEth = IconData(
     0xeada,
     fontFamily: 'PhosphorRegular',
@@ -5587,7 +5587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyEur` no estilo Regular.
   ///
-  /// ![currency-eur](https://api.iconify.design/ph/currency-eur.svg?height=32&color=%23888888)
+  /// ![currency-eur](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-eur.png)
   static const IconData currencyEur = IconData(
     0xe554,
     fontFamily: 'PhosphorRegular',
@@ -5599,7 +5599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyGbp` no estilo Regular.
   ///
-  /// ![currency-gbp](https://api.iconify.design/ph/currency-gbp.svg?height=32&color=%23888888)
+  /// ![currency-gbp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-gbp.png)
   static const IconData currencyGbp = IconData(
     0xe556,
     fontFamily: 'PhosphorRegular',
@@ -5611,7 +5611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyInr` no estilo Regular.
   ///
-  /// ![currency-inr](https://api.iconify.design/ph/currency-inr.svg?height=32&color=%23888888)
+  /// ![currency-inr](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-inr.png)
   static const IconData currencyInr = IconData(
     0xe558,
     fontFamily: 'PhosphorRegular',
@@ -5623,7 +5623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyJpy` no estilo Regular.
   ///
-  /// ![currency-jpy](https://api.iconify.design/ph/currency-jpy.svg?height=32&color=%23888888)
+  /// ![currency-jpy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-jpy.png)
   static const IconData currencyJpy = IconData(
     0xe55a,
     fontFamily: 'PhosphorRegular',
@@ -5635,7 +5635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyKrw` no estilo Regular.
   ///
-  /// ![currency-krw](https://api.iconify.design/ph/currency-krw.svg?height=32&color=%23888888)
+  /// ![currency-krw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-krw.png)
   static const IconData currencyKrw = IconData(
     0xe55c,
     fontFamily: 'PhosphorRegular',
@@ -5647,7 +5647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyKzt` no estilo Regular.
   ///
-  /// ![currency-kzt](https://api.iconify.design/ph/currency-kzt.svg?height=32&color=%23888888)
+  /// ![currency-kzt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-kzt.png)
   static const IconData currencyKzt = IconData(
     0xec4c,
     fontFamily: 'PhosphorRegular',
@@ -5659,7 +5659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyNgn` no estilo Regular.
   ///
-  /// ![currency-ngn](https://api.iconify.design/ph/currency-ngn.svg?height=32&color=%23888888)
+  /// ![currency-ngn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-ngn.png)
   static const IconData currencyNgn = IconData(
     0xeb52,
     fontFamily: 'PhosphorRegular',
@@ -5671,7 +5671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `currencyRub` no estilo Regular.
   ///
-  /// ![currency-rub](https://api.iconify.design/ph/currency-rub.svg?height=32&color=%23888888)
+  /// ![currency-rub](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/currency-rub.png)
   static const IconData currencyRub = IconData(
     0xe55e,
     fontFamily: 'PhosphorRegular',
@@ -5683,7 +5683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cursor` no estilo Regular.
   ///
-  /// ![cursor](https://api.iconify.design/ph/cursor.svg?height=32&color=%23888888)
+  /// ![cursor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cursor.png)
   static const IconData cursor = IconData(
     0xe1dc,
     fontFamily: 'PhosphorRegular',
@@ -5695,7 +5695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cursorClick` no estilo Regular.
   ///
-  /// ![cursor-click](https://api.iconify.design/ph/cursor-click.svg?height=32&color=%23888888)
+  /// ![cursor-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cursor-click.png)
   static const IconData cursorClick = IconData(
     0xe7c8,
     fontFamily: 'PhosphorRegular',
@@ -5707,7 +5707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cursorText` no estilo Regular.
   ///
-  /// ![cursor-text](https://api.iconify.design/ph/cursor-text.svg?height=32&color=%23888888)
+  /// ![cursor-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cursor-text.png)
   static const IconData cursorText = IconData(
     0xe7d8,
     fontFamily: 'PhosphorRegular',
@@ -5719,7 +5719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `cylinder` no estilo Regular.
   ///
-  /// ![cylinder](https://api.iconify.design/ph/cylinder.svg?height=32&color=%23888888)
+  /// ![cylinder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/cylinder.png)
   static const IconData cylinder = IconData(
     0xe8fc,
     fontFamily: 'PhosphorRegular',
@@ -5731,7 +5731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `database` no estilo Regular.
   ///
-  /// ![database](https://api.iconify.design/ph/database.svg?height=32&color=%23888888)
+  /// ![database](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/database.png)
   static const IconData database = IconData(
     0xe1de,
     fontFamily: 'PhosphorRegular',
@@ -5743,7 +5743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `desk` no estilo Regular.
   ///
-  /// ![desk](https://api.iconify.design/ph/desk.svg?height=32&color=%23888888)
+  /// ![desk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/desk.png)
   static const IconData desk = IconData(
     0xed16,
     fontFamily: 'PhosphorRegular',
@@ -5755,7 +5755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `desktop` no estilo Regular.
   ///
-  /// ![desktop](https://api.iconify.design/ph/desktop.svg?height=32&color=%23888888)
+  /// ![desktop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/desktop.png)
   static const IconData desktop = IconData(
     0xe560,
     fontFamily: 'PhosphorRegular',
@@ -5767,7 +5767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `desktopTower` no estilo Regular.
   ///
-  /// ![desktop-tower](https://api.iconify.design/ph/desktop-tower.svg?height=32&color=%23888888)
+  /// ![desktop-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/desktop-tower.png)
   static const IconData desktopTower = IconData(
     0xe562,
     fontFamily: 'PhosphorRegular',
@@ -5779,7 +5779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `detective` no estilo Regular.
   ///
-  /// ![detective](https://api.iconify.design/ph/detective.svg?height=32&color=%23888888)
+  /// ![detective](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/detective.png)
   static const IconData detective = IconData(
     0xe83e,
     fontFamily: 'PhosphorRegular',
@@ -5791,7 +5791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `devToLogo` no estilo Regular.
   ///
-  /// ![dev-to-logo](https://api.iconify.design/ph/dev-to-logo.svg?height=32&color=%23888888)
+  /// ![dev-to-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dev-to-logo.png)
   static const IconData devToLogo = IconData(
     0xed0e,
     fontFamily: 'PhosphorRegular',
@@ -5803,7 +5803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobile` no estilo Regular.
   ///
-  /// ![device-mobile](https://api.iconify.design/ph/device-mobile.svg?height=32&color=%23888888)
+  /// ![device-mobile](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-mobile.png)
   static const IconData deviceMobile = IconData(
     0xe1e0,
     fontFamily: 'PhosphorRegular',
@@ -5815,7 +5815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobileCamera` no estilo Regular.
   ///
-  /// ![device-mobile-camera](https://api.iconify.design/ph/device-mobile-camera.svg?height=32&color=%23888888)
+  /// ![device-mobile-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-mobile-camera.png)
   static const IconData deviceMobileCamera = IconData(
     0xe1e2,
     fontFamily: 'PhosphorRegular',
@@ -5827,7 +5827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobileSlash` no estilo Regular.
   ///
-  /// ![device-mobile-slash](https://api.iconify.design/ph/device-mobile-slash.svg?height=32&color=%23888888)
+  /// ![device-mobile-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-mobile-slash.png)
   static const IconData deviceMobileSlash = IconData(
     0xee46,
     fontFamily: 'PhosphorRegular',
@@ -5839,7 +5839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceMobileSpeaker` no estilo Regular.
   ///
-  /// ![device-mobile-speaker](https://api.iconify.design/ph/device-mobile-speaker.svg?height=32&color=%23888888)
+  /// ![device-mobile-speaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-mobile-speaker.png)
   static const IconData deviceMobileSpeaker = IconData(
     0xe1e4,
     fontFamily: 'PhosphorRegular',
@@ -5851,7 +5851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceRotate` no estilo Regular.
   ///
-  /// ![device-rotate](https://api.iconify.design/ph/device-rotate.svg?height=32&color=%23888888)
+  /// ![device-rotate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-rotate.png)
   static const IconData deviceRotate = IconData(
     0xedf2,
     fontFamily: 'PhosphorRegular',
@@ -5863,7 +5863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceTablet` no estilo Regular.
   ///
-  /// ![device-tablet](https://api.iconify.design/ph/device-tablet.svg?height=32&color=%23888888)
+  /// ![device-tablet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-tablet.png)
   static const IconData deviceTablet = IconData(
     0xe1e6,
     fontFamily: 'PhosphorRegular',
@@ -5875,7 +5875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceTabletCamera` no estilo Regular.
   ///
-  /// ![device-tablet-camera](https://api.iconify.design/ph/device-tablet-camera.svg?height=32&color=%23888888)
+  /// ![device-tablet-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-tablet-camera.png)
   static const IconData deviceTabletCamera = IconData(
     0xe1e8,
     fontFamily: 'PhosphorRegular',
@@ -5887,7 +5887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `deviceTabletSpeaker` no estilo Regular.
   ///
-  /// ![device-tablet-speaker](https://api.iconify.design/ph/device-tablet-speaker.svg?height=32&color=%23888888)
+  /// ![device-tablet-speaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/device-tablet-speaker.png)
   static const IconData deviceTabletSpeaker = IconData(
     0xe1ea,
     fontFamily: 'PhosphorRegular',
@@ -5899,7 +5899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `devices` no estilo Regular.
   ///
-  /// ![devices](https://api.iconify.design/ph/devices.svg?height=32&color=%23888888)
+  /// ![devices](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/devices.png)
   static const IconData devices = IconData(
     0xeba4,
     fontFamily: 'PhosphorRegular',
@@ -5911,7 +5911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diamond` no estilo Regular.
   ///
-  /// ![diamond](https://api.iconify.design/ph/diamond.svg?height=32&color=%23888888)
+  /// ![diamond](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/diamond.png)
   static const IconData diamond = IconData(
     0xe1ec,
     fontFamily: 'PhosphorRegular',
@@ -5923,7 +5923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diamondsFour` no estilo Regular.
   ///
-  /// ![diamonds-four](https://api.iconify.design/ph/diamonds-four.svg?height=32&color=%23888888)
+  /// ![diamonds-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/diamonds-four.png)
   static const IconData diamondsFour = IconData(
     0xe8f4,
     fontFamily: 'PhosphorRegular',
@@ -5935,7 +5935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceFive` no estilo Regular.
   ///
-  /// ![dice-five](https://api.iconify.design/ph/dice-five.svg?height=32&color=%23888888)
+  /// ![dice-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dice-five.png)
   static const IconData diceFive = IconData(
     0xe1ee,
     fontFamily: 'PhosphorRegular',
@@ -5947,7 +5947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceFour` no estilo Regular.
   ///
-  /// ![dice-four](https://api.iconify.design/ph/dice-four.svg?height=32&color=%23888888)
+  /// ![dice-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dice-four.png)
   static const IconData diceFour = IconData(
     0xe1f0,
     fontFamily: 'PhosphorRegular',
@@ -5959,7 +5959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceOne` no estilo Regular.
   ///
-  /// ![dice-one](https://api.iconify.design/ph/dice-one.svg?height=32&color=%23888888)
+  /// ![dice-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dice-one.png)
   static const IconData diceOne = IconData(
     0xe1f2,
     fontFamily: 'PhosphorRegular',
@@ -5971,7 +5971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceSix` no estilo Regular.
   ///
-  /// ![dice-six](https://api.iconify.design/ph/dice-six.svg?height=32&color=%23888888)
+  /// ![dice-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dice-six.png)
   static const IconData diceSix = IconData(
     0xe1f4,
     fontFamily: 'PhosphorRegular',
@@ -5983,7 +5983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceThree` no estilo Regular.
   ///
-  /// ![dice-three](https://api.iconify.design/ph/dice-three.svg?height=32&color=%23888888)
+  /// ![dice-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dice-three.png)
   static const IconData diceThree = IconData(
     0xe1f6,
     fontFamily: 'PhosphorRegular',
@@ -5995,7 +5995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `diceTwo` no estilo Regular.
   ///
-  /// ![dice-two](https://api.iconify.design/ph/dice-two.svg?height=32&color=%23888888)
+  /// ![dice-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dice-two.png)
   static const IconData diceTwo = IconData(
     0xe1f8,
     fontFamily: 'PhosphorRegular',
@@ -6007,7 +6007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `disc` no estilo Regular.
   ///
-  /// ![disc](https://api.iconify.design/ph/disc.svg?height=32&color=%23888888)
+  /// ![disc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/disc.png)
   static const IconData disc = IconData(
     0xe564,
     fontFamily: 'PhosphorRegular',
@@ -6019,7 +6019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `discoBall` no estilo Regular.
   ///
-  /// ![disco-ball](https://api.iconify.design/ph/disco-ball.svg?height=32&color=%23888888)
+  /// ![disco-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/disco-ball.png)
   static const IconData discoBall = IconData(
     0xed98,
     fontFamily: 'PhosphorRegular',
@@ -6031,7 +6031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `discordLogo` no estilo Regular.
   ///
-  /// ![discord-logo](https://api.iconify.design/ph/discord-logo.svg?height=32&color=%23888888)
+  /// ![discord-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/discord-logo.png)
   static const IconData discordLogo = IconData(
     0xe61a,
     fontFamily: 'PhosphorRegular',
@@ -6043,7 +6043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `divide` no estilo Regular.
   ///
-  /// ![divide](https://api.iconify.design/ph/divide.svg?height=32&color=%23888888)
+  /// ![divide](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/divide.png)
   static const IconData divide = IconData(
     0xe1fa,
     fontFamily: 'PhosphorRegular',
@@ -6055,7 +6055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dna` no estilo Regular.
   ///
-  /// ![dna](https://api.iconify.design/ph/dna.svg?height=32&color=%23888888)
+  /// ![dna](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dna.png)
   static const IconData dna = IconData(
     0xe924,
     fontFamily: 'PhosphorRegular',
@@ -6067,7 +6067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dog` no estilo Regular.
   ///
-  /// ![dog](https://api.iconify.design/ph/dog.svg?height=32&color=%23888888)
+  /// ![dog](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dog.png)
   static const IconData dog = IconData(
     0xe74a,
     fontFamily: 'PhosphorRegular',
@@ -6079,7 +6079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `door` no estilo Regular.
   ///
-  /// ![door](https://api.iconify.design/ph/door.svg?height=32&color=%23888888)
+  /// ![door](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/door.png)
   static const IconData door = IconData(
     0xe61c,
     fontFamily: 'PhosphorRegular',
@@ -6091,7 +6091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `doorOpen` no estilo Regular.
   ///
-  /// ![door-open](https://api.iconify.design/ph/door-open.svg?height=32&color=%23888888)
+  /// ![door-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/door-open.png)
   static const IconData doorOpen = IconData(
     0xe7e6,
     fontFamily: 'PhosphorRegular',
@@ -6103,7 +6103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dot` no estilo Regular.
   ///
-  /// ![dot](https://api.iconify.design/ph/dot.svg?height=32&color=%23888888)
+  /// ![dot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dot.png)
   static const IconData dot = IconData(
     0xecde,
     fontFamily: 'PhosphorRegular',
@@ -6115,7 +6115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotOutline` no estilo Regular.
   ///
-  /// ![dot-outline](https://api.iconify.design/ph/dot-outline.svg?height=32&color=%23888888)
+  /// ![dot-outline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dot-outline.png)
   static const IconData dotOutline = IconData(
     0xece0,
     fontFamily: 'PhosphorRegular',
@@ -6127,7 +6127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsNine` no estilo Regular.
   ///
-  /// ![dots-nine](https://api.iconify.design/ph/dots-nine.svg?height=32&color=%23888888)
+  /// ![dots-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-nine.png)
   static const IconData dotsNine = IconData(
     0xe1fc,
     fontFamily: 'PhosphorRegular',
@@ -6139,7 +6139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsSix` no estilo Regular.
   ///
-  /// ![dots-six](https://api.iconify.design/ph/dots-six.svg?height=32&color=%23888888)
+  /// ![dots-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-six.png)
   static const IconData dotsSix = IconData(
     0xe794,
     fontFamily: 'PhosphorRegular',
@@ -6151,7 +6151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsSixVertical` no estilo Regular.
   ///
-  /// ![dots-six-vertical](https://api.iconify.design/ph/dots-six-vertical.svg?height=32&color=%23888888)
+  /// ![dots-six-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-six-vertical.png)
   static const IconData dotsSixVertical = IconData(
     0xeae2,
     fontFamily: 'PhosphorRegular',
@@ -6163,7 +6163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThree` no estilo Regular.
   ///
-  /// ![dots-three](https://api.iconify.design/ph/dots-three.svg?height=32&color=%23888888)
+  /// ![dots-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-three.png)
   static const IconData dotsThree = IconData(
     0xe1fe,
     fontFamily: 'PhosphorRegular',
@@ -6175,7 +6175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeCircle` no estilo Regular.
   ///
-  /// ![dots-three-circle](https://api.iconify.design/ph/dots-three-circle.svg?height=32&color=%23888888)
+  /// ![dots-three-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-three-circle.png)
   static const IconData dotsThreeCircle = IconData(
     0xe200,
     fontFamily: 'PhosphorRegular',
@@ -6187,7 +6187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeCircleVertical` no estilo Regular.
   ///
-  /// ![dots-three-circle-vertical](https://api.iconify.design/ph/dots-three-circle-vertical.svg?height=32&color=%23888888)
+  /// ![dots-three-circle-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-three-circle-vertical.png)
   static const IconData dotsThreeCircleVertical = IconData(
     0xe202,
     fontFamily: 'PhosphorRegular',
@@ -6199,7 +6199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeOutline` no estilo Regular.
   ///
-  /// ![dots-three-outline](https://api.iconify.design/ph/dots-three-outline.svg?height=32&color=%23888888)
+  /// ![dots-three-outline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-three-outline.png)
   static const IconData dotsThreeOutline = IconData(
     0xe204,
     fontFamily: 'PhosphorRegular',
@@ -6211,7 +6211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Regular.
   ///
-  /// ![dots-three-outline-vertical](https://api.iconify.design/ph/dots-three-outline-vertical.svg?height=32&color=%23888888)
+  /// ![dots-three-outline-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-three-outline-vertical.png)
   static const IconData dotsThreeOutlineVertical = IconData(
     0xe206,
     fontFamily: 'PhosphorRegular',
@@ -6223,7 +6223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dotsThreeVertical` no estilo Regular.
   ///
-  /// ![dots-three-vertical](https://api.iconify.design/ph/dots-three-vertical.svg?height=32&color=%23888888)
+  /// ![dots-three-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dots-three-vertical.png)
   static const IconData dotsThreeVertical = IconData(
     0xe208,
     fontFamily: 'PhosphorRegular',
@@ -6235,7 +6235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `download` no estilo Regular.
   ///
-  /// ![download](https://api.iconify.design/ph/download.svg?height=32&color=%23888888)
+  /// ![download](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/download.png)
   static const IconData download = IconData(
     0xe20a,
     fontFamily: 'PhosphorRegular',
@@ -6247,7 +6247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `downloadSimple` no estilo Regular.
   ///
-  /// ![download-simple](https://api.iconify.design/ph/download-simple.svg?height=32&color=%23888888)
+  /// ![download-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/download-simple.png)
   static const IconData downloadSimple = IconData(
     0xe20c,
     fontFamily: 'PhosphorRegular',
@@ -6259,7 +6259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dress` no estilo Regular.
   ///
-  /// ![dress](https://api.iconify.design/ph/dress.svg?height=32&color=%23888888)
+  /// ![dress](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dress.png)
   static const IconData dress = IconData(
     0xea7e,
     fontFamily: 'PhosphorRegular',
@@ -6271,7 +6271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dresser` no estilo Regular.
   ///
-  /// ![dresser](https://api.iconify.design/ph/dresser.svg?height=32&color=%23888888)
+  /// ![dresser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dresser.png)
   static const IconData dresser = IconData(
     0xe94e,
     fontFamily: 'PhosphorRegular',
@@ -6283,7 +6283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dribbbleLogo` no estilo Regular.
   ///
-  /// ![dribbble-logo](https://api.iconify.design/ph/dribbble-logo.svg?height=32&color=%23888888)
+  /// ![dribbble-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dribbble-logo.png)
   static const IconData dribbbleLogo = IconData(
     0xe20e,
     fontFamily: 'PhosphorRegular',
@@ -6295,7 +6295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `drone` no estilo Regular.
   ///
-  /// ![drone](https://api.iconify.design/ph/drone.svg?height=32&color=%23888888)
+  /// ![drone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/drone.png)
   static const IconData drone = IconData(
     0xed74,
     fontFamily: 'PhosphorRegular',
@@ -6307,7 +6307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `drop` no estilo Regular.
   ///
-  /// ![drop](https://api.iconify.design/ph/drop.svg?height=32&color=%23888888)
+  /// ![drop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/drop.png)
   static const IconData drop = IconData(
     0xe210,
     fontFamily: 'PhosphorRegular',
@@ -6319,7 +6319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropHalf` no estilo Regular.
   ///
-  /// ![drop-half](https://api.iconify.design/ph/drop-half.svg?height=32&color=%23888888)
+  /// ![drop-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/drop-half.png)
   static const IconData dropHalf = IconData(
     0xe566,
     fontFamily: 'PhosphorRegular',
@@ -6331,7 +6331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropHalfBottom` no estilo Regular.
   ///
-  /// ![drop-half-bottom](https://api.iconify.design/ph/drop-half-bottom.svg?height=32&color=%23888888)
+  /// ![drop-half-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/drop-half-bottom.png)
   static const IconData dropHalfBottom = IconData(
     0xeb40,
     fontFamily: 'PhosphorRegular',
@@ -6343,7 +6343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropSimple` no estilo Regular.
   ///
-  /// ![drop-simple](https://api.iconify.design/ph/drop-simple.svg?height=32&color=%23888888)
+  /// ![drop-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/drop-simple.png)
   static const IconData dropSimple = IconData(
     0xee32,
     fontFamily: 'PhosphorRegular',
@@ -6355,7 +6355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropSlash` no estilo Regular.
   ///
-  /// ![drop-slash](https://api.iconify.design/ph/drop-slash.svg?height=32&color=%23888888)
+  /// ![drop-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/drop-slash.png)
   static const IconData dropSlash = IconData(
     0xe954,
     fontFamily: 'PhosphorRegular',
@@ -6367,7 +6367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `dropboxLogo` no estilo Regular.
   ///
-  /// ![dropbox-logo](https://api.iconify.design/ph/dropbox-logo.svg?height=32&color=%23888888)
+  /// ![dropbox-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/dropbox-logo.png)
   static const IconData dropboxLogo = IconData(
     0xe7d0,
     fontFamily: 'PhosphorRegular',
@@ -6379,7 +6379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ear` no estilo Regular.
   ///
-  /// ![ear](https://api.iconify.design/ph/ear.svg?height=32&color=%23888888)
+  /// ![ear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ear.png)
   static const IconData ear = IconData(
     0xe70c,
     fontFamily: 'PhosphorRegular',
@@ -6391,7 +6391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `earSlash` no estilo Regular.
   ///
-  /// ![ear-slash](https://api.iconify.design/ph/ear-slash.svg?height=32&color=%23888888)
+  /// ![ear-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ear-slash.png)
   static const IconData earSlash = IconData(
     0xe70e,
     fontFamily: 'PhosphorRegular',
@@ -6403,7 +6403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `egg` no estilo Regular.
   ///
-  /// ![egg](https://api.iconify.design/ph/egg.svg?height=32&color=%23888888)
+  /// ![egg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/egg.png)
   static const IconData egg = IconData(
     0xe812,
     fontFamily: 'PhosphorRegular',
@@ -6415,7 +6415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eggCrack` no estilo Regular.
   ///
-  /// ![egg-crack](https://api.iconify.design/ph/egg-crack.svg?height=32&color=%23888888)
+  /// ![egg-crack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/egg-crack.png)
   static const IconData eggCrack = IconData(
     0xeb64,
     fontFamily: 'PhosphorRegular',
@@ -6427,7 +6427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eject` no estilo Regular.
   ///
-  /// ![eject](https://api.iconify.design/ph/eject.svg?height=32&color=%23888888)
+  /// ![eject](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eject.png)
   static const IconData eject = IconData(
     0xe212,
     fontFamily: 'PhosphorRegular',
@@ -6439,7 +6439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ejectSimple` no estilo Regular.
   ///
-  /// ![eject-simple](https://api.iconify.design/ph/eject-simple.svg?height=32&color=%23888888)
+  /// ![eject-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eject-simple.png)
   static const IconData ejectSimple = IconData(
     0xe6ae,
     fontFamily: 'PhosphorRegular',
@@ -6451,7 +6451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `elevator` no estilo Regular.
   ///
-  /// ![elevator](https://api.iconify.design/ph/elevator.svg?height=32&color=%23888888)
+  /// ![elevator](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/elevator.png)
   static const IconData elevator = IconData(
     0xecc0,
     fontFamily: 'PhosphorRegular',
@@ -6463,7 +6463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `empty` no estilo Regular.
   ///
-  /// ![empty](https://api.iconify.design/ph/empty.svg?height=32&color=%23888888)
+  /// ![empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/empty.png)
   static const IconData empty = IconData(
     0xedbc,
     fontFamily: 'PhosphorRegular',
@@ -6475,7 +6475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `engine` no estilo Regular.
   ///
-  /// ![engine](https://api.iconify.design/ph/engine.svg?height=32&color=%23888888)
+  /// ![engine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/engine.png)
   static const IconData engine = IconData(
     0xea80,
     fontFamily: 'PhosphorRegular',
@@ -6487,7 +6487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelope` no estilo Regular.
   ///
-  /// ![envelope](https://api.iconify.design/ph/envelope.svg?height=32&color=%23888888)
+  /// ![envelope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/envelope.png)
   static const IconData envelope = IconData(
     0xe214,
     fontFamily: 'PhosphorRegular',
@@ -6499,7 +6499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelopeOpen` no estilo Regular.
   ///
-  /// ![envelope-open](https://api.iconify.design/ph/envelope-open.svg?height=32&color=%23888888)
+  /// ![envelope-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/envelope-open.png)
   static const IconData envelopeOpen = IconData(
     0xe216,
     fontFamily: 'PhosphorRegular',
@@ -6511,7 +6511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelopeSimple` no estilo Regular.
   ///
-  /// ![envelope-simple](https://api.iconify.design/ph/envelope-simple.svg?height=32&color=%23888888)
+  /// ![envelope-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/envelope-simple.png)
   static const IconData envelopeSimple = IconData(
     0xe218,
     fontFamily: 'PhosphorRegular',
@@ -6523,7 +6523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `envelopeSimpleOpen` no estilo Regular.
   ///
-  /// ![envelope-simple-open](https://api.iconify.design/ph/envelope-simple-open.svg?height=32&color=%23888888)
+  /// ![envelope-simple-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/envelope-simple-open.png)
   static const IconData envelopeSimpleOpen = IconData(
     0xe21a,
     fontFamily: 'PhosphorRegular',
@@ -6535,7 +6535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `equalizer` no estilo Regular.
   ///
-  /// ![equalizer](https://api.iconify.design/ph/equalizer.svg?height=32&color=%23888888)
+  /// ![equalizer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/equalizer.png)
   static const IconData equalizer = IconData(
     0xebbc,
     fontFamily: 'PhosphorRegular',
@@ -6547,7 +6547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `equals` no estilo Regular.
   ///
-  /// ![equals](https://api.iconify.design/ph/equals.svg?height=32&color=%23888888)
+  /// ![equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/equals.png)
   static const IconData equals = IconData(
     0xe21c,
     fontFamily: 'PhosphorRegular',
@@ -6559,7 +6559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eraser` no estilo Regular.
   ///
-  /// ![eraser](https://api.iconify.design/ph/eraser.svg?height=32&color=%23888888)
+  /// ![eraser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eraser.png)
   static const IconData eraser = IconData(
     0xe21e,
     fontFamily: 'PhosphorRegular',
@@ -6571,7 +6571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `escalatorDown` no estilo Regular.
   ///
-  /// ![escalator-down](https://api.iconify.design/ph/escalator-down.svg?height=32&color=%23888888)
+  /// ![escalator-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/escalator-down.png)
   static const IconData escalatorDown = IconData(
     0xecba,
     fontFamily: 'PhosphorRegular',
@@ -6583,7 +6583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `escalatorUp` no estilo Regular.
   ///
-  /// ![escalator-up](https://api.iconify.design/ph/escalator-up.svg?height=32&color=%23888888)
+  /// ![escalator-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/escalator-up.png)
   static const IconData escalatorUp = IconData(
     0xecbc,
     fontFamily: 'PhosphorRegular',
@@ -6595,7 +6595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `exam` no estilo Regular.
   ///
-  /// ![exam](https://api.iconify.design/ph/exam.svg?height=32&color=%23888888)
+  /// ![exam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/exam.png)
   static const IconData exam = IconData(
     0xe742,
     fontFamily: 'PhosphorRegular',
@@ -6607,7 +6607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `exclamationMark` no estilo Regular.
   ///
-  /// ![exclamation-mark](https://api.iconify.design/ph/exclamation-mark.svg?height=32&color=%23888888)
+  /// ![exclamation-mark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/exclamation-mark.png)
   static const IconData exclamationMark = IconData(
     0xee44,
     fontFamily: 'PhosphorRegular',
@@ -6619,7 +6619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `exclude` no estilo Regular.
   ///
-  /// ![exclude](https://api.iconify.design/ph/exclude.svg?height=32&color=%23888888)
+  /// ![exclude](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/exclude.png)
   static const IconData exclude = IconData(
     0xe882,
     fontFamily: 'PhosphorRegular',
@@ -6631,7 +6631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `excludeSquare` no estilo Regular.
   ///
-  /// ![exclude-square](https://api.iconify.design/ph/exclude-square.svg?height=32&color=%23888888)
+  /// ![exclude-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/exclude-square.png)
   static const IconData excludeSquare = IconData(
     0xe880,
     fontFamily: 'PhosphorRegular',
@@ -6643,7 +6643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `export` no estilo Regular.
   ///
-  /// ![export](https://api.iconify.design/ph/export.svg?height=32&color=%23888888)
+  /// ![export](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/export.png)
   static const IconData export = IconData(
     0xeaf0,
     fontFamily: 'PhosphorRegular',
@@ -6655,7 +6655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eye` no estilo Regular.
   ///
-  /// ![eye](https://api.iconify.design/ph/eye.svg?height=32&color=%23888888)
+  /// ![eye](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eye.png)
   static const IconData eye = IconData(
     0xe220,
     fontFamily: 'PhosphorRegular',
@@ -6667,7 +6667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyeClosed` no estilo Regular.
   ///
-  /// ![eye-closed](https://api.iconify.design/ph/eye-closed.svg?height=32&color=%23888888)
+  /// ![eye-closed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eye-closed.png)
   static const IconData eyeClosed = IconData(
     0xe222,
     fontFamily: 'PhosphorRegular',
@@ -6679,7 +6679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyeSlash` no estilo Regular.
   ///
-  /// ![eye-slash](https://api.iconify.design/ph/eye-slash.svg?height=32&color=%23888888)
+  /// ![eye-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eye-slash.png)
   static const IconData eyeSlash = IconData(
     0xe224,
     fontFamily: 'PhosphorRegular',
@@ -6691,7 +6691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyedropper` no estilo Regular.
   ///
-  /// ![eyedropper](https://api.iconify.design/ph/eyedropper.svg?height=32&color=%23888888)
+  /// ![eyedropper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eyedropper.png)
   static const IconData eyedropper = IconData(
     0xe568,
     fontFamily: 'PhosphorRegular',
@@ -6703,7 +6703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyedropperSample` no estilo Regular.
   ///
-  /// ![eyedropper-sample](https://api.iconify.design/ph/eyedropper-sample.svg?height=32&color=%23888888)
+  /// ![eyedropper-sample](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eyedropper-sample.png)
   static const IconData eyedropperSample = IconData(
     0xeac4,
     fontFamily: 'PhosphorRegular',
@@ -6715,7 +6715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyeglasses` no estilo Regular.
   ///
-  /// ![eyeglasses](https://api.iconify.design/ph/eyeglasses.svg?height=32&color=%23888888)
+  /// ![eyeglasses](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eyeglasses.png)
   static const IconData eyeglasses = IconData(
     0xe7ba,
     fontFamily: 'PhosphorRegular',
@@ -6727,7 +6727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `eyes` no estilo Regular.
   ///
-  /// ![eyes](https://api.iconify.design/ph/eyes.svg?height=32&color=%23888888)
+  /// ![eyes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/eyes.png)
   static const IconData eyes = IconData(
     0xee5c,
     fontFamily: 'PhosphorRegular',
@@ -6739,7 +6739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `faceMask` no estilo Regular.
   ///
-  /// ![face-mask](https://api.iconify.design/ph/face-mask.svg?height=32&color=%23888888)
+  /// ![face-mask](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/face-mask.png)
   static const IconData faceMask = IconData(
     0xe56a,
     fontFamily: 'PhosphorRegular',
@@ -6751,7 +6751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `facebookLogo` no estilo Regular.
   ///
-  /// ![facebook-logo](https://api.iconify.design/ph/facebook-logo.svg?height=32&color=%23888888)
+  /// ![facebook-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/facebook-logo.png)
   static const IconData facebookLogo = IconData(
     0xe226,
     fontFamily: 'PhosphorRegular',
@@ -6763,7 +6763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `factory` no estilo Regular.
   ///
-  /// ![factory](https://api.iconify.design/ph/factory.svg?height=32&color=%23888888)
+  /// ![factory](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/factory.png)
   static const IconData factory = IconData(
     0xe760,
     fontFamily: 'PhosphorRegular',
@@ -6775,7 +6775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `faders` no estilo Regular.
   ///
-  /// ![faders](https://api.iconify.design/ph/faders.svg?height=32&color=%23888888)
+  /// ![faders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/faders.png)
   static const IconData faders = IconData(
     0xe228,
     fontFamily: 'PhosphorRegular',
@@ -6787,7 +6787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fadersHorizontal` no estilo Regular.
   ///
-  /// ![faders-horizontal](https://api.iconify.design/ph/faders-horizontal.svg?height=32&color=%23888888)
+  /// ![faders-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/faders-horizontal.png)
   static const IconData fadersHorizontal = IconData(
     0xe22a,
     fontFamily: 'PhosphorRegular',
@@ -6799,7 +6799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `falloutShelter` no estilo Regular.
   ///
-  /// ![fallout-shelter](https://api.iconify.design/ph/fallout-shelter.svg?height=32&color=%23888888)
+  /// ![fallout-shelter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fallout-shelter.png)
   static const IconData falloutShelter = IconData(
     0xe9de,
     fontFamily: 'PhosphorRegular',
@@ -6811,7 +6811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fan` no estilo Regular.
   ///
-  /// ![fan](https://api.iconify.design/ph/fan.svg?height=32&color=%23888888)
+  /// ![fan](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fan.png)
   static const IconData fan = IconData(
     0xe9f2,
     fontFamily: 'PhosphorRegular',
@@ -6823,7 +6823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `farm` no estilo Regular.
   ///
-  /// ![farm](https://api.iconify.design/ph/farm.svg?height=32&color=%23888888)
+  /// ![farm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/farm.png)
   static const IconData farm = IconData(
     0xec70,
     fontFamily: 'PhosphorRegular',
@@ -6835,7 +6835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fastForward` no estilo Regular.
   ///
-  /// ![fast-forward](https://api.iconify.design/ph/fast-forward.svg?height=32&color=%23888888)
+  /// ![fast-forward](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fast-forward.png)
   static const IconData fastForward = IconData(
     0xe6a6,
     fontFamily: 'PhosphorRegular',
@@ -6847,7 +6847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fastForwardCircle` no estilo Regular.
   ///
-  /// ![fast-forward-circle](https://api.iconify.design/ph/fast-forward-circle.svg?height=32&color=%23888888)
+  /// ![fast-forward-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fast-forward-circle.png)
   static const IconData fastForwardCircle = IconData(
     0xe22c,
     fontFamily: 'PhosphorRegular',
@@ -6859,7 +6859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `feather` no estilo Regular.
   ///
-  /// ![feather](https://api.iconify.design/ph/feather.svg?height=32&color=%23888888)
+  /// ![feather](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/feather.png)
   static const IconData feather = IconData(
     0xe9c0,
     fontFamily: 'PhosphorRegular',
@@ -6871,7 +6871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fediverseLogo` no estilo Regular.
   ///
-  /// ![fediverse-logo](https://api.iconify.design/ph/fediverse-logo.svg?height=32&color=%23888888)
+  /// ![fediverse-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fediverse-logo.png)
   static const IconData fediverseLogo = IconData(
     0xed66,
     fontFamily: 'PhosphorRegular',
@@ -6883,7 +6883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `figmaLogo` no estilo Regular.
   ///
-  /// ![figma-logo](https://api.iconify.design/ph/figma-logo.svg?height=32&color=%23888888)
+  /// ![figma-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/figma-logo.png)
   static const IconData figmaLogo = IconData(
     0xe22e,
     fontFamily: 'PhosphorRegular',
@@ -6895,7 +6895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `file` no estilo Regular.
   ///
-  /// ![file](https://api.iconify.design/ph/file.svg?height=32&color=%23888888)
+  /// ![file](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file.png)
   static const IconData file = IconData(
     0xe230,
     fontFamily: 'PhosphorRegular',
@@ -6907,7 +6907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileArchive` no estilo Regular.
   ///
-  /// ![file-archive](https://api.iconify.design/ph/file-archive.svg?height=32&color=%23888888)
+  /// ![file-archive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-archive.png)
   static const IconData fileArchive = IconData(
     0xeb2a,
     fontFamily: 'PhosphorRegular',
@@ -6919,7 +6919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileArrowDown` no estilo Regular.
   ///
-  /// ![file-arrow-down](https://api.iconify.design/ph/file-arrow-down.svg?height=32&color=%23888888)
+  /// ![file-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-arrow-down.png)
   static const IconData fileArrowDown = IconData(
     0xe232,
     fontFamily: 'PhosphorRegular',
@@ -6931,7 +6931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileArrowUp` no estilo Regular.
   ///
-  /// ![file-arrow-up](https://api.iconify.design/ph/file-arrow-up.svg?height=32&color=%23888888)
+  /// ![file-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-arrow-up.png)
   static const IconData fileArrowUp = IconData(
     0xe61e,
     fontFamily: 'PhosphorRegular',
@@ -6943,7 +6943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileAudio` no estilo Regular.
   ///
-  /// ![file-audio](https://api.iconify.design/ph/file-audio.svg?height=32&color=%23888888)
+  /// ![file-audio](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-audio.png)
   static const IconData fileAudio = IconData(
     0xea20,
     fontFamily: 'PhosphorRegular',
@@ -6955,7 +6955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileC` no estilo Regular.
   ///
-  /// ![file-c](https://api.iconify.design/ph/file-c.svg?height=32&color=%23888888)
+  /// ![file-c](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-c.png)
   static const IconData fileC = IconData(
     0xeb32,
     fontFamily: 'PhosphorRegular',
@@ -6967,7 +6967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCSharp` no estilo Regular.
   ///
-  /// ![file-c-sharp](https://api.iconify.design/ph/file-c-sharp.svg?height=32&color=%23888888)
+  /// ![file-c-sharp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-c-sharp.png)
   static const IconData fileCSharp = IconData(
     0xeb30,
     fontFamily: 'PhosphorRegular',
@@ -6979,7 +6979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCloud` no estilo Regular.
   ///
-  /// ![file-cloud](https://api.iconify.design/ph/file-cloud.svg?height=32&color=%23888888)
+  /// ![file-cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-cloud.png)
   static const IconData fileCloud = IconData(
     0xe95e,
     fontFamily: 'PhosphorRegular',
@@ -6991,7 +6991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCode` no estilo Regular.
   ///
-  /// ![file-code](https://api.iconify.design/ph/file-code.svg?height=32&color=%23888888)
+  /// ![file-code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-code.png)
   static const IconData fileCode = IconData(
     0xe914,
     fontFamily: 'PhosphorRegular',
@@ -7003,7 +7003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCpp` no estilo Regular.
   ///
-  /// ![file-cpp](https://api.iconify.design/ph/file-cpp.svg?height=32&color=%23888888)
+  /// ![file-cpp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-cpp.png)
   static const IconData fileCpp = IconData(
     0xeb2e,
     fontFamily: 'PhosphorRegular',
@@ -7015,7 +7015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCss` no estilo Regular.
   ///
-  /// ![file-css](https://api.iconify.design/ph/file-css.svg?height=32&color=%23888888)
+  /// ![file-css](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-css.png)
   static const IconData fileCss = IconData(
     0xeb34,
     fontFamily: 'PhosphorRegular',
@@ -7027,7 +7027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileCsv` no estilo Regular.
   ///
-  /// ![file-csv](https://api.iconify.design/ph/file-csv.svg?height=32&color=%23888888)
+  /// ![file-csv](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-csv.png)
   static const IconData fileCsv = IconData(
     0xeb1c,
     fontFamily: 'PhosphorRegular',
@@ -7039,7 +7039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileDashed` no estilo Regular.
   ///
-  /// ![file-dashed](https://api.iconify.design/ph/file-dashed.svg?height=32&color=%23888888)
+  /// ![file-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-dashed.png)
   static const IconData fileDashed = IconData(
     0xe704,
     fontFamily: 'PhosphorRegular',
@@ -7051,7 +7051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileDoc` no estilo Regular.
   ///
-  /// ![file-doc](https://api.iconify.design/ph/file-doc.svg?height=32&color=%23888888)
+  /// ![file-doc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-doc.png)
   static const IconData fileDoc = IconData(
     0xeb1e,
     fontFamily: 'PhosphorRegular',
@@ -7063,7 +7063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileDotted` no estilo Regular.
   ///
-  /// ![file-dotted](https://api.iconify.design/ph/file-dashed.svg?height=32&color=%23888888)
+  /// ![file-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-dotted.png)
   static const IconData fileDotted = IconData(
     0xe704,
     fontFamily: 'PhosphorRegular',
@@ -7075,7 +7075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileHtml` no estilo Regular.
   ///
-  /// ![file-html](https://api.iconify.design/ph/file-html.svg?height=32&color=%23888888)
+  /// ![file-html](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-html.png)
   static const IconData fileHtml = IconData(
     0xeb38,
     fontFamily: 'PhosphorRegular',
@@ -7087,7 +7087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileImage` no estilo Regular.
   ///
-  /// ![file-image](https://api.iconify.design/ph/file-image.svg?height=32&color=%23888888)
+  /// ![file-image](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-image.png)
   static const IconData fileImage = IconData(
     0xea24,
     fontFamily: 'PhosphorRegular',
@@ -7099,7 +7099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileIni` no estilo Regular.
   ///
-  /// ![file-ini](https://api.iconify.design/ph/file-ini.svg?height=32&color=%23888888)
+  /// ![file-ini](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-ini.png)
   static const IconData fileIni = IconData(
     0xeb33,
     fontFamily: 'PhosphorRegular',
@@ -7111,7 +7111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileJpg` no estilo Regular.
   ///
-  /// ![file-jpg](https://api.iconify.design/ph/file-jpg.svg?height=32&color=%23888888)
+  /// ![file-jpg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-jpg.png)
   static const IconData fileJpg = IconData(
     0xeb1a,
     fontFamily: 'PhosphorRegular',
@@ -7123,7 +7123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileJs` no estilo Regular.
   ///
-  /// ![file-js](https://api.iconify.design/ph/file-js.svg?height=32&color=%23888888)
+  /// ![file-js](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-js.png)
   static const IconData fileJs = IconData(
     0xeb24,
     fontFamily: 'PhosphorRegular',
@@ -7135,7 +7135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileJsx` no estilo Regular.
   ///
-  /// ![file-jsx](https://api.iconify.design/ph/file-jsx.svg?height=32&color=%23888888)
+  /// ![file-jsx](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-jsx.png)
   static const IconData fileJsx = IconData(
     0xeb3a,
     fontFamily: 'PhosphorRegular',
@@ -7147,7 +7147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileLock` no estilo Regular.
   ///
-  /// ![file-lock](https://api.iconify.design/ph/file-lock.svg?height=32&color=%23888888)
+  /// ![file-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-lock.png)
   static const IconData fileLock = IconData(
     0xe95c,
     fontFamily: 'PhosphorRegular',
@@ -7159,7 +7159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileMagnifyingGlass` no estilo Regular.
   ///
-  /// ![file-magnifying-glass](https://api.iconify.design/ph/file-magnifying-glass.svg?height=32&color=%23888888)
+  /// ![file-magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-magnifying-glass.png)
   static const IconData fileMagnifyingGlass = IconData(
     0xe238,
     fontFamily: 'PhosphorRegular',
@@ -7171,7 +7171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileMd` no estilo Regular.
   ///
-  /// ![file-md](https://api.iconify.design/ph/file-md.svg?height=32&color=%23888888)
+  /// ![file-md](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-md.png)
   static const IconData fileMd = IconData(
     0xed50,
     fontFamily: 'PhosphorRegular',
@@ -7183,7 +7183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileMinus` no estilo Regular.
   ///
-  /// ![file-minus](https://api.iconify.design/ph/file-minus.svg?height=32&color=%23888888)
+  /// ![file-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-minus.png)
   static const IconData fileMinus = IconData(
     0xe234,
     fontFamily: 'PhosphorRegular',
@@ -7195,7 +7195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePdf` no estilo Regular.
   ///
-  /// ![file-pdf](https://api.iconify.design/ph/file-pdf.svg?height=32&color=%23888888)
+  /// ![file-pdf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-pdf.png)
   static const IconData filePdf = IconData(
     0xe702,
     fontFamily: 'PhosphorRegular',
@@ -7207,7 +7207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePlus` no estilo Regular.
   ///
-  /// ![file-plus](https://api.iconify.design/ph/file-plus.svg?height=32&color=%23888888)
+  /// ![file-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-plus.png)
   static const IconData filePlus = IconData(
     0xe236,
     fontFamily: 'PhosphorRegular',
@@ -7219,7 +7219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePng` no estilo Regular.
   ///
-  /// ![file-png](https://api.iconify.design/ph/file-png.svg?height=32&color=%23888888)
+  /// ![file-png](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-png.png)
   static const IconData filePng = IconData(
     0xeb18,
     fontFamily: 'PhosphorRegular',
@@ -7231,7 +7231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePpt` no estilo Regular.
   ///
-  /// ![file-ppt](https://api.iconify.design/ph/file-ppt.svg?height=32&color=%23888888)
+  /// ![file-ppt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-ppt.png)
   static const IconData filePpt = IconData(
     0xeb20,
     fontFamily: 'PhosphorRegular',
@@ -7243,7 +7243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filePy` no estilo Regular.
   ///
-  /// ![file-py](https://api.iconify.design/ph/file-py.svg?height=32&color=%23888888)
+  /// ![file-py](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-py.png)
   static const IconData filePy = IconData(
     0xeb2c,
     fontFamily: 'PhosphorRegular',
@@ -7255,7 +7255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileRs` no estilo Regular.
   ///
-  /// ![file-rs](https://api.iconify.design/ph/file-rs.svg?height=32&color=%23888888)
+  /// ![file-rs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-rs.png)
   static const IconData fileRs = IconData(
     0xeb28,
     fontFamily: 'PhosphorRegular',
@@ -7267,7 +7267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileSearch` no estilo Regular.
   ///
-  /// ![file-search](https://api.iconify.design/ph/file-magnifying-glass.svg?height=32&color=%23888888)
+  /// ![file-search](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-search.png)
   static const IconData fileSearch = IconData(
     0xe238,
     fontFamily: 'PhosphorRegular',
@@ -7279,7 +7279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileSql` no estilo Regular.
   ///
-  /// ![file-sql](https://api.iconify.design/ph/file-sql.svg?height=32&color=%23888888)
+  /// ![file-sql](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-sql.png)
   static const IconData fileSql = IconData(
     0xed4e,
     fontFamily: 'PhosphorRegular',
@@ -7291,7 +7291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileSvg` no estilo Regular.
   ///
-  /// ![file-svg](https://api.iconify.design/ph/file-svg.svg?height=32&color=%23888888)
+  /// ![file-svg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-svg.png)
   static const IconData fileSvg = IconData(
     0xed08,
     fontFamily: 'PhosphorRegular',
@@ -7303,7 +7303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileText` no estilo Regular.
   ///
-  /// ![file-text](https://api.iconify.design/ph/file-text.svg?height=32&color=%23888888)
+  /// ![file-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-text.png)
   static const IconData fileText = IconData(
     0xe23a,
     fontFamily: 'PhosphorRegular',
@@ -7315,7 +7315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileTs` no estilo Regular.
   ///
-  /// ![file-ts](https://api.iconify.design/ph/file-ts.svg?height=32&color=%23888888)
+  /// ![file-ts](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-ts.png)
   static const IconData fileTs = IconData(
     0xeb26,
     fontFamily: 'PhosphorRegular',
@@ -7327,7 +7327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileTsx` no estilo Regular.
   ///
-  /// ![file-tsx](https://api.iconify.design/ph/file-tsx.svg?height=32&color=%23888888)
+  /// ![file-tsx](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-tsx.png)
   static const IconData fileTsx = IconData(
     0xeb3c,
     fontFamily: 'PhosphorRegular',
@@ -7339,7 +7339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileTxt` no estilo Regular.
   ///
-  /// ![file-txt](https://api.iconify.design/ph/file-txt.svg?height=32&color=%23888888)
+  /// ![file-txt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-txt.png)
   static const IconData fileTxt = IconData(
     0xeb35,
     fontFamily: 'PhosphorRegular',
@@ -7351,7 +7351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileVideo` no estilo Regular.
   ///
-  /// ![file-video](https://api.iconify.design/ph/file-video.svg?height=32&color=%23888888)
+  /// ![file-video](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-video.png)
   static const IconData fileVideo = IconData(
     0xea22,
     fontFamily: 'PhosphorRegular',
@@ -7363,7 +7363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileVue` no estilo Regular.
   ///
-  /// ![file-vue](https://api.iconify.design/ph/file-vue.svg?height=32&color=%23888888)
+  /// ![file-vue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-vue.png)
   static const IconData fileVue = IconData(
     0xeb3e,
     fontFamily: 'PhosphorRegular',
@@ -7375,7 +7375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileX` no estilo Regular.
   ///
-  /// ![file-x](https://api.iconify.design/ph/file-x.svg?height=32&color=%23888888)
+  /// ![file-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-x.png)
   static const IconData fileX = IconData(
     0xe23c,
     fontFamily: 'PhosphorRegular',
@@ -7387,7 +7387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileXls` no estilo Regular.
   ///
-  /// ![file-xls](https://api.iconify.design/ph/file-xls.svg?height=32&color=%23888888)
+  /// ![file-xls](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-xls.png)
   static const IconData fileXls = IconData(
     0xeb22,
     fontFamily: 'PhosphorRegular',
@@ -7399,7 +7399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fileZip` no estilo Regular.
   ///
-  /// ![file-zip](https://api.iconify.design/ph/file-zip.svg?height=32&color=%23888888)
+  /// ![file-zip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/file-zip.png)
   static const IconData fileZip = IconData(
     0xe958,
     fontFamily: 'PhosphorRegular',
@@ -7411,7 +7411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `files` no estilo Regular.
   ///
-  /// ![files](https://api.iconify.design/ph/files.svg?height=32&color=%23888888)
+  /// ![files](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/files.png)
   static const IconData files = IconData(
     0xe710,
     fontFamily: 'PhosphorRegular',
@@ -7423,7 +7423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmReel` no estilo Regular.
   ///
-  /// ![film-reel](https://api.iconify.design/ph/film-reel.svg?height=32&color=%23888888)
+  /// ![film-reel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/film-reel.png)
   static const IconData filmReel = IconData(
     0xe8c0,
     fontFamily: 'PhosphorRegular',
@@ -7435,7 +7435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmScript` no estilo Regular.
   ///
-  /// ![film-script](https://api.iconify.design/ph/film-script.svg?height=32&color=%23888888)
+  /// ![film-script](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/film-script.png)
   static const IconData filmScript = IconData(
     0xeb50,
     fontFamily: 'PhosphorRegular',
@@ -7447,7 +7447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmSlate` no estilo Regular.
   ///
-  /// ![film-slate](https://api.iconify.design/ph/film-slate.svg?height=32&color=%23888888)
+  /// ![film-slate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/film-slate.png)
   static const IconData filmSlate = IconData(
     0xe8c2,
     fontFamily: 'PhosphorRegular',
@@ -7459,7 +7459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `filmStrip` no estilo Regular.
   ///
-  /// ![film-strip](https://api.iconify.design/ph/film-strip.svg?height=32&color=%23888888)
+  /// ![film-strip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/film-strip.png)
   static const IconData filmStrip = IconData(
     0xe792,
     fontFamily: 'PhosphorRegular',
@@ -7471,7 +7471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fingerprint` no estilo Regular.
   ///
-  /// ![fingerprint](https://api.iconify.design/ph/fingerprint.svg?height=32&color=%23888888)
+  /// ![fingerprint](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fingerprint.png)
   static const IconData fingerprint = IconData(
     0xe23e,
     fontFamily: 'PhosphorRegular',
@@ -7483,7 +7483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fingerprintSimple` no estilo Regular.
   ///
-  /// ![fingerprint-simple](https://api.iconify.design/ph/fingerprint-simple.svg?height=32&color=%23888888)
+  /// ![fingerprint-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fingerprint-simple.png)
   static const IconData fingerprintSimple = IconData(
     0xe240,
     fontFamily: 'PhosphorRegular',
@@ -7495,7 +7495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `finnTheHuman` no estilo Regular.
   ///
-  /// ![finn-the-human](https://api.iconify.design/ph/finn-the-human.svg?height=32&color=%23888888)
+  /// ![finn-the-human](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/finn-the-human.png)
   static const IconData finnTheHuman = IconData(
     0xe56c,
     fontFamily: 'PhosphorRegular',
@@ -7507,7 +7507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fire` no estilo Regular.
   ///
-  /// ![fire](https://api.iconify.design/ph/fire.svg?height=32&color=%23888888)
+  /// ![fire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fire.png)
   static const IconData fire = IconData(
     0xe242,
     fontFamily: 'PhosphorRegular',
@@ -7519,7 +7519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fireExtinguisher` no estilo Regular.
   ///
-  /// ![fire-extinguisher](https://api.iconify.design/ph/fire-extinguisher.svg?height=32&color=%23888888)
+  /// ![fire-extinguisher](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fire-extinguisher.png)
   static const IconData fireExtinguisher = IconData(
     0xe9e8,
     fontFamily: 'PhosphorRegular',
@@ -7531,7 +7531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fireSimple` no estilo Regular.
   ///
-  /// ![fire-simple](https://api.iconify.design/ph/fire-simple.svg?height=32&color=%23888888)
+  /// ![fire-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fire-simple.png)
   static const IconData fireSimple = IconData(
     0xe620,
     fontFamily: 'PhosphorRegular',
@@ -7543,7 +7543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fireTruck` no estilo Regular.
   ///
-  /// ![fire-truck](https://api.iconify.design/ph/fire-truck.svg?height=32&color=%23888888)
+  /// ![fire-truck](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fire-truck.png)
   static const IconData fireTruck = IconData(
     0xe574,
     fontFamily: 'PhosphorRegular',
@@ -7555,7 +7555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `firstAid` no estilo Regular.
   ///
-  /// ![first-aid](https://api.iconify.design/ph/first-aid.svg?height=32&color=%23888888)
+  /// ![first-aid](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/first-aid.png)
   static const IconData firstAid = IconData(
     0xe56e,
     fontFamily: 'PhosphorRegular',
@@ -7567,7 +7567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `firstAidKit` no estilo Regular.
   ///
-  /// ![first-aid-kit](https://api.iconify.design/ph/first-aid-kit.svg?height=32&color=%23888888)
+  /// ![first-aid-kit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/first-aid-kit.png)
   static const IconData firstAidKit = IconData(
     0xe570,
     fontFamily: 'PhosphorRegular',
@@ -7579,7 +7579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fish` no estilo Regular.
   ///
-  /// ![fish](https://api.iconify.design/ph/fish.svg?height=32&color=%23888888)
+  /// ![fish](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fish.png)
   static const IconData fish = IconData(
     0xe728,
     fontFamily: 'PhosphorRegular',
@@ -7591,7 +7591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fishSimple` no estilo Regular.
   ///
-  /// ![fish-simple](https://api.iconify.design/ph/fish-simple.svg?height=32&color=%23888888)
+  /// ![fish-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fish-simple.png)
   static const IconData fishSimple = IconData(
     0xe72a,
     fontFamily: 'PhosphorRegular',
@@ -7603,7 +7603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flag` no estilo Regular.
   ///
-  /// ![flag](https://api.iconify.design/ph/flag.svg?height=32&color=%23888888)
+  /// ![flag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flag.png)
   static const IconData flag = IconData(
     0xe244,
     fontFamily: 'PhosphorRegular',
@@ -7615,7 +7615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagBanner` no estilo Regular.
   ///
-  /// ![flag-banner](https://api.iconify.design/ph/flag-banner.svg?height=32&color=%23888888)
+  /// ![flag-banner](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flag-banner.png)
   static const IconData flagBanner = IconData(
     0xe622,
     fontFamily: 'PhosphorRegular',
@@ -7627,7 +7627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagBannerFold` no estilo Regular.
   ///
-  /// ![flag-banner-fold](https://api.iconify.design/ph/flag-banner-fold.svg?height=32&color=%23888888)
+  /// ![flag-banner-fold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flag-banner-fold.png)
   static const IconData flagBannerFold = IconData(
     0xecf2,
     fontFamily: 'PhosphorRegular',
@@ -7639,7 +7639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagCheckered` no estilo Regular.
   ///
-  /// ![flag-checkered](https://api.iconify.design/ph/flag-checkered.svg?height=32&color=%23888888)
+  /// ![flag-checkered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flag-checkered.png)
   static const IconData flagCheckered = IconData(
     0xea38,
     fontFamily: 'PhosphorRegular',
@@ -7651,7 +7651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flagPennant` no estilo Regular.
   ///
-  /// ![flag-pennant](https://api.iconify.design/ph/flag-pennant.svg?height=32&color=%23888888)
+  /// ![flag-pennant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flag-pennant.png)
   static const IconData flagPennant = IconData(
     0xecf0,
     fontFamily: 'PhosphorRegular',
@@ -7663,7 +7663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flame` no estilo Regular.
   ///
-  /// ![flame](https://api.iconify.design/ph/flame.svg?height=32&color=%23888888)
+  /// ![flame](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flame.png)
   static const IconData flame = IconData(
     0xe624,
     fontFamily: 'PhosphorRegular',
@@ -7675,7 +7675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flashlight` no estilo Regular.
   ///
-  /// ![flashlight](https://api.iconify.design/ph/flashlight.svg?height=32&color=%23888888)
+  /// ![flashlight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flashlight.png)
   static const IconData flashlight = IconData(
     0xe246,
     fontFamily: 'PhosphorRegular',
@@ -7687,7 +7687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flask` no estilo Regular.
   ///
-  /// ![flask](https://api.iconify.design/ph/flask.svg?height=32&color=%23888888)
+  /// ![flask](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flask.png)
   static const IconData flask = IconData(
     0xe79e,
     fontFamily: 'PhosphorRegular',
@@ -7699,7 +7699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flipHorizontal` no estilo Regular.
   ///
-  /// ![flip-horizontal](https://api.iconify.design/ph/flip-horizontal.svg?height=32&color=%23888888)
+  /// ![flip-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flip-horizontal.png)
   static const IconData flipHorizontal = IconData(
     0xed6a,
     fontFamily: 'PhosphorRegular',
@@ -7711,7 +7711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flipVertical` no estilo Regular.
   ///
-  /// ![flip-vertical](https://api.iconify.design/ph/flip-vertical.svg?height=32&color=%23888888)
+  /// ![flip-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flip-vertical.png)
   static const IconData flipVertical = IconData(
     0xed6c,
     fontFamily: 'PhosphorRegular',
@@ -7723,7 +7723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `floppyDisk` no estilo Regular.
   ///
-  /// ![floppy-disk](https://api.iconify.design/ph/floppy-disk.svg?height=32&color=%23888888)
+  /// ![floppy-disk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/floppy-disk.png)
   static const IconData floppyDisk = IconData(
     0xe248,
     fontFamily: 'PhosphorRegular',
@@ -7735,7 +7735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `floppyDiskBack` no estilo Regular.
   ///
-  /// ![floppy-disk-back](https://api.iconify.design/ph/floppy-disk-back.svg?height=32&color=%23888888)
+  /// ![floppy-disk-back](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/floppy-disk-back.png)
   static const IconData floppyDiskBack = IconData(
     0xeaf4,
     fontFamily: 'PhosphorRegular',
@@ -7747,7 +7747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flowArrow` no estilo Regular.
   ///
-  /// ![flow-arrow](https://api.iconify.design/ph/flow-arrow.svg?height=32&color=%23888888)
+  /// ![flow-arrow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flow-arrow.png)
   static const IconData flowArrow = IconData(
     0xe6ec,
     fontFamily: 'PhosphorRegular',
@@ -7759,7 +7759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flower` no estilo Regular.
   ///
-  /// ![flower](https://api.iconify.design/ph/flower.svg?height=32&color=%23888888)
+  /// ![flower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flower.png)
   static const IconData flower = IconData(
     0xe75e,
     fontFamily: 'PhosphorRegular',
@@ -7771,7 +7771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flowerLotus` no estilo Regular.
   ///
-  /// ![flower-lotus](https://api.iconify.design/ph/flower-lotus.svg?height=32&color=%23888888)
+  /// ![flower-lotus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flower-lotus.png)
   static const IconData flowerLotus = IconData(
     0xe6cc,
     fontFamily: 'PhosphorRegular',
@@ -7783,7 +7783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flowerTulip` no estilo Regular.
   ///
-  /// ![flower-tulip](https://api.iconify.design/ph/flower-tulip.svg?height=32&color=%23888888)
+  /// ![flower-tulip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flower-tulip.png)
   static const IconData flowerTulip = IconData(
     0xeacc,
     fontFamily: 'PhosphorRegular',
@@ -7795,7 +7795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `flyingSaucer` no estilo Regular.
   ///
-  /// ![flying-saucer](https://api.iconify.design/ph/flying-saucer.svg?height=32&color=%23888888)
+  /// ![flying-saucer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/flying-saucer.png)
   static const IconData flyingSaucer = IconData(
     0xeb4a,
     fontFamily: 'PhosphorRegular',
@@ -7807,7 +7807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folder` no estilo Regular.
   ///
-  /// ![folder](https://api.iconify.design/ph/folder.svg?height=32&color=%23888888)
+  /// ![folder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder.png)
   static const IconData folder = IconData(
     0xe24a,
     fontFamily: 'PhosphorRegular',
@@ -7819,7 +7819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderDashed` no estilo Regular.
   ///
-  /// ![folder-dashed](https://api.iconify.design/ph/folder-dashed.svg?height=32&color=%23888888)
+  /// ![folder-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-dashed.png)
   static const IconData folderDashed = IconData(
     0xe8f8,
     fontFamily: 'PhosphorRegular',
@@ -7831,7 +7831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderDotted` no estilo Regular.
   ///
-  /// ![folder-dotted](https://api.iconify.design/ph/folder-dashed.svg?height=32&color=%23888888)
+  /// ![folder-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-dotted.png)
   static const IconData folderDotted = IconData(
     0xe8f8,
     fontFamily: 'PhosphorRegular',
@@ -7843,7 +7843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderLock` no estilo Regular.
   ///
-  /// ![folder-lock](https://api.iconify.design/ph/folder-lock.svg?height=32&color=%23888888)
+  /// ![folder-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-lock.png)
   static const IconData folderLock = IconData(
     0xea3c,
     fontFamily: 'PhosphorRegular',
@@ -7855,7 +7855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderMinus` no estilo Regular.
   ///
-  /// ![folder-minus](https://api.iconify.design/ph/folder-minus.svg?height=32&color=%23888888)
+  /// ![folder-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-minus.png)
   static const IconData folderMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorRegular',
@@ -7867,7 +7867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotch` no estilo Regular.
   ///
-  /// ![folder-notch](https://api.iconify.design/ph/folder.svg?height=32&color=%23888888)
+  /// ![folder-notch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-notch.png)
   static const IconData folderNotch = IconData(
     0xe24a,
     fontFamily: 'PhosphorRegular',
@@ -7879,7 +7879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotchMinus` no estilo Regular.
   ///
-  /// ![folder-notch-minus](https://api.iconify.design/ph/folder-minus.svg?height=32&color=%23888888)
+  /// ![folder-notch-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-notch-minus.png)
   static const IconData folderNotchMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorRegular',
@@ -7891,7 +7891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotchOpen` no estilo Regular.
   ///
-  /// ![folder-notch-open](https://api.iconify.design/ph/folder-open.svg?height=32&color=%23888888)
+  /// ![folder-notch-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-notch-open.png)
   static const IconData folderNotchOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorRegular',
@@ -7903,7 +7903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderNotchPlus` no estilo Regular.
   ///
-  /// ![folder-notch-plus](https://api.iconify.design/ph/folder-plus.svg?height=32&color=%23888888)
+  /// ![folder-notch-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-notch-plus.png)
   static const IconData folderNotchPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorRegular',
@@ -7915,7 +7915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderOpen` no estilo Regular.
   ///
-  /// ![folder-open](https://api.iconify.design/ph/folder-open.svg?height=32&color=%23888888)
+  /// ![folder-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-open.png)
   static const IconData folderOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorRegular',
@@ -7927,7 +7927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderPlus` no estilo Regular.
   ///
-  /// ![folder-plus](https://api.iconify.design/ph/folder-plus.svg?height=32&color=%23888888)
+  /// ![folder-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-plus.png)
   static const IconData folderPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorRegular',
@@ -7939,7 +7939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimple` no estilo Regular.
   ///
-  /// ![folder-simple](https://api.iconify.design/ph/folder-simple.svg?height=32&color=%23888888)
+  /// ![folder-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple.png)
   static const IconData folderSimple = IconData(
     0xe25a,
     fontFamily: 'PhosphorRegular',
@@ -7951,7 +7951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleDashed` no estilo Regular.
   ///
-  /// ![folder-simple-dashed](https://api.iconify.design/ph/folder-simple-dashed.svg?height=32&color=%23888888)
+  /// ![folder-simple-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple-dashed.png)
   static const IconData folderSimpleDashed = IconData(
     0xec2a,
     fontFamily: 'PhosphorRegular',
@@ -7963,7 +7963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleDotted` no estilo Regular.
   ///
-  /// ![folder-simple-dotted](https://api.iconify.design/ph/folder-simple-dashed.svg?height=32&color=%23888888)
+  /// ![folder-simple-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple-dotted.png)
   static const IconData folderSimpleDotted = IconData(
     0xec2a,
     fontFamily: 'PhosphorRegular',
@@ -7975,7 +7975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleLock` no estilo Regular.
   ///
-  /// ![folder-simple-lock](https://api.iconify.design/ph/folder-simple-lock.svg?height=32&color=%23888888)
+  /// ![folder-simple-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple-lock.png)
   static const IconData folderSimpleLock = IconData(
     0xeb5e,
     fontFamily: 'PhosphorRegular',
@@ -7987,7 +7987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleMinus` no estilo Regular.
   ///
-  /// ![folder-simple-minus](https://api.iconify.design/ph/folder-simple-minus.svg?height=32&color=%23888888)
+  /// ![folder-simple-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple-minus.png)
   static const IconData folderSimpleMinus = IconData(
     0xe25c,
     fontFamily: 'PhosphorRegular',
@@ -7999,7 +7999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimplePlus` no estilo Regular.
   ///
-  /// ![folder-simple-plus](https://api.iconify.design/ph/folder-simple-plus.svg?height=32&color=%23888888)
+  /// ![folder-simple-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple-plus.png)
   static const IconData folderSimplePlus = IconData(
     0xe25e,
     fontFamily: 'PhosphorRegular',
@@ -8011,7 +8011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleStar` no estilo Regular.
   ///
-  /// ![folder-simple-star](https://api.iconify.design/ph/folder-simple-star.svg?height=32&color=%23888888)
+  /// ![folder-simple-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple-star.png)
   static const IconData folderSimpleStar = IconData(
     0xec2e,
     fontFamily: 'PhosphorRegular',
@@ -8023,7 +8023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderSimpleUser` no estilo Regular.
   ///
-  /// ![folder-simple-user](https://api.iconify.design/ph/folder-simple-user.svg?height=32&color=%23888888)
+  /// ![folder-simple-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-simple-user.png)
   static const IconData folderSimpleUser = IconData(
     0xeb60,
     fontFamily: 'PhosphorRegular',
@@ -8035,7 +8035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderStar` no estilo Regular.
   ///
-  /// ![folder-star](https://api.iconify.design/ph/folder-star.svg?height=32&color=%23888888)
+  /// ![folder-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-star.png)
   static const IconData folderStar = IconData(
     0xea86,
     fontFamily: 'PhosphorRegular',
@@ -8047,7 +8047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folderUser` no estilo Regular.
   ///
-  /// ![folder-user](https://api.iconify.design/ph/folder-user.svg?height=32&color=%23888888)
+  /// ![folder-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folder-user.png)
   static const IconData folderUser = IconData(
     0xeb46,
     fontFamily: 'PhosphorRegular',
@@ -8059,7 +8059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `folders` no estilo Regular.
   ///
-  /// ![folders](https://api.iconify.design/ph/folders.svg?height=32&color=%23888888)
+  /// ![folders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/folders.png)
   static const IconData folders = IconData(
     0xe260,
     fontFamily: 'PhosphorRegular',
@@ -8071,7 +8071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `football` no estilo Regular.
   ///
-  /// ![football](https://api.iconify.design/ph/football.svg?height=32&color=%23888888)
+  /// ![football](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/football.png)
   static const IconData football = IconData(
     0xe718,
     fontFamily: 'PhosphorRegular',
@@ -8083,7 +8083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `footballHelmet` no estilo Regular.
   ///
-  /// ![football-helmet](https://api.iconify.design/ph/football-helmet.svg?height=32&color=%23888888)
+  /// ![football-helmet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/football-helmet.png)
   static const IconData footballHelmet = IconData(
     0xee4c,
     fontFamily: 'PhosphorRegular',
@@ -8095,7 +8095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `footprints` no estilo Regular.
   ///
-  /// ![footprints](https://api.iconify.design/ph/footprints.svg?height=32&color=%23888888)
+  /// ![footprints](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/footprints.png)
   static const IconData footprints = IconData(
     0xea88,
     fontFamily: 'PhosphorRegular',
@@ -8107,7 +8107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `forkKnife` no estilo Regular.
   ///
-  /// ![fork-knife](https://api.iconify.design/ph/fork-knife.svg?height=32&color=%23888888)
+  /// ![fork-knife](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/fork-knife.png)
   static const IconData forkKnife = IconData(
     0xe262,
     fontFamily: 'PhosphorRegular',
@@ -8119,7 +8119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `fourK` no estilo Regular.
   ///
-  /// ![four-k](https://api.iconify.design/ph/four-k.svg?height=32&color=%23888888)
+  /// ![four-k](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/four-k.png)
   static const IconData fourK = IconData(
     0xea5c,
     fontFamily: 'PhosphorRegular',
@@ -8131,7 +8131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `frameCorners` no estilo Regular.
   ///
-  /// ![frame-corners](https://api.iconify.design/ph/frame-corners.svg?height=32&color=%23888888)
+  /// ![frame-corners](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/frame-corners.png)
   static const IconData frameCorners = IconData(
     0xe626,
     fontFamily: 'PhosphorRegular',
@@ -8143,7 +8143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `framerLogo` no estilo Regular.
   ///
-  /// ![framer-logo](https://api.iconify.design/ph/framer-logo.svg?height=32&color=%23888888)
+  /// ![framer-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/framer-logo.png)
   static const IconData framerLogo = IconData(
     0xe264,
     fontFamily: 'PhosphorRegular',
@@ -8155,7 +8155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `function` no estilo Regular.
   ///
-  /// ![function](https://api.iconify.design/ph/function.svg?height=32&color=%23888888)
+  /// ![function](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/function.png)
   static const IconData function = IconData(
     0xebe4,
     fontFamily: 'PhosphorRegular',
@@ -8167,7 +8167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnel` no estilo Regular.
   ///
-  /// ![funnel](https://api.iconify.design/ph/funnel.svg?height=32&color=%23888888)
+  /// ![funnel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/funnel.png)
   static const IconData funnel = IconData(
     0xe266,
     fontFamily: 'PhosphorRegular',
@@ -8179,7 +8179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnelSimple` no estilo Regular.
   ///
-  /// ![funnel-simple](https://api.iconify.design/ph/funnel-simple.svg?height=32&color=%23888888)
+  /// ![funnel-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/funnel-simple.png)
   static const IconData funnelSimple = IconData(
     0xe268,
     fontFamily: 'PhosphorRegular',
@@ -8191,7 +8191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnelSimpleX` no estilo Regular.
   ///
-  /// ![funnel-simple-x](https://api.iconify.design/ph/funnel-simple-x.svg?height=32&color=%23888888)
+  /// ![funnel-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/funnel-simple-x.png)
   static const IconData funnelSimpleX = IconData(
     0xe26a,
     fontFamily: 'PhosphorRegular',
@@ -8203,7 +8203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `funnelX` no estilo Regular.
   ///
-  /// ![funnel-x](https://api.iconify.design/ph/funnel-x.svg?height=32&color=%23888888)
+  /// ![funnel-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/funnel-x.png)
   static const IconData funnelX = IconData(
     0xe26c,
     fontFamily: 'PhosphorRegular',
@@ -8215,7 +8215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gameController` no estilo Regular.
   ///
-  /// ![game-controller](https://api.iconify.design/ph/game-controller.svg?height=32&color=%23888888)
+  /// ![game-controller](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/game-controller.png)
   static const IconData gameController = IconData(
     0xe26e,
     fontFamily: 'PhosphorRegular',
@@ -8227,7 +8227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `garage` no estilo Regular.
   ///
-  /// ![garage](https://api.iconify.design/ph/garage.svg?height=32&color=%23888888)
+  /// ![garage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/garage.png)
   static const IconData garage = IconData(
     0xecd6,
     fontFamily: 'PhosphorRegular',
@@ -8239,7 +8239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gasCan` no estilo Regular.
   ///
-  /// ![gas-can](https://api.iconify.design/ph/gas-can.svg?height=32&color=%23888888)
+  /// ![gas-can](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gas-can.png)
   static const IconData gasCan = IconData(
     0xe8ce,
     fontFamily: 'PhosphorRegular',
@@ -8251,7 +8251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gasPump` no estilo Regular.
   ///
-  /// ![gas-pump](https://api.iconify.design/ph/gas-pump.svg?height=32&color=%23888888)
+  /// ![gas-pump](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gas-pump.png)
   static const IconData gasPump = IconData(
     0xe768,
     fontFamily: 'PhosphorRegular',
@@ -8263,7 +8263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gauge` no estilo Regular.
   ///
-  /// ![gauge](https://api.iconify.design/ph/gauge.svg?height=32&color=%23888888)
+  /// ![gauge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gauge.png)
   static const IconData gauge = IconData(
     0xe628,
     fontFamily: 'PhosphorRegular',
@@ -8275,7 +8275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gavel` no estilo Regular.
   ///
-  /// ![gavel](https://api.iconify.design/ph/gavel.svg?height=32&color=%23888888)
+  /// ![gavel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gavel.png)
   static const IconData gavel = IconData(
     0xea32,
     fontFamily: 'PhosphorRegular',
@@ -8287,7 +8287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gear` no estilo Regular.
   ///
-  /// ![gear](https://api.iconify.design/ph/gear.svg?height=32&color=%23888888)
+  /// ![gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gear.png)
   static const IconData gear = IconData(
     0xe270,
     fontFamily: 'PhosphorRegular',
@@ -8299,7 +8299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gearFine` no estilo Regular.
   ///
-  /// ![gear-fine](https://api.iconify.design/ph/gear-fine.svg?height=32&color=%23888888)
+  /// ![gear-fine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gear-fine.png)
   static const IconData gearFine = IconData(
     0xe87c,
     fontFamily: 'PhosphorRegular',
@@ -8311,7 +8311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gearSix` no estilo Regular.
   ///
-  /// ![gear-six](https://api.iconify.design/ph/gear-six.svg?height=32&color=%23888888)
+  /// ![gear-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gear-six.png)
   static const IconData gearSix = IconData(
     0xe272,
     fontFamily: 'PhosphorRegular',
@@ -8323,7 +8323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderFemale` no estilo Regular.
   ///
-  /// ![gender-female](https://api.iconify.design/ph/gender-female.svg?height=32&color=%23888888)
+  /// ![gender-female](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gender-female.png)
   static const IconData genderFemale = IconData(
     0xe6e0,
     fontFamily: 'PhosphorRegular',
@@ -8335,7 +8335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderIntersex` no estilo Regular.
   ///
-  /// ![gender-intersex](https://api.iconify.design/ph/gender-intersex.svg?height=32&color=%23888888)
+  /// ![gender-intersex](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gender-intersex.png)
   static const IconData genderIntersex = IconData(
     0xe6e6,
     fontFamily: 'PhosphorRegular',
@@ -8347,7 +8347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderMale` no estilo Regular.
   ///
-  /// ![gender-male](https://api.iconify.design/ph/gender-male.svg?height=32&color=%23888888)
+  /// ![gender-male](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gender-male.png)
   static const IconData genderMale = IconData(
     0xe6e2,
     fontFamily: 'PhosphorRegular',
@@ -8359,7 +8359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderNeuter` no estilo Regular.
   ///
-  /// ![gender-neuter](https://api.iconify.design/ph/gender-neuter.svg?height=32&color=%23888888)
+  /// ![gender-neuter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gender-neuter.png)
   static const IconData genderNeuter = IconData(
     0xe6ea,
     fontFamily: 'PhosphorRegular',
@@ -8371,7 +8371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderNonbinary` no estilo Regular.
   ///
-  /// ![gender-nonbinary](https://api.iconify.design/ph/gender-nonbinary.svg?height=32&color=%23888888)
+  /// ![gender-nonbinary](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gender-nonbinary.png)
   static const IconData genderNonbinary = IconData(
     0xe6e4,
     fontFamily: 'PhosphorRegular',
@@ -8383,7 +8383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `genderTransgender` no estilo Regular.
   ///
-  /// ![gender-transgender](https://api.iconify.design/ph/gender-transgender.svg?height=32&color=%23888888)
+  /// ![gender-transgender](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gender-transgender.png)
   static const IconData genderTransgender = IconData(
     0xe6e8,
     fontFamily: 'PhosphorRegular',
@@ -8395,7 +8395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ghost` no estilo Regular.
   ///
-  /// ![ghost](https://api.iconify.design/ph/ghost.svg?height=32&color=%23888888)
+  /// ![ghost](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ghost.png)
   static const IconData ghost = IconData(
     0xe62a,
     fontFamily: 'PhosphorRegular',
@@ -8407,7 +8407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gif` no estilo Regular.
   ///
-  /// ![gif](https://api.iconify.design/ph/gif.svg?height=32&color=%23888888)
+  /// ![gif](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gif.png)
   static const IconData gif = IconData(
     0xe274,
     fontFamily: 'PhosphorRegular',
@@ -8419,7 +8419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gift` no estilo Regular.
   ///
-  /// ![gift](https://api.iconify.design/ph/gift.svg?height=32&color=%23888888)
+  /// ![gift](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gift.png)
   static const IconData gift = IconData(
     0xe276,
     fontFamily: 'PhosphorRegular',
@@ -8431,7 +8431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitBranch` no estilo Regular.
   ///
-  /// ![git-branch](https://api.iconify.design/ph/git-branch.svg?height=32&color=%23888888)
+  /// ![git-branch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/git-branch.png)
   static const IconData gitBranch = IconData(
     0xe278,
     fontFamily: 'PhosphorRegular',
@@ -8443,7 +8443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitCommit` no estilo Regular.
   ///
-  /// ![git-commit](https://api.iconify.design/ph/git-commit.svg?height=32&color=%23888888)
+  /// ![git-commit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/git-commit.png)
   static const IconData gitCommit = IconData(
     0xe27a,
     fontFamily: 'PhosphorRegular',
@@ -8455,7 +8455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitDiff` no estilo Regular.
   ///
-  /// ![git-diff](https://api.iconify.design/ph/git-diff.svg?height=32&color=%23888888)
+  /// ![git-diff](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/git-diff.png)
   static const IconData gitDiff = IconData(
     0xe27c,
     fontFamily: 'PhosphorRegular',
@@ -8467,7 +8467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitFork` no estilo Regular.
   ///
-  /// ![git-fork](https://api.iconify.design/ph/git-fork.svg?height=32&color=%23888888)
+  /// ![git-fork](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/git-fork.png)
   static const IconData gitFork = IconData(
     0xe27e,
     fontFamily: 'PhosphorRegular',
@@ -8479,7 +8479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitMerge` no estilo Regular.
   ///
-  /// ![git-merge](https://api.iconify.design/ph/git-merge.svg?height=32&color=%23888888)
+  /// ![git-merge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/git-merge.png)
   static const IconData gitMerge = IconData(
     0xe280,
     fontFamily: 'PhosphorRegular',
@@ -8491,7 +8491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitPullRequest` no estilo Regular.
   ///
-  /// ![git-pull-request](https://api.iconify.design/ph/git-pull-request.svg?height=32&color=%23888888)
+  /// ![git-pull-request](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/git-pull-request.png)
   static const IconData gitPullRequest = IconData(
     0xe282,
     fontFamily: 'PhosphorRegular',
@@ -8503,7 +8503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `githubLogo` no estilo Regular.
   ///
-  /// ![github-logo](https://api.iconify.design/ph/github-logo.svg?height=32&color=%23888888)
+  /// ![github-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/github-logo.png)
   static const IconData githubLogo = IconData(
     0xe576,
     fontFamily: 'PhosphorRegular',
@@ -8515,7 +8515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitlabLogo` no estilo Regular.
   ///
-  /// ![gitlab-logo](https://api.iconify.design/ph/gitlab-logo.svg?height=32&color=%23888888)
+  /// ![gitlab-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gitlab-logo.png)
   static const IconData gitlabLogo = IconData(
     0xe694,
     fontFamily: 'PhosphorRegular',
@@ -8527,7 +8527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gitlabLogoSimple` no estilo Regular.
   ///
-  /// ![gitlab-logo-simple](https://api.iconify.design/ph/gitlab-logo-simple.svg?height=32&color=%23888888)
+  /// ![gitlab-logo-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gitlab-logo-simple.png)
   static const IconData gitlabLogoSimple = IconData(
     0xe696,
     fontFamily: 'PhosphorRegular',
@@ -8539,7 +8539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globe` no estilo Regular.
   ///
-  /// ![globe](https://api.iconify.design/ph/globe.svg?height=32&color=%23888888)
+  /// ![globe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/globe.png)
   static const IconData globe = IconData(
     0xe288,
     fontFamily: 'PhosphorRegular',
@@ -8551,7 +8551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeHemisphereEast` no estilo Regular.
   ///
-  /// ![globe-hemisphere-east](https://api.iconify.design/ph/globe-hemisphere-east.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-east](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/globe-hemisphere-east.png)
   static const IconData globeHemisphereEast = IconData(
     0xe28a,
     fontFamily: 'PhosphorRegular',
@@ -8563,7 +8563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeHemisphereWest` no estilo Regular.
   ///
-  /// ![globe-hemisphere-west](https://api.iconify.design/ph/globe-hemisphere-west.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-west](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/globe-hemisphere-west.png)
   static const IconData globeHemisphereWest = IconData(
     0xe28c,
     fontFamily: 'PhosphorRegular',
@@ -8575,7 +8575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeSimple` no estilo Regular.
   ///
-  /// ![globe-simple](https://api.iconify.design/ph/globe-simple.svg?height=32&color=%23888888)
+  /// ![globe-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/globe-simple.png)
   static const IconData globeSimple = IconData(
     0xe28e,
     fontFamily: 'PhosphorRegular',
@@ -8587,7 +8587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeSimpleX` no estilo Regular.
   ///
-  /// ![globe-simple-x](https://api.iconify.design/ph/globe-simple-x.svg?height=32&color=%23888888)
+  /// ![globe-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/globe-simple-x.png)
   static const IconData globeSimpleX = IconData(
     0xe284,
     fontFamily: 'PhosphorRegular',
@@ -8599,7 +8599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeStand` no estilo Regular.
   ///
-  /// ![globe-stand](https://api.iconify.design/ph/globe-stand.svg?height=32&color=%23888888)
+  /// ![globe-stand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/globe-stand.png)
   static const IconData globeStand = IconData(
     0xe290,
     fontFamily: 'PhosphorRegular',
@@ -8611,7 +8611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `globeX` no estilo Regular.
   ///
-  /// ![globe-x](https://api.iconify.design/ph/globe-x.svg?height=32&color=%23888888)
+  /// ![globe-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/globe-x.png)
   static const IconData globeX = IconData(
     0xe286,
     fontFamily: 'PhosphorRegular',
@@ -8623,7 +8623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `goggles` no estilo Regular.
   ///
-  /// ![goggles](https://api.iconify.design/ph/goggles.svg?height=32&color=%23888888)
+  /// ![goggles](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/goggles.png)
   static const IconData goggles = IconData(
     0xecb4,
     fontFamily: 'PhosphorRegular',
@@ -8635,7 +8635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `golf` no estilo Regular.
   ///
-  /// ![golf](https://api.iconify.design/ph/golf.svg?height=32&color=%23888888)
+  /// ![golf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/golf.png)
   static const IconData golf = IconData(
     0xea3e,
     fontFamily: 'PhosphorRegular',
@@ -8647,7 +8647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `goodreadsLogo` no estilo Regular.
   ///
-  /// ![goodreads-logo](https://api.iconify.design/ph/goodreads-logo.svg?height=32&color=%23888888)
+  /// ![goodreads-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/goodreads-logo.png)
   static const IconData goodreadsLogo = IconData(
     0xed10,
     fontFamily: 'PhosphorRegular',
@@ -8659,7 +8659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleCardboardLogo` no estilo Regular.
   ///
-  /// ![google-cardboard-logo](https://api.iconify.design/ph/google-cardboard-logo.svg?height=32&color=%23888888)
+  /// ![google-cardboard-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/google-cardboard-logo.png)
   static const IconData googleCardboardLogo = IconData(
     0xe7b6,
     fontFamily: 'PhosphorRegular',
@@ -8671,7 +8671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleChromeLogo` no estilo Regular.
   ///
-  /// ![google-chrome-logo](https://api.iconify.design/ph/google-chrome-logo.svg?height=32&color=%23888888)
+  /// ![google-chrome-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/google-chrome-logo.png)
   static const IconData googleChromeLogo = IconData(
     0xe976,
     fontFamily: 'PhosphorRegular',
@@ -8683,7 +8683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleDriveLogo` no estilo Regular.
   ///
-  /// ![google-drive-logo](https://api.iconify.design/ph/google-drive-logo.svg?height=32&color=%23888888)
+  /// ![google-drive-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/google-drive-logo.png)
   static const IconData googleDriveLogo = IconData(
     0xe8f6,
     fontFamily: 'PhosphorRegular',
@@ -8695,7 +8695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googleLogo` no estilo Regular.
   ///
-  /// ![google-logo](https://api.iconify.design/ph/google-logo.svg?height=32&color=%23888888)
+  /// ![google-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/google-logo.png)
   static const IconData googleLogo = IconData(
     0xe292,
     fontFamily: 'PhosphorRegular',
@@ -8707,7 +8707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googlePhotosLogo` no estilo Regular.
   ///
-  /// ![google-photos-logo](https://api.iconify.design/ph/google-photos-logo.svg?height=32&color=%23888888)
+  /// ![google-photos-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/google-photos-logo.png)
   static const IconData googlePhotosLogo = IconData(
     0xeb92,
     fontFamily: 'PhosphorRegular',
@@ -8719,7 +8719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googlePlayLogo` no estilo Regular.
   ///
-  /// ![google-play-logo](https://api.iconify.design/ph/google-play-logo.svg?height=32&color=%23888888)
+  /// ![google-play-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/google-play-logo.png)
   static const IconData googlePlayLogo = IconData(
     0xe294,
     fontFamily: 'PhosphorRegular',
@@ -8731,7 +8731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `googlePodcastsLogo` no estilo Regular.
   ///
-  /// ![google-podcasts-logo](https://api.iconify.design/ph/google-podcasts-logo.svg?height=32&color=%23888888)
+  /// ![google-podcasts-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/google-podcasts-logo.png)
   static const IconData googlePodcastsLogo = IconData(
     0xeb94,
     fontFamily: 'PhosphorRegular',
@@ -8743,7 +8743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gps` no estilo Regular.
   ///
-  /// ![gps](https://api.iconify.design/ph/gps.svg?height=32&color=%23888888)
+  /// ![gps](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gps.png)
   static const IconData gps = IconData(
     0xedd8,
     fontFamily: 'PhosphorRegular',
@@ -8755,7 +8755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gpsFix` no estilo Regular.
   ///
-  /// ![gps-fix](https://api.iconify.design/ph/gps-fix.svg?height=32&color=%23888888)
+  /// ![gps-fix](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gps-fix.png)
   static const IconData gpsFix = IconData(
     0xedd6,
     fontFamily: 'PhosphorRegular',
@@ -8767,7 +8767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gpsSlash` no estilo Regular.
   ///
-  /// ![gps-slash](https://api.iconify.design/ph/gps-slash.svg?height=32&color=%23888888)
+  /// ![gps-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gps-slash.png)
   static const IconData gpsSlash = IconData(
     0xedd4,
     fontFamily: 'PhosphorRegular',
@@ -8779,7 +8779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gradient` no estilo Regular.
   ///
-  /// ![gradient](https://api.iconify.design/ph/gradient.svg?height=32&color=%23888888)
+  /// ![gradient](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/gradient.png)
   static const IconData gradient = IconData(
     0xeb42,
     fontFamily: 'PhosphorRegular',
@@ -8791,7 +8791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `graduationCap` no estilo Regular.
   ///
-  /// ![graduation-cap](https://api.iconify.design/ph/graduation-cap.svg?height=32&color=%23888888)
+  /// ![graduation-cap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/graduation-cap.png)
   static const IconData graduationCap = IconData(
     0xe62c,
     fontFamily: 'PhosphorRegular',
@@ -8803,7 +8803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `grains` no estilo Regular.
   ///
-  /// ![grains](https://api.iconify.design/ph/grains.svg?height=32&color=%23888888)
+  /// ![grains](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/grains.png)
   static const IconData grains = IconData(
     0xec68,
     fontFamily: 'PhosphorRegular',
@@ -8815,7 +8815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `grainsSlash` no estilo Regular.
   ///
-  /// ![grains-slash](https://api.iconify.design/ph/grains-slash.svg?height=32&color=%23888888)
+  /// ![grains-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/grains-slash.png)
   static const IconData grainsSlash = IconData(
     0xec6a,
     fontFamily: 'PhosphorRegular',
@@ -8827,7 +8827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `graph` no estilo Regular.
   ///
-  /// ![graph](https://api.iconify.design/ph/graph.svg?height=32&color=%23888888)
+  /// ![graph](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/graph.png)
   static const IconData graph = IconData(
     0xeb58,
     fontFamily: 'PhosphorRegular',
@@ -8839,7 +8839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `graphicsCard` no estilo Regular.
   ///
-  /// ![graphics-card](https://api.iconify.design/ph/graphics-card.svg?height=32&color=%23888888)
+  /// ![graphics-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/graphics-card.png)
   static const IconData graphicsCard = IconData(
     0xe612,
     fontFamily: 'PhosphorRegular',
@@ -8851,7 +8851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `greaterThan` no estilo Regular.
   ///
-  /// ![greater-than](https://api.iconify.design/ph/greater-than.svg?height=32&color=%23888888)
+  /// ![greater-than](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/greater-than.png)
   static const IconData greaterThan = IconData(
     0xedc4,
     fontFamily: 'PhosphorRegular',
@@ -8863,7 +8863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `greaterThanOrEqual` no estilo Regular.
   ///
-  /// ![greater-than-or-equal](https://api.iconify.design/ph/greater-than-or-equal.svg?height=32&color=%23888888)
+  /// ![greater-than-or-equal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/greater-than-or-equal.png)
   static const IconData greaterThanOrEqual = IconData(
     0xeda2,
     fontFamily: 'PhosphorRegular',
@@ -8875,7 +8875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gridFour` no estilo Regular.
   ///
-  /// ![grid-four](https://api.iconify.design/ph/grid-four.svg?height=32&color=%23888888)
+  /// ![grid-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/grid-four.png)
   static const IconData gridFour = IconData(
     0xe296,
     fontFamily: 'PhosphorRegular',
@@ -8887,7 +8887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `gridNine` no estilo Regular.
   ///
-  /// ![grid-nine](https://api.iconify.design/ph/grid-nine.svg?height=32&color=%23888888)
+  /// ![grid-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/grid-nine.png)
   static const IconData gridNine = IconData(
     0xec8c,
     fontFamily: 'PhosphorRegular',
@@ -8899,7 +8899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `guitar` no estilo Regular.
   ///
-  /// ![guitar](https://api.iconify.design/ph/guitar.svg?height=32&color=%23888888)
+  /// ![guitar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/guitar.png)
   static const IconData guitar = IconData(
     0xea8a,
     fontFamily: 'PhosphorRegular',
@@ -8911,7 +8911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hairDryer` no estilo Regular.
   ///
-  /// ![hair-dryer](https://api.iconify.design/ph/hair-dryer.svg?height=32&color=%23888888)
+  /// ![hair-dryer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hair-dryer.png)
   static const IconData hairDryer = IconData(
     0xea66,
     fontFamily: 'PhosphorRegular',
@@ -8923,7 +8923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hamburger` no estilo Regular.
   ///
-  /// ![hamburger](https://api.iconify.design/ph/hamburger.svg?height=32&color=%23888888)
+  /// ![hamburger](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hamburger.png)
   static const IconData hamburger = IconData(
     0xe790,
     fontFamily: 'PhosphorRegular',
@@ -8935,7 +8935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hammer` no estilo Regular.
   ///
-  /// ![hammer](https://api.iconify.design/ph/hammer.svg?height=32&color=%23888888)
+  /// ![hammer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hammer.png)
   static const IconData hammer = IconData(
     0xe80e,
     fontFamily: 'PhosphorRegular',
@@ -8947,7 +8947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hand` no estilo Regular.
   ///
-  /// ![hand](https://api.iconify.design/ph/hand.svg?height=32&color=%23888888)
+  /// ![hand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand.png)
   static const IconData hand = IconData(
     0xe298,
     fontFamily: 'PhosphorRegular',
@@ -8959,7 +8959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handArrowDown` no estilo Regular.
   ///
-  /// ![hand-arrow-down](https://api.iconify.design/ph/hand-arrow-down.svg?height=32&color=%23888888)
+  /// ![hand-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-arrow-down.png)
   static const IconData handArrowDown = IconData(
     0xea4e,
     fontFamily: 'PhosphorRegular',
@@ -8971,7 +8971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handArrowUp` no estilo Regular.
   ///
-  /// ![hand-arrow-up](https://api.iconify.design/ph/hand-arrow-up.svg?height=32&color=%23888888)
+  /// ![hand-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-arrow-up.png)
   static const IconData handArrowUp = IconData(
     0xee5a,
     fontFamily: 'PhosphorRegular',
@@ -8983,7 +8983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handCoins` no estilo Regular.
   ///
-  /// ![hand-coins](https://api.iconify.design/ph/hand-coins.svg?height=32&color=%23888888)
+  /// ![hand-coins](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-coins.png)
   static const IconData handCoins = IconData(
     0xea8c,
     fontFamily: 'PhosphorRegular',
@@ -8995,7 +8995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handDeposit` no estilo Regular.
   ///
-  /// ![hand-deposit](https://api.iconify.design/ph/hand-deposit.svg?height=32&color=%23888888)
+  /// ![hand-deposit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-deposit.png)
   static const IconData handDeposit = IconData(
     0xee82,
     fontFamily: 'PhosphorRegular',
@@ -9007,7 +9007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handEye` no estilo Regular.
   ///
-  /// ![hand-eye](https://api.iconify.design/ph/hand-eye.svg?height=32&color=%23888888)
+  /// ![hand-eye](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-eye.png)
   static const IconData handEye = IconData(
     0xea4c,
     fontFamily: 'PhosphorRegular',
@@ -9019,7 +9019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handFist` no estilo Regular.
   ///
-  /// ![hand-fist](https://api.iconify.design/ph/hand-fist.svg?height=32&color=%23888888)
+  /// ![hand-fist](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-fist.png)
   static const IconData handFist = IconData(
     0xe57a,
     fontFamily: 'PhosphorRegular',
@@ -9031,7 +9031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handGrabbing` no estilo Regular.
   ///
-  /// ![hand-grabbing](https://api.iconify.design/ph/hand-grabbing.svg?height=32&color=%23888888)
+  /// ![hand-grabbing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-grabbing.png)
   static const IconData handGrabbing = IconData(
     0xe57c,
     fontFamily: 'PhosphorRegular',
@@ -9043,7 +9043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handHeart` no estilo Regular.
   ///
-  /// ![hand-heart](https://api.iconify.design/ph/hand-heart.svg?height=32&color=%23888888)
+  /// ![hand-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-heart.png)
   static const IconData handHeart = IconData(
     0xe810,
     fontFamily: 'PhosphorRegular',
@@ -9055,7 +9055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handPalm` no estilo Regular.
   ///
-  /// ![hand-palm](https://api.iconify.design/ph/hand-palm.svg?height=32&color=%23888888)
+  /// ![hand-palm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-palm.png)
   static const IconData handPalm = IconData(
     0xe57e,
     fontFamily: 'PhosphorRegular',
@@ -9067,7 +9067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handPeace` no estilo Regular.
   ///
-  /// ![hand-peace](https://api.iconify.design/ph/hand-peace.svg?height=32&color=%23888888)
+  /// ![hand-peace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-peace.png)
   static const IconData handPeace = IconData(
     0xe7cc,
     fontFamily: 'PhosphorRegular',
@@ -9079,7 +9079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handPointing` no estilo Regular.
   ///
-  /// ![hand-pointing](https://api.iconify.design/ph/hand-pointing.svg?height=32&color=%23888888)
+  /// ![hand-pointing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-pointing.png)
   static const IconData handPointing = IconData(
     0xe29a,
     fontFamily: 'PhosphorRegular',
@@ -9091,7 +9091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handSoap` no estilo Regular.
   ///
-  /// ![hand-soap](https://api.iconify.design/ph/hand-soap.svg?height=32&color=%23888888)
+  /// ![hand-soap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-soap.png)
   static const IconData handSoap = IconData(
     0xe630,
     fontFamily: 'PhosphorRegular',
@@ -9103,7 +9103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handSwipeLeft` no estilo Regular.
   ///
-  /// ![hand-swipe-left](https://api.iconify.design/ph/hand-swipe-left.svg?height=32&color=%23888888)
+  /// ![hand-swipe-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-swipe-left.png)
   static const IconData handSwipeLeft = IconData(
     0xec94,
     fontFamily: 'PhosphorRegular',
@@ -9115,7 +9115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handSwipeRight` no estilo Regular.
   ///
-  /// ![hand-swipe-right](https://api.iconify.design/ph/hand-swipe-right.svg?height=32&color=%23888888)
+  /// ![hand-swipe-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-swipe-right.png)
   static const IconData handSwipeRight = IconData(
     0xec92,
     fontFamily: 'PhosphorRegular',
@@ -9127,7 +9127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handTap` no estilo Regular.
   ///
-  /// ![hand-tap](https://api.iconify.design/ph/hand-tap.svg?height=32&color=%23888888)
+  /// ![hand-tap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-tap.png)
   static const IconData handTap = IconData(
     0xec90,
     fontFamily: 'PhosphorRegular',
@@ -9139,7 +9139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handWaving` no estilo Regular.
   ///
-  /// ![hand-waving](https://api.iconify.design/ph/hand-waving.svg?height=32&color=%23888888)
+  /// ![hand-waving](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-waving.png)
   static const IconData handWaving = IconData(
     0xe580,
     fontFamily: 'PhosphorRegular',
@@ -9151,7 +9151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handWithdraw` no estilo Regular.
   ///
-  /// ![hand-withdraw](https://api.iconify.design/ph/hand-withdraw.svg?height=32&color=%23888888)
+  /// ![hand-withdraw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hand-withdraw.png)
   static const IconData handWithdraw = IconData(
     0xee80,
     fontFamily: 'PhosphorRegular',
@@ -9163,7 +9163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handbag` no estilo Regular.
   ///
-  /// ![handbag](https://api.iconify.design/ph/handbag.svg?height=32&color=%23888888)
+  /// ![handbag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/handbag.png)
   static const IconData handbag = IconData(
     0xe29c,
     fontFamily: 'PhosphorRegular',
@@ -9175,7 +9175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handbagSimple` no estilo Regular.
   ///
-  /// ![handbag-simple](https://api.iconify.design/ph/handbag-simple.svg?height=32&color=%23888888)
+  /// ![handbag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/handbag-simple.png)
   static const IconData handbagSimple = IconData(
     0xe62e,
     fontFamily: 'PhosphorRegular',
@@ -9187,7 +9187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handsClapping` no estilo Regular.
   ///
-  /// ![hands-clapping](https://api.iconify.design/ph/hands-clapping.svg?height=32&color=%23888888)
+  /// ![hands-clapping](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hands-clapping.png)
   static const IconData handsClapping = IconData(
     0xe6a0,
     fontFamily: 'PhosphorRegular',
@@ -9199,7 +9199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handsPraying` no estilo Regular.
   ///
-  /// ![hands-praying](https://api.iconify.design/ph/hands-praying.svg?height=32&color=%23888888)
+  /// ![hands-praying](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hands-praying.png)
   static const IconData handsPraying = IconData(
     0xecc8,
     fontFamily: 'PhosphorRegular',
@@ -9211,7 +9211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `handshake` no estilo Regular.
   ///
-  /// ![handshake](https://api.iconify.design/ph/handshake.svg?height=32&color=%23888888)
+  /// ![handshake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/handshake.png)
   static const IconData handshake = IconData(
     0xe582,
     fontFamily: 'PhosphorRegular',
@@ -9223,7 +9223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hardDrive` no estilo Regular.
   ///
-  /// ![hard-drive](https://api.iconify.design/ph/hard-drive.svg?height=32&color=%23888888)
+  /// ![hard-drive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hard-drive.png)
   static const IconData hardDrive = IconData(
     0xe29e,
     fontFamily: 'PhosphorRegular',
@@ -9235,7 +9235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hardDrives` no estilo Regular.
   ///
-  /// ![hard-drives](https://api.iconify.design/ph/hard-drives.svg?height=32&color=%23888888)
+  /// ![hard-drives](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hard-drives.png)
   static const IconData hardDrives = IconData(
     0xe2a0,
     fontFamily: 'PhosphorRegular',
@@ -9247,7 +9247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hardHat` no estilo Regular.
   ///
-  /// ![hard-hat](https://api.iconify.design/ph/hard-hat.svg?height=32&color=%23888888)
+  /// ![hard-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hard-hat.png)
   static const IconData hardHat = IconData(
     0xed46,
     fontFamily: 'PhosphorRegular',
@@ -9259,7 +9259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hash` no estilo Regular.
   ///
-  /// ![hash](https://api.iconify.design/ph/hash.svg?height=32&color=%23888888)
+  /// ![hash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hash.png)
   static const IconData hash = IconData(
     0xe2a2,
     fontFamily: 'PhosphorRegular',
@@ -9271,7 +9271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hashStraight` no estilo Regular.
   ///
-  /// ![hash-straight](https://api.iconify.design/ph/hash-straight.svg?height=32&color=%23888888)
+  /// ![hash-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hash-straight.png)
   static const IconData hashStraight = IconData(
     0xe2a4,
     fontFamily: 'PhosphorRegular',
@@ -9283,7 +9283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headCircuit` no estilo Regular.
   ///
-  /// ![head-circuit](https://api.iconify.design/ph/head-circuit.svg?height=32&color=%23888888)
+  /// ![head-circuit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/head-circuit.png)
   static const IconData headCircuit = IconData(
     0xe7d4,
     fontFamily: 'PhosphorRegular',
@@ -9295,7 +9295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headlights` no estilo Regular.
   ///
-  /// ![headlights](https://api.iconify.design/ph/headlights.svg?height=32&color=%23888888)
+  /// ![headlights](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/headlights.png)
   static const IconData headlights = IconData(
     0xe6fe,
     fontFamily: 'PhosphorRegular',
@@ -9307,7 +9307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headphones` no estilo Regular.
   ///
-  /// ![headphones](https://api.iconify.design/ph/headphones.svg?height=32&color=%23888888)
+  /// ![headphones](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/headphones.png)
   static const IconData headphones = IconData(
     0xe2a6,
     fontFamily: 'PhosphorRegular',
@@ -9319,7 +9319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `headset` no estilo Regular.
   ///
-  /// ![headset](https://api.iconify.design/ph/headset.svg?height=32&color=%23888888)
+  /// ![headset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/headset.png)
   static const IconData headset = IconData(
     0xe584,
     fontFamily: 'PhosphorRegular',
@@ -9331,7 +9331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heart` no estilo Regular.
   ///
-  /// ![heart](https://api.iconify.design/ph/heart.svg?height=32&color=%23888888)
+  /// ![heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/heart.png)
   static const IconData heart = IconData(
     0xe2a8,
     fontFamily: 'PhosphorRegular',
@@ -9343,7 +9343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartBreak` no estilo Regular.
   ///
-  /// ![heart-break](https://api.iconify.design/ph/heart-break.svg?height=32&color=%23888888)
+  /// ![heart-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/heart-break.png)
   static const IconData heartBreak = IconData(
     0xebe8,
     fontFamily: 'PhosphorRegular',
@@ -9355,7 +9355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartHalf` no estilo Regular.
   ///
-  /// ![heart-half](https://api.iconify.design/ph/heart-half.svg?height=32&color=%23888888)
+  /// ![heart-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/heart-half.png)
   static const IconData heartHalf = IconData(
     0xec48,
     fontFamily: 'PhosphorRegular',
@@ -9367,7 +9367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartStraight` no estilo Regular.
   ///
-  /// ![heart-straight](https://api.iconify.design/ph/heart-straight.svg?height=32&color=%23888888)
+  /// ![heart-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/heart-straight.png)
   static const IconData heartStraight = IconData(
     0xe2aa,
     fontFamily: 'PhosphorRegular',
@@ -9379,7 +9379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartStraightBreak` no estilo Regular.
   ///
-  /// ![heart-straight-break](https://api.iconify.design/ph/heart-straight-break.svg?height=32&color=%23888888)
+  /// ![heart-straight-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/heart-straight-break.png)
   static const IconData heartStraightBreak = IconData(
     0xeb98,
     fontFamily: 'PhosphorRegular',
@@ -9391,7 +9391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `heartbeat` no estilo Regular.
   ///
-  /// ![heartbeat](https://api.iconify.design/ph/heartbeat.svg?height=32&color=%23888888)
+  /// ![heartbeat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/heartbeat.png)
   static const IconData heartbeat = IconData(
     0xe2ac,
     fontFamily: 'PhosphorRegular',
@@ -9403,7 +9403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hexagon` no estilo Regular.
   ///
-  /// ![hexagon](https://api.iconify.design/ph/hexagon.svg?height=32&color=%23888888)
+  /// ![hexagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hexagon.png)
   static const IconData hexagon = IconData(
     0xe2ae,
     fontFamily: 'PhosphorRegular',
@@ -9415,7 +9415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highDefinition` no estilo Regular.
   ///
-  /// ![high-definition](https://api.iconify.design/ph/high-definition.svg?height=32&color=%23888888)
+  /// ![high-definition](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/high-definition.png)
   static const IconData highDefinition = IconData(
     0xea8e,
     fontFamily: 'PhosphorRegular',
@@ -9427,7 +9427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highHeel` no estilo Regular.
   ///
-  /// ![high-heel](https://api.iconify.design/ph/high-heel.svg?height=32&color=%23888888)
+  /// ![high-heel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/high-heel.png)
   static const IconData highHeel = IconData(
     0xe8e8,
     fontFamily: 'PhosphorRegular',
@@ -9439,7 +9439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highlighter` no estilo Regular.
   ///
-  /// ![highlighter](https://api.iconify.design/ph/highlighter.svg?height=32&color=%23888888)
+  /// ![highlighter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/highlighter.png)
   static const IconData highlighter = IconData(
     0xec76,
     fontFamily: 'PhosphorRegular',
@@ -9451,7 +9451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `highlighterCircle` no estilo Regular.
   ///
-  /// ![highlighter-circle](https://api.iconify.design/ph/highlighter-circle.svg?height=32&color=%23888888)
+  /// ![highlighter-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/highlighter-circle.png)
   static const IconData highlighterCircle = IconData(
     0xe632,
     fontFamily: 'PhosphorRegular',
@@ -9463,7 +9463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hockey` no estilo Regular.
   ///
-  /// ![hockey](https://api.iconify.design/ph/hockey.svg?height=32&color=%23888888)
+  /// ![hockey](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hockey.png)
   static const IconData hockey = IconData(
     0xec86,
     fontFamily: 'PhosphorRegular',
@@ -9475,7 +9475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hoodie` no estilo Regular.
   ///
-  /// ![hoodie](https://api.iconify.design/ph/hoodie.svg?height=32&color=%23888888)
+  /// ![hoodie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hoodie.png)
   static const IconData hoodie = IconData(
     0xecd0,
     fontFamily: 'PhosphorRegular',
@@ -9487,7 +9487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `horse` no estilo Regular.
   ///
-  /// ![horse](https://api.iconify.design/ph/horse.svg?height=32&color=%23888888)
+  /// ![horse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/horse.png)
   static const IconData horse = IconData(
     0xe2b0,
     fontFamily: 'PhosphorRegular',
@@ -9499,7 +9499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hospital` no estilo Regular.
   ///
-  /// ![hospital](https://api.iconify.design/ph/hospital.svg?height=32&color=%23888888)
+  /// ![hospital](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hospital.png)
   static const IconData hospital = IconData(
     0xe844,
     fontFamily: 'PhosphorRegular',
@@ -9511,7 +9511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglass` no estilo Regular.
   ///
-  /// ![hourglass](https://api.iconify.design/ph/hourglass.svg?height=32&color=%23888888)
+  /// ![hourglass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass.png)
   static const IconData hourglass = IconData(
     0xe2b2,
     fontFamily: 'PhosphorRegular',
@@ -9523,7 +9523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassHigh` no estilo Regular.
   ///
-  /// ![hourglass-high](https://api.iconify.design/ph/hourglass-high.svg?height=32&color=%23888888)
+  /// ![hourglass-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass-high.png)
   static const IconData hourglassHigh = IconData(
     0xe2b4,
     fontFamily: 'PhosphorRegular',
@@ -9535,7 +9535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassLow` no estilo Regular.
   ///
-  /// ![hourglass-low](https://api.iconify.design/ph/hourglass-low.svg?height=32&color=%23888888)
+  /// ![hourglass-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass-low.png)
   static const IconData hourglassLow = IconData(
     0xe2b6,
     fontFamily: 'PhosphorRegular',
@@ -9547,7 +9547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassMedium` no estilo Regular.
   ///
-  /// ![hourglass-medium](https://api.iconify.design/ph/hourglass-medium.svg?height=32&color=%23888888)
+  /// ![hourglass-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass-medium.png)
   static const IconData hourglassMedium = IconData(
     0xe2b8,
     fontFamily: 'PhosphorRegular',
@@ -9559,7 +9559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimple` no estilo Regular.
   ///
-  /// ![hourglass-simple](https://api.iconify.design/ph/hourglass-simple.svg?height=32&color=%23888888)
+  /// ![hourglass-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass-simple.png)
   static const IconData hourglassSimple = IconData(
     0xe2ba,
     fontFamily: 'PhosphorRegular',
@@ -9571,7 +9571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimpleHigh` no estilo Regular.
   ///
-  /// ![hourglass-simple-high](https://api.iconify.design/ph/hourglass-simple-high.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass-simple-high.png)
   static const IconData hourglassSimpleHigh = IconData(
     0xe2bc,
     fontFamily: 'PhosphorRegular',
@@ -9583,7 +9583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimpleLow` no estilo Regular.
   ///
-  /// ![hourglass-simple-low](https://api.iconify.design/ph/hourglass-simple-low.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass-simple-low.png)
   static const IconData hourglassSimpleLow = IconData(
     0xe2be,
     fontFamily: 'PhosphorRegular',
@@ -9595,7 +9595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hourglassSimpleMedium` no estilo Regular.
   ///
-  /// ![hourglass-simple-medium](https://api.iconify.design/ph/hourglass-simple-medium.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hourglass-simple-medium.png)
   static const IconData hourglassSimpleMedium = IconData(
     0xe2c0,
     fontFamily: 'PhosphorRegular',
@@ -9607,7 +9607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `house` no estilo Regular.
   ///
-  /// ![house](https://api.iconify.design/ph/house.svg?height=32&color=%23888888)
+  /// ![house](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/house.png)
   static const IconData house = IconData(
     0xe2c2,
     fontFamily: 'PhosphorRegular',
@@ -9619,7 +9619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `houseLine` no estilo Regular.
   ///
-  /// ![house-line](https://api.iconify.design/ph/house-line.svg?height=32&color=%23888888)
+  /// ![house-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/house-line.png)
   static const IconData houseLine = IconData(
     0xe2c4,
     fontFamily: 'PhosphorRegular',
@@ -9631,7 +9631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `houseSimple` no estilo Regular.
   ///
-  /// ![house-simple](https://api.iconify.design/ph/house-simple.svg?height=32&color=%23888888)
+  /// ![house-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/house-simple.png)
   static const IconData houseSimple = IconData(
     0xe2c6,
     fontFamily: 'PhosphorRegular',
@@ -9643,7 +9643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `hurricane` no estilo Regular.
   ///
-  /// ![hurricane](https://api.iconify.design/ph/hurricane.svg?height=32&color=%23888888)
+  /// ![hurricane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/hurricane.png)
   static const IconData hurricane = IconData(
     0xe88e,
     fontFamily: 'PhosphorRegular',
@@ -9655,7 +9655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `iceCream` no estilo Regular.
   ///
-  /// ![ice-cream](https://api.iconify.design/ph/ice-cream.svg?height=32&color=%23888888)
+  /// ![ice-cream](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ice-cream.png)
   static const IconData iceCream = IconData(
     0xe804,
     fontFamily: 'PhosphorRegular',
@@ -9667,7 +9667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `identificationBadge` no estilo Regular.
   ///
-  /// ![identification-badge](https://api.iconify.design/ph/identification-badge.svg?height=32&color=%23888888)
+  /// ![identification-badge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/identification-badge.png)
   static const IconData identificationBadge = IconData(
     0xe6f6,
     fontFamily: 'PhosphorRegular',
@@ -9679,7 +9679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `identificationCard` no estilo Regular.
   ///
-  /// ![identification-card](https://api.iconify.design/ph/identification-card.svg?height=32&color=%23888888)
+  /// ![identification-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/identification-card.png)
   static const IconData identificationCard = IconData(
     0xe2c8,
     fontFamily: 'PhosphorRegular',
@@ -9691,7 +9691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `image` no estilo Regular.
   ///
-  /// ![image](https://api.iconify.design/ph/image.svg?height=32&color=%23888888)
+  /// ![image](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/image.png)
   static const IconData image = IconData(
     0xe2ca,
     fontFamily: 'PhosphorRegular',
@@ -9703,7 +9703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `imageBroken` no estilo Regular.
   ///
-  /// ![image-broken](https://api.iconify.design/ph/image-broken.svg?height=32&color=%23888888)
+  /// ![image-broken](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/image-broken.png)
   static const IconData imageBroken = IconData(
     0xe7a8,
     fontFamily: 'PhosphorRegular',
@@ -9715,7 +9715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `imageSquare` no estilo Regular.
   ///
-  /// ![image-square](https://api.iconify.design/ph/image-square.svg?height=32&color=%23888888)
+  /// ![image-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/image-square.png)
   static const IconData imageSquare = IconData(
     0xe2cc,
     fontFamily: 'PhosphorRegular',
@@ -9727,7 +9727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `images` no estilo Regular.
   ///
-  /// ![images](https://api.iconify.design/ph/images.svg?height=32&color=%23888888)
+  /// ![images](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/images.png)
   static const IconData images = IconData(
     0xe836,
     fontFamily: 'PhosphorRegular',
@@ -9739,7 +9739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `imagesSquare` no estilo Regular.
   ///
-  /// ![images-square](https://api.iconify.design/ph/images-square.svg?height=32&color=%23888888)
+  /// ![images-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/images-square.png)
   static const IconData imagesSquare = IconData(
     0xe834,
     fontFamily: 'PhosphorRegular',
@@ -9751,7 +9751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `infinity` no estilo Regular.
   ///
-  /// ![infinity](https://api.iconify.design/ph/infinity.svg?height=32&color=%23888888)
+  /// ![infinity](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/infinity.png)
   static const IconData infinity = IconData(
     0xe634,
     fontFamily: 'PhosphorRegular',
@@ -9763,7 +9763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `info` no estilo Regular.
   ///
-  /// ![info](https://api.iconify.design/ph/info.svg?height=32&color=%23888888)
+  /// ![info](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/info.png)
   static const IconData info = IconData(
     0xe2ce,
     fontFamily: 'PhosphorRegular',
@@ -9775,7 +9775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `instagramLogo` no estilo Regular.
   ///
-  /// ![instagram-logo](https://api.iconify.design/ph/instagram-logo.svg?height=32&color=%23888888)
+  /// ![instagram-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/instagram-logo.png)
   static const IconData instagramLogo = IconData(
     0xe2d0,
     fontFamily: 'PhosphorRegular',
@@ -9787,7 +9787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersect` no estilo Regular.
   ///
-  /// ![intersect](https://api.iconify.design/ph/intersect.svg?height=32&color=%23888888)
+  /// ![intersect](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/intersect.png)
   static const IconData intersect = IconData(
     0xe2d2,
     fontFamily: 'PhosphorRegular',
@@ -9799,7 +9799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersectSquare` no estilo Regular.
   ///
-  /// ![intersect-square](https://api.iconify.design/ph/intersect-square.svg?height=32&color=%23888888)
+  /// ![intersect-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/intersect-square.png)
   static const IconData intersectSquare = IconData(
     0xe87a,
     fontFamily: 'PhosphorRegular',
@@ -9811,7 +9811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersectThree` no estilo Regular.
   ///
-  /// ![intersect-three](https://api.iconify.design/ph/intersect-three.svg?height=32&color=%23888888)
+  /// ![intersect-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/intersect-three.png)
   static const IconData intersectThree = IconData(
     0xecc4,
     fontFamily: 'PhosphorRegular',
@@ -9823,7 +9823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `intersection` no estilo Regular.
   ///
-  /// ![intersection](https://api.iconify.design/ph/intersection.svg?height=32&color=%23888888)
+  /// ![intersection](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/intersection.png)
   static const IconData intersection = IconData(
     0xedba,
     fontFamily: 'PhosphorRegular',
@@ -9835,7 +9835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `invoice` no estilo Regular.
   ///
-  /// ![invoice](https://api.iconify.design/ph/invoice.svg?height=32&color=%23888888)
+  /// ![invoice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/invoice.png)
   static const IconData invoice = IconData(
     0xee42,
     fontFamily: 'PhosphorRegular',
@@ -9847,7 +9847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `island` no estilo Regular.
   ///
-  /// ![island](https://api.iconify.design/ph/island.svg?height=32&color=%23888888)
+  /// ![island](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/island.png)
   static const IconData island = IconData(
     0xee06,
     fontFamily: 'PhosphorRegular',
@@ -9859,7 +9859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `jar` no estilo Regular.
   ///
-  /// ![jar](https://api.iconify.design/ph/jar.svg?height=32&color=%23888888)
+  /// ![jar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/jar.png)
   static const IconData jar = IconData(
     0xe7e0,
     fontFamily: 'PhosphorRegular',
@@ -9871,7 +9871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `jarLabel` no estilo Regular.
   ///
-  /// ![jar-label](https://api.iconify.design/ph/jar-label.svg?height=32&color=%23888888)
+  /// ![jar-label](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/jar-label.png)
   static const IconData jarLabel = IconData(
     0xe7e1,
     fontFamily: 'PhosphorRegular',
@@ -9883,7 +9883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `jeep` no estilo Regular.
   ///
-  /// ![jeep](https://api.iconify.design/ph/jeep.svg?height=32&color=%23888888)
+  /// ![jeep](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/jeep.png)
   static const IconData jeep = IconData(
     0xe2d4,
     fontFamily: 'PhosphorRegular',
@@ -9895,7 +9895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `joystick` no estilo Regular.
   ///
-  /// ![joystick](https://api.iconify.design/ph/joystick.svg?height=32&color=%23888888)
+  /// ![joystick](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/joystick.png)
   static const IconData joystick = IconData(
     0xea5e,
     fontFamily: 'PhosphorRegular',
@@ -9907,7 +9907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `kanban` no estilo Regular.
   ///
-  /// ![kanban](https://api.iconify.design/ph/kanban.svg?height=32&color=%23888888)
+  /// ![kanban](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/kanban.png)
   static const IconData kanban = IconData(
     0xeb54,
     fontFamily: 'PhosphorRegular',
@@ -9919,7 +9919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `key` no estilo Regular.
   ///
-  /// ![key](https://api.iconify.design/ph/key.svg?height=32&color=%23888888)
+  /// ![key](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/key.png)
   static const IconData key = IconData(
     0xe2d6,
     fontFamily: 'PhosphorRegular',
@@ -9931,7 +9931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `keyReturn` no estilo Regular.
   ///
-  /// ![key-return](https://api.iconify.design/ph/key-return.svg?height=32&color=%23888888)
+  /// ![key-return](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/key-return.png)
   static const IconData keyReturn = IconData(
     0xe782,
     fontFamily: 'PhosphorRegular',
@@ -9943,7 +9943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `keyboard` no estilo Regular.
   ///
-  /// ![keyboard](https://api.iconify.design/ph/keyboard.svg?height=32&color=%23888888)
+  /// ![keyboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/keyboard.png)
   static const IconData keyboard = IconData(
     0xe2d8,
     fontFamily: 'PhosphorRegular',
@@ -9955,7 +9955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `keyhole` no estilo Regular.
   ///
-  /// ![keyhole](https://api.iconify.design/ph/keyhole.svg?height=32&color=%23888888)
+  /// ![keyhole](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/keyhole.png)
   static const IconData keyhole = IconData(
     0xea78,
     fontFamily: 'PhosphorRegular',
@@ -9967,7 +9967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `knife` no estilo Regular.
   ///
-  /// ![knife](https://api.iconify.design/ph/knife.svg?height=32&color=%23888888)
+  /// ![knife](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/knife.png)
   static const IconData knife = IconData(
     0xe636,
     fontFamily: 'PhosphorRegular',
@@ -9979,7 +9979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ladder` no estilo Regular.
   ///
-  /// ![ladder](https://api.iconify.design/ph/ladder.svg?height=32&color=%23888888)
+  /// ![ladder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ladder.png)
   static const IconData ladder = IconData(
     0xe9e4,
     fontFamily: 'PhosphorRegular',
@@ -9991,7 +9991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ladderSimple` no estilo Regular.
   ///
-  /// ![ladder-simple](https://api.iconify.design/ph/ladder-simple.svg?height=32&color=%23888888)
+  /// ![ladder-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ladder-simple.png)
   static const IconData ladderSimple = IconData(
     0xec26,
     fontFamily: 'PhosphorRegular',
@@ -10003,7 +10003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lamp` no estilo Regular.
   ///
-  /// ![lamp](https://api.iconify.design/ph/lamp.svg?height=32&color=%23888888)
+  /// ![lamp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lamp.png)
   static const IconData lamp = IconData(
     0xe638,
     fontFamily: 'PhosphorRegular',
@@ -10015,7 +10015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lampPendant` no estilo Regular.
   ///
-  /// ![lamp-pendant](https://api.iconify.design/ph/lamp-pendant.svg?height=32&color=%23888888)
+  /// ![lamp-pendant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lamp-pendant.png)
   static const IconData lampPendant = IconData(
     0xee2e,
     fontFamily: 'PhosphorRegular',
@@ -10027,7 +10027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `laptop` no estilo Regular.
   ///
-  /// ![laptop](https://api.iconify.design/ph/laptop.svg?height=32&color=%23888888)
+  /// ![laptop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/laptop.png)
   static const IconData laptop = IconData(
     0xe586,
     fontFamily: 'PhosphorRegular',
@@ -10039,7 +10039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lasso` no estilo Regular.
   ///
-  /// ![lasso](https://api.iconify.design/ph/lasso.svg?height=32&color=%23888888)
+  /// ![lasso](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lasso.png)
   static const IconData lasso = IconData(
     0xedc6,
     fontFamily: 'PhosphorRegular',
@@ -10051,7 +10051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lastfmLogo` no estilo Regular.
   ///
-  /// ![lastfm-logo](https://api.iconify.design/ph/lastfm-logo.svg?height=32&color=%23888888)
+  /// ![lastfm-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lastfm-logo.png)
   static const IconData lastfmLogo = IconData(
     0xe842,
     fontFamily: 'PhosphorRegular',
@@ -10063,7 +10063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `layout` no estilo Regular.
   ///
-  /// ![layout](https://api.iconify.design/ph/layout.svg?height=32&color=%23888888)
+  /// ![layout](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/layout.png)
   static const IconData layout = IconData(
     0xe6d6,
     fontFamily: 'PhosphorRegular',
@@ -10075,7 +10075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `leaf` no estilo Regular.
   ///
-  /// ![leaf](https://api.iconify.design/ph/leaf.svg?height=32&color=%23888888)
+  /// ![leaf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/leaf.png)
   static const IconData leaf = IconData(
     0xe2da,
     fontFamily: 'PhosphorRegular',
@@ -10087,7 +10087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lectern` no estilo Regular.
   ///
-  /// ![lectern](https://api.iconify.design/ph/lectern.svg?height=32&color=%23888888)
+  /// ![lectern](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lectern.png)
   static const IconData lectern = IconData(
     0xe95a,
     fontFamily: 'PhosphorRegular',
@@ -10099,7 +10099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lego` no estilo Regular.
   ///
-  /// ![lego](https://api.iconify.design/ph/lego.svg?height=32&color=%23888888)
+  /// ![lego](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lego.png)
   static const IconData lego = IconData(
     0xe8c6,
     fontFamily: 'PhosphorRegular',
@@ -10111,7 +10111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `legoSmiley` no estilo Regular.
   ///
-  /// ![lego-smiley](https://api.iconify.design/ph/lego-smiley.svg?height=32&color=%23888888)
+  /// ![lego-smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lego-smiley.png)
   static const IconData legoSmiley = IconData(
     0xe8c7,
     fontFamily: 'PhosphorRegular',
@@ -10123,7 +10123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lemniscate` no estilo Regular.
   ///
-  /// ![lemniscate](https://api.iconify.design/ph/infinity.svg?height=32&color=%23888888)
+  /// ![lemniscate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lemniscate.png)
   static const IconData lemniscate = IconData(
     0xe634,
     fontFamily: 'PhosphorRegular',
@@ -10135,7 +10135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lessThan` no estilo Regular.
   ///
-  /// ![less-than](https://api.iconify.design/ph/less-than.svg?height=32&color=%23888888)
+  /// ![less-than](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/less-than.png)
   static const IconData lessThan = IconData(
     0xedac,
     fontFamily: 'PhosphorRegular',
@@ -10147,7 +10147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lessThanOrEqual` no estilo Regular.
   ///
-  /// ![less-than-or-equal](https://api.iconify.design/ph/less-than-or-equal.svg?height=32&color=%23888888)
+  /// ![less-than-or-equal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/less-than-or-equal.png)
   static const IconData lessThanOrEqual = IconData(
     0xeda4,
     fontFamily: 'PhosphorRegular',
@@ -10159,7 +10159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `letterCircleH` no estilo Regular.
   ///
-  /// ![letter-circle-h](https://api.iconify.design/ph/letter-circle-h.svg?height=32&color=%23888888)
+  /// ![letter-circle-h](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/letter-circle-h.png)
   static const IconData letterCircleH = IconData(
     0xebf8,
     fontFamily: 'PhosphorRegular',
@@ -10171,7 +10171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `letterCircleP` no estilo Regular.
   ///
-  /// ![letter-circle-p](https://api.iconify.design/ph/letter-circle-p.svg?height=32&color=%23888888)
+  /// ![letter-circle-p](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/letter-circle-p.png)
   static const IconData letterCircleP = IconData(
     0xec08,
     fontFamily: 'PhosphorRegular',
@@ -10183,7 +10183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `letterCircleV` no estilo Regular.
   ///
-  /// ![letter-circle-v](https://api.iconify.design/ph/letter-circle-v.svg?height=32&color=%23888888)
+  /// ![letter-circle-v](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/letter-circle-v.png)
   static const IconData letterCircleV = IconData(
     0xec14,
     fontFamily: 'PhosphorRegular',
@@ -10195,7 +10195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lifebuoy` no estilo Regular.
   ///
-  /// ![lifebuoy](https://api.iconify.design/ph/lifebuoy.svg?height=32&color=%23888888)
+  /// ![lifebuoy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lifebuoy.png)
   static const IconData lifebuoy = IconData(
     0xe63a,
     fontFamily: 'PhosphorRegular',
@@ -10207,7 +10207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightbulb` no estilo Regular.
   ///
-  /// ![lightbulb](https://api.iconify.design/ph/lightbulb.svg?height=32&color=%23888888)
+  /// ![lightbulb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lightbulb.png)
   static const IconData lightbulb = IconData(
     0xe2dc,
     fontFamily: 'PhosphorRegular',
@@ -10219,7 +10219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightbulbFilament` no estilo Regular.
   ///
-  /// ![lightbulb-filament](https://api.iconify.design/ph/lightbulb-filament.svg?height=32&color=%23888888)
+  /// ![lightbulb-filament](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lightbulb-filament.png)
   static const IconData lightbulbFilament = IconData(
     0xe63c,
     fontFamily: 'PhosphorRegular',
@@ -10231,7 +10231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lighthouse` no estilo Regular.
   ///
-  /// ![lighthouse](https://api.iconify.design/ph/lighthouse.svg?height=32&color=%23888888)
+  /// ![lighthouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lighthouse.png)
   static const IconData lighthouse = IconData(
     0xe9f6,
     fontFamily: 'PhosphorRegular',
@@ -10243,7 +10243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightning` no estilo Regular.
   ///
-  /// ![lightning](https://api.iconify.design/ph/lightning.svg?height=32&color=%23888888)
+  /// ![lightning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lightning.png)
   static const IconData lightning = IconData(
     0xe2de,
     fontFamily: 'PhosphorRegular',
@@ -10255,7 +10255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightningA` no estilo Regular.
   ///
-  /// ![lightning-a](https://api.iconify.design/ph/lightning-a.svg?height=32&color=%23888888)
+  /// ![lightning-a](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lightning-a.png)
   static const IconData lightningA = IconData(
     0xea84,
     fontFamily: 'PhosphorRegular',
@@ -10267,7 +10267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lightningSlash` no estilo Regular.
   ///
-  /// ![lightning-slash](https://api.iconify.design/ph/lightning-slash.svg?height=32&color=%23888888)
+  /// ![lightning-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lightning-slash.png)
   static const IconData lightningSlash = IconData(
     0xe2e0,
     fontFamily: 'PhosphorRegular',
@@ -10279,7 +10279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lineSegment` no estilo Regular.
   ///
-  /// ![line-segment](https://api.iconify.design/ph/line-segment.svg?height=32&color=%23888888)
+  /// ![line-segment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/line-segment.png)
   static const IconData lineSegment = IconData(
     0xe6d2,
     fontFamily: 'PhosphorRegular',
@@ -10291,7 +10291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lineSegments` no estilo Regular.
   ///
-  /// ![line-segments](https://api.iconify.design/ph/line-segments.svg?height=32&color=%23888888)
+  /// ![line-segments](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/line-segments.png)
   static const IconData lineSegments = IconData(
     0xe6d4,
     fontFamily: 'PhosphorRegular',
@@ -10303,7 +10303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lineVertical` no estilo Regular.
   ///
-  /// ![line-vertical](https://api.iconify.design/ph/line-vertical.svg?height=32&color=%23888888)
+  /// ![line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/line-vertical.png)
   static const IconData lineVertical = IconData(
     0xed70,
     fontFamily: 'PhosphorRegular',
@@ -10315,7 +10315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `link` no estilo Regular.
   ///
-  /// ![link](https://api.iconify.design/ph/link.svg?height=32&color=%23888888)
+  /// ![link](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/link.png)
   static const IconData link = IconData(
     0xe2e2,
     fontFamily: 'PhosphorRegular',
@@ -10327,7 +10327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkBreak` no estilo Regular.
   ///
-  /// ![link-break](https://api.iconify.design/ph/link-break.svg?height=32&color=%23888888)
+  /// ![link-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/link-break.png)
   static const IconData linkBreak = IconData(
     0xe2e4,
     fontFamily: 'PhosphorRegular',
@@ -10339,7 +10339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimple` no estilo Regular.
   ///
-  /// ![link-simple](https://api.iconify.design/ph/link-simple.svg?height=32&color=%23888888)
+  /// ![link-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/link-simple.png)
   static const IconData linkSimple = IconData(
     0xe2e6,
     fontFamily: 'PhosphorRegular',
@@ -10351,7 +10351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimpleBreak` no estilo Regular.
   ///
-  /// ![link-simple-break](https://api.iconify.design/ph/link-simple-break.svg?height=32&color=%23888888)
+  /// ![link-simple-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/link-simple-break.png)
   static const IconData linkSimpleBreak = IconData(
     0xe2e8,
     fontFamily: 'PhosphorRegular',
@@ -10363,7 +10363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimpleHorizontal` no estilo Regular.
   ///
-  /// ![link-simple-horizontal](https://api.iconify.design/ph/link-simple-horizontal.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/link-simple-horizontal.png)
   static const IconData linkSimpleHorizontal = IconData(
     0xe2ea,
     fontFamily: 'PhosphorRegular',
@@ -10375,7 +10375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Regular.
   ///
-  /// ![link-simple-horizontal-break](https://api.iconify.design/ph/link-simple-horizontal-break.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/link-simple-horizontal-break.png)
   static const IconData linkSimpleHorizontalBreak = IconData(
     0xe2ec,
     fontFamily: 'PhosphorRegular',
@@ -10387,7 +10387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linkedinLogo` no estilo Regular.
   ///
-  /// ![linkedin-logo](https://api.iconify.design/ph/linkedin-logo.svg?height=32&color=%23888888)
+  /// ![linkedin-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/linkedin-logo.png)
   static const IconData linkedinLogo = IconData(
     0xe2ee,
     fontFamily: 'PhosphorRegular',
@@ -10399,7 +10399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linktreeLogo` no estilo Regular.
   ///
-  /// ![linktree-logo](https://api.iconify.design/ph/linktree-logo.svg?height=32&color=%23888888)
+  /// ![linktree-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/linktree-logo.png)
   static const IconData linktreeLogo = IconData(
     0xedee,
     fontFamily: 'PhosphorRegular',
@@ -10411,7 +10411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `linuxLogo` no estilo Regular.
   ///
-  /// ![linux-logo](https://api.iconify.design/ph/linux-logo.svg?height=32&color=%23888888)
+  /// ![linux-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/linux-logo.png)
   static const IconData linuxLogo = IconData(
     0xeb02,
     fontFamily: 'PhosphorRegular',
@@ -10423,7 +10423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `list` no estilo Regular.
   ///
-  /// ![list](https://api.iconify.design/ph/list.svg?height=32&color=%23888888)
+  /// ![list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list.png)
   static const IconData list = IconData(
     0xe2f0,
     fontFamily: 'PhosphorRegular',
@@ -10435,7 +10435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listBullets` no estilo Regular.
   ///
-  /// ![list-bullets](https://api.iconify.design/ph/list-bullets.svg?height=32&color=%23888888)
+  /// ![list-bullets](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-bullets.png)
   static const IconData listBullets = IconData(
     0xe2f2,
     fontFamily: 'PhosphorRegular',
@@ -10447,7 +10447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listChecks` no estilo Regular.
   ///
-  /// ![list-checks](https://api.iconify.design/ph/list-checks.svg?height=32&color=%23888888)
+  /// ![list-checks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-checks.png)
   static const IconData listChecks = IconData(
     0xeadc,
     fontFamily: 'PhosphorRegular',
@@ -10459,7 +10459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listDashes` no estilo Regular.
   ///
-  /// ![list-dashes](https://api.iconify.design/ph/list-dashes.svg?height=32&color=%23888888)
+  /// ![list-dashes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-dashes.png)
   static const IconData listDashes = IconData(
     0xe2f4,
     fontFamily: 'PhosphorRegular',
@@ -10471,7 +10471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listHeart` no estilo Regular.
   ///
-  /// ![list-heart](https://api.iconify.design/ph/list-heart.svg?height=32&color=%23888888)
+  /// ![list-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-heart.png)
   static const IconData listHeart = IconData(
     0xebde,
     fontFamily: 'PhosphorRegular',
@@ -10483,7 +10483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listMagnifyingGlass` no estilo Regular.
   ///
-  /// ![list-magnifying-glass](https://api.iconify.design/ph/list-magnifying-glass.svg?height=32&color=%23888888)
+  /// ![list-magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-magnifying-glass.png)
   static const IconData listMagnifyingGlass = IconData(
     0xebe0,
     fontFamily: 'PhosphorRegular',
@@ -10495,7 +10495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listNumbers` no estilo Regular.
   ///
-  /// ![list-numbers](https://api.iconify.design/ph/list-numbers.svg?height=32&color=%23888888)
+  /// ![list-numbers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-numbers.png)
   static const IconData listNumbers = IconData(
     0xe2f6,
     fontFamily: 'PhosphorRegular',
@@ -10507,7 +10507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listPlus` no estilo Regular.
   ///
-  /// ![list-plus](https://api.iconify.design/ph/list-plus.svg?height=32&color=%23888888)
+  /// ![list-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-plus.png)
   static const IconData listPlus = IconData(
     0xe2f8,
     fontFamily: 'PhosphorRegular',
@@ -10519,7 +10519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `listStar` no estilo Regular.
   ///
-  /// ![list-star](https://api.iconify.design/ph/list-star.svg?height=32&color=%23888888)
+  /// ![list-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/list-star.png)
   static const IconData listStar = IconData(
     0xebdc,
     fontFamily: 'PhosphorRegular',
@@ -10531,7 +10531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lock` no estilo Regular.
   ///
-  /// ![lock](https://api.iconify.design/ph/lock.svg?height=32&color=%23888888)
+  /// ![lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock.png)
   static const IconData lock = IconData(
     0xe2fa,
     fontFamily: 'PhosphorRegular',
@@ -10543,7 +10543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockKey` no estilo Regular.
   ///
-  /// ![lock-key](https://api.iconify.design/ph/lock-key.svg?height=32&color=%23888888)
+  /// ![lock-key](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock-key.png)
   static const IconData lockKey = IconData(
     0xe2fe,
     fontFamily: 'PhosphorRegular',
@@ -10555,7 +10555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockKeyOpen` no estilo Regular.
   ///
-  /// ![lock-key-open](https://api.iconify.design/ph/lock-key-open.svg?height=32&color=%23888888)
+  /// ![lock-key-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock-key-open.png)
   static const IconData lockKeyOpen = IconData(
     0xe300,
     fontFamily: 'PhosphorRegular',
@@ -10567,7 +10567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockLaminated` no estilo Regular.
   ///
-  /// ![lock-laminated](https://api.iconify.design/ph/lock-laminated.svg?height=32&color=%23888888)
+  /// ![lock-laminated](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock-laminated.png)
   static const IconData lockLaminated = IconData(
     0xe302,
     fontFamily: 'PhosphorRegular',
@@ -10579,7 +10579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockLaminatedOpen` no estilo Regular.
   ///
-  /// ![lock-laminated-open](https://api.iconify.design/ph/lock-laminated-open.svg?height=32&color=%23888888)
+  /// ![lock-laminated-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock-laminated-open.png)
   static const IconData lockLaminatedOpen = IconData(
     0xe304,
     fontFamily: 'PhosphorRegular',
@@ -10591,7 +10591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockOpen` no estilo Regular.
   ///
-  /// ![lock-open](https://api.iconify.design/ph/lock-open.svg?height=32&color=%23888888)
+  /// ![lock-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock-open.png)
   static const IconData lockOpen = IconData(
     0xe306,
     fontFamily: 'PhosphorRegular',
@@ -10603,7 +10603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockSimple` no estilo Regular.
   ///
-  /// ![lock-simple](https://api.iconify.design/ph/lock-simple.svg?height=32&color=%23888888)
+  /// ![lock-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock-simple.png)
   static const IconData lockSimple = IconData(
     0xe308,
     fontFamily: 'PhosphorRegular',
@@ -10615,7 +10615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockSimpleOpen` no estilo Regular.
   ///
-  /// ![lock-simple-open](https://api.iconify.design/ph/lock-simple-open.svg?height=32&color=%23888888)
+  /// ![lock-simple-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lock-simple-open.png)
   static const IconData lockSimpleOpen = IconData(
     0xe30a,
     fontFamily: 'PhosphorRegular',
@@ -10627,7 +10627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `lockers` no estilo Regular.
   ///
-  /// ![lockers](https://api.iconify.design/ph/lockers.svg?height=32&color=%23888888)
+  /// ![lockers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/lockers.png)
   static const IconData lockers = IconData(
     0xecb8,
     fontFamily: 'PhosphorRegular',
@@ -10639,7 +10639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `log` no estilo Regular.
   ///
-  /// ![log](https://api.iconify.design/ph/log.svg?height=32&color=%23888888)
+  /// ![log](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/log.png)
   static const IconData log = IconData(
     0xed82,
     fontFamily: 'PhosphorRegular',
@@ -10651,7 +10651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magicWand` no estilo Regular.
   ///
-  /// ![magic-wand](https://api.iconify.design/ph/magic-wand.svg?height=32&color=%23888888)
+  /// ![magic-wand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/magic-wand.png)
   static const IconData magicWand = IconData(
     0xe6b6,
     fontFamily: 'PhosphorRegular',
@@ -10663,7 +10663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnet` no estilo Regular.
   ///
-  /// ![magnet](https://api.iconify.design/ph/magnet.svg?height=32&color=%23888888)
+  /// ![magnet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/magnet.png)
   static const IconData magnet = IconData(
     0xe680,
     fontFamily: 'PhosphorRegular',
@@ -10675,7 +10675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnetStraight` no estilo Regular.
   ///
-  /// ![magnet-straight](https://api.iconify.design/ph/magnet-straight.svg?height=32&color=%23888888)
+  /// ![magnet-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/magnet-straight.png)
   static const IconData magnetStraight = IconData(
     0xe682,
     fontFamily: 'PhosphorRegular',
@@ -10687,7 +10687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnifyingGlass` no estilo Regular.
   ///
-  /// ![magnifying-glass](https://api.iconify.design/ph/magnifying-glass.svg?height=32&color=%23888888)
+  /// ![magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/magnifying-glass.png)
   static const IconData magnifyingGlass = IconData(
     0xe30c,
     fontFamily: 'PhosphorRegular',
@@ -10699,7 +10699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnifyingGlassMinus` no estilo Regular.
   ///
-  /// ![magnifying-glass-minus](https://api.iconify.design/ph/magnifying-glass-minus.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/magnifying-glass-minus.png)
   static const IconData magnifyingGlassMinus = IconData(
     0xe30e,
     fontFamily: 'PhosphorRegular',
@@ -10711,7 +10711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `magnifyingGlassPlus` no estilo Regular.
   ///
-  /// ![magnifying-glass-plus](https://api.iconify.design/ph/magnifying-glass-plus.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/magnifying-glass-plus.png)
   static const IconData magnifyingGlassPlus = IconData(
     0xe310,
     fontFamily: 'PhosphorRegular',
@@ -10723,7 +10723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mailbox` no estilo Regular.
   ///
-  /// ![mailbox](https://api.iconify.design/ph/mailbox.svg?height=32&color=%23888888)
+  /// ![mailbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mailbox.png)
   static const IconData mailbox = IconData(
     0xec1e,
     fontFamily: 'PhosphorRegular',
@@ -10735,7 +10735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPin` no estilo Regular.
   ///
-  /// ![map-pin](https://api.iconify.design/ph/map-pin.svg?height=32&color=%23888888)
+  /// ![map-pin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-pin.png)
   static const IconData mapPin = IconData(
     0xe316,
     fontFamily: 'PhosphorRegular',
@@ -10747,7 +10747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinArea` no estilo Regular.
   ///
-  /// ![map-pin-area](https://api.iconify.design/ph/map-pin-area.svg?height=32&color=%23888888)
+  /// ![map-pin-area](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-pin-area.png)
   static const IconData mapPinArea = IconData(
     0xee3a,
     fontFamily: 'PhosphorRegular',
@@ -10759,7 +10759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinLine` no estilo Regular.
   ///
-  /// ![map-pin-line](https://api.iconify.design/ph/map-pin-line.svg?height=32&color=%23888888)
+  /// ![map-pin-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-pin-line.png)
   static const IconData mapPinLine = IconData(
     0xe318,
     fontFamily: 'PhosphorRegular',
@@ -10771,7 +10771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinPlus` no estilo Regular.
   ///
-  /// ![map-pin-plus](https://api.iconify.design/ph/map-pin-plus.svg?height=32&color=%23888888)
+  /// ![map-pin-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-pin-plus.png)
   static const IconData mapPinPlus = IconData(
     0xe314,
     fontFamily: 'PhosphorRegular',
@@ -10783,7 +10783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinSimple` no estilo Regular.
   ///
-  /// ![map-pin-simple](https://api.iconify.design/ph/map-pin-simple.svg?height=32&color=%23888888)
+  /// ![map-pin-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-pin-simple.png)
   static const IconData mapPinSimple = IconData(
     0xee3e,
     fontFamily: 'PhosphorRegular',
@@ -10795,7 +10795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinSimpleArea` no estilo Regular.
   ///
-  /// ![map-pin-simple-area](https://api.iconify.design/ph/map-pin-simple-area.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-area](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-pin-simple-area.png)
   static const IconData mapPinSimpleArea = IconData(
     0xee3c,
     fontFamily: 'PhosphorRegular',
@@ -10807,7 +10807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapPinSimpleLine` no estilo Regular.
   ///
-  /// ![map-pin-simple-line](https://api.iconify.design/ph/map-pin-simple-line.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-pin-simple-line.png)
   static const IconData mapPinSimpleLine = IconData(
     0xee38,
     fontFamily: 'PhosphorRegular',
@@ -10819,7 +10819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mapTrifold` no estilo Regular.
   ///
-  /// ![map-trifold](https://api.iconify.design/ph/map-trifold.svg?height=32&color=%23888888)
+  /// ![map-trifold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/map-trifold.png)
   static const IconData mapTrifold = IconData(
     0xe31a,
     fontFamily: 'PhosphorRegular',
@@ -10831,7 +10831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `markdownLogo` no estilo Regular.
   ///
-  /// ![markdown-logo](https://api.iconify.design/ph/markdown-logo.svg?height=32&color=%23888888)
+  /// ![markdown-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/markdown-logo.png)
   static const IconData markdownLogo = IconData(
     0xe508,
     fontFamily: 'PhosphorRegular',
@@ -10843,7 +10843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `markerCircle` no estilo Regular.
   ///
-  /// ![marker-circle](https://api.iconify.design/ph/marker-circle.svg?height=32&color=%23888888)
+  /// ![marker-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/marker-circle.png)
   static const IconData markerCircle = IconData(
     0xe640,
     fontFamily: 'PhosphorRegular',
@@ -10855,7 +10855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `martini` no estilo Regular.
   ///
-  /// ![martini](https://api.iconify.design/ph/martini.svg?height=32&color=%23888888)
+  /// ![martini](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/martini.png)
   static const IconData martini = IconData(
     0xe31c,
     fontFamily: 'PhosphorRegular',
@@ -10867,7 +10867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `maskHappy` no estilo Regular.
   ///
-  /// ![mask-happy](https://api.iconify.design/ph/mask-happy.svg?height=32&color=%23888888)
+  /// ![mask-happy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mask-happy.png)
   static const IconData maskHappy = IconData(
     0xe9f4,
     fontFamily: 'PhosphorRegular',
@@ -10879,7 +10879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `maskSad` no estilo Regular.
   ///
-  /// ![mask-sad](https://api.iconify.design/ph/mask-sad.svg?height=32&color=%23888888)
+  /// ![mask-sad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mask-sad.png)
   static const IconData maskSad = IconData(
     0xeb9e,
     fontFamily: 'PhosphorRegular',
@@ -10891,7 +10891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mastodonLogo` no estilo Regular.
   ///
-  /// ![mastodon-logo](https://api.iconify.design/ph/mastodon-logo.svg?height=32&color=%23888888)
+  /// ![mastodon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mastodon-logo.png)
   static const IconData mastodonLogo = IconData(
     0xed68,
     fontFamily: 'PhosphorRegular',
@@ -10903,7 +10903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mathOperations` no estilo Regular.
   ///
-  /// ![math-operations](https://api.iconify.design/ph/math-operations.svg?height=32&color=%23888888)
+  /// ![math-operations](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/math-operations.png)
   static const IconData mathOperations = IconData(
     0xe31e,
     fontFamily: 'PhosphorRegular',
@@ -10915,7 +10915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `matrixLogo` no estilo Regular.
   ///
-  /// ![matrix-logo](https://api.iconify.design/ph/matrix-logo.svg?height=32&color=%23888888)
+  /// ![matrix-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/matrix-logo.png)
   static const IconData matrixLogo = IconData(
     0xed64,
     fontFamily: 'PhosphorRegular',
@@ -10927,7 +10927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `medal` no estilo Regular.
   ///
-  /// ![medal](https://api.iconify.design/ph/medal.svg?height=32&color=%23888888)
+  /// ![medal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/medal.png)
   static const IconData medal = IconData(
     0xe320,
     fontFamily: 'PhosphorRegular',
@@ -10939,7 +10939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `medalMilitary` no estilo Regular.
   ///
-  /// ![medal-military](https://api.iconify.design/ph/medal-military.svg?height=32&color=%23888888)
+  /// ![medal-military](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/medal-military.png)
   static const IconData medalMilitary = IconData(
     0xecfc,
     fontFamily: 'PhosphorRegular',
@@ -10951,7 +10951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mediumLogo` no estilo Regular.
   ///
-  /// ![medium-logo](https://api.iconify.design/ph/medium-logo.svg?height=32&color=%23888888)
+  /// ![medium-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/medium-logo.png)
   static const IconData mediumLogo = IconData(
     0xe322,
     fontFamily: 'PhosphorRegular',
@@ -10963,7 +10963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `megaphone` no estilo Regular.
   ///
-  /// ![megaphone](https://api.iconify.design/ph/megaphone.svg?height=32&color=%23888888)
+  /// ![megaphone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/megaphone.png)
   static const IconData megaphone = IconData(
     0xe324,
     fontFamily: 'PhosphorRegular',
@@ -10975,7 +10975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `megaphoneSimple` no estilo Regular.
   ///
-  /// ![megaphone-simple](https://api.iconify.design/ph/megaphone-simple.svg?height=32&color=%23888888)
+  /// ![megaphone-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/megaphone-simple.png)
   static const IconData megaphoneSimple = IconData(
     0xe642,
     fontFamily: 'PhosphorRegular',
@@ -10987,7 +10987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `memberOf` no estilo Regular.
   ///
-  /// ![member-of](https://api.iconify.design/ph/member-of.svg?height=32&color=%23888888)
+  /// ![member-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/member-of.png)
   static const IconData memberOf = IconData(
     0xedc2,
     fontFamily: 'PhosphorRegular',
@@ -10999,7 +10999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `memory` no estilo Regular.
   ///
-  /// ![memory](https://api.iconify.design/ph/memory.svg?height=32&color=%23888888)
+  /// ![memory](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/memory.png)
   static const IconData memory = IconData(
     0xe9c4,
     fontFamily: 'PhosphorRegular',
@@ -11011,7 +11011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `messengerLogo` no estilo Regular.
   ///
-  /// ![messenger-logo](https://api.iconify.design/ph/messenger-logo.svg?height=32&color=%23888888)
+  /// ![messenger-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/messenger-logo.png)
   static const IconData messengerLogo = IconData(
     0xe6d8,
     fontFamily: 'PhosphorRegular',
@@ -11023,7 +11023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `metaLogo` no estilo Regular.
   ///
-  /// ![meta-logo](https://api.iconify.design/ph/meta-logo.svg?height=32&color=%23888888)
+  /// ![meta-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/meta-logo.png)
   static const IconData metaLogo = IconData(
     0xed02,
     fontFamily: 'PhosphorRegular',
@@ -11035,7 +11035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `meteor` no estilo Regular.
   ///
-  /// ![meteor](https://api.iconify.design/ph/meteor.svg?height=32&color=%23888888)
+  /// ![meteor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/meteor.png)
   static const IconData meteor = IconData(
     0xe9ba,
     fontFamily: 'PhosphorRegular',
@@ -11047,7 +11047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `metronome` no estilo Regular.
   ///
-  /// ![metronome](https://api.iconify.design/ph/metronome.svg?height=32&color=%23888888)
+  /// ![metronome](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/metronome.png)
   static const IconData metronome = IconData(
     0xec8e,
     fontFamily: 'PhosphorRegular',
@@ -11059,7 +11059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microphone` no estilo Regular.
   ///
-  /// ![microphone](https://api.iconify.design/ph/microphone.svg?height=32&color=%23888888)
+  /// ![microphone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microphone.png)
   static const IconData microphone = IconData(
     0xe326,
     fontFamily: 'PhosphorRegular',
@@ -11071,7 +11071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microphoneSlash` no estilo Regular.
   ///
-  /// ![microphone-slash](https://api.iconify.design/ph/microphone-slash.svg?height=32&color=%23888888)
+  /// ![microphone-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microphone-slash.png)
   static const IconData microphoneSlash = IconData(
     0xe328,
     fontFamily: 'PhosphorRegular',
@@ -11083,7 +11083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microphoneStage` no estilo Regular.
   ///
-  /// ![microphone-stage](https://api.iconify.design/ph/microphone-stage.svg?height=32&color=%23888888)
+  /// ![microphone-stage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microphone-stage.png)
   static const IconData microphoneStage = IconData(
     0xe75c,
     fontFamily: 'PhosphorRegular',
@@ -11095,7 +11095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microscope` no estilo Regular.
   ///
-  /// ![microscope](https://api.iconify.design/ph/microscope.svg?height=32&color=%23888888)
+  /// ![microscope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microscope.png)
   static const IconData microscope = IconData(
     0xec7a,
     fontFamily: 'PhosphorRegular',
@@ -11107,7 +11107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftExcelLogo` no estilo Regular.
   ///
-  /// ![microsoft-excel-logo](https://api.iconify.design/ph/microsoft-excel-logo.svg?height=32&color=%23888888)
+  /// ![microsoft-excel-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microsoft-excel-logo.png)
   static const IconData microsoftExcelLogo = IconData(
     0xeb6c,
     fontFamily: 'PhosphorRegular',
@@ -11119,7 +11119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftOutlookLogo` no estilo Regular.
   ///
-  /// ![microsoft-outlook-logo](https://api.iconify.design/ph/microsoft-outlook-logo.svg?height=32&color=%23888888)
+  /// ![microsoft-outlook-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microsoft-outlook-logo.png)
   static const IconData microsoftOutlookLogo = IconData(
     0xeb70,
     fontFamily: 'PhosphorRegular',
@@ -11131,7 +11131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftPowerpointLogo` no estilo Regular.
   ///
-  /// ![microsoft-powerpoint-logo](https://api.iconify.design/ph/microsoft-powerpoint-logo.svg?height=32&color=%23888888)
+  /// ![microsoft-powerpoint-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microsoft-powerpoint-logo.png)
   static const IconData microsoftPowerpointLogo = IconData(
     0xeace,
     fontFamily: 'PhosphorRegular',
@@ -11143,7 +11143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftTeamsLogo` no estilo Regular.
   ///
-  /// ![microsoft-teams-logo](https://api.iconify.design/ph/microsoft-teams-logo.svg?height=32&color=%23888888)
+  /// ![microsoft-teams-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microsoft-teams-logo.png)
   static const IconData microsoftTeamsLogo = IconData(
     0xeb66,
     fontFamily: 'PhosphorRegular',
@@ -11155,7 +11155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `microsoftWordLogo` no estilo Regular.
   ///
-  /// ![microsoft-word-logo](https://api.iconify.design/ph/microsoft-word-logo.svg?height=32&color=%23888888)
+  /// ![microsoft-word-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/microsoft-word-logo.png)
   static const IconData microsoftWordLogo = IconData(
     0xeb6a,
     fontFamily: 'PhosphorRegular',
@@ -11167,7 +11167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `minus` no estilo Regular.
   ///
-  /// ![minus](https://api.iconify.design/ph/minus.svg?height=32&color=%23888888)
+  /// ![minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/minus.png)
   static const IconData minus = IconData(
     0xe32a,
     fontFamily: 'PhosphorRegular',
@@ -11179,7 +11179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `minusCircle` no estilo Regular.
   ///
-  /// ![minus-circle](https://api.iconify.design/ph/minus-circle.svg?height=32&color=%23888888)
+  /// ![minus-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/minus-circle.png)
   static const IconData minusCircle = IconData(
     0xe32c,
     fontFamily: 'PhosphorRegular',
@@ -11191,7 +11191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `minusSquare` no estilo Regular.
   ///
-  /// ![minus-square](https://api.iconify.design/ph/minus-square.svg?height=32&color=%23888888)
+  /// ![minus-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/minus-square.png)
   static const IconData minusSquare = IconData(
     0xed4c,
     fontFamily: 'PhosphorRegular',
@@ -11203,7 +11203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `money` no estilo Regular.
   ///
-  /// ![money](https://api.iconify.design/ph/money.svg?height=32&color=%23888888)
+  /// ![money](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/money.png)
   static const IconData money = IconData(
     0xe588,
     fontFamily: 'PhosphorRegular',
@@ -11215,7 +11215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moneyWavy` no estilo Regular.
   ///
-  /// ![money-wavy](https://api.iconify.design/ph/money-wavy.svg?height=32&color=%23888888)
+  /// ![money-wavy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/money-wavy.png)
   static const IconData moneyWavy = IconData(
     0xee68,
     fontFamily: 'PhosphorRegular',
@@ -11227,7 +11227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `monitor` no estilo Regular.
   ///
-  /// ![monitor](https://api.iconify.design/ph/monitor.svg?height=32&color=%23888888)
+  /// ![monitor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/monitor.png)
   static const IconData monitor = IconData(
     0xe32e,
     fontFamily: 'PhosphorRegular',
@@ -11239,7 +11239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `monitorArrowUp` no estilo Regular.
   ///
-  /// ![monitor-arrow-up](https://api.iconify.design/ph/monitor-arrow-up.svg?height=32&color=%23888888)
+  /// ![monitor-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/monitor-arrow-up.png)
   static const IconData monitorArrowUp = IconData(
     0xe58a,
     fontFamily: 'PhosphorRegular',
@@ -11251,7 +11251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `monitorPlay` no estilo Regular.
   ///
-  /// ![monitor-play](https://api.iconify.design/ph/monitor-play.svg?height=32&color=%23888888)
+  /// ![monitor-play](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/monitor-play.png)
   static const IconData monitorPlay = IconData(
     0xe58c,
     fontFamily: 'PhosphorRegular',
@@ -11263,7 +11263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moon` no estilo Regular.
   ///
-  /// ![moon](https://api.iconify.design/ph/moon.svg?height=32&color=%23888888)
+  /// ![moon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/moon.png)
   static const IconData moon = IconData(
     0xe330,
     fontFamily: 'PhosphorRegular',
@@ -11275,7 +11275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moonStars` no estilo Regular.
   ///
-  /// ![moon-stars](https://api.iconify.design/ph/moon-stars.svg?height=32&color=%23888888)
+  /// ![moon-stars](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/moon-stars.png)
   static const IconData moonStars = IconData(
     0xe58e,
     fontFamily: 'PhosphorRegular',
@@ -11287,7 +11287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `moped` no estilo Regular.
   ///
-  /// ![moped](https://api.iconify.design/ph/moped.svg?height=32&color=%23888888)
+  /// ![moped](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/moped.png)
   static const IconData moped = IconData(
     0xe824,
     fontFamily: 'PhosphorRegular',
@@ -11299,7 +11299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mopedFront` no estilo Regular.
   ///
-  /// ![moped-front](https://api.iconify.design/ph/moped-front.svg?height=32&color=%23888888)
+  /// ![moped-front](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/moped-front.png)
   static const IconData mopedFront = IconData(
     0xe822,
     fontFamily: 'PhosphorRegular',
@@ -11311,7 +11311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mosque` no estilo Regular.
   ///
-  /// ![mosque](https://api.iconify.design/ph/mosque.svg?height=32&color=%23888888)
+  /// ![mosque](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mosque.png)
   static const IconData mosque = IconData(
     0xecee,
     fontFamily: 'PhosphorRegular',
@@ -11323,7 +11323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `motorcycle` no estilo Regular.
   ///
-  /// ![motorcycle](https://api.iconify.design/ph/motorcycle.svg?height=32&color=%23888888)
+  /// ![motorcycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/motorcycle.png)
   static const IconData motorcycle = IconData(
     0xe80a,
     fontFamily: 'PhosphorRegular',
@@ -11335,7 +11335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mountains` no estilo Regular.
   ///
-  /// ![mountains](https://api.iconify.design/ph/mountains.svg?height=32&color=%23888888)
+  /// ![mountains](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mountains.png)
   static const IconData mountains = IconData(
     0xe7ae,
     fontFamily: 'PhosphorRegular',
@@ -11347,7 +11347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouse` no estilo Regular.
   ///
-  /// ![mouse](https://api.iconify.design/ph/mouse.svg?height=32&color=%23888888)
+  /// ![mouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mouse.png)
   static const IconData mouse = IconData(
     0xe33a,
     fontFamily: 'PhosphorRegular',
@@ -11359,7 +11359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseLeftClick` no estilo Regular.
   ///
-  /// ![mouse-left-click](https://api.iconify.design/ph/mouse-left-click.svg?height=32&color=%23888888)
+  /// ![mouse-left-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mouse-left-click.png)
   static const IconData mouseLeftClick = IconData(
     0xe334,
     fontFamily: 'PhosphorRegular',
@@ -11371,7 +11371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseMiddleClick` no estilo Regular.
   ///
-  /// ![mouse-middle-click](https://api.iconify.design/ph/mouse-middle-click.svg?height=32&color=%23888888)
+  /// ![mouse-middle-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mouse-middle-click.png)
   static const IconData mouseMiddleClick = IconData(
     0xe338,
     fontFamily: 'PhosphorRegular',
@@ -11383,7 +11383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseRightClick` no estilo Regular.
   ///
-  /// ![mouse-right-click](https://api.iconify.design/ph/mouse-right-click.svg?height=32&color=%23888888)
+  /// ![mouse-right-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mouse-right-click.png)
   static const IconData mouseRightClick = IconData(
     0xe336,
     fontFamily: 'PhosphorRegular',
@@ -11395,7 +11395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseScroll` no estilo Regular.
   ///
-  /// ![mouse-scroll](https://api.iconify.design/ph/mouse-scroll.svg?height=32&color=%23888888)
+  /// ![mouse-scroll](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mouse-scroll.png)
   static const IconData mouseScroll = IconData(
     0xe332,
     fontFamily: 'PhosphorRegular',
@@ -11407,7 +11407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `mouseSimple` no estilo Regular.
   ///
-  /// ![mouse-simple](https://api.iconify.design/ph/mouse-simple.svg?height=32&color=%23888888)
+  /// ![mouse-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/mouse-simple.png)
   static const IconData mouseSimple = IconData(
     0xe644,
     fontFamily: 'PhosphorRegular',
@@ -11419,7 +11419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNote` no estilo Regular.
   ///
-  /// ![music-note](https://api.iconify.design/ph/music-note.svg?height=32&color=%23888888)
+  /// ![music-note](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/music-note.png)
   static const IconData musicNote = IconData(
     0xe33c,
     fontFamily: 'PhosphorRegular',
@@ -11431,7 +11431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNoteSimple` no estilo Regular.
   ///
-  /// ![music-note-simple](https://api.iconify.design/ph/music-note-simple.svg?height=32&color=%23888888)
+  /// ![music-note-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/music-note-simple.png)
   static const IconData musicNoteSimple = IconData(
     0xe33e,
     fontFamily: 'PhosphorRegular',
@@ -11443,7 +11443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotes` no estilo Regular.
   ///
-  /// ![music-notes](https://api.iconify.design/ph/music-notes.svg?height=32&color=%23888888)
+  /// ![music-notes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/music-notes.png)
   static const IconData musicNotes = IconData(
     0xe340,
     fontFamily: 'PhosphorRegular',
@@ -11455,7 +11455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotesMinus` no estilo Regular.
   ///
-  /// ![music-notes-minus](https://api.iconify.design/ph/music-notes-minus.svg?height=32&color=%23888888)
+  /// ![music-notes-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/music-notes-minus.png)
   static const IconData musicNotesMinus = IconData(
     0xee0c,
     fontFamily: 'PhosphorRegular',
@@ -11467,7 +11467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotesPlus` no estilo Regular.
   ///
-  /// ![music-notes-plus](https://api.iconify.design/ph/music-notes-plus.svg?height=32&color=%23888888)
+  /// ![music-notes-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/music-notes-plus.png)
   static const IconData musicNotesPlus = IconData(
     0xeb7c,
     fontFamily: 'PhosphorRegular',
@@ -11479,7 +11479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `musicNotesSimple` no estilo Regular.
   ///
-  /// ![music-notes-simple](https://api.iconify.design/ph/music-notes-simple.svg?height=32&color=%23888888)
+  /// ![music-notes-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/music-notes-simple.png)
   static const IconData musicNotesSimple = IconData(
     0xe342,
     fontFamily: 'PhosphorRegular',
@@ -11491,7 +11491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `navigationArrow` no estilo Regular.
   ///
-  /// ![navigation-arrow](https://api.iconify.design/ph/navigation-arrow.svg?height=32&color=%23888888)
+  /// ![navigation-arrow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/navigation-arrow.png)
   static const IconData navigationArrow = IconData(
     0xeade,
     fontFamily: 'PhosphorRegular',
@@ -11503,7 +11503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `needle` no estilo Regular.
   ///
-  /// ![needle](https://api.iconify.design/ph/needle.svg?height=32&color=%23888888)
+  /// ![needle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/needle.png)
   static const IconData needle = IconData(
     0xe82e,
     fontFamily: 'PhosphorRegular',
@@ -11515,7 +11515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `network` no estilo Regular.
   ///
-  /// ![network](https://api.iconify.design/ph/network.svg?height=32&color=%23888888)
+  /// ![network](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/network.png)
   static const IconData network = IconData(
     0xedde,
     fontFamily: 'PhosphorRegular',
@@ -11527,7 +11527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `networkSlash` no estilo Regular.
   ///
-  /// ![network-slash](https://api.iconify.design/ph/network-slash.svg?height=32&color=%23888888)
+  /// ![network-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/network-slash.png)
   static const IconData networkSlash = IconData(
     0xeddc,
     fontFamily: 'PhosphorRegular',
@@ -11539,7 +11539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `networkX` no estilo Regular.
   ///
-  /// ![network-x](https://api.iconify.design/ph/network-x.svg?height=32&color=%23888888)
+  /// ![network-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/network-x.png)
   static const IconData networkX = IconData(
     0xedda,
     fontFamily: 'PhosphorRegular',
@@ -11551,7 +11551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `newspaper` no estilo Regular.
   ///
-  /// ![newspaper](https://api.iconify.design/ph/newspaper.svg?height=32&color=%23888888)
+  /// ![newspaper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/newspaper.png)
   static const IconData newspaper = IconData(
     0xe344,
     fontFamily: 'PhosphorRegular',
@@ -11563,7 +11563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `newspaperClipping` no estilo Regular.
   ///
-  /// ![newspaper-clipping](https://api.iconify.design/ph/newspaper-clipping.svg?height=32&color=%23888888)
+  /// ![newspaper-clipping](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/newspaper-clipping.png)
   static const IconData newspaperClipping = IconData(
     0xe346,
     fontFamily: 'PhosphorRegular',
@@ -11575,7 +11575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notEquals` no estilo Regular.
   ///
-  /// ![not-equals](https://api.iconify.design/ph/not-equals.svg?height=32&color=%23888888)
+  /// ![not-equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/not-equals.png)
   static const IconData notEquals = IconData(
     0xeda6,
     fontFamily: 'PhosphorRegular',
@@ -11587,7 +11587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notMemberOf` no estilo Regular.
   ///
-  /// ![not-member-of](https://api.iconify.design/ph/not-member-of.svg?height=32&color=%23888888)
+  /// ![not-member-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/not-member-of.png)
   static const IconData notMemberOf = IconData(
     0xedae,
     fontFamily: 'PhosphorRegular',
@@ -11599,7 +11599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notSubsetOf` no estilo Regular.
   ///
-  /// ![not-subset-of](https://api.iconify.design/ph/not-subset-of.svg?height=32&color=%23888888)
+  /// ![not-subset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/not-subset-of.png)
   static const IconData notSubsetOf = IconData(
     0xedb0,
     fontFamily: 'PhosphorRegular',
@@ -11611,7 +11611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notSupersetOf` no estilo Regular.
   ///
-  /// ![not-superset-of](https://api.iconify.design/ph/not-superset-of.svg?height=32&color=%23888888)
+  /// ![not-superset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/not-superset-of.png)
   static const IconData notSupersetOf = IconData(
     0xedb2,
     fontFamily: 'PhosphorRegular',
@@ -11623,7 +11623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notches` no estilo Regular.
   ///
-  /// ![notches](https://api.iconify.design/ph/notches.svg?height=32&color=%23888888)
+  /// ![notches](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/notches.png)
   static const IconData notches = IconData(
     0xed3a,
     fontFamily: 'PhosphorRegular',
@@ -11635,7 +11635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `note` no estilo Regular.
   ///
-  /// ![note](https://api.iconify.design/ph/note.svg?height=32&color=%23888888)
+  /// ![note](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/note.png)
   static const IconData note = IconData(
     0xe348,
     fontFamily: 'PhosphorRegular',
@@ -11647,7 +11647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `noteBlank` no estilo Regular.
   ///
-  /// ![note-blank](https://api.iconify.design/ph/note-blank.svg?height=32&color=%23888888)
+  /// ![note-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/note-blank.png)
   static const IconData noteBlank = IconData(
     0xe34a,
     fontFamily: 'PhosphorRegular',
@@ -11659,7 +11659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notePencil` no estilo Regular.
   ///
-  /// ![note-pencil](https://api.iconify.design/ph/note-pencil.svg?height=32&color=%23888888)
+  /// ![note-pencil](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/note-pencil.png)
   static const IconData notePencil = IconData(
     0xe34c,
     fontFamily: 'PhosphorRegular',
@@ -11671,7 +11671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notebook` no estilo Regular.
   ///
-  /// ![notebook](https://api.iconify.design/ph/notebook.svg?height=32&color=%23888888)
+  /// ![notebook](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/notebook.png)
   static const IconData notebook = IconData(
     0xe34e,
     fontFamily: 'PhosphorRegular',
@@ -11683,7 +11683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notepad` no estilo Regular.
   ///
-  /// ![notepad](https://api.iconify.design/ph/notepad.svg?height=32&color=%23888888)
+  /// ![notepad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/notepad.png)
   static const IconData notepad = IconData(
     0xe63e,
     fontFamily: 'PhosphorRegular',
@@ -11695,7 +11695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notification` no estilo Regular.
   ///
-  /// ![notification](https://api.iconify.design/ph/notification.svg?height=32&color=%23888888)
+  /// ![notification](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/notification.png)
   static const IconData notification = IconData(
     0xe6fa,
     fontFamily: 'PhosphorRegular',
@@ -11707,7 +11707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `notionLogo` no estilo Regular.
   ///
-  /// ![notion-logo](https://api.iconify.design/ph/notion-logo.svg?height=32&color=%23888888)
+  /// ![notion-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/notion-logo.png)
   static const IconData notionLogo = IconData(
     0xe9a0,
     fontFamily: 'PhosphorRegular',
@@ -11719,7 +11719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `nuclearPlant` no estilo Regular.
   ///
-  /// ![nuclear-plant](https://api.iconify.design/ph/nuclear-plant.svg?height=32&color=%23888888)
+  /// ![nuclear-plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/nuclear-plant.png)
   static const IconData nuclearPlant = IconData(
     0xed7c,
     fontFamily: 'PhosphorRegular',
@@ -11731,7 +11731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleEight` no estilo Regular.
   ///
-  /// ![number-circle-eight](https://api.iconify.design/ph/number-circle-eight.svg?height=32&color=%23888888)
+  /// ![number-circle-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-eight.png)
   static const IconData numberCircleEight = IconData(
     0xe352,
     fontFamily: 'PhosphorRegular',
@@ -11743,7 +11743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleFive` no estilo Regular.
   ///
-  /// ![number-circle-five](https://api.iconify.design/ph/number-circle-five.svg?height=32&color=%23888888)
+  /// ![number-circle-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-five.png)
   static const IconData numberCircleFive = IconData(
     0xe358,
     fontFamily: 'PhosphorRegular',
@@ -11755,7 +11755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleFour` no estilo Regular.
   ///
-  /// ![number-circle-four](https://api.iconify.design/ph/number-circle-four.svg?height=32&color=%23888888)
+  /// ![number-circle-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-four.png)
   static const IconData numberCircleFour = IconData(
     0xe35e,
     fontFamily: 'PhosphorRegular',
@@ -11767,7 +11767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleNine` no estilo Regular.
   ///
-  /// ![number-circle-nine](https://api.iconify.design/ph/number-circle-nine.svg?height=32&color=%23888888)
+  /// ![number-circle-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-nine.png)
   static const IconData numberCircleNine = IconData(
     0xe364,
     fontFamily: 'PhosphorRegular',
@@ -11779,7 +11779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleOne` no estilo Regular.
   ///
-  /// ![number-circle-one](https://api.iconify.design/ph/number-circle-one.svg?height=32&color=%23888888)
+  /// ![number-circle-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-one.png)
   static const IconData numberCircleOne = IconData(
     0xe36a,
     fontFamily: 'PhosphorRegular',
@@ -11791,7 +11791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleSeven` no estilo Regular.
   ///
-  /// ![number-circle-seven](https://api.iconify.design/ph/number-circle-seven.svg?height=32&color=%23888888)
+  /// ![number-circle-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-seven.png)
   static const IconData numberCircleSeven = IconData(
     0xe370,
     fontFamily: 'PhosphorRegular',
@@ -11803,7 +11803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleSix` no estilo Regular.
   ///
-  /// ![number-circle-six](https://api.iconify.design/ph/number-circle-six.svg?height=32&color=%23888888)
+  /// ![number-circle-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-six.png)
   static const IconData numberCircleSix = IconData(
     0xe376,
     fontFamily: 'PhosphorRegular',
@@ -11815,7 +11815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleThree` no estilo Regular.
   ///
-  /// ![number-circle-three](https://api.iconify.design/ph/number-circle-three.svg?height=32&color=%23888888)
+  /// ![number-circle-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-three.png)
   static const IconData numberCircleThree = IconData(
     0xe37c,
     fontFamily: 'PhosphorRegular',
@@ -11827,7 +11827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleTwo` no estilo Regular.
   ///
-  /// ![number-circle-two](https://api.iconify.design/ph/number-circle-two.svg?height=32&color=%23888888)
+  /// ![number-circle-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-two.png)
   static const IconData numberCircleTwo = IconData(
     0xe382,
     fontFamily: 'PhosphorRegular',
@@ -11839,7 +11839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberCircleZero` no estilo Regular.
   ///
-  /// ![number-circle-zero](https://api.iconify.design/ph/number-circle-zero.svg?height=32&color=%23888888)
+  /// ![number-circle-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-circle-zero.png)
   static const IconData numberCircleZero = IconData(
     0xe388,
     fontFamily: 'PhosphorRegular',
@@ -11851,7 +11851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberEight` no estilo Regular.
   ///
-  /// ![number-eight](https://api.iconify.design/ph/number-eight.svg?height=32&color=%23888888)
+  /// ![number-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-eight.png)
   static const IconData numberEight = IconData(
     0xe350,
     fontFamily: 'PhosphorRegular',
@@ -11863,7 +11863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberFive` no estilo Regular.
   ///
-  /// ![number-five](https://api.iconify.design/ph/number-five.svg?height=32&color=%23888888)
+  /// ![number-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-five.png)
   static const IconData numberFive = IconData(
     0xe356,
     fontFamily: 'PhosphorRegular',
@@ -11875,7 +11875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberFour` no estilo Regular.
   ///
-  /// ![number-four](https://api.iconify.design/ph/number-four.svg?height=32&color=%23888888)
+  /// ![number-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-four.png)
   static const IconData numberFour = IconData(
     0xe35c,
     fontFamily: 'PhosphorRegular',
@@ -11887,7 +11887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberNine` no estilo Regular.
   ///
-  /// ![number-nine](https://api.iconify.design/ph/number-nine.svg?height=32&color=%23888888)
+  /// ![number-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-nine.png)
   static const IconData numberNine = IconData(
     0xe362,
     fontFamily: 'PhosphorRegular',
@@ -11899,7 +11899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberOne` no estilo Regular.
   ///
-  /// ![number-one](https://api.iconify.design/ph/number-one.svg?height=32&color=%23888888)
+  /// ![number-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-one.png)
   static const IconData numberOne = IconData(
     0xe368,
     fontFamily: 'PhosphorRegular',
@@ -11911,7 +11911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSeven` no estilo Regular.
   ///
-  /// ![number-seven](https://api.iconify.design/ph/number-seven.svg?height=32&color=%23888888)
+  /// ![number-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-seven.png)
   static const IconData numberSeven = IconData(
     0xe36e,
     fontFamily: 'PhosphorRegular',
@@ -11923,7 +11923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSix` no estilo Regular.
   ///
-  /// ![number-six](https://api.iconify.design/ph/number-six.svg?height=32&color=%23888888)
+  /// ![number-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-six.png)
   static const IconData numberSix = IconData(
     0xe374,
     fontFamily: 'PhosphorRegular',
@@ -11935,7 +11935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareEight` no estilo Regular.
   ///
-  /// ![number-square-eight](https://api.iconify.design/ph/number-square-eight.svg?height=32&color=%23888888)
+  /// ![number-square-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-eight.png)
   static const IconData numberSquareEight = IconData(
     0xe354,
     fontFamily: 'PhosphorRegular',
@@ -11947,7 +11947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareFive` no estilo Regular.
   ///
-  /// ![number-square-five](https://api.iconify.design/ph/number-square-five.svg?height=32&color=%23888888)
+  /// ![number-square-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-five.png)
   static const IconData numberSquareFive = IconData(
     0xe35a,
     fontFamily: 'PhosphorRegular',
@@ -11959,7 +11959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareFour` no estilo Regular.
   ///
-  /// ![number-square-four](https://api.iconify.design/ph/number-square-four.svg?height=32&color=%23888888)
+  /// ![number-square-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-four.png)
   static const IconData numberSquareFour = IconData(
     0xe360,
     fontFamily: 'PhosphorRegular',
@@ -11971,7 +11971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareNine` no estilo Regular.
   ///
-  /// ![number-square-nine](https://api.iconify.design/ph/number-square-nine.svg?height=32&color=%23888888)
+  /// ![number-square-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-nine.png)
   static const IconData numberSquareNine = IconData(
     0xe366,
     fontFamily: 'PhosphorRegular',
@@ -11983,7 +11983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareOne` no estilo Regular.
   ///
-  /// ![number-square-one](https://api.iconify.design/ph/number-square-one.svg?height=32&color=%23888888)
+  /// ![number-square-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-one.png)
   static const IconData numberSquareOne = IconData(
     0xe36c,
     fontFamily: 'PhosphorRegular',
@@ -11995,7 +11995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareSeven` no estilo Regular.
   ///
-  /// ![number-square-seven](https://api.iconify.design/ph/number-square-seven.svg?height=32&color=%23888888)
+  /// ![number-square-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-seven.png)
   static const IconData numberSquareSeven = IconData(
     0xe372,
     fontFamily: 'PhosphorRegular',
@@ -12007,7 +12007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareSix` no estilo Regular.
   ///
-  /// ![number-square-six](https://api.iconify.design/ph/number-square-six.svg?height=32&color=%23888888)
+  /// ![number-square-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-six.png)
   static const IconData numberSquareSix = IconData(
     0xe378,
     fontFamily: 'PhosphorRegular',
@@ -12019,7 +12019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareThree` no estilo Regular.
   ///
-  /// ![number-square-three](https://api.iconify.design/ph/number-square-three.svg?height=32&color=%23888888)
+  /// ![number-square-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-three.png)
   static const IconData numberSquareThree = IconData(
     0xe37e,
     fontFamily: 'PhosphorRegular',
@@ -12031,7 +12031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareTwo` no estilo Regular.
   ///
-  /// ![number-square-two](https://api.iconify.design/ph/number-square-two.svg?height=32&color=%23888888)
+  /// ![number-square-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-two.png)
   static const IconData numberSquareTwo = IconData(
     0xe384,
     fontFamily: 'PhosphorRegular',
@@ -12043,7 +12043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberSquareZero` no estilo Regular.
   ///
-  /// ![number-square-zero](https://api.iconify.design/ph/number-square-zero.svg?height=32&color=%23888888)
+  /// ![number-square-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-square-zero.png)
   static const IconData numberSquareZero = IconData(
     0xe38a,
     fontFamily: 'PhosphorRegular',
@@ -12055,7 +12055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberThree` no estilo Regular.
   ///
-  /// ![number-three](https://api.iconify.design/ph/number-three.svg?height=32&color=%23888888)
+  /// ![number-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-three.png)
   static const IconData numberThree = IconData(
     0xe37a,
     fontFamily: 'PhosphorRegular',
@@ -12067,7 +12067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberTwo` no estilo Regular.
   ///
-  /// ![number-two](https://api.iconify.design/ph/number-two.svg?height=32&color=%23888888)
+  /// ![number-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-two.png)
   static const IconData numberTwo = IconData(
     0xe380,
     fontFamily: 'PhosphorRegular',
@@ -12079,7 +12079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numberZero` no estilo Regular.
   ///
-  /// ![number-zero](https://api.iconify.design/ph/number-zero.svg?height=32&color=%23888888)
+  /// ![number-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/number-zero.png)
   static const IconData numberZero = IconData(
     0xe386,
     fontFamily: 'PhosphorRegular',
@@ -12091,7 +12091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `numpad` no estilo Regular.
   ///
-  /// ![numpad](https://api.iconify.design/ph/numpad.svg?height=32&color=%23888888)
+  /// ![numpad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/numpad.png)
   static const IconData numpad = IconData(
     0xe3c8,
     fontFamily: 'PhosphorRegular',
@@ -12103,7 +12103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `nut` no estilo Regular.
   ///
-  /// ![nut](https://api.iconify.design/ph/nut.svg?height=32&color=%23888888)
+  /// ![nut](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/nut.png)
   static const IconData nut = IconData(
     0xe38c,
     fontFamily: 'PhosphorRegular',
@@ -12115,7 +12115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `nyTimesLogo` no estilo Regular.
   ///
-  /// ![ny-times-logo](https://api.iconify.design/ph/ny-times-logo.svg?height=32&color=%23888888)
+  /// ![ny-times-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ny-times-logo.png)
   static const IconData nyTimesLogo = IconData(
     0xe646,
     fontFamily: 'PhosphorRegular',
@@ -12127,7 +12127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `octagon` no estilo Regular.
   ///
-  /// ![octagon](https://api.iconify.design/ph/octagon.svg?height=32&color=%23888888)
+  /// ![octagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/octagon.png)
   static const IconData octagon = IconData(
     0xe38e,
     fontFamily: 'PhosphorRegular',
@@ -12139,7 +12139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `officeChair` no estilo Regular.
   ///
-  /// ![office-chair](https://api.iconify.design/ph/office-chair.svg?height=32&color=%23888888)
+  /// ![office-chair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/office-chair.png)
   static const IconData officeChair = IconData(
     0xea46,
     fontFamily: 'PhosphorRegular',
@@ -12151,7 +12151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `onigiri` no estilo Regular.
   ///
-  /// ![onigiri](https://api.iconify.design/ph/onigiri.svg?height=32&color=%23888888)
+  /// ![onigiri](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/onigiri.png)
   static const IconData onigiri = IconData(
     0xee2c,
     fontFamily: 'PhosphorRegular',
@@ -12163,7 +12163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `openAiLogo` no estilo Regular.
   ///
-  /// ![open-ai-logo](https://api.iconify.design/ph/open-ai-logo.svg?height=32&color=%23888888)
+  /// ![open-ai-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/open-ai-logo.png)
   static const IconData openAiLogo = IconData(
     0xe7d2,
     fontFamily: 'PhosphorRegular',
@@ -12175,7 +12175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `option` no estilo Regular.
   ///
-  /// ![option](https://api.iconify.design/ph/option.svg?height=32&color=%23888888)
+  /// ![option](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/option.png)
   static const IconData option = IconData(
     0xe8a8,
     fontFamily: 'PhosphorRegular',
@@ -12187,7 +12187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `orange` no estilo Regular.
   ///
-  /// ![orange](https://api.iconify.design/ph/orange.svg?height=32&color=%23888888)
+  /// ![orange](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/orange.png)
   static const IconData orange = IconData(
     0xee40,
     fontFamily: 'PhosphorRegular',
@@ -12199,7 +12199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `orangeSlice` no estilo Regular.
   ///
-  /// ![orange-slice](https://api.iconify.design/ph/orange-slice.svg?height=32&color=%23888888)
+  /// ![orange-slice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/orange-slice.png)
   static const IconData orangeSlice = IconData(
     0xed36,
     fontFamily: 'PhosphorRegular',
@@ -12211,7 +12211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `oven` no estilo Regular.
   ///
-  /// ![oven](https://api.iconify.design/ph/oven.svg?height=32&color=%23888888)
+  /// ![oven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/oven.png)
   static const IconData oven = IconData(
     0xed8c,
     fontFamily: 'PhosphorRegular',
@@ -12223,7 +12223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `package` no estilo Regular.
   ///
-  /// ![package](https://api.iconify.design/ph/package.svg?height=32&color=%23888888)
+  /// ![package](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/package.png)
   static const IconData package = IconData(
     0xe390,
     fontFamily: 'PhosphorRegular',
@@ -12235,7 +12235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBrush` no estilo Regular.
   ///
-  /// ![paint-brush](https://api.iconify.design/ph/paint-brush.svg?height=32&color=%23888888)
+  /// ![paint-brush](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paint-brush.png)
   static const IconData paintBrush = IconData(
     0xe6f0,
     fontFamily: 'PhosphorRegular',
@@ -12247,7 +12247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBrushBroad` no estilo Regular.
   ///
-  /// ![paint-brush-broad](https://api.iconify.design/ph/paint-brush-broad.svg?height=32&color=%23888888)
+  /// ![paint-brush-broad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paint-brush-broad.png)
   static const IconData paintBrushBroad = IconData(
     0xe590,
     fontFamily: 'PhosphorRegular',
@@ -12259,7 +12259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBrushHousehold` no estilo Regular.
   ///
-  /// ![paint-brush-household](https://api.iconify.design/ph/paint-brush-household.svg?height=32&color=%23888888)
+  /// ![paint-brush-household](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paint-brush-household.png)
   static const IconData paintBrushHousehold = IconData(
     0xe6f2,
     fontFamily: 'PhosphorRegular',
@@ -12271,7 +12271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintBucket` no estilo Regular.
   ///
-  /// ![paint-bucket](https://api.iconify.design/ph/paint-bucket.svg?height=32&color=%23888888)
+  /// ![paint-bucket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paint-bucket.png)
   static const IconData paintBucket = IconData(
     0xe392,
     fontFamily: 'PhosphorRegular',
@@ -12283,7 +12283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paintRoller` no estilo Regular.
   ///
-  /// ![paint-roller](https://api.iconify.design/ph/paint-roller.svg?height=32&color=%23888888)
+  /// ![paint-roller](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paint-roller.png)
   static const IconData paintRoller = IconData(
     0xe6f4,
     fontFamily: 'PhosphorRegular',
@@ -12295,7 +12295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `palette` no estilo Regular.
   ///
-  /// ![palette](https://api.iconify.design/ph/palette.svg?height=32&color=%23888888)
+  /// ![palette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/palette.png)
   static const IconData palette = IconData(
     0xe6c8,
     fontFamily: 'PhosphorRegular',
@@ -12307,7 +12307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `panorama` no estilo Regular.
   ///
-  /// ![panorama](https://api.iconify.design/ph/panorama.svg?height=32&color=%23888888)
+  /// ![panorama](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/panorama.png)
   static const IconData panorama = IconData(
     0xeaa2,
     fontFamily: 'PhosphorRegular',
@@ -12319,7 +12319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pants` no estilo Regular.
   ///
-  /// ![pants](https://api.iconify.design/ph/pants.svg?height=32&color=%23888888)
+  /// ![pants](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pants.png)
   static const IconData pants = IconData(
     0xec88,
     fontFamily: 'PhosphorRegular',
@@ -12331,7 +12331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperPlane` no estilo Regular.
   ///
-  /// ![paper-plane](https://api.iconify.design/ph/paper-plane.svg?height=32&color=%23888888)
+  /// ![paper-plane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paper-plane.png)
   static const IconData paperPlane = IconData(
     0xe394,
     fontFamily: 'PhosphorRegular',
@@ -12343,7 +12343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperPlaneRight` no estilo Regular.
   ///
-  /// ![paper-plane-right](https://api.iconify.design/ph/paper-plane-right.svg?height=32&color=%23888888)
+  /// ![paper-plane-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paper-plane-right.png)
   static const IconData paperPlaneRight = IconData(
     0xe396,
     fontFamily: 'PhosphorRegular',
@@ -12355,7 +12355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperPlaneTilt` no estilo Regular.
   ///
-  /// ![paper-plane-tilt](https://api.iconify.design/ph/paper-plane-tilt.svg?height=32&color=%23888888)
+  /// ![paper-plane-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paper-plane-tilt.png)
   static const IconData paperPlaneTilt = IconData(
     0xe398,
     fontFamily: 'PhosphorRegular',
@@ -12367,7 +12367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperclip` no estilo Regular.
   ///
-  /// ![paperclip](https://api.iconify.design/ph/paperclip.svg?height=32&color=%23888888)
+  /// ![paperclip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paperclip.png)
   static const IconData paperclip = IconData(
     0xe39a,
     fontFamily: 'PhosphorRegular',
@@ -12379,7 +12379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paperclipHorizontal` no estilo Regular.
   ///
-  /// ![paperclip-horizontal](https://api.iconify.design/ph/paperclip-horizontal.svg?height=32&color=%23888888)
+  /// ![paperclip-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paperclip-horizontal.png)
   static const IconData paperclipHorizontal = IconData(
     0xe592,
     fontFamily: 'PhosphorRegular',
@@ -12391,7 +12391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `parachute` no estilo Regular.
   ///
-  /// ![parachute](https://api.iconify.design/ph/parachute.svg?height=32&color=%23888888)
+  /// ![parachute](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/parachute.png)
   static const IconData parachute = IconData(
     0xea7c,
     fontFamily: 'PhosphorRegular',
@@ -12403,7 +12403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paragraph` no estilo Regular.
   ///
-  /// ![paragraph](https://api.iconify.design/ph/paragraph.svg?height=32&color=%23888888)
+  /// ![paragraph](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paragraph.png)
   static const IconData paragraph = IconData(
     0xe960,
     fontFamily: 'PhosphorRegular',
@@ -12415,7 +12415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `parallelogram` no estilo Regular.
   ///
-  /// ![parallelogram](https://api.iconify.design/ph/parallelogram.svg?height=32&color=%23888888)
+  /// ![parallelogram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/parallelogram.png)
   static const IconData parallelogram = IconData(
     0xecc6,
     fontFamily: 'PhosphorRegular',
@@ -12427,7 +12427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `park` no estilo Regular.
   ///
-  /// ![park](https://api.iconify.design/ph/park.svg?height=32&color=%23888888)
+  /// ![park](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/park.png)
   static const IconData park = IconData(
     0xecb2,
     fontFamily: 'PhosphorRegular',
@@ -12439,7 +12439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `password` no estilo Regular.
   ///
-  /// ![password](https://api.iconify.design/ph/password.svg?height=32&color=%23888888)
+  /// ![password](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/password.png)
   static const IconData password = IconData(
     0xe752,
     fontFamily: 'PhosphorRegular',
@@ -12451,7 +12451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `path` no estilo Regular.
   ///
-  /// ![path](https://api.iconify.design/ph/path.svg?height=32&color=%23888888)
+  /// ![path](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/path.png)
   static const IconData path = IconData(
     0xe39c,
     fontFamily: 'PhosphorRegular',
@@ -12463,7 +12463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `patreonLogo` no estilo Regular.
   ///
-  /// ![patreon-logo](https://api.iconify.design/ph/patreon-logo.svg?height=32&color=%23888888)
+  /// ![patreon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/patreon-logo.png)
   static const IconData patreonLogo = IconData(
     0xe98a,
     fontFamily: 'PhosphorRegular',
@@ -12475,7 +12475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pause` no estilo Regular.
   ///
-  /// ![pause](https://api.iconify.design/ph/pause.svg?height=32&color=%23888888)
+  /// ![pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pause.png)
   static const IconData pause = IconData(
     0xe39e,
     fontFamily: 'PhosphorRegular',
@@ -12487,7 +12487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pauseCircle` no estilo Regular.
   ///
-  /// ![pause-circle](https://api.iconify.design/ph/pause-circle.svg?height=32&color=%23888888)
+  /// ![pause-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pause-circle.png)
   static const IconData pauseCircle = IconData(
     0xe3a0,
     fontFamily: 'PhosphorRegular',
@@ -12499,7 +12499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pawPrint` no estilo Regular.
   ///
-  /// ![paw-print](https://api.iconify.design/ph/paw-print.svg?height=32&color=%23888888)
+  /// ![paw-print](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paw-print.png)
   static const IconData pawPrint = IconData(
     0xe648,
     fontFamily: 'PhosphorRegular',
@@ -12511,7 +12511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `paypalLogo` no estilo Regular.
   ///
-  /// ![paypal-logo](https://api.iconify.design/ph/paypal-logo.svg?height=32&color=%23888888)
+  /// ![paypal-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/paypal-logo.png)
   static const IconData paypalLogo = IconData(
     0xe98c,
     fontFamily: 'PhosphorRegular',
@@ -12523,7 +12523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `peace` no estilo Regular.
   ///
-  /// ![peace](https://api.iconify.design/ph/peace.svg?height=32&color=%23888888)
+  /// ![peace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/peace.png)
   static const IconData peace = IconData(
     0xe3a2,
     fontFamily: 'PhosphorRegular',
@@ -12535,7 +12535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pen` no estilo Regular.
   ///
-  /// ![pen](https://api.iconify.design/ph/pen.svg?height=32&color=%23888888)
+  /// ![pen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pen.png)
   static const IconData pen = IconData(
     0xe3aa,
     fontFamily: 'PhosphorRegular',
@@ -12547,7 +12547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `penNib` no estilo Regular.
   ///
-  /// ![pen-nib](https://api.iconify.design/ph/pen-nib.svg?height=32&color=%23888888)
+  /// ![pen-nib](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pen-nib.png)
   static const IconData penNib = IconData(
     0xe3ac,
     fontFamily: 'PhosphorRegular',
@@ -12559,7 +12559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `penNibStraight` no estilo Regular.
   ///
-  /// ![pen-nib-straight](https://api.iconify.design/ph/pen-nib-straight.svg?height=32&color=%23888888)
+  /// ![pen-nib-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pen-nib-straight.png)
   static const IconData penNibStraight = IconData(
     0xe64a,
     fontFamily: 'PhosphorRegular',
@@ -12571,7 +12571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencil` no estilo Regular.
   ///
-  /// ![pencil](https://api.iconify.design/ph/pencil.svg?height=32&color=%23888888)
+  /// ![pencil](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil.png)
   static const IconData pencil = IconData(
     0xe3ae,
     fontFamily: 'PhosphorRegular',
@@ -12583,7 +12583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilCircle` no estilo Regular.
   ///
-  /// ![pencil-circle](https://api.iconify.design/ph/pencil-circle.svg?height=32&color=%23888888)
+  /// ![pencil-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil-circle.png)
   static const IconData pencilCircle = IconData(
     0xe3b0,
     fontFamily: 'PhosphorRegular',
@@ -12595,7 +12595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilLine` no estilo Regular.
   ///
-  /// ![pencil-line](https://api.iconify.design/ph/pencil-line.svg?height=32&color=%23888888)
+  /// ![pencil-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil-line.png)
   static const IconData pencilLine = IconData(
     0xe3b2,
     fontFamily: 'PhosphorRegular',
@@ -12607,7 +12607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilRuler` no estilo Regular.
   ///
-  /// ![pencil-ruler](https://api.iconify.design/ph/pencil-ruler.svg?height=32&color=%23888888)
+  /// ![pencil-ruler](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil-ruler.png)
   static const IconData pencilRuler = IconData(
     0xe906,
     fontFamily: 'PhosphorRegular',
@@ -12619,7 +12619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSimple` no estilo Regular.
   ///
-  /// ![pencil-simple](https://api.iconify.design/ph/pencil-simple.svg?height=32&color=%23888888)
+  /// ![pencil-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil-simple.png)
   static const IconData pencilSimple = IconData(
     0xe3b4,
     fontFamily: 'PhosphorRegular',
@@ -12631,7 +12631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSimpleLine` no estilo Regular.
   ///
-  /// ![pencil-simple-line](https://api.iconify.design/ph/pencil-simple-line.svg?height=32&color=%23888888)
+  /// ![pencil-simple-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil-simple-line.png)
   static const IconData pencilSimpleLine = IconData(
     0xebc6,
     fontFamily: 'PhosphorRegular',
@@ -12643,7 +12643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSimpleSlash` no estilo Regular.
   ///
-  /// ![pencil-simple-slash](https://api.iconify.design/ph/pencil-simple-slash.svg?height=32&color=%23888888)
+  /// ![pencil-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil-simple-slash.png)
   static const IconData pencilSimpleSlash = IconData(
     0xecf6,
     fontFamily: 'PhosphorRegular',
@@ -12655,7 +12655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pencilSlash` no estilo Regular.
   ///
-  /// ![pencil-slash](https://api.iconify.design/ph/pencil-slash.svg?height=32&color=%23888888)
+  /// ![pencil-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pencil-slash.png)
   static const IconData pencilSlash = IconData(
     0xecf8,
     fontFamily: 'PhosphorRegular',
@@ -12667,7 +12667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pentagon` no estilo Regular.
   ///
-  /// ![pentagon](https://api.iconify.design/ph/pentagon.svg?height=32&color=%23888888)
+  /// ![pentagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pentagon.png)
   static const IconData pentagon = IconData(
     0xec7e,
     fontFamily: 'PhosphorRegular',
@@ -12679,7 +12679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pentagram` no estilo Regular.
   ///
-  /// ![pentagram](https://api.iconify.design/ph/pentagram.svg?height=32&color=%23888888)
+  /// ![pentagram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pentagram.png)
   static const IconData pentagram = IconData(
     0xec5c,
     fontFamily: 'PhosphorRegular',
@@ -12691,7 +12691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pepper` no estilo Regular.
   ///
-  /// ![pepper](https://api.iconify.design/ph/pepper.svg?height=32&color=%23888888)
+  /// ![pepper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pepper.png)
   static const IconData pepper = IconData(
     0xe94a,
     fontFamily: 'PhosphorRegular',
@@ -12703,7 +12703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `percent` no estilo Regular.
   ///
-  /// ![percent](https://api.iconify.design/ph/percent.svg?height=32&color=%23888888)
+  /// ![percent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/percent.png)
   static const IconData percent = IconData(
     0xe3b6,
     fontFamily: 'PhosphorRegular',
@@ -12715,7 +12715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `person` no estilo Regular.
   ///
-  /// ![person](https://api.iconify.design/ph/person.svg?height=32&color=%23888888)
+  /// ![person](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person.png)
   static const IconData person = IconData(
     0xe3a8,
     fontFamily: 'PhosphorRegular',
@@ -12727,7 +12727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personArmsSpread` no estilo Regular.
   ///
-  /// ![person-arms-spread](https://api.iconify.design/ph/person-arms-spread.svg?height=32&color=%23888888)
+  /// ![person-arms-spread](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-arms-spread.png)
   static const IconData personArmsSpread = IconData(
     0xecfe,
     fontFamily: 'PhosphorRegular',
@@ -12739,7 +12739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimple` no estilo Regular.
   ///
-  /// ![person-simple](https://api.iconify.design/ph/person-simple.svg?height=32&color=%23888888)
+  /// ![person-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple.png)
   static const IconData personSimple = IconData(
     0xe72e,
     fontFamily: 'PhosphorRegular',
@@ -12751,7 +12751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleBike` no estilo Regular.
   ///
-  /// ![person-simple-bike](https://api.iconify.design/ph/person-simple-bike.svg?height=32&color=%23888888)
+  /// ![person-simple-bike](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-bike.png)
   static const IconData personSimpleBike = IconData(
     0xe734,
     fontFamily: 'PhosphorRegular',
@@ -12763,7 +12763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleCircle` no estilo Regular.
   ///
-  /// ![person-simple-circle](https://api.iconify.design/ph/person-simple-circle.svg?height=32&color=%23888888)
+  /// ![person-simple-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-circle.png)
   static const IconData personSimpleCircle = IconData(
     0xee58,
     fontFamily: 'PhosphorRegular',
@@ -12775,7 +12775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleHike` no estilo Regular.
   ///
-  /// ![person-simple-hike](https://api.iconify.design/ph/person-simple-hike.svg?height=32&color=%23888888)
+  /// ![person-simple-hike](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-hike.png)
   static const IconData personSimpleHike = IconData(
     0xed54,
     fontFamily: 'PhosphorRegular',
@@ -12787,7 +12787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleRun` no estilo Regular.
   ///
-  /// ![person-simple-run](https://api.iconify.design/ph/person-simple-run.svg?height=32&color=%23888888)
+  /// ![person-simple-run](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-run.png)
   static const IconData personSimpleRun = IconData(
     0xe730,
     fontFamily: 'PhosphorRegular',
@@ -12799,7 +12799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleSki` no estilo Regular.
   ///
-  /// ![person-simple-ski](https://api.iconify.design/ph/person-simple-ski.svg?height=32&color=%23888888)
+  /// ![person-simple-ski](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-ski.png)
   static const IconData personSimpleSki = IconData(
     0xe71c,
     fontFamily: 'PhosphorRegular',
@@ -12811,7 +12811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleSnowboard` no estilo Regular.
   ///
-  /// ![person-simple-snowboard](https://api.iconify.design/ph/person-simple-snowboard.svg?height=32&color=%23888888)
+  /// ![person-simple-snowboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-snowboard.png)
   static const IconData personSimpleSnowboard = IconData(
     0xe71e,
     fontFamily: 'PhosphorRegular',
@@ -12823,7 +12823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleSwim` no estilo Regular.
   ///
-  /// ![person-simple-swim](https://api.iconify.design/ph/person-simple-swim.svg?height=32&color=%23888888)
+  /// ![person-simple-swim](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-swim.png)
   static const IconData personSimpleSwim = IconData(
     0xe736,
     fontFamily: 'PhosphorRegular',
@@ -12835,7 +12835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleTaiChi` no estilo Regular.
   ///
-  /// ![person-simple-tai-chi](https://api.iconify.design/ph/person-simple-tai-chi.svg?height=32&color=%23888888)
+  /// ![person-simple-tai-chi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-tai-chi.png)
   static const IconData personSimpleTaiChi = IconData(
     0xed5c,
     fontFamily: 'PhosphorRegular',
@@ -12847,7 +12847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleThrow` no estilo Regular.
   ///
-  /// ![person-simple-throw](https://api.iconify.design/ph/person-simple-throw.svg?height=32&color=%23888888)
+  /// ![person-simple-throw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-throw.png)
   static const IconData personSimpleThrow = IconData(
     0xe732,
     fontFamily: 'PhosphorRegular',
@@ -12859,7 +12859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `personSimpleWalk` no estilo Regular.
   ///
-  /// ![person-simple-walk](https://api.iconify.design/ph/person-simple-walk.svg?height=32&color=%23888888)
+  /// ![person-simple-walk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/person-simple-walk.png)
   static const IconData personSimpleWalk = IconData(
     0xe73a,
     fontFamily: 'PhosphorRegular',
@@ -12871,7 +12871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `perspective` no estilo Regular.
   ///
-  /// ![perspective](https://api.iconify.design/ph/perspective.svg?height=32&color=%23888888)
+  /// ![perspective](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/perspective.png)
   static const IconData perspective = IconData(
     0xebe6,
     fontFamily: 'PhosphorRegular',
@@ -12883,7 +12883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phone` no estilo Regular.
   ///
-  /// ![phone](https://api.iconify.design/ph/phone.svg?height=32&color=%23888888)
+  /// ![phone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone.png)
   static const IconData phone = IconData(
     0xe3b8,
     fontFamily: 'PhosphorRegular',
@@ -12895,7 +12895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneCall` no estilo Regular.
   ///
-  /// ![phone-call](https://api.iconify.design/ph/phone-call.svg?height=32&color=%23888888)
+  /// ![phone-call](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-call.png)
   static const IconData phoneCall = IconData(
     0xe3ba,
     fontFamily: 'PhosphorRegular',
@@ -12907,7 +12907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneDisconnect` no estilo Regular.
   ///
-  /// ![phone-disconnect](https://api.iconify.design/ph/phone-disconnect.svg?height=32&color=%23888888)
+  /// ![phone-disconnect](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-disconnect.png)
   static const IconData phoneDisconnect = IconData(
     0xe3bc,
     fontFamily: 'PhosphorRegular',
@@ -12919,7 +12919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneIncoming` no estilo Regular.
   ///
-  /// ![phone-incoming](https://api.iconify.design/ph/phone-incoming.svg?height=32&color=%23888888)
+  /// ![phone-incoming](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-incoming.png)
   static const IconData phoneIncoming = IconData(
     0xe3be,
     fontFamily: 'PhosphorRegular',
@@ -12931,7 +12931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneList` no estilo Regular.
   ///
-  /// ![phone-list](https://api.iconify.design/ph/phone-list.svg?height=32&color=%23888888)
+  /// ![phone-list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-list.png)
   static const IconData phoneList = IconData(
     0xe3cc,
     fontFamily: 'PhosphorRegular',
@@ -12943,7 +12943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneOutgoing` no estilo Regular.
   ///
-  /// ![phone-outgoing](https://api.iconify.design/ph/phone-outgoing.svg?height=32&color=%23888888)
+  /// ![phone-outgoing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-outgoing.png)
   static const IconData phoneOutgoing = IconData(
     0xe3c0,
     fontFamily: 'PhosphorRegular',
@@ -12955,7 +12955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phonePause` no estilo Regular.
   ///
-  /// ![phone-pause](https://api.iconify.design/ph/phone-pause.svg?height=32&color=%23888888)
+  /// ![phone-pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-pause.png)
   static const IconData phonePause = IconData(
     0xe3ca,
     fontFamily: 'PhosphorRegular',
@@ -12967,7 +12967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phonePlus` no estilo Regular.
   ///
-  /// ![phone-plus](https://api.iconify.design/ph/phone-plus.svg?height=32&color=%23888888)
+  /// ![phone-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-plus.png)
   static const IconData phonePlus = IconData(
     0xec56,
     fontFamily: 'PhosphorRegular',
@@ -12979,7 +12979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneSlash` no estilo Regular.
   ///
-  /// ![phone-slash](https://api.iconify.design/ph/phone-slash.svg?height=32&color=%23888888)
+  /// ![phone-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-slash.png)
   static const IconData phoneSlash = IconData(
     0xe3c2,
     fontFamily: 'PhosphorRegular',
@@ -12991,7 +12991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneTransfer` no estilo Regular.
   ///
-  /// ![phone-transfer](https://api.iconify.design/ph/phone-transfer.svg?height=32&color=%23888888)
+  /// ![phone-transfer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-transfer.png)
   static const IconData phoneTransfer = IconData(
     0xe3c6,
     fontFamily: 'PhosphorRegular',
@@ -13003,7 +13003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phoneX` no estilo Regular.
   ///
-  /// ![phone-x](https://api.iconify.design/ph/phone-x.svg?height=32&color=%23888888)
+  /// ![phone-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phone-x.png)
   static const IconData phoneX = IconData(
     0xe3c4,
     fontFamily: 'PhosphorRegular',
@@ -13015,7 +13015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `phosphorLogo` no estilo Regular.
   ///
-  /// ![phosphor-logo](https://api.iconify.design/ph/phosphor-logo.svg?height=32&color=%23888888)
+  /// ![phosphor-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/phosphor-logo.png)
   static const IconData phosphorLogo = IconData(
     0xe3ce,
     fontFamily: 'PhosphorRegular',
@@ -13027,7 +13027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pi` no estilo Regular.
   ///
-  /// ![pi](https://api.iconify.design/ph/pi.svg?height=32&color=%23888888)
+  /// ![pi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pi.png)
   static const IconData pi = IconData(
     0xec80,
     fontFamily: 'PhosphorRegular',
@@ -13039,7 +13039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pianoKeys` no estilo Regular.
   ///
-  /// ![piano-keys](https://api.iconify.design/ph/piano-keys.svg?height=32&color=%23888888)
+  /// ![piano-keys](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/piano-keys.png)
   static const IconData pianoKeys = IconData(
     0xe9c8,
     fontFamily: 'PhosphorRegular',
@@ -13051,7 +13051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `picnicTable` no estilo Regular.
   ///
-  /// ![picnic-table](https://api.iconify.design/ph/picnic-table.svg?height=32&color=%23888888)
+  /// ![picnic-table](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/picnic-table.png)
   static const IconData picnicTable = IconData(
     0xee26,
     fontFamily: 'PhosphorRegular',
@@ -13063,7 +13063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pictureInPicture` no estilo Regular.
   ///
-  /// ![picture-in-picture](https://api.iconify.design/ph/picture-in-picture.svg?height=32&color=%23888888)
+  /// ![picture-in-picture](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/picture-in-picture.png)
   static const IconData pictureInPicture = IconData(
     0xe64c,
     fontFamily: 'PhosphorRegular',
@@ -13075,7 +13075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `piggyBank` no estilo Regular.
   ///
-  /// ![piggy-bank](https://api.iconify.design/ph/piggy-bank.svg?height=32&color=%23888888)
+  /// ![piggy-bank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/piggy-bank.png)
   static const IconData piggyBank = IconData(
     0xea04,
     fontFamily: 'PhosphorRegular',
@@ -13087,7 +13087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pill` no estilo Regular.
   ///
-  /// ![pill](https://api.iconify.design/ph/pill.svg?height=32&color=%23888888)
+  /// ![pill](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pill.png)
   static const IconData pill = IconData(
     0xe700,
     fontFamily: 'PhosphorRegular',
@@ -13099,7 +13099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pingPong` no estilo Regular.
   ///
-  /// ![ping-pong](https://api.iconify.design/ph/ping-pong.svg?height=32&color=%23888888)
+  /// ![ping-pong](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ping-pong.png)
   static const IconData pingPong = IconData(
     0xea42,
     fontFamily: 'PhosphorRegular',
@@ -13111,7 +13111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pintGlass` no estilo Regular.
   ///
-  /// ![pint-glass](https://api.iconify.design/ph/pint-glass.svg?height=32&color=%23888888)
+  /// ![pint-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pint-glass.png)
   static const IconData pintGlass = IconData(
     0xedd0,
     fontFamily: 'PhosphorRegular',
@@ -13123,7 +13123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pinterestLogo` no estilo Regular.
   ///
-  /// ![pinterest-logo](https://api.iconify.design/ph/pinterest-logo.svg?height=32&color=%23888888)
+  /// ![pinterest-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pinterest-logo.png)
   static const IconData pinterestLogo = IconData(
     0xe64e,
     fontFamily: 'PhosphorRegular',
@@ -13135,7 +13135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pinwheel` no estilo Regular.
   ///
-  /// ![pinwheel](https://api.iconify.design/ph/pinwheel.svg?height=32&color=%23888888)
+  /// ![pinwheel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pinwheel.png)
   static const IconData pinwheel = IconData(
     0xeb9c,
     fontFamily: 'PhosphorRegular',
@@ -13147,7 +13147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pipe` no estilo Regular.
   ///
-  /// ![pipe](https://api.iconify.design/ph/pipe.svg?height=32&color=%23888888)
+  /// ![pipe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pipe.png)
   static const IconData pipe = IconData(
     0xed86,
     fontFamily: 'PhosphorRegular',
@@ -13159,7 +13159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pipeWrench` no estilo Regular.
   ///
-  /// ![pipe-wrench](https://api.iconify.design/ph/pipe-wrench.svg?height=32&color=%23888888)
+  /// ![pipe-wrench](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pipe-wrench.png)
   static const IconData pipeWrench = IconData(
     0xed88,
     fontFamily: 'PhosphorRegular',
@@ -13171,7 +13171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pixLogo` no estilo Regular.
   ///
-  /// ![pix-logo](https://api.iconify.design/ph/pix-logo.svg?height=32&color=%23888888)
+  /// ![pix-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pix-logo.png)
   static const IconData pixLogo = IconData(
     0xecc2,
     fontFamily: 'PhosphorRegular',
@@ -13183,7 +13183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pizza` no estilo Regular.
   ///
-  /// ![pizza](https://api.iconify.design/ph/pizza.svg?height=32&color=%23888888)
+  /// ![pizza](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pizza.png)
   static const IconData pizza = IconData(
     0xe796,
     fontFamily: 'PhosphorRegular',
@@ -13195,7 +13195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `placeholder` no estilo Regular.
   ///
-  /// ![placeholder](https://api.iconify.design/ph/placeholder.svg?height=32&color=%23888888)
+  /// ![placeholder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/placeholder.png)
   static const IconData placeholder = IconData(
     0xe650,
     fontFamily: 'PhosphorRegular',
@@ -13207,7 +13207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `planet` no estilo Regular.
   ///
-  /// ![planet](https://api.iconify.design/ph/planet.svg?height=32&color=%23888888)
+  /// ![planet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/planet.png)
   static const IconData planet = IconData(
     0xe652,
     fontFamily: 'PhosphorRegular',
@@ -13219,7 +13219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plant` no estilo Regular.
   ///
-  /// ![plant](https://api.iconify.design/ph/plant.svg?height=32&color=%23888888)
+  /// ![plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plant.png)
   static const IconData plant = IconData(
     0xebae,
     fontFamily: 'PhosphorRegular',
@@ -13231,7 +13231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `play` no estilo Regular.
   ///
-  /// ![play](https://api.iconify.design/ph/play.svg?height=32&color=%23888888)
+  /// ![play](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/play.png)
   static const IconData play = IconData(
     0xe3d0,
     fontFamily: 'PhosphorRegular',
@@ -13243,7 +13243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `playCircle` no estilo Regular.
   ///
-  /// ![play-circle](https://api.iconify.design/ph/play-circle.svg?height=32&color=%23888888)
+  /// ![play-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/play-circle.png)
   static const IconData playCircle = IconData(
     0xe3d2,
     fontFamily: 'PhosphorRegular',
@@ -13255,7 +13255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `playPause` no estilo Regular.
   ///
-  /// ![play-pause](https://api.iconify.design/ph/play-pause.svg?height=32&color=%23888888)
+  /// ![play-pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/play-pause.png)
   static const IconData playPause = IconData(
     0xe8be,
     fontFamily: 'PhosphorRegular',
@@ -13267,7 +13267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `playlist` no estilo Regular.
   ///
-  /// ![playlist](https://api.iconify.design/ph/playlist.svg?height=32&color=%23888888)
+  /// ![playlist](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/playlist.png)
   static const IconData playlist = IconData(
     0xe6aa,
     fontFamily: 'PhosphorRegular',
@@ -13279,7 +13279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plug` no estilo Regular.
   ///
-  /// ![plug](https://api.iconify.design/ph/plug.svg?height=32&color=%23888888)
+  /// ![plug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plug.png)
   static const IconData plug = IconData(
     0xe946,
     fontFamily: 'PhosphorRegular',
@@ -13291,7 +13291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plugCharging` no estilo Regular.
   ///
-  /// ![plug-charging](https://api.iconify.design/ph/plug-charging.svg?height=32&color=%23888888)
+  /// ![plug-charging](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plug-charging.png)
   static const IconData plugCharging = IconData(
     0xeb5c,
     fontFamily: 'PhosphorRegular',
@@ -13303,7 +13303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plugs` no estilo Regular.
   ///
-  /// ![plugs](https://api.iconify.design/ph/plugs.svg?height=32&color=%23888888)
+  /// ![plugs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plugs.png)
   static const IconData plugs = IconData(
     0xeb56,
     fontFamily: 'PhosphorRegular',
@@ -13315,7 +13315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plugsConnected` no estilo Regular.
   ///
-  /// ![plugs-connected](https://api.iconify.design/ph/plugs-connected.svg?height=32&color=%23888888)
+  /// ![plugs-connected](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plugs-connected.png)
   static const IconData plugsConnected = IconData(
     0xeb5a,
     fontFamily: 'PhosphorRegular',
@@ -13327,7 +13327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plus` no estilo Regular.
   ///
-  /// ![plus](https://api.iconify.design/ph/plus.svg?height=32&color=%23888888)
+  /// ![plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plus.png)
   static const IconData plus = IconData(
     0xe3d4,
     fontFamily: 'PhosphorRegular',
@@ -13339,7 +13339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plusCircle` no estilo Regular.
   ///
-  /// ![plus-circle](https://api.iconify.design/ph/plus-circle.svg?height=32&color=%23888888)
+  /// ![plus-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plus-circle.png)
   static const IconData plusCircle = IconData(
     0xe3d6,
     fontFamily: 'PhosphorRegular',
@@ -13351,7 +13351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plusMinus` no estilo Regular.
   ///
-  /// ![plus-minus](https://api.iconify.design/ph/plus-minus.svg?height=32&color=%23888888)
+  /// ![plus-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plus-minus.png)
   static const IconData plusMinus = IconData(
     0xe3d8,
     fontFamily: 'PhosphorRegular',
@@ -13363,7 +13363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `plusSquare` no estilo Regular.
   ///
-  /// ![plus-square](https://api.iconify.design/ph/plus-square.svg?height=32&color=%23888888)
+  /// ![plus-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/plus-square.png)
   static const IconData plusSquare = IconData(
     0xed4a,
     fontFamily: 'PhosphorRegular',
@@ -13375,7 +13375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pokerChip` no estilo Regular.
   ///
-  /// ![poker-chip](https://api.iconify.design/ph/poker-chip.svg?height=32&color=%23888888)
+  /// ![poker-chip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/poker-chip.png)
   static const IconData pokerChip = IconData(
     0xe594,
     fontFamily: 'PhosphorRegular',
@@ -13387,7 +13387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `policeCar` no estilo Regular.
   ///
-  /// ![police-car](https://api.iconify.design/ph/police-car.svg?height=32&color=%23888888)
+  /// ![police-car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/police-car.png)
   static const IconData policeCar = IconData(
     0xec4a,
     fontFamily: 'PhosphorRegular',
@@ -13399,7 +13399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `polygon` no estilo Regular.
   ///
-  /// ![polygon](https://api.iconify.design/ph/polygon.svg?height=32&color=%23888888)
+  /// ![polygon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/polygon.png)
   static const IconData polygon = IconData(
     0xe6d0,
     fontFamily: 'PhosphorRegular',
@@ -13411,7 +13411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `popcorn` no estilo Regular.
   ///
-  /// ![popcorn](https://api.iconify.design/ph/popcorn.svg?height=32&color=%23888888)
+  /// ![popcorn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/popcorn.png)
   static const IconData popcorn = IconData(
     0xeb4e,
     fontFamily: 'PhosphorRegular',
@@ -13423,7 +13423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `popsicle` no estilo Regular.
   ///
-  /// ![popsicle](https://api.iconify.design/ph/popsicle.svg?height=32&color=%23888888)
+  /// ![popsicle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/popsicle.png)
   static const IconData popsicle = IconData(
     0xebbe,
     fontFamily: 'PhosphorRegular',
@@ -13435,7 +13435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pottedPlant` no estilo Regular.
   ///
-  /// ![potted-plant](https://api.iconify.design/ph/potted-plant.svg?height=32&color=%23888888)
+  /// ![potted-plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/potted-plant.png)
   static const IconData pottedPlant = IconData(
     0xec22,
     fontFamily: 'PhosphorRegular',
@@ -13447,7 +13447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `power` no estilo Regular.
   ///
-  /// ![power](https://api.iconify.design/ph/power.svg?height=32&color=%23888888)
+  /// ![power](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/power.png)
   static const IconData power = IconData(
     0xe3da,
     fontFamily: 'PhosphorRegular',
@@ -13459,7 +13459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `prescription` no estilo Regular.
   ///
-  /// ![prescription](https://api.iconify.design/ph/prescription.svg?height=32&color=%23888888)
+  /// ![prescription](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/prescription.png)
   static const IconData prescription = IconData(
     0xe7a2,
     fontFamily: 'PhosphorRegular',
@@ -13471,7 +13471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `presentation` no estilo Regular.
   ///
-  /// ![presentation](https://api.iconify.design/ph/presentation.svg?height=32&color=%23888888)
+  /// ![presentation](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/presentation.png)
   static const IconData presentation = IconData(
     0xe654,
     fontFamily: 'PhosphorRegular',
@@ -13483,7 +13483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `presentationChart` no estilo Regular.
   ///
-  /// ![presentation-chart](https://api.iconify.design/ph/presentation-chart.svg?height=32&color=%23888888)
+  /// ![presentation-chart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/presentation-chart.png)
   static const IconData presentationChart = IconData(
     0xe656,
     fontFamily: 'PhosphorRegular',
@@ -13495,7 +13495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `printer` no estilo Regular.
   ///
-  /// ![printer](https://api.iconify.design/ph/printer.svg?height=32&color=%23888888)
+  /// ![printer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/printer.png)
   static const IconData printer = IconData(
     0xe3dc,
     fontFamily: 'PhosphorRegular',
@@ -13507,7 +13507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `prohibit` no estilo Regular.
   ///
-  /// ![prohibit](https://api.iconify.design/ph/prohibit.svg?height=32&color=%23888888)
+  /// ![prohibit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/prohibit.png)
   static const IconData prohibit = IconData(
     0xe3de,
     fontFamily: 'PhosphorRegular',
@@ -13519,7 +13519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `prohibitInset` no estilo Regular.
   ///
-  /// ![prohibit-inset](https://api.iconify.design/ph/prohibit-inset.svg?height=32&color=%23888888)
+  /// ![prohibit-inset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/prohibit-inset.png)
   static const IconData prohibitInset = IconData(
     0xe3e0,
     fontFamily: 'PhosphorRegular',
@@ -13531,7 +13531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `projectorScreen` no estilo Regular.
   ///
-  /// ![projector-screen](https://api.iconify.design/ph/projector-screen.svg?height=32&color=%23888888)
+  /// ![projector-screen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/projector-screen.png)
   static const IconData projectorScreen = IconData(
     0xe658,
     fontFamily: 'PhosphorRegular',
@@ -13543,7 +13543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `projectorScreenChart` no estilo Regular.
   ///
-  /// ![projector-screen-chart](https://api.iconify.design/ph/projector-screen-chart.svg?height=32&color=%23888888)
+  /// ![projector-screen-chart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/projector-screen-chart.png)
   static const IconData projectorScreenChart = IconData(
     0xe65a,
     fontFamily: 'PhosphorRegular',
@@ -13555,7 +13555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pulse` no estilo Regular.
   ///
-  /// ![pulse](https://api.iconify.design/ph/pulse.svg?height=32&color=%23888888)
+  /// ![pulse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/pulse.png)
   static const IconData pulse = IconData(
     0xe000,
     fontFamily: 'PhosphorRegular',
@@ -13567,7 +13567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPin` no estilo Regular.
   ///
-  /// ![push-pin](https://api.iconify.design/ph/push-pin.svg?height=32&color=%23888888)
+  /// ![push-pin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/push-pin.png)
   static const IconData pushPin = IconData(
     0xe3e2,
     fontFamily: 'PhosphorRegular',
@@ -13579,7 +13579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPinSimple` no estilo Regular.
   ///
-  /// ![push-pin-simple](https://api.iconify.design/ph/push-pin-simple.svg?height=32&color=%23888888)
+  /// ![push-pin-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/push-pin-simple.png)
   static const IconData pushPinSimple = IconData(
     0xe65c,
     fontFamily: 'PhosphorRegular',
@@ -13591,7 +13591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPinSimpleSlash` no estilo Regular.
   ///
-  /// ![push-pin-simple-slash](https://api.iconify.design/ph/push-pin-simple-slash.svg?height=32&color=%23888888)
+  /// ![push-pin-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/push-pin-simple-slash.png)
   static const IconData pushPinSimpleSlash = IconData(
     0xe65e,
     fontFamily: 'PhosphorRegular',
@@ -13603,7 +13603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `pushPinSlash` no estilo Regular.
   ///
-  /// ![push-pin-slash](https://api.iconify.design/ph/push-pin-slash.svg?height=32&color=%23888888)
+  /// ![push-pin-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/push-pin-slash.png)
   static const IconData pushPinSlash = IconData(
     0xe3e4,
     fontFamily: 'PhosphorRegular',
@@ -13615,7 +13615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `puzzlePiece` no estilo Regular.
   ///
-  /// ![puzzle-piece](https://api.iconify.design/ph/puzzle-piece.svg?height=32&color=%23888888)
+  /// ![puzzle-piece](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/puzzle-piece.png)
   static const IconData puzzlePiece = IconData(
     0xe596,
     fontFamily: 'PhosphorRegular',
@@ -13627,7 +13627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `qrCode` no estilo Regular.
   ///
-  /// ![qr-code](https://api.iconify.design/ph/qr-code.svg?height=32&color=%23888888)
+  /// ![qr-code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/qr-code.png)
   static const IconData qrCode = IconData(
     0xe3e6,
     fontFamily: 'PhosphorRegular',
@@ -13639,7 +13639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `question` no estilo Regular.
   ///
-  /// ![question](https://api.iconify.design/ph/question.svg?height=32&color=%23888888)
+  /// ![question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/question.png)
   static const IconData question = IconData(
     0xe3e8,
     fontFamily: 'PhosphorRegular',
@@ -13651,7 +13651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `questionMark` no estilo Regular.
   ///
-  /// ![question-mark](https://api.iconify.design/ph/question-mark.svg?height=32&color=%23888888)
+  /// ![question-mark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/question-mark.png)
   static const IconData questionMark = IconData(
     0xe3e9,
     fontFamily: 'PhosphorRegular',
@@ -13663,7 +13663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `queue` no estilo Regular.
   ///
-  /// ![queue](https://api.iconify.design/ph/queue.svg?height=32&color=%23888888)
+  /// ![queue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/queue.png)
   static const IconData queue = IconData(
     0xe6ac,
     fontFamily: 'PhosphorRegular',
@@ -13675,7 +13675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `quotes` no estilo Regular.
   ///
-  /// ![quotes](https://api.iconify.design/ph/quotes.svg?height=32&color=%23888888)
+  /// ![quotes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/quotes.png)
   static const IconData quotes = IconData(
     0xe660,
     fontFamily: 'PhosphorRegular',
@@ -13687,7 +13687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rabbit` no estilo Regular.
   ///
-  /// ![rabbit](https://api.iconify.design/ph/rabbit.svg?height=32&color=%23888888)
+  /// ![rabbit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rabbit.png)
   static const IconData rabbit = IconData(
     0xeac2,
     fontFamily: 'PhosphorRegular',
@@ -13699,7 +13699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `racquet` no estilo Regular.
   ///
-  /// ![racquet](https://api.iconify.design/ph/racquet.svg?height=32&color=%23888888)
+  /// ![racquet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/racquet.png)
   static const IconData racquet = IconData(
     0xee02,
     fontFamily: 'PhosphorRegular',
@@ -13711,7 +13711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radical` no estilo Regular.
   ///
-  /// ![radical](https://api.iconify.design/ph/radical.svg?height=32&color=%23888888)
+  /// ![radical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/radical.png)
   static const IconData radical = IconData(
     0xe3ea,
     fontFamily: 'PhosphorRegular',
@@ -13723,7 +13723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radio` no estilo Regular.
   ///
-  /// ![radio](https://api.iconify.design/ph/radio.svg?height=32&color=%23888888)
+  /// ![radio](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/radio.png)
   static const IconData radio = IconData(
     0xe77e,
     fontFamily: 'PhosphorRegular',
@@ -13735,7 +13735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radioButton` no estilo Regular.
   ///
-  /// ![radio-button](https://api.iconify.design/ph/radio-button.svg?height=32&color=%23888888)
+  /// ![radio-button](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/radio-button.png)
   static const IconData radioButton = IconData(
     0xeb08,
     fontFamily: 'PhosphorRegular',
@@ -13747,7 +13747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `radioactive` no estilo Regular.
   ///
-  /// ![radioactive](https://api.iconify.design/ph/radioactive.svg?height=32&color=%23888888)
+  /// ![radioactive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/radioactive.png)
   static const IconData radioactive = IconData(
     0xe9dc,
     fontFamily: 'PhosphorRegular',
@@ -13759,7 +13759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rainbow` no estilo Regular.
   ///
-  /// ![rainbow](https://api.iconify.design/ph/rainbow.svg?height=32&color=%23888888)
+  /// ![rainbow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rainbow.png)
   static const IconData rainbow = IconData(
     0xe598,
     fontFamily: 'PhosphorRegular',
@@ -13771,7 +13771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rainbowCloud` no estilo Regular.
   ///
-  /// ![rainbow-cloud](https://api.iconify.design/ph/rainbow-cloud.svg?height=32&color=%23888888)
+  /// ![rainbow-cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rainbow-cloud.png)
   static const IconData rainbowCloud = IconData(
     0xe59a,
     fontFamily: 'PhosphorRegular',
@@ -13783,7 +13783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ranking` no estilo Regular.
   ///
-  /// ![ranking](https://api.iconify.design/ph/ranking.svg?height=32&color=%23888888)
+  /// ![ranking](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ranking.png)
   static const IconData ranking = IconData(
     0xed62,
     fontFamily: 'PhosphorRegular',
@@ -13795,7 +13795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `readCvLogo` no estilo Regular.
   ///
-  /// ![read-cv-logo](https://api.iconify.design/ph/read-cv-logo.svg?height=32&color=%23888888)
+  /// ![read-cv-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/read-cv-logo.png)
   static const IconData readCvLogo = IconData(
     0xed0c,
     fontFamily: 'PhosphorRegular',
@@ -13807,7 +13807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `receipt` no estilo Regular.
   ///
-  /// ![receipt](https://api.iconify.design/ph/receipt.svg?height=32&color=%23888888)
+  /// ![receipt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/receipt.png)
   static const IconData receipt = IconData(
     0xe3ec,
     fontFamily: 'PhosphorRegular',
@@ -13819,7 +13819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `receiptX` no estilo Regular.
   ///
-  /// ![receipt-x](https://api.iconify.design/ph/receipt-x.svg?height=32&color=%23888888)
+  /// ![receipt-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/receipt-x.png)
   static const IconData receiptX = IconData(
     0xed40,
     fontFamily: 'PhosphorRegular',
@@ -13831,7 +13831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `record` no estilo Regular.
   ///
-  /// ![record](https://api.iconify.design/ph/record.svg?height=32&color=%23888888)
+  /// ![record](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/record.png)
   static const IconData record = IconData(
     0xe3ee,
     fontFamily: 'PhosphorRegular',
@@ -13843,7 +13843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rectangle` no estilo Regular.
   ///
-  /// ![rectangle](https://api.iconify.design/ph/rectangle.svg?height=32&color=%23888888)
+  /// ![rectangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rectangle.png)
   static const IconData rectangle = IconData(
     0xe3f0,
     fontFamily: 'PhosphorRegular',
@@ -13855,7 +13855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rectangleDashed` no estilo Regular.
   ///
-  /// ![rectangle-dashed](https://api.iconify.design/ph/rectangle-dashed.svg?height=32&color=%23888888)
+  /// ![rectangle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rectangle-dashed.png)
   static const IconData rectangleDashed = IconData(
     0xe3f2,
     fontFamily: 'PhosphorRegular',
@@ -13867,7 +13867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `recycle` no estilo Regular.
   ///
-  /// ![recycle](https://api.iconify.design/ph/recycle.svg?height=32&color=%23888888)
+  /// ![recycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/recycle.png)
   static const IconData recycle = IconData(
     0xe75a,
     fontFamily: 'PhosphorRegular',
@@ -13879,7 +13879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `redditLogo` no estilo Regular.
   ///
-  /// ![reddit-logo](https://api.iconify.design/ph/reddit-logo.svg?height=32&color=%23888888)
+  /// ![reddit-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/reddit-logo.png)
   static const IconData redditLogo = IconData(
     0xe59c,
     fontFamily: 'PhosphorRegular',
@@ -13891,7 +13891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `repeat` no estilo Regular.
   ///
-  /// ![repeat](https://api.iconify.design/ph/repeat.svg?height=32&color=%23888888)
+  /// ![repeat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/repeat.png)
   static const IconData repeat = IconData(
     0xe3f6,
     fontFamily: 'PhosphorRegular',
@@ -13903,7 +13903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `repeatOnce` no estilo Regular.
   ///
-  /// ![repeat-once](https://api.iconify.design/ph/repeat-once.svg?height=32&color=%23888888)
+  /// ![repeat-once](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/repeat-once.png)
   static const IconData repeatOnce = IconData(
     0xe3f8,
     fontFamily: 'PhosphorRegular',
@@ -13915,7 +13915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `replitLogo` no estilo Regular.
   ///
-  /// ![replit-logo](https://api.iconify.design/ph/replit-logo.svg?height=32&color=%23888888)
+  /// ![replit-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/replit-logo.png)
   static const IconData replitLogo = IconData(
     0xeb8a,
     fontFamily: 'PhosphorRegular',
@@ -13927,7 +13927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `resize` no estilo Regular.
   ///
-  /// ![resize](https://api.iconify.design/ph/resize.svg?height=32&color=%23888888)
+  /// ![resize](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/resize.png)
   static const IconData resize = IconData(
     0xed6e,
     fontFamily: 'PhosphorRegular',
@@ -13939,7 +13939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rewind` no estilo Regular.
   ///
-  /// ![rewind](https://api.iconify.design/ph/rewind.svg?height=32&color=%23888888)
+  /// ![rewind](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rewind.png)
   static const IconData rewind = IconData(
     0xe6a8,
     fontFamily: 'PhosphorRegular',
@@ -13951,7 +13951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rewindCircle` no estilo Regular.
   ///
-  /// ![rewind-circle](https://api.iconify.design/ph/rewind-circle.svg?height=32&color=%23888888)
+  /// ![rewind-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rewind-circle.png)
   static const IconData rewindCircle = IconData(
     0xe3fa,
     fontFamily: 'PhosphorRegular',
@@ -13963,7 +13963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `roadHorizon` no estilo Regular.
   ///
-  /// ![road-horizon](https://api.iconify.design/ph/road-horizon.svg?height=32&color=%23888888)
+  /// ![road-horizon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/road-horizon.png)
   static const IconData roadHorizon = IconData(
     0xe838,
     fontFamily: 'PhosphorRegular',
@@ -13975,7 +13975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `robot` no estilo Regular.
   ///
-  /// ![robot](https://api.iconify.design/ph/robot.svg?height=32&color=%23888888)
+  /// ![robot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/robot.png)
   static const IconData robot = IconData(
     0xe762,
     fontFamily: 'PhosphorRegular',
@@ -13987,7 +13987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rocket` no estilo Regular.
   ///
-  /// ![rocket](https://api.iconify.design/ph/rocket.svg?height=32&color=%23888888)
+  /// ![rocket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rocket.png)
   static const IconData rocket = IconData(
     0xe3fc,
     fontFamily: 'PhosphorRegular',
@@ -13999,7 +13999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rocketLaunch` no estilo Regular.
   ///
-  /// ![rocket-launch](https://api.iconify.design/ph/rocket-launch.svg?height=32&color=%23888888)
+  /// ![rocket-launch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rocket-launch.png)
   static const IconData rocketLaunch = IconData(
     0xe3fe,
     fontFamily: 'PhosphorRegular',
@@ -14011,7 +14011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rows` no estilo Regular.
   ///
-  /// ![rows](https://api.iconify.design/ph/rows.svg?height=32&color=%23888888)
+  /// ![rows](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rows.png)
   static const IconData rows = IconData(
     0xe5a2,
     fontFamily: 'PhosphorRegular',
@@ -14023,7 +14023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rowsPlusBottom` no estilo Regular.
   ///
-  /// ![rows-plus-bottom](https://api.iconify.design/ph/rows-plus-bottom.svg?height=32&color=%23888888)
+  /// ![rows-plus-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rows-plus-bottom.png)
   static const IconData rowsPlusBottom = IconData(
     0xe59e,
     fontFamily: 'PhosphorRegular',
@@ -14035,7 +14035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rowsPlusTop` no estilo Regular.
   ///
-  /// ![rows-plus-top](https://api.iconify.design/ph/rows-plus-top.svg?height=32&color=%23888888)
+  /// ![rows-plus-top](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rows-plus-top.png)
   static const IconData rowsPlusTop = IconData(
     0xe5a0,
     fontFamily: 'PhosphorRegular',
@@ -14047,7 +14047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rss` no estilo Regular.
   ///
-  /// ![rss](https://api.iconify.design/ph/rss.svg?height=32&color=%23888888)
+  /// ![rss](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rss.png)
   static const IconData rss = IconData(
     0xe400,
     fontFamily: 'PhosphorRegular',
@@ -14059,7 +14059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rssSimple` no estilo Regular.
   ///
-  /// ![rss-simple](https://api.iconify.design/ph/rss-simple.svg?height=32&color=%23888888)
+  /// ![rss-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rss-simple.png)
   static const IconData rssSimple = IconData(
     0xe402,
     fontFamily: 'PhosphorRegular',
@@ -14071,7 +14071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `rug` no estilo Regular.
   ///
-  /// ![rug](https://api.iconify.design/ph/rug.svg?height=32&color=%23888888)
+  /// ![rug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/rug.png)
   static const IconData rug = IconData(
     0xea1a,
     fontFamily: 'PhosphorRegular',
@@ -14083,7 +14083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ruler` no estilo Regular.
   ///
-  /// ![ruler](https://api.iconify.design/ph/ruler.svg?height=32&color=%23888888)
+  /// ![ruler](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ruler.png)
   static const IconData ruler = IconData(
     0xe6b8,
     fontFamily: 'PhosphorRegular',
@@ -14095,7 +14095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sailboat` no estilo Regular.
   ///
-  /// ![sailboat](https://api.iconify.design/ph/sailboat.svg?height=32&color=%23888888)
+  /// ![sailboat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sailboat.png)
   static const IconData sailboat = IconData(
     0xe78a,
     fontFamily: 'PhosphorRegular',
@@ -14107,7 +14107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scales` no estilo Regular.
   ///
-  /// ![scales](https://api.iconify.design/ph/scales.svg?height=32&color=%23888888)
+  /// ![scales](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scales.png)
   static const IconData scales = IconData(
     0xe750,
     fontFamily: 'PhosphorRegular',
@@ -14119,7 +14119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scan` no estilo Regular.
   ///
-  /// ![scan](https://api.iconify.design/ph/scan.svg?height=32&color=%23888888)
+  /// ![scan](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scan.png)
   static const IconData scan = IconData(
     0xebb6,
     fontFamily: 'PhosphorRegular',
@@ -14131,7 +14131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scanSmiley` no estilo Regular.
   ///
-  /// ![scan-smiley](https://api.iconify.design/ph/scan-smiley.svg?height=32&color=%23888888)
+  /// ![scan-smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scan-smiley.png)
   static const IconData scanSmiley = IconData(
     0xebb4,
     fontFamily: 'PhosphorRegular',
@@ -14143,7 +14143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scissors` no estilo Regular.
   ///
-  /// ![scissors](https://api.iconify.design/ph/scissors.svg?height=32&color=%23888888)
+  /// ![scissors](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scissors.png)
   static const IconData scissors = IconData(
     0xeae0,
     fontFamily: 'PhosphorRegular',
@@ -14155,7 +14155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scooter` no estilo Regular.
   ///
-  /// ![scooter](https://api.iconify.design/ph/scooter.svg?height=32&color=%23888888)
+  /// ![scooter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scooter.png)
   static const IconData scooter = IconData(
     0xe820,
     fontFamily: 'PhosphorRegular',
@@ -14167,7 +14167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `screencast` no estilo Regular.
   ///
-  /// ![screencast](https://api.iconify.design/ph/screencast.svg?height=32&color=%23888888)
+  /// ![screencast](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/screencast.png)
   static const IconData screencast = IconData(
     0xe404,
     fontFamily: 'PhosphorRegular',
@@ -14179,7 +14179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `screwdriver` no estilo Regular.
   ///
-  /// ![screwdriver](https://api.iconify.design/ph/screwdriver.svg?height=32&color=%23888888)
+  /// ![screwdriver](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/screwdriver.png)
   static const IconData screwdriver = IconData(
     0xe86e,
     fontFamily: 'PhosphorRegular',
@@ -14191,7 +14191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scribble` no estilo Regular.
   ///
-  /// ![scribble](https://api.iconify.design/ph/scribble.svg?height=32&color=%23888888)
+  /// ![scribble](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scribble.png)
   static const IconData scribble = IconData(
     0xe806,
     fontFamily: 'PhosphorRegular',
@@ -14203,7 +14203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scribbleLoop` no estilo Regular.
   ///
-  /// ![scribble-loop](https://api.iconify.design/ph/scribble-loop.svg?height=32&color=%23888888)
+  /// ![scribble-loop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scribble-loop.png)
   static const IconData scribbleLoop = IconData(
     0xe662,
     fontFamily: 'PhosphorRegular',
@@ -14215,7 +14215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `scroll` no estilo Regular.
   ///
-  /// ![scroll](https://api.iconify.design/ph/scroll.svg?height=32&color=%23888888)
+  /// ![scroll](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/scroll.png)
   static const IconData scroll = IconData(
     0xeb7a,
     fontFamily: 'PhosphorRegular',
@@ -14227,7 +14227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `seal` no estilo Regular.
   ///
-  /// ![seal](https://api.iconify.design/ph/seal.svg?height=32&color=%23888888)
+  /// ![seal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/seal.png)
   static const IconData seal = IconData(
     0xe604,
     fontFamily: 'PhosphorRegular',
@@ -14239,7 +14239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealCheck` no estilo Regular.
   ///
-  /// ![seal-check](https://api.iconify.design/ph/seal-check.svg?height=32&color=%23888888)
+  /// ![seal-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/seal-check.png)
   static const IconData sealCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorRegular',
@@ -14251,7 +14251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealPercent` no estilo Regular.
   ///
-  /// ![seal-percent](https://api.iconify.design/ph/seal-percent.svg?height=32&color=%23888888)
+  /// ![seal-percent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/seal-percent.png)
   static const IconData sealPercent = IconData(
     0xe60a,
     fontFamily: 'PhosphorRegular',
@@ -14263,7 +14263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealQuestion` no estilo Regular.
   ///
-  /// ![seal-question](https://api.iconify.design/ph/seal-question.svg?height=32&color=%23888888)
+  /// ![seal-question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/seal-question.png)
   static const IconData sealQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorRegular',
@@ -14275,7 +14275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sealWarning` no estilo Regular.
   ///
-  /// ![seal-warning](https://api.iconify.design/ph/seal-warning.svg?height=32&color=%23888888)
+  /// ![seal-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/seal-warning.png)
   static const IconData sealWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorRegular',
@@ -14287,7 +14287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `seat` no estilo Regular.
   ///
-  /// ![seat](https://api.iconify.design/ph/seat.svg?height=32&color=%23888888)
+  /// ![seat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/seat.png)
   static const IconData seat = IconData(
     0xeb8e,
     fontFamily: 'PhosphorRegular',
@@ -14299,7 +14299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `seatbelt` no estilo Regular.
   ///
-  /// ![seatbelt](https://api.iconify.design/ph/seatbelt.svg?height=32&color=%23888888)
+  /// ![seatbelt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/seatbelt.png)
   static const IconData seatbelt = IconData(
     0xedfe,
     fontFamily: 'PhosphorRegular',
@@ -14311,7 +14311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `securityCamera` no estilo Regular.
   ///
-  /// ![security-camera](https://api.iconify.design/ph/security-camera.svg?height=32&color=%23888888)
+  /// ![security-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/security-camera.png)
   static const IconData securityCamera = IconData(
     0xeca4,
     fontFamily: 'PhosphorRegular',
@@ -14323,7 +14323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selection` no estilo Regular.
   ///
-  /// ![selection](https://api.iconify.design/ph/selection.svg?height=32&color=%23888888)
+  /// ![selection](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/selection.png)
   static const IconData selection = IconData(
     0xe69a,
     fontFamily: 'PhosphorRegular',
@@ -14335,7 +14335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionAll` no estilo Regular.
   ///
-  /// ![selection-all](https://api.iconify.design/ph/selection-all.svg?height=32&color=%23888888)
+  /// ![selection-all](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/selection-all.png)
   static const IconData selectionAll = IconData(
     0xe746,
     fontFamily: 'PhosphorRegular',
@@ -14347,7 +14347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionBackground` no estilo Regular.
   ///
-  /// ![selection-background](https://api.iconify.design/ph/selection-background.svg?height=32&color=%23888888)
+  /// ![selection-background](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/selection-background.png)
   static const IconData selectionBackground = IconData(
     0xeaf8,
     fontFamily: 'PhosphorRegular',
@@ -14359,7 +14359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionForeground` no estilo Regular.
   ///
-  /// ![selection-foreground](https://api.iconify.design/ph/selection-foreground.svg?height=32&color=%23888888)
+  /// ![selection-foreground](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/selection-foreground.png)
   static const IconData selectionForeground = IconData(
     0xeaf6,
     fontFamily: 'PhosphorRegular',
@@ -14371,7 +14371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionInverse` no estilo Regular.
   ///
-  /// ![selection-inverse](https://api.iconify.design/ph/selection-inverse.svg?height=32&color=%23888888)
+  /// ![selection-inverse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/selection-inverse.png)
   static const IconData selectionInverse = IconData(
     0xe744,
     fontFamily: 'PhosphorRegular',
@@ -14383,7 +14383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionPlus` no estilo Regular.
   ///
-  /// ![selection-plus](https://api.iconify.design/ph/selection-plus.svg?height=32&color=%23888888)
+  /// ![selection-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/selection-plus.png)
   static const IconData selectionPlus = IconData(
     0xe69c,
     fontFamily: 'PhosphorRegular',
@@ -14395,7 +14395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `selectionSlash` no estilo Regular.
   ///
-  /// ![selection-slash](https://api.iconify.design/ph/selection-slash.svg?height=32&color=%23888888)
+  /// ![selection-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/selection-slash.png)
   static const IconData selectionSlash = IconData(
     0xe69e,
     fontFamily: 'PhosphorRegular',
@@ -14407,7 +14407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shapes` no estilo Regular.
   ///
-  /// ![shapes](https://api.iconify.design/ph/shapes.svg?height=32&color=%23888888)
+  /// ![shapes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shapes.png)
   static const IconData shapes = IconData(
     0xec5e,
     fontFamily: 'PhosphorRegular',
@@ -14419,7 +14419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `share` no estilo Regular.
   ///
-  /// ![share](https://api.iconify.design/ph/share.svg?height=32&color=%23888888)
+  /// ![share](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/share.png)
   static const IconData share = IconData(
     0xe406,
     fontFamily: 'PhosphorRegular',
@@ -14431,7 +14431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shareFat` no estilo Regular.
   ///
-  /// ![share-fat](https://api.iconify.design/ph/share-fat.svg?height=32&color=%23888888)
+  /// ![share-fat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/share-fat.png)
   static const IconData shareFat = IconData(
     0xed52,
     fontFamily: 'PhosphorRegular',
@@ -14443,7 +14443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shareNetwork` no estilo Regular.
   ///
-  /// ![share-network](https://api.iconify.design/ph/share-network.svg?height=32&color=%23888888)
+  /// ![share-network](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/share-network.png)
   static const IconData shareNetwork = IconData(
     0xe408,
     fontFamily: 'PhosphorRegular',
@@ -14455,7 +14455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shield` no estilo Regular.
   ///
-  /// ![shield](https://api.iconify.design/ph/shield.svg?height=32&color=%23888888)
+  /// ![shield](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield.png)
   static const IconData shield = IconData(
     0xe40a,
     fontFamily: 'PhosphorRegular',
@@ -14467,7 +14467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldCheck` no estilo Regular.
   ///
-  /// ![shield-check](https://api.iconify.design/ph/shield-check.svg?height=32&color=%23888888)
+  /// ![shield-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield-check.png)
   static const IconData shieldCheck = IconData(
     0xe40c,
     fontFamily: 'PhosphorRegular',
@@ -14479,7 +14479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldCheckered` no estilo Regular.
   ///
-  /// ![shield-checkered](https://api.iconify.design/ph/shield-checkered.svg?height=32&color=%23888888)
+  /// ![shield-checkered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield-checkered.png)
   static const IconData shieldCheckered = IconData(
     0xe708,
     fontFamily: 'PhosphorRegular',
@@ -14491,7 +14491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldChevron` no estilo Regular.
   ///
-  /// ![shield-chevron](https://api.iconify.design/ph/shield-chevron.svg?height=32&color=%23888888)
+  /// ![shield-chevron](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield-chevron.png)
   static const IconData shieldChevron = IconData(
     0xe40e,
     fontFamily: 'PhosphorRegular',
@@ -14503,7 +14503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldPlus` no estilo Regular.
   ///
-  /// ![shield-plus](https://api.iconify.design/ph/shield-plus.svg?height=32&color=%23888888)
+  /// ![shield-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield-plus.png)
   static const IconData shieldPlus = IconData(
     0xe706,
     fontFamily: 'PhosphorRegular',
@@ -14515,7 +14515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldSlash` no estilo Regular.
   ///
-  /// ![shield-slash](https://api.iconify.design/ph/shield-slash.svg?height=32&color=%23888888)
+  /// ![shield-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield-slash.png)
   static const IconData shieldSlash = IconData(
     0xe410,
     fontFamily: 'PhosphorRegular',
@@ -14527,7 +14527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldStar` no estilo Regular.
   ///
-  /// ![shield-star](https://api.iconify.design/ph/shield-star.svg?height=32&color=%23888888)
+  /// ![shield-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield-star.png)
   static const IconData shieldStar = IconData(
     0xec34,
     fontFamily: 'PhosphorRegular',
@@ -14539,7 +14539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shieldWarning` no estilo Regular.
   ///
-  /// ![shield-warning](https://api.iconify.design/ph/shield-warning.svg?height=32&color=%23888888)
+  /// ![shield-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shield-warning.png)
   static const IconData shieldWarning = IconData(
     0xe412,
     fontFamily: 'PhosphorRegular',
@@ -14551,7 +14551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shippingContainer` no estilo Regular.
   ///
-  /// ![shipping-container](https://api.iconify.design/ph/shipping-container.svg?height=32&color=%23888888)
+  /// ![shipping-container](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shipping-container.png)
   static const IconData shippingContainer = IconData(
     0xe78c,
     fontFamily: 'PhosphorRegular',
@@ -14563,7 +14563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shirtFolded` no estilo Regular.
   ///
-  /// ![shirt-folded](https://api.iconify.design/ph/shirt-folded.svg?height=32&color=%23888888)
+  /// ![shirt-folded](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shirt-folded.png)
   static const IconData shirtFolded = IconData(
     0xea92,
     fontFamily: 'PhosphorRegular',
@@ -14575,7 +14575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shootingStar` no estilo Regular.
   ///
-  /// ![shooting-star](https://api.iconify.design/ph/shooting-star.svg?height=32&color=%23888888)
+  /// ![shooting-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shooting-star.png)
   static const IconData shootingStar = IconData(
     0xecfa,
     fontFamily: 'PhosphorRegular',
@@ -14587,7 +14587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingBag` no estilo Regular.
   ///
-  /// ![shopping-bag](https://api.iconify.design/ph/shopping-bag.svg?height=32&color=%23888888)
+  /// ![shopping-bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shopping-bag.png)
   static const IconData shoppingBag = IconData(
     0xe416,
     fontFamily: 'PhosphorRegular',
@@ -14599,7 +14599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingBagOpen` no estilo Regular.
   ///
-  /// ![shopping-bag-open](https://api.iconify.design/ph/shopping-bag-open.svg?height=32&color=%23888888)
+  /// ![shopping-bag-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shopping-bag-open.png)
   static const IconData shoppingBagOpen = IconData(
     0xe418,
     fontFamily: 'PhosphorRegular',
@@ -14611,7 +14611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingCart` no estilo Regular.
   ///
-  /// ![shopping-cart](https://api.iconify.design/ph/shopping-cart.svg?height=32&color=%23888888)
+  /// ![shopping-cart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shopping-cart.png)
   static const IconData shoppingCart = IconData(
     0xe41e,
     fontFamily: 'PhosphorRegular',
@@ -14623,7 +14623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shoppingCartSimple` no estilo Regular.
   ///
-  /// ![shopping-cart-simple](https://api.iconify.design/ph/shopping-cart-simple.svg?height=32&color=%23888888)
+  /// ![shopping-cart-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shopping-cart-simple.png)
   static const IconData shoppingCartSimple = IconData(
     0xe420,
     fontFamily: 'PhosphorRegular',
@@ -14635,7 +14635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shovel` no estilo Regular.
   ///
-  /// ![shovel](https://api.iconify.design/ph/shovel.svg?height=32&color=%23888888)
+  /// ![shovel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shovel.png)
   static const IconData shovel = IconData(
     0xe9e6,
     fontFamily: 'PhosphorRegular',
@@ -14647,7 +14647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shower` no estilo Regular.
   ///
-  /// ![shower](https://api.iconify.design/ph/shower.svg?height=32&color=%23888888)
+  /// ![shower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shower.png)
   static const IconData shower = IconData(
     0xe776,
     fontFamily: 'PhosphorRegular',
@@ -14659,7 +14659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shrimp` no estilo Regular.
   ///
-  /// ![shrimp](https://api.iconify.design/ph/shrimp.svg?height=32&color=%23888888)
+  /// ![shrimp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shrimp.png)
   static const IconData shrimp = IconData(
     0xeab4,
     fontFamily: 'PhosphorRegular',
@@ -14671,7 +14671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shuffle` no estilo Regular.
   ///
-  /// ![shuffle](https://api.iconify.design/ph/shuffle.svg?height=32&color=%23888888)
+  /// ![shuffle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shuffle.png)
   static const IconData shuffle = IconData(
     0xe422,
     fontFamily: 'PhosphorRegular',
@@ -14683,7 +14683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shuffleAngular` no estilo Regular.
   ///
-  /// ![shuffle-angular](https://api.iconify.design/ph/shuffle-angular.svg?height=32&color=%23888888)
+  /// ![shuffle-angular](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shuffle-angular.png)
   static const IconData shuffleAngular = IconData(
     0xe424,
     fontFamily: 'PhosphorRegular',
@@ -14695,7 +14695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `shuffleSimple` no estilo Regular.
   ///
-  /// ![shuffle-simple](https://api.iconify.design/ph/shuffle-simple.svg?height=32&color=%23888888)
+  /// ![shuffle-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/shuffle-simple.png)
   static const IconData shuffleSimple = IconData(
     0xe426,
     fontFamily: 'PhosphorRegular',
@@ -14707,7 +14707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sidebar` no estilo Regular.
   ///
-  /// ![sidebar](https://api.iconify.design/ph/sidebar.svg?height=32&color=%23888888)
+  /// ![sidebar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sidebar.png)
   static const IconData sidebar = IconData(
     0xeab6,
     fontFamily: 'PhosphorRegular',
@@ -14719,7 +14719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sidebarSimple` no estilo Regular.
   ///
-  /// ![sidebar-simple](https://api.iconify.design/ph/sidebar-simple.svg?height=32&color=%23888888)
+  /// ![sidebar-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sidebar-simple.png)
   static const IconData sidebarSimple = IconData(
     0xec24,
     fontFamily: 'PhosphorRegular',
@@ -14731,7 +14731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sigma` no estilo Regular.
   ///
-  /// ![sigma](https://api.iconify.design/ph/sigma.svg?height=32&color=%23888888)
+  /// ![sigma](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sigma.png)
   static const IconData sigma = IconData(
     0xeab8,
     fontFamily: 'PhosphorRegular',
@@ -14743,7 +14743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signIn` no estilo Regular.
   ///
-  /// ![sign-in](https://api.iconify.design/ph/sign-in.svg?height=32&color=%23888888)
+  /// ![sign-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sign-in.png)
   static const IconData signIn = IconData(
     0xe428,
     fontFamily: 'PhosphorRegular',
@@ -14755,7 +14755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signOut` no estilo Regular.
   ///
-  /// ![sign-out](https://api.iconify.design/ph/sign-out.svg?height=32&color=%23888888)
+  /// ![sign-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sign-out.png)
   static const IconData signOut = IconData(
     0xe42a,
     fontFamily: 'PhosphorRegular',
@@ -14767,7 +14767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signature` no estilo Regular.
   ///
-  /// ![signature](https://api.iconify.design/ph/signature.svg?height=32&color=%23888888)
+  /// ![signature](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/signature.png)
   static const IconData signature = IconData(
     0xebac,
     fontFamily: 'PhosphorRegular',
@@ -14779,7 +14779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `signpost` no estilo Regular.
   ///
-  /// ![signpost](https://api.iconify.design/ph/signpost.svg?height=32&color=%23888888)
+  /// ![signpost](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/signpost.png)
   static const IconData signpost = IconData(
     0xe89c,
     fontFamily: 'PhosphorRegular',
@@ -14791,7 +14791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `simCard` no estilo Regular.
   ///
-  /// ![sim-card](https://api.iconify.design/ph/sim-card.svg?height=32&color=%23888888)
+  /// ![sim-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sim-card.png)
   static const IconData simCard = IconData(
     0xe664,
     fontFamily: 'PhosphorRegular',
@@ -14803,7 +14803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `siren` no estilo Regular.
   ///
-  /// ![siren](https://api.iconify.design/ph/siren.svg?height=32&color=%23888888)
+  /// ![siren](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/siren.png)
   static const IconData siren = IconData(
     0xe9b8,
     fontFamily: 'PhosphorRegular',
@@ -14815,7 +14815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sketchLogo` no estilo Regular.
   ///
-  /// ![sketch-logo](https://api.iconify.design/ph/sketch-logo.svg?height=32&color=%23888888)
+  /// ![sketch-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sketch-logo.png)
   static const IconData sketchLogo = IconData(
     0xe42c,
     fontFamily: 'PhosphorRegular',
@@ -14827,7 +14827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipBack` no estilo Regular.
   ///
-  /// ![skip-back](https://api.iconify.design/ph/skip-back.svg?height=32&color=%23888888)
+  /// ![skip-back](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/skip-back.png)
   static const IconData skipBack = IconData(
     0xe5a4,
     fontFamily: 'PhosphorRegular',
@@ -14839,7 +14839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipBackCircle` no estilo Regular.
   ///
-  /// ![skip-back-circle](https://api.iconify.design/ph/skip-back-circle.svg?height=32&color=%23888888)
+  /// ![skip-back-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/skip-back-circle.png)
   static const IconData skipBackCircle = IconData(
     0xe42e,
     fontFamily: 'PhosphorRegular',
@@ -14851,7 +14851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipForward` no estilo Regular.
   ///
-  /// ![skip-forward](https://api.iconify.design/ph/skip-forward.svg?height=32&color=%23888888)
+  /// ![skip-forward](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/skip-forward.png)
   static const IconData skipForward = IconData(
     0xe5a6,
     fontFamily: 'PhosphorRegular',
@@ -14863,7 +14863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skipForwardCircle` no estilo Regular.
   ///
-  /// ![skip-forward-circle](https://api.iconify.design/ph/skip-forward-circle.svg?height=32&color=%23888888)
+  /// ![skip-forward-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/skip-forward-circle.png)
   static const IconData skipForwardCircle = IconData(
     0xe430,
     fontFamily: 'PhosphorRegular',
@@ -14875,7 +14875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skull` no estilo Regular.
   ///
-  /// ![skull](https://api.iconify.design/ph/skull.svg?height=32&color=%23888888)
+  /// ![skull](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/skull.png)
   static const IconData skull = IconData(
     0xe916,
     fontFamily: 'PhosphorRegular',
@@ -14887,7 +14887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `skypeLogo` no estilo Regular.
   ///
-  /// ![skype-logo](https://api.iconify.design/ph/skype-logo.svg?height=32&color=%23888888)
+  /// ![skype-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/skype-logo.png)
   static const IconData skypeLogo = IconData(
     0xe8dc,
     fontFamily: 'PhosphorRegular',
@@ -14899,7 +14899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `slackLogo` no estilo Regular.
   ///
-  /// ![slack-logo](https://api.iconify.design/ph/slack-logo.svg?height=32&color=%23888888)
+  /// ![slack-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/slack-logo.png)
   static const IconData slackLogo = IconData(
     0xe5a8,
     fontFamily: 'PhosphorRegular',
@@ -14911,7 +14911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sliders` no estilo Regular.
   ///
-  /// ![sliders](https://api.iconify.design/ph/sliders.svg?height=32&color=%23888888)
+  /// ![sliders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sliders.png)
   static const IconData sliders = IconData(
     0xe432,
     fontFamily: 'PhosphorRegular',
@@ -14923,7 +14923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `slidersHorizontal` no estilo Regular.
   ///
-  /// ![sliders-horizontal](https://api.iconify.design/ph/sliders-horizontal.svg?height=32&color=%23888888)
+  /// ![sliders-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sliders-horizontal.png)
   static const IconData slidersHorizontal = IconData(
     0xe434,
     fontFamily: 'PhosphorRegular',
@@ -14935,7 +14935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `slideshow` no estilo Regular.
   ///
-  /// ![slideshow](https://api.iconify.design/ph/slideshow.svg?height=32&color=%23888888)
+  /// ![slideshow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/slideshow.png)
   static const IconData slideshow = IconData(
     0xed32,
     fontFamily: 'PhosphorRegular',
@@ -14947,7 +14947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smiley` no estilo Regular.
   ///
-  /// ![smiley](https://api.iconify.design/ph/smiley.svg?height=32&color=%23888888)
+  /// ![smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley.png)
   static const IconData smiley = IconData(
     0xe436,
     fontFamily: 'PhosphorRegular',
@@ -14959,7 +14959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyAngry` no estilo Regular.
   ///
-  /// ![smiley-angry](https://api.iconify.design/ph/smiley-angry.svg?height=32&color=%23888888)
+  /// ![smiley-angry](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-angry.png)
   static const IconData smileyAngry = IconData(
     0xec62,
     fontFamily: 'PhosphorRegular',
@@ -14971,7 +14971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyBlank` no estilo Regular.
   ///
-  /// ![smiley-blank](https://api.iconify.design/ph/smiley-blank.svg?height=32&color=%23888888)
+  /// ![smiley-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-blank.png)
   static const IconData smileyBlank = IconData(
     0xe438,
     fontFamily: 'PhosphorRegular',
@@ -14983,7 +14983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyMeh` no estilo Regular.
   ///
-  /// ![smiley-meh](https://api.iconify.design/ph/smiley-meh.svg?height=32&color=%23888888)
+  /// ![smiley-meh](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-meh.png)
   static const IconData smileyMeh = IconData(
     0xe43a,
     fontFamily: 'PhosphorRegular',
@@ -14995,7 +14995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyMelting` no estilo Regular.
   ///
-  /// ![smiley-melting](https://api.iconify.design/ph/smiley-melting.svg?height=32&color=%23888888)
+  /// ![smiley-melting](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-melting.png)
   static const IconData smileyMelting = IconData(
     0xee56,
     fontFamily: 'PhosphorRegular',
@@ -15007,7 +15007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyNervous` no estilo Regular.
   ///
-  /// ![smiley-nervous](https://api.iconify.design/ph/smiley-nervous.svg?height=32&color=%23888888)
+  /// ![smiley-nervous](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-nervous.png)
   static const IconData smileyNervous = IconData(
     0xe43c,
     fontFamily: 'PhosphorRegular',
@@ -15019,7 +15019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileySad` no estilo Regular.
   ///
-  /// ![smiley-sad](https://api.iconify.design/ph/smiley-sad.svg?height=32&color=%23888888)
+  /// ![smiley-sad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-sad.png)
   static const IconData smileySad = IconData(
     0xe43e,
     fontFamily: 'PhosphorRegular',
@@ -15031,7 +15031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileySticker` no estilo Regular.
   ///
-  /// ![smiley-sticker](https://api.iconify.design/ph/smiley-sticker.svg?height=32&color=%23888888)
+  /// ![smiley-sticker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-sticker.png)
   static const IconData smileySticker = IconData(
     0xe440,
     fontFamily: 'PhosphorRegular',
@@ -15043,7 +15043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyWink` no estilo Regular.
   ///
-  /// ![smiley-wink](https://api.iconify.design/ph/smiley-wink.svg?height=32&color=%23888888)
+  /// ![smiley-wink](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-wink.png)
   static const IconData smileyWink = IconData(
     0xe666,
     fontFamily: 'PhosphorRegular',
@@ -15055,7 +15055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `smileyXEyes` no estilo Regular.
   ///
-  /// ![smiley-x-eyes](https://api.iconify.design/ph/smiley-x-eyes.svg?height=32&color=%23888888)
+  /// ![smiley-x-eyes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/smiley-x-eyes.png)
   static const IconData smileyXEyes = IconData(
     0xe442,
     fontFamily: 'PhosphorRegular',
@@ -15067,7 +15067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `snapchatLogo` no estilo Regular.
   ///
-  /// ![snapchat-logo](https://api.iconify.design/ph/snapchat-logo.svg?height=32&color=%23888888)
+  /// ![snapchat-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/snapchat-logo.png)
   static const IconData snapchatLogo = IconData(
     0xe668,
     fontFamily: 'PhosphorRegular',
@@ -15079,7 +15079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sneaker` no estilo Regular.
   ///
-  /// ![sneaker](https://api.iconify.design/ph/sneaker.svg?height=32&color=%23888888)
+  /// ![sneaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sneaker.png)
   static const IconData sneaker = IconData(
     0xe80c,
     fontFamily: 'PhosphorRegular',
@@ -15091,7 +15091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sneakerMove` no estilo Regular.
   ///
-  /// ![sneaker-move](https://api.iconify.design/ph/sneaker-move.svg?height=32&color=%23888888)
+  /// ![sneaker-move](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sneaker-move.png)
   static const IconData sneakerMove = IconData(
     0xed60,
     fontFamily: 'PhosphorRegular',
@@ -15103,7 +15103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `snowflake` no estilo Regular.
   ///
-  /// ![snowflake](https://api.iconify.design/ph/snowflake.svg?height=32&color=%23888888)
+  /// ![snowflake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/snowflake.png)
   static const IconData snowflake = IconData(
     0xe5aa,
     fontFamily: 'PhosphorRegular',
@@ -15115,7 +15115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `soccerBall` no estilo Regular.
   ///
-  /// ![soccer-ball](https://api.iconify.design/ph/soccer-ball.svg?height=32&color=%23888888)
+  /// ![soccer-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/soccer-ball.png)
   static const IconData soccerBall = IconData(
     0xe716,
     fontFamily: 'PhosphorRegular',
@@ -15127,7 +15127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sock` no estilo Regular.
   ///
-  /// ![sock](https://api.iconify.design/ph/sock.svg?height=32&color=%23888888)
+  /// ![sock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sock.png)
   static const IconData sock = IconData(
     0xecce,
     fontFamily: 'PhosphorRegular',
@@ -15139,7 +15139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `solarPanel` no estilo Regular.
   ///
-  /// ![solar-panel](https://api.iconify.design/ph/solar-panel.svg?height=32&color=%23888888)
+  /// ![solar-panel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/solar-panel.png)
   static const IconData solarPanel = IconData(
     0xed7a,
     fontFamily: 'PhosphorRegular',
@@ -15151,7 +15151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `solarRoof` no estilo Regular.
   ///
-  /// ![solar-roof](https://api.iconify.design/ph/solar-roof.svg?height=32&color=%23888888)
+  /// ![solar-roof](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/solar-roof.png)
   static const IconData solarRoof = IconData(
     0xed7b,
     fontFamily: 'PhosphorRegular',
@@ -15163,7 +15163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sortAscending` no estilo Regular.
   ///
-  /// ![sort-ascending](https://api.iconify.design/ph/sort-ascending.svg?height=32&color=%23888888)
+  /// ![sort-ascending](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sort-ascending.png)
   static const IconData sortAscending = IconData(
     0xe444,
     fontFamily: 'PhosphorRegular',
@@ -15175,7 +15175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sortDescending` no estilo Regular.
   ///
-  /// ![sort-descending](https://api.iconify.design/ph/sort-descending.svg?height=32&color=%23888888)
+  /// ![sort-descending](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sort-descending.png)
   static const IconData sortDescending = IconData(
     0xe446,
     fontFamily: 'PhosphorRegular',
@@ -15187,7 +15187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `soundcloudLogo` no estilo Regular.
   ///
-  /// ![soundcloud-logo](https://api.iconify.design/ph/soundcloud-logo.svg?height=32&color=%23888888)
+  /// ![soundcloud-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/soundcloud-logo.png)
   static const IconData soundcloudLogo = IconData(
     0xe8de,
     fontFamily: 'PhosphorRegular',
@@ -15199,7 +15199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spade` no estilo Regular.
   ///
-  /// ![spade](https://api.iconify.design/ph/spade.svg?height=32&color=%23888888)
+  /// ![spade](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/spade.png)
   static const IconData spade = IconData(
     0xe448,
     fontFamily: 'PhosphorRegular',
@@ -15211,7 +15211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sparkle` no estilo Regular.
   ///
-  /// ![sparkle](https://api.iconify.design/ph/sparkle.svg?height=32&color=%23888888)
+  /// ![sparkle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sparkle.png)
   static const IconData sparkle = IconData(
     0xe6a2,
     fontFamily: 'PhosphorRegular',
@@ -15223,7 +15223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerHifi` no estilo Regular.
   ///
-  /// ![speaker-hifi](https://api.iconify.design/ph/speaker-hifi.svg?height=32&color=%23888888)
+  /// ![speaker-hifi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-hifi.png)
   static const IconData speakerHifi = IconData(
     0xea08,
     fontFamily: 'PhosphorRegular',
@@ -15235,7 +15235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerHigh` no estilo Regular.
   ///
-  /// ![speaker-high](https://api.iconify.design/ph/speaker-high.svg?height=32&color=%23888888)
+  /// ![speaker-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-high.png)
   static const IconData speakerHigh = IconData(
     0xe44a,
     fontFamily: 'PhosphorRegular',
@@ -15247,7 +15247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerLow` no estilo Regular.
   ///
-  /// ![speaker-low](https://api.iconify.design/ph/speaker-low.svg?height=32&color=%23888888)
+  /// ![speaker-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-low.png)
   static const IconData speakerLow = IconData(
     0xe44c,
     fontFamily: 'PhosphorRegular',
@@ -15259,7 +15259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerNone` no estilo Regular.
   ///
-  /// ![speaker-none](https://api.iconify.design/ph/speaker-none.svg?height=32&color=%23888888)
+  /// ![speaker-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-none.png)
   static const IconData speakerNone = IconData(
     0xe44e,
     fontFamily: 'PhosphorRegular',
@@ -15271,7 +15271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleHigh` no estilo Regular.
   ///
-  /// ![speaker-simple-high](https://api.iconify.design/ph/speaker-simple-high.svg?height=32&color=%23888888)
+  /// ![speaker-simple-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-simple-high.png)
   static const IconData speakerSimpleHigh = IconData(
     0xe450,
     fontFamily: 'PhosphorRegular',
@@ -15283,7 +15283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleLow` no estilo Regular.
   ///
-  /// ![speaker-simple-low](https://api.iconify.design/ph/speaker-simple-low.svg?height=32&color=%23888888)
+  /// ![speaker-simple-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-simple-low.png)
   static const IconData speakerSimpleLow = IconData(
     0xe452,
     fontFamily: 'PhosphorRegular',
@@ -15295,7 +15295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleNone` no estilo Regular.
   ///
-  /// ![speaker-simple-none](https://api.iconify.design/ph/speaker-simple-none.svg?height=32&color=%23888888)
+  /// ![speaker-simple-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-simple-none.png)
   static const IconData speakerSimpleNone = IconData(
     0xe454,
     fontFamily: 'PhosphorRegular',
@@ -15307,7 +15307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleSlash` no estilo Regular.
   ///
-  /// ![speaker-simple-slash](https://api.iconify.design/ph/speaker-simple-slash.svg?height=32&color=%23888888)
+  /// ![speaker-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-simple-slash.png)
   static const IconData speakerSimpleSlash = IconData(
     0xe456,
     fontFamily: 'PhosphorRegular',
@@ -15319,7 +15319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSimpleX` no estilo Regular.
   ///
-  /// ![speaker-simple-x](https://api.iconify.design/ph/speaker-simple-x.svg?height=32&color=%23888888)
+  /// ![speaker-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-simple-x.png)
   static const IconData speakerSimpleX = IconData(
     0xe458,
     fontFamily: 'PhosphorRegular',
@@ -15331,7 +15331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerSlash` no estilo Regular.
   ///
-  /// ![speaker-slash](https://api.iconify.design/ph/speaker-slash.svg?height=32&color=%23888888)
+  /// ![speaker-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-slash.png)
   static const IconData speakerSlash = IconData(
     0xe45a,
     fontFamily: 'PhosphorRegular',
@@ -15343,7 +15343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speakerX` no estilo Regular.
   ///
-  /// ![speaker-x](https://api.iconify.design/ph/speaker-x.svg?height=32&color=%23888888)
+  /// ![speaker-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speaker-x.png)
   static const IconData speakerX = IconData(
     0xe45c,
     fontFamily: 'PhosphorRegular',
@@ -15355,7 +15355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `speedometer` no estilo Regular.
   ///
-  /// ![speedometer](https://api.iconify.design/ph/speedometer.svg?height=32&color=%23888888)
+  /// ![speedometer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/speedometer.png)
   static const IconData speedometer = IconData(
     0xee74,
     fontFamily: 'PhosphorRegular',
@@ -15367,7 +15367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sphere` no estilo Regular.
   ///
-  /// ![sphere](https://api.iconify.design/ph/sphere.svg?height=32&color=%23888888)
+  /// ![sphere](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sphere.png)
   static const IconData sphere = IconData(
     0xee66,
     fontFamily: 'PhosphorRegular',
@@ -15379,7 +15379,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spinner` no estilo Regular.
   ///
-  /// ![spinner](https://api.iconify.design/ph/spinner.svg?height=32&color=%23888888)
+  /// ![spinner](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/spinner.png)
   static const IconData spinner = IconData(
     0xe66a,
     fontFamily: 'PhosphorRegular',
@@ -15391,7 +15391,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spinnerBall` no estilo Regular.
   ///
-  /// ![spinner-ball](https://api.iconify.design/ph/spinner-ball.svg?height=32&color=%23888888)
+  /// ![spinner-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/spinner-ball.png)
   static const IconData spinnerBall = IconData(
     0xee28,
     fontFamily: 'PhosphorRegular',
@@ -15403,7 +15403,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spinnerGap` no estilo Regular.
   ///
-  /// ![spinner-gap](https://api.iconify.design/ph/spinner-gap.svg?height=32&color=%23888888)
+  /// ![spinner-gap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/spinner-gap.png)
   static const IconData spinnerGap = IconData(
     0xe66c,
     fontFamily: 'PhosphorRegular',
@@ -15415,7 +15415,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spiral` no estilo Regular.
   ///
-  /// ![spiral](https://api.iconify.design/ph/spiral.svg?height=32&color=%23888888)
+  /// ![spiral](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/spiral.png)
   static const IconData spiral = IconData(
     0xe9fa,
     fontFamily: 'PhosphorRegular',
@@ -15427,7 +15427,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `splitHorizontal` no estilo Regular.
   ///
-  /// ![split-horizontal](https://api.iconify.design/ph/split-horizontal.svg?height=32&color=%23888888)
+  /// ![split-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/split-horizontal.png)
   static const IconData splitHorizontal = IconData(
     0xe872,
     fontFamily: 'PhosphorRegular',
@@ -15439,7 +15439,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `splitVertical` no estilo Regular.
   ///
-  /// ![split-vertical](https://api.iconify.design/ph/split-vertical.svg?height=32&color=%23888888)
+  /// ![split-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/split-vertical.png)
   static const IconData splitVertical = IconData(
     0xe876,
     fontFamily: 'PhosphorRegular',
@@ -15451,7 +15451,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `spotifyLogo` no estilo Regular.
   ///
-  /// ![spotify-logo](https://api.iconify.design/ph/spotify-logo.svg?height=32&color=%23888888)
+  /// ![spotify-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/spotify-logo.png)
   static const IconData spotifyLogo = IconData(
     0xe66e,
     fontFamily: 'PhosphorRegular',
@@ -15463,7 +15463,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sprayBottle` no estilo Regular.
   ///
-  /// ![spray-bottle](https://api.iconify.design/ph/spray-bottle.svg?height=32&color=%23888888)
+  /// ![spray-bottle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/spray-bottle.png)
   static const IconData sprayBottle = IconData(
     0xe7e4,
     fontFamily: 'PhosphorRegular',
@@ -15475,7 +15475,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `square` no estilo Regular.
   ///
-  /// ![square](https://api.iconify.design/ph/square.svg?height=32&color=%23888888)
+  /// ![square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/square.png)
   static const IconData square = IconData(
     0xe45e,
     fontFamily: 'PhosphorRegular',
@@ -15487,7 +15487,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareHalf` no estilo Regular.
   ///
-  /// ![square-half](https://api.iconify.design/ph/square-half.svg?height=32&color=%23888888)
+  /// ![square-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/square-half.png)
   static const IconData squareHalf = IconData(
     0xe462,
     fontFamily: 'PhosphorRegular',
@@ -15499,7 +15499,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareHalfBottom` no estilo Regular.
   ///
-  /// ![square-half-bottom](https://api.iconify.design/ph/square-half-bottom.svg?height=32&color=%23888888)
+  /// ![square-half-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/square-half-bottom.png)
   static const IconData squareHalfBottom = IconData(
     0xeb16,
     fontFamily: 'PhosphorRegular',
@@ -15511,7 +15511,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareLogo` no estilo Regular.
   ///
-  /// ![square-logo](https://api.iconify.design/ph/square-logo.svg?height=32&color=%23888888)
+  /// ![square-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/square-logo.png)
   static const IconData squareLogo = IconData(
     0xe690,
     fontFamily: 'PhosphorRegular',
@@ -15523,7 +15523,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareSplitHorizontal` no estilo Regular.
   ///
-  /// ![square-split-horizontal](https://api.iconify.design/ph/square-split-horizontal.svg?height=32&color=%23888888)
+  /// ![square-split-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/square-split-horizontal.png)
   static const IconData squareSplitHorizontal = IconData(
     0xe870,
     fontFamily: 'PhosphorRegular',
@@ -15535,7 +15535,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squareSplitVertical` no estilo Regular.
   ///
-  /// ![square-split-vertical](https://api.iconify.design/ph/square-split-vertical.svg?height=32&color=%23888888)
+  /// ![square-split-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/square-split-vertical.png)
   static const IconData squareSplitVertical = IconData(
     0xe874,
     fontFamily: 'PhosphorRegular',
@@ -15547,7 +15547,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `squaresFour` no estilo Regular.
   ///
-  /// ![squares-four](https://api.iconify.design/ph/squares-four.svg?height=32&color=%23888888)
+  /// ![squares-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/squares-four.png)
   static const IconData squaresFour = IconData(
     0xe464,
     fontFamily: 'PhosphorRegular',
@@ -15559,7 +15559,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stack` no estilo Regular.
   ///
-  /// ![stack](https://api.iconify.design/ph/stack.svg?height=32&color=%23888888)
+  /// ![stack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stack.png)
   static const IconData stack = IconData(
     0xe466,
     fontFamily: 'PhosphorRegular',
@@ -15571,7 +15571,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackMinus` no estilo Regular.
   ///
-  /// ![stack-minus](https://api.iconify.design/ph/stack-minus.svg?height=32&color=%23888888)
+  /// ![stack-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stack-minus.png)
   static const IconData stackMinus = IconData(
     0xedf4,
     fontFamily: 'PhosphorRegular',
@@ -15583,7 +15583,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackOverflowLogo` no estilo Regular.
   ///
-  /// ![stack-overflow-logo](https://api.iconify.design/ph/stack-overflow-logo.svg?height=32&color=%23888888)
+  /// ![stack-overflow-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stack-overflow-logo.png)
   static const IconData stackOverflowLogo = IconData(
     0xeb78,
     fontFamily: 'PhosphorRegular',
@@ -15595,7 +15595,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackPlus` no estilo Regular.
   ///
-  /// ![stack-plus](https://api.iconify.design/ph/stack-plus.svg?height=32&color=%23888888)
+  /// ![stack-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stack-plus.png)
   static const IconData stackPlus = IconData(
     0xedf6,
     fontFamily: 'PhosphorRegular',
@@ -15607,7 +15607,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stackSimple` no estilo Regular.
   ///
-  /// ![stack-simple](https://api.iconify.design/ph/stack-simple.svg?height=32&color=%23888888)
+  /// ![stack-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stack-simple.png)
   static const IconData stackSimple = IconData(
     0xe468,
     fontFamily: 'PhosphorRegular',
@@ -15619,7 +15619,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stairs` no estilo Regular.
   ///
-  /// ![stairs](https://api.iconify.design/ph/stairs.svg?height=32&color=%23888888)
+  /// ![stairs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stairs.png)
   static const IconData stairs = IconData(
     0xe8ec,
     fontFamily: 'PhosphorRegular',
@@ -15631,7 +15631,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stamp` no estilo Regular.
   ///
-  /// ![stamp](https://api.iconify.design/ph/stamp.svg?height=32&color=%23888888)
+  /// ![stamp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stamp.png)
   static const IconData stamp = IconData(
     0xea48,
     fontFamily: 'PhosphorRegular',
@@ -15643,7 +15643,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `standardDefinition` no estilo Regular.
   ///
-  /// ![standard-definition](https://api.iconify.design/ph/standard-definition.svg?height=32&color=%23888888)
+  /// ![standard-definition](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/standard-definition.png)
   static const IconData standardDefinition = IconData(
     0xea90,
     fontFamily: 'PhosphorRegular',
@@ -15655,7 +15655,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `star` no estilo Regular.
   ///
-  /// ![star](https://api.iconify.design/ph/star.svg?height=32&color=%23888888)
+  /// ![star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/star.png)
   static const IconData star = IconData(
     0xe46a,
     fontFamily: 'PhosphorRegular',
@@ -15667,7 +15667,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starAndCrescent` no estilo Regular.
   ///
-  /// ![star-and-crescent](https://api.iconify.design/ph/star-and-crescent.svg?height=32&color=%23888888)
+  /// ![star-and-crescent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/star-and-crescent.png)
   static const IconData starAndCrescent = IconData(
     0xecf4,
     fontFamily: 'PhosphorRegular',
@@ -15679,7 +15679,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starFour` no estilo Regular.
   ///
-  /// ![star-four](https://api.iconify.design/ph/star-four.svg?height=32&color=%23888888)
+  /// ![star-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/star-four.png)
   static const IconData starFour = IconData(
     0xe6a4,
     fontFamily: 'PhosphorRegular',
@@ -15691,7 +15691,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starHalf` no estilo Regular.
   ///
-  /// ![star-half](https://api.iconify.design/ph/star-half.svg?height=32&color=%23888888)
+  /// ![star-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/star-half.png)
   static const IconData starHalf = IconData(
     0xe70a,
     fontFamily: 'PhosphorRegular',
@@ -15703,7 +15703,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `starOfDavid` no estilo Regular.
   ///
-  /// ![star-of-david](https://api.iconify.design/ph/star-of-david.svg?height=32&color=%23888888)
+  /// ![star-of-david](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/star-of-david.png)
   static const IconData starOfDavid = IconData(
     0xe89e,
     fontFamily: 'PhosphorRegular',
@@ -15715,7 +15715,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `steamLogo` no estilo Regular.
   ///
-  /// ![steam-logo](https://api.iconify.design/ph/steam-logo.svg?height=32&color=%23888888)
+  /// ![steam-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/steam-logo.png)
   static const IconData steamLogo = IconData(
     0xead4,
     fontFamily: 'PhosphorRegular',
@@ -15727,7 +15727,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `steeringWheel` no estilo Regular.
   ///
-  /// ![steering-wheel](https://api.iconify.design/ph/steering-wheel.svg?height=32&color=%23888888)
+  /// ![steering-wheel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/steering-wheel.png)
   static const IconData steeringWheel = IconData(
     0xe9ac,
     fontFamily: 'PhosphorRegular',
@@ -15739,7 +15739,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `steps` no estilo Regular.
   ///
-  /// ![steps](https://api.iconify.design/ph/steps.svg?height=32&color=%23888888)
+  /// ![steps](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/steps.png)
   static const IconData steps = IconData(
     0xecbe,
     fontFamily: 'PhosphorRegular',
@@ -15751,7 +15751,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stethoscope` no estilo Regular.
   ///
-  /// ![stethoscope](https://api.iconify.design/ph/stethoscope.svg?height=32&color=%23888888)
+  /// ![stethoscope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stethoscope.png)
   static const IconData stethoscope = IconData(
     0xe7ea,
     fontFamily: 'PhosphorRegular',
@@ -15763,7 +15763,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sticker` no estilo Regular.
   ///
-  /// ![sticker](https://api.iconify.design/ph/sticker.svg?height=32&color=%23888888)
+  /// ![sticker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sticker.png)
   static const IconData sticker = IconData(
     0xe5ac,
     fontFamily: 'PhosphorRegular',
@@ -15775,7 +15775,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stool` no estilo Regular.
   ///
-  /// ![stool](https://api.iconify.design/ph/stool.svg?height=32&color=%23888888)
+  /// ![stool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stool.png)
   static const IconData stool = IconData(
     0xea44,
     fontFamily: 'PhosphorRegular',
@@ -15787,7 +15787,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stop` no estilo Regular.
   ///
-  /// ![stop](https://api.iconify.design/ph/stop.svg?height=32&color=%23888888)
+  /// ![stop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stop.png)
   static const IconData stop = IconData(
     0xe46c,
     fontFamily: 'PhosphorRegular',
@@ -15799,7 +15799,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stopCircle` no estilo Regular.
   ///
-  /// ![stop-circle](https://api.iconify.design/ph/stop-circle.svg?height=32&color=%23888888)
+  /// ![stop-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stop-circle.png)
   static const IconData stopCircle = IconData(
     0xe46e,
     fontFamily: 'PhosphorRegular',
@@ -15811,7 +15811,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `storefront` no estilo Regular.
   ///
-  /// ![storefront](https://api.iconify.design/ph/storefront.svg?height=32&color=%23888888)
+  /// ![storefront](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/storefront.png)
   static const IconData storefront = IconData(
     0xe470,
     fontFamily: 'PhosphorRegular',
@@ -15823,7 +15823,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `strategy` no estilo Regular.
   ///
-  /// ![strategy](https://api.iconify.design/ph/strategy.svg?height=32&color=%23888888)
+  /// ![strategy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/strategy.png)
   static const IconData strategy = IconData(
     0xea3a,
     fontFamily: 'PhosphorRegular',
@@ -15835,7 +15835,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `stripeLogo` no estilo Regular.
   ///
-  /// ![stripe-logo](https://api.iconify.design/ph/stripe-logo.svg?height=32&color=%23888888)
+  /// ![stripe-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/stripe-logo.png)
   static const IconData stripeLogo = IconData(
     0xe698,
     fontFamily: 'PhosphorRegular',
@@ -15847,7 +15847,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `student` no estilo Regular.
   ///
-  /// ![student](https://api.iconify.design/ph/student.svg?height=32&color=%23888888)
+  /// ![student](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/student.png)
   static const IconData student = IconData(
     0xe73e,
     fontFamily: 'PhosphorRegular',
@@ -15859,7 +15859,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subsetOf` no estilo Regular.
   ///
-  /// ![subset-of](https://api.iconify.design/ph/subset-of.svg?height=32&color=%23888888)
+  /// ![subset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/subset-of.png)
   static const IconData subsetOf = IconData(
     0xedc0,
     fontFamily: 'PhosphorRegular',
@@ -15871,7 +15871,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subsetProperOf` no estilo Regular.
   ///
-  /// ![subset-proper-of](https://api.iconify.design/ph/subset-proper-of.svg?height=32&color=%23888888)
+  /// ![subset-proper-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/subset-proper-of.png)
   static const IconData subsetProperOf = IconData(
     0xedb6,
     fontFamily: 'PhosphorRegular',
@@ -15883,7 +15883,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtitles` no estilo Regular.
   ///
-  /// ![subtitles](https://api.iconify.design/ph/subtitles.svg?height=32&color=%23888888)
+  /// ![subtitles](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/subtitles.png)
   static const IconData subtitles = IconData(
     0xe1a8,
     fontFamily: 'PhosphorRegular',
@@ -15895,7 +15895,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtitlesSlash` no estilo Regular.
   ///
-  /// ![subtitles-slash](https://api.iconify.design/ph/subtitles-slash.svg?height=32&color=%23888888)
+  /// ![subtitles-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/subtitles-slash.png)
   static const IconData subtitlesSlash = IconData(
     0xe1a6,
     fontFamily: 'PhosphorRegular',
@@ -15907,7 +15907,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtract` no estilo Regular.
   ///
-  /// ![subtract](https://api.iconify.design/ph/subtract.svg?height=32&color=%23888888)
+  /// ![subtract](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/subtract.png)
   static const IconData subtract = IconData(
     0xebd6,
     fontFamily: 'PhosphorRegular',
@@ -15919,7 +15919,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subtractSquare` no estilo Regular.
   ///
-  /// ![subtract-square](https://api.iconify.design/ph/subtract-square.svg?height=32&color=%23888888)
+  /// ![subtract-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/subtract-square.png)
   static const IconData subtractSquare = IconData(
     0xebd4,
     fontFamily: 'PhosphorRegular',
@@ -15931,7 +15931,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `subway` no estilo Regular.
   ///
-  /// ![subway](https://api.iconify.design/ph/subway.svg?height=32&color=%23888888)
+  /// ![subway](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/subway.png)
   static const IconData subway = IconData(
     0xe498,
     fontFamily: 'PhosphorRegular',
@@ -15943,7 +15943,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `suitcase` no estilo Regular.
   ///
-  /// ![suitcase](https://api.iconify.design/ph/suitcase.svg?height=32&color=%23888888)
+  /// ![suitcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/suitcase.png)
   static const IconData suitcase = IconData(
     0xe5ae,
     fontFamily: 'PhosphorRegular',
@@ -15955,7 +15955,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `suitcaseRolling` no estilo Regular.
   ///
-  /// ![suitcase-rolling](https://api.iconify.design/ph/suitcase-rolling.svg?height=32&color=%23888888)
+  /// ![suitcase-rolling](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/suitcase-rolling.png)
   static const IconData suitcaseRolling = IconData(
     0xe9b0,
     fontFamily: 'PhosphorRegular',
@@ -15967,7 +15967,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `suitcaseSimple` no estilo Regular.
   ///
-  /// ![suitcase-simple](https://api.iconify.design/ph/suitcase-simple.svg?height=32&color=%23888888)
+  /// ![suitcase-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/suitcase-simple.png)
   static const IconData suitcaseSimple = IconData(
     0xe5b0,
     fontFamily: 'PhosphorRegular',
@@ -15979,7 +15979,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sun` no estilo Regular.
   ///
-  /// ![sun](https://api.iconify.design/ph/sun.svg?height=32&color=%23888888)
+  /// ![sun](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sun.png)
   static const IconData sun = IconData(
     0xe472,
     fontFamily: 'PhosphorRegular',
@@ -15991,7 +15991,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sunDim` no estilo Regular.
   ///
-  /// ![sun-dim](https://api.iconify.design/ph/sun-dim.svg?height=32&color=%23888888)
+  /// ![sun-dim](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sun-dim.png)
   static const IconData sunDim = IconData(
     0xe474,
     fontFamily: 'PhosphorRegular',
@@ -16003,7 +16003,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sunHorizon` no estilo Regular.
   ///
-  /// ![sun-horizon](https://api.iconify.design/ph/sun-horizon.svg?height=32&color=%23888888)
+  /// ![sun-horizon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sun-horizon.png)
   static const IconData sunHorizon = IconData(
     0xe5b6,
     fontFamily: 'PhosphorRegular',
@@ -16015,7 +16015,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sunglasses` no estilo Regular.
   ///
-  /// ![sunglasses](https://api.iconify.design/ph/sunglasses.svg?height=32&color=%23888888)
+  /// ![sunglasses](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sunglasses.png)
   static const IconData sunglasses = IconData(
     0xe816,
     fontFamily: 'PhosphorRegular',
@@ -16027,7 +16027,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `supersetOf` no estilo Regular.
   ///
-  /// ![superset-of](https://api.iconify.design/ph/superset-of.svg?height=32&color=%23888888)
+  /// ![superset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/superset-of.png)
   static const IconData supersetOf = IconData(
     0xedb8,
     fontFamily: 'PhosphorRegular',
@@ -16039,7 +16039,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `supersetProperOf` no estilo Regular.
   ///
-  /// ![superset-proper-of](https://api.iconify.design/ph/superset-proper-of.svg?height=32&color=%23888888)
+  /// ![superset-proper-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/superset-proper-of.png)
   static const IconData supersetProperOf = IconData(
     0xedb4,
     fontFamily: 'PhosphorRegular',
@@ -16051,7 +16051,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `swap` no estilo Regular.
   ///
-  /// ![swap](https://api.iconify.design/ph/swap.svg?height=32&color=%23888888)
+  /// ![swap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/swap.png)
   static const IconData swap = IconData(
     0xe83c,
     fontFamily: 'PhosphorRegular',
@@ -16063,7 +16063,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `swatches` no estilo Regular.
   ///
-  /// ![swatches](https://api.iconify.design/ph/swatches.svg?height=32&color=%23888888)
+  /// ![swatches](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/swatches.png)
   static const IconData swatches = IconData(
     0xe5b8,
     fontFamily: 'PhosphorRegular',
@@ -16075,7 +16075,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `swimmingPool` no estilo Regular.
   ///
-  /// ![swimming-pool](https://api.iconify.design/ph/swimming-pool.svg?height=32&color=%23888888)
+  /// ![swimming-pool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/swimming-pool.png)
   static const IconData swimmingPool = IconData(
     0xecb6,
     fontFamily: 'PhosphorRegular',
@@ -16087,7 +16087,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `sword` no estilo Regular.
   ///
-  /// ![sword](https://api.iconify.design/ph/sword.svg?height=32&color=%23888888)
+  /// ![sword](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/sword.png)
   static const IconData sword = IconData(
     0xe5ba,
     fontFamily: 'PhosphorRegular',
@@ -16099,7 +16099,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `synagogue` no estilo Regular.
   ///
-  /// ![synagogue](https://api.iconify.design/ph/synagogue.svg?height=32&color=%23888888)
+  /// ![synagogue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/synagogue.png)
   static const IconData synagogue = IconData(
     0xecec,
     fontFamily: 'PhosphorRegular',
@@ -16111,7 +16111,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `syringe` no estilo Regular.
   ///
-  /// ![syringe](https://api.iconify.design/ph/syringe.svg?height=32&color=%23888888)
+  /// ![syringe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/syringe.png)
   static const IconData syringe = IconData(
     0xe968,
     fontFamily: 'PhosphorRegular',
@@ -16123,7 +16123,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tShirt` no estilo Regular.
   ///
-  /// ![t-shirt](https://api.iconify.design/ph/t-shirt.svg?height=32&color=%23888888)
+  /// ![t-shirt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/t-shirt.png)
   static const IconData tShirt = IconData(
     0xe670,
     fontFamily: 'PhosphorRegular',
@@ -16135,7 +16135,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `table` no estilo Regular.
   ///
-  /// ![table](https://api.iconify.design/ph/table.svg?height=32&color=%23888888)
+  /// ![table](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/table.png)
   static const IconData table = IconData(
     0xe476,
     fontFamily: 'PhosphorRegular',
@@ -16147,7 +16147,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tabs` no estilo Regular.
   ///
-  /// ![tabs](https://api.iconify.design/ph/tabs.svg?height=32&color=%23888888)
+  /// ![tabs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tabs.png)
   static const IconData tabs = IconData(
     0xe778,
     fontFamily: 'PhosphorRegular',
@@ -16159,7 +16159,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tag` no estilo Regular.
   ///
-  /// ![tag](https://api.iconify.design/ph/tag.svg?height=32&color=%23888888)
+  /// ![tag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tag.png)
   static const IconData tag = IconData(
     0xe478,
     fontFamily: 'PhosphorRegular',
@@ -16171,7 +16171,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tagChevron` no estilo Regular.
   ///
-  /// ![tag-chevron](https://api.iconify.design/ph/tag-chevron.svg?height=32&color=%23888888)
+  /// ![tag-chevron](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tag-chevron.png)
   static const IconData tagChevron = IconData(
     0xe672,
     fontFamily: 'PhosphorRegular',
@@ -16183,7 +16183,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tagSimple` no estilo Regular.
   ///
-  /// ![tag-simple](https://api.iconify.design/ph/tag-simple.svg?height=32&color=%23888888)
+  /// ![tag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tag-simple.png)
   static const IconData tagSimple = IconData(
     0xe47a,
     fontFamily: 'PhosphorRegular',
@@ -16195,7 +16195,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `target` no estilo Regular.
   ///
-  /// ![target](https://api.iconify.design/ph/target.svg?height=32&color=%23888888)
+  /// ![target](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/target.png)
   static const IconData target = IconData(
     0xe47c,
     fontFamily: 'PhosphorRegular',
@@ -16207,7 +16207,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `taxi` no estilo Regular.
   ///
-  /// ![taxi](https://api.iconify.design/ph/taxi.svg?height=32&color=%23888888)
+  /// ![taxi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/taxi.png)
   static const IconData taxi = IconData(
     0xe902,
     fontFamily: 'PhosphorRegular',
@@ -16219,7 +16219,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `teaBag` no estilo Regular.
   ///
-  /// ![tea-bag](https://api.iconify.design/ph/tea-bag.svg?height=32&color=%23888888)
+  /// ![tea-bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tea-bag.png)
   static const IconData teaBag = IconData(
     0xe8e6,
     fontFamily: 'PhosphorRegular',
@@ -16231,7 +16231,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `telegramLogo` no estilo Regular.
   ///
-  /// ![telegram-logo](https://api.iconify.design/ph/telegram-logo.svg?height=32&color=%23888888)
+  /// ![telegram-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/telegram-logo.png)
   static const IconData telegramLogo = IconData(
     0xe5bc,
     fontFamily: 'PhosphorRegular',
@@ -16243,7 +16243,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `television` no estilo Regular.
   ///
-  /// ![television](https://api.iconify.design/ph/television.svg?height=32&color=%23888888)
+  /// ![television](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/television.png)
   static const IconData television = IconData(
     0xe754,
     fontFamily: 'PhosphorRegular',
@@ -16255,7 +16255,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `televisionSimple` no estilo Regular.
   ///
-  /// ![television-simple](https://api.iconify.design/ph/television-simple.svg?height=32&color=%23888888)
+  /// ![television-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/television-simple.png)
   static const IconData televisionSimple = IconData(
     0xeae6,
     fontFamily: 'PhosphorRegular',
@@ -16267,7 +16267,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tennisBall` no estilo Regular.
   ///
-  /// ![tennis-ball](https://api.iconify.design/ph/tennis-ball.svg?height=32&color=%23888888)
+  /// ![tennis-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tennis-ball.png)
   static const IconData tennisBall = IconData(
     0xe720,
     fontFamily: 'PhosphorRegular',
@@ -16279,7 +16279,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tent` no estilo Regular.
   ///
-  /// ![tent](https://api.iconify.design/ph/tent.svg?height=32&color=%23888888)
+  /// ![tent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tent.png)
   static const IconData tent = IconData(
     0xe8ba,
     fontFamily: 'PhosphorRegular',
@@ -16291,7 +16291,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `terminal` no estilo Regular.
   ///
-  /// ![terminal](https://api.iconify.design/ph/terminal.svg?height=32&color=%23888888)
+  /// ![terminal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/terminal.png)
   static const IconData terminal = IconData(
     0xe47e,
     fontFamily: 'PhosphorRegular',
@@ -16303,7 +16303,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `terminalWindow` no estilo Regular.
   ///
-  /// ![terminal-window](https://api.iconify.design/ph/terminal-window.svg?height=32&color=%23888888)
+  /// ![terminal-window](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/terminal-window.png)
   static const IconData terminalWindow = IconData(
     0xeae8,
     fontFamily: 'PhosphorRegular',
@@ -16315,7 +16315,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `testTube` no estilo Regular.
   ///
-  /// ![test-tube](https://api.iconify.design/ph/test-tube.svg?height=32&color=%23888888)
+  /// ![test-tube](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/test-tube.png)
   static const IconData testTube = IconData(
     0xe7a0,
     fontFamily: 'PhosphorRegular',
@@ -16327,7 +16327,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAUnderline` no estilo Regular.
   ///
-  /// ![text-a-underline](https://api.iconify.design/ph/text-a-underline.svg?height=32&color=%23888888)
+  /// ![text-a-underline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-a-underline.png)
   static const IconData textAUnderline = IconData(
     0xed34,
     fontFamily: 'PhosphorRegular',
@@ -16339,7 +16339,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAa` no estilo Regular.
   ///
-  /// ![text-aa](https://api.iconify.design/ph/text-aa.svg?height=32&color=%23888888)
+  /// ![text-aa](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-aa.png)
   static const IconData textAa = IconData(
     0xe6ee,
     fontFamily: 'PhosphorRegular',
@@ -16351,7 +16351,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignCenter` no estilo Regular.
   ///
-  /// ![text-align-center](https://api.iconify.design/ph/text-align-center.svg?height=32&color=%23888888)
+  /// ![text-align-center](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-align-center.png)
   static const IconData textAlignCenter = IconData(
     0xe480,
     fontFamily: 'PhosphorRegular',
@@ -16363,7 +16363,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignJustify` no estilo Regular.
   ///
-  /// ![text-align-justify](https://api.iconify.design/ph/text-align-justify.svg?height=32&color=%23888888)
+  /// ![text-align-justify](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-align-justify.png)
   static const IconData textAlignJustify = IconData(
     0xe482,
     fontFamily: 'PhosphorRegular',
@@ -16375,7 +16375,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignLeft` no estilo Regular.
   ///
-  /// ![text-align-left](https://api.iconify.design/ph/text-align-left.svg?height=32&color=%23888888)
+  /// ![text-align-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-align-left.png)
   static const IconData textAlignLeft = IconData(
     0xe484,
     fontFamily: 'PhosphorRegular',
@@ -16387,7 +16387,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textAlignRight` no estilo Regular.
   ///
-  /// ![text-align-right](https://api.iconify.design/ph/text-align-right.svg?height=32&color=%23888888)
+  /// ![text-align-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-align-right.png)
   static const IconData textAlignRight = IconData(
     0xe486,
     fontFamily: 'PhosphorRegular',
@@ -16399,7 +16399,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textB` no estilo Regular.
   ///
-  /// ![text-b](https://api.iconify.design/ph/text-b.svg?height=32&color=%23888888)
+  /// ![text-b](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-b.png)
   static const IconData textB = IconData(
     0xe5be,
     fontFamily: 'PhosphorRegular',
@@ -16411,7 +16411,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textBolder` no estilo Regular.
   ///
-  /// ![text-bolder](https://api.iconify.design/ph/text-b.svg?height=32&color=%23888888)
+  /// ![text-bolder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-bolder.png)
   static const IconData textBolder = IconData(
     0xe5be,
     fontFamily: 'PhosphorRegular',
@@ -16423,7 +16423,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textColumns` no estilo Regular.
   ///
-  /// ![text-columns](https://api.iconify.design/ph/text-columns.svg?height=32&color=%23888888)
+  /// ![text-columns](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-columns.png)
   static const IconData textColumns = IconData(
     0xec96,
     fontFamily: 'PhosphorRegular',
@@ -16435,7 +16435,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textH` no estilo Regular.
   ///
-  /// ![text-h](https://api.iconify.design/ph/text-h.svg?height=32&color=%23888888)
+  /// ![text-h](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-h.png)
   static const IconData textH = IconData(
     0xe6ba,
     fontFamily: 'PhosphorRegular',
@@ -16447,7 +16447,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHFive` no estilo Regular.
   ///
-  /// ![text-h-five](https://api.iconify.design/ph/text-h-five.svg?height=32&color=%23888888)
+  /// ![text-h-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-h-five.png)
   static const IconData textHFive = IconData(
     0xe6c4,
     fontFamily: 'PhosphorRegular',
@@ -16459,7 +16459,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHFour` no estilo Regular.
   ///
-  /// ![text-h-four](https://api.iconify.design/ph/text-h-four.svg?height=32&color=%23888888)
+  /// ![text-h-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-h-four.png)
   static const IconData textHFour = IconData(
     0xe6c2,
     fontFamily: 'PhosphorRegular',
@@ -16471,7 +16471,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHOne` no estilo Regular.
   ///
-  /// ![text-h-one](https://api.iconify.design/ph/text-h-one.svg?height=32&color=%23888888)
+  /// ![text-h-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-h-one.png)
   static const IconData textHOne = IconData(
     0xe6bc,
     fontFamily: 'PhosphorRegular',
@@ -16483,7 +16483,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHSix` no estilo Regular.
   ///
-  /// ![text-h-six](https://api.iconify.design/ph/text-h-six.svg?height=32&color=%23888888)
+  /// ![text-h-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-h-six.png)
   static const IconData textHSix = IconData(
     0xe6c6,
     fontFamily: 'PhosphorRegular',
@@ -16495,7 +16495,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHThree` no estilo Regular.
   ///
-  /// ![text-h-three](https://api.iconify.design/ph/text-h-three.svg?height=32&color=%23888888)
+  /// ![text-h-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-h-three.png)
   static const IconData textHThree = IconData(
     0xe6c0,
     fontFamily: 'PhosphorRegular',
@@ -16507,7 +16507,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textHTwo` no estilo Regular.
   ///
-  /// ![text-h-two](https://api.iconify.design/ph/text-h-two.svg?height=32&color=%23888888)
+  /// ![text-h-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-h-two.png)
   static const IconData textHTwo = IconData(
     0xe6be,
     fontFamily: 'PhosphorRegular',
@@ -16519,7 +16519,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textIndent` no estilo Regular.
   ///
-  /// ![text-indent](https://api.iconify.design/ph/text-indent.svg?height=32&color=%23888888)
+  /// ![text-indent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-indent.png)
   static const IconData textIndent = IconData(
     0xea1e,
     fontFamily: 'PhosphorRegular',
@@ -16531,7 +16531,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textItalic` no estilo Regular.
   ///
-  /// ![text-italic](https://api.iconify.design/ph/text-italic.svg?height=32&color=%23888888)
+  /// ![text-italic](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-italic.png)
   static const IconData textItalic = IconData(
     0xe5c0,
     fontFamily: 'PhosphorRegular',
@@ -16543,7 +16543,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textOutdent` no estilo Regular.
   ///
-  /// ![text-outdent](https://api.iconify.design/ph/text-outdent.svg?height=32&color=%23888888)
+  /// ![text-outdent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-outdent.png)
   static const IconData textOutdent = IconData(
     0xea1c,
     fontFamily: 'PhosphorRegular',
@@ -16555,7 +16555,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textStrikethrough` no estilo Regular.
   ///
-  /// ![text-strikethrough](https://api.iconify.design/ph/text-strikethrough.svg?height=32&color=%23888888)
+  /// ![text-strikethrough](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-strikethrough.png)
   static const IconData textStrikethrough = IconData(
     0xe5c2,
     fontFamily: 'PhosphorRegular',
@@ -16567,7 +16567,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textSubscript` no estilo Regular.
   ///
-  /// ![text-subscript](https://api.iconify.design/ph/text-subscript.svg?height=32&color=%23888888)
+  /// ![text-subscript](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-subscript.png)
   static const IconData textSubscript = IconData(
     0xec98,
     fontFamily: 'PhosphorRegular',
@@ -16579,7 +16579,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textSuperscript` no estilo Regular.
   ///
-  /// ![text-superscript](https://api.iconify.design/ph/text-superscript.svg?height=32&color=%23888888)
+  /// ![text-superscript](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-superscript.png)
   static const IconData textSuperscript = IconData(
     0xec9a,
     fontFamily: 'PhosphorRegular',
@@ -16591,7 +16591,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textT` no estilo Regular.
   ///
-  /// ![text-t](https://api.iconify.design/ph/text-t.svg?height=32&color=%23888888)
+  /// ![text-t](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-t.png)
   static const IconData textT = IconData(
     0xe48a,
     fontFamily: 'PhosphorRegular',
@@ -16603,7 +16603,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textTSlash` no estilo Regular.
   ///
-  /// ![text-t-slash](https://api.iconify.design/ph/text-t-slash.svg?height=32&color=%23888888)
+  /// ![text-t-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-t-slash.png)
   static const IconData textTSlash = IconData(
     0xe488,
     fontFamily: 'PhosphorRegular',
@@ -16615,7 +16615,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textUnderline` no estilo Regular.
   ///
-  /// ![text-underline](https://api.iconify.design/ph/text-underline.svg?height=32&color=%23888888)
+  /// ![text-underline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/text-underline.png)
   static const IconData textUnderline = IconData(
     0xe5c4,
     fontFamily: 'PhosphorRegular',
@@ -16627,7 +16627,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `textbox` no estilo Regular.
   ///
-  /// ![textbox](https://api.iconify.design/ph/textbox.svg?height=32&color=%23888888)
+  /// ![textbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/textbox.png)
   static const IconData textbox = IconData(
     0xeb0a,
     fontFamily: 'PhosphorRegular',
@@ -16639,7 +16639,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometer` no estilo Regular.
   ///
-  /// ![thermometer](https://api.iconify.design/ph/thermometer.svg?height=32&color=%23888888)
+  /// ![thermometer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/thermometer.png)
   static const IconData thermometer = IconData(
     0xe5c6,
     fontFamily: 'PhosphorRegular',
@@ -16651,7 +16651,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometerCold` no estilo Regular.
   ///
-  /// ![thermometer-cold](https://api.iconify.design/ph/thermometer-cold.svg?height=32&color=%23888888)
+  /// ![thermometer-cold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/thermometer-cold.png)
   static const IconData thermometerCold = IconData(
     0xe5c8,
     fontFamily: 'PhosphorRegular',
@@ -16663,7 +16663,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometerHot` no estilo Regular.
   ///
-  /// ![thermometer-hot](https://api.iconify.design/ph/thermometer-hot.svg?height=32&color=%23888888)
+  /// ![thermometer-hot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/thermometer-hot.png)
   static const IconData thermometerHot = IconData(
     0xe5ca,
     fontFamily: 'PhosphorRegular',
@@ -16675,7 +16675,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thermometerSimple` no estilo Regular.
   ///
-  /// ![thermometer-simple](https://api.iconify.design/ph/thermometer-simple.svg?height=32&color=%23888888)
+  /// ![thermometer-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/thermometer-simple.png)
   static const IconData thermometerSimple = IconData(
     0xe5cc,
     fontFamily: 'PhosphorRegular',
@@ -16687,7 +16687,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `threadsLogo` no estilo Regular.
   ///
-  /// ![threads-logo](https://api.iconify.design/ph/threads-logo.svg?height=32&color=%23888888)
+  /// ![threads-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/threads-logo.png)
   static const IconData threadsLogo = IconData(
     0xed9e,
     fontFamily: 'PhosphorRegular',
@@ -16699,7 +16699,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `threeD` no estilo Regular.
   ///
-  /// ![three-d](https://api.iconify.design/ph/three-d.svg?height=32&color=%23888888)
+  /// ![three-d](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/three-d.png)
   static const IconData threeD = IconData(
     0xea5a,
     fontFamily: 'PhosphorRegular',
@@ -16711,7 +16711,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thumbsDown` no estilo Regular.
   ///
-  /// ![thumbs-down](https://api.iconify.design/ph/thumbs-down.svg?height=32&color=%23888888)
+  /// ![thumbs-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/thumbs-down.png)
   static const IconData thumbsDown = IconData(
     0xe48c,
     fontFamily: 'PhosphorRegular',
@@ -16723,7 +16723,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `thumbsUp` no estilo Regular.
   ///
-  /// ![thumbs-up](https://api.iconify.design/ph/thumbs-up.svg?height=32&color=%23888888)
+  /// ![thumbs-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/thumbs-up.png)
   static const IconData thumbsUp = IconData(
     0xe48e,
     fontFamily: 'PhosphorRegular',
@@ -16735,7 +16735,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `ticket` no estilo Regular.
   ///
-  /// ![ticket](https://api.iconify.design/ph/ticket.svg?height=32&color=%23888888)
+  /// ![ticket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/ticket.png)
   static const IconData ticket = IconData(
     0xe490,
     fontFamily: 'PhosphorRegular',
@@ -16747,7 +16747,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tidalLogo` no estilo Regular.
   ///
-  /// ![tidal-logo](https://api.iconify.design/ph/tidal-logo.svg?height=32&color=%23888888)
+  /// ![tidal-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tidal-logo.png)
   static const IconData tidalLogo = IconData(
     0xed1c,
     fontFamily: 'PhosphorRegular',
@@ -16759,7 +16759,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tiktokLogo` no estilo Regular.
   ///
-  /// ![tiktok-logo](https://api.iconify.design/ph/tiktok-logo.svg?height=32&color=%23888888)
+  /// ![tiktok-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tiktok-logo.png)
   static const IconData tiktokLogo = IconData(
     0xeaf2,
     fontFamily: 'PhosphorRegular',
@@ -16771,7 +16771,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tilde` no estilo Regular.
   ///
-  /// ![tilde](https://api.iconify.design/ph/tilde.svg?height=32&color=%23888888)
+  /// ![tilde](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tilde.png)
   static const IconData tilde = IconData(
     0xeda8,
     fontFamily: 'PhosphorRegular',
@@ -16783,7 +16783,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `timer` no estilo Regular.
   ///
-  /// ![timer](https://api.iconify.design/ph/timer.svg?height=32&color=%23888888)
+  /// ![timer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/timer.png)
   static const IconData timer = IconData(
     0xe492,
     fontFamily: 'PhosphorRegular',
@@ -16795,7 +16795,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tipJar` no estilo Regular.
   ///
-  /// ![tip-jar](https://api.iconify.design/ph/tip-jar.svg?height=32&color=%23888888)
+  /// ![tip-jar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tip-jar.png)
   static const IconData tipJar = IconData(
     0xe7e2,
     fontFamily: 'PhosphorRegular',
@@ -16807,7 +16807,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tipi` no estilo Regular.
   ///
-  /// ![tipi](https://api.iconify.design/ph/tipi.svg?height=32&color=%23888888)
+  /// ![tipi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tipi.png)
   static const IconData tipi = IconData(
     0xed30,
     fontFamily: 'PhosphorRegular',
@@ -16819,7 +16819,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tire` no estilo Regular.
   ///
-  /// ![tire](https://api.iconify.design/ph/tire.svg?height=32&color=%23888888)
+  /// ![tire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tire.png)
   static const IconData tire = IconData(
     0xedd2,
     fontFamily: 'PhosphorRegular',
@@ -16831,7 +16831,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toggleLeft` no estilo Regular.
   ///
-  /// ![toggle-left](https://api.iconify.design/ph/toggle-left.svg?height=32&color=%23888888)
+  /// ![toggle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/toggle-left.png)
   static const IconData toggleLeft = IconData(
     0xe674,
     fontFamily: 'PhosphorRegular',
@@ -16843,7 +16843,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toggleRight` no estilo Regular.
   ///
-  /// ![toggle-right](https://api.iconify.design/ph/toggle-right.svg?height=32&color=%23888888)
+  /// ![toggle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/toggle-right.png)
   static const IconData toggleRight = IconData(
     0xe676,
     fontFamily: 'PhosphorRegular',
@@ -16855,7 +16855,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toilet` no estilo Regular.
   ///
-  /// ![toilet](https://api.iconify.design/ph/toilet.svg?height=32&color=%23888888)
+  /// ![toilet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/toilet.png)
   static const IconData toilet = IconData(
     0xe79a,
     fontFamily: 'PhosphorRegular',
@@ -16867,7 +16867,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toiletPaper` no estilo Regular.
   ///
-  /// ![toilet-paper](https://api.iconify.design/ph/toilet-paper.svg?height=32&color=%23888888)
+  /// ![toilet-paper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/toilet-paper.png)
   static const IconData toiletPaper = IconData(
     0xe79c,
     fontFamily: 'PhosphorRegular',
@@ -16879,7 +16879,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toolbox` no estilo Regular.
   ///
-  /// ![toolbox](https://api.iconify.design/ph/toolbox.svg?height=32&color=%23888888)
+  /// ![toolbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/toolbox.png)
   static const IconData toolbox = IconData(
     0xeca0,
     fontFamily: 'PhosphorRegular',
@@ -16891,7 +16891,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tooth` no estilo Regular.
   ///
-  /// ![tooth](https://api.iconify.design/ph/tooth.svg?height=32&color=%23888888)
+  /// ![tooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tooth.png)
   static const IconData tooth = IconData(
     0xe9cc,
     fontFamily: 'PhosphorRegular',
@@ -16903,7 +16903,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tornado` no estilo Regular.
   ///
-  /// ![tornado](https://api.iconify.design/ph/tornado.svg?height=32&color=%23888888)
+  /// ![tornado](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tornado.png)
   static const IconData tornado = IconData(
     0xe88c,
     fontFamily: 'PhosphorRegular',
@@ -16915,7 +16915,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tote` no estilo Regular.
   ///
-  /// ![tote](https://api.iconify.design/ph/tote.svg?height=32&color=%23888888)
+  /// ![tote](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tote.png)
   static const IconData tote = IconData(
     0xe494,
     fontFamily: 'PhosphorRegular',
@@ -16927,7 +16927,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `toteSimple` no estilo Regular.
   ///
-  /// ![tote-simple](https://api.iconify.design/ph/tote-simple.svg?height=32&color=%23888888)
+  /// ![tote-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tote-simple.png)
   static const IconData toteSimple = IconData(
     0xe678,
     fontFamily: 'PhosphorRegular',
@@ -16939,7 +16939,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `towel` no estilo Regular.
   ///
-  /// ![towel](https://api.iconify.design/ph/towel.svg?height=32&color=%23888888)
+  /// ![towel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/towel.png)
   static const IconData towel = IconData(
     0xede6,
     fontFamily: 'PhosphorRegular',
@@ -16951,7 +16951,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tractor` no estilo Regular.
   ///
-  /// ![tractor](https://api.iconify.design/ph/tractor.svg?height=32&color=%23888888)
+  /// ![tractor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tractor.png)
   static const IconData tractor = IconData(
     0xec6e,
     fontFamily: 'PhosphorRegular',
@@ -16963,7 +16963,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trademark` no estilo Regular.
   ///
-  /// ![trademark](https://api.iconify.design/ph/trademark.svg?height=32&color=%23888888)
+  /// ![trademark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trademark.png)
   static const IconData trademark = IconData(
     0xe9f0,
     fontFamily: 'PhosphorRegular',
@@ -16975,7 +16975,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trademarkRegistered` no estilo Regular.
   ///
-  /// ![trademark-registered](https://api.iconify.design/ph/trademark-registered.svg?height=32&color=%23888888)
+  /// ![trademark-registered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trademark-registered.png)
   static const IconData trademarkRegistered = IconData(
     0xe3f4,
     fontFamily: 'PhosphorRegular',
@@ -16987,7 +16987,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trafficCone` no estilo Regular.
   ///
-  /// ![traffic-cone](https://api.iconify.design/ph/traffic-cone.svg?height=32&color=%23888888)
+  /// ![traffic-cone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/traffic-cone.png)
   static const IconData trafficCone = IconData(
     0xe9a8,
     fontFamily: 'PhosphorRegular',
@@ -16999,7 +16999,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trafficSign` no estilo Regular.
   ///
-  /// ![traffic-sign](https://api.iconify.design/ph/traffic-sign.svg?height=32&color=%23888888)
+  /// ![traffic-sign](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/traffic-sign.png)
   static const IconData trafficSign = IconData(
     0xe67a,
     fontFamily: 'PhosphorRegular',
@@ -17011,7 +17011,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trafficSignal` no estilo Regular.
   ///
-  /// ![traffic-signal](https://api.iconify.design/ph/traffic-signal.svg?height=32&color=%23888888)
+  /// ![traffic-signal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/traffic-signal.png)
   static const IconData trafficSignal = IconData(
     0xe9aa,
     fontFamily: 'PhosphorRegular',
@@ -17023,7 +17023,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `train` no estilo Regular.
   ///
-  /// ![train](https://api.iconify.design/ph/train.svg?height=32&color=%23888888)
+  /// ![train](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/train.png)
   static const IconData train = IconData(
     0xe496,
     fontFamily: 'PhosphorRegular',
@@ -17035,7 +17035,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trainRegional` no estilo Regular.
   ///
-  /// ![train-regional](https://api.iconify.design/ph/train-regional.svg?height=32&color=%23888888)
+  /// ![train-regional](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/train-regional.png)
   static const IconData trainRegional = IconData(
     0xe49e,
     fontFamily: 'PhosphorRegular',
@@ -17047,7 +17047,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trainSimple` no estilo Regular.
   ///
-  /// ![train-simple](https://api.iconify.design/ph/train-simple.svg?height=32&color=%23888888)
+  /// ![train-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/train-simple.png)
   static const IconData trainSimple = IconData(
     0xe4a0,
     fontFamily: 'PhosphorRegular',
@@ -17059,7 +17059,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tram` no estilo Regular.
   ///
-  /// ![tram](https://api.iconify.design/ph/tram.svg?height=32&color=%23888888)
+  /// ![tram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tram.png)
   static const IconData tram = IconData(
     0xe9ec,
     fontFamily: 'PhosphorRegular',
@@ -17071,7 +17071,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `translate` no estilo Regular.
   ///
-  /// ![translate](https://api.iconify.design/ph/translate.svg?height=32&color=%23888888)
+  /// ![translate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/translate.png)
   static const IconData translate = IconData(
     0xe4a2,
     fontFamily: 'PhosphorRegular',
@@ -17083,7 +17083,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trash` no estilo Regular.
   ///
-  /// ![trash](https://api.iconify.design/ph/trash.svg?height=32&color=%23888888)
+  /// ![trash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trash.png)
   static const IconData trash = IconData(
     0xe4a6,
     fontFamily: 'PhosphorRegular',
@@ -17095,7 +17095,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trashSimple` no estilo Regular.
   ///
-  /// ![trash-simple](https://api.iconify.design/ph/trash-simple.svg?height=32&color=%23888888)
+  /// ![trash-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trash-simple.png)
   static const IconData trashSimple = IconData(
     0xe4a8,
     fontFamily: 'PhosphorRegular',
@@ -17107,7 +17107,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tray` no estilo Regular.
   ///
-  /// ![tray](https://api.iconify.design/ph/tray.svg?height=32&color=%23888888)
+  /// ![tray](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tray.png)
   static const IconData tray = IconData(
     0xe4aa,
     fontFamily: 'PhosphorRegular',
@@ -17119,7 +17119,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trayArrowDown` no estilo Regular.
   ///
-  /// ![tray-arrow-down](https://api.iconify.design/ph/tray-arrow-down.svg?height=32&color=%23888888)
+  /// ![tray-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tray-arrow-down.png)
   static const IconData trayArrowDown = IconData(
     0xe010,
     fontFamily: 'PhosphorRegular',
@@ -17131,7 +17131,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trayArrowUp` no estilo Regular.
   ///
-  /// ![tray-arrow-up](https://api.iconify.design/ph/tray-arrow-up.svg?height=32&color=%23888888)
+  /// ![tray-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tray-arrow-up.png)
   static const IconData trayArrowUp = IconData(
     0xee52,
     fontFamily: 'PhosphorRegular',
@@ -17143,7 +17143,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treasureChest` no estilo Regular.
   ///
-  /// ![treasure-chest](https://api.iconify.design/ph/treasure-chest.svg?height=32&color=%23888888)
+  /// ![treasure-chest](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/treasure-chest.png)
   static const IconData treasureChest = IconData(
     0xede2,
     fontFamily: 'PhosphorRegular',
@@ -17155,7 +17155,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tree` no estilo Regular.
   ///
-  /// ![tree](https://api.iconify.design/ph/tree.svg?height=32&color=%23888888)
+  /// ![tree](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tree.png)
   static const IconData tree = IconData(
     0xe6da,
     fontFamily: 'PhosphorRegular',
@@ -17167,7 +17167,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treeEvergreen` no estilo Regular.
   ///
-  /// ![tree-evergreen](https://api.iconify.design/ph/tree-evergreen.svg?height=32&color=%23888888)
+  /// ![tree-evergreen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tree-evergreen.png)
   static const IconData treeEvergreen = IconData(
     0xe6dc,
     fontFamily: 'PhosphorRegular',
@@ -17179,7 +17179,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treePalm` no estilo Regular.
   ///
-  /// ![tree-palm](https://api.iconify.design/ph/tree-palm.svg?height=32&color=%23888888)
+  /// ![tree-palm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tree-palm.png)
   static const IconData treePalm = IconData(
     0xe91a,
     fontFamily: 'PhosphorRegular',
@@ -17191,7 +17191,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treeStructure` no estilo Regular.
   ///
-  /// ![tree-structure](https://api.iconify.design/ph/tree-structure.svg?height=32&color=%23888888)
+  /// ![tree-structure](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tree-structure.png)
   static const IconData treeStructure = IconData(
     0xe67c,
     fontFamily: 'PhosphorRegular',
@@ -17203,7 +17203,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `treeView` no estilo Regular.
   ///
-  /// ![tree-view](https://api.iconify.design/ph/tree-view.svg?height=32&color=%23888888)
+  /// ![tree-view](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tree-view.png)
   static const IconData treeView = IconData(
     0xee48,
     fontFamily: 'PhosphorRegular',
@@ -17215,7 +17215,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trendDown` no estilo Regular.
   ///
-  /// ![trend-down](https://api.iconify.design/ph/trend-down.svg?height=32&color=%23888888)
+  /// ![trend-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trend-down.png)
   static const IconData trendDown = IconData(
     0xe4ac,
     fontFamily: 'PhosphorRegular',
@@ -17227,7 +17227,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trendUp` no estilo Regular.
   ///
-  /// ![trend-up](https://api.iconify.design/ph/trend-up.svg?height=32&color=%23888888)
+  /// ![trend-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trend-up.png)
   static const IconData trendUp = IconData(
     0xe4ae,
     fontFamily: 'PhosphorRegular',
@@ -17239,7 +17239,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `triangle` no estilo Regular.
   ///
-  /// ![triangle](https://api.iconify.design/ph/triangle.svg?height=32&color=%23888888)
+  /// ![triangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/triangle.png)
   static const IconData triangle = IconData(
     0xe4b0,
     fontFamily: 'PhosphorRegular',
@@ -17251,7 +17251,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `triangleDashed` no estilo Regular.
   ///
-  /// ![triangle-dashed](https://api.iconify.design/ph/triangle-dashed.svg?height=32&color=%23888888)
+  /// ![triangle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/triangle-dashed.png)
   static const IconData triangleDashed = IconData(
     0xe4b2,
     fontFamily: 'PhosphorRegular',
@@ -17263,7 +17263,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trolley` no estilo Regular.
   ///
-  /// ![trolley](https://api.iconify.design/ph/trolley.svg?height=32&color=%23888888)
+  /// ![trolley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trolley.png)
   static const IconData trolley = IconData(
     0xe5b2,
     fontFamily: 'PhosphorRegular',
@@ -17275,7 +17275,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trolleySuitcase` no estilo Regular.
   ///
-  /// ![trolley-suitcase](https://api.iconify.design/ph/trolley-suitcase.svg?height=32&color=%23888888)
+  /// ![trolley-suitcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trolley-suitcase.png)
   static const IconData trolleySuitcase = IconData(
     0xe5b4,
     fontFamily: 'PhosphorRegular',
@@ -17287,7 +17287,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `trophy` no estilo Regular.
   ///
-  /// ![trophy](https://api.iconify.design/ph/trophy.svg?height=32&color=%23888888)
+  /// ![trophy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/trophy.png)
   static const IconData trophy = IconData(
     0xe67e,
     fontFamily: 'PhosphorRegular',
@@ -17299,7 +17299,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `truck` no estilo Regular.
   ///
-  /// ![truck](https://api.iconify.design/ph/truck.svg?height=32&color=%23888888)
+  /// ![truck](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/truck.png)
   static const IconData truck = IconData(
     0xe4b4,
     fontFamily: 'PhosphorRegular',
@@ -17311,7 +17311,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `truckTrailer` no estilo Regular.
   ///
-  /// ![truck-trailer](https://api.iconify.design/ph/truck-trailer.svg?height=32&color=%23888888)
+  /// ![truck-trailer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/truck-trailer.png)
   static const IconData truckTrailer = IconData(
     0xe4b6,
     fontFamily: 'PhosphorRegular',
@@ -17323,7 +17323,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `tumblrLogo` no estilo Regular.
   ///
-  /// ![tumblr-logo](https://api.iconify.design/ph/tumblr-logo.svg?height=32&color=%23888888)
+  /// ![tumblr-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/tumblr-logo.png)
   static const IconData tumblrLogo = IconData(
     0xe8d4,
     fontFamily: 'PhosphorRegular',
@@ -17335,7 +17335,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `twitchLogo` no estilo Regular.
   ///
-  /// ![twitch-logo](https://api.iconify.design/ph/twitch-logo.svg?height=32&color=%23888888)
+  /// ![twitch-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/twitch-logo.png)
   static const IconData twitchLogo = IconData(
     0xe5ce,
     fontFamily: 'PhosphorRegular',
@@ -17347,7 +17347,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `twitterLogo` no estilo Regular.
   ///
-  /// ![twitter-logo](https://api.iconify.design/ph/twitter-logo.svg?height=32&color=%23888888)
+  /// ![twitter-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/twitter-logo.png)
   static const IconData twitterLogo = IconData(
     0xe4ba,
     fontFamily: 'PhosphorRegular',
@@ -17359,7 +17359,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `umbrella` no estilo Regular.
   ///
-  /// ![umbrella](https://api.iconify.design/ph/umbrella.svg?height=32&color=%23888888)
+  /// ![umbrella](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/umbrella.png)
   static const IconData umbrella = IconData(
     0xe684,
     fontFamily: 'PhosphorRegular',
@@ -17371,7 +17371,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `umbrellaSimple` no estilo Regular.
   ///
-  /// ![umbrella-simple](https://api.iconify.design/ph/umbrella-simple.svg?height=32&color=%23888888)
+  /// ![umbrella-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/umbrella-simple.png)
   static const IconData umbrellaSimple = IconData(
     0xe686,
     fontFamily: 'PhosphorRegular',
@@ -17383,7 +17383,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `union` no estilo Regular.
   ///
-  /// ![union](https://api.iconify.design/ph/union.svg?height=32&color=%23888888)
+  /// ![union](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/union.png)
   static const IconData union = IconData(
     0xedbe,
     fontFamily: 'PhosphorRegular',
@@ -17395,7 +17395,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `unite` no estilo Regular.
   ///
-  /// ![unite](https://api.iconify.design/ph/unite.svg?height=32&color=%23888888)
+  /// ![unite](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/unite.png)
   static const IconData unite = IconData(
     0xe87e,
     fontFamily: 'PhosphorRegular',
@@ -17407,7 +17407,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `uniteSquare` no estilo Regular.
   ///
-  /// ![unite-square](https://api.iconify.design/ph/unite-square.svg?height=32&color=%23888888)
+  /// ![unite-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/unite-square.png)
   static const IconData uniteSquare = IconData(
     0xe878,
     fontFamily: 'PhosphorRegular',
@@ -17419,7 +17419,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `upload` no estilo Regular.
   ///
-  /// ![upload](https://api.iconify.design/ph/upload.svg?height=32&color=%23888888)
+  /// ![upload](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/upload.png)
   static const IconData upload = IconData(
     0xe4be,
     fontFamily: 'PhosphorRegular',
@@ -17431,7 +17431,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `uploadSimple` no estilo Regular.
   ///
-  /// ![upload-simple](https://api.iconify.design/ph/upload-simple.svg?height=32&color=%23888888)
+  /// ![upload-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/upload-simple.png)
   static const IconData uploadSimple = IconData(
     0xe4c0,
     fontFamily: 'PhosphorRegular',
@@ -17443,7 +17443,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `usb` no estilo Regular.
   ///
-  /// ![usb](https://api.iconify.design/ph/usb.svg?height=32&color=%23888888)
+  /// ![usb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/usb.png)
   static const IconData usb = IconData(
     0xe956,
     fontFamily: 'PhosphorRegular',
@@ -17455,7 +17455,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `user` no estilo Regular.
   ///
-  /// ![user](https://api.iconify.design/ph/user.svg?height=32&color=%23888888)
+  /// ![user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user.png)
   static const IconData user = IconData(
     0xe4c2,
     fontFamily: 'PhosphorRegular',
@@ -17467,7 +17467,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCheck` no estilo Regular.
   ///
-  /// ![user-check](https://api.iconify.design/ph/user-check.svg?height=32&color=%23888888)
+  /// ![user-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-check.png)
   static const IconData userCheck = IconData(
     0xeafa,
     fontFamily: 'PhosphorRegular',
@@ -17479,7 +17479,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircle` no estilo Regular.
   ///
-  /// ![user-circle](https://api.iconify.design/ph/user-circle.svg?height=32&color=%23888888)
+  /// ![user-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-circle.png)
   static const IconData userCircle = IconData(
     0xe4c4,
     fontFamily: 'PhosphorRegular',
@@ -17491,7 +17491,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleCheck` no estilo Regular.
   ///
-  /// ![user-circle-check](https://api.iconify.design/ph/user-circle-check.svg?height=32&color=%23888888)
+  /// ![user-circle-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-circle-check.png)
   static const IconData userCircleCheck = IconData(
     0xec38,
     fontFamily: 'PhosphorRegular',
@@ -17503,7 +17503,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleDashed` no estilo Regular.
   ///
-  /// ![user-circle-dashed](https://api.iconify.design/ph/user-circle-dashed.svg?height=32&color=%23888888)
+  /// ![user-circle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-circle-dashed.png)
   static const IconData userCircleDashed = IconData(
     0xec36,
     fontFamily: 'PhosphorRegular',
@@ -17515,7 +17515,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleGear` no estilo Regular.
   ///
-  /// ![user-circle-gear](https://api.iconify.design/ph/user-circle-gear.svg?height=32&color=%23888888)
+  /// ![user-circle-gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-circle-gear.png)
   static const IconData userCircleGear = IconData(
     0xe4c6,
     fontFamily: 'PhosphorRegular',
@@ -17527,7 +17527,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCircleMinus` no estilo Regular.
   ///
-  /// ![user-circle-minus](https://api.iconify.design/ph/user-circle-minus.svg?height=32&color=%23888888)
+  /// ![user-circle-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-circle-minus.png)
   static const IconData userCircleMinus = IconData(
     0xe4c8,
     fontFamily: 'PhosphorRegular',
@@ -17539,7 +17539,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userCirclePlus` no estilo Regular.
   ///
-  /// ![user-circle-plus](https://api.iconify.design/ph/user-circle-plus.svg?height=32&color=%23888888)
+  /// ![user-circle-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-circle-plus.png)
   static const IconData userCirclePlus = IconData(
     0xe4ca,
     fontFamily: 'PhosphorRegular',
@@ -17551,7 +17551,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userFocus` no estilo Regular.
   ///
-  /// ![user-focus](https://api.iconify.design/ph/user-focus.svg?height=32&color=%23888888)
+  /// ![user-focus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-focus.png)
   static const IconData userFocus = IconData(
     0xe6fc,
     fontFamily: 'PhosphorRegular',
@@ -17563,7 +17563,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userGear` no estilo Regular.
   ///
-  /// ![user-gear](https://api.iconify.design/ph/user-gear.svg?height=32&color=%23888888)
+  /// ![user-gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-gear.png)
   static const IconData userGear = IconData(
     0xe4cc,
     fontFamily: 'PhosphorRegular',
@@ -17575,7 +17575,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userList` no estilo Regular.
   ///
-  /// ![user-list](https://api.iconify.design/ph/user-list.svg?height=32&color=%23888888)
+  /// ![user-list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-list.png)
   static const IconData userList = IconData(
     0xe73c,
     fontFamily: 'PhosphorRegular',
@@ -17587,7 +17587,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userMinus` no estilo Regular.
   ///
-  /// ![user-minus](https://api.iconify.design/ph/user-minus.svg?height=32&color=%23888888)
+  /// ![user-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-minus.png)
   static const IconData userMinus = IconData(
     0xe4ce,
     fontFamily: 'PhosphorRegular',
@@ -17599,7 +17599,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userPlus` no estilo Regular.
   ///
-  /// ![user-plus](https://api.iconify.design/ph/user-plus.svg?height=32&color=%23888888)
+  /// ![user-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-plus.png)
   static const IconData userPlus = IconData(
     0xe4d0,
     fontFamily: 'PhosphorRegular',
@@ -17611,7 +17611,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userRectangle` no estilo Regular.
   ///
-  /// ![user-rectangle](https://api.iconify.design/ph/user-rectangle.svg?height=32&color=%23888888)
+  /// ![user-rectangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-rectangle.png)
   static const IconData userRectangle = IconData(
     0xe4d2,
     fontFamily: 'PhosphorRegular',
@@ -17623,7 +17623,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userSound` no estilo Regular.
   ///
-  /// ![user-sound](https://api.iconify.design/ph/user-sound.svg?height=32&color=%23888888)
+  /// ![user-sound](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-sound.png)
   static const IconData userSound = IconData(
     0xeca8,
     fontFamily: 'PhosphorRegular',
@@ -17635,7 +17635,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userSquare` no estilo Regular.
   ///
-  /// ![user-square](https://api.iconify.design/ph/user-square.svg?height=32&color=%23888888)
+  /// ![user-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-square.png)
   static const IconData userSquare = IconData(
     0xe4d4,
     fontFamily: 'PhosphorRegular',
@@ -17647,7 +17647,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `userSwitch` no estilo Regular.
   ///
-  /// ![user-switch](https://api.iconify.design/ph/user-switch.svg?height=32&color=%23888888)
+  /// ![user-switch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/user-switch.png)
   static const IconData userSwitch = IconData(
     0xe756,
     fontFamily: 'PhosphorRegular',
@@ -17659,7 +17659,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `users` no estilo Regular.
   ///
-  /// ![users](https://api.iconify.design/ph/users.svg?height=32&color=%23888888)
+  /// ![users](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/users.png)
   static const IconData users = IconData(
     0xe4d6,
     fontFamily: 'PhosphorRegular',
@@ -17671,7 +17671,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `usersFour` no estilo Regular.
   ///
-  /// ![users-four](https://api.iconify.design/ph/users-four.svg?height=32&color=%23888888)
+  /// ![users-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/users-four.png)
   static const IconData usersFour = IconData(
     0xe68c,
     fontFamily: 'PhosphorRegular',
@@ -17683,7 +17683,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `usersThree` no estilo Regular.
   ///
-  /// ![users-three](https://api.iconify.design/ph/users-three.svg?height=32&color=%23888888)
+  /// ![users-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/users-three.png)
   static const IconData usersThree = IconData(
     0xe68e,
     fontFamily: 'PhosphorRegular',
@@ -17695,7 +17695,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `van` no estilo Regular.
   ///
-  /// ![van](https://api.iconify.design/ph/van.svg?height=32&color=%23888888)
+  /// ![van](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/van.png)
   static const IconData van = IconData(
     0xe826,
     fontFamily: 'PhosphorRegular',
@@ -17707,7 +17707,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vault` no estilo Regular.
   ///
-  /// ![vault](https://api.iconify.design/ph/vault.svg?height=32&color=%23888888)
+  /// ![vault](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/vault.png)
   static const IconData vault = IconData(
     0xe76e,
     fontFamily: 'PhosphorRegular',
@@ -17719,7 +17719,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vectorThree` no estilo Regular.
   ///
-  /// ![vector-three](https://api.iconify.design/ph/vector-three.svg?height=32&color=%23888888)
+  /// ![vector-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/vector-three.png)
   static const IconData vectorThree = IconData(
     0xee62,
     fontFamily: 'PhosphorRegular',
@@ -17731,7 +17731,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vectorTwo` no estilo Regular.
   ///
-  /// ![vector-two](https://api.iconify.design/ph/vector-two.svg?height=32&color=%23888888)
+  /// ![vector-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/vector-two.png)
   static const IconData vectorTwo = IconData(
     0xee64,
     fontFamily: 'PhosphorRegular',
@@ -17743,7 +17743,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vibrate` no estilo Regular.
   ///
-  /// ![vibrate](https://api.iconify.design/ph/vibrate.svg?height=32&color=%23888888)
+  /// ![vibrate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/vibrate.png)
   static const IconData vibrate = IconData(
     0xe4d8,
     fontFamily: 'PhosphorRegular',
@@ -17755,7 +17755,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `video` no estilo Regular.
   ///
-  /// ![video](https://api.iconify.design/ph/video.svg?height=32&color=%23888888)
+  /// ![video](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/video.png)
   static const IconData video = IconData(
     0xe740,
     fontFamily: 'PhosphorRegular',
@@ -17767,7 +17767,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `videoCamera` no estilo Regular.
   ///
-  /// ![video-camera](https://api.iconify.design/ph/video-camera.svg?height=32&color=%23888888)
+  /// ![video-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/video-camera.png)
   static const IconData videoCamera = IconData(
     0xe4da,
     fontFamily: 'PhosphorRegular',
@@ -17779,7 +17779,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `videoCameraSlash` no estilo Regular.
   ///
-  /// ![video-camera-slash](https://api.iconify.design/ph/video-camera-slash.svg?height=32&color=%23888888)
+  /// ![video-camera-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/video-camera-slash.png)
   static const IconData videoCameraSlash = IconData(
     0xe4dc,
     fontFamily: 'PhosphorRegular',
@@ -17791,7 +17791,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `videoConference` no estilo Regular.
   ///
-  /// ![video-conference](https://api.iconify.design/ph/video-conference.svg?height=32&color=%23888888)
+  /// ![video-conference](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/video-conference.png)
   static const IconData videoConference = IconData(
     0xedce,
     fontFamily: 'PhosphorRegular',
@@ -17803,7 +17803,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vignette` no estilo Regular.
   ///
-  /// ![vignette](https://api.iconify.design/ph/vignette.svg?height=32&color=%23888888)
+  /// ![vignette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/vignette.png)
   static const IconData vignette = IconData(
     0xeba2,
     fontFamily: 'PhosphorRegular',
@@ -17815,7 +17815,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `vinylRecord` no estilo Regular.
   ///
-  /// ![vinyl-record](https://api.iconify.design/ph/vinyl-record.svg?height=32&color=%23888888)
+  /// ![vinyl-record](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/vinyl-record.png)
   static const IconData vinylRecord = IconData(
     0xecac,
     fontFamily: 'PhosphorRegular',
@@ -17827,7 +17827,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `virtualReality` no estilo Regular.
   ///
-  /// ![virtual-reality](https://api.iconify.design/ph/virtual-reality.svg?height=32&color=%23888888)
+  /// ![virtual-reality](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/virtual-reality.png)
   static const IconData virtualReality = IconData(
     0xe7b8,
     fontFamily: 'PhosphorRegular',
@@ -17839,7 +17839,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `virus` no estilo Regular.
   ///
-  /// ![virus](https://api.iconify.design/ph/virus.svg?height=32&color=%23888888)
+  /// ![virus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/virus.png)
   static const IconData virus = IconData(
     0xe7d6,
     fontFamily: 'PhosphorRegular',
@@ -17851,7 +17851,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `visor` no estilo Regular.
   ///
-  /// ![visor](https://api.iconify.design/ph/visor.svg?height=32&color=%23888888)
+  /// ![visor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/visor.png)
   static const IconData visor = IconData(
     0xee2a,
     fontFamily: 'PhosphorRegular',
@@ -17863,7 +17863,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `voicemail` no estilo Regular.
   ///
-  /// ![voicemail](https://api.iconify.design/ph/voicemail.svg?height=32&color=%23888888)
+  /// ![voicemail](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/voicemail.png)
   static const IconData voicemail = IconData(
     0xe4de,
     fontFamily: 'PhosphorRegular',
@@ -17875,7 +17875,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `volleyball` no estilo Regular.
   ///
-  /// ![volleyball](https://api.iconify.design/ph/volleyball.svg?height=32&color=%23888888)
+  /// ![volleyball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/volleyball.png)
   static const IconData volleyball = IconData(
     0xe726,
     fontFamily: 'PhosphorRegular',
@@ -17887,7 +17887,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wall` no estilo Regular.
   ///
-  /// ![wall](https://api.iconify.design/ph/wall.svg?height=32&color=%23888888)
+  /// ![wall](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wall.png)
   static const IconData wall = IconData(
     0xe688,
     fontFamily: 'PhosphorRegular',
@@ -17899,7 +17899,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wallet` no estilo Regular.
   ///
-  /// ![wallet](https://api.iconify.design/ph/wallet.svg?height=32&color=%23888888)
+  /// ![wallet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wallet.png)
   static const IconData wallet = IconData(
     0xe68a,
     fontFamily: 'PhosphorRegular',
@@ -17911,7 +17911,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warehouse` no estilo Regular.
   ///
-  /// ![warehouse](https://api.iconify.design/ph/warehouse.svg?height=32&color=%23888888)
+  /// ![warehouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/warehouse.png)
   static const IconData warehouse = IconData(
     0xecd4,
     fontFamily: 'PhosphorRegular',
@@ -17923,7 +17923,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warning` no estilo Regular.
   ///
-  /// ![warning](https://api.iconify.design/ph/warning.svg?height=32&color=%23888888)
+  /// ![warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/warning.png)
   static const IconData warning = IconData(
     0xe4e0,
     fontFamily: 'PhosphorRegular',
@@ -17935,7 +17935,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warningCircle` no estilo Regular.
   ///
-  /// ![warning-circle](https://api.iconify.design/ph/warning-circle.svg?height=32&color=%23888888)
+  /// ![warning-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/warning-circle.png)
   static const IconData warningCircle = IconData(
     0xe4e2,
     fontFamily: 'PhosphorRegular',
@@ -17947,7 +17947,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warningDiamond` no estilo Regular.
   ///
-  /// ![warning-diamond](https://api.iconify.design/ph/warning-diamond.svg?height=32&color=%23888888)
+  /// ![warning-diamond](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/warning-diamond.png)
   static const IconData warningDiamond = IconData(
     0xe7fc,
     fontFamily: 'PhosphorRegular',
@@ -17959,7 +17959,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `warningOctagon` no estilo Regular.
   ///
-  /// ![warning-octagon](https://api.iconify.design/ph/warning-octagon.svg?height=32&color=%23888888)
+  /// ![warning-octagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/warning-octagon.png)
   static const IconData warningOctagon = IconData(
     0xe4e4,
     fontFamily: 'PhosphorRegular',
@@ -17971,7 +17971,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `washingMachine` no estilo Regular.
   ///
-  /// ![washing-machine](https://api.iconify.design/ph/washing-machine.svg?height=32&color=%23888888)
+  /// ![washing-machine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/washing-machine.png)
   static const IconData washingMachine = IconData(
     0xede8,
     fontFamily: 'PhosphorRegular',
@@ -17983,7 +17983,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `watch` no estilo Regular.
   ///
-  /// ![watch](https://api.iconify.design/ph/watch.svg?height=32&color=%23888888)
+  /// ![watch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/watch.png)
   static const IconData watch = IconData(
     0xe4e6,
     fontFamily: 'PhosphorRegular',
@@ -17995,7 +17995,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveSawtooth` no estilo Regular.
   ///
-  /// ![wave-sawtooth](https://api.iconify.design/ph/wave-sawtooth.svg?height=32&color=%23888888)
+  /// ![wave-sawtooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wave-sawtooth.png)
   static const IconData waveSawtooth = IconData(
     0xea9c,
     fontFamily: 'PhosphorRegular',
@@ -18007,7 +18007,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveSine` no estilo Regular.
   ///
-  /// ![wave-sine](https://api.iconify.design/ph/wave-sine.svg?height=32&color=%23888888)
+  /// ![wave-sine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wave-sine.png)
   static const IconData waveSine = IconData(
     0xea9a,
     fontFamily: 'PhosphorRegular',
@@ -18019,7 +18019,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveSquare` no estilo Regular.
   ///
-  /// ![wave-square](https://api.iconify.design/ph/wave-square.svg?height=32&color=%23888888)
+  /// ![wave-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wave-square.png)
   static const IconData waveSquare = IconData(
     0xea9e,
     fontFamily: 'PhosphorRegular',
@@ -18031,7 +18031,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveTriangle` no estilo Regular.
   ///
-  /// ![wave-triangle](https://api.iconify.design/ph/wave-triangle.svg?height=32&color=%23888888)
+  /// ![wave-triangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wave-triangle.png)
   static const IconData waveTriangle = IconData(
     0xeaa0,
     fontFamily: 'PhosphorRegular',
@@ -18043,7 +18043,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveform` no estilo Regular.
   ///
-  /// ![waveform](https://api.iconify.design/ph/waveform.svg?height=32&color=%23888888)
+  /// ![waveform](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/waveform.png)
   static const IconData waveform = IconData(
     0xe802,
     fontFamily: 'PhosphorRegular',
@@ -18055,7 +18055,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waveformSlash` no estilo Regular.
   ///
-  /// ![waveform-slash](https://api.iconify.design/ph/waveform-slash.svg?height=32&color=%23888888)
+  /// ![waveform-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/waveform-slash.png)
   static const IconData waveformSlash = IconData(
     0xe800,
     fontFamily: 'PhosphorRegular',
@@ -18067,7 +18067,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `waves` no estilo Regular.
   ///
-  /// ![waves](https://api.iconify.design/ph/waves.svg?height=32&color=%23888888)
+  /// ![waves](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/waves.png)
   static const IconData waves = IconData(
     0xe6de,
     fontFamily: 'PhosphorRegular',
@@ -18079,7 +18079,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `webcam` no estilo Regular.
   ///
-  /// ![webcam](https://api.iconify.design/ph/webcam.svg?height=32&color=%23888888)
+  /// ![webcam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/webcam.png)
   static const IconData webcam = IconData(
     0xe9b2,
     fontFamily: 'PhosphorRegular',
@@ -18091,7 +18091,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `webcamSlash` no estilo Regular.
   ///
-  /// ![webcam-slash](https://api.iconify.design/ph/webcam-slash.svg?height=32&color=%23888888)
+  /// ![webcam-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/webcam-slash.png)
   static const IconData webcamSlash = IconData(
     0xecdc,
     fontFamily: 'PhosphorRegular',
@@ -18103,7 +18103,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `webhooksLogo` no estilo Regular.
   ///
-  /// ![webhooks-logo](https://api.iconify.design/ph/webhooks-logo.svg?height=32&color=%23888888)
+  /// ![webhooks-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/webhooks-logo.png)
   static const IconData webhooksLogo = IconData(
     0xecae,
     fontFamily: 'PhosphorRegular',
@@ -18115,7 +18115,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wechatLogo` no estilo Regular.
   ///
-  /// ![wechat-logo](https://api.iconify.design/ph/wechat-logo.svg?height=32&color=%23888888)
+  /// ![wechat-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wechat-logo.png)
   static const IconData wechatLogo = IconData(
     0xe8d2,
     fontFamily: 'PhosphorRegular',
@@ -18127,7 +18127,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `whatsappLogo` no estilo Regular.
   ///
-  /// ![whatsapp-logo](https://api.iconify.design/ph/whatsapp-logo.svg?height=32&color=%23888888)
+  /// ![whatsapp-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/whatsapp-logo.png)
   static const IconData whatsappLogo = IconData(
     0xe5d0,
     fontFamily: 'PhosphorRegular',
@@ -18139,7 +18139,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wheelchair` no estilo Regular.
   ///
-  /// ![wheelchair](https://api.iconify.design/ph/wheelchair.svg?height=32&color=%23888888)
+  /// ![wheelchair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wheelchair.png)
   static const IconData wheelchair = IconData(
     0xe4e8,
     fontFamily: 'PhosphorRegular',
@@ -18151,7 +18151,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wheelchairMotion` no estilo Regular.
   ///
-  /// ![wheelchair-motion](https://api.iconify.design/ph/wheelchair-motion.svg?height=32&color=%23888888)
+  /// ![wheelchair-motion](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wheelchair-motion.png)
   static const IconData wheelchairMotion = IconData(
     0xe89a,
     fontFamily: 'PhosphorRegular',
@@ -18163,7 +18163,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiHigh` no estilo Regular.
   ///
-  /// ![wifi-high](https://api.iconify.design/ph/wifi-high.svg?height=32&color=%23888888)
+  /// ![wifi-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wifi-high.png)
   static const IconData wifiHigh = IconData(
     0xe4ea,
     fontFamily: 'PhosphorRegular',
@@ -18175,7 +18175,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiLow` no estilo Regular.
   ///
-  /// ![wifi-low](https://api.iconify.design/ph/wifi-low.svg?height=32&color=%23888888)
+  /// ![wifi-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wifi-low.png)
   static const IconData wifiLow = IconData(
     0xe4ec,
     fontFamily: 'PhosphorRegular',
@@ -18187,7 +18187,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiMedium` no estilo Regular.
   ///
-  /// ![wifi-medium](https://api.iconify.design/ph/wifi-medium.svg?height=32&color=%23888888)
+  /// ![wifi-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wifi-medium.png)
   static const IconData wifiMedium = IconData(
     0xe4ee,
     fontFamily: 'PhosphorRegular',
@@ -18199,7 +18199,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiNone` no estilo Regular.
   ///
-  /// ![wifi-none](https://api.iconify.design/ph/wifi-none.svg?height=32&color=%23888888)
+  /// ![wifi-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wifi-none.png)
   static const IconData wifiNone = IconData(
     0xe4f0,
     fontFamily: 'PhosphorRegular',
@@ -18211,7 +18211,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiSlash` no estilo Regular.
   ///
-  /// ![wifi-slash](https://api.iconify.design/ph/wifi-slash.svg?height=32&color=%23888888)
+  /// ![wifi-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wifi-slash.png)
   static const IconData wifiSlash = IconData(
     0xe4f2,
     fontFamily: 'PhosphorRegular',
@@ -18223,7 +18223,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wifiX` no estilo Regular.
   ///
-  /// ![wifi-x](https://api.iconify.design/ph/wifi-x.svg?height=32&color=%23888888)
+  /// ![wifi-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wifi-x.png)
   static const IconData wifiX = IconData(
     0xe4f4,
     fontFamily: 'PhosphorRegular',
@@ -18235,7 +18235,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wind` no estilo Regular.
   ///
-  /// ![wind](https://api.iconify.design/ph/wind.svg?height=32&color=%23888888)
+  /// ![wind](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wind.png)
   static const IconData wind = IconData(
     0xe5d2,
     fontFamily: 'PhosphorRegular',
@@ -18247,7 +18247,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `windmill` no estilo Regular.
   ///
-  /// ![windmill](https://api.iconify.design/ph/windmill.svg?height=32&color=%23888888)
+  /// ![windmill](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/windmill.png)
   static const IconData windmill = IconData(
     0xe9f8,
     fontFamily: 'PhosphorRegular',
@@ -18259,7 +18259,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `windowsLogo` no estilo Regular.
   ///
-  /// ![windows-logo](https://api.iconify.design/ph/windows-logo.svg?height=32&color=%23888888)
+  /// ![windows-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/windows-logo.png)
   static const IconData windowsLogo = IconData(
     0xe692,
     fontFamily: 'PhosphorRegular',
@@ -18271,7 +18271,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wine` no estilo Regular.
   ///
-  /// ![wine](https://api.iconify.design/ph/wine.svg?height=32&color=%23888888)
+  /// ![wine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wine.png)
   static const IconData wine = IconData(
     0xe6b2,
     fontFamily: 'PhosphorRegular',
@@ -18283,7 +18283,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `wrench` no estilo Regular.
   ///
-  /// ![wrench](https://api.iconify.design/ph/wrench.svg?height=32&color=%23888888)
+  /// ![wrench](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/wrench.png)
   static const IconData wrench = IconData(
     0xe5d4,
     fontFamily: 'PhosphorRegular',
@@ -18295,7 +18295,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `x` no estilo Regular.
   ///
-  /// ![x](https://api.iconify.design/ph/x.svg?height=32&color=%23888888)
+  /// ![x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/x.png)
   static const IconData x = IconData(
     0xe4f6,
     fontFamily: 'PhosphorRegular',
@@ -18307,7 +18307,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `xCircle` no estilo Regular.
   ///
-  /// ![x-circle](https://api.iconify.design/ph/x-circle.svg?height=32&color=%23888888)
+  /// ![x-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/x-circle.png)
   static const IconData xCircle = IconData(
     0xe4f8,
     fontFamily: 'PhosphorRegular',
@@ -18319,7 +18319,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `xLogo` no estilo Regular.
   ///
-  /// ![x-logo](https://api.iconify.design/ph/x-logo.svg?height=32&color=%23888888)
+  /// ![x-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/x-logo.png)
   static const IconData xLogo = IconData(
     0xe4bc,
     fontFamily: 'PhosphorRegular',
@@ -18331,7 +18331,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `xSquare` no estilo Regular.
   ///
-  /// ![x-square](https://api.iconify.design/ph/x-square.svg?height=32&color=%23888888)
+  /// ![x-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/x-square.png)
   static const IconData xSquare = IconData(
     0xe4fa,
     fontFamily: 'PhosphorRegular',
@@ -18343,7 +18343,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `yarn` no estilo Regular.
   ///
-  /// ![yarn](https://api.iconify.design/ph/yarn.svg?height=32&color=%23888888)
+  /// ![yarn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/yarn.png)
   static const IconData yarn = IconData(
     0xed9a,
     fontFamily: 'PhosphorRegular',
@@ -18355,7 +18355,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `yinYang` no estilo Regular.
   ///
-  /// ![yin-yang](https://api.iconify.design/ph/yin-yang.svg?height=32&color=%23888888)
+  /// ![yin-yang](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/yin-yang.png)
   static const IconData yinYang = IconData(
     0xe92a,
     fontFamily: 'PhosphorRegular',
@@ -18367,7 +18367,7 @@ class PhosphorIconsRegular {
   ///
   /// [PT] O ícone `youtubeLogo` no estilo Regular.
   ///
-  /// ![youtube-logo](https://api.iconify.design/ph/youtube-logo.svg?height=32&color=%23888888)
+  /// ![youtube-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/regular/youtube-logo.png)
   static const IconData youtubeLogo = IconData(
     0xe4fc,
     fontFamily: 'PhosphorRegular',

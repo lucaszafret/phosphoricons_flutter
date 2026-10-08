@@ -22,10 +22,6 @@ const _package = 'phosphoricons_flutter';
 // Raiz dos assets baixados do site oficial
 const _sourceBase = '../phosphor-icons/Fonts';
 
-// alias → nome principal (ex: `caduceus` → `asclepius`). Só o nome principal
-// tem arquivo de imagem no Iconify/Phosphor; usado apenas nas docstrings.
-final _aliasToCanonical = <String, String>{};
-
 const _styles = [
   _StyleConfig('regular', 'Regular', 'Phosphor.ttf', 'PhosphorRegular'),
   _StyleConfig('thin', 'Thin', 'Phosphor-Thin.ttf', 'PhosphorThin'),
@@ -85,13 +81,6 @@ void main() {
           .map((n) => n.trim())
           .where((n) => n.isNotEmpty)
           .toList();
-
-      if (style.id == 'regular' && rawNames.length > 1) {
-        final canonical = _toCamelCase(rawNames.first);
-        for (final alias in rawNames.skip(1)) {
-          _aliasToCanonical[_toCamelCase(alias)] = canonical;
-        }
-      }
 
       if (style.id == 'duotone') {
         final codes = props['codes'] as List<dynamic>?;
@@ -440,18 +429,33 @@ String _toCamelCase(String name) {
 // Imagem de pré-visualização usada nas docstrings (hover/autocomplete da IDE e
 // documentação da API no pub.dev).
 //
-// Usamos a API do Iconify (coleção `ph` = Phosphor, mesmos ícones das fontes)
-// porque ela devolve o SVG já com tamanho fixo e cor visível em temas claro e
-// escuro. Os SVGs "crus" do Phosphor não têm width/height: aparecem gigantes e
-// pretos. Nos estilos que não são Regular o arquivo leva o sufixo do estilo
-// (`acorn-bold`), e o Regular não (`acorn`).
-const _docImageBase = 'https://api.iconify.design/ph';
-const _docImageQuery = 'height=32&color=%23888888';
+// São PNGs de 48px em `doc/icons/<estilo>/<nome>.png`, gerados com as próprias
+// fontes por `example/test/doc_icons_test.dart` (um arquivo por constante,
+// aliases inclusos) e servidos pelo jsDelivr, fixados na tag da versão
+// (`v<versão do pubspec.yaml>`). Por que PNG: o VS Code NÃO carrega SVG remoto
+// no hover, mas carrega PNG. Por que fixar a tag: o link da versão publicada
+// nunca muda. A pasta `doc/` fica fora do pacote (.pubignore).
+//
+// Ao lançar uma versão, crie a tag `v<versão>` ANTES de publicar, senão as
+// imagens só aparecem depois.
+const _docImageRepo = 'lucaszafret/phosphoricons_flutter';
+
+String? _docImageVersion;
 
 String _docImageUrl(String camelName, _StyleConfig style) {
-  final kebab = _toKebabCase(_aliasToCanonical[camelName] ?? camelName);
-  final file = style.id == 'regular' ? kebab : '$kebab-${style.id}';
-  return '$_docImageBase/$file.svg?$_docImageQuery';
+  _docImageVersion ??= _readPackageVersion();
+  return 'https://cdn.jsdelivr.net/gh/$_docImageRepo@v$_docImageVersion'
+      '/doc/icons/${style.id}/${_toKebabCase(camelName)}.png';
+}
+
+String _readPackageVersion() {
+  final pubspec = File('../pubspec.yaml').readAsStringSync();
+  final match =
+      RegExp(r'^version:\s*(\S+)', multiLine: true).firstMatch(pubspec);
+  if (match == null) {
+    throw StateError('version não encontrada em ../pubspec.yaml');
+  }
+  return match.group(1)!.split('+').first;
 }
 
 String _toKebabCase(String camel) {
