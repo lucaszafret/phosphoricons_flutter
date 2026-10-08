@@ -83,6 +83,16 @@ Cada constante gerada tem `![nome](https://cdn.jsdelivr.net/gh/lucaszafret/phosp
 `screenshots/*.png` (listadas em `screenshots:` no `pubspec.yaml`) são geradas por `example/test/screenshots_test.dart`:
 `cd example && GENERATE_SCREENSHOTS=1 flutter test --update-goldens test/screenshots_test.dart`. Máx. 10 imagens, 4 MB cada, descrição ≤ 160 caracteres; a primeira vira a miniatura. Não use logos.
 
+## Checklist de release
+
+1. Atualizar `version` no `pubspec.yaml` e a entrada no `CHANGELOG.md`.
+2. Atualizar o snippet de instalação (`phosphoricons_flutter: ^x.y.z`) nos DOIS READMEs: o pub.dev mostra o README do pacote publicado, então só atualiza na próxima publicação.
+3. Se os ícones/gerador mudaram: rodar `tool/generate.dart` e `example/test/doc_icons_test.dart` (ver seções acima).
+4. `dart format`, `flutter analyze`, `flutter test`, `flutter pub publish --dry-run` (0 avisos).
+5. PR → CI verde → merge → tag `vX.Y.Z` (push) → conferir o hover no VS Code → `flutter pub publish` → Release no GitHub.
+
+`NEW_ICONS.md` e `example/pubspec.lock` não vão para o git (estão no `.gitignore`).
+
 ## CI
 
 `.github/workflows/ci.yml` roda formatação, analyze, testes (pacote e exemplo) e `flutter pub publish --dry-run`.
