@@ -19,7 +19,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `acorn` no estilo Thin.
   ///
-  /// ![acorn](https://api.iconify.design/ph/acorn-thin.svg?height=32&color=%23888888)
+  /// ![acorn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/acorn.png)
   static const IconData acorn = IconData(
     0xeb9a,
     fontFamily: 'PhosphorThin',
@@ -31,7 +31,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `activity` no estilo Thin.
   ///
-  /// ![activity](https://api.iconify.design/ph/pulse-thin.svg?height=32&color=%23888888)
+  /// ![activity](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/activity.png)
   static const IconData activity = IconData(
     0xe000,
     fontFamily: 'PhosphorThin',
@@ -43,7 +43,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `addressBook` no estilo Thin.
   ///
-  /// ![address-book](https://api.iconify.design/ph/address-book-thin.svg?height=32&color=%23888888)
+  /// ![address-book](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/address-book.png)
   static const IconData addressBook = IconData(
     0xe6f8,
     fontFamily: 'PhosphorThin',
@@ -55,7 +55,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `addressBookTabs` no estilo Thin.
   ///
-  /// ![address-book-tabs](https://api.iconify.design/ph/address-book-tabs-thin.svg?height=32&color=%23888888)
+  /// ![address-book-tabs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/address-book-tabs.png)
   static const IconData addressBookTabs = IconData(
     0xee4e,
     fontFamily: 'PhosphorThin',
@@ -67,7 +67,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airTrafficControl` no estilo Thin.
   ///
-  /// ![air-traffic-control](https://api.iconify.design/ph/air-traffic-control-thin.svg?height=32&color=%23888888)
+  /// ![air-traffic-control](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/air-traffic-control.png)
   static const IconData airTrafficControl = IconData(
     0xecd8,
     fontFamily: 'PhosphorThin',
@@ -79,7 +79,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airplane` no estilo Thin.
   ///
-  /// ![airplane](https://api.iconify.design/ph/airplane-thin.svg?height=32&color=%23888888)
+  /// ![airplane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/airplane.png)
   static const IconData airplane = IconData(
     0xe002,
     fontFamily: 'PhosphorThin',
@@ -91,7 +91,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airplaneInFlight` no estilo Thin.
   ///
-  /// ![airplane-in-flight](https://api.iconify.design/ph/airplane-in-flight-thin.svg?height=32&color=%23888888)
+  /// ![airplane-in-flight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/airplane-in-flight.png)
   static const IconData airplaneInFlight = IconData(
     0xe4fe,
     fontFamily: 'PhosphorThin',
@@ -103,7 +103,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airplaneLanding` no estilo Thin.
   ///
-  /// ![airplane-landing](https://api.iconify.design/ph/airplane-landing-thin.svg?height=32&color=%23888888)
+  /// ![airplane-landing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/airplane-landing.png)
   static const IconData airplaneLanding = IconData(
     0xe502,
     fontFamily: 'PhosphorThin',
@@ -115,7 +115,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airplaneTakeoff` no estilo Thin.
   ///
-  /// ![airplane-takeoff](https://api.iconify.design/ph/airplane-takeoff-thin.svg?height=32&color=%23888888)
+  /// ![airplane-takeoff](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/airplane-takeoff.png)
   static const IconData airplaneTakeoff = IconData(
     0xe504,
     fontFamily: 'PhosphorThin',
@@ -127,7 +127,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airplaneTaxiing` no estilo Thin.
   ///
-  /// ![airplane-taxiing](https://api.iconify.design/ph/airplane-taxiing-thin.svg?height=32&color=%23888888)
+  /// ![airplane-taxiing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/airplane-taxiing.png)
   static const IconData airplaneTaxiing = IconData(
     0xe500,
     fontFamily: 'PhosphorThin',
@@ -139,7 +139,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airplaneTilt` no estilo Thin.
   ///
-  /// ![airplane-tilt](https://api.iconify.design/ph/airplane-tilt-thin.svg?height=32&color=%23888888)
+  /// ![airplane-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/airplane-tilt.png)
   static const IconData airplaneTilt = IconData(
     0xe5d6,
     fontFamily: 'PhosphorThin',
@@ -151,7 +151,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `airplay` no estilo Thin.
   ///
-  /// ![airplay](https://api.iconify.design/ph/airplay-thin.svg?height=32&color=%23888888)
+  /// ![airplay](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/airplay.png)
   static const IconData airplay = IconData(
     0xe004,
     fontFamily: 'PhosphorThin',
@@ -163,7 +163,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alarm` no estilo Thin.
   ///
-  /// ![alarm](https://api.iconify.design/ph/alarm-thin.svg?height=32&color=%23888888)
+  /// ![alarm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/alarm.png)
   static const IconData alarm = IconData(
     0xe006,
     fontFamily: 'PhosphorThin',
@@ -175,7 +175,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alien` no estilo Thin.
   ///
-  /// ![alien](https://api.iconify.design/ph/alien-thin.svg?height=32&color=%23888888)
+  /// ![alien](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/alien.png)
   static const IconData alien = IconData(
     0xe8a6,
     fontFamily: 'PhosphorThin',
@@ -187,7 +187,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignBottom` no estilo Thin.
   ///
-  /// ![align-bottom](https://api.iconify.design/ph/align-bottom-thin.svg?height=32&color=%23888888)
+  /// ![align-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-bottom.png)
   static const IconData alignBottom = IconData(
     0xe506,
     fontFamily: 'PhosphorThin',
@@ -199,7 +199,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignBottomSimple` no estilo Thin.
   ///
-  /// ![align-bottom-simple](https://api.iconify.design/ph/align-bottom-simple-thin.svg?height=32&color=%23888888)
+  /// ![align-bottom-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-bottom-simple.png)
   static const IconData alignBottomSimple = IconData(
     0xeb0c,
     fontFamily: 'PhosphorThin',
@@ -211,7 +211,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignCenterHorizontal` no estilo Thin.
   ///
-  /// ![align-center-horizontal](https://api.iconify.design/ph/align-center-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-center-horizontal.png)
   static const IconData alignCenterHorizontal = IconData(
     0xe50a,
     fontFamily: 'PhosphorThin',
@@ -223,7 +223,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignCenterHorizontalSimple` no estilo Thin.
   ///
-  /// ![align-center-horizontal-simple](https://api.iconify.design/ph/align-center-horizontal-simple-thin.svg?height=32&color=%23888888)
+  /// ![align-center-horizontal-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-center-horizontal-simple.png)
   static const IconData alignCenterHorizontalSimple = IconData(
     0xeb0e,
     fontFamily: 'PhosphorThin',
@@ -235,7 +235,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignCenterVertical` no estilo Thin.
   ///
-  /// ![align-center-vertical](https://api.iconify.design/ph/align-center-vertical-thin.svg?height=32&color=%23888888)
+  /// ![align-center-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-center-vertical.png)
   static const IconData alignCenterVertical = IconData(
     0xe50c,
     fontFamily: 'PhosphorThin',
@@ -247,7 +247,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignCenterVerticalSimple` no estilo Thin.
   ///
-  /// ![align-center-vertical-simple](https://api.iconify.design/ph/align-center-vertical-simple-thin.svg?height=32&color=%23888888)
+  /// ![align-center-vertical-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-center-vertical-simple.png)
   static const IconData alignCenterVerticalSimple = IconData(
     0xeb10,
     fontFamily: 'PhosphorThin',
@@ -259,7 +259,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignLeft` no estilo Thin.
   ///
-  /// ![align-left](https://api.iconify.design/ph/align-left-thin.svg?height=32&color=%23888888)
+  /// ![align-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-left.png)
   static const IconData alignLeft = IconData(
     0xe50e,
     fontFamily: 'PhosphorThin',
@@ -271,7 +271,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignLeftSimple` no estilo Thin.
   ///
-  /// ![align-left-simple](https://api.iconify.design/ph/align-left-simple-thin.svg?height=32&color=%23888888)
+  /// ![align-left-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-left-simple.png)
   static const IconData alignLeftSimple = IconData(
     0xeaee,
     fontFamily: 'PhosphorThin',
@@ -283,7 +283,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignRight` no estilo Thin.
   ///
-  /// ![align-right](https://api.iconify.design/ph/align-right-thin.svg?height=32&color=%23888888)
+  /// ![align-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-right.png)
   static const IconData alignRight = IconData(
     0xe510,
     fontFamily: 'PhosphorThin',
@@ -295,7 +295,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignRightSimple` no estilo Thin.
   ///
-  /// ![align-right-simple](https://api.iconify.design/ph/align-right-simple-thin.svg?height=32&color=%23888888)
+  /// ![align-right-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-right-simple.png)
   static const IconData alignRightSimple = IconData(
     0xeb12,
     fontFamily: 'PhosphorThin',
@@ -307,7 +307,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignTop` no estilo Thin.
   ///
-  /// ![align-top](https://api.iconify.design/ph/align-top-thin.svg?height=32&color=%23888888)
+  /// ![align-top](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-top.png)
   static const IconData alignTop = IconData(
     0xe512,
     fontFamily: 'PhosphorThin',
@@ -319,7 +319,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `alignTopSimple` no estilo Thin.
   ///
-  /// ![align-top-simple](https://api.iconify.design/ph/align-top-simple-thin.svg?height=32&color=%23888888)
+  /// ![align-top-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/align-top-simple.png)
   static const IconData alignTopSimple = IconData(
     0xeb14,
     fontFamily: 'PhosphorThin',
@@ -331,7 +331,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `amazonLogo` no estilo Thin.
   ///
-  /// ![amazon-logo](https://api.iconify.design/ph/amazon-logo-thin.svg?height=32&color=%23888888)
+  /// ![amazon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/amazon-logo.png)
   static const IconData amazonLogo = IconData(
     0xe96c,
     fontFamily: 'PhosphorThin',
@@ -343,7 +343,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ambulance` no estilo Thin.
   ///
-  /// ![ambulance](https://api.iconify.design/ph/ambulance-thin.svg?height=32&color=%23888888)
+  /// ![ambulance](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ambulance.png)
   static const IconData ambulance = IconData(
     0xe572,
     fontFamily: 'PhosphorThin',
@@ -355,7 +355,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `anchor` no estilo Thin.
   ///
-  /// ![anchor](https://api.iconify.design/ph/anchor-thin.svg?height=32&color=%23888888)
+  /// ![anchor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/anchor.png)
   static const IconData anchor = IconData(
     0xe514,
     fontFamily: 'PhosphorThin',
@@ -367,7 +367,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `anchorSimple` no estilo Thin.
   ///
-  /// ![anchor-simple](https://api.iconify.design/ph/anchor-simple-thin.svg?height=32&color=%23888888)
+  /// ![anchor-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/anchor-simple.png)
   static const IconData anchorSimple = IconData(
     0xe5d8,
     fontFamily: 'PhosphorThin',
@@ -379,7 +379,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `androidLogo` no estilo Thin.
   ///
-  /// ![android-logo](https://api.iconify.design/ph/android-logo-thin.svg?height=32&color=%23888888)
+  /// ![android-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/android-logo.png)
   static const IconData androidLogo = IconData(
     0xe008,
     fontFamily: 'PhosphorThin',
@@ -391,7 +391,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `angle` no estilo Thin.
   ///
-  /// ![angle](https://api.iconify.design/ph/angle-thin.svg?height=32&color=%23888888)
+  /// ![angle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/angle.png)
   static const IconData angle = IconData(
     0xe7bc,
     fontFamily: 'PhosphorThin',
@@ -403,7 +403,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `angularLogo` no estilo Thin.
   ///
-  /// ![angular-logo](https://api.iconify.design/ph/angular-logo-thin.svg?height=32&color=%23888888)
+  /// ![angular-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/angular-logo.png)
   static const IconData angularLogo = IconData(
     0xeb80,
     fontFamily: 'PhosphorThin',
@@ -415,7 +415,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `aperture` no estilo Thin.
   ///
-  /// ![aperture](https://api.iconify.design/ph/aperture-thin.svg?height=32&color=%23888888)
+  /// ![aperture](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/aperture.png)
   static const IconData aperture = IconData(
     0xe00a,
     fontFamily: 'PhosphorThin',
@@ -427,7 +427,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `appStoreLogo` no estilo Thin.
   ///
-  /// ![app-store-logo](https://api.iconify.design/ph/app-store-logo-thin.svg?height=32&color=%23888888)
+  /// ![app-store-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/app-store-logo.png)
   static const IconData appStoreLogo = IconData(
     0xe974,
     fontFamily: 'PhosphorThin',
@@ -439,7 +439,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `appWindow` no estilo Thin.
   ///
-  /// ![app-window](https://api.iconify.design/ph/app-window-thin.svg?height=32&color=%23888888)
+  /// ![app-window](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/app-window.png)
   static const IconData appWindow = IconData(
     0xe5da,
     fontFamily: 'PhosphorThin',
@@ -451,7 +451,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `appleLogo` no estilo Thin.
   ///
-  /// ![apple-logo](https://api.iconify.design/ph/apple-logo-thin.svg?height=32&color=%23888888)
+  /// ![apple-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/apple-logo.png)
   static const IconData appleLogo = IconData(
     0xe516,
     fontFamily: 'PhosphorThin',
@@ -463,7 +463,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `applePodcastsLogo` no estilo Thin.
   ///
-  /// ![apple-podcasts-logo](https://api.iconify.design/ph/apple-podcasts-logo-thin.svg?height=32&color=%23888888)
+  /// ![apple-podcasts-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/apple-podcasts-logo.png)
   static const IconData applePodcastsLogo = IconData(
     0xeb96,
     fontFamily: 'PhosphorThin',
@@ -475,7 +475,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `approximateEquals` no estilo Thin.
   ///
-  /// ![approximate-equals](https://api.iconify.design/ph/approximate-equals-thin.svg?height=32&color=%23888888)
+  /// ![approximate-equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/approximate-equals.png)
   static const IconData approximateEquals = IconData(
     0xedaa,
     fontFamily: 'PhosphorThin',
@@ -487,7 +487,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `archive` no estilo Thin.
   ///
-  /// ![archive](https://api.iconify.design/ph/archive-thin.svg?height=32&color=%23888888)
+  /// ![archive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/archive.png)
   static const IconData archive = IconData(
     0xe00c,
     fontFamily: 'PhosphorThin',
@@ -499,7 +499,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `archiveBox` no estilo Thin.
   ///
-  /// ![archive-box](https://api.iconify.design/ph/box-arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![archive-box](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/archive-box.png)
   static const IconData archiveBox = IconData(
     0xe00e,
     fontFamily: 'PhosphorThin',
@@ -511,7 +511,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `archiveTray` no estilo Thin.
   ///
-  /// ![archive-tray](https://api.iconify.design/ph/tray-arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![archive-tray](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/archive-tray.png)
   static const IconData archiveTray = IconData(
     0xe010,
     fontFamily: 'PhosphorThin',
@@ -523,7 +523,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `armchair` no estilo Thin.
   ///
-  /// ![armchair](https://api.iconify.design/ph/armchair-thin.svg?height=32&color=%23888888)
+  /// ![armchair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/armchair.png)
   static const IconData armchair = IconData(
     0xe012,
     fontFamily: 'PhosphorThin',
@@ -535,7 +535,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowArcLeft` no estilo Thin.
   ///
-  /// ![arrow-arc-left](https://api.iconify.design/ph/arrow-arc-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-arc-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-arc-left.png)
   static const IconData arrowArcLeft = IconData(
     0xe014,
     fontFamily: 'PhosphorThin',
@@ -547,7 +547,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowArcRight` no estilo Thin.
   ///
-  /// ![arrow-arc-right](https://api.iconify.design/ph/arrow-arc-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-arc-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-arc-right.png)
   static const IconData arrowArcRight = IconData(
     0xe016,
     fontFamily: 'PhosphorThin',
@@ -559,7 +559,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendDoubleUpLeft` no estilo Thin.
   ///
-  /// ![arrow-bend-double-up-left](https://api.iconify.design/ph/arrow-bend-double-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-double-up-left.png)
   static const IconData arrowBendDoubleUpLeft = IconData(
     0xe03a,
     fontFamily: 'PhosphorThin',
@@ -571,7 +571,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendDoubleUpRight` no estilo Thin.
   ///
-  /// ![arrow-bend-double-up-right](https://api.iconify.design/ph/arrow-bend-double-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-double-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-double-up-right.png)
   static const IconData arrowBendDoubleUpRight = IconData(
     0xe03c,
     fontFamily: 'PhosphorThin',
@@ -583,7 +583,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendDownLeft` no estilo Thin.
   ///
-  /// ![arrow-bend-down-left](https://api.iconify.design/ph/arrow-bend-down-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-down-left.png)
   static const IconData arrowBendDownLeft = IconData(
     0xe018,
     fontFamily: 'PhosphorThin',
@@ -595,7 +595,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendDownRight` no estilo Thin.
   ///
-  /// ![arrow-bend-down-right](https://api.iconify.design/ph/arrow-bend-down-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-down-right.png)
   static const IconData arrowBendDownRight = IconData(
     0xe01a,
     fontFamily: 'PhosphorThin',
@@ -607,7 +607,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendLeftDown` no estilo Thin.
   ///
-  /// ![arrow-bend-left-down](https://api.iconify.design/ph/arrow-bend-left-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-left-down.png)
   static const IconData arrowBendLeftDown = IconData(
     0xe01c,
     fontFamily: 'PhosphorThin',
@@ -619,7 +619,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendLeftUp` no estilo Thin.
   ///
-  /// ![arrow-bend-left-up](https://api.iconify.design/ph/arrow-bend-left-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-left-up.png)
   static const IconData arrowBendLeftUp = IconData(
     0xe01e,
     fontFamily: 'PhosphorThin',
@@ -631,7 +631,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendRightDown` no estilo Thin.
   ///
-  /// ![arrow-bend-right-down](https://api.iconify.design/ph/arrow-bend-right-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-right-down.png)
   static const IconData arrowBendRightDown = IconData(
     0xe020,
     fontFamily: 'PhosphorThin',
@@ -643,7 +643,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendRightUp` no estilo Thin.
   ///
-  /// ![arrow-bend-right-up](https://api.iconify.design/ph/arrow-bend-right-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-right-up.png)
   static const IconData arrowBendRightUp = IconData(
     0xe022,
     fontFamily: 'PhosphorThin',
@@ -655,7 +655,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendUpLeft` no estilo Thin.
   ///
-  /// ![arrow-bend-up-left](https://api.iconify.design/ph/arrow-bend-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-up-left.png)
   static const IconData arrowBendUpLeft = IconData(
     0xe024,
     fontFamily: 'PhosphorThin',
@@ -667,7 +667,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowBendUpRight` no estilo Thin.
   ///
-  /// ![arrow-bend-up-right](https://api.iconify.design/ph/arrow-bend-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-bend-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-bend-up-right.png)
   static const IconData arrowBendUpRight = IconData(
     0xe026,
     fontFamily: 'PhosphorThin',
@@ -679,7 +679,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleDown` no estilo Thin.
   ///
-  /// ![arrow-circle-down](https://api.iconify.design/ph/arrow-circle-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-down.png)
   static const IconData arrowCircleDown = IconData(
     0xe028,
     fontFamily: 'PhosphorThin',
@@ -691,7 +691,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleDownLeft` no estilo Thin.
   ///
-  /// ![arrow-circle-down-left](https://api.iconify.design/ph/arrow-circle-down-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-down-left.png)
   static const IconData arrowCircleDownLeft = IconData(
     0xe02a,
     fontFamily: 'PhosphorThin',
@@ -703,7 +703,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleDownRight` no estilo Thin.
   ///
-  /// ![arrow-circle-down-right](https://api.iconify.design/ph/arrow-circle-down-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-down-right.png)
   static const IconData arrowCircleDownRight = IconData(
     0xe02c,
     fontFamily: 'PhosphorThin',
@@ -715,7 +715,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleLeft` no estilo Thin.
   ///
-  /// ![arrow-circle-left](https://api.iconify.design/ph/arrow-circle-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-left.png)
   static const IconData arrowCircleLeft = IconData(
     0xe05a,
     fontFamily: 'PhosphorThin',
@@ -727,7 +727,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleRight` no estilo Thin.
   ///
-  /// ![arrow-circle-right](https://api.iconify.design/ph/arrow-circle-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-right.png)
   static const IconData arrowCircleRight = IconData(
     0xe02e,
     fontFamily: 'PhosphorThin',
@@ -739,7 +739,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleUp` no estilo Thin.
   ///
-  /// ![arrow-circle-up](https://api.iconify.design/ph/arrow-circle-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-up.png)
   static const IconData arrowCircleUp = IconData(
     0xe030,
     fontFamily: 'PhosphorThin',
@@ -751,7 +751,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleUpLeft` no estilo Thin.
   ///
-  /// ![arrow-circle-up-left](https://api.iconify.design/ph/arrow-circle-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-up-left.png)
   static const IconData arrowCircleUpLeft = IconData(
     0xe032,
     fontFamily: 'PhosphorThin',
@@ -763,7 +763,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCircleUpRight` no estilo Thin.
   ///
-  /// ![arrow-circle-up-right](https://api.iconify.design/ph/arrow-circle-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-circle-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-circle-up-right.png)
   static const IconData arrowCircleUpRight = IconData(
     0xe034,
     fontFamily: 'PhosphorThin',
@@ -775,7 +775,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowClockwise` no estilo Thin.
   ///
-  /// ![arrow-clockwise](https://api.iconify.design/ph/arrow-clockwise-thin.svg?height=32&color=%23888888)
+  /// ![arrow-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-clockwise.png)
   static const IconData arrowClockwise = IconData(
     0xe036,
     fontFamily: 'PhosphorThin',
@@ -787,7 +787,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowCounterClockwise` no estilo Thin.
   ///
-  /// ![arrow-counter-clockwise](https://api.iconify.design/ph/arrow-counter-clockwise-thin.svg?height=32&color=%23888888)
+  /// ![arrow-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-counter-clockwise.png)
   static const IconData arrowCounterClockwise = IconData(
     0xe038,
     fontFamily: 'PhosphorThin',
@@ -799,7 +799,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowDown` no estilo Thin.
   ///
-  /// ![arrow-down](https://api.iconify.design/ph/arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-down.png)
   static const IconData arrowDown = IconData(
     0xe03e,
     fontFamily: 'PhosphorThin',
@@ -811,7 +811,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowDownLeft` no estilo Thin.
   ///
-  /// ![arrow-down-left](https://api.iconify.design/ph/arrow-down-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-down-left.png)
   static const IconData arrowDownLeft = IconData(
     0xe040,
     fontFamily: 'PhosphorThin',
@@ -823,7 +823,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowDownRight` no estilo Thin.
   ///
-  /// ![arrow-down-right](https://api.iconify.design/ph/arrow-down-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-down-right.png)
   static const IconData arrowDownRight = IconData(
     0xe042,
     fontFamily: 'PhosphorThin',
@@ -835,7 +835,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowDownLeft` no estilo Thin.
   ///
-  /// ![arrow-elbow-down-left](https://api.iconify.design/ph/arrow-elbow-down-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-down-left.png)
   static const IconData arrowElbowDownLeft = IconData(
     0xe044,
     fontFamily: 'PhosphorThin',
@@ -847,7 +847,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowDownRight` no estilo Thin.
   ///
-  /// ![arrow-elbow-down-right](https://api.iconify.design/ph/arrow-elbow-down-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-down-right.png)
   static const IconData arrowElbowDownRight = IconData(
     0xe046,
     fontFamily: 'PhosphorThin',
@@ -859,7 +859,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowLeft` no estilo Thin.
   ///
-  /// ![arrow-elbow-left](https://api.iconify.design/ph/arrow-elbow-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-left.png)
   static const IconData arrowElbowLeft = IconData(
     0xe048,
     fontFamily: 'PhosphorThin',
@@ -871,7 +871,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowLeftDown` no estilo Thin.
   ///
-  /// ![arrow-elbow-left-down](https://api.iconify.design/ph/arrow-elbow-left-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-left-down.png)
   static const IconData arrowElbowLeftDown = IconData(
     0xe04a,
     fontFamily: 'PhosphorThin',
@@ -883,7 +883,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowLeftUp` no estilo Thin.
   ///
-  /// ![arrow-elbow-left-up](https://api.iconify.design/ph/arrow-elbow-left-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-left-up.png)
   static const IconData arrowElbowLeftUp = IconData(
     0xe04c,
     fontFamily: 'PhosphorThin',
@@ -895,7 +895,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowRight` no estilo Thin.
   ///
-  /// ![arrow-elbow-right](https://api.iconify.design/ph/arrow-elbow-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-right.png)
   static const IconData arrowElbowRight = IconData(
     0xe04e,
     fontFamily: 'PhosphorThin',
@@ -907,7 +907,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowRightDown` no estilo Thin.
   ///
-  /// ![arrow-elbow-right-down](https://api.iconify.design/ph/arrow-elbow-right-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-right-down.png)
   static const IconData arrowElbowRightDown = IconData(
     0xe050,
     fontFamily: 'PhosphorThin',
@@ -919,7 +919,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowRightUp` no estilo Thin.
   ///
-  /// ![arrow-elbow-right-up](https://api.iconify.design/ph/arrow-elbow-right-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-right-up.png)
   static const IconData arrowElbowRightUp = IconData(
     0xe052,
     fontFamily: 'PhosphorThin',
@@ -931,7 +931,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowUpLeft` no estilo Thin.
   ///
-  /// ![arrow-elbow-up-left](https://api.iconify.design/ph/arrow-elbow-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-up-left.png)
   static const IconData arrowElbowUpLeft = IconData(
     0xe054,
     fontFamily: 'PhosphorThin',
@@ -943,7 +943,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowElbowUpRight` no estilo Thin.
   ///
-  /// ![arrow-elbow-up-right](https://api.iconify.design/ph/arrow-elbow-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-elbow-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-elbow-up-right.png)
   static const IconData arrowElbowUpRight = IconData(
     0xe056,
     fontFamily: 'PhosphorThin',
@@ -955,7 +955,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatDown` no estilo Thin.
   ///
-  /// ![arrow-fat-down](https://api.iconify.design/ph/arrow-fat-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-down.png)
   static const IconData arrowFatDown = IconData(
     0xe518,
     fontFamily: 'PhosphorThin',
@@ -967,7 +967,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLeft` no estilo Thin.
   ///
-  /// ![arrow-fat-left](https://api.iconify.design/ph/arrow-fat-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-left.png)
   static const IconData arrowFatLeft = IconData(
     0xe51a,
     fontFamily: 'PhosphorThin',
@@ -979,7 +979,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLineDown` no estilo Thin.
   ///
-  /// ![arrow-fat-line-down](https://api.iconify.design/ph/arrow-fat-line-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-line-down.png)
   static const IconData arrowFatLineDown = IconData(
     0xe51c,
     fontFamily: 'PhosphorThin',
@@ -991,7 +991,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLineLeft` no estilo Thin.
   ///
-  /// ![arrow-fat-line-left](https://api.iconify.design/ph/arrow-fat-line-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-line-left.png)
   static const IconData arrowFatLineLeft = IconData(
     0xe51e,
     fontFamily: 'PhosphorThin',
@@ -1003,7 +1003,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLineRight` no estilo Thin.
   ///
-  /// ![arrow-fat-line-right](https://api.iconify.design/ph/arrow-fat-line-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-line-right.png)
   static const IconData arrowFatLineRight = IconData(
     0xe520,
     fontFamily: 'PhosphorThin',
@@ -1015,7 +1015,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLineUp` no estilo Thin.
   ///
-  /// ![arrow-fat-line-up](https://api.iconify.design/ph/arrow-fat-line-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-line-up.png)
   static const IconData arrowFatLineUp = IconData(
     0xe522,
     fontFamily: 'PhosphorThin',
@@ -1027,7 +1027,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLinesDown` no estilo Thin.
   ///
-  /// ![arrow-fat-lines-down](https://api.iconify.design/ph/arrow-fat-lines-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-lines-down.png)
   static const IconData arrowFatLinesDown = IconData(
     0xe524,
     fontFamily: 'PhosphorThin',
@@ -1039,7 +1039,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLinesLeft` no estilo Thin.
   ///
-  /// ![arrow-fat-lines-left](https://api.iconify.design/ph/arrow-fat-lines-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-lines-left.png)
   static const IconData arrowFatLinesLeft = IconData(
     0xe526,
     fontFamily: 'PhosphorThin',
@@ -1051,7 +1051,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLinesRight` no estilo Thin.
   ///
-  /// ![arrow-fat-lines-right](https://api.iconify.design/ph/arrow-fat-lines-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-lines-right.png)
   static const IconData arrowFatLinesRight = IconData(
     0xe528,
     fontFamily: 'PhosphorThin',
@@ -1063,7 +1063,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatLinesUp` no estilo Thin.
   ///
-  /// ![arrow-fat-lines-up](https://api.iconify.design/ph/arrow-fat-lines-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-lines-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-lines-up.png)
   static const IconData arrowFatLinesUp = IconData(
     0xe52a,
     fontFamily: 'PhosphorThin',
@@ -1075,7 +1075,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatRight` no estilo Thin.
   ///
-  /// ![arrow-fat-right](https://api.iconify.design/ph/arrow-fat-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-right.png)
   static const IconData arrowFatRight = IconData(
     0xe52c,
     fontFamily: 'PhosphorThin',
@@ -1087,7 +1087,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowFatUp` no estilo Thin.
   ///
-  /// ![arrow-fat-up](https://api.iconify.design/ph/arrow-fat-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-fat-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-fat-up.png)
   static const IconData arrowFatUp = IconData(
     0xe52e,
     fontFamily: 'PhosphorThin',
@@ -1099,7 +1099,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLeft` no estilo Thin.
   ///
-  /// ![arrow-left](https://api.iconify.design/ph/arrow-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-left.png)
   static const IconData arrowLeft = IconData(
     0xe058,
     fontFamily: 'PhosphorThin',
@@ -1111,7 +1111,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineDown` no estilo Thin.
   ///
-  /// ![arrow-line-down](https://api.iconify.design/ph/arrow-line-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-down.png)
   static const IconData arrowLineDown = IconData(
     0xe05c,
     fontFamily: 'PhosphorThin',
@@ -1123,7 +1123,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineDownLeft` no estilo Thin.
   ///
-  /// ![arrow-line-down-left](https://api.iconify.design/ph/arrow-line-down-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-down-left.png)
   static const IconData arrowLineDownLeft = IconData(
     0xe05e,
     fontFamily: 'PhosphorThin',
@@ -1135,7 +1135,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineDownRight` no estilo Thin.
   ///
-  /// ![arrow-line-down-right](https://api.iconify.design/ph/arrow-line-down-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-down-right.png)
   static const IconData arrowLineDownRight = IconData(
     0xe060,
     fontFamily: 'PhosphorThin',
@@ -1147,7 +1147,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineLeft` no estilo Thin.
   ///
-  /// ![arrow-line-left](https://api.iconify.design/ph/arrow-line-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-left.png)
   static const IconData arrowLineLeft = IconData(
     0xe062,
     fontFamily: 'PhosphorThin',
@@ -1159,7 +1159,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineRight` no estilo Thin.
   ///
-  /// ![arrow-line-right](https://api.iconify.design/ph/arrow-line-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-right.png)
   static const IconData arrowLineRight = IconData(
     0xe064,
     fontFamily: 'PhosphorThin',
@@ -1171,7 +1171,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineUp` no estilo Thin.
   ///
-  /// ![arrow-line-up](https://api.iconify.design/ph/arrow-line-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-up.png)
   static const IconData arrowLineUp = IconData(
     0xe066,
     fontFamily: 'PhosphorThin',
@@ -1183,7 +1183,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineUpLeft` no estilo Thin.
   ///
-  /// ![arrow-line-up-left](https://api.iconify.design/ph/arrow-line-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-up-left.png)
   static const IconData arrowLineUpLeft = IconData(
     0xe068,
     fontFamily: 'PhosphorThin',
@@ -1195,7 +1195,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowLineUpRight` no estilo Thin.
   ///
-  /// ![arrow-line-up-right](https://api.iconify.design/ph/arrow-line-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-line-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-line-up-right.png)
   static const IconData arrowLineUpRight = IconData(
     0xe06a,
     fontFamily: 'PhosphorThin',
@@ -1207,7 +1207,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowRight` no estilo Thin.
   ///
-  /// ![arrow-right](https://api.iconify.design/ph/arrow-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-right.png)
   static const IconData arrowRight = IconData(
     0xe06c,
     fontFamily: 'PhosphorThin',
@@ -1219,7 +1219,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareDown` no estilo Thin.
   ///
-  /// ![arrow-square-down](https://api.iconify.design/ph/arrow-square-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-down.png)
   static const IconData arrowSquareDown = IconData(
     0xe06e,
     fontFamily: 'PhosphorThin',
@@ -1231,7 +1231,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareDownLeft` no estilo Thin.
   ///
-  /// ![arrow-square-down-left](https://api.iconify.design/ph/arrow-square-down-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-down-left.png)
   static const IconData arrowSquareDownLeft = IconData(
     0xe070,
     fontFamily: 'PhosphorThin',
@@ -1243,7 +1243,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareDownRight` no estilo Thin.
   ///
-  /// ![arrow-square-down-right](https://api.iconify.design/ph/arrow-square-down-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-down-right.png)
   static const IconData arrowSquareDownRight = IconData(
     0xe072,
     fontFamily: 'PhosphorThin',
@@ -1255,7 +1255,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareIn` no estilo Thin.
   ///
-  /// ![arrow-square-in](https://api.iconify.design/ph/arrow-square-in-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-in.png)
   static const IconData arrowSquareIn = IconData(
     0xe5dc,
     fontFamily: 'PhosphorThin',
@@ -1267,7 +1267,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareLeft` no estilo Thin.
   ///
-  /// ![arrow-square-left](https://api.iconify.design/ph/arrow-square-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-left.png)
   static const IconData arrowSquareLeft = IconData(
     0xe074,
     fontFamily: 'PhosphorThin',
@@ -1279,7 +1279,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareOut` no estilo Thin.
   ///
-  /// ![arrow-square-out](https://api.iconify.design/ph/arrow-square-out-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-out.png)
   static const IconData arrowSquareOut = IconData(
     0xe5de,
     fontFamily: 'PhosphorThin',
@@ -1291,7 +1291,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareRight` no estilo Thin.
   ///
-  /// ![arrow-square-right](https://api.iconify.design/ph/arrow-square-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-right.png)
   static const IconData arrowSquareRight = IconData(
     0xe076,
     fontFamily: 'PhosphorThin',
@@ -1303,7 +1303,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareUp` no estilo Thin.
   ///
-  /// ![arrow-square-up](https://api.iconify.design/ph/arrow-square-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-up.png)
   static const IconData arrowSquareUp = IconData(
     0xe078,
     fontFamily: 'PhosphorThin',
@@ -1315,7 +1315,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareUpLeft` no estilo Thin.
   ///
-  /// ![arrow-square-up-left](https://api.iconify.design/ph/arrow-square-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-up-left.png)
   static const IconData arrowSquareUpLeft = IconData(
     0xe07a,
     fontFamily: 'PhosphorThin',
@@ -1327,7 +1327,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowSquareUpRight` no estilo Thin.
   ///
-  /// ![arrow-square-up-right](https://api.iconify.design/ph/arrow-square-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-square-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-square-up-right.png)
   static const IconData arrowSquareUpRight = IconData(
     0xe07c,
     fontFamily: 'PhosphorThin',
@@ -1339,7 +1339,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowUDownLeft` no estilo Thin.
   ///
-  /// ![arrow-u-down-left](https://api.iconify.design/ph/arrow-u-down-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-down-left.png)
   static const IconData arrowUDownLeft = IconData(
     0xe07e,
     fontFamily: 'PhosphorThin',
@@ -1351,7 +1351,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowUDownRight` no estilo Thin.
   ///
-  /// ![arrow-u-down-right](https://api.iconify.design/ph/arrow-u-down-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-down-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-down-right.png)
   static const IconData arrowUDownRight = IconData(
     0xe080,
     fontFamily: 'PhosphorThin',
@@ -1363,7 +1363,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowULeftDown` no estilo Thin.
   ///
-  /// ![arrow-u-left-down](https://api.iconify.design/ph/arrow-u-left-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-left-down.png)
   static const IconData arrowULeftDown = IconData(
     0xe082,
     fontFamily: 'PhosphorThin',
@@ -1375,7 +1375,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowULeftUp` no estilo Thin.
   ///
-  /// ![arrow-u-left-up](https://api.iconify.design/ph/arrow-u-left-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-left-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-left-up.png)
   static const IconData arrowULeftUp = IconData(
     0xe084,
     fontFamily: 'PhosphorThin',
@@ -1387,7 +1387,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowURightDown` no estilo Thin.
   ///
-  /// ![arrow-u-right-down](https://api.iconify.design/ph/arrow-u-right-down-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-right-down.png)
   static const IconData arrowURightDown = IconData(
     0xe086,
     fontFamily: 'PhosphorThin',
@@ -1399,7 +1399,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowURightUp` no estilo Thin.
   ///
-  /// ![arrow-u-right-up](https://api.iconify.design/ph/arrow-u-right-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-right-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-right-up.png)
   static const IconData arrowURightUp = IconData(
     0xe088,
     fontFamily: 'PhosphorThin',
@@ -1411,7 +1411,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowUUpLeft` no estilo Thin.
   ///
-  /// ![arrow-u-up-left](https://api.iconify.design/ph/arrow-u-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-up-left.png)
   static const IconData arrowUUpLeft = IconData(
     0xe08a,
     fontFamily: 'PhosphorThin',
@@ -1423,7 +1423,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowUUpRight` no estilo Thin.
   ///
-  /// ![arrow-u-up-right](https://api.iconify.design/ph/arrow-u-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-u-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-u-up-right.png)
   static const IconData arrowUUpRight = IconData(
     0xe08c,
     fontFamily: 'PhosphorThin',
@@ -1435,7 +1435,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowUp` no estilo Thin.
   ///
-  /// ![arrow-up](https://api.iconify.design/ph/arrow-up-thin.svg?height=32&color=%23888888)
+  /// ![arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-up.png)
   static const IconData arrowUp = IconData(
     0xe08e,
     fontFamily: 'PhosphorThin',
@@ -1447,7 +1447,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowUpLeft` no estilo Thin.
   ///
-  /// ![arrow-up-left](https://api.iconify.design/ph/arrow-up-left-thin.svg?height=32&color=%23888888)
+  /// ![arrow-up-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-up-left.png)
   static const IconData arrowUpLeft = IconData(
     0xe090,
     fontFamily: 'PhosphorThin',
@@ -1459,7 +1459,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowUpRight` no estilo Thin.
   ///
-  /// ![arrow-up-right](https://api.iconify.design/ph/arrow-up-right-thin.svg?height=32&color=%23888888)
+  /// ![arrow-up-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrow-up-right.png)
   static const IconData arrowUpRight = IconData(
     0xe092,
     fontFamily: 'PhosphorThin',
@@ -1471,7 +1471,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsClockwise` no estilo Thin.
   ///
-  /// ![arrows-clockwise](https://api.iconify.design/ph/arrows-clockwise-thin.svg?height=32&color=%23888888)
+  /// ![arrows-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-clockwise.png)
   static const IconData arrowsClockwise = IconData(
     0xe094,
     fontFamily: 'PhosphorThin',
@@ -1483,7 +1483,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsCounterClockwise` no estilo Thin.
   ///
-  /// ![arrows-counter-clockwise](https://api.iconify.design/ph/arrows-counter-clockwise-thin.svg?height=32&color=%23888888)
+  /// ![arrows-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-counter-clockwise.png)
   static const IconData arrowsCounterClockwise = IconData(
     0xe096,
     fontFamily: 'PhosphorThin',
@@ -1495,7 +1495,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsDownUp` no estilo Thin.
   ///
-  /// ![arrows-down-up](https://api.iconify.design/ph/arrows-down-up-thin.svg?height=32&color=%23888888)
+  /// ![arrows-down-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-down-up.png)
   static const IconData arrowsDownUp = IconData(
     0xe098,
     fontFamily: 'PhosphorThin',
@@ -1507,7 +1507,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsHorizontal` no estilo Thin.
   ///
-  /// ![arrows-horizontal](https://api.iconify.design/ph/arrows-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![arrows-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-horizontal.png)
   static const IconData arrowsHorizontal = IconData(
     0xeb06,
     fontFamily: 'PhosphorThin',
@@ -1519,7 +1519,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsIn` no estilo Thin.
   ///
-  /// ![arrows-in](https://api.iconify.design/ph/arrows-in-thin.svg?height=32&color=%23888888)
+  /// ![arrows-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-in.png)
   static const IconData arrowsIn = IconData(
     0xe09a,
     fontFamily: 'PhosphorThin',
@@ -1531,7 +1531,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsInCardinal` no estilo Thin.
   ///
-  /// ![arrows-in-cardinal](https://api.iconify.design/ph/arrows-in-cardinal-thin.svg?height=32&color=%23888888)
+  /// ![arrows-in-cardinal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-in-cardinal.png)
   static const IconData arrowsInCardinal = IconData(
     0xe09c,
     fontFamily: 'PhosphorThin',
@@ -1543,7 +1543,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsInLineHorizontal` no estilo Thin.
   ///
-  /// ![arrows-in-line-horizontal](https://api.iconify.design/ph/arrows-in-line-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-in-line-horizontal.png)
   static const IconData arrowsInLineHorizontal = IconData(
     0xe530,
     fontFamily: 'PhosphorThin',
@@ -1555,7 +1555,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsInLineVertical` no estilo Thin.
   ///
-  /// ![arrows-in-line-vertical](https://api.iconify.design/ph/arrows-in-line-vertical-thin.svg?height=32&color=%23888888)
+  /// ![arrows-in-line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-in-line-vertical.png)
   static const IconData arrowsInLineVertical = IconData(
     0xe532,
     fontFamily: 'PhosphorThin',
@@ -1567,7 +1567,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsInSimple` no estilo Thin.
   ///
-  /// ![arrows-in-simple](https://api.iconify.design/ph/arrows-in-simple-thin.svg?height=32&color=%23888888)
+  /// ![arrows-in-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-in-simple.png)
   static const IconData arrowsInSimple = IconData(
     0xe09e,
     fontFamily: 'PhosphorThin',
@@ -1579,7 +1579,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsLeftRight` no estilo Thin.
   ///
-  /// ![arrows-left-right](https://api.iconify.design/ph/arrows-left-right-thin.svg?height=32&color=%23888888)
+  /// ![arrows-left-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-left-right.png)
   static const IconData arrowsLeftRight = IconData(
     0xe0a0,
     fontFamily: 'PhosphorThin',
@@ -1591,7 +1591,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsMerge` no estilo Thin.
   ///
-  /// ![arrows-merge](https://api.iconify.design/ph/arrows-merge-thin.svg?height=32&color=%23888888)
+  /// ![arrows-merge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-merge.png)
   static const IconData arrowsMerge = IconData(
     0xed3e,
     fontFamily: 'PhosphorThin',
@@ -1603,7 +1603,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsOut` no estilo Thin.
   ///
-  /// ![arrows-out](https://api.iconify.design/ph/arrows-out-thin.svg?height=32&color=%23888888)
+  /// ![arrows-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-out.png)
   static const IconData arrowsOut = IconData(
     0xe0a2,
     fontFamily: 'PhosphorThin',
@@ -1615,7 +1615,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsOutCardinal` no estilo Thin.
   ///
-  /// ![arrows-out-cardinal](https://api.iconify.design/ph/arrows-out-cardinal-thin.svg?height=32&color=%23888888)
+  /// ![arrows-out-cardinal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-out-cardinal.png)
   static const IconData arrowsOutCardinal = IconData(
     0xe0a4,
     fontFamily: 'PhosphorThin',
@@ -1627,7 +1627,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsOutLineHorizontal` no estilo Thin.
   ///
-  /// ![arrows-out-line-horizontal](https://api.iconify.design/ph/arrows-out-line-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-out-line-horizontal.png)
   static const IconData arrowsOutLineHorizontal = IconData(
     0xe534,
     fontFamily: 'PhosphorThin',
@@ -1639,7 +1639,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsOutLineVertical` no estilo Thin.
   ///
-  /// ![arrows-out-line-vertical](https://api.iconify.design/ph/arrows-out-line-vertical-thin.svg?height=32&color=%23888888)
+  /// ![arrows-out-line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-out-line-vertical.png)
   static const IconData arrowsOutLineVertical = IconData(
     0xe536,
     fontFamily: 'PhosphorThin',
@@ -1651,7 +1651,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsOutSimple` no estilo Thin.
   ///
-  /// ![arrows-out-simple](https://api.iconify.design/ph/arrows-out-simple-thin.svg?height=32&color=%23888888)
+  /// ![arrows-out-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-out-simple.png)
   static const IconData arrowsOutSimple = IconData(
     0xe0a6,
     fontFamily: 'PhosphorThin',
@@ -1663,7 +1663,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsSplit` no estilo Thin.
   ///
-  /// ![arrows-split](https://api.iconify.design/ph/arrows-split-thin.svg?height=32&color=%23888888)
+  /// ![arrows-split](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-split.png)
   static const IconData arrowsSplit = IconData(
     0xed3c,
     fontFamily: 'PhosphorThin',
@@ -1675,7 +1675,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `arrowsVertical` no estilo Thin.
   ///
-  /// ![arrows-vertical](https://api.iconify.design/ph/arrows-vertical-thin.svg?height=32&color=%23888888)
+  /// ![arrows-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/arrows-vertical.png)
   static const IconData arrowsVertical = IconData(
     0xeb04,
     fontFamily: 'PhosphorThin',
@@ -1687,7 +1687,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `article` no estilo Thin.
   ///
-  /// ![article](https://api.iconify.design/ph/article-thin.svg?height=32&color=%23888888)
+  /// ![article](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/article.png)
   static const IconData article = IconData(
     0xe0a8,
     fontFamily: 'PhosphorThin',
@@ -1699,7 +1699,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `articleMedium` no estilo Thin.
   ///
-  /// ![article-medium](https://api.iconify.design/ph/article-medium-thin.svg?height=32&color=%23888888)
+  /// ![article-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/article-medium.png)
   static const IconData articleMedium = IconData(
     0xe5e0,
     fontFamily: 'PhosphorThin',
@@ -1711,7 +1711,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `articleNyTimes` no estilo Thin.
   ///
-  /// ![article-ny-times](https://api.iconify.design/ph/article-ny-times-thin.svg?height=32&color=%23888888)
+  /// ![article-ny-times](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/article-ny-times.png)
   static const IconData articleNyTimes = IconData(
     0xe5e2,
     fontFamily: 'PhosphorThin',
@@ -1723,7 +1723,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `asclepius` no estilo Thin.
   ///
-  /// ![asclepius](https://api.iconify.design/ph/asclepius-thin.svg?height=32&color=%23888888)
+  /// ![asclepius](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/asclepius.png)
   static const IconData asclepius = IconData(
     0xee34,
     fontFamily: 'PhosphorThin',
@@ -1735,7 +1735,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `asterisk` no estilo Thin.
   ///
-  /// ![asterisk](https://api.iconify.design/ph/asterisk-thin.svg?height=32&color=%23888888)
+  /// ![asterisk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/asterisk.png)
   static const IconData asterisk = IconData(
     0xe0aa,
     fontFamily: 'PhosphorThin',
@@ -1747,7 +1747,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `asteriskSimple` no estilo Thin.
   ///
-  /// ![asterisk-simple](https://api.iconify.design/ph/asterisk-simple-thin.svg?height=32&color=%23888888)
+  /// ![asterisk-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/asterisk-simple.png)
   static const IconData asteriskSimple = IconData(
     0xe832,
     fontFamily: 'PhosphorThin',
@@ -1759,7 +1759,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `at` no estilo Thin.
   ///
-  /// ![at](https://api.iconify.design/ph/at-thin.svg?height=32&color=%23888888)
+  /// ![at](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/at.png)
   static const IconData at = IconData(
     0xe0ac,
     fontFamily: 'PhosphorThin',
@@ -1771,7 +1771,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `atom` no estilo Thin.
   ///
-  /// ![atom](https://api.iconify.design/ph/atom-thin.svg?height=32&color=%23888888)
+  /// ![atom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/atom.png)
   static const IconData atom = IconData(
     0xe5e4,
     fontFamily: 'PhosphorThin',
@@ -1783,7 +1783,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `avocado` no estilo Thin.
   ///
-  /// ![avocado](https://api.iconify.design/ph/avocado-thin.svg?height=32&color=%23888888)
+  /// ![avocado](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/avocado.png)
   static const IconData avocado = IconData(
     0xee04,
     fontFamily: 'PhosphorThin',
@@ -1795,7 +1795,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `axe` no estilo Thin.
   ///
-  /// ![axe](https://api.iconify.design/ph/axe-thin.svg?height=32&color=%23888888)
+  /// ![axe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/axe.png)
   static const IconData axe = IconData(
     0xe9fc,
     fontFamily: 'PhosphorThin',
@@ -1807,7 +1807,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `baby` no estilo Thin.
   ///
-  /// ![baby](https://api.iconify.design/ph/baby-thin.svg?height=32&color=%23888888)
+  /// ![baby](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/baby.png)
   static const IconData baby = IconData(
     0xe774,
     fontFamily: 'PhosphorThin',
@@ -1819,7 +1819,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `babyCarriage` no estilo Thin.
   ///
-  /// ![baby-carriage](https://api.iconify.design/ph/baby-carriage-thin.svg?height=32&color=%23888888)
+  /// ![baby-carriage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/baby-carriage.png)
   static const IconData babyCarriage = IconData(
     0xe818,
     fontFamily: 'PhosphorThin',
@@ -1831,7 +1831,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `backpack` no estilo Thin.
   ///
-  /// ![backpack](https://api.iconify.design/ph/backpack-thin.svg?height=32&color=%23888888)
+  /// ![backpack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/backpack.png)
   static const IconData backpack = IconData(
     0xe922,
     fontFamily: 'PhosphorThin',
@@ -1843,7 +1843,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `backspace` no estilo Thin.
   ///
-  /// ![backspace](https://api.iconify.design/ph/backspace-thin.svg?height=32&color=%23888888)
+  /// ![backspace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/backspace.png)
   static const IconData backspace = IconData(
     0xe0ae,
     fontFamily: 'PhosphorThin',
@@ -1855,7 +1855,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bag` no estilo Thin.
   ///
-  /// ![bag](https://api.iconify.design/ph/bag-thin.svg?height=32&color=%23888888)
+  /// ![bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bag.png)
   static const IconData bag = IconData(
     0xe0b0,
     fontFamily: 'PhosphorThin',
@@ -1867,7 +1867,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bagSimple` no estilo Thin.
   ///
-  /// ![bag-simple](https://api.iconify.design/ph/bag-simple-thin.svg?height=32&color=%23888888)
+  /// ![bag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bag-simple.png)
   static const IconData bagSimple = IconData(
     0xe5e6,
     fontFamily: 'PhosphorThin',
@@ -1879,7 +1879,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `balloon` no estilo Thin.
   ///
-  /// ![balloon](https://api.iconify.design/ph/balloon-thin.svg?height=32&color=%23888888)
+  /// ![balloon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/balloon.png)
   static const IconData balloon = IconData(
     0xe76c,
     fontFamily: 'PhosphorThin',
@@ -1891,7 +1891,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bandaids` no estilo Thin.
   ///
-  /// ![bandaids](https://api.iconify.design/ph/bandaids-thin.svg?height=32&color=%23888888)
+  /// ![bandaids](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bandaids.png)
   static const IconData bandaids = IconData(
     0xe0b2,
     fontFamily: 'PhosphorThin',
@@ -1903,7 +1903,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bank` no estilo Thin.
   ///
-  /// ![bank](https://api.iconify.design/ph/bank-thin.svg?height=32&color=%23888888)
+  /// ![bank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bank.png)
   static const IconData bank = IconData(
     0xe0b4,
     fontFamily: 'PhosphorThin',
@@ -1915,7 +1915,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `barbell` no estilo Thin.
   ///
-  /// ![barbell](https://api.iconify.design/ph/barbell-thin.svg?height=32&color=%23888888)
+  /// ![barbell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/barbell.png)
   static const IconData barbell = IconData(
     0xe0b6,
     fontFamily: 'PhosphorThin',
@@ -1927,7 +1927,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `barcode` no estilo Thin.
   ///
-  /// ![barcode](https://api.iconify.design/ph/barcode-thin.svg?height=32&color=%23888888)
+  /// ![barcode](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/barcode.png)
   static const IconData barcode = IconData(
     0xe0b8,
     fontFamily: 'PhosphorThin',
@@ -1939,7 +1939,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `barn` no estilo Thin.
   ///
-  /// ![barn](https://api.iconify.design/ph/barn-thin.svg?height=32&color=%23888888)
+  /// ![barn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/barn.png)
   static const IconData barn = IconData(
     0xec72,
     fontFamily: 'PhosphorThin',
@@ -1951,7 +1951,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `barricade` no estilo Thin.
   ///
-  /// ![barricade](https://api.iconify.design/ph/barricade-thin.svg?height=32&color=%23888888)
+  /// ![barricade](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/barricade.png)
   static const IconData barricade = IconData(
     0xe948,
     fontFamily: 'PhosphorThin',
@@ -1963,7 +1963,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `baseball` no estilo Thin.
   ///
-  /// ![baseball](https://api.iconify.design/ph/baseball-thin.svg?height=32&color=%23888888)
+  /// ![baseball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/baseball.png)
   static const IconData baseball = IconData(
     0xe71a,
     fontFamily: 'PhosphorThin',
@@ -1975,7 +1975,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `baseballCap` no estilo Thin.
   ///
-  /// ![baseball-cap](https://api.iconify.design/ph/baseball-cap-thin.svg?height=32&color=%23888888)
+  /// ![baseball-cap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/baseball-cap.png)
   static const IconData baseballCap = IconData(
     0xea28,
     fontFamily: 'PhosphorThin',
@@ -1987,7 +1987,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `baseballHelmet` no estilo Thin.
   ///
-  /// ![baseball-helmet](https://api.iconify.design/ph/baseball-helmet-thin.svg?height=32&color=%23888888)
+  /// ![baseball-helmet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/baseball-helmet.png)
   static const IconData baseballHelmet = IconData(
     0xee4a,
     fontFamily: 'PhosphorThin',
@@ -1999,7 +1999,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `basket` no estilo Thin.
   ///
-  /// ![basket](https://api.iconify.design/ph/basket-thin.svg?height=32&color=%23888888)
+  /// ![basket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/basket.png)
   static const IconData basket = IconData(
     0xe964,
     fontFamily: 'PhosphorThin',
@@ -2011,7 +2011,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `basketball` no estilo Thin.
   ///
-  /// ![basketball](https://api.iconify.design/ph/basketball-thin.svg?height=32&color=%23888888)
+  /// ![basketball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/basketball.png)
   static const IconData basketball = IconData(
     0xe724,
     fontFamily: 'PhosphorThin',
@@ -2023,7 +2023,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bathtub` no estilo Thin.
   ///
-  /// ![bathtub](https://api.iconify.design/ph/bathtub-thin.svg?height=32&color=%23888888)
+  /// ![bathtub](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bathtub.png)
   static const IconData bathtub = IconData(
     0xe81e,
     fontFamily: 'PhosphorThin',
@@ -2035,7 +2035,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryCharging` no estilo Thin.
   ///
-  /// ![battery-charging](https://api.iconify.design/ph/battery-charging-thin.svg?height=32&color=%23888888)
+  /// ![battery-charging](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-charging.png)
   static const IconData batteryCharging = IconData(
     0xe0ba,
     fontFamily: 'PhosphorThin',
@@ -2047,7 +2047,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryChargingVertical` no estilo Thin.
   ///
-  /// ![battery-charging-vertical](https://api.iconify.design/ph/battery-charging-vertical-thin.svg?height=32&color=%23888888)
+  /// ![battery-charging-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-charging-vertical.png)
   static const IconData batteryChargingVertical = IconData(
     0xe0bc,
     fontFamily: 'PhosphorThin',
@@ -2059,7 +2059,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryEmpty` no estilo Thin.
   ///
-  /// ![battery-empty](https://api.iconify.design/ph/battery-empty-thin.svg?height=32&color=%23888888)
+  /// ![battery-empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-empty.png)
   static const IconData batteryEmpty = IconData(
     0xe0be,
     fontFamily: 'PhosphorThin',
@@ -2071,7 +2071,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryFull` no estilo Thin.
   ///
-  /// ![battery-full](https://api.iconify.design/ph/battery-full-thin.svg?height=32&color=%23888888)
+  /// ![battery-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-full.png)
   static const IconData batteryFull = IconData(
     0xe0c0,
     fontFamily: 'PhosphorThin',
@@ -2083,7 +2083,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryHigh` no estilo Thin.
   ///
-  /// ![battery-high](https://api.iconify.design/ph/battery-high-thin.svg?height=32&color=%23888888)
+  /// ![battery-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-high.png)
   static const IconData batteryHigh = IconData(
     0xe0c2,
     fontFamily: 'PhosphorThin',
@@ -2095,7 +2095,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryLow` no estilo Thin.
   ///
-  /// ![battery-low](https://api.iconify.design/ph/battery-low-thin.svg?height=32&color=%23888888)
+  /// ![battery-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-low.png)
   static const IconData batteryLow = IconData(
     0xe0c4,
     fontFamily: 'PhosphorThin',
@@ -2107,7 +2107,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryMedium` no estilo Thin.
   ///
-  /// ![battery-medium](https://api.iconify.design/ph/battery-medium-thin.svg?height=32&color=%23888888)
+  /// ![battery-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-medium.png)
   static const IconData batteryMedium = IconData(
     0xe0c6,
     fontFamily: 'PhosphorThin',
@@ -2119,7 +2119,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryPlus` no estilo Thin.
   ///
-  /// ![battery-plus](https://api.iconify.design/ph/battery-plus-thin.svg?height=32&color=%23888888)
+  /// ![battery-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-plus.png)
   static const IconData batteryPlus = IconData(
     0xe808,
     fontFamily: 'PhosphorThin',
@@ -2131,7 +2131,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryPlusVertical` no estilo Thin.
   ///
-  /// ![battery-plus-vertical](https://api.iconify.design/ph/battery-plus-vertical-thin.svg?height=32&color=%23888888)
+  /// ![battery-plus-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-plus-vertical.png)
   static const IconData batteryPlusVertical = IconData(
     0xec50,
     fontFamily: 'PhosphorThin',
@@ -2143,7 +2143,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryVerticalEmpty` no estilo Thin.
   ///
-  /// ![battery-vertical-empty](https://api.iconify.design/ph/battery-vertical-empty-thin.svg?height=32&color=%23888888)
+  /// ![battery-vertical-empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-vertical-empty.png)
   static const IconData batteryVerticalEmpty = IconData(
     0xe7c6,
     fontFamily: 'PhosphorThin',
@@ -2155,7 +2155,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryVerticalFull` no estilo Thin.
   ///
-  /// ![battery-vertical-full](https://api.iconify.design/ph/battery-vertical-full-thin.svg?height=32&color=%23888888)
+  /// ![battery-vertical-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-vertical-full.png)
   static const IconData batteryVerticalFull = IconData(
     0xe7c4,
     fontFamily: 'PhosphorThin',
@@ -2167,7 +2167,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryVerticalHigh` no estilo Thin.
   ///
-  /// ![battery-vertical-high](https://api.iconify.design/ph/battery-vertical-high-thin.svg?height=32&color=%23888888)
+  /// ![battery-vertical-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-vertical-high.png)
   static const IconData batteryVerticalHigh = IconData(
     0xe7c2,
     fontFamily: 'PhosphorThin',
@@ -2179,7 +2179,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryVerticalLow` no estilo Thin.
   ///
-  /// ![battery-vertical-low](https://api.iconify.design/ph/battery-vertical-low-thin.svg?height=32&color=%23888888)
+  /// ![battery-vertical-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-vertical-low.png)
   static const IconData batteryVerticalLow = IconData(
     0xe7be,
     fontFamily: 'PhosphorThin',
@@ -2191,7 +2191,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryVerticalMedium` no estilo Thin.
   ///
-  /// ![battery-vertical-medium](https://api.iconify.design/ph/battery-vertical-medium-thin.svg?height=32&color=%23888888)
+  /// ![battery-vertical-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-vertical-medium.png)
   static const IconData batteryVerticalMedium = IconData(
     0xe7c0,
     fontFamily: 'PhosphorThin',
@@ -2203,7 +2203,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryWarning` no estilo Thin.
   ///
-  /// ![battery-warning](https://api.iconify.design/ph/battery-warning-thin.svg?height=32&color=%23888888)
+  /// ![battery-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-warning.png)
   static const IconData batteryWarning = IconData(
     0xe0c8,
     fontFamily: 'PhosphorThin',
@@ -2215,7 +2215,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `batteryWarningVertical` no estilo Thin.
   ///
-  /// ![battery-warning-vertical](https://api.iconify.design/ph/battery-warning-vertical-thin.svg?height=32&color=%23888888)
+  /// ![battery-warning-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/battery-warning-vertical.png)
   static const IconData batteryWarningVertical = IconData(
     0xe0ca,
     fontFamily: 'PhosphorThin',
@@ -2227,7 +2227,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `beachBall` no estilo Thin.
   ///
-  /// ![beach-ball](https://api.iconify.design/ph/beach-ball-thin.svg?height=32&color=%23888888)
+  /// ![beach-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/beach-ball.png)
   static const IconData beachBall = IconData(
     0xed24,
     fontFamily: 'PhosphorThin',
@@ -2239,7 +2239,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `beanie` no estilo Thin.
   ///
-  /// ![beanie](https://api.iconify.design/ph/beanie-thin.svg?height=32&color=%23888888)
+  /// ![beanie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/beanie.png)
   static const IconData beanie = IconData(
     0xea2a,
     fontFamily: 'PhosphorThin',
@@ -2251,7 +2251,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bed` no estilo Thin.
   ///
-  /// ![bed](https://api.iconify.design/ph/bed-thin.svg?height=32&color=%23888888)
+  /// ![bed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bed.png)
   static const IconData bed = IconData(
     0xe0cc,
     fontFamily: 'PhosphorThin',
@@ -2263,7 +2263,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `beerBottle` no estilo Thin.
   ///
-  /// ![beer-bottle](https://api.iconify.design/ph/beer-bottle-thin.svg?height=32&color=%23888888)
+  /// ![beer-bottle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/beer-bottle.png)
   static const IconData beerBottle = IconData(
     0xe7b0,
     fontFamily: 'PhosphorThin',
@@ -2275,7 +2275,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `beerStein` no estilo Thin.
   ///
-  /// ![beer-stein](https://api.iconify.design/ph/beer-stein-thin.svg?height=32&color=%23888888)
+  /// ![beer-stein](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/beer-stein.png)
   static const IconData beerStein = IconData(
     0xeb62,
     fontFamily: 'PhosphorThin',
@@ -2287,7 +2287,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `behanceLogo` no estilo Thin.
   ///
-  /// ![behance-logo](https://api.iconify.design/ph/behance-logo-thin.svg?height=32&color=%23888888)
+  /// ![behance-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/behance-logo.png)
   static const IconData behanceLogo = IconData(
     0xe7f4,
     fontFamily: 'PhosphorThin',
@@ -2299,7 +2299,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bell` no estilo Thin.
   ///
-  /// ![bell](https://api.iconify.design/ph/bell-thin.svg?height=32&color=%23888888)
+  /// ![bell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell.png)
   static const IconData bell = IconData(
     0xe0ce,
     fontFamily: 'PhosphorThin',
@@ -2311,7 +2311,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bellRinging` no estilo Thin.
   ///
-  /// ![bell-ringing](https://api.iconify.design/ph/bell-ringing-thin.svg?height=32&color=%23888888)
+  /// ![bell-ringing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell-ringing.png)
   static const IconData bellRinging = IconData(
     0xe5e8,
     fontFamily: 'PhosphorThin',
@@ -2323,7 +2323,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bellSimple` no estilo Thin.
   ///
-  /// ![bell-simple](https://api.iconify.design/ph/bell-simple-thin.svg?height=32&color=%23888888)
+  /// ![bell-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell-simple.png)
   static const IconData bellSimple = IconData(
     0xe0d0,
     fontFamily: 'PhosphorThin',
@@ -2335,7 +2335,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bellSimpleRinging` no estilo Thin.
   ///
-  /// ![bell-simple-ringing](https://api.iconify.design/ph/bell-simple-ringing-thin.svg?height=32&color=%23888888)
+  /// ![bell-simple-ringing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell-simple-ringing.png)
   static const IconData bellSimpleRinging = IconData(
     0xe5ea,
     fontFamily: 'PhosphorThin',
@@ -2347,7 +2347,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bellSimpleSlash` no estilo Thin.
   ///
-  /// ![bell-simple-slash](https://api.iconify.design/ph/bell-simple-slash-thin.svg?height=32&color=%23888888)
+  /// ![bell-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell-simple-slash.png)
   static const IconData bellSimpleSlash = IconData(
     0xe0d2,
     fontFamily: 'PhosphorThin',
@@ -2359,7 +2359,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bellSimpleZ` no estilo Thin.
   ///
-  /// ![bell-simple-z](https://api.iconify.design/ph/bell-simple-z-thin.svg?height=32&color=%23888888)
+  /// ![bell-simple-z](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell-simple-z.png)
   static const IconData bellSimpleZ = IconData(
     0xe5ec,
     fontFamily: 'PhosphorThin',
@@ -2371,7 +2371,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bellSlash` no estilo Thin.
   ///
-  /// ![bell-slash](https://api.iconify.design/ph/bell-slash-thin.svg?height=32&color=%23888888)
+  /// ![bell-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell-slash.png)
   static const IconData bellSlash = IconData(
     0xe0d4,
     fontFamily: 'PhosphorThin',
@@ -2383,7 +2383,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bellZ` no estilo Thin.
   ///
-  /// ![bell-z](https://api.iconify.design/ph/bell-z-thin.svg?height=32&color=%23888888)
+  /// ![bell-z](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bell-z.png)
   static const IconData bellZ = IconData(
     0xe5ee,
     fontFamily: 'PhosphorThin',
@@ -2395,7 +2395,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `belt` no estilo Thin.
   ///
-  /// ![belt](https://api.iconify.design/ph/belt-thin.svg?height=32&color=%23888888)
+  /// ![belt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/belt.png)
   static const IconData belt = IconData(
     0xea2c,
     fontFamily: 'PhosphorThin',
@@ -2407,7 +2407,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bezierCurve` no estilo Thin.
   ///
-  /// ![bezier-curve](https://api.iconify.design/ph/bezier-curve-thin.svg?height=32&color=%23888888)
+  /// ![bezier-curve](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bezier-curve.png)
   static const IconData bezierCurve = IconData(
     0xeb00,
     fontFamily: 'PhosphorThin',
@@ -2419,7 +2419,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bicycle` no estilo Thin.
   ///
-  /// ![bicycle](https://api.iconify.design/ph/bicycle-thin.svg?height=32&color=%23888888)
+  /// ![bicycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bicycle.png)
   static const IconData bicycle = IconData(
     0xe0d6,
     fontFamily: 'PhosphorThin',
@@ -2431,7 +2431,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `binary` no estilo Thin.
   ///
-  /// ![binary](https://api.iconify.design/ph/binary-thin.svg?height=32&color=%23888888)
+  /// ![binary](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/binary.png)
   static const IconData binary = IconData(
     0xee60,
     fontFamily: 'PhosphorThin',
@@ -2443,7 +2443,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `binoculars` no estilo Thin.
   ///
-  /// ![binoculars](https://api.iconify.design/ph/binoculars-thin.svg?height=32&color=%23888888)
+  /// ![binoculars](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/binoculars.png)
   static const IconData binoculars = IconData(
     0xea64,
     fontFamily: 'PhosphorThin',
@@ -2455,7 +2455,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `biohazard` no estilo Thin.
   ///
-  /// ![biohazard](https://api.iconify.design/ph/biohazard-thin.svg?height=32&color=%23888888)
+  /// ![biohazard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/biohazard.png)
   static const IconData biohazard = IconData(
     0xe9e0,
     fontFamily: 'PhosphorThin',
@@ -2467,7 +2467,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bird` no estilo Thin.
   ///
-  /// ![bird](https://api.iconify.design/ph/bird-thin.svg?height=32&color=%23888888)
+  /// ![bird](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bird.png)
   static const IconData bird = IconData(
     0xe72c,
     fontFamily: 'PhosphorThin',
@@ -2479,7 +2479,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `blueprint` no estilo Thin.
   ///
-  /// ![blueprint](https://api.iconify.design/ph/blueprint-thin.svg?height=32&color=%23888888)
+  /// ![blueprint](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/blueprint.png)
   static const IconData blueprint = IconData(
     0xeda0,
     fontFamily: 'PhosphorThin',
@@ -2491,7 +2491,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bluetooth` no estilo Thin.
   ///
-  /// ![bluetooth](https://api.iconify.design/ph/bluetooth-thin.svg?height=32&color=%23888888)
+  /// ![bluetooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bluetooth.png)
   static const IconData bluetooth = IconData(
     0xe0da,
     fontFamily: 'PhosphorThin',
@@ -2503,7 +2503,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bluetoothConnected` no estilo Thin.
   ///
-  /// ![bluetooth-connected](https://api.iconify.design/ph/bluetooth-connected-thin.svg?height=32&color=%23888888)
+  /// ![bluetooth-connected](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bluetooth-connected.png)
   static const IconData bluetoothConnected = IconData(
     0xe0dc,
     fontFamily: 'PhosphorThin',
@@ -2515,7 +2515,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bluetoothSlash` no estilo Thin.
   ///
-  /// ![bluetooth-slash](https://api.iconify.design/ph/bluetooth-slash-thin.svg?height=32&color=%23888888)
+  /// ![bluetooth-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bluetooth-slash.png)
   static const IconData bluetoothSlash = IconData(
     0xe0de,
     fontFamily: 'PhosphorThin',
@@ -2527,7 +2527,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bluetoothX` no estilo Thin.
   ///
-  /// ![bluetooth-x](https://api.iconify.design/ph/bluetooth-x-thin.svg?height=32&color=%23888888)
+  /// ![bluetooth-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bluetooth-x.png)
   static const IconData bluetoothX = IconData(
     0xe0e0,
     fontFamily: 'PhosphorThin',
@@ -2539,7 +2539,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `boat` no estilo Thin.
   ///
-  /// ![boat](https://api.iconify.design/ph/boat-thin.svg?height=32&color=%23888888)
+  /// ![boat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/boat.png)
   static const IconData boat = IconData(
     0xe786,
     fontFamily: 'PhosphorThin',
@@ -2551,7 +2551,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bomb` no estilo Thin.
   ///
-  /// ![bomb](https://api.iconify.design/ph/bomb-thin.svg?height=32&color=%23888888)
+  /// ![bomb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bomb.png)
   static const IconData bomb = IconData(
     0xee0a,
     fontFamily: 'PhosphorThin',
@@ -2563,7 +2563,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bone` no estilo Thin.
   ///
-  /// ![bone](https://api.iconify.design/ph/bone-thin.svg?height=32&color=%23888888)
+  /// ![bone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bone.png)
   static const IconData bone = IconData(
     0xe7f2,
     fontFamily: 'PhosphorThin',
@@ -2575,7 +2575,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `book` no estilo Thin.
   ///
-  /// ![book](https://api.iconify.design/ph/book-thin.svg?height=32&color=%23888888)
+  /// ![book](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/book.png)
   static const IconData book = IconData(
     0xe0e2,
     fontFamily: 'PhosphorThin',
@@ -2587,7 +2587,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookBookmark` no estilo Thin.
   ///
-  /// ![book-bookmark](https://api.iconify.design/ph/book-bookmark-thin.svg?height=32&color=%23888888)
+  /// ![book-bookmark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/book-bookmark.png)
   static const IconData bookBookmark = IconData(
     0xe0e4,
     fontFamily: 'PhosphorThin',
@@ -2599,7 +2599,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookOpen` no estilo Thin.
   ///
-  /// ![book-open](https://api.iconify.design/ph/book-open-thin.svg?height=32&color=%23888888)
+  /// ![book-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/book-open.png)
   static const IconData bookOpen = IconData(
     0xe0e6,
     fontFamily: 'PhosphorThin',
@@ -2611,7 +2611,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookOpenText` no estilo Thin.
   ///
-  /// ![book-open-text](https://api.iconify.design/ph/book-open-text-thin.svg?height=32&color=%23888888)
+  /// ![book-open-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/book-open-text.png)
   static const IconData bookOpenText = IconData(
     0xe8f2,
     fontFamily: 'PhosphorThin',
@@ -2623,7 +2623,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookOpenUser` no estilo Thin.
   ///
-  /// ![book-open-user](https://api.iconify.design/ph/book-open-user-thin.svg?height=32&color=%23888888)
+  /// ![book-open-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/book-open-user.png)
   static const IconData bookOpenUser = IconData(
     0xede0,
     fontFamily: 'PhosphorThin',
@@ -2635,7 +2635,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookmark` no estilo Thin.
   ///
-  /// ![bookmark](https://api.iconify.design/ph/bookmark-thin.svg?height=32&color=%23888888)
+  /// ![bookmark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bookmark.png)
   static const IconData bookmark = IconData(
     0xe0e8,
     fontFamily: 'PhosphorThin',
@@ -2647,7 +2647,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookmarkSimple` no estilo Thin.
   ///
-  /// ![bookmark-simple](https://api.iconify.design/ph/bookmark-simple-thin.svg?height=32&color=%23888888)
+  /// ![bookmark-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bookmark-simple.png)
   static const IconData bookmarkSimple = IconData(
     0xe0ea,
     fontFamily: 'PhosphorThin',
@@ -2659,7 +2659,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookmarks` no estilo Thin.
   ///
-  /// ![bookmarks](https://api.iconify.design/ph/bookmarks-thin.svg?height=32&color=%23888888)
+  /// ![bookmarks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bookmarks.png)
   static const IconData bookmarks = IconData(
     0xe0ec,
     fontFamily: 'PhosphorThin',
@@ -2671,7 +2671,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bookmarksSimple` no estilo Thin.
   ///
-  /// ![bookmarks-simple](https://api.iconify.design/ph/bookmarks-simple-thin.svg?height=32&color=%23888888)
+  /// ![bookmarks-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bookmarks-simple.png)
   static const IconData bookmarksSimple = IconData(
     0xe5f0,
     fontFamily: 'PhosphorThin',
@@ -2683,7 +2683,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `books` no estilo Thin.
   ///
-  /// ![books](https://api.iconify.design/ph/books-thin.svg?height=32&color=%23888888)
+  /// ![books](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/books.png)
   static const IconData books = IconData(
     0xe758,
     fontFamily: 'PhosphorThin',
@@ -2695,7 +2695,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `boot` no estilo Thin.
   ///
-  /// ![boot](https://api.iconify.design/ph/boot-thin.svg?height=32&color=%23888888)
+  /// ![boot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/boot.png)
   static const IconData boot = IconData(
     0xecca,
     fontFamily: 'PhosphorThin',
@@ -2707,7 +2707,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `boules` no estilo Thin.
   ///
-  /// ![boules](https://api.iconify.design/ph/boules-thin.svg?height=32&color=%23888888)
+  /// ![boules](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/boules.png)
   static const IconData boules = IconData(
     0xe722,
     fontFamily: 'PhosphorThin',
@@ -2719,7 +2719,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `boundingBox` no estilo Thin.
   ///
-  /// ![bounding-box](https://api.iconify.design/ph/bounding-box-thin.svg?height=32&color=%23888888)
+  /// ![bounding-box](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bounding-box.png)
   static const IconData boundingBox = IconData(
     0xe6ce,
     fontFamily: 'PhosphorThin',
@@ -2731,7 +2731,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bowlFood` no estilo Thin.
   ///
-  /// ![bowl-food](https://api.iconify.design/ph/bowl-food-thin.svg?height=32&color=%23888888)
+  /// ![bowl-food](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bowl-food.png)
   static const IconData bowlFood = IconData(
     0xeaa4,
     fontFamily: 'PhosphorThin',
@@ -2743,7 +2743,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bowlSteam` no estilo Thin.
   ///
-  /// ![bowl-steam](https://api.iconify.design/ph/bowl-steam-thin.svg?height=32&color=%23888888)
+  /// ![bowl-steam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bowl-steam.png)
   static const IconData bowlSteam = IconData(
     0xe8e4,
     fontFamily: 'PhosphorThin',
@@ -2755,7 +2755,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bowlingBall` no estilo Thin.
   ///
-  /// ![bowling-ball](https://api.iconify.design/ph/bowling-ball-thin.svg?height=32&color=%23888888)
+  /// ![bowling-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bowling-ball.png)
   static const IconData bowlingBall = IconData(
     0xea34,
     fontFamily: 'PhosphorThin',
@@ -2767,7 +2767,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `boxArrowDown` no estilo Thin.
   ///
-  /// ![box-arrow-down](https://api.iconify.design/ph/box-arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![box-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/box-arrow-down.png)
   static const IconData boxArrowDown = IconData(
     0xe00e,
     fontFamily: 'PhosphorThin',
@@ -2779,7 +2779,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `boxArrowUp` no estilo Thin.
   ///
-  /// ![box-arrow-up](https://api.iconify.design/ph/box-arrow-up-thin.svg?height=32&color=%23888888)
+  /// ![box-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/box-arrow-up.png)
   static const IconData boxArrowUp = IconData(
     0xee54,
     fontFamily: 'PhosphorThin',
@@ -2791,7 +2791,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `boxingGlove` no estilo Thin.
   ///
-  /// ![boxing-glove](https://api.iconify.design/ph/boxing-glove-thin.svg?height=32&color=%23888888)
+  /// ![boxing-glove](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/boxing-glove.png)
   static const IconData boxingGlove = IconData(
     0xea36,
     fontFamily: 'PhosphorThin',
@@ -2803,7 +2803,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bracketsAngle` no estilo Thin.
   ///
-  /// ![brackets-angle](https://api.iconify.design/ph/brackets-angle-thin.svg?height=32&color=%23888888)
+  /// ![brackets-angle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/brackets-angle.png)
   static const IconData bracketsAngle = IconData(
     0xe862,
     fontFamily: 'PhosphorThin',
@@ -2815,7 +2815,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bracketsCurly` no estilo Thin.
   ///
-  /// ![brackets-curly](https://api.iconify.design/ph/brackets-curly-thin.svg?height=32&color=%23888888)
+  /// ![brackets-curly](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/brackets-curly.png)
   static const IconData bracketsCurly = IconData(
     0xe860,
     fontFamily: 'PhosphorThin',
@@ -2827,7 +2827,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bracketsRound` no estilo Thin.
   ///
-  /// ![brackets-round](https://api.iconify.design/ph/brackets-round-thin.svg?height=32&color=%23888888)
+  /// ![brackets-round](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/brackets-round.png)
   static const IconData bracketsRound = IconData(
     0xe864,
     fontFamily: 'PhosphorThin',
@@ -2839,7 +2839,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bracketsSquare` no estilo Thin.
   ///
-  /// ![brackets-square](https://api.iconify.design/ph/brackets-square-thin.svg?height=32&color=%23888888)
+  /// ![brackets-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/brackets-square.png)
   static const IconData bracketsSquare = IconData(
     0xe85e,
     fontFamily: 'PhosphorThin',
@@ -2851,7 +2851,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `brain` no estilo Thin.
   ///
-  /// ![brain](https://api.iconify.design/ph/brain-thin.svg?height=32&color=%23888888)
+  /// ![brain](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/brain.png)
   static const IconData brain = IconData(
     0xe74e,
     fontFamily: 'PhosphorThin',
@@ -2863,7 +2863,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `brandy` no estilo Thin.
   ///
-  /// ![brandy](https://api.iconify.design/ph/brandy-thin.svg?height=32&color=%23888888)
+  /// ![brandy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/brandy.png)
   static const IconData brandy = IconData(
     0xe6b4,
     fontFamily: 'PhosphorThin',
@@ -2875,7 +2875,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bread` no estilo Thin.
   ///
-  /// ![bread](https://api.iconify.design/ph/bread-thin.svg?height=32&color=%23888888)
+  /// ![bread](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bread.png)
   static const IconData bread = IconData(
     0xe81c,
     fontFamily: 'PhosphorThin',
@@ -2887,7 +2887,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bridge` no estilo Thin.
   ///
-  /// ![bridge](https://api.iconify.design/ph/bridge-thin.svg?height=32&color=%23888888)
+  /// ![bridge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bridge.png)
   static const IconData bridge = IconData(
     0xea68,
     fontFamily: 'PhosphorThin',
@@ -2899,7 +2899,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `briefcase` no estilo Thin.
   ///
-  /// ![briefcase](https://api.iconify.design/ph/briefcase-thin.svg?height=32&color=%23888888)
+  /// ![briefcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/briefcase.png)
   static const IconData briefcase = IconData(
     0xe0ee,
     fontFamily: 'PhosphorThin',
@@ -2911,7 +2911,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `briefcaseMetal` no estilo Thin.
   ///
-  /// ![briefcase-metal](https://api.iconify.design/ph/briefcase-metal-thin.svg?height=32&color=%23888888)
+  /// ![briefcase-metal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/briefcase-metal.png)
   static const IconData briefcaseMetal = IconData(
     0xe5f2,
     fontFamily: 'PhosphorThin',
@@ -2923,7 +2923,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `broadcast` no estilo Thin.
   ///
-  /// ![broadcast](https://api.iconify.design/ph/broadcast-thin.svg?height=32&color=%23888888)
+  /// ![broadcast](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/broadcast.png)
   static const IconData broadcast = IconData(
     0xe0f2,
     fontFamily: 'PhosphorThin',
@@ -2935,7 +2935,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `broom` no estilo Thin.
   ///
-  /// ![broom](https://api.iconify.design/ph/broom-thin.svg?height=32&color=%23888888)
+  /// ![broom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/broom.png)
   static const IconData broom = IconData(
     0xec54,
     fontFamily: 'PhosphorThin',
@@ -2947,7 +2947,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `browser` no estilo Thin.
   ///
-  /// ![browser](https://api.iconify.design/ph/browser-thin.svg?height=32&color=%23888888)
+  /// ![browser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/browser.png)
   static const IconData browser = IconData(
     0xe0f4,
     fontFamily: 'PhosphorThin',
@@ -2959,7 +2959,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `browsers` no estilo Thin.
   ///
-  /// ![browsers](https://api.iconify.design/ph/browsers-thin.svg?height=32&color=%23888888)
+  /// ![browsers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/browsers.png)
   static const IconData browsers = IconData(
     0xe0f6,
     fontFamily: 'PhosphorThin',
@@ -2971,7 +2971,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bug` no estilo Thin.
   ///
-  /// ![bug](https://api.iconify.design/ph/bug-thin.svg?height=32&color=%23888888)
+  /// ![bug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bug.png)
   static const IconData bug = IconData(
     0xe5f4,
     fontFamily: 'PhosphorThin',
@@ -2983,7 +2983,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bugBeetle` no estilo Thin.
   ///
-  /// ![bug-beetle](https://api.iconify.design/ph/bug-beetle-thin.svg?height=32&color=%23888888)
+  /// ![bug-beetle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bug-beetle.png)
   static const IconData bugBeetle = IconData(
     0xe5f6,
     fontFamily: 'PhosphorThin',
@@ -2995,7 +2995,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bugDroid` no estilo Thin.
   ///
-  /// ![bug-droid](https://api.iconify.design/ph/bug-droid-thin.svg?height=32&color=%23888888)
+  /// ![bug-droid](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bug-droid.png)
   static const IconData bugDroid = IconData(
     0xe5f8,
     fontFamily: 'PhosphorThin',
@@ -3007,7 +3007,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `building` no estilo Thin.
   ///
-  /// ![building](https://api.iconify.design/ph/building-thin.svg?height=32&color=%23888888)
+  /// ![building](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/building.png)
   static const IconData building = IconData(
     0xe100,
     fontFamily: 'PhosphorThin',
@@ -3019,7 +3019,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `buildingApartment` no estilo Thin.
   ///
-  /// ![building-apartment](https://api.iconify.design/ph/building-apartment-thin.svg?height=32&color=%23888888)
+  /// ![building-apartment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/building-apartment.png)
   static const IconData buildingApartment = IconData(
     0xe0fe,
     fontFamily: 'PhosphorThin',
@@ -3031,7 +3031,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `buildingOffice` no estilo Thin.
   ///
-  /// ![building-office](https://api.iconify.design/ph/building-office-thin.svg?height=32&color=%23888888)
+  /// ![building-office](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/building-office.png)
   static const IconData buildingOffice = IconData(
     0xe0ff,
     fontFamily: 'PhosphorThin',
@@ -3043,7 +3043,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `buildings` no estilo Thin.
   ///
-  /// ![buildings](https://api.iconify.design/ph/buildings-thin.svg?height=32&color=%23888888)
+  /// ![buildings](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/buildings.png)
   static const IconData buildings = IconData(
     0xe102,
     fontFamily: 'PhosphorThin',
@@ -3055,7 +3055,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bulldozer` no estilo Thin.
   ///
-  /// ![bulldozer](https://api.iconify.design/ph/bulldozer-thin.svg?height=32&color=%23888888)
+  /// ![bulldozer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bulldozer.png)
   static const IconData bulldozer = IconData(
     0xec6c,
     fontFamily: 'PhosphorThin',
@@ -3067,7 +3067,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `bus` no estilo Thin.
   ///
-  /// ![bus](https://api.iconify.design/ph/bus-thin.svg?height=32&color=%23888888)
+  /// ![bus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/bus.png)
   static const IconData bus = IconData(
     0xe106,
     fontFamily: 'PhosphorThin',
@@ -3079,7 +3079,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `butterfly` no estilo Thin.
   ///
-  /// ![butterfly](https://api.iconify.design/ph/butterfly-thin.svg?height=32&color=%23888888)
+  /// ![butterfly](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/butterfly.png)
   static const IconData butterfly = IconData(
     0xea6e,
     fontFamily: 'PhosphorThin',
@@ -3091,7 +3091,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cableCar` no estilo Thin.
   ///
-  /// ![cable-car](https://api.iconify.design/ph/cable-car-thin.svg?height=32&color=%23888888)
+  /// ![cable-car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cable-car.png)
   static const IconData cableCar = IconData(
     0xe49c,
     fontFamily: 'PhosphorThin',
@@ -3103,7 +3103,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cactus` no estilo Thin.
   ///
-  /// ![cactus](https://api.iconify.design/ph/cactus-thin.svg?height=32&color=%23888888)
+  /// ![cactus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cactus.png)
   static const IconData cactus = IconData(
     0xe918,
     fontFamily: 'PhosphorThin',
@@ -3115,7 +3115,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caduceus` no estilo Thin.
   ///
-  /// ![caduceus](https://api.iconify.design/ph/asclepius-thin.svg?height=32&color=%23888888)
+  /// ![caduceus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caduceus.png)
   static const IconData caduceus = IconData(
     0xee34,
     fontFamily: 'PhosphorThin',
@@ -3127,7 +3127,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cake` no estilo Thin.
   ///
-  /// ![cake](https://api.iconify.design/ph/cake-thin.svg?height=32&color=%23888888)
+  /// ![cake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cake.png)
   static const IconData cake = IconData(
     0xe780,
     fontFamily: 'PhosphorThin',
@@ -3139,7 +3139,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calculator` no estilo Thin.
   ///
-  /// ![calculator](https://api.iconify.design/ph/calculator-thin.svg?height=32&color=%23888888)
+  /// ![calculator](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calculator.png)
   static const IconData calculator = IconData(
     0xe538,
     fontFamily: 'PhosphorThin',
@@ -3151,7 +3151,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendar` no estilo Thin.
   ///
-  /// ![calendar](https://api.iconify.design/ph/calendar-thin.svg?height=32&color=%23888888)
+  /// ![calendar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar.png)
   static const IconData calendar = IconData(
     0xe108,
     fontFamily: 'PhosphorThin',
@@ -3163,7 +3163,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarBlank` no estilo Thin.
   ///
-  /// ![calendar-blank](https://api.iconify.design/ph/calendar-blank-thin.svg?height=32&color=%23888888)
+  /// ![calendar-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-blank.png)
   static const IconData calendarBlank = IconData(
     0xe10a,
     fontFamily: 'PhosphorThin',
@@ -3175,7 +3175,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarCheck` no estilo Thin.
   ///
-  /// ![calendar-check](https://api.iconify.design/ph/calendar-check-thin.svg?height=32&color=%23888888)
+  /// ![calendar-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-check.png)
   static const IconData calendarCheck = IconData(
     0xe712,
     fontFamily: 'PhosphorThin',
@@ -3187,7 +3187,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarDot` no estilo Thin.
   ///
-  /// ![calendar-dot](https://api.iconify.design/ph/calendar-dot-thin.svg?height=32&color=%23888888)
+  /// ![calendar-dot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-dot.png)
   static const IconData calendarDot = IconData(
     0xe7b2,
     fontFamily: 'PhosphorThin',
@@ -3199,7 +3199,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarDots` no estilo Thin.
   ///
-  /// ![calendar-dots](https://api.iconify.design/ph/calendar-dots-thin.svg?height=32&color=%23888888)
+  /// ![calendar-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-dots.png)
   static const IconData calendarDots = IconData(
     0xe7b4,
     fontFamily: 'PhosphorThin',
@@ -3211,7 +3211,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarHeart` no estilo Thin.
   ///
-  /// ![calendar-heart](https://api.iconify.design/ph/calendar-heart-thin.svg?height=32&color=%23888888)
+  /// ![calendar-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-heart.png)
   static const IconData calendarHeart = IconData(
     0xe8b0,
     fontFamily: 'PhosphorThin',
@@ -3223,7 +3223,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarMinus` no estilo Thin.
   ///
-  /// ![calendar-minus](https://api.iconify.design/ph/calendar-minus-thin.svg?height=32&color=%23888888)
+  /// ![calendar-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-minus.png)
   static const IconData calendarMinus = IconData(
     0xea14,
     fontFamily: 'PhosphorThin',
@@ -3235,7 +3235,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarPlus` no estilo Thin.
   ///
-  /// ![calendar-plus](https://api.iconify.design/ph/calendar-plus-thin.svg?height=32&color=%23888888)
+  /// ![calendar-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-plus.png)
   static const IconData calendarPlus = IconData(
     0xe714,
     fontFamily: 'PhosphorThin',
@@ -3247,7 +3247,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarSlash` no estilo Thin.
   ///
-  /// ![calendar-slash](https://api.iconify.design/ph/calendar-slash-thin.svg?height=32&color=%23888888)
+  /// ![calendar-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-slash.png)
   static const IconData calendarSlash = IconData(
     0xea12,
     fontFamily: 'PhosphorThin',
@@ -3259,7 +3259,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarStar` no estilo Thin.
   ///
-  /// ![calendar-star](https://api.iconify.design/ph/calendar-star-thin.svg?height=32&color=%23888888)
+  /// ![calendar-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-star.png)
   static const IconData calendarStar = IconData(
     0xe8b2,
     fontFamily: 'PhosphorThin',
@@ -3271,7 +3271,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `calendarX` no estilo Thin.
   ///
-  /// ![calendar-x](https://api.iconify.design/ph/calendar-x-thin.svg?height=32&color=%23888888)
+  /// ![calendar-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/calendar-x.png)
   static const IconData calendarX = IconData(
     0xe10c,
     fontFamily: 'PhosphorThin',
@@ -3283,7 +3283,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `callBell` no estilo Thin.
   ///
-  /// ![call-bell](https://api.iconify.design/ph/call-bell-thin.svg?height=32&color=%23888888)
+  /// ![call-bell](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/call-bell.png)
   static const IconData callBell = IconData(
     0xe7de,
     fontFamily: 'PhosphorThin',
@@ -3295,7 +3295,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `camera` no estilo Thin.
   ///
-  /// ![camera](https://api.iconify.design/ph/camera-thin.svg?height=32&color=%23888888)
+  /// ![camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/camera.png)
   static const IconData camera = IconData(
     0xe10e,
     fontFamily: 'PhosphorThin',
@@ -3307,7 +3307,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cameraPlus` no estilo Thin.
   ///
-  /// ![camera-plus](https://api.iconify.design/ph/camera-plus-thin.svg?height=32&color=%23888888)
+  /// ![camera-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/camera-plus.png)
   static const IconData cameraPlus = IconData(
     0xec58,
     fontFamily: 'PhosphorThin',
@@ -3319,7 +3319,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cameraRotate` no estilo Thin.
   ///
-  /// ![camera-rotate](https://api.iconify.design/ph/camera-rotate-thin.svg?height=32&color=%23888888)
+  /// ![camera-rotate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/camera-rotate.png)
   static const IconData cameraRotate = IconData(
     0xe7a4,
     fontFamily: 'PhosphorThin',
@@ -3331,7 +3331,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cameraSlash` no estilo Thin.
   ///
-  /// ![camera-slash](https://api.iconify.design/ph/camera-slash-thin.svg?height=32&color=%23888888)
+  /// ![camera-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/camera-slash.png)
   static const IconData cameraSlash = IconData(
     0xe110,
     fontFamily: 'PhosphorThin',
@@ -3343,7 +3343,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `campfire` no estilo Thin.
   ///
-  /// ![campfire](https://api.iconify.design/ph/campfire-thin.svg?height=32&color=%23888888)
+  /// ![campfire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/campfire.png)
   static const IconData campfire = IconData(
     0xe9d8,
     fontFamily: 'PhosphorThin',
@@ -3355,7 +3355,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `car` no estilo Thin.
   ///
-  /// ![car](https://api.iconify.design/ph/car-thin.svg?height=32&color=%23888888)
+  /// ![car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/car.png)
   static const IconData car = IconData(
     0xe112,
     fontFamily: 'PhosphorThin',
@@ -3367,7 +3367,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `carBattery` no estilo Thin.
   ///
-  /// ![car-battery](https://api.iconify.design/ph/car-battery-thin.svg?height=32&color=%23888888)
+  /// ![car-battery](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/car-battery.png)
   static const IconData carBattery = IconData(
     0xee30,
     fontFamily: 'PhosphorThin',
@@ -3379,7 +3379,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `carProfile` no estilo Thin.
   ///
-  /// ![car-profile](https://api.iconify.design/ph/car-profile-thin.svg?height=32&color=%23888888)
+  /// ![car-profile](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/car-profile.png)
   static const IconData carProfile = IconData(
     0xe8cc,
     fontFamily: 'PhosphorThin',
@@ -3391,7 +3391,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `carSimple` no estilo Thin.
   ///
-  /// ![car-simple](https://api.iconify.design/ph/car-simple-thin.svg?height=32&color=%23888888)
+  /// ![car-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/car-simple.png)
   static const IconData carSimple = IconData(
     0xe114,
     fontFamily: 'PhosphorThin',
@@ -3403,7 +3403,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cardholder` no estilo Thin.
   ///
-  /// ![cardholder](https://api.iconify.design/ph/cardholder-thin.svg?height=32&color=%23888888)
+  /// ![cardholder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cardholder.png)
   static const IconData cardholder = IconData(
     0xe5fa,
     fontFamily: 'PhosphorThin',
@@ -3415,7 +3415,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cards` no estilo Thin.
   ///
-  /// ![cards](https://api.iconify.design/ph/cards-thin.svg?height=32&color=%23888888)
+  /// ![cards](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cards.png)
   static const IconData cards = IconData(
     0xe0f8,
     fontFamily: 'PhosphorThin',
@@ -3427,7 +3427,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cardsThree` no estilo Thin.
   ///
-  /// ![cards-three](https://api.iconify.design/ph/cards-three-thin.svg?height=32&color=%23888888)
+  /// ![cards-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cards-three.png)
   static const IconData cardsThree = IconData(
     0xee50,
     fontFamily: 'PhosphorThin',
@@ -3439,7 +3439,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleDoubleDown` no estilo Thin.
   ///
-  /// ![caret-circle-double-down](https://api.iconify.design/ph/caret-circle-double-down-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-double-down.png)
   static const IconData caretCircleDoubleDown = IconData(
     0xe116,
     fontFamily: 'PhosphorThin',
@@ -3451,7 +3451,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleDoubleLeft` no estilo Thin.
   ///
-  /// ![caret-circle-double-left](https://api.iconify.design/ph/caret-circle-double-left-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-double-left.png)
   static const IconData caretCircleDoubleLeft = IconData(
     0xe118,
     fontFamily: 'PhosphorThin',
@@ -3463,7 +3463,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleDoubleRight` no estilo Thin.
   ///
-  /// ![caret-circle-double-right](https://api.iconify.design/ph/caret-circle-double-right-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-double-right.png)
   static const IconData caretCircleDoubleRight = IconData(
     0xe11a,
     fontFamily: 'PhosphorThin',
@@ -3475,7 +3475,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleDoubleUp` no estilo Thin.
   ///
-  /// ![caret-circle-double-up](https://api.iconify.design/ph/caret-circle-double-up-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-double-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-double-up.png)
   static const IconData caretCircleDoubleUp = IconData(
     0xe11c,
     fontFamily: 'PhosphorThin',
@@ -3487,7 +3487,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleDown` no estilo Thin.
   ///
-  /// ![caret-circle-down](https://api.iconify.design/ph/caret-circle-down-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-down.png)
   static const IconData caretCircleDown = IconData(
     0xe11e,
     fontFamily: 'PhosphorThin',
@@ -3499,7 +3499,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleLeft` no estilo Thin.
   ///
-  /// ![caret-circle-left](https://api.iconify.design/ph/caret-circle-left-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-left.png)
   static const IconData caretCircleLeft = IconData(
     0xe120,
     fontFamily: 'PhosphorThin',
@@ -3511,7 +3511,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleRight` no estilo Thin.
   ///
-  /// ![caret-circle-right](https://api.iconify.design/ph/caret-circle-right-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-right.png)
   static const IconData caretCircleRight = IconData(
     0xe122,
     fontFamily: 'PhosphorThin',
@@ -3523,7 +3523,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleUp` no estilo Thin.
   ///
-  /// ![caret-circle-up](https://api.iconify.design/ph/caret-circle-up-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-up.png)
   static const IconData caretCircleUp = IconData(
     0xe124,
     fontFamily: 'PhosphorThin',
@@ -3535,7 +3535,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretCircleUpDown` no estilo Thin.
   ///
-  /// ![caret-circle-up-down](https://api.iconify.design/ph/caret-circle-up-down-thin.svg?height=32&color=%23888888)
+  /// ![caret-circle-up-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-circle-up-down.png)
   static const IconData caretCircleUpDown = IconData(
     0xe13e,
     fontFamily: 'PhosphorThin',
@@ -3547,7 +3547,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretDoubleDown` no estilo Thin.
   ///
-  /// ![caret-double-down](https://api.iconify.design/ph/caret-double-down-thin.svg?height=32&color=%23888888)
+  /// ![caret-double-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-double-down.png)
   static const IconData caretDoubleDown = IconData(
     0xe126,
     fontFamily: 'PhosphorThin',
@@ -3559,7 +3559,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretDoubleLeft` no estilo Thin.
   ///
-  /// ![caret-double-left](https://api.iconify.design/ph/caret-double-left-thin.svg?height=32&color=%23888888)
+  /// ![caret-double-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-double-left.png)
   static const IconData caretDoubleLeft = IconData(
     0xe128,
     fontFamily: 'PhosphorThin',
@@ -3571,7 +3571,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretDoubleRight` no estilo Thin.
   ///
-  /// ![caret-double-right](https://api.iconify.design/ph/caret-double-right-thin.svg?height=32&color=%23888888)
+  /// ![caret-double-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-double-right.png)
   static const IconData caretDoubleRight = IconData(
     0xe12a,
     fontFamily: 'PhosphorThin',
@@ -3583,7 +3583,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretDoubleUp` no estilo Thin.
   ///
-  /// ![caret-double-up](https://api.iconify.design/ph/caret-double-up-thin.svg?height=32&color=%23888888)
+  /// ![caret-double-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-double-up.png)
   static const IconData caretDoubleUp = IconData(
     0xe12c,
     fontFamily: 'PhosphorThin',
@@ -3595,7 +3595,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretDown` no estilo Thin.
   ///
-  /// ![caret-down](https://api.iconify.design/ph/caret-down-thin.svg?height=32&color=%23888888)
+  /// ![caret-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-down.png)
   static const IconData caretDown = IconData(
     0xe136,
     fontFamily: 'PhosphorThin',
@@ -3607,7 +3607,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretLeft` no estilo Thin.
   ///
-  /// ![caret-left](https://api.iconify.design/ph/caret-left-thin.svg?height=32&color=%23888888)
+  /// ![caret-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-left.png)
   static const IconData caretLeft = IconData(
     0xe138,
     fontFamily: 'PhosphorThin',
@@ -3619,7 +3619,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretLineDown` no estilo Thin.
   ///
-  /// ![caret-line-down](https://api.iconify.design/ph/caret-line-down-thin.svg?height=32&color=%23888888)
+  /// ![caret-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-line-down.png)
   static const IconData caretLineDown = IconData(
     0xe134,
     fontFamily: 'PhosphorThin',
@@ -3631,7 +3631,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretLineLeft` no estilo Thin.
   ///
-  /// ![caret-line-left](https://api.iconify.design/ph/caret-line-left-thin.svg?height=32&color=%23888888)
+  /// ![caret-line-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-line-left.png)
   static const IconData caretLineLeft = IconData(
     0xe132,
     fontFamily: 'PhosphorThin',
@@ -3643,7 +3643,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretLineRight` no estilo Thin.
   ///
-  /// ![caret-line-right](https://api.iconify.design/ph/caret-line-right-thin.svg?height=32&color=%23888888)
+  /// ![caret-line-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-line-right.png)
   static const IconData caretLineRight = IconData(
     0xe130,
     fontFamily: 'PhosphorThin',
@@ -3655,7 +3655,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretLineUp` no estilo Thin.
   ///
-  /// ![caret-line-up](https://api.iconify.design/ph/caret-line-up-thin.svg?height=32&color=%23888888)
+  /// ![caret-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-line-up.png)
   static const IconData caretLineUp = IconData(
     0xe12e,
     fontFamily: 'PhosphorThin',
@@ -3667,7 +3667,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretRight` no estilo Thin.
   ///
-  /// ![caret-right](https://api.iconify.design/ph/caret-right-thin.svg?height=32&color=%23888888)
+  /// ![caret-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-right.png)
   static const IconData caretRight = IconData(
     0xe13a,
     fontFamily: 'PhosphorThin',
@@ -3679,7 +3679,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretUp` no estilo Thin.
   ///
-  /// ![caret-up](https://api.iconify.design/ph/caret-up-thin.svg?height=32&color=%23888888)
+  /// ![caret-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-up.png)
   static const IconData caretUp = IconData(
     0xe13c,
     fontFamily: 'PhosphorThin',
@@ -3691,7 +3691,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `caretUpDown` no estilo Thin.
   ///
-  /// ![caret-up-down](https://api.iconify.design/ph/caret-up-down-thin.svg?height=32&color=%23888888)
+  /// ![caret-up-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/caret-up-down.png)
   static const IconData caretUpDown = IconData(
     0xe140,
     fontFamily: 'PhosphorThin',
@@ -3703,7 +3703,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `carrot` no estilo Thin.
   ///
-  /// ![carrot](https://api.iconify.design/ph/carrot-thin.svg?height=32&color=%23888888)
+  /// ![carrot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/carrot.png)
   static const IconData carrot = IconData(
     0xed38,
     fontFamily: 'PhosphorThin',
@@ -3715,7 +3715,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cashRegister` no estilo Thin.
   ///
-  /// ![cash-register](https://api.iconify.design/ph/cash-register-thin.svg?height=32&color=%23888888)
+  /// ![cash-register](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cash-register.png)
   static const IconData cashRegister = IconData(
     0xed80,
     fontFamily: 'PhosphorThin',
@@ -3727,7 +3727,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cassetteTape` no estilo Thin.
   ///
-  /// ![cassette-tape](https://api.iconify.design/ph/cassette-tape-thin.svg?height=32&color=%23888888)
+  /// ![cassette-tape](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cassette-tape.png)
   static const IconData cassetteTape = IconData(
     0xed2e,
     fontFamily: 'PhosphorThin',
@@ -3739,7 +3739,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `castleTurret` no estilo Thin.
   ///
-  /// ![castle-turret](https://api.iconify.design/ph/castle-turret-thin.svg?height=32&color=%23888888)
+  /// ![castle-turret](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/castle-turret.png)
   static const IconData castleTurret = IconData(
     0xe9d0,
     fontFamily: 'PhosphorThin',
@@ -3751,7 +3751,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cat` no estilo Thin.
   ///
-  /// ![cat](https://api.iconify.design/ph/cat-thin.svg?height=32&color=%23888888)
+  /// ![cat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cat.png)
   static const IconData cat = IconData(
     0xe748,
     fontFamily: 'PhosphorThin',
@@ -3763,7 +3763,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellSignalFull` no estilo Thin.
   ///
-  /// ![cell-signal-full](https://api.iconify.design/ph/cell-signal-full-thin.svg?height=32&color=%23888888)
+  /// ![cell-signal-full](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-signal-full.png)
   static const IconData cellSignalFull = IconData(
     0xe142,
     fontFamily: 'PhosphorThin',
@@ -3775,7 +3775,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellSignalHigh` no estilo Thin.
   ///
-  /// ![cell-signal-high](https://api.iconify.design/ph/cell-signal-high-thin.svg?height=32&color=%23888888)
+  /// ![cell-signal-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-signal-high.png)
   static const IconData cellSignalHigh = IconData(
     0xe144,
     fontFamily: 'PhosphorThin',
@@ -3787,7 +3787,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellSignalLow` no estilo Thin.
   ///
-  /// ![cell-signal-low](https://api.iconify.design/ph/cell-signal-low-thin.svg?height=32&color=%23888888)
+  /// ![cell-signal-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-signal-low.png)
   static const IconData cellSignalLow = IconData(
     0xe146,
     fontFamily: 'PhosphorThin',
@@ -3799,7 +3799,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellSignalMedium` no estilo Thin.
   ///
-  /// ![cell-signal-medium](https://api.iconify.design/ph/cell-signal-medium-thin.svg?height=32&color=%23888888)
+  /// ![cell-signal-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-signal-medium.png)
   static const IconData cellSignalMedium = IconData(
     0xe148,
     fontFamily: 'PhosphorThin',
@@ -3811,7 +3811,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellSignalNone` no estilo Thin.
   ///
-  /// ![cell-signal-none](https://api.iconify.design/ph/cell-signal-none-thin.svg?height=32&color=%23888888)
+  /// ![cell-signal-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-signal-none.png)
   static const IconData cellSignalNone = IconData(
     0xe14a,
     fontFamily: 'PhosphorThin',
@@ -3823,7 +3823,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellSignalSlash` no estilo Thin.
   ///
-  /// ![cell-signal-slash](https://api.iconify.design/ph/cell-signal-slash-thin.svg?height=32&color=%23888888)
+  /// ![cell-signal-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-signal-slash.png)
   static const IconData cellSignalSlash = IconData(
     0xe14c,
     fontFamily: 'PhosphorThin',
@@ -3835,7 +3835,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellSignalX` no estilo Thin.
   ///
-  /// ![cell-signal-x](https://api.iconify.design/ph/cell-signal-x-thin.svg?height=32&color=%23888888)
+  /// ![cell-signal-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-signal-x.png)
   static const IconData cellSignalX = IconData(
     0xe14e,
     fontFamily: 'PhosphorThin',
@@ -3847,7 +3847,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cellTower` no estilo Thin.
   ///
-  /// ![cell-tower](https://api.iconify.design/ph/cell-tower-thin.svg?height=32&color=%23888888)
+  /// ![cell-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cell-tower.png)
   static const IconData cellTower = IconData(
     0xebaa,
     fontFamily: 'PhosphorThin',
@@ -3859,7 +3859,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `certificate` no estilo Thin.
   ///
-  /// ![certificate](https://api.iconify.design/ph/certificate-thin.svg?height=32&color=%23888888)
+  /// ![certificate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/certificate.png)
   static const IconData certificate = IconData(
     0xe766,
     fontFamily: 'PhosphorThin',
@@ -3871,7 +3871,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chair` no estilo Thin.
   ///
-  /// ![chair](https://api.iconify.design/ph/chair-thin.svg?height=32&color=%23888888)
+  /// ![chair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chair.png)
   static const IconData chair = IconData(
     0xe950,
     fontFamily: 'PhosphorThin',
@@ -3883,7 +3883,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chalkboard` no estilo Thin.
   ///
-  /// ![chalkboard](https://api.iconify.design/ph/chalkboard-thin.svg?height=32&color=%23888888)
+  /// ![chalkboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chalkboard.png)
   static const IconData chalkboard = IconData(
     0xe5fc,
     fontFamily: 'PhosphorThin',
@@ -3895,7 +3895,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chalkboardSimple` no estilo Thin.
   ///
-  /// ![chalkboard-simple](https://api.iconify.design/ph/chalkboard-simple-thin.svg?height=32&color=%23888888)
+  /// ![chalkboard-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chalkboard-simple.png)
   static const IconData chalkboardSimple = IconData(
     0xe5fe,
     fontFamily: 'PhosphorThin',
@@ -3907,7 +3907,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chalkboardTeacher` no estilo Thin.
   ///
-  /// ![chalkboard-teacher](https://api.iconify.design/ph/chalkboard-teacher-thin.svg?height=32&color=%23888888)
+  /// ![chalkboard-teacher](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chalkboard-teacher.png)
   static const IconData chalkboardTeacher = IconData(
     0xe600,
     fontFamily: 'PhosphorThin',
@@ -3919,7 +3919,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `champagne` no estilo Thin.
   ///
-  /// ![champagne](https://api.iconify.design/ph/champagne-thin.svg?height=32&color=%23888888)
+  /// ![champagne](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/champagne.png)
   static const IconData champagne = IconData(
     0xeaca,
     fontFamily: 'PhosphorThin',
@@ -3931,7 +3931,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chargingStation` no estilo Thin.
   ///
-  /// ![charging-station](https://api.iconify.design/ph/charging-station-thin.svg?height=32&color=%23888888)
+  /// ![charging-station](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/charging-station.png)
   static const IconData chargingStation = IconData(
     0xe8d0,
     fontFamily: 'PhosphorThin',
@@ -3943,7 +3943,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartBar` no estilo Thin.
   ///
-  /// ![chart-bar](https://api.iconify.design/ph/chart-bar-thin.svg?height=32&color=%23888888)
+  /// ![chart-bar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-bar.png)
   static const IconData chartBar = IconData(
     0xe150,
     fontFamily: 'PhosphorThin',
@@ -3955,7 +3955,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartBarHorizontal` no estilo Thin.
   ///
-  /// ![chart-bar-horizontal](https://api.iconify.design/ph/chart-bar-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![chart-bar-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-bar-horizontal.png)
   static const IconData chartBarHorizontal = IconData(
     0xe152,
     fontFamily: 'PhosphorThin',
@@ -3967,7 +3967,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartDonut` no estilo Thin.
   ///
-  /// ![chart-donut](https://api.iconify.design/ph/chart-donut-thin.svg?height=32&color=%23888888)
+  /// ![chart-donut](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-donut.png)
   static const IconData chartDonut = IconData(
     0xeaa6,
     fontFamily: 'PhosphorThin',
@@ -3979,7 +3979,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartLine` no estilo Thin.
   ///
-  /// ![chart-line](https://api.iconify.design/ph/chart-line-thin.svg?height=32&color=%23888888)
+  /// ![chart-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-line.png)
   static const IconData chartLine = IconData(
     0xe154,
     fontFamily: 'PhosphorThin',
@@ -3991,7 +3991,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartLineDown` no estilo Thin.
   ///
-  /// ![chart-line-down](https://api.iconify.design/ph/chart-line-down-thin.svg?height=32&color=%23888888)
+  /// ![chart-line-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-line-down.png)
   static const IconData chartLineDown = IconData(
     0xe8b6,
     fontFamily: 'PhosphorThin',
@@ -4003,7 +4003,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartLineUp` no estilo Thin.
   ///
-  /// ![chart-line-up](https://api.iconify.design/ph/chart-line-up-thin.svg?height=32&color=%23888888)
+  /// ![chart-line-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-line-up.png)
   static const IconData chartLineUp = IconData(
     0xe156,
     fontFamily: 'PhosphorThin',
@@ -4015,7 +4015,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartPie` no estilo Thin.
   ///
-  /// ![chart-pie](https://api.iconify.design/ph/chart-pie-thin.svg?height=32&color=%23888888)
+  /// ![chart-pie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-pie.png)
   static const IconData chartPie = IconData(
     0xe158,
     fontFamily: 'PhosphorThin',
@@ -4027,7 +4027,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartPieSlice` no estilo Thin.
   ///
-  /// ![chart-pie-slice](https://api.iconify.design/ph/chart-pie-slice-thin.svg?height=32&color=%23888888)
+  /// ![chart-pie-slice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-pie-slice.png)
   static const IconData chartPieSlice = IconData(
     0xe15a,
     fontFamily: 'PhosphorThin',
@@ -4039,7 +4039,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartPolar` no estilo Thin.
   ///
-  /// ![chart-polar](https://api.iconify.design/ph/chart-polar-thin.svg?height=32&color=%23888888)
+  /// ![chart-polar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-polar.png)
   static const IconData chartPolar = IconData(
     0xeaa8,
     fontFamily: 'PhosphorThin',
@@ -4051,7 +4051,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chartScatter` no estilo Thin.
   ///
-  /// ![chart-scatter](https://api.iconify.design/ph/chart-scatter-thin.svg?height=32&color=%23888888)
+  /// ![chart-scatter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chart-scatter.png)
   static const IconData chartScatter = IconData(
     0xeaac,
     fontFamily: 'PhosphorThin',
@@ -4063,7 +4063,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chat` no estilo Thin.
   ///
-  /// ![chat](https://api.iconify.design/ph/chat-thin.svg?height=32&color=%23888888)
+  /// ![chat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat.png)
   static const IconData chat = IconData(
     0xe15c,
     fontFamily: 'PhosphorThin',
@@ -4075,7 +4075,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCentered` no estilo Thin.
   ///
-  /// ![chat-centered](https://api.iconify.design/ph/chat-centered-thin.svg?height=32&color=%23888888)
+  /// ![chat-centered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-centered.png)
   static const IconData chatCentered = IconData(
     0xe160,
     fontFamily: 'PhosphorThin',
@@ -4087,7 +4087,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCenteredDots` no estilo Thin.
   ///
-  /// ![chat-centered-dots](https://api.iconify.design/ph/chat-centered-dots-thin.svg?height=32&color=%23888888)
+  /// ![chat-centered-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-centered-dots.png)
   static const IconData chatCenteredDots = IconData(
     0xe164,
     fontFamily: 'PhosphorThin',
@@ -4099,7 +4099,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCenteredSlash` no estilo Thin.
   ///
-  /// ![chat-centered-slash](https://api.iconify.design/ph/chat-centered-slash-thin.svg?height=32&color=%23888888)
+  /// ![chat-centered-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-centered-slash.png)
   static const IconData chatCenteredSlash = IconData(
     0xe162,
     fontFamily: 'PhosphorThin',
@@ -4111,7 +4111,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCenteredText` no estilo Thin.
   ///
-  /// ![chat-centered-text](https://api.iconify.design/ph/chat-centered-text-thin.svg?height=32&color=%23888888)
+  /// ![chat-centered-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-centered-text.png)
   static const IconData chatCenteredText = IconData(
     0xe166,
     fontFamily: 'PhosphorThin',
@@ -4123,7 +4123,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCircle` no estilo Thin.
   ///
-  /// ![chat-circle](https://api.iconify.design/ph/chat-circle-thin.svg?height=32&color=%23888888)
+  /// ![chat-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-circle.png)
   static const IconData chatCircle = IconData(
     0xe168,
     fontFamily: 'PhosphorThin',
@@ -4135,7 +4135,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCircleDots` no estilo Thin.
   ///
-  /// ![chat-circle-dots](https://api.iconify.design/ph/chat-circle-dots-thin.svg?height=32&color=%23888888)
+  /// ![chat-circle-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-circle-dots.png)
   static const IconData chatCircleDots = IconData(
     0xe16c,
     fontFamily: 'PhosphorThin',
@@ -4147,7 +4147,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCircleSlash` no estilo Thin.
   ///
-  /// ![chat-circle-slash](https://api.iconify.design/ph/chat-circle-slash-thin.svg?height=32&color=%23888888)
+  /// ![chat-circle-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-circle-slash.png)
   static const IconData chatCircleSlash = IconData(
     0xe16a,
     fontFamily: 'PhosphorThin',
@@ -4159,7 +4159,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatCircleText` no estilo Thin.
   ///
-  /// ![chat-circle-text](https://api.iconify.design/ph/chat-circle-text-thin.svg?height=32&color=%23888888)
+  /// ![chat-circle-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-circle-text.png)
   static const IconData chatCircleText = IconData(
     0xe16e,
     fontFamily: 'PhosphorThin',
@@ -4171,7 +4171,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatDots` no estilo Thin.
   ///
-  /// ![chat-dots](https://api.iconify.design/ph/chat-dots-thin.svg?height=32&color=%23888888)
+  /// ![chat-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-dots.png)
   static const IconData chatDots = IconData(
     0xe170,
     fontFamily: 'PhosphorThin',
@@ -4183,7 +4183,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatSlash` no estilo Thin.
   ///
-  /// ![chat-slash](https://api.iconify.design/ph/chat-slash-thin.svg?height=32&color=%23888888)
+  /// ![chat-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-slash.png)
   static const IconData chatSlash = IconData(
     0xe15e,
     fontFamily: 'PhosphorThin',
@@ -4195,7 +4195,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatTeardrop` no estilo Thin.
   ///
-  /// ![chat-teardrop](https://api.iconify.design/ph/chat-teardrop-thin.svg?height=32&color=%23888888)
+  /// ![chat-teardrop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-teardrop.png)
   static const IconData chatTeardrop = IconData(
     0xe172,
     fontFamily: 'PhosphorThin',
@@ -4207,7 +4207,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatTeardropDots` no estilo Thin.
   ///
-  /// ![chat-teardrop-dots](https://api.iconify.design/ph/chat-teardrop-dots-thin.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-dots](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-teardrop-dots.png)
   static const IconData chatTeardropDots = IconData(
     0xe176,
     fontFamily: 'PhosphorThin',
@@ -4219,7 +4219,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatTeardropSlash` no estilo Thin.
   ///
-  /// ![chat-teardrop-slash](https://api.iconify.design/ph/chat-teardrop-slash-thin.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-teardrop-slash.png)
   static const IconData chatTeardropSlash = IconData(
     0xe174,
     fontFamily: 'PhosphorThin',
@@ -4231,7 +4231,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatTeardropText` no estilo Thin.
   ///
-  /// ![chat-teardrop-text](https://api.iconify.design/ph/chat-teardrop-text-thin.svg?height=32&color=%23888888)
+  /// ![chat-teardrop-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-teardrop-text.png)
   static const IconData chatTeardropText = IconData(
     0xe178,
     fontFamily: 'PhosphorThin',
@@ -4243,7 +4243,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatText` no estilo Thin.
   ///
-  /// ![chat-text](https://api.iconify.design/ph/chat-text-thin.svg?height=32&color=%23888888)
+  /// ![chat-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chat-text.png)
   static const IconData chatText = IconData(
     0xe17a,
     fontFamily: 'PhosphorThin',
@@ -4255,7 +4255,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chats` no estilo Thin.
   ///
-  /// ![chats](https://api.iconify.design/ph/chats-thin.svg?height=32&color=%23888888)
+  /// ![chats](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chats.png)
   static const IconData chats = IconData(
     0xe17c,
     fontFamily: 'PhosphorThin',
@@ -4267,7 +4267,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatsCircle` no estilo Thin.
   ///
-  /// ![chats-circle](https://api.iconify.design/ph/chats-circle-thin.svg?height=32&color=%23888888)
+  /// ![chats-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chats-circle.png)
   static const IconData chatsCircle = IconData(
     0xe17e,
     fontFamily: 'PhosphorThin',
@@ -4279,7 +4279,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chatsTeardrop` no estilo Thin.
   ///
-  /// ![chats-teardrop](https://api.iconify.design/ph/chats-teardrop-thin.svg?height=32&color=%23888888)
+  /// ![chats-teardrop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chats-teardrop.png)
   static const IconData chatsTeardrop = IconData(
     0xe180,
     fontFamily: 'PhosphorThin',
@@ -4291,7 +4291,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `check` no estilo Thin.
   ///
-  /// ![check](https://api.iconify.design/ph/check-thin.svg?height=32&color=%23888888)
+  /// ![check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/check.png)
   static const IconData check = IconData(
     0xe182,
     fontFamily: 'PhosphorThin',
@@ -4303,7 +4303,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `checkCircle` no estilo Thin.
   ///
-  /// ![check-circle](https://api.iconify.design/ph/check-circle-thin.svg?height=32&color=%23888888)
+  /// ![check-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/check-circle.png)
   static const IconData checkCircle = IconData(
     0xe184,
     fontFamily: 'PhosphorThin',
@@ -4315,7 +4315,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `checkFat` no estilo Thin.
   ///
-  /// ![check-fat](https://api.iconify.design/ph/check-fat-thin.svg?height=32&color=%23888888)
+  /// ![check-fat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/check-fat.png)
   static const IconData checkFat = IconData(
     0xeba6,
     fontFamily: 'PhosphorThin',
@@ -4327,7 +4327,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `checkSquare` no estilo Thin.
   ///
-  /// ![check-square](https://api.iconify.design/ph/check-square-thin.svg?height=32&color=%23888888)
+  /// ![check-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/check-square.png)
   static const IconData checkSquare = IconData(
     0xe186,
     fontFamily: 'PhosphorThin',
@@ -4339,7 +4339,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `checkSquareOffset` no estilo Thin.
   ///
-  /// ![check-square-offset](https://api.iconify.design/ph/check-square-offset-thin.svg?height=32&color=%23888888)
+  /// ![check-square-offset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/check-square-offset.png)
   static const IconData checkSquareOffset = IconData(
     0xe188,
     fontFamily: 'PhosphorThin',
@@ -4351,7 +4351,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `checkerboard` no estilo Thin.
   ///
-  /// ![checkerboard](https://api.iconify.design/ph/checkerboard-thin.svg?height=32&color=%23888888)
+  /// ![checkerboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/checkerboard.png)
   static const IconData checkerboard = IconData(
     0xe8c4,
     fontFamily: 'PhosphorThin',
@@ -4363,7 +4363,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `checks` no estilo Thin.
   ///
-  /// ![checks](https://api.iconify.design/ph/checks-thin.svg?height=32&color=%23888888)
+  /// ![checks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/checks.png)
   static const IconData checks = IconData(
     0xe53a,
     fontFamily: 'PhosphorThin',
@@ -4375,7 +4375,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cheers` no estilo Thin.
   ///
-  /// ![cheers](https://api.iconify.design/ph/cheers-thin.svg?height=32&color=%23888888)
+  /// ![cheers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cheers.png)
   static const IconData cheers = IconData(
     0xea4a,
     fontFamily: 'PhosphorThin',
@@ -4387,7 +4387,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cheese` no estilo Thin.
   ///
-  /// ![cheese](https://api.iconify.design/ph/cheese-thin.svg?height=32&color=%23888888)
+  /// ![cheese](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cheese.png)
   static const IconData cheese = IconData(
     0xe9fe,
     fontFamily: 'PhosphorThin',
@@ -4399,7 +4399,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `chefHat` no estilo Thin.
   ///
-  /// ![chef-hat](https://api.iconify.design/ph/chef-hat-thin.svg?height=32&color=%23888888)
+  /// ![chef-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/chef-hat.png)
   static const IconData chefHat = IconData(
     0xed8e,
     fontFamily: 'PhosphorThin',
@@ -4411,7 +4411,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cherries` no estilo Thin.
   ///
-  /// ![cherries](https://api.iconify.design/ph/cherries-thin.svg?height=32&color=%23888888)
+  /// ![cherries](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cherries.png)
   static const IconData cherries = IconData(
     0xe830,
     fontFamily: 'PhosphorThin',
@@ -4423,7 +4423,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `church` no estilo Thin.
   ///
-  /// ![church](https://api.iconify.design/ph/church-thin.svg?height=32&color=%23888888)
+  /// ![church](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/church.png)
   static const IconData church = IconData(
     0xecea,
     fontFamily: 'PhosphorThin',
@@ -4435,7 +4435,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cigarette` no estilo Thin.
   ///
-  /// ![cigarette](https://api.iconify.design/ph/cigarette-thin.svg?height=32&color=%23888888)
+  /// ![cigarette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cigarette.png)
   static const IconData cigarette = IconData(
     0xed90,
     fontFamily: 'PhosphorThin',
@@ -4447,7 +4447,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cigaretteSlash` no estilo Thin.
   ///
-  /// ![cigarette-slash](https://api.iconify.design/ph/cigarette-slash-thin.svg?height=32&color=%23888888)
+  /// ![cigarette-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cigarette-slash.png)
   static const IconData cigaretteSlash = IconData(
     0xed92,
     fontFamily: 'PhosphorThin',
@@ -4459,7 +4459,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circle` no estilo Thin.
   ///
-  /// ![circle](https://api.iconify.design/ph/circle-thin.svg?height=32&color=%23888888)
+  /// ![circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle.png)
   static const IconData circle = IconData(
     0xe18a,
     fontFamily: 'PhosphorThin',
@@ -4471,7 +4471,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleDashed` no estilo Thin.
   ///
-  /// ![circle-dashed](https://api.iconify.design/ph/circle-dashed-thin.svg?height=32&color=%23888888)
+  /// ![circle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-dashed.png)
   static const IconData circleDashed = IconData(
     0xe602,
     fontFamily: 'PhosphorThin',
@@ -4483,7 +4483,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleHalf` no estilo Thin.
   ///
-  /// ![circle-half](https://api.iconify.design/ph/circle-half-thin.svg?height=32&color=%23888888)
+  /// ![circle-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-half.png)
   static const IconData circleHalf = IconData(
     0xe18c,
     fontFamily: 'PhosphorThin',
@@ -4495,7 +4495,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleHalfTilt` no estilo Thin.
   ///
-  /// ![circle-half-tilt](https://api.iconify.design/ph/circle-half-tilt-thin.svg?height=32&color=%23888888)
+  /// ![circle-half-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-half-tilt.png)
   static const IconData circleHalfTilt = IconData(
     0xe18e,
     fontFamily: 'PhosphorThin',
@@ -4507,7 +4507,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleNotch` no estilo Thin.
   ///
-  /// ![circle-notch](https://api.iconify.design/ph/circle-notch-thin.svg?height=32&color=%23888888)
+  /// ![circle-notch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-notch.png)
   static const IconData circleNotch = IconData(
     0xeb44,
     fontFamily: 'PhosphorThin',
@@ -4519,7 +4519,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleWavy` no estilo Thin.
   ///
-  /// ![circle-wavy](https://api.iconify.design/ph/seal-thin.svg?height=32&color=%23888888)
+  /// ![circle-wavy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-wavy.png)
   static const IconData circleWavy = IconData(
     0xe604,
     fontFamily: 'PhosphorThin',
@@ -4531,7 +4531,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleWavyCheck` no estilo Thin.
   ///
-  /// ![circle-wavy-check](https://api.iconify.design/ph/seal-check-thin.svg?height=32&color=%23888888)
+  /// ![circle-wavy-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-wavy-check.png)
   static const IconData circleWavyCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorThin',
@@ -4543,7 +4543,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleWavyQuestion` no estilo Thin.
   ///
-  /// ![circle-wavy-question](https://api.iconify.design/ph/seal-question-thin.svg?height=32&color=%23888888)
+  /// ![circle-wavy-question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-wavy-question.png)
   static const IconData circleWavyQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorThin',
@@ -4555,7 +4555,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circleWavyWarning` no estilo Thin.
   ///
-  /// ![circle-wavy-warning](https://api.iconify.design/ph/seal-warning-thin.svg?height=32&color=%23888888)
+  /// ![circle-wavy-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circle-wavy-warning.png)
   static const IconData circleWavyWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorThin',
@@ -4567,7 +4567,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circlesFour` no estilo Thin.
   ///
-  /// ![circles-four](https://api.iconify.design/ph/circles-four-thin.svg?height=32&color=%23888888)
+  /// ![circles-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circles-four.png)
   static const IconData circlesFour = IconData(
     0xe190,
     fontFamily: 'PhosphorThin',
@@ -4579,7 +4579,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circlesThree` no estilo Thin.
   ///
-  /// ![circles-three](https://api.iconify.design/ph/circles-three-thin.svg?height=32&color=%23888888)
+  /// ![circles-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circles-three.png)
   static const IconData circlesThree = IconData(
     0xe192,
     fontFamily: 'PhosphorThin',
@@ -4591,7 +4591,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circlesThreePlus` no estilo Thin.
   ///
-  /// ![circles-three-plus](https://api.iconify.design/ph/circles-three-plus-thin.svg?height=32&color=%23888888)
+  /// ![circles-three-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circles-three-plus.png)
   static const IconData circlesThreePlus = IconData(
     0xe194,
     fontFamily: 'PhosphorThin',
@@ -4603,7 +4603,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `circuitry` no estilo Thin.
   ///
-  /// ![circuitry](https://api.iconify.design/ph/circuitry-thin.svg?height=32&color=%23888888)
+  /// ![circuitry](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/circuitry.png)
   static const IconData circuitry = IconData(
     0xe9c2,
     fontFamily: 'PhosphorThin',
@@ -4615,7 +4615,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `city` no estilo Thin.
   ///
-  /// ![city](https://api.iconify.design/ph/city-thin.svg?height=32&color=%23888888)
+  /// ![city](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/city.png)
   static const IconData city = IconData(
     0xea6a,
     fontFamily: 'PhosphorThin',
@@ -4627,7 +4627,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clipboard` no estilo Thin.
   ///
-  /// ![clipboard](https://api.iconify.design/ph/clipboard-thin.svg?height=32&color=%23888888)
+  /// ![clipboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clipboard.png)
   static const IconData clipboard = IconData(
     0xe196,
     fontFamily: 'PhosphorThin',
@@ -4639,7 +4639,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clipboardText` no estilo Thin.
   ///
-  /// ![clipboard-text](https://api.iconify.design/ph/clipboard-text-thin.svg?height=32&color=%23888888)
+  /// ![clipboard-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clipboard-text.png)
   static const IconData clipboardText = IconData(
     0xe198,
     fontFamily: 'PhosphorThin',
@@ -4651,7 +4651,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clock` no estilo Thin.
   ///
-  /// ![clock](https://api.iconify.design/ph/clock-thin.svg?height=32&color=%23888888)
+  /// ![clock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clock.png)
   static const IconData clock = IconData(
     0xe19a,
     fontFamily: 'PhosphorThin',
@@ -4663,7 +4663,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clockAfternoon` no estilo Thin.
   ///
-  /// ![clock-afternoon](https://api.iconify.design/ph/clock-afternoon-thin.svg?height=32&color=%23888888)
+  /// ![clock-afternoon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clock-afternoon.png)
   static const IconData clockAfternoon = IconData(
     0xe19c,
     fontFamily: 'PhosphorThin',
@@ -4675,7 +4675,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clockClockwise` no estilo Thin.
   ///
-  /// ![clock-clockwise](https://api.iconify.design/ph/clock-clockwise-thin.svg?height=32&color=%23888888)
+  /// ![clock-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clock-clockwise.png)
   static const IconData clockClockwise = IconData(
     0xe19e,
     fontFamily: 'PhosphorThin',
@@ -4687,7 +4687,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clockCountdown` no estilo Thin.
   ///
-  /// ![clock-countdown](https://api.iconify.design/ph/clock-countdown-thin.svg?height=32&color=%23888888)
+  /// ![clock-countdown](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clock-countdown.png)
   static const IconData clockCountdown = IconData(
     0xed2c,
     fontFamily: 'PhosphorThin',
@@ -4699,7 +4699,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clockCounterClockwise` no estilo Thin.
   ///
-  /// ![clock-counter-clockwise](https://api.iconify.design/ph/clock-counter-clockwise-thin.svg?height=32&color=%23888888)
+  /// ![clock-counter-clockwise](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clock-counter-clockwise.png)
   static const IconData clockCounterClockwise = IconData(
     0xe1a0,
     fontFamily: 'PhosphorThin',
@@ -4711,7 +4711,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clockUser` no estilo Thin.
   ///
-  /// ![clock-user](https://api.iconify.design/ph/clock-user-thin.svg?height=32&color=%23888888)
+  /// ![clock-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clock-user.png)
   static const IconData clockUser = IconData(
     0xedec,
     fontFamily: 'PhosphorThin',
@@ -4723,7 +4723,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `closedCaptioning` no estilo Thin.
   ///
-  /// ![closed-captioning](https://api.iconify.design/ph/closed-captioning-thin.svg?height=32&color=%23888888)
+  /// ![closed-captioning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/closed-captioning.png)
   static const IconData closedCaptioning = IconData(
     0xe1a4,
     fontFamily: 'PhosphorThin',
@@ -4735,7 +4735,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloud` no estilo Thin.
   ///
-  /// ![cloud](https://api.iconify.design/ph/cloud-thin.svg?height=32&color=%23888888)
+  /// ![cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud.png)
   static const IconData cloud = IconData(
     0xe1aa,
     fontFamily: 'PhosphorThin',
@@ -4747,7 +4747,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudArrowDown` no estilo Thin.
   ///
-  /// ![cloud-arrow-down](https://api.iconify.design/ph/cloud-arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-arrow-down.png)
   static const IconData cloudArrowDown = IconData(
     0xe1ac,
     fontFamily: 'PhosphorThin',
@@ -4759,7 +4759,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudArrowUp` no estilo Thin.
   ///
-  /// ![cloud-arrow-up](https://api.iconify.design/ph/cloud-arrow-up-thin.svg?height=32&color=%23888888)
+  /// ![cloud-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-arrow-up.png)
   static const IconData cloudArrowUp = IconData(
     0xe1ae,
     fontFamily: 'PhosphorThin',
@@ -4771,7 +4771,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudCheck` no estilo Thin.
   ///
-  /// ![cloud-check](https://api.iconify.design/ph/cloud-check-thin.svg?height=32&color=%23888888)
+  /// ![cloud-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-check.png)
   static const IconData cloudCheck = IconData(
     0xe1b0,
     fontFamily: 'PhosphorThin',
@@ -4783,7 +4783,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudFog` no estilo Thin.
   ///
-  /// ![cloud-fog](https://api.iconify.design/ph/cloud-fog-thin.svg?height=32&color=%23888888)
+  /// ![cloud-fog](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-fog.png)
   static const IconData cloudFog = IconData(
     0xe53c,
     fontFamily: 'PhosphorThin',
@@ -4795,7 +4795,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudLightning` no estilo Thin.
   ///
-  /// ![cloud-lightning](https://api.iconify.design/ph/cloud-lightning-thin.svg?height=32&color=%23888888)
+  /// ![cloud-lightning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-lightning.png)
   static const IconData cloudLightning = IconData(
     0xe1b2,
     fontFamily: 'PhosphorThin',
@@ -4807,7 +4807,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudMoon` no estilo Thin.
   ///
-  /// ![cloud-moon](https://api.iconify.design/ph/cloud-moon-thin.svg?height=32&color=%23888888)
+  /// ![cloud-moon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-moon.png)
   static const IconData cloudMoon = IconData(
     0xe53e,
     fontFamily: 'PhosphorThin',
@@ -4819,7 +4819,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudRain` no estilo Thin.
   ///
-  /// ![cloud-rain](https://api.iconify.design/ph/cloud-rain-thin.svg?height=32&color=%23888888)
+  /// ![cloud-rain](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-rain.png)
   static const IconData cloudRain = IconData(
     0xe1b4,
     fontFamily: 'PhosphorThin',
@@ -4831,7 +4831,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudSlash` no estilo Thin.
   ///
-  /// ![cloud-slash](https://api.iconify.design/ph/cloud-slash-thin.svg?height=32&color=%23888888)
+  /// ![cloud-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-slash.png)
   static const IconData cloudSlash = IconData(
     0xe1b6,
     fontFamily: 'PhosphorThin',
@@ -4843,7 +4843,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudSnow` no estilo Thin.
   ///
-  /// ![cloud-snow](https://api.iconify.design/ph/cloud-snow-thin.svg?height=32&color=%23888888)
+  /// ![cloud-snow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-snow.png)
   static const IconData cloudSnow = IconData(
     0xe1b8,
     fontFamily: 'PhosphorThin',
@@ -4855,7 +4855,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudSun` no estilo Thin.
   ///
-  /// ![cloud-sun](https://api.iconify.design/ph/cloud-sun-thin.svg?height=32&color=%23888888)
+  /// ![cloud-sun](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-sun.png)
   static const IconData cloudSun = IconData(
     0xe540,
     fontFamily: 'PhosphorThin',
@@ -4867,7 +4867,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudWarning` no estilo Thin.
   ///
-  /// ![cloud-warning](https://api.iconify.design/ph/cloud-warning-thin.svg?height=32&color=%23888888)
+  /// ![cloud-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-warning.png)
   static const IconData cloudWarning = IconData(
     0xea98,
     fontFamily: 'PhosphorThin',
@@ -4879,7 +4879,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cloudX` no estilo Thin.
   ///
-  /// ![cloud-x](https://api.iconify.design/ph/cloud-x-thin.svg?height=32&color=%23888888)
+  /// ![cloud-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cloud-x.png)
   static const IconData cloudX = IconData(
     0xea96,
     fontFamily: 'PhosphorThin',
@@ -4891,7 +4891,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `clover` no estilo Thin.
   ///
-  /// ![clover](https://api.iconify.design/ph/clover-thin.svg?height=32&color=%23888888)
+  /// ![clover](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/clover.png)
   static const IconData clover = IconData(
     0xedc8,
     fontFamily: 'PhosphorThin',
@@ -4903,7 +4903,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `club` no estilo Thin.
   ///
-  /// ![club](https://api.iconify.design/ph/club-thin.svg?height=32&color=%23888888)
+  /// ![club](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/club.png)
   static const IconData club = IconData(
     0xe1ba,
     fontFamily: 'PhosphorThin',
@@ -4915,7 +4915,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `coatHanger` no estilo Thin.
   ///
-  /// ![coat-hanger](https://api.iconify.design/ph/coat-hanger-thin.svg?height=32&color=%23888888)
+  /// ![coat-hanger](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/coat-hanger.png)
   static const IconData coatHanger = IconData(
     0xe7fe,
     fontFamily: 'PhosphorThin',
@@ -4927,7 +4927,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `codaLogo` no estilo Thin.
   ///
-  /// ![coda-logo](https://api.iconify.design/ph/coda-logo-thin.svg?height=32&color=%23888888)
+  /// ![coda-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/coda-logo.png)
   static const IconData codaLogo = IconData(
     0xe7ce,
     fontFamily: 'PhosphorThin',
@@ -4939,7 +4939,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `code` no estilo Thin.
   ///
-  /// ![code](https://api.iconify.design/ph/code-thin.svg?height=32&color=%23888888)
+  /// ![code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/code.png)
   static const IconData code = IconData(
     0xe1bc,
     fontFamily: 'PhosphorThin',
@@ -4951,7 +4951,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `codeBlock` no estilo Thin.
   ///
-  /// ![code-block](https://api.iconify.design/ph/code-block-thin.svg?height=32&color=%23888888)
+  /// ![code-block](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/code-block.png)
   static const IconData codeBlock = IconData(
     0xeafe,
     fontFamily: 'PhosphorThin',
@@ -4963,7 +4963,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `codeSimple` no estilo Thin.
   ///
-  /// ![code-simple](https://api.iconify.design/ph/code-simple-thin.svg?height=32&color=%23888888)
+  /// ![code-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/code-simple.png)
   static const IconData codeSimple = IconData(
     0xe1be,
     fontFamily: 'PhosphorThin',
@@ -4975,7 +4975,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `codepenLogo` no estilo Thin.
   ///
-  /// ![codepen-logo](https://api.iconify.design/ph/codepen-logo-thin.svg?height=32&color=%23888888)
+  /// ![codepen-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/codepen-logo.png)
   static const IconData codepenLogo = IconData(
     0xe978,
     fontFamily: 'PhosphorThin',
@@ -4987,7 +4987,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `codesandboxLogo` no estilo Thin.
   ///
-  /// ![codesandbox-logo](https://api.iconify.design/ph/codesandbox-logo-thin.svg?height=32&color=%23888888)
+  /// ![codesandbox-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/codesandbox-logo.png)
   static const IconData codesandboxLogo = IconData(
     0xea06,
     fontFamily: 'PhosphorThin',
@@ -4999,7 +4999,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `coffee` no estilo Thin.
   ///
-  /// ![coffee](https://api.iconify.design/ph/coffee-thin.svg?height=32&color=%23888888)
+  /// ![coffee](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/coffee.png)
   static const IconData coffee = IconData(
     0xe1c2,
     fontFamily: 'PhosphorThin',
@@ -5011,7 +5011,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `coffeeBean` no estilo Thin.
   ///
-  /// ![coffee-bean](https://api.iconify.design/ph/coffee-bean-thin.svg?height=32&color=%23888888)
+  /// ![coffee-bean](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/coffee-bean.png)
   static const IconData coffeeBean = IconData(
     0xe1c0,
     fontFamily: 'PhosphorThin',
@@ -5023,7 +5023,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `coin` no estilo Thin.
   ///
-  /// ![coin](https://api.iconify.design/ph/coin-thin.svg?height=32&color=%23888888)
+  /// ![coin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/coin.png)
   static const IconData coin = IconData(
     0xe60e,
     fontFamily: 'PhosphorThin',
@@ -5035,7 +5035,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `coinVertical` no estilo Thin.
   ///
-  /// ![coin-vertical](https://api.iconify.design/ph/coin-vertical-thin.svg?height=32&color=%23888888)
+  /// ![coin-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/coin-vertical.png)
   static const IconData coinVertical = IconData(
     0xeb48,
     fontFamily: 'PhosphorThin',
@@ -5047,7 +5047,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `coins` no estilo Thin.
   ///
-  /// ![coins](https://api.iconify.design/ph/coins-thin.svg?height=32&color=%23888888)
+  /// ![coins](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/coins.png)
   static const IconData coins = IconData(
     0xe78e,
     fontFamily: 'PhosphorThin',
@@ -5059,7 +5059,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `columns` no estilo Thin.
   ///
-  /// ![columns](https://api.iconify.design/ph/columns-thin.svg?height=32&color=%23888888)
+  /// ![columns](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/columns.png)
   static const IconData columns = IconData(
     0xe546,
     fontFamily: 'PhosphorThin',
@@ -5071,7 +5071,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `columnsPlusLeft` no estilo Thin.
   ///
-  /// ![columns-plus-left](https://api.iconify.design/ph/columns-plus-left-thin.svg?height=32&color=%23888888)
+  /// ![columns-plus-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/columns-plus-left.png)
   static const IconData columnsPlusLeft = IconData(
     0xe544,
     fontFamily: 'PhosphorThin',
@@ -5083,7 +5083,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `columnsPlusRight` no estilo Thin.
   ///
-  /// ![columns-plus-right](https://api.iconify.design/ph/columns-plus-right-thin.svg?height=32&color=%23888888)
+  /// ![columns-plus-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/columns-plus-right.png)
   static const IconData columnsPlusRight = IconData(
     0xe542,
     fontFamily: 'PhosphorThin',
@@ -5095,7 +5095,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `command` no estilo Thin.
   ///
-  /// ![command](https://api.iconify.design/ph/command-thin.svg?height=32&color=%23888888)
+  /// ![command](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/command.png)
   static const IconData command = IconData(
     0xe1c4,
     fontFamily: 'PhosphorThin',
@@ -5107,7 +5107,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `compass` no estilo Thin.
   ///
-  /// ![compass](https://api.iconify.design/ph/compass-thin.svg?height=32&color=%23888888)
+  /// ![compass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/compass.png)
   static const IconData compass = IconData(
     0xe1c8,
     fontFamily: 'PhosphorThin',
@@ -5119,7 +5119,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `compassRose` no estilo Thin.
   ///
-  /// ![compass-rose](https://api.iconify.design/ph/compass-rose-thin.svg?height=32&color=%23888888)
+  /// ![compass-rose](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/compass-rose.png)
   static const IconData compassRose = IconData(
     0xe1c6,
     fontFamily: 'PhosphorThin',
@@ -5131,7 +5131,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `compassTool` no estilo Thin.
   ///
-  /// ![compass-tool](https://api.iconify.design/ph/compass-tool-thin.svg?height=32&color=%23888888)
+  /// ![compass-tool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/compass-tool.png)
   static const IconData compassTool = IconData(
     0xea0e,
     fontFamily: 'PhosphorThin',
@@ -5143,7 +5143,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `computerTower` no estilo Thin.
   ///
-  /// ![computer-tower](https://api.iconify.design/ph/computer-tower-thin.svg?height=32&color=%23888888)
+  /// ![computer-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/computer-tower.png)
   static const IconData computerTower = IconData(
     0xe548,
     fontFamily: 'PhosphorThin',
@@ -5155,7 +5155,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `confetti` no estilo Thin.
   ///
-  /// ![confetti](https://api.iconify.design/ph/confetti-thin.svg?height=32&color=%23888888)
+  /// ![confetti](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/confetti.png)
   static const IconData confetti = IconData(
     0xe81a,
     fontFamily: 'PhosphorThin',
@@ -5167,7 +5167,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `contactlessPayment` no estilo Thin.
   ///
-  /// ![contactless-payment](https://api.iconify.design/ph/contactless-payment-thin.svg?height=32&color=%23888888)
+  /// ![contactless-payment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/contactless-payment.png)
   static const IconData contactlessPayment = IconData(
     0xed42,
     fontFamily: 'PhosphorThin',
@@ -5179,7 +5179,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `control` no estilo Thin.
   ///
-  /// ![control](https://api.iconify.design/ph/control-thin.svg?height=32&color=%23888888)
+  /// ![control](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/control.png)
   static const IconData control = IconData(
     0xeca6,
     fontFamily: 'PhosphorThin',
@@ -5191,7 +5191,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cookie` no estilo Thin.
   ///
-  /// ![cookie](https://api.iconify.design/ph/cookie-thin.svg?height=32&color=%23888888)
+  /// ![cookie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cookie.png)
   static const IconData cookie = IconData(
     0xe6ca,
     fontFamily: 'PhosphorThin',
@@ -5203,7 +5203,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cookingPot` no estilo Thin.
   ///
-  /// ![cooking-pot](https://api.iconify.design/ph/cooking-pot-thin.svg?height=32&color=%23888888)
+  /// ![cooking-pot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cooking-pot.png)
   static const IconData cookingPot = IconData(
     0xe764,
     fontFamily: 'PhosphorThin',
@@ -5215,7 +5215,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `copy` no estilo Thin.
   ///
-  /// ![copy](https://api.iconify.design/ph/copy-thin.svg?height=32&color=%23888888)
+  /// ![copy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/copy.png)
   static const IconData copy = IconData(
     0xe1ca,
     fontFamily: 'PhosphorThin',
@@ -5227,7 +5227,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `copySimple` no estilo Thin.
   ///
-  /// ![copy-simple](https://api.iconify.design/ph/copy-simple-thin.svg?height=32&color=%23888888)
+  /// ![copy-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/copy-simple.png)
   static const IconData copySimple = IconData(
     0xe1cc,
     fontFamily: 'PhosphorThin',
@@ -5239,7 +5239,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `copyleft` no estilo Thin.
   ///
-  /// ![copyleft](https://api.iconify.design/ph/copyleft-thin.svg?height=32&color=%23888888)
+  /// ![copyleft](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/copyleft.png)
   static const IconData copyleft = IconData(
     0xe86a,
     fontFamily: 'PhosphorThin',
@@ -5251,7 +5251,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `copyright` no estilo Thin.
   ///
-  /// ![copyright](https://api.iconify.design/ph/copyright-thin.svg?height=32&color=%23888888)
+  /// ![copyright](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/copyright.png)
   static const IconData copyright = IconData(
     0xe54a,
     fontFamily: 'PhosphorThin',
@@ -5263,7 +5263,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cornersIn` no estilo Thin.
   ///
-  /// ![corners-in](https://api.iconify.design/ph/corners-in-thin.svg?height=32&color=%23888888)
+  /// ![corners-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/corners-in.png)
   static const IconData cornersIn = IconData(
     0xe1ce,
     fontFamily: 'PhosphorThin',
@@ -5275,7 +5275,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cornersOut` no estilo Thin.
   ///
-  /// ![corners-out](https://api.iconify.design/ph/corners-out-thin.svg?height=32&color=%23888888)
+  /// ![corners-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/corners-out.png)
   static const IconData cornersOut = IconData(
     0xe1d0,
     fontFamily: 'PhosphorThin',
@@ -5287,7 +5287,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `couch` no estilo Thin.
   ///
-  /// ![couch](https://api.iconify.design/ph/couch-thin.svg?height=32&color=%23888888)
+  /// ![couch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/couch.png)
   static const IconData couch = IconData(
     0xe7f6,
     fontFamily: 'PhosphorThin',
@@ -5299,7 +5299,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `courtBasketball` no estilo Thin.
   ///
-  /// ![court-basketball](https://api.iconify.design/ph/court-basketball-thin.svg?height=32&color=%23888888)
+  /// ![court-basketball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/court-basketball.png)
   static const IconData courtBasketball = IconData(
     0xee36,
     fontFamily: 'PhosphorThin',
@@ -5311,7 +5311,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cow` no estilo Thin.
   ///
-  /// ![cow](https://api.iconify.design/ph/cow-thin.svg?height=32&color=%23888888)
+  /// ![cow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cow.png)
   static const IconData cow = IconData(
     0xeabe,
     fontFamily: 'PhosphorThin',
@@ -5323,7 +5323,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cowboyHat` no estilo Thin.
   ///
-  /// ![cowboy-hat](https://api.iconify.design/ph/cowboy-hat-thin.svg?height=32&color=%23888888)
+  /// ![cowboy-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cowboy-hat.png)
   static const IconData cowboyHat = IconData(
     0xed12,
     fontFamily: 'PhosphorThin',
@@ -5335,7 +5335,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cpu` no estilo Thin.
   ///
-  /// ![cpu](https://api.iconify.design/ph/cpu-thin.svg?height=32&color=%23888888)
+  /// ![cpu](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cpu.png)
   static const IconData cpu = IconData(
     0xe610,
     fontFamily: 'PhosphorThin',
@@ -5347,7 +5347,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `crane` no estilo Thin.
   ///
-  /// ![crane](https://api.iconify.design/ph/crane-thin.svg?height=32&color=%23888888)
+  /// ![crane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crane.png)
   static const IconData crane = IconData(
     0xed48,
     fontFamily: 'PhosphorThin',
@@ -5359,7 +5359,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `craneTower` no estilo Thin.
   ///
-  /// ![crane-tower](https://api.iconify.design/ph/crane-tower-thin.svg?height=32&color=%23888888)
+  /// ![crane-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crane-tower.png)
   static const IconData craneTower = IconData(
     0xed49,
     fontFamily: 'PhosphorThin',
@@ -5371,7 +5371,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `creditCard` no estilo Thin.
   ///
-  /// ![credit-card](https://api.iconify.design/ph/credit-card-thin.svg?height=32&color=%23888888)
+  /// ![credit-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/credit-card.png)
   static const IconData creditCard = IconData(
     0xe1d2,
     fontFamily: 'PhosphorThin',
@@ -5383,7 +5383,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cricket` no estilo Thin.
   ///
-  /// ![cricket](https://api.iconify.design/ph/cricket-thin.svg?height=32&color=%23888888)
+  /// ![cricket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cricket.png)
   static const IconData cricket = IconData(
     0xee12,
     fontFamily: 'PhosphorThin',
@@ -5395,7 +5395,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `crop` no estilo Thin.
   ///
-  /// ![crop](https://api.iconify.design/ph/crop-thin.svg?height=32&color=%23888888)
+  /// ![crop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crop.png)
   static const IconData crop = IconData(
     0xe1d4,
     fontFamily: 'PhosphorThin',
@@ -5407,7 +5407,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cross` no estilo Thin.
   ///
-  /// ![cross](https://api.iconify.design/ph/cross-thin.svg?height=32&color=%23888888)
+  /// ![cross](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cross.png)
   static const IconData cross = IconData(
     0xe8a0,
     fontFamily: 'PhosphorThin',
@@ -5419,7 +5419,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `crosshair` no estilo Thin.
   ///
-  /// ![crosshair](https://api.iconify.design/ph/crosshair-thin.svg?height=32&color=%23888888)
+  /// ![crosshair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crosshair.png)
   static const IconData crosshair = IconData(
     0xe1d6,
     fontFamily: 'PhosphorThin',
@@ -5431,7 +5431,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `crosshairSimple` no estilo Thin.
   ///
-  /// ![crosshair-simple](https://api.iconify.design/ph/crosshair-simple-thin.svg?height=32&color=%23888888)
+  /// ![crosshair-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crosshair-simple.png)
   static const IconData crosshairSimple = IconData(
     0xe1d8,
     fontFamily: 'PhosphorThin',
@@ -5443,7 +5443,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `crown` no estilo Thin.
   ///
-  /// ![crown](https://api.iconify.design/ph/crown-thin.svg?height=32&color=%23888888)
+  /// ![crown](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crown.png)
   static const IconData crown = IconData(
     0xe614,
     fontFamily: 'PhosphorThin',
@@ -5455,7 +5455,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `crownCross` no estilo Thin.
   ///
-  /// ![crown-cross](https://api.iconify.design/ph/crown-cross-thin.svg?height=32&color=%23888888)
+  /// ![crown-cross](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crown-cross.png)
   static const IconData crownCross = IconData(
     0xee5e,
     fontFamily: 'PhosphorThin',
@@ -5467,7 +5467,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `crownSimple` no estilo Thin.
   ///
-  /// ![crown-simple](https://api.iconify.design/ph/crown-simple-thin.svg?height=32&color=%23888888)
+  /// ![crown-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/crown-simple.png)
   static const IconData crownSimple = IconData(
     0xe616,
     fontFamily: 'PhosphorThin',
@@ -5479,7 +5479,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cube` no estilo Thin.
   ///
-  /// ![cube](https://api.iconify.design/ph/cube-thin.svg?height=32&color=%23888888)
+  /// ![cube](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cube.png)
   static const IconData cube = IconData(
     0xe1da,
     fontFamily: 'PhosphorThin',
@@ -5491,7 +5491,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cubeFocus` no estilo Thin.
   ///
-  /// ![cube-focus](https://api.iconify.design/ph/cube-focus-thin.svg?height=32&color=%23888888)
+  /// ![cube-focus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cube-focus.png)
   static const IconData cubeFocus = IconData(
     0xed0a,
     fontFamily: 'PhosphorThin',
@@ -5503,7 +5503,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cubeTransparent` no estilo Thin.
   ///
-  /// ![cube-transparent](https://api.iconify.design/ph/cube-transparent-thin.svg?height=32&color=%23888888)
+  /// ![cube-transparent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cube-transparent.png)
   static const IconData cubeTransparent = IconData(
     0xec7c,
     fontFamily: 'PhosphorThin',
@@ -5515,7 +5515,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyBtc` no estilo Thin.
   ///
-  /// ![currency-btc](https://api.iconify.design/ph/currency-btc-thin.svg?height=32&color=%23888888)
+  /// ![currency-btc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-btc.png)
   static const IconData currencyBtc = IconData(
     0xe618,
     fontFamily: 'PhosphorThin',
@@ -5527,7 +5527,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyCircleDollar` no estilo Thin.
   ///
-  /// ![currency-circle-dollar](https://api.iconify.design/ph/currency-circle-dollar-thin.svg?height=32&color=%23888888)
+  /// ![currency-circle-dollar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-circle-dollar.png)
   static const IconData currencyCircleDollar = IconData(
     0xe54c,
     fontFamily: 'PhosphorThin',
@@ -5539,7 +5539,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyCny` no estilo Thin.
   ///
-  /// ![currency-cny](https://api.iconify.design/ph/currency-cny-thin.svg?height=32&color=%23888888)
+  /// ![currency-cny](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-cny.png)
   static const IconData currencyCny = IconData(
     0xe54e,
     fontFamily: 'PhosphorThin',
@@ -5551,7 +5551,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyDollar` no estilo Thin.
   ///
-  /// ![currency-dollar](https://api.iconify.design/ph/currency-dollar-thin.svg?height=32&color=%23888888)
+  /// ![currency-dollar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-dollar.png)
   static const IconData currencyDollar = IconData(
     0xe550,
     fontFamily: 'PhosphorThin',
@@ -5563,7 +5563,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyDollarSimple` no estilo Thin.
   ///
-  /// ![currency-dollar-simple](https://api.iconify.design/ph/currency-dollar-simple-thin.svg?height=32&color=%23888888)
+  /// ![currency-dollar-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-dollar-simple.png)
   static const IconData currencyDollarSimple = IconData(
     0xe552,
     fontFamily: 'PhosphorThin',
@@ -5575,7 +5575,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyEth` no estilo Thin.
   ///
-  /// ![currency-eth](https://api.iconify.design/ph/currency-eth-thin.svg?height=32&color=%23888888)
+  /// ![currency-eth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-eth.png)
   static const IconData currencyEth = IconData(
     0xeada,
     fontFamily: 'PhosphorThin',
@@ -5587,7 +5587,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyEur` no estilo Thin.
   ///
-  /// ![currency-eur](https://api.iconify.design/ph/currency-eur-thin.svg?height=32&color=%23888888)
+  /// ![currency-eur](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-eur.png)
   static const IconData currencyEur = IconData(
     0xe554,
     fontFamily: 'PhosphorThin',
@@ -5599,7 +5599,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyGbp` no estilo Thin.
   ///
-  /// ![currency-gbp](https://api.iconify.design/ph/currency-gbp-thin.svg?height=32&color=%23888888)
+  /// ![currency-gbp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-gbp.png)
   static const IconData currencyGbp = IconData(
     0xe556,
     fontFamily: 'PhosphorThin',
@@ -5611,7 +5611,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyInr` no estilo Thin.
   ///
-  /// ![currency-inr](https://api.iconify.design/ph/currency-inr-thin.svg?height=32&color=%23888888)
+  /// ![currency-inr](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-inr.png)
   static const IconData currencyInr = IconData(
     0xe558,
     fontFamily: 'PhosphorThin',
@@ -5623,7 +5623,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyJpy` no estilo Thin.
   ///
-  /// ![currency-jpy](https://api.iconify.design/ph/currency-jpy-thin.svg?height=32&color=%23888888)
+  /// ![currency-jpy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-jpy.png)
   static const IconData currencyJpy = IconData(
     0xe55a,
     fontFamily: 'PhosphorThin',
@@ -5635,7 +5635,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyKrw` no estilo Thin.
   ///
-  /// ![currency-krw](https://api.iconify.design/ph/currency-krw-thin.svg?height=32&color=%23888888)
+  /// ![currency-krw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-krw.png)
   static const IconData currencyKrw = IconData(
     0xe55c,
     fontFamily: 'PhosphorThin',
@@ -5647,7 +5647,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyKzt` no estilo Thin.
   ///
-  /// ![currency-kzt](https://api.iconify.design/ph/currency-kzt-thin.svg?height=32&color=%23888888)
+  /// ![currency-kzt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-kzt.png)
   static const IconData currencyKzt = IconData(
     0xec4c,
     fontFamily: 'PhosphorThin',
@@ -5659,7 +5659,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyNgn` no estilo Thin.
   ///
-  /// ![currency-ngn](https://api.iconify.design/ph/currency-ngn-thin.svg?height=32&color=%23888888)
+  /// ![currency-ngn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-ngn.png)
   static const IconData currencyNgn = IconData(
     0xeb52,
     fontFamily: 'PhosphorThin',
@@ -5671,7 +5671,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `currencyRub` no estilo Thin.
   ///
-  /// ![currency-rub](https://api.iconify.design/ph/currency-rub-thin.svg?height=32&color=%23888888)
+  /// ![currency-rub](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/currency-rub.png)
   static const IconData currencyRub = IconData(
     0xe55e,
     fontFamily: 'PhosphorThin',
@@ -5683,7 +5683,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cursor` no estilo Thin.
   ///
-  /// ![cursor](https://api.iconify.design/ph/cursor-thin.svg?height=32&color=%23888888)
+  /// ![cursor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cursor.png)
   static const IconData cursor = IconData(
     0xe1dc,
     fontFamily: 'PhosphorThin',
@@ -5695,7 +5695,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cursorClick` no estilo Thin.
   ///
-  /// ![cursor-click](https://api.iconify.design/ph/cursor-click-thin.svg?height=32&color=%23888888)
+  /// ![cursor-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cursor-click.png)
   static const IconData cursorClick = IconData(
     0xe7c8,
     fontFamily: 'PhosphorThin',
@@ -5707,7 +5707,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cursorText` no estilo Thin.
   ///
-  /// ![cursor-text](https://api.iconify.design/ph/cursor-text-thin.svg?height=32&color=%23888888)
+  /// ![cursor-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cursor-text.png)
   static const IconData cursorText = IconData(
     0xe7d8,
     fontFamily: 'PhosphorThin',
@@ -5719,7 +5719,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `cylinder` no estilo Thin.
   ///
-  /// ![cylinder](https://api.iconify.design/ph/cylinder-thin.svg?height=32&color=%23888888)
+  /// ![cylinder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/cylinder.png)
   static const IconData cylinder = IconData(
     0xe8fc,
     fontFamily: 'PhosphorThin',
@@ -5731,7 +5731,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `database` no estilo Thin.
   ///
-  /// ![database](https://api.iconify.design/ph/database-thin.svg?height=32&color=%23888888)
+  /// ![database](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/database.png)
   static const IconData database = IconData(
     0xe1de,
     fontFamily: 'PhosphorThin',
@@ -5743,7 +5743,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `desk` no estilo Thin.
   ///
-  /// ![desk](https://api.iconify.design/ph/desk-thin.svg?height=32&color=%23888888)
+  /// ![desk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/desk.png)
   static const IconData desk = IconData(
     0xed16,
     fontFamily: 'PhosphorThin',
@@ -5755,7 +5755,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `desktop` no estilo Thin.
   ///
-  /// ![desktop](https://api.iconify.design/ph/desktop-thin.svg?height=32&color=%23888888)
+  /// ![desktop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/desktop.png)
   static const IconData desktop = IconData(
     0xe560,
     fontFamily: 'PhosphorThin',
@@ -5767,7 +5767,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `desktopTower` no estilo Thin.
   ///
-  /// ![desktop-tower](https://api.iconify.design/ph/desktop-tower-thin.svg?height=32&color=%23888888)
+  /// ![desktop-tower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/desktop-tower.png)
   static const IconData desktopTower = IconData(
     0xe562,
     fontFamily: 'PhosphorThin',
@@ -5779,7 +5779,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `detective` no estilo Thin.
   ///
-  /// ![detective](https://api.iconify.design/ph/detective-thin.svg?height=32&color=%23888888)
+  /// ![detective](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/detective.png)
   static const IconData detective = IconData(
     0xe83e,
     fontFamily: 'PhosphorThin',
@@ -5791,7 +5791,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `devToLogo` no estilo Thin.
   ///
-  /// ![dev-to-logo](https://api.iconify.design/ph/dev-to-logo-thin.svg?height=32&color=%23888888)
+  /// ![dev-to-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dev-to-logo.png)
   static const IconData devToLogo = IconData(
     0xed0e,
     fontFamily: 'PhosphorThin',
@@ -5803,7 +5803,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceMobile` no estilo Thin.
   ///
-  /// ![device-mobile](https://api.iconify.design/ph/device-mobile-thin.svg?height=32&color=%23888888)
+  /// ![device-mobile](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-mobile.png)
   static const IconData deviceMobile = IconData(
     0xe1e0,
     fontFamily: 'PhosphorThin',
@@ -5815,7 +5815,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceMobileCamera` no estilo Thin.
   ///
-  /// ![device-mobile-camera](https://api.iconify.design/ph/device-mobile-camera-thin.svg?height=32&color=%23888888)
+  /// ![device-mobile-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-mobile-camera.png)
   static const IconData deviceMobileCamera = IconData(
     0xe1e2,
     fontFamily: 'PhosphorThin',
@@ -5827,7 +5827,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceMobileSlash` no estilo Thin.
   ///
-  /// ![device-mobile-slash](https://api.iconify.design/ph/device-mobile-slash-thin.svg?height=32&color=%23888888)
+  /// ![device-mobile-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-mobile-slash.png)
   static const IconData deviceMobileSlash = IconData(
     0xee46,
     fontFamily: 'PhosphorThin',
@@ -5839,7 +5839,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceMobileSpeaker` no estilo Thin.
   ///
-  /// ![device-mobile-speaker](https://api.iconify.design/ph/device-mobile-speaker-thin.svg?height=32&color=%23888888)
+  /// ![device-mobile-speaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-mobile-speaker.png)
   static const IconData deviceMobileSpeaker = IconData(
     0xe1e4,
     fontFamily: 'PhosphorThin',
@@ -5851,7 +5851,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceRotate` no estilo Thin.
   ///
-  /// ![device-rotate](https://api.iconify.design/ph/device-rotate-thin.svg?height=32&color=%23888888)
+  /// ![device-rotate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-rotate.png)
   static const IconData deviceRotate = IconData(
     0xedf2,
     fontFamily: 'PhosphorThin',
@@ -5863,7 +5863,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceTablet` no estilo Thin.
   ///
-  /// ![device-tablet](https://api.iconify.design/ph/device-tablet-thin.svg?height=32&color=%23888888)
+  /// ![device-tablet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-tablet.png)
   static const IconData deviceTablet = IconData(
     0xe1e6,
     fontFamily: 'PhosphorThin',
@@ -5875,7 +5875,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceTabletCamera` no estilo Thin.
   ///
-  /// ![device-tablet-camera](https://api.iconify.design/ph/device-tablet-camera-thin.svg?height=32&color=%23888888)
+  /// ![device-tablet-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-tablet-camera.png)
   static const IconData deviceTabletCamera = IconData(
     0xe1e8,
     fontFamily: 'PhosphorThin',
@@ -5887,7 +5887,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `deviceTabletSpeaker` no estilo Thin.
   ///
-  /// ![device-tablet-speaker](https://api.iconify.design/ph/device-tablet-speaker-thin.svg?height=32&color=%23888888)
+  /// ![device-tablet-speaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/device-tablet-speaker.png)
   static const IconData deviceTabletSpeaker = IconData(
     0xe1ea,
     fontFamily: 'PhosphorThin',
@@ -5899,7 +5899,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `devices` no estilo Thin.
   ///
-  /// ![devices](https://api.iconify.design/ph/devices-thin.svg?height=32&color=%23888888)
+  /// ![devices](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/devices.png)
   static const IconData devices = IconData(
     0xeba4,
     fontFamily: 'PhosphorThin',
@@ -5911,7 +5911,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diamond` no estilo Thin.
   ///
-  /// ![diamond](https://api.iconify.design/ph/diamond-thin.svg?height=32&color=%23888888)
+  /// ![diamond](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/diamond.png)
   static const IconData diamond = IconData(
     0xe1ec,
     fontFamily: 'PhosphorThin',
@@ -5923,7 +5923,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diamondsFour` no estilo Thin.
   ///
-  /// ![diamonds-four](https://api.iconify.design/ph/diamonds-four-thin.svg?height=32&color=%23888888)
+  /// ![diamonds-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/diamonds-four.png)
   static const IconData diamondsFour = IconData(
     0xe8f4,
     fontFamily: 'PhosphorThin',
@@ -5935,7 +5935,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diceFive` no estilo Thin.
   ///
-  /// ![dice-five](https://api.iconify.design/ph/dice-five-thin.svg?height=32&color=%23888888)
+  /// ![dice-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dice-five.png)
   static const IconData diceFive = IconData(
     0xe1ee,
     fontFamily: 'PhosphorThin',
@@ -5947,7 +5947,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diceFour` no estilo Thin.
   ///
-  /// ![dice-four](https://api.iconify.design/ph/dice-four-thin.svg?height=32&color=%23888888)
+  /// ![dice-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dice-four.png)
   static const IconData diceFour = IconData(
     0xe1f0,
     fontFamily: 'PhosphorThin',
@@ -5959,7 +5959,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diceOne` no estilo Thin.
   ///
-  /// ![dice-one](https://api.iconify.design/ph/dice-one-thin.svg?height=32&color=%23888888)
+  /// ![dice-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dice-one.png)
   static const IconData diceOne = IconData(
     0xe1f2,
     fontFamily: 'PhosphorThin',
@@ -5971,7 +5971,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diceSix` no estilo Thin.
   ///
-  /// ![dice-six](https://api.iconify.design/ph/dice-six-thin.svg?height=32&color=%23888888)
+  /// ![dice-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dice-six.png)
   static const IconData diceSix = IconData(
     0xe1f4,
     fontFamily: 'PhosphorThin',
@@ -5983,7 +5983,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diceThree` no estilo Thin.
   ///
-  /// ![dice-three](https://api.iconify.design/ph/dice-three-thin.svg?height=32&color=%23888888)
+  /// ![dice-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dice-three.png)
   static const IconData diceThree = IconData(
     0xe1f6,
     fontFamily: 'PhosphorThin',
@@ -5995,7 +5995,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `diceTwo` no estilo Thin.
   ///
-  /// ![dice-two](https://api.iconify.design/ph/dice-two-thin.svg?height=32&color=%23888888)
+  /// ![dice-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dice-two.png)
   static const IconData diceTwo = IconData(
     0xe1f8,
     fontFamily: 'PhosphorThin',
@@ -6007,7 +6007,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `disc` no estilo Thin.
   ///
-  /// ![disc](https://api.iconify.design/ph/disc-thin.svg?height=32&color=%23888888)
+  /// ![disc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/disc.png)
   static const IconData disc = IconData(
     0xe564,
     fontFamily: 'PhosphorThin',
@@ -6019,7 +6019,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `discoBall` no estilo Thin.
   ///
-  /// ![disco-ball](https://api.iconify.design/ph/disco-ball-thin.svg?height=32&color=%23888888)
+  /// ![disco-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/disco-ball.png)
   static const IconData discoBall = IconData(
     0xed98,
     fontFamily: 'PhosphorThin',
@@ -6031,7 +6031,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `discordLogo` no estilo Thin.
   ///
-  /// ![discord-logo](https://api.iconify.design/ph/discord-logo-thin.svg?height=32&color=%23888888)
+  /// ![discord-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/discord-logo.png)
   static const IconData discordLogo = IconData(
     0xe61a,
     fontFamily: 'PhosphorThin',
@@ -6043,7 +6043,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `divide` no estilo Thin.
   ///
-  /// ![divide](https://api.iconify.design/ph/divide-thin.svg?height=32&color=%23888888)
+  /// ![divide](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/divide.png)
   static const IconData divide = IconData(
     0xe1fa,
     fontFamily: 'PhosphorThin',
@@ -6055,7 +6055,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dna` no estilo Thin.
   ///
-  /// ![dna](https://api.iconify.design/ph/dna-thin.svg?height=32&color=%23888888)
+  /// ![dna](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dna.png)
   static const IconData dna = IconData(
     0xe924,
     fontFamily: 'PhosphorThin',
@@ -6067,7 +6067,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dog` no estilo Thin.
   ///
-  /// ![dog](https://api.iconify.design/ph/dog-thin.svg?height=32&color=%23888888)
+  /// ![dog](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dog.png)
   static const IconData dog = IconData(
     0xe74a,
     fontFamily: 'PhosphorThin',
@@ -6079,7 +6079,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `door` no estilo Thin.
   ///
-  /// ![door](https://api.iconify.design/ph/door-thin.svg?height=32&color=%23888888)
+  /// ![door](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/door.png)
   static const IconData door = IconData(
     0xe61c,
     fontFamily: 'PhosphorThin',
@@ -6091,7 +6091,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `doorOpen` no estilo Thin.
   ///
-  /// ![door-open](https://api.iconify.design/ph/door-open-thin.svg?height=32&color=%23888888)
+  /// ![door-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/door-open.png)
   static const IconData doorOpen = IconData(
     0xe7e6,
     fontFamily: 'PhosphorThin',
@@ -6103,7 +6103,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dot` no estilo Thin.
   ///
-  /// ![dot](https://api.iconify.design/ph/dot-thin.svg?height=32&color=%23888888)
+  /// ![dot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dot.png)
   static const IconData dot = IconData(
     0xecde,
     fontFamily: 'PhosphorThin',
@@ -6115,7 +6115,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotOutline` no estilo Thin.
   ///
-  /// ![dot-outline](https://api.iconify.design/ph/dot-outline-thin.svg?height=32&color=%23888888)
+  /// ![dot-outline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dot-outline.png)
   static const IconData dotOutline = IconData(
     0xece0,
     fontFamily: 'PhosphorThin',
@@ -6127,7 +6127,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsNine` no estilo Thin.
   ///
-  /// ![dots-nine](https://api.iconify.design/ph/dots-nine-thin.svg?height=32&color=%23888888)
+  /// ![dots-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-nine.png)
   static const IconData dotsNine = IconData(
     0xe1fc,
     fontFamily: 'PhosphorThin',
@@ -6139,7 +6139,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsSix` no estilo Thin.
   ///
-  /// ![dots-six](https://api.iconify.design/ph/dots-six-thin.svg?height=32&color=%23888888)
+  /// ![dots-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-six.png)
   static const IconData dotsSix = IconData(
     0xe794,
     fontFamily: 'PhosphorThin',
@@ -6151,7 +6151,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsSixVertical` no estilo Thin.
   ///
-  /// ![dots-six-vertical](https://api.iconify.design/ph/dots-six-vertical-thin.svg?height=32&color=%23888888)
+  /// ![dots-six-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-six-vertical.png)
   static const IconData dotsSixVertical = IconData(
     0xeae2,
     fontFamily: 'PhosphorThin',
@@ -6163,7 +6163,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsThree` no estilo Thin.
   ///
-  /// ![dots-three](https://api.iconify.design/ph/dots-three-thin.svg?height=32&color=%23888888)
+  /// ![dots-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-three.png)
   static const IconData dotsThree = IconData(
     0xe1fe,
     fontFamily: 'PhosphorThin',
@@ -6175,7 +6175,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsThreeCircle` no estilo Thin.
   ///
-  /// ![dots-three-circle](https://api.iconify.design/ph/dots-three-circle-thin.svg?height=32&color=%23888888)
+  /// ![dots-three-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-three-circle.png)
   static const IconData dotsThreeCircle = IconData(
     0xe200,
     fontFamily: 'PhosphorThin',
@@ -6187,7 +6187,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsThreeCircleVertical` no estilo Thin.
   ///
-  /// ![dots-three-circle-vertical](https://api.iconify.design/ph/dots-three-circle-vertical-thin.svg?height=32&color=%23888888)
+  /// ![dots-three-circle-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-three-circle-vertical.png)
   static const IconData dotsThreeCircleVertical = IconData(
     0xe202,
     fontFamily: 'PhosphorThin',
@@ -6199,7 +6199,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsThreeOutline` no estilo Thin.
   ///
-  /// ![dots-three-outline](https://api.iconify.design/ph/dots-three-outline-thin.svg?height=32&color=%23888888)
+  /// ![dots-three-outline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-three-outline.png)
   static const IconData dotsThreeOutline = IconData(
     0xe204,
     fontFamily: 'PhosphorThin',
@@ -6211,7 +6211,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsThreeOutlineVertical` no estilo Thin.
   ///
-  /// ![dots-three-outline-vertical](https://api.iconify.design/ph/dots-three-outline-vertical-thin.svg?height=32&color=%23888888)
+  /// ![dots-three-outline-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-three-outline-vertical.png)
   static const IconData dotsThreeOutlineVertical = IconData(
     0xe206,
     fontFamily: 'PhosphorThin',
@@ -6223,7 +6223,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dotsThreeVertical` no estilo Thin.
   ///
-  /// ![dots-three-vertical](https://api.iconify.design/ph/dots-three-vertical-thin.svg?height=32&color=%23888888)
+  /// ![dots-three-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dots-three-vertical.png)
   static const IconData dotsThreeVertical = IconData(
     0xe208,
     fontFamily: 'PhosphorThin',
@@ -6235,7 +6235,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `download` no estilo Thin.
   ///
-  /// ![download](https://api.iconify.design/ph/download-thin.svg?height=32&color=%23888888)
+  /// ![download](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/download.png)
   static const IconData download = IconData(
     0xe20a,
     fontFamily: 'PhosphorThin',
@@ -6247,7 +6247,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `downloadSimple` no estilo Thin.
   ///
-  /// ![download-simple](https://api.iconify.design/ph/download-simple-thin.svg?height=32&color=%23888888)
+  /// ![download-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/download-simple.png)
   static const IconData downloadSimple = IconData(
     0xe20c,
     fontFamily: 'PhosphorThin',
@@ -6259,7 +6259,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dress` no estilo Thin.
   ///
-  /// ![dress](https://api.iconify.design/ph/dress-thin.svg?height=32&color=%23888888)
+  /// ![dress](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dress.png)
   static const IconData dress = IconData(
     0xea7e,
     fontFamily: 'PhosphorThin',
@@ -6271,7 +6271,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dresser` no estilo Thin.
   ///
-  /// ![dresser](https://api.iconify.design/ph/dresser-thin.svg?height=32&color=%23888888)
+  /// ![dresser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dresser.png)
   static const IconData dresser = IconData(
     0xe94e,
     fontFamily: 'PhosphorThin',
@@ -6283,7 +6283,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dribbbleLogo` no estilo Thin.
   ///
-  /// ![dribbble-logo](https://api.iconify.design/ph/dribbble-logo-thin.svg?height=32&color=%23888888)
+  /// ![dribbble-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dribbble-logo.png)
   static const IconData dribbbleLogo = IconData(
     0xe20e,
     fontFamily: 'PhosphorThin',
@@ -6295,7 +6295,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `drone` no estilo Thin.
   ///
-  /// ![drone](https://api.iconify.design/ph/drone-thin.svg?height=32&color=%23888888)
+  /// ![drone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/drone.png)
   static const IconData drone = IconData(
     0xed74,
     fontFamily: 'PhosphorThin',
@@ -6307,7 +6307,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `drop` no estilo Thin.
   ///
-  /// ![drop](https://api.iconify.design/ph/drop-thin.svg?height=32&color=%23888888)
+  /// ![drop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/drop.png)
   static const IconData drop = IconData(
     0xe210,
     fontFamily: 'PhosphorThin',
@@ -6319,7 +6319,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dropHalf` no estilo Thin.
   ///
-  /// ![drop-half](https://api.iconify.design/ph/drop-half-thin.svg?height=32&color=%23888888)
+  /// ![drop-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/drop-half.png)
   static const IconData dropHalf = IconData(
     0xe566,
     fontFamily: 'PhosphorThin',
@@ -6331,7 +6331,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dropHalfBottom` no estilo Thin.
   ///
-  /// ![drop-half-bottom](https://api.iconify.design/ph/drop-half-bottom-thin.svg?height=32&color=%23888888)
+  /// ![drop-half-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/drop-half-bottom.png)
   static const IconData dropHalfBottom = IconData(
     0xeb40,
     fontFamily: 'PhosphorThin',
@@ -6343,7 +6343,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dropSimple` no estilo Thin.
   ///
-  /// ![drop-simple](https://api.iconify.design/ph/drop-simple-thin.svg?height=32&color=%23888888)
+  /// ![drop-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/drop-simple.png)
   static const IconData dropSimple = IconData(
     0xee32,
     fontFamily: 'PhosphorThin',
@@ -6355,7 +6355,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dropSlash` no estilo Thin.
   ///
-  /// ![drop-slash](https://api.iconify.design/ph/drop-slash-thin.svg?height=32&color=%23888888)
+  /// ![drop-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/drop-slash.png)
   static const IconData dropSlash = IconData(
     0xe954,
     fontFamily: 'PhosphorThin',
@@ -6367,7 +6367,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `dropboxLogo` no estilo Thin.
   ///
-  /// ![dropbox-logo](https://api.iconify.design/ph/dropbox-logo-thin.svg?height=32&color=%23888888)
+  /// ![dropbox-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/dropbox-logo.png)
   static const IconData dropboxLogo = IconData(
     0xe7d0,
     fontFamily: 'PhosphorThin',
@@ -6379,7 +6379,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ear` no estilo Thin.
   ///
-  /// ![ear](https://api.iconify.design/ph/ear-thin.svg?height=32&color=%23888888)
+  /// ![ear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ear.png)
   static const IconData ear = IconData(
     0xe70c,
     fontFamily: 'PhosphorThin',
@@ -6391,7 +6391,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `earSlash` no estilo Thin.
   ///
-  /// ![ear-slash](https://api.iconify.design/ph/ear-slash-thin.svg?height=32&color=%23888888)
+  /// ![ear-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ear-slash.png)
   static const IconData earSlash = IconData(
     0xe70e,
     fontFamily: 'PhosphorThin',
@@ -6403,7 +6403,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `egg` no estilo Thin.
   ///
-  /// ![egg](https://api.iconify.design/ph/egg-thin.svg?height=32&color=%23888888)
+  /// ![egg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/egg.png)
   static const IconData egg = IconData(
     0xe812,
     fontFamily: 'PhosphorThin',
@@ -6415,7 +6415,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eggCrack` no estilo Thin.
   ///
-  /// ![egg-crack](https://api.iconify.design/ph/egg-crack-thin.svg?height=32&color=%23888888)
+  /// ![egg-crack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/egg-crack.png)
   static const IconData eggCrack = IconData(
     0xeb64,
     fontFamily: 'PhosphorThin',
@@ -6427,7 +6427,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eject` no estilo Thin.
   ///
-  /// ![eject](https://api.iconify.design/ph/eject-thin.svg?height=32&color=%23888888)
+  /// ![eject](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eject.png)
   static const IconData eject = IconData(
     0xe212,
     fontFamily: 'PhosphorThin',
@@ -6439,7 +6439,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ejectSimple` no estilo Thin.
   ///
-  /// ![eject-simple](https://api.iconify.design/ph/eject-simple-thin.svg?height=32&color=%23888888)
+  /// ![eject-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eject-simple.png)
   static const IconData ejectSimple = IconData(
     0xe6ae,
     fontFamily: 'PhosphorThin',
@@ -6451,7 +6451,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `elevator` no estilo Thin.
   ///
-  /// ![elevator](https://api.iconify.design/ph/elevator-thin.svg?height=32&color=%23888888)
+  /// ![elevator](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/elevator.png)
   static const IconData elevator = IconData(
     0xecc0,
     fontFamily: 'PhosphorThin',
@@ -6463,7 +6463,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `empty` no estilo Thin.
   ///
-  /// ![empty](https://api.iconify.design/ph/empty-thin.svg?height=32&color=%23888888)
+  /// ![empty](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/empty.png)
   static const IconData empty = IconData(
     0xedbc,
     fontFamily: 'PhosphorThin',
@@ -6475,7 +6475,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `engine` no estilo Thin.
   ///
-  /// ![engine](https://api.iconify.design/ph/engine-thin.svg?height=32&color=%23888888)
+  /// ![engine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/engine.png)
   static const IconData engine = IconData(
     0xea80,
     fontFamily: 'PhosphorThin',
@@ -6487,7 +6487,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `envelope` no estilo Thin.
   ///
-  /// ![envelope](https://api.iconify.design/ph/envelope-thin.svg?height=32&color=%23888888)
+  /// ![envelope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/envelope.png)
   static const IconData envelope = IconData(
     0xe214,
     fontFamily: 'PhosphorThin',
@@ -6499,7 +6499,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `envelopeOpen` no estilo Thin.
   ///
-  /// ![envelope-open](https://api.iconify.design/ph/envelope-open-thin.svg?height=32&color=%23888888)
+  /// ![envelope-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/envelope-open.png)
   static const IconData envelopeOpen = IconData(
     0xe216,
     fontFamily: 'PhosphorThin',
@@ -6511,7 +6511,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `envelopeSimple` no estilo Thin.
   ///
-  /// ![envelope-simple](https://api.iconify.design/ph/envelope-simple-thin.svg?height=32&color=%23888888)
+  /// ![envelope-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/envelope-simple.png)
   static const IconData envelopeSimple = IconData(
     0xe218,
     fontFamily: 'PhosphorThin',
@@ -6523,7 +6523,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `envelopeSimpleOpen` no estilo Thin.
   ///
-  /// ![envelope-simple-open](https://api.iconify.design/ph/envelope-simple-open-thin.svg?height=32&color=%23888888)
+  /// ![envelope-simple-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/envelope-simple-open.png)
   static const IconData envelopeSimpleOpen = IconData(
     0xe21a,
     fontFamily: 'PhosphorThin',
@@ -6535,7 +6535,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `equalizer` no estilo Thin.
   ///
-  /// ![equalizer](https://api.iconify.design/ph/equalizer-thin.svg?height=32&color=%23888888)
+  /// ![equalizer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/equalizer.png)
   static const IconData equalizer = IconData(
     0xebbc,
     fontFamily: 'PhosphorThin',
@@ -6547,7 +6547,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `equals` no estilo Thin.
   ///
-  /// ![equals](https://api.iconify.design/ph/equals-thin.svg?height=32&color=%23888888)
+  /// ![equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/equals.png)
   static const IconData equals = IconData(
     0xe21c,
     fontFamily: 'PhosphorThin',
@@ -6559,7 +6559,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eraser` no estilo Thin.
   ///
-  /// ![eraser](https://api.iconify.design/ph/eraser-thin.svg?height=32&color=%23888888)
+  /// ![eraser](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eraser.png)
   static const IconData eraser = IconData(
     0xe21e,
     fontFamily: 'PhosphorThin',
@@ -6571,7 +6571,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `escalatorDown` no estilo Thin.
   ///
-  /// ![escalator-down](https://api.iconify.design/ph/escalator-down-thin.svg?height=32&color=%23888888)
+  /// ![escalator-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/escalator-down.png)
   static const IconData escalatorDown = IconData(
     0xecba,
     fontFamily: 'PhosphorThin',
@@ -6583,7 +6583,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `escalatorUp` no estilo Thin.
   ///
-  /// ![escalator-up](https://api.iconify.design/ph/escalator-up-thin.svg?height=32&color=%23888888)
+  /// ![escalator-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/escalator-up.png)
   static const IconData escalatorUp = IconData(
     0xecbc,
     fontFamily: 'PhosphorThin',
@@ -6595,7 +6595,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `exam` no estilo Thin.
   ///
-  /// ![exam](https://api.iconify.design/ph/exam-thin.svg?height=32&color=%23888888)
+  /// ![exam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/exam.png)
   static const IconData exam = IconData(
     0xe742,
     fontFamily: 'PhosphorThin',
@@ -6607,7 +6607,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `exclamationMark` no estilo Thin.
   ///
-  /// ![exclamation-mark](https://api.iconify.design/ph/exclamation-mark-thin.svg?height=32&color=%23888888)
+  /// ![exclamation-mark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/exclamation-mark.png)
   static const IconData exclamationMark = IconData(
     0xee44,
     fontFamily: 'PhosphorThin',
@@ -6619,7 +6619,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `exclude` no estilo Thin.
   ///
-  /// ![exclude](https://api.iconify.design/ph/exclude-thin.svg?height=32&color=%23888888)
+  /// ![exclude](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/exclude.png)
   static const IconData exclude = IconData(
     0xe882,
     fontFamily: 'PhosphorThin',
@@ -6631,7 +6631,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `excludeSquare` no estilo Thin.
   ///
-  /// ![exclude-square](https://api.iconify.design/ph/exclude-square-thin.svg?height=32&color=%23888888)
+  /// ![exclude-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/exclude-square.png)
   static const IconData excludeSquare = IconData(
     0xe880,
     fontFamily: 'PhosphorThin',
@@ -6643,7 +6643,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `export` no estilo Thin.
   ///
-  /// ![export](https://api.iconify.design/ph/export-thin.svg?height=32&color=%23888888)
+  /// ![export](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/export.png)
   static const IconData export = IconData(
     0xeaf0,
     fontFamily: 'PhosphorThin',
@@ -6655,7 +6655,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eye` no estilo Thin.
   ///
-  /// ![eye](https://api.iconify.design/ph/eye-thin.svg?height=32&color=%23888888)
+  /// ![eye](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eye.png)
   static const IconData eye = IconData(
     0xe220,
     fontFamily: 'PhosphorThin',
@@ -6667,7 +6667,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eyeClosed` no estilo Thin.
   ///
-  /// ![eye-closed](https://api.iconify.design/ph/eye-closed-thin.svg?height=32&color=%23888888)
+  /// ![eye-closed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eye-closed.png)
   static const IconData eyeClosed = IconData(
     0xe222,
     fontFamily: 'PhosphorThin',
@@ -6679,7 +6679,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eyeSlash` no estilo Thin.
   ///
-  /// ![eye-slash](https://api.iconify.design/ph/eye-slash-thin.svg?height=32&color=%23888888)
+  /// ![eye-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eye-slash.png)
   static const IconData eyeSlash = IconData(
     0xe224,
     fontFamily: 'PhosphorThin',
@@ -6691,7 +6691,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eyedropper` no estilo Thin.
   ///
-  /// ![eyedropper](https://api.iconify.design/ph/eyedropper-thin.svg?height=32&color=%23888888)
+  /// ![eyedropper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eyedropper.png)
   static const IconData eyedropper = IconData(
     0xe568,
     fontFamily: 'PhosphorThin',
@@ -6703,7 +6703,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eyedropperSample` no estilo Thin.
   ///
-  /// ![eyedropper-sample](https://api.iconify.design/ph/eyedropper-sample-thin.svg?height=32&color=%23888888)
+  /// ![eyedropper-sample](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eyedropper-sample.png)
   static const IconData eyedropperSample = IconData(
     0xeac4,
     fontFamily: 'PhosphorThin',
@@ -6715,7 +6715,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eyeglasses` no estilo Thin.
   ///
-  /// ![eyeglasses](https://api.iconify.design/ph/eyeglasses-thin.svg?height=32&color=%23888888)
+  /// ![eyeglasses](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eyeglasses.png)
   static const IconData eyeglasses = IconData(
     0xe7ba,
     fontFamily: 'PhosphorThin',
@@ -6727,7 +6727,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `eyes` no estilo Thin.
   ///
-  /// ![eyes](https://api.iconify.design/ph/eyes-thin.svg?height=32&color=%23888888)
+  /// ![eyes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/eyes.png)
   static const IconData eyes = IconData(
     0xee5c,
     fontFamily: 'PhosphorThin',
@@ -6739,7 +6739,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `faceMask` no estilo Thin.
   ///
-  /// ![face-mask](https://api.iconify.design/ph/face-mask-thin.svg?height=32&color=%23888888)
+  /// ![face-mask](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/face-mask.png)
   static const IconData faceMask = IconData(
     0xe56a,
     fontFamily: 'PhosphorThin',
@@ -6751,7 +6751,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `facebookLogo` no estilo Thin.
   ///
-  /// ![facebook-logo](https://api.iconify.design/ph/facebook-logo-thin.svg?height=32&color=%23888888)
+  /// ![facebook-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/facebook-logo.png)
   static const IconData facebookLogo = IconData(
     0xe226,
     fontFamily: 'PhosphorThin',
@@ -6763,7 +6763,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `factory` no estilo Thin.
   ///
-  /// ![factory](https://api.iconify.design/ph/factory-thin.svg?height=32&color=%23888888)
+  /// ![factory](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/factory.png)
   static const IconData factory = IconData(
     0xe760,
     fontFamily: 'PhosphorThin',
@@ -6775,7 +6775,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `faders` no estilo Thin.
   ///
-  /// ![faders](https://api.iconify.design/ph/faders-thin.svg?height=32&color=%23888888)
+  /// ![faders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/faders.png)
   static const IconData faders = IconData(
     0xe228,
     fontFamily: 'PhosphorThin',
@@ -6787,7 +6787,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fadersHorizontal` no estilo Thin.
   ///
-  /// ![faders-horizontal](https://api.iconify.design/ph/faders-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![faders-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/faders-horizontal.png)
   static const IconData fadersHorizontal = IconData(
     0xe22a,
     fontFamily: 'PhosphorThin',
@@ -6799,7 +6799,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `falloutShelter` no estilo Thin.
   ///
-  /// ![fallout-shelter](https://api.iconify.design/ph/fallout-shelter-thin.svg?height=32&color=%23888888)
+  /// ![fallout-shelter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fallout-shelter.png)
   static const IconData falloutShelter = IconData(
     0xe9de,
     fontFamily: 'PhosphorThin',
@@ -6811,7 +6811,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fan` no estilo Thin.
   ///
-  /// ![fan](https://api.iconify.design/ph/fan-thin.svg?height=32&color=%23888888)
+  /// ![fan](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fan.png)
   static const IconData fan = IconData(
     0xe9f2,
     fontFamily: 'PhosphorThin',
@@ -6823,7 +6823,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `farm` no estilo Thin.
   ///
-  /// ![farm](https://api.iconify.design/ph/farm-thin.svg?height=32&color=%23888888)
+  /// ![farm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/farm.png)
   static const IconData farm = IconData(
     0xec70,
     fontFamily: 'PhosphorThin',
@@ -6835,7 +6835,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fastForward` no estilo Thin.
   ///
-  /// ![fast-forward](https://api.iconify.design/ph/fast-forward-thin.svg?height=32&color=%23888888)
+  /// ![fast-forward](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fast-forward.png)
   static const IconData fastForward = IconData(
     0xe6a6,
     fontFamily: 'PhosphorThin',
@@ -6847,7 +6847,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fastForwardCircle` no estilo Thin.
   ///
-  /// ![fast-forward-circle](https://api.iconify.design/ph/fast-forward-circle-thin.svg?height=32&color=%23888888)
+  /// ![fast-forward-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fast-forward-circle.png)
   static const IconData fastForwardCircle = IconData(
     0xe22c,
     fontFamily: 'PhosphorThin',
@@ -6859,7 +6859,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `feather` no estilo Thin.
   ///
-  /// ![feather](https://api.iconify.design/ph/feather-thin.svg?height=32&color=%23888888)
+  /// ![feather](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/feather.png)
   static const IconData feather = IconData(
     0xe9c0,
     fontFamily: 'PhosphorThin',
@@ -6871,7 +6871,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fediverseLogo` no estilo Thin.
   ///
-  /// ![fediverse-logo](https://api.iconify.design/ph/fediverse-logo-thin.svg?height=32&color=%23888888)
+  /// ![fediverse-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fediverse-logo.png)
   static const IconData fediverseLogo = IconData(
     0xed66,
     fontFamily: 'PhosphorThin',
@@ -6883,7 +6883,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `figmaLogo` no estilo Thin.
   ///
-  /// ![figma-logo](https://api.iconify.design/ph/figma-logo-thin.svg?height=32&color=%23888888)
+  /// ![figma-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/figma-logo.png)
   static const IconData figmaLogo = IconData(
     0xe22e,
     fontFamily: 'PhosphorThin',
@@ -6895,7 +6895,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `file` no estilo Thin.
   ///
-  /// ![file](https://api.iconify.design/ph/file-thin.svg?height=32&color=%23888888)
+  /// ![file](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file.png)
   static const IconData file = IconData(
     0xe230,
     fontFamily: 'PhosphorThin',
@@ -6907,7 +6907,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileArchive` no estilo Thin.
   ///
-  /// ![file-archive](https://api.iconify.design/ph/file-archive-thin.svg?height=32&color=%23888888)
+  /// ![file-archive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-archive.png)
   static const IconData fileArchive = IconData(
     0xeb2a,
     fontFamily: 'PhosphorThin',
@@ -6919,7 +6919,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileArrowDown` no estilo Thin.
   ///
-  /// ![file-arrow-down](https://api.iconify.design/ph/file-arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![file-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-arrow-down.png)
   static const IconData fileArrowDown = IconData(
     0xe232,
     fontFamily: 'PhosphorThin',
@@ -6931,7 +6931,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileArrowUp` no estilo Thin.
   ///
-  /// ![file-arrow-up](https://api.iconify.design/ph/file-arrow-up-thin.svg?height=32&color=%23888888)
+  /// ![file-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-arrow-up.png)
   static const IconData fileArrowUp = IconData(
     0xe61e,
     fontFamily: 'PhosphorThin',
@@ -6943,7 +6943,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileAudio` no estilo Thin.
   ///
-  /// ![file-audio](https://api.iconify.design/ph/file-audio-thin.svg?height=32&color=%23888888)
+  /// ![file-audio](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-audio.png)
   static const IconData fileAudio = IconData(
     0xea20,
     fontFamily: 'PhosphorThin',
@@ -6955,7 +6955,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileC` no estilo Thin.
   ///
-  /// ![file-c](https://api.iconify.design/ph/file-c-thin.svg?height=32&color=%23888888)
+  /// ![file-c](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-c.png)
   static const IconData fileC = IconData(
     0xeb32,
     fontFamily: 'PhosphorThin',
@@ -6967,7 +6967,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileCSharp` no estilo Thin.
   ///
-  /// ![file-c-sharp](https://api.iconify.design/ph/file-c-sharp-thin.svg?height=32&color=%23888888)
+  /// ![file-c-sharp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-c-sharp.png)
   static const IconData fileCSharp = IconData(
     0xeb30,
     fontFamily: 'PhosphorThin',
@@ -6979,7 +6979,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileCloud` no estilo Thin.
   ///
-  /// ![file-cloud](https://api.iconify.design/ph/file-cloud-thin.svg?height=32&color=%23888888)
+  /// ![file-cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-cloud.png)
   static const IconData fileCloud = IconData(
     0xe95e,
     fontFamily: 'PhosphorThin',
@@ -6991,7 +6991,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileCode` no estilo Thin.
   ///
-  /// ![file-code](https://api.iconify.design/ph/file-code-thin.svg?height=32&color=%23888888)
+  /// ![file-code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-code.png)
   static const IconData fileCode = IconData(
     0xe914,
     fontFamily: 'PhosphorThin',
@@ -7003,7 +7003,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileCpp` no estilo Thin.
   ///
-  /// ![file-cpp](https://api.iconify.design/ph/file-cpp-thin.svg?height=32&color=%23888888)
+  /// ![file-cpp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-cpp.png)
   static const IconData fileCpp = IconData(
     0xeb2e,
     fontFamily: 'PhosphorThin',
@@ -7015,7 +7015,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileCss` no estilo Thin.
   ///
-  /// ![file-css](https://api.iconify.design/ph/file-css-thin.svg?height=32&color=%23888888)
+  /// ![file-css](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-css.png)
   static const IconData fileCss = IconData(
     0xeb34,
     fontFamily: 'PhosphorThin',
@@ -7027,7 +7027,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileCsv` no estilo Thin.
   ///
-  /// ![file-csv](https://api.iconify.design/ph/file-csv-thin.svg?height=32&color=%23888888)
+  /// ![file-csv](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-csv.png)
   static const IconData fileCsv = IconData(
     0xeb1c,
     fontFamily: 'PhosphorThin',
@@ -7039,7 +7039,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileDashed` no estilo Thin.
   ///
-  /// ![file-dashed](https://api.iconify.design/ph/file-dashed-thin.svg?height=32&color=%23888888)
+  /// ![file-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-dashed.png)
   static const IconData fileDashed = IconData(
     0xe704,
     fontFamily: 'PhosphorThin',
@@ -7051,7 +7051,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileDoc` no estilo Thin.
   ///
-  /// ![file-doc](https://api.iconify.design/ph/file-doc-thin.svg?height=32&color=%23888888)
+  /// ![file-doc](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-doc.png)
   static const IconData fileDoc = IconData(
     0xeb1e,
     fontFamily: 'PhosphorThin',
@@ -7063,7 +7063,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileDotted` no estilo Thin.
   ///
-  /// ![file-dotted](https://api.iconify.design/ph/file-dashed-thin.svg?height=32&color=%23888888)
+  /// ![file-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-dotted.png)
   static const IconData fileDotted = IconData(
     0xe704,
     fontFamily: 'PhosphorThin',
@@ -7075,7 +7075,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileHtml` no estilo Thin.
   ///
-  /// ![file-html](https://api.iconify.design/ph/file-html-thin.svg?height=32&color=%23888888)
+  /// ![file-html](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-html.png)
   static const IconData fileHtml = IconData(
     0xeb38,
     fontFamily: 'PhosphorThin',
@@ -7087,7 +7087,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileImage` no estilo Thin.
   ///
-  /// ![file-image](https://api.iconify.design/ph/file-image-thin.svg?height=32&color=%23888888)
+  /// ![file-image](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-image.png)
   static const IconData fileImage = IconData(
     0xea24,
     fontFamily: 'PhosphorThin',
@@ -7099,7 +7099,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileIni` no estilo Thin.
   ///
-  /// ![file-ini](https://api.iconify.design/ph/file-ini-thin.svg?height=32&color=%23888888)
+  /// ![file-ini](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-ini.png)
   static const IconData fileIni = IconData(
     0xeb33,
     fontFamily: 'PhosphorThin',
@@ -7111,7 +7111,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileJpg` no estilo Thin.
   ///
-  /// ![file-jpg](https://api.iconify.design/ph/file-jpg-thin.svg?height=32&color=%23888888)
+  /// ![file-jpg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-jpg.png)
   static const IconData fileJpg = IconData(
     0xeb1a,
     fontFamily: 'PhosphorThin',
@@ -7123,7 +7123,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileJs` no estilo Thin.
   ///
-  /// ![file-js](https://api.iconify.design/ph/file-js-thin.svg?height=32&color=%23888888)
+  /// ![file-js](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-js.png)
   static const IconData fileJs = IconData(
     0xeb24,
     fontFamily: 'PhosphorThin',
@@ -7135,7 +7135,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileJsx` no estilo Thin.
   ///
-  /// ![file-jsx](https://api.iconify.design/ph/file-jsx-thin.svg?height=32&color=%23888888)
+  /// ![file-jsx](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-jsx.png)
   static const IconData fileJsx = IconData(
     0xeb3a,
     fontFamily: 'PhosphorThin',
@@ -7147,7 +7147,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileLock` no estilo Thin.
   ///
-  /// ![file-lock](https://api.iconify.design/ph/file-lock-thin.svg?height=32&color=%23888888)
+  /// ![file-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-lock.png)
   static const IconData fileLock = IconData(
     0xe95c,
     fontFamily: 'PhosphorThin',
@@ -7159,7 +7159,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileMagnifyingGlass` no estilo Thin.
   ///
-  /// ![file-magnifying-glass](https://api.iconify.design/ph/file-magnifying-glass-thin.svg?height=32&color=%23888888)
+  /// ![file-magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-magnifying-glass.png)
   static const IconData fileMagnifyingGlass = IconData(
     0xe238,
     fontFamily: 'PhosphorThin',
@@ -7171,7 +7171,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileMd` no estilo Thin.
   ///
-  /// ![file-md](https://api.iconify.design/ph/file-md-thin.svg?height=32&color=%23888888)
+  /// ![file-md](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-md.png)
   static const IconData fileMd = IconData(
     0xed50,
     fontFamily: 'PhosphorThin',
@@ -7183,7 +7183,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileMinus` no estilo Thin.
   ///
-  /// ![file-minus](https://api.iconify.design/ph/file-minus-thin.svg?height=32&color=%23888888)
+  /// ![file-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-minus.png)
   static const IconData fileMinus = IconData(
     0xe234,
     fontFamily: 'PhosphorThin',
@@ -7195,7 +7195,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filePdf` no estilo Thin.
   ///
-  /// ![file-pdf](https://api.iconify.design/ph/file-pdf-thin.svg?height=32&color=%23888888)
+  /// ![file-pdf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-pdf.png)
   static const IconData filePdf = IconData(
     0xe702,
     fontFamily: 'PhosphorThin',
@@ -7207,7 +7207,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filePlus` no estilo Thin.
   ///
-  /// ![file-plus](https://api.iconify.design/ph/file-plus-thin.svg?height=32&color=%23888888)
+  /// ![file-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-plus.png)
   static const IconData filePlus = IconData(
     0xe236,
     fontFamily: 'PhosphorThin',
@@ -7219,7 +7219,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filePng` no estilo Thin.
   ///
-  /// ![file-png](https://api.iconify.design/ph/file-png-thin.svg?height=32&color=%23888888)
+  /// ![file-png](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-png.png)
   static const IconData filePng = IconData(
     0xeb18,
     fontFamily: 'PhosphorThin',
@@ -7231,7 +7231,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filePpt` no estilo Thin.
   ///
-  /// ![file-ppt](https://api.iconify.design/ph/file-ppt-thin.svg?height=32&color=%23888888)
+  /// ![file-ppt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-ppt.png)
   static const IconData filePpt = IconData(
     0xeb20,
     fontFamily: 'PhosphorThin',
@@ -7243,7 +7243,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filePy` no estilo Thin.
   ///
-  /// ![file-py](https://api.iconify.design/ph/file-py-thin.svg?height=32&color=%23888888)
+  /// ![file-py](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-py.png)
   static const IconData filePy = IconData(
     0xeb2c,
     fontFamily: 'PhosphorThin',
@@ -7255,7 +7255,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileRs` no estilo Thin.
   ///
-  /// ![file-rs](https://api.iconify.design/ph/file-rs-thin.svg?height=32&color=%23888888)
+  /// ![file-rs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-rs.png)
   static const IconData fileRs = IconData(
     0xeb28,
     fontFamily: 'PhosphorThin',
@@ -7267,7 +7267,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileSearch` no estilo Thin.
   ///
-  /// ![file-search](https://api.iconify.design/ph/file-magnifying-glass-thin.svg?height=32&color=%23888888)
+  /// ![file-search](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-search.png)
   static const IconData fileSearch = IconData(
     0xe238,
     fontFamily: 'PhosphorThin',
@@ -7279,7 +7279,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileSql` no estilo Thin.
   ///
-  /// ![file-sql](https://api.iconify.design/ph/file-sql-thin.svg?height=32&color=%23888888)
+  /// ![file-sql](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-sql.png)
   static const IconData fileSql = IconData(
     0xed4e,
     fontFamily: 'PhosphorThin',
@@ -7291,7 +7291,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileSvg` no estilo Thin.
   ///
-  /// ![file-svg](https://api.iconify.design/ph/file-svg-thin.svg?height=32&color=%23888888)
+  /// ![file-svg](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-svg.png)
   static const IconData fileSvg = IconData(
     0xed08,
     fontFamily: 'PhosphorThin',
@@ -7303,7 +7303,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileText` no estilo Thin.
   ///
-  /// ![file-text](https://api.iconify.design/ph/file-text-thin.svg?height=32&color=%23888888)
+  /// ![file-text](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-text.png)
   static const IconData fileText = IconData(
     0xe23a,
     fontFamily: 'PhosphorThin',
@@ -7315,7 +7315,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileTs` no estilo Thin.
   ///
-  /// ![file-ts](https://api.iconify.design/ph/file-ts-thin.svg?height=32&color=%23888888)
+  /// ![file-ts](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-ts.png)
   static const IconData fileTs = IconData(
     0xeb26,
     fontFamily: 'PhosphorThin',
@@ -7327,7 +7327,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileTsx` no estilo Thin.
   ///
-  /// ![file-tsx](https://api.iconify.design/ph/file-tsx-thin.svg?height=32&color=%23888888)
+  /// ![file-tsx](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-tsx.png)
   static const IconData fileTsx = IconData(
     0xeb3c,
     fontFamily: 'PhosphorThin',
@@ -7339,7 +7339,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileTxt` no estilo Thin.
   ///
-  /// ![file-txt](https://api.iconify.design/ph/file-txt-thin.svg?height=32&color=%23888888)
+  /// ![file-txt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-txt.png)
   static const IconData fileTxt = IconData(
     0xeb35,
     fontFamily: 'PhosphorThin',
@@ -7351,7 +7351,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileVideo` no estilo Thin.
   ///
-  /// ![file-video](https://api.iconify.design/ph/file-video-thin.svg?height=32&color=%23888888)
+  /// ![file-video](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-video.png)
   static const IconData fileVideo = IconData(
     0xea22,
     fontFamily: 'PhosphorThin',
@@ -7363,7 +7363,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileVue` no estilo Thin.
   ///
-  /// ![file-vue](https://api.iconify.design/ph/file-vue-thin.svg?height=32&color=%23888888)
+  /// ![file-vue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-vue.png)
   static const IconData fileVue = IconData(
     0xeb3e,
     fontFamily: 'PhosphorThin',
@@ -7375,7 +7375,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileX` no estilo Thin.
   ///
-  /// ![file-x](https://api.iconify.design/ph/file-x-thin.svg?height=32&color=%23888888)
+  /// ![file-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-x.png)
   static const IconData fileX = IconData(
     0xe23c,
     fontFamily: 'PhosphorThin',
@@ -7387,7 +7387,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileXls` no estilo Thin.
   ///
-  /// ![file-xls](https://api.iconify.design/ph/file-xls-thin.svg?height=32&color=%23888888)
+  /// ![file-xls](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-xls.png)
   static const IconData fileXls = IconData(
     0xeb22,
     fontFamily: 'PhosphorThin',
@@ -7399,7 +7399,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fileZip` no estilo Thin.
   ///
-  /// ![file-zip](https://api.iconify.design/ph/file-zip-thin.svg?height=32&color=%23888888)
+  /// ![file-zip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/file-zip.png)
   static const IconData fileZip = IconData(
     0xe958,
     fontFamily: 'PhosphorThin',
@@ -7411,7 +7411,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `files` no estilo Thin.
   ///
-  /// ![files](https://api.iconify.design/ph/files-thin.svg?height=32&color=%23888888)
+  /// ![files](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/files.png)
   static const IconData files = IconData(
     0xe710,
     fontFamily: 'PhosphorThin',
@@ -7423,7 +7423,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filmReel` no estilo Thin.
   ///
-  /// ![film-reel](https://api.iconify.design/ph/film-reel-thin.svg?height=32&color=%23888888)
+  /// ![film-reel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/film-reel.png)
   static const IconData filmReel = IconData(
     0xe8c0,
     fontFamily: 'PhosphorThin',
@@ -7435,7 +7435,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filmScript` no estilo Thin.
   ///
-  /// ![film-script](https://api.iconify.design/ph/film-script-thin.svg?height=32&color=%23888888)
+  /// ![film-script](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/film-script.png)
   static const IconData filmScript = IconData(
     0xeb50,
     fontFamily: 'PhosphorThin',
@@ -7447,7 +7447,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filmSlate` no estilo Thin.
   ///
-  /// ![film-slate](https://api.iconify.design/ph/film-slate-thin.svg?height=32&color=%23888888)
+  /// ![film-slate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/film-slate.png)
   static const IconData filmSlate = IconData(
     0xe8c2,
     fontFamily: 'PhosphorThin',
@@ -7459,7 +7459,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `filmStrip` no estilo Thin.
   ///
-  /// ![film-strip](https://api.iconify.design/ph/film-strip-thin.svg?height=32&color=%23888888)
+  /// ![film-strip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/film-strip.png)
   static const IconData filmStrip = IconData(
     0xe792,
     fontFamily: 'PhosphorThin',
@@ -7471,7 +7471,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fingerprint` no estilo Thin.
   ///
-  /// ![fingerprint](https://api.iconify.design/ph/fingerprint-thin.svg?height=32&color=%23888888)
+  /// ![fingerprint](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fingerprint.png)
   static const IconData fingerprint = IconData(
     0xe23e,
     fontFamily: 'PhosphorThin',
@@ -7483,7 +7483,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fingerprintSimple` no estilo Thin.
   ///
-  /// ![fingerprint-simple](https://api.iconify.design/ph/fingerprint-simple-thin.svg?height=32&color=%23888888)
+  /// ![fingerprint-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fingerprint-simple.png)
   static const IconData fingerprintSimple = IconData(
     0xe240,
     fontFamily: 'PhosphorThin',
@@ -7495,7 +7495,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `finnTheHuman` no estilo Thin.
   ///
-  /// ![finn-the-human](https://api.iconify.design/ph/finn-the-human-thin.svg?height=32&color=%23888888)
+  /// ![finn-the-human](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/finn-the-human.png)
   static const IconData finnTheHuman = IconData(
     0xe56c,
     fontFamily: 'PhosphorThin',
@@ -7507,7 +7507,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fire` no estilo Thin.
   ///
-  /// ![fire](https://api.iconify.design/ph/fire-thin.svg?height=32&color=%23888888)
+  /// ![fire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fire.png)
   static const IconData fire = IconData(
     0xe242,
     fontFamily: 'PhosphorThin',
@@ -7519,7 +7519,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fireExtinguisher` no estilo Thin.
   ///
-  /// ![fire-extinguisher](https://api.iconify.design/ph/fire-extinguisher-thin.svg?height=32&color=%23888888)
+  /// ![fire-extinguisher](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fire-extinguisher.png)
   static const IconData fireExtinguisher = IconData(
     0xe9e8,
     fontFamily: 'PhosphorThin',
@@ -7531,7 +7531,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fireSimple` no estilo Thin.
   ///
-  /// ![fire-simple](https://api.iconify.design/ph/fire-simple-thin.svg?height=32&color=%23888888)
+  /// ![fire-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fire-simple.png)
   static const IconData fireSimple = IconData(
     0xe620,
     fontFamily: 'PhosphorThin',
@@ -7543,7 +7543,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fireTruck` no estilo Thin.
   ///
-  /// ![fire-truck](https://api.iconify.design/ph/fire-truck-thin.svg?height=32&color=%23888888)
+  /// ![fire-truck](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fire-truck.png)
   static const IconData fireTruck = IconData(
     0xe574,
     fontFamily: 'PhosphorThin',
@@ -7555,7 +7555,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `firstAid` no estilo Thin.
   ///
-  /// ![first-aid](https://api.iconify.design/ph/first-aid-thin.svg?height=32&color=%23888888)
+  /// ![first-aid](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/first-aid.png)
   static const IconData firstAid = IconData(
     0xe56e,
     fontFamily: 'PhosphorThin',
@@ -7567,7 +7567,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `firstAidKit` no estilo Thin.
   ///
-  /// ![first-aid-kit](https://api.iconify.design/ph/first-aid-kit-thin.svg?height=32&color=%23888888)
+  /// ![first-aid-kit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/first-aid-kit.png)
   static const IconData firstAidKit = IconData(
     0xe570,
     fontFamily: 'PhosphorThin',
@@ -7579,7 +7579,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fish` no estilo Thin.
   ///
-  /// ![fish](https://api.iconify.design/ph/fish-thin.svg?height=32&color=%23888888)
+  /// ![fish](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fish.png)
   static const IconData fish = IconData(
     0xe728,
     fontFamily: 'PhosphorThin',
@@ -7591,7 +7591,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fishSimple` no estilo Thin.
   ///
-  /// ![fish-simple](https://api.iconify.design/ph/fish-simple-thin.svg?height=32&color=%23888888)
+  /// ![fish-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fish-simple.png)
   static const IconData fishSimple = IconData(
     0xe72a,
     fontFamily: 'PhosphorThin',
@@ -7603,7 +7603,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flag` no estilo Thin.
   ///
-  /// ![flag](https://api.iconify.design/ph/flag-thin.svg?height=32&color=%23888888)
+  /// ![flag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flag.png)
   static const IconData flag = IconData(
     0xe244,
     fontFamily: 'PhosphorThin',
@@ -7615,7 +7615,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flagBanner` no estilo Thin.
   ///
-  /// ![flag-banner](https://api.iconify.design/ph/flag-banner-thin.svg?height=32&color=%23888888)
+  /// ![flag-banner](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flag-banner.png)
   static const IconData flagBanner = IconData(
     0xe622,
     fontFamily: 'PhosphorThin',
@@ -7627,7 +7627,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flagBannerFold` no estilo Thin.
   ///
-  /// ![flag-banner-fold](https://api.iconify.design/ph/flag-banner-fold-thin.svg?height=32&color=%23888888)
+  /// ![flag-banner-fold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flag-banner-fold.png)
   static const IconData flagBannerFold = IconData(
     0xecf2,
     fontFamily: 'PhosphorThin',
@@ -7639,7 +7639,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flagCheckered` no estilo Thin.
   ///
-  /// ![flag-checkered](https://api.iconify.design/ph/flag-checkered-thin.svg?height=32&color=%23888888)
+  /// ![flag-checkered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flag-checkered.png)
   static const IconData flagCheckered = IconData(
     0xea38,
     fontFamily: 'PhosphorThin',
@@ -7651,7 +7651,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flagPennant` no estilo Thin.
   ///
-  /// ![flag-pennant](https://api.iconify.design/ph/flag-pennant-thin.svg?height=32&color=%23888888)
+  /// ![flag-pennant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flag-pennant.png)
   static const IconData flagPennant = IconData(
     0xecf0,
     fontFamily: 'PhosphorThin',
@@ -7663,7 +7663,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flame` no estilo Thin.
   ///
-  /// ![flame](https://api.iconify.design/ph/flame-thin.svg?height=32&color=%23888888)
+  /// ![flame](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flame.png)
   static const IconData flame = IconData(
     0xe624,
     fontFamily: 'PhosphorThin',
@@ -7675,7 +7675,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flashlight` no estilo Thin.
   ///
-  /// ![flashlight](https://api.iconify.design/ph/flashlight-thin.svg?height=32&color=%23888888)
+  /// ![flashlight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flashlight.png)
   static const IconData flashlight = IconData(
     0xe246,
     fontFamily: 'PhosphorThin',
@@ -7687,7 +7687,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flask` no estilo Thin.
   ///
-  /// ![flask](https://api.iconify.design/ph/flask-thin.svg?height=32&color=%23888888)
+  /// ![flask](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flask.png)
   static const IconData flask = IconData(
     0xe79e,
     fontFamily: 'PhosphorThin',
@@ -7699,7 +7699,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flipHorizontal` no estilo Thin.
   ///
-  /// ![flip-horizontal](https://api.iconify.design/ph/flip-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![flip-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flip-horizontal.png)
   static const IconData flipHorizontal = IconData(
     0xed6a,
     fontFamily: 'PhosphorThin',
@@ -7711,7 +7711,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flipVertical` no estilo Thin.
   ///
-  /// ![flip-vertical](https://api.iconify.design/ph/flip-vertical-thin.svg?height=32&color=%23888888)
+  /// ![flip-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flip-vertical.png)
   static const IconData flipVertical = IconData(
     0xed6c,
     fontFamily: 'PhosphorThin',
@@ -7723,7 +7723,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `floppyDisk` no estilo Thin.
   ///
-  /// ![floppy-disk](https://api.iconify.design/ph/floppy-disk-thin.svg?height=32&color=%23888888)
+  /// ![floppy-disk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/floppy-disk.png)
   static const IconData floppyDisk = IconData(
     0xe248,
     fontFamily: 'PhosphorThin',
@@ -7735,7 +7735,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `floppyDiskBack` no estilo Thin.
   ///
-  /// ![floppy-disk-back](https://api.iconify.design/ph/floppy-disk-back-thin.svg?height=32&color=%23888888)
+  /// ![floppy-disk-back](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/floppy-disk-back.png)
   static const IconData floppyDiskBack = IconData(
     0xeaf4,
     fontFamily: 'PhosphorThin',
@@ -7747,7 +7747,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flowArrow` no estilo Thin.
   ///
-  /// ![flow-arrow](https://api.iconify.design/ph/flow-arrow-thin.svg?height=32&color=%23888888)
+  /// ![flow-arrow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flow-arrow.png)
   static const IconData flowArrow = IconData(
     0xe6ec,
     fontFamily: 'PhosphorThin',
@@ -7759,7 +7759,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flower` no estilo Thin.
   ///
-  /// ![flower](https://api.iconify.design/ph/flower-thin.svg?height=32&color=%23888888)
+  /// ![flower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flower.png)
   static const IconData flower = IconData(
     0xe75e,
     fontFamily: 'PhosphorThin',
@@ -7771,7 +7771,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flowerLotus` no estilo Thin.
   ///
-  /// ![flower-lotus](https://api.iconify.design/ph/flower-lotus-thin.svg?height=32&color=%23888888)
+  /// ![flower-lotus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flower-lotus.png)
   static const IconData flowerLotus = IconData(
     0xe6cc,
     fontFamily: 'PhosphorThin',
@@ -7783,7 +7783,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flowerTulip` no estilo Thin.
   ///
-  /// ![flower-tulip](https://api.iconify.design/ph/flower-tulip-thin.svg?height=32&color=%23888888)
+  /// ![flower-tulip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flower-tulip.png)
   static const IconData flowerTulip = IconData(
     0xeacc,
     fontFamily: 'PhosphorThin',
@@ -7795,7 +7795,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `flyingSaucer` no estilo Thin.
   ///
-  /// ![flying-saucer](https://api.iconify.design/ph/flying-saucer-thin.svg?height=32&color=%23888888)
+  /// ![flying-saucer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/flying-saucer.png)
   static const IconData flyingSaucer = IconData(
     0xeb4a,
     fontFamily: 'PhosphorThin',
@@ -7807,7 +7807,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folder` no estilo Thin.
   ///
-  /// ![folder](https://api.iconify.design/ph/folder-thin.svg?height=32&color=%23888888)
+  /// ![folder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder.png)
   static const IconData folder = IconData(
     0xe24a,
     fontFamily: 'PhosphorThin',
@@ -7819,7 +7819,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderDashed` no estilo Thin.
   ///
-  /// ![folder-dashed](https://api.iconify.design/ph/folder-dashed-thin.svg?height=32&color=%23888888)
+  /// ![folder-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-dashed.png)
   static const IconData folderDashed = IconData(
     0xe8f8,
     fontFamily: 'PhosphorThin',
@@ -7831,7 +7831,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderDotted` no estilo Thin.
   ///
-  /// ![folder-dotted](https://api.iconify.design/ph/folder-dashed-thin.svg?height=32&color=%23888888)
+  /// ![folder-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-dotted.png)
   static const IconData folderDotted = IconData(
     0xe8f8,
     fontFamily: 'PhosphorThin',
@@ -7843,7 +7843,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderLock` no estilo Thin.
   ///
-  /// ![folder-lock](https://api.iconify.design/ph/folder-lock-thin.svg?height=32&color=%23888888)
+  /// ![folder-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-lock.png)
   static const IconData folderLock = IconData(
     0xea3c,
     fontFamily: 'PhosphorThin',
@@ -7855,7 +7855,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderMinus` no estilo Thin.
   ///
-  /// ![folder-minus](https://api.iconify.design/ph/folder-minus-thin.svg?height=32&color=%23888888)
+  /// ![folder-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-minus.png)
   static const IconData folderMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorThin',
@@ -7867,7 +7867,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderNotch` no estilo Thin.
   ///
-  /// ![folder-notch](https://api.iconify.design/ph/folder-thin.svg?height=32&color=%23888888)
+  /// ![folder-notch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-notch.png)
   static const IconData folderNotch = IconData(
     0xe24a,
     fontFamily: 'PhosphorThin',
@@ -7879,7 +7879,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderNotchMinus` no estilo Thin.
   ///
-  /// ![folder-notch-minus](https://api.iconify.design/ph/folder-minus-thin.svg?height=32&color=%23888888)
+  /// ![folder-notch-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-notch-minus.png)
   static const IconData folderNotchMinus = IconData(
     0xe254,
     fontFamily: 'PhosphorThin',
@@ -7891,7 +7891,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderNotchOpen` no estilo Thin.
   ///
-  /// ![folder-notch-open](https://api.iconify.design/ph/folder-open-thin.svg?height=32&color=%23888888)
+  /// ![folder-notch-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-notch-open.png)
   static const IconData folderNotchOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorThin',
@@ -7903,7 +7903,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderNotchPlus` no estilo Thin.
   ///
-  /// ![folder-notch-plus](https://api.iconify.design/ph/folder-plus-thin.svg?height=32&color=%23888888)
+  /// ![folder-notch-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-notch-plus.png)
   static const IconData folderNotchPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorThin',
@@ -7915,7 +7915,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderOpen` no estilo Thin.
   ///
-  /// ![folder-open](https://api.iconify.design/ph/folder-open-thin.svg?height=32&color=%23888888)
+  /// ![folder-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-open.png)
   static const IconData folderOpen = IconData(
     0xe256,
     fontFamily: 'PhosphorThin',
@@ -7927,7 +7927,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderPlus` no estilo Thin.
   ///
-  /// ![folder-plus](https://api.iconify.design/ph/folder-plus-thin.svg?height=32&color=%23888888)
+  /// ![folder-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-plus.png)
   static const IconData folderPlus = IconData(
     0xe258,
     fontFamily: 'PhosphorThin',
@@ -7939,7 +7939,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimple` no estilo Thin.
   ///
-  /// ![folder-simple](https://api.iconify.design/ph/folder-simple-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple.png)
   static const IconData folderSimple = IconData(
     0xe25a,
     fontFamily: 'PhosphorThin',
@@ -7951,7 +7951,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimpleDashed` no estilo Thin.
   ///
-  /// ![folder-simple-dashed](https://api.iconify.design/ph/folder-simple-dashed-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple-dashed.png)
   static const IconData folderSimpleDashed = IconData(
     0xec2a,
     fontFamily: 'PhosphorThin',
@@ -7963,7 +7963,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimpleDotted` no estilo Thin.
   ///
-  /// ![folder-simple-dotted](https://api.iconify.design/ph/folder-simple-dashed-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple-dotted](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple-dotted.png)
   static const IconData folderSimpleDotted = IconData(
     0xec2a,
     fontFamily: 'PhosphorThin',
@@ -7975,7 +7975,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimpleLock` no estilo Thin.
   ///
-  /// ![folder-simple-lock](https://api.iconify.design/ph/folder-simple-lock-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple-lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple-lock.png)
   static const IconData folderSimpleLock = IconData(
     0xeb5e,
     fontFamily: 'PhosphorThin',
@@ -7987,7 +7987,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimpleMinus` no estilo Thin.
   ///
-  /// ![folder-simple-minus](https://api.iconify.design/ph/folder-simple-minus-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple-minus.png)
   static const IconData folderSimpleMinus = IconData(
     0xe25c,
     fontFamily: 'PhosphorThin',
@@ -7999,7 +7999,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimplePlus` no estilo Thin.
   ///
-  /// ![folder-simple-plus](https://api.iconify.design/ph/folder-simple-plus-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple-plus.png)
   static const IconData folderSimplePlus = IconData(
     0xe25e,
     fontFamily: 'PhosphorThin',
@@ -8011,7 +8011,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimpleStar` no estilo Thin.
   ///
-  /// ![folder-simple-star](https://api.iconify.design/ph/folder-simple-star-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple-star.png)
   static const IconData folderSimpleStar = IconData(
     0xec2e,
     fontFamily: 'PhosphorThin',
@@ -8023,7 +8023,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderSimpleUser` no estilo Thin.
   ///
-  /// ![folder-simple-user](https://api.iconify.design/ph/folder-simple-user-thin.svg?height=32&color=%23888888)
+  /// ![folder-simple-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-simple-user.png)
   static const IconData folderSimpleUser = IconData(
     0xeb60,
     fontFamily: 'PhosphorThin',
@@ -8035,7 +8035,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderStar` no estilo Thin.
   ///
-  /// ![folder-star](https://api.iconify.design/ph/folder-star-thin.svg?height=32&color=%23888888)
+  /// ![folder-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-star.png)
   static const IconData folderStar = IconData(
     0xea86,
     fontFamily: 'PhosphorThin',
@@ -8047,7 +8047,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folderUser` no estilo Thin.
   ///
-  /// ![folder-user](https://api.iconify.design/ph/folder-user-thin.svg?height=32&color=%23888888)
+  /// ![folder-user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folder-user.png)
   static const IconData folderUser = IconData(
     0xeb46,
     fontFamily: 'PhosphorThin',
@@ -8059,7 +8059,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `folders` no estilo Thin.
   ///
-  /// ![folders](https://api.iconify.design/ph/folders-thin.svg?height=32&color=%23888888)
+  /// ![folders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/folders.png)
   static const IconData folders = IconData(
     0xe260,
     fontFamily: 'PhosphorThin',
@@ -8071,7 +8071,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `football` no estilo Thin.
   ///
-  /// ![football](https://api.iconify.design/ph/football-thin.svg?height=32&color=%23888888)
+  /// ![football](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/football.png)
   static const IconData football = IconData(
     0xe718,
     fontFamily: 'PhosphorThin',
@@ -8083,7 +8083,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `footballHelmet` no estilo Thin.
   ///
-  /// ![football-helmet](https://api.iconify.design/ph/football-helmet-thin.svg?height=32&color=%23888888)
+  /// ![football-helmet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/football-helmet.png)
   static const IconData footballHelmet = IconData(
     0xee4c,
     fontFamily: 'PhosphorThin',
@@ -8095,7 +8095,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `footprints` no estilo Thin.
   ///
-  /// ![footprints](https://api.iconify.design/ph/footprints-thin.svg?height=32&color=%23888888)
+  /// ![footprints](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/footprints.png)
   static const IconData footprints = IconData(
     0xea88,
     fontFamily: 'PhosphorThin',
@@ -8107,7 +8107,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `forkKnife` no estilo Thin.
   ///
-  /// ![fork-knife](https://api.iconify.design/ph/fork-knife-thin.svg?height=32&color=%23888888)
+  /// ![fork-knife](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/fork-knife.png)
   static const IconData forkKnife = IconData(
     0xe262,
     fontFamily: 'PhosphorThin',
@@ -8119,7 +8119,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `fourK` no estilo Thin.
   ///
-  /// ![four-k](https://api.iconify.design/ph/four-k-thin.svg?height=32&color=%23888888)
+  /// ![four-k](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/four-k.png)
   static const IconData fourK = IconData(
     0xea5c,
     fontFamily: 'PhosphorThin',
@@ -8131,7 +8131,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `frameCorners` no estilo Thin.
   ///
-  /// ![frame-corners](https://api.iconify.design/ph/frame-corners-thin.svg?height=32&color=%23888888)
+  /// ![frame-corners](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/frame-corners.png)
   static const IconData frameCorners = IconData(
     0xe626,
     fontFamily: 'PhosphorThin',
@@ -8143,7 +8143,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `framerLogo` no estilo Thin.
   ///
-  /// ![framer-logo](https://api.iconify.design/ph/framer-logo-thin.svg?height=32&color=%23888888)
+  /// ![framer-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/framer-logo.png)
   static const IconData framerLogo = IconData(
     0xe264,
     fontFamily: 'PhosphorThin',
@@ -8155,7 +8155,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `function` no estilo Thin.
   ///
-  /// ![function](https://api.iconify.design/ph/function-thin.svg?height=32&color=%23888888)
+  /// ![function](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/function.png)
   static const IconData function = IconData(
     0xebe4,
     fontFamily: 'PhosphorThin',
@@ -8167,7 +8167,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `funnel` no estilo Thin.
   ///
-  /// ![funnel](https://api.iconify.design/ph/funnel-thin.svg?height=32&color=%23888888)
+  /// ![funnel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/funnel.png)
   static const IconData funnel = IconData(
     0xe266,
     fontFamily: 'PhosphorThin',
@@ -8179,7 +8179,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `funnelSimple` no estilo Thin.
   ///
-  /// ![funnel-simple](https://api.iconify.design/ph/funnel-simple-thin.svg?height=32&color=%23888888)
+  /// ![funnel-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/funnel-simple.png)
   static const IconData funnelSimple = IconData(
     0xe268,
     fontFamily: 'PhosphorThin',
@@ -8191,7 +8191,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `funnelSimpleX` no estilo Thin.
   ///
-  /// ![funnel-simple-x](https://api.iconify.design/ph/funnel-simple-x-thin.svg?height=32&color=%23888888)
+  /// ![funnel-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/funnel-simple-x.png)
   static const IconData funnelSimpleX = IconData(
     0xe26a,
     fontFamily: 'PhosphorThin',
@@ -8203,7 +8203,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `funnelX` no estilo Thin.
   ///
-  /// ![funnel-x](https://api.iconify.design/ph/funnel-x-thin.svg?height=32&color=%23888888)
+  /// ![funnel-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/funnel-x.png)
   static const IconData funnelX = IconData(
     0xe26c,
     fontFamily: 'PhosphorThin',
@@ -8215,7 +8215,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gameController` no estilo Thin.
   ///
-  /// ![game-controller](https://api.iconify.design/ph/game-controller-thin.svg?height=32&color=%23888888)
+  /// ![game-controller](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/game-controller.png)
   static const IconData gameController = IconData(
     0xe26e,
     fontFamily: 'PhosphorThin',
@@ -8227,7 +8227,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `garage` no estilo Thin.
   ///
-  /// ![garage](https://api.iconify.design/ph/garage-thin.svg?height=32&color=%23888888)
+  /// ![garage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/garage.png)
   static const IconData garage = IconData(
     0xecd6,
     fontFamily: 'PhosphorThin',
@@ -8239,7 +8239,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gasCan` no estilo Thin.
   ///
-  /// ![gas-can](https://api.iconify.design/ph/gas-can-thin.svg?height=32&color=%23888888)
+  /// ![gas-can](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gas-can.png)
   static const IconData gasCan = IconData(
     0xe8ce,
     fontFamily: 'PhosphorThin',
@@ -8251,7 +8251,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gasPump` no estilo Thin.
   ///
-  /// ![gas-pump](https://api.iconify.design/ph/gas-pump-thin.svg?height=32&color=%23888888)
+  /// ![gas-pump](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gas-pump.png)
   static const IconData gasPump = IconData(
     0xe768,
     fontFamily: 'PhosphorThin',
@@ -8263,7 +8263,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gauge` no estilo Thin.
   ///
-  /// ![gauge](https://api.iconify.design/ph/gauge-thin.svg?height=32&color=%23888888)
+  /// ![gauge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gauge.png)
   static const IconData gauge = IconData(
     0xe628,
     fontFamily: 'PhosphorThin',
@@ -8275,7 +8275,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gavel` no estilo Thin.
   ///
-  /// ![gavel](https://api.iconify.design/ph/gavel-thin.svg?height=32&color=%23888888)
+  /// ![gavel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gavel.png)
   static const IconData gavel = IconData(
     0xea32,
     fontFamily: 'PhosphorThin',
@@ -8287,7 +8287,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gear` no estilo Thin.
   ///
-  /// ![gear](https://api.iconify.design/ph/gear-thin.svg?height=32&color=%23888888)
+  /// ![gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gear.png)
   static const IconData gear = IconData(
     0xe270,
     fontFamily: 'PhosphorThin',
@@ -8299,7 +8299,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gearFine` no estilo Thin.
   ///
-  /// ![gear-fine](https://api.iconify.design/ph/gear-fine-thin.svg?height=32&color=%23888888)
+  /// ![gear-fine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gear-fine.png)
   static const IconData gearFine = IconData(
     0xe87c,
     fontFamily: 'PhosphorThin',
@@ -8311,7 +8311,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gearSix` no estilo Thin.
   ///
-  /// ![gear-six](https://api.iconify.design/ph/gear-six-thin.svg?height=32&color=%23888888)
+  /// ![gear-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gear-six.png)
   static const IconData gearSix = IconData(
     0xe272,
     fontFamily: 'PhosphorThin',
@@ -8323,7 +8323,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `genderFemale` no estilo Thin.
   ///
-  /// ![gender-female](https://api.iconify.design/ph/gender-female-thin.svg?height=32&color=%23888888)
+  /// ![gender-female](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gender-female.png)
   static const IconData genderFemale = IconData(
     0xe6e0,
     fontFamily: 'PhosphorThin',
@@ -8335,7 +8335,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `genderIntersex` no estilo Thin.
   ///
-  /// ![gender-intersex](https://api.iconify.design/ph/gender-intersex-thin.svg?height=32&color=%23888888)
+  /// ![gender-intersex](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gender-intersex.png)
   static const IconData genderIntersex = IconData(
     0xe6e6,
     fontFamily: 'PhosphorThin',
@@ -8347,7 +8347,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `genderMale` no estilo Thin.
   ///
-  /// ![gender-male](https://api.iconify.design/ph/gender-male-thin.svg?height=32&color=%23888888)
+  /// ![gender-male](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gender-male.png)
   static const IconData genderMale = IconData(
     0xe6e2,
     fontFamily: 'PhosphorThin',
@@ -8359,7 +8359,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `genderNeuter` no estilo Thin.
   ///
-  /// ![gender-neuter](https://api.iconify.design/ph/gender-neuter-thin.svg?height=32&color=%23888888)
+  /// ![gender-neuter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gender-neuter.png)
   static const IconData genderNeuter = IconData(
     0xe6ea,
     fontFamily: 'PhosphorThin',
@@ -8371,7 +8371,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `genderNonbinary` no estilo Thin.
   ///
-  /// ![gender-nonbinary](https://api.iconify.design/ph/gender-nonbinary-thin.svg?height=32&color=%23888888)
+  /// ![gender-nonbinary](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gender-nonbinary.png)
   static const IconData genderNonbinary = IconData(
     0xe6e4,
     fontFamily: 'PhosphorThin',
@@ -8383,7 +8383,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `genderTransgender` no estilo Thin.
   ///
-  /// ![gender-transgender](https://api.iconify.design/ph/gender-transgender-thin.svg?height=32&color=%23888888)
+  /// ![gender-transgender](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gender-transgender.png)
   static const IconData genderTransgender = IconData(
     0xe6e8,
     fontFamily: 'PhosphorThin',
@@ -8395,7 +8395,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ghost` no estilo Thin.
   ///
-  /// ![ghost](https://api.iconify.design/ph/ghost-thin.svg?height=32&color=%23888888)
+  /// ![ghost](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ghost.png)
   static const IconData ghost = IconData(
     0xe62a,
     fontFamily: 'PhosphorThin',
@@ -8407,7 +8407,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gif` no estilo Thin.
   ///
-  /// ![gif](https://api.iconify.design/ph/gif-thin.svg?height=32&color=%23888888)
+  /// ![gif](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gif.png)
   static const IconData gif = IconData(
     0xe274,
     fontFamily: 'PhosphorThin',
@@ -8419,7 +8419,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gift` no estilo Thin.
   ///
-  /// ![gift](https://api.iconify.design/ph/gift-thin.svg?height=32&color=%23888888)
+  /// ![gift](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gift.png)
   static const IconData gift = IconData(
     0xe276,
     fontFamily: 'PhosphorThin',
@@ -8431,7 +8431,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitBranch` no estilo Thin.
   ///
-  /// ![git-branch](https://api.iconify.design/ph/git-branch-thin.svg?height=32&color=%23888888)
+  /// ![git-branch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/git-branch.png)
   static const IconData gitBranch = IconData(
     0xe278,
     fontFamily: 'PhosphorThin',
@@ -8443,7 +8443,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitCommit` no estilo Thin.
   ///
-  /// ![git-commit](https://api.iconify.design/ph/git-commit-thin.svg?height=32&color=%23888888)
+  /// ![git-commit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/git-commit.png)
   static const IconData gitCommit = IconData(
     0xe27a,
     fontFamily: 'PhosphorThin',
@@ -8455,7 +8455,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitDiff` no estilo Thin.
   ///
-  /// ![git-diff](https://api.iconify.design/ph/git-diff-thin.svg?height=32&color=%23888888)
+  /// ![git-diff](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/git-diff.png)
   static const IconData gitDiff = IconData(
     0xe27c,
     fontFamily: 'PhosphorThin',
@@ -8467,7 +8467,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitFork` no estilo Thin.
   ///
-  /// ![git-fork](https://api.iconify.design/ph/git-fork-thin.svg?height=32&color=%23888888)
+  /// ![git-fork](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/git-fork.png)
   static const IconData gitFork = IconData(
     0xe27e,
     fontFamily: 'PhosphorThin',
@@ -8479,7 +8479,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitMerge` no estilo Thin.
   ///
-  /// ![git-merge](https://api.iconify.design/ph/git-merge-thin.svg?height=32&color=%23888888)
+  /// ![git-merge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/git-merge.png)
   static const IconData gitMerge = IconData(
     0xe280,
     fontFamily: 'PhosphorThin',
@@ -8491,7 +8491,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitPullRequest` no estilo Thin.
   ///
-  /// ![git-pull-request](https://api.iconify.design/ph/git-pull-request-thin.svg?height=32&color=%23888888)
+  /// ![git-pull-request](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/git-pull-request.png)
   static const IconData gitPullRequest = IconData(
     0xe282,
     fontFamily: 'PhosphorThin',
@@ -8503,7 +8503,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `githubLogo` no estilo Thin.
   ///
-  /// ![github-logo](https://api.iconify.design/ph/github-logo-thin.svg?height=32&color=%23888888)
+  /// ![github-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/github-logo.png)
   static const IconData githubLogo = IconData(
     0xe576,
     fontFamily: 'PhosphorThin',
@@ -8515,7 +8515,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitlabLogo` no estilo Thin.
   ///
-  /// ![gitlab-logo](https://api.iconify.design/ph/gitlab-logo-thin.svg?height=32&color=%23888888)
+  /// ![gitlab-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gitlab-logo.png)
   static const IconData gitlabLogo = IconData(
     0xe694,
     fontFamily: 'PhosphorThin',
@@ -8527,7 +8527,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gitlabLogoSimple` no estilo Thin.
   ///
-  /// ![gitlab-logo-simple](https://api.iconify.design/ph/gitlab-logo-simple-thin.svg?height=32&color=%23888888)
+  /// ![gitlab-logo-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gitlab-logo-simple.png)
   static const IconData gitlabLogoSimple = IconData(
     0xe696,
     fontFamily: 'PhosphorThin',
@@ -8539,7 +8539,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `globe` no estilo Thin.
   ///
-  /// ![globe](https://api.iconify.design/ph/globe-thin.svg?height=32&color=%23888888)
+  /// ![globe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/globe.png)
   static const IconData globe = IconData(
     0xe288,
     fontFamily: 'PhosphorThin',
@@ -8551,7 +8551,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `globeHemisphereEast` no estilo Thin.
   ///
-  /// ![globe-hemisphere-east](https://api.iconify.design/ph/globe-hemisphere-east-thin.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-east](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/globe-hemisphere-east.png)
   static const IconData globeHemisphereEast = IconData(
     0xe28a,
     fontFamily: 'PhosphorThin',
@@ -8563,7 +8563,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `globeHemisphereWest` no estilo Thin.
   ///
-  /// ![globe-hemisphere-west](https://api.iconify.design/ph/globe-hemisphere-west-thin.svg?height=32&color=%23888888)
+  /// ![globe-hemisphere-west](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/globe-hemisphere-west.png)
   static const IconData globeHemisphereWest = IconData(
     0xe28c,
     fontFamily: 'PhosphorThin',
@@ -8575,7 +8575,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `globeSimple` no estilo Thin.
   ///
-  /// ![globe-simple](https://api.iconify.design/ph/globe-simple-thin.svg?height=32&color=%23888888)
+  /// ![globe-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/globe-simple.png)
   static const IconData globeSimple = IconData(
     0xe28e,
     fontFamily: 'PhosphorThin',
@@ -8587,7 +8587,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `globeSimpleX` no estilo Thin.
   ///
-  /// ![globe-simple-x](https://api.iconify.design/ph/globe-simple-x-thin.svg?height=32&color=%23888888)
+  /// ![globe-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/globe-simple-x.png)
   static const IconData globeSimpleX = IconData(
     0xe284,
     fontFamily: 'PhosphorThin',
@@ -8599,7 +8599,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `globeStand` no estilo Thin.
   ///
-  /// ![globe-stand](https://api.iconify.design/ph/globe-stand-thin.svg?height=32&color=%23888888)
+  /// ![globe-stand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/globe-stand.png)
   static const IconData globeStand = IconData(
     0xe290,
     fontFamily: 'PhosphorThin',
@@ -8611,7 +8611,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `globeX` no estilo Thin.
   ///
-  /// ![globe-x](https://api.iconify.design/ph/globe-x-thin.svg?height=32&color=%23888888)
+  /// ![globe-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/globe-x.png)
   static const IconData globeX = IconData(
     0xe286,
     fontFamily: 'PhosphorThin',
@@ -8623,7 +8623,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `goggles` no estilo Thin.
   ///
-  /// ![goggles](https://api.iconify.design/ph/goggles-thin.svg?height=32&color=%23888888)
+  /// ![goggles](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/goggles.png)
   static const IconData goggles = IconData(
     0xecb4,
     fontFamily: 'PhosphorThin',
@@ -8635,7 +8635,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `golf` no estilo Thin.
   ///
-  /// ![golf](https://api.iconify.design/ph/golf-thin.svg?height=32&color=%23888888)
+  /// ![golf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/golf.png)
   static const IconData golf = IconData(
     0xea3e,
     fontFamily: 'PhosphorThin',
@@ -8647,7 +8647,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `goodreadsLogo` no estilo Thin.
   ///
-  /// ![goodreads-logo](https://api.iconify.design/ph/goodreads-logo-thin.svg?height=32&color=%23888888)
+  /// ![goodreads-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/goodreads-logo.png)
   static const IconData goodreadsLogo = IconData(
     0xed10,
     fontFamily: 'PhosphorThin',
@@ -8659,7 +8659,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `googleCardboardLogo` no estilo Thin.
   ///
-  /// ![google-cardboard-logo](https://api.iconify.design/ph/google-cardboard-logo-thin.svg?height=32&color=%23888888)
+  /// ![google-cardboard-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/google-cardboard-logo.png)
   static const IconData googleCardboardLogo = IconData(
     0xe7b6,
     fontFamily: 'PhosphorThin',
@@ -8671,7 +8671,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `googleChromeLogo` no estilo Thin.
   ///
-  /// ![google-chrome-logo](https://api.iconify.design/ph/google-chrome-logo-thin.svg?height=32&color=%23888888)
+  /// ![google-chrome-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/google-chrome-logo.png)
   static const IconData googleChromeLogo = IconData(
     0xe976,
     fontFamily: 'PhosphorThin',
@@ -8683,7 +8683,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `googleDriveLogo` no estilo Thin.
   ///
-  /// ![google-drive-logo](https://api.iconify.design/ph/google-drive-logo-thin.svg?height=32&color=%23888888)
+  /// ![google-drive-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/google-drive-logo.png)
   static const IconData googleDriveLogo = IconData(
     0xe8f6,
     fontFamily: 'PhosphorThin',
@@ -8695,7 +8695,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `googleLogo` no estilo Thin.
   ///
-  /// ![google-logo](https://api.iconify.design/ph/google-logo-thin.svg?height=32&color=%23888888)
+  /// ![google-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/google-logo.png)
   static const IconData googleLogo = IconData(
     0xe292,
     fontFamily: 'PhosphorThin',
@@ -8707,7 +8707,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `googlePhotosLogo` no estilo Thin.
   ///
-  /// ![google-photos-logo](https://api.iconify.design/ph/google-photos-logo-thin.svg?height=32&color=%23888888)
+  /// ![google-photos-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/google-photos-logo.png)
   static const IconData googlePhotosLogo = IconData(
     0xeb92,
     fontFamily: 'PhosphorThin',
@@ -8719,7 +8719,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `googlePlayLogo` no estilo Thin.
   ///
-  /// ![google-play-logo](https://api.iconify.design/ph/google-play-logo-thin.svg?height=32&color=%23888888)
+  /// ![google-play-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/google-play-logo.png)
   static const IconData googlePlayLogo = IconData(
     0xe294,
     fontFamily: 'PhosphorThin',
@@ -8731,7 +8731,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `googlePodcastsLogo` no estilo Thin.
   ///
-  /// ![google-podcasts-logo](https://api.iconify.design/ph/google-podcasts-logo-thin.svg?height=32&color=%23888888)
+  /// ![google-podcasts-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/google-podcasts-logo.png)
   static const IconData googlePodcastsLogo = IconData(
     0xeb94,
     fontFamily: 'PhosphorThin',
@@ -8743,7 +8743,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gps` no estilo Thin.
   ///
-  /// ![gps](https://api.iconify.design/ph/gps-thin.svg?height=32&color=%23888888)
+  /// ![gps](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gps.png)
   static const IconData gps = IconData(
     0xedd8,
     fontFamily: 'PhosphorThin',
@@ -8755,7 +8755,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gpsFix` no estilo Thin.
   ///
-  /// ![gps-fix](https://api.iconify.design/ph/gps-fix-thin.svg?height=32&color=%23888888)
+  /// ![gps-fix](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gps-fix.png)
   static const IconData gpsFix = IconData(
     0xedd6,
     fontFamily: 'PhosphorThin',
@@ -8767,7 +8767,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gpsSlash` no estilo Thin.
   ///
-  /// ![gps-slash](https://api.iconify.design/ph/gps-slash-thin.svg?height=32&color=%23888888)
+  /// ![gps-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gps-slash.png)
   static const IconData gpsSlash = IconData(
     0xedd4,
     fontFamily: 'PhosphorThin',
@@ -8779,7 +8779,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gradient` no estilo Thin.
   ///
-  /// ![gradient](https://api.iconify.design/ph/gradient-thin.svg?height=32&color=%23888888)
+  /// ![gradient](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/gradient.png)
   static const IconData gradient = IconData(
     0xeb42,
     fontFamily: 'PhosphorThin',
@@ -8791,7 +8791,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `graduationCap` no estilo Thin.
   ///
-  /// ![graduation-cap](https://api.iconify.design/ph/graduation-cap-thin.svg?height=32&color=%23888888)
+  /// ![graduation-cap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/graduation-cap.png)
   static const IconData graduationCap = IconData(
     0xe62c,
     fontFamily: 'PhosphorThin',
@@ -8803,7 +8803,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `grains` no estilo Thin.
   ///
-  /// ![grains](https://api.iconify.design/ph/grains-thin.svg?height=32&color=%23888888)
+  /// ![grains](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/grains.png)
   static const IconData grains = IconData(
     0xec68,
     fontFamily: 'PhosphorThin',
@@ -8815,7 +8815,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `grainsSlash` no estilo Thin.
   ///
-  /// ![grains-slash](https://api.iconify.design/ph/grains-slash-thin.svg?height=32&color=%23888888)
+  /// ![grains-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/grains-slash.png)
   static const IconData grainsSlash = IconData(
     0xec6a,
     fontFamily: 'PhosphorThin',
@@ -8827,7 +8827,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `graph` no estilo Thin.
   ///
-  /// ![graph](https://api.iconify.design/ph/graph-thin.svg?height=32&color=%23888888)
+  /// ![graph](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/graph.png)
   static const IconData graph = IconData(
     0xeb58,
     fontFamily: 'PhosphorThin',
@@ -8839,7 +8839,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `graphicsCard` no estilo Thin.
   ///
-  /// ![graphics-card](https://api.iconify.design/ph/graphics-card-thin.svg?height=32&color=%23888888)
+  /// ![graphics-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/graphics-card.png)
   static const IconData graphicsCard = IconData(
     0xe612,
     fontFamily: 'PhosphorThin',
@@ -8851,7 +8851,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `greaterThan` no estilo Thin.
   ///
-  /// ![greater-than](https://api.iconify.design/ph/greater-than-thin.svg?height=32&color=%23888888)
+  /// ![greater-than](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/greater-than.png)
   static const IconData greaterThan = IconData(
     0xedc4,
     fontFamily: 'PhosphorThin',
@@ -8863,7 +8863,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `greaterThanOrEqual` no estilo Thin.
   ///
-  /// ![greater-than-or-equal](https://api.iconify.design/ph/greater-than-or-equal-thin.svg?height=32&color=%23888888)
+  /// ![greater-than-or-equal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/greater-than-or-equal.png)
   static const IconData greaterThanOrEqual = IconData(
     0xeda2,
     fontFamily: 'PhosphorThin',
@@ -8875,7 +8875,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gridFour` no estilo Thin.
   ///
-  /// ![grid-four](https://api.iconify.design/ph/grid-four-thin.svg?height=32&color=%23888888)
+  /// ![grid-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/grid-four.png)
   static const IconData gridFour = IconData(
     0xe296,
     fontFamily: 'PhosphorThin',
@@ -8887,7 +8887,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `gridNine` no estilo Thin.
   ///
-  /// ![grid-nine](https://api.iconify.design/ph/grid-nine-thin.svg?height=32&color=%23888888)
+  /// ![grid-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/grid-nine.png)
   static const IconData gridNine = IconData(
     0xec8c,
     fontFamily: 'PhosphorThin',
@@ -8899,7 +8899,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `guitar` no estilo Thin.
   ///
-  /// ![guitar](https://api.iconify.design/ph/guitar-thin.svg?height=32&color=%23888888)
+  /// ![guitar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/guitar.png)
   static const IconData guitar = IconData(
     0xea8a,
     fontFamily: 'PhosphorThin',
@@ -8911,7 +8911,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hairDryer` no estilo Thin.
   ///
-  /// ![hair-dryer](https://api.iconify.design/ph/hair-dryer-thin.svg?height=32&color=%23888888)
+  /// ![hair-dryer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hair-dryer.png)
   static const IconData hairDryer = IconData(
     0xea66,
     fontFamily: 'PhosphorThin',
@@ -8923,7 +8923,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hamburger` no estilo Thin.
   ///
-  /// ![hamburger](https://api.iconify.design/ph/hamburger-thin.svg?height=32&color=%23888888)
+  /// ![hamburger](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hamburger.png)
   static const IconData hamburger = IconData(
     0xe790,
     fontFamily: 'PhosphorThin',
@@ -8935,7 +8935,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hammer` no estilo Thin.
   ///
-  /// ![hammer](https://api.iconify.design/ph/hammer-thin.svg?height=32&color=%23888888)
+  /// ![hammer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hammer.png)
   static const IconData hammer = IconData(
     0xe80e,
     fontFamily: 'PhosphorThin',
@@ -8947,7 +8947,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hand` no estilo Thin.
   ///
-  /// ![hand](https://api.iconify.design/ph/hand-thin.svg?height=32&color=%23888888)
+  /// ![hand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand.png)
   static const IconData hand = IconData(
     0xe298,
     fontFamily: 'PhosphorThin',
@@ -8959,7 +8959,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handArrowDown` no estilo Thin.
   ///
-  /// ![hand-arrow-down](https://api.iconify.design/ph/hand-arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![hand-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-arrow-down.png)
   static const IconData handArrowDown = IconData(
     0xea4e,
     fontFamily: 'PhosphorThin',
@@ -8971,7 +8971,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handArrowUp` no estilo Thin.
   ///
-  /// ![hand-arrow-up](https://api.iconify.design/ph/hand-arrow-up-thin.svg?height=32&color=%23888888)
+  /// ![hand-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-arrow-up.png)
   static const IconData handArrowUp = IconData(
     0xee5a,
     fontFamily: 'PhosphorThin',
@@ -8983,7 +8983,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handCoins` no estilo Thin.
   ///
-  /// ![hand-coins](https://api.iconify.design/ph/hand-coins-thin.svg?height=32&color=%23888888)
+  /// ![hand-coins](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-coins.png)
   static const IconData handCoins = IconData(
     0xea8c,
     fontFamily: 'PhosphorThin',
@@ -8995,7 +8995,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handDeposit` no estilo Thin.
   ///
-  /// ![hand-deposit](https://api.iconify.design/ph/hand-deposit-thin.svg?height=32&color=%23888888)
+  /// ![hand-deposit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-deposit.png)
   static const IconData handDeposit = IconData(
     0xee82,
     fontFamily: 'PhosphorThin',
@@ -9007,7 +9007,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handEye` no estilo Thin.
   ///
-  /// ![hand-eye](https://api.iconify.design/ph/hand-eye-thin.svg?height=32&color=%23888888)
+  /// ![hand-eye](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-eye.png)
   static const IconData handEye = IconData(
     0xea4c,
     fontFamily: 'PhosphorThin',
@@ -9019,7 +9019,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handFist` no estilo Thin.
   ///
-  /// ![hand-fist](https://api.iconify.design/ph/hand-fist-thin.svg?height=32&color=%23888888)
+  /// ![hand-fist](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-fist.png)
   static const IconData handFist = IconData(
     0xe57a,
     fontFamily: 'PhosphorThin',
@@ -9031,7 +9031,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handGrabbing` no estilo Thin.
   ///
-  /// ![hand-grabbing](https://api.iconify.design/ph/hand-grabbing-thin.svg?height=32&color=%23888888)
+  /// ![hand-grabbing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-grabbing.png)
   static const IconData handGrabbing = IconData(
     0xe57c,
     fontFamily: 'PhosphorThin',
@@ -9043,7 +9043,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handHeart` no estilo Thin.
   ///
-  /// ![hand-heart](https://api.iconify.design/ph/hand-heart-thin.svg?height=32&color=%23888888)
+  /// ![hand-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-heart.png)
   static const IconData handHeart = IconData(
     0xe810,
     fontFamily: 'PhosphorThin',
@@ -9055,7 +9055,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handPalm` no estilo Thin.
   ///
-  /// ![hand-palm](https://api.iconify.design/ph/hand-palm-thin.svg?height=32&color=%23888888)
+  /// ![hand-palm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-palm.png)
   static const IconData handPalm = IconData(
     0xe57e,
     fontFamily: 'PhosphorThin',
@@ -9067,7 +9067,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handPeace` no estilo Thin.
   ///
-  /// ![hand-peace](https://api.iconify.design/ph/hand-peace-thin.svg?height=32&color=%23888888)
+  /// ![hand-peace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-peace.png)
   static const IconData handPeace = IconData(
     0xe7cc,
     fontFamily: 'PhosphorThin',
@@ -9079,7 +9079,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handPointing` no estilo Thin.
   ///
-  /// ![hand-pointing](https://api.iconify.design/ph/hand-pointing-thin.svg?height=32&color=%23888888)
+  /// ![hand-pointing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-pointing.png)
   static const IconData handPointing = IconData(
     0xe29a,
     fontFamily: 'PhosphorThin',
@@ -9091,7 +9091,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handSoap` no estilo Thin.
   ///
-  /// ![hand-soap](https://api.iconify.design/ph/hand-soap-thin.svg?height=32&color=%23888888)
+  /// ![hand-soap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-soap.png)
   static const IconData handSoap = IconData(
     0xe630,
     fontFamily: 'PhosphorThin',
@@ -9103,7 +9103,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handSwipeLeft` no estilo Thin.
   ///
-  /// ![hand-swipe-left](https://api.iconify.design/ph/hand-swipe-left-thin.svg?height=32&color=%23888888)
+  /// ![hand-swipe-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-swipe-left.png)
   static const IconData handSwipeLeft = IconData(
     0xec94,
     fontFamily: 'PhosphorThin',
@@ -9115,7 +9115,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handSwipeRight` no estilo Thin.
   ///
-  /// ![hand-swipe-right](https://api.iconify.design/ph/hand-swipe-right-thin.svg?height=32&color=%23888888)
+  /// ![hand-swipe-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-swipe-right.png)
   static const IconData handSwipeRight = IconData(
     0xec92,
     fontFamily: 'PhosphorThin',
@@ -9127,7 +9127,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handTap` no estilo Thin.
   ///
-  /// ![hand-tap](https://api.iconify.design/ph/hand-tap-thin.svg?height=32&color=%23888888)
+  /// ![hand-tap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-tap.png)
   static const IconData handTap = IconData(
     0xec90,
     fontFamily: 'PhosphorThin',
@@ -9139,7 +9139,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handWaving` no estilo Thin.
   ///
-  /// ![hand-waving](https://api.iconify.design/ph/hand-waving-thin.svg?height=32&color=%23888888)
+  /// ![hand-waving](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-waving.png)
   static const IconData handWaving = IconData(
     0xe580,
     fontFamily: 'PhosphorThin',
@@ -9151,7 +9151,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handWithdraw` no estilo Thin.
   ///
-  /// ![hand-withdraw](https://api.iconify.design/ph/hand-withdraw-thin.svg?height=32&color=%23888888)
+  /// ![hand-withdraw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hand-withdraw.png)
   static const IconData handWithdraw = IconData(
     0xee80,
     fontFamily: 'PhosphorThin',
@@ -9163,7 +9163,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handbag` no estilo Thin.
   ///
-  /// ![handbag](https://api.iconify.design/ph/handbag-thin.svg?height=32&color=%23888888)
+  /// ![handbag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/handbag.png)
   static const IconData handbag = IconData(
     0xe29c,
     fontFamily: 'PhosphorThin',
@@ -9175,7 +9175,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handbagSimple` no estilo Thin.
   ///
-  /// ![handbag-simple](https://api.iconify.design/ph/handbag-simple-thin.svg?height=32&color=%23888888)
+  /// ![handbag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/handbag-simple.png)
   static const IconData handbagSimple = IconData(
     0xe62e,
     fontFamily: 'PhosphorThin',
@@ -9187,7 +9187,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handsClapping` no estilo Thin.
   ///
-  /// ![hands-clapping](https://api.iconify.design/ph/hands-clapping-thin.svg?height=32&color=%23888888)
+  /// ![hands-clapping](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hands-clapping.png)
   static const IconData handsClapping = IconData(
     0xe6a0,
     fontFamily: 'PhosphorThin',
@@ -9199,7 +9199,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handsPraying` no estilo Thin.
   ///
-  /// ![hands-praying](https://api.iconify.design/ph/hands-praying-thin.svg?height=32&color=%23888888)
+  /// ![hands-praying](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hands-praying.png)
   static const IconData handsPraying = IconData(
     0xecc8,
     fontFamily: 'PhosphorThin',
@@ -9211,7 +9211,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `handshake` no estilo Thin.
   ///
-  /// ![handshake](https://api.iconify.design/ph/handshake-thin.svg?height=32&color=%23888888)
+  /// ![handshake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/handshake.png)
   static const IconData handshake = IconData(
     0xe582,
     fontFamily: 'PhosphorThin',
@@ -9223,7 +9223,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hardDrive` no estilo Thin.
   ///
-  /// ![hard-drive](https://api.iconify.design/ph/hard-drive-thin.svg?height=32&color=%23888888)
+  /// ![hard-drive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hard-drive.png)
   static const IconData hardDrive = IconData(
     0xe29e,
     fontFamily: 'PhosphorThin',
@@ -9235,7 +9235,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hardDrives` no estilo Thin.
   ///
-  /// ![hard-drives](https://api.iconify.design/ph/hard-drives-thin.svg?height=32&color=%23888888)
+  /// ![hard-drives](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hard-drives.png)
   static const IconData hardDrives = IconData(
     0xe2a0,
     fontFamily: 'PhosphorThin',
@@ -9247,7 +9247,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hardHat` no estilo Thin.
   ///
-  /// ![hard-hat](https://api.iconify.design/ph/hard-hat-thin.svg?height=32&color=%23888888)
+  /// ![hard-hat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hard-hat.png)
   static const IconData hardHat = IconData(
     0xed46,
     fontFamily: 'PhosphorThin',
@@ -9259,7 +9259,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hash` no estilo Thin.
   ///
-  /// ![hash](https://api.iconify.design/ph/hash-thin.svg?height=32&color=%23888888)
+  /// ![hash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hash.png)
   static const IconData hash = IconData(
     0xe2a2,
     fontFamily: 'PhosphorThin',
@@ -9271,7 +9271,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hashStraight` no estilo Thin.
   ///
-  /// ![hash-straight](https://api.iconify.design/ph/hash-straight-thin.svg?height=32&color=%23888888)
+  /// ![hash-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hash-straight.png)
   static const IconData hashStraight = IconData(
     0xe2a4,
     fontFamily: 'PhosphorThin',
@@ -9283,7 +9283,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `headCircuit` no estilo Thin.
   ///
-  /// ![head-circuit](https://api.iconify.design/ph/head-circuit-thin.svg?height=32&color=%23888888)
+  /// ![head-circuit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/head-circuit.png)
   static const IconData headCircuit = IconData(
     0xe7d4,
     fontFamily: 'PhosphorThin',
@@ -9295,7 +9295,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `headlights` no estilo Thin.
   ///
-  /// ![headlights](https://api.iconify.design/ph/headlights-thin.svg?height=32&color=%23888888)
+  /// ![headlights](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/headlights.png)
   static const IconData headlights = IconData(
     0xe6fe,
     fontFamily: 'PhosphorThin',
@@ -9307,7 +9307,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `headphones` no estilo Thin.
   ///
-  /// ![headphones](https://api.iconify.design/ph/headphones-thin.svg?height=32&color=%23888888)
+  /// ![headphones](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/headphones.png)
   static const IconData headphones = IconData(
     0xe2a6,
     fontFamily: 'PhosphorThin',
@@ -9319,7 +9319,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `headset` no estilo Thin.
   ///
-  /// ![headset](https://api.iconify.design/ph/headset-thin.svg?height=32&color=%23888888)
+  /// ![headset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/headset.png)
   static const IconData headset = IconData(
     0xe584,
     fontFamily: 'PhosphorThin',
@@ -9331,7 +9331,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `heart` no estilo Thin.
   ///
-  /// ![heart](https://api.iconify.design/ph/heart-thin.svg?height=32&color=%23888888)
+  /// ![heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/heart.png)
   static const IconData heart = IconData(
     0xe2a8,
     fontFamily: 'PhosphorThin',
@@ -9343,7 +9343,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `heartBreak` no estilo Thin.
   ///
-  /// ![heart-break](https://api.iconify.design/ph/heart-break-thin.svg?height=32&color=%23888888)
+  /// ![heart-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/heart-break.png)
   static const IconData heartBreak = IconData(
     0xebe8,
     fontFamily: 'PhosphorThin',
@@ -9355,7 +9355,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `heartHalf` no estilo Thin.
   ///
-  /// ![heart-half](https://api.iconify.design/ph/heart-half-thin.svg?height=32&color=%23888888)
+  /// ![heart-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/heart-half.png)
   static const IconData heartHalf = IconData(
     0xec48,
     fontFamily: 'PhosphorThin',
@@ -9367,7 +9367,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `heartStraight` no estilo Thin.
   ///
-  /// ![heart-straight](https://api.iconify.design/ph/heart-straight-thin.svg?height=32&color=%23888888)
+  /// ![heart-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/heart-straight.png)
   static const IconData heartStraight = IconData(
     0xe2aa,
     fontFamily: 'PhosphorThin',
@@ -9379,7 +9379,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `heartStraightBreak` no estilo Thin.
   ///
-  /// ![heart-straight-break](https://api.iconify.design/ph/heart-straight-break-thin.svg?height=32&color=%23888888)
+  /// ![heart-straight-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/heart-straight-break.png)
   static const IconData heartStraightBreak = IconData(
     0xeb98,
     fontFamily: 'PhosphorThin',
@@ -9391,7 +9391,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `heartbeat` no estilo Thin.
   ///
-  /// ![heartbeat](https://api.iconify.design/ph/heartbeat-thin.svg?height=32&color=%23888888)
+  /// ![heartbeat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/heartbeat.png)
   static const IconData heartbeat = IconData(
     0xe2ac,
     fontFamily: 'PhosphorThin',
@@ -9403,7 +9403,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hexagon` no estilo Thin.
   ///
-  /// ![hexagon](https://api.iconify.design/ph/hexagon-thin.svg?height=32&color=%23888888)
+  /// ![hexagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hexagon.png)
   static const IconData hexagon = IconData(
     0xe2ae,
     fontFamily: 'PhosphorThin',
@@ -9415,7 +9415,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `highDefinition` no estilo Thin.
   ///
-  /// ![high-definition](https://api.iconify.design/ph/high-definition-thin.svg?height=32&color=%23888888)
+  /// ![high-definition](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/high-definition.png)
   static const IconData highDefinition = IconData(
     0xea8e,
     fontFamily: 'PhosphorThin',
@@ -9427,7 +9427,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `highHeel` no estilo Thin.
   ///
-  /// ![high-heel](https://api.iconify.design/ph/high-heel-thin.svg?height=32&color=%23888888)
+  /// ![high-heel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/high-heel.png)
   static const IconData highHeel = IconData(
     0xe8e8,
     fontFamily: 'PhosphorThin',
@@ -9439,7 +9439,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `highlighter` no estilo Thin.
   ///
-  /// ![highlighter](https://api.iconify.design/ph/highlighter-thin.svg?height=32&color=%23888888)
+  /// ![highlighter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/highlighter.png)
   static const IconData highlighter = IconData(
     0xec76,
     fontFamily: 'PhosphorThin',
@@ -9451,7 +9451,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `highlighterCircle` no estilo Thin.
   ///
-  /// ![highlighter-circle](https://api.iconify.design/ph/highlighter-circle-thin.svg?height=32&color=%23888888)
+  /// ![highlighter-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/highlighter-circle.png)
   static const IconData highlighterCircle = IconData(
     0xe632,
     fontFamily: 'PhosphorThin',
@@ -9463,7 +9463,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hockey` no estilo Thin.
   ///
-  /// ![hockey](https://api.iconify.design/ph/hockey-thin.svg?height=32&color=%23888888)
+  /// ![hockey](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hockey.png)
   static const IconData hockey = IconData(
     0xec86,
     fontFamily: 'PhosphorThin',
@@ -9475,7 +9475,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hoodie` no estilo Thin.
   ///
-  /// ![hoodie](https://api.iconify.design/ph/hoodie-thin.svg?height=32&color=%23888888)
+  /// ![hoodie](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hoodie.png)
   static const IconData hoodie = IconData(
     0xecd0,
     fontFamily: 'PhosphorThin',
@@ -9487,7 +9487,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `horse` no estilo Thin.
   ///
-  /// ![horse](https://api.iconify.design/ph/horse-thin.svg?height=32&color=%23888888)
+  /// ![horse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/horse.png)
   static const IconData horse = IconData(
     0xe2b0,
     fontFamily: 'PhosphorThin',
@@ -9499,7 +9499,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hospital` no estilo Thin.
   ///
-  /// ![hospital](https://api.iconify.design/ph/hospital-thin.svg?height=32&color=%23888888)
+  /// ![hospital](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hospital.png)
   static const IconData hospital = IconData(
     0xe844,
     fontFamily: 'PhosphorThin',
@@ -9511,7 +9511,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglass` no estilo Thin.
   ///
-  /// ![hourglass](https://api.iconify.design/ph/hourglass-thin.svg?height=32&color=%23888888)
+  /// ![hourglass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass.png)
   static const IconData hourglass = IconData(
     0xe2b2,
     fontFamily: 'PhosphorThin',
@@ -9523,7 +9523,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglassHigh` no estilo Thin.
   ///
-  /// ![hourglass-high](https://api.iconify.design/ph/hourglass-high-thin.svg?height=32&color=%23888888)
+  /// ![hourglass-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass-high.png)
   static const IconData hourglassHigh = IconData(
     0xe2b4,
     fontFamily: 'PhosphorThin',
@@ -9535,7 +9535,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglassLow` no estilo Thin.
   ///
-  /// ![hourglass-low](https://api.iconify.design/ph/hourglass-low-thin.svg?height=32&color=%23888888)
+  /// ![hourglass-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass-low.png)
   static const IconData hourglassLow = IconData(
     0xe2b6,
     fontFamily: 'PhosphorThin',
@@ -9547,7 +9547,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglassMedium` no estilo Thin.
   ///
-  /// ![hourglass-medium](https://api.iconify.design/ph/hourglass-medium-thin.svg?height=32&color=%23888888)
+  /// ![hourglass-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass-medium.png)
   static const IconData hourglassMedium = IconData(
     0xe2b8,
     fontFamily: 'PhosphorThin',
@@ -9559,7 +9559,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglassSimple` no estilo Thin.
   ///
-  /// ![hourglass-simple](https://api.iconify.design/ph/hourglass-simple-thin.svg?height=32&color=%23888888)
+  /// ![hourglass-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass-simple.png)
   static const IconData hourglassSimple = IconData(
     0xe2ba,
     fontFamily: 'PhosphorThin',
@@ -9571,7 +9571,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglassSimpleHigh` no estilo Thin.
   ///
-  /// ![hourglass-simple-high](https://api.iconify.design/ph/hourglass-simple-high-thin.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass-simple-high.png)
   static const IconData hourglassSimpleHigh = IconData(
     0xe2bc,
     fontFamily: 'PhosphorThin',
@@ -9583,7 +9583,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglassSimpleLow` no estilo Thin.
   ///
-  /// ![hourglass-simple-low](https://api.iconify.design/ph/hourglass-simple-low-thin.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass-simple-low.png)
   static const IconData hourglassSimpleLow = IconData(
     0xe2be,
     fontFamily: 'PhosphorThin',
@@ -9595,7 +9595,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hourglassSimpleMedium` no estilo Thin.
   ///
-  /// ![hourglass-simple-medium](https://api.iconify.design/ph/hourglass-simple-medium-thin.svg?height=32&color=%23888888)
+  /// ![hourglass-simple-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hourglass-simple-medium.png)
   static const IconData hourglassSimpleMedium = IconData(
     0xe2c0,
     fontFamily: 'PhosphorThin',
@@ -9607,7 +9607,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `house` no estilo Thin.
   ///
-  /// ![house](https://api.iconify.design/ph/house-thin.svg?height=32&color=%23888888)
+  /// ![house](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/house.png)
   static const IconData house = IconData(
     0xe2c2,
     fontFamily: 'PhosphorThin',
@@ -9619,7 +9619,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `houseLine` no estilo Thin.
   ///
-  /// ![house-line](https://api.iconify.design/ph/house-line-thin.svg?height=32&color=%23888888)
+  /// ![house-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/house-line.png)
   static const IconData houseLine = IconData(
     0xe2c4,
     fontFamily: 'PhosphorThin',
@@ -9631,7 +9631,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `houseSimple` no estilo Thin.
   ///
-  /// ![house-simple](https://api.iconify.design/ph/house-simple-thin.svg?height=32&color=%23888888)
+  /// ![house-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/house-simple.png)
   static const IconData houseSimple = IconData(
     0xe2c6,
     fontFamily: 'PhosphorThin',
@@ -9643,7 +9643,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `hurricane` no estilo Thin.
   ///
-  /// ![hurricane](https://api.iconify.design/ph/hurricane-thin.svg?height=32&color=%23888888)
+  /// ![hurricane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/hurricane.png)
   static const IconData hurricane = IconData(
     0xe88e,
     fontFamily: 'PhosphorThin',
@@ -9655,7 +9655,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `iceCream` no estilo Thin.
   ///
-  /// ![ice-cream](https://api.iconify.design/ph/ice-cream-thin.svg?height=32&color=%23888888)
+  /// ![ice-cream](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ice-cream.png)
   static const IconData iceCream = IconData(
     0xe804,
     fontFamily: 'PhosphorThin',
@@ -9667,7 +9667,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `identificationBadge` no estilo Thin.
   ///
-  /// ![identification-badge](https://api.iconify.design/ph/identification-badge-thin.svg?height=32&color=%23888888)
+  /// ![identification-badge](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/identification-badge.png)
   static const IconData identificationBadge = IconData(
     0xe6f6,
     fontFamily: 'PhosphorThin',
@@ -9679,7 +9679,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `identificationCard` no estilo Thin.
   ///
-  /// ![identification-card](https://api.iconify.design/ph/identification-card-thin.svg?height=32&color=%23888888)
+  /// ![identification-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/identification-card.png)
   static const IconData identificationCard = IconData(
     0xe2c8,
     fontFamily: 'PhosphorThin',
@@ -9691,7 +9691,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `image` no estilo Thin.
   ///
-  /// ![image](https://api.iconify.design/ph/image-thin.svg?height=32&color=%23888888)
+  /// ![image](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/image.png)
   static const IconData image = IconData(
     0xe2ca,
     fontFamily: 'PhosphorThin',
@@ -9703,7 +9703,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `imageBroken` no estilo Thin.
   ///
-  /// ![image-broken](https://api.iconify.design/ph/image-broken-thin.svg?height=32&color=%23888888)
+  /// ![image-broken](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/image-broken.png)
   static const IconData imageBroken = IconData(
     0xe7a8,
     fontFamily: 'PhosphorThin',
@@ -9715,7 +9715,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `imageSquare` no estilo Thin.
   ///
-  /// ![image-square](https://api.iconify.design/ph/image-square-thin.svg?height=32&color=%23888888)
+  /// ![image-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/image-square.png)
   static const IconData imageSquare = IconData(
     0xe2cc,
     fontFamily: 'PhosphorThin',
@@ -9727,7 +9727,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `images` no estilo Thin.
   ///
-  /// ![images](https://api.iconify.design/ph/images-thin.svg?height=32&color=%23888888)
+  /// ![images](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/images.png)
   static const IconData images = IconData(
     0xe836,
     fontFamily: 'PhosphorThin',
@@ -9739,7 +9739,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `imagesSquare` no estilo Thin.
   ///
-  /// ![images-square](https://api.iconify.design/ph/images-square-thin.svg?height=32&color=%23888888)
+  /// ![images-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/images-square.png)
   static const IconData imagesSquare = IconData(
     0xe834,
     fontFamily: 'PhosphorThin',
@@ -9751,7 +9751,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `infinity` no estilo Thin.
   ///
-  /// ![infinity](https://api.iconify.design/ph/infinity-thin.svg?height=32&color=%23888888)
+  /// ![infinity](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/infinity.png)
   static const IconData infinity = IconData(
     0xe634,
     fontFamily: 'PhosphorThin',
@@ -9763,7 +9763,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `info` no estilo Thin.
   ///
-  /// ![info](https://api.iconify.design/ph/info-thin.svg?height=32&color=%23888888)
+  /// ![info](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/info.png)
   static const IconData info = IconData(
     0xe2ce,
     fontFamily: 'PhosphorThin',
@@ -9775,7 +9775,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `instagramLogo` no estilo Thin.
   ///
-  /// ![instagram-logo](https://api.iconify.design/ph/instagram-logo-thin.svg?height=32&color=%23888888)
+  /// ![instagram-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/instagram-logo.png)
   static const IconData instagramLogo = IconData(
     0xe2d0,
     fontFamily: 'PhosphorThin',
@@ -9787,7 +9787,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `intersect` no estilo Thin.
   ///
-  /// ![intersect](https://api.iconify.design/ph/intersect-thin.svg?height=32&color=%23888888)
+  /// ![intersect](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/intersect.png)
   static const IconData intersect = IconData(
     0xe2d2,
     fontFamily: 'PhosphorThin',
@@ -9799,7 +9799,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `intersectSquare` no estilo Thin.
   ///
-  /// ![intersect-square](https://api.iconify.design/ph/intersect-square-thin.svg?height=32&color=%23888888)
+  /// ![intersect-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/intersect-square.png)
   static const IconData intersectSquare = IconData(
     0xe87a,
     fontFamily: 'PhosphorThin',
@@ -9811,7 +9811,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `intersectThree` no estilo Thin.
   ///
-  /// ![intersect-three](https://api.iconify.design/ph/intersect-three-thin.svg?height=32&color=%23888888)
+  /// ![intersect-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/intersect-three.png)
   static const IconData intersectThree = IconData(
     0xecc4,
     fontFamily: 'PhosphorThin',
@@ -9823,7 +9823,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `intersection` no estilo Thin.
   ///
-  /// ![intersection](https://api.iconify.design/ph/intersection-thin.svg?height=32&color=%23888888)
+  /// ![intersection](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/intersection.png)
   static const IconData intersection = IconData(
     0xedba,
     fontFamily: 'PhosphorThin',
@@ -9835,7 +9835,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `invoice` no estilo Thin.
   ///
-  /// ![invoice](https://api.iconify.design/ph/invoice-thin.svg?height=32&color=%23888888)
+  /// ![invoice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/invoice.png)
   static const IconData invoice = IconData(
     0xee42,
     fontFamily: 'PhosphorThin',
@@ -9847,7 +9847,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `island` no estilo Thin.
   ///
-  /// ![island](https://api.iconify.design/ph/island-thin.svg?height=32&color=%23888888)
+  /// ![island](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/island.png)
   static const IconData island = IconData(
     0xee06,
     fontFamily: 'PhosphorThin',
@@ -9859,7 +9859,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `jar` no estilo Thin.
   ///
-  /// ![jar](https://api.iconify.design/ph/jar-thin.svg?height=32&color=%23888888)
+  /// ![jar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/jar.png)
   static const IconData jar = IconData(
     0xe7e0,
     fontFamily: 'PhosphorThin',
@@ -9871,7 +9871,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `jarLabel` no estilo Thin.
   ///
-  /// ![jar-label](https://api.iconify.design/ph/jar-label-thin.svg?height=32&color=%23888888)
+  /// ![jar-label](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/jar-label.png)
   static const IconData jarLabel = IconData(
     0xe7e1,
     fontFamily: 'PhosphorThin',
@@ -9883,7 +9883,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `jeep` no estilo Thin.
   ///
-  /// ![jeep](https://api.iconify.design/ph/jeep-thin.svg?height=32&color=%23888888)
+  /// ![jeep](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/jeep.png)
   static const IconData jeep = IconData(
     0xe2d4,
     fontFamily: 'PhosphorThin',
@@ -9895,7 +9895,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `joystick` no estilo Thin.
   ///
-  /// ![joystick](https://api.iconify.design/ph/joystick-thin.svg?height=32&color=%23888888)
+  /// ![joystick](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/joystick.png)
   static const IconData joystick = IconData(
     0xea5e,
     fontFamily: 'PhosphorThin',
@@ -9907,7 +9907,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `kanban` no estilo Thin.
   ///
-  /// ![kanban](https://api.iconify.design/ph/kanban-thin.svg?height=32&color=%23888888)
+  /// ![kanban](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/kanban.png)
   static const IconData kanban = IconData(
     0xeb54,
     fontFamily: 'PhosphorThin',
@@ -9919,7 +9919,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `key` no estilo Thin.
   ///
-  /// ![key](https://api.iconify.design/ph/key-thin.svg?height=32&color=%23888888)
+  /// ![key](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/key.png)
   static const IconData key = IconData(
     0xe2d6,
     fontFamily: 'PhosphorThin',
@@ -9931,7 +9931,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `keyReturn` no estilo Thin.
   ///
-  /// ![key-return](https://api.iconify.design/ph/key-return-thin.svg?height=32&color=%23888888)
+  /// ![key-return](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/key-return.png)
   static const IconData keyReturn = IconData(
     0xe782,
     fontFamily: 'PhosphorThin',
@@ -9943,7 +9943,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `keyboard` no estilo Thin.
   ///
-  /// ![keyboard](https://api.iconify.design/ph/keyboard-thin.svg?height=32&color=%23888888)
+  /// ![keyboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/keyboard.png)
   static const IconData keyboard = IconData(
     0xe2d8,
     fontFamily: 'PhosphorThin',
@@ -9955,7 +9955,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `keyhole` no estilo Thin.
   ///
-  /// ![keyhole](https://api.iconify.design/ph/keyhole-thin.svg?height=32&color=%23888888)
+  /// ![keyhole](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/keyhole.png)
   static const IconData keyhole = IconData(
     0xea78,
     fontFamily: 'PhosphorThin',
@@ -9967,7 +9967,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `knife` no estilo Thin.
   ///
-  /// ![knife](https://api.iconify.design/ph/knife-thin.svg?height=32&color=%23888888)
+  /// ![knife](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/knife.png)
   static const IconData knife = IconData(
     0xe636,
     fontFamily: 'PhosphorThin',
@@ -9979,7 +9979,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ladder` no estilo Thin.
   ///
-  /// ![ladder](https://api.iconify.design/ph/ladder-thin.svg?height=32&color=%23888888)
+  /// ![ladder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ladder.png)
   static const IconData ladder = IconData(
     0xe9e4,
     fontFamily: 'PhosphorThin',
@@ -9991,7 +9991,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ladderSimple` no estilo Thin.
   ///
-  /// ![ladder-simple](https://api.iconify.design/ph/ladder-simple-thin.svg?height=32&color=%23888888)
+  /// ![ladder-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ladder-simple.png)
   static const IconData ladderSimple = IconData(
     0xec26,
     fontFamily: 'PhosphorThin',
@@ -10003,7 +10003,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lamp` no estilo Thin.
   ///
-  /// ![lamp](https://api.iconify.design/ph/lamp-thin.svg?height=32&color=%23888888)
+  /// ![lamp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lamp.png)
   static const IconData lamp = IconData(
     0xe638,
     fontFamily: 'PhosphorThin',
@@ -10015,7 +10015,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lampPendant` no estilo Thin.
   ///
-  /// ![lamp-pendant](https://api.iconify.design/ph/lamp-pendant-thin.svg?height=32&color=%23888888)
+  /// ![lamp-pendant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lamp-pendant.png)
   static const IconData lampPendant = IconData(
     0xee2e,
     fontFamily: 'PhosphorThin',
@@ -10027,7 +10027,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `laptop` no estilo Thin.
   ///
-  /// ![laptop](https://api.iconify.design/ph/laptop-thin.svg?height=32&color=%23888888)
+  /// ![laptop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/laptop.png)
   static const IconData laptop = IconData(
     0xe586,
     fontFamily: 'PhosphorThin',
@@ -10039,7 +10039,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lasso` no estilo Thin.
   ///
-  /// ![lasso](https://api.iconify.design/ph/lasso-thin.svg?height=32&color=%23888888)
+  /// ![lasso](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lasso.png)
   static const IconData lasso = IconData(
     0xedc6,
     fontFamily: 'PhosphorThin',
@@ -10051,7 +10051,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lastfmLogo` no estilo Thin.
   ///
-  /// ![lastfm-logo](https://api.iconify.design/ph/lastfm-logo-thin.svg?height=32&color=%23888888)
+  /// ![lastfm-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lastfm-logo.png)
   static const IconData lastfmLogo = IconData(
     0xe842,
     fontFamily: 'PhosphorThin',
@@ -10063,7 +10063,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `layout` no estilo Thin.
   ///
-  /// ![layout](https://api.iconify.design/ph/layout-thin.svg?height=32&color=%23888888)
+  /// ![layout](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/layout.png)
   static const IconData layout = IconData(
     0xe6d6,
     fontFamily: 'PhosphorThin',
@@ -10075,7 +10075,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `leaf` no estilo Thin.
   ///
-  /// ![leaf](https://api.iconify.design/ph/leaf-thin.svg?height=32&color=%23888888)
+  /// ![leaf](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/leaf.png)
   static const IconData leaf = IconData(
     0xe2da,
     fontFamily: 'PhosphorThin',
@@ -10087,7 +10087,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lectern` no estilo Thin.
   ///
-  /// ![lectern](https://api.iconify.design/ph/lectern-thin.svg?height=32&color=%23888888)
+  /// ![lectern](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lectern.png)
   static const IconData lectern = IconData(
     0xe95a,
     fontFamily: 'PhosphorThin',
@@ -10099,7 +10099,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lego` no estilo Thin.
   ///
-  /// ![lego](https://api.iconify.design/ph/lego-thin.svg?height=32&color=%23888888)
+  /// ![lego](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lego.png)
   static const IconData lego = IconData(
     0xe8c6,
     fontFamily: 'PhosphorThin',
@@ -10111,7 +10111,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `legoSmiley` no estilo Thin.
   ///
-  /// ![lego-smiley](https://api.iconify.design/ph/lego-smiley-thin.svg?height=32&color=%23888888)
+  /// ![lego-smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lego-smiley.png)
   static const IconData legoSmiley = IconData(
     0xe8c7,
     fontFamily: 'PhosphorThin',
@@ -10123,7 +10123,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lemniscate` no estilo Thin.
   ///
-  /// ![lemniscate](https://api.iconify.design/ph/infinity-thin.svg?height=32&color=%23888888)
+  /// ![lemniscate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lemniscate.png)
   static const IconData lemniscate = IconData(
     0xe634,
     fontFamily: 'PhosphorThin',
@@ -10135,7 +10135,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lessThan` no estilo Thin.
   ///
-  /// ![less-than](https://api.iconify.design/ph/less-than-thin.svg?height=32&color=%23888888)
+  /// ![less-than](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/less-than.png)
   static const IconData lessThan = IconData(
     0xedac,
     fontFamily: 'PhosphorThin',
@@ -10147,7 +10147,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lessThanOrEqual` no estilo Thin.
   ///
-  /// ![less-than-or-equal](https://api.iconify.design/ph/less-than-or-equal-thin.svg?height=32&color=%23888888)
+  /// ![less-than-or-equal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/less-than-or-equal.png)
   static const IconData lessThanOrEqual = IconData(
     0xeda4,
     fontFamily: 'PhosphorThin',
@@ -10159,7 +10159,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `letterCircleH` no estilo Thin.
   ///
-  /// ![letter-circle-h](https://api.iconify.design/ph/letter-circle-h-thin.svg?height=32&color=%23888888)
+  /// ![letter-circle-h](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/letter-circle-h.png)
   static const IconData letterCircleH = IconData(
     0xebf8,
     fontFamily: 'PhosphorThin',
@@ -10171,7 +10171,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `letterCircleP` no estilo Thin.
   ///
-  /// ![letter-circle-p](https://api.iconify.design/ph/letter-circle-p-thin.svg?height=32&color=%23888888)
+  /// ![letter-circle-p](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/letter-circle-p.png)
   static const IconData letterCircleP = IconData(
     0xec08,
     fontFamily: 'PhosphorThin',
@@ -10183,7 +10183,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `letterCircleV` no estilo Thin.
   ///
-  /// ![letter-circle-v](https://api.iconify.design/ph/letter-circle-v-thin.svg?height=32&color=%23888888)
+  /// ![letter-circle-v](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/letter-circle-v.png)
   static const IconData letterCircleV = IconData(
     0xec14,
     fontFamily: 'PhosphorThin',
@@ -10195,7 +10195,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lifebuoy` no estilo Thin.
   ///
-  /// ![lifebuoy](https://api.iconify.design/ph/lifebuoy-thin.svg?height=32&color=%23888888)
+  /// ![lifebuoy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lifebuoy.png)
   static const IconData lifebuoy = IconData(
     0xe63a,
     fontFamily: 'PhosphorThin',
@@ -10207,7 +10207,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lightbulb` no estilo Thin.
   ///
-  /// ![lightbulb](https://api.iconify.design/ph/lightbulb-thin.svg?height=32&color=%23888888)
+  /// ![lightbulb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lightbulb.png)
   static const IconData lightbulb = IconData(
     0xe2dc,
     fontFamily: 'PhosphorThin',
@@ -10219,7 +10219,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lightbulbFilament` no estilo Thin.
   ///
-  /// ![lightbulb-filament](https://api.iconify.design/ph/lightbulb-filament-thin.svg?height=32&color=%23888888)
+  /// ![lightbulb-filament](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lightbulb-filament.png)
   static const IconData lightbulbFilament = IconData(
     0xe63c,
     fontFamily: 'PhosphorThin',
@@ -10231,7 +10231,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lighthouse` no estilo Thin.
   ///
-  /// ![lighthouse](https://api.iconify.design/ph/lighthouse-thin.svg?height=32&color=%23888888)
+  /// ![lighthouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lighthouse.png)
   static const IconData lighthouse = IconData(
     0xe9f6,
     fontFamily: 'PhosphorThin',
@@ -10243,7 +10243,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lightning` no estilo Thin.
   ///
-  /// ![lightning](https://api.iconify.design/ph/lightning-thin.svg?height=32&color=%23888888)
+  /// ![lightning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lightning.png)
   static const IconData lightning = IconData(
     0xe2de,
     fontFamily: 'PhosphorThin',
@@ -10255,7 +10255,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lightningA` no estilo Thin.
   ///
-  /// ![lightning-a](https://api.iconify.design/ph/lightning-a-thin.svg?height=32&color=%23888888)
+  /// ![lightning-a](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lightning-a.png)
   static const IconData lightningA = IconData(
     0xea84,
     fontFamily: 'PhosphorThin',
@@ -10267,7 +10267,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lightningSlash` no estilo Thin.
   ///
-  /// ![lightning-slash](https://api.iconify.design/ph/lightning-slash-thin.svg?height=32&color=%23888888)
+  /// ![lightning-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lightning-slash.png)
   static const IconData lightningSlash = IconData(
     0xe2e0,
     fontFamily: 'PhosphorThin',
@@ -10279,7 +10279,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lineSegment` no estilo Thin.
   ///
-  /// ![line-segment](https://api.iconify.design/ph/line-segment-thin.svg?height=32&color=%23888888)
+  /// ![line-segment](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/line-segment.png)
   static const IconData lineSegment = IconData(
     0xe6d2,
     fontFamily: 'PhosphorThin',
@@ -10291,7 +10291,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lineSegments` no estilo Thin.
   ///
-  /// ![line-segments](https://api.iconify.design/ph/line-segments-thin.svg?height=32&color=%23888888)
+  /// ![line-segments](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/line-segments.png)
   static const IconData lineSegments = IconData(
     0xe6d4,
     fontFamily: 'PhosphorThin',
@@ -10303,7 +10303,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lineVertical` no estilo Thin.
   ///
-  /// ![line-vertical](https://api.iconify.design/ph/line-vertical-thin.svg?height=32&color=%23888888)
+  /// ![line-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/line-vertical.png)
   static const IconData lineVertical = IconData(
     0xed70,
     fontFamily: 'PhosphorThin',
@@ -10315,7 +10315,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `link` no estilo Thin.
   ///
-  /// ![link](https://api.iconify.design/ph/link-thin.svg?height=32&color=%23888888)
+  /// ![link](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/link.png)
   static const IconData link = IconData(
     0xe2e2,
     fontFamily: 'PhosphorThin',
@@ -10327,7 +10327,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linkBreak` no estilo Thin.
   ///
-  /// ![link-break](https://api.iconify.design/ph/link-break-thin.svg?height=32&color=%23888888)
+  /// ![link-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/link-break.png)
   static const IconData linkBreak = IconData(
     0xe2e4,
     fontFamily: 'PhosphorThin',
@@ -10339,7 +10339,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linkSimple` no estilo Thin.
   ///
-  /// ![link-simple](https://api.iconify.design/ph/link-simple-thin.svg?height=32&color=%23888888)
+  /// ![link-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/link-simple.png)
   static const IconData linkSimple = IconData(
     0xe2e6,
     fontFamily: 'PhosphorThin',
@@ -10351,7 +10351,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linkSimpleBreak` no estilo Thin.
   ///
-  /// ![link-simple-break](https://api.iconify.design/ph/link-simple-break-thin.svg?height=32&color=%23888888)
+  /// ![link-simple-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/link-simple-break.png)
   static const IconData linkSimpleBreak = IconData(
     0xe2e8,
     fontFamily: 'PhosphorThin',
@@ -10363,7 +10363,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linkSimpleHorizontal` no estilo Thin.
   ///
-  /// ![link-simple-horizontal](https://api.iconify.design/ph/link-simple-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/link-simple-horizontal.png)
   static const IconData linkSimpleHorizontal = IconData(
     0xe2ea,
     fontFamily: 'PhosphorThin',
@@ -10375,7 +10375,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linkSimpleHorizontalBreak` no estilo Thin.
   ///
-  /// ![link-simple-horizontal-break](https://api.iconify.design/ph/link-simple-horizontal-break-thin.svg?height=32&color=%23888888)
+  /// ![link-simple-horizontal-break](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/link-simple-horizontal-break.png)
   static const IconData linkSimpleHorizontalBreak = IconData(
     0xe2ec,
     fontFamily: 'PhosphorThin',
@@ -10387,7 +10387,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linkedinLogo` no estilo Thin.
   ///
-  /// ![linkedin-logo](https://api.iconify.design/ph/linkedin-logo-thin.svg?height=32&color=%23888888)
+  /// ![linkedin-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/linkedin-logo.png)
   static const IconData linkedinLogo = IconData(
     0xe2ee,
     fontFamily: 'PhosphorThin',
@@ -10399,7 +10399,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linktreeLogo` no estilo Thin.
   ///
-  /// ![linktree-logo](https://api.iconify.design/ph/linktree-logo-thin.svg?height=32&color=%23888888)
+  /// ![linktree-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/linktree-logo.png)
   static const IconData linktreeLogo = IconData(
     0xedee,
     fontFamily: 'PhosphorThin',
@@ -10411,7 +10411,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `linuxLogo` no estilo Thin.
   ///
-  /// ![linux-logo](https://api.iconify.design/ph/linux-logo-thin.svg?height=32&color=%23888888)
+  /// ![linux-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/linux-logo.png)
   static const IconData linuxLogo = IconData(
     0xeb02,
     fontFamily: 'PhosphorThin',
@@ -10423,7 +10423,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `list` no estilo Thin.
   ///
-  /// ![list](https://api.iconify.design/ph/list-thin.svg?height=32&color=%23888888)
+  /// ![list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list.png)
   static const IconData list = IconData(
     0xe2f0,
     fontFamily: 'PhosphorThin',
@@ -10435,7 +10435,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listBullets` no estilo Thin.
   ///
-  /// ![list-bullets](https://api.iconify.design/ph/list-bullets-thin.svg?height=32&color=%23888888)
+  /// ![list-bullets](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-bullets.png)
   static const IconData listBullets = IconData(
     0xe2f2,
     fontFamily: 'PhosphorThin',
@@ -10447,7 +10447,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listChecks` no estilo Thin.
   ///
-  /// ![list-checks](https://api.iconify.design/ph/list-checks-thin.svg?height=32&color=%23888888)
+  /// ![list-checks](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-checks.png)
   static const IconData listChecks = IconData(
     0xeadc,
     fontFamily: 'PhosphorThin',
@@ -10459,7 +10459,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listDashes` no estilo Thin.
   ///
-  /// ![list-dashes](https://api.iconify.design/ph/list-dashes-thin.svg?height=32&color=%23888888)
+  /// ![list-dashes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-dashes.png)
   static const IconData listDashes = IconData(
     0xe2f4,
     fontFamily: 'PhosphorThin',
@@ -10471,7 +10471,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listHeart` no estilo Thin.
   ///
-  /// ![list-heart](https://api.iconify.design/ph/list-heart-thin.svg?height=32&color=%23888888)
+  /// ![list-heart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-heart.png)
   static const IconData listHeart = IconData(
     0xebde,
     fontFamily: 'PhosphorThin',
@@ -10483,7 +10483,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listMagnifyingGlass` no estilo Thin.
   ///
-  /// ![list-magnifying-glass](https://api.iconify.design/ph/list-magnifying-glass-thin.svg?height=32&color=%23888888)
+  /// ![list-magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-magnifying-glass.png)
   static const IconData listMagnifyingGlass = IconData(
     0xebe0,
     fontFamily: 'PhosphorThin',
@@ -10495,7 +10495,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listNumbers` no estilo Thin.
   ///
-  /// ![list-numbers](https://api.iconify.design/ph/list-numbers-thin.svg?height=32&color=%23888888)
+  /// ![list-numbers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-numbers.png)
   static const IconData listNumbers = IconData(
     0xe2f6,
     fontFamily: 'PhosphorThin',
@@ -10507,7 +10507,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listPlus` no estilo Thin.
   ///
-  /// ![list-plus](https://api.iconify.design/ph/list-plus-thin.svg?height=32&color=%23888888)
+  /// ![list-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-plus.png)
   static const IconData listPlus = IconData(
     0xe2f8,
     fontFamily: 'PhosphorThin',
@@ -10519,7 +10519,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `listStar` no estilo Thin.
   ///
-  /// ![list-star](https://api.iconify.design/ph/list-star-thin.svg?height=32&color=%23888888)
+  /// ![list-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/list-star.png)
   static const IconData listStar = IconData(
     0xebdc,
     fontFamily: 'PhosphorThin',
@@ -10531,7 +10531,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lock` no estilo Thin.
   ///
-  /// ![lock](https://api.iconify.design/ph/lock-thin.svg?height=32&color=%23888888)
+  /// ![lock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock.png)
   static const IconData lock = IconData(
     0xe2fa,
     fontFamily: 'PhosphorThin',
@@ -10543,7 +10543,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockKey` no estilo Thin.
   ///
-  /// ![lock-key](https://api.iconify.design/ph/lock-key-thin.svg?height=32&color=%23888888)
+  /// ![lock-key](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock-key.png)
   static const IconData lockKey = IconData(
     0xe2fe,
     fontFamily: 'PhosphorThin',
@@ -10555,7 +10555,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockKeyOpen` no estilo Thin.
   ///
-  /// ![lock-key-open](https://api.iconify.design/ph/lock-key-open-thin.svg?height=32&color=%23888888)
+  /// ![lock-key-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock-key-open.png)
   static const IconData lockKeyOpen = IconData(
     0xe300,
     fontFamily: 'PhosphorThin',
@@ -10567,7 +10567,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockLaminated` no estilo Thin.
   ///
-  /// ![lock-laminated](https://api.iconify.design/ph/lock-laminated-thin.svg?height=32&color=%23888888)
+  /// ![lock-laminated](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock-laminated.png)
   static const IconData lockLaminated = IconData(
     0xe302,
     fontFamily: 'PhosphorThin',
@@ -10579,7 +10579,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockLaminatedOpen` no estilo Thin.
   ///
-  /// ![lock-laminated-open](https://api.iconify.design/ph/lock-laminated-open-thin.svg?height=32&color=%23888888)
+  /// ![lock-laminated-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock-laminated-open.png)
   static const IconData lockLaminatedOpen = IconData(
     0xe304,
     fontFamily: 'PhosphorThin',
@@ -10591,7 +10591,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockOpen` no estilo Thin.
   ///
-  /// ![lock-open](https://api.iconify.design/ph/lock-open-thin.svg?height=32&color=%23888888)
+  /// ![lock-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock-open.png)
   static const IconData lockOpen = IconData(
     0xe306,
     fontFamily: 'PhosphorThin',
@@ -10603,7 +10603,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockSimple` no estilo Thin.
   ///
-  /// ![lock-simple](https://api.iconify.design/ph/lock-simple-thin.svg?height=32&color=%23888888)
+  /// ![lock-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock-simple.png)
   static const IconData lockSimple = IconData(
     0xe308,
     fontFamily: 'PhosphorThin',
@@ -10615,7 +10615,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockSimpleOpen` no estilo Thin.
   ///
-  /// ![lock-simple-open](https://api.iconify.design/ph/lock-simple-open-thin.svg?height=32&color=%23888888)
+  /// ![lock-simple-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lock-simple-open.png)
   static const IconData lockSimpleOpen = IconData(
     0xe30a,
     fontFamily: 'PhosphorThin',
@@ -10627,7 +10627,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `lockers` no estilo Thin.
   ///
-  /// ![lockers](https://api.iconify.design/ph/lockers-thin.svg?height=32&color=%23888888)
+  /// ![lockers](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/lockers.png)
   static const IconData lockers = IconData(
     0xecb8,
     fontFamily: 'PhosphorThin',
@@ -10639,7 +10639,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `log` no estilo Thin.
   ///
-  /// ![log](https://api.iconify.design/ph/log-thin.svg?height=32&color=%23888888)
+  /// ![log](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/log.png)
   static const IconData log = IconData(
     0xed82,
     fontFamily: 'PhosphorThin',
@@ -10651,7 +10651,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `magicWand` no estilo Thin.
   ///
-  /// ![magic-wand](https://api.iconify.design/ph/magic-wand-thin.svg?height=32&color=%23888888)
+  /// ![magic-wand](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/magic-wand.png)
   static const IconData magicWand = IconData(
     0xe6b6,
     fontFamily: 'PhosphorThin',
@@ -10663,7 +10663,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `magnet` no estilo Thin.
   ///
-  /// ![magnet](https://api.iconify.design/ph/magnet-thin.svg?height=32&color=%23888888)
+  /// ![magnet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/magnet.png)
   static const IconData magnet = IconData(
     0xe680,
     fontFamily: 'PhosphorThin',
@@ -10675,7 +10675,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `magnetStraight` no estilo Thin.
   ///
-  /// ![magnet-straight](https://api.iconify.design/ph/magnet-straight-thin.svg?height=32&color=%23888888)
+  /// ![magnet-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/magnet-straight.png)
   static const IconData magnetStraight = IconData(
     0xe682,
     fontFamily: 'PhosphorThin',
@@ -10687,7 +10687,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `magnifyingGlass` no estilo Thin.
   ///
-  /// ![magnifying-glass](https://api.iconify.design/ph/magnifying-glass-thin.svg?height=32&color=%23888888)
+  /// ![magnifying-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/magnifying-glass.png)
   static const IconData magnifyingGlass = IconData(
     0xe30c,
     fontFamily: 'PhosphorThin',
@@ -10699,7 +10699,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `magnifyingGlassMinus` no estilo Thin.
   ///
-  /// ![magnifying-glass-minus](https://api.iconify.design/ph/magnifying-glass-minus-thin.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/magnifying-glass-minus.png)
   static const IconData magnifyingGlassMinus = IconData(
     0xe30e,
     fontFamily: 'PhosphorThin',
@@ -10711,7 +10711,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `magnifyingGlassPlus` no estilo Thin.
   ///
-  /// ![magnifying-glass-plus](https://api.iconify.design/ph/magnifying-glass-plus-thin.svg?height=32&color=%23888888)
+  /// ![magnifying-glass-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/magnifying-glass-plus.png)
   static const IconData magnifyingGlassPlus = IconData(
     0xe310,
     fontFamily: 'PhosphorThin',
@@ -10723,7 +10723,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mailbox` no estilo Thin.
   ///
-  /// ![mailbox](https://api.iconify.design/ph/mailbox-thin.svg?height=32&color=%23888888)
+  /// ![mailbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mailbox.png)
   static const IconData mailbox = IconData(
     0xec1e,
     fontFamily: 'PhosphorThin',
@@ -10735,7 +10735,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapPin` no estilo Thin.
   ///
-  /// ![map-pin](https://api.iconify.design/ph/map-pin-thin.svg?height=32&color=%23888888)
+  /// ![map-pin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-pin.png)
   static const IconData mapPin = IconData(
     0xe316,
     fontFamily: 'PhosphorThin',
@@ -10747,7 +10747,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapPinArea` no estilo Thin.
   ///
-  /// ![map-pin-area](https://api.iconify.design/ph/map-pin-area-thin.svg?height=32&color=%23888888)
+  /// ![map-pin-area](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-pin-area.png)
   static const IconData mapPinArea = IconData(
     0xee3a,
     fontFamily: 'PhosphorThin',
@@ -10759,7 +10759,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapPinLine` no estilo Thin.
   ///
-  /// ![map-pin-line](https://api.iconify.design/ph/map-pin-line-thin.svg?height=32&color=%23888888)
+  /// ![map-pin-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-pin-line.png)
   static const IconData mapPinLine = IconData(
     0xe318,
     fontFamily: 'PhosphorThin',
@@ -10771,7 +10771,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapPinPlus` no estilo Thin.
   ///
-  /// ![map-pin-plus](https://api.iconify.design/ph/map-pin-plus-thin.svg?height=32&color=%23888888)
+  /// ![map-pin-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-pin-plus.png)
   static const IconData mapPinPlus = IconData(
     0xe314,
     fontFamily: 'PhosphorThin',
@@ -10783,7 +10783,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapPinSimple` no estilo Thin.
   ///
-  /// ![map-pin-simple](https://api.iconify.design/ph/map-pin-simple-thin.svg?height=32&color=%23888888)
+  /// ![map-pin-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-pin-simple.png)
   static const IconData mapPinSimple = IconData(
     0xee3e,
     fontFamily: 'PhosphorThin',
@@ -10795,7 +10795,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapPinSimpleArea` no estilo Thin.
   ///
-  /// ![map-pin-simple-area](https://api.iconify.design/ph/map-pin-simple-area-thin.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-area](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-pin-simple-area.png)
   static const IconData mapPinSimpleArea = IconData(
     0xee3c,
     fontFamily: 'PhosphorThin',
@@ -10807,7 +10807,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapPinSimpleLine` no estilo Thin.
   ///
-  /// ![map-pin-simple-line](https://api.iconify.design/ph/map-pin-simple-line-thin.svg?height=32&color=%23888888)
+  /// ![map-pin-simple-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-pin-simple-line.png)
   static const IconData mapPinSimpleLine = IconData(
     0xee38,
     fontFamily: 'PhosphorThin',
@@ -10819,7 +10819,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mapTrifold` no estilo Thin.
   ///
-  /// ![map-trifold](https://api.iconify.design/ph/map-trifold-thin.svg?height=32&color=%23888888)
+  /// ![map-trifold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/map-trifold.png)
   static const IconData mapTrifold = IconData(
     0xe31a,
     fontFamily: 'PhosphorThin',
@@ -10831,7 +10831,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `markdownLogo` no estilo Thin.
   ///
-  /// ![markdown-logo](https://api.iconify.design/ph/markdown-logo-thin.svg?height=32&color=%23888888)
+  /// ![markdown-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/markdown-logo.png)
   static const IconData markdownLogo = IconData(
     0xe508,
     fontFamily: 'PhosphorThin',
@@ -10843,7 +10843,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `markerCircle` no estilo Thin.
   ///
-  /// ![marker-circle](https://api.iconify.design/ph/marker-circle-thin.svg?height=32&color=%23888888)
+  /// ![marker-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/marker-circle.png)
   static const IconData markerCircle = IconData(
     0xe640,
     fontFamily: 'PhosphorThin',
@@ -10855,7 +10855,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `martini` no estilo Thin.
   ///
-  /// ![martini](https://api.iconify.design/ph/martini-thin.svg?height=32&color=%23888888)
+  /// ![martini](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/martini.png)
   static const IconData martini = IconData(
     0xe31c,
     fontFamily: 'PhosphorThin',
@@ -10867,7 +10867,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `maskHappy` no estilo Thin.
   ///
-  /// ![mask-happy](https://api.iconify.design/ph/mask-happy-thin.svg?height=32&color=%23888888)
+  /// ![mask-happy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mask-happy.png)
   static const IconData maskHappy = IconData(
     0xe9f4,
     fontFamily: 'PhosphorThin',
@@ -10879,7 +10879,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `maskSad` no estilo Thin.
   ///
-  /// ![mask-sad](https://api.iconify.design/ph/mask-sad-thin.svg?height=32&color=%23888888)
+  /// ![mask-sad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mask-sad.png)
   static const IconData maskSad = IconData(
     0xeb9e,
     fontFamily: 'PhosphorThin',
@@ -10891,7 +10891,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mastodonLogo` no estilo Thin.
   ///
-  /// ![mastodon-logo](https://api.iconify.design/ph/mastodon-logo-thin.svg?height=32&color=%23888888)
+  /// ![mastodon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mastodon-logo.png)
   static const IconData mastodonLogo = IconData(
     0xed68,
     fontFamily: 'PhosphorThin',
@@ -10903,7 +10903,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mathOperations` no estilo Thin.
   ///
-  /// ![math-operations](https://api.iconify.design/ph/math-operations-thin.svg?height=32&color=%23888888)
+  /// ![math-operations](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/math-operations.png)
   static const IconData mathOperations = IconData(
     0xe31e,
     fontFamily: 'PhosphorThin',
@@ -10915,7 +10915,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `matrixLogo` no estilo Thin.
   ///
-  /// ![matrix-logo](https://api.iconify.design/ph/matrix-logo-thin.svg?height=32&color=%23888888)
+  /// ![matrix-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/matrix-logo.png)
   static const IconData matrixLogo = IconData(
     0xed64,
     fontFamily: 'PhosphorThin',
@@ -10927,7 +10927,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `medal` no estilo Thin.
   ///
-  /// ![medal](https://api.iconify.design/ph/medal-thin.svg?height=32&color=%23888888)
+  /// ![medal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/medal.png)
   static const IconData medal = IconData(
     0xe320,
     fontFamily: 'PhosphorThin',
@@ -10939,7 +10939,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `medalMilitary` no estilo Thin.
   ///
-  /// ![medal-military](https://api.iconify.design/ph/medal-military-thin.svg?height=32&color=%23888888)
+  /// ![medal-military](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/medal-military.png)
   static const IconData medalMilitary = IconData(
     0xecfc,
     fontFamily: 'PhosphorThin',
@@ -10951,7 +10951,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mediumLogo` no estilo Thin.
   ///
-  /// ![medium-logo](https://api.iconify.design/ph/medium-logo-thin.svg?height=32&color=%23888888)
+  /// ![medium-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/medium-logo.png)
   static const IconData mediumLogo = IconData(
     0xe322,
     fontFamily: 'PhosphorThin',
@@ -10963,7 +10963,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `megaphone` no estilo Thin.
   ///
-  /// ![megaphone](https://api.iconify.design/ph/megaphone-thin.svg?height=32&color=%23888888)
+  /// ![megaphone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/megaphone.png)
   static const IconData megaphone = IconData(
     0xe324,
     fontFamily: 'PhosphorThin',
@@ -10975,7 +10975,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `megaphoneSimple` no estilo Thin.
   ///
-  /// ![megaphone-simple](https://api.iconify.design/ph/megaphone-simple-thin.svg?height=32&color=%23888888)
+  /// ![megaphone-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/megaphone-simple.png)
   static const IconData megaphoneSimple = IconData(
     0xe642,
     fontFamily: 'PhosphorThin',
@@ -10987,7 +10987,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `memberOf` no estilo Thin.
   ///
-  /// ![member-of](https://api.iconify.design/ph/member-of-thin.svg?height=32&color=%23888888)
+  /// ![member-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/member-of.png)
   static const IconData memberOf = IconData(
     0xedc2,
     fontFamily: 'PhosphorThin',
@@ -10999,7 +10999,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `memory` no estilo Thin.
   ///
-  /// ![memory](https://api.iconify.design/ph/memory-thin.svg?height=32&color=%23888888)
+  /// ![memory](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/memory.png)
   static const IconData memory = IconData(
     0xe9c4,
     fontFamily: 'PhosphorThin',
@@ -11011,7 +11011,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `messengerLogo` no estilo Thin.
   ///
-  /// ![messenger-logo](https://api.iconify.design/ph/messenger-logo-thin.svg?height=32&color=%23888888)
+  /// ![messenger-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/messenger-logo.png)
   static const IconData messengerLogo = IconData(
     0xe6d8,
     fontFamily: 'PhosphorThin',
@@ -11023,7 +11023,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `metaLogo` no estilo Thin.
   ///
-  /// ![meta-logo](https://api.iconify.design/ph/meta-logo-thin.svg?height=32&color=%23888888)
+  /// ![meta-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/meta-logo.png)
   static const IconData metaLogo = IconData(
     0xed02,
     fontFamily: 'PhosphorThin',
@@ -11035,7 +11035,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `meteor` no estilo Thin.
   ///
-  /// ![meteor](https://api.iconify.design/ph/meteor-thin.svg?height=32&color=%23888888)
+  /// ![meteor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/meteor.png)
   static const IconData meteor = IconData(
     0xe9ba,
     fontFamily: 'PhosphorThin',
@@ -11047,7 +11047,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `metronome` no estilo Thin.
   ///
-  /// ![metronome](https://api.iconify.design/ph/metronome-thin.svg?height=32&color=%23888888)
+  /// ![metronome](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/metronome.png)
   static const IconData metronome = IconData(
     0xec8e,
     fontFamily: 'PhosphorThin',
@@ -11059,7 +11059,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microphone` no estilo Thin.
   ///
-  /// ![microphone](https://api.iconify.design/ph/microphone-thin.svg?height=32&color=%23888888)
+  /// ![microphone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microphone.png)
   static const IconData microphone = IconData(
     0xe326,
     fontFamily: 'PhosphorThin',
@@ -11071,7 +11071,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microphoneSlash` no estilo Thin.
   ///
-  /// ![microphone-slash](https://api.iconify.design/ph/microphone-slash-thin.svg?height=32&color=%23888888)
+  /// ![microphone-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microphone-slash.png)
   static const IconData microphoneSlash = IconData(
     0xe328,
     fontFamily: 'PhosphorThin',
@@ -11083,7 +11083,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microphoneStage` no estilo Thin.
   ///
-  /// ![microphone-stage](https://api.iconify.design/ph/microphone-stage-thin.svg?height=32&color=%23888888)
+  /// ![microphone-stage](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microphone-stage.png)
   static const IconData microphoneStage = IconData(
     0xe75c,
     fontFamily: 'PhosphorThin',
@@ -11095,7 +11095,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microscope` no estilo Thin.
   ///
-  /// ![microscope](https://api.iconify.design/ph/microscope-thin.svg?height=32&color=%23888888)
+  /// ![microscope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microscope.png)
   static const IconData microscope = IconData(
     0xec7a,
     fontFamily: 'PhosphorThin',
@@ -11107,7 +11107,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microsoftExcelLogo` no estilo Thin.
   ///
-  /// ![microsoft-excel-logo](https://api.iconify.design/ph/microsoft-excel-logo-thin.svg?height=32&color=%23888888)
+  /// ![microsoft-excel-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microsoft-excel-logo.png)
   static const IconData microsoftExcelLogo = IconData(
     0xeb6c,
     fontFamily: 'PhosphorThin',
@@ -11119,7 +11119,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microsoftOutlookLogo` no estilo Thin.
   ///
-  /// ![microsoft-outlook-logo](https://api.iconify.design/ph/microsoft-outlook-logo-thin.svg?height=32&color=%23888888)
+  /// ![microsoft-outlook-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microsoft-outlook-logo.png)
   static const IconData microsoftOutlookLogo = IconData(
     0xeb70,
     fontFamily: 'PhosphorThin',
@@ -11131,7 +11131,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microsoftPowerpointLogo` no estilo Thin.
   ///
-  /// ![microsoft-powerpoint-logo](https://api.iconify.design/ph/microsoft-powerpoint-logo-thin.svg?height=32&color=%23888888)
+  /// ![microsoft-powerpoint-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microsoft-powerpoint-logo.png)
   static const IconData microsoftPowerpointLogo = IconData(
     0xeace,
     fontFamily: 'PhosphorThin',
@@ -11143,7 +11143,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microsoftTeamsLogo` no estilo Thin.
   ///
-  /// ![microsoft-teams-logo](https://api.iconify.design/ph/microsoft-teams-logo-thin.svg?height=32&color=%23888888)
+  /// ![microsoft-teams-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microsoft-teams-logo.png)
   static const IconData microsoftTeamsLogo = IconData(
     0xeb66,
     fontFamily: 'PhosphorThin',
@@ -11155,7 +11155,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `microsoftWordLogo` no estilo Thin.
   ///
-  /// ![microsoft-word-logo](https://api.iconify.design/ph/microsoft-word-logo-thin.svg?height=32&color=%23888888)
+  /// ![microsoft-word-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/microsoft-word-logo.png)
   static const IconData microsoftWordLogo = IconData(
     0xeb6a,
     fontFamily: 'PhosphorThin',
@@ -11167,7 +11167,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `minus` no estilo Thin.
   ///
-  /// ![minus](https://api.iconify.design/ph/minus-thin.svg?height=32&color=%23888888)
+  /// ![minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/minus.png)
   static const IconData minus = IconData(
     0xe32a,
     fontFamily: 'PhosphorThin',
@@ -11179,7 +11179,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `minusCircle` no estilo Thin.
   ///
-  /// ![minus-circle](https://api.iconify.design/ph/minus-circle-thin.svg?height=32&color=%23888888)
+  /// ![minus-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/minus-circle.png)
   static const IconData minusCircle = IconData(
     0xe32c,
     fontFamily: 'PhosphorThin',
@@ -11191,7 +11191,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `minusSquare` no estilo Thin.
   ///
-  /// ![minus-square](https://api.iconify.design/ph/minus-square-thin.svg?height=32&color=%23888888)
+  /// ![minus-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/minus-square.png)
   static const IconData minusSquare = IconData(
     0xed4c,
     fontFamily: 'PhosphorThin',
@@ -11203,7 +11203,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `money` no estilo Thin.
   ///
-  /// ![money](https://api.iconify.design/ph/money-thin.svg?height=32&color=%23888888)
+  /// ![money](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/money.png)
   static const IconData money = IconData(
     0xe588,
     fontFamily: 'PhosphorThin',
@@ -11215,7 +11215,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `moneyWavy` no estilo Thin.
   ///
-  /// ![money-wavy](https://api.iconify.design/ph/money-wavy-thin.svg?height=32&color=%23888888)
+  /// ![money-wavy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/money-wavy.png)
   static const IconData moneyWavy = IconData(
     0xee68,
     fontFamily: 'PhosphorThin',
@@ -11227,7 +11227,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `monitor` no estilo Thin.
   ///
-  /// ![monitor](https://api.iconify.design/ph/monitor-thin.svg?height=32&color=%23888888)
+  /// ![monitor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/monitor.png)
   static const IconData monitor = IconData(
     0xe32e,
     fontFamily: 'PhosphorThin',
@@ -11239,7 +11239,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `monitorArrowUp` no estilo Thin.
   ///
-  /// ![monitor-arrow-up](https://api.iconify.design/ph/monitor-arrow-up-thin.svg?height=32&color=%23888888)
+  /// ![monitor-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/monitor-arrow-up.png)
   static const IconData monitorArrowUp = IconData(
     0xe58a,
     fontFamily: 'PhosphorThin',
@@ -11251,7 +11251,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `monitorPlay` no estilo Thin.
   ///
-  /// ![monitor-play](https://api.iconify.design/ph/monitor-play-thin.svg?height=32&color=%23888888)
+  /// ![monitor-play](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/monitor-play.png)
   static const IconData monitorPlay = IconData(
     0xe58c,
     fontFamily: 'PhosphorThin',
@@ -11263,7 +11263,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `moon` no estilo Thin.
   ///
-  /// ![moon](https://api.iconify.design/ph/moon-thin.svg?height=32&color=%23888888)
+  /// ![moon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/moon.png)
   static const IconData moon = IconData(
     0xe330,
     fontFamily: 'PhosphorThin',
@@ -11275,7 +11275,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `moonStars` no estilo Thin.
   ///
-  /// ![moon-stars](https://api.iconify.design/ph/moon-stars-thin.svg?height=32&color=%23888888)
+  /// ![moon-stars](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/moon-stars.png)
   static const IconData moonStars = IconData(
     0xe58e,
     fontFamily: 'PhosphorThin',
@@ -11287,7 +11287,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `moped` no estilo Thin.
   ///
-  /// ![moped](https://api.iconify.design/ph/moped-thin.svg?height=32&color=%23888888)
+  /// ![moped](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/moped.png)
   static const IconData moped = IconData(
     0xe824,
     fontFamily: 'PhosphorThin',
@@ -11299,7 +11299,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mopedFront` no estilo Thin.
   ///
-  /// ![moped-front](https://api.iconify.design/ph/moped-front-thin.svg?height=32&color=%23888888)
+  /// ![moped-front](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/moped-front.png)
   static const IconData mopedFront = IconData(
     0xe822,
     fontFamily: 'PhosphorThin',
@@ -11311,7 +11311,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mosque` no estilo Thin.
   ///
-  /// ![mosque](https://api.iconify.design/ph/mosque-thin.svg?height=32&color=%23888888)
+  /// ![mosque](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mosque.png)
   static const IconData mosque = IconData(
     0xecee,
     fontFamily: 'PhosphorThin',
@@ -11323,7 +11323,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `motorcycle` no estilo Thin.
   ///
-  /// ![motorcycle](https://api.iconify.design/ph/motorcycle-thin.svg?height=32&color=%23888888)
+  /// ![motorcycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/motorcycle.png)
   static const IconData motorcycle = IconData(
     0xe80a,
     fontFamily: 'PhosphorThin',
@@ -11335,7 +11335,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mountains` no estilo Thin.
   ///
-  /// ![mountains](https://api.iconify.design/ph/mountains-thin.svg?height=32&color=%23888888)
+  /// ![mountains](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mountains.png)
   static const IconData mountains = IconData(
     0xe7ae,
     fontFamily: 'PhosphorThin',
@@ -11347,7 +11347,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mouse` no estilo Thin.
   ///
-  /// ![mouse](https://api.iconify.design/ph/mouse-thin.svg?height=32&color=%23888888)
+  /// ![mouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mouse.png)
   static const IconData mouse = IconData(
     0xe33a,
     fontFamily: 'PhosphorThin',
@@ -11359,7 +11359,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mouseLeftClick` no estilo Thin.
   ///
-  /// ![mouse-left-click](https://api.iconify.design/ph/mouse-left-click-thin.svg?height=32&color=%23888888)
+  /// ![mouse-left-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mouse-left-click.png)
   static const IconData mouseLeftClick = IconData(
     0xe334,
     fontFamily: 'PhosphorThin',
@@ -11371,7 +11371,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mouseMiddleClick` no estilo Thin.
   ///
-  /// ![mouse-middle-click](https://api.iconify.design/ph/mouse-middle-click-thin.svg?height=32&color=%23888888)
+  /// ![mouse-middle-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mouse-middle-click.png)
   static const IconData mouseMiddleClick = IconData(
     0xe338,
     fontFamily: 'PhosphorThin',
@@ -11383,7 +11383,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mouseRightClick` no estilo Thin.
   ///
-  /// ![mouse-right-click](https://api.iconify.design/ph/mouse-right-click-thin.svg?height=32&color=%23888888)
+  /// ![mouse-right-click](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mouse-right-click.png)
   static const IconData mouseRightClick = IconData(
     0xe336,
     fontFamily: 'PhosphorThin',
@@ -11395,7 +11395,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mouseScroll` no estilo Thin.
   ///
-  /// ![mouse-scroll](https://api.iconify.design/ph/mouse-scroll-thin.svg?height=32&color=%23888888)
+  /// ![mouse-scroll](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mouse-scroll.png)
   static const IconData mouseScroll = IconData(
     0xe332,
     fontFamily: 'PhosphorThin',
@@ -11407,7 +11407,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `mouseSimple` no estilo Thin.
   ///
-  /// ![mouse-simple](https://api.iconify.design/ph/mouse-simple-thin.svg?height=32&color=%23888888)
+  /// ![mouse-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/mouse-simple.png)
   static const IconData mouseSimple = IconData(
     0xe644,
     fontFamily: 'PhosphorThin',
@@ -11419,7 +11419,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `musicNote` no estilo Thin.
   ///
-  /// ![music-note](https://api.iconify.design/ph/music-note-thin.svg?height=32&color=%23888888)
+  /// ![music-note](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/music-note.png)
   static const IconData musicNote = IconData(
     0xe33c,
     fontFamily: 'PhosphorThin',
@@ -11431,7 +11431,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `musicNoteSimple` no estilo Thin.
   ///
-  /// ![music-note-simple](https://api.iconify.design/ph/music-note-simple-thin.svg?height=32&color=%23888888)
+  /// ![music-note-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/music-note-simple.png)
   static const IconData musicNoteSimple = IconData(
     0xe33e,
     fontFamily: 'PhosphorThin',
@@ -11443,7 +11443,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `musicNotes` no estilo Thin.
   ///
-  /// ![music-notes](https://api.iconify.design/ph/music-notes-thin.svg?height=32&color=%23888888)
+  /// ![music-notes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/music-notes.png)
   static const IconData musicNotes = IconData(
     0xe340,
     fontFamily: 'PhosphorThin',
@@ -11455,7 +11455,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `musicNotesMinus` no estilo Thin.
   ///
-  /// ![music-notes-minus](https://api.iconify.design/ph/music-notes-minus-thin.svg?height=32&color=%23888888)
+  /// ![music-notes-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/music-notes-minus.png)
   static const IconData musicNotesMinus = IconData(
     0xee0c,
     fontFamily: 'PhosphorThin',
@@ -11467,7 +11467,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `musicNotesPlus` no estilo Thin.
   ///
-  /// ![music-notes-plus](https://api.iconify.design/ph/music-notes-plus-thin.svg?height=32&color=%23888888)
+  /// ![music-notes-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/music-notes-plus.png)
   static const IconData musicNotesPlus = IconData(
     0xeb7c,
     fontFamily: 'PhosphorThin',
@@ -11479,7 +11479,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `musicNotesSimple` no estilo Thin.
   ///
-  /// ![music-notes-simple](https://api.iconify.design/ph/music-notes-simple-thin.svg?height=32&color=%23888888)
+  /// ![music-notes-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/music-notes-simple.png)
   static const IconData musicNotesSimple = IconData(
     0xe342,
     fontFamily: 'PhosphorThin',
@@ -11491,7 +11491,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `navigationArrow` no estilo Thin.
   ///
-  /// ![navigation-arrow](https://api.iconify.design/ph/navigation-arrow-thin.svg?height=32&color=%23888888)
+  /// ![navigation-arrow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/navigation-arrow.png)
   static const IconData navigationArrow = IconData(
     0xeade,
     fontFamily: 'PhosphorThin',
@@ -11503,7 +11503,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `needle` no estilo Thin.
   ///
-  /// ![needle](https://api.iconify.design/ph/needle-thin.svg?height=32&color=%23888888)
+  /// ![needle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/needle.png)
   static const IconData needle = IconData(
     0xe82e,
     fontFamily: 'PhosphorThin',
@@ -11515,7 +11515,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `network` no estilo Thin.
   ///
-  /// ![network](https://api.iconify.design/ph/network-thin.svg?height=32&color=%23888888)
+  /// ![network](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/network.png)
   static const IconData network = IconData(
     0xedde,
     fontFamily: 'PhosphorThin',
@@ -11527,7 +11527,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `networkSlash` no estilo Thin.
   ///
-  /// ![network-slash](https://api.iconify.design/ph/network-slash-thin.svg?height=32&color=%23888888)
+  /// ![network-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/network-slash.png)
   static const IconData networkSlash = IconData(
     0xeddc,
     fontFamily: 'PhosphorThin',
@@ -11539,7 +11539,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `networkX` no estilo Thin.
   ///
-  /// ![network-x](https://api.iconify.design/ph/network-x-thin.svg?height=32&color=%23888888)
+  /// ![network-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/network-x.png)
   static const IconData networkX = IconData(
     0xedda,
     fontFamily: 'PhosphorThin',
@@ -11551,7 +11551,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `newspaper` no estilo Thin.
   ///
-  /// ![newspaper](https://api.iconify.design/ph/newspaper-thin.svg?height=32&color=%23888888)
+  /// ![newspaper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/newspaper.png)
   static const IconData newspaper = IconData(
     0xe344,
     fontFamily: 'PhosphorThin',
@@ -11563,7 +11563,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `newspaperClipping` no estilo Thin.
   ///
-  /// ![newspaper-clipping](https://api.iconify.design/ph/newspaper-clipping-thin.svg?height=32&color=%23888888)
+  /// ![newspaper-clipping](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/newspaper-clipping.png)
   static const IconData newspaperClipping = IconData(
     0xe346,
     fontFamily: 'PhosphorThin',
@@ -11575,7 +11575,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notEquals` no estilo Thin.
   ///
-  /// ![not-equals](https://api.iconify.design/ph/not-equals-thin.svg?height=32&color=%23888888)
+  /// ![not-equals](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/not-equals.png)
   static const IconData notEquals = IconData(
     0xeda6,
     fontFamily: 'PhosphorThin',
@@ -11587,7 +11587,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notMemberOf` no estilo Thin.
   ///
-  /// ![not-member-of](https://api.iconify.design/ph/not-member-of-thin.svg?height=32&color=%23888888)
+  /// ![not-member-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/not-member-of.png)
   static const IconData notMemberOf = IconData(
     0xedae,
     fontFamily: 'PhosphorThin',
@@ -11599,7 +11599,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notSubsetOf` no estilo Thin.
   ///
-  /// ![not-subset-of](https://api.iconify.design/ph/not-subset-of-thin.svg?height=32&color=%23888888)
+  /// ![not-subset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/not-subset-of.png)
   static const IconData notSubsetOf = IconData(
     0xedb0,
     fontFamily: 'PhosphorThin',
@@ -11611,7 +11611,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notSupersetOf` no estilo Thin.
   ///
-  /// ![not-superset-of](https://api.iconify.design/ph/not-superset-of-thin.svg?height=32&color=%23888888)
+  /// ![not-superset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/not-superset-of.png)
   static const IconData notSupersetOf = IconData(
     0xedb2,
     fontFamily: 'PhosphorThin',
@@ -11623,7 +11623,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notches` no estilo Thin.
   ///
-  /// ![notches](https://api.iconify.design/ph/notches-thin.svg?height=32&color=%23888888)
+  /// ![notches](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/notches.png)
   static const IconData notches = IconData(
     0xed3a,
     fontFamily: 'PhosphorThin',
@@ -11635,7 +11635,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `note` no estilo Thin.
   ///
-  /// ![note](https://api.iconify.design/ph/note-thin.svg?height=32&color=%23888888)
+  /// ![note](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/note.png)
   static const IconData note = IconData(
     0xe348,
     fontFamily: 'PhosphorThin',
@@ -11647,7 +11647,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `noteBlank` no estilo Thin.
   ///
-  /// ![note-blank](https://api.iconify.design/ph/note-blank-thin.svg?height=32&color=%23888888)
+  /// ![note-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/note-blank.png)
   static const IconData noteBlank = IconData(
     0xe34a,
     fontFamily: 'PhosphorThin',
@@ -11659,7 +11659,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notePencil` no estilo Thin.
   ///
-  /// ![note-pencil](https://api.iconify.design/ph/note-pencil-thin.svg?height=32&color=%23888888)
+  /// ![note-pencil](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/note-pencil.png)
   static const IconData notePencil = IconData(
     0xe34c,
     fontFamily: 'PhosphorThin',
@@ -11671,7 +11671,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notebook` no estilo Thin.
   ///
-  /// ![notebook](https://api.iconify.design/ph/notebook-thin.svg?height=32&color=%23888888)
+  /// ![notebook](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/notebook.png)
   static const IconData notebook = IconData(
     0xe34e,
     fontFamily: 'PhosphorThin',
@@ -11683,7 +11683,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notepad` no estilo Thin.
   ///
-  /// ![notepad](https://api.iconify.design/ph/notepad-thin.svg?height=32&color=%23888888)
+  /// ![notepad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/notepad.png)
   static const IconData notepad = IconData(
     0xe63e,
     fontFamily: 'PhosphorThin',
@@ -11695,7 +11695,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notification` no estilo Thin.
   ///
-  /// ![notification](https://api.iconify.design/ph/notification-thin.svg?height=32&color=%23888888)
+  /// ![notification](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/notification.png)
   static const IconData notification = IconData(
     0xe6fa,
     fontFamily: 'PhosphorThin',
@@ -11707,7 +11707,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `notionLogo` no estilo Thin.
   ///
-  /// ![notion-logo](https://api.iconify.design/ph/notion-logo-thin.svg?height=32&color=%23888888)
+  /// ![notion-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/notion-logo.png)
   static const IconData notionLogo = IconData(
     0xe9a0,
     fontFamily: 'PhosphorThin',
@@ -11719,7 +11719,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `nuclearPlant` no estilo Thin.
   ///
-  /// ![nuclear-plant](https://api.iconify.design/ph/nuclear-plant-thin.svg?height=32&color=%23888888)
+  /// ![nuclear-plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/nuclear-plant.png)
   static const IconData nuclearPlant = IconData(
     0xed7c,
     fontFamily: 'PhosphorThin',
@@ -11731,7 +11731,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleEight` no estilo Thin.
   ///
-  /// ![number-circle-eight](https://api.iconify.design/ph/number-circle-eight-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-eight.png)
   static const IconData numberCircleEight = IconData(
     0xe352,
     fontFamily: 'PhosphorThin',
@@ -11743,7 +11743,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleFive` no estilo Thin.
   ///
-  /// ![number-circle-five](https://api.iconify.design/ph/number-circle-five-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-five.png)
   static const IconData numberCircleFive = IconData(
     0xe358,
     fontFamily: 'PhosphorThin',
@@ -11755,7 +11755,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleFour` no estilo Thin.
   ///
-  /// ![number-circle-four](https://api.iconify.design/ph/number-circle-four-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-four.png)
   static const IconData numberCircleFour = IconData(
     0xe35e,
     fontFamily: 'PhosphorThin',
@@ -11767,7 +11767,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleNine` no estilo Thin.
   ///
-  /// ![number-circle-nine](https://api.iconify.design/ph/number-circle-nine-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-nine.png)
   static const IconData numberCircleNine = IconData(
     0xe364,
     fontFamily: 'PhosphorThin',
@@ -11779,7 +11779,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleOne` no estilo Thin.
   ///
-  /// ![number-circle-one](https://api.iconify.design/ph/number-circle-one-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-one.png)
   static const IconData numberCircleOne = IconData(
     0xe36a,
     fontFamily: 'PhosphorThin',
@@ -11791,7 +11791,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleSeven` no estilo Thin.
   ///
-  /// ![number-circle-seven](https://api.iconify.design/ph/number-circle-seven-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-seven.png)
   static const IconData numberCircleSeven = IconData(
     0xe370,
     fontFamily: 'PhosphorThin',
@@ -11803,7 +11803,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleSix` no estilo Thin.
   ///
-  /// ![number-circle-six](https://api.iconify.design/ph/number-circle-six-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-six.png)
   static const IconData numberCircleSix = IconData(
     0xe376,
     fontFamily: 'PhosphorThin',
@@ -11815,7 +11815,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleThree` no estilo Thin.
   ///
-  /// ![number-circle-three](https://api.iconify.design/ph/number-circle-three-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-three.png)
   static const IconData numberCircleThree = IconData(
     0xe37c,
     fontFamily: 'PhosphorThin',
@@ -11827,7 +11827,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleTwo` no estilo Thin.
   ///
-  /// ![number-circle-two](https://api.iconify.design/ph/number-circle-two-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-two.png)
   static const IconData numberCircleTwo = IconData(
     0xe382,
     fontFamily: 'PhosphorThin',
@@ -11839,7 +11839,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberCircleZero` no estilo Thin.
   ///
-  /// ![number-circle-zero](https://api.iconify.design/ph/number-circle-zero-thin.svg?height=32&color=%23888888)
+  /// ![number-circle-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-circle-zero.png)
   static const IconData numberCircleZero = IconData(
     0xe388,
     fontFamily: 'PhosphorThin',
@@ -11851,7 +11851,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberEight` no estilo Thin.
   ///
-  /// ![number-eight](https://api.iconify.design/ph/number-eight-thin.svg?height=32&color=%23888888)
+  /// ![number-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-eight.png)
   static const IconData numberEight = IconData(
     0xe350,
     fontFamily: 'PhosphorThin',
@@ -11863,7 +11863,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberFive` no estilo Thin.
   ///
-  /// ![number-five](https://api.iconify.design/ph/number-five-thin.svg?height=32&color=%23888888)
+  /// ![number-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-five.png)
   static const IconData numberFive = IconData(
     0xe356,
     fontFamily: 'PhosphorThin',
@@ -11875,7 +11875,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberFour` no estilo Thin.
   ///
-  /// ![number-four](https://api.iconify.design/ph/number-four-thin.svg?height=32&color=%23888888)
+  /// ![number-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-four.png)
   static const IconData numberFour = IconData(
     0xe35c,
     fontFamily: 'PhosphorThin',
@@ -11887,7 +11887,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberNine` no estilo Thin.
   ///
-  /// ![number-nine](https://api.iconify.design/ph/number-nine-thin.svg?height=32&color=%23888888)
+  /// ![number-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-nine.png)
   static const IconData numberNine = IconData(
     0xe362,
     fontFamily: 'PhosphorThin',
@@ -11899,7 +11899,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberOne` no estilo Thin.
   ///
-  /// ![number-one](https://api.iconify.design/ph/number-one-thin.svg?height=32&color=%23888888)
+  /// ![number-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-one.png)
   static const IconData numberOne = IconData(
     0xe368,
     fontFamily: 'PhosphorThin',
@@ -11911,7 +11911,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSeven` no estilo Thin.
   ///
-  /// ![number-seven](https://api.iconify.design/ph/number-seven-thin.svg?height=32&color=%23888888)
+  /// ![number-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-seven.png)
   static const IconData numberSeven = IconData(
     0xe36e,
     fontFamily: 'PhosphorThin',
@@ -11923,7 +11923,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSix` no estilo Thin.
   ///
-  /// ![number-six](https://api.iconify.design/ph/number-six-thin.svg?height=32&color=%23888888)
+  /// ![number-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-six.png)
   static const IconData numberSix = IconData(
     0xe374,
     fontFamily: 'PhosphorThin',
@@ -11935,7 +11935,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareEight` no estilo Thin.
   ///
-  /// ![number-square-eight](https://api.iconify.design/ph/number-square-eight-thin.svg?height=32&color=%23888888)
+  /// ![number-square-eight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-eight.png)
   static const IconData numberSquareEight = IconData(
     0xe354,
     fontFamily: 'PhosphorThin',
@@ -11947,7 +11947,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareFive` no estilo Thin.
   ///
-  /// ![number-square-five](https://api.iconify.design/ph/number-square-five-thin.svg?height=32&color=%23888888)
+  /// ![number-square-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-five.png)
   static const IconData numberSquareFive = IconData(
     0xe35a,
     fontFamily: 'PhosphorThin',
@@ -11959,7 +11959,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareFour` no estilo Thin.
   ///
-  /// ![number-square-four](https://api.iconify.design/ph/number-square-four-thin.svg?height=32&color=%23888888)
+  /// ![number-square-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-four.png)
   static const IconData numberSquareFour = IconData(
     0xe360,
     fontFamily: 'PhosphorThin',
@@ -11971,7 +11971,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareNine` no estilo Thin.
   ///
-  /// ![number-square-nine](https://api.iconify.design/ph/number-square-nine-thin.svg?height=32&color=%23888888)
+  /// ![number-square-nine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-nine.png)
   static const IconData numberSquareNine = IconData(
     0xe366,
     fontFamily: 'PhosphorThin',
@@ -11983,7 +11983,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareOne` no estilo Thin.
   ///
-  /// ![number-square-one](https://api.iconify.design/ph/number-square-one-thin.svg?height=32&color=%23888888)
+  /// ![number-square-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-one.png)
   static const IconData numberSquareOne = IconData(
     0xe36c,
     fontFamily: 'PhosphorThin',
@@ -11995,7 +11995,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareSeven` no estilo Thin.
   ///
-  /// ![number-square-seven](https://api.iconify.design/ph/number-square-seven-thin.svg?height=32&color=%23888888)
+  /// ![number-square-seven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-seven.png)
   static const IconData numberSquareSeven = IconData(
     0xe372,
     fontFamily: 'PhosphorThin',
@@ -12007,7 +12007,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareSix` no estilo Thin.
   ///
-  /// ![number-square-six](https://api.iconify.design/ph/number-square-six-thin.svg?height=32&color=%23888888)
+  /// ![number-square-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-six.png)
   static const IconData numberSquareSix = IconData(
     0xe378,
     fontFamily: 'PhosphorThin',
@@ -12019,7 +12019,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareThree` no estilo Thin.
   ///
-  /// ![number-square-three](https://api.iconify.design/ph/number-square-three-thin.svg?height=32&color=%23888888)
+  /// ![number-square-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-three.png)
   static const IconData numberSquareThree = IconData(
     0xe37e,
     fontFamily: 'PhosphorThin',
@@ -12031,7 +12031,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareTwo` no estilo Thin.
   ///
-  /// ![number-square-two](https://api.iconify.design/ph/number-square-two-thin.svg?height=32&color=%23888888)
+  /// ![number-square-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-two.png)
   static const IconData numberSquareTwo = IconData(
     0xe384,
     fontFamily: 'PhosphorThin',
@@ -12043,7 +12043,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberSquareZero` no estilo Thin.
   ///
-  /// ![number-square-zero](https://api.iconify.design/ph/number-square-zero-thin.svg?height=32&color=%23888888)
+  /// ![number-square-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-square-zero.png)
   static const IconData numberSquareZero = IconData(
     0xe38a,
     fontFamily: 'PhosphorThin',
@@ -12055,7 +12055,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberThree` no estilo Thin.
   ///
-  /// ![number-three](https://api.iconify.design/ph/number-three-thin.svg?height=32&color=%23888888)
+  /// ![number-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-three.png)
   static const IconData numberThree = IconData(
     0xe37a,
     fontFamily: 'PhosphorThin',
@@ -12067,7 +12067,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberTwo` no estilo Thin.
   ///
-  /// ![number-two](https://api.iconify.design/ph/number-two-thin.svg?height=32&color=%23888888)
+  /// ![number-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-two.png)
   static const IconData numberTwo = IconData(
     0xe380,
     fontFamily: 'PhosphorThin',
@@ -12079,7 +12079,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numberZero` no estilo Thin.
   ///
-  /// ![number-zero](https://api.iconify.design/ph/number-zero-thin.svg?height=32&color=%23888888)
+  /// ![number-zero](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/number-zero.png)
   static const IconData numberZero = IconData(
     0xe386,
     fontFamily: 'PhosphorThin',
@@ -12091,7 +12091,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `numpad` no estilo Thin.
   ///
-  /// ![numpad](https://api.iconify.design/ph/numpad-thin.svg?height=32&color=%23888888)
+  /// ![numpad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/numpad.png)
   static const IconData numpad = IconData(
     0xe3c8,
     fontFamily: 'PhosphorThin',
@@ -12103,7 +12103,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `nut` no estilo Thin.
   ///
-  /// ![nut](https://api.iconify.design/ph/nut-thin.svg?height=32&color=%23888888)
+  /// ![nut](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/nut.png)
   static const IconData nut = IconData(
     0xe38c,
     fontFamily: 'PhosphorThin',
@@ -12115,7 +12115,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `nyTimesLogo` no estilo Thin.
   ///
-  /// ![ny-times-logo](https://api.iconify.design/ph/ny-times-logo-thin.svg?height=32&color=%23888888)
+  /// ![ny-times-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ny-times-logo.png)
   static const IconData nyTimesLogo = IconData(
     0xe646,
     fontFamily: 'PhosphorThin',
@@ -12127,7 +12127,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `octagon` no estilo Thin.
   ///
-  /// ![octagon](https://api.iconify.design/ph/octagon-thin.svg?height=32&color=%23888888)
+  /// ![octagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/octagon.png)
   static const IconData octagon = IconData(
     0xe38e,
     fontFamily: 'PhosphorThin',
@@ -12139,7 +12139,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `officeChair` no estilo Thin.
   ///
-  /// ![office-chair](https://api.iconify.design/ph/office-chair-thin.svg?height=32&color=%23888888)
+  /// ![office-chair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/office-chair.png)
   static const IconData officeChair = IconData(
     0xea46,
     fontFamily: 'PhosphorThin',
@@ -12151,7 +12151,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `onigiri` no estilo Thin.
   ///
-  /// ![onigiri](https://api.iconify.design/ph/onigiri-thin.svg?height=32&color=%23888888)
+  /// ![onigiri](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/onigiri.png)
   static const IconData onigiri = IconData(
     0xee2c,
     fontFamily: 'PhosphorThin',
@@ -12163,7 +12163,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `openAiLogo` no estilo Thin.
   ///
-  /// ![open-ai-logo](https://api.iconify.design/ph/open-ai-logo-thin.svg?height=32&color=%23888888)
+  /// ![open-ai-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/open-ai-logo.png)
   static const IconData openAiLogo = IconData(
     0xe7d2,
     fontFamily: 'PhosphorThin',
@@ -12175,7 +12175,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `option` no estilo Thin.
   ///
-  /// ![option](https://api.iconify.design/ph/option-thin.svg?height=32&color=%23888888)
+  /// ![option](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/option.png)
   static const IconData option = IconData(
     0xe8a8,
     fontFamily: 'PhosphorThin',
@@ -12187,7 +12187,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `orange` no estilo Thin.
   ///
-  /// ![orange](https://api.iconify.design/ph/orange-thin.svg?height=32&color=%23888888)
+  /// ![orange](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/orange.png)
   static const IconData orange = IconData(
     0xee40,
     fontFamily: 'PhosphorThin',
@@ -12199,7 +12199,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `orangeSlice` no estilo Thin.
   ///
-  /// ![orange-slice](https://api.iconify.design/ph/orange-slice-thin.svg?height=32&color=%23888888)
+  /// ![orange-slice](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/orange-slice.png)
   static const IconData orangeSlice = IconData(
     0xed36,
     fontFamily: 'PhosphorThin',
@@ -12211,7 +12211,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `oven` no estilo Thin.
   ///
-  /// ![oven](https://api.iconify.design/ph/oven-thin.svg?height=32&color=%23888888)
+  /// ![oven](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/oven.png)
   static const IconData oven = IconData(
     0xed8c,
     fontFamily: 'PhosphorThin',
@@ -12223,7 +12223,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `package` no estilo Thin.
   ///
-  /// ![package](https://api.iconify.design/ph/package-thin.svg?height=32&color=%23888888)
+  /// ![package](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/package.png)
   static const IconData package = IconData(
     0xe390,
     fontFamily: 'PhosphorThin',
@@ -12235,7 +12235,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paintBrush` no estilo Thin.
   ///
-  /// ![paint-brush](https://api.iconify.design/ph/paint-brush-thin.svg?height=32&color=%23888888)
+  /// ![paint-brush](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paint-brush.png)
   static const IconData paintBrush = IconData(
     0xe6f0,
     fontFamily: 'PhosphorThin',
@@ -12247,7 +12247,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paintBrushBroad` no estilo Thin.
   ///
-  /// ![paint-brush-broad](https://api.iconify.design/ph/paint-brush-broad-thin.svg?height=32&color=%23888888)
+  /// ![paint-brush-broad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paint-brush-broad.png)
   static const IconData paintBrushBroad = IconData(
     0xe590,
     fontFamily: 'PhosphorThin',
@@ -12259,7 +12259,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paintBrushHousehold` no estilo Thin.
   ///
-  /// ![paint-brush-household](https://api.iconify.design/ph/paint-brush-household-thin.svg?height=32&color=%23888888)
+  /// ![paint-brush-household](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paint-brush-household.png)
   static const IconData paintBrushHousehold = IconData(
     0xe6f2,
     fontFamily: 'PhosphorThin',
@@ -12271,7 +12271,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paintBucket` no estilo Thin.
   ///
-  /// ![paint-bucket](https://api.iconify.design/ph/paint-bucket-thin.svg?height=32&color=%23888888)
+  /// ![paint-bucket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paint-bucket.png)
   static const IconData paintBucket = IconData(
     0xe392,
     fontFamily: 'PhosphorThin',
@@ -12283,7 +12283,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paintRoller` no estilo Thin.
   ///
-  /// ![paint-roller](https://api.iconify.design/ph/paint-roller-thin.svg?height=32&color=%23888888)
+  /// ![paint-roller](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paint-roller.png)
   static const IconData paintRoller = IconData(
     0xe6f4,
     fontFamily: 'PhosphorThin',
@@ -12295,7 +12295,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `palette` no estilo Thin.
   ///
-  /// ![palette](https://api.iconify.design/ph/palette-thin.svg?height=32&color=%23888888)
+  /// ![palette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/palette.png)
   static const IconData palette = IconData(
     0xe6c8,
     fontFamily: 'PhosphorThin',
@@ -12307,7 +12307,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `panorama` no estilo Thin.
   ///
-  /// ![panorama](https://api.iconify.design/ph/panorama-thin.svg?height=32&color=%23888888)
+  /// ![panorama](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/panorama.png)
   static const IconData panorama = IconData(
     0xeaa2,
     fontFamily: 'PhosphorThin',
@@ -12319,7 +12319,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pants` no estilo Thin.
   ///
-  /// ![pants](https://api.iconify.design/ph/pants-thin.svg?height=32&color=%23888888)
+  /// ![pants](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pants.png)
   static const IconData pants = IconData(
     0xec88,
     fontFamily: 'PhosphorThin',
@@ -12331,7 +12331,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paperPlane` no estilo Thin.
   ///
-  /// ![paper-plane](https://api.iconify.design/ph/paper-plane-thin.svg?height=32&color=%23888888)
+  /// ![paper-plane](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paper-plane.png)
   static const IconData paperPlane = IconData(
     0xe394,
     fontFamily: 'PhosphorThin',
@@ -12343,7 +12343,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paperPlaneRight` no estilo Thin.
   ///
-  /// ![paper-plane-right](https://api.iconify.design/ph/paper-plane-right-thin.svg?height=32&color=%23888888)
+  /// ![paper-plane-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paper-plane-right.png)
   static const IconData paperPlaneRight = IconData(
     0xe396,
     fontFamily: 'PhosphorThin',
@@ -12355,7 +12355,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paperPlaneTilt` no estilo Thin.
   ///
-  /// ![paper-plane-tilt](https://api.iconify.design/ph/paper-plane-tilt-thin.svg?height=32&color=%23888888)
+  /// ![paper-plane-tilt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paper-plane-tilt.png)
   static const IconData paperPlaneTilt = IconData(
     0xe398,
     fontFamily: 'PhosphorThin',
@@ -12367,7 +12367,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paperclip` no estilo Thin.
   ///
-  /// ![paperclip](https://api.iconify.design/ph/paperclip-thin.svg?height=32&color=%23888888)
+  /// ![paperclip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paperclip.png)
   static const IconData paperclip = IconData(
     0xe39a,
     fontFamily: 'PhosphorThin',
@@ -12379,7 +12379,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paperclipHorizontal` no estilo Thin.
   ///
-  /// ![paperclip-horizontal](https://api.iconify.design/ph/paperclip-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![paperclip-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paperclip-horizontal.png)
   static const IconData paperclipHorizontal = IconData(
     0xe592,
     fontFamily: 'PhosphorThin',
@@ -12391,7 +12391,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `parachute` no estilo Thin.
   ///
-  /// ![parachute](https://api.iconify.design/ph/parachute-thin.svg?height=32&color=%23888888)
+  /// ![parachute](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/parachute.png)
   static const IconData parachute = IconData(
     0xea7c,
     fontFamily: 'PhosphorThin',
@@ -12403,7 +12403,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paragraph` no estilo Thin.
   ///
-  /// ![paragraph](https://api.iconify.design/ph/paragraph-thin.svg?height=32&color=%23888888)
+  /// ![paragraph](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paragraph.png)
   static const IconData paragraph = IconData(
     0xe960,
     fontFamily: 'PhosphorThin',
@@ -12415,7 +12415,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `parallelogram` no estilo Thin.
   ///
-  /// ![parallelogram](https://api.iconify.design/ph/parallelogram-thin.svg?height=32&color=%23888888)
+  /// ![parallelogram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/parallelogram.png)
   static const IconData parallelogram = IconData(
     0xecc6,
     fontFamily: 'PhosphorThin',
@@ -12427,7 +12427,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `park` no estilo Thin.
   ///
-  /// ![park](https://api.iconify.design/ph/park-thin.svg?height=32&color=%23888888)
+  /// ![park](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/park.png)
   static const IconData park = IconData(
     0xecb2,
     fontFamily: 'PhosphorThin',
@@ -12439,7 +12439,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `password` no estilo Thin.
   ///
-  /// ![password](https://api.iconify.design/ph/password-thin.svg?height=32&color=%23888888)
+  /// ![password](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/password.png)
   static const IconData password = IconData(
     0xe752,
     fontFamily: 'PhosphorThin',
@@ -12451,7 +12451,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `path` no estilo Thin.
   ///
-  /// ![path](https://api.iconify.design/ph/path-thin.svg?height=32&color=%23888888)
+  /// ![path](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/path.png)
   static const IconData path = IconData(
     0xe39c,
     fontFamily: 'PhosphorThin',
@@ -12463,7 +12463,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `patreonLogo` no estilo Thin.
   ///
-  /// ![patreon-logo](https://api.iconify.design/ph/patreon-logo-thin.svg?height=32&color=%23888888)
+  /// ![patreon-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/patreon-logo.png)
   static const IconData patreonLogo = IconData(
     0xe98a,
     fontFamily: 'PhosphorThin',
@@ -12475,7 +12475,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pause` no estilo Thin.
   ///
-  /// ![pause](https://api.iconify.design/ph/pause-thin.svg?height=32&color=%23888888)
+  /// ![pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pause.png)
   static const IconData pause = IconData(
     0xe39e,
     fontFamily: 'PhosphorThin',
@@ -12487,7 +12487,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pauseCircle` no estilo Thin.
   ///
-  /// ![pause-circle](https://api.iconify.design/ph/pause-circle-thin.svg?height=32&color=%23888888)
+  /// ![pause-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pause-circle.png)
   static const IconData pauseCircle = IconData(
     0xe3a0,
     fontFamily: 'PhosphorThin',
@@ -12499,7 +12499,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pawPrint` no estilo Thin.
   ///
-  /// ![paw-print](https://api.iconify.design/ph/paw-print-thin.svg?height=32&color=%23888888)
+  /// ![paw-print](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paw-print.png)
   static const IconData pawPrint = IconData(
     0xe648,
     fontFamily: 'PhosphorThin',
@@ -12511,7 +12511,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `paypalLogo` no estilo Thin.
   ///
-  /// ![paypal-logo](https://api.iconify.design/ph/paypal-logo-thin.svg?height=32&color=%23888888)
+  /// ![paypal-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/paypal-logo.png)
   static const IconData paypalLogo = IconData(
     0xe98c,
     fontFamily: 'PhosphorThin',
@@ -12523,7 +12523,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `peace` no estilo Thin.
   ///
-  /// ![peace](https://api.iconify.design/ph/peace-thin.svg?height=32&color=%23888888)
+  /// ![peace](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/peace.png)
   static const IconData peace = IconData(
     0xe3a2,
     fontFamily: 'PhosphorThin',
@@ -12535,7 +12535,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pen` no estilo Thin.
   ///
-  /// ![pen](https://api.iconify.design/ph/pen-thin.svg?height=32&color=%23888888)
+  /// ![pen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pen.png)
   static const IconData pen = IconData(
     0xe3aa,
     fontFamily: 'PhosphorThin',
@@ -12547,7 +12547,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `penNib` no estilo Thin.
   ///
-  /// ![pen-nib](https://api.iconify.design/ph/pen-nib-thin.svg?height=32&color=%23888888)
+  /// ![pen-nib](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pen-nib.png)
   static const IconData penNib = IconData(
     0xe3ac,
     fontFamily: 'PhosphorThin',
@@ -12559,7 +12559,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `penNibStraight` no estilo Thin.
   ///
-  /// ![pen-nib-straight](https://api.iconify.design/ph/pen-nib-straight-thin.svg?height=32&color=%23888888)
+  /// ![pen-nib-straight](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pen-nib-straight.png)
   static const IconData penNibStraight = IconData(
     0xe64a,
     fontFamily: 'PhosphorThin',
@@ -12571,7 +12571,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencil` no estilo Thin.
   ///
-  /// ![pencil](https://api.iconify.design/ph/pencil-thin.svg?height=32&color=%23888888)
+  /// ![pencil](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil.png)
   static const IconData pencil = IconData(
     0xe3ae,
     fontFamily: 'PhosphorThin',
@@ -12583,7 +12583,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencilCircle` no estilo Thin.
   ///
-  /// ![pencil-circle](https://api.iconify.design/ph/pencil-circle-thin.svg?height=32&color=%23888888)
+  /// ![pencil-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil-circle.png)
   static const IconData pencilCircle = IconData(
     0xe3b0,
     fontFamily: 'PhosphorThin',
@@ -12595,7 +12595,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencilLine` no estilo Thin.
   ///
-  /// ![pencil-line](https://api.iconify.design/ph/pencil-line-thin.svg?height=32&color=%23888888)
+  /// ![pencil-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil-line.png)
   static const IconData pencilLine = IconData(
     0xe3b2,
     fontFamily: 'PhosphorThin',
@@ -12607,7 +12607,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencilRuler` no estilo Thin.
   ///
-  /// ![pencil-ruler](https://api.iconify.design/ph/pencil-ruler-thin.svg?height=32&color=%23888888)
+  /// ![pencil-ruler](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil-ruler.png)
   static const IconData pencilRuler = IconData(
     0xe906,
     fontFamily: 'PhosphorThin',
@@ -12619,7 +12619,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencilSimple` no estilo Thin.
   ///
-  /// ![pencil-simple](https://api.iconify.design/ph/pencil-simple-thin.svg?height=32&color=%23888888)
+  /// ![pencil-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil-simple.png)
   static const IconData pencilSimple = IconData(
     0xe3b4,
     fontFamily: 'PhosphorThin',
@@ -12631,7 +12631,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencilSimpleLine` no estilo Thin.
   ///
-  /// ![pencil-simple-line](https://api.iconify.design/ph/pencil-simple-line-thin.svg?height=32&color=%23888888)
+  /// ![pencil-simple-line](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil-simple-line.png)
   static const IconData pencilSimpleLine = IconData(
     0xebc6,
     fontFamily: 'PhosphorThin',
@@ -12643,7 +12643,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencilSimpleSlash` no estilo Thin.
   ///
-  /// ![pencil-simple-slash](https://api.iconify.design/ph/pencil-simple-slash-thin.svg?height=32&color=%23888888)
+  /// ![pencil-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil-simple-slash.png)
   static const IconData pencilSimpleSlash = IconData(
     0xecf6,
     fontFamily: 'PhosphorThin',
@@ -12655,7 +12655,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pencilSlash` no estilo Thin.
   ///
-  /// ![pencil-slash](https://api.iconify.design/ph/pencil-slash-thin.svg?height=32&color=%23888888)
+  /// ![pencil-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pencil-slash.png)
   static const IconData pencilSlash = IconData(
     0xecf8,
     fontFamily: 'PhosphorThin',
@@ -12667,7 +12667,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pentagon` no estilo Thin.
   ///
-  /// ![pentagon](https://api.iconify.design/ph/pentagon-thin.svg?height=32&color=%23888888)
+  /// ![pentagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pentagon.png)
   static const IconData pentagon = IconData(
     0xec7e,
     fontFamily: 'PhosphorThin',
@@ -12679,7 +12679,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pentagram` no estilo Thin.
   ///
-  /// ![pentagram](https://api.iconify.design/ph/pentagram-thin.svg?height=32&color=%23888888)
+  /// ![pentagram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pentagram.png)
   static const IconData pentagram = IconData(
     0xec5c,
     fontFamily: 'PhosphorThin',
@@ -12691,7 +12691,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pepper` no estilo Thin.
   ///
-  /// ![pepper](https://api.iconify.design/ph/pepper-thin.svg?height=32&color=%23888888)
+  /// ![pepper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pepper.png)
   static const IconData pepper = IconData(
     0xe94a,
     fontFamily: 'PhosphorThin',
@@ -12703,7 +12703,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `percent` no estilo Thin.
   ///
-  /// ![percent](https://api.iconify.design/ph/percent-thin.svg?height=32&color=%23888888)
+  /// ![percent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/percent.png)
   static const IconData percent = IconData(
     0xe3b6,
     fontFamily: 'PhosphorThin',
@@ -12715,7 +12715,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `person` no estilo Thin.
   ///
-  /// ![person](https://api.iconify.design/ph/person-thin.svg?height=32&color=%23888888)
+  /// ![person](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person.png)
   static const IconData person = IconData(
     0xe3a8,
     fontFamily: 'PhosphorThin',
@@ -12727,7 +12727,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personArmsSpread` no estilo Thin.
   ///
-  /// ![person-arms-spread](https://api.iconify.design/ph/person-arms-spread-thin.svg?height=32&color=%23888888)
+  /// ![person-arms-spread](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-arms-spread.png)
   static const IconData personArmsSpread = IconData(
     0xecfe,
     fontFamily: 'PhosphorThin',
@@ -12739,7 +12739,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimple` no estilo Thin.
   ///
-  /// ![person-simple](https://api.iconify.design/ph/person-simple-thin.svg?height=32&color=%23888888)
+  /// ![person-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple.png)
   static const IconData personSimple = IconData(
     0xe72e,
     fontFamily: 'PhosphorThin',
@@ -12751,7 +12751,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleBike` no estilo Thin.
   ///
-  /// ![person-simple-bike](https://api.iconify.design/ph/person-simple-bike-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-bike](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-bike.png)
   static const IconData personSimpleBike = IconData(
     0xe734,
     fontFamily: 'PhosphorThin',
@@ -12763,7 +12763,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleCircle` no estilo Thin.
   ///
-  /// ![person-simple-circle](https://api.iconify.design/ph/person-simple-circle-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-circle.png)
   static const IconData personSimpleCircle = IconData(
     0xee58,
     fontFamily: 'PhosphorThin',
@@ -12775,7 +12775,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleHike` no estilo Thin.
   ///
-  /// ![person-simple-hike](https://api.iconify.design/ph/person-simple-hike-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-hike](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-hike.png)
   static const IconData personSimpleHike = IconData(
     0xed54,
     fontFamily: 'PhosphorThin',
@@ -12787,7 +12787,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleRun` no estilo Thin.
   ///
-  /// ![person-simple-run](https://api.iconify.design/ph/person-simple-run-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-run](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-run.png)
   static const IconData personSimpleRun = IconData(
     0xe730,
     fontFamily: 'PhosphorThin',
@@ -12799,7 +12799,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleSki` no estilo Thin.
   ///
-  /// ![person-simple-ski](https://api.iconify.design/ph/person-simple-ski-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-ski](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-ski.png)
   static const IconData personSimpleSki = IconData(
     0xe71c,
     fontFamily: 'PhosphorThin',
@@ -12811,7 +12811,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleSnowboard` no estilo Thin.
   ///
-  /// ![person-simple-snowboard](https://api.iconify.design/ph/person-simple-snowboard-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-snowboard](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-snowboard.png)
   static const IconData personSimpleSnowboard = IconData(
     0xe71e,
     fontFamily: 'PhosphorThin',
@@ -12823,7 +12823,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleSwim` no estilo Thin.
   ///
-  /// ![person-simple-swim](https://api.iconify.design/ph/person-simple-swim-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-swim](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-swim.png)
   static const IconData personSimpleSwim = IconData(
     0xe736,
     fontFamily: 'PhosphorThin',
@@ -12835,7 +12835,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleTaiChi` no estilo Thin.
   ///
-  /// ![person-simple-tai-chi](https://api.iconify.design/ph/person-simple-tai-chi-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-tai-chi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-tai-chi.png)
   static const IconData personSimpleTaiChi = IconData(
     0xed5c,
     fontFamily: 'PhosphorThin',
@@ -12847,7 +12847,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleThrow` no estilo Thin.
   ///
-  /// ![person-simple-throw](https://api.iconify.design/ph/person-simple-throw-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-throw](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-throw.png)
   static const IconData personSimpleThrow = IconData(
     0xe732,
     fontFamily: 'PhosphorThin',
@@ -12859,7 +12859,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `personSimpleWalk` no estilo Thin.
   ///
-  /// ![person-simple-walk](https://api.iconify.design/ph/person-simple-walk-thin.svg?height=32&color=%23888888)
+  /// ![person-simple-walk](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/person-simple-walk.png)
   static const IconData personSimpleWalk = IconData(
     0xe73a,
     fontFamily: 'PhosphorThin',
@@ -12871,7 +12871,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `perspective` no estilo Thin.
   ///
-  /// ![perspective](https://api.iconify.design/ph/perspective-thin.svg?height=32&color=%23888888)
+  /// ![perspective](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/perspective.png)
   static const IconData perspective = IconData(
     0xebe6,
     fontFamily: 'PhosphorThin',
@@ -12883,7 +12883,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phone` no estilo Thin.
   ///
-  /// ![phone](https://api.iconify.design/ph/phone-thin.svg?height=32&color=%23888888)
+  /// ![phone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone.png)
   static const IconData phone = IconData(
     0xe3b8,
     fontFamily: 'PhosphorThin',
@@ -12895,7 +12895,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneCall` no estilo Thin.
   ///
-  /// ![phone-call](https://api.iconify.design/ph/phone-call-thin.svg?height=32&color=%23888888)
+  /// ![phone-call](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-call.png)
   static const IconData phoneCall = IconData(
     0xe3ba,
     fontFamily: 'PhosphorThin',
@@ -12907,7 +12907,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneDisconnect` no estilo Thin.
   ///
-  /// ![phone-disconnect](https://api.iconify.design/ph/phone-disconnect-thin.svg?height=32&color=%23888888)
+  /// ![phone-disconnect](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-disconnect.png)
   static const IconData phoneDisconnect = IconData(
     0xe3bc,
     fontFamily: 'PhosphorThin',
@@ -12919,7 +12919,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneIncoming` no estilo Thin.
   ///
-  /// ![phone-incoming](https://api.iconify.design/ph/phone-incoming-thin.svg?height=32&color=%23888888)
+  /// ![phone-incoming](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-incoming.png)
   static const IconData phoneIncoming = IconData(
     0xe3be,
     fontFamily: 'PhosphorThin',
@@ -12931,7 +12931,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneList` no estilo Thin.
   ///
-  /// ![phone-list](https://api.iconify.design/ph/phone-list-thin.svg?height=32&color=%23888888)
+  /// ![phone-list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-list.png)
   static const IconData phoneList = IconData(
     0xe3cc,
     fontFamily: 'PhosphorThin',
@@ -12943,7 +12943,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneOutgoing` no estilo Thin.
   ///
-  /// ![phone-outgoing](https://api.iconify.design/ph/phone-outgoing-thin.svg?height=32&color=%23888888)
+  /// ![phone-outgoing](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-outgoing.png)
   static const IconData phoneOutgoing = IconData(
     0xe3c0,
     fontFamily: 'PhosphorThin',
@@ -12955,7 +12955,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phonePause` no estilo Thin.
   ///
-  /// ![phone-pause](https://api.iconify.design/ph/phone-pause-thin.svg?height=32&color=%23888888)
+  /// ![phone-pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-pause.png)
   static const IconData phonePause = IconData(
     0xe3ca,
     fontFamily: 'PhosphorThin',
@@ -12967,7 +12967,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phonePlus` no estilo Thin.
   ///
-  /// ![phone-plus](https://api.iconify.design/ph/phone-plus-thin.svg?height=32&color=%23888888)
+  /// ![phone-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-plus.png)
   static const IconData phonePlus = IconData(
     0xec56,
     fontFamily: 'PhosphorThin',
@@ -12979,7 +12979,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneSlash` no estilo Thin.
   ///
-  /// ![phone-slash](https://api.iconify.design/ph/phone-slash-thin.svg?height=32&color=%23888888)
+  /// ![phone-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-slash.png)
   static const IconData phoneSlash = IconData(
     0xe3c2,
     fontFamily: 'PhosphorThin',
@@ -12991,7 +12991,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneTransfer` no estilo Thin.
   ///
-  /// ![phone-transfer](https://api.iconify.design/ph/phone-transfer-thin.svg?height=32&color=%23888888)
+  /// ![phone-transfer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-transfer.png)
   static const IconData phoneTransfer = IconData(
     0xe3c6,
     fontFamily: 'PhosphorThin',
@@ -13003,7 +13003,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phoneX` no estilo Thin.
   ///
-  /// ![phone-x](https://api.iconify.design/ph/phone-x-thin.svg?height=32&color=%23888888)
+  /// ![phone-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phone-x.png)
   static const IconData phoneX = IconData(
     0xe3c4,
     fontFamily: 'PhosphorThin',
@@ -13015,7 +13015,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `phosphorLogo` no estilo Thin.
   ///
-  /// ![phosphor-logo](https://api.iconify.design/ph/phosphor-logo-thin.svg?height=32&color=%23888888)
+  /// ![phosphor-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/phosphor-logo.png)
   static const IconData phosphorLogo = IconData(
     0xe3ce,
     fontFamily: 'PhosphorThin',
@@ -13027,7 +13027,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pi` no estilo Thin.
   ///
-  /// ![pi](https://api.iconify.design/ph/pi-thin.svg?height=32&color=%23888888)
+  /// ![pi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pi.png)
   static const IconData pi = IconData(
     0xec80,
     fontFamily: 'PhosphorThin',
@@ -13039,7 +13039,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pianoKeys` no estilo Thin.
   ///
-  /// ![piano-keys](https://api.iconify.design/ph/piano-keys-thin.svg?height=32&color=%23888888)
+  /// ![piano-keys](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/piano-keys.png)
   static const IconData pianoKeys = IconData(
     0xe9c8,
     fontFamily: 'PhosphorThin',
@@ -13051,7 +13051,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `picnicTable` no estilo Thin.
   ///
-  /// ![picnic-table](https://api.iconify.design/ph/picnic-table-thin.svg?height=32&color=%23888888)
+  /// ![picnic-table](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/picnic-table.png)
   static const IconData picnicTable = IconData(
     0xee26,
     fontFamily: 'PhosphorThin',
@@ -13063,7 +13063,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pictureInPicture` no estilo Thin.
   ///
-  /// ![picture-in-picture](https://api.iconify.design/ph/picture-in-picture-thin.svg?height=32&color=%23888888)
+  /// ![picture-in-picture](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/picture-in-picture.png)
   static const IconData pictureInPicture = IconData(
     0xe64c,
     fontFamily: 'PhosphorThin',
@@ -13075,7 +13075,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `piggyBank` no estilo Thin.
   ///
-  /// ![piggy-bank](https://api.iconify.design/ph/piggy-bank-thin.svg?height=32&color=%23888888)
+  /// ![piggy-bank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/piggy-bank.png)
   static const IconData piggyBank = IconData(
     0xea04,
     fontFamily: 'PhosphorThin',
@@ -13087,7 +13087,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pill` no estilo Thin.
   ///
-  /// ![pill](https://api.iconify.design/ph/pill-thin.svg?height=32&color=%23888888)
+  /// ![pill](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pill.png)
   static const IconData pill = IconData(
     0xe700,
     fontFamily: 'PhosphorThin',
@@ -13099,7 +13099,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pingPong` no estilo Thin.
   ///
-  /// ![ping-pong](https://api.iconify.design/ph/ping-pong-thin.svg?height=32&color=%23888888)
+  /// ![ping-pong](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ping-pong.png)
   static const IconData pingPong = IconData(
     0xea42,
     fontFamily: 'PhosphorThin',
@@ -13111,7 +13111,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pintGlass` no estilo Thin.
   ///
-  /// ![pint-glass](https://api.iconify.design/ph/pint-glass-thin.svg?height=32&color=%23888888)
+  /// ![pint-glass](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pint-glass.png)
   static const IconData pintGlass = IconData(
     0xedd0,
     fontFamily: 'PhosphorThin',
@@ -13123,7 +13123,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pinterestLogo` no estilo Thin.
   ///
-  /// ![pinterest-logo](https://api.iconify.design/ph/pinterest-logo-thin.svg?height=32&color=%23888888)
+  /// ![pinterest-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pinterest-logo.png)
   static const IconData pinterestLogo = IconData(
     0xe64e,
     fontFamily: 'PhosphorThin',
@@ -13135,7 +13135,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pinwheel` no estilo Thin.
   ///
-  /// ![pinwheel](https://api.iconify.design/ph/pinwheel-thin.svg?height=32&color=%23888888)
+  /// ![pinwheel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pinwheel.png)
   static const IconData pinwheel = IconData(
     0xeb9c,
     fontFamily: 'PhosphorThin',
@@ -13147,7 +13147,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pipe` no estilo Thin.
   ///
-  /// ![pipe](https://api.iconify.design/ph/pipe-thin.svg?height=32&color=%23888888)
+  /// ![pipe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pipe.png)
   static const IconData pipe = IconData(
     0xed86,
     fontFamily: 'PhosphorThin',
@@ -13159,7 +13159,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pipeWrench` no estilo Thin.
   ///
-  /// ![pipe-wrench](https://api.iconify.design/ph/pipe-wrench-thin.svg?height=32&color=%23888888)
+  /// ![pipe-wrench](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pipe-wrench.png)
   static const IconData pipeWrench = IconData(
     0xed88,
     fontFamily: 'PhosphorThin',
@@ -13171,7 +13171,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pixLogo` no estilo Thin.
   ///
-  /// ![pix-logo](https://api.iconify.design/ph/pix-logo-thin.svg?height=32&color=%23888888)
+  /// ![pix-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pix-logo.png)
   static const IconData pixLogo = IconData(
     0xecc2,
     fontFamily: 'PhosphorThin',
@@ -13183,7 +13183,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pizza` no estilo Thin.
   ///
-  /// ![pizza](https://api.iconify.design/ph/pizza-thin.svg?height=32&color=%23888888)
+  /// ![pizza](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pizza.png)
   static const IconData pizza = IconData(
     0xe796,
     fontFamily: 'PhosphorThin',
@@ -13195,7 +13195,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `placeholder` no estilo Thin.
   ///
-  /// ![placeholder](https://api.iconify.design/ph/placeholder-thin.svg?height=32&color=%23888888)
+  /// ![placeholder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/placeholder.png)
   static const IconData placeholder = IconData(
     0xe650,
     fontFamily: 'PhosphorThin',
@@ -13207,7 +13207,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `planet` no estilo Thin.
   ///
-  /// ![planet](https://api.iconify.design/ph/planet-thin.svg?height=32&color=%23888888)
+  /// ![planet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/planet.png)
   static const IconData planet = IconData(
     0xe652,
     fontFamily: 'PhosphorThin',
@@ -13219,7 +13219,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plant` no estilo Thin.
   ///
-  /// ![plant](https://api.iconify.design/ph/plant-thin.svg?height=32&color=%23888888)
+  /// ![plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plant.png)
   static const IconData plant = IconData(
     0xebae,
     fontFamily: 'PhosphorThin',
@@ -13231,7 +13231,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `play` no estilo Thin.
   ///
-  /// ![play](https://api.iconify.design/ph/play-thin.svg?height=32&color=%23888888)
+  /// ![play](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/play.png)
   static const IconData play = IconData(
     0xe3d0,
     fontFamily: 'PhosphorThin',
@@ -13243,7 +13243,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `playCircle` no estilo Thin.
   ///
-  /// ![play-circle](https://api.iconify.design/ph/play-circle-thin.svg?height=32&color=%23888888)
+  /// ![play-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/play-circle.png)
   static const IconData playCircle = IconData(
     0xe3d2,
     fontFamily: 'PhosphorThin',
@@ -13255,7 +13255,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `playPause` no estilo Thin.
   ///
-  /// ![play-pause](https://api.iconify.design/ph/play-pause-thin.svg?height=32&color=%23888888)
+  /// ![play-pause](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/play-pause.png)
   static const IconData playPause = IconData(
     0xe8be,
     fontFamily: 'PhosphorThin',
@@ -13267,7 +13267,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `playlist` no estilo Thin.
   ///
-  /// ![playlist](https://api.iconify.design/ph/playlist-thin.svg?height=32&color=%23888888)
+  /// ![playlist](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/playlist.png)
   static const IconData playlist = IconData(
     0xe6aa,
     fontFamily: 'PhosphorThin',
@@ -13279,7 +13279,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plug` no estilo Thin.
   ///
-  /// ![plug](https://api.iconify.design/ph/plug-thin.svg?height=32&color=%23888888)
+  /// ![plug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plug.png)
   static const IconData plug = IconData(
     0xe946,
     fontFamily: 'PhosphorThin',
@@ -13291,7 +13291,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plugCharging` no estilo Thin.
   ///
-  /// ![plug-charging](https://api.iconify.design/ph/plug-charging-thin.svg?height=32&color=%23888888)
+  /// ![plug-charging](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plug-charging.png)
   static const IconData plugCharging = IconData(
     0xeb5c,
     fontFamily: 'PhosphorThin',
@@ -13303,7 +13303,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plugs` no estilo Thin.
   ///
-  /// ![plugs](https://api.iconify.design/ph/plugs-thin.svg?height=32&color=%23888888)
+  /// ![plugs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plugs.png)
   static const IconData plugs = IconData(
     0xeb56,
     fontFamily: 'PhosphorThin',
@@ -13315,7 +13315,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plugsConnected` no estilo Thin.
   ///
-  /// ![plugs-connected](https://api.iconify.design/ph/plugs-connected-thin.svg?height=32&color=%23888888)
+  /// ![plugs-connected](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plugs-connected.png)
   static const IconData plugsConnected = IconData(
     0xeb5a,
     fontFamily: 'PhosphorThin',
@@ -13327,7 +13327,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plus` no estilo Thin.
   ///
-  /// ![plus](https://api.iconify.design/ph/plus-thin.svg?height=32&color=%23888888)
+  /// ![plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plus.png)
   static const IconData plus = IconData(
     0xe3d4,
     fontFamily: 'PhosphorThin',
@@ -13339,7 +13339,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plusCircle` no estilo Thin.
   ///
-  /// ![plus-circle](https://api.iconify.design/ph/plus-circle-thin.svg?height=32&color=%23888888)
+  /// ![plus-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plus-circle.png)
   static const IconData plusCircle = IconData(
     0xe3d6,
     fontFamily: 'PhosphorThin',
@@ -13351,7 +13351,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plusMinus` no estilo Thin.
   ///
-  /// ![plus-minus](https://api.iconify.design/ph/plus-minus-thin.svg?height=32&color=%23888888)
+  /// ![plus-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plus-minus.png)
   static const IconData plusMinus = IconData(
     0xe3d8,
     fontFamily: 'PhosphorThin',
@@ -13363,7 +13363,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `plusSquare` no estilo Thin.
   ///
-  /// ![plus-square](https://api.iconify.design/ph/plus-square-thin.svg?height=32&color=%23888888)
+  /// ![plus-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/plus-square.png)
   static const IconData plusSquare = IconData(
     0xed4a,
     fontFamily: 'PhosphorThin',
@@ -13375,7 +13375,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pokerChip` no estilo Thin.
   ///
-  /// ![poker-chip](https://api.iconify.design/ph/poker-chip-thin.svg?height=32&color=%23888888)
+  /// ![poker-chip](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/poker-chip.png)
   static const IconData pokerChip = IconData(
     0xe594,
     fontFamily: 'PhosphorThin',
@@ -13387,7 +13387,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `policeCar` no estilo Thin.
   ///
-  /// ![police-car](https://api.iconify.design/ph/police-car-thin.svg?height=32&color=%23888888)
+  /// ![police-car](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/police-car.png)
   static const IconData policeCar = IconData(
     0xec4a,
     fontFamily: 'PhosphorThin',
@@ -13399,7 +13399,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `polygon` no estilo Thin.
   ///
-  /// ![polygon](https://api.iconify.design/ph/polygon-thin.svg?height=32&color=%23888888)
+  /// ![polygon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/polygon.png)
   static const IconData polygon = IconData(
     0xe6d0,
     fontFamily: 'PhosphorThin',
@@ -13411,7 +13411,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `popcorn` no estilo Thin.
   ///
-  /// ![popcorn](https://api.iconify.design/ph/popcorn-thin.svg?height=32&color=%23888888)
+  /// ![popcorn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/popcorn.png)
   static const IconData popcorn = IconData(
     0xeb4e,
     fontFamily: 'PhosphorThin',
@@ -13423,7 +13423,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `popsicle` no estilo Thin.
   ///
-  /// ![popsicle](https://api.iconify.design/ph/popsicle-thin.svg?height=32&color=%23888888)
+  /// ![popsicle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/popsicle.png)
   static const IconData popsicle = IconData(
     0xebbe,
     fontFamily: 'PhosphorThin',
@@ -13435,7 +13435,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pottedPlant` no estilo Thin.
   ///
-  /// ![potted-plant](https://api.iconify.design/ph/potted-plant-thin.svg?height=32&color=%23888888)
+  /// ![potted-plant](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/potted-plant.png)
   static const IconData pottedPlant = IconData(
     0xec22,
     fontFamily: 'PhosphorThin',
@@ -13447,7 +13447,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `power` no estilo Thin.
   ///
-  /// ![power](https://api.iconify.design/ph/power-thin.svg?height=32&color=%23888888)
+  /// ![power](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/power.png)
   static const IconData power = IconData(
     0xe3da,
     fontFamily: 'PhosphorThin',
@@ -13459,7 +13459,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `prescription` no estilo Thin.
   ///
-  /// ![prescription](https://api.iconify.design/ph/prescription-thin.svg?height=32&color=%23888888)
+  /// ![prescription](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/prescription.png)
   static const IconData prescription = IconData(
     0xe7a2,
     fontFamily: 'PhosphorThin',
@@ -13471,7 +13471,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `presentation` no estilo Thin.
   ///
-  /// ![presentation](https://api.iconify.design/ph/presentation-thin.svg?height=32&color=%23888888)
+  /// ![presentation](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/presentation.png)
   static const IconData presentation = IconData(
     0xe654,
     fontFamily: 'PhosphorThin',
@@ -13483,7 +13483,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `presentationChart` no estilo Thin.
   ///
-  /// ![presentation-chart](https://api.iconify.design/ph/presentation-chart-thin.svg?height=32&color=%23888888)
+  /// ![presentation-chart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/presentation-chart.png)
   static const IconData presentationChart = IconData(
     0xe656,
     fontFamily: 'PhosphorThin',
@@ -13495,7 +13495,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `printer` no estilo Thin.
   ///
-  /// ![printer](https://api.iconify.design/ph/printer-thin.svg?height=32&color=%23888888)
+  /// ![printer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/printer.png)
   static const IconData printer = IconData(
     0xe3dc,
     fontFamily: 'PhosphorThin',
@@ -13507,7 +13507,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `prohibit` no estilo Thin.
   ///
-  /// ![prohibit](https://api.iconify.design/ph/prohibit-thin.svg?height=32&color=%23888888)
+  /// ![prohibit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/prohibit.png)
   static const IconData prohibit = IconData(
     0xe3de,
     fontFamily: 'PhosphorThin',
@@ -13519,7 +13519,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `prohibitInset` no estilo Thin.
   ///
-  /// ![prohibit-inset](https://api.iconify.design/ph/prohibit-inset-thin.svg?height=32&color=%23888888)
+  /// ![prohibit-inset](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/prohibit-inset.png)
   static const IconData prohibitInset = IconData(
     0xe3e0,
     fontFamily: 'PhosphorThin',
@@ -13531,7 +13531,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `projectorScreen` no estilo Thin.
   ///
-  /// ![projector-screen](https://api.iconify.design/ph/projector-screen-thin.svg?height=32&color=%23888888)
+  /// ![projector-screen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/projector-screen.png)
   static const IconData projectorScreen = IconData(
     0xe658,
     fontFamily: 'PhosphorThin',
@@ -13543,7 +13543,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `projectorScreenChart` no estilo Thin.
   ///
-  /// ![projector-screen-chart](https://api.iconify.design/ph/projector-screen-chart-thin.svg?height=32&color=%23888888)
+  /// ![projector-screen-chart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/projector-screen-chart.png)
   static const IconData projectorScreenChart = IconData(
     0xe65a,
     fontFamily: 'PhosphorThin',
@@ -13555,7 +13555,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pulse` no estilo Thin.
   ///
-  /// ![pulse](https://api.iconify.design/ph/pulse-thin.svg?height=32&color=%23888888)
+  /// ![pulse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/pulse.png)
   static const IconData pulse = IconData(
     0xe000,
     fontFamily: 'PhosphorThin',
@@ -13567,7 +13567,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pushPin` no estilo Thin.
   ///
-  /// ![push-pin](https://api.iconify.design/ph/push-pin-thin.svg?height=32&color=%23888888)
+  /// ![push-pin](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/push-pin.png)
   static const IconData pushPin = IconData(
     0xe3e2,
     fontFamily: 'PhosphorThin',
@@ -13579,7 +13579,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pushPinSimple` no estilo Thin.
   ///
-  /// ![push-pin-simple](https://api.iconify.design/ph/push-pin-simple-thin.svg?height=32&color=%23888888)
+  /// ![push-pin-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/push-pin-simple.png)
   static const IconData pushPinSimple = IconData(
     0xe65c,
     fontFamily: 'PhosphorThin',
@@ -13591,7 +13591,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pushPinSimpleSlash` no estilo Thin.
   ///
-  /// ![push-pin-simple-slash](https://api.iconify.design/ph/push-pin-simple-slash-thin.svg?height=32&color=%23888888)
+  /// ![push-pin-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/push-pin-simple-slash.png)
   static const IconData pushPinSimpleSlash = IconData(
     0xe65e,
     fontFamily: 'PhosphorThin',
@@ -13603,7 +13603,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `pushPinSlash` no estilo Thin.
   ///
-  /// ![push-pin-slash](https://api.iconify.design/ph/push-pin-slash-thin.svg?height=32&color=%23888888)
+  /// ![push-pin-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/push-pin-slash.png)
   static const IconData pushPinSlash = IconData(
     0xe3e4,
     fontFamily: 'PhosphorThin',
@@ -13615,7 +13615,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `puzzlePiece` no estilo Thin.
   ///
-  /// ![puzzle-piece](https://api.iconify.design/ph/puzzle-piece-thin.svg?height=32&color=%23888888)
+  /// ![puzzle-piece](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/puzzle-piece.png)
   static const IconData puzzlePiece = IconData(
     0xe596,
     fontFamily: 'PhosphorThin',
@@ -13627,7 +13627,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `qrCode` no estilo Thin.
   ///
-  /// ![qr-code](https://api.iconify.design/ph/qr-code-thin.svg?height=32&color=%23888888)
+  /// ![qr-code](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/qr-code.png)
   static const IconData qrCode = IconData(
     0xe3e6,
     fontFamily: 'PhosphorThin',
@@ -13639,7 +13639,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `question` no estilo Thin.
   ///
-  /// ![question](https://api.iconify.design/ph/question-thin.svg?height=32&color=%23888888)
+  /// ![question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/question.png)
   static const IconData question = IconData(
     0xe3e8,
     fontFamily: 'PhosphorThin',
@@ -13651,7 +13651,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `questionMark` no estilo Thin.
   ///
-  /// ![question-mark](https://api.iconify.design/ph/question-mark-thin.svg?height=32&color=%23888888)
+  /// ![question-mark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/question-mark.png)
   static const IconData questionMark = IconData(
     0xe3e9,
     fontFamily: 'PhosphorThin',
@@ -13663,7 +13663,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `queue` no estilo Thin.
   ///
-  /// ![queue](https://api.iconify.design/ph/queue-thin.svg?height=32&color=%23888888)
+  /// ![queue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/queue.png)
   static const IconData queue = IconData(
     0xe6ac,
     fontFamily: 'PhosphorThin',
@@ -13675,7 +13675,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `quotes` no estilo Thin.
   ///
-  /// ![quotes](https://api.iconify.design/ph/quotes-thin.svg?height=32&color=%23888888)
+  /// ![quotes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/quotes.png)
   static const IconData quotes = IconData(
     0xe660,
     fontFamily: 'PhosphorThin',
@@ -13687,7 +13687,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rabbit` no estilo Thin.
   ///
-  /// ![rabbit](https://api.iconify.design/ph/rabbit-thin.svg?height=32&color=%23888888)
+  /// ![rabbit](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rabbit.png)
   static const IconData rabbit = IconData(
     0xeac2,
     fontFamily: 'PhosphorThin',
@@ -13699,7 +13699,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `racquet` no estilo Thin.
   ///
-  /// ![racquet](https://api.iconify.design/ph/racquet-thin.svg?height=32&color=%23888888)
+  /// ![racquet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/racquet.png)
   static const IconData racquet = IconData(
     0xee02,
     fontFamily: 'PhosphorThin',
@@ -13711,7 +13711,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `radical` no estilo Thin.
   ///
-  /// ![radical](https://api.iconify.design/ph/radical-thin.svg?height=32&color=%23888888)
+  /// ![radical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/radical.png)
   static const IconData radical = IconData(
     0xe3ea,
     fontFamily: 'PhosphorThin',
@@ -13723,7 +13723,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `radio` no estilo Thin.
   ///
-  /// ![radio](https://api.iconify.design/ph/radio-thin.svg?height=32&color=%23888888)
+  /// ![radio](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/radio.png)
   static const IconData radio = IconData(
     0xe77e,
     fontFamily: 'PhosphorThin',
@@ -13735,7 +13735,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `radioButton` no estilo Thin.
   ///
-  /// ![radio-button](https://api.iconify.design/ph/radio-button-thin.svg?height=32&color=%23888888)
+  /// ![radio-button](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/radio-button.png)
   static const IconData radioButton = IconData(
     0xeb08,
     fontFamily: 'PhosphorThin',
@@ -13747,7 +13747,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `radioactive` no estilo Thin.
   ///
-  /// ![radioactive](https://api.iconify.design/ph/radioactive-thin.svg?height=32&color=%23888888)
+  /// ![radioactive](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/radioactive.png)
   static const IconData radioactive = IconData(
     0xe9dc,
     fontFamily: 'PhosphorThin',
@@ -13759,7 +13759,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rainbow` no estilo Thin.
   ///
-  /// ![rainbow](https://api.iconify.design/ph/rainbow-thin.svg?height=32&color=%23888888)
+  /// ![rainbow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rainbow.png)
   static const IconData rainbow = IconData(
     0xe598,
     fontFamily: 'PhosphorThin',
@@ -13771,7 +13771,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rainbowCloud` no estilo Thin.
   ///
-  /// ![rainbow-cloud](https://api.iconify.design/ph/rainbow-cloud-thin.svg?height=32&color=%23888888)
+  /// ![rainbow-cloud](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rainbow-cloud.png)
   static const IconData rainbowCloud = IconData(
     0xe59a,
     fontFamily: 'PhosphorThin',
@@ -13783,7 +13783,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ranking` no estilo Thin.
   ///
-  /// ![ranking](https://api.iconify.design/ph/ranking-thin.svg?height=32&color=%23888888)
+  /// ![ranking](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ranking.png)
   static const IconData ranking = IconData(
     0xed62,
     fontFamily: 'PhosphorThin',
@@ -13795,7 +13795,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `readCvLogo` no estilo Thin.
   ///
-  /// ![read-cv-logo](https://api.iconify.design/ph/read-cv-logo-thin.svg?height=32&color=%23888888)
+  /// ![read-cv-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/read-cv-logo.png)
   static const IconData readCvLogo = IconData(
     0xed0c,
     fontFamily: 'PhosphorThin',
@@ -13807,7 +13807,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `receipt` no estilo Thin.
   ///
-  /// ![receipt](https://api.iconify.design/ph/receipt-thin.svg?height=32&color=%23888888)
+  /// ![receipt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/receipt.png)
   static const IconData receipt = IconData(
     0xe3ec,
     fontFamily: 'PhosphorThin',
@@ -13819,7 +13819,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `receiptX` no estilo Thin.
   ///
-  /// ![receipt-x](https://api.iconify.design/ph/receipt-x-thin.svg?height=32&color=%23888888)
+  /// ![receipt-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/receipt-x.png)
   static const IconData receiptX = IconData(
     0xed40,
     fontFamily: 'PhosphorThin',
@@ -13831,7 +13831,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `record` no estilo Thin.
   ///
-  /// ![record](https://api.iconify.design/ph/record-thin.svg?height=32&color=%23888888)
+  /// ![record](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/record.png)
   static const IconData record = IconData(
     0xe3ee,
     fontFamily: 'PhosphorThin',
@@ -13843,7 +13843,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rectangle` no estilo Thin.
   ///
-  /// ![rectangle](https://api.iconify.design/ph/rectangle-thin.svg?height=32&color=%23888888)
+  /// ![rectangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rectangle.png)
   static const IconData rectangle = IconData(
     0xe3f0,
     fontFamily: 'PhosphorThin',
@@ -13855,7 +13855,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rectangleDashed` no estilo Thin.
   ///
-  /// ![rectangle-dashed](https://api.iconify.design/ph/rectangle-dashed-thin.svg?height=32&color=%23888888)
+  /// ![rectangle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rectangle-dashed.png)
   static const IconData rectangleDashed = IconData(
     0xe3f2,
     fontFamily: 'PhosphorThin',
@@ -13867,7 +13867,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `recycle` no estilo Thin.
   ///
-  /// ![recycle](https://api.iconify.design/ph/recycle-thin.svg?height=32&color=%23888888)
+  /// ![recycle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/recycle.png)
   static const IconData recycle = IconData(
     0xe75a,
     fontFamily: 'PhosphorThin',
@@ -13879,7 +13879,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `redditLogo` no estilo Thin.
   ///
-  /// ![reddit-logo](https://api.iconify.design/ph/reddit-logo-thin.svg?height=32&color=%23888888)
+  /// ![reddit-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/reddit-logo.png)
   static const IconData redditLogo = IconData(
     0xe59c,
     fontFamily: 'PhosphorThin',
@@ -13891,7 +13891,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `repeat` no estilo Thin.
   ///
-  /// ![repeat](https://api.iconify.design/ph/repeat-thin.svg?height=32&color=%23888888)
+  /// ![repeat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/repeat.png)
   static const IconData repeat = IconData(
     0xe3f6,
     fontFamily: 'PhosphorThin',
@@ -13903,7 +13903,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `repeatOnce` no estilo Thin.
   ///
-  /// ![repeat-once](https://api.iconify.design/ph/repeat-once-thin.svg?height=32&color=%23888888)
+  /// ![repeat-once](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/repeat-once.png)
   static const IconData repeatOnce = IconData(
     0xe3f8,
     fontFamily: 'PhosphorThin',
@@ -13915,7 +13915,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `replitLogo` no estilo Thin.
   ///
-  /// ![replit-logo](https://api.iconify.design/ph/replit-logo-thin.svg?height=32&color=%23888888)
+  /// ![replit-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/replit-logo.png)
   static const IconData replitLogo = IconData(
     0xeb8a,
     fontFamily: 'PhosphorThin',
@@ -13927,7 +13927,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `resize` no estilo Thin.
   ///
-  /// ![resize](https://api.iconify.design/ph/resize-thin.svg?height=32&color=%23888888)
+  /// ![resize](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/resize.png)
   static const IconData resize = IconData(
     0xed6e,
     fontFamily: 'PhosphorThin',
@@ -13939,7 +13939,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rewind` no estilo Thin.
   ///
-  /// ![rewind](https://api.iconify.design/ph/rewind-thin.svg?height=32&color=%23888888)
+  /// ![rewind](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rewind.png)
   static const IconData rewind = IconData(
     0xe6a8,
     fontFamily: 'PhosphorThin',
@@ -13951,7 +13951,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rewindCircle` no estilo Thin.
   ///
-  /// ![rewind-circle](https://api.iconify.design/ph/rewind-circle-thin.svg?height=32&color=%23888888)
+  /// ![rewind-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rewind-circle.png)
   static const IconData rewindCircle = IconData(
     0xe3fa,
     fontFamily: 'PhosphorThin',
@@ -13963,7 +13963,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `roadHorizon` no estilo Thin.
   ///
-  /// ![road-horizon](https://api.iconify.design/ph/road-horizon-thin.svg?height=32&color=%23888888)
+  /// ![road-horizon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/road-horizon.png)
   static const IconData roadHorizon = IconData(
     0xe838,
     fontFamily: 'PhosphorThin',
@@ -13975,7 +13975,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `robot` no estilo Thin.
   ///
-  /// ![robot](https://api.iconify.design/ph/robot-thin.svg?height=32&color=%23888888)
+  /// ![robot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/robot.png)
   static const IconData robot = IconData(
     0xe762,
     fontFamily: 'PhosphorThin',
@@ -13987,7 +13987,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rocket` no estilo Thin.
   ///
-  /// ![rocket](https://api.iconify.design/ph/rocket-thin.svg?height=32&color=%23888888)
+  /// ![rocket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rocket.png)
   static const IconData rocket = IconData(
     0xe3fc,
     fontFamily: 'PhosphorThin',
@@ -13999,7 +13999,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rocketLaunch` no estilo Thin.
   ///
-  /// ![rocket-launch](https://api.iconify.design/ph/rocket-launch-thin.svg?height=32&color=%23888888)
+  /// ![rocket-launch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rocket-launch.png)
   static const IconData rocketLaunch = IconData(
     0xe3fe,
     fontFamily: 'PhosphorThin',
@@ -14011,7 +14011,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rows` no estilo Thin.
   ///
-  /// ![rows](https://api.iconify.design/ph/rows-thin.svg?height=32&color=%23888888)
+  /// ![rows](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rows.png)
   static const IconData rows = IconData(
     0xe5a2,
     fontFamily: 'PhosphorThin',
@@ -14023,7 +14023,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rowsPlusBottom` no estilo Thin.
   ///
-  /// ![rows-plus-bottom](https://api.iconify.design/ph/rows-plus-bottom-thin.svg?height=32&color=%23888888)
+  /// ![rows-plus-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rows-plus-bottom.png)
   static const IconData rowsPlusBottom = IconData(
     0xe59e,
     fontFamily: 'PhosphorThin',
@@ -14035,7 +14035,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rowsPlusTop` no estilo Thin.
   ///
-  /// ![rows-plus-top](https://api.iconify.design/ph/rows-plus-top-thin.svg?height=32&color=%23888888)
+  /// ![rows-plus-top](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rows-plus-top.png)
   static const IconData rowsPlusTop = IconData(
     0xe5a0,
     fontFamily: 'PhosphorThin',
@@ -14047,7 +14047,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rss` no estilo Thin.
   ///
-  /// ![rss](https://api.iconify.design/ph/rss-thin.svg?height=32&color=%23888888)
+  /// ![rss](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rss.png)
   static const IconData rss = IconData(
     0xe400,
     fontFamily: 'PhosphorThin',
@@ -14059,7 +14059,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rssSimple` no estilo Thin.
   ///
-  /// ![rss-simple](https://api.iconify.design/ph/rss-simple-thin.svg?height=32&color=%23888888)
+  /// ![rss-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rss-simple.png)
   static const IconData rssSimple = IconData(
     0xe402,
     fontFamily: 'PhosphorThin',
@@ -14071,7 +14071,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `rug` no estilo Thin.
   ///
-  /// ![rug](https://api.iconify.design/ph/rug-thin.svg?height=32&color=%23888888)
+  /// ![rug](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/rug.png)
   static const IconData rug = IconData(
     0xea1a,
     fontFamily: 'PhosphorThin',
@@ -14083,7 +14083,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ruler` no estilo Thin.
   ///
-  /// ![ruler](https://api.iconify.design/ph/ruler-thin.svg?height=32&color=%23888888)
+  /// ![ruler](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ruler.png)
   static const IconData ruler = IconData(
     0xe6b8,
     fontFamily: 'PhosphorThin',
@@ -14095,7 +14095,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sailboat` no estilo Thin.
   ///
-  /// ![sailboat](https://api.iconify.design/ph/sailboat-thin.svg?height=32&color=%23888888)
+  /// ![sailboat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sailboat.png)
   static const IconData sailboat = IconData(
     0xe78a,
     fontFamily: 'PhosphorThin',
@@ -14107,7 +14107,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scales` no estilo Thin.
   ///
-  /// ![scales](https://api.iconify.design/ph/scales-thin.svg?height=32&color=%23888888)
+  /// ![scales](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scales.png)
   static const IconData scales = IconData(
     0xe750,
     fontFamily: 'PhosphorThin',
@@ -14119,7 +14119,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scan` no estilo Thin.
   ///
-  /// ![scan](https://api.iconify.design/ph/scan-thin.svg?height=32&color=%23888888)
+  /// ![scan](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scan.png)
   static const IconData scan = IconData(
     0xebb6,
     fontFamily: 'PhosphorThin',
@@ -14131,7 +14131,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scanSmiley` no estilo Thin.
   ///
-  /// ![scan-smiley](https://api.iconify.design/ph/scan-smiley-thin.svg?height=32&color=%23888888)
+  /// ![scan-smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scan-smiley.png)
   static const IconData scanSmiley = IconData(
     0xebb4,
     fontFamily: 'PhosphorThin',
@@ -14143,7 +14143,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scissors` no estilo Thin.
   ///
-  /// ![scissors](https://api.iconify.design/ph/scissors-thin.svg?height=32&color=%23888888)
+  /// ![scissors](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scissors.png)
   static const IconData scissors = IconData(
     0xeae0,
     fontFamily: 'PhosphorThin',
@@ -14155,7 +14155,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scooter` no estilo Thin.
   ///
-  /// ![scooter](https://api.iconify.design/ph/scooter-thin.svg?height=32&color=%23888888)
+  /// ![scooter](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scooter.png)
   static const IconData scooter = IconData(
     0xe820,
     fontFamily: 'PhosphorThin',
@@ -14167,7 +14167,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `screencast` no estilo Thin.
   ///
-  /// ![screencast](https://api.iconify.design/ph/screencast-thin.svg?height=32&color=%23888888)
+  /// ![screencast](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/screencast.png)
   static const IconData screencast = IconData(
     0xe404,
     fontFamily: 'PhosphorThin',
@@ -14179,7 +14179,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `screwdriver` no estilo Thin.
   ///
-  /// ![screwdriver](https://api.iconify.design/ph/screwdriver-thin.svg?height=32&color=%23888888)
+  /// ![screwdriver](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/screwdriver.png)
   static const IconData screwdriver = IconData(
     0xe86e,
     fontFamily: 'PhosphorThin',
@@ -14191,7 +14191,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scribble` no estilo Thin.
   ///
-  /// ![scribble](https://api.iconify.design/ph/scribble-thin.svg?height=32&color=%23888888)
+  /// ![scribble](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scribble.png)
   static const IconData scribble = IconData(
     0xe806,
     fontFamily: 'PhosphorThin',
@@ -14203,7 +14203,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scribbleLoop` no estilo Thin.
   ///
-  /// ![scribble-loop](https://api.iconify.design/ph/scribble-loop-thin.svg?height=32&color=%23888888)
+  /// ![scribble-loop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scribble-loop.png)
   static const IconData scribbleLoop = IconData(
     0xe662,
     fontFamily: 'PhosphorThin',
@@ -14215,7 +14215,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `scroll` no estilo Thin.
   ///
-  /// ![scroll](https://api.iconify.design/ph/scroll-thin.svg?height=32&color=%23888888)
+  /// ![scroll](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/scroll.png)
   static const IconData scroll = IconData(
     0xeb7a,
     fontFamily: 'PhosphorThin',
@@ -14227,7 +14227,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `seal` no estilo Thin.
   ///
-  /// ![seal](https://api.iconify.design/ph/seal-thin.svg?height=32&color=%23888888)
+  /// ![seal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/seal.png)
   static const IconData seal = IconData(
     0xe604,
     fontFamily: 'PhosphorThin',
@@ -14239,7 +14239,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sealCheck` no estilo Thin.
   ///
-  /// ![seal-check](https://api.iconify.design/ph/seal-check-thin.svg?height=32&color=%23888888)
+  /// ![seal-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/seal-check.png)
   static const IconData sealCheck = IconData(
     0xe606,
     fontFamily: 'PhosphorThin',
@@ -14251,7 +14251,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sealPercent` no estilo Thin.
   ///
-  /// ![seal-percent](https://api.iconify.design/ph/seal-percent-thin.svg?height=32&color=%23888888)
+  /// ![seal-percent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/seal-percent.png)
   static const IconData sealPercent = IconData(
     0xe60a,
     fontFamily: 'PhosphorThin',
@@ -14263,7 +14263,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sealQuestion` no estilo Thin.
   ///
-  /// ![seal-question](https://api.iconify.design/ph/seal-question-thin.svg?height=32&color=%23888888)
+  /// ![seal-question](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/seal-question.png)
   static const IconData sealQuestion = IconData(
     0xe608,
     fontFamily: 'PhosphorThin',
@@ -14275,7 +14275,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sealWarning` no estilo Thin.
   ///
-  /// ![seal-warning](https://api.iconify.design/ph/seal-warning-thin.svg?height=32&color=%23888888)
+  /// ![seal-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/seal-warning.png)
   static const IconData sealWarning = IconData(
     0xe60c,
     fontFamily: 'PhosphorThin',
@@ -14287,7 +14287,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `seat` no estilo Thin.
   ///
-  /// ![seat](https://api.iconify.design/ph/seat-thin.svg?height=32&color=%23888888)
+  /// ![seat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/seat.png)
   static const IconData seat = IconData(
     0xeb8e,
     fontFamily: 'PhosphorThin',
@@ -14299,7 +14299,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `seatbelt` no estilo Thin.
   ///
-  /// ![seatbelt](https://api.iconify.design/ph/seatbelt-thin.svg?height=32&color=%23888888)
+  /// ![seatbelt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/seatbelt.png)
   static const IconData seatbelt = IconData(
     0xedfe,
     fontFamily: 'PhosphorThin',
@@ -14311,7 +14311,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `securityCamera` no estilo Thin.
   ///
-  /// ![security-camera](https://api.iconify.design/ph/security-camera-thin.svg?height=32&color=%23888888)
+  /// ![security-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/security-camera.png)
   static const IconData securityCamera = IconData(
     0xeca4,
     fontFamily: 'PhosphorThin',
@@ -14323,7 +14323,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `selection` no estilo Thin.
   ///
-  /// ![selection](https://api.iconify.design/ph/selection-thin.svg?height=32&color=%23888888)
+  /// ![selection](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/selection.png)
   static const IconData selection = IconData(
     0xe69a,
     fontFamily: 'PhosphorThin',
@@ -14335,7 +14335,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `selectionAll` no estilo Thin.
   ///
-  /// ![selection-all](https://api.iconify.design/ph/selection-all-thin.svg?height=32&color=%23888888)
+  /// ![selection-all](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/selection-all.png)
   static const IconData selectionAll = IconData(
     0xe746,
     fontFamily: 'PhosphorThin',
@@ -14347,7 +14347,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `selectionBackground` no estilo Thin.
   ///
-  /// ![selection-background](https://api.iconify.design/ph/selection-background-thin.svg?height=32&color=%23888888)
+  /// ![selection-background](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/selection-background.png)
   static const IconData selectionBackground = IconData(
     0xeaf8,
     fontFamily: 'PhosphorThin',
@@ -14359,7 +14359,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `selectionForeground` no estilo Thin.
   ///
-  /// ![selection-foreground](https://api.iconify.design/ph/selection-foreground-thin.svg?height=32&color=%23888888)
+  /// ![selection-foreground](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/selection-foreground.png)
   static const IconData selectionForeground = IconData(
     0xeaf6,
     fontFamily: 'PhosphorThin',
@@ -14371,7 +14371,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `selectionInverse` no estilo Thin.
   ///
-  /// ![selection-inverse](https://api.iconify.design/ph/selection-inverse-thin.svg?height=32&color=%23888888)
+  /// ![selection-inverse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/selection-inverse.png)
   static const IconData selectionInverse = IconData(
     0xe744,
     fontFamily: 'PhosphorThin',
@@ -14383,7 +14383,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `selectionPlus` no estilo Thin.
   ///
-  /// ![selection-plus](https://api.iconify.design/ph/selection-plus-thin.svg?height=32&color=%23888888)
+  /// ![selection-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/selection-plus.png)
   static const IconData selectionPlus = IconData(
     0xe69c,
     fontFamily: 'PhosphorThin',
@@ -14395,7 +14395,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `selectionSlash` no estilo Thin.
   ///
-  /// ![selection-slash](https://api.iconify.design/ph/selection-slash-thin.svg?height=32&color=%23888888)
+  /// ![selection-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/selection-slash.png)
   static const IconData selectionSlash = IconData(
     0xe69e,
     fontFamily: 'PhosphorThin',
@@ -14407,7 +14407,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shapes` no estilo Thin.
   ///
-  /// ![shapes](https://api.iconify.design/ph/shapes-thin.svg?height=32&color=%23888888)
+  /// ![shapes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shapes.png)
   static const IconData shapes = IconData(
     0xec5e,
     fontFamily: 'PhosphorThin',
@@ -14419,7 +14419,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `share` no estilo Thin.
   ///
-  /// ![share](https://api.iconify.design/ph/share-thin.svg?height=32&color=%23888888)
+  /// ![share](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/share.png)
   static const IconData share = IconData(
     0xe406,
     fontFamily: 'PhosphorThin',
@@ -14431,7 +14431,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shareFat` no estilo Thin.
   ///
-  /// ![share-fat](https://api.iconify.design/ph/share-fat-thin.svg?height=32&color=%23888888)
+  /// ![share-fat](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/share-fat.png)
   static const IconData shareFat = IconData(
     0xed52,
     fontFamily: 'PhosphorThin',
@@ -14443,7 +14443,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shareNetwork` no estilo Thin.
   ///
-  /// ![share-network](https://api.iconify.design/ph/share-network-thin.svg?height=32&color=%23888888)
+  /// ![share-network](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/share-network.png)
   static const IconData shareNetwork = IconData(
     0xe408,
     fontFamily: 'PhosphorThin',
@@ -14455,7 +14455,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shield` no estilo Thin.
   ///
-  /// ![shield](https://api.iconify.design/ph/shield-thin.svg?height=32&color=%23888888)
+  /// ![shield](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield.png)
   static const IconData shield = IconData(
     0xe40a,
     fontFamily: 'PhosphorThin',
@@ -14467,7 +14467,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shieldCheck` no estilo Thin.
   ///
-  /// ![shield-check](https://api.iconify.design/ph/shield-check-thin.svg?height=32&color=%23888888)
+  /// ![shield-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield-check.png)
   static const IconData shieldCheck = IconData(
     0xe40c,
     fontFamily: 'PhosphorThin',
@@ -14479,7 +14479,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shieldCheckered` no estilo Thin.
   ///
-  /// ![shield-checkered](https://api.iconify.design/ph/shield-checkered-thin.svg?height=32&color=%23888888)
+  /// ![shield-checkered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield-checkered.png)
   static const IconData shieldCheckered = IconData(
     0xe708,
     fontFamily: 'PhosphorThin',
@@ -14491,7 +14491,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shieldChevron` no estilo Thin.
   ///
-  /// ![shield-chevron](https://api.iconify.design/ph/shield-chevron-thin.svg?height=32&color=%23888888)
+  /// ![shield-chevron](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield-chevron.png)
   static const IconData shieldChevron = IconData(
     0xe40e,
     fontFamily: 'PhosphorThin',
@@ -14503,7 +14503,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shieldPlus` no estilo Thin.
   ///
-  /// ![shield-plus](https://api.iconify.design/ph/shield-plus-thin.svg?height=32&color=%23888888)
+  /// ![shield-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield-plus.png)
   static const IconData shieldPlus = IconData(
     0xe706,
     fontFamily: 'PhosphorThin',
@@ -14515,7 +14515,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shieldSlash` no estilo Thin.
   ///
-  /// ![shield-slash](https://api.iconify.design/ph/shield-slash-thin.svg?height=32&color=%23888888)
+  /// ![shield-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield-slash.png)
   static const IconData shieldSlash = IconData(
     0xe410,
     fontFamily: 'PhosphorThin',
@@ -14527,7 +14527,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shieldStar` no estilo Thin.
   ///
-  /// ![shield-star](https://api.iconify.design/ph/shield-star-thin.svg?height=32&color=%23888888)
+  /// ![shield-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield-star.png)
   static const IconData shieldStar = IconData(
     0xec34,
     fontFamily: 'PhosphorThin',
@@ -14539,7 +14539,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shieldWarning` no estilo Thin.
   ///
-  /// ![shield-warning](https://api.iconify.design/ph/shield-warning-thin.svg?height=32&color=%23888888)
+  /// ![shield-warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shield-warning.png)
   static const IconData shieldWarning = IconData(
     0xe412,
     fontFamily: 'PhosphorThin',
@@ -14551,7 +14551,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shippingContainer` no estilo Thin.
   ///
-  /// ![shipping-container](https://api.iconify.design/ph/shipping-container-thin.svg?height=32&color=%23888888)
+  /// ![shipping-container](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shipping-container.png)
   static const IconData shippingContainer = IconData(
     0xe78c,
     fontFamily: 'PhosphorThin',
@@ -14563,7 +14563,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shirtFolded` no estilo Thin.
   ///
-  /// ![shirt-folded](https://api.iconify.design/ph/shirt-folded-thin.svg?height=32&color=%23888888)
+  /// ![shirt-folded](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shirt-folded.png)
   static const IconData shirtFolded = IconData(
     0xea92,
     fontFamily: 'PhosphorThin',
@@ -14575,7 +14575,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shootingStar` no estilo Thin.
   ///
-  /// ![shooting-star](https://api.iconify.design/ph/shooting-star-thin.svg?height=32&color=%23888888)
+  /// ![shooting-star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shooting-star.png)
   static const IconData shootingStar = IconData(
     0xecfa,
     fontFamily: 'PhosphorThin',
@@ -14587,7 +14587,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shoppingBag` no estilo Thin.
   ///
-  /// ![shopping-bag](https://api.iconify.design/ph/shopping-bag-thin.svg?height=32&color=%23888888)
+  /// ![shopping-bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shopping-bag.png)
   static const IconData shoppingBag = IconData(
     0xe416,
     fontFamily: 'PhosphorThin',
@@ -14599,7 +14599,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shoppingBagOpen` no estilo Thin.
   ///
-  /// ![shopping-bag-open](https://api.iconify.design/ph/shopping-bag-open-thin.svg?height=32&color=%23888888)
+  /// ![shopping-bag-open](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shopping-bag-open.png)
   static const IconData shoppingBagOpen = IconData(
     0xe418,
     fontFamily: 'PhosphorThin',
@@ -14611,7 +14611,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shoppingCart` no estilo Thin.
   ///
-  /// ![shopping-cart](https://api.iconify.design/ph/shopping-cart-thin.svg?height=32&color=%23888888)
+  /// ![shopping-cart](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shopping-cart.png)
   static const IconData shoppingCart = IconData(
     0xe41e,
     fontFamily: 'PhosphorThin',
@@ -14623,7 +14623,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shoppingCartSimple` no estilo Thin.
   ///
-  /// ![shopping-cart-simple](https://api.iconify.design/ph/shopping-cart-simple-thin.svg?height=32&color=%23888888)
+  /// ![shopping-cart-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shopping-cart-simple.png)
   static const IconData shoppingCartSimple = IconData(
     0xe420,
     fontFamily: 'PhosphorThin',
@@ -14635,7 +14635,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shovel` no estilo Thin.
   ///
-  /// ![shovel](https://api.iconify.design/ph/shovel-thin.svg?height=32&color=%23888888)
+  /// ![shovel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shovel.png)
   static const IconData shovel = IconData(
     0xe9e6,
     fontFamily: 'PhosphorThin',
@@ -14647,7 +14647,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shower` no estilo Thin.
   ///
-  /// ![shower](https://api.iconify.design/ph/shower-thin.svg?height=32&color=%23888888)
+  /// ![shower](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shower.png)
   static const IconData shower = IconData(
     0xe776,
     fontFamily: 'PhosphorThin',
@@ -14659,7 +14659,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shrimp` no estilo Thin.
   ///
-  /// ![shrimp](https://api.iconify.design/ph/shrimp-thin.svg?height=32&color=%23888888)
+  /// ![shrimp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shrimp.png)
   static const IconData shrimp = IconData(
     0xeab4,
     fontFamily: 'PhosphorThin',
@@ -14671,7 +14671,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shuffle` no estilo Thin.
   ///
-  /// ![shuffle](https://api.iconify.design/ph/shuffle-thin.svg?height=32&color=%23888888)
+  /// ![shuffle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shuffle.png)
   static const IconData shuffle = IconData(
     0xe422,
     fontFamily: 'PhosphorThin',
@@ -14683,7 +14683,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shuffleAngular` no estilo Thin.
   ///
-  /// ![shuffle-angular](https://api.iconify.design/ph/shuffle-angular-thin.svg?height=32&color=%23888888)
+  /// ![shuffle-angular](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shuffle-angular.png)
   static const IconData shuffleAngular = IconData(
     0xe424,
     fontFamily: 'PhosphorThin',
@@ -14695,7 +14695,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `shuffleSimple` no estilo Thin.
   ///
-  /// ![shuffle-simple](https://api.iconify.design/ph/shuffle-simple-thin.svg?height=32&color=%23888888)
+  /// ![shuffle-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/shuffle-simple.png)
   static const IconData shuffleSimple = IconData(
     0xe426,
     fontFamily: 'PhosphorThin',
@@ -14707,7 +14707,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sidebar` no estilo Thin.
   ///
-  /// ![sidebar](https://api.iconify.design/ph/sidebar-thin.svg?height=32&color=%23888888)
+  /// ![sidebar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sidebar.png)
   static const IconData sidebar = IconData(
     0xeab6,
     fontFamily: 'PhosphorThin',
@@ -14719,7 +14719,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sidebarSimple` no estilo Thin.
   ///
-  /// ![sidebar-simple](https://api.iconify.design/ph/sidebar-simple-thin.svg?height=32&color=%23888888)
+  /// ![sidebar-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sidebar-simple.png)
   static const IconData sidebarSimple = IconData(
     0xec24,
     fontFamily: 'PhosphorThin',
@@ -14731,7 +14731,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sigma` no estilo Thin.
   ///
-  /// ![sigma](https://api.iconify.design/ph/sigma-thin.svg?height=32&color=%23888888)
+  /// ![sigma](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sigma.png)
   static const IconData sigma = IconData(
     0xeab8,
     fontFamily: 'PhosphorThin',
@@ -14743,7 +14743,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `signIn` no estilo Thin.
   ///
-  /// ![sign-in](https://api.iconify.design/ph/sign-in-thin.svg?height=32&color=%23888888)
+  /// ![sign-in](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sign-in.png)
   static const IconData signIn = IconData(
     0xe428,
     fontFamily: 'PhosphorThin',
@@ -14755,7 +14755,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `signOut` no estilo Thin.
   ///
-  /// ![sign-out](https://api.iconify.design/ph/sign-out-thin.svg?height=32&color=%23888888)
+  /// ![sign-out](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sign-out.png)
   static const IconData signOut = IconData(
     0xe42a,
     fontFamily: 'PhosphorThin',
@@ -14767,7 +14767,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `signature` no estilo Thin.
   ///
-  /// ![signature](https://api.iconify.design/ph/signature-thin.svg?height=32&color=%23888888)
+  /// ![signature](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/signature.png)
   static const IconData signature = IconData(
     0xebac,
     fontFamily: 'PhosphorThin',
@@ -14779,7 +14779,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `signpost` no estilo Thin.
   ///
-  /// ![signpost](https://api.iconify.design/ph/signpost-thin.svg?height=32&color=%23888888)
+  /// ![signpost](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/signpost.png)
   static const IconData signpost = IconData(
     0xe89c,
     fontFamily: 'PhosphorThin',
@@ -14791,7 +14791,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `simCard` no estilo Thin.
   ///
-  /// ![sim-card](https://api.iconify.design/ph/sim-card-thin.svg?height=32&color=%23888888)
+  /// ![sim-card](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sim-card.png)
   static const IconData simCard = IconData(
     0xe664,
     fontFamily: 'PhosphorThin',
@@ -14803,7 +14803,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `siren` no estilo Thin.
   ///
-  /// ![siren](https://api.iconify.design/ph/siren-thin.svg?height=32&color=%23888888)
+  /// ![siren](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/siren.png)
   static const IconData siren = IconData(
     0xe9b8,
     fontFamily: 'PhosphorThin',
@@ -14815,7 +14815,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sketchLogo` no estilo Thin.
   ///
-  /// ![sketch-logo](https://api.iconify.design/ph/sketch-logo-thin.svg?height=32&color=%23888888)
+  /// ![sketch-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sketch-logo.png)
   static const IconData sketchLogo = IconData(
     0xe42c,
     fontFamily: 'PhosphorThin',
@@ -14827,7 +14827,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `skipBack` no estilo Thin.
   ///
-  /// ![skip-back](https://api.iconify.design/ph/skip-back-thin.svg?height=32&color=%23888888)
+  /// ![skip-back](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/skip-back.png)
   static const IconData skipBack = IconData(
     0xe5a4,
     fontFamily: 'PhosphorThin',
@@ -14839,7 +14839,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `skipBackCircle` no estilo Thin.
   ///
-  /// ![skip-back-circle](https://api.iconify.design/ph/skip-back-circle-thin.svg?height=32&color=%23888888)
+  /// ![skip-back-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/skip-back-circle.png)
   static const IconData skipBackCircle = IconData(
     0xe42e,
     fontFamily: 'PhosphorThin',
@@ -14851,7 +14851,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `skipForward` no estilo Thin.
   ///
-  /// ![skip-forward](https://api.iconify.design/ph/skip-forward-thin.svg?height=32&color=%23888888)
+  /// ![skip-forward](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/skip-forward.png)
   static const IconData skipForward = IconData(
     0xe5a6,
     fontFamily: 'PhosphorThin',
@@ -14863,7 +14863,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `skipForwardCircle` no estilo Thin.
   ///
-  /// ![skip-forward-circle](https://api.iconify.design/ph/skip-forward-circle-thin.svg?height=32&color=%23888888)
+  /// ![skip-forward-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/skip-forward-circle.png)
   static const IconData skipForwardCircle = IconData(
     0xe430,
     fontFamily: 'PhosphorThin',
@@ -14875,7 +14875,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `skull` no estilo Thin.
   ///
-  /// ![skull](https://api.iconify.design/ph/skull-thin.svg?height=32&color=%23888888)
+  /// ![skull](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/skull.png)
   static const IconData skull = IconData(
     0xe916,
     fontFamily: 'PhosphorThin',
@@ -14887,7 +14887,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `skypeLogo` no estilo Thin.
   ///
-  /// ![skype-logo](https://api.iconify.design/ph/skype-logo-thin.svg?height=32&color=%23888888)
+  /// ![skype-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/skype-logo.png)
   static const IconData skypeLogo = IconData(
     0xe8dc,
     fontFamily: 'PhosphorThin',
@@ -14899,7 +14899,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `slackLogo` no estilo Thin.
   ///
-  /// ![slack-logo](https://api.iconify.design/ph/slack-logo-thin.svg?height=32&color=%23888888)
+  /// ![slack-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/slack-logo.png)
   static const IconData slackLogo = IconData(
     0xe5a8,
     fontFamily: 'PhosphorThin',
@@ -14911,7 +14911,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sliders` no estilo Thin.
   ///
-  /// ![sliders](https://api.iconify.design/ph/sliders-thin.svg?height=32&color=%23888888)
+  /// ![sliders](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sliders.png)
   static const IconData sliders = IconData(
     0xe432,
     fontFamily: 'PhosphorThin',
@@ -14923,7 +14923,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `slidersHorizontal` no estilo Thin.
   ///
-  /// ![sliders-horizontal](https://api.iconify.design/ph/sliders-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![sliders-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sliders-horizontal.png)
   static const IconData slidersHorizontal = IconData(
     0xe434,
     fontFamily: 'PhosphorThin',
@@ -14935,7 +14935,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `slideshow` no estilo Thin.
   ///
-  /// ![slideshow](https://api.iconify.design/ph/slideshow-thin.svg?height=32&color=%23888888)
+  /// ![slideshow](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/slideshow.png)
   static const IconData slideshow = IconData(
     0xed32,
     fontFamily: 'PhosphorThin',
@@ -14947,7 +14947,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smiley` no estilo Thin.
   ///
-  /// ![smiley](https://api.iconify.design/ph/smiley-thin.svg?height=32&color=%23888888)
+  /// ![smiley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley.png)
   static const IconData smiley = IconData(
     0xe436,
     fontFamily: 'PhosphorThin',
@@ -14959,7 +14959,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileyAngry` no estilo Thin.
   ///
-  /// ![smiley-angry](https://api.iconify.design/ph/smiley-angry-thin.svg?height=32&color=%23888888)
+  /// ![smiley-angry](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-angry.png)
   static const IconData smileyAngry = IconData(
     0xec62,
     fontFamily: 'PhosphorThin',
@@ -14971,7 +14971,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileyBlank` no estilo Thin.
   ///
-  /// ![smiley-blank](https://api.iconify.design/ph/smiley-blank-thin.svg?height=32&color=%23888888)
+  /// ![smiley-blank](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-blank.png)
   static const IconData smileyBlank = IconData(
     0xe438,
     fontFamily: 'PhosphorThin',
@@ -14983,7 +14983,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileyMeh` no estilo Thin.
   ///
-  /// ![smiley-meh](https://api.iconify.design/ph/smiley-meh-thin.svg?height=32&color=%23888888)
+  /// ![smiley-meh](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-meh.png)
   static const IconData smileyMeh = IconData(
     0xe43a,
     fontFamily: 'PhosphorThin',
@@ -14995,7 +14995,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileyMelting` no estilo Thin.
   ///
-  /// ![smiley-melting](https://api.iconify.design/ph/smiley-melting-thin.svg?height=32&color=%23888888)
+  /// ![smiley-melting](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-melting.png)
   static const IconData smileyMelting = IconData(
     0xee56,
     fontFamily: 'PhosphorThin',
@@ -15007,7 +15007,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileyNervous` no estilo Thin.
   ///
-  /// ![smiley-nervous](https://api.iconify.design/ph/smiley-nervous-thin.svg?height=32&color=%23888888)
+  /// ![smiley-nervous](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-nervous.png)
   static const IconData smileyNervous = IconData(
     0xe43c,
     fontFamily: 'PhosphorThin',
@@ -15019,7 +15019,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileySad` no estilo Thin.
   ///
-  /// ![smiley-sad](https://api.iconify.design/ph/smiley-sad-thin.svg?height=32&color=%23888888)
+  /// ![smiley-sad](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-sad.png)
   static const IconData smileySad = IconData(
     0xe43e,
     fontFamily: 'PhosphorThin',
@@ -15031,7 +15031,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileySticker` no estilo Thin.
   ///
-  /// ![smiley-sticker](https://api.iconify.design/ph/smiley-sticker-thin.svg?height=32&color=%23888888)
+  /// ![smiley-sticker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-sticker.png)
   static const IconData smileySticker = IconData(
     0xe440,
     fontFamily: 'PhosphorThin',
@@ -15043,7 +15043,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileyWink` no estilo Thin.
   ///
-  /// ![smiley-wink](https://api.iconify.design/ph/smiley-wink-thin.svg?height=32&color=%23888888)
+  /// ![smiley-wink](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-wink.png)
   static const IconData smileyWink = IconData(
     0xe666,
     fontFamily: 'PhosphorThin',
@@ -15055,7 +15055,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `smileyXEyes` no estilo Thin.
   ///
-  /// ![smiley-x-eyes](https://api.iconify.design/ph/smiley-x-eyes-thin.svg?height=32&color=%23888888)
+  /// ![smiley-x-eyes](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/smiley-x-eyes.png)
   static const IconData smileyXEyes = IconData(
     0xe442,
     fontFamily: 'PhosphorThin',
@@ -15067,7 +15067,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `snapchatLogo` no estilo Thin.
   ///
-  /// ![snapchat-logo](https://api.iconify.design/ph/snapchat-logo-thin.svg?height=32&color=%23888888)
+  /// ![snapchat-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/snapchat-logo.png)
   static const IconData snapchatLogo = IconData(
     0xe668,
     fontFamily: 'PhosphorThin',
@@ -15079,7 +15079,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sneaker` no estilo Thin.
   ///
-  /// ![sneaker](https://api.iconify.design/ph/sneaker-thin.svg?height=32&color=%23888888)
+  /// ![sneaker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sneaker.png)
   static const IconData sneaker = IconData(
     0xe80c,
     fontFamily: 'PhosphorThin',
@@ -15091,7 +15091,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sneakerMove` no estilo Thin.
   ///
-  /// ![sneaker-move](https://api.iconify.design/ph/sneaker-move-thin.svg?height=32&color=%23888888)
+  /// ![sneaker-move](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sneaker-move.png)
   static const IconData sneakerMove = IconData(
     0xed60,
     fontFamily: 'PhosphorThin',
@@ -15103,7 +15103,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `snowflake` no estilo Thin.
   ///
-  /// ![snowflake](https://api.iconify.design/ph/snowflake-thin.svg?height=32&color=%23888888)
+  /// ![snowflake](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/snowflake.png)
   static const IconData snowflake = IconData(
     0xe5aa,
     fontFamily: 'PhosphorThin',
@@ -15115,7 +15115,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `soccerBall` no estilo Thin.
   ///
-  /// ![soccer-ball](https://api.iconify.design/ph/soccer-ball-thin.svg?height=32&color=%23888888)
+  /// ![soccer-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/soccer-ball.png)
   static const IconData soccerBall = IconData(
     0xe716,
     fontFamily: 'PhosphorThin',
@@ -15127,7 +15127,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sock` no estilo Thin.
   ///
-  /// ![sock](https://api.iconify.design/ph/sock-thin.svg?height=32&color=%23888888)
+  /// ![sock](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sock.png)
   static const IconData sock = IconData(
     0xecce,
     fontFamily: 'PhosphorThin',
@@ -15139,7 +15139,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `solarPanel` no estilo Thin.
   ///
-  /// ![solar-panel](https://api.iconify.design/ph/solar-panel-thin.svg?height=32&color=%23888888)
+  /// ![solar-panel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/solar-panel.png)
   static const IconData solarPanel = IconData(
     0xed7a,
     fontFamily: 'PhosphorThin',
@@ -15151,7 +15151,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `solarRoof` no estilo Thin.
   ///
-  /// ![solar-roof](https://api.iconify.design/ph/solar-roof-thin.svg?height=32&color=%23888888)
+  /// ![solar-roof](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/solar-roof.png)
   static const IconData solarRoof = IconData(
     0xed7b,
     fontFamily: 'PhosphorThin',
@@ -15163,7 +15163,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sortAscending` no estilo Thin.
   ///
-  /// ![sort-ascending](https://api.iconify.design/ph/sort-ascending-thin.svg?height=32&color=%23888888)
+  /// ![sort-ascending](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sort-ascending.png)
   static const IconData sortAscending = IconData(
     0xe444,
     fontFamily: 'PhosphorThin',
@@ -15175,7 +15175,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sortDescending` no estilo Thin.
   ///
-  /// ![sort-descending](https://api.iconify.design/ph/sort-descending-thin.svg?height=32&color=%23888888)
+  /// ![sort-descending](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sort-descending.png)
   static const IconData sortDescending = IconData(
     0xe446,
     fontFamily: 'PhosphorThin',
@@ -15187,7 +15187,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `soundcloudLogo` no estilo Thin.
   ///
-  /// ![soundcloud-logo](https://api.iconify.design/ph/soundcloud-logo-thin.svg?height=32&color=%23888888)
+  /// ![soundcloud-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/soundcloud-logo.png)
   static const IconData soundcloudLogo = IconData(
     0xe8de,
     fontFamily: 'PhosphorThin',
@@ -15199,7 +15199,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `spade` no estilo Thin.
   ///
-  /// ![spade](https://api.iconify.design/ph/spade-thin.svg?height=32&color=%23888888)
+  /// ![spade](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/spade.png)
   static const IconData spade = IconData(
     0xe448,
     fontFamily: 'PhosphorThin',
@@ -15211,7 +15211,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sparkle` no estilo Thin.
   ///
-  /// ![sparkle](https://api.iconify.design/ph/sparkle-thin.svg?height=32&color=%23888888)
+  /// ![sparkle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sparkle.png)
   static const IconData sparkle = IconData(
     0xe6a2,
     fontFamily: 'PhosphorThin',
@@ -15223,7 +15223,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerHifi` no estilo Thin.
   ///
-  /// ![speaker-hifi](https://api.iconify.design/ph/speaker-hifi-thin.svg?height=32&color=%23888888)
+  /// ![speaker-hifi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-hifi.png)
   static const IconData speakerHifi = IconData(
     0xea08,
     fontFamily: 'PhosphorThin',
@@ -15235,7 +15235,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerHigh` no estilo Thin.
   ///
-  /// ![speaker-high](https://api.iconify.design/ph/speaker-high-thin.svg?height=32&color=%23888888)
+  /// ![speaker-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-high.png)
   static const IconData speakerHigh = IconData(
     0xe44a,
     fontFamily: 'PhosphorThin',
@@ -15247,7 +15247,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerLow` no estilo Thin.
   ///
-  /// ![speaker-low](https://api.iconify.design/ph/speaker-low-thin.svg?height=32&color=%23888888)
+  /// ![speaker-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-low.png)
   static const IconData speakerLow = IconData(
     0xe44c,
     fontFamily: 'PhosphorThin',
@@ -15259,7 +15259,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerNone` no estilo Thin.
   ///
-  /// ![speaker-none](https://api.iconify.design/ph/speaker-none-thin.svg?height=32&color=%23888888)
+  /// ![speaker-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-none.png)
   static const IconData speakerNone = IconData(
     0xe44e,
     fontFamily: 'PhosphorThin',
@@ -15271,7 +15271,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerSimpleHigh` no estilo Thin.
   ///
-  /// ![speaker-simple-high](https://api.iconify.design/ph/speaker-simple-high-thin.svg?height=32&color=%23888888)
+  /// ![speaker-simple-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-simple-high.png)
   static const IconData speakerSimpleHigh = IconData(
     0xe450,
     fontFamily: 'PhosphorThin',
@@ -15283,7 +15283,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerSimpleLow` no estilo Thin.
   ///
-  /// ![speaker-simple-low](https://api.iconify.design/ph/speaker-simple-low-thin.svg?height=32&color=%23888888)
+  /// ![speaker-simple-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-simple-low.png)
   static const IconData speakerSimpleLow = IconData(
     0xe452,
     fontFamily: 'PhosphorThin',
@@ -15295,7 +15295,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerSimpleNone` no estilo Thin.
   ///
-  /// ![speaker-simple-none](https://api.iconify.design/ph/speaker-simple-none-thin.svg?height=32&color=%23888888)
+  /// ![speaker-simple-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-simple-none.png)
   static const IconData speakerSimpleNone = IconData(
     0xe454,
     fontFamily: 'PhosphorThin',
@@ -15307,7 +15307,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerSimpleSlash` no estilo Thin.
   ///
-  /// ![speaker-simple-slash](https://api.iconify.design/ph/speaker-simple-slash-thin.svg?height=32&color=%23888888)
+  /// ![speaker-simple-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-simple-slash.png)
   static const IconData speakerSimpleSlash = IconData(
     0xe456,
     fontFamily: 'PhosphorThin',
@@ -15319,7 +15319,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerSimpleX` no estilo Thin.
   ///
-  /// ![speaker-simple-x](https://api.iconify.design/ph/speaker-simple-x-thin.svg?height=32&color=%23888888)
+  /// ![speaker-simple-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-simple-x.png)
   static const IconData speakerSimpleX = IconData(
     0xe458,
     fontFamily: 'PhosphorThin',
@@ -15331,7 +15331,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerSlash` no estilo Thin.
   ///
-  /// ![speaker-slash](https://api.iconify.design/ph/speaker-slash-thin.svg?height=32&color=%23888888)
+  /// ![speaker-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-slash.png)
   static const IconData speakerSlash = IconData(
     0xe45a,
     fontFamily: 'PhosphorThin',
@@ -15343,7 +15343,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speakerX` no estilo Thin.
   ///
-  /// ![speaker-x](https://api.iconify.design/ph/speaker-x-thin.svg?height=32&color=%23888888)
+  /// ![speaker-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speaker-x.png)
   static const IconData speakerX = IconData(
     0xe45c,
     fontFamily: 'PhosphorThin',
@@ -15355,7 +15355,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `speedometer` no estilo Thin.
   ///
-  /// ![speedometer](https://api.iconify.design/ph/speedometer-thin.svg?height=32&color=%23888888)
+  /// ![speedometer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/speedometer.png)
   static const IconData speedometer = IconData(
     0xee74,
     fontFamily: 'PhosphorThin',
@@ -15367,7 +15367,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sphere` no estilo Thin.
   ///
-  /// ![sphere](https://api.iconify.design/ph/sphere-thin.svg?height=32&color=%23888888)
+  /// ![sphere](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sphere.png)
   static const IconData sphere = IconData(
     0xee66,
     fontFamily: 'PhosphorThin',
@@ -15379,7 +15379,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `spinner` no estilo Thin.
   ///
-  /// ![spinner](https://api.iconify.design/ph/spinner-thin.svg?height=32&color=%23888888)
+  /// ![spinner](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/spinner.png)
   static const IconData spinner = IconData(
     0xe66a,
     fontFamily: 'PhosphorThin',
@@ -15391,7 +15391,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `spinnerBall` no estilo Thin.
   ///
-  /// ![spinner-ball](https://api.iconify.design/ph/spinner-ball-thin.svg?height=32&color=%23888888)
+  /// ![spinner-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/spinner-ball.png)
   static const IconData spinnerBall = IconData(
     0xee28,
     fontFamily: 'PhosphorThin',
@@ -15403,7 +15403,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `spinnerGap` no estilo Thin.
   ///
-  /// ![spinner-gap](https://api.iconify.design/ph/spinner-gap-thin.svg?height=32&color=%23888888)
+  /// ![spinner-gap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/spinner-gap.png)
   static const IconData spinnerGap = IconData(
     0xe66c,
     fontFamily: 'PhosphorThin',
@@ -15415,7 +15415,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `spiral` no estilo Thin.
   ///
-  /// ![spiral](https://api.iconify.design/ph/spiral-thin.svg?height=32&color=%23888888)
+  /// ![spiral](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/spiral.png)
   static const IconData spiral = IconData(
     0xe9fa,
     fontFamily: 'PhosphorThin',
@@ -15427,7 +15427,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `splitHorizontal` no estilo Thin.
   ///
-  /// ![split-horizontal](https://api.iconify.design/ph/split-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![split-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/split-horizontal.png)
   static const IconData splitHorizontal = IconData(
     0xe872,
     fontFamily: 'PhosphorThin',
@@ -15439,7 +15439,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `splitVertical` no estilo Thin.
   ///
-  /// ![split-vertical](https://api.iconify.design/ph/split-vertical-thin.svg?height=32&color=%23888888)
+  /// ![split-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/split-vertical.png)
   static const IconData splitVertical = IconData(
     0xe876,
     fontFamily: 'PhosphorThin',
@@ -15451,7 +15451,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `spotifyLogo` no estilo Thin.
   ///
-  /// ![spotify-logo](https://api.iconify.design/ph/spotify-logo-thin.svg?height=32&color=%23888888)
+  /// ![spotify-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/spotify-logo.png)
   static const IconData spotifyLogo = IconData(
     0xe66e,
     fontFamily: 'PhosphorThin',
@@ -15463,7 +15463,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sprayBottle` no estilo Thin.
   ///
-  /// ![spray-bottle](https://api.iconify.design/ph/spray-bottle-thin.svg?height=32&color=%23888888)
+  /// ![spray-bottle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/spray-bottle.png)
   static const IconData sprayBottle = IconData(
     0xe7e4,
     fontFamily: 'PhosphorThin',
@@ -15475,7 +15475,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `square` no estilo Thin.
   ///
-  /// ![square](https://api.iconify.design/ph/square-thin.svg?height=32&color=%23888888)
+  /// ![square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/square.png)
   static const IconData square = IconData(
     0xe45e,
     fontFamily: 'PhosphorThin',
@@ -15487,7 +15487,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `squareHalf` no estilo Thin.
   ///
-  /// ![square-half](https://api.iconify.design/ph/square-half-thin.svg?height=32&color=%23888888)
+  /// ![square-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/square-half.png)
   static const IconData squareHalf = IconData(
     0xe462,
     fontFamily: 'PhosphorThin',
@@ -15499,7 +15499,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `squareHalfBottom` no estilo Thin.
   ///
-  /// ![square-half-bottom](https://api.iconify.design/ph/square-half-bottom-thin.svg?height=32&color=%23888888)
+  /// ![square-half-bottom](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/square-half-bottom.png)
   static const IconData squareHalfBottom = IconData(
     0xeb16,
     fontFamily: 'PhosphorThin',
@@ -15511,7 +15511,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `squareLogo` no estilo Thin.
   ///
-  /// ![square-logo](https://api.iconify.design/ph/square-logo-thin.svg?height=32&color=%23888888)
+  /// ![square-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/square-logo.png)
   static const IconData squareLogo = IconData(
     0xe690,
     fontFamily: 'PhosphorThin',
@@ -15523,7 +15523,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `squareSplitHorizontal` no estilo Thin.
   ///
-  /// ![square-split-horizontal](https://api.iconify.design/ph/square-split-horizontal-thin.svg?height=32&color=%23888888)
+  /// ![square-split-horizontal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/square-split-horizontal.png)
   static const IconData squareSplitHorizontal = IconData(
     0xe870,
     fontFamily: 'PhosphorThin',
@@ -15535,7 +15535,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `squareSplitVertical` no estilo Thin.
   ///
-  /// ![square-split-vertical](https://api.iconify.design/ph/square-split-vertical-thin.svg?height=32&color=%23888888)
+  /// ![square-split-vertical](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/square-split-vertical.png)
   static const IconData squareSplitVertical = IconData(
     0xe874,
     fontFamily: 'PhosphorThin',
@@ -15547,7 +15547,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `squaresFour` no estilo Thin.
   ///
-  /// ![squares-four](https://api.iconify.design/ph/squares-four-thin.svg?height=32&color=%23888888)
+  /// ![squares-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/squares-four.png)
   static const IconData squaresFour = IconData(
     0xe464,
     fontFamily: 'PhosphorThin',
@@ -15559,7 +15559,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stack` no estilo Thin.
   ///
-  /// ![stack](https://api.iconify.design/ph/stack-thin.svg?height=32&color=%23888888)
+  /// ![stack](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stack.png)
   static const IconData stack = IconData(
     0xe466,
     fontFamily: 'PhosphorThin',
@@ -15571,7 +15571,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stackMinus` no estilo Thin.
   ///
-  /// ![stack-minus](https://api.iconify.design/ph/stack-minus-thin.svg?height=32&color=%23888888)
+  /// ![stack-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stack-minus.png)
   static const IconData stackMinus = IconData(
     0xedf4,
     fontFamily: 'PhosphorThin',
@@ -15583,7 +15583,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stackOverflowLogo` no estilo Thin.
   ///
-  /// ![stack-overflow-logo](https://api.iconify.design/ph/stack-overflow-logo-thin.svg?height=32&color=%23888888)
+  /// ![stack-overflow-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stack-overflow-logo.png)
   static const IconData stackOverflowLogo = IconData(
     0xeb78,
     fontFamily: 'PhosphorThin',
@@ -15595,7 +15595,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stackPlus` no estilo Thin.
   ///
-  /// ![stack-plus](https://api.iconify.design/ph/stack-plus-thin.svg?height=32&color=%23888888)
+  /// ![stack-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stack-plus.png)
   static const IconData stackPlus = IconData(
     0xedf6,
     fontFamily: 'PhosphorThin',
@@ -15607,7 +15607,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stackSimple` no estilo Thin.
   ///
-  /// ![stack-simple](https://api.iconify.design/ph/stack-simple-thin.svg?height=32&color=%23888888)
+  /// ![stack-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stack-simple.png)
   static const IconData stackSimple = IconData(
     0xe468,
     fontFamily: 'PhosphorThin',
@@ -15619,7 +15619,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stairs` no estilo Thin.
   ///
-  /// ![stairs](https://api.iconify.design/ph/stairs-thin.svg?height=32&color=%23888888)
+  /// ![stairs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stairs.png)
   static const IconData stairs = IconData(
     0xe8ec,
     fontFamily: 'PhosphorThin',
@@ -15631,7 +15631,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stamp` no estilo Thin.
   ///
-  /// ![stamp](https://api.iconify.design/ph/stamp-thin.svg?height=32&color=%23888888)
+  /// ![stamp](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stamp.png)
   static const IconData stamp = IconData(
     0xea48,
     fontFamily: 'PhosphorThin',
@@ -15643,7 +15643,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `standardDefinition` no estilo Thin.
   ///
-  /// ![standard-definition](https://api.iconify.design/ph/standard-definition-thin.svg?height=32&color=%23888888)
+  /// ![standard-definition](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/standard-definition.png)
   static const IconData standardDefinition = IconData(
     0xea90,
     fontFamily: 'PhosphorThin',
@@ -15655,7 +15655,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `star` no estilo Thin.
   ///
-  /// ![star](https://api.iconify.design/ph/star-thin.svg?height=32&color=%23888888)
+  /// ![star](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/star.png)
   static const IconData star = IconData(
     0xe46a,
     fontFamily: 'PhosphorThin',
@@ -15667,7 +15667,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `starAndCrescent` no estilo Thin.
   ///
-  /// ![star-and-crescent](https://api.iconify.design/ph/star-and-crescent-thin.svg?height=32&color=%23888888)
+  /// ![star-and-crescent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/star-and-crescent.png)
   static const IconData starAndCrescent = IconData(
     0xecf4,
     fontFamily: 'PhosphorThin',
@@ -15679,7 +15679,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `starFour` no estilo Thin.
   ///
-  /// ![star-four](https://api.iconify.design/ph/star-four-thin.svg?height=32&color=%23888888)
+  /// ![star-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/star-four.png)
   static const IconData starFour = IconData(
     0xe6a4,
     fontFamily: 'PhosphorThin',
@@ -15691,7 +15691,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `starHalf` no estilo Thin.
   ///
-  /// ![star-half](https://api.iconify.design/ph/star-half-thin.svg?height=32&color=%23888888)
+  /// ![star-half](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/star-half.png)
   static const IconData starHalf = IconData(
     0xe70a,
     fontFamily: 'PhosphorThin',
@@ -15703,7 +15703,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `starOfDavid` no estilo Thin.
   ///
-  /// ![star-of-david](https://api.iconify.design/ph/star-of-david-thin.svg?height=32&color=%23888888)
+  /// ![star-of-david](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/star-of-david.png)
   static const IconData starOfDavid = IconData(
     0xe89e,
     fontFamily: 'PhosphorThin',
@@ -15715,7 +15715,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `steamLogo` no estilo Thin.
   ///
-  /// ![steam-logo](https://api.iconify.design/ph/steam-logo-thin.svg?height=32&color=%23888888)
+  /// ![steam-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/steam-logo.png)
   static const IconData steamLogo = IconData(
     0xead4,
     fontFamily: 'PhosphorThin',
@@ -15727,7 +15727,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `steeringWheel` no estilo Thin.
   ///
-  /// ![steering-wheel](https://api.iconify.design/ph/steering-wheel-thin.svg?height=32&color=%23888888)
+  /// ![steering-wheel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/steering-wheel.png)
   static const IconData steeringWheel = IconData(
     0xe9ac,
     fontFamily: 'PhosphorThin',
@@ -15739,7 +15739,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `steps` no estilo Thin.
   ///
-  /// ![steps](https://api.iconify.design/ph/steps-thin.svg?height=32&color=%23888888)
+  /// ![steps](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/steps.png)
   static const IconData steps = IconData(
     0xecbe,
     fontFamily: 'PhosphorThin',
@@ -15751,7 +15751,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stethoscope` no estilo Thin.
   ///
-  /// ![stethoscope](https://api.iconify.design/ph/stethoscope-thin.svg?height=32&color=%23888888)
+  /// ![stethoscope](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stethoscope.png)
   static const IconData stethoscope = IconData(
     0xe7ea,
     fontFamily: 'PhosphorThin',
@@ -15763,7 +15763,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sticker` no estilo Thin.
   ///
-  /// ![sticker](https://api.iconify.design/ph/sticker-thin.svg?height=32&color=%23888888)
+  /// ![sticker](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sticker.png)
   static const IconData sticker = IconData(
     0xe5ac,
     fontFamily: 'PhosphorThin',
@@ -15775,7 +15775,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stool` no estilo Thin.
   ///
-  /// ![stool](https://api.iconify.design/ph/stool-thin.svg?height=32&color=%23888888)
+  /// ![stool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stool.png)
   static const IconData stool = IconData(
     0xea44,
     fontFamily: 'PhosphorThin',
@@ -15787,7 +15787,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stop` no estilo Thin.
   ///
-  /// ![stop](https://api.iconify.design/ph/stop-thin.svg?height=32&color=%23888888)
+  /// ![stop](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stop.png)
   static const IconData stop = IconData(
     0xe46c,
     fontFamily: 'PhosphorThin',
@@ -15799,7 +15799,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stopCircle` no estilo Thin.
   ///
-  /// ![stop-circle](https://api.iconify.design/ph/stop-circle-thin.svg?height=32&color=%23888888)
+  /// ![stop-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stop-circle.png)
   static const IconData stopCircle = IconData(
     0xe46e,
     fontFamily: 'PhosphorThin',
@@ -15811,7 +15811,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `storefront` no estilo Thin.
   ///
-  /// ![storefront](https://api.iconify.design/ph/storefront-thin.svg?height=32&color=%23888888)
+  /// ![storefront](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/storefront.png)
   static const IconData storefront = IconData(
     0xe470,
     fontFamily: 'PhosphorThin',
@@ -15823,7 +15823,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `strategy` no estilo Thin.
   ///
-  /// ![strategy](https://api.iconify.design/ph/strategy-thin.svg?height=32&color=%23888888)
+  /// ![strategy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/strategy.png)
   static const IconData strategy = IconData(
     0xea3a,
     fontFamily: 'PhosphorThin',
@@ -15835,7 +15835,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `stripeLogo` no estilo Thin.
   ///
-  /// ![stripe-logo](https://api.iconify.design/ph/stripe-logo-thin.svg?height=32&color=%23888888)
+  /// ![stripe-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/stripe-logo.png)
   static const IconData stripeLogo = IconData(
     0xe698,
     fontFamily: 'PhosphorThin',
@@ -15847,7 +15847,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `student` no estilo Thin.
   ///
-  /// ![student](https://api.iconify.design/ph/student-thin.svg?height=32&color=%23888888)
+  /// ![student](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/student.png)
   static const IconData student = IconData(
     0xe73e,
     fontFamily: 'PhosphorThin',
@@ -15859,7 +15859,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `subsetOf` no estilo Thin.
   ///
-  /// ![subset-of](https://api.iconify.design/ph/subset-of-thin.svg?height=32&color=%23888888)
+  /// ![subset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/subset-of.png)
   static const IconData subsetOf = IconData(
     0xedc0,
     fontFamily: 'PhosphorThin',
@@ -15871,7 +15871,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `subsetProperOf` no estilo Thin.
   ///
-  /// ![subset-proper-of](https://api.iconify.design/ph/subset-proper-of-thin.svg?height=32&color=%23888888)
+  /// ![subset-proper-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/subset-proper-of.png)
   static const IconData subsetProperOf = IconData(
     0xedb6,
     fontFamily: 'PhosphorThin',
@@ -15883,7 +15883,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `subtitles` no estilo Thin.
   ///
-  /// ![subtitles](https://api.iconify.design/ph/subtitles-thin.svg?height=32&color=%23888888)
+  /// ![subtitles](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/subtitles.png)
   static const IconData subtitles = IconData(
     0xe1a8,
     fontFamily: 'PhosphorThin',
@@ -15895,7 +15895,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `subtitlesSlash` no estilo Thin.
   ///
-  /// ![subtitles-slash](https://api.iconify.design/ph/subtitles-slash-thin.svg?height=32&color=%23888888)
+  /// ![subtitles-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/subtitles-slash.png)
   static const IconData subtitlesSlash = IconData(
     0xe1a6,
     fontFamily: 'PhosphorThin',
@@ -15907,7 +15907,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `subtract` no estilo Thin.
   ///
-  /// ![subtract](https://api.iconify.design/ph/subtract-thin.svg?height=32&color=%23888888)
+  /// ![subtract](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/subtract.png)
   static const IconData subtract = IconData(
     0xebd6,
     fontFamily: 'PhosphorThin',
@@ -15919,7 +15919,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `subtractSquare` no estilo Thin.
   ///
-  /// ![subtract-square](https://api.iconify.design/ph/subtract-square-thin.svg?height=32&color=%23888888)
+  /// ![subtract-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/subtract-square.png)
   static const IconData subtractSquare = IconData(
     0xebd4,
     fontFamily: 'PhosphorThin',
@@ -15931,7 +15931,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `subway` no estilo Thin.
   ///
-  /// ![subway](https://api.iconify.design/ph/subway-thin.svg?height=32&color=%23888888)
+  /// ![subway](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/subway.png)
   static const IconData subway = IconData(
     0xe498,
     fontFamily: 'PhosphorThin',
@@ -15943,7 +15943,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `suitcase` no estilo Thin.
   ///
-  /// ![suitcase](https://api.iconify.design/ph/suitcase-thin.svg?height=32&color=%23888888)
+  /// ![suitcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/suitcase.png)
   static const IconData suitcase = IconData(
     0xe5ae,
     fontFamily: 'PhosphorThin',
@@ -15955,7 +15955,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `suitcaseRolling` no estilo Thin.
   ///
-  /// ![suitcase-rolling](https://api.iconify.design/ph/suitcase-rolling-thin.svg?height=32&color=%23888888)
+  /// ![suitcase-rolling](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/suitcase-rolling.png)
   static const IconData suitcaseRolling = IconData(
     0xe9b0,
     fontFamily: 'PhosphorThin',
@@ -15967,7 +15967,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `suitcaseSimple` no estilo Thin.
   ///
-  /// ![suitcase-simple](https://api.iconify.design/ph/suitcase-simple-thin.svg?height=32&color=%23888888)
+  /// ![suitcase-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/suitcase-simple.png)
   static const IconData suitcaseSimple = IconData(
     0xe5b0,
     fontFamily: 'PhosphorThin',
@@ -15979,7 +15979,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sun` no estilo Thin.
   ///
-  /// ![sun](https://api.iconify.design/ph/sun-thin.svg?height=32&color=%23888888)
+  /// ![sun](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sun.png)
   static const IconData sun = IconData(
     0xe472,
     fontFamily: 'PhosphorThin',
@@ -15991,7 +15991,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sunDim` no estilo Thin.
   ///
-  /// ![sun-dim](https://api.iconify.design/ph/sun-dim-thin.svg?height=32&color=%23888888)
+  /// ![sun-dim](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sun-dim.png)
   static const IconData sunDim = IconData(
     0xe474,
     fontFamily: 'PhosphorThin',
@@ -16003,7 +16003,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sunHorizon` no estilo Thin.
   ///
-  /// ![sun-horizon](https://api.iconify.design/ph/sun-horizon-thin.svg?height=32&color=%23888888)
+  /// ![sun-horizon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sun-horizon.png)
   static const IconData sunHorizon = IconData(
     0xe5b6,
     fontFamily: 'PhosphorThin',
@@ -16015,7 +16015,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sunglasses` no estilo Thin.
   ///
-  /// ![sunglasses](https://api.iconify.design/ph/sunglasses-thin.svg?height=32&color=%23888888)
+  /// ![sunglasses](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sunglasses.png)
   static const IconData sunglasses = IconData(
     0xe816,
     fontFamily: 'PhosphorThin',
@@ -16027,7 +16027,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `supersetOf` no estilo Thin.
   ///
-  /// ![superset-of](https://api.iconify.design/ph/superset-of-thin.svg?height=32&color=%23888888)
+  /// ![superset-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/superset-of.png)
   static const IconData supersetOf = IconData(
     0xedb8,
     fontFamily: 'PhosphorThin',
@@ -16039,7 +16039,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `supersetProperOf` no estilo Thin.
   ///
-  /// ![superset-proper-of](https://api.iconify.design/ph/superset-proper-of-thin.svg?height=32&color=%23888888)
+  /// ![superset-proper-of](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/superset-proper-of.png)
   static const IconData supersetProperOf = IconData(
     0xedb4,
     fontFamily: 'PhosphorThin',
@@ -16051,7 +16051,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `swap` no estilo Thin.
   ///
-  /// ![swap](https://api.iconify.design/ph/swap-thin.svg?height=32&color=%23888888)
+  /// ![swap](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/swap.png)
   static const IconData swap = IconData(
     0xe83c,
     fontFamily: 'PhosphorThin',
@@ -16063,7 +16063,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `swatches` no estilo Thin.
   ///
-  /// ![swatches](https://api.iconify.design/ph/swatches-thin.svg?height=32&color=%23888888)
+  /// ![swatches](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/swatches.png)
   static const IconData swatches = IconData(
     0xe5b8,
     fontFamily: 'PhosphorThin',
@@ -16075,7 +16075,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `swimmingPool` no estilo Thin.
   ///
-  /// ![swimming-pool](https://api.iconify.design/ph/swimming-pool-thin.svg?height=32&color=%23888888)
+  /// ![swimming-pool](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/swimming-pool.png)
   static const IconData swimmingPool = IconData(
     0xecb6,
     fontFamily: 'PhosphorThin',
@@ -16087,7 +16087,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `sword` no estilo Thin.
   ///
-  /// ![sword](https://api.iconify.design/ph/sword-thin.svg?height=32&color=%23888888)
+  /// ![sword](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/sword.png)
   static const IconData sword = IconData(
     0xe5ba,
     fontFamily: 'PhosphorThin',
@@ -16099,7 +16099,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `synagogue` no estilo Thin.
   ///
-  /// ![synagogue](https://api.iconify.design/ph/synagogue-thin.svg?height=32&color=%23888888)
+  /// ![synagogue](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/synagogue.png)
   static const IconData synagogue = IconData(
     0xecec,
     fontFamily: 'PhosphorThin',
@@ -16111,7 +16111,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `syringe` no estilo Thin.
   ///
-  /// ![syringe](https://api.iconify.design/ph/syringe-thin.svg?height=32&color=%23888888)
+  /// ![syringe](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/syringe.png)
   static const IconData syringe = IconData(
     0xe968,
     fontFamily: 'PhosphorThin',
@@ -16123,7 +16123,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tShirt` no estilo Thin.
   ///
-  /// ![t-shirt](https://api.iconify.design/ph/t-shirt-thin.svg?height=32&color=%23888888)
+  /// ![t-shirt](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/t-shirt.png)
   static const IconData tShirt = IconData(
     0xe670,
     fontFamily: 'PhosphorThin',
@@ -16135,7 +16135,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `table` no estilo Thin.
   ///
-  /// ![table](https://api.iconify.design/ph/table-thin.svg?height=32&color=%23888888)
+  /// ![table](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/table.png)
   static const IconData table = IconData(
     0xe476,
     fontFamily: 'PhosphorThin',
@@ -16147,7 +16147,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tabs` no estilo Thin.
   ///
-  /// ![tabs](https://api.iconify.design/ph/tabs-thin.svg?height=32&color=%23888888)
+  /// ![tabs](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tabs.png)
   static const IconData tabs = IconData(
     0xe778,
     fontFamily: 'PhosphorThin',
@@ -16159,7 +16159,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tag` no estilo Thin.
   ///
-  /// ![tag](https://api.iconify.design/ph/tag-thin.svg?height=32&color=%23888888)
+  /// ![tag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tag.png)
   static const IconData tag = IconData(
     0xe478,
     fontFamily: 'PhosphorThin',
@@ -16171,7 +16171,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tagChevron` no estilo Thin.
   ///
-  /// ![tag-chevron](https://api.iconify.design/ph/tag-chevron-thin.svg?height=32&color=%23888888)
+  /// ![tag-chevron](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tag-chevron.png)
   static const IconData tagChevron = IconData(
     0xe672,
     fontFamily: 'PhosphorThin',
@@ -16183,7 +16183,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tagSimple` no estilo Thin.
   ///
-  /// ![tag-simple](https://api.iconify.design/ph/tag-simple-thin.svg?height=32&color=%23888888)
+  /// ![tag-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tag-simple.png)
   static const IconData tagSimple = IconData(
     0xe47a,
     fontFamily: 'PhosphorThin',
@@ -16195,7 +16195,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `target` no estilo Thin.
   ///
-  /// ![target](https://api.iconify.design/ph/target-thin.svg?height=32&color=%23888888)
+  /// ![target](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/target.png)
   static const IconData target = IconData(
     0xe47c,
     fontFamily: 'PhosphorThin',
@@ -16207,7 +16207,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `taxi` no estilo Thin.
   ///
-  /// ![taxi](https://api.iconify.design/ph/taxi-thin.svg?height=32&color=%23888888)
+  /// ![taxi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/taxi.png)
   static const IconData taxi = IconData(
     0xe902,
     fontFamily: 'PhosphorThin',
@@ -16219,7 +16219,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `teaBag` no estilo Thin.
   ///
-  /// ![tea-bag](https://api.iconify.design/ph/tea-bag-thin.svg?height=32&color=%23888888)
+  /// ![tea-bag](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tea-bag.png)
   static const IconData teaBag = IconData(
     0xe8e6,
     fontFamily: 'PhosphorThin',
@@ -16231,7 +16231,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `telegramLogo` no estilo Thin.
   ///
-  /// ![telegram-logo](https://api.iconify.design/ph/telegram-logo-thin.svg?height=32&color=%23888888)
+  /// ![telegram-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/telegram-logo.png)
   static const IconData telegramLogo = IconData(
     0xe5bc,
     fontFamily: 'PhosphorThin',
@@ -16243,7 +16243,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `television` no estilo Thin.
   ///
-  /// ![television](https://api.iconify.design/ph/television-thin.svg?height=32&color=%23888888)
+  /// ![television](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/television.png)
   static const IconData television = IconData(
     0xe754,
     fontFamily: 'PhosphorThin',
@@ -16255,7 +16255,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `televisionSimple` no estilo Thin.
   ///
-  /// ![television-simple](https://api.iconify.design/ph/television-simple-thin.svg?height=32&color=%23888888)
+  /// ![television-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/television-simple.png)
   static const IconData televisionSimple = IconData(
     0xeae6,
     fontFamily: 'PhosphorThin',
@@ -16267,7 +16267,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tennisBall` no estilo Thin.
   ///
-  /// ![tennis-ball](https://api.iconify.design/ph/tennis-ball-thin.svg?height=32&color=%23888888)
+  /// ![tennis-ball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tennis-ball.png)
   static const IconData tennisBall = IconData(
     0xe720,
     fontFamily: 'PhosphorThin',
@@ -16279,7 +16279,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tent` no estilo Thin.
   ///
-  /// ![tent](https://api.iconify.design/ph/tent-thin.svg?height=32&color=%23888888)
+  /// ![tent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tent.png)
   static const IconData tent = IconData(
     0xe8ba,
     fontFamily: 'PhosphorThin',
@@ -16291,7 +16291,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `terminal` no estilo Thin.
   ///
-  /// ![terminal](https://api.iconify.design/ph/terminal-thin.svg?height=32&color=%23888888)
+  /// ![terminal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/terminal.png)
   static const IconData terminal = IconData(
     0xe47e,
     fontFamily: 'PhosphorThin',
@@ -16303,7 +16303,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `terminalWindow` no estilo Thin.
   ///
-  /// ![terminal-window](https://api.iconify.design/ph/terminal-window-thin.svg?height=32&color=%23888888)
+  /// ![terminal-window](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/terminal-window.png)
   static const IconData terminalWindow = IconData(
     0xeae8,
     fontFamily: 'PhosphorThin',
@@ -16315,7 +16315,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `testTube` no estilo Thin.
   ///
-  /// ![test-tube](https://api.iconify.design/ph/test-tube-thin.svg?height=32&color=%23888888)
+  /// ![test-tube](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/test-tube.png)
   static const IconData testTube = IconData(
     0xe7a0,
     fontFamily: 'PhosphorThin',
@@ -16327,7 +16327,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textAUnderline` no estilo Thin.
   ///
-  /// ![text-a-underline](https://api.iconify.design/ph/text-a-underline-thin.svg?height=32&color=%23888888)
+  /// ![text-a-underline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-a-underline.png)
   static const IconData textAUnderline = IconData(
     0xed34,
     fontFamily: 'PhosphorThin',
@@ -16339,7 +16339,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textAa` no estilo Thin.
   ///
-  /// ![text-aa](https://api.iconify.design/ph/text-aa-thin.svg?height=32&color=%23888888)
+  /// ![text-aa](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-aa.png)
   static const IconData textAa = IconData(
     0xe6ee,
     fontFamily: 'PhosphorThin',
@@ -16351,7 +16351,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textAlignCenter` no estilo Thin.
   ///
-  /// ![text-align-center](https://api.iconify.design/ph/text-align-center-thin.svg?height=32&color=%23888888)
+  /// ![text-align-center](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-align-center.png)
   static const IconData textAlignCenter = IconData(
     0xe480,
     fontFamily: 'PhosphorThin',
@@ -16363,7 +16363,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textAlignJustify` no estilo Thin.
   ///
-  /// ![text-align-justify](https://api.iconify.design/ph/text-align-justify-thin.svg?height=32&color=%23888888)
+  /// ![text-align-justify](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-align-justify.png)
   static const IconData textAlignJustify = IconData(
     0xe482,
     fontFamily: 'PhosphorThin',
@@ -16375,7 +16375,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textAlignLeft` no estilo Thin.
   ///
-  /// ![text-align-left](https://api.iconify.design/ph/text-align-left-thin.svg?height=32&color=%23888888)
+  /// ![text-align-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-align-left.png)
   static const IconData textAlignLeft = IconData(
     0xe484,
     fontFamily: 'PhosphorThin',
@@ -16387,7 +16387,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textAlignRight` no estilo Thin.
   ///
-  /// ![text-align-right](https://api.iconify.design/ph/text-align-right-thin.svg?height=32&color=%23888888)
+  /// ![text-align-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-align-right.png)
   static const IconData textAlignRight = IconData(
     0xe486,
     fontFamily: 'PhosphorThin',
@@ -16399,7 +16399,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textB` no estilo Thin.
   ///
-  /// ![text-b](https://api.iconify.design/ph/text-b-thin.svg?height=32&color=%23888888)
+  /// ![text-b](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-b.png)
   static const IconData textB = IconData(
     0xe5be,
     fontFamily: 'PhosphorThin',
@@ -16411,7 +16411,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textBolder` no estilo Thin.
   ///
-  /// ![text-bolder](https://api.iconify.design/ph/text-b-thin.svg?height=32&color=%23888888)
+  /// ![text-bolder](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-bolder.png)
   static const IconData textBolder = IconData(
     0xe5be,
     fontFamily: 'PhosphorThin',
@@ -16423,7 +16423,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textColumns` no estilo Thin.
   ///
-  /// ![text-columns](https://api.iconify.design/ph/text-columns-thin.svg?height=32&color=%23888888)
+  /// ![text-columns](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-columns.png)
   static const IconData textColumns = IconData(
     0xec96,
     fontFamily: 'PhosphorThin',
@@ -16435,7 +16435,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textH` no estilo Thin.
   ///
-  /// ![text-h](https://api.iconify.design/ph/text-h-thin.svg?height=32&color=%23888888)
+  /// ![text-h](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-h.png)
   static const IconData textH = IconData(
     0xe6ba,
     fontFamily: 'PhosphorThin',
@@ -16447,7 +16447,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textHFive` no estilo Thin.
   ///
-  /// ![text-h-five](https://api.iconify.design/ph/text-h-five-thin.svg?height=32&color=%23888888)
+  /// ![text-h-five](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-h-five.png)
   static const IconData textHFive = IconData(
     0xe6c4,
     fontFamily: 'PhosphorThin',
@@ -16459,7 +16459,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textHFour` no estilo Thin.
   ///
-  /// ![text-h-four](https://api.iconify.design/ph/text-h-four-thin.svg?height=32&color=%23888888)
+  /// ![text-h-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-h-four.png)
   static const IconData textHFour = IconData(
     0xe6c2,
     fontFamily: 'PhosphorThin',
@@ -16471,7 +16471,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textHOne` no estilo Thin.
   ///
-  /// ![text-h-one](https://api.iconify.design/ph/text-h-one-thin.svg?height=32&color=%23888888)
+  /// ![text-h-one](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-h-one.png)
   static const IconData textHOne = IconData(
     0xe6bc,
     fontFamily: 'PhosphorThin',
@@ -16483,7 +16483,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textHSix` no estilo Thin.
   ///
-  /// ![text-h-six](https://api.iconify.design/ph/text-h-six-thin.svg?height=32&color=%23888888)
+  /// ![text-h-six](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-h-six.png)
   static const IconData textHSix = IconData(
     0xe6c6,
     fontFamily: 'PhosphorThin',
@@ -16495,7 +16495,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textHThree` no estilo Thin.
   ///
-  /// ![text-h-three](https://api.iconify.design/ph/text-h-three-thin.svg?height=32&color=%23888888)
+  /// ![text-h-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-h-three.png)
   static const IconData textHThree = IconData(
     0xe6c0,
     fontFamily: 'PhosphorThin',
@@ -16507,7 +16507,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textHTwo` no estilo Thin.
   ///
-  /// ![text-h-two](https://api.iconify.design/ph/text-h-two-thin.svg?height=32&color=%23888888)
+  /// ![text-h-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-h-two.png)
   static const IconData textHTwo = IconData(
     0xe6be,
     fontFamily: 'PhosphorThin',
@@ -16519,7 +16519,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textIndent` no estilo Thin.
   ///
-  /// ![text-indent](https://api.iconify.design/ph/text-indent-thin.svg?height=32&color=%23888888)
+  /// ![text-indent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-indent.png)
   static const IconData textIndent = IconData(
     0xea1e,
     fontFamily: 'PhosphorThin',
@@ -16531,7 +16531,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textItalic` no estilo Thin.
   ///
-  /// ![text-italic](https://api.iconify.design/ph/text-italic-thin.svg?height=32&color=%23888888)
+  /// ![text-italic](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-italic.png)
   static const IconData textItalic = IconData(
     0xe5c0,
     fontFamily: 'PhosphorThin',
@@ -16543,7 +16543,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textOutdent` no estilo Thin.
   ///
-  /// ![text-outdent](https://api.iconify.design/ph/text-outdent-thin.svg?height=32&color=%23888888)
+  /// ![text-outdent](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-outdent.png)
   static const IconData textOutdent = IconData(
     0xea1c,
     fontFamily: 'PhosphorThin',
@@ -16555,7 +16555,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textStrikethrough` no estilo Thin.
   ///
-  /// ![text-strikethrough](https://api.iconify.design/ph/text-strikethrough-thin.svg?height=32&color=%23888888)
+  /// ![text-strikethrough](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-strikethrough.png)
   static const IconData textStrikethrough = IconData(
     0xe5c2,
     fontFamily: 'PhosphorThin',
@@ -16567,7 +16567,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textSubscript` no estilo Thin.
   ///
-  /// ![text-subscript](https://api.iconify.design/ph/text-subscript-thin.svg?height=32&color=%23888888)
+  /// ![text-subscript](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-subscript.png)
   static const IconData textSubscript = IconData(
     0xec98,
     fontFamily: 'PhosphorThin',
@@ -16579,7 +16579,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textSuperscript` no estilo Thin.
   ///
-  /// ![text-superscript](https://api.iconify.design/ph/text-superscript-thin.svg?height=32&color=%23888888)
+  /// ![text-superscript](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-superscript.png)
   static const IconData textSuperscript = IconData(
     0xec9a,
     fontFamily: 'PhosphorThin',
@@ -16591,7 +16591,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textT` no estilo Thin.
   ///
-  /// ![text-t](https://api.iconify.design/ph/text-t-thin.svg?height=32&color=%23888888)
+  /// ![text-t](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-t.png)
   static const IconData textT = IconData(
     0xe48a,
     fontFamily: 'PhosphorThin',
@@ -16603,7 +16603,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textTSlash` no estilo Thin.
   ///
-  /// ![text-t-slash](https://api.iconify.design/ph/text-t-slash-thin.svg?height=32&color=%23888888)
+  /// ![text-t-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-t-slash.png)
   static const IconData textTSlash = IconData(
     0xe488,
     fontFamily: 'PhosphorThin',
@@ -16615,7 +16615,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textUnderline` no estilo Thin.
   ///
-  /// ![text-underline](https://api.iconify.design/ph/text-underline-thin.svg?height=32&color=%23888888)
+  /// ![text-underline](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/text-underline.png)
   static const IconData textUnderline = IconData(
     0xe5c4,
     fontFamily: 'PhosphorThin',
@@ -16627,7 +16627,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `textbox` no estilo Thin.
   ///
-  /// ![textbox](https://api.iconify.design/ph/textbox-thin.svg?height=32&color=%23888888)
+  /// ![textbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/textbox.png)
   static const IconData textbox = IconData(
     0xeb0a,
     fontFamily: 'PhosphorThin',
@@ -16639,7 +16639,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `thermometer` no estilo Thin.
   ///
-  /// ![thermometer](https://api.iconify.design/ph/thermometer-thin.svg?height=32&color=%23888888)
+  /// ![thermometer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/thermometer.png)
   static const IconData thermometer = IconData(
     0xe5c6,
     fontFamily: 'PhosphorThin',
@@ -16651,7 +16651,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `thermometerCold` no estilo Thin.
   ///
-  /// ![thermometer-cold](https://api.iconify.design/ph/thermometer-cold-thin.svg?height=32&color=%23888888)
+  /// ![thermometer-cold](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/thermometer-cold.png)
   static const IconData thermometerCold = IconData(
     0xe5c8,
     fontFamily: 'PhosphorThin',
@@ -16663,7 +16663,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `thermometerHot` no estilo Thin.
   ///
-  /// ![thermometer-hot](https://api.iconify.design/ph/thermometer-hot-thin.svg?height=32&color=%23888888)
+  /// ![thermometer-hot](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/thermometer-hot.png)
   static const IconData thermometerHot = IconData(
     0xe5ca,
     fontFamily: 'PhosphorThin',
@@ -16675,7 +16675,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `thermometerSimple` no estilo Thin.
   ///
-  /// ![thermometer-simple](https://api.iconify.design/ph/thermometer-simple-thin.svg?height=32&color=%23888888)
+  /// ![thermometer-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/thermometer-simple.png)
   static const IconData thermometerSimple = IconData(
     0xe5cc,
     fontFamily: 'PhosphorThin',
@@ -16687,7 +16687,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `threadsLogo` no estilo Thin.
   ///
-  /// ![threads-logo](https://api.iconify.design/ph/threads-logo-thin.svg?height=32&color=%23888888)
+  /// ![threads-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/threads-logo.png)
   static const IconData threadsLogo = IconData(
     0xed9e,
     fontFamily: 'PhosphorThin',
@@ -16699,7 +16699,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `threeD` no estilo Thin.
   ///
-  /// ![three-d](https://api.iconify.design/ph/three-d-thin.svg?height=32&color=%23888888)
+  /// ![three-d](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/three-d.png)
   static const IconData threeD = IconData(
     0xea5a,
     fontFamily: 'PhosphorThin',
@@ -16711,7 +16711,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `thumbsDown` no estilo Thin.
   ///
-  /// ![thumbs-down](https://api.iconify.design/ph/thumbs-down-thin.svg?height=32&color=%23888888)
+  /// ![thumbs-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/thumbs-down.png)
   static const IconData thumbsDown = IconData(
     0xe48c,
     fontFamily: 'PhosphorThin',
@@ -16723,7 +16723,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `thumbsUp` no estilo Thin.
   ///
-  /// ![thumbs-up](https://api.iconify.design/ph/thumbs-up-thin.svg?height=32&color=%23888888)
+  /// ![thumbs-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/thumbs-up.png)
   static const IconData thumbsUp = IconData(
     0xe48e,
     fontFamily: 'PhosphorThin',
@@ -16735,7 +16735,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `ticket` no estilo Thin.
   ///
-  /// ![ticket](https://api.iconify.design/ph/ticket-thin.svg?height=32&color=%23888888)
+  /// ![ticket](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/ticket.png)
   static const IconData ticket = IconData(
     0xe490,
     fontFamily: 'PhosphorThin',
@@ -16747,7 +16747,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tidalLogo` no estilo Thin.
   ///
-  /// ![tidal-logo](https://api.iconify.design/ph/tidal-logo-thin.svg?height=32&color=%23888888)
+  /// ![tidal-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tidal-logo.png)
   static const IconData tidalLogo = IconData(
     0xed1c,
     fontFamily: 'PhosphorThin',
@@ -16759,7 +16759,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tiktokLogo` no estilo Thin.
   ///
-  /// ![tiktok-logo](https://api.iconify.design/ph/tiktok-logo-thin.svg?height=32&color=%23888888)
+  /// ![tiktok-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tiktok-logo.png)
   static const IconData tiktokLogo = IconData(
     0xeaf2,
     fontFamily: 'PhosphorThin',
@@ -16771,7 +16771,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tilde` no estilo Thin.
   ///
-  /// ![tilde](https://api.iconify.design/ph/tilde-thin.svg?height=32&color=%23888888)
+  /// ![tilde](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tilde.png)
   static const IconData tilde = IconData(
     0xeda8,
     fontFamily: 'PhosphorThin',
@@ -16783,7 +16783,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `timer` no estilo Thin.
   ///
-  /// ![timer](https://api.iconify.design/ph/timer-thin.svg?height=32&color=%23888888)
+  /// ![timer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/timer.png)
   static const IconData timer = IconData(
     0xe492,
     fontFamily: 'PhosphorThin',
@@ -16795,7 +16795,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tipJar` no estilo Thin.
   ///
-  /// ![tip-jar](https://api.iconify.design/ph/tip-jar-thin.svg?height=32&color=%23888888)
+  /// ![tip-jar](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tip-jar.png)
   static const IconData tipJar = IconData(
     0xe7e2,
     fontFamily: 'PhosphorThin',
@@ -16807,7 +16807,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tipi` no estilo Thin.
   ///
-  /// ![tipi](https://api.iconify.design/ph/tipi-thin.svg?height=32&color=%23888888)
+  /// ![tipi](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tipi.png)
   static const IconData tipi = IconData(
     0xed30,
     fontFamily: 'PhosphorThin',
@@ -16819,7 +16819,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tire` no estilo Thin.
   ///
-  /// ![tire](https://api.iconify.design/ph/tire-thin.svg?height=32&color=%23888888)
+  /// ![tire](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tire.png)
   static const IconData tire = IconData(
     0xedd2,
     fontFamily: 'PhosphorThin',
@@ -16831,7 +16831,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `toggleLeft` no estilo Thin.
   ///
-  /// ![toggle-left](https://api.iconify.design/ph/toggle-left-thin.svg?height=32&color=%23888888)
+  /// ![toggle-left](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/toggle-left.png)
   static const IconData toggleLeft = IconData(
     0xe674,
     fontFamily: 'PhosphorThin',
@@ -16843,7 +16843,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `toggleRight` no estilo Thin.
   ///
-  /// ![toggle-right](https://api.iconify.design/ph/toggle-right-thin.svg?height=32&color=%23888888)
+  /// ![toggle-right](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/toggle-right.png)
   static const IconData toggleRight = IconData(
     0xe676,
     fontFamily: 'PhosphorThin',
@@ -16855,7 +16855,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `toilet` no estilo Thin.
   ///
-  /// ![toilet](https://api.iconify.design/ph/toilet-thin.svg?height=32&color=%23888888)
+  /// ![toilet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/toilet.png)
   static const IconData toilet = IconData(
     0xe79a,
     fontFamily: 'PhosphorThin',
@@ -16867,7 +16867,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `toiletPaper` no estilo Thin.
   ///
-  /// ![toilet-paper](https://api.iconify.design/ph/toilet-paper-thin.svg?height=32&color=%23888888)
+  /// ![toilet-paper](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/toilet-paper.png)
   static const IconData toiletPaper = IconData(
     0xe79c,
     fontFamily: 'PhosphorThin',
@@ -16879,7 +16879,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `toolbox` no estilo Thin.
   ///
-  /// ![toolbox](https://api.iconify.design/ph/toolbox-thin.svg?height=32&color=%23888888)
+  /// ![toolbox](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/toolbox.png)
   static const IconData toolbox = IconData(
     0xeca0,
     fontFamily: 'PhosphorThin',
@@ -16891,7 +16891,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tooth` no estilo Thin.
   ///
-  /// ![tooth](https://api.iconify.design/ph/tooth-thin.svg?height=32&color=%23888888)
+  /// ![tooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tooth.png)
   static const IconData tooth = IconData(
     0xe9cc,
     fontFamily: 'PhosphorThin',
@@ -16903,7 +16903,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tornado` no estilo Thin.
   ///
-  /// ![tornado](https://api.iconify.design/ph/tornado-thin.svg?height=32&color=%23888888)
+  /// ![tornado](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tornado.png)
   static const IconData tornado = IconData(
     0xe88c,
     fontFamily: 'PhosphorThin',
@@ -16915,7 +16915,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tote` no estilo Thin.
   ///
-  /// ![tote](https://api.iconify.design/ph/tote-thin.svg?height=32&color=%23888888)
+  /// ![tote](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tote.png)
   static const IconData tote = IconData(
     0xe494,
     fontFamily: 'PhosphorThin',
@@ -16927,7 +16927,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `toteSimple` no estilo Thin.
   ///
-  /// ![tote-simple](https://api.iconify.design/ph/tote-simple-thin.svg?height=32&color=%23888888)
+  /// ![tote-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tote-simple.png)
   static const IconData toteSimple = IconData(
     0xe678,
     fontFamily: 'PhosphorThin',
@@ -16939,7 +16939,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `towel` no estilo Thin.
   ///
-  /// ![towel](https://api.iconify.design/ph/towel-thin.svg?height=32&color=%23888888)
+  /// ![towel](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/towel.png)
   static const IconData towel = IconData(
     0xede6,
     fontFamily: 'PhosphorThin',
@@ -16951,7 +16951,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tractor` no estilo Thin.
   ///
-  /// ![tractor](https://api.iconify.design/ph/tractor-thin.svg?height=32&color=%23888888)
+  /// ![tractor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tractor.png)
   static const IconData tractor = IconData(
     0xec6e,
     fontFamily: 'PhosphorThin',
@@ -16963,7 +16963,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trademark` no estilo Thin.
   ///
-  /// ![trademark](https://api.iconify.design/ph/trademark-thin.svg?height=32&color=%23888888)
+  /// ![trademark](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trademark.png)
   static const IconData trademark = IconData(
     0xe9f0,
     fontFamily: 'PhosphorThin',
@@ -16975,7 +16975,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trademarkRegistered` no estilo Thin.
   ///
-  /// ![trademark-registered](https://api.iconify.design/ph/trademark-registered-thin.svg?height=32&color=%23888888)
+  /// ![trademark-registered](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trademark-registered.png)
   static const IconData trademarkRegistered = IconData(
     0xe3f4,
     fontFamily: 'PhosphorThin',
@@ -16987,7 +16987,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trafficCone` no estilo Thin.
   ///
-  /// ![traffic-cone](https://api.iconify.design/ph/traffic-cone-thin.svg?height=32&color=%23888888)
+  /// ![traffic-cone](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/traffic-cone.png)
   static const IconData trafficCone = IconData(
     0xe9a8,
     fontFamily: 'PhosphorThin',
@@ -16999,7 +16999,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trafficSign` no estilo Thin.
   ///
-  /// ![traffic-sign](https://api.iconify.design/ph/traffic-sign-thin.svg?height=32&color=%23888888)
+  /// ![traffic-sign](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/traffic-sign.png)
   static const IconData trafficSign = IconData(
     0xe67a,
     fontFamily: 'PhosphorThin',
@@ -17011,7 +17011,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trafficSignal` no estilo Thin.
   ///
-  /// ![traffic-signal](https://api.iconify.design/ph/traffic-signal-thin.svg?height=32&color=%23888888)
+  /// ![traffic-signal](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/traffic-signal.png)
   static const IconData trafficSignal = IconData(
     0xe9aa,
     fontFamily: 'PhosphorThin',
@@ -17023,7 +17023,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `train` no estilo Thin.
   ///
-  /// ![train](https://api.iconify.design/ph/train-thin.svg?height=32&color=%23888888)
+  /// ![train](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/train.png)
   static const IconData train = IconData(
     0xe496,
     fontFamily: 'PhosphorThin',
@@ -17035,7 +17035,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trainRegional` no estilo Thin.
   ///
-  /// ![train-regional](https://api.iconify.design/ph/train-regional-thin.svg?height=32&color=%23888888)
+  /// ![train-regional](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/train-regional.png)
   static const IconData trainRegional = IconData(
     0xe49e,
     fontFamily: 'PhosphorThin',
@@ -17047,7 +17047,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trainSimple` no estilo Thin.
   ///
-  /// ![train-simple](https://api.iconify.design/ph/train-simple-thin.svg?height=32&color=%23888888)
+  /// ![train-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/train-simple.png)
   static const IconData trainSimple = IconData(
     0xe4a0,
     fontFamily: 'PhosphorThin',
@@ -17059,7 +17059,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tram` no estilo Thin.
   ///
-  /// ![tram](https://api.iconify.design/ph/tram-thin.svg?height=32&color=%23888888)
+  /// ![tram](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tram.png)
   static const IconData tram = IconData(
     0xe9ec,
     fontFamily: 'PhosphorThin',
@@ -17071,7 +17071,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `translate` no estilo Thin.
   ///
-  /// ![translate](https://api.iconify.design/ph/translate-thin.svg?height=32&color=%23888888)
+  /// ![translate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/translate.png)
   static const IconData translate = IconData(
     0xe4a2,
     fontFamily: 'PhosphorThin',
@@ -17083,7 +17083,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trash` no estilo Thin.
   ///
-  /// ![trash](https://api.iconify.design/ph/trash-thin.svg?height=32&color=%23888888)
+  /// ![trash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trash.png)
   static const IconData trash = IconData(
     0xe4a6,
     fontFamily: 'PhosphorThin',
@@ -17095,7 +17095,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trashSimple` no estilo Thin.
   ///
-  /// ![trash-simple](https://api.iconify.design/ph/trash-simple-thin.svg?height=32&color=%23888888)
+  /// ![trash-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trash-simple.png)
   static const IconData trashSimple = IconData(
     0xe4a8,
     fontFamily: 'PhosphorThin',
@@ -17107,7 +17107,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tray` no estilo Thin.
   ///
-  /// ![tray](https://api.iconify.design/ph/tray-thin.svg?height=32&color=%23888888)
+  /// ![tray](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tray.png)
   static const IconData tray = IconData(
     0xe4aa,
     fontFamily: 'PhosphorThin',
@@ -17119,7 +17119,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trayArrowDown` no estilo Thin.
   ///
-  /// ![tray-arrow-down](https://api.iconify.design/ph/tray-arrow-down-thin.svg?height=32&color=%23888888)
+  /// ![tray-arrow-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tray-arrow-down.png)
   static const IconData trayArrowDown = IconData(
     0xe010,
     fontFamily: 'PhosphorThin',
@@ -17131,7 +17131,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trayArrowUp` no estilo Thin.
   ///
-  /// ![tray-arrow-up](https://api.iconify.design/ph/tray-arrow-up-thin.svg?height=32&color=%23888888)
+  /// ![tray-arrow-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tray-arrow-up.png)
   static const IconData trayArrowUp = IconData(
     0xee52,
     fontFamily: 'PhosphorThin',
@@ -17143,7 +17143,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `treasureChest` no estilo Thin.
   ///
-  /// ![treasure-chest](https://api.iconify.design/ph/treasure-chest-thin.svg?height=32&color=%23888888)
+  /// ![treasure-chest](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/treasure-chest.png)
   static const IconData treasureChest = IconData(
     0xede2,
     fontFamily: 'PhosphorThin',
@@ -17155,7 +17155,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tree` no estilo Thin.
   ///
-  /// ![tree](https://api.iconify.design/ph/tree-thin.svg?height=32&color=%23888888)
+  /// ![tree](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tree.png)
   static const IconData tree = IconData(
     0xe6da,
     fontFamily: 'PhosphorThin',
@@ -17167,7 +17167,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `treeEvergreen` no estilo Thin.
   ///
-  /// ![tree-evergreen](https://api.iconify.design/ph/tree-evergreen-thin.svg?height=32&color=%23888888)
+  /// ![tree-evergreen](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tree-evergreen.png)
   static const IconData treeEvergreen = IconData(
     0xe6dc,
     fontFamily: 'PhosphorThin',
@@ -17179,7 +17179,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `treePalm` no estilo Thin.
   ///
-  /// ![tree-palm](https://api.iconify.design/ph/tree-palm-thin.svg?height=32&color=%23888888)
+  /// ![tree-palm](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tree-palm.png)
   static const IconData treePalm = IconData(
     0xe91a,
     fontFamily: 'PhosphorThin',
@@ -17191,7 +17191,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `treeStructure` no estilo Thin.
   ///
-  /// ![tree-structure](https://api.iconify.design/ph/tree-structure-thin.svg?height=32&color=%23888888)
+  /// ![tree-structure](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tree-structure.png)
   static const IconData treeStructure = IconData(
     0xe67c,
     fontFamily: 'PhosphorThin',
@@ -17203,7 +17203,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `treeView` no estilo Thin.
   ///
-  /// ![tree-view](https://api.iconify.design/ph/tree-view-thin.svg?height=32&color=%23888888)
+  /// ![tree-view](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tree-view.png)
   static const IconData treeView = IconData(
     0xee48,
     fontFamily: 'PhosphorThin',
@@ -17215,7 +17215,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trendDown` no estilo Thin.
   ///
-  /// ![trend-down](https://api.iconify.design/ph/trend-down-thin.svg?height=32&color=%23888888)
+  /// ![trend-down](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trend-down.png)
   static const IconData trendDown = IconData(
     0xe4ac,
     fontFamily: 'PhosphorThin',
@@ -17227,7 +17227,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trendUp` no estilo Thin.
   ///
-  /// ![trend-up](https://api.iconify.design/ph/trend-up-thin.svg?height=32&color=%23888888)
+  /// ![trend-up](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trend-up.png)
   static const IconData trendUp = IconData(
     0xe4ae,
     fontFamily: 'PhosphorThin',
@@ -17239,7 +17239,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `triangle` no estilo Thin.
   ///
-  /// ![triangle](https://api.iconify.design/ph/triangle-thin.svg?height=32&color=%23888888)
+  /// ![triangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/triangle.png)
   static const IconData triangle = IconData(
     0xe4b0,
     fontFamily: 'PhosphorThin',
@@ -17251,7 +17251,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `triangleDashed` no estilo Thin.
   ///
-  /// ![triangle-dashed](https://api.iconify.design/ph/triangle-dashed-thin.svg?height=32&color=%23888888)
+  /// ![triangle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/triangle-dashed.png)
   static const IconData triangleDashed = IconData(
     0xe4b2,
     fontFamily: 'PhosphorThin',
@@ -17263,7 +17263,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trolley` no estilo Thin.
   ///
-  /// ![trolley](https://api.iconify.design/ph/trolley-thin.svg?height=32&color=%23888888)
+  /// ![trolley](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trolley.png)
   static const IconData trolley = IconData(
     0xe5b2,
     fontFamily: 'PhosphorThin',
@@ -17275,7 +17275,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trolleySuitcase` no estilo Thin.
   ///
-  /// ![trolley-suitcase](https://api.iconify.design/ph/trolley-suitcase-thin.svg?height=32&color=%23888888)
+  /// ![trolley-suitcase](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trolley-suitcase.png)
   static const IconData trolleySuitcase = IconData(
     0xe5b4,
     fontFamily: 'PhosphorThin',
@@ -17287,7 +17287,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `trophy` no estilo Thin.
   ///
-  /// ![trophy](https://api.iconify.design/ph/trophy-thin.svg?height=32&color=%23888888)
+  /// ![trophy](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/trophy.png)
   static const IconData trophy = IconData(
     0xe67e,
     fontFamily: 'PhosphorThin',
@@ -17299,7 +17299,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `truck` no estilo Thin.
   ///
-  /// ![truck](https://api.iconify.design/ph/truck-thin.svg?height=32&color=%23888888)
+  /// ![truck](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/truck.png)
   static const IconData truck = IconData(
     0xe4b4,
     fontFamily: 'PhosphorThin',
@@ -17311,7 +17311,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `truckTrailer` no estilo Thin.
   ///
-  /// ![truck-trailer](https://api.iconify.design/ph/truck-trailer-thin.svg?height=32&color=%23888888)
+  /// ![truck-trailer](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/truck-trailer.png)
   static const IconData truckTrailer = IconData(
     0xe4b6,
     fontFamily: 'PhosphorThin',
@@ -17323,7 +17323,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `tumblrLogo` no estilo Thin.
   ///
-  /// ![tumblr-logo](https://api.iconify.design/ph/tumblr-logo-thin.svg?height=32&color=%23888888)
+  /// ![tumblr-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/tumblr-logo.png)
   static const IconData tumblrLogo = IconData(
     0xe8d4,
     fontFamily: 'PhosphorThin',
@@ -17335,7 +17335,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `twitchLogo` no estilo Thin.
   ///
-  /// ![twitch-logo](https://api.iconify.design/ph/twitch-logo-thin.svg?height=32&color=%23888888)
+  /// ![twitch-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/twitch-logo.png)
   static const IconData twitchLogo = IconData(
     0xe5ce,
     fontFamily: 'PhosphorThin',
@@ -17347,7 +17347,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `twitterLogo` no estilo Thin.
   ///
-  /// ![twitter-logo](https://api.iconify.design/ph/twitter-logo-thin.svg?height=32&color=%23888888)
+  /// ![twitter-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/twitter-logo.png)
   static const IconData twitterLogo = IconData(
     0xe4ba,
     fontFamily: 'PhosphorThin',
@@ -17359,7 +17359,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `umbrella` no estilo Thin.
   ///
-  /// ![umbrella](https://api.iconify.design/ph/umbrella-thin.svg?height=32&color=%23888888)
+  /// ![umbrella](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/umbrella.png)
   static const IconData umbrella = IconData(
     0xe684,
     fontFamily: 'PhosphorThin',
@@ -17371,7 +17371,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `umbrellaSimple` no estilo Thin.
   ///
-  /// ![umbrella-simple](https://api.iconify.design/ph/umbrella-simple-thin.svg?height=32&color=%23888888)
+  /// ![umbrella-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/umbrella-simple.png)
   static const IconData umbrellaSimple = IconData(
     0xe686,
     fontFamily: 'PhosphorThin',
@@ -17383,7 +17383,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `union` no estilo Thin.
   ///
-  /// ![union](https://api.iconify.design/ph/union-thin.svg?height=32&color=%23888888)
+  /// ![union](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/union.png)
   static const IconData union = IconData(
     0xedbe,
     fontFamily: 'PhosphorThin',
@@ -17395,7 +17395,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `unite` no estilo Thin.
   ///
-  /// ![unite](https://api.iconify.design/ph/unite-thin.svg?height=32&color=%23888888)
+  /// ![unite](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/unite.png)
   static const IconData unite = IconData(
     0xe87e,
     fontFamily: 'PhosphorThin',
@@ -17407,7 +17407,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `uniteSquare` no estilo Thin.
   ///
-  /// ![unite-square](https://api.iconify.design/ph/unite-square-thin.svg?height=32&color=%23888888)
+  /// ![unite-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/unite-square.png)
   static const IconData uniteSquare = IconData(
     0xe878,
     fontFamily: 'PhosphorThin',
@@ -17419,7 +17419,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `upload` no estilo Thin.
   ///
-  /// ![upload](https://api.iconify.design/ph/upload-thin.svg?height=32&color=%23888888)
+  /// ![upload](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/upload.png)
   static const IconData upload = IconData(
     0xe4be,
     fontFamily: 'PhosphorThin',
@@ -17431,7 +17431,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `uploadSimple` no estilo Thin.
   ///
-  /// ![upload-simple](https://api.iconify.design/ph/upload-simple-thin.svg?height=32&color=%23888888)
+  /// ![upload-simple](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/upload-simple.png)
   static const IconData uploadSimple = IconData(
     0xe4c0,
     fontFamily: 'PhosphorThin',
@@ -17443,7 +17443,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `usb` no estilo Thin.
   ///
-  /// ![usb](https://api.iconify.design/ph/usb-thin.svg?height=32&color=%23888888)
+  /// ![usb](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/usb.png)
   static const IconData usb = IconData(
     0xe956,
     fontFamily: 'PhosphorThin',
@@ -17455,7 +17455,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `user` no estilo Thin.
   ///
-  /// ![user](https://api.iconify.design/ph/user-thin.svg?height=32&color=%23888888)
+  /// ![user](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user.png)
   static const IconData user = IconData(
     0xe4c2,
     fontFamily: 'PhosphorThin',
@@ -17467,7 +17467,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userCheck` no estilo Thin.
   ///
-  /// ![user-check](https://api.iconify.design/ph/user-check-thin.svg?height=32&color=%23888888)
+  /// ![user-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-check.png)
   static const IconData userCheck = IconData(
     0xeafa,
     fontFamily: 'PhosphorThin',
@@ -17479,7 +17479,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userCircle` no estilo Thin.
   ///
-  /// ![user-circle](https://api.iconify.design/ph/user-circle-thin.svg?height=32&color=%23888888)
+  /// ![user-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-circle.png)
   static const IconData userCircle = IconData(
     0xe4c4,
     fontFamily: 'PhosphorThin',
@@ -17491,7 +17491,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userCircleCheck` no estilo Thin.
   ///
-  /// ![user-circle-check](https://api.iconify.design/ph/user-circle-check-thin.svg?height=32&color=%23888888)
+  /// ![user-circle-check](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-circle-check.png)
   static const IconData userCircleCheck = IconData(
     0xec38,
     fontFamily: 'PhosphorThin',
@@ -17503,7 +17503,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userCircleDashed` no estilo Thin.
   ///
-  /// ![user-circle-dashed](https://api.iconify.design/ph/user-circle-dashed-thin.svg?height=32&color=%23888888)
+  /// ![user-circle-dashed](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-circle-dashed.png)
   static const IconData userCircleDashed = IconData(
     0xec36,
     fontFamily: 'PhosphorThin',
@@ -17515,7 +17515,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userCircleGear` no estilo Thin.
   ///
-  /// ![user-circle-gear](https://api.iconify.design/ph/user-circle-gear-thin.svg?height=32&color=%23888888)
+  /// ![user-circle-gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-circle-gear.png)
   static const IconData userCircleGear = IconData(
     0xe4c6,
     fontFamily: 'PhosphorThin',
@@ -17527,7 +17527,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userCircleMinus` no estilo Thin.
   ///
-  /// ![user-circle-minus](https://api.iconify.design/ph/user-circle-minus-thin.svg?height=32&color=%23888888)
+  /// ![user-circle-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-circle-minus.png)
   static const IconData userCircleMinus = IconData(
     0xe4c8,
     fontFamily: 'PhosphorThin',
@@ -17539,7 +17539,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userCirclePlus` no estilo Thin.
   ///
-  /// ![user-circle-plus](https://api.iconify.design/ph/user-circle-plus-thin.svg?height=32&color=%23888888)
+  /// ![user-circle-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-circle-plus.png)
   static const IconData userCirclePlus = IconData(
     0xe4ca,
     fontFamily: 'PhosphorThin',
@@ -17551,7 +17551,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userFocus` no estilo Thin.
   ///
-  /// ![user-focus](https://api.iconify.design/ph/user-focus-thin.svg?height=32&color=%23888888)
+  /// ![user-focus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-focus.png)
   static const IconData userFocus = IconData(
     0xe6fc,
     fontFamily: 'PhosphorThin',
@@ -17563,7 +17563,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userGear` no estilo Thin.
   ///
-  /// ![user-gear](https://api.iconify.design/ph/user-gear-thin.svg?height=32&color=%23888888)
+  /// ![user-gear](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-gear.png)
   static const IconData userGear = IconData(
     0xe4cc,
     fontFamily: 'PhosphorThin',
@@ -17575,7 +17575,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userList` no estilo Thin.
   ///
-  /// ![user-list](https://api.iconify.design/ph/user-list-thin.svg?height=32&color=%23888888)
+  /// ![user-list](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-list.png)
   static const IconData userList = IconData(
     0xe73c,
     fontFamily: 'PhosphorThin',
@@ -17587,7 +17587,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userMinus` no estilo Thin.
   ///
-  /// ![user-minus](https://api.iconify.design/ph/user-minus-thin.svg?height=32&color=%23888888)
+  /// ![user-minus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-minus.png)
   static const IconData userMinus = IconData(
     0xe4ce,
     fontFamily: 'PhosphorThin',
@@ -17599,7 +17599,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userPlus` no estilo Thin.
   ///
-  /// ![user-plus](https://api.iconify.design/ph/user-plus-thin.svg?height=32&color=%23888888)
+  /// ![user-plus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-plus.png)
   static const IconData userPlus = IconData(
     0xe4d0,
     fontFamily: 'PhosphorThin',
@@ -17611,7 +17611,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userRectangle` no estilo Thin.
   ///
-  /// ![user-rectangle](https://api.iconify.design/ph/user-rectangle-thin.svg?height=32&color=%23888888)
+  /// ![user-rectangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-rectangle.png)
   static const IconData userRectangle = IconData(
     0xe4d2,
     fontFamily: 'PhosphorThin',
@@ -17623,7 +17623,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userSound` no estilo Thin.
   ///
-  /// ![user-sound](https://api.iconify.design/ph/user-sound-thin.svg?height=32&color=%23888888)
+  /// ![user-sound](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-sound.png)
   static const IconData userSound = IconData(
     0xeca8,
     fontFamily: 'PhosphorThin',
@@ -17635,7 +17635,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userSquare` no estilo Thin.
   ///
-  /// ![user-square](https://api.iconify.design/ph/user-square-thin.svg?height=32&color=%23888888)
+  /// ![user-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-square.png)
   static const IconData userSquare = IconData(
     0xe4d4,
     fontFamily: 'PhosphorThin',
@@ -17647,7 +17647,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `userSwitch` no estilo Thin.
   ///
-  /// ![user-switch](https://api.iconify.design/ph/user-switch-thin.svg?height=32&color=%23888888)
+  /// ![user-switch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/user-switch.png)
   static const IconData userSwitch = IconData(
     0xe756,
     fontFamily: 'PhosphorThin',
@@ -17659,7 +17659,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `users` no estilo Thin.
   ///
-  /// ![users](https://api.iconify.design/ph/users-thin.svg?height=32&color=%23888888)
+  /// ![users](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/users.png)
   static const IconData users = IconData(
     0xe4d6,
     fontFamily: 'PhosphorThin',
@@ -17671,7 +17671,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `usersFour` no estilo Thin.
   ///
-  /// ![users-four](https://api.iconify.design/ph/users-four-thin.svg?height=32&color=%23888888)
+  /// ![users-four](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/users-four.png)
   static const IconData usersFour = IconData(
     0xe68c,
     fontFamily: 'PhosphorThin',
@@ -17683,7 +17683,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `usersThree` no estilo Thin.
   ///
-  /// ![users-three](https://api.iconify.design/ph/users-three-thin.svg?height=32&color=%23888888)
+  /// ![users-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/users-three.png)
   static const IconData usersThree = IconData(
     0xe68e,
     fontFamily: 'PhosphorThin',
@@ -17695,7 +17695,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `van` no estilo Thin.
   ///
-  /// ![van](https://api.iconify.design/ph/van-thin.svg?height=32&color=%23888888)
+  /// ![van](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/van.png)
   static const IconData van = IconData(
     0xe826,
     fontFamily: 'PhosphorThin',
@@ -17707,7 +17707,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `vault` no estilo Thin.
   ///
-  /// ![vault](https://api.iconify.design/ph/vault-thin.svg?height=32&color=%23888888)
+  /// ![vault](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/vault.png)
   static const IconData vault = IconData(
     0xe76e,
     fontFamily: 'PhosphorThin',
@@ -17719,7 +17719,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `vectorThree` no estilo Thin.
   ///
-  /// ![vector-three](https://api.iconify.design/ph/vector-three-thin.svg?height=32&color=%23888888)
+  /// ![vector-three](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/vector-three.png)
   static const IconData vectorThree = IconData(
     0xee62,
     fontFamily: 'PhosphorThin',
@@ -17731,7 +17731,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `vectorTwo` no estilo Thin.
   ///
-  /// ![vector-two](https://api.iconify.design/ph/vector-two-thin.svg?height=32&color=%23888888)
+  /// ![vector-two](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/vector-two.png)
   static const IconData vectorTwo = IconData(
     0xee64,
     fontFamily: 'PhosphorThin',
@@ -17743,7 +17743,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `vibrate` no estilo Thin.
   ///
-  /// ![vibrate](https://api.iconify.design/ph/vibrate-thin.svg?height=32&color=%23888888)
+  /// ![vibrate](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/vibrate.png)
   static const IconData vibrate = IconData(
     0xe4d8,
     fontFamily: 'PhosphorThin',
@@ -17755,7 +17755,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `video` no estilo Thin.
   ///
-  /// ![video](https://api.iconify.design/ph/video-thin.svg?height=32&color=%23888888)
+  /// ![video](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/video.png)
   static const IconData video = IconData(
     0xe740,
     fontFamily: 'PhosphorThin',
@@ -17767,7 +17767,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `videoCamera` no estilo Thin.
   ///
-  /// ![video-camera](https://api.iconify.design/ph/video-camera-thin.svg?height=32&color=%23888888)
+  /// ![video-camera](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/video-camera.png)
   static const IconData videoCamera = IconData(
     0xe4da,
     fontFamily: 'PhosphorThin',
@@ -17779,7 +17779,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `videoCameraSlash` no estilo Thin.
   ///
-  /// ![video-camera-slash](https://api.iconify.design/ph/video-camera-slash-thin.svg?height=32&color=%23888888)
+  /// ![video-camera-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/video-camera-slash.png)
   static const IconData videoCameraSlash = IconData(
     0xe4dc,
     fontFamily: 'PhosphorThin',
@@ -17791,7 +17791,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `videoConference` no estilo Thin.
   ///
-  /// ![video-conference](https://api.iconify.design/ph/video-conference-thin.svg?height=32&color=%23888888)
+  /// ![video-conference](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/video-conference.png)
   static const IconData videoConference = IconData(
     0xedce,
     fontFamily: 'PhosphorThin',
@@ -17803,7 +17803,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `vignette` no estilo Thin.
   ///
-  /// ![vignette](https://api.iconify.design/ph/vignette-thin.svg?height=32&color=%23888888)
+  /// ![vignette](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/vignette.png)
   static const IconData vignette = IconData(
     0xeba2,
     fontFamily: 'PhosphorThin',
@@ -17815,7 +17815,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `vinylRecord` no estilo Thin.
   ///
-  /// ![vinyl-record](https://api.iconify.design/ph/vinyl-record-thin.svg?height=32&color=%23888888)
+  /// ![vinyl-record](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/vinyl-record.png)
   static const IconData vinylRecord = IconData(
     0xecac,
     fontFamily: 'PhosphorThin',
@@ -17827,7 +17827,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `virtualReality` no estilo Thin.
   ///
-  /// ![virtual-reality](https://api.iconify.design/ph/virtual-reality-thin.svg?height=32&color=%23888888)
+  /// ![virtual-reality](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/virtual-reality.png)
   static const IconData virtualReality = IconData(
     0xe7b8,
     fontFamily: 'PhosphorThin',
@@ -17839,7 +17839,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `virus` no estilo Thin.
   ///
-  /// ![virus](https://api.iconify.design/ph/virus-thin.svg?height=32&color=%23888888)
+  /// ![virus](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/virus.png)
   static const IconData virus = IconData(
     0xe7d6,
     fontFamily: 'PhosphorThin',
@@ -17851,7 +17851,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `visor` no estilo Thin.
   ///
-  /// ![visor](https://api.iconify.design/ph/visor-thin.svg?height=32&color=%23888888)
+  /// ![visor](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/visor.png)
   static const IconData visor = IconData(
     0xee2a,
     fontFamily: 'PhosphorThin',
@@ -17863,7 +17863,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `voicemail` no estilo Thin.
   ///
-  /// ![voicemail](https://api.iconify.design/ph/voicemail-thin.svg?height=32&color=%23888888)
+  /// ![voicemail](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/voicemail.png)
   static const IconData voicemail = IconData(
     0xe4de,
     fontFamily: 'PhosphorThin',
@@ -17875,7 +17875,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `volleyball` no estilo Thin.
   ///
-  /// ![volleyball](https://api.iconify.design/ph/volleyball-thin.svg?height=32&color=%23888888)
+  /// ![volleyball](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/volleyball.png)
   static const IconData volleyball = IconData(
     0xe726,
     fontFamily: 'PhosphorThin',
@@ -17887,7 +17887,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wall` no estilo Thin.
   ///
-  /// ![wall](https://api.iconify.design/ph/wall-thin.svg?height=32&color=%23888888)
+  /// ![wall](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wall.png)
   static const IconData wall = IconData(
     0xe688,
     fontFamily: 'PhosphorThin',
@@ -17899,7 +17899,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wallet` no estilo Thin.
   ///
-  /// ![wallet](https://api.iconify.design/ph/wallet-thin.svg?height=32&color=%23888888)
+  /// ![wallet](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wallet.png)
   static const IconData wallet = IconData(
     0xe68a,
     fontFamily: 'PhosphorThin',
@@ -17911,7 +17911,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `warehouse` no estilo Thin.
   ///
-  /// ![warehouse](https://api.iconify.design/ph/warehouse-thin.svg?height=32&color=%23888888)
+  /// ![warehouse](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/warehouse.png)
   static const IconData warehouse = IconData(
     0xecd4,
     fontFamily: 'PhosphorThin',
@@ -17923,7 +17923,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `warning` no estilo Thin.
   ///
-  /// ![warning](https://api.iconify.design/ph/warning-thin.svg?height=32&color=%23888888)
+  /// ![warning](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/warning.png)
   static const IconData warning = IconData(
     0xe4e0,
     fontFamily: 'PhosphorThin',
@@ -17935,7 +17935,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `warningCircle` no estilo Thin.
   ///
-  /// ![warning-circle](https://api.iconify.design/ph/warning-circle-thin.svg?height=32&color=%23888888)
+  /// ![warning-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/warning-circle.png)
   static const IconData warningCircle = IconData(
     0xe4e2,
     fontFamily: 'PhosphorThin',
@@ -17947,7 +17947,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `warningDiamond` no estilo Thin.
   ///
-  /// ![warning-diamond](https://api.iconify.design/ph/warning-diamond-thin.svg?height=32&color=%23888888)
+  /// ![warning-diamond](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/warning-diamond.png)
   static const IconData warningDiamond = IconData(
     0xe7fc,
     fontFamily: 'PhosphorThin',
@@ -17959,7 +17959,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `warningOctagon` no estilo Thin.
   ///
-  /// ![warning-octagon](https://api.iconify.design/ph/warning-octagon-thin.svg?height=32&color=%23888888)
+  /// ![warning-octagon](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/warning-octagon.png)
   static const IconData warningOctagon = IconData(
     0xe4e4,
     fontFamily: 'PhosphorThin',
@@ -17971,7 +17971,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `washingMachine` no estilo Thin.
   ///
-  /// ![washing-machine](https://api.iconify.design/ph/washing-machine-thin.svg?height=32&color=%23888888)
+  /// ![washing-machine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/washing-machine.png)
   static const IconData washingMachine = IconData(
     0xede8,
     fontFamily: 'PhosphorThin',
@@ -17983,7 +17983,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `watch` no estilo Thin.
   ///
-  /// ![watch](https://api.iconify.design/ph/watch-thin.svg?height=32&color=%23888888)
+  /// ![watch](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/watch.png)
   static const IconData watch = IconData(
     0xe4e6,
     fontFamily: 'PhosphorThin',
@@ -17995,7 +17995,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `waveSawtooth` no estilo Thin.
   ///
-  /// ![wave-sawtooth](https://api.iconify.design/ph/wave-sawtooth-thin.svg?height=32&color=%23888888)
+  /// ![wave-sawtooth](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wave-sawtooth.png)
   static const IconData waveSawtooth = IconData(
     0xea9c,
     fontFamily: 'PhosphorThin',
@@ -18007,7 +18007,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `waveSine` no estilo Thin.
   ///
-  /// ![wave-sine](https://api.iconify.design/ph/wave-sine-thin.svg?height=32&color=%23888888)
+  /// ![wave-sine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wave-sine.png)
   static const IconData waveSine = IconData(
     0xea9a,
     fontFamily: 'PhosphorThin',
@@ -18019,7 +18019,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `waveSquare` no estilo Thin.
   ///
-  /// ![wave-square](https://api.iconify.design/ph/wave-square-thin.svg?height=32&color=%23888888)
+  /// ![wave-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wave-square.png)
   static const IconData waveSquare = IconData(
     0xea9e,
     fontFamily: 'PhosphorThin',
@@ -18031,7 +18031,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `waveTriangle` no estilo Thin.
   ///
-  /// ![wave-triangle](https://api.iconify.design/ph/wave-triangle-thin.svg?height=32&color=%23888888)
+  /// ![wave-triangle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wave-triangle.png)
   static const IconData waveTriangle = IconData(
     0xeaa0,
     fontFamily: 'PhosphorThin',
@@ -18043,7 +18043,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `waveform` no estilo Thin.
   ///
-  /// ![waveform](https://api.iconify.design/ph/waveform-thin.svg?height=32&color=%23888888)
+  /// ![waveform](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/waveform.png)
   static const IconData waveform = IconData(
     0xe802,
     fontFamily: 'PhosphorThin',
@@ -18055,7 +18055,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `waveformSlash` no estilo Thin.
   ///
-  /// ![waveform-slash](https://api.iconify.design/ph/waveform-slash-thin.svg?height=32&color=%23888888)
+  /// ![waveform-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/waveform-slash.png)
   static const IconData waveformSlash = IconData(
     0xe800,
     fontFamily: 'PhosphorThin',
@@ -18067,7 +18067,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `waves` no estilo Thin.
   ///
-  /// ![waves](https://api.iconify.design/ph/waves-thin.svg?height=32&color=%23888888)
+  /// ![waves](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/waves.png)
   static const IconData waves = IconData(
     0xe6de,
     fontFamily: 'PhosphorThin',
@@ -18079,7 +18079,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `webcam` no estilo Thin.
   ///
-  /// ![webcam](https://api.iconify.design/ph/webcam-thin.svg?height=32&color=%23888888)
+  /// ![webcam](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/webcam.png)
   static const IconData webcam = IconData(
     0xe9b2,
     fontFamily: 'PhosphorThin',
@@ -18091,7 +18091,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `webcamSlash` no estilo Thin.
   ///
-  /// ![webcam-slash](https://api.iconify.design/ph/webcam-slash-thin.svg?height=32&color=%23888888)
+  /// ![webcam-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/webcam-slash.png)
   static const IconData webcamSlash = IconData(
     0xecdc,
     fontFamily: 'PhosphorThin',
@@ -18103,7 +18103,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `webhooksLogo` no estilo Thin.
   ///
-  /// ![webhooks-logo](https://api.iconify.design/ph/webhooks-logo-thin.svg?height=32&color=%23888888)
+  /// ![webhooks-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/webhooks-logo.png)
   static const IconData webhooksLogo = IconData(
     0xecae,
     fontFamily: 'PhosphorThin',
@@ -18115,7 +18115,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wechatLogo` no estilo Thin.
   ///
-  /// ![wechat-logo](https://api.iconify.design/ph/wechat-logo-thin.svg?height=32&color=%23888888)
+  /// ![wechat-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wechat-logo.png)
   static const IconData wechatLogo = IconData(
     0xe8d2,
     fontFamily: 'PhosphorThin',
@@ -18127,7 +18127,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `whatsappLogo` no estilo Thin.
   ///
-  /// ![whatsapp-logo](https://api.iconify.design/ph/whatsapp-logo-thin.svg?height=32&color=%23888888)
+  /// ![whatsapp-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/whatsapp-logo.png)
   static const IconData whatsappLogo = IconData(
     0xe5d0,
     fontFamily: 'PhosphorThin',
@@ -18139,7 +18139,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wheelchair` no estilo Thin.
   ///
-  /// ![wheelchair](https://api.iconify.design/ph/wheelchair-thin.svg?height=32&color=%23888888)
+  /// ![wheelchair](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wheelchair.png)
   static const IconData wheelchair = IconData(
     0xe4e8,
     fontFamily: 'PhosphorThin',
@@ -18151,7 +18151,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wheelchairMotion` no estilo Thin.
   ///
-  /// ![wheelchair-motion](https://api.iconify.design/ph/wheelchair-motion-thin.svg?height=32&color=%23888888)
+  /// ![wheelchair-motion](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wheelchair-motion.png)
   static const IconData wheelchairMotion = IconData(
     0xe89a,
     fontFamily: 'PhosphorThin',
@@ -18163,7 +18163,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wifiHigh` no estilo Thin.
   ///
-  /// ![wifi-high](https://api.iconify.design/ph/wifi-high-thin.svg?height=32&color=%23888888)
+  /// ![wifi-high](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wifi-high.png)
   static const IconData wifiHigh = IconData(
     0xe4ea,
     fontFamily: 'PhosphorThin',
@@ -18175,7 +18175,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wifiLow` no estilo Thin.
   ///
-  /// ![wifi-low](https://api.iconify.design/ph/wifi-low-thin.svg?height=32&color=%23888888)
+  /// ![wifi-low](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wifi-low.png)
   static const IconData wifiLow = IconData(
     0xe4ec,
     fontFamily: 'PhosphorThin',
@@ -18187,7 +18187,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wifiMedium` no estilo Thin.
   ///
-  /// ![wifi-medium](https://api.iconify.design/ph/wifi-medium-thin.svg?height=32&color=%23888888)
+  /// ![wifi-medium](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wifi-medium.png)
   static const IconData wifiMedium = IconData(
     0xe4ee,
     fontFamily: 'PhosphorThin',
@@ -18199,7 +18199,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wifiNone` no estilo Thin.
   ///
-  /// ![wifi-none](https://api.iconify.design/ph/wifi-none-thin.svg?height=32&color=%23888888)
+  /// ![wifi-none](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wifi-none.png)
   static const IconData wifiNone = IconData(
     0xe4f0,
     fontFamily: 'PhosphorThin',
@@ -18211,7 +18211,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wifiSlash` no estilo Thin.
   ///
-  /// ![wifi-slash](https://api.iconify.design/ph/wifi-slash-thin.svg?height=32&color=%23888888)
+  /// ![wifi-slash](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wifi-slash.png)
   static const IconData wifiSlash = IconData(
     0xe4f2,
     fontFamily: 'PhosphorThin',
@@ -18223,7 +18223,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wifiX` no estilo Thin.
   ///
-  /// ![wifi-x](https://api.iconify.design/ph/wifi-x-thin.svg?height=32&color=%23888888)
+  /// ![wifi-x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wifi-x.png)
   static const IconData wifiX = IconData(
     0xe4f4,
     fontFamily: 'PhosphorThin',
@@ -18235,7 +18235,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wind` no estilo Thin.
   ///
-  /// ![wind](https://api.iconify.design/ph/wind-thin.svg?height=32&color=%23888888)
+  /// ![wind](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wind.png)
   static const IconData wind = IconData(
     0xe5d2,
     fontFamily: 'PhosphorThin',
@@ -18247,7 +18247,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `windmill` no estilo Thin.
   ///
-  /// ![windmill](https://api.iconify.design/ph/windmill-thin.svg?height=32&color=%23888888)
+  /// ![windmill](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/windmill.png)
   static const IconData windmill = IconData(
     0xe9f8,
     fontFamily: 'PhosphorThin',
@@ -18259,7 +18259,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `windowsLogo` no estilo Thin.
   ///
-  /// ![windows-logo](https://api.iconify.design/ph/windows-logo-thin.svg?height=32&color=%23888888)
+  /// ![windows-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/windows-logo.png)
   static const IconData windowsLogo = IconData(
     0xe692,
     fontFamily: 'PhosphorThin',
@@ -18271,7 +18271,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wine` no estilo Thin.
   ///
-  /// ![wine](https://api.iconify.design/ph/wine-thin.svg?height=32&color=%23888888)
+  /// ![wine](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wine.png)
   static const IconData wine = IconData(
     0xe6b2,
     fontFamily: 'PhosphorThin',
@@ -18283,7 +18283,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `wrench` no estilo Thin.
   ///
-  /// ![wrench](https://api.iconify.design/ph/wrench-thin.svg?height=32&color=%23888888)
+  /// ![wrench](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/wrench.png)
   static const IconData wrench = IconData(
     0xe5d4,
     fontFamily: 'PhosphorThin',
@@ -18295,7 +18295,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `x` no estilo Thin.
   ///
-  /// ![x](https://api.iconify.design/ph/x-thin.svg?height=32&color=%23888888)
+  /// ![x](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/x.png)
   static const IconData x = IconData(
     0xe4f6,
     fontFamily: 'PhosphorThin',
@@ -18307,7 +18307,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `xCircle` no estilo Thin.
   ///
-  /// ![x-circle](https://api.iconify.design/ph/x-circle-thin.svg?height=32&color=%23888888)
+  /// ![x-circle](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/x-circle.png)
   static const IconData xCircle = IconData(
     0xe4f8,
     fontFamily: 'PhosphorThin',
@@ -18319,7 +18319,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `xLogo` no estilo Thin.
   ///
-  /// ![x-logo](https://api.iconify.design/ph/x-logo-thin.svg?height=32&color=%23888888)
+  /// ![x-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/x-logo.png)
   static const IconData xLogo = IconData(
     0xe4bc,
     fontFamily: 'PhosphorThin',
@@ -18331,7 +18331,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `xSquare` no estilo Thin.
   ///
-  /// ![x-square](https://api.iconify.design/ph/x-square-thin.svg?height=32&color=%23888888)
+  /// ![x-square](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/x-square.png)
   static const IconData xSquare = IconData(
     0xe4fa,
     fontFamily: 'PhosphorThin',
@@ -18343,7 +18343,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `yarn` no estilo Thin.
   ///
-  /// ![yarn](https://api.iconify.design/ph/yarn-thin.svg?height=32&color=%23888888)
+  /// ![yarn](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/yarn.png)
   static const IconData yarn = IconData(
     0xed9a,
     fontFamily: 'PhosphorThin',
@@ -18355,7 +18355,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `yinYang` no estilo Thin.
   ///
-  /// ![yin-yang](https://api.iconify.design/ph/yin-yang-thin.svg?height=32&color=%23888888)
+  /// ![yin-yang](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/yin-yang.png)
   static const IconData yinYang = IconData(
     0xe92a,
     fontFamily: 'PhosphorThin',
@@ -18367,7 +18367,7 @@ class PhosphorIconsThin {
   ///
   /// [PT] O ícone `youtubeLogo` no estilo Thin.
   ///
-  /// ![youtube-logo](https://api.iconify.design/ph/youtube-logo-thin.svg?height=32&color=%23888888)
+  /// ![youtube-logo](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v1.1.1/doc/icons/thin/youtube-logo.png)
   static const IconData youtubeLogo = IconData(
     0xe4fc,
     fontFamily: 'PhosphorThin',

@@ -14,6 +14,9 @@ tool/
 phosphor-icons/
 NEW_ICONS.md
 
+# PNG previews used by the dartdoc (served by jsDelivr from the git tag)
+doc/
+
 # Arquivos utilitários de agentes de IA e CLI
 CLAUDE.md
 .antigravitycli/

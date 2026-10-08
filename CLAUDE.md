@@ -69,11 +69,14 @@ Registradas no `pubspec.yaml` com famílias nomeadas (`PhosphorRegular`, `Phosph
 
 ## Imagens de pré-visualização nas docstrings
 
-Cada constante gerada tem `![nome](https://api.iconify.design/ph/<nome>[-estilo].svg?height=32&color=%23888888)`. Usamos o Iconify (coleção `ph`, os mesmos ícones das fontes) porque o SVG já vem com tamanho e cor fixos; os SVGs crus do Phosphor não têm width/height e aparecem gigantes e pretos. Regras importantes (todas em `_docImageUrl` no gerador):
-- o estilo Regular não leva sufixo (`acorn`), os outros sim (`acorn-bold`, `acorn-thin`...);
-- aliases (ex: `caduceus`) apontam para o nome principal (`asclepius`), pois só ele tem imagem.
+Cada constante gerada tem `![nome](https://cdn.jsdelivr.net/gh/lucaszafret/phosphoricons_flutter@v<versão>/doc/icons/<estilo>/<nome-kebab>.png)`.
 
-Para validar todas as URLs depois de regenerar: baixe `https://api.iconify.design/collection?prefix=ph` e confira que cada nome usado nos `///` existe lá. As bolinhas de ícone ao lado do código no VS Code são um recurso fixo da extensão Dart só para `Icons.*` e `CupertinoIcons.*`: nenhum pacote consegue ativá-las; o que funciona é o hover/autocomplete com essa imagem.
+- **PNG, não SVG**: o VS Code NÃO renderiza SVG remoto no hover (testado: Iconify, com e sem parâmetros, aparece como imagem quebrada), mas renderiza PNG remoto (testado: GitHub raw e jsDelivr). Os SVGs crus do Phosphor também não têm width/height e apareceriam gigantes.
+- Os PNGs (48 px, cinza #888, gray+alpha, ~570 bytes) ficam em `doc/icons/` (versionados, ~5 MB) e são gerados com as próprias fontes por `example/test/doc_icons_test.dart`: `cd example && GENERATE_DOC_ICONS=1 flutter test test/doc_icons_test.dart`. Há um arquivo por constante (aliases inclusos), então o gerador não precisa mapear aliases.
+- A URL é fixada na tag `v<versão do pubspec.yaml>` (lida em `_docImageUrl`, no gerador). **Crie a tag `v<versão>` e dê push nela ANTES de `flutter pub publish`**, senão as imagens só aparecem depois.
+- `doc/` está no `.pubignore`: não vai para o pacote publicado. Confirme no `flutter pub publish --dry-run`.
+- Ao atualizar ícones: rode o gerador (`tool/`), depois o teste dos PNGs, e confira que cada URL dos `///` aponta para um arquivo de `doc/icons/`.
+- As bolinhas de ícone ao lado do código no VS Code são um recurso fixo da extensão Dart só para `Icons.*` e `CupertinoIcons.*`: nenhum pacote consegue ativá-las; o que funciona é o hover/autocomplete com essa imagem.
 
 ## Screenshots do pub.dev
 
